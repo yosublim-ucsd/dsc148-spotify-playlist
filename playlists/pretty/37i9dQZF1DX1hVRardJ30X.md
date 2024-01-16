@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Residente
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,256 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,045 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Valor](https://open.spotify.com/track/5NeZQYmzQRZSDG1ccwLEQN) | [Malvin R](https://open.spotify.com/artist/42S77uVdNKYC07OyEDFkB7), [La Sombra RD](https://open.spotify.com/artist/2dxIe1o71IZZCrqpo5G5eX) | [Valor](https://open.spotify.com/album/6JqCvm21en0m2oROD1BBq3) | 2:38 |
 | 50 | [Mambero](https://open.spotify.com/track/2U9ykkR2Uh7TxGFAjcXs2I) | [El Pastor RD](https://open.spotify.com/artist/4plI4LITOF226K197LazKR), [Jey Khalish](https://open.spotify.com/artist/5ySHNPPsswQiUbULF3iQXw) | [Mambero](https://open.spotify.com/album/0fOxSW5xWQP9SHpf7PuX9r) | 2:36 |
 
-Snapshot ID: `MCwyM2FiZjFkZDIwOWYyZmMxZDE5NjAyYWEyMjM1ZDhlNjM5OTAyNDQw`
+Snapshot ID: `MCw0YTI0MTQ2OWFlNTNiNDE1Nzg4OTEwN2QzMGUzNzUwMWIzMmY1MTlk`

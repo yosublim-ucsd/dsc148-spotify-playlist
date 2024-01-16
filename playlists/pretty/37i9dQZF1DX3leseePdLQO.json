@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Morat.",
-  "num_followers": 9856,
+  "num_followers": 9867,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTY4ZGZjMjEyNGJhMTE0MjZjZGEzZjkyODA1YjI5MGJhM2RhZWMx",
+  "snapshot_id": "MCxlMTM3YmFjNjFjM2VjZDgwODM4MjVkNWQ4YmVkYTk4MTRjNjA1MTI4",
   "tracks": [
     {
       "added_at": "2024-01-12 16:20:03",
@@ -271,38 +271,6 @@
     {
       "added_at": "2024-01-12 16:20:03",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
-    },
-    {
-      "added_at": "2024-01-12 16:20:03",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
-    },
-    {
-      "added_at": "2024-01-12 16:20:03",
-      "album": {
         "name": "No Se Acaba Hasta Que Acabe",
         "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
@@ -319,6 +287,22 @@
       "duration_ms": 186832,
       "name": "No Se Acaba Hasta Que Acabe",
       "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
+    },
+    {
+      "added_at": "2024-01-12 16:20:03",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
     },
     {
       "added_at": "2024-01-12 16:20:03",
@@ -343,6 +327,22 @@
     {
       "added_at": "2024-01-12 16:20:03",
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+    },
+    {
+      "added_at": "2024-01-12 16:20:03",
+      "album": {
         "name": "\u00c1NGEL",
         "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
       },
@@ -355,6 +355,22 @@
       "duration_ms": 187240,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
+    },
+    {
+      "added_at": "2024-01-12 16:20:03",
+      "album": {
+        "name": "LAS BABYS",
+        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 153827,
+      "name": "LAS BABYS",
+      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
     },
     {
       "added_at": "2024-01-12 16:20:03",
@@ -403,22 +419,6 @@
       "duration_ms": 219672,
       "name": "Sincer\u00e1ndome",
       "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
-    },
-    {
-      "added_at": "2024-01-12 16:20:03",
-      "album": {
-        "name": "LAS BABYS",
-        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 153827,
-      "name": "LAS BABYS",
-      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
     },
     {
       "added_at": "2024-01-12 16:20:03",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-01-12 16:20:03",
       "album": {
-        "name": "Ajedrez",
-        "url": "https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 208676,
-      "name": "Ajedrez",
-      "url": "https://open.spotify.com/track/502C76In6ki3rUo47QP6pA"
-    },
-    {
-      "added_at": "2024-01-12 16:20:03",
-      "album": {
         "name": "SEROTONINA",
         "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 160797,
       "name": "EFECTO",
       "url": "https://open.spotify.com/track/23l2pykoSycSn8O68jXn5H"
+    },
+    {
+      "added_at": "2024-01-12 16:20:03",
+      "album": {
+        "name": "Ajedrez",
+        "url": "https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 208676,
+      "name": "Ajedrez",
+      "url": "https://open.spotify.com/track/502C76In6ki3rUo47QP6pA"
     },
     {
       "added_at": "2024-01-12 16:20:03",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-01-12 16:20:03",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
-    },
-    {
-      "added_at": "2024-01-12 16:20:03",
-      "album": {
         "name": "Dame Un Break",
         "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 200598,
       "name": "Dame Un Break",
       "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
+    },
+    {
+      "added_at": "2024-01-12 16:20:03",
+      "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
     },
     {
       "added_at": "2024-01-12 16:20:03",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-01-12 16:20:03",
       "album": {
-        "name": "Bayam\u00f3n",
-        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Bayam\u00f3n",
-      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
-    },
-    {
-      "added_at": "2024-01-12 16:20:03",
-      "album": {
         "name": "Dharma +",
         "url": "https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2024-01-12 16:20:03",
       "album": {
+        "name": "Bayam\u00f3n",
+        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "Bayam\u00f3n",
+      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+    },
+    {
+      "added_at": "2024-01-12 16:20:03",
+      "album": {
         "name": "La Idea",
         "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 194257,
       "name": "La Idea",
       "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
-    },
-    {
-      "added_at": "2024-01-12 16:20:03",
-      "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 191863,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
     },
     {
       "added_at": "2024-01-12 16:20:03",
@@ -987,6 +971,22 @@
       "duration_ms": 149973,
       "name": "Se Siente As\u00ed",
       "url": "https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk"
+    },
+    {
+      "added_at": "2024-01-12 16:20:03",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
     },
     {
       "added_at": "2024-01-12 16:20:03",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-01-12 16:20:03",
       "album": {
-        "name": "5 estrellas",
-        "url": "https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 198214,
-      "name": "5 estrellas",
-      "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
-    },
-    {
-      "added_at": "2024-01-12 16:20:03",
-      "album": {
         "name": "Tengo Roto El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 193326,
       "name": "Tengo Roto El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
+    },
+    {
+      "added_at": "2024-01-12 16:20:03",
+      "album": {
+        "name": "5 estrellas",
+        "url": "https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 198214,
+      "name": "5 estrellas",
+      "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
     },
     {
       "added_at": "2024-01-12 16:20:03",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-01-12 16:20:03",
       "album": {
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 213958,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
+    },
+    {
+      "added_at": "2024-01-12 16:20:03",
+      "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 231796,
       "name": "yo tuya, t\u00fa m\u00edo",
       "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
-    },
-    {
-      "added_at": "2024-01-12 16:20:03",
-      "album": {
-        "name": "Parece Mentira",
-        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 213958,
-      "name": "Parece Mentira",
-      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
     },
     {
       "added_at": "2024-01-12 16:20:03",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-01-12 16:20:03",
       "album": {
-        "name": "HOY ME PORTO MAL",
-        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 133051,
-      "name": "HOY ME PORTO MAL",
-      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
-    },
-    {
-      "added_at": "2024-01-12 16:20:03",
-      "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 173310,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
+    },
+    {
+      "added_at": "2024-01-12 16:20:03",
+      "album": {
+        "name": "HOY ME PORTO MAL",
+        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 133051,
+      "name": "HOY ME PORTO MAL",
+      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
     },
     {
       "added_at": "2024-01-12 16:20:03",
@@ -1511,6 +1511,26 @@
       "duration_ms": 173893,
       "name": "Aceler\u00e9",
       "url": "https://open.spotify.com/track/0cZhddkRPufZYBkO4GxjZv"
+    },
+    {
+      "added_at": "2024-01-12 16:20:03",
+      "album": {
+        "name": "No Es Suficiente",
+        "url": "https://open.spotify.com/album/7KQ3Uvk69GpWX2xqr0UXDV"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 182825,
+      "name": "No Es Suficiente",
+      "url": "https://open.spotify.com/track/6HtDbgyCH4O0SeOkoQ4yGm"
     },
     {
       "added_at": "2024-01-12 16:20:03",
@@ -1635,26 +1655,6 @@
       "duration_ms": 212869,
       "name": "Contraluz",
       "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
-    },
-    {
-      "added_at": "2024-01-12 16:20:03",
-      "album": {
-        "name": "No Es Suficiente",
-        "url": "https://open.spotify.com/album/7KQ3Uvk69GpWX2xqr0UXDV"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 182825,
-      "name": "No Es Suficiente",
-      "url": "https://open.spotify.com/track/6HtDbgyCH4O0SeOkoQ4yGm"
     },
     {
       "added_at": "2024-01-12 16:20:03",

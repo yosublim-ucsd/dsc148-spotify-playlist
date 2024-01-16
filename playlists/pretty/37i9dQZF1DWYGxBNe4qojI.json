@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Ma$e",
-  "num_followers": 368592,
+  "num_followers": 368699,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTc2NDA4NTFhMmRhMmIyMzdiNTlmYzViN2E1ZjI5MTMwYjdiZmQ4",
+  "snapshot_id": "MCwzMjZmYmYzZTYzZTYyMGIwZTI4NzVmNjEzMjA2YTg3OTA2NWIxYmQ2",
   "tracks": [
     {
       "added_at": "2024-01-12 04:00:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
       },
@@ -131,26 +147,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "21 Questions",
-      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -171,18 +167,22 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
         }
       ],
-      "duration_ms": 302760,
-      "name": "Juicy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+      "duration_ms": 224426,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Many Men (Wish Death)",
-      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
@@ -307,6 +291,22 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Many Men (Wish Death)",
+      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -319,6 +319,22 @@
       "duration_ms": 224533,
       "name": "Survival of the Fittest",
       "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "Whos The Man ? Soundtrack",
+        "url": "https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Party And Bullshit",
+      "url": "https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -351,22 +367,6 @@
       "duration_ms": 226133,
       "name": "Electric Relaxation",
       "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
-        "name": "Whos The Man ? Soundtrack",
-        "url": "https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "Party And Bullshit",
-      "url": "https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 366880,
-      "name": "Notorious Thugs - 2014 Remaster",
-      "url": "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 204706,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 366880,
+      "name": "Notorious Thugs - 2014 Remaster",
+      "url": "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "Represent",
+      "url": "https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 220960,
       "name": "Hey Ma",
       "url": "https://open.spotify.com/track/2fE1hcjUxlLxXrZusTEJlq"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Represent",
-      "url": "https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "The Love Movement",
-        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "Moment Of Truth",
         "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 274937,
       "name": "Get Money",
       "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "The Love Movement",
+        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Oh My God (feat. Busta Rhymes)",
-      "url": "https://open.spotify.com/track/6FI3RJ58Ztl0X1VtA6pVs9"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "Mr. Smith (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 238840,
       "name": "Whoa!",
       "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Oh My God (feat. Busta Rhymes)",
+      "url": "https://open.spotify.com/track/6FI3RJ58Ztl0X1VtA6pVs9"
     }
   ],
   "unique_name": "I Love My East Coast Classics",

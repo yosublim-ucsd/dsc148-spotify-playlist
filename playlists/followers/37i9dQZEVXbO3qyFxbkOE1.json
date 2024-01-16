@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 1810867,
+  "2024-01-16": 1810922,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Mexico.",
   "name": "Top 50 - Mexico",
@@ -11537,7 +11537,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 235061,
       "name": "Pixelados",
       "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
@@ -11811,7 +11811,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 165981,
       "name": "Por Dentro",
       "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"

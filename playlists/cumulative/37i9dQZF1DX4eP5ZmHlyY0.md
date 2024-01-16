@@ -9,8 +9,8 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15分](https://open.spotify.com/track/0vlxTcz1kjz6GjudTYl8Ye) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [15分](https://open.spotify.com/album/75YVfifI9CEnG92jKPEr3j) | 4:24 | 2023-11-23 | 2024-01-10 |
-| [Awakening Light](https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Awakening Light](https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5) | 3:31 | 2023-11-23 |  |
-| [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 | 2023-12-12 | 2024-01-13 |
+| [Awakening Light](https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Awakening Light](https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5) | 3:31 | 2023-11-23 | 2024-01-16 |
+| [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 | 2023-12-12 |  |
 | [Bon Voyage](https://open.spotify.com/track/3uG3PENb4Nc6VQH9LiFF6A) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/5ftyQK0K0vdQQVNmBwclCN) | 4:54 | 2024-01-11 |  |
 | [Bon Voyage](https://open.spotify.com/track/6E2DnY89XkXIs3rFYyZF8k) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/7eZmGoLIs9KAN0BVDZ10TL) | 4:54 | 2024-01-11 | 2024-01-13 |
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-11-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633085,
+  "num_followers": 632924,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzUyM2M1N2MxZTk0YjA5YmYwYzg2NmQ0NDVjYjJlOThlZmU4OTBh",
+  "snapshot_id": "MCwzMGU4NzZiNTcxZGY0Yjg3NTE3YjJiZTMzOWIxZTU0MzlkNWU2YjE0",
   "tracks": [
     {
       "added_at": "2023-12-01 18:12:17",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Intrinsic Silence",
-        "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
-      },
-      "artists": [
-        {
-          "name": "Hatha Priya",
-          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
-        }
-      ],
-      "duration_ms": 164017,
-      "name": "Intrinsic Silence",
-      "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "You're Filled With Courage",
         "url": "https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
+        "name": "Intrinsic Silence",
+        "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
       },
       "artists": [
         {
-          "name": "They Dream By Day",
-          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
+          "name": "Hatha Priya",
+          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
         }
       ],
-      "duration_ms": 134210,
-      "name": "We Are Forever",
-      "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
+      "duration_ms": 164017,
+      "name": "Intrinsic Silence",
+      "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -487,6 +471,22 @@
       "duration_ms": 190000,
       "name": "Upwards",
       "url": "https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
+      },
+      "artists": [
+        {
+          "name": "They Dream By Day",
+          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
+        }
+      ],
+      "duration_ms": 134210,
+      "name": "We Are Forever",
+      "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "432 hz Frequency of Universe",
-        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
-      },
-      "artists": [
-        {
-          "name": "Binaural Landscapes",
-          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
-        }
-      ],
-      "duration_ms": 160345,
-      "name": "Precious 432 hz",
-      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "The Light of Day",
         "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 167386,
       "name": "The Light of Day",
       "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "432 hz Frequency of Universe",
+        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
+      },
+      "artists": [
+        {
+          "name": "Binaural Landscapes",
+          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
+        }
+      ],
+      "duration_ms": 160345,
+      "name": "Precious 432 hz",
+      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Hvis du bare vidste",
-        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
-      },
-      "artists": [
-        {
-          "name": "Silas Mathiasen",
-          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Hvis du bare vidste",
-      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Surface",
         "url": "https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 126774,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Hvis du bare vidste",
+        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
+      },
+      "artists": [
+        {
+          "name": "Silas Mathiasen",
+          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Hvis du bare vidste",
+      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Open Sky",
-        "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
+        "name": "The Acoustic Mind - Vol. 1",
+        "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
       },
       "artists": [
         {
-          "name": "Drift Far Away",
-          "url": "https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2"
+          "name": "Aur\u00e9lien Trigo",
+          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
         }
       ],
-      "duration_ms": 267756,
-      "name": "Meditations",
-      "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
+      "duration_ms": 172589,
+      "name": "Headroom",
+      "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1135,34 +1135,18 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "The Acoustic Mind - Vol. 1",
-        "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
+        "name": "Open Sky",
+        "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
       },
       "artists": [
         {
-          "name": "Aur\u00e9lien Trigo",
-          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
+          "name": "Drift Far Away",
+          "url": "https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2"
         }
       ],
-      "duration_ms": 172589,
-      "name": "Headroom",
-      "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
-        "name": "Dreams of Mercury",
-        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
-      },
-      "artists": [
-        {
-          "name": "Chim Suri",
-          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Dreams of Mercury",
-      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
+      "duration_ms": 267756,
+      "name": "Meditations",
+      "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
+        "name": "Dreams of Mercury",
+        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
+      },
+      "artists": [
+        {
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Dreams of Mercury",
+      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
         "name": "Time Capsule",
         "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 129274,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Behind Your Eyes",
+        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Behind Your Eyes",
+      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1215,22 +1231,6 @@
       "duration_ms": 182783,
       "name": "Raising Life",
       "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
-        "name": "Behind Your Eyes",
-        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Behind Your Eyes",
-      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
-      },
-      "artists": [
-        {
-          "name": "Astro.Not",
-          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Winter Night Mist",
         "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 193095,
       "name": "Winter Night Mist",
       "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
+      },
+      "artists": [
+        {
+          "name": "Astro.Not",
+          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
     },
     {
       "added_at": "2023-12-01 18:12:17",

@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 127038,
+  "num_followers": 127017,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmViYjhlZTc2NmUxNTZhM2Y4MjBhNTJkMjg0ZmI0ZjU3OGMzYmZk",
+  "snapshot_id": "MCwzNmMzMmRkYzM5NGJhZmZjOWExZGMxOGU5MDFiZGQ5NmFiODA0NmVh",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -115,42 +115,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Li Saumet",
-          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
-        }
-      ],
-      "duration_ms": 298809,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "El Fin del Mar",
-        "url": "https://open.spotify.com/album/51xJG7Sg2Lkh7FJEAzxUvK"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 258687,
-      "name": "El Fin del Mar",
-      "url": "https://open.spotify.com/track/7z0Rl2N1ChaC6a9FxSGn9Y"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
       },
@@ -167,6 +131,22 @@
       "duration_ms": 254815,
       "name": "Coraz\u00f3n de Rub\u00ed",
       "url": "https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "El Fin del Mar",
+        "url": "https://open.spotify.com/album/51xJG7Sg2Lkh7FJEAzxUvK"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "duration_ms": 258687,
+      "name": "El Fin del Mar",
+      "url": "https://open.spotify.com/track/7z0Rl2N1ChaC6a9FxSGn9Y"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -203,6 +183,26 @@
       "duration_ms": 241338,
       "name": "Sueno en Paraguay - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/7xh6JEfbdCF25vDPFCv2hW"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Li Saumet",
+          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
+        }
+      ],
+      "duration_ms": 298809,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 273067,
-      "name": "Eso Que Tu Haces",
-      "url": "https://open.spotify.com/track/2HiionQ4vRsBnBP8bV18Cm"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Mirla",
         "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 248941,
       "name": "Caracol",
       "url": "https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 273067,
+      "name": "Eso Que Tu Haces",
+      "url": "https://open.spotify.com/track/2HiionQ4vRsBnBP8bV18Cm"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Hoja de Coca",
-        "url": "https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe"
-      },
-      "artists": [
-        {
-          "name": "Rumillajta",
-          "url": "https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Hoja de Coca",
-      "url": "https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "No Vuelvo a Amar (feat. Yuri Ortu\u00f1o Le\u00f3n, Rafael Arias Paz, Orlando Jim\u00e9nez, Ra\u00fal Muriel) [Bolivia y Su Folklore]",
         "url": "https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 162168,
       "name": "Sajsahuaman",
       "url": "https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Hoja de Coca",
+        "url": "https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe"
+      },
+      "artists": [
+        {
+          "name": "Rumillajta",
+          "url": "https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Hoja de Coca",
+      "url": "https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Pura Flor",
-        "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
+        "name": "Mezcla",
+        "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
       },
       "artists": [
         {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+          "name": "M.A.K.U SoundSystem",
+          "url": "https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh"
         }
       ],
-      "duration_ms": 237613,
-      "name": "Pura Flor",
-      "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
+      "duration_ms": 351173,
+      "name": "De Barrio",
+      "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
     }
   ],
   "unique_name": "Entre los Andes",

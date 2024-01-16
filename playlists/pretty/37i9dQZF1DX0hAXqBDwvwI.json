@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 535284,
+  "num_followers": 535854,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTBlOWM2N2Q3M2MxMDM2OWU5YjE5OTVlZWQ2Nzk4Y2FkYjk1NzRi",
+  "snapshot_id": "MCw4N2ZkYTc2OTc1OTA3ZTlhZjE0YTExNmVhMWJhZmU0NmUwMjdkYTg1",
   "tracks": [
     {
       "added_at": "2024-01-09 16:36:55",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-01-09 16:36:55",
       "album": {
-        "name": "CHAINSAW BLOOD",
-        "url": "https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 200997,
-      "name": "CHAINSAW BLOOD",
-      "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
-    },
-    {
-      "added_at": "2024-01-09 16:36:55",
-      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/1NF6OvO7LcY8f7m5rVxU1T"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 291346,
       "name": "RPG",
       "url": "https://open.spotify.com/track/7facNrW6VRW8s3ICZ8G1uW"
+    },
+    {
+      "added_at": "2024-01-09 16:36:55",
+      "album": {
+        "name": "CHAINSAW BLOOD",
+        "url": "https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 200997,
+      "name": "CHAINSAW BLOOD",
+      "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
     },
     {
       "added_at": "2024-01-09 16:36:55",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-01-09 16:36:55",
       "album": {
-        "name": "\u8d64\u3044\u7f60(who loves it?) / ADAMAS",
-        "url": "https://open.spotify.com/album/0FzOLNWpmK69dCGZ5AVjKo"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "ADAMAS",
-      "url": "https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS"
-    },
-    {
-      "added_at": "2024-01-09 16:36:55",
-      "album": {
         "name": "\u7f8e\u3057\u3044\u9c2d",
         "url": "https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2024-01-09 16:36:55",
       "album": {
-        "name": "Bokurano",
-        "url": "https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh"
+        "name": "\u8d64\u3044\u7f60(who loves it?) / ADAMAS",
+        "url": "https://open.spotify.com/album/0FzOLNWpmK69dCGZ5AVjKo"
       },
       "artists": [
         {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
         }
       ],
-      "duration_ms": 212708,
-      "name": "Bokurano",
-      "url": "https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX"
+      "duration_ms": 225000,
+      "name": "ADAMAS",
+      "url": "https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS"
     },
     {
       "added_at": "2024-01-09 16:36:55",
@@ -1099,6 +1083,22 @@
       "duration_ms": 132295,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/7gspVQa13prQbNABCRacwE"
+    },
+    {
+      "added_at": "2024-01-09 16:36:55",
+      "album": {
+        "name": "Bokurano",
+        "url": "https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 212708,
+      "name": "Bokurano",
+      "url": "https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX"
     },
     {
       "added_at": "2024-01-09 16:36:55",
@@ -1135,38 +1135,6 @@
     {
       "added_at": "2024-01-09 16:36:55",
       "album": {
-        "name": "\u9006\u5149 (\u30a6\u30bf from ONE PIECE FILM RED)",
-        "url": "https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 237862,
-      "name": "\u9006\u5149 - \u30a6\u30bf from ONE PIECE FILM RED",
-      "url": "https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME"
-    },
-    {
-      "added_at": "2024-01-09 16:36:55",
-      "album": {
-        "name": "\u708e",
-        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "\u708e",
-      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
-    },
-    {
-      "added_at": "2024-01-09 16:36:55",
-      "album": {
         "name": "\u706b\u708e(Full Edition)",
         "url": "https://open.spotify.com/album/6DdJGNawJYKpYq6A9hwcfp"
       },
@@ -1183,6 +1151,22 @@
     {
       "added_at": "2024-01-09 16:36:55",
       "album": {
+        "name": "\u9006\u5149 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 237862,
+      "name": "\u9006\u5149 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME"
+    },
+    {
+      "added_at": "2024-01-09 16:36:55",
+      "album": {
         "name": "the WORLD Ruler",
         "url": "https://open.spotify.com/album/0ckCTCvo6W7poV4HFuUsdU"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 233200,
       "name": "the WORLD",
       "url": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
+    },
+    {
+      "added_at": "2024-01-09 16:36:55",
+      "album": {
+        "name": "\u708e",
+        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "\u708e",
+      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
     },
     {
       "added_at": "2024-01-09 16:36:55",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-01-09 16:36:55",
       "album": {
-        "name": "\u9320\u5264",
-        "url": "https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH"
-      },
-      "artists": [
-        {
-          "name": "TOOBOE",
-          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "\u9320\u5264",
-      "url": "https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi"
-    },
-    {
-      "added_at": "2024-01-09 16:36:55",
-      "album": {
         "name": "\u8679",
         "url": "https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 258733,
       "name": "\u8679",
       "url": "https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS"
+    },
+    {
+      "added_at": "2024-01-09 16:36:55",
+      "album": {
+        "name": "\u9320\u5264",
+        "url": "https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH"
+      },
+      "artists": [
+        {
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "\u9320\u5264",
+      "url": "https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi"
     },
     {
       "added_at": "2024-01-09 16:36:55",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-01-09 16:36:55",
       "album": {
-        "name": "\u30b9\u30ab\u30fc",
-        "url": "https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 259191,
-      "name": "\u30b9\u30ab\u30fc",
-      "url": "https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE"
-    },
-    {
-      "added_at": "2024-01-09 16:36:55",
-      "album": {
         "name": "Rockin' the World",
         "url": "https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 191493,
       "name": "\u30b5\u30e0\u30e9\u30a4\u30cf\u30fc\u30c8(Some Like It Hot!!)",
       "url": "https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj"
+    },
+    {
+      "added_at": "2024-01-09 16:36:55",
+      "album": {
+        "name": "\u30b9\u30ab\u30fc",
+        "url": "https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "duration_ms": 259191,
+      "name": "\u30b9\u30ab\u30fc",
+      "url": "https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE"
     },
     {
       "added_at": "2024-01-09 16:36:55",

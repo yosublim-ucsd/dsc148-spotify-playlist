@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6pqnK4wrfwhbEpGF5hI9Sv"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2xG03uf9J5pevBAviqxRjk"
+    },
+    {
+      "album": {
         "name": "All Talk",
         "url": "https://open.spotify.com/album/3kHWyrNZeswPGLAoGsSS5A"
       },
@@ -892,7 +910,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 225000,
       "name": "So High",
       "url": "https://open.spotify.com/track/4Y03M2hBHxhYzjfo8unVIM"

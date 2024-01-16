@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > Les meilleurs hits Pop du Maghreb sont ici\. Cover: 7\-Toun
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,840 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,843 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TIMSAH](https://open.spotify.com/track/2K0u1U552dwiOotsAjes78) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [TIMSAH](https://open.spotify.com/album/6nRL0m3xVakYIHPgcYbyjC) | 4:42 |
-| 2 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 |
-| 3 | [LEHMAM \- الحمام](https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [LEHMAM](https://open.spotify.com/album/1504ohugyt7GcqH1yz9dOn) | 2:41 |
-| 4 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 |
-| 5 | [Annani](https://open.spotify.com/track/0twBNB57gTFcFai9fbclTl) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [Annani](https://open.spotify.com/album/3p49TlN2ALFc9CRiTvU6T0) | 3:53 |
-| 6 | [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 |
-| 7 | [YA DENYA](https://open.spotify.com/track/0UuhQnPxN9oBrR5uLSMNEV) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [YA DENYA](https://open.spotify.com/album/0QghQFx3bWDWFMhnTb9iZu) | 3:45 |
-| 8 | [Bla Bla](https://open.spotify.com/track/0Akq9wCVJUY8RCtQyHeTnP) | [RAYS](https://open.spotify.com/artist/71S3b5lQHZQgtsQHGyoj52) | [Bla Bla](https://open.spotify.com/album/4sLhWrsPAoHfVDirPN5UMj) | 3:18 |
-| 9 | [Favori](https://open.spotify.com/track/48kp069SRdTvuGFobRyhlQ) | [Yasmine Belkacem](https://open.spotify.com/artist/7EmOe92RLgv1axv2KyxGVR), [Tarek Kadem](https://open.spotify.com/artist/43BDWBOkq6wZHr9UNmqSHw) | [Favori](https://open.spotify.com/album/3nGqVqbJSdDkM6ma5NGpO6) | 3:20 |
-| 10 | [Hyati](https://open.spotify.com/track/0WaDpKGrvP2jkER9Ewv1gQ) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Hyati](https://open.spotify.com/album/03BIDG67ZTLLFEN7ywsS8q) | 2:59 |
-| 11 | [Ya Ghayeb](https://open.spotify.com/track/5RYSSnBAmeYKCCb8bEOG6u) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Ya Ghayeb](https://open.spotify.com/album/2f3kngWBR5wP05M5hdUZXH) | 2:09 |
+| 1 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 |
+| 2 | [TIMSAH](https://open.spotify.com/track/2K0u1U552dwiOotsAjes78) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [TIMSAH](https://open.spotify.com/album/6nRL0m3xVakYIHPgcYbyjC) | 4:42 |
+| 3 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 |
+| 4 | [LEHMAM \- الحمام](https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [LEHMAM](https://open.spotify.com/album/1504ohugyt7GcqH1yz9dOn) | 2:41 |
+| 5 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 |
+| 6 | [Annani](https://open.spotify.com/track/0twBNB57gTFcFai9fbclTl) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [Annani](https://open.spotify.com/album/3p49TlN2ALFc9CRiTvU6T0) | 3:53 |
+| 7 | [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 |
+| 8 | [YA DENYA](https://open.spotify.com/track/0UuhQnPxN9oBrR5uLSMNEV) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [YA DENYA](https://open.spotify.com/album/0QghQFx3bWDWFMhnTb9iZu) | 3:45 |
+| 9 | [Bla Bla](https://open.spotify.com/track/0Akq9wCVJUY8RCtQyHeTnP) | [RAYS](https://open.spotify.com/artist/71S3b5lQHZQgtsQHGyoj52) | [Bla Bla](https://open.spotify.com/album/4sLhWrsPAoHfVDirPN5UMj) | 3:18 |
+| 10 | [Favori](https://open.spotify.com/track/48kp069SRdTvuGFobRyhlQ) | [Yasmine Belkacem](https://open.spotify.com/artist/7EmOe92RLgv1axv2KyxGVR), [Tarek Kadem](https://open.spotify.com/artist/43BDWBOkq6wZHr9UNmqSHw) | [Favori](https://open.spotify.com/album/3nGqVqbJSdDkM6ma5NGpO6) | 3:20 |
+| 11 | [Hyati](https://open.spotify.com/track/0WaDpKGrvP2jkER9Ewv1gQ) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Hyati](https://open.spotify.com/album/03BIDG67ZTLLFEN7ywsS8q) | 2:59 |
 | 12 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 |
 | 13 | [Hyati](https://open.spotify.com/track/1p6ewW5oS6NerlFRbQ3Mow) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/6iFKqpX8QbNjzAvMoREpRu) | 2:35 |
 | 14 | [Alaise](https://open.spotify.com/track/2Q2s8px0dqAeyUylvZr1u4) | [Aminux](https://open.spotify.com/artist/4BgFW9XAMsJMkMZQJ6lGD9) | [Alaise](https://open.spotify.com/album/2bsjO6jSKij9v47QD4LO9C) | 2:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 59 | [SBABO NTI](https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [SBABO NTI](https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG) | 4:13 |
 | 60 | [Calma](https://open.spotify.com/track/3eLOJpdgRwiLjYSq5AV8iS) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Calma](https://open.spotify.com/album/71QAMPU0A2r9fVPFIXBjbu) | 4:14 |
 
-Snapshot ID: `MCw4M2VmNThkMDgwNWI3N2I3Y2U3MzZhNGIzMjNhNjBjNDljMzgwNWQz`
+Snapshot ID: `MCw5NmIwZWEyODAwOWJmNmYwYzc3Y2Y2NDBhMzBhM2I3NDhiNjIzNTI3`

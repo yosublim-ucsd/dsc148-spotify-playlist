@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,676 likes - 52 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,680 likes - 52 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 27 | [Un Puño de Tierra](https://open.spotify.com/track/4Htmd52VjCywf32A3L6Gnw) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Celebrando a México](https://open.spotify.com/album/3a5j5YSrPqw9PMkW0hLGy0) | 4:17 |
 | 28 | [Paloma Negra](https://open.spotify.com/track/3elG0XofkA7ZJGi5xEYMf2) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 3:29 |
 | 29 | [La Malagueña](https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 5:24 |
-| 30 | [Nada Más Decídete](https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Los Dúo 3](https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5) | 3:06 |
-| 31 | [Piensa en Mí](https://open.spotify.com/track/3hsjRehwhcsQ2EDKAOpN2J) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Piensa en Mí](https://open.spotify.com/album/4ddWFYjLKfIUfoEEVR9Vxt) | 3:46 |
+| 30 | [Piensa en Mí](https://open.spotify.com/track/3hsjRehwhcsQ2EDKAOpN2J) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Piensa en Mí](https://open.spotify.com/album/4ddWFYjLKfIUfoEEVR9Vxt) | 3:46 |
+| 31 | [Nada Más Decídete](https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Los Dúo 3](https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5) | 3:06 |
 | 32 | [La Tequilera](https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 3:03 |
 | 33 | [Como la Flor](https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 2:56 |
 | 34 | [La Chancla / el Chivo / Puño de Tierra \(En Vivo\)](https://open.spotify.com/track/4ykmzBnsAlWN06gSCraH3t) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON) | 7:42 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 51 | [Bésame Mucho](https://open.spotify.com/track/3kwI7keOfbRg9dMRjWvxaV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bésame Mucho](https://open.spotify.com/album/1J0zWKRK6gkzBzZXC9sqvL) | 4:49 |
 | 52 | [Te Traigo Estas Flores](https://open.spotify.com/track/1jAMSbwgex5699AuN2Ncp5) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nueva Tradición](https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb) | 2:14 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDA1OTg0NGFjNzMyNGY2NDVlZTgzYmM5NjVhZGY0ODk0NA==`
+Snapshot ID: `Mjg0MjIwMTEsMDAwMDAwMDA0NGMxNjZlYThhMjVkZDNmYzY5ZWQ3YzVkY2VlYWI3OQ==`

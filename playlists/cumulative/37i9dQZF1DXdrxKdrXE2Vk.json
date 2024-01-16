@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 420886,
       "name": "Cross My Heart - Live",
       "url": "https://open.spotify.com/track/0QS8iNXGSC3TIuXvA4u2s1"
@@ -2454,6 +2454,24 @@
       "duration_ms": 235146,
       "name": "Hold On To Me (feat. AHI) - Live",
       "url": "https://open.spotify.com/track/77VIQZNzTNDaqB6tFQvqzq"
+    },
+    {
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ"
+      },
+      "artists": [
+        {
+          "name": "catch the fire music",
+          "url": "https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428054,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG"
     },
     {
       "album": {

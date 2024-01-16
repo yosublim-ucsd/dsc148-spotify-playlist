@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: JO1
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,732 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,722 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 16 | [DOMINO \(JO1 ver.\)](https://open.spotify.com/track/2rz0rsOMAqjJUUnRNwZET3) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [DOMINO \(JO1 ver.\)](https://open.spotify.com/album/6An9Xdk3z7317nbg66wVAs) | 3:27 |
 | 17 | [Calendar](https://open.spotify.com/track/4A0QbCROQJ6AdGc9SGyzxu) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Calendar](https://open.spotify.com/album/4B6DzQsVrjXtZmxYUlJ9SE) | 3:38 |
 | 18 | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/track/3DBD5ycENXcDM3D86h7G5K) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bear Knuckle](https://open.spotify.com/artist/2NebavOcCJEGrt0wFUjDnO) | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/album/4OVmL13BgYxXgsH2ruGGNz) | 4:01 |
-| 19 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 |
+| 19 | [Carnival](https://open.spotify.com/track/7yryiCDpzRsYvzWAAIlbgQ) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Carnival](https://open.spotify.com/album/1FHz66ulHiOaFPzAaV8S8q) | 2:49 |
 | 20 | [Freaking Happy](https://open.spotify.com/track/1HDW9vo3mnVbkQ02FIGgbC) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Freaking Happy](https://open.spotify.com/album/19mziDAG9iXSpHdJrKgKYb) | 3:11 |
 | 21 | [FLY](https://open.spotify.com/track/6lOhNJIzPKHfR0wmmxO8Vr) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [FLY](https://open.spotify.com/album/5NmGBpMFTTM63A5O5g1IM2) | 3:31 |
 | 22 | [Peppermint Yum](https://open.spotify.com/track/0KQ72rfmW02tMsipMs7xrU) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS), [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [Peppermint Yum](https://open.spotify.com/album/16R9nHpSohQdu9oSbCUMxn) | 3:00 |
 | 23 | [ダイヤモンドリリー](https://open.spotify.com/track/676LDL3TVRJ4UrHQlQmUEi) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [ダイヤモンドリリー](https://open.spotify.com/album/3504vkmyPbeVuZaSky7Q3b) | 3:03 |
-| 24 | [LEVEL UP](https://open.spotify.com/track/1Hmfd8Uql1SPOXupKJOR68) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [LEVEL UP](https://open.spotify.com/album/2f9fjhTy7BTq9GsMgooacc) | 2:34 |
-| 25 | [Carnival](https://open.spotify.com/track/7yryiCDpzRsYvzWAAIlbgQ) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Carnival](https://open.spotify.com/album/1FHz66ulHiOaFPzAaV8S8q) | 2:49 |
+| 24 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 |
+| 25 | [LEVEL UP](https://open.spotify.com/track/1Hmfd8Uql1SPOXupKJOR68) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [LEVEL UP](https://open.spotify.com/album/2f9fjhTy7BTq9GsMgooacc) | 2:34 |
 | 26 | [HIDEOUT](https://open.spotify.com/track/4baByqPPKuXqZqi4bim7Po) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HIDEOUT](https://open.spotify.com/album/1nVuARtkfIuX55ZiVrlkJY) | 2:59 |
 | 27 | [FIRE feat\. SPRITE](https://open.spotify.com/track/2JS7GVyUaxLFFetF3YWfc8) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [FIRE feat\. SPRITE](https://open.spotify.com/album/0zysbDsgljdkU8cW7RYoen) | 3:51 |
 | 28 | [Come Alive](https://open.spotify.com/track/4yl2H7Dh1ppXvZHFVDHkgA) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Come Alive](https://open.spotify.com/album/50yJa8hh5iKiLnqpDkK4Dh) | 3:33 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 43 | [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 |
 | 44 | [Eyes On Me](https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Eyes On Me](https://open.spotify.com/album/2raPbaN1bh2UWTGqgz8Gvl) | 2:51 |
 | 45 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 |
-| 46 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 |
-| 47 | [I Got It](https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [I Got It](https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI) | 3:20 |
-| 48 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 |
-| 49 | [存在証明](https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK) | 3:27 |
-| 50 | [Awakening Light](https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Awakening Light](https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5) | 3:31 |
+| 46 | [I Got It](https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [I Got It](https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI) | 3:20 |
+| 47 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 |
+| 48 | [存在証明](https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK) | 3:27 |
+| 49 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 |
+| 50 | [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 |
 
-Snapshot ID: `MCw5YTY0OTgzYzk0ZDU2YmYyMDg3OTE4MTQ0ODMwMWYwNTFiYzYzZjA5`
+Snapshot ID: `MCwyNjUzMjg3N2Y5OTdkNjljMGI5ZWJjYTU3OTZkZjk2ZWUwMjMyODA0`

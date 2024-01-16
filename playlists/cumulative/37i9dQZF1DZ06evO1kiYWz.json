@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "Esquizo",
+      "url": "https://open.spotify.com/track/52E6Qe8bIYYX28KT1ig93c"
+    },
+    {
+      "album": {
         "name": "De Angeles Y Dem\u00e1s Demonios",
         "url": "https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ"
       },

@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-168 songs - 9 hr 55 min
+169 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/1lQGsABYCrdPuzzdrgkeoS) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/2xcQMwlQVpYtz52pzpLEJI) | 3:05 | 2022-07-08 | 2023-07-08 |
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2022-05-03 | 2022-07-28 |
 | [Dancing With You](https://open.spotify.com/track/7g8LSPXjUmNi3433qYyTOT) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Dancing With You](https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS) | 3:56 | 2022-05-03 | 2022-12-03 |
-| [DANDELION](https://open.spotify.com/track/3Q02G6YTJ7hmbEG7h4sYVc) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'DANDELION'](https://open.spotify.com/album/5sx9EnmYBquGQBYfVSjfgJ) | 3:02 | 2023-11-04 |  |
+| [DANDELION](https://open.spotify.com/track/3Q02G6YTJ7hmbEG7h4sYVc) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'DANDELION'](https://open.spotify.com/album/5sx9EnmYBquGQBYfVSjfgJ) | 3:02 | 2023-11-04 | 2024-01-16 |
 | [DANDELION](https://open.spotify.com/track/5erdZRi65gQvc4m7znELQp) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'DANDELION'](https://open.spotify.com/album/0p6LcAuJfbKxZaPpsgUlF9) | 3:02 | 2022-06-13 | 2022-09-26 |
 | [Dawn \(Song by SARU\) \(Prod\. By Vische\)](https://open.spotify.com/track/55RGhiuNWGAbzjgB08ZM7O) | [SOUND PALETTE](https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF) | [PALETTE C\#509.](https://open.spotify.com/album/4W8yKsryaOIeCVmKMlvZVu) | 3:34 | 2022-05-03 | 2022-07-28 |
 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-05-03 |  |
@@ -163,6 +163,7 @@
 | [낮잠](https://open.spotify.com/track/68yhHnSR9kCqRdJImjeHxj) | [Misty Blue](https://open.spotify.com/artist/7LyaQJxH634U3S8Xu6DDrK) | [4/4 Sentimental Painkiller \- 겨울은 봄의 심장](https://open.spotify.com/album/1dtfsrO1AAHYHZmbzIbmLu) | 3:32 | 2022-05-03 | 2022-06-15 |
 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:53 | 2022-05-03 |  |
 | [내일이 되면](https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [내일이 되면](https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz) | 3:40 | 2022-09-05 | 2022-12-13 |
+| [너는 어떻게 How Did You \(feat\. Yerin Baek\)](https://open.spotify.com/track/3rkH2oQnehYxTA0Vk50D1Z) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [너는 어떻게 How Did You](https://open.spotify.com/album/1s3RA9wdbVXkSVHYPBIk8E) | 4:09 | 2023-11-04 |  |
 | [넌 you](https://open.spotify.com/track/2Lv4ICVjaLlBkSV63oktFV) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [넌 you](https://open.spotify.com/album/4BJAHipUlFcQ1YXvYoWf0x) | 3:46 | 2022-11-09 | 2023-08-29 |
 | [넌 You \- 2022 Album Remastered](https://open.spotify.com/track/433VlbJeMs6InuQJZGfYnB) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [숨을 쉰다 breathe breathe](https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ) | 3:46 | 2023-11-04 |  |
 | [버드나무 Willow Tree](https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [버드나무 Willow Tree](https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV) | 4:39 | 2023-11-04 |  |

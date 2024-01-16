@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 182906,
       "name": "DANDELION",
       "url": "https://open.spotify.com/track/3Q02G6YTJ7hmbEG7h4sYVc"
@@ -2892,6 +2892,28 @@
       "duration_ms": 220842,
       "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
       "url": "https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta"
+    },
+    {
+      "album": {
+        "name": "\ub108\ub294 \uc5b4\ub5bb\uac8c How Did You",
+        "url": "https://open.spotify.com/album/1s3RA9wdbVXkSVHYPBIk8E"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249723,
+      "name": "\ub108\ub294 \uc5b4\ub5bb\uac8c How Did You (feat. Yerin Baek)",
+      "url": "https://open.spotify.com/track/3rkH2oQnehYxTA0Vk50D1Z"
     },
     {
       "album": {

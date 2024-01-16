@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 153527,
+  "2024-01-16": 153435,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -4331,7 +4331,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 118412,
       "name": "Cua Cua",
       "url": "https://open.spotify.com/track/3Kvulmj8KcGhbnOhqHFEht"
@@ -7097,7 +7097,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 147457,
       "name": "Empaquetate",
       "url": "https://open.spotify.com/track/2FrcdIdoHSyzdgPcAoOEEC"
@@ -12999,7 +12999,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 190967,
       "name": "Luces Tenues",
       "url": "https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw"
@@ -13787,7 +13787,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 147692,
       "name": "Mbappe",
       "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
@@ -16309,7 +16309,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 213996,
       "name": "On Game",
       "url": "https://open.spotify.com/track/1eSqqyYk5vAEYglV3hcyWV"
@@ -17585,6 +17585,40 @@
       "duration_ms": 139440,
       "name": "PILE VAINA",
       "url": "https://open.spotify.com/track/1YDHVT5ySsLdlkWuabNNms"
+    },
+    {
+      "album": {
+        "name": "Pilita (Remix)",
+        "url": "https://open.spotify.com/album/6LE1dRMhLEBqpPFt3XCSYO"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Dj Nanow",
+          "url": "https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz"
+        },
+        {
+          "name": "Paola Houghton",
+          "url": "https://open.spotify.com/artist/0flWB3vtKFc8AQ3AzOtVZb"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Pilita - Remix",
+      "url": "https://open.spotify.com/track/5PhhGBTDaUKpND2VoAt1rm"
     },
     {
       "album": {
@@ -18941,7 +18975,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 184364,
       "name": "Quien Te Mando",
       "url": "https://open.spotify.com/track/288Kppobr1R4W6GqjMCuYs"
@@ -19739,7 +19773,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 128976,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/68gFmVB5UqQPv0QRMibOGT"

@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 366434,
+  "2024-01-16": 366338,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - USA.",
   "name": "Viral 50 - USA",
@@ -93,6 +93,28 @@
       "duration_ms": 180381,
       "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "album": {
+        "name": "#CERTIFIED (DJ Ess Mix) [feat. DJ Ess]",
+        "url": "https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "DJ Ess",
+          "url": "https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151273,
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mix",
+      "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO"
     },
     {
       "album": {
@@ -8208,6 +8230,24 @@
     },
     {
       "album": {
+        "name": "Constellations (Piano Version)",
+        "url": "https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP"
+      },
+      "artists": [
+        {
+          "name": "Jade LeMac",
+          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230073,
+      "name": "Constellations - Piano Version",
+      "url": "https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X"
+    },
+    {
+      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -12731,7 +12771,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 287248,
       "name": "fantasmas",
       "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
@@ -25236,6 +25276,24 @@
     },
     {
       "album": {
+        "name": "Mo Jams",
+        "url": "https://open.spotify.com/album/7zfPFSIZnHWZPlvDQWPcbU"
+      },
+      "artists": [
+        {
+          "name": "concretevault",
+          "url": "https://open.spotify.com/artist/6atgPgVQ9RJSurUaKEcIOJ"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244732,
+      "name": "Mo Jams",
+      "url": "https://open.spotify.com/track/5yyv94keRKHR97ypdhufSz"
+    },
+    {
+      "album": {
         "name": "Modern Girl",
         "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
       },
@@ -34650,6 +34708,24 @@
     },
     {
       "album": {
+        "name": "Slipping Through My Fingers",
+        "url": "https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263500,
+      "name": "Slipping Through My Fingers",
+      "url": "https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU"
+    },
+    {
+      "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
       },
@@ -35453,7 +35529,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 238986,
       "name": "SPECIALZ",
       "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
@@ -36015,7 +36091,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 170892,
       "name": "Steeeam",
       "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
@@ -36821,7 +36897,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"

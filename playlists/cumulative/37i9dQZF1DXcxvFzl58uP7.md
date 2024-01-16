@@ -2,7 +2,7 @@
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy melodies and hushed vocals\.  Cover: Clairo
+> Dreamy melodies and hushed vocals\. Cover: Emma from Men I trust.
 
 921 songs - 1 day 23 hr 48 min
 

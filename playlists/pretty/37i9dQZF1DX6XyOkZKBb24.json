@@ -1,12 +1,12 @@
 {
   "description": "Snuggling in for the evening with a nice soundtrack",
-  "num_followers": 153903,
+  "num_followers": 154083,
   "original_name": "Mellow Evening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTdjZTA5NWUzOTdmNThmNDRlMGE4MjgyYWFiZmZhNTAwNDY3YjU4",
+  "snapshot_id": "MCw0NjE5M2U5ZTZjZmViZmVhZTgxNzAzODgwY2JjOTMwYTU5ZTA1NjNk",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Remember That Night?",
         "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 195097,
       "name": "this is me trying",
       "url": "https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "New Year\u2019s Day",
+      "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 255986,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "New Year\u2019s Day",
-      "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
     },
     {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 228961,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Do You Like Me?",
@@ -943,22 +959,6 @@
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/4aPiQTOqCCeSgfTgCh7SR5"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 167865,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -1175,6 +1159,22 @@
       "duration_ms": 265652,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 167865,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn"
     },
     {
       "added_at": "2023-11-10 05:00:00",

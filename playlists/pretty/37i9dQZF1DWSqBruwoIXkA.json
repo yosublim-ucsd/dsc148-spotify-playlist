@@ -1,12 +1,12 @@
 {
   "description": "heartbreak feels good in a place like this Cover: NIKI",
-  "num_followers": 1702779,
+  "num_followers": 1703349,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGRlNjE4NDZhYzMxNDJhOGUyNDFmYWM0MWM0MTU5N2IxNmU3MzBi",
+  "snapshot_id": "MCwzZDhkYWIyOWNjOWZlZDEyOGUyZmUyYzU1NjQ1ZTFlYWJiNTFmNTJl",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Guitar Songs",
-        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 279833,
       "name": "Say Don't Go (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 146751,
-      "name": "Great Gatsby",
-      "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 195097,
       "name": "this is me trying",
       "url": "https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 146751,
+      "name": "Great Gatsby",
+      "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 169990,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 169990,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 168978,
+      "name": "Tummy Hurts",
+      "url": "https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 104408,
       "name": "emails i can\u2019t send",
       "url": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Snow Angel",
-        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 168978,
-      "name": "Tummy Hurts",
-      "url": "https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Peter Pan Was Right",
-        "url": "https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 192497,
-      "name": "Peter Pan Was Right",
-      "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Everything To Everyone",
         "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 227749,
       "name": "In The Kitchen",
       "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Peter Pan Was Right",
+        "url": "https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 192497,
+      "name": "Peter Pan Was Right",
+      "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1727,22 +1727,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 284305,
-      "name": "This Is How It Feels (with Laufey)",
-      "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
+      "duration_ms": 271466,
+      "name": "ghostin",
+      "url": "https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1767,18 +1763,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 271466,
-      "name": "ghostin",
-      "url": "https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC"
+      "duration_ms": 284305,
+      "name": "This Is How It Feels (with Laufey)",
+      "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 248818,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "die first",
         "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 177108,
       "name": "die first",
       "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 248818,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "MEAN!",
-        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
-      },
-      "artists": [
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        }
-      ],
-      "duration_ms": 143960,
-      "name": "MEAN!",
-      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Born To Be Alive",
         "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
       },
@@ -2123,18 +2107,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "chaotic",
-        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+        "name": "MEAN!",
+        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
         }
       ],
-      "duration_ms": 178720,
-      "name": "chaotic",
-      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
+      "duration_ms": 143960,
+      "name": "MEAN!",
+      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2151,6 +2135,22 @@
       "duration_ms": 141060,
       "name": "Best Friend Breakup",
       "url": "https://open.spotify.com/track/79tOFjU8iFZn0pvsAfQ1DZ"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "chaotic",
+        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Broken Memories",
-        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 201306,
-      "name": "I Lost Myself In Loving You",
-      "url": "https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 158536,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Broken Memories",
+        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 201306,
+      "name": "I Lost Myself In Loving You",
+      "url": "https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/4LCOSVdjQV8t1PZGia7CTR"
-      },
-      "artists": [
-        {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Unfinished Business",
-      "url": "https://open.spotify.com/track/5CYUCj24HvoKfjraBQal0O"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 203856,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/4MxVVKHpLRaIAnOqT1pNSV"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/4LCOSVdjQV8t1PZGia7CTR"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Unfinished Business",
+      "url": "https://open.spotify.com/track/5CYUCj24HvoKfjraBQal0O"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2363,8 +2363,8 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Mirror (Deluxe)",
-        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
       },
       "artists": [
         {
@@ -2372,9 +2372,9 @@
           "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 175550,
-      "name": "Sad Forever",
-      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "break my heart",
-        "url": "https://open.spotify.com/album/7tSgsBAq25fhQJ4yuddr7o"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 178099,
-      "name": "break my heart",
-      "url": "https://open.spotify.com/track/4qQJIuWmMXbtMAy3pnBpso"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Everything To Everyone",
         "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 189287,
       "name": "Don't Tell My Mom",
       "url": "https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Mirror (Deluxe)",
+        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175550,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
     }
   ],
   "unique_name": "sad hour",

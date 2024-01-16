@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Heijan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,601 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,646 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/track/2SLWxQ1HDxNlkIhxNRtIaT) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/album/4pmke7Abk1fcNfFTSv63Po) | 2:55 |
-| 2 | [İstanbul](https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İstanbul](https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA) | 2:23 |
-| 3 | [SIMARIK](https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:52 |
-| 4 | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm) | 2:13 |
-| 5 | [KARDEŞ](https://open.spotify.com/track/60L3b4EDrwenFFOY2eBqzm) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [KARDEŞ](https://open.spotify.com/album/2aGaMtEzo1t5pQMQj9eiHl) | 2:01 |
-| 6 | [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 |
-| 7 | [Hep Sonradan](https://open.spotify.com/track/1RzUIIDzTvcX4Xc4UQs8Gf) | [Grogi](https://open.spotify.com/artist/40PllTYqoDKRna2jm9Gf8D), [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Hep Sonradan](https://open.spotify.com/album/3CyRyRF9zaWko9R7F6u8W4) | 2:32 |
-| 8 | [MINI TERORISTA](https://open.spotify.com/track/6kvf06eThDCrvYknMY32To) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG) | 2:14 |
-| 9 | [Hayalet](https://open.spotify.com/track/3NWhRNp75M7bEZZH1nWzMw) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Hayalet](https://open.spotify.com/album/02PUeAZeieBC4Sd1LUEdjj) | 2:42 |
-| 10 | [Dünya](https://open.spotify.com/track/1UOmVab2gB09lsu82lSc3r) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Dünya](https://open.spotify.com/album/7mNMnXYzlNqqhav7QsETj3) | 2:40 |
+| 2 | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm) | 2:13 |
+| 3 | [İstanbul](https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İstanbul](https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA) | 2:23 |
+| 4 | [Dünya](https://open.spotify.com/track/1UOmVab2gB09lsu82lSc3r) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Dünya](https://open.spotify.com/album/7mNMnXYzlNqqhav7QsETj3) | 2:40 |
+| 5 | [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 |
+| 6 | [SIMARIK](https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:52 |
+| 7 | [KARDEŞ](https://open.spotify.com/track/60L3b4EDrwenFFOY2eBqzm) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [KARDEŞ](https://open.spotify.com/album/2aGaMtEzo1t5pQMQj9eiHl) | 2:01 |
+| 8 | [Hep Sonradan](https://open.spotify.com/track/1RzUIIDzTvcX4Xc4UQs8Gf) | [Grogi](https://open.spotify.com/artist/40PllTYqoDKRna2jm9Gf8D), [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Hep Sonradan](https://open.spotify.com/album/3CyRyRF9zaWko9R7F6u8W4) | 2:32 |
+| 9 | [MINI TERORISTA](https://open.spotify.com/track/6kvf06eThDCrvYknMY32To) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG) | 2:14 |
+| 10 | [Hayalet](https://open.spotify.com/track/3NWhRNp75M7bEZZH1nWzMw) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Hayalet](https://open.spotify.com/album/02PUeAZeieBC4Sd1LUEdjj) | 2:42 |
 | 11 | [JET BABA](https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [JET BABA](https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm) | 2:20 |
 | 12 | [A La Carte](https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [A La Carte](https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD) | 2:35 |
 | 13 | [Margiela](https://open.spotify.com/track/1KGvrw4RWClq7yt42sGG1v) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Margiela](https://open.spotify.com/album/4e2mD2qvVzVoA165EzPg5B) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 |
 | 50 | [İmparator](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İmparator](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
 
-Snapshot ID: `MCw2YjVjN2VmNWVhYTA2NjVhZjI5MmI0MjBkZDJkYmQ4NGM5MTY4YjIx`
+Snapshot ID: `MCxkZjQ2MTUxZDk1OTFlZjEyM2RhYjdjZTNhZWRiYzEzY2MxYWZmNzAy`

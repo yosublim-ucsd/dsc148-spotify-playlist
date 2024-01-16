@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,161 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,177 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 42 | [Quisiera](https://open.spotify.com/track/0DNvAkAwLRecq9iZmnK5Wg) | [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Quisiera](https://open.spotify.com/album/1KsikoVZSgJNztXBMjolgc) | 3:08 |
 | 43 | [Ámame](https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ámame](https://open.spotify.com/album/0U36RN0P9awTfozisaj49A) | 3:19 |
 | 44 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 |
-| 45 | [Me Levanté](https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Me Levanté](https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR) | 2:58 |
-| 46 | [El](https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El](https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76) | 3:24 |
+| 45 | [El](https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El](https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76) | 3:24 |
+| 46 | [Me Levanté](https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Me Levanté](https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR) | 2:58 |
 | 47 | [No Es Tan Facil](https://open.spotify.com/track/6ZbmnhpmNQODTzjbKUj63B) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Es Tan Facil](https://open.spotify.com/album/4fWFrEBBNuECGBw7QSsS83) | 3:14 |
 | 48 | [Eres Mi Aire](https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86) | 3:45 |
 | 49 | [Lo Que Quedó](https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Lo Que Quedó](https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc) | 3:27 |
 | 50 | [Vas a Volver](https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Vas a Volver](https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF) | 3:23 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDBkNzk0NDg5NjQyMTViMmQ4NTA1NzQwZjZhMDI0ZmNjNQ==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDAwZDRlZjdjNTk2NzNkM2FiOWYyNGM3N2RjYTI0YWZjYg==`

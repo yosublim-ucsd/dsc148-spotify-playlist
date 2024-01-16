@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Yeng Constantino",
-  "num_followers": 2414696,
+  "num_followers": 2412187,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDJhNzU5MWM2YTAxNmU2M2RhNzY0NTdkNjIzNWZjZDhjOWE5ZGE1",
+  "snapshot_id": "MCw1NWM5NWQzZTVkZDlkZWRmZTg2MTM2YjNlMjRkYzZkZGZhYTFkYzJj",
   "tracks": [
     {
       "added_at": "2024-01-10 00:55:20",
@@ -191,8 +191,8 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 254400,
-      "name": "Pano",
-      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
+      "duration_ms": 244800,
+      "name": "Give Me Your Forever",
+      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
     },
     {
       "added_at": "2024-01-10 00:55:20",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Kathang Isip",
-        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
         }
       ],
-      "duration_ms": 318814,
-      "name": "Kathang Isip",
-      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+      "duration_ms": 349713,
+      "name": "Mundo",
+      "url": "https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8"
     },
     {
       "added_at": "2024-01-10 00:55:20",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "The Day You Said Goodnight",
+      "url": "https://open.spotify.com/track/08hFNg8Oz3lvaAms7qrIif"
+    },
+    {
+      "added_at": "2024-01-10 00:55:20",
+      "album": {
         "name": "Isa lang",
         "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
       },
@@ -271,50 +287,18 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Episode",
-        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Give Me Your Forever",
-      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
-    },
-    {
-      "added_at": "2024-01-10 00:55:20",
-      "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
-      },
-      "artists": [
-        {
-          "name": "IV Of Spades",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 349713,
-      "name": "Mundo",
-      "url": "https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8"
-    },
-    {
-      "added_at": "2024-01-10 00:55:20",
-      "album": {
-        "name": "Hale",
-        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
-      },
-      "artists": [
-        {
-          "name": "Hale",
-          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
-        }
-      ],
-      "duration_ms": 291320,
-      "name": "The Day You Said Goodnight",
-      "url": "https://open.spotify.com/track/08hFNg8Oz3lvaAms7qrIif"
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
       "added_at": "2024-01-10 00:55:20",
@@ -351,38 +335,6 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
-    },
-    {
-      "added_at": "2024-01-10 00:55:20",
-      "album": {
-        "name": "Ngayong Gabi",
-        "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
-      },
-      "artists": [
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 267456,
-      "name": "Ngayong Gabi",
-      "url": "https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH"
-    },
-    {
-      "added_at": "2024-01-10 00:55:20",
-      "album": {
         "name": "Bigotilyo",
         "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
       },
@@ -399,18 +351,34 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Letters Never Sent",
-        "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
       },
       "artists": [
         {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 245760,
-      "name": "Higa",
-      "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
+      "duration_ms": 254400,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
+    },
+    {
+      "added_at": "2024-01-10 00:55:20",
+      "album": {
+        "name": "Ngayong Gabi",
+        "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "duration_ms": 267456,
+      "name": "Ngayong Gabi",
+      "url": "https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH"
     },
     {
       "added_at": "2024-01-10 00:55:20",
@@ -451,6 +419,38 @@
       "duration_ms": 316683,
       "name": "Sinta",
       "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
+    },
+    {
+      "added_at": "2024-01-10 00:55:20",
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+    },
+    {
+      "added_at": "2024-01-10 00:55:20",
+      "album": {
+        "name": "Letters Never Sent",
+        "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Higa",
+      "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
     },
     {
       "added_at": "2024-01-10 00:55:20",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Tahanan",
-        "url": "https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE"
+        "name": "Buruguduystunstugudunstuy",
+        "url": "https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B"
       },
       "artists": [
         {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
         }
       ],
-      "duration_ms": 293727,
-      "name": "Tahanan",
-      "url": "https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu"
+      "duration_ms": 182200,
+      "name": "Harana",
+      "url": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv"
     },
     {
       "added_at": "2024-01-10 00:55:20",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-01-10 00:55:20",
       "album": {
-        "name": "Buruguduystunstugudunstuy",
-        "url": "https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B"
+        "name": "Tahanan",
+        "url": "https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE"
       },
       "artists": [
         {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Harana",
-      "url": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv"
+      "duration_ms": 293727,
+      "name": "Tahanan",
+      "url": "https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu"
     },
     {
       "added_at": "2024-01-10 00:55:20",

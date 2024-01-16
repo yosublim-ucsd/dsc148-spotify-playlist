@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Latin Mafia y Humbe en portada.",
-  "num_followers": 108918,
+  "num_followers": 108983,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzcyMGMwNmU0ODM0NWEzMmRiMjI0Y2M2ZWZjNDFiYjVmODlkY2Q4",
+  "snapshot_id": "MCxiYzFiZWQ5MmFjN2M0NTk1ZGI2OWE0NmJlZTg2MzFhNmY4YjM4ODdj",
   "tracks": [
     {
       "added_at": "2024-01-12 06:00:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
+        "name": "No digas nada",
+        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "No digas nada",
+      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
         "name": "Mi Nena Remix",
         "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
       },
@@ -135,26 +151,6 @@
       "duration_ms": 220000,
       "name": "Mi Nena Remix",
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -187,22 +183,6 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "No digas nada",
-        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 222545,
-      "name": "No digas nada",
-      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
         "name": "Rinc\u00f3n",
         "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
       },
@@ -215,6 +195,22 @@
       "duration_ms": 164810,
       "name": "Rinc\u00f3n",
       "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -239,18 +235,22 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -275,18 +275,18 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+      "duration_ms": 193480,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 92539,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/2BOfgAlexUSef23fFwkd1k"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
         "name": "Estetograma",
         "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 220000,
       "name": "Estetograma",
       "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 92539,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/2BOfgAlexUSef23fFwkd1k"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "Helado De Vainilla",
-        "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 209100,
-      "name": "Helado De Vainilla",
-      "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
         "name": "Aqu\u00ed Sigo",
         "url": "https://open.spotify.com/album/3hr6FTGLuXCFvYnHuBpPaX"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 158819,
       "name": "Aqu\u00ed Sigo",
       "url": "https://open.spotify.com/track/4NBbnTNp6oFMUlIDjOtXsB"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "Helado De Vainilla",
+        "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 209100,
+      "name": "Helado De Vainilla",
+      "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 159465,
-      "name": "ADI\u00d3S AMOR",
-      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
         "name": "Un Koala En Una Palmera",
         "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
       "artists": [
         {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 165562,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
+      "duration_ms": 159465,
+      "name": "ADI\u00d3S AMOR",
+      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -867,6 +851,22 @@
       "duration_ms": 168004,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 165562,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
+        "name": "9:15",
+        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "9:15",
+      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
         "name": "Reflejos",
         "url": "https://open.spotify.com/album/1WgfXjXFPY3cweBPJrU5es"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 140000,
       "name": "Reflejos",
       "url": "https://open.spotify.com/track/5oqDCwIzUNosjxCoIvkihd"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "9:15",
-        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "9:15",
-      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "Emociones 1.5",
-        "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Te La Dedico",
-      "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
         "name": "Fin De Semana / Demasiado R\u00e1pido",
         "url": "https://open.spotify.com/album/3Ad9PD3O28FZHKbJydxHt9"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 186285,
       "name": "Fin De Semana",
       "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "Emociones 1.5",
+        "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Te La Dedico",
+      "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "A la Carta",
-        "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        },
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "A la Carta",
-      "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
         "name": "Cada D\u00eda Te Quiero M\u00e1s",
         "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
       },
@@ -1279,18 +1259,22 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "antes que sea tarde",
-        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
+        "name": "A la Carta",
+        "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
       },
       "artists": [
         {
-          "name": "Dani Ribba",
-          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
         }
       ],
-      "duration_ms": 168778,
-      "name": "antes que sea tarde",
-      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
+      "duration_ms": 173400,
+      "name": "A la Carta",
+      "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1307,6 +1291,22 @@
       "duration_ms": 191428,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "antes que sea tarde",
+        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
+      },
+      "artists": [
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        }
+      ],
+      "duration_ms": 168778,
+      "name": "antes que sea tarde",
+      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "Numb The Pain",
-        "url": "https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv"
-      },
-      "artists": [
-        {
-          "name": "A.CHAL",
-          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
-        }
-      ],
-      "duration_ms": 206116,
-      "name": "Numb The Pain",
-      "url": "https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
         "name": "La Puerta",
         "url": "https://open.spotify.com/album/0TPue7zWYi1z0168wshD9y"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 139285,
       "name": "THICK",
       "url": "https://open.spotify.com/track/4b14BvhPrVDbbpICnw2P9L"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "Numb The Pain",
+        "url": "https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "duration_ms": 206116,
+      "name": "Numb The Pain",
+      "url": "https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "LA B\u00daSQUEDA",
-        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
-      },
-      "artists": [
-        {
-          "name": "WANDA ORIGINAL",
-          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
-        }
-      ],
-      "duration_ms": 93280,
-      "name": "Vamos Pal Espacio",
-      "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
         "name": "Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/1AW4bjxaKeBCT2eYCqHy0d"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 203639,
       "name": "Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/0BvzoZ5Ybl1Rq9MFWiJWZp"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "LA B\u00daSQUEDA",
+        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
+      },
+      "artists": [
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "duration_ms": 93280,
+      "name": "Vamos Pal Espacio",
+      "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "Ten Cuidao'",
-        "url": "https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 174757,
-      "name": "Ten Cuidao'",
-      "url": "https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 215777,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "Ten Cuidao'",
+        "url": "https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 174757,
+      "name": "Ten Cuidao'",
+      "url": "https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp"
     },
     {
       "added_at": "2024-01-12 06:00:00",

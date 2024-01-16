@@ -3655,6 +3655,24 @@
     },
     {
       "album": {
+        "name": "DIOS POR DELANTE",
+        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214473,
+      "name": "DIOS POR DELANTE",
+      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
+    },
+    {
+      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -7222,7 +7240,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 157966,
       "name": "El Panu (En Vivo)",
       "url": "https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir"
@@ -12502,7 +12520,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 164773,
       "name": "Lifted LA",
       "url": "https://open.spotify.com/track/4erzhMAvooXFTNnTIXrDOf"
@@ -18720,6 +18738,24 @@
       "duration_ms": 161703,
       "name": "Yo Soy Serafin",
       "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
+    },
+    {
+      "album": {
+        "name": "Yo Ya Sabia Pa Donde Iba",
+        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181611,
+      "name": "Yo Ya Sabia Pa Donde Iba",
+      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
     },
     {
       "album": {

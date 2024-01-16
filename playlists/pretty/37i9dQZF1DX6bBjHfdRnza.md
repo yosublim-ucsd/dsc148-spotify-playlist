@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Douvelle19\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,320 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,363 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 49 | [Forward Step](https://open.spotify.com/track/1ftMMNpvUuhFQhyptugUpo) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Forward Step](https://open.spotify.com/album/6uto8zjUa1Ght3zklDnqDi) | 6:47 |
 | 50 | [Camelia](https://open.spotify.com/track/1p39reyT7Qmcq1lIYFe2rA) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0) | [Rosa Rugosa EP](https://open.spotify.com/album/1vIbvlja1pQlS2PlIb4liM) | 4:13 |
 
-Snapshot ID: `MCw3NzFlZmVjYTlkMThhNThjMjYwYjc3MDBhYjllZDBlZmE5MzM2Y2U1`
+Snapshot ID: `MCw3NjI2NWIzY2IxZDc4MzdlYjk0MDVmZjhiNTZlYTYyNzI3MmUyOGIw`

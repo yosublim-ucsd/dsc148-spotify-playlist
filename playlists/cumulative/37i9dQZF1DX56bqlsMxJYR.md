@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-381 songs - 17 hr 16 min
+383 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,9 @@
 | [My Cherie Amour](https://open.spotify.com/track/5OaBN89f3MvgZfl3k2CR58) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Best Of/20th Century](https://open.spotify.com/album/5nwBtLyOuY8tNUxH4cRuwH) | 2:51 | 2020-12-16 | 2022-06-29 |
 | [My Cherie Amour](https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG) | 2:53 | 2022-03-07 |  |
 | [My Girl](https://open.spotify.com/track/0Vpswx5knuuXW8HmNK1LrT) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [An American Love Story](https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK) | 2:41 | 2020-12-16 | 2022-11-13 |
+| [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2023-08-03 |  |
 | [My Guy](https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [An American Love Story](https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK) | 2:52 | 2020-12-16 | 2022-07-29 |
+| [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 | 2023-08-03 |  |
 | [Never Be Anyone Else But You \- 2005 Digital Remaster](https://open.spotify.com/track/5gQ435aKB9htc5gNgGer6w) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Greatest Hits \- Ricky Nelson \(Remastered Edition\)](https://open.spotify.com/album/6JohQ1VCMCTwDmj2vpY6FD) | 2:14 | 2020-12-16 | 2022-07-29 |
 | [No Other Love \(with Henri René & His Orchestra and Chorus\)](https://open.spotify.com/track/4iyzrJ3qIGBvG8yl5dWHQ8) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Henri René & His Orchestra and Chorus](https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v) | [Perry Como's Greatest Hits](https://open.spotify.com/album/1Xn52rnZPmftC6oPyNOTfv) | 3:16 | 2022-03-07 | 2022-04-21 |
 | [Nowhere To Run \- Single Version / Mono](https://open.spotify.com/track/51HaFqOPAJFfFNycct9IWR) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Definitive Collection](https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip) | 2:57 | 2022-03-07 | 2022-04-20 |
@@ -245,7 +247,7 @@
 | [Respect \- 2003 Remaster](https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:22 | 2020-12-16 | 2022-10-11 |
 | [Ring of Fire](https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 2:35 | 2020-12-16 |  |
 | [Rock\-A\-Bye Your Baby With A Dixie Melody](https://open.spotify.com/track/0vXhvlYN43mPBuXWWcyvjo) | [Jerry Lewis](https://open.spotify.com/artist/7Kaa31WCrBRiLn4wogWtVI) | [Just Sings](https://open.spotify.com/album/4TcPCrJATiXIcOQyEdPIGz) | 2:36 | 2020-12-16 | 2022-04-21 |
-| [Rockin' Robin](https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt) | [Bobby Day](https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj) | [Rockin' Robin](https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y) | 2:40 | 2020-12-16 |  |
+| [Rockin' Robin](https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt) | [Bobby Day](https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj) | [Rockin' Robin](https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y) | 2:40 | 2020-12-16 | 2024-01-16 |
 | [Runaround Sue](https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Runaround Sue](https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7) | 2:51 | 2020-12-16 |  |
 | [Runaway](https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t) | [Del Shannon](https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs) | [Runaway with Del Shannon](https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT) | 2:17 | 2022-10-10 |  |
 | [Runaway](https://open.spotify.com/track/5TkxtJtC64uDDK4rbrXz0u) | [Del Shannon](https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs) | [Greatest Hits](https://open.spotify.com/album/7hqTwDwtJw99EGsX8BOnIa) | 2:18 | 2020-12-16 | 2022-05-15 |
@@ -321,7 +323,7 @@
 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [This Old Heart Of Mine](https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN) | 2:52 | 2022-10-11 |  |
 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 | 2022-10-10 | 2022-10-12 |
 | [This Will Be Our Year](https://open.spotify.com/track/02KpkaZbiutsR0ucxce4Sh) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/7K6JtyaSSVr7HidQsCHun0) | 2:07 | 2022-10-10 | 2022-10-12 |
-| [This Will Be Our Year](https://open.spotify.com/track/560OsnDa7tpsK2B0krVlOP) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp) | 2:07 | 2022-12-29 |  |
+| [This Will Be Our Year](https://open.spotify.com/track/560OsnDa7tpsK2B0krVlOP) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp) | 2:07 | 2022-12-29 | 2024-01-16 |
 | [Till I Waltz Again With You](https://open.spotify.com/track/5JSa7B1wgW5x5aNIziHjfM) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Till I Waltz Again With You](https://open.spotify.com/album/16YSrvXWcfeqUcHBGhCRmT) | 3:00 | 2020-12-16 | 2022-06-06 |
 | [Tonight You Belong To Me](https://open.spotify.com/track/6TGjPUIJuJYRnHc4tXiQDI) | [Patience & Prudence](https://open.spotify.com/artist/4F78tRprgxpEnopKTTWXor) | [Lost Hits Of The 50's](https://open.spotify.com/album/5DyWDTuTcEyMH5UDxyuOby) | 1:55 | 2022-03-07 | 2022-04-17 |
 | [Tossin' And Turnin'](https://open.spotify.com/track/79s3pSe1u6ggQBEwVPm58Z) | [Bobby Lewis](https://open.spotify.com/artist/6KfBWaX13etjtEZ4d9aTWW) | [Tossin' and Turnin'](https://open.spotify.com/album/31JyXxhju4kXiYJwdjb3u3) | 2:39 | 2020-12-16 | 2022-07-29 |

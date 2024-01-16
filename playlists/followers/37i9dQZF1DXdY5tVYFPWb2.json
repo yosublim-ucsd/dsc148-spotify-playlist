@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 155887,
+  "2024-01-16": 155936,
   "date_first_scraped": "2022-05-26",
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
   "name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
@@ -621,7 +621,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 228733,
       "name": "ASH feat. Vaundy",
       "url": "https://open.spotify.com/track/0BOr48Q9eVUuOKIQ5oZzqO"
@@ -12461,7 +12461,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 261914,
       "name": "\u51fa\u3066\u3044\u3051\uff01\u30ab\u30ec\u30b7\uff01",
       "url": "https://open.spotify.com/track/25zrDXmnAZulWCfljroSc9"
@@ -13187,10 +13187,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
+    },
+    {
+      "album": {
+        "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
+        "url": "https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192366,
+      "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/1kwO1OLDhgP4H0TnieLYio"
     },
     {
       "album": {

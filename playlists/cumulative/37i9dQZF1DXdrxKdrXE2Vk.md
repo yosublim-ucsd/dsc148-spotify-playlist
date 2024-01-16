@@ -4,7 +4,7 @@
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:3yAv8udgy9z6yF6rREcgfB">Rock City Worship</a>
 
-316 songs - 1 day 9 hr 6 min
+317 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Comfort \- Live](https://open.spotify.com/track/36Ru7U9AKjnbNjtZGdhOYY) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Comfort \(Live\)](https://open.spotify.com/album/4z9gft4vDBoFF2Xtyu0enL) | 4:49 | 2023-04-14 |  |
 | [Completely Abandoned \- Live](https://open.spotify.com/track/0WbABN4mypl8z5roDZMQeV) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Tracy Pratt](https://open.spotify.com/artist/45QTpsbrHjjbfUcSoz5BiC) | [Completely Abandoned \(Live\)](https://open.spotify.com/album/2IbZ16xSwJAQnxGM2CoHhe) | 5:54 | 2023-03-11 | 2023-08-09 |
 | [Courageous](https://open.spotify.com/track/1mEuzKi8oqtkqqc6nIxO1k) | [FEARLESS BND](https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP) | [Courageous](https://open.spotify.com/album/5TUzExePdlD4ZMcElWQf6s) | 3:38 | 2022-09-11 | 2023-03-11 |
-| [Cross My Heart \- Live](https://open.spotify.com/track/0QS8iNXGSC3TIuXvA4u2s1) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [open heaven type stuff: live from camp](https://open.spotify.com/album/39hNfSkwJzgHTAFPWKAV78) | 7:00 | 2024-01-12 |  |
+| [Cross My Heart \- Live](https://open.spotify.com/track/0QS8iNXGSC3TIuXvA4u2s1) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [open heaven type stuff: live from camp](https://open.spotify.com/album/39hNfSkwJzgHTAFPWKAV78) | 7:00 | 2024-01-12 | 2024-01-16 |
 | [Cry Out \(feat\. Naomi Raine\)](https://open.spotify.com/track/66PfXpuPoNJ7fhvyAq7qlW) | [ReFRESH Worship](https://open.spotify.com/artist/5LVfUFtAdRpEe3zTzZnQLp), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Cry Out \(feat\. Naomi Raine\)](https://open.spotify.com/album/4pqjIJQ1IAc1rSITQlpHAI) | 7:52 | 2022-03-19 | 2022-09-12 |
 | [Deep Dive](https://open.spotify.com/track/3wMRsY0WxkPQ8PYJNHhlZS) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [Deep Dive \- EP](https://open.spotify.com/album/20sBygY4CkOu8vRvPHfWWU) | 4:52 | 2022-09-11 | 2024-01-13 |
 | [Easy to Worship \(Live in New Orleans\)](https://open.spotify.com/track/2ZyhFZk3QlNuOkZCRGCITZ) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz), [Danielle Burns](https://open.spotify.com/artist/4ZQPjKGlZU4PBYbWEZEymk) | [Easy to Worship \(Live in New Orleans\)](https://open.spotify.com/album/6P0zTwQtWxOQJ5oLEG5hR8) | 5:49 | 2023-03-11 |  |
@@ -124,6 +124,7 @@
 | [Highest Hallelujah](https://open.spotify.com/track/2Hw7sdkm2TUTIxPFeSUy6L) | [Modern Day Cure](https://open.spotify.com/artist/2Y7qvpOpTRUYs7NSi0kw7s) | [Highest Hallelujah](https://open.spotify.com/album/25BOqHoxTTibHK5BDqwERr) | 4:37 | 2022-09-17 | 2023-03-11 |
 | [Highest Hallelujah](https://open.spotify.com/track/5PLllQ1GiF3v6gJ1zHN08b) | [Modern Day Cure](https://open.spotify.com/artist/2Y7qvpOpTRUYs7NSi0kw7s) | [Highest Hallelujah](https://open.spotify.com/album/2Pqf8bpzMDIFJ7F2MXqQuV) | 4:37 | 2022-02-19 | 2022-09-18 |
 | [Hold On To Me \(feat\. AHI\) \- Live](https://open.spotify.com/track/77VIQZNzTNDaqB6tFQvqzq) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Hold On To Me \(feat\. AHI\) \[Live\]](https://open.spotify.com/album/1dy3Qh4lyyLcBqNKFV8Bq0) | 3:55 | 2023-04-14 | 2023-08-12 |
+| [Holy](https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG) | [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x) | [Holy](https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ) | 7:08 | 2024-01-12 |  |
 | [Holy \- Live](https://open.spotify.com/track/3gzb78asf6noEszQfOonE0) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Holy \(Live\)](https://open.spotify.com/album/50ZKp6KCrsdai2GqeDGFVq) | 5:31 | 2023-03-11 | 2023-05-20 |
 | [Holy Spirit \- Live](https://open.spotify.com/track/3iPsSPUZtDp4UwNgdtwIsd) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Together, With Heaven \(Live\)](https://open.spotify.com/album/3wMhEwpiyVM7N0oHdtCjSP) | 5:22 | 2024-01-12 | 2024-01-14 |
 | [Honest Offering / I Surrender All \- Live](https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Honest Offering \(Live\)](https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp) | 4:37 | 2023-03-11 |  |

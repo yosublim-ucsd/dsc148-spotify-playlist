@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: wYte\(와잇\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Kang Minjeong\(강민정\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-480 songs - 1 day 4 hr 34 min
+481 songs - 1 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [20](https://open.spotify.com/track/6F15OzRN9KfU0fQuWTlEc9) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [One Strange Night](https://open.spotify.com/album/2P48xP9nTAIJrd0jwDUusc) | 3:42 | 2022-03-31 | 2022-04-19 |
 | [31](https://open.spotify.com/track/4oBmGC76HpltDdr0mx2h2i) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [31](https://open.spotify.com/album/1gG4FphDb3kinYZ4oaEtu0) | 3:06 | 2021-12-10 | 2022-07-15 |
 | [A change of heart](https://open.spotify.com/track/4d5cA8jjecQNwWAO2oVtoU) | [on\_poem](https://open.spotify.com/artist/2lGdHsKg4Kv4KsTfrUxGLL) | [A change of heart](https://open.spotify.com/album/6e0T7rftQKt3so7xHtJhPY) | 3:25 | 2022-01-13 | 2022-04-20 |
-| [A Child](https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [White](https://open.spotify.com/album/1cyBVcVvvXhaqz4aYudB4l) | 3:11 | 2024-01-04 |  |
+| [A Child](https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [White](https://open.spotify.com/album/1cyBVcVvvXhaqz4aYudB4l) | 3:11 | 2024-01-04 | 2024-01-16 |
 | [A Common Word](https://open.spotify.com/track/4InyptNd98tGVH9QCP71eB) | [Youth Like A Dream](https://open.spotify.com/artist/0O07UU1GecVRKrnl2tviPy) | [A Common Word](https://open.spotify.com/album/1HUu5oC18wuBxXP94AoYSk) | 4:38 | 2023-01-11 | 2023-01-26 |
 | [A Little Braver](https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH) | [New Empire](https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ) | [Uncontrollably Fond OST Part.14](https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh) | 3:26 | 2021-12-10 |  |
 | [A Love Song](https://open.spotify.com/track/66is2tFkaji7lYMWt7KS1z) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:25 | 2022-03-21 | 2022-04-20 |
@@ -467,6 +467,7 @@
 | [너는어때 \- Bossa Nova ver.](https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [너는어때](https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd) | 4:20 | 2022-03-07 | 2022-06-28 |
 | [너로 짙은 밤 Mistiness of You](https://open.spotify.com/track/6RBjYC4YAXWgFmt5V94LHc) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Hanall](https://open.spotify.com/artist/2XTRUxBBVztcLWgidIVX5y) | [새봄, 03 소품집 \`겨울 우리\` How I Love You](https://open.spotify.com/album/450lHoZWkYEPoVAAMygbgB) | 3:50 | 2022-03-31 | 2022-04-21 |
 | [널 위한 커피](https://open.spotify.com/track/6vv5JfKdvr5BgTosnwHD0w) | [Oh So Yeon](https://open.spotify.com/artist/0myzJ6Vyf7To1kWoJTseat) | [널 위한 커피](https://open.spotify.com/album/44i5fGtZkVfuCnQhHM5p52) | 3:29 | 2022-03-31 | 2022-04-16 |
+| [놔둘테야 Put it down](https://open.spotify.com/track/1tO4gYH6YC6PxBp6U2TmDy) | [강민정](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [놔둘테야 Put it down](https://open.spotify.com/album/4o2kXDrwwDF05E5YyCYBgO) | 3:28 | 2024-01-15 |  |
 | [눈부셔](https://open.spotify.com/track/0Iog6cN2JRC23toGVdkZ9k) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Terius Behind Me Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2zsF6W10mf6hY1An5ewUtd) | 3:37 | 2022-03-31 | 2022-04-20 |
 | [떠난다](https://open.spotify.com/track/6YepaCG8cUabGz3lyCgCxv) | [Park Bo\-young](https://open.spotify.com/artist/0jMuf24m4Bn1vcdQmvGp3z) | [Oh My Ghost \(Original Television Pt\. 3\)](https://open.spotify.com/album/16NobOuwu1kGxyNFXa6N0h) | 3:41 | 2022-03-31 | 2022-04-09 |
 | [마츠코](https://open.spotify.com/track/53wNebjYiIX30rb8mmwIsP) | [Kim Bom](https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC) | [마츠코](https://open.spotify.com/album/2iSmqb7me7SvrzLTZSOWq2) | 2:22 | 2023-06-13 | 2023-07-08 |

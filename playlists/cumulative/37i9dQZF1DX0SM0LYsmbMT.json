@@ -46599,6 +46599,24 @@
     },
     {
       "album": {
+        "name": "New Studio",
+        "url": "https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1"
+      },
+      "artists": [
+        {
+          "name": "Grmmr.126",
+          "url": "https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89600,
+      "name": "New Studio",
+      "url": "https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s"
+    },
+    {
+      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/6v1lczl6CkTOm3tWO6MGYw"
       },
@@ -57944,7 +57962,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 146045,
       "name": "Salt Wind",
       "url": "https://open.spotify.com/track/7GGIJ09FsmFDOoCNWKCMYT"
@@ -74203,6 +74221,24 @@
     },
     {
       "album": {
+        "name": "Vibe I'm",
+        "url": "https://open.spotify.com/album/6VQqZ9XqscI897TCLIv5n9"
+      },
+      "artists": [
+        {
+          "name": "Fed Nance",
+          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Vibe I'm",
+      "url": "https://open.spotify.com/track/07RlP8Rj6ihc4sT3wZu7yw"
+    },
+    {
+      "album": {
         "name": "Vibe Central",
         "url": "https://open.spotify.com/album/2kUiNABc0dXtIuuf9kDQnA"
       },
@@ -75384,7 +75420,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 92530,
       "name": "Waking Up Again",
       "url": "https://open.spotify.com/track/6b7VubCKz1rLmkOLbWCqcy"

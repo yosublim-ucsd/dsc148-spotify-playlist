@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -12076,7 +12076,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -12906,6 +12906,24 @@
       "duration_ms": 341682,
       "name": "Hie' Kommie Bokke",
       "url": "https://open.spotify.com/track/6KRsQtqdY4EilCDbWW1EgV"
+    },
+    {
+      "album": {
+        "name": "Uyihlo nonyoko",
+        "url": "https://open.spotify.com/album/7aNmPlwAQeVPY8P7qjuGhs"
+      },
+      "artists": [
+        {
+          "name": "Ugatsheni",
+          "url": "https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279823,
+      "name": "Hit after Hit",
+      "url": "https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd"
     },
     {
       "album": {
@@ -14442,7 +14460,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 378264,
       "name": "iMpumelelo",
       "url": "https://open.spotify.com/track/1djewwWkOaJGFtPaQc2MU6"
@@ -21952,7 +21970,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 492831,
       "name": "Nana Thula (feat. Njelic, Young Stunna, Nkosazana Daughter & Xolani Guitar)",
       "url": "https://open.spotify.com/track/7ko9EAsZ2N1ZpEBlMUkR3J"
@@ -22424,7 +22442,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 242155,
       "name": "Ngilele E Hotel",
       "url": "https://open.spotify.com/track/5R9zmvswQj0SRJ1XM0yTzU"
@@ -22484,7 +22502,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 372976,
       "name": "Ngilimele (feat. Deep Sen, KingTalkzin, Mthunzi)",
       "url": "https://open.spotify.com/track/6lrKA1DMAihPI490Oj0twC"
@@ -23706,7 +23724,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -24540,7 +24558,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 326048,
       "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
       "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
@@ -25304,7 +25322,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -28212,7 +28230,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 331377,
       "name": "Sgudi Snyc",
       "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
@@ -29388,7 +29406,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -31682,7 +31700,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
@@ -34768,7 +34786,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 288052,
       "name": "Uyangijabulisa",
       "url": "https://open.spotify.com/track/09zHC0CNGuWQ1ot7WhzwKJ"
@@ -35240,7 +35258,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 192567,
       "name": "Vlerke",
       "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
@@ -35972,7 +35990,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"

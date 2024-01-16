@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 146682,
+  "num_followers": 146679,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTY2ZTU3ZDU2OWIyZjVjZjBkMTcyZDUyYWI4ZjBkYTljZjUzYWNk",
+  "snapshot_id": "MCwzOWQ0NjA2YTQ2ODU1OWY0OGZmYzZmZjY2YjVjNjYzNWNjMDQzNmEx",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Exitos de Victor Manuelle",
         "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
       },
@@ -139,22 +123,6 @@
       "duration_ms": 303306,
       "name": "Tu Con El",
       "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -207,22 +175,34 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Lo Mato",
-        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 328786,
-      "name": "El D\u00eda De Mi Suerte",
-      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -271,22 +251,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Cambio de Piel",
-      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Exitos y M\u00e1s",
         "url": "https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX"
       },
@@ -299,6 +263,22 @@
       "duration_ms": 324466,
       "name": "Siempre Ser\u00e9",
       "url": "https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Maelo...El \u00danico",
+        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 339240,
+      "name": "El Nazareno",
+      "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -323,18 +303,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Maelo...El \u00danico",
-        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
       },
       "artists": [
         {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 339240,
-      "name": "El Nazareno",
-      "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
+      "duration_ms": 328786,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -371,8 +355,8 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
       "artists": [
         {
@@ -380,9 +364,9 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 374053,
-      "name": "Tu Vida en la M\u00eda",
-      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+      "duration_ms": 279360,
+      "name": "Cambio de Piel",
+      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -399,6 +383,22 @@
       "duration_ms": 266786,
       "name": "Conteo Regresivo - Salsa Version",
       "url": "https://open.spotify.com/track/5YfqVqJwjxiyhxvofbCnHp"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "A Mi Estilo...",
+        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 349600,
+      "name": "Se\u00f1ora De Madrugada",
+      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -459,38 +459,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "A Mi Estilo...",
-        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 349600,
-      "name": "Se\u00f1ora De Madrugada",
-      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 228966,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "El Caballero De La Salsa - La Historia Tropical",
         "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
       },
@@ -519,6 +487,22 @@
       "duration_ms": 449640,
       "name": "Aparentemente - En Vivo",
       "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -607,6 +591,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 228966,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
@@ -635,26 +635,6 @@
       "duration_ms": 383040,
       "name": "Loco Pero Feliz",
       "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "V\u00edctimas las Dos",
-        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 257614,
-      "name": "V\u00edctimas las Dos",
-      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -723,6 +703,26 @@
       "duration_ms": 246720,
       "name": "La Esencia Del Guaguanc\u00f3",
       "url": "https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "V\u00edctimas las Dos",
+        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 257614,
+      "name": "V\u00edctimas las Dos",
+      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
     },
     {
       "added_at": "2023-08-11 04:00:00",

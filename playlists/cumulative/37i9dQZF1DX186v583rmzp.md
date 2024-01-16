@@ -4,7 +4,7 @@
 
 > Real rap music from the golden era.
 
-216 songs - 15 hr 24 min
+217 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,8 +177,9 @@
 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 | 2021-12-16 |  |
 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 | 2021-12-16 |  |
 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 | 2022-07-13 |  |
-| [Simon Says](https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Simon Says](https://open.spotify.com/album/2hKCg2JLGtjATrYvpQedT5) | 2:53 | 2022-07-13 |  |
+| [Simon Says](https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Simon Says](https://open.spotify.com/album/2hKCg2JLGtjATrYvpQedT5) | 2:53 | 2022-07-13 | 2024-01-16 |
 | [Simon Says](https://open.spotify.com/track/7F9FgsJXWvFENrhLYtYymg) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Simon Says](https://open.spotify.com/album/4q8xMEhezZWAqvoESNbGSf) | 2:53 | 2022-05-10 | 2022-07-29 |
+| [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 | 2023-12-07 |  |
 | [Slam](https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Bacdafucup](https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K) | 3:38 | 2022-07-13 | 2023-01-13 |
 | [So What'Cha Want](https://open.spotify.com/track/25pl7kV4OxafIc9wPAggYf) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Anthology: The Sounds Of Science](https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2) | 3:37 | 2022-10-13 | 2022-11-13 |
 | [Sound of da Police](https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Return of the Boom Bap](https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9) | 4:18 | 2022-07-13 |  |

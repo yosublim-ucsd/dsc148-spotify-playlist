@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-125 songs - 7 hr 52 min
+126 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Ninfa de la Villa](https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cosmic Wacho](https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1) | 3:09 | 2021-10-20 |  |
 | [No Pares Hasta Tener lo Suficiente \(Don't Stop 'til You Get Enough\)](https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 2:54 | 2021-10-20 |  |
 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 | 2021-10-20 |  |
-| [Noche triler](https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n) | [LA MECANICA POPULAR](https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK) | [Noche triler](https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId) | 3:58 | 2021-10-20 |  |
+| [Noche triler](https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n) | [LA MECANICA POPULAR](https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK) | [Noche triler](https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId) | 3:58 | 2021-10-20 | 2024-01-16 |
 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2021-10-20 |  |
 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-12 |  |
 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 | 2021-10-20 |  |
@@ -120,6 +120,7 @@
 | [Teniente Harina \- Cumbia Manifiesto, Pt\. 2](https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Teniente Harina \(Cumbia Manifiesto, Pt\. 2\)](https://open.spotify.com/album/3DpKcXVDBjNm7QvhOUd6Wq) | 2:21 | 2022-03-11 |  |
 | [Thai Cumbia](https://open.spotify.com/track/4nwvjS6LoAXGtQnvJKJuMY) | [Rolando Bruno](https://open.spotify.com/artist/6lxsLBQooRKATCql5xjXfP) | [Bailazo](https://open.spotify.com/album/190UZl9plvUecfZplaAhRs) | 3:45 | 2021-10-20 |  |
 | [The Link Is About to Die](https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:48 | 2022-02-15 | 2024-01-14 |
+| [The Link Is About to Die](https://open.spotify.com/track/4IZYR8grCH5snauh6rQFbV) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO) | 3:48 | 2022-02-15 |  |
 | [Todos tenemos hogar](https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Historia natural](https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N) | 3:43 | 2021-10-20 |  |
 | [Tu y Yo](https://open.spotify.com/track/1JadQMSwfzMBZ9h3ymjPx0) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Grupo Almendra](https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 4:28 | 2021-10-20 | 2023-08-10 |
 | [Un Silbido Amoroso](https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:35 | 2021-10-20 |  |

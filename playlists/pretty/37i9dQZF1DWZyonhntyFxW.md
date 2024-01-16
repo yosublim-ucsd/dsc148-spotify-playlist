@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9?si=Pb48qvpcQXyihE4cOGp6Xg"> Lege\-Cy </a> : اجمد التراكات كلها على ملوك السين غلاف
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,340 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,484 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 9 | [Tarab](https://open.spotify.com/track/709KYvIszGGKs4vjmWzAPq) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [7a7a](https://open.spotify.com/artist/5yhMmeUQ0NZn1WuW0sbD5s) | [Red Bull Sika](https://open.spotify.com/album/3JPrrTh4yG6WZBXXYa6Wsy) | 2:19 |
 | 10 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 |
 | 11 | [Tripod](https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 3:48 |
-| 12 | [Haaland](https://open.spotify.com/track/2soVy9jLOXdXPW8OFNzzrj) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK) | [Manchester City](https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt) | 3:51 |
-| 13 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 |
-| 14 | [Matafetch](https://open.spotify.com/track/0ZGmHDAUSgGV5mCUbtYFe7) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:36 |
+| 12 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 |
+| 13 | [Matafetch](https://open.spotify.com/track/0ZGmHDAUSgGV5mCUbtYFe7) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:36 |
+| 14 | [سخنت](https://open.spotify.com/track/3XAUmK0uUZKIWET53ty42t) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [سخنت](https://open.spotify.com/album/5BkD4tMCI2qfFecCXRvtO3) | 3:06 |
 | 15 | [KAMASHA \- كماشه \(feat\. Wezza Montaser\)](https://open.spotify.com/track/0TRvIDRqRemga0vsrSaiwf) | [Mahdy Madness](https://open.spotify.com/artist/36szCFNfwtBlzqucTGjkaA), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [METHANOL 62](https://open.spotify.com/album/7fGb0W5kyonlNbdoI1aAfU) | 3:21 |
 | 16 | [Mexicano Bro](https://open.spotify.com/track/7JCZsaFXM2sXmUIEOGbaji) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp) | [Mexicano Bro](https://open.spotify.com/album/2fnBQ0t795zHnHFLxHCnju) | 3:58 |
 | 17 | [100 WAHDA](https://open.spotify.com/track/4gSDKnZbzQsvgYMW48Gljy) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [2000 W KAM](https://open.spotify.com/album/6X0Cl2dlufuA4ZUwvZjhYL) | 3:00 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
 | 40 | [STR3](https://open.spotify.com/track/7HUzfXz80MNyHvSs3JcJOP) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Intomymind](https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu) | [STR3](https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx) | 3:28 |
 
-Snapshot ID: `MCxlZjMwY2QwMjliOGJiYmE4YjlhODJmMWI0YjM1NDJmMWU2M2QzNjUx`
+Snapshot ID: `MCxhMDg2ODk5YWQ3YWQ3MGJkYzczNDQ2MzNhM2RhNmU5YTEyZmE4ZGUz`

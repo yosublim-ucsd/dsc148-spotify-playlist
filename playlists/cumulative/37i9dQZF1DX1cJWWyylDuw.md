@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-520 songs - 1 day 9 hr 48 min
+521 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Dead Rabbit](https://open.spotify.com/track/3YQHk5o9uDDIBvTQ5tEKVl) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Dead Rabbit](https://open.spotify.com/album/3pR1R0B0l1WVieIcjzBIz0) | 3:11 | 2023-02-24 | 2023-12-24 |
 | [Dead Rabbit](https://open.spotify.com/track/6YnVxaVJSDi12MJD6XMUFI) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Dead Rabbit](https://open.spotify.com/album/1VMwMOt7ka9NWKwdaynncb) | 3:11 | 2023-12-13 |  |
 | [Deadly Potential](https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Deadly Potential](https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy) | 3:04 | 2022-12-16 | 2023-01-19 |
+| [Death Magick](https://open.spotify.com/track/0XcyTZVnvgnvgDIQEIb1S6) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death Magick](https://open.spotify.com/album/1wU3JkqJnu6jj3AnTas0Tq) | 7:07 | 2023-12-13 |  |
 | [Death Magick](https://open.spotify.com/track/0lWZnBWW0UbN7t2r1b2CXi) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death Magick](https://open.spotify.com/album/1Tn0srx1e04A3T2TfEJGss) | 7:07 | 2023-08-16 | 2023-11-13 |
 | [Death March](https://open.spotify.com/track/4v9IrQXFYYbeHGR9EOnnqR) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Death March](https://open.spotify.com/album/5XxLSif8ZxqAcAZIgLfRGm) | 3:11 | 2021-12-17 | 2022-07-29 |
 | [Death Perception](https://open.spotify.com/track/2fX47U6zoZscL53OF8AmHL) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Death Perception](https://open.spotify.com/album/1PvmiiUDT5lnYfL1ATCS1Y) | 2:34 | 2021-12-17 | 2022-04-07 |
@@ -346,7 +347,7 @@
 | [Omega](https://open.spotify.com/track/3YxSM482jeTSrlnSjdFFeW) | [Abyss Above](https://open.spotify.com/artist/0scPLkLLKJ1iEr4cnCVQ9m) | [Doombound](https://open.spotify.com/album/5YugQGshaYkmmqFpSF7IdL) | 3:53 | 2021-12-31 | 2022-07-27 |
 | [On Wings of Carnage](https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr) | [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [On Wings of Carnage](https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB) | 3:45 | 2022-01-21 | 2023-12-30 |
 | [Order of the Black Worm](https://open.spotify.com/track/3i31Z6cHzFGew8GcQ0TNMi) | [Let It Rot](https://open.spotify.com/artist/5p9HWdsMLHKU8PCj5UWeiU) | [Order of the Black Worm](https://open.spotify.com/album/0PGkBzdVl5w2fFvmLZXaZn) | 3:16 | 2021-12-17 | 2022-05-26 |
-| [Orphan Of Blight](https://open.spotify.com/track/0FqUTC2WXiBhSd6N2vXaWn) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Orphan Of Blight](https://open.spotify.com/album/4nQfKw0MqqObJRh1qtljqg) | 4:40 | 2022-12-02 |  |
+| [Orphan Of Blight](https://open.spotify.com/track/0FqUTC2WXiBhSd6N2vXaWn) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Orphan Of Blight](https://open.spotify.com/album/4nQfKw0MqqObJRh1qtljqg) | 4:40 | 2022-12-02 | 2024-01-16 |
 | [Outrun](https://open.spotify.com/track/2CruovQVFC9NdqOM40tObf) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/2MxaRRkncFrg3v422FUHxN) | 3:45 | 2022-10-27 |  |
 | [Outrun](https://open.spotify.com/track/4Ybl8SLHUxerNOWtXjE1pA) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/3PtZnZ5OySxape4SVskOE4) | 3:45 | 2021-12-17 | 2022-11-05 |
 | [Overlord](https://open.spotify.com/track/1Tg8yTnIA7lNC2aQPbuQHd) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Overlord](https://open.spotify.com/album/4IYXhSQyH18f8kceUIHn9m) | 3:10 | 2021-12-17 | 2022-07-04 |

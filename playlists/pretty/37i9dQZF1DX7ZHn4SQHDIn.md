@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 
 > All in us! ITZY is back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,852 likes - 91 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,010 likes - 91 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 | 90 | [WANT IT? \- Imad Royal Remix](https://open.spotify.com/track/73Y127nxOVRDwWhW2wT3qY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [Imad Royal](https://open.spotify.com/artist/6OgklJh1e1Z9S1Q2IQsHgy) | [IT'z ICY](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) | 3:27 |
 | 91 | [WANT IT?](https://open.spotify.com/track/24HHXG8VtexJC0hrJe1WJY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) | 3:20 |
 
-Snapshot ID: `MCw4MzY2ZTE2NDc5YjMwNDIxMGUzNjUxOGRkMjY0NWRiOTdjNzNkMDlk`
+Snapshot ID: `MCw3YzQxN2ZjOTIxYzJjMzUzYjI5ZTJmOGY5MjVjZWRlNTA2YTQ3Zjgx`

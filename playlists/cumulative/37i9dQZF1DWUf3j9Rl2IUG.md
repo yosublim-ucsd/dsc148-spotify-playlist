@@ -2,9 +2,9 @@
 
 ### [Gbedu](https://open.spotify.com/playlist/37i9dQZF1DWUf3j9Rl2IUG)
 
-> Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW?si=RdwpiBkNQna6T1AWYqS4NA">Yemi Alade</a>
+> Afrobeats' hottest singles\. Cover: Wizkid
 
-279 songs - 13 hr 26 min
+280 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD) | 2:57 | 2022-06-09 | 2023-11-17 |
 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 | 2022-06-09 | 2023-11-09 |
 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-13 | 2023-10-20 |
-| [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-14 |  |
+| [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-14 | 2024-01-16 |
 | [DESIGNER \- OMO ILE ELERU](https://open.spotify.com/track/3rzVwJPZux1j4K72fva17l) | [AJIMOVOIX DRUMS](https://open.spotify.com/artist/7yIkWOCQGXIJnArztUyK5e) | [AVAILABLE FOR THE STREET \(AFTS\)](https://open.spotify.com/album/0MpK5JDdoJX49yEg2FdDre) | 1:40 | 2023-03-23 | 2023-04-11 |
 | [Different Pattern](https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:03 | 2023-12-08 |  |
 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 | 2022-07-07 | 2023-10-27 |
@@ -88,7 +88,7 @@
 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-25 |  |
 | [Dupe](https://open.spotify.com/track/2fFMt9ZyCKbKu6ykv2VMlD) | [Pasuma](https://open.spotify.com/artist/2icl63UROfGjWheC4XkcnQ) | [Dupe](https://open.spotify.com/album/7FP7FNxXOiZGu4EMvislxE) | 2:21 | 2023-02-03 | 2023-02-10 |
 | [Ebelebe \(feat\. Wizkid\)](https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Legend Or No Legend](https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ) | 3:29 | 2023-05-19 |  |
-| [EFCC](https://open.spotify.com/track/5qFSNLIxAPu80gaunwvUpk) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Mamapiano](https://open.spotify.com/album/70HZ6HLsOmoGKYGhit4Frr) | 3:18 | 2023-12-15 |  |
+| [EFCC](https://open.spotify.com/track/5qFSNLIxAPu80gaunwvUpk) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Mamapiano](https://open.spotify.com/album/70HZ6HLsOmoGKYGhit4Frr) | 3:18 | 2023-12-15 | 2024-01-16 |
 | [Egopiano](https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Egopiano](https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A) | 2:31 | 2023-11-10 | 2023-12-08 |
 | [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 | 2024-01-08 |  |
 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-18 |  |
@@ -109,7 +109,7 @@
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:14 | 2023-09-29 |  |
 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2023-02-10 | 2023-12-19 |
 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 | 2023-05-04 | 2023-12-02 |
-| [Gbadun](https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Gbadun](https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO) | 2:40 | 2023-12-01 | 2024-01-15 |
+| [Gbadun](https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Gbadun](https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO) | 2:40 | 2023-12-01 |  |
 | [Gbedu](https://open.spotify.com/track/1XhTCQFzYcgFeJpkw2x2VV) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Gbedu](https://open.spotify.com/album/78tVCq1xaSu5u8L3sABqE4) | 3:09 | 2023-09-21 | 2023-10-13 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-07-04 | 2023-02-24 |
 | [Girls Just Wanna Have Funds](https://open.spotify.com/track/5hRhFIwjli51p4fAxwyqpF) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Girls Just Wanna Have Funds](https://open.spotify.com/album/339HC2ut5KYXJIBryrAgUf) | 3:35 | 2022-12-18 | 2023-01-17 |
@@ -253,6 +253,7 @@
 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 | 2023-04-28 | 2023-12-30 |
 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 | 2023-03-18 |  |
 | [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 | 2023-01-27 | 2023-04-23 |
+| [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 | 2024-01-15 |  |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-01-12 |  |
 | [Taka Oshi](https://open.spotify.com/track/2NexijiPK9irTO8VsjiF9N) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Big Time](https://open.spotify.com/album/6T069OH10Fo4kfJGO6kiWG) | 2:13 | 2023-03-15 | 2023-03-18 |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 | 2023-05-27 |

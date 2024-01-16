@@ -1,12 +1,12 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora n\u00e9 n\u00e3o?? ",
-  "num_followers": 532388,
+  "num_followers": 532022,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTI1N2FlNTFiNzVhN2NkZDdlYWE2ODM4ODkwZTM4NWY2MzNmZmQ2",
+  "snapshot_id": "MCxhZTQzOTJiMjQwNGY1YTJmOTY1NWM1YjFiZTNlZGIzZjY5Y2YxM2M3",
   "tracks": [
     {
       "added_at": "2024-01-12 17:20:14",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-01-12 17:20:14",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 205634,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
-    },
-    {
-      "added_at": "2024-01-12 17:20:14",
-      "album": {
         "name": "B'Day Deluxe Edition",
         "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 227853,
       "name": "Irreplaceable",
       "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
+    },
+    {
+      "added_at": "2024-01-12 17:20:14",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 205634,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
     },
     {
       "added_at": "2024-01-12 17:20:14",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-01-12 17:20:14",
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 173228,
-      "name": "Penhasco2",
-      "url": "https://open.spotify.com/track/0t5cfOZxePTvuYXTywHzjH"
-    },
-    {
-      "added_at": "2024-01-12 17:20:14",
-      "album": {
         "name": "The Vanishing Race",
         "url": "https://open.spotify.com/album/1WVavkGT7qfAwjCRrgYLN5"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 225760,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/5XHf9PBxxHmJFuiDkGNIOA"
+    },
+    {
+      "added_at": "2024-01-12 17:20:14",
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 173228,
+      "name": "Penhasco2",
+      "url": "https://open.spotify.com/track/0t5cfOZxePTvuYXTywHzjH"
     },
     {
       "added_at": "2024-01-12 17:20:14",

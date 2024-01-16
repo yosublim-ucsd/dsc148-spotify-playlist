@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 45385,
+  "num_followers": 45404,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGY2ZGZlOGRmMmMwMTA0MzAwZGM0NmQ2MDk1YzhiMDk4MmFmNWM1",
+  "snapshot_id": "MCw4NDM5YmNmYzJlNzg5ODQwYmVjOWNkYjM0ZWI4ZDc5ZGFjZTU0MjRm",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes Del Chamame",
-          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
-        }
-      ],
-      "duration_ms": 125826,
-      "name": "Asi Se Baila El Chamame",
-      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -239,18 +223,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
       },
       "artists": [
         {
-          "name": "Pancho Escalada",
-          "url": "https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f"
+          "name": "Los Reyes Del Chamame",
+          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
         }
       ],
-      "duration_ms": 210453,
-      "name": "Seleccion de temas enganchados",
-      "url": "https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ"
+      "duration_ms": 125826,
+      "name": "Asi Se Baila El Chamame",
+      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -271,6 +255,22 @@
       "duration_ms": 120946,
       "name": "Las Tres Marias",
       "url": "https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Pancho Escalada",
+          "url": "https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Seleccion de temas enganchados",
+      "url": "https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Entre Chamam\u00e9 y Sapucay",
-        "url": "https://open.spotify.com/album/1icp40IGBQgUVHtyqdxRSX"
-      },
-      "artists": [
-        {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
-        }
-      ],
-      "duration_ms": 155246,
-      "name": "Entre Chamam\u00e9 y Sapucay",
-      "url": "https://open.spotify.com/track/4CIfZ8W6QaIilsR7Ytb3LX"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "10 A\u00f1os Unidos Por El Chamam\u00e9",
         "url": "https://open.spotify.com/album/1jUXuKAKPH0aDtT7Z5FRwY"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 173480,
       "name": "Entre Amigos Y Chamam\u00e9",
       "url": "https://open.spotify.com/track/7L19S0sFnKLPoyygK8LQ0W"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Entre Chamam\u00e9 y Sapucay",
+        "url": "https://open.spotify.com/album/1icp40IGBQgUVHtyqdxRSX"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "duration_ms": 155246,
+      "name": "Entre Chamam\u00e9 y Sapucay",
+      "url": "https://open.spotify.com/track/4CIfZ8W6QaIilsR7Ytb3LX"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Reyes de la Alegr\u00eda",
-        "url": "https://open.spotify.com/album/4nHGvyIggXJIgOnhvCDgQK"
-      },
-      "artists": [
-        {
-          "name": "Los Sena",
-          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
-        }
-      ],
-      "duration_ms": 130785,
-      "name": "Adi\u00f3s Ciudad de Mercedes",
-      "url": "https://open.spotify.com/track/01XFm4g3gKr0Hmw2cjNn13"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Coraz\u00f3n Chamamecero",
         "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 208346,
       "name": "El Gaucho Gil",
       "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Reyes de la Alegr\u00eda",
+        "url": "https://open.spotify.com/album/4nHGvyIggXJIgOnhvCDgQK"
+      },
+      "artists": [
+        {
+          "name": "Los Sena",
+          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
+        }
+      ],
+      "duration_ms": 130785,
+      "name": "Adi\u00f3s Ciudad de Mercedes",
+      "url": "https://open.spotify.com/track/01XFm4g3gKr0Hmw2cjNn13"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "La Juventud Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/3T3vOhEeWb1LcxzzJKzC5t"
-      },
-      "artists": [
-        {
-          "name": "Potencia Chamamecera",
-          "url": "https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK"
-        }
-      ],
-      "duration_ms": 252018,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/5KOtFFnWELr378pMNuNTJO"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 202786,
       "name": "Km. 11",
       "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "La Juventud Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/3T3vOhEeWb1LcxzzJKzC5t"
+      },
+      "artists": [
+        {
+          "name": "Potencia Chamamecera",
+          "url": "https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK"
+        }
+      ],
+      "duration_ms": 252018,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5KOtFFnWELr378pMNuNTJO"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Sobredosis De Chamame",
-        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "La Fiesta Del Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Otras M\u00fasicas",
         "url": "https://open.spotify.com/album/09sEjVuNxgmY9OxKR6P9Jn"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Taipero Poriahu",
-        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
+        "name": "Sobredosis De Chamame",
+        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
       },
       "artists": [
         {
-          "name": "Antonio Tarrag\u00f3 Ros",
-          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Taipero Poriahu",
-      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
+      "duration_ms": 296653,
+      "name": "La Fiesta Del Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 196733,
       "name": "La Calandria",
       "url": "https://open.spotify.com/track/1r5cTK6CzYEIhDS1p81OS2"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Taipero Poriahu",
+        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
+      },
+      "artists": [
+        {
+          "name": "Antonio Tarrag\u00f3 Ros",
+          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Taipero Poriahu",
+      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+        }
+      ],
+      "duration_ms": 185906,
+      "name": "Malvita",
+      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "P\u00e1jaro Chog\u00fc\u00ed",
         "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 138893,
       "name": "P\u00e1jaro Chog\u00fc\u00ed",
       "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
-        }
-      ],
-      "duration_ms": 185906,
-      "name": "Malvita",
-      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto",
-        "url": "https://open.spotify.com/album/3iTwMKOnbPJvE4SH12yj3s"
-      },
-      "artists": [
-        {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
-        }
-      ],
-      "duration_ms": 288866,
-      "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
-      "url": "https://open.spotify.com/track/3VNpX2bB43qkJGutZ65rff"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 187013,
       "name": "Rumbeando Pal Litoral",
       "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto",
+        "url": "https://open.spotify.com/album/3iTwMKOnbPJvE4SH12yj3s"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "duration_ms": 288866,
+      "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
+      "url": "https://open.spotify.com/track/3VNpX2bB43qkJGutZ65rff"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
-          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "Al Gaucho Gil",
-      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Mano a mano",
         "url": "https://open.spotify.com/album/5qeGWTgeMnjCSa28z2Ki9y"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 144906,
       "name": "El pe\u00f3n de Obraje",
       "url": "https://open.spotify.com/track/7HG7rEI3qkOukfGvRxj9ge"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
+          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Al Gaucho Gil",
+      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/2L7t3aR7OIj7YdRiYmEd9O"
+      },
+      "artists": [
+        {
+          "name": "Los Chamameceros de Federal",
+          "url": "https://open.spotify.com/artist/1iBMoh8uDvIOzP72LbmF9O"
+        }
+      ],
+      "duration_ms": 298893,
+      "name": "L\u00e1zaro Blanco/Como Zapato en la Tapera/Por Llegar de Madrugada/Como Calandria Pal Cebo/barrio Uni\u00f3n/devuelta a Mi Ranchito/a Cachencho Federal",
+      "url": "https://open.spotify.com/track/26Q2T1D7kFDDPs7aoJcgpQ"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Sencillito Nom\u00e1s",
         "url": "https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 110706,
       "name": "Camino a las cuchillas",
       "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "La Diferencia",
-        "url": "https://open.spotify.com/album/2L7t3aR7OIj7YdRiYmEd9O"
-      },
-      "artists": [
-        {
-          "name": "Los Chamameceros de Federal",
-          "url": "https://open.spotify.com/artist/1iBMoh8uDvIOzP72LbmF9O"
-        }
-      ],
-      "duration_ms": 298893,
-      "name": "L\u00e1zaro Blanco/Como Zapato en la Tapera/Por Llegar de Madrugada/Como Calandria Pal Cebo/barrio Uni\u00f3n/devuelta a Mi Ranchito/a Cachencho Federal",
-      "url": "https://open.spotify.com/track/26Q2T1D7kFDDPs7aoJcgpQ"
     },
     {
       "added_at": "2023-06-09 03:00:00",

@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music Across East Africa
 
-124 songs - 10 hr 2 min
+125 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Money](https://open.spotify.com/track/2ZPKXWhtR5xfONqBdSgBiO) | [Dj McKenzie](https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45) | [Money](https://open.spotify.com/album/4jvIzo5bnxPmkyhe1P3DQ0) | 2:55 | 2023-03-03 |  |
 | [Moonlight](https://open.spotify.com/track/6rrATKJB6UFjwK3CGvoRqK) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [N@OM1](https://open.spotify.com/artist/1mCXXd6kgTl6zLQ20KRFn8) | [Moonlight](https://open.spotify.com/album/1oGWt4uKWXHx6kR9gQPLB1) | 2:41 | 2022-08-19 | 2023-02-18 |
 | [Moto \- Radio Edit](https://open.spotify.com/track/4nKJxT9FbMsfc8CJdjzqOG) | [Aaron Sevilla](https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX), [Ricardo Criollo House](https://open.spotify.com/artist/3AtHoqwYxlqqGsrzOUGxYu), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Moto](https://open.spotify.com/album/776jYbFBjzWccy2OMgkcdm) | 2:58 | 2023-10-12 |  |
-| [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-03 |  |
+| [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-03 | 2024-01-16 |
+| [Mwaki \- Major Lazer Remix](https://open.spotify.com/track/0c6dw8qe0mNA2sMETrDUl9) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Major Lazer Remix\)](https://open.spotify.com/album/7MAWQ0wUnEZiI7Y9qkqlhd) | 3:15 | 2024-01-15 |  |
 | [Mwakitau](https://open.spotify.com/track/38y0Q9bNqG4S5PmZZKkHpK) | [Dj Grandeur Ke](https://open.spotify.com/artist/02G7nyKkJoIAZQFTee7TOy) | [Mwakitau](https://open.spotify.com/album/1sGTZBOrujz2OyhFpkYrak) | 4:57 | 2023-10-27 |  |
 | [Mwele \- Chalee Remix](https://open.spotify.com/track/07lE4WqD5v3jZgwiYSk5H8) | [Egeme](https://open.spotify.com/artist/2G6oOdpqtQw5y2sb3JHshd), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Chaleee](https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c) | [Mwele \(Chalee Remix\)](https://open.spotify.com/album/1f5eRNVwmLj7BnteTVfJJs) | 6:59 | 2023-08-24 |  |
 | [Mwenye](https://open.spotify.com/track/115rYufaofiqBoQGAwNCdt) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mwenye](https://open.spotify.com/album/0wiXMY7q9dyIsR24alOcvl) | 8:33 | 2023-05-05 |  |

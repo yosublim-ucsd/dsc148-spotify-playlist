@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 56384,
+  "num_followers": 56378,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzJjZWI0OGFhZTlmOTU3MzllOTU2ZDQ0OTE1YjBjYzRkZDJjZDc2",
+  "snapshot_id": "MCxhODUyNzgyNzU3ZTZkNGM2MDY1ZjI3MWU2NzY3YzViZDI4MTE0MWNh",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -187,26 +187,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Sue\u00f1o C\u00edtrico",
-        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 202538,
-      "name": "Vencimiento",
-      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 207786,
       "name": "Ser De Ti",
       "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Sue\u00f1o C\u00edtrico",
+        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 202538,
+      "name": "Vencimiento",
+      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "poco a poquito",
-        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "poco a poquito",
-      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Caf\u00e9 con Miel",
         "url": "https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 195437,
       "name": "Caf\u00e9 con Miel",
       "url": "https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "poco a poquito",
+        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Mis Amantes",
         "url": "https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 229622,
       "name": "Mis Amantes",
       "url": "https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
+        "url": "https://open.spotify.com/album/2AqxjpMBlOA9RZx8RWbmju"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
+      "url": "https://open.spotify.com/track/2qNkCvTOfJFdXglLsjzwBO"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Perderse (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5AsFyNt74exZrhSxo1pAXn"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 193082,
       "name": "Perderse - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5cIBKumn6Q2taeTNlJTKYe"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
-        "url": "https://open.spotify.com/album/2AqxjpMBlOA9RZx8RWbmju"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
-      "url": "https://open.spotify.com/track/2qNkCvTOfJFdXglLsjzwBO"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1375,22 +1375,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Coquimbo, Mazatl\u00e1n",
-        "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
+        "name": "El Vals",
+        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+          "name": "Felix Alvarez",
+          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
         }
       ],
-      "duration_ms": 264732,
-      "name": "Coquimbo, Mazatl\u00e1n",
-      "url": "https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z"
+      "duration_ms": 200956,
+      "name": "El Vals",
+      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1411,18 +1407,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "El Vals",
-        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
+        "name": "Coquimbo, Mazatl\u00e1n",
+        "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
       },
       "artists": [
         {
-          "name": "Felix Alvarez",
-          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
         }
       ],
-      "duration_ms": 200956,
-      "name": "El Vals",
-      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
+      "duration_ms": 264732,
+      "name": "Coquimbo, Mazatl\u00e1n",
+      "url": "https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1459,42 +1459,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "plasti bonus track",
-        "url": "https://open.spotify.com/album/1XVWDJkUFe03SpQDDN8DTS"
-      },
-      "artists": [
-        {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
-        },
-        {
-          "name": "Acus",
-          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
-        }
-      ],
-      "duration_ms": 202687,
-      "name": "hoy me despert\u00e9 as\u00ed - v. 02",
-      "url": "https://open.spotify.com/track/3NlTGKhMil22mpMwxKL99N"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 157389,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "En una",
         "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
       },
@@ -1515,22 +1479,38 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Particular",
-        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
       },
       "artists": [
         {
-          "name": "TORO",
-          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
-        },
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
         }
       ],
-      "duration_ms": 165808,
-      "name": "Particular",
-      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
+      "duration_ms": 157389,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "plasti bonus track",
+        "url": "https://open.spotify.com/album/1XVWDJkUFe03SpQDDN8DTS"
+      },
+      "artists": [
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        },
+        {
+          "name": "Acus",
+          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
+        }
+      ],
+      "duration_ms": 202687,
+      "name": "hoy me despert\u00e9 as\u00ed - v. 02",
+      "url": "https://open.spotify.com/track/3NlTGKhMil22mpMwxKL99N"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1551,6 +1531,26 @@
       "duration_ms": 209829,
       "name": "No Ves Tal Vez",
       "url": "https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Particular",
+        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
+      },
+      "artists": [
+        {
+          "name": "TORO",
+          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+        },
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "duration_ms": 165808,
+      "name": "Particular",
+      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Ya Lo S\u00e9, Pero Igual",
-        "url": "https://open.spotify.com/album/5yYSt3CC3iidgCucpNRbe0"
-      },
-      "artists": [
-        {
-          "name": "Luciano Altair",
-          "url": "https://open.spotify.com/artist/5zYGj1hsIxc6gjoLLTs9IQ"
-        }
-      ],
-      "duration_ms": 263865,
-      "name": "Ya Lo S\u00e9, Pero Igual",
-      "url": "https://open.spotify.com/track/6XQfcsz1rjEYWhFKN6JXBR"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Instante Eterno de Felicidad",
         "url": "https://open.spotify.com/album/5yhABD33uH530lInv5JqFB"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 188210,
       "name": "Instante Eterno de Felicidad",
       "url": "https://open.spotify.com/track/1WgnAv2AxgRslHy6jKqkk1"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Ya Lo S\u00e9, Pero Igual",
+        "url": "https://open.spotify.com/album/5yYSt3CC3iidgCucpNRbe0"
+      },
+      "artists": [
+        {
+          "name": "Luciano Altair",
+          "url": "https://open.spotify.com/artist/5zYGj1hsIxc6gjoLLTs9IQ"
+        }
+      ],
+      "duration_ms": 263865,
+      "name": "Ya Lo S\u00e9, Pero Igual",
+      "url": "https://open.spotify.com/track/6XQfcsz1rjEYWhFKN6JXBR"
     },
     {
       "added_at": "2023-12-15 03:00:00",

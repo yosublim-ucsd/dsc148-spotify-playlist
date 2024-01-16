@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Salma Salsabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,206,771 likes - 76 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207,917 likes - 76 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 75 | [Catalyst.](https://open.spotify.com/track/5V8dpQ1eFrDjJvw0hnrIqh) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Pepita](https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa) | [Catalyst.](https://open.spotify.com/album/5bkm8U5R0eqE0hPUP4yxqp) | 3:16 |
 | 76 | [A Rush and a Push and the Land Is Ours \- 2011 Remaster](https://open.spotify.com/track/6Ps04Nfh2PySU4fIPZWxrU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 3:03 |
 
-Snapshot ID: `MCw3YTRlZjY4NTNlMWRhNWFlMTkwZGJkNjJjM2QyMTkwZDRkZjA4Mjgw`
+Snapshot ID: `MCxhODJhZGYzMWZmMDE0MTgyM2MyZWFjNTYzYzg3MDYxOTJiNjIyMWFi`

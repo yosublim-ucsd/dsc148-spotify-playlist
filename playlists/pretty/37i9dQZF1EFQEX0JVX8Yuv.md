@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6z0YyO7RUp5t7ZwkGKApUK">Kim Petras</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,384 likes - 91 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,383 likes - 91 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 90 | [Flight to Paris](https://open.spotify.com/track/3TxgHmuQhR6KIw70GllvOM) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Flight To Paris](https://open.spotify.com/album/69R61npQJZiMr8GrDO2I8w) | 6:04 |
 | 91 | [That's What's Up](https://open.spotify.com/track/1hGKDzYbd9lHbhD50y0nnj) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 
-Snapshot ID: `Mjg0MjE0MTAsMDAwMDAwMDA1MDU0ZTIwZDQ5OTAwZGEzODYwZTk2ZWM1YzcwMGMzYQ==`
+Snapshot ID: `Mjg0MjI4NTAsMDAwMDAwMDAyZjJjYzg0NTNkN2I2N2Q0YWNmYzc4ZTg1OWFiZDgxNA==`

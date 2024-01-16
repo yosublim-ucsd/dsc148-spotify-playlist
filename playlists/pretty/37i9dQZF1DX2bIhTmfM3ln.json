@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats love stories have the best beginnings",
-  "num_followers": 27251,
+  "num_followers": 27333,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODlhNDk3ZGFmMDAyNmVkYzllNzNlYWEwZjViMDA0MzM0NzgzMDc1",
+  "snapshot_id": "MCwyN2YzYjk0Mjc0M2ZhMzkwMDM3NzRlNWUwYzFiYTMzY2RlOWZkOGQz",
   "tracks": [
     {
       "added_at": "2024-01-12 05:47:28",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-01-12 05:47:28",
       "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
+    },
+    {
+      "added_at": "2024-01-12 05:47:28",
+      "album": {
         "name": "INTOXYCATED (feat. Dave)",
         "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 212000,
       "name": "INTOXYCATED (feat. Dave)",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
-    },
-    {
-      "added_at": "2024-01-12 05:47:28",
-      "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
     },
     {
       "added_at": "2024-01-12 05:47:28",
@@ -767,6 +767,26 @@
     {
       "added_at": "2024-01-12 05:47:28",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+    },
+    {
+      "added_at": "2024-01-12 05:47:28",
+      "album": {
         "name": "My Darling + Angelus",
         "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
@@ -815,26 +835,6 @@
     {
       "added_at": "2024-01-12 05:47:28",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
-    },
-    {
-      "added_at": "2024-01-12 05:47:28",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-01-12 05:47:28",
       "album": {
-        "name": "Jolie",
-        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 209235,
-      "name": "Jolie",
-      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
-    },
-    {
-      "added_at": "2024-01-12 05:47:28",
-      "album": {
         "name": "Teslim: The Energy Still Lives in Me",
         "url": "https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI"
       },
@@ -903,30 +887,6 @@
       "duration_ms": 194742,
       "name": "Early Momo",
       "url": "https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd"
-    },
-    {
-      "added_at": "2024-01-12 05:47:28",
-      "album": {
-        "name": "Soweto (with Omah Lay & Tempoe)",
-        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Soweto (with Omah Lay & Tempoe)",
-      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
     },
     {
       "added_at": "2024-01-12 05:47:28",
@@ -963,6 +923,22 @@
     {
       "added_at": "2024-01-12 05:47:28",
       "album": {
+        "name": "Jolie",
+        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 209235,
+      "name": "Jolie",
+      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
+    },
+    {
+      "added_at": "2024-01-12 05:47:28",
+      "album": {
         "name": "What's Poppin",
         "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
+    },
+    {
+      "added_at": "2024-01-12 05:47:28",
+      "album": {
+        "name": "Soweto (with Omah Lay & Tempoe)",
+        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Soweto (with Omah Lay & Tempoe)",
+      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
     },
     {
       "added_at": "2024-01-12 05:47:28",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-01-12 05:47:28",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2024-01-12 05:47:28",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -1051,26 +1035,6 @@
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2024-01-12 05:47:28",
-      "album": {
-        "name": "19 & Dangerous (Deluxe)",
-        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 142571,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH"
     },
     {
       "added_at": "2024-01-12 05:47:28",
@@ -1091,6 +1055,22 @@
     {
       "added_at": "2024-01-12 05:47:28",
       "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2024-01-12 05:47:28",
+      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 211265,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "added_at": "2024-01-12 05:47:28",
+      "album": {
+        "name": "19 & Dangerous (Deluxe)",
+        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 142571,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH"
     },
     {
       "added_at": "2024-01-12 05:47:28",
@@ -1151,6 +1151,22 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": "2024-01-12 05:47:28",
+      "album": {
+        "name": "Duffel Bag",
+        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 127067,
+      "name": "Duffel Bag",
+      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     },
     {
       "added_at": "2024-01-12 05:47:28",
@@ -1207,22 +1223,6 @@
       "duration_ms": 174226,
       "name": "Loju (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At"
-    },
-    {
-      "added_at": "2024-01-12 05:47:28",
-      "album": {
-        "name": "Duffel Bag",
-        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 127067,
-      "name": "Duffel Bag",
-      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     },
     {
       "added_at": "2024-01-12 05:47:28",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
     },
     {
-      "added_at": "2024-01-12 05:47:28",
-      "album": {
-        "name": "DKT",
-        "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "DKT",
-      "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
-    },
-    {
       "added_at": "2024-01-12 05:55:02",
       "album": {
         "name": "Qing Madi",
@@ -1363,6 +1347,22 @@
       "duration_ms": 189015,
       "name": "American Love",
       "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+    },
+    {
+      "added_at": "2024-01-12 05:47:28",
+      "album": {
+        "name": "DKT",
+        "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "DKT",
+      "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
     },
     {
       "added_at": "2024-01-12 05:47:28",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-01-12 05:47:28",
       "album": {
+        "name": "Sweet Tea (Aduke)",
+        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 149481,
+      "name": "Sweet Tea (Aduke)",
+      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
+    },
+    {
+      "added_at": "2024-01-12 05:47:28",
+      "album": {
         "name": "For Daddy",
         "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
       },
@@ -1415,26 +1431,6 @@
       "duration_ms": 153232,
       "name": "For Daddy",
       "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
-    },
-    {
-      "added_at": "2024-01-12 05:47:28",
-      "album": {
-        "name": "Sunflawa",
-        "url": "https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Sunflawa",
-      "url": "https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS"
     },
     {
       "added_at": "2024-01-12 05:47:28",
@@ -1459,34 +1455,42 @@
     {
       "added_at": "2024-01-12 05:47:28",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
+        "name": "Sunflawa",
+        "url": "https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
         }
       ],
-      "duration_ms": 175254,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
+      "duration_ms": 153250,
+      "name": "Sunflawa",
+      "url": "https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS"
     },
     {
       "added_at": "2024-01-12 05:47:28",
       "album": {
-        "name": "Sweet Tea (Aduke)",
-        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
+        "name": "OVAMI",
+        "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
       },
       "artists": [
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
         }
       ],
-      "duration_ms": 149481,
-      "name": "Sweet Tea (Aduke)",
-      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
+      "duration_ms": 204000,
+      "name": "OVAMI",
+      "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
     }
   ],
   "unique_name": "Lovin' Beats",

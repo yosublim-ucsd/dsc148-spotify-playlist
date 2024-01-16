@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Philippines.",
-  "num_followers": 1321207,
+  "num_followers": 1320610,
   "original_name": "Top 50 - Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU4NTk3NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU4NjgzODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Get Low",
         "url": "https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "711",
         "url": "https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Sa Susunod na Habang Buhay",
         "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
@@ -61,7 +61,47 @@
       "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "Makasarili Malambing",
+        "url": "https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B"
+      },
+      "artists": [
+        {
+          "name": "Kristina Dawn",
+          "url": "https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 121845,
+      "name": "Makasarili Malambing",
+      "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "Tingin",
+        "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        },
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "duration_ms": 222298,
+      "name": "Tingin",
+      "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "homebdy (feat. Madman Stan)",
         "url": "https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ"
@@ -85,79 +125,7 @@
       "url": "https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "Makasarili Malambing",
-        "url": "https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B"
-      },
-      "artists": [
-        {
-          "name": "Kristina Dawn",
-          "url": "https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d"
-        },
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 121845,
-      "name": "Makasarili Malambing",
-      "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "Tingin",
-        "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        },
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
-        }
-      ],
-      "duration_ms": 222298,
-      "name": "Tingin",
-      "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "Kung Alam Mo Lang",
-        "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
-      },
-      "artists": [
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Alam Mo Ba Girl",
-      "url": "https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -173,7 +141,23 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "Kung Alam Mo Lang",
+        "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Alam Mo Ba Girl",
+      "url": "https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "TAKE ALL THE LOVE",
         "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
@@ -189,23 +173,7 @@
       "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -229,23 +197,23 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
-        "name": "Faded (Raw)",
-        "url": "https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Illest Morena",
-          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 175384,
-      "name": "Faded (Raw)",
-      "url": "https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6"
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Para Sa Akin",
         "url": "https://open.spotify.com/album/1qtZrt2G6Yr3RP3ZfMGxwU"
@@ -261,23 +229,39 @@
       "url": "https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
-        "name": "Sad Songs and Bullshit Part 1",
-        "url": "https://open.spotify.com/album/7H0mDAUmK6BUuGZCy10kcv"
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
       "artists": [
         {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 284812,
-      "name": "ERE",
-      "url": "https://open.spotify.com/track/2BLdelIp46CHvKkyWeqZHL"
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "Faded (Raw)",
+        "url": "https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Faded (Raw)",
+      "url": "https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "RomCom",
         "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
@@ -293,23 +277,23 @@
       "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
-        "name": "PAREHAS TAYO",
-        "url": "https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk"
+        "name": "Sad Songs and Bullshit Part 1",
+        "url": "https://open.spotify.com/album/7H0mDAUmK6BUuGZCy10kcv"
       },
       "artists": [
         {
-          "name": "Nateman",
-          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
         }
       ],
-      "duration_ms": 256000,
-      "name": "PAREHAS TAYO",
-      "url": "https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b"
+      "duration_ms": 284812,
+      "name": "ERE",
+      "url": "https://open.spotify.com/track/2BLdelIp46CHvKkyWeqZHL"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "YK",
         "url": "https://open.spotify.com/album/0vJ2H4ZG19Enzadvy7xHIS"
@@ -325,7 +309,7 @@
       "url": "https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Strike Whilst the Iron Is Hot",
         "url": "https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl"
@@ -341,7 +325,23 @@
       "url": "https://open.spotify.com/track/0Qra8Ps4tJAZPqRXyehCjc"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "Miss Miss",
+        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 265677,
+      "name": "Miss Miss",
+      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "B.A.D.",
         "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
@@ -361,39 +361,23 @@
       "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
-        "name": "Miss Miss",
-        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
+        "name": "PAREHAS TAYO",
+        "url": "https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk"
       },
       "artists": [
         {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
         }
       ],
-      "duration_ms": 265677,
-      "name": "Miss Miss",
-      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
+      "duration_ms": 256000,
+      "name": "PAREHAS TAYO",
+      "url": "https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "Kisame",
-        "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
-      },
-      "artists": [
-        {
-          "name": "rhodessa",
-          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "Kisame",
-      "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t"
@@ -409,23 +393,23 @@
       "url": "https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
-        "name": "Raining In Manila",
-        "url": "https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy"
+        "name": "Kisame",
+        "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
       },
       "artists": [
         {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+          "name": "rhodessa",
+          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
         }
       ],
-      "duration_ms": 291070,
-      "name": "Raining In Manila",
-      "url": "https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ"
+      "duration_ms": 212608,
+      "name": "Kisame",
+      "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -441,7 +425,23 @@
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "Raining In Manila",
+        "url": "https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "duration_ms": 291070,
+      "name": "Raining In Manila",
+      "url": "https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "3rd Time\u2019s A Charm",
         "url": "https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Saan?",
         "url": "https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR"
@@ -477,23 +477,7 @@
       "url": "https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Capacities",
         "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
@@ -509,27 +493,23 @@
       "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
-        "name": "LUV DRUG",
-        "url": "https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE"
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
       "artists": [
         {
-          "name": "gins&melodies",
-          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
-        },
-        {
-          "name": "Eros Tongco",
-          "url": "https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 198888,
-      "name": "LUV DRUG",
-      "url": "https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm"
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Nahuhulog",
         "url": "https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP"
@@ -545,23 +525,7 @@
       "url": "https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "Lihim",
-        "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Lihim",
-      "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Senaryo",
         "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
@@ -581,39 +545,43 @@
       "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
-        "name": "Isa lang",
-        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
+        "name": "Lihim",
+        "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
       },
       "artists": [
         {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
         }
       ],
-      "duration_ms": 269256,
-      "name": "Isa lang",
-      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
+      "duration_ms": 246346,
+      "name": "Lihim",
+      "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "LUV DRUG",
+        "url": "https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+        },
+        {
+          "name": "Eros Tongco",
+          "url": "https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 198888,
+      "name": "LUV DRUG",
+      "url": "https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Umaasa",
         "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
@@ -629,23 +597,23 @@
       "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
-        "name": "Pasilyo",
-        "url": "https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK"
+        "name": "Isa lang",
+        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
       },
       "artists": [
         {
-          "name": "SunKissed Lola",
-          "url": "https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 270250,
-      "name": "Pasilyo",
-      "url": "https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o"
+      "duration_ms": 269256,
+      "name": "Isa lang",
+      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -665,39 +633,39 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+        "name": "Pasilyo",
+        "url": "https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "SunKissed Lola",
+          "url": "https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2"
         }
       ],
-      "duration_ms": 265360,
-      "name": "Agora Hills",
-      "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
+      "duration_ms": 270250,
+      "name": "Pasilyo",
+      "url": "https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
-        "name": "Ikaw Lang",
-        "url": "https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx"
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
       "artists": [
         {
-          "name": "NOBITA",
-          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 263500,
-      "name": "Ikaw Lang",
-      "url": "https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre"
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
@@ -713,39 +681,7 @@
       "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "Uhaw (Tayong Lahat)",
-        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
-      },
-      "artists": [
-        {
-          "name": "Dilaw",
-          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
-        }
-      ],
-      "duration_ms": 241185,
-      "name": "Uhaw (Tayong Lahat)",
-      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/2vd0mHXPGNEfvYK9PY5U2H"
@@ -765,7 +701,55 @@
       "url": "https://open.spotify.com/track/00h9iBIZPHjHAVoNzKHIOz"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "Ikaw Lang",
+        "url": "https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx"
+      },
+      "artists": [
+        {
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+        }
+      ],
+      "duration_ms": 263500,
+      "name": "Ikaw Lang",
+      "url": "https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "Uhaw (Tayong Lahat)",
+        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
+      },
+      "artists": [
+        {
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+        }
+      ],
+      "duration_ms": 241185,
+      "name": "Uhaw (Tayong Lahat)",
+      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Lil Kasalanan Shortie",
         "url": "https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO"
@@ -781,55 +765,7 @@
       "url": "https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "Para Sa Streets",
-        "url": "https://open.spotify.com/album/62G53UzsyGd1updwIfyXLq"
-      },
-      "artists": [
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 194475,
-      "name": "Para Sa Streets",
-      "url": "https://open.spotify.com/track/0szRYVD2MwFzQMs58PT1Ec"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
-      "album": {
-        "name": "WELCOME2DTQ",
-        "url": "https://open.spotify.com/album/1coaR0jupZjPePYu3AkFQP"
-      },
-      "artists": [
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 179115,
-      "name": "WELCOME2DTQ",
-      "url": "https://open.spotify.com/track/3gRhGExNITCqVo0mCyqp3m"
-    },
-    {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Estranghero",
         "url": "https://open.spotify.com/album/4RVn8ciIB4E7FMEBbmLpNc"
@@ -845,7 +781,39 @@
       "url": "https://open.spotify.com/track/6HVT2c1ZZdhH1nGFb4AxUJ"
     },
     {
-      "added_at": "2024-01-14 09:11:13",
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
       "album": {
         "name": "Strike Whilst the Iron Is Hot",
         "url": "https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl"
@@ -859,6 +827,38 @@
       "duration_ms": 261866,
       "name": "Hanggang Kailan - Umuwi Ka Na Baby",
       "url": "https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "Para Sa Streets",
+        "url": "https://open.spotify.com/album/62G53UzsyGd1updwIfyXLq"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 194475,
+      "name": "Para Sa Streets",
+      "url": "https://open.spotify.com/track/0szRYVD2MwFzQMs58PT1Ec"
+    },
+    {
+      "added_at": "2024-01-15 09:23:36",
+      "album": {
+        "name": "WELCOME2DTQ",
+        "url": "https://open.spotify.com/album/1coaR0jupZjPePYu3AkFQP"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 179115,
+      "name": "WELCOME2DTQ",
+      "url": "https://open.spotify.com/track/3gRhGExNITCqVo0mCyqp3m"
     }
   ],
   "unique_name": "Top 50 - Philippines",

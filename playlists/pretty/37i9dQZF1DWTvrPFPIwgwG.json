@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eurice Diniz",
-  "num_followers": 113117,
+  "num_followers": 113203,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjZjZjcwZDY3NTNmMTIyYTVjZmY2MGVkNzI4NzQ2MzllMDhiMGVk",
+  "snapshot_id": "MCxkNGJmMWE1YmFiZDEyMDA5YWQ0ZjI0Y2IzNDEzZTQ0MGNjZWRkMjBh",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -179,26 +179,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Est\u00e1 Tudo Bem",
-        "url": "https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 352502,
-      "name": "Est\u00e1 Tudo Bem",
-      "url": "https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Escritor",
         "url": "https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd"
       },
@@ -219,18 +199,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "N\u00e3o Se Cobre Tanto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo"
+        "name": "Est\u00e1 Tudo Bem",
+        "url": "https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs"
       },
       "artists": [
         {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 298174,
-      "name": "N\u00e3o Se Cobre Tanto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m"
+      "duration_ms": 352502,
+      "name": "Est\u00e1 Tudo Bem",
+      "url": "https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -291,22 +275,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Dono da Promessa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2nFGwCSljBIK7MWMyNa4AS"
+        "name": "N\u00e3o Se Cobre Tanto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo"
       },
       "artists": [
         {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
         }
       ],
-      "duration_ms": 357220,
-      "name": "Dono da Promessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1s4qZgWod9sm2XFWAlRYyk"
+      "duration_ms": 298174,
+      "name": "N\u00e3o Se Cobre Tanto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -327,6 +307,26 @@
       "duration_ms": 495754,
       "name": "Sorrir de Novo - Ao Vivo",
       "url": "https://open.spotify.com/track/3U3raybFpZft0rT58YSPFe"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Dono da Promessa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2nFGwCSljBIK7MWMyNa4AS"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 357220,
+      "name": "Dono da Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1s4qZgWod9sm2XFWAlRYyk"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Pode Dormir Tranquilo",
-        "url": "https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 288457,
-      "name": "Pode Dormir Tranquilo",
-      "url": "https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "O M\u00ednimo de Mim",
         "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
       },
@@ -447,30 +427,6 @@
       "duration_ms": 248571,
       "name": "O M\u00ednimo de Mim",
       "url": "https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "O C\u00e9u Tem Mais",
-        "url": "https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 452805,
-      "name": "O C\u00e9u Tem Mais",
-      "url": "https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -503,6 +459,50 @@
       "duration_ms": 255500,
       "name": "Sou Deus",
       "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Pode Dormir Tranquilo",
+        "url": "https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 288457,
+      "name": "Pode Dormir Tranquilo",
+      "url": "https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O C\u00e9u Tem Mais",
+        "url": "https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 452805,
+      "name": "O C\u00e9u Tem Mais",
+      "url": "https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Eu N\u00e3o Era Nada",
+        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 343799,
+      "name": "Eu N\u00e3o Era Nada",
+      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Volte a Orar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Ohbs1wMdZI79L2u4X4YkL"
       },
@@ -567,22 +587,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Eu N\u00e3o Era Nada",
-        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
+        "name": "Forma de Cuidado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
       "artists": [
         {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         },
         {
           "name": "Todah Music",
           "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 343799,
-      "name": "Eu N\u00e3o Era Nada",
-      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
+      "duration_ms": 244285,
+      "name": "Forma de Cuidado (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -623,30 +647,6 @@
       "duration_ms": 307750,
       "name": "Aguente, Guerreiro",
       "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Forma de Cuidado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Forma de Cuidado (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Planos",
-        "url": "https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 313674,
-      "name": "Planos",
-      "url": "https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "N\u00e3o Desista de Orar (Ao Vivo)",
         "url": "https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 485055,
       "name": "N\u00e3o Desista de Orar - Ao Vivo",
       "url": "https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Planos",
+        "url": "https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 313674,
+      "name": "Planos",
+      "url": "https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Santidade",
+        "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        }
+      ],
+      "duration_ms": 380400,
+      "name": "Santidade",
+      "url": "https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Voc\u00ea N\u00e3o Vai Parar",
         "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 340411,
       "name": "Voc\u00ea N\u00e3o Vai Parar",
       "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Santidade",
-        "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        }
-      ],
-      "duration_ms": 380400,
-      "name": "Santidade",
-      "url": "https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Tenha Paci\u00eancia",
-        "url": "https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa"
-      },
-      "artists": [
-        {
-          "name": "Raquel Olliver",
-          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
-        }
-      ],
-      "duration_ms": 286096,
-      "name": "Tenha Paci\u00eancia",
-      "url": "https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 234520,
       "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
       "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Tenha Paci\u00eancia",
+        "url": "https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa"
+      },
+      "artists": [
+        {
+          "name": "Raquel Olliver",
+          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
+        }
+      ],
+      "duration_ms": 286096,
+      "name": "Tenha Paci\u00eancia",
+      "url": "https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Minha B\u00ean\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 266936,
+      "name": "Minha B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
       },
@@ -959,6 +975,22 @@
       "duration_ms": 314542,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Limite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "Limite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -983,22 +1015,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Minha B\u00ean\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 266936,
-      "name": "Minha B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Eu Sei Quem Sou",
         "url": "https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB"
       },
@@ -1015,6 +1031,54 @@
       "duration_ms": 281106,
       "name": "Eu Sei Quem Sou",
       "url": "https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "P\u00e1gina Virada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 423916,
+      "name": "P\u00e1gina Virada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Fara\u00f3 ou Deus",
+        "url": "https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "duration_ms": 357599,
+      "name": "Fara\u00f3 ou Deus",
+      "url": "https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Eu Cuido de Tudo",
+        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 447871,
+      "name": "Eu Cuido de Tudo - Ao vivo",
+      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1039,38 +1103,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Limite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "Limite (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Fara\u00f3 ou Deus",
-        "url": "https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ"
-      },
-      "artists": [
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        }
-      ],
-      "duration_ms": 357599,
-      "name": "Fara\u00f3 ou Deus",
-      "url": "https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "N\u00e3o Vai Se Repetir",
         "url": "https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3"
       },
@@ -1087,6 +1119,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "A Tenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 470263,
+      "name": "A Tenda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Deus Realiza Sonhos",
         "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
       },
@@ -1099,38 +1147,6 @@
       "duration_ms": 345416,
       "name": "Deus Realiza Sonhos",
       "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "P\u00e1gina Virada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 423916,
-      "name": "P\u00e1gina Virada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Eu Cuido de Tudo",
-        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 447871,
-      "name": "Eu Cuido de Tudo - Ao vivo",
-      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1219,6 +1235,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 389634,
+      "name": "O Noivo Vir\u00e1",
+      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Tranquiliza (Ao Vivo)",
         "url": "https://open.spotify.com/album/7acKfdg1t94LPz4wYwxJzJ"
       },
@@ -1255,22 +1287,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "A Tenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 470263,
-      "name": "A Tenda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
       },
@@ -1287,26 +1303,6 @@
       "duration_ms": 293506,
       "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
       "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Vai Passar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 315022,
-      "name": "Vai Passar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1343,6 +1339,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Vai Passar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 315022,
+      "name": "Vai Passar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
       },
@@ -1363,18 +1379,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+        "name": "Por\u00e7\u00e3o Dobrada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42hmHRaR9hJMqU1Jdl7NzK"
       },
       "artists": [
         {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+          "name": "Nicole Souza",
+          "url": "https://open.spotify.com/artist/6N4mA434gRvPgBHqMhLD0Z"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 389634,
-      "name": "O Noivo Vir\u00e1",
-      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
+      "duration_ms": 323028,
+      "name": "Por\u00e7\u00e3o Dobrada - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BXZdode9c7dhmULER8eeH"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1395,26 +1415,6 @@
       "duration_ms": 210977,
       "name": "Desapareceu um Povo (Ao Vivo)",
       "url": "https://open.spotify.com/track/3CzOSJ3mlQUBuVa85iHlfK"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Por\u00e7\u00e3o Dobrada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42hmHRaR9hJMqU1Jdl7NzK"
-      },
-      "artists": [
-        {
-          "name": "Nicole Souza",
-          "url": "https://open.spotify.com/artist/6N4mA434gRvPgBHqMhLD0Z"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 323028,
-      "name": "Por\u00e7\u00e3o Dobrada - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BXZdode9c7dhmULER8eeH"
     },
     {
       "added_at": "2023-12-22 03:00:00",

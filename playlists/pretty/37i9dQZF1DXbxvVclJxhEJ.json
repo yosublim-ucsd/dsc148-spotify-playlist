@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 44466,
+  "num_followers": 44510,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGRjMzdhOWNkMTQ2YzQ0ZTYzOTU0ZWQ0YWFlOTA2M2VhZmY2NTMx",
+  "snapshot_id": "MCw0YWJiMzRmZTliNWE2ZDEzMzY0OGZmMjlkYWIyMGExMjA5ZjY4Y2Fh",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
-        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Sloppy Drunk Blues",
-      "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
       },
@@ -531,22 +515,6 @@
       "duration_ms": 180400,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "First Time I Met the Blues (When the Sun Goes Down series)",
-        "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
-      },
-      "artists": [
-        {
-          "name": "Sippie Wallace",
-          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "I'm a Mighty Tight Woman",
-      "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -567,18 +535,34 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
+        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
       },
       "artists": [
         {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
         }
       ],
-      "duration_ms": 208840,
-      "name": "Haunted House Blues",
-      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
+      "duration_ms": 195973,
+      "name": "Sloppy Drunk Blues",
+      "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "First Time I Met the Blues (When the Sun Goes Down series)",
+        "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
+      },
+      "artists": [
+        {
+          "name": "Sippie Wallace",
+          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "I'm a Mighty Tight Woman",
+      "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -599,6 +583,38 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
+        "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
+      },
+      "artists": [
+        {
+          "name": "Clara Smith",
+          "url": "https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "It's Tight Like That",
+      "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Detroit Is My Home",
+        "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
+      },
+      "artists": [
+        {
+          "name": "Alberta Adams",
+          "url": "https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw"
+        }
+      ],
+      "duration_ms": 268066,
+      "name": "Doctor Blues",
+      "url": "https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Early One Mornin\u2019 Blues (Live)",
         "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
       },
@@ -615,18 +631,50 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
-        "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
+        "name": "Crazy Blues: The Best Of Mamie Smith",
+        "url": "https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s"
       },
       "artists": [
         {
-          "name": "Clara Smith",
-          "url": "https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH"
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
         }
       ],
-      "duration_ms": 195586,
-      "name": "It's Tight Like That",
-      "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
+      "duration_ms": 168333,
+      "name": "Keep A Song In Your Soul",
+      "url": "https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Haunted House Blues",
+      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
+        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
+      },
+      "artists": [
+        {
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "B.D. Woman's Blues",
+      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -651,50 +699,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
-        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
       "artists": [
         {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
         }
       ],
-      "duration_ms": 177333,
-      "name": "B.D. Woman's Blues",
-      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Detroit Is My Home",
-        "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
-      },
-      "artists": [
-        {
-          "name": "Alberta Adams",
-          "url": "https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Doctor Blues",
-      "url": "https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Crazy Blues: The Best Of Mamie Smith",
-        "url": "https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Keep A Song In Your Soul",
-      "url": "https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI"
+      "duration_ms": 285400,
+      "name": "Back Water Blues",
+      "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -711,22 +727,6 @@
       "duration_ms": 220299,
       "name": "Jelly Roll Blues",
       "url": "https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 285400,
-      "name": "Back Water Blues",
-      "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Ma Rainey Vol. 3 (1925-1926)",
-        "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 175726,
-      "name": "Stack O'Lee Blues",
-      "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "The First Torch Singers, Vol. I: The Twenties",
         "url": "https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im"
       },
@@ -911,6 +895,38 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "Boogie Woogie Gals",
+        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
+      },
+      "artists": [
+        {
+          "name": "Gladys Bentley",
+          "url": "https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9"
+        }
+      ],
+      "duration_ms": 155813,
+      "name": "Boogie'n My Woogie",
+      "url": "https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Ma Rainey Vol. 3 (1925-1926)",
+        "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 175726,
+      "name": "Stack O'Lee Blues",
+      "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
         "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 205000,
       "name": "Honey Dripper Blues",
       "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Boogie Woogie Gals",
-        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
-      },
-      "artists": [
-        {
-          "name": "Gladys Bentley",
-          "url": "https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9"
-        }
-      ],
-      "duration_ms": 155813,
-      "name": "Boogie'n My Woogie",
-      "url": "https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl"
     },
     {
       "added_at": "2023-08-23 10:15:28",

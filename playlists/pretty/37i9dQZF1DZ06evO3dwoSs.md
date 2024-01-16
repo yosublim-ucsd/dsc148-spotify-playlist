@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,595 likes - 46 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,613 likes - 46 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 30 | [Mama Said Knock You Out](https://open.spotify.com/track/0hpTN7rjsTGbfiafU3fEq7) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7) | 2:47 |
 | 31 | [The Pride](https://open.spotify.com/track/4HQAeEIplslteReNxE8jFW) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist](https://open.spotify.com/album/0AiuvwadoYnRjDJRdpmusr) | 3:23 |
 | 32 | [Got Your Six](https://open.spotify.com/track/3JfBv2YfwPdflYUGMCeHgt) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 2:58 |
-| 33 | [Burn MF \(feat Rob Zombie\)](https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey) | 3:37 |
-| 34 | [The Bleeding](https://open.spotify.com/track/0PhgdhsVVVFQBAL4FXSy1K) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/2Mn74oOIxU32wfHDcHknRL) | 4:31 |
+| 33 | [The Bleeding](https://open.spotify.com/track/0PhgdhsVVVFQBAL4FXSy1K) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/2Mn74oOIxU32wfHDcHknRL) | 4:31 |
+| 34 | [Burn MF \(feat Rob Zombie\)](https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey) | 3:37 |
 | 35 | [Hard To See](https://open.spotify.com/track/6AYpL5yUGbvwNaTUzLpNcA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 3:29 |
 | 36 | [Top Of The World](https://open.spotify.com/track/53yqxU2EKKzbuQZEUEVtxc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 2:42 |
 | 37 | [My Nemesis](https://open.spotify.com/track/3YdGWVvW7iZtVhPkF375Dn) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/77OD5Mo3PzbEsi3ySuOGb0) | 3:35 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 45 | [Dot Your Eyes](https://open.spotify.com/track/17b5efUrwTIWLUYH6RThTs) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 3:15 |
 | 46 | [War Is the Answer](https://open.spotify.com/track/40diQlqwPj2HPxxhakP7FI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 3:18 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDBkMGQ3NTJiZmYzNjJhMjMyZDI4ZmIzMzA1MDg2OTkyNA==`
+Snapshot ID: `Mjg0MjIwMTEsMDAwMDAwMDAxMDJhMTcwMDk5NWI1NzE0NzdjMjRjYzcxNzRhYzkxNQ==`

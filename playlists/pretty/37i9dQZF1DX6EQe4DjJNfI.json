@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjExNjI4NTY3MmJlMTA4ZDBjMWI0NWFmNWUxNDFmZDJkOTQzMjQx",
+  "snapshot_id": "MCw4NDUyMjY3MjIwMGExMDQ3MjkxYTlmM2Q3ODY3MDY0MmYxYjkyMWU0",
   "tracks": [
     {
       "added_at": "2024-01-12 03:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
         "name": "Dejavu",
         "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 182857,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -803,6 +803,30 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
+        "name": "Censura e Prazer",
+        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Nael",
+          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 235135,
+      "name": "Censura e Prazer",
+      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
         "name": "Tempo pra Perder",
         "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
@@ -831,6 +855,30 @@
       "duration_ms": 159375,
       "name": "Troco",
       "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -867,54 +915,6 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
-        "name": "Censura e Prazer",
-        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Nael",
-          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 235135,
-      "name": "Censura e Prazer",
-      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
         "name": "Redial",
         "url": "https://open.spotify.com/album/251bKunrjJVU3Ndmh8AxHt"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 244705,
       "name": "Redial",
       "url": "https://open.spotify.com/track/5n4Htpe8iRavkKE0ntKIyC"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
+        "name": "Pode Ir",
+        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
+      },
+      "artists": [
+        {
+          "name": "Ikinya",
+          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+        },
+        {
+          "name": "Grito Filmes",
+          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
+        }
+      ],
+      "duration_ms": 153371,
+      "name": "Pode Ir",
+      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
         "name": "Abstin\u00eancia",
         "url": "https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO"
       },
@@ -1471,22 +1491,18 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Pode Ir",
-        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
       },
       "artists": [
         {
-          "name": "Ikinya",
-          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
-        },
-        {
-          "name": "Grito Filmes",
-          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
         }
       ],
-      "duration_ms": 153371,
-      "name": "Pode Ir",
-      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -1511,22 +1527,6 @@
       "duration_ms": 171792,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/6GDEzb8YsJRBFGRt8Uu1ua"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     }
   ],
   "unique_name": "R&B Brasil",

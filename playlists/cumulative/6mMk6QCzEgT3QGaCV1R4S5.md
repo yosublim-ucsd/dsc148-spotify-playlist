@@ -2,9 +2,9 @@
 
 ### [Dancefloor Beats](https://open.spotify.com/playlist/6mMk6QCzEgT3QGaCV1R4S5)
 
-> Get moving on the dancefloor with some big room beats! Cover: Calvin Harris &amp; Eliza Rose
+> Get moving on the dancefloor with some big room beats! Cover: Armin Van Buuren &amp; Goodboys
 
-68 songs - 3 hr 24 min
+69 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,11 +23,12 @@
 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 | 2023-12-08 |  |
 | [Dreams](https://open.spotify.com/track/3ju6CTcNuNlr2VzyQkiOZ7) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Dreams](https://open.spotify.com/album/25osRktzaln9czfz3iEyNa) | 2:53 | 2023-12-08 |  |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-12-08 |  |
+| [Forever \(Stay Like This\)](https://open.spotify.com/track/7LlkcnEH8uEXvThRSrHef1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Forever \(Stay Like This\)](https://open.spotify.com/album/14qPOIpPCVAcnpKq4TNLr4) | 2:32 | 2024-01-15 |  |
 | [Front To Back](https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Electric Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI) | [Front To Back](https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8) | 2:27 | 2023-12-15 |  |
 | [Good in Goodbye](https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye) | [Good in Goodbye](https://open.spotify.com/album/1UlMDQn059Zho0E2dZXlyH) | 3:00 | 2023-12-08 |  |
 | [Goodbye](https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Goodbye](https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH) | 2:57 | 2023-12-08 | 2024-01-06 |
 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2024-01-05 |  |
-| [Holding Back](https://open.spotify.com/track/03ysZV8oAucXpWC2nr7VLp) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Holding Back](https://open.spotify.com/album/1tJdSzBR52A92HzGBZ6xhA) | 3:08 | 2023-12-08 |  |
+| [Holding Back](https://open.spotify.com/track/03ysZV8oAucXpWC2nr7VLp) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Holding Back](https://open.spotify.com/album/1tJdSzBR52A92HzGBZ6xhA) | 3:08 | 2023-12-08 | 2024-01-16 |
 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 | 2023-12-08 | 2023-12-16 |
 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 | 2023-12-08 | 2024-01-13 |
 | [I Love Rock 'N' Roll \- Frank Walker Remix](https://open.spotify.com/track/3ng7yqLmNBFIP58g8QSkQl) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [I Love Rock 'N' Roll \(Frank Walker Remix\)](https://open.spotify.com/album/0b9ELNnDI4VjdiXvouXngT) | 2:54 | 2023-12-08 |  |

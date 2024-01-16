@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 ac\u00e1. Conoce a El Frizian en RADAR M\u00e9xico. ",
-  "num_followers": 79801,
+  "num_followers": 79827,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmVjY2VjY2Y2NzI5M2UzYzBkMjQ2OGQzNmZkNTc3Njc5NDI1Yjg2",
+  "snapshot_id": "MCwyZjk0MWYxMGI1ODdlNmRmNThlMTA3YWRiYzZjMzI1Mjk5M2VhMGQy",
   "tracks": [
     {
       "added_at": "2023-10-05 15:06:24",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-10-05 15:06:24",
       "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
-    },
-    {
-      "added_at": "2023-10-05 15:06:24",
-      "album": {
         "name": "El Guty",
         "url": "https://open.spotify.com/album/5mWGWS3lPdkfMziyh29Hgb"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 163582,
       "name": "El Guty",
       "url": "https://open.spotify.com/track/2efRIKsDPxJ7OG4h5PlHEF"
+    },
+    {
+      "added_at": "2023-10-05 15:06:24",
+      "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
     },
     {
       "added_at": "2023-10-05 15:06:24",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-10-05 15:06:24",
       "album": {
-        "name": "Malas Decisiones",
-        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
-    },
-    {
-      "added_at": "2023-10-05 15:06:24",
-      "album": {
         "name": "Porte de Scarface",
         "url": "https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 177000,
       "name": "El Sera y El Chavo (En Vivo)",
       "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
+    },
+    {
+      "added_at": "2023-10-05 15:06:24",
+      "album": {
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
     },
     {
       "added_at": "2023-10-05 15:06:24",
@@ -507,6 +507,38 @@
     {
       "added_at": "2023-10-05 15:06:24",
       "album": {
+        "name": "Un Tabaco (En Vivo)",
+        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
+      },
+      "artists": [
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "Un Tabaco (En Vivo)",
+      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
+    },
+    {
+      "added_at": "2023-10-05 15:06:24",
+      "album": {
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 176350,
+      "name": "Por La Baja Navegamos",
+      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
+    },
+    {
+      "added_at": "2023-10-05 15:06:24",
+      "album": {
         "name": "La Belikada",
         "url": "https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn"
       },
@@ -523,22 +555,6 @@
       "duration_ms": 153106,
       "name": "La Belikada",
       "url": "https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6"
-    },
-    {
-      "added_at": "2023-10-05 15:06:24",
-      "album": {
-        "name": "Un Tabaco (En Vivo)",
-        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
-      },
-      "artists": [
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "Un Tabaco (En Vivo)",
-      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
     },
     {
       "added_at": "2023-10-05 15:06:24",
@@ -571,22 +587,6 @@
       "duration_ms": 245201,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
-    },
-    {
-      "added_at": "2023-10-05 15:06:24",
-      "album": {
-        "name": "La Loteria",
-        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 176350,
-      "name": "Por La Baja Navegamos",
-      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
     },
     {
       "added_at": "2023-10-05 15:06:24",
@@ -867,18 +867,22 @@
     {
       "added_at": "2023-10-05 15:06:24",
       "album": {
-        "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
-        "url": "https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS"
+        "name": "T\u00fa Me Llevas a Un Espacio",
+        "url": "https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8"
       },
       "artists": [
         {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 212004,
-      "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
-      "url": "https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ"
+      "duration_ms": 193578,
+      "name": "T\u00fa Me Llevas a Un Espacio",
+      "url": "https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

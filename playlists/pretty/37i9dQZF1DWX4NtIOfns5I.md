@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom 🪻 cover: Michael Marcagi <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,543 likes - 137 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,840 likes - 137 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 136 | [silence,](https://open.spotify.com/track/6gIXFyfeHXanwtC5w6Ooz5) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [silence,](https://open.spotify.com/album/251r2PWSCJrFdZDmgxUuA1) | 2:47 |
 | 137 | [Uncovered](https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Uncovered](https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT) | 3:44 |
 
-Snapshot ID: `MCxlZTA5NGNkY2FlODNlMzEzY2I4ODIzMzAwNTVhZWM2NGVmODRhNGM2`
+Snapshot ID: `MCxmNjNmMmQ1ZmUzMDNiNjRjMmIyZTA5NzIxNzRhNDY2NWVkZDBhMTZk`

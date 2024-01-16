@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 41125,
+  "num_followers": 41243,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWIzNDk0MzgyMzVmYzJhODJkNjJlYzI0MGVmNmQ3MzgyMzM3MDhm",
+  "snapshot_id": "MCxhZWVjNzY0ZGVhNWNmZTIwNDc1MDcwYmUxYWZjNjE2NWUzOTlkY2Q1",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 468979,
       "name": "Amplified Zone",
       "url": "https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "OVGSREPUBLIC",
-        "url": "https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU"
-      },
-      "artists": [
-        {
-          "name": "SGVO",
-          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
-        }
-      ],
-      "duration_ms": 453711,
-      "name": "Octave",
-      "url": "https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Next Generation",
         "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
       },
@@ -535,30 +519,6 @@
       "duration_ms": 342887,
       "name": "Monomotapa",
       "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Ingoma",
-        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Mr.Cantata",
-          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
-        },
-        {
-          "name": "Bikie",
-          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
-        }
-      ],
-      "duration_ms": 430538,
-      "name": "Ingoma - Original Mix",
-      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -583,6 +543,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "OVGSREPUBLIC",
+        "url": "https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU"
+      },
+      "artists": [
+        {
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+        }
+      ],
+      "duration_ms": 453711,
+      "name": "Octave",
+      "url": "https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "OOO: AFRO",
         "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 466467,
       "name": "Don't 4get To Call Me",
       "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Mr.Cantata",
+          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+        },
+        {
+          "name": "Bikie",
+          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
+        }
+      ],
+      "duration_ms": 430538,
+      "name": "Ingoma - Original Mix",
+      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2024-01-11 23:00:00",

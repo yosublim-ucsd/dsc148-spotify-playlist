@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,363 songs - 2 day 14 hr 59 min
+1,364 songs - 2 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -712,7 +712,7 @@
 | [Where Are You](https://open.spotify.com/track/5DkZZnIip2biMlFXb8zgJy) | [Ollane](https://open.spotify.com/artist/38QFXoA64TnwDvE0nK2TYa), [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3) | [Where Are You](https://open.spotify.com/album/4iOUh84nmhzrywU4GU45sa) | 4:01 | 2021-05-23 | 2021-05-24 |
 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 | 2021-04-02 | 2021-04-03 |
 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 | 2022-04-15 | 2022-04-17 |
-| [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2023-09-12 |  |
+| [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2023-09-12 | 2024-01-16 |
 | [WIGGA WIGGA](https://open.spotify.com/track/5hOuH9IUph9asGEbQYIusH) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [BORN FROM SHYNE](https://open.spotify.com/album/6Tg1lp3JYbp6CiUpASpHdh) | 2:17 | 2021-11-14 | 2021-11-14 |
 | [WINDOWS \[prod\. by DooMee, TonySouljah & VisaGangBeatz\]](https://open.spotify.com/track/4krudkCElDUrbnq2sSKeHl) | [SEEMEE](https://open.spotify.com/artist/2ngiK5FQchV4i7eOyXOXKt), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [TXC](https://open.spotify.com/album/0bFcVSqwnBv4wIKPg74TjT) | 1:40 | 2021-06-27 | 2021-06-28 |
 | [Wings of Lina](https://open.spotify.com/track/2wGqFYPabvYLFO7CjXaYue) | [Lostlojic](https://open.spotify.com/artist/61j1RfTlSOAELj63pxOBdG) | [Counteroffensive](https://open.spotify.com/album/5xNrvNQYbic9DcgTRAlYWg) | 4:19 | 2023-12-07 | 2023-12-09 |
@@ -1077,6 +1077,7 @@
 | [Несмачний Мед](https://open.spotify.com/track/4tEr9oykqAlnLnaltbjoDe) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [Несмачний Мед](https://open.spotify.com/album/6HOsBJMipipIvSgFibrt1N) | 2:09 | 2022-06-22 | 2022-08-07 |
 | [Нет Сердца](https://open.spotify.com/track/3JgsA3Vt8GFplHNrMK0QJU) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Million Dollar Depression](https://open.spotify.com/album/6cyFbDC72hy7WWKLoGAQE9) | 3:06 | 2021-03-27\* | 2021-03-27 |
 | [Нету интереса](https://open.spotify.com/track/1nINIHobpPWexRP8ABH8bT) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Нету интереса](https://open.spotify.com/album/5Vj4LseRdzdMhrXOUTSrCH) | 3:04 | 2021-03-27\* | 2021-09-04 |
+| [Нефертити](https://open.spotify.com/track/7ezwdx3OVyn6aImfCopgEB) | [Ицык Цыпер](https://open.spotify.com/artist/3itorhtp2xgFl1iMPwvAGs), [Игорь Цыба](https://open.spotify.com/artist/02Gn2Lbcdednu9WM1T12nz) | [Нефертити](https://open.spotify.com/album/4AmalzmUVMIRzgj1d3rENq) | 2:09 | 2024-01-15 |  |
 | [Новая волна](https://open.spotify.com/track/7rRzijIIKQ8GntJ8IUwUyY) | [DJ SMASH](https://open.spotify.com/artist/1fLIzbK5e8MGrLKj1dEMsg), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Новая волна](https://open.spotify.com/album/4hwnkuhRmnW9rFN1P0m6D4) | 2:38 | 2021-04-04 | 2021-05-28 |
 | [Новогодняя](https://open.spotify.com/track/2CZPJLTtQ8fNps1iOw4xfb) | [Diskoteka Avariya](https://open.spotify.com/artist/2NL5u7aIFrmuOHbYBYWjun) | [Новогодняя](https://open.spotify.com/album/75uIlTRvw7JjbRYl3tn1Qi) | 5:11 | 2022-01-01 | 2024-01-03 |
 | [Новогодняя](https://open.spotify.com/track/3e4ksSBSoDqTDOCGDwyMQ8) | [Verka Serduchka](https://open.spotify.com/artist/7uH6CJjqK71HlHW4WHNAJg) | [Чита Дрита](https://open.spotify.com/album/6bhs5CVBzNK2EcdxgVs3mv) | 2:23 | 2022-01-01 | 2024-01-03 |
@@ -1088,7 +1089,7 @@
 | [ночь](https://open.spotify.com/track/0Mfjy6p9vZsfzbQReWdooZ) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:29 | 2021-06-28 | 2022-03-03 |
 | [Ночь, Такси, Заметки](https://open.spotify.com/track/7cePdbh3eZF9thPis8xsnm) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:48 | 2022-10-22 | 2022-10-27 |
 | [НУЛЕВЫЕ \[prod\. by Heroinwater, Wex\]](https://open.spotify.com/track/6HIGMLDwzKoGnly5YhGEsf) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR), [PINQ](https://open.spotify.com/artist/3xYxH7G5JimR1F1thIZYAQ) | [КОТЬ! КОТЬ!](https://open.spotify.com/album/67llcOfrH7DmC5yMmRd4UB) | 1:28 | 2021-04-04 | 2021-04-05 |
-| [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 | 2023-09-23 | 2024-01-15 |
+| [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 | 2023-09-23 |  |
 | [Обиделись](https://open.spotify.com/track/0404hSejXWTLLu2CyCGH11) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 1:14 | 2022-04-30 | 2022-05-02 |
 | [Обычный парень \(feat\. Ivanzolo2004\)](https://open.spotify.com/track/6wD86mo1HN24MDlK8JR5ou) | [Nekoglai](https://open.spotify.com/artist/2TaI860P5qyn702NYQy7AP), [ivanzolo2004](https://open.spotify.com/artist/3ofBMYovLV5vmKWNnYkie9) | [Обычный парень \(feat\. Ivanzolo2004\)](https://open.spotify.com/album/5wQ0hXUTgWePf3IjKi7pvO) | 1:46 | 2022-02-12 | 2022-02-14 |
 | [Обійми](https://open.spotify.com/track/5561HkcMU0A4i3D6Tlsxhe) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Земля](https://open.spotify.com/album/0KS4481ykVKBbjIsxlvyyN) | 3:44 | 2022-02-25 | 2022-03-11 |
@@ -1160,7 +1161,7 @@
 | [Прощание](https://open.spotify.com/track/1nginMHZwOYjtYDndhCeY2) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ), [MONA](https://open.spotify.com/artist/791r7uYF9uUkMi7yBveXBj) | [melancholia](https://open.spotify.com/album/4zuWO3wSh815WtZ4aqyWdi) | 3:56 | 2023-11-01 | 2023-12-24 |
 | [Птичка](https://open.spotify.com/track/6Abmb1Nh7Bc5U6o4iEgSDH) | [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE) | [Птичка](https://open.spotify.com/album/1jODMZb23tkxLfaDHcgnse) | 3:10 | 2021-05-23 | 2021-10-20 |
 | [Пушка](https://open.spotify.com/track/3UlGli59XnXKdaocUFn0gw) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Пушка](https://open.spotify.com/album/4R38tSYY31xhqOFincgFb0) | 3:23 | 2021-06-28 | 2021-09-30 |
-| [Пыяла](https://open.spotify.com/track/1nZHWDoDoP0Dtgup8jTW2u) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Пыяла](https://open.spotify.com/album/4QgrwWHm4ivBW2c0p1aUU0) | 3:30 | 2023-11-21 |  |
+| [Пыяла](https://open.spotify.com/track/1nZHWDoDoP0Dtgup8jTW2u) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Пыяла](https://open.spotify.com/album/4QgrwWHm4ivBW2c0p1aUU0) | 3:30 | 2023-11-21 | 2024-01-16 |
 | [Разноцветные таблетки](https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая яма](https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP) | 1:57 | 2024-01-14 |  |
 | [Рамок нет](https://open.spotify.com/track/5hxp2TrctRjKSvu9LDhjsS) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:50 | 2021-04-29 | 2021-05-03 |
 | [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 | 2023-07-02 |

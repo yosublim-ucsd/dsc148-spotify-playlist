@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sanathan Shree Krishnan
 
-193 songs - 11 hr 8 min
+194 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Neeye](https://open.spotify.com/track/1tBi5yC0ijRkKBcXc06MD7) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Kshia](https://open.spotify.com/artist/2sJDE8wstTiLCnffel2NOU) | [Neeye](https://open.spotify.com/album/4NjMmesAM5SuvD6yskYzFu) | 3:03 | 2023-12-01 |  |
 | [Neeye](https://open.spotify.com/track/10pQAPHnkCXsN3i6Ur1Ue8) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Neeye](https://open.spotify.com/album/3pnvov3dH9shA0n6ddOy8R) | 3:07 | 2023-03-21 | 2023-06-24 |
 | [Neeye Vaanaai](https://open.spotify.com/track/0MwPSfb7P81ozhBTxlZJDR) | [SreRam Anand](https://open.spotify.com/artist/5ZOKFwFsIjoCEgdYwkymvm), [Ramya Sivaramakrishnan](https://open.spotify.com/artist/3jeAry1Pw76BN4rkC2dP7a) | [Neeye Vaanaai](https://open.spotify.com/album/1Apf739H6UcH2hBNkZI3Av) | 2:52 | 2023-06-22 |  |
+| [Nenjukulla oru Sogamilla](https://open.spotify.com/track/5gJCoYhiya64f5emZxuEoT) | [Rajaganapathy Gopalakrishnan](https://open.spotify.com/artist/02lKzTzfEKd4sPq9pUn5dS) | [Nenjukulla oru Sogamilla](https://open.spotify.com/album/6f9c45nTF4RSV1pfFJCnnz) | 2:36 | 2024-01-15 |  |
 | [Nila](https://open.spotify.com/track/5R3eAT29cE067HIzlfdOeG) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Nila](https://open.spotify.com/album/3uQQfEQdXlqzB8NwLeOuf3) | 2:43 | 2023-06-20 | 2024-01-06 |
 | [Ninaivugal Donadhe](https://open.spotify.com/track/2pdUSqk3pyDT0wZyb6PALD) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninaivugal Donadhe](https://open.spotify.com/album/2L2JonJnz6I7EdwV2K2gjc) | 3:39 | 2023-06-26 | 2023-11-29 |
 | [O Kanmani](https://open.spotify.com/track/68qULgdwekQsDH181V4BQ2) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [O Kanmani](https://open.spotify.com/album/7dahgiOiHqfqjTkvfuCTgW) | 2:19 | 2023-06-19 | 2023-11-16 |

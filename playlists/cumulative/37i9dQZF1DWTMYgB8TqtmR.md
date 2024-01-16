@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-631 songs - 1 day 7 hr 48 min
+632 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-02-02 | 2023-06-09 |
 | [Queens](https://open.spotify.com/track/5y7P80dZWvvakgj89Gkekn) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Queens](https://open.spotify.com/album/1AjJDrIkBxVjaVkhSD8wRt) | 2:57 | 2022-04-14 | 2022-04-29 |
 | [Ramla](https://open.spotify.com/track/4qP2qyJgxBtNcAexuvs45j) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Ramla](https://open.spotify.com/album/3hhMWYseNlwaMyrAAcbSIW) | 3:28 | 2023-11-23 |  |
+| [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-15 |  |
 | [Rely On Me](https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Rely On Me](https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2) | 2:54 | 2022-11-10 | 2022-11-18 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2023-01-06 |
 | [Ride With Me \- Spotify Singles](https://open.spotify.com/track/06A24W6n7gGi8YGneBME3M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [Ride With Me \(Spotify Singles\)](https://open.spotify.com/album/5AqVbvJXIBbzuq2FvNT0SD) | 1:59 | 2023-06-30 | 2023-09-09 |
@@ -622,7 +623,7 @@
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-24 | 2023-06-09 |
 | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/7up4SX2l8FAnisrUXoGupd) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/album/6xStUI10NrOYMx3sKoIfBq) | 2:55 | 2022-08-18 | 2022-11-09 |
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2022-09-08 | 2022-10-28 |
-| [Won't Be Sorry](https://open.spotify.com/track/1FBk6oJAkyt7rTShMlXbdA) | [Cimberly Wanyonyi](https://open.spotify.com/artist/1WLtJtZ5QHmix0VBdxMMns) | [Won't Be Sorry](https://open.spotify.com/album/5c6e1YrHqJzAuw0sv3doFK) | 2:29 | 2023-12-01 |  |
+| [Won't Be Sorry](https://open.spotify.com/track/1FBk6oJAkyt7rTShMlXbdA) | [Cimberly Wanyonyi](https://open.spotify.com/artist/1WLtJtZ5QHmix0VBdxMMns) | [Won't Be Sorry](https://open.spotify.com/album/5c6e1YrHqJzAuw0sv3doFK) | 2:29 | 2023-12-01 | 2024-01-16 |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-04-21 | 2022-11-11 |
 | [World We Used To Know](https://open.spotify.com/track/1I8pMiv8c8mTP0fvt0pqQs) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [World We Used To Know](https://open.spotify.com/album/6EqrqJTBQ6JRFJQKY19sCE) | 2:42 | 2021-12-16 | 2022-02-18 |
 | [Worst Thing](https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Worst Thing](https://open.spotify.com/album/3CVVkF4c5r0Cz9rVb02FoT) | 2:38 | 2022-05-13 | 2022-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Sarah Toscano
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,069 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,923 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 59 | [Stupida Libertà](https://open.spotify.com/track/08yqlwXJL84xS3q6iY1S8Y) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Stupida Libertà](https://open.spotify.com/album/7yEiN9dB700F55cpt1shTh) | 3:12 |
 | 60 | [A VOLTE](https://open.spotify.com/track/1XhRxRUsnqbnWUGwTEDtJC) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 2:42 |
 
-Snapshot ID: `MCxhZTkxOWQ0MTcxMDg5MjdmMDk2NTI1OGZjNWQ1ZDM3M2I2ZTE4NTc1`
+Snapshot ID: `MCwxZTcyNDI3ZGQ4YjdmZjQyNDBlNjg4ZTc5OTI1MjAzODE5MzBlNjJl`

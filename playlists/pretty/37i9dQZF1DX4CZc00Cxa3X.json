@@ -1,12 +1,12 @@
 {
   "description": "Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own. ",
-  "num_followers": 42495,
+  "num_followers": 42603,
   "original_name": "The Listening Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDc1ODUyMDI0YTYyMzIzOTRjYTAyN2M2ZjVlOTY4NTY4ZmQ0N2Ux",
+  "snapshot_id": "MCw4YWQxYmZhNzA3ZmI4YTVkZjhkZTNiOWQxYTA5NDEwMjIxNDNiOWVj",
   "tracks": [
     {
       "added_at": "2023-11-17 17:24:47",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "The Greater Wings",
-        "url": "https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg"
-      },
-      "artists": [
-        {
-          "name": "Julie Byrne",
-          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
-        }
-      ],
-      "duration_ms": 175664,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/1fZwS0OsBZyJMFnjzuLqxm"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "Belleville",
         "url": "https://open.spotify.com/album/0PIYouYL6Sa5biJCRyXfc2"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 145281,
       "name": "Belleville",
       "url": "https://open.spotify.com/track/4TrfcCaLh5cBP7Rc2X1c1p"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "The Greater Wings",
+        "url": "https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg"
+      },
+      "artists": [
+        {
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+        }
+      ],
+      "duration_ms": 175664,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/1fZwS0OsBZyJMFnjzuLqxm"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Preludes",
-        "url": "https://open.spotify.com/album/6Q8TOtacVTE5deiLFh2hEj"
-      },
-      "artists": [
-        {
-          "name": "Flaer",
-          "url": "https://open.spotify.com/artist/0PiMvUJDkqg4AAfl8CP1Di"
-        }
-      ],
-      "duration_ms": 167020,
-      "name": "Hew",
-      "url": "https://open.spotify.com/track/2lGiO5sbzFpTGJEhSSQQBh"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "Intention II",
         "url": "https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 317000,
       "name": "Loving Kindness",
       "url": "https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "Preludes",
+        "url": "https://open.spotify.com/album/6Q8TOtacVTE5deiLFh2hEj"
+      },
+      "artists": [
+        {
+          "name": "Flaer",
+          "url": "https://open.spotify.com/artist/0PiMvUJDkqg4AAfl8CP1Di"
+        }
+      ],
+      "duration_ms": 167020,
+      "name": "Hew",
+      "url": "https://open.spotify.com/track/2lGiO5sbzFpTGJEhSSQQBh"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -287,18 +287,22 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Who Tends a Garden",
-        "url": "https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R"
+        "name": "Movement VI",
+        "url": "https://open.spotify.com/album/4y2rMrcRZQZFYrMHDzAloe"
       },
       "artists": [
         {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
         }
       ],
-      "duration_ms": 205174,
-      "name": "Of Woods and Seas",
-      "url": "https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup"
+      "duration_ms": 208000,
+      "name": "Movement VI",
+      "url": "https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -319,22 +323,18 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Movement VI",
-        "url": "https://open.spotify.com/album/4y2rMrcRZQZFYrMHDzAloe"
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R"
       },
       "artists": [
         {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Movement VI",
-      "url": "https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp"
+      "duration_ms": 205174,
+      "name": "Of Woods and Seas",
+      "url": "https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Dreams of Being Cornered",
-        "url": "https://open.spotify.com/album/6zMCRZbdkAeiJTE3tZSmja"
-      },
-      "artists": [
-        {
-          "name": "Mutes",
-          "url": "https://open.spotify.com/artist/52mqrsNlDf6CVhB6XJ6LHf"
-        }
-      ],
-      "duration_ms": 186354,
-      "name": "Dragged by the Hand",
-      "url": "https://open.spotify.com/track/5f8sbbWtGlVnMq7NdZSllo"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "Walking in the Sea",
         "url": "https://open.spotify.com/album/36Mp35DUrNArzQKzwamY23"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 286946,
       "name": "Walking in the Sea",
       "url": "https://open.spotify.com/track/0rFhXk6S4OFZ5j8bm2ALAz"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "Dreams of Being Cornered",
+        "url": "https://open.spotify.com/album/6zMCRZbdkAeiJTE3tZSmja"
+      },
+      "artists": [
+        {
+          "name": "Mutes",
+          "url": "https://open.spotify.com/artist/52mqrsNlDf6CVhB6XJ6LHf"
+        }
+      ],
+      "duration_ms": 186354,
+      "name": "Dragged by the Hand",
+      "url": "https://open.spotify.com/track/5f8sbbWtGlVnMq7NdZSllo"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
-        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
-      },
-      "artists": [
-        {
-          "name": "kita kouhei",
-          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Kuware Uta - Intro",
-      "url": "https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "From Darkness to Light (Ambient Cello Loops)",
         "url": "https://open.spotify.com/album/1vPAKdej68HxCa4wizIjfi"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 323500,
       "name": "From Darkness to Light (Ambient Cello Loops), Pt. 3",
       "url": "https://open.spotify.com/track/1rHQUBlbNIPvSZTX5VjGMJ"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Kuware Uta - Intro",
+      "url": "https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Space for Two",
-        "url": "https://open.spotify.com/album/1rMqROH0BzhHytklKUW7dB"
-      },
-      "artists": [
-        {
-          "name": "Jupi/ter",
-          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
-        },
-        {
-          "name": "Henrik Meierkord",
-          "url": "https://open.spotify.com/artist/1P3kpCPt72YWzJDjJ1Ii8D"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Space for Two",
-      "url": "https://open.spotify.com/track/0VWNucGNl6Yk8UklayMWPE"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "Slow Flight",
         "url": "https://open.spotify.com/album/2bxwWxbOE2nsyTstCq83s8"
       },
@@ -815,18 +795,22 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/3UHUdqGQmAZR88r3FqeWRs"
+        "name": "Space for Two",
+        "url": "https://open.spotify.com/album/1rMqROH0BzhHytklKUW7dB"
       },
       "artists": [
         {
-          "name": "Billow Observatory",
-          "url": "https://open.spotify.com/artist/2LylAbvBw2df3S9oO62du5"
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        },
+        {
+          "name": "Henrik Meierkord",
+          "url": "https://open.spotify.com/artist/1P3kpCPt72YWzJDjJ1Ii8D"
         }
       ],
-      "duration_ms": 230988,
-      "name": "Iris - Single Version",
-      "url": "https://open.spotify.com/track/0soNRvT5MhKnVGkwyDCqZ8"
+      "duration_ms": 384000,
+      "name": "Space for Two",
+      "url": "https://open.spotify.com/track/0VWNucGNl6Yk8UklayMWPE"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -843,6 +827,22 @@
       "duration_ms": 257833,
       "name": "But If You Ask Me, I'm Fine",
       "url": "https://open.spotify.com/track/29lEwcwBSipDigeoSamnlO"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/3UHUdqGQmAZR88r3FqeWRs"
+      },
+      "artists": [
+        {
+          "name": "Billow Observatory",
+          "url": "https://open.spotify.com/artist/2LylAbvBw2df3S9oO62du5"
+        }
+      ],
+      "duration_ms": 230988,
+      "name": "Iris - Single Version",
+      "url": "https://open.spotify.com/track/0soNRvT5MhKnVGkwyDCqZ8"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -875,6 +875,42 @@
       "duration_ms": 336000,
       "name": "Dear",
       "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "Castle Song",
+        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "Pottery Fragments",
+      "url": "https://open.spotify.com/track/3y8XTCiPWQJkFEnKIahCJo"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -923,42 +959,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Castle Song",
-        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
-        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
-        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "John Also Bennett",
-          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "Pottery Fragments",
-      "url": "https://open.spotify.com/track/3y8XTCiPWQJkFEnKIahCJo"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "Low Distance",
         "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
       },
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Leave No Path Untaken",
-        "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
-      },
-      "artists": [
-        {
-          "name": "Seven24",
-          "url": "https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7"
-        },
-        {
-          "name": "Soty",
-          "url": "https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "I Lost You When the Rain Sang a Song - Original Mix",
-      "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "Forgotten Field",
         "url": "https://open.spotify.com/album/14NCgAUOAmREsUNIzaLOfv"
       },
@@ -1027,18 +1007,22 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Kingen",
-        "url": "https://open.spotify.com/album/0NbcRh4G7C3tJITIKhLLkf"
+        "name": "Leave No Path Untaken",
+        "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
       },
       "artists": [
         {
-          "name": "Michiru Aoyama",
-          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
+          "name": "Seven24",
+          "url": "https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7"
+        },
+        {
+          "name": "Soty",
+          "url": "https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ"
         }
       ],
-      "duration_ms": 182499,
-      "name": "shiho",
-      "url": "https://open.spotify.com/track/1s1DRtaKu9iIfTqT24R0Gx"
+      "duration_ms": 160800,
+      "name": "I Lost You When the Rain Sang a Song - Original Mix",
+      "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1071,6 +1055,22 @@
       "duration_ms": 266277,
       "name": "Orizzontale Verticale",
       "url": "https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "Kingen",
+        "url": "https://open.spotify.com/album/0NbcRh4G7C3tJITIKhLLkf"
+      },
+      "artists": [
+        {
+          "name": "Michiru Aoyama",
+          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
+        }
+      ],
+      "duration_ms": 182499,
+      "name": "shiho",
+      "url": "https://open.spotify.com/track/1s1DRtaKu9iIfTqT24R0Gx"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "Forget",
-        "url": "https://open.spotify.com/album/4ylMWwyyUpdWl3PIqoBOyK"
-      },
-      "artists": [
-        {
-          "name": "Michiru Aoyama",
-          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
-        }
-      ],
-      "duration_ms": 153668,
-      "name": "mawarito",
-      "url": "https://open.spotify.com/track/7q31ApGXYbCjMVNewuiWq4"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 229418,
       "name": "Lilieae",
       "url": "https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "Forget",
+        "url": "https://open.spotify.com/album/4ylMWwyyUpdWl3PIqoBOyK"
+      },
+      "artists": [
+        {
+          "name": "Michiru Aoyama",
+          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
+        }
+      ],
+      "duration_ms": 153668,
+      "name": "mawarito",
+      "url": "https://open.spotify.com/track/7q31ApGXYbCjMVNewuiWq4"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1539,6 +1539,42 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
+        "name": "Philanthropy",
+        "url": "https://open.spotify.com/album/0ts04BxWX0tqhE7uCSyWOp"
+      },
+      "artists": [
+        {
+          "name": "Hauschka",
+          "url": "https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt"
+        }
+      ],
+      "duration_ms": 213779,
+      "name": "Loved Ones",
+      "url": "https://open.spotify.com/track/7rteNw7alL8uZiLmtBWiAP"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
+        "name": "To Those Who Dwelt in a Land of Deep Darkness",
+        "url": "https://open.spotify.com/album/5gCoXk0VCqw3fLcK6aseuV"
+      },
+      "artists": [
+        {
+          "name": "zak\u00e8",
+          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+        },
+        {
+          "name": "Wayne Robert Thomas",
+          "url": "https://open.spotify.com/artist/7yueLMbHp3xEU37tq8JId1"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Addendum 3",
+      "url": "https://open.spotify.com/track/7A5GvMlsEQkiRcL4zx8W3K"
+    },
+    {
+      "added_at": "2023-11-17 17:24:47",
+      "album": {
         "name": "Recurrent Processes",
         "url": "https://open.spotify.com/album/1D2XSXKQF5FANxxrWHJtVC"
       },
@@ -1611,22 +1647,18 @@
     {
       "added_at": "2023-11-17 17:24:47",
       "album": {
-        "name": "To Those Who Dwelt in a Land of Deep Darkness",
-        "url": "https://open.spotify.com/album/5gCoXk0VCqw3fLcK6aseuV"
+        "name": "Neospecies",
+        "url": "https://open.spotify.com/album/4fPYfMsPOTS4eXPXXY69t8"
       },
       "artists": [
         {
-          "name": "zak\u00e8",
-          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
-        },
-        {
-          "name": "Wayne Robert Thomas",
-          "url": "https://open.spotify.com/artist/7yueLMbHp3xEU37tq8JId1"
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
         }
       ],
-      "duration_ms": 480000,
-      "name": "Addendum 3",
-      "url": "https://open.spotify.com/track/7A5GvMlsEQkiRcL4zx8W3K"
+      "duration_ms": 205090,
+      "name": "Grassland",
+      "url": "https://open.spotify.com/track/5NInDapUdp3r3ajfMrKl7K"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1643,22 +1675,6 @@
       "duration_ms": 405573,
       "name": "Album 4",
       "url": "https://open.spotify.com/track/2b1rIFVf5aZogxGoDAcEoL"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
-        "name": "Neospecies",
-        "url": "https://open.spotify.com/album/4fPYfMsPOTS4eXPXXY69t8"
-      },
-      "artists": [
-        {
-          "name": "kita kouhei",
-          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Grassland",
-      "url": "https://open.spotify.com/track/5NInDapUdp3r3ajfMrKl7K"
     },
     {
       "added_at": "2023-11-17 17:24:47",
@@ -1711,22 +1727,6 @@
       "duration_ms": 205673,
       "name": "Forest",
       "url": "https://open.spotify.com/track/0UyG7VUhVVVb9xhwKg3rvQ"
-    },
-    {
-      "added_at": "2023-11-17 17:24:47",
-      "album": {
-        "name": "Rainfall",
-        "url": "https://open.spotify.com/album/1DfF3LJF5FzTpOJmJkqrwC"
-      },
-      "artists": [
-        {
-          "name": "Conrad Clipper",
-          "url": "https://open.spotify.com/artist/2cq7jKz8HyIZaoxdaLVxQc"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/2rHyG15WplCxbhPCELXxdM"
     },
     {
       "added_at": "2023-11-17 17:24:47",

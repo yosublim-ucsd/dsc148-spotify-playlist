@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on. Cover: Saltburn",
-  "num_followers": 302987,
+  "num_followers": 303151,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2M0MDlkZjU0MDQ0OTJlNzU0ZGZmZDdjOGI1Y2UxNDczZjFkYzdk",
+  "snapshot_id": "MCw0MWE0NTdkYTBmOWI3MWYxMjdiMWMzZTQyNTkwNTg2MTIwNmY4ZGI5",
   "tracks": [
     {
       "added_at": "2023-12-27 20:39:24",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
+        "name": "cross my heart",
+        "url": "https://open.spotify.com/album/4NK2abDnkV5FqI0q32DLL9"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 146216,
+      "name": "cross my heart",
+      "url": "https://open.spotify.com/track/3nLSxpwZrU4ugAMVxYOHJe"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "cross my heart",
-        "url": "https://open.spotify.com/album/4NK2abDnkV5FqI0q32DLL9"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 146216,
-      "name": "cross my heart",
-      "url": "https://open.spotify.com/track/3nLSxpwZrU4ugAMVxYOHJe"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Someone's EP II",
-        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 231192,
-      "name": "go with u",
-      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "\u00bfT\u00e9o?",
         "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Someone's EP II",
+        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 231192,
+      "name": "go with u",
+      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Dream in Colour",
-        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183896,
-      "name": "Skin on Skin",
-      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
         "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 166000,
       "name": "Rocky",
       "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Dream in Colour",
+        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183896,
+      "name": "Skin on Skin",
+      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
     }
   ],
   "unique_name": "Soir\u00e9e",

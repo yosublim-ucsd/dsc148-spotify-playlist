@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,660 likes - 80 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,662 likes - 80 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 1 | [Mwaki \- Major Lazer Remix](https://open.spotify.com/track/0c6dw8qe0mNA2sMETrDUl9) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Major Lazer Remix\)](https://open.spotify.com/album/7MAWQ0wUnEZiI7Y9qkqlhd) | 3:15 |
 | 2 | [Your Love \- Antdot Remix](https://open.spotify.com/track/4SylEKPh0HWqJep7CfISHk) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Your Love \(Antdot Remix\)](https://open.spotify.com/album/5IWlETbudB9LdBT2BHVhSw) | 2:57 |
 | 3 | [Kwema](https://open.spotify.com/track/7htUSfGusHyI0DurePM6lZ) | [Jabzz Dimitri](https://open.spotify.com/artist/4Eo18qlyb76spnDFlSc78c), [Korie Minors](https://open.spotify.com/artist/4JGMHb5qsvTSGJlijyWBLc), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kwema](https://open.spotify.com/album/62gTaYaI5pT5QbHbktRnc3) | 6:08 |
 | 4 | [Money](https://open.spotify.com/track/2ZPKXWhtR5xfONqBdSgBiO) | [Dj McKenzie](https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45) | [Money](https://open.spotify.com/album/4jvIzo5bnxPmkyhe1P3DQ0) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 79 | [Tobina](https://open.spotify.com/track/1wQIZO21QL5D36PjSYU5aE) | [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql), [Mandala](https://open.spotify.com/artist/4XRCFvGfu0MhCKJ42OGXDe) | [Tobina](https://open.spotify.com/album/1JLdZk9Qcw4EiGsDhst35a) | 5:17 |
 | 80 | [Nyoro](https://open.spotify.com/track/5GdgzFPADlFrhDRBoEHq7f) | [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5), [Winyo](https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C), [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql) | [Nyoro](https://open.spotify.com/album/0Jn4m8XlZgSbuWYjlzc22S) | 4:36 |
 
-Snapshot ID: `MCw2OTQyMDY1YTc0ZDBiZmRiZWVlYWIyN2M4N2UxYzVjMmRmZDM3MzFl`
+Snapshot ID: `MCxjODA5ZmY5ZWRjYWM5YjdmMDA4M2U0ZTRkMDMxNTQ3YmRhOGZkMzMz`

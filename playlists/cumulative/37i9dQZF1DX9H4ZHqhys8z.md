@@ -2,7 +2,7 @@
 
 ### [EQUAL Greece](https://open.spotify.com/playlist/37i9dQZF1DX9H4ZHqhys8z)
 
-> Τα καλύτερα από τις καλλιτέχνιδες που ξεχώρισαν το 2023\. Ακούστε γυναικείες φωνές στη διαπασών! Εξώφυλλο: Haris Alexiou
+> Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Haris Alexiou
 
 449 songs - 1 day 0 hr 38 min
 

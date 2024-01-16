@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: HotKid
 
-199 songs - 9 hr 14 min
+201 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [HBP Remix](https://open.spotify.com/track/5oxaJpMQCijHqwTduLq6Fr) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [HBP Remix](https://open.spotify.com/album/22swHHoDtodIc5kImIImlt) | 2:56 | 2023-10-27 |  |
 | [HOV](https://open.spotify.com/track/3jtPLQ4eBEcfyry5148T9x) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:18 | 2023-04-27 |  |
 | [I Salute](https://open.spotify.com/track/5o3dCqgRTiSt6MC3Gi0jzj) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [I Salute](https://open.spotify.com/album/57rCVdacl4vjhnT8UVb2n6) | 3:07 | 2023-04-20 | 2023-08-11 |
+| [Id.Me](https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Id.Me](https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt) | 2:49 | 2024-01-15 |  |
 | [Idan \(Talk and Do\)](https://open.spotify.com/track/6oX2ZHoZqr2jtVtbWe9QWw) | [Toby Shang](https://open.spotify.com/artist/6uVF9SBPINTFs7orI9Twt9) | [Idan \(Talk and Do\)](https://open.spotify.com/album/0lz5CwPhx3qIuoBwbT1Feb) | 2:06 | 2023-05-19 | 2023-06-03 |
 | [Idi Oremi \(Opotoyi, Pt\. 2\)](https://open.spotify.com/track/1IU3Jr0B5keEYO7zNDk5OX) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Idi Oremi \(Opotoyi, Pt\. 2\)](https://open.spotify.com/album/532Y9sBAkcmuOQC3EsgW0K) | 3:14 | 2022-06-29 | 2023-02-11 |
 | [IDme \(owo to po leti\)](https://open.spotify.com/track/6tJxcQmhOM9jY744gFKWdY) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [IDme \(owo to po leti\)](https://open.spotify.com/album/3oohgPgt3Cj2hhsRUZRpvi) | 2:25 | 2023-09-14 | 2023-09-27 |
@@ -100,7 +101,7 @@
 | [In Battle](https://open.spotify.com/track/4A1HJZwX7krIq8qk20nc3W) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [In Battle](https://open.spotify.com/album/3OlFbSNU6yn5xQuXjYpHnW) | 3:16 | 2023-11-03 | 2023-12-08 |
 | [In Charge](https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:25 | 2023-07-28 |  |
 | [Instagram](https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Instagram](https://open.spotify.com/album/6sFvLO6FV4q9E9qkhJyRVS) | 3:08 | 2022-06-29 | 2023-08-11 |
-| [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 | 2022-09-16 |  |
+| [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 | 2022-09-16 | 2024-01-16 |
 | [Jajo](https://open.spotify.com/track/0hmoTQIWk98ABc1AIREO7O) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [City Boy](https://open.spotify.com/album/1aA2GGmzpNZnzBm0xBooz0) | 2:23 | 2023-05-19 | 2023-05-27 |
 | [Jambo](https://open.spotify.com/track/2NMfL5jeGKg1x5dgm46LpR) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Jambo](https://open.spotify.com/album/6msrTfFHef2GWcRFTB7ed2) | 2:34 | 2023-03-24 | 2023-03-31 |
 | [Killin Dem \(feat\. Zlatan\)](https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:41 | 2022-06-29 | 2023-12-15 |
@@ -156,7 +157,7 @@
 | [Para Boi](https://open.spotify.com/track/7oDSvHJUY3NPdH9YKiCQwe) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Memory Card](https://open.spotify.com/album/4Wk9EIBBsEviAPd7PdGYWI) | 2:37 | 2023-01-16 | 2023-11-03 |
 | [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 | 2023-06-22 |  |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-29 |  |
-| [Pepper Dem](https://open.spotify.com/track/5OOJeJuR8cy18QeohY5qhT) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Introduction](https://open.spotify.com/album/4qxDgfQJbQrVNLAyTNJ2ym) | 2:24 | 2023-12-01 |  |
+| [Pepper Dem](https://open.spotify.com/track/5OOJeJuR8cy18QeohY5qhT) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Introduction](https://open.spotify.com/album/4qxDgfQJbQrVNLAyTNJ2ym) | 2:24 | 2023-12-01 | 2024-01-16 |
 | [Personal](https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Personal](https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx) | 2:23 | 2022-12-18 | 2023-02-04 |
 | [Pop \(Alcohol Alcohol\)](https://open.spotify.com/track/6rMi4IgGoZ8ahKFNlhUym1) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 2:26 | 2023-06-02 | 2023-09-29 |
 | [Portable \- Ogbafia](https://open.spotify.com/track/0kYQtrYwRdnRzHhR0fd2fm) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Ogbafia](https://open.spotify.com/album/3AhGL8nHH5rN3KNkNuP3aR) | 2:54 | 2023-08-17 | 2023-09-14 |
@@ -181,6 +182,7 @@
 | [South Africa](https://open.spotify.com/track/0hVRvGHLu9WHk16CPNDwbg) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [South Africa](https://open.spotify.com/album/7rFikDvLvosoU23LAz1KuD) | 2:33 | 2022-11-18 | 2023-04-21 |
 | [Stagnant](https://open.spotify.com/track/3t61rWlR2c09hiAywYqXYd) | [Phydazpeng](https://open.spotify.com/artist/6dI7y76l8GJSx17rb8V6gW), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Stagnant](https://open.spotify.com/album/2gJmTVEbbIJ6WLp2hN1qap) | 3:23 | 2023-01-20 | 2023-02-11 |
 | [Stronger](https://open.spotify.com/track/1JW5qjse9QQn9jfseFeYsD) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Stronger](https://open.spotify.com/album/6tYoYFfnVfseQRC7iVWHyP) | 3:05 | 2023-01-12 | 2023-02-04 |
+| [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 | 2024-01-15 |  |
 | [Taka Oshi](https://open.spotify.com/track/2NexijiPK9irTO8VsjiF9N) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Big Time](https://open.spotify.com/album/6T069OH10Fo4kfJGO6kiWG) | 2:13 | 2023-03-10 | 2023-03-18 |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 |  |
 | [Things on Things](https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Things on Things](https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc) | 3:16 | 2023-10-13 |  |

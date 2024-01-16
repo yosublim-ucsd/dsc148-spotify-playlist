@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 155769,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5CAJV45ARpLxvDlCe2thta"
@@ -2940,6 +2940,32 @@
       "duration_ms": 166666,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W"
+    },
+    {
+      "album": {
+        "name": "5 Diamonds",
+        "url": "https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh"
+      },
+      "artists": [
+        {
+          "name": "Baani Sandhu",
+          "url": "https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3"
+        },
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178958,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt"
     },
     {
       "album": {

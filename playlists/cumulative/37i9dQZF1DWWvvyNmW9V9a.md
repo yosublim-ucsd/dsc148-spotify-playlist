@@ -4,7 +4,7 @@
 
 > her name is Regina George
 
-1,221 songs - 2 day 16 hr 8 min
+1,223 songs - 2 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,6 +622,7 @@
 | [leave the light on](https://open.spotify.com/track/1y7mj7S5Ske02L0PXS9bpI) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [leave the light on](https://open.spotify.com/album/2m60zpOUgQRwxithuTknqS) | 2:55 | 2022-07-15 | 2022-07-23 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-24 | 2022-08-25 |
 | [Left, Right, GO!](https://open.spotify.com/track/47SKFvqr1fsD6uLApnnw7c) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Bet That](https://open.spotify.com/album/1hOVXvNlhuBM8WhSb2qhHf) | 3:46 | 2023-09-01 | 2023-09-23 |
+| [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2024-01-15 |  |
 | [Let You Break My Heart Again](https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf) | 4:29 | 2023-12-27 |  |
 | [Lethal Woman](https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Lethal Woman](https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ) | 2:06 | 2023-10-20 | 2023-12-02 |
 | [Letter To My 13 Year Old Self](https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:22 | 2023-09-08 | 2023-12-02 |
@@ -855,7 +856,7 @@
 | [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 | 2023-09-29 | 2023-10-25 |
 | [Pure Imagination \(from "Wonka"\)](https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:07 | 2023-12-22 |  |
 | [Queen B](https://open.spotify.com/track/4hndsvkmDVkgcZx0JuZLUk) | [Harper Zilmer](https://open.spotify.com/artist/0zE4RVLWlAoCvYXEMCcgqZ), [Cash and Maverick](https://open.spotify.com/artist/5JwBh2LjExqTDve2dSTXmQ) | [Queen B](https://open.spotify.com/album/1ZVA1NqFokcoRaxVJ9CKQz) | 2:24 | 2023-12-28 |  |
-| [Radio](https://open.spotify.com/track/4PMdq7Q7xOFrY424ZelZEb) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 3:34 | 2023-06-16 |  |
+| [Radio](https://open.spotify.com/track/4PMdq7Q7xOFrY424ZelZEb) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 3:34 | 2023-06-16 | 2024-01-16 |
 | [Read your Mind](https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:27 | 2023-09-08 | 2023-09-30 |
 | [Reading Rainbow Theme Song](https://open.spotify.com/track/6XhLvHFFGw89NbGfpINRyn) | [Reading Rainbow](https://open.spotify.com/artist/4sQpFoM4UXAXcniRKQyKWn) | [Reading Raibows Greatest Hits](https://open.spotify.com/album/7HXEa9br4BSi46r6APyDo1) | 0:53 | 2022-03-25 | 2022-04-07 |
 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 | 2023-09-29 | 2023-10-07 |
@@ -911,6 +912,7 @@
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-09-30 | 2023-06-10 |
 | [Shadow Of Mine](https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Shadow Of Mine](https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG) | 2:45 | 2022-02-25 | 2022-03-18 |
 | [Shameless](https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:39 | 2023-07-26 |  |
+| [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 | 2024-01-15 |  |
 | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/track/61SwOvGpjoANrBOVgBZvMi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/album/0A1JBqEiwmsyxnCqgH4axf) | 2:37 | 2022-10-14 | 2023-01-14 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-04 | 2022-05-28 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-10-06 | 2023-07-29 |

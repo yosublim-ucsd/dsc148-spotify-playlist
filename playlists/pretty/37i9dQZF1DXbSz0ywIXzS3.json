@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 3351,
+  "num_followers": 3449,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjNkNDlkZGMyZjk3MjdkOTA3NzMyMzg1NDM4YjdlMjEzMzViMzE2",
+  "snapshot_id": "MCxkMmNlNDg1MTM1YTkxZGEwM2FlZjFkODM2MTI2MjQ4Yjg4ZjM3ZTU1",
   "tracks": [
     {
       "added_at": "2024-01-05 17:32:04",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
-        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 208114,
-      "name": "ONE MORE TIME",
-      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
-    },
-    {
-      "added_at": "2024-01-05 17:32:04",
-      "album": {
         "name": "Backspacer",
         "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 215853,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2"
+    },
+    {
+      "added_at": "2024-01-05 17:32:04",
+      "album": {
+        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
+        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 208114,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 303120,
+      "name": "Stop Crying Your Heart Out",
+      "url": "https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14"
+    },
+    {
+      "added_at": "2024-01-05 17:32:04",
+      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 197800,
       "name": "Nobody Praying For Me",
       "url": "https://open.spotify.com/track/3bq8WiQrEXMwPAibYs7tpu"
-    },
-    {
-      "added_at": "2024-01-05 17:32:04",
-      "album": {
-        "name": "Heathen Chemistry",
-        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 303120,
-      "name": "Stop Crying Your Heart Out",
-      "url": "https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "Lightning Bolt",
-        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 340320,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
-    },
-    {
-      "added_at": "2024-01-05 17:32:04",
-      "album": {
         "name": "Mirror Master",
         "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 230959,
       "name": "Superposition",
       "url": "https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1"
+    },
+    {
+      "added_at": "2024-01-05 17:32:04",
+      "album": {
+        "name": "Lightning Bolt",
+        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 340320,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Play God",
-      "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
-    },
-    {
-      "added_at": "2024-01-05 17:32:04",
-      "album": {
         "name": "Ultraviolet Disguise (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3FpGaltgrkpihz2wL76YRm"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 230000,
       "name": "Tonight You Are Mine",
       "url": "https://open.spotify.com/track/0Sjz8pTu8vcVvGP5rtyh3Q"
+    },
+    {
+      "added_at": "2024-01-05 17:32:04",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Play God",
+      "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "The Devil And God Are Raging Inside Me",
-        "url": "https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy"
-      },
-      "artists": [
-        {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
-        }
-      ],
-      "duration_ms": 318266,
-      "name": "Jesus Christ",
-      "url": "https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25"
-    },
-    {
-      "added_at": "2024-01-05 17:32:04",
-      "album": {
         "name": "Nothing Personal (Deluxe Version)",
         "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 224200,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
+    },
+    {
+      "added_at": "2024-01-05 17:32:04",
+      "album": {
+        "name": "The Devil And God Are Raging Inside Me",
+        "url": "https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy"
+      },
+      "artists": [
+        {
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
+        }
+      ],
+      "duration_ms": 318266,
+      "name": "Jesus Christ",
+      "url": "https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "Staind",
-        "url": "https://open.spotify.com/album/1lOE9VtdaX00Mp3Df6pgs3"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 247053,
-      "name": "Something to Remind You",
-      "url": "https://open.spotify.com/track/4wOQ8upbW1GzHCWjPlISKP"
-    },
-    {
-      "added_at": "2024-01-05 17:32:04",
-      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -939,22 +923,34 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "Don't Forget Where You Came From",
-        "url": "https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u"
+        "name": "Team Sleep (U.S. Release)",
+        "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
       },
       "artists": [
         {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
-        },
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Team Sleep",
+          "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
         }
       ],
-      "duration_ms": 210360,
-      "name": "Scumbag (feat. blink-182)",
-      "url": "https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk"
+      "duration_ms": 171800,
+      "name": "Ever (Foreign Flag)",
+      "url": "https://open.spotify.com/track/6lj90SlDI7l1xDLVuxEFDH"
+    },
+    {
+      "added_at": "2024-01-05 17:32:04",
+      "album": {
+        "name": "Staind",
+        "url": "https://open.spotify.com/album/1lOE9VtdaX00Mp3Df6pgs3"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 247053,
+      "name": "Something to Remind You",
+      "url": "https://open.spotify.com/track/4wOQ8upbW1GzHCWjPlISKP"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -975,18 +971,22 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "Team Sleep (U.S. Release)",
-        "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
+        "name": "Don't Forget Where You Came From",
+        "url": "https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u"
       },
       "artists": [
         {
-          "name": "Team Sleep",
-          "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+        },
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 171800,
-      "name": "Ever (Foreign Flag)",
-      "url": "https://open.spotify.com/track/6lj90SlDI7l1xDLVuxEFDH"
+      "duration_ms": 210360,
+      "name": "Scumbag (feat. blink-182)",
+      "url": "https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -1019,22 +1019,6 @@
       "duration_ms": 269323,
       "name": "Ghost - Acoustic",
       "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
-    },
-    {
-      "added_at": "2024-01-05 17:32:04",
-      "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/43TQVltxEHaqCKpSsttaT5"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -1115,6 +1099,22 @@
       "duration_ms": 345626,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/1xRUR651GIJoKbu0dqm0uW"
+    },
+    {
+      "added_at": "2024-01-05 17:32:04",
+      "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/43TQVltxEHaqCKpSsttaT5"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "I'm with You",
-        "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 335893,
-      "name": "Police Station",
-      "url": "https://open.spotify.com/track/6DfWymHzCYOH2ABUuHFaMe"
+      "duration_ms": 192946,
+      "name": "San Diego",
+      "url": "https://open.spotify.com/track/2USJYiIo3g8dt9a2qzD9fG"
     },
     {
       "added_at": "2024-01-05 17:32:04",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-01-05 17:32:04",
       "album": {
-        "name": "California (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
+        "name": "I'm with You",
+        "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 192946,
-      "name": "San Diego",
-      "url": "https://open.spotify.com/track/2USJYiIo3g8dt9a2qzD9fG"
+      "duration_ms": 335893,
+      "name": "Police Station",
+      "url": "https://open.spotify.com/track/6DfWymHzCYOH2ABUuHFaMe"
     },
     {
       "added_at": "2024-01-05 17:32:04",

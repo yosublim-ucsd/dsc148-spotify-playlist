@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1195186,
+  "num_followers": 1194286,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGI2MWVmZGIwNjY5ZjkyNjU1ZjljODEzNTQ2MjdiMmE0NzUxY2Vk",
+  "snapshot_id": "MCxjMzY4ZWEyZWFlYTlmYTA2ODliYjhkNTA2NGI4ZTUxYzU0NzhmMDNl",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Misty",
-        "url": "https://open.spotify.com/album/1GRqKwM4H3FLbZq3Fudbtz"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 224445,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/58qd3nuwT6pse9UpUojZIQ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 178346,
       "name": "Virginia May",
       "url": "https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/1GRqKwM4H3FLbZq3Fudbtz"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 224445,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/58qd3nuwT6pse9UpUojZIQ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Nina Cried Power - EP",
-        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 300706,
-      "name": "Shrike",
-      "url": "https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
       },
@@ -703,18 +687,34 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
+        "name": "Colder Heavens - EP",
+        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
       },
       "artists": [
         {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 211517,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 300706,
+      "name": "Shrike",
+      "url": "https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 211517,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Colder Heavens - EP",
-        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Colder Heavens",
-      "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Pocket Full of Rain",
-      "url": "https://open.spotify.com/track/4eUnqT2pBqi6t2PHy3l3R2"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Pocket Full of Rain",
+      "url": "https://open.spotify.com/track/4eUnqT2pBqi6t2PHy3l3R2"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Mipso",
         "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 215040,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
     },
     {
       "added_at": "2023-10-27 04:00:00",

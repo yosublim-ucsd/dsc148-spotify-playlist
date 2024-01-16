@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 212384,
+  "num_followers": 212629,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTlmMDYxNzljOTNhNWU0NDkyMDMyZjc0ZDIyNzFlYjdiNzVlOWIz",
+  "snapshot_id": "MCxiYTg1NGI2N2I0NTk2NjQ0MjFmOGNmN2Q2ZmE5NzM1ODhjODI4N2Y3",
   "tracks": [
     {
       "added_at": "2024-01-12 16:37:34",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2024-01-12 16:37:34",
       "album": {
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+    },
+    {
+      "added_at": "2024-01-12 16:37:34",
+      "album": {
         "name": "All For Love",
         "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 135706,
       "name": "She Knows - with Akon",
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
-    },
-    {
-      "added_at": "2024-01-12 16:37:34",
-      "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2024-01-12 16:37:34",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-01-12 16:37:34",
       "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "One with the Wolves",
-      "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
-    },
-    {
-      "added_at": "2024-01-12 16:37:34",
-      "album": {
         "name": "VACANCY",
         "url": "https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2024-01-12 16:37:34",
       "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "One with the Wolves",
+      "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
+    },
+    {
+      "added_at": "2024-01-12 16:37:34",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX"
       },
@@ -1503,26 +1503,6 @@
       "duration_ms": 152727,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H"
-    },
-    {
-      "added_at": "2024-01-12 16:37:34",
-      "album": {
-        "name": "REBELS NEVER DIE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
-      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     },
     {
       "added_at": "2024-01-12 16:37:34",
@@ -1571,6 +1551,26 @@
       "duration_ms": 136000,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/2rh38KyxmYjzTU1tavVLl4"
+    },
+    {
+      "added_at": "2024-01-12 16:37:34",
+      "album": {
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     },
     {
       "added_at": "2024-01-12 16:37:34",
@@ -1655,30 +1655,6 @@
     {
       "added_at": "2024-01-12 16:37:34",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
-      },
-      "artists": [
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "L\u00f8 Spirit",
-          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
-    },
-    {
-      "added_at": "2024-01-12 16:37:34",
-      "album": {
         "name": "Where You Are (Zedd Remix)",
         "url": "https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B"
       },
@@ -1703,6 +1679,30 @@
     {
       "added_at": "2024-01-12 16:37:34",
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "L\u00f8 Spirit",
+          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
+    },
+    {
+      "added_at": "2024-01-12 16:37:34",
+      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
@@ -1719,30 +1719,6 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
-    },
-    {
-      "added_at": "2024-01-12 16:37:34",
-      "album": {
-        "name": "Push It",
-        "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
     },
     {
       "added_at": "2024-01-12 16:37:34",
@@ -1767,6 +1743,30 @@
       "duration_ms": 175113,
       "name": "house in the streetlight",
       "url": "https://open.spotify.com/track/2oKH22tSUiqdjDSUhnWz0t"
+    },
+    {
+      "added_at": "2024-01-12 16:37:34",
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
     },
     {
       "added_at": "2024-01-12 16:37:34",
@@ -1803,26 +1803,6 @@
       "duration_ms": 193235,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
-    },
-    {
-      "added_at": "2024-01-12 16:37:34",
-      "album": {
-        "name": "My Bad",
-        "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 147180,
-      "name": "My Bad",
-      "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
     },
     {
       "added_at": "2024-01-12 16:37:34",
@@ -1871,6 +1851,30 @@
     {
       "added_at": "2024-01-12 16:37:34",
       "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
+    },
+    {
+      "added_at": "2024-01-12 16:37:34",
+      "album": {
         "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
         "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
@@ -1911,6 +1915,26 @@
     {
       "added_at": "2024-01-12 16:37:34",
       "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 147180,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
+    },
+    {
+      "added_at": "2024-01-12 16:37:34",
+      "album": {
         "name": "Alive (feat. The Moth & The Flame)",
         "url": "https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR"
       },
@@ -1939,50 +1963,26 @@
     {
       "added_at": "2024-01-12 16:37:34",
       "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         },
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         },
         {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
         }
       ],
-      "duration_ms": 198805,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
-    },
-    {
-      "added_at": "2024-01-12 16:37:34",
-      "album": {
-        "name": "See You Again",
-        "url": "https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 163451,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
+      "duration_ms": 153508,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp"
     },
     {
       "added_at": "2024-01-12 16:37:34",
@@ -2019,30 +2019,6 @@
       "duration_ms": 160320,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0IPyz9vpoyTB8LfECAasI5"
-    },
-    {
-      "added_at": "2024-01-12 16:37:34",
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 153508,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp"
     },
     {
       "added_at": "2024-01-12 16:37:34",
@@ -2127,6 +2103,30 @@
       "duration_ms": 147170,
       "name": "Locked Up (ft. Akon)",
       "url": "https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53"
+    },
+    {
+      "added_at": "2024-01-12 16:37:34",
+      "album": {
+        "name": "See You Again",
+        "url": "https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 163451,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
     },
     {
       "added_at": "2024-01-12 16:37:34",

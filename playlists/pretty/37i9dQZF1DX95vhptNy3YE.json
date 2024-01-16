@@ -1,12 +1,12 @@
 {
   "description": "Grupo Benzadeus e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 225087,
+  "num_followers": 225136,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDhiNDhlNWJiNmQyNDkwNjM4ZTQxY2NkNzQxNTM5OWE4ODcxNWNj",
+  "snapshot_id": "MCw3ZTBkMjQ3ZTliYmI1OGJjZDcyNjMyODAwN2Y2NDU3YTc1NzI1YWIy",
   "tracks": [
     {
       "added_at": "2024-01-12 03:01:00",
@@ -459,30 +459,6 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Melhor S\u00f3",
-        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 229326,
-      "name": "Melhor S\u00f3",
-      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
         "name": "Invis\u00edvel pt.2",
         "url": "https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 209141,
       "name": "da lua",
       "url": "https://open.spotify.com/track/0F1FsfYvx7eyAC64EPzD7S"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Melhor S\u00f3",
+        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 229326,
+      "name": "Melhor S\u00f3",
+      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -783,30 +783,6 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Acordei Bem Cedo",
-        "url": "https://open.spotify.com/album/67TrPKnENDevc0cq8FEfm5"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Mc Kanhoto",
-          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
-        },
-        {
-          "name": "MC Murilo MT",
-          "url": "https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP"
-        }
-      ],
-      "duration_ms": 377142,
-      "name": "Acordei Bem Cedo",
-      "url": "https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
         "name": "POLLY HITMADO",
         "url": "https://open.spotify.com/album/2iQVaMwqHCSOtQaWvALe80"
       },
@@ -839,6 +815,54 @@
       "duration_ms": 133517,
       "name": "Pensamentos Intrusivos",
       "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Acordei Bem Cedo",
+        "url": "https://open.spotify.com/album/67TrPKnENDevc0cq8FEfm5"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "MC Murilo MT",
+          "url": "https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP"
+        }
+      ],
+      "duration_ms": 377142,
+      "name": "Acordei Bem Cedo",
+      "url": "https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -887,30 +911,6 @@
       "duration_ms": 170647,
       "name": "N\u00fameros da Sorte",
       "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -1175,6 +1175,30 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "RT Mallone",
+          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Hitchcock - Feat. RT Mallone",
+      "url": "https://open.spotify.com/track/0w6uGMrOOUTH1nxk0d8Uez"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
         "name": "N\u00e3o Tenho Tempo",
         "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
@@ -1199,30 +1223,6 @@
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        },
-        {
-          "name": "RT Mallone",
-          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Hitchcock - Feat. RT Mallone",
-      "url": "https://open.spotify.com/track/0w6uGMrOOUTH1nxk0d8Uez"
     },
     {
       "added_at": "2024-01-12 03:01:00",

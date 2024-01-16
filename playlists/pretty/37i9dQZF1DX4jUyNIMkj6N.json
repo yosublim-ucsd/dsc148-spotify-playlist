@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 196822,
+  "num_followers": 196884,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjVmYjRmN2RlZjU2Mzk0NzM5YjBlNGQ4ZTdhNDRkNDg1NjY5MWRj",
+  "snapshot_id": "MCxhYzdjNjU2YjQwMTZiYmQ1NmIzNjk1MmFhOTA3NTNhZWNiNmRmMmJl",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 193297,
-      "name": "Way down We Go - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
+      "duration_ms": 255853,
+      "name": "Love is All",
+      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 255853,
-      "name": "Love is All",
-      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
+      "duration_ms": 193297,
+      "name": "Way down We Go - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Magic Chairs",
+        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
+      },
+      "artists": [
+        {
+          "name": "Efterklang",
+          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+        }
+      ],
+      "duration_ms": 293760,
+      "name": "Modern Drift",
+      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 299840,
       "name": "bl\u00f3mi",
       "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Mycelium/Let Her Teach You",
-        "url": "https://open.spotify.com/album/6od8EDcM1mUiLrCV6ji0tQ"
-      },
-      "artists": [
-        {
-          "name": "Fia",
-          "url": "https://open.spotify.com/artist/0MqfYdygGLnHjhmXc9yDeH"
-        }
-      ],
-      "duration_ms": 197366,
-      "name": "Mycelium",
-      "url": "https://open.spotify.com/track/34wOxhxMDdAVxyA1bBS4z6"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Magic Chairs",
-        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
+        "name": "Mycelium/Let Her Teach You",
+        "url": "https://open.spotify.com/album/6od8EDcM1mUiLrCV6ji0tQ"
       },
       "artists": [
         {
-          "name": "Efterklang",
-          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+          "name": "Fia",
+          "url": "https://open.spotify.com/artist/0MqfYdygGLnHjhmXc9yDeH"
         }
       ],
-      "duration_ms": 293760,
-      "name": "Modern Drift",
-      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
+      "duration_ms": 197366,
+      "name": "Mycelium",
+      "url": "https://open.spotify.com/track/34wOxhxMDdAVxyA1bBS4z6"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Norwegian Black Metal",
-        "url": "https://open.spotify.com/album/0hA4KCp77KhfgtQImMp9Rb"
+        "name": "Tran\u00f8y fyr",
+        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
       },
       "artists": [
         {
-          "name": "Simen Mitlid",
-          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
-        },
-        {
-          "name": "Ea Othilde",
-          "url": "https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99"
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 185545,
-      "name": "Norwegian Black Metal",
-      "url": "https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE"
+      "duration_ms": 236480,
+      "name": "Tran\u00f8y fyr",
+      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
     }
   ],
   "unique_name": "Nordic Folk",

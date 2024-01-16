@@ -4,7 +4,7 @@
 
 > Please consider donating to Hawai'i Community Foundation's <a href="https://www.hawaiicommunityfoundation.org/maui\-strong?fbclid=IwAR13k\_bWcOzvA0EM6bF6CSmkSktK8G\[%E2%80%A6\]EzD6jXm7wvU2z18gYZVchaFYOyGe2pBhhcts&mibextid=Zxz2cZ">Maui Strong Fund</a> to provide financial resources quickly to those that have been impacted by the devastating wildfires on Maui.
 
-89 songs - 5 hr 38 min
+90 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 | 2022-05-02 |  |
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2022-05-02 |  |
 | [Huaka\`i](https://open.spotify.com/track/0ZAXFqWIT7Abz7RkXeMdFJ) | [Patrick Landeza](https://open.spotify.com/artist/7ujNPg1x9Q4n0CRNZ8JseP) | [Slack Key Huaka\`i](https://open.spotify.com/album/7hKvLXhooRXdqytXRZ6Ib7) | 3:26 | 2022-05-02 |  |
-| [Ipo Lei Manu](https://open.spotify.com/track/4cXRygylIkwc1EgOJltbIw) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [Songs of Aloha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/119mKxx5iYvDFOFJbSxO6K) | 5:10 | 2023-12-15 |  |
+| [Ipo Lei Manu](https://open.spotify.com/track/4cXRygylIkwc1EgOJltbIw) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [Songs of Aloha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/119mKxx5iYvDFOFJbSxO6K) | 5:10 | 2023-12-15 | 2024-01-16 |
+| [Ipo Lei Manu](https://open.spotify.com/track/0j1rPE5I0707BqbolAyT0G) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [6 & 12 String Slack Key Guitar](https://open.spotify.com/album/7dgIUPKunBub5OYXGJf5UQ) | 5:10 | 2023-12-15 |  |
 | [Ipo Lei Manu](https://open.spotify.com/track/3jFOru56OBjrH30UUBkGpT) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [6 & 12 String Slack Key Guitar](https://open.spotify.com/album/5zuoYfUizX3LXBgKPSyXEk) | 5:10 | 2022-05-02 | 2024-01-14 |
 | [Ipo Lei Manu](https://open.spotify.com/track/5WyLpJPhodJDTTgtJEbq71) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [6 & 12 String Slack Key](https://open.spotify.com/album/5v62N5kiseJw91NvmVt0S5) | 5:13 | 2022-05-02 | 2022-07-29 |
 | [Ka Loke](https://open.spotify.com/track/4RvJa9TelSwFemuSziQyt2) | [Makaha Sons & Friends](https://open.spotify.com/artist/2kBl6WvpHJRYJ48UJbGIel) | [Na Pua o Hawai'i](https://open.spotify.com/album/1KCDDKBw7SHsjAi8YqhtRq) | 3:18 | 2022-05-02 |  |

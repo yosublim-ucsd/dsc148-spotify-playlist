@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Marika Hackman
 
-560 songs - 1 day 10 hr 56 min
+561 songs - 1 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Exploding](https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Exploding](https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ) | 4:01 | 2023-09-22 | 2024-01-13 |
 | [Eye of the Canyon](https://open.spotify.com/track/2dd8AouAUzOXkoeGYj5KXA) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Lost Dreams](https://open.spotify.com/album/6VMaL2uxCKWWFHi1NDIcyz) | 4:11 | 2023-09-15 | 2023-10-11 |
 | [Eyes Wide Open \- From "North Star"](https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Eyes Wide Open \(From "North Star"\)](https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe) | 3:15 | 2022-01-14 | 2024-01-06 |
+| [Eyes Wide Open \- From "North Star"](https://open.spotify.com/track/4JfmeKq7mQtRaqMlFPxdMD) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Eyes Wide Open \(From "North Star"\)](https://open.spotify.com/album/0fouq8lLLJduDBkbsyh5UH) | 3:15 | 2024-01-05 |  |
 | [Faith Healer](https://open.spotify.com/track/2hNXb6IDn3CvvHjjwauEM3) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Faith Healer](https://open.spotify.com/album/4poKpzHqjS4Ak1usjjNvvz) | 2:54 | 2021-10-22 | 2022-07-29 |
 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 | 2022-06-24 |  |
 | [Falling In And Out](https://open.spotify.com/track/051LILwSBCXRDbIO5fuyNs) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Stoalin'](https://open.spotify.com/album/0aGtxIJzVrtMV6xRwsrKHQ) | 4:39 | 2022-04-13 | 2022-04-15 |
@@ -335,7 +336,7 @@
 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 | 2023-10-13 |  |
 | [Moderation](https://open.spotify.com/track/0ZnVZan6NgkelQmtZBFNFr) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w) | 4:04 | 2022-06-24 | 2023-03-18 |
 | [Moderation](https://open.spotify.com/track/0awSoObGwWsVAI3uTd18FI) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Moderation](https://open.spotify.com/album/4FEWm4iICGDF9rrl0lpfbk) | 4:04 | 2021-11-19 | 2022-07-29 |
-| [Moderation](https://open.spotify.com/track/4K7wxxMOlSRWodONmW8ceG) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/4EucMR080SkRlViV1nbDK9) | 4:04 | 2024-01-05 |  |
+| [Moderation](https://open.spotify.com/track/4K7wxxMOlSRWodONmW8ceG) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/4EucMR080SkRlViV1nbDK9) | 4:04 | 2024-01-05 | 2024-01-16 |
 | [Money \(Hymn\)](https://open.spotify.com/track/6zetwLIMcYw2FNb7nxsPMB) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Honeychurch](https://open.spotify.com/album/0c6eomNguQ6ymqB6ZFowUu) | 4:19 | 2021-10-22 | 2022-07-29 |
 | [Moonbeam](https://open.spotify.com/track/32ySOggMNM9ZYgh5zAXcjG) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Diamonds](https://open.spotify.com/album/06qBCU6345SLVXjh6vk3NY) | 2:14 | 2023-10-13 | 2023-11-18 |
 | [Moss](https://open.spotify.com/track/6ekrWBXDwoAlGeKviqSk1O) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ) | [Lucky](https://open.spotify.com/album/2mj7nC55GrXFOfqJHivuq7) | 2:37 | 2023-06-09 |  |

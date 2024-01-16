@@ -2307,6 +2307,32 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205083,
+      "name": "Kusuu",
+      "url": "https://open.spotify.com/track/0BXG6kR9D7ZjXtjBwvPiKy"
+    },
+    {
+      "album": {
         "name": "Kwaku Ananse",
         "url": "https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw"
       },
@@ -4310,7 +4336,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"

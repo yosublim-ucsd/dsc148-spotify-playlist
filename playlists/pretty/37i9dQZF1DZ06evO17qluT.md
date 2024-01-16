@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,131 likes - 38 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,153 likes - 38 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 8 | [O Mundo é Nosso](https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 3:43 |
 | 9 | [Dispiei](https://open.spotify.com/track/374FHMaD2W0k7gsxaHa1Hi) | [Pirâmide Perdida](https://open.spotify.com/artist/4lJ000HqAKrfAehIP2XENM), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Bril](https://open.spotify.com/artist/6wOMdAwX6mgYpadxSKU65a) | [Pirâmide Perdida \(Vol\. 7\)](https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE) | 3:21 |
 | 10 | [Amanhecer](https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:31 |
-| 11 | [.38](https://open.spotify.com/track/3nobSbq9rggHUEbRBoZaDg) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [.38](https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO) | 2:06 |
-| 12 | [Amores, Vícios e Obsessões](https://open.spotify.com/track/0tjO1Cc1kdNZwXrnH0NceG) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 3:14 |
+| 11 | [Amores, Vícios e Obsessões](https://open.spotify.com/track/0tjO1Cc1kdNZwXrnH0NceG) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 3:14 |
+| 12 | [.38](https://open.spotify.com/track/3nobSbq9rggHUEbRBoZaDg) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [.38](https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO) | 2:06 |
 | 13 | [Vivendo Avançado](https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Johnny Monteiro](https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 4:00 |
 | 14 | [Se eu não lembrar](https://open.spotify.com/track/2Pwb1vbghtrkNBNVzlNf7N) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:57 |
 | 15 | [3 DA MADRUGA](https://open.spotify.com/track/6ippDdJ3ys868MznfOHiRI) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 3:41 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 37 | [O Que Quiser Fazer](https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Um](https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0) | 3:45 |
 | 38 | [Titãs](https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:54 |
 
-Snapshot ID: `Mjg0MjA1NDgsMDAwMDAwMDBjMTFmNmIwZjc2MWVmNWVhYjg1NTFmZDZmZGI5NWQ2ZA==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDBmYTJmZDhkNjE4MTBkNGE0ODdkMzUwY2Q5ZGI5OGQyMQ==`

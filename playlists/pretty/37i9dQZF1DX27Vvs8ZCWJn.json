@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 82830,
+  "num_followers": 82899,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjMyNDEyMTg5OTY4ZjRlMzMyNGZhYWY1MDMyOTVkMWZiMWE5NGIx",
+  "snapshot_id": "MCxlY2IwYmU0NzM1YTRjOGZiM2UyNWJiZjFmZDIxNzcyZTg5NzZmMTgx",
   "tracks": [
     {
       "added_at": "2021-12-25 17:56:56",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 210186,
       "name": "A Puro Dolor - Balada",
       "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -303,6 +303,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Una Noche En Madrid",
         "url": "https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 256320,
       "name": "Si t\u00fa no estas",
       "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -511,6 +511,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Yo, Mi, Me, Contigo",
+        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 219826,
       "name": "Con Olor a Hierba",
       "url": "https://open.spotify.com/track/30PNkwSPcer18CoQ8uyUct"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Yo, Mi, Me, Contigo",
-        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
     },
     {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Luna Nueva",
-        "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 319066,
-      "name": "Penelope",
-      "url": "https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF"
-    },
-    {
       "added_at": "2023-12-12 20:14:21",
       "album": {
         "name": "Grandes \u00c9xitos del Boleroglam Vol. 1",
@@ -667,6 +651,22 @@
       "duration_ms": 233194,
       "name": "Somos Algo",
       "url": "https://open.spotify.com/track/2tGIjytBp6wBcPxiBrDu90"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Luna Nueva",
+        "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 319066,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -767,18 +767,18 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
       "artists": [
         {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 253066,
-      "name": "Luna m\u00e1gica",
-      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
+      "duration_ms": 204533,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr"
     },
     {
       "added_at": "2023-12-12 20:14:21",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
-      "added_at": "2023-12-12 20:14:21",
+      "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/4sehYh39cQn4y8133SG1En"
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
       },
       "artists": [
         {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
         }
       ],
-      "duration_ms": 103226,
-      "name": "Paraiso",
-      "url": "https://open.spotify.com/track/6eooWeZ10qf1hbl4OlCcG4"
+      "duration_ms": 253066,
+      "name": "Luna m\u00e1gica",
+      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
     }
   ],
   "unique_name": "bohemia tranqui",

@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 600428,
+  "num_followers": 600577,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWI4OThhZTUwMTFlOThjNzg5ZmQ3MGQ4MzY2OGFkMDc4M2VkNmMz",
+  "snapshot_id": "MCwzOGE0MzU0ZWVhNGE4YTNkMmUzMzA5YmMxYTk4MWZhYTZmMTJhZDU5",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Old 8 x 10",
-        "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Deeper Than the Holler",
-      "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "We've Got Tonight",
         "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 234560,
       "name": "We've Got Tonight",
       "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Closer You Get...",
+        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 322093,
+      "name": "Dixieland Delight",
+      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Closer You Get...",
-        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
+        "name": "Old 8 x 10",
+        "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 322093,
-      "name": "Dixieland Delight",
-      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
+      "duration_ms": 219080,
+      "name": "Deeper Than the Holler",
+      "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Lookin' For Love",
         "url": "https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 220440,
       "name": "Lookin' for Love",
       "url": "https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -843,38 +843,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Country Club",
-      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "There's No Gettin' Over Me",
-        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "(There's) No Gettin' Over Me",
-      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Friendship",
         "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
       },
@@ -895,18 +863,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Love Me Like You Used To",
-        "url": "https://open.spotify.com/album/4QX9956IEsmpWCJtfwa7b5"
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
       },
       "artists": [
         {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 229600,
-      "name": "Love Me Like You Used To",
-      "url": "https://open.spotify.com/track/3PkASUKHoNOWzGmDkwnnG5"
+      "duration_ms": 190800,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -923,6 +891,38 @@
       "duration_ms": 218613,
       "name": "Mountain Music",
       "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Love Me Like You Used To",
+        "url": "https://open.spotify.com/album/4QX9956IEsmpWCJtfwa7b5"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Love Me Like You Used To",
+      "url": "https://open.spotify.com/track/3PkASUKHoNOWzGmDkwnnG5"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "There's No Gettin' Over Me",
+        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "(There's) No Gettin' Over Me",
+      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "West By West",
-        "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
-      },
-      "artists": [
-        {
-          "name": "Shelly West",
-          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "Jose Cuervo",
-      "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Very Best Of Rosanne Cash",
         "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 195080,
       "name": "Tennessee Flat Top Box",
       "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "West By West",
+        "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
+      },
+      "artists": [
+        {
+          "name": "Shelly West",
+          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "Jose Cuervo",
+      "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "I'd Love To Lay You Down",
+      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Top 10",
         "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 199200,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "I'd Love To Lay You Down",
-      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Old Hippie",
+      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "The Heart of It All",
         "url": "https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG"
       },
@@ -1963,6 +1979,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "I'll Still Be Loving You",
+      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa"
       },
@@ -1975,22 +2007,6 @@
       "duration_ms": 194160,
       "name": "Heartbroke",
       "url": "https://open.spotify.com/track/79gYsiFPJ8x6ofr656fVIP"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Old Hippie",
-      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2043,22 +2059,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "I'll Still Be Loving You",
-      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Wild And Blue",
         "url": "https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc"
       },
@@ -2091,6 +2091,22 @@
       "duration_ms": 169600,
       "name": "Just to Satisfy You",
       "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Why Does It Have to Be (Wrong or Right)",
+      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2175,22 +2191,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Why Does It Have to Be (Wrong or Right)",
-      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu"
       },
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Greatest Hits--\"Songs from an Aging Sex Bomb\"",
-        "url": "https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X"
-      },
-      "artists": [
-        {
-          "name": "K.T. Oslin",
-          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
-        }
-      ],
-      "duration_ms": 245733,
-      "name": "Do Ya'",
-      "url": "https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 239440,
       "name": "That Lovin' You Feelin' Again (with Roy Orbison) - 2008 Remaster",
       "url": "https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Greatest Hits--\"Songs from an Aging Sex Bomb\"",
+        "url": "https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X"
+      },
+      "artists": [
+        {
+          "name": "K.T. Oslin",
+          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
+        }
+      ],
+      "duration_ms": 245733,
+      "name": "Do Ya'",
+      "url": "https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2455,6 +2455,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "The Very Best Of Dan Seals",
+        "url": "https://open.spotify.com/album/0a6aMfflvm0xFsaa2ZEqSC"
+      },
+      "artists": [
+        {
+          "name": "Dan Seals",
+          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
+        }
+      ],
+      "duration_ms": 209439,
+      "name": "My Baby's Got Good Timing",
+      "url": "https://open.spotify.com/track/4F2JyLPNoCIUshjktmHxCN"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "The Heart of It All",
         "url": "https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG"
       },
@@ -2471,22 +2487,6 @@
       "duration_ms": 215666,
       "name": "We Believe In Happy Endings (with Emmylou Harris)",
       "url": "https://open.spotify.com/track/7sEmUltyPUy9v2Of7Whzpy"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Best Of Gene Watson",
-        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
-      },
-      "artists": [
-        {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Got No Reason Now For Goin' Home",
-      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
     }
   ],
   "unique_name": "80s Country",

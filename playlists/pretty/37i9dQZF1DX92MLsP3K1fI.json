@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Pepe Aguilar y Aleks Syntek en portada.",
-  "num_followers": 80715,
+  "num_followers": 80771,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTY2NjUzOGFlOGU4NTUwMTNmZmZkM2Q2MWY2NTE4YzYxMWI3NjNj",
+  "snapshot_id": "MCwxYThhM2E1MDQxNDEwM2I2M2Q0NmQxZDk1ZjY3YTk0Y2JiYmUxNmFi",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -527,42 +527,18 @@
     {
       "added_at": "2023-10-27 00:00:00",
       "album": {
-        "name": "Rebelde",
-        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
       "artists": [
         {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 221853,
-      "name": "Ens\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/3eo3Dw5OGSWCzJDVHLKE3v"
+      "duration_ms": 162981,
+      "name": "A\u00f1o Sab\u00e1tico",
+      "url": "https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL"
     },
     {
       "added_at": "2023-10-27 00:00:00",
@@ -631,22 +607,6 @@
     {
       "added_at": "2023-10-27 00:00:00",
       "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 162981,
-      "name": "A\u00f1o Sab\u00e1tico",
-      "url": "https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL"
-    },
-    {
-      "added_at": "2023-10-27 00:00:00",
-      "album": {
         "name": "Uno los Dos",
         "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
@@ -663,6 +623,46 @@
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
+    },
+    {
+      "added_at": "2023-10-27 00:00:00",
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/3eo3Dw5OGSWCzJDVHLKE3v"
     },
     {
       "added_at": "2023-10-27 00:00:00",
@@ -715,42 +715,6 @@
       "duration_ms": 154653,
       "name": "Bien Por Ti",
       "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
-    },
-    {
-      "added_at": "2023-10-27 00:00:00",
-      "album": {
-        "name": "Cerquita De Ti",
-        "url": "https://open.spotify.com/album/5Wg1E8vq9CFjnaBKJClHK2"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "Cerquita De Ti",
-      "url": "https://open.spotify.com/track/70FJ7VpGX4Luv8GlMGSLRM"
     },
     {
       "added_at": "2023-10-27 00:00:00",
@@ -815,44 +779,8 @@
     {
       "added_at": "2023-10-27 00:00:00",
       "album": {
-        "name": "Qui\u00e9n lo dir\u00eda",
-        "url": "https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        },
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 159497,
-      "name": "Qui\u00e9n lo dir\u00eda",
-      "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"
-    },
-    {
-      "added_at": "2023-10-27 00:00:00",
-      "album": {
-        "name": "sanvalent\u00edn:(",
-        "url": "https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 242424,
-      "name": "sanvalent\u00edn:(",
-      "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
-    },
-    {
-      "added_at": "2023-10-27 00:00:00",
-      "album": {
-        "name": "S.H.E.A",
-        "url": "https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL"
+        "name": "Cerquita De Ti",
+        "url": "https://open.spotify.com/album/5Wg1E8vq9CFjnaBKJClHK2"
       },
       "artists": [
         {
@@ -880,9 +808,45 @@
           "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
         }
       ],
-      "duration_ms": 190760,
-      "name": "S.H.E.A",
-      "url": "https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH"
+      "duration_ms": 217346,
+      "name": "Cerquita De Ti",
+      "url": "https://open.spotify.com/track/70FJ7VpGX4Luv8GlMGSLRM"
+    },
+    {
+      "added_at": "2023-10-27 00:00:00",
+      "album": {
+        "name": "sanvalent\u00edn:(",
+        "url": "https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 242424,
+      "name": "sanvalent\u00edn:(",
+      "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
+    },
+    {
+      "added_at": "2023-10-27 00:00:00",
+      "album": {
+        "name": "Qui\u00e9n lo dir\u00eda",
+        "url": "https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 159497,
+      "name": "Qui\u00e9n lo dir\u00eda",
+      "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"
     },
     {
       "added_at": "2023-10-27 00:00:00",
@@ -919,6 +883,42 @@
       "duration_ms": 226981,
       "name": "Carita Bonita",
       "url": "https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR"
+    },
+    {
+      "added_at": "2023-10-27 00:00:00",
+      "album": {
+        "name": "S.H.E.A",
+        "url": "https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "S.H.E.A",
+      "url": "https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH"
     },
     {
       "added_at": "2023-10-27 00:00:00",

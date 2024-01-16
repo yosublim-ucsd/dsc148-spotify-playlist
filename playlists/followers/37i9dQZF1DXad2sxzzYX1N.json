@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 107632,
+  "2024-01-16": 108776,
   "date_first_scraped": "2023-11-30",
   "description": "The indie viral hits you couldn\u2019t escape in 2023. Cover: Lana Del Rey ",
   "name": "Indie that hit different in 2023",
@@ -638,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Clean Sheets, dirty walls",
+        "url": "https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172199,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
+    },
+    {
+      "album": {
         "name": "orange blood",
         "url": "https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE"
       },
@@ -649,7 +667,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 145833,
       "name": "missin something",
       "url": "https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl"

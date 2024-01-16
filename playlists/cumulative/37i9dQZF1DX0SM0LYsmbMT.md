@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,960 songs - 6 day 7 hr 27 min
+3,962 songs - 6 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2321,6 +2321,7 @@
 | [New Moon](https://open.spotify.com/track/2ZbvON6YdaYgcO1PiIA4uw) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [New Moon](https://open.spotify.com/album/6HPQfXJo8OFpyMxGjdIqbm) | 2:25 | 2021-05-14 | 2022-01-21 |
 | [New music](https://open.spotify.com/track/3etlIf9k54KXj8fgY1NQtD) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [New music](https://open.spotify.com/album/51vLWuPjB2yt3GlJRbuGyD) | 1:27 | 2021-06-04 | 2022-07-28 |
 | [New music](https://open.spotify.com/track/3xBmX6bX1uejbi7iLFiRp5) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Pleasures](https://open.spotify.com/album/17lrOs4wLpcYKDMJynoQ9p) | 1:27 | 2022-07-28 | 2022-09-27 |
+| [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 | 2024-01-15 |  |
 | [New York](https://open.spotify.com/track/1SHW5GLmrJ3PbR5Cbip24V) | [Gregory Ross](https://open.spotify.com/artist/3vHAij1z57NgRTTtTDFAoe) | [New York](https://open.spotify.com/album/6v1lczl6CkTOm3tWO6MGYw) | 3:18 | 2019-11-12 | 2020-03-31 |
 | [New York \- Extended](https://open.spotify.com/track/0x3JF5cqEMI6Sl1EQj0GgS) | [StriveAU](https://open.spotify.com/artist/0gX527ngxcnfHH8kHj1gEe) | [Vans with My Ol' Sweater](https://open.spotify.com/album/5j7ZJBrNIB8SByWJxLalZC) | 1:51 | 2019-05-26\* | 2019-06-15 |
 | [Nice To Meet U](https://open.spotify.com/track/1Pb35g6g0mTuT2FIMSqHwa) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [dave.wav](https://open.spotify.com/artist/4ZJQECwTUYezRbVJkzjis2) | [Nice To Meet U](https://open.spotify.com/album/6pzwzsHqn2aUf2JP1IdnWr) | 2:07 | 2022-11-17 | 2023-02-10 |
@@ -2882,7 +2883,7 @@
 | [Salon](https://open.spotify.com/track/0ZKOHKWbyv8doUMc4wxC6l) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Salon](https://open.spotify.com/album/3lNGJx2UERj4vt4XJCjqjT) | 1:47 | 2022-02-24 | 2023-01-27 |
 | [Salt](https://open.spotify.com/track/13lm4JZN6BzI7xVtp9loUg) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Salt](https://open.spotify.com/album/4HBSVKFqZrEWNvLxSeWbmT) | 1:59 | 2023-10-19 |  |
 | [Salt & Honey](https://open.spotify.com/track/7MJFecDyvdlcuoibwJ8LL5) | [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY) | [Sea Slugs Vol\. 4](https://open.spotify.com/album/74TjwcKzGkRjhWm3nAns5H) | 2:10 | 2020-07-24 | 2021-03-26 |
-| [Salt Wind](https://open.spotify.com/track/7GGIJ09FsmFDOoCNWKCMYT) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Salt Wind](https://open.spotify.com/album/68DzKMUrWmf7uTTnXFuF7X) | 2:26 | 2024-01-11 |  |
+| [Salt Wind](https://open.spotify.com/track/7GGIJ09FsmFDOoCNWKCMYT) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Salt Wind](https://open.spotify.com/album/68DzKMUrWmf7uTTnXFuF7X) | 2:26 | 2024-01-11 | 2024-01-16 |
 | [samba hop](https://open.spotify.com/track/5Xfb6A8dS3LkA3doJT5jtm) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK) | [Cookies](https://open.spotify.com/album/0EF6vdGjkjHHkJizEbQrOr) | 1:14 | 2022-02-11 | 2022-03-10 |
 | [Same Here](https://open.spotify.com/track/4CmCA9wQXNycEvrjRhTPJb) | [Bill adlib](https://open.spotify.com/artist/2vtcShcGkXS1SZeLwEOqKz) | [Same Here](https://open.spotify.com/album/6da5oFl9XkZfuEoJ5C1iEo) | 1:19 | 2021-08-27 | 2021-10-22 |
 | [Same Old](https://open.spotify.com/track/40rGVDpEBZpoa8SHVgT7Pb) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF) | [Same Old](https://open.spotify.com/album/3OuAFfTI7XgHhZtfwOzX2W) | 2:41 | 2022-12-15 | 2023-02-17 |
@@ -3691,6 +3692,7 @@
 | [VHS Kid](https://open.spotify.com/track/2jztuYB0UgaxAD0N6az6fY) | [Bawer](https://open.spotify.com/artist/0hL2YMWhS1RHJxrPDyilMg) | [VHS Kid](https://open.spotify.com/album/2VJCNmzmcA0TESVqdR0gnK) | 1:58 | 2021-02-14 | 2021-03-06 |
 | [VIA](https://open.spotify.com/track/5H7yDezoxn10adF0rW2LLs) | [gishfang](https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv), [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v) | [VIA](https://open.spotify.com/album/1jsP9f8mQOCFo1mLTwEuAT) | 2:06 | 2021-04-09 | 2021-06-11 |
 | [viagem](https://open.spotify.com/track/3up03CSKzYQUCgVAwGWZDV) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [O Cavalo Vermelho](https://open.spotify.com/album/0K0Cgh1LHUe4Wm29WEdipr) | 1:37 | 2020-03-13 | 2020-05-25 |
+| [Vibe I'm](https://open.spotify.com/track/07RlP8Rj6ihc4sT3wZu7yw) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Vibe I'm](https://open.spotify.com/album/6VQqZ9XqscI897TCLIv5n9) | 2:14 | 2024-01-15 |  |
 | [Vibe Tribe](https://open.spotify.com/track/13ub3uDcsh7mqolvP2cTSc) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Vibe Central](https://open.spotify.com/album/2kUiNABc0dXtIuuf9kDQnA) | 4:29 | 2019-06-29 | 2019-10-25 |
 | [vibe with me](https://open.spotify.com/track/6iJaqvWa15ID6jihfVmcBs) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [vibe with me \- EP](https://open.spotify.com/album/7xSoFqE9fPKAyGBoUnPsAE) | 1:22 | 2019-07-30 | 2020-01-17 |
 | [Viberian Waves \- Pt\. 1](https://open.spotify.com/track/01b4RZH3mxKwJvIRIkpEMN) | [Jneiro Jarel](https://open.spotify.com/artist/2EDnVAZ8Ha0eOeMtMinniB), [Capitol Peoples](https://open.spotify.com/artist/07cUcW2lEvBZSFE7wmVgaQ) | [Viberian Waves \(Pt\. 1 & 2\)](https://open.spotify.com/album/45cKJbgPSFx7AZupJkT6ni) | 3:20 | 2020-09-11 | 2020-11-07 |
@@ -3750,7 +3752,7 @@
 | [Wake Up](https://open.spotify.com/track/6ubcVXhLmUPsFfByqDvOPQ) | [Screwaholic](https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Wake Up](https://open.spotify.com/album/6uwq8LL31PF4RCYOpA5bOl) | 1:53 | 2023-11-16 | 2023-12-15 |
 | [Waker](https://open.spotify.com/track/3DSCEi3NdAuv0OvwkjQY10) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [Waker](https://open.spotify.com/album/3RvbQdI42s7WkB088EPRG3) | 2:59 | 2021-10-17 | 2021-11-16 |
 | [Waking Dreams](https://open.spotify.com/track/14gE9N9Hx3WyLL1U3CnizM) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Bensnburner](https://open.spotify.com/artist/1NhHx2cTyDwW8b9MgxOML7) | [Waking Dreams](https://open.spotify.com/album/3a9iJ3hHLqeSWvKbkn37vI) | 2:12 | 2019-12-20 | 2020-03-31 |
-| [Waking Up Again](https://open.spotify.com/track/6b7VubCKz1rLmkOLbWCqcy) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Waking Up Again](https://open.spotify.com/album/3gAYDduzqC0AUpC0XjTTYM) | 1:32 | 2024-01-11 |  |
+| [Waking Up Again](https://open.spotify.com/track/6b7VubCKz1rLmkOLbWCqcy) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Waking Up Again](https://open.spotify.com/album/3gAYDduzqC0AUpC0XjTTYM) | 1:32 | 2024-01-11 | 2024-01-16 |
 | [Walk](https://open.spotify.com/track/74yU4BuONMdJCrBcwdxjiM) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Walk](https://open.spotify.com/album/21aHAp2IsAKvOexYShK9ai) | 2:02 | 2022-02-17 | 2023-10-20 |
 | [Walk Man](https://open.spotify.com/track/3dkkAQxhrqSax0K5LKB7Xs) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Walk Man](https://open.spotify.com/album/0207ZP0EfLixTqVx53YCik) | 2:41 | 2023-09-14 |  |
 | [Walk The Dog](https://open.spotify.com/track/4AowHOaycPNDRId7N4Npf9) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Walk The Dog](https://open.spotify.com/album/306HMpP6yrynuST9JxQVoj) | 2:19 | 2023-02-09 | 2023-03-10 |

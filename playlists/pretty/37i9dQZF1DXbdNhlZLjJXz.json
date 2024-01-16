@@ -1,12 +1,12 @@
 {
   "description": "leggings, walking pads, water tumblers - that's hot",
-  "num_followers": 87883,
+  "num_followers": 88522,
   "original_name": "hot girl walk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGY2NWNjMjBkNDI2MjBiNWUzNThlZjhjNTRhOGRkNjJkMzViNmRi",
+  "snapshot_id": "MCw0NWNmYTI1ZmY3ZmY2NTc3NWE2Mzg4M2RjMjM0YTEyOGViZTg0YzFh",
   "tracks": [
     {
       "added_at": "2024-01-13 17:18:42",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-01-13 17:18:42",
       "album": {
-        "name": "exes",
-        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 159400,
-      "name": "exes",
-      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-01-13 17:18:42",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-01-13 17:18:42",
       "album": {
+        "name": "exes",
+        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
+    },
+    {
+      "added_at": "2024-01-13 17:18:42",
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
-    },
-    {
-      "added_at": "2024-01-13 17:18:42",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-01-13 17:18:42",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-01-13 17:18:42",
       "album": {
-        "name": "Single Soon",
-        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 171655,
-      "name": "Single Soon",
-      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
-    },
-    {
-      "added_at": "2024-01-13 17:18:42",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 207626,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
+    },
+    {
+      "added_at": "2024-01-13 17:18:42",
+      "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "added_at": "2024-01-13 17:18:42",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-01-13 17:18:42",
       "album": {
-        "name": "Cobra",
-        "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 168932,
-      "name": "Cobra",
-      "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
-    },
-    {
-      "added_at": "2024-01-13 17:18:42",
-      "album": {
         "name": "Pink Friday ... Roman Reloaded",
         "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 210626,
       "name": "Starships",
       "url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"
+    },
+    {
+      "added_at": "2024-01-13 17:18:42",
+      "album": {
+        "name": "Cobra",
+        "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 168932,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
     },
     {
       "added_at": "2024-01-13 17:18:42",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-01-13 17:18:42",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
-    },
-    {
-      "added_at": "2024-01-13 17:18:42",
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 180283,
       "name": "Salt",
       "url": "https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF"
+    },
+    {
+      "added_at": "2024-01-13 17:18:42",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
     },
     {
       "added_at": "2024-01-13 17:18:42",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-01-13 17:18:42",
       "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "(You Drive Me) Crazy",
+      "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
+    },
+    {
+      "added_at": "2024-01-13 17:18:42",
+      "album": {
         "name": "Charlie's Angels (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 190066,
       "name": "Don\u2019t Call Me Angel (Charlie\u2019s Angels) (with Miley Cyrus & Lana Del Rey)",
       "url": "https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2"
-    },
-    {
-      "added_at": "2024-01-13 17:18:42",
-      "album": {
-        "name": "...Baby One More Time (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "(You Drive Me) Crazy",
-      "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
     },
     {
       "added_at": "2024-01-13 17:18:42",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-01-13 17:18:42",
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Side To Side",
-      "url": "https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV"
-    },
-    {
-      "added_at": "2024-01-13 17:18:42",
-      "album": {
         "name": "You Wish + Trashboi",
         "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
       },
@@ -1271,6 +1251,26 @@
     {
       "added_at": "2024-01-13 17:18:42",
       "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Side To Side",
+      "url": "https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV"
+    },
+    {
+      "added_at": "2024-01-13 17:18:42",
+      "album": {
         "name": "Barbie The Album",
         "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
       },
@@ -1303,22 +1303,18 @@
     {
       "added_at": "2024-01-13 17:18:42",
       "album": {
-        "name": "My Love (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm"
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
       "artists": [
         {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 176187,
-      "name": "My Love (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR"
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     }
   ],
   "unique_name": "hot girl walk",

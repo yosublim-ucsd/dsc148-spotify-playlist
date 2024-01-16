@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Saiko
 
-494 songs - 1 day 3 hr 15 min
+495 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Bandidona](https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bandidona](https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx) | 2:40 | 2023-10-26 | 2023-12-19 |
 | [BARCELONA](https://open.spotify.com/track/10MB5BRNILT229BsnB2oRU) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [DE CAMINO A HERMES](https://open.spotify.com/album/5DLbv9HAIPWzqChpPxIAnc) | 4:03 | 2023-11-10 | 2023-11-24 |
 | [Bellacon](https://open.spotify.com/track/4Zj3K3UaUMC6ndSwl05Zyd) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Bellacon](https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce) | 3:32 | 2022-09-08 | 2022-09-20 |
-| [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2023-12-11 |  |
+| [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2023-12-11 | 2024-01-16 |
 | [Bendición](https://open.spotify.com/track/5fIpvX6QRQ9hLtMjJYeKty) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Bendición](https://open.spotify.com/album/7Eo44MvuVaLGz2zIlvrhTO) | 2:49 | 2022-01-07 | 2022-01-17 |
 | [Besos Moja2](https://open.spotify.com/track/3XIIcuVsJbSj5tNNu46JF8) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Besos Moja2](https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn) | 3:49 | 2022-09-30 | 2022-10-09 |
 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 | 2022-12-16 | 2023-02-08 |
@@ -61,6 +61,7 @@
 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 | 2023-01-09 | 2023-03-14 |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2022-01-07 | 2022-02-04 |
 | [Borracho y Loco](https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Borracho y Loco](https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX) | 2:51 | 2023-09-21 | 2023-10-20 |
+| [Bota Niña](https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bota Niña](https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR) | 3:29 | 2024-01-15 |  |
 | [Brother](https://open.spotify.com/track/3M23T72K5eqHI2GzdFMMHE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Brother](https://open.spotify.com/album/5aw4wm2nZtKrilz0CcTeD8) | 3:29 | 2022-09-19 | 2022-11-04 |
 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 | 2023-09-21 | 2023-10-14 |
 | [Buenas](https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Buenas](https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag) | 3:12 | 2023-09-21 |  |

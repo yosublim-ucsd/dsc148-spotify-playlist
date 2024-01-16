@@ -4,7 +4,7 @@
 
 > El título lo dice todo! Twerk out work out!
 
-330 songs - 18 hr 58 min
+331 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Ginza \- Remix](https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Alejandro "Mosty" Patiño](https://open.spotify.com/artist/4iDI9qh9SzcTm6vZeTT258) | [Ginza \(Remix\)](https://open.spotify.com/album/3O2EaZnLoktLEnBqiMcOEJ) | 6:13 | 2021-12-09 | 2022-11-01 |
 | [Girl](https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 3:06 | 2021-12-09 | 2022-12-08 |
 | [Good Looking](https://open.spotify.com/track/0A7uLa2SqVK5s5Y2V3kCyW) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 4:18 | 2021-12-09 | 2022-12-08 |
+| [Guatauba](https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Guatauba XXX](https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO) | 2:42 | 2024-01-03 |  |
 | [Guaya Guaya](https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 3:13 | 2022-07-26 |  |
 | [Haciéndolo](https://open.spotify.com/track/68uBj4QKLHQJwlANkytJxO) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Haciéndolo](https://open.spotify.com/album/7ESIsApWZrcBu8ZWF1bYIy) | 3:27 | 2022-12-08 | 2022-12-13 |
 | [Hasta Que Dios Diga](https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:06 | 2023-05-08 |  |
@@ -313,7 +314,7 @@
 | [Trakatá](https://open.spotify.com/track/5fghgRsc8a3pSDXtjQ238F) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Trakatá](https://open.spotify.com/album/4v2y8esBwi06vh3jydfUA4) | 2:58 | 2021-12-09 | 2022-12-08 |
 | [Travesuras](https://open.spotify.com/track/2etJ67Egf7woMgOikVrlJM) | [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Travesuras](https://open.spotify.com/album/6aKBvPUoqy0brM7geYXPLn) | 3:24 | 2021-12-09 | 2022-12-08 |
 | [Tu Quieres Duro](https://open.spotify.com/track/5QpUAyROQsLtNLPY5TJcFv) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [Mi Trayectoria](https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB) | 3:38 | 2021-12-09 | 2022-12-08 |
-| [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 | 2023-05-08 |  |
+| [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 | 2023-05-08 | 2024-01-16 |
 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 | 2023-10-13 |  |
 | [Una Noche en Medellín](https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw) | 2:33 | 2023-08-14 |  |
 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2022-12-07 | 2023-08-26 |

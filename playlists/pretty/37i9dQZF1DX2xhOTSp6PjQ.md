@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61?si=sl\-cqVdKSPmAltwj63V2jA">IZINGANE ZOMA<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,661 likes - 58 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,787 likes - 58 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 57 | [Umbayimbayi](https://open.spotify.com/track/7cICJP7hsjo6e7JZgvNLiO) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Umbayimbayi](https://open.spotify.com/album/3ozczTzDSjr8zjBpCsN7BW) | 3:50 |
 | 58 | [Ujola Wedwa](https://open.spotify.com/track/4ap6aES5uDnSV0LZUHHKUC) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Imeya KaZwelonke](https://open.spotify.com/artist/3zl4AeNCAnBdEVhjNt0PNQ) | [Fortaleza De Sol](https://open.spotify.com/album/4qp4clBnx37iNwbKlfNlzK) | 3:21 |
 
-Snapshot ID: `MCxlNTVjYjAxZmFhNTliMGQ3NWIwNWZiNDkyZmRiYmEyZWIxOWI2ZDE1`
+Snapshot ID: `MCwzNThlNDY5OGEzNDRjNTgzMTM5NDNkMWVjMGNhMDkyNjFjYmZmZDk0`

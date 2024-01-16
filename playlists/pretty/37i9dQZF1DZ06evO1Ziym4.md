@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 
 > This is Guns N' Roses\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,450,885 likes - 48 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,450,776 likes - 48 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 | 33 | [Hair Of The Dog](https://open.spotify.com/track/1kq4BX4zZHyr4O5cJGcduh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:54 |
 | 34 | [Coma](https://open.spotify.com/track/3YnJJhSe1cZJtOmhW7bYX1) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 10:13 |
 | 35 | [Sorry](https://open.spotify.com/track/4g9TfQAiEN6lDNRJJsiU9T) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 6:14 |
-| 36 | [It's Alright \- Live In Houston / 1992](https://open.spotify.com/track/7hNhaEqwJCmd4nizXsqtLX) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Live Era '87\-'93](https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs) | 3:07 |
-| 37 | [Mama Kin \- Live Version](https://open.spotify.com/track/5elBPrrIM4dWbGVTluXBPl) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU) | 3:55 |
+| 36 | [Mama Kin \- Live Version](https://open.spotify.com/track/5elBPrrIM4dWbGVTluXBPl) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU) | 3:55 |
+| 37 | [It's Alright \- Live In Houston / 1992](https://open.spotify.com/track/7hNhaEqwJCmd4nizXsqtLX) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Live Era '87\-'93](https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs) | 3:07 |
 | 38 | [New Rose](https://open.spotify.com/track/3kSsbFBOdaflBNNJkiG1ja) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 2:38 |
 | 39 | [Shackler's Revenge](https://open.spotify.com/track/0S9eOzGwLHUwmjYvB5jG4x) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 3:36 |
 | 40 | [Hotel California / Only Women Bleed / Knockin' On Heaven's Door \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/4lOISkmUcErziyEn4jHSy2) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 11:38 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 | 47 | [Move To The City \- Live](https://open.spotify.com/track/7n7YoJuPdy7NuEISVF1sJK) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 3:34 |
 | 48 | [Sail Away Sweet Sister \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/0SssEf0vqdVTYLPjgC187j) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 1:48 |
 
-Snapshot ID: `Mjg0MjA1NDgsMDAwMDAwMDBiMzhjNzBmY2EzMTlkZWM5YTFmMDVlY2I0YzU3YjdlNg==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDA5Mjg5YmQwODBiMjljODE4ZGUzMjJlNTUyNGUyM2ZhZg==`

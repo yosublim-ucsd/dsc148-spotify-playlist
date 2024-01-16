@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。今月のアンバサダー: 羊文学
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,032 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,055 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Baaka!](https://open.spotify.com/track/30hCaxH7w9nmm5OvJFBe4N) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Takaramono](https://open.spotify.com/album/19KMuhlGVX3PTQPM1iqKFe) | 1:11 |
 | 50 | [Girl's Rock \(2023 Version\)](https://open.spotify.com/track/6tjYkZURXijecz2o9iSz8O) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [OUR BEST PLACE](https://open.spotify.com/album/2YAqErK82W8AmlMOFqEOrK) | 3:09 |
 
-Snapshot ID: `MCwyMmQwODk1ODBkNzMyOGRjZDAzMDJhNTUzM2M1NDQxZmI2ZjA5YjU4`
+Snapshot ID: `MCw0YmY3MjlhMzhlYzE3ODUyNzYxOTM5MmY5NGY1NTNkY2E2NzEwYmYy`

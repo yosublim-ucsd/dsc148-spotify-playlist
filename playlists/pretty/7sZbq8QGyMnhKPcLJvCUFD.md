@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 746,328 likes - 100 songs - 5 hr 14 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 745,938 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,17 +37,17 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 27 | [Shadow Of Ages](https://open.spotify.com/track/7bu3s4HOeeThwIzupE8bp6) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Ric Waves](https://open.spotify.com/artist/290b7FiG8ePIb0VaLosR49) | [Shadow Of Ages](https://open.spotify.com/album/4hYf5tJ8E8peLMFT0Q7rfM) | 2:33 |
 | 28 | [Hold On Me](https://open.spotify.com/track/5ExBJA2HtqlQCUFnICjrTf) | [Raul Ojamaa](https://open.spotify.com/artist/6Z3GmozKVgFxFcP2Qzp0Fp), [Maris Pihlap](https://open.spotify.com/artist/3594I0JPmGJklcod5vZJv7) | [Hold On Me](https://open.spotify.com/album/2afxBQvxCZQ2KcbCy2Pwgd) | 3:28 |
 | 29 | [Give Up](https://open.spotify.com/track/3hqWkyqEVCo6oLqzmDCMS0) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Give Up](https://open.spotify.com/album/6SrrHULdewRSUZ5hvzevcw) | 2:49 |
-| 30 | [VBM](https://open.spotify.com/track/13pYqH006kvuspL8ugXoMO) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX) | [VBM](https://open.spotify.com/album/2SpSpaeK47KsZg8R5QuARt) | 2:15 |
-| 31 | [GODSLAYER](https://open.spotify.com/track/7bgi7XJKdpp9RAfchgh6DR) | [1$K1](https://open.spotify.com/artist/1JGNcpOuWUkY5B6Yb7fHFy) | [GODSLAYER](https://open.spotify.com/album/3mHuyZJZCkFDXconXEDXZ2) | 1:32 |
-| 32 | [Time Of Our Lives](https://open.spotify.com/track/3CCgPjFKM32ixEM9Wpcv6z) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [Time Of Our Lives](https://open.spotify.com/album/3p6bZWLfpenoRaOufvcAWy) | 3:25 |
-| 33 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 |
-| 34 | [No Way](https://open.spotify.com/track/33Mk3ZTSKNn47PLGpczhVH) | [BIMINI](https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [No Way](https://open.spotify.com/album/2PSFaIGYfF0DgKy8Y9KWJ1) | 4:28 |
-| 35 | [Karma](https://open.spotify.com/track/1LRFdWqintP46UIkC33YhL) | [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [Karma](https://open.spotify.com/album/4ilC8x3IxNevbhhFxxxNCu) | 3:09 |
-| 36 | [Are You With Me](https://open.spotify.com/track/27jSC6b62mY4cKfkWuiQBu) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH) | [Are You With Me](https://open.spotify.com/album/4gfTtzR8BV1LFHyWWfOM2Q) | 3:11 |
-| 37 | [RPM](https://open.spotify.com/track/3JmYbk1udLndnD6Q3AbeU4) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [RPM](https://open.spotify.com/album/5KEbT5Sa0y4KwErRykgbqW) | 2:20 |
-| 38 | [BABY](https://open.spotify.com/track/4ie0uWnLS3xv5ZBiFFdO8K) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [BABY](https://open.spotify.com/album/0496ctErDNGeGhddpJTQct) | 2:38 |
-| 39 | [Sold Dreams](https://open.spotify.com/track/0NOR0mj9h4KyIuEBROGpVA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Rizó](https://open.spotify.com/artist/7hyFSqlT3o7RdXFnUtJ7C2), [NØCTRIS](https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz) | [Sold Dreams](https://open.spotify.com/album/5B1FEceDW5hOWDNIpnrz6U) | 1:31 |
-| 40 | [On & On](https://open.spotify.com/track/2uZWffKoemZDI0gHcBEcDc) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/6Unm4KKxYtjR08J1wEOnkc) | 3:27 |
+| 30 | [On & On](https://open.spotify.com/track/2uZWffKoemZDI0gHcBEcDc) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/6Unm4KKxYtjR08J1wEOnkc) | 3:27 |
+| 31 | [VBM](https://open.spotify.com/track/13pYqH006kvuspL8ugXoMO) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX) | [VBM](https://open.spotify.com/album/2SpSpaeK47KsZg8R5QuARt) | 2:15 |
+| 32 | [GODSLAYER](https://open.spotify.com/track/7bgi7XJKdpp9RAfchgh6DR) | [1$K1](https://open.spotify.com/artist/1JGNcpOuWUkY5B6Yb7fHFy) | [GODSLAYER](https://open.spotify.com/album/3mHuyZJZCkFDXconXEDXZ2) | 1:32 |
+| 33 | [Time Of Our Lives](https://open.spotify.com/track/3CCgPjFKM32ixEM9Wpcv6z) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [Time Of Our Lives](https://open.spotify.com/album/3p6bZWLfpenoRaOufvcAWy) | 3:25 |
+| 34 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 |
+| 35 | [No Way](https://open.spotify.com/track/33Mk3ZTSKNn47PLGpczhVH) | [BIMINI](https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [No Way](https://open.spotify.com/album/2PSFaIGYfF0DgKy8Y9KWJ1) | 4:28 |
+| 36 | [Karma](https://open.spotify.com/track/1LRFdWqintP46UIkC33YhL) | [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [Karma](https://open.spotify.com/album/4ilC8x3IxNevbhhFxxxNCu) | 3:09 |
+| 37 | [Are You With Me](https://open.spotify.com/track/27jSC6b62mY4cKfkWuiQBu) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH) | [Are You With Me](https://open.spotify.com/album/4gfTtzR8BV1LFHyWWfOM2Q) | 3:11 |
+| 38 | [RPM](https://open.spotify.com/track/3JmYbk1udLndnD6Q3AbeU4) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [RPM](https://open.spotify.com/album/5KEbT5Sa0y4KwErRykgbqW) | 2:20 |
+| 39 | [BABY](https://open.spotify.com/track/4ie0uWnLS3xv5ZBiFFdO8K) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [BABY](https://open.spotify.com/album/0496ctErDNGeGhddpJTQct) | 2:38 |
+| 40 | [Sold Dreams](https://open.spotify.com/track/0NOR0mj9h4KyIuEBROGpVA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Rizó](https://open.spotify.com/artist/7hyFSqlT3o7RdXFnUtJ7C2), [NØCTRIS](https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz) | [Sold Dreams](https://open.spotify.com/album/5B1FEceDW5hOWDNIpnrz6U) | 1:31 |
 | 41 | [Reason](https://open.spotify.com/track/1Oq4IQYV4Yte1KdemEspf2) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Remy Night](https://open.spotify.com/artist/4qusdQods4dr1nhyFKy83j) | [Reason](https://open.spotify.com/album/1Ve9M0vmXgLe4P3Ol4kaa6) | 3:00 |
 | 42 | [Everything I Got](https://open.spotify.com/track/2B0W32QOhCV21u5JHJym7y) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Everything I Got](https://open.spotify.com/album/3qPf1ocslpgbPzZ6QoFUWZ) | 2:20 |
 | 43 | [Now I'm Broken](https://open.spotify.com/track/4OLocUfu6pPMK6DMDkgD08) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Now I'm Broken](https://open.spotify.com/album/7lVoBX0YV4Vz1rIaBL4Xeu) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 99 | [No Rival](https://open.spotify.com/track/2bm1FmAxEbpDkuIk2jSDgf) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [No Rival](https://open.spotify.com/album/1NW8SUdkyn833H0MFKHUKh) | 3:18 |
 | 100 | [Loneliness](https://open.spotify.com/track/0c2IOjZnVajRBMIQSYq2jZ) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Loneliness](https://open.spotify.com/album/5VDhzUtDHlYjrSBNn9HHSx) | 2:16 |
 
-Snapshot ID: `NTUwMywyNGI4NGM5YjAyYmRjMTM1MDg5ODAxM2M5MjBlYjI0OTgwMWU2OGE3`
+Snapshot ID: `NTUwNSxjYTZlMmUxYjg3ZWNhZmYwODAzNjZkODZjZjFlNzFhYjA1MmI4ZTRl`

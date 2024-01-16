@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 79237,
+  "num_followers": 79307,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzUxNDNiMDA1YWVhM2FiZTUyYjk2NGEzMjE3NjU0ZGMzZWRhZmQ2",
+  "snapshot_id": "MCxkZTg5OTQyNDBhNmIyNDkzNmNmZmVlNTljMDdhNmViNTE2YjczZTFj",
   "tracks": [
     {
       "added_at": "2023-12-21 07:19:06",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 135506,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
         "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 194240,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/7GBPpRMtLyGA6svXQMNfIN"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
-        "name": "Billie Holiday With Ray Ellis And His Orchestra",
-        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
+        "name": "Billie Holiday With Ray Ellis And His Orchestra",
+        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
         "name": "Latin Ala Lee",
         "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 151973,
       "name": "Till There Was You - Remastered",
       "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 135506,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "Guitars A La Lee",
-        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 129066,
-      "name": "Sweet Happy Life",
-      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
         "name": "How Glad I Am",
         "url": "https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 118000,
       "name": "As Long As I'm In Your Arms",
       "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
+        "name": "Guitars A La Lee",
+        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Sweet Happy Life",
+      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "Gemini Changes",
-        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
-      },
-      "artists": [
-        {
-          "name": "Morgana King",
-          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -455,34 +439,18 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+        "name": "Gemini Changes",
+        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Morgana King",
+          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 110933,
-      "name": "It's A Big Wide Wonderful World",
-      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
+      "duration_ms": 130506,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -503,6 +471,38 @@
       "duration_ms": 292706,
       "name": "It Might as Well Be Spring",
       "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 110933,
+      "name": "It's A Big Wide Wonderful World",
+      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "Mr. Top Hat",
-        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
         "name": "May I Come In?",
         "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 124266,
       "name": "Something Happens To Me",
       "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
+        "name": "Mr. Top Hat",
+        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "This Time The Dream's On Me - Remastered",
-      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 169466,
       "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
       "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 139906,
+      "name": "This Time The Dream's On Me - Remastered",
+      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "But Beautiful",
-        "url": "https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Oh! Look At Me Now",
-      "url": "https://open.spotify.com/track/2QgtqdIQJTNhStSWal6ceV"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
         "name": "Quartet / Quintet / Sextet",
         "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
       },
@@ -735,22 +719,6 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "The Divine One",
-        "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 140173,
-      "name": "You Stepped out of a Dream - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
         "name": "The Cat Walk",
         "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
       },
@@ -763,6 +731,22 @@
       "duration_ms": 453800,
       "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
+        "name": "The Divine One",
+        "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "You Stepped out of a Dream - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -799,6 +783,22 @@
       "duration_ms": 182293,
       "name": "Just You, Just Me - Remastered 1999",
       "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
+        "name": "But Beautiful",
+        "url": "https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Oh! Look At Me Now",
+      "url": "https://open.spotify.com/track/2QgtqdIQJTNhStSWal6ceV"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "It's A Wonderful World",
-      "url": "https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
         "name": "Autumn In New York",
         "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "The Complete Decca Recordings",
-        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
       "artists": [
         {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 182666,
-      "name": "One O'Clock Jump",
-      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
+      "duration_ms": 134200,
+      "name": "It's A Wonderful World",
+      "url": "https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -999,22 +983,6 @@
       "duration_ms": 253056,
       "name": "Is a Good Man Real?",
       "url": "https://open.spotify.com/track/2R99gxCR20nZCvnYL57Rxu"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
-        "name": "Return To Forever",
-        "url": "https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "What Game Shall We Play Today",
-      "url": "https://open.spotify.com/track/0mC8MfVqQ1pHGKCdfhiHye"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -1039,6 +1007,38 @@
       "duration_ms": 164826,
       "name": "Doralice",
       "url": "https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
+        "name": "The Complete Decca Recordings",
+        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "One O'Clock Jump",
+      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
+        "name": "Return To Forever",
+        "url": "https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "What Game Shall We Play Today",
+      "url": "https://open.spotify.com/track/0mC8MfVqQ1pHGKCdfhiHye"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra",
-        "url": "https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 142573,
-      "name": "Woman's Got Soul",
-      "url": "https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
         "name": "Swing Along With Me",
         "url": "https://open.spotify.com/album/0n1GnE4WG4suFnOZeBouVT"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 151920,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/46JqjQRnB54xVejTR7VUUQ"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
+        "name": "Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra",
+        "url": "https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 142573,
+      "name": "Woman's Got Soul",
+      "url": "https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "A Treasury Of Golden Hits",
-        "url": "https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Hey There",
-      "url": "https://open.spotify.com/track/1GEiJecIBYuVyhMaWE7X1y"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
         "name": "Petite Fleur",
         "url": "https://open.spotify.com/album/0NuIQgu6wfFEQ7gyKsgnh2"
       },
@@ -1235,22 +1219,18 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "Alle Jahre wieder!",
-        "url": "https://open.spotify.com/album/0APEVo3cyFiKDynvV822jh"
+        "name": "A Treasury Of Golden Hits",
+        "url": "https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby"
       },
       "artists": [
         {
-          "name": "Jazzrausch Bigband",
-          "url": "https://open.spotify.com/artist/2pYHY1BQbcGFSW18EoXdkw"
-        },
-        {
-          "name": "Julian Hesse",
-          "url": "https://open.spotify.com/artist/50s70RZ1etLUykkYClPs9U"
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Es wird scho glei dumpa",
-      "url": "https://open.spotify.com/track/2mv1XxJC01PpzrzVCTEO5P"
+      "duration_ms": 176560,
+      "name": "Hey There",
+      "url": "https://open.spotify.com/track/1GEiJecIBYuVyhMaWE7X1y"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -1267,6 +1247,26 @@
       "duration_ms": 251093,
       "name": "Jive At Six",
       "url": "https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
+        "name": "Alle Jahre wieder!",
+        "url": "https://open.spotify.com/album/0APEVo3cyFiKDynvV822jh"
+      },
+      "artists": [
+        {
+          "name": "Jazzrausch Bigband",
+          "url": "https://open.spotify.com/artist/2pYHY1BQbcGFSW18EoXdkw"
+        },
+        {
+          "name": "Julian Hesse",
+          "url": "https://open.spotify.com/artist/50s70RZ1etLUykkYClPs9U"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Es wird scho glei dumpa",
+      "url": "https://open.spotify.com/track/2mv1XxJC01PpzrzVCTEO5P"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "Improvisations for the Human Voice",
-        "url": "https://open.spotify.com/album/6VztBHhA1uzWKMYo2QarJd"
-      },
-      "artists": [
-        {
-          "name": "Annie Ross",
-          "url": "https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "Farmer's Market",
-      "url": "https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU"
-    },
-    {
-      "added_at": "2023-12-21 07:19:06",
-      "album": {
         "name": "Mel Torm\u00e9 Sings Fred Astaire (2012 - Remaster)",
         "url": "https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7"
       },
@@ -1439,22 +1423,18 @@
     {
       "added_at": "2023-12-21 07:19:06",
       "album": {
-        "name": "Mel Torm\u00e9 with The Marty Paich Dek-Tette (2012 - Remaster)",
-        "url": "https://open.spotify.com/album/1DMGnIxnjzHaYVJ2KhrPZM"
+        "name": "Improvisations for the Human Voice",
+        "url": "https://open.spotify.com/album/6VztBHhA1uzWKMYo2QarJd"
       },
       "artists": [
         {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        },
-        {
-          "name": "The Marty Paich Dek-tette",
-          "url": "https://open.spotify.com/artist/3LKTSEL1dpa0iAUVZmikcr"
+          "name": "Annie Ross",
+          "url": "https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy"
         }
       ],
-      "duration_ms": 185466,
-      "name": "Lulu's Back in Town (2012 - Remaster)",
-      "url": "https://open.spotify.com/track/5A433jPWMHyngbyBkyXDF6"
+      "duration_ms": 166280,
+      "name": "Farmer's Market",
+      "url": "https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU"
     },
     {
       "added_at": "2023-12-21 07:19:06",
@@ -1475,6 +1455,26 @@
       "duration_ms": 169373,
       "name": "Deed I Do",
       "url": "https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs"
+    },
+    {
+      "added_at": "2023-12-21 07:19:06",
+      "album": {
+        "name": "Mel Torm\u00e9 with The Marty Paich Dek-Tette (2012 - Remaster)",
+        "url": "https://open.spotify.com/album/1DMGnIxnjzHaYVJ2KhrPZM"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "The Marty Paich Dek-tette",
+          "url": "https://open.spotify.com/artist/3LKTSEL1dpa0iAUVZmikcr"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Lulu's Back in Town (2012 - Remaster)",
+      "url": "https://open.spotify.com/track/5A433jPWMHyngbyBkyXDF6"
     }
   ],
   "unique_name": "Sunny Day Jazz",

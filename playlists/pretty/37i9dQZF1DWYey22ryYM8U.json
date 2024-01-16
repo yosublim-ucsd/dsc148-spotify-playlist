@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Juan Luis Guerra",
-  "num_followers": 602772,
+  "num_followers": 602616,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTlhMDAxMzlmMTMwZjViZjk3MzBkZGY4YmM3NjQ5NzVlOTllMTUz",
+  "snapshot_id": "MCxjNmExMTZmZDA2M2FkNWY3MjMwZWQxZTM0ZDM4NTM4Y2NiNGRlZWZk",
   "tracks": [
     {
       "added_at": "2023-12-07 19:51:53",
@@ -243,22 +243,18 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 188106,
-      "name": "LA FAMA",
-      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -287,18 +283,22 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+      "duration_ms": 188106,
+      "name": "LA FAMA",
+      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "Prince Royce",
-        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Rechazame",
-      "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
         "name": "Mujeriego",
         "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
       },
@@ -423,26 +407,18 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "Una Vaina Loca",
-        "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
+        "name": "Prince Royce",
+        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
       },
       "artists": [
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 226187,
-      "name": "Una Vaina Loca",
-      "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+      "duration_ms": 223200,
+      "name": "Rechazame",
+      "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -463,6 +439,30 @@
       "duration_ms": 234786,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
+        "name": "Una Vaina Loca",
+        "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 226187,
+      "name": "Una Vaina Loca",
+      "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -499,26 +499,6 @@
       "duration_ms": 256440,
       "name": "Inmortal",
       "url": "https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
-        "name": "Te Espero (feat. Maria Becerra)",
-        "url": "https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 246850,
-      "name": "Te Espero - feat. Maria Becerra",
-      "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -587,6 +567,26 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
+        "name": "Te Espero (feat. Maria Becerra)",
+        "url": "https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 246850,
+      "name": "Te Espero - feat. Maria Becerra",
+      "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
         "name": "Vida de Rico",
         "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
       },
@@ -619,46 +619,6 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Parecen Viernes",
-      "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
-        "name": "Si Te Preguntan... (feat. Nicky Jam & Jay Wheeler)",
-        "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 223073,
-      "name": "Si Te Preguntan... - feat. Nicky Jam & Jay Wheeler",
-      "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
         "name": "Sus Huellas",
         "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
       },
@@ -675,22 +635,18 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "BEB\u00c9",
-        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 198706,
-      "name": "BEB\u00c9",
-      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
+      "duration_ms": 268440,
+      "name": "Parecen Viernes",
+      "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -743,22 +699,6 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 191209,
-      "name": "Carita de Inocente",
-      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
         "name": "Mi Pecadito",
         "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
       },
@@ -779,18 +719,26 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+        "name": "Si Te Preguntan... (feat. Nicky Jam & Jay Wheeler)",
+        "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
+      "duration_ms": 223073,
+      "name": "Si Te Preguntan... - feat. Nicky Jam & Jay Wheeler",
+      "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -819,26 +767,6 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "Cumbia A La Gente",
-        "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Cumbia A La Gente",
-      "url": "https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
       },
@@ -859,8 +787,8 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+        "name": "BEB\u00c9",
+        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
       "artists": [
         {
@@ -868,35 +796,19 @@
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         },
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 212813,
-      "name": "Ambulancia",
-      "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
+      "duration_ms": 198706,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
     },
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "Pegao / Me Miro y La Mire (TikTok Hit)",
-        "url": "https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Pegao / Me Miro y La Mire - TikTok Hit",
-      "url": "https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
       },
       "artists": [
         {
@@ -904,9 +816,29 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 374053,
-      "name": "Tu Vida en la M\u00eda",
-      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
+        "name": "Cumbia A La Gente",
+        "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Cumbia A La Gente",
+      "url": "https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -927,6 +859,22 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
+        "name": "Pegao / Me Miro y La Mire (TikTok Hit)",
+        "url": "https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Pegao / Me Miro y La Mire - TikTok Hit",
+      "url": "https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -943,6 +891,62 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 191209,
+      "name": "Carita de Inocente",
+      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 212813,
+      "name": "Ambulancia",
+      "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -983,28 +987,8 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
       },
       "artists": [
         {
@@ -1012,9 +996,9 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 228966,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -1091,6 +1075,22 @@
       "duration_ms": 202702,
       "name": "Amigos (con Maria Becerra) - Bachata",
       "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 228966,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252100,
-      "name": "Nada de Nada",
-      "url": "https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
         "name": "Veterana",
         "url": "https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 194599,
       "name": "Veterana",
       "url": "https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252100,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
+        "name": "Lado A Lado B",
+        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 276726,
+      "name": "Decid\u00ed Tener Pantalones",
+      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
         "name": "Soltero",
         "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
       },
@@ -1791,6 +1807,22 @@
     {
       "added_at": "2023-12-07 19:51:53",
       "album": {
+        "name": "Todav\u00eda Te Espero",
+        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 192063,
+      "name": "Todav\u00eda Te Espero",
+      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
+    },
+    {
+      "added_at": "2023-12-07 19:51:53",
+      "album": {
         "name": "No Te Vayas",
         "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
       },
@@ -1803,22 +1835,6 @@
       "duration_ms": 226128,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
-        "name": "Lado A Lado B",
-        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 276726,
-      "name": "Decid\u00ed Tener Pantalones",
-      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
     },
     {
       "added_at": "2023-12-07 19:51:53",
@@ -1855,22 +1871,6 @@
       "duration_ms": 161906,
       "name": "Los Recuerdos",
       "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
-    },
-    {
-      "added_at": "2023-12-07 19:51:53",
-      "album": {
-        "name": "Todav\u00eda Te Espero",
-        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 192063,
-      "name": "Todav\u00eda Te Espero",
-      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
     }
   ],
   "unique_name": "Tropical Hits",

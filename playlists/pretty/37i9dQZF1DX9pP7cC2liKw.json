@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 230314,
+  "num_followers": 230451,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTkzM2IzYzQ0MWYzNTY2OTM4ZjI2MDlkMWIzZDQ4YzRhY2RiNjc3",
+  "snapshot_id": "MCxkOTdjZDY0MGRmYjdiN2ViNDg5NDQ3YjYxYWMzOWIxNzdkZmFkZTYw",
   "tracks": [
     {
       "added_at": "2023-09-25 01:20:49",
@@ -27,6 +27,22 @@
       "duration_ms": 191825,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -69,22 +85,6 @@
       "url": "https://open.spotify.com/track/0VusRPgveKAqVuCMKScGWp"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
-    },
-    {
       "added_at": "2023-12-12 18:58:47",
       "album": {
         "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
@@ -117,24 +117,20 @@
       "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
-      "added_at": "2023-10-24 02:03:26",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Carrossel Do Tempo",
-        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Abr\u00e3o",
-          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 297440,
-      "name": "Carrossel Do Tempo",
-      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
       "added_at": "2023-10-10 03:31:09",
@@ -153,20 +149,24 @@
       "url": "https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2023-10-24 02:03:26",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+        "name": "Carrossel Do Tempo",
+        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
       },
       "artists": [
         {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Abr\u00e3o",
+          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
         }
       ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
+      "duration_ms": 297440,
+      "name": "Carrossel Do Tempo",
+      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
     },
     {
       "added_at": "2023-07-21 19:49:45",
@@ -195,26 +195,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
-        },
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 268956,
-      "name": "Xica Xica",
-      "url": "https://open.spotify.com/track/7IMU8eXXQnXiWChljmRlxh"
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
       "added_at": "2024-01-11 03:44:06",
@@ -235,18 +227,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
       },
       "artists": [
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+        },
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
         }
       ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+      "duration_ms": 268956,
+      "name": "Xica Xica",
+      "url": "https://open.spotify.com/track/7IMU8eXXQnXiWChljmRlxh"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "La Cura",
         "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 135000,
       "name": "Mientras Tanto",
       "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 213810,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -675,6 +675,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Sano",
+        "url": "https://open.spotify.com/album/4XxbqdjpU5IDVYxHpILsRk"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "LUVI TORRES",
+          "url": "https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Sano",
+      "url": "https://open.spotify.com/track/65x71PXeGjlMy5ooVPDVEU"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 181818,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Sano",
-        "url": "https://open.spotify.com/album/4XxbqdjpU5IDVYxHpILsRk"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "LUVI TORRES",
-          "url": "https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "Sano",
-      "url": "https://open.spotify.com/track/65x71PXeGjlMy5ooVPDVEU"
     },
     {
       "added_at": "2022-09-02 05:59:31",
@@ -879,30 +879,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Amor Entre Mujer",
-        "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Polocorp",
-          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 272799,
-      "name": "Amor Entre Mujer",
-      "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Caf\u00e9 Com Leite (Boog\u00e1t Remix)",
         "url": "https://open.spotify.com/album/5PhxzPqJHvdJXYMQCRg9Pe"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 254033,
       "name": "Caf\u00e9 Com Leite - Boog\u00e1t Remix",
       "url": "https://open.spotify.com/track/5MuqsRxbN6bEgl7zYxKMw3"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Amor Entre Mujer",
+        "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Polocorp",
+          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 272799,
+      "name": "Amor Entre Mujer",
+      "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -995,30 +995,6 @@
       "duration_ms": 289576,
       "name": "Superstylin'",
       "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
-    },
-    {
-      "added_at": "2022-11-17 23:06:29",
-      "album": {
-        "name": "El Sabor del Viejo Mar",
-        "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 263265,
-      "name": "El Sabor del Viejo Mar",
-      "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
     },
     {
       "added_at": "2023-10-24 02:25:20",
@@ -1117,6 +1093,30 @@
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
+      "added_at": "2022-11-17 23:06:29",
+      "album": {
+        "name": "El Sabor del Viejo Mar",
+        "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 263265,
+      "name": "El Sabor del Viejo Mar",
+      "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Daora: Underground Sounds of Urban Brasil- Hip-Hop, Beats, Afro & Dub",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Samba del Arenal",
-        "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Cinemar",
-          "url": "https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Samba del Arenal",
-      "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "CARISMA",
         "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 181926,
       "name": "Tropical Gypsy",
       "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Samba del Arenal",
+        "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Cinemar",
+          "url": "https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Samba del Arenal",
+      "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
     },
     {
       "added_at": "2022-06-15 04:26:09",

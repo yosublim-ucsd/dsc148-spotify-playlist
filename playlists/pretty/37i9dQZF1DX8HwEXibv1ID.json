@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 36198,
+  "num_followers": 36251,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzcyNzhlMGQ5ZTdmNjMyMWI3YWQ2MTQ3NzM0NzExMjM4OWQyMDg0",
+  "snapshot_id": "MCw2ZTRkMGM3ODlkMGYwMTYwNjM4M2YyMzBlNGE2YzAzZjRlMDFhMDA1",
   "tracks": [
     {
       "added_at": "2023-12-21 09:47:36",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Miss Otis Regrets (She's Unable To Lunch Today)",
-      "url": "https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
         "name": "Jeri Southern Meets Cole Porter",
         "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 133466,
       "name": "It's Bad For Me",
       "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Miss Otis Regrets (She's Unable To Lunch Today)",
+      "url": "https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -323,6 +323,38 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Don't Look At Me That Way",
+      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/502uTcoHcwKPVIGREXz9pi"
       },
@@ -359,34 +391,18 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "Jeri Southern Meets Cole Porter",
-        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+        "name": "Tears And Laughter",
+        "url": "https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD"
       },
       "artists": [
         {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Don't Look At Me That Way",
-      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "All Through The Night",
-      "url": "https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6"
+      "duration_ms": 267840,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "Tears And Laughter",
-        "url": "https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 267840,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -459,34 +459,18 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "Cool Heat",
-        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
       "artists": [
         {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 174200,
-      "name": "My Heart Belongs To Daddy",
-      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
-        "name": "Charlie Parker With Strings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
+      "duration_ms": 119426,
+      "name": "Ace In The Hole",
+      "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -507,18 +491,18 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+        "name": "Charlie Parker With Strings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 119426,
-      "name": "Ace In The Hole",
-      "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
+      "duration_ms": 212386,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -535,6 +519,22 @@
       "duration_ms": 291693,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
+        "name": "Cool Heat",
+        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "My Heart Belongs To Daddy",
+      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "Plays Cole Porter Love Songs",
-        "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
-      },
-      "artists": [
-        {
-          "name": "Jan Lundgren Trio",
-          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
-        }
-      ],
-      "duration_ms": 315373,
-      "name": "When Love Comes Around",
-      "url": "https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
         "name": "Mel Torme: Swings Shubert Alley",
         "url": "https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "Mr. Top Hat",
-        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
+        "name": "Plays Cole Porter Love Songs",
+        "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
       },
       "artists": [
         {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+          "name": "Jan Lundgren Trio",
+          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
         }
       ],
-      "duration_ms": 177213,
-      "name": "I've Got My Eyes On You",
-      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
+      "duration_ms": 315373,
+      "name": "When Love Comes Around",
+      "url": "https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -803,22 +787,18 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "High Society (O.S.T - 1956)",
-        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
+        "name": "Mr. Top Hat",
+        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Johnny Green & His Orchestra",
-          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
         }
       ],
-      "duration_ms": 252818,
-      "name": "I Love You Samantha",
-      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
+      "duration_ms": 177213,
+      "name": "I've Got My Eyes On You",
+      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -835,6 +815,26 @@
       "duration_ms": 145533,
       "name": "I Am Loved",
       "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
+        "name": "High Society (O.S.T - 1956)",
+        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Johnny Green & His Orchestra",
+          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
+        }
+      ],
+      "duration_ms": 252818,
+      "name": "I Love You Samantha",
+      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "Silk Stockings (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        },
-        {
-          "name": "Carole Richards",
-          "url": "https://open.spotify.com/artist/05D7eSjISFRSkreseiUx5k"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Paris Loves Lovers",
-      "url": "https://open.spotify.com/track/5jDN0wdmd3AcunXBceqmDO"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
         "name": "John Barrowman Swings Cole Porter",
         "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
       },
@@ -951,22 +931,6 @@
       "duration_ms": 143066,
       "name": "\u00c7a, C'est l'Amour",
       "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
-        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
-        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Why Can't You Behave?",
-      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -987,6 +951,26 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
+        "name": "Silk Stockings (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        },
+        {
+          "name": "Carole Richards",
+          "url": "https://open.spotify.com/artist/05D7eSjISFRSkreseiUx5k"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Paris Loves Lovers",
+      "url": "https://open.spotify.com/track/5jDN0wdmd3AcunXBceqmDO"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
         "name": "The Best Of Cole Porter",
         "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 169001,
       "name": "Rosalie",
       "url": "https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
+        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Why Can't You Behave?",
+      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "Chet Baker & Strings",
-        "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Why Shouldn't I?",
-      "url": "https://open.spotify.com/track/2RM6F4QDwmWWFKmV7WunEO"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
         "name": "John Barrowman Swings Cole Porter",
         "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 127906,
       "name": "I Happen To Like New York",
       "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
+        "name": "Chet Baker & Strings",
+        "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Why Shouldn't I?",
+      "url": "https://open.spotify.com/track/2RM6F4QDwmWWFKmV7WunEO"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 111306,
-      "name": "I Am Ashamed That Women Are so Simple",
-      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
         "name": "The Columbia Years (1943-1952) The Complete Recordings",
         "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
       },
@@ -1199,6 +1183,38 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 111306,
+      "name": "I Am Ashamed That Women Are so Simple",
+      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Use Your Imagination",
+      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
         "name": "Night and Day With Cole Porter",
         "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 193160,
       "name": "When Love Comes Your Way",
       "url": "https://open.spotify.com/track/75WKCf8LCfjsIC042qHBjU"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Use Your Imagination",
-      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
     },
     {
       "added_at": "2023-12-21 09:47:36",

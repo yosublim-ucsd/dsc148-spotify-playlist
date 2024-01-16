@@ -4,7 +4,7 @@
 
 > Les meilleurs hits Pop du Maghreb sont ici\. Cover: 7\-Toun
 
-94 songs - 5 hr 9 min
+95 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [MARJANA](https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MARJANA](https://open.spotify.com/album/4rOy8yQlICtPvNwZubYkh6) | 3:58 | 2023-07-31 |  |
 | [Massari](https://open.spotify.com/track/0J65uyzYarHKfC4XHBdqfK) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Massari](https://open.spotify.com/album/1h30k7HoeTkiFmlnBub3xg) | 3:26 | 2023-07-07 |  |
 | [Mchat Alik](https://open.spotify.com/track/2beWUWJ4hEgSLa3XYCEPdl) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Mchat Alik](https://open.spotify.com/album/4S2EP0CL35nPg3fij4y9gJ) | 3:24 | 2023-08-24 | 2023-12-15 |
+| [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-15 |  |
 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 | 2023-07-07 |  |
 | [Mtitti](https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mtitti](https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf) | 3:53 | 2023-08-05 |  |
 | [Ness Lil](https://open.spotify.com/track/07F2Rm83gNLKwiBi2ucRep) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ness Lil](https://open.spotify.com/album/63EmbDWn9juvJwL4iqgmPx) | 3:24 | 2023-08-14 |  |
@@ -92,7 +93,7 @@
 | [Ya 3araf](https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Ya 3araf](https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi) | 4:40 | 2023-07-07 | 2023-12-08 |
 | [Ya Bent Nass](https://open.spotify.com/track/3p6p3ZoO8raP3s4bxI7Z2B) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX), [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Ya Bent Nass](https://open.spotify.com/album/7etlW0csrc4pTaLA55M1cH) | 3:02 | 2023-07-07 | 2023-10-06 |
 | [YA DENYA](https://open.spotify.com/track/0UuhQnPxN9oBrR5uLSMNEV) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [YA DENYA](https://open.spotify.com/album/0QghQFx3bWDWFMhnTb9iZu) | 3:45 | 2024-01-03 |  |
-| [Ya Ghayeb](https://open.spotify.com/track/5RYSSnBAmeYKCCb8bEOG6u) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Ya Ghayeb](https://open.spotify.com/album/2f3kngWBR5wP05M5hdUZXH) | 2:09 | 2024-01-03 |  |
+| [Ya Ghayeb](https://open.spotify.com/track/5RYSSnBAmeYKCCb8bEOG6u) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Ya Ghayeb](https://open.spotify.com/album/2f3kngWBR5wP05M5hdUZXH) | 2:09 | 2024-01-03 | 2024-01-16 |
 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2023-07-07 | 2023-10-04 |
 | [Ya Lil](https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Lil](https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB) | 2:46 | 2023-07-07 |  |
 | [Ya Sidi Ya Baba](https://open.spotify.com/track/3IbpyNdKawcQKmEpwQO1Ea) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Ya Sidi Ya Baba](https://open.spotify.com/album/08J5WsddktM6tZvFUKx8Uj) | 2:34 | 2023-07-07 |  |

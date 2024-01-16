@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 105021,
+  "num_followers": 105035,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWY3MjZkMjQ3OTY4MTU3MTJjMWZkOGE2ODY0OTRkMjcyZDBkODY5",
+  "snapshot_id": "MCxmOTdmMjliMTQxMGY5MzgzMzExNzZhYjY4MDA4ZDY2YTE0Y2Q2NmI4",
   "tracks": [
     {
       "added_at": "2024-01-12 16:09:12",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "Carta de Amor",
-        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 176807,
-      "name": "Carta de Amor",
-      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 156738,
       "name": "Nena, dime algo.",
       "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "Carta de Amor",
+        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 176807,
+      "name": "Carta de Amor",
+      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 197506,
       "name": "Cuando Estamos los Dos",
       "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 185432,
       "name": "INFINITO",
       "url": "https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "Conexi\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
-      },
-      "artists": [
-        {
-          "name": "Flor Amargo",
-          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Conexi\u00f3n de Almas",
-      "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "Diecinueve",
         "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
+        "name": "Conexi\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
+      },
+      "artists": [
+        {
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Conexi\u00f3n de Almas",
+      "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
         "name": "Abriendo Latidos",
         "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 194555,
       "name": "Abriendo Latidos",
       "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
-        "name": "Crucero Cristal",
-        "url": "https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 177368,
-      "name": "Sue\u00f1o Tsunami",
-      "url": "https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -891,6 +875,22 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
+        "name": "Crucero Cristal",
+        "url": "https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 177368,
+      "name": "Sue\u00f1o Tsunami",
+      "url": "https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
         "name": "Aparato",
         "url": "https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 212574,
       "name": "Aparato",
       "url": "https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "Por qu\u00e9 te quiero tanto?",
+        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 231109,
+      "name": "Por qu\u00e9 te quiero tanto?",
+      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -923,22 +939,6 @@
       "duration_ms": 198676,
       "name": "GUIAME",
       "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
-        "name": "Por qu\u00e9 te quiero tanto?",
-        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 231109,
-      "name": "Por qu\u00e9 te quiero tanto?",
-      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
+      },
+      "artists": [
+        {
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
         "name": "Romance de Fin de Semana",
         "url": "https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 162410,
       "name": "Cintas Con Vos",
       "url": "https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     }
   ],
   "unique_name": "Amor Indie",

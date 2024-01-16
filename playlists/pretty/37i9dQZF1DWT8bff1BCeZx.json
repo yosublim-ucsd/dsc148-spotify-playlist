@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 11662,
+  "num_followers": 11698,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWM0NTU4ZGYyYThlNzEwYjBiMGU1MWEyYzYwYzJmNDJkNTFlNTE1",
+  "snapshot_id": "MCw2ZTk2NmUyNTE3ZTk0ZjA3ZjZhMTc4OGNmYTI2YTJjMjE1MjZhMDZh",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -203,6 +203,38 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        }
+      ],
+      "duration_ms": 148146,
+      "name": "My God Is Good - Double Double Remix/Live",
+      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Truth in Sounds",
+        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 546156,
+      "name": "I Get Backing",
+      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil"
       },
@@ -223,22 +255,6 @@
       "duration_ms": 252048,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "My God Is Good - Double Double Remix/Live",
-      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -283,22 +299,6 @@
       "duration_ms": 126923,
       "name": "Joy in Chaos (Extended)",
       "url": "https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Truth in Sounds",
-        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 546156,
-      "name": "I Get Backing",
-      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -379,66 +379,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "My Matter",
-        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
-        }
-      ],
-      "duration_ms": 173290,
-      "name": "My Matter",
-      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "The membrane",
-          "url": "https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5"
-        },
-        {
-          "name": "Uwa",
-          "url": "https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV"
-        },
-        {
-          "name": "Chris Heaven",
-          "url": "https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ"
-        },
-        {
-          "name": "Temple",
-          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
-        }
-      ],
-      "duration_ms": 372035,
-      "name": "Bigger Everyday",
-      "url": "https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "SATISFIED",
         "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
@@ -479,6 +419,42 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "The membrane",
+          "url": "https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5"
+        },
+        {
+          "name": "Uwa",
+          "url": "https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV"
+        },
+        {
+          "name": "Chris Heaven",
+          "url": "https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ"
+        },
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
+        }
+      ],
+      "duration_ms": 372035,
+      "name": "Bigger Everyday",
+      "url": "https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Big God",
         "url": "https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP"
       },
@@ -499,8 +475,8 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Desire Pt. 2",
-        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
+        "name": "My Matter",
+        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
       "artists": [
         {
@@ -508,33 +484,33 @@
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         },
         {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
         }
       ],
-      "duration_ms": 160308,
-      "name": "Desire Pt. 2",
-      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
+      "duration_ms": 173290,
+      "name": "My Matter",
+      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
     },
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 629497,
-      "name": "Who Is on the Lord's Side",
-      "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -559,18 +535,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "Mo",
+        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+      "duration_ms": 212573,
+      "name": "Mo",
+      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -599,18 +575,58 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Mo",
-        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
       "artists": [
         {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 212573,
-      "name": "Mo",
-      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
+      "duration_ms": 629497,
+      "name": "Who Is on the Lord's Side",
+      "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Worry About Nothing",
+        "url": "https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 204975,
+      "name": "Worry About Nothing",
+      "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -631,6 +647,26 @@
       "duration_ms": 262321,
       "name": "COME AND SEE",
       "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Desire Pt. 2",
+        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 160308,
+      "name": "Desire Pt. 2",
+      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -671,18 +707,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
+        "name": "Taking Care",
+        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
       },
       "artists": [
         {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 187428,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
+      "duration_ms": 222315,
+      "name": "Taking Care - Remix",
+      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -699,6 +739,22 @@
       "duration_ms": 284080,
       "name": "Bianule",
       "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Na God I Dey Praise (Craze)",
+        "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
+      },
+      "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        }
+      ],
+      "duration_ms": 218644,
+      "name": "Na God I Dey Praise (Craze)",
+      "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -723,38 +779,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Na God I Dey Praise (Craze)",
-        "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
       },
       "artists": [
         {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
-        }
-      ],
-      "duration_ms": 218644,
-      "name": "Na God I Dey Praise (Craze)",
-      "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Taking Care",
-        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
         },
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
         }
       ],
-      "duration_ms": 222315,
-      "name": "Taking Care - Remix",
-      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
+      "duration_ms": 140198,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -787,26 +827,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Halle",
-        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
-      },
-      "artists": [
-        {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
-        },
-        {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
-        }
-      ],
-      "duration_ms": 140198,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
         "url": "https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 812470,
       "name": "When I See You",
       "url": "https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Worry About Nothing",
-        "url": "https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 204975,
-      "name": "Worry About Nothing",
-      "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -963,26 +963,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL"
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2"
       },
       "artists": [
         {
-          "name": "Dj Horphuray",
-          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
-        },
-        {
-          "name": "Sammy Hart",
-          "url": "https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
         }
       ],
-      "duration_ms": 210291,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd"
+      "duration_ms": 216666,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh"
     }
   ],
   "unique_name": "Higher",

@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Dread MC",
-  "num_followers": 201518,
+  "num_followers": 201531,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjQxNGUwNmNhYTFhMDdkOTI5MTE3ZDU0ZDgyNjBiMzcwMzUyNjAx",
+  "snapshot_id": "MCwwNzA2NTU1ZDFhYmJmOWZlMjJjYzVlNGE2MGYwMWU4YWU4YjgxMDg0",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -625,6 +625,42 @@
       "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
     },
     {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "Friday Nights (efan Remix)",
+        "url": "https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6"
+      },
+      "artists": [
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        },
+        {
+          "name": "efan",
+          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
+        }
+      ],
+      "duration_ms": 206571,
+      "name": "Friday Nights (efan Remix)",
+      "url": "https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
+      },
+      "artists": [
+        {
+          "name": "Samstone",
+          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
+        }
+      ],
+      "duration_ms": 223725,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
+    },
+    {
       "added_at": "2023-12-22 00:01:00",
       "album": {
         "name": "Faith In Chaos",
@@ -651,38 +687,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
       },
       "artists": [
         {
-          "name": "Samstone",
-          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
-        }
-      ],
-      "duration_ms": 223725,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
-        "name": "Friday Nights (efan Remix)",
-        "url": "https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6"
-      },
-      "artists": [
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
         },
         {
-          "name": "efan",
-          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
         }
       ],
-      "duration_ms": 206571,
-      "name": "Friday Nights (efan Remix)",
-      "url": "https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij"
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -767,26 +787,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
       },
@@ -843,38 +843,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Locked On",
-        "url": "https://open.spotify.com/album/4KOyVupmPwP8Vze5htTpku"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 257647,
-      "name": "Locked On",
-      "url": "https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "One Ting",
         "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
       },
@@ -887,26 +855,6 @@
       "duration_ms": 232500,
       "name": "One Ting",
       "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Aight Boom (feat. Scrufizzer)",
-        "url": "https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC"
-      },
-      "artists": [
-        {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 166015,
-      "name": "Aight Boom (feat. Scrufizzer)",
-      "url": "https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -927,6 +875,58 @@
       "duration_ms": 213743,
       "name": "Let Go (with Aleya Mae)",
       "url": "https://open.spotify.com/track/7gW131CT4bxZ7M3uQqUheT"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Locked On",
+        "url": "https://open.spotify.com/album/4KOyVupmPwP8Vze5htTpku"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 257647,
+      "name": "Locked On",
+      "url": "https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Aight Boom (feat. Scrufizzer)",
+        "url": "https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 166015,
+      "name": "Aight Boom (feat. Scrufizzer)",
+      "url": "https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -959,6 +959,22 @@
       "duration_ms": 310909,
       "name": "Chances",
       "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Want (ur body)",
+        "url": "https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 274672,
+      "name": "Want (ur body)",
+      "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1087,18 +1103,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Want (ur body)",
-        "url": "https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts"
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
       },
       "artists": [
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Reigns",
+          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
         }
       ],
-      "duration_ms": 274672,
-      "name": "Want (ur body)",
-      "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
+      "duration_ms": 169385,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1119,26 +1139,6 @@
       "duration_ms": 207619,
       "name": "Check Yourself",
       "url": "https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Reigns",
-          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
-        }
-      ],
-      "duration_ms": 169385,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
     },
     {
       "added_at": "2023-12-22 00:01:00",

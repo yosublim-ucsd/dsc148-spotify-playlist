@@ -2292,10 +2292,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 226363,
       "name": "I Hope to Be Around (Live)",
       "url": "https://open.spotify.com/track/1EOC47ETkQCedpxemcJpal"
+    },
+    {
+      "album": {
+        "name": "I Hope to Be Around (Live)",
+        "url": "https://open.spotify.com/album/46xpc1LQdAxORGKdNgdYhp"
+      },
+      "artists": [
+        {
+          "name": "Retrib",
+          "url": "https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226522,
+      "name": "I Hope To Be Around - (live)",
+      "url": "https://open.spotify.com/track/5gnRon2NpsDVEeivCh6EGq"
     },
     {
       "album": {

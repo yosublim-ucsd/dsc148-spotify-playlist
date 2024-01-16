@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 350982,
+  "num_followers": 350991,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGY4YjVkZWRjNGVmMjljNTEwYWEyNzM1Zjg4MzMwMWJhMjY1MmU2",
+  "snapshot_id": "MCxhZDkwNjQyMWFmNzMxMjBmYWM1OThhOGU5Y2E4Y2JmNjgyYWU2OTlm",
   "tracks": [
     {
       "added_at": "2023-12-14 16:55:34",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -267,22 +251,6 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -295,6 +263,22 @@
       "duration_ms": 213760,
       "name": "Rollin' (Air Raid Vehicle)",
       "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -343,6 +327,22 @@
       "duration_ms": 304840,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -507,22 +491,6 @@
       "duration_ms": 257053,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
-        "name": "Karma and Effect",
-        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -543,6 +511,22 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
+        "name": "Karma and Effect",
+        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
       },
@@ -555,6 +539,38 @@
       "duration_ms": 162666,
       "name": "Celebrity Skin",
       "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Lump",
+      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -603,22 +619,6 @@
       "duration_ms": 223746,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
-        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
-        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
-      },
-      "artists": [
-        {
-          "name": "The Presidents Of The United States Of America",
-          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Lump",
-      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Somewhere I Belong",
+      "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 205600,
       "name": "Sleep Now In the Fire",
       "url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Somewhere I Belong",
-      "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
         "name": "Crooked Teeth",
         "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 214797,
       "name": "Help",
       "url": "https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "Core (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 313946,
-      "name": "Plush - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
         "name": "Scars & Souvenirs (Special Edition)",
         "url": "https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 205626,
       "name": "Bad Girlfriend",
       "url": "https://open.spotify.com/track/5m7on0zpnmeAXy72ANrmfU"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
+        "name": "Core (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 313946,
+      "name": "Plush - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Shotgun Blues",
-      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
         "name": "Siamese Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 298253,
       "name": "Cherub Rock - 2011 Remaster",
       "url": "https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Shotgun Blues",
+      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
         "name": "10,000 gecs",
         "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/5RfsLBvBDYMVReXYKeep1R"
-      },
-      "artists": [
-        {
-          "name": "Fuel",
-          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/74KI6d8jEM2zwOAo3luayU"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/5RfsLBvBDYMVReXYKeep1R"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Fuel",
+          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
         }
       ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
+      "duration_ms": 214106,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/74KI6d8jEM2zwOAo3luayU"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "Outsider",
-        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
+        "name": "Veni Vidi Vicious",
+        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
         }
       ],
-      "duration_ms": 198360,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/5adBpeh1CjHAzlM2i8nYFR"
+      "duration_ms": 199759,
+      "name": "Hate To Say I Told You So",
+      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "Veni Vidi Vicious",
-        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
+        "name": "Outsider",
+        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
       },
       "artists": [
         {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 199759,
-      "name": "Hate To Say I Told You So",
-      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
+      "duration_ms": 198360,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/5adBpeh1CjHAzlM2i8nYFR"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -1371,22 +1371,6 @@
       "duration_ms": 187853,
       "name": "Feel Good Drag",
       "url": "https://open.spotify.com/track/3EuiMoY8lTjAvIqNf8Uyr3"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
-        "name": "Lullabies To Paralyze",
-        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Little Sister",
-      "url": "https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Little Sister",
+      "url": "https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
         "name": "EDGING",
         "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
       },
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-12-14 16:55:34",
       "album": {
-        "name": "Era Vulgaris",
-        "url": "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
+        "name": "fleabag",
+        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 214066,
-      "name": "3's & 7's",
-      "url": "https://open.spotify.com/track/63wsuMhok6GgcBRd2strGk"
+      "duration_ms": 176988,
+      "name": "fleabag",
+      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -1515,22 +1515,6 @@
       "duration_ms": 183602,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
-    },
-    {
-      "added_at": "2023-12-14 16:55:34",
-      "album": {
-        "name": "fleabag",
-        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 176988,
-      "name": "fleabag",
-      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2023-12-14 16:55:34",
@@ -1595,6 +1579,22 @@
       "duration_ms": 176805,
       "name": "Tear Me to Pieces",
       "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
+    },
+    {
+      "added_at": "2023-12-14 16:55:34",
+      "album": {
+        "name": "Era Vulgaris",
+        "url": "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 214066,
+      "name": "3's & 7's",
+      "url": "https://open.spotify.com/track/63wsuMhok6GgcBRd2strGk"
     },
     {
       "added_at": "2023-12-14 16:55:34",

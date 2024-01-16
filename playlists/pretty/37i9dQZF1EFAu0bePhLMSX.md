@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563 likes - 154 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 564 likes - 154 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
+| 1 | [Wannabe](https://open.spotify.com/track/3d9IACwloug2vIlFvdIsh0) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Wannabe](https://open.spotify.com/album/7JbMuSOQlSQCYYUZovodR9) | 3:56 |
 | 2 | [Lights \- Single Version](https://open.spotify.com/track/7gUpO6td4OOnu0Lf9vhcIV) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:31 |
 | 3 | [One More Sleep](https://open.spotify.com/track/2jqXzaPkPbdiXFCZIQ2RDf) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [One More Sleep \(Official Video\)](https://open.spotify.com/album/4aAbT8kUrf1fYRUPC4U8PN) | 2:47 |
 | 4 | [Spice Girl](https://open.spotify.com/track/4HW5kSQ8M2IQWZhSxERvla) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 2:53 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 9 | [Lights \- Bassnectar Remix \- Bonus Track](https://open.spotify.com/track/4qxUFzBKlmP98kIRKFszju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Lights](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) | 4:36 |
 | 10 | [Viva Forever](https://open.spotify.com/track/6BPDPcnbDMDf58srVzbfX9) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 5:10 |
 | 11 | [Love at First Sight](https://open.spotify.com/track/0NMUFQdEFjftg0BQnyZCsh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t) | 3:58 |
-| 12 | [Change Your Life](https://open.spotify.com/track/0swoSbCOJsRbr17YYRcmcF) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Change Your Life](https://open.spotify.com/album/0oIMhTC9WT3aQfzqck8tBL) | 3:21 |
+| 12 | [Change Your Life](https://open.spotify.com/track/1nDQ9EvOmLj1dYKRbbqcoU) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 3:25 |
 | 13 | [18](https://open.spotify.com/track/3CHwhGXeK1kCzxfbmoRK1d) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L) | 3:09 |
 | 14 | [Mama](https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 5:04 |
 | 15 | [Say Something](https://open.spotify.com/track/36c6rs6PqirxSqm1TVLzKl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/0KTmxgfwMFOBXmajMpjlkB) | 3:33 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 28 | [Guilty](https://open.spotify.com/track/7LAmyFCpDakQ3YL92EKE8t) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:41 |
 | 29 | [The One](https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:59 |
 | 30 | [O Holy Night](https://open.spotify.com/track/6wCg6AcRdhQCwD0bh0F8zb) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 2:53 |
-| 31 | [Let's Dance \- Radio Edit](https://open.spotify.com/track/595JwfRS0iFbdZyhlBxokI) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:38 |
-| 32 | [Heartbreak \- Make Me A Dancer](https://open.spotify.com/track/1P5sTy1U94jdzcLgeWlIgf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR) | [Make a Scene](https://open.spotify.com/album/2vLMz7mNDjeAkCstDKiz7p) | 3:26 |
+| 31 | [Heartbreak \- Make Me A Dancer](https://open.spotify.com/track/1P5sTy1U94jdzcLgeWlIgf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR) | [Make a Scene](https://open.spotify.com/album/2vLMz7mNDjeAkCstDKiz7p) | 3:26 |
+| 32 | [Let's Dance \- Radio Edit](https://open.spotify.com/track/595JwfRS0iFbdZyhlBxokI) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:38 |
 | 33 | [Move Over](https://open.spotify.com/track/3P50dC4GwZYiToIXQGWIAC) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:46 |
 | 34 | [If U Can't Dance](https://open.spotify.com/track/6bh25NILjNfJnIvGRT2emC) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:48 |
 | 35 | [Hold On To Now](https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:57 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 153 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
 | 154 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 
-Snapshot ID: `Mjg0MjE0MTAsMDAwMDAwMDAyMDdlNzFjNTY0MTlkZDczMWViZWE1ZmYzNGE1Yzk5Yg==`
+Snapshot ID: `Mjg0MjI4NTAsMDAwMDAwMDA5ZmI1YjVjNmUzZDUzZWU1NTgwMmMyYjIyZjEzZDY1NQ==`

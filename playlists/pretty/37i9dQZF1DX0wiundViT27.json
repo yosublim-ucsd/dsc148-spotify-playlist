@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 613987,
+  "num_followers": 613871,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjU1NTc2ZWJiOTQxMjZmZTBkMWUwOTI1N2MzZTVlNzBiMDExOGFh",
+  "snapshot_id": "MCwzNzExMGYzZGFlNTZkZThkNDBlOWRkNzViODQxZDM0M2JhMzBlN2Jh",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "HONEY (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 167276,
-      "name": "HONEY (ARE U COMING?)",
-      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -259,6 +243,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "ZOMBIFIED",
         "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
       },
@@ -287,22 +287,6 @@
       "duration_ms": 231480,
       "name": "Monkey Wrench",
       "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -351,6 +335,22 @@
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Villains",
-        "url": "https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 274281,
-      "name": "The Way You Used To Do",
-      "url": "https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 222738,
       "name": "Planet Zero",
       "url": "https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 274281,
+      "name": "The Way You Used To Do",
+      "url": "https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Rescued",
         "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 194826,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Too Good At Raising Hell",
-        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 229212,
-      "name": "Too Good At Raising Hell",
-      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Too Good At Raising Hell",
+        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 229212,
+      "name": "Too Good At Raising Hell",
+      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Angel Miners & The Lightning Riders",
         "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 223320,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187140,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187140,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Everything's Electric",
         "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Down Here Waiting",
-        "url": "https://open.spotify.com/album/7JqkfkMLQj4HWrrqhh2CUz"
-      },
-      "artists": [
-        {
-          "name": "Blue October",
-          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
-        }
-      ],
-      "duration_ms": 215495,
-      "name": "Down Here Waiting",
-      "url": "https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Black Box",
         "url": "https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 212621,
       "name": "Like A Drug",
       "url": "https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Down Here Waiting",
+        "url": "https://open.spotify.com/album/7JqkfkMLQj4HWrrqhh2CUz"
+      },
+      "artists": [
+        {
+          "name": "Blue October",
+          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
+        }
+      ],
+      "duration_ms": 215495,
+      "name": "Down Here Waiting",
+      "url": "https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Outrage! Is Now",
+        "url": "https://open.spotify.com/album/6QFtujdK0w9wIyEVGxaNFo"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 198081,
+      "name": "Freeze Me",
+      "url": "https://open.spotify.com/track/1RsZPDpSkbvRFru52KAkZG"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "The Atlas Underground Flood",
         "url": "https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 184391,
       "name": "Human (feat. Barns Courtney)",
       "url": "https://open.spotify.com/track/5jPWuLGRcVDU50pyTCEjQL"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Outrage! Is Now",
-        "url": "https://open.spotify.com/album/6QFtujdK0w9wIyEVGxaNFo"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 198081,
-      "name": "Freeze Me",
-      "url": "https://open.spotify.com/track/1RsZPDpSkbvRFru52KAkZG"
     }
   ],
   "unique_name": "Rock Me Up",

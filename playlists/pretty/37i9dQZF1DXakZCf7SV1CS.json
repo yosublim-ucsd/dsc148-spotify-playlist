@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 72291,
+  "num_followers": 72350,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDEwMmM4MGY3ZWVlMTg2ZTI1ZDQwZTIxMDczZGM2ZmRmNTIxNGEy",
+  "snapshot_id": "MCxhZjVlM2QyZTRhMThkMmRhZWY3ZWIxZTc0ZTZmZWJmMWY4YjFmNDQ3",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -231,6 +231,30 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 126616,
+      "name": "hand crushed by a mallet",
+      "url": "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP"
       },
@@ -259,6 +283,22 @@
       "duration_ms": 109033,
       "name": "i dont want that many friends in the first place",
       "url": "https://open.spotify.com/track/10P4luHAHr1o5kqDa8NDIU"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "cypress grove",
+        "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 101938,
+      "name": "astrid",
+      "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -295,42 +335,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
       },
       "artists": [
         {
           "name": "100 gecs",
           "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
-      "duration_ms": 126616,
-      "name": "hand crushed by a mallet",
-      "url": "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "cypress grove",
-        "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 101938,
-      "name": "astrid",
-      "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
+      "duration_ms": 196893,
+      "name": "Doritos & Fritos",
+      "url": "https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -407,6 +423,50 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 121681,
+      "name": "stupid horse",
+      "url": "https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "then i'll be happy",
+        "url": "https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 111875,
+      "name": "heather",
+      "url": "https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "punk2",
         "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
       },
@@ -455,22 +515,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "10,000 gecs",
-        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Doritos & Fritos",
-      "url": "https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "think abt it",
         "url": "https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V"
       },
@@ -491,22 +535,26 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "then i'll be happy",
-        "url": "https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s"
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
       "artists": [
         {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
         },
         {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
-      "duration_ms": 111875,
-      "name": "heather",
-      "url": "https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX"
+      "duration_ms": 143663,
+      "name": "ringtone",
+      "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -557,28 +605,40 @@
       "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
-      "added_at": "2023-04-27 17:13:18",
+      "added_at": "2023-06-20 14:29:14",
       "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+        "name": "bleh",
+        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
       },
       "artists": [
         {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
-      "duration_ms": 121681,
-      "name": "stupid horse",
-      "url": "https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm"
+      "duration_ms": 167235,
+      "name": "ok im cool",
+      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "cloak n dagger",
+        "url": "https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "cloak n dagger",
+      "url": "https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -613,22 +673,6 @@
       "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
     },
     {
-      "added_at": "2023-06-20 14:29:14",
-      "album": {
-        "name": "bleh",
-        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 167235,
-      "name": "ok im cool",
-      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
-    },
-    {
       "added_at": "2023-04-27 17:13:18",
       "album": {
         "name": "food house",
@@ -655,26 +699,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "cloak n dagger",
-        "url": "https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "cloak n dagger",
-      "url": "https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
       },
@@ -691,30 +715,6 @@
       "duration_ms": 178823,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 143663,
-      "name": "ringtone",
-      "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -925,6 +925,26 @@
       "url": "https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq"
     },
     {
+      "added_at": "2023-06-20 14:29:14",
+      "album": {
+        "name": "bad idea",
+        "url": "https://open.spotify.com/album/3uhiRR9njhC3ALTQrRksmK"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        },
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "duration_ms": 69041,
+      "name": "bad idea",
+      "url": "https://open.spotify.com/track/7hXEc9Hk5MS2BVoSFx4H5X"
+    },
+    {
       "added_at": "2023-04-27 17:13:18",
       "album": {
         "name": "Flamboyant",
@@ -971,26 +991,6 @@
       "duration_ms": 295866,
       "name": "venus fly trap",
       "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2023-06-20 14:29:14",
-      "album": {
-        "name": "bad idea",
-        "url": "https://open.spotify.com/album/3uhiRR9njhC3ALTQrRksmK"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        },
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        }
-      ],
-      "duration_ms": 69041,
-      "name": "bad idea",
-      "url": "https://open.spotify.com/track/7hXEc9Hk5MS2BVoSFx4H5X"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "BIPP",
-        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 224142,
-      "name": "BIPP",
-      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "go white boy go",
         "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 101487,
       "name": "go white boy go",
       "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "BIPP",
+        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 224142,
+      "name": "BIPP",
+      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
     },
     {
       "added_at": "2023-04-27 17:13:18",

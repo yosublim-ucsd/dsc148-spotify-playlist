@@ -4,7 +4,7 @@
 
 > Tulum szn
 
-390 songs - 1 day 5 hr 13 min
+391 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Pau \- Bella Boo Remix](https://open.spotify.com/track/5fCqNBQMkXtjYc1y3yBZAB) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [El Agua Es Profunda](https://open.spotify.com/artist/4ivbEFZIAFkf4xDd5g5t1F), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Pau \(Bella Boo Remix\)](https://open.spotify.com/album/6MjAU8LKv6GVTjNjDmjOZ3) | 5:18 | 2023-11-30 |  |
 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 | 2023-04-13 | 2023-08-02 |
 | [People](https://open.spotify.com/track/5Z7K4nCutR02UrKIDjY35k) | [MLiR](https://open.spotify.com/artist/1deVrxjIl8NdenVpoSUiKi) | [Swedish Lo\-Life EP](https://open.spotify.com/album/1tJnTAZH3tCdoniVCB4nPD) | 6:07 | 2023-06-29 |  |
+| [Peru \- Peace Control Remix](https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Peru \(Peace Control Remix\)](https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw) | 4:47 | 2024-01-15 |  |
 | [phases \(feat\. Kojey Radical\) \- P\-rallel Remix](https://open.spotify.com/track/0BUU2Sw6QrDyIVg4U6G3Gl) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [phases \(feat\. Kojey Radical\) \[P\-rallel Remix\]](https://open.spotify.com/album/5UMUOPkLKNKKfHIT9D9D4x) | 3:08 | 2023-06-29 | 2024-01-05 |
 | [Phreaky MF \- Mike Dunn's Phreak MixX](https://open.spotify.com/track/2VwyNnREoQNBioAsGs0mUN) | [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft), [Mr\. 69](https://open.spotify.com/artist/7DYttpiOZdyURH5XmQXeSD) | [Defected Presents House Masters: Mike Dunn](https://open.spotify.com/album/2MMKWfrmmV98lWnhFTdlJc) | 12:09 | 2023-06-29 |  |
 | [Pick Up](https://open.spotify.com/track/3FKMngtZtIZCNKYexhGrVD) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Pick Up](https://open.spotify.com/album/1jIpoJDNdPF0LPM11T402r) | 6:38 | 2023-05-11 |  |

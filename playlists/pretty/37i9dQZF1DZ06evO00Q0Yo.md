@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,301 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,337 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 12 | [Hottie \(feat\. BabyFace Ray\)](https://open.spotify.com/track/14I77qsasVr6M6XxbxvcxJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 3:01 |
 | 13 | [Tomioka \(with Flo Milli\) \- Remix](https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Tomioka \(with Flo Milli\) \[Remix\]](https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK) | 2:17 |
 | 14 | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O) | 3:20 |
-| 15 | [Chocolate Rain](https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Chocolate Rain](https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL) | 2:42 |
+| 15 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 |
 | 16 | [Bed Time](https://open.spotify.com/track/1WGIqE7rCmrsERtlIpCGyM) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:48 |
-| 17 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 |
+| 17 | [Chocolate Rain](https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Chocolate Rain](https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL) | 2:42 |
 | 18 | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl) | 1:50 |
 | 19 | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ) | 2:26 |
 | 20 | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/album/60LPFmZ5vcbDBZRexNZ9c1) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 49 | [F'd Up \(feat\. Flo Milli\)](https://open.spotify.com/track/1tV2tvirWkLkBhj2y2j5ZU) | [Savannah Cristina](https://open.spotify.com/artist/7EsWLpczyTXU6zyfWt7ZkN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [F'd Up \(feat\. Flo Milli\)](https://open.spotify.com/album/6D0Sma90a30imii8y1y0kN) | 3:09 |
 | 50 | [Toot It Up](https://open.spotify.com/track/654vCNETmkVbg5vpD38OUj) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [4EVER SOSSA](https://open.spotify.com/album/7DB5LVm0cNsq3fJp6JGWeM) | 2:49 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDAxZjY5MWI0Yjk0NGI5MDQyNTY3NTI3MTM5NTlhMzZlNg==`
+Snapshot ID: `Mjg0MjIwMTEsMDAwMDAwMDA5N2Q1ZmQ4ZDVmNDI5YzRhZGI1MGI4YjI2NGRjMjRiMQ==`

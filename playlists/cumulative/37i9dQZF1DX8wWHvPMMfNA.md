@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-730 songs - 1 day 22 hr 30 min
+732 songs - 1 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Days of Wine and Roses](https://open.spotify.com/track/2b2yKDFxgIVVGsgd8Pgneb) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Quota](https://open.spotify.com/album/5G2XZf9MkRLtABZoEJGRbT) | 7:43 | 2022-05-18 | 2022-11-11 |
 | [Dear Sir](https://open.spotify.com/track/3HHAG4smOvTfKfkDqpBe7X) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:55 | 2021-12-16 | 2022-11-01 |
 | [Decor\-free](https://open.spotify.com/track/4iACpgxgxLkWkd4kypNNwx) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Decor\-free](https://open.spotify.com/album/1cry6SmclW8CYxmloksuVf) | 3:59 | 2024-01-05 |  |
-| [Deep In A Dream](https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Curtain Call](https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c) | 5:58 | 2021-12-16 |  |
+| [Deep In A Dream](https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Curtain Call](https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c) | 5:58 | 2021-12-16 | 2024-01-16 |
 | [Delighted Mood](https://open.spotify.com/track/1zVWKtpnw1OBHOCW3nJDfg) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Delighted Mood](https://open.spotify.com/album/3oZ5V8i4Bo5ScBe0YAyAjI) | 3:49 | 2023-06-01 |  |
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2023-06-01 |  |
 | [Detour Ahead](https://open.spotify.com/track/3RqG16FeaSRU1l3CRlRZxV) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Detour Ahead](https://open.spotify.com/album/3qH33VNF4bKmgjk9Y3BWk4) | 2:57 | 2023-08-17 |  |
@@ -162,6 +162,7 @@
 | [Don't Love Me](https://open.spotify.com/track/0zDUzk5CwhgMctfuIP4eez) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:39 | 2021-12-16 | 2022-11-11 |
 | [Don't Take Me For Granted](https://open.spotify.com/track/0pWw8k7ThQXQlODdT0MVkP) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Don't Take Me For Granted](https://open.spotify.com/album/7HEn07lzayUeSHnGSwWaAL) | 3:11 | 2023-06-01 |  |
 | [Don't Take Your Love From Me](https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:39 | 2022-05-18 |  |
+| [Don’t ruin it](https://open.spotify.com/track/5E9FQwE8VNfNYB9bSD8lAn) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Don’t ruin it](https://open.spotify.com/album/3Y9sptxgegR4ePGCr5JYXR) | 2:14 | 2024-01-12 |  |
 | [Dorene Don't Cry, I \- Remastered](https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:14 | 2021-12-16 | 2022-09-29 |
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-11-11 |  |
 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-06-01 |  |
@@ -268,6 +269,7 @@
 | [I Guess I'll Have To Change My Plan](https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants '56](https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1) | 9:29 | 2023-08-10 |  |
 | [I Guess I'll Have To Change My Plan](https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants](https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg) | 9:35 | 2021-12-16 | 2022-11-11 |
 | [I Guess I'll Have To Change My Plans](https://open.spotify.com/track/1Dn4xfTFsE7T3QM7adZFo4) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [I Guess I'll Have To Change My Plans](https://open.spotify.com/album/7iJ7DbrzgjSKQF0aBwDoNx) | 3:51 | 2022-11-11 | 2023-08-25 |
+| [I Hear You Now](https://open.spotify.com/track/6SMfs8KCyzSANk33d3cQcN) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [I Hear You Now](https://open.spotify.com/album/7KAddonNSAiDuYBlMZIYS3) | 3:43 | 2024-01-12 |  |
 | [I Love You](https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [Jazz 'N' Samba](https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG) | 4:37 | 2022-05-18 |  |
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-11-11 |  |
 | [I Remember Clifford](https://open.spotify.com/track/7vJH6LhdQgbfhaBcZE9wtc) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [I Remember Clifford](https://open.spotify.com/album/2Fn6v0yUKmle7at62HdiQA) | 4:49 | 2023-08-17 |  |
@@ -574,7 +576,7 @@
 | [Strangest Sea](https://open.spotify.com/track/1uptgSNdSsDIVsdynJEoCe) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Strangest Sea](https://open.spotify.com/album/2KsZ2DjNxiSbfwWv49bHS9) | 3:34 | 2023-02-23 |  |
 | [Strawberry Snow Cones For Two](https://open.spotify.com/track/1j2stEmsymDnJNi1uPZ1rD) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Strawberry Snow Cones For Two](https://open.spotify.com/album/578scmNeIm4OpGwLnlAd8Q) | 3:34 | 2023-08-10 |  |
 | [Street Of Dreams](https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Street Of Dreams](https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U) | 3:21 | 2023-06-01 |  |
-| [Streetlights In Nightime](https://open.spotify.com/track/2r810ZLTVaACtPtjEgzL5B) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Streetlight In Nighttime](https://open.spotify.com/album/3DjJDFLcmMyT9rHOnFSuQW) | 2:40 | 2023-06-01 |  |
+| [Streetlights In Nightime](https://open.spotify.com/track/2r810ZLTVaACtPtjEgzL5B) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Streetlight In Nighttime](https://open.spotify.com/album/3DjJDFLcmMyT9rHOnFSuQW) | 2:40 | 2023-06-01 | 2024-01-16 |
 | [Subdued \- Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [A Fickle Sonance](https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL) | 5:54 | 2021-12-16 | 2023-11-26 |
 | [Summer Green](https://open.spotify.com/track/2uuGu4QUlVIC24OS2ZilNR) | [The Slow Nine](https://open.spotify.com/artist/2KSSPN9F7IzGkUhtQzmyj5) | [Summer Green](https://open.spotify.com/album/6EyhVfE0XMIls6HYY5jQDa) | 4:23 | 2023-11-17 |  |
 | [Summer Romance](https://open.spotify.com/track/0UEEd9xywztg2kbt3zRlJt) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Summer Romance](https://open.spotify.com/album/5gDw4M9FAbrAjQcmH5TJc2) | 2:32 | 2023-06-01 |  |

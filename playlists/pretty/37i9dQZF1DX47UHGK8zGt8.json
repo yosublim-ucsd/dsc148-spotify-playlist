@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax. ",
-  "num_followers": 522054,
+  "num_followers": 522236,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzQ1MDdmY2RiMTcxYjQ4NzA0ODhjMmQyMTdiY2Y1Y2QzOWMwYzRk",
+  "snapshot_id": "MCxjOTVhZGQzMTdiNTk1Zjk4MjdlNmY1Y2I4NTg5Mzg0YTlhZDAyNTQz",
   "tracks": [
     {
       "added_at": "2024-01-12 03:00:00",
@@ -371,18 +371,38 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
       },
       "artists": [
         {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 169086,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
+      "duration_ms": 262552,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Garotos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 198075,
+      "name": "Garotos II - Ao Vivo",
+      "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -407,54 +427,18 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Garotos II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk"
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
       },
       "artists": [
         {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
         }
       ],
-      "duration_ms": 198075,
-      "name": "Garotos II - Ao Vivo",
-      "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 262552,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "O Que Voc\u00ea Quer Saber de Verdade",
-        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Depois",
-      "url": "https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm"
+      "duration_ms": 169086,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -495,6 +479,22 @@
       "duration_ms": 252600,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "O Que Voc\u00ea Quer Saber de Verdade",
+        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Depois",
+      "url": "https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -547,6 +547,26 @@
       "duration_ms": 205945,
       "name": "Bixinho",
       "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -607,26 +627,6 @@
       "duration_ms": 152376,
       "name": "TE AMO (em caixa alta)",
       "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "Silva & Liniker (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sorte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2024-01-12 03:00:00",

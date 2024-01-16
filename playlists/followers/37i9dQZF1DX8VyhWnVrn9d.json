@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 230755,
+  "2024-01-16": 230896,
   "date_first_scraped": "2022-05-23",
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
   "name": "Quebradita",
@@ -2181,6 +2181,24 @@
       "duration_ms": 128186,
       "name": "Tabaco Mascao",
       "url": "https://open.spotify.com/track/0xeh1UZ9GEWTnPk0JZon1a"
+    },
+    {
+      "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128186,
+      "name": "Tabaco Mascao",
+      "url": "https://open.spotify.com/track/30Q48f3hKqmUaTP4s35JeD"
     },
     {
       "album": {

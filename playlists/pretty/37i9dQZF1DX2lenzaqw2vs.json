@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Adrian Bello",
-  "num_followers": 133664,
+  "num_followers": 133625,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2MwNWJlYTJiMTZjYmIwOWJjZjY3MDRlYzA5OTU4Y2IzMzkzYzA1",
+  "snapshot_id": "MCw2MmE0ZGQwMTUwYTI4MmRkMTViOTE2ZDg5NmJmZmY1OTJkZTczN2Zm",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+        "name": "wiggy",
+        "url": "https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 129448,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
+      "duration_ms": 146559,
+      "name": "wiggy",
+      "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "wiggy",
-        "url": "https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 146559,
-      "name": "wiggy",
-      "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 131437,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 129448,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Qu\u00edtate La Ropa",
-        "url": "https://open.spotify.com/album/56kdE5SKjM1TYN7nEBkbG7"
-      },
-      "artists": [
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "Qu\u00edtate La Ropa",
-      "url": "https://open.spotify.com/track/2uHSh5ZPsVGDTL7rfPRL1R"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Fugitivo",
         "url": "https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Qu\u00edtate La Ropa",
+        "url": "https://open.spotify.com/album/56kdE5SKjM1TYN7nEBkbG7"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "Qu\u00edtate La Ropa",
+      "url": "https://open.spotify.com/track/2uHSh5ZPsVGDTL7rfPRL1R"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Reina de la Selva",
         "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 176986,
       "name": "Reina de la Selva",
       "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "EASY BOY",
-        "url": "https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd"
-      },
-      "artists": [
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "EASY BOY",
-      "url": "https://open.spotify.com/track/4f6bRqMzm8HEJIbZI2RkbB"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -579,22 +563,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "C\u00e1scara de Coco",
-      "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "La Respuesta",
         "url": "https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF"
       },
@@ -611,6 +579,22 @@
       "duration_ms": 168015,
       "name": "La Respuesta",
       "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "EASY BOY",
+        "url": "https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "EASY BOY",
+      "url": "https://open.spotify.com/track/4f6bRqMzm8HEJIbZI2RkbB"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -643,6 +627,22 @@
       "duration_ms": 267480,
       "name": "jules",
       "url": "https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "C\u00e1scara de Coco",
+      "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Mi vida en llamas (feat. Buscabulla)",
+        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 288624,
+      "name": "Mi vida en llamas (feat. Buscabulla)",
+      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Bellakosa",
         "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 196571,
       "name": "no cambies tu andar",
       "url": "https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Mi vida en llamas (feat. Buscabulla)",
-        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 288624,
-      "name": "Mi vida en llamas (feat. Buscabulla)",
-      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "LIBERTAD",
-        "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        }
-      ],
-      "duration_ms": 216961,
-      "name": "LIBERTAD",
-      "url": "https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Los Caminos Del Amor",
         "url": "https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 232520,
       "name": "Los Caminos Del Amor",
       "url": "https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "LIBERTAD",
+        "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "duration_ms": 216961,
+      "name": "LIBERTAD",
+      "url": "https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "DESBARATA",
-        "url": "https://open.spotify.com/album/7JcSJdoEszIcVdmmLkqZvp"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 166809,
-      "name": "Desbarata",
-      "url": "https://open.spotify.com/track/6PvX6uIThIrFSYCi0tdsUt"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Del Cibao",
         "url": "https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 195866,
       "name": "Mojados",
       "url": "https://open.spotify.com/track/2x22qkx1iSxPd1FTdAyTv9"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "DESBARATA",
+        "url": "https://open.spotify.com/album/7JcSJdoEszIcVdmmLkqZvp"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 166809,
+      "name": "Desbarata",
+      "url": "https://open.spotify.com/track/6PvX6uIThIrFSYCi0tdsUt"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 163348,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 244088,
       "name": "Bailemos en la Sala",
       "url": "https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 163348,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Que S\u00ed Que No",
-        "url": "https://open.spotify.com/album/0MDs2fahUHeddRisz4l0dF"
-      },
-      "artists": [
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "Que S\u00ed Que No",
-      "url": "https://open.spotify.com/track/4kQkOwwaJWWbLB83doQdlg"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Charreando En La Disco",
         "url": "https://open.spotify.com/album/2PfLqGjgSyRRYFR0xxb47S"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 173000,
       "name": "Charreando En La Disco",
       "url": "https://open.spotify.com/track/7Cyvb8cXv9uTY3r8479F3p"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Que S\u00ed Que No",
+        "url": "https://open.spotify.com/album/0MDs2fahUHeddRisz4l0dF"
+      },
+      "artists": [
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "Que S\u00ed Que No",
+      "url": "https://open.spotify.com/track/4kQkOwwaJWWbLB83doQdlg"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "kiss my friends",
         "url": "https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 162143,
       "name": "kiss my friends",
       "url": "https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "LuvHz",
-        "url": "https://open.spotify.com/album/6yBOev00UB9ZZVaspj00Wb"
-      },
-      "artists": [
-        {
-          "name": "Jackie Mendoza",
-          "url": "https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Mucho M\u00e1s",
-      "url": "https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "As\u00ed Me Siento Hoy",
         "url": "https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 155159,
       "name": "me gusta que me gustes",
       "url": "https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "LuvHz",
+        "url": "https://open.spotify.com/album/6yBOev00UB9ZZVaspj00Wb"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mendoza",
+          "url": "https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Mucho M\u00e1s",
+      "url": "https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Cuidar\u00e9 De Ti",
-        "url": "https://open.spotify.com/album/66t7uYODEltF75JDOSgroj"
-      },
-      "artists": [
-        {
-          "name": "Pavlo",
-          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
-        }
-      ],
-      "duration_ms": 148085,
-      "name": "Cuidar\u00e9 De Ti",
-      "url": "https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "corazoncito",
         "url": "https://open.spotify.com/album/5YYkBqPFlaJidU80jXYD9i"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 178951,
       "name": "corazoncito",
       "url": "https://open.spotify.com/track/3QwaKUFPO3CNJcTiWk0kfk"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Cuidar\u00e9 De Ti",
+        "url": "https://open.spotify.com/album/66t7uYODEltF75JDOSgroj"
+      },
+      "artists": [
+        {
+          "name": "Pavlo",
+          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
+        }
+      ],
+      "duration_ms": 148085,
+      "name": "Cuidar\u00e9 De Ti",
+      "url": "https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX"
     },
     {
       "added_at": "2023-12-15 05:00:00",

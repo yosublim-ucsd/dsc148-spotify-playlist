@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-434 songs - 1 day 15 hr 54 min
+435 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Curves](https://open.spotify.com/track/0glr1BX8Zy81l4HvLpmozl) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/5vRSjGybGL5JiNGIsfh2K6) | 6:19 | 2020-05-02\* | 2022-07-21 |
 | [Curves](https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt) | 6:19 | 2022-07-21 |  |
 | [Dancing In The Dark](https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 4:07 | 2021-10-09 |  |
+| [Defiant, Tender Warrior](https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Defiant, Tender Warrior](https://open.spotify.com/album/6o4Vh8olYsbYaMSBc8kR3B) | 4:16 | 2024-01-12 |  |
 | [Designs](https://open.spotify.com/track/0FwP04wAnbpflZg05NRBH2) | [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn) | [Trust and Honesty](https://open.spotify.com/album/6q0OYWv7DtOV9iY0yryzWh) | 4:38 | 2023-06-01 |  |
 | [Det Blev Sent](https://open.spotify.com/track/2gVWCWCzs7IxF4SmlbaP5y) | [La La Lars](https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg) | [La La Lars III](https://open.spotify.com/album/67KjDm9srNlbNjEzXysMc9) | 3:19 | 2021-05-21 | 2022-01-25 |
 | [Diamonds And Pearls](https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 5:45 | 2020-05-02\* | 2022-04-15 |
@@ -210,7 +211,7 @@
 | [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 | 2022-07-21 |  |
 | [Little Piece](https://open.spotify.com/track/3ajLDSfyYyEy1n8MfRuDdk) | [Nice Chair](https://open.spotify.com/artist/4KRRW8ovgKX51Q7wmirbo6), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Kaspar Vadsholt](https://open.spotify.com/artist/0OXMwGe6XaYuXQOIIBBNEZ) | [World in Motion](https://open.spotify.com/album/0aTNcssJYSJbagPh9aVTWU) | 4:37 | 2023-06-01 |  |
 | [Longing](https://open.spotify.com/track/67sVPIVxFU882Z6HpdBjXZ) | [Lukas Wögler Quartett](https://open.spotify.com/artist/5cbn5mT0NrBpqJN0Uad4Nn) | [Alba](https://open.spotify.com/album/3FErjLj1EnVocxXwa6WkBZ) | 8:21 | 2022-09-22 |  |
-| [Lookout for Hope](https://open.spotify.com/track/0MN9n3I4Hicx8rbb1CqvaH) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 5:09 | 2023-08-03 |  |
+| [Lookout for Hope](https://open.spotify.com/track/0MN9n3I4Hicx8rbb1CqvaH) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 5:09 | 2023-08-03 | 2024-01-16 |
 | [Loslassen](https://open.spotify.com/track/4lFv85FtR9pRqJVhY8hv7f) | [Bastian Menz Quintett](https://open.spotify.com/artist/3GScxzwqyHVE32qX1Gcu6k) | [Loslassen](https://open.spotify.com/album/135ABCv2URHzD38LYxby5Q) | 4:21 | 2023-08-03 | 2023-12-19 |
 | [Lullaby](https://open.spotify.com/track/0XEzkY36A838Jy1Nam64Mm) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Lullaby](https://open.spotify.com/album/1eT0iJYVpe8NEqSj9u6Yoo) | 3:39 | 2023-10-24 |  |
 | [Lullaby in Green](https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Layers of Life](https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh) | 4:46 | 2023-08-03 |  |

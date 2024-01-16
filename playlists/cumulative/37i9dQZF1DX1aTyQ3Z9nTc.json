@@ -1695,6 +1695,32 @@
     },
     {
       "album": {
+        "name": "Comfy",
+        "url": "https://open.spotify.com/album/5gtMkVplF5F6ESsgE1PHP0"
+      },
+      "artists": [
+        {
+          "name": "Jelani Blackman",
+          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        },
+        {
+          "name": "Trillary Banks",
+          "url": "https://open.spotify.com/artist/6WX6lXXKTBrmL9kqVTztfY"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163655,
+      "name": "Comfy",
+      "url": "https://open.spotify.com/track/4kz1rNa9hMw2aTq7XNRllx"
+    },
+    {
+      "album": {
         "name": "SuperGood",
         "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
       },
@@ -4468,7 +4494,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 225937,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"

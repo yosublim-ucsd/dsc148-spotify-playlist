@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126711,
+  "num_followers": 126680,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDUxMyxlNDRiNTg4OThjZDFhMmRiZTI4ZDQ0NWRhMDI1MGY1ZTYwZDc5YTY0",
+  "snapshot_id": "NDUxNixhZWEyZGZiZjk3MGNlYmEzZjk2ZjAyYTZlMDJiMDNhOTM5YWIyZmMx",
   "tracks": [
+    {
+      "added_at": "2024-01-15 19:42:32",
+      "album": {
+        "name": "The Epic Octopus Song",
+        "url": "https://open.spotify.com/album/3VsNiMSWEAc2QkhJjigBSf"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        },
+        {
+          "name": "Dani Demand",
+          "url": "https://open.spotify.com/artist/4AUz9m5EecusjVSBw0FylH"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "The Epic Octopus Song",
+      "url": "https://open.spotify.com/track/5l3InJmd0xxUvyj1eBb1d1"
+    },
     {
       "added_at": "2024-01-12 17:56:11",
       "album": {
@@ -1127,46 +1147,6 @@
       "duration_ms": 201000,
       "name": "Lastecostra",
       "url": "https://open.spotify.com/track/2bwAt55jyN5QGQhWFkwvez"
-    },
-    {
-      "added_at": "2023-10-03 14:52:51",
-      "album": {
-        "name": "Vitamin R",
-        "url": "https://open.spotify.com/album/4xd9LfqmvWcibXiwsk3NIn"
-      },
-      "artists": [
-        {
-          "name": "Codd Dubz",
-          "url": "https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5"
-        },
-        {
-          "name": "SQISHI",
-          "url": "https://open.spotify.com/artist/0UIHAcihBBHr4dlN4syE1h"
-        }
-      ],
-      "duration_ms": 185915,
-      "name": "Vitamin R",
-      "url": "https://open.spotify.com/track/3FmdXSMfZjqo9Lz4li7GpW"
-    },
-    {
-      "added_at": "2023-09-28 15:27:31",
-      "album": {
-        "name": "WAR",
-        "url": "https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 157265,
-      "name": "WAR",
-      "url": "https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -1,12 +1,12 @@
 {
   "description": "New and trending hip-hop from around the world. Cover: D-Block Europe",
-  "num_followers": 45866,
+  "num_followers": 46138,
   "original_name": "Global Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2E2NThjNjNhOTVlZWMyYjA2MjUxMjY0YmFmOWM3MzM4YTllZjk4",
+  "snapshot_id": "MCw5MDA5MTFkMGU3N2UzNWE2Nzk3NDFjMWMzNWMyNDNmMjc0NDFhNjAy",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:19",
@@ -675,7 +675,7 @@
     {
       "added_at": "2024-01-12 05:00:19",
       "album": {
-        "name": "Temps en temps (feat. Kore)",
+        "name": "Temps en temps",
         "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
       },
       "artists": [
@@ -686,14 +686,10 @@
         {
           "name": "Koba LaD",
           "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        },
-        {
-          "name": "Kore",
-          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
         }
       ],
       "duration_ms": 153649,
-      "name": "Temps en temps (feat. Kore)",
+      "name": "Temps en temps",
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
     },
     {

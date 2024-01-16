@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ Cover: MFS
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,548 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,658 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 29 | [≒](https://open.spotify.com/track/7LybGUDc1gZSsuimbyWZKV) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [≒](https://open.spotify.com/album/4V7WJHk2Qssi5X0aNd0tCa) | 4:46 |
 | 30 | [言焉](https://open.spotify.com/track/6sgFQ5GNkyvmdNlULIlzRA) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:07 |
 
-Snapshot ID: `MCwxZmY0MmFhMGJjNDc1NTU4Zjc5MWNiNDE0N2I5MmRjOTYzMDVhNGM3`
+Snapshot ID: `MCxhYzM2YmI5NWNlODM2NzIxOWI0NjA4YTkwNWNlYjJmMGM2YTYxZTg5`

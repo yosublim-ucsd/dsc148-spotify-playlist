@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Lil Nas X\)
 
-1,758 songs - 3 day 17 hr 26 min
+1,759 songs - 3 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1567,6 +1567,7 @@
 | [TM5](https://open.spotify.com/track/6V157FReXWE2rHkvQTJFPs) | [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV), [LEO37](https://open.spotify.com/artist/1K4p8nRSSUoO6e3Npn77U6), [陳以恆](https://open.spotify.com/artist/26ptiw0RrtrYZcRPPGHj5G), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf), [老莫 ILL MO](https://open.spotify.com/artist/4JGm6vTwtCqjf0C3kxXx6y), [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X), [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM), [Jerry Li](https://open.spotify.com/artist/0PSG0vJNGf6Nc0Vu0S1yFW), [Minyen Hsieh](https://open.spotify.com/artist/6AcI6agoeBhaaVo0GbjSFp), [Star Wu](https://open.spotify.com/artist/41imUY7LVjxTpJwTDgDR6v), [ABAO](https://open.spotify.com/artist/1aGVe9rnzjBX8HOgOvF1UV), [That's My Shhh](https://open.spotify.com/artist/5iUU1iEJjzYNmZv8l2rMVp) | [TM5](https://open.spotify.com/album/6bcSWPvJuknMw9XEf0pYgx) | 5:02 | 2022-03-18 | 2022-04-01 |
 | [TO GO \(Feat\. Jay Park, DJ Soulscape\)](https://open.spotify.com/track/2SsroOwWC3CYSpEKOsQzvh) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [DJ Soulscape](https://open.spotify.com/artist/2FuS8zARv5xaE6h046OxHN) | [TO GO](https://open.spotify.com/album/5rzwTmilL36v8i7BEHlstm) | 3:00 | 2023-04-14 | 2023-06-02 |
 | [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 | 2022-01-20 | 2022-01-28 |
+| [TOKYO \(Feat\. BIG Naughty, GOSEGU\)](https://open.spotify.com/track/6zhleOVaPb0lpwQU8YjlTH) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GOSEGU](https://open.spotify.com/artist/5MWI1GAHdIrJOGzK4Iu8FI) | [The Predator 2: FLEEKY SYNDROME](https://open.spotify.com/album/5OdY6FQMrOo6qmzDUuAf7G) | 2:49 | 2024-01-15 |  |
 | [TOKYO 4AM](https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TOKYO 4AM](https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X) | 3:21 | 2022-09-01 | 2022-09-30 |
 | [Tokyo Freeway](https://open.spotify.com/track/7I80E0p8u05s1O1ZBmDYZS) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [four](https://open.spotify.com/album/2JcohoDUq5JPoIh2Zh3epv) | 3:28 | 2024-01-05 |  |
 | [Tokyu Hands Shinjuku 7F](https://open.spotify.com/track/7MACq9SlKI1IY6imiwOsoR) | [Ihasamic!](https://open.spotify.com/artist/1iQWokgeROUSPQ8L39ycdh) | [Tokyu Hands Shinjuku 7F](https://open.spotify.com/album/3hWKYzcAE8Yl0qE9d3mk1s) | 2:08 | 2022-09-08 | 2022-09-30 |

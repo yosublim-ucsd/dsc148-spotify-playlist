@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,408,264 likes - 761 songs - 1 day 20 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,409,615 likes - 761 songs - 1 day 20 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -770,4 +770,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 760 | [My Mistake](https://open.spotify.com/track/4CZOjvslnn4eNkcQC0Ubvw) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:57 |
 | 761 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 |
 
-Snapshot ID: `MCxmZTE4NzNkNWMwYmE3NjdlOThlZmFjZWQ2NmM4MjIyNjYyYzliYjFh`
+Snapshot ID: `MCwzNTcxYzMyMzkwMDBjY2U3MDNiODA5NWFjMmQ4ZTZiMjE0YzE3YjVl`

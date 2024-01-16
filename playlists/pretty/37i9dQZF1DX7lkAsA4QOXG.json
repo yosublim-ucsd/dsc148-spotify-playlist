@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 119934,
+  "num_followers": 119980,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGZkMGM1MjgwZTlkOTQ0NWZmZWEzNWM3MDhiM2ZmNTgyNDJkMTFm",
+  "snapshot_id": "MCxmZjQ5Njg0NmE3YTNhODZlMmFiODFlNmE5MGYxOTAxNThiZThmOGUx",
   "tracks": [
     {
       "added_at": "2023-12-20 11:21:06",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 294364,
       "name": "High And Dry - Remastered",
       "url": "https://open.spotify.com/track/4PZEQo9X77uGUU6lg3fgSn"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 342951,
-      "name": "Farewell, Angelina",
-      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
         "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 138213,
       "name": "Your Mother Should Know",
       "url": "https://open.spotify.com/track/67ZAqk0egv33NmEW0OpGHt"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 342951,
+      "name": "Farewell, Angelina",
+      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "Jazz Volume: Herbie Hancock",
+        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Jazz Volume: Herbie Hancock",
-        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/0eOoiQwGbk0shviMULCBF7"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
         }
       ],
-      "duration_ms": 456480,
-      "name": "A Case Of You - Short Version",
-      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
+      "duration_ms": 243906,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/7HO5mJHH5wLjTOb5lfqe0J"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -855,22 +871,6 @@
       "duration_ms": 229493,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "Pure Imagination",
-        "url": "https://open.spotify.com/album/0eOoiQwGbk0shviMULCBF7"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 243906,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/7HO5mJHH5wLjTOb5lfqe0J"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "My New Old Friend",
+        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
+      },
+      "artists": [
+        {
+          "name": "Alan Pasqua",
+          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
+        }
+      ],
+      "duration_ms": 358453,
+      "name": "Wichita Lineman",
+      "url": "https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "River: The Joni Letters (Expanded Edition)",
         "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 324960,
       "name": "River",
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "My New Old Friend",
-        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
-      },
-      "artists": [
-        {
-          "name": "Alan Pasqua",
-          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
-        }
-      ],
-      "duration_ms": 358453,
-      "name": "Wichita Lineman",
-      "url": "https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1067,46 +1067,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Uncle John's Band",
-        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Vicente Archer",
-          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        }
-      ],
-      "duration_ms": 549600,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "Jazz Plays The Beatles",
-        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Can't Buy Me Love",
-      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -1123,6 +1083,22 @@
       "duration_ms": 320893,
       "name": "Streets Of Philadelphia",
       "url": "https://open.spotify.com/track/6S3bsnpvBqRRn7LfzZSchM"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Jazz Plays The Beatles",
+        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Can't Buy Me Love",
+      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1155,6 +1131,30 @@
       "duration_ms": 335720,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Uncle John's Band",
+        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "duration_ms": 549600,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 131773,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 353941,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 131773,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
-        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
+        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "Who Used To Dance",
+        "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 413240,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "Speak Low II",
         "url": "https://open.spotify.com/album/0sYiRRG8rL7V23bEP6q5Nz"
       },
@@ -1711,22 +1727,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Who Used To Dance",
-        "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 413240,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/2wNEe8mpjm4cmpygGaAFi8"
       },
@@ -1739,22 +1739,6 @@
       "duration_ms": 233625,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "Ink on a Pin - A Celebration of Joni Mitchell",
-        "url": "https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk"
-      },
-      "artists": [
-        {
-          "name": "Sara Colman",
-          "url": "https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa"
-        }
-      ],
-      "duration_ms": 232522,
-      "name": "Chelsea Morning",
-      "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1775,6 +1759,22 @@
       "duration_ms": 303186,
       "name": "She's Leaving Home - Live",
       "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Ink on a Pin - A Celebration of Joni Mitchell",
+        "url": "https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk"
+      },
+      "artists": [
+        {
+          "name": "Sara Colman",
+          "url": "https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa"
+        }
+      ],
+      "duration_ms": 232522,
+      "name": "Chelsea Morning",
+      "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1959,22 +1959,18 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+        "name": "Something",
+        "url": "https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI"
       },
       "artists": [
         {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+          "name": "J for Jazz",
+          "url": "https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3"
         }
       ],
-      "duration_ms": 252680,
-      "name": "Hey, That's No Way To Say Goodbye",
-      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
+      "duration_ms": 168466,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -2011,22 +2007,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI"
-      },
-      "artists": [
-        {
-          "name": "J for Jazz",
-          "url": "https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Falling Grace",
         "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 223373,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "Hey, That's No Way To Say Goodbye",
+      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Optimistic",
-        "url": "https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf"
-      },
-      "artists": [
-        {
-          "name": "Max Haymer",
-          "url": "https://open.spotify.com/artist/3Of3GFdC138OHGTMfC7JPP"
-        }
-      ],
-      "duration_ms": 369876,
-      "name": "Optimistic",
-      "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "River Man (feat. Sara Caswell)",
         "url": "https://open.spotify.com/album/2XpXbabfXk62IKCdfdsMSy"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 538160,
       "name": "River Man (feat. Sara Caswell)",
       "url": "https://open.spotify.com/track/2kw0EpoNg4LzYV6Sui31jM"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Optimistic",
+        "url": "https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf"
+      },
+      "artists": [
+        {
+          "name": "Max Haymer",
+          "url": "https://open.spotify.com/artist/3Of3GFdC138OHGTMfC7JPP"
+        }
+      ],
+      "duration_ms": 369876,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Ships With Tattooed Sails",
-        "url": "https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9"
-      },
-      "artists": [
-        {
-          "name": "Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat",
-          "url": "https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP"
-        }
-      ],
-      "duration_ms": 390613,
-      "name": "It's Alright Ma (I'm Only Bleeding)",
-      "url": "https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Yester-Me, Yester-You, Yesterday",
         "url": "https://open.spotify.com/album/0mimWvWVLStmf5bMWepQbs"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 292249,
       "name": "Yester-Me, Yester-You, Yesterday",
       "url": "https://open.spotify.com/track/6d4dTwuc2FwcVLJbJvdERg"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Ships With Tattooed Sails",
+        "url": "https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9"
+      },
+      "artists": [
+        {
+          "name": "Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat",
+          "url": "https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP"
+        }
+      ],
+      "duration_ms": 390613,
+      "name": "It's Alright Ma (I'm Only Bleeding)",
+      "url": "https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu"
     }
   ],
   "unique_name": "Jazz Covers",

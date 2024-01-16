@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 
 > Beat distraction and stay on task with these bird sounds to for your \(home\) office workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,866 likes - 38 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,909 likes - 38 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 | 4 | [Early Summer Birds](https://open.spotify.com/track/3tvAaXiUZAyMPae7NZFGGI) | [S\. Key](https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3) | [Rain Forest Bird Sounds](https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c) | 2:10 |
 | 5 | [Spring Birds In The Forest](https://open.spotify.com/track/3DkJyqUOfk9eFg2f6Maqgw) | [Birds 3AM](https://open.spotify.com/artist/3zLSiXVBvq7O77m2aarmYq) | [Calming Bird Sounds](https://open.spotify.com/album/5ac2sp1AcWHGzhwrqHpZzJ) | 3:00 |
 | 6 | [Forest Bird](https://open.spotify.com/track/0GC8vCFKNHjC2myLf1o8v2) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Birds \- vol.1](https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P) | 3:02 |
-| 7 | [Still River \- Green Noise](https://open.spotify.com/track/76t29X9hSeFcZMh4ZOxPF0) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:12 |
-| 8 | [Beauty\-Bird](https://open.spotify.com/track/63bDLpi7dByFnHFQEAMCh7) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:40 |
-| 9 | [Birds at the Cemetery](https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:55 |
+| 7 | [Beauty\-Bird](https://open.spotify.com/track/63bDLpi7dByFnHFQEAMCh7) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:40 |
+| 8 | [Birds at the Cemetery](https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:55 |
+| 9 | [Still River \- Green Noise](https://open.spotify.com/track/76t29X9hSeFcZMh4ZOxPF0) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:12 |
 | 10 | [Morning Bird Symphony](https://open.spotify.com/track/3H33Uelf6KheaJQphvrYFz) | [Scandinavian Birds](https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN) | [Morning Bird Symphony](https://open.spotify.com/album/2815kNCpMBJS3tP20pmwFh) | 2:03 |
 | 11 | [L'oiseau Aime La Pluie](https://open.spotify.com/track/4Pvq68Y0K9k6dYkyP4HBcv) | [Collectes De Pluie](https://open.spotify.com/artist/1O6c8WWoJVPu47KaW85RD6) | [L'oiseau Aime La Pluie](https://open.spotify.com/album/2Vf6f8vExOISe6piYtOeNd) | 2:16 |
 | 12 | [3am Midsummer Birds](https://open.spotify.com/track/4cEsckil1CQNUFuPczf6qg) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:40 |
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 | 16 | [Morning in the Mist](https://open.spotify.com/track/0mmPcIKxcOliobshml5PAM) | [Wonders of Nature](https://open.spotify.com/artist/76h7eP0k2WHIUN2MkppeVJ) | [Woodlands](https://open.spotify.com/album/47leOhbWO2zJzXJsV6b4Vq) | 4:31 |
 | 17 | [In the Midst of Nature](https://open.spotify.com/track/4M9fhkESWwMVlTQqJpHJUw) | [Neoaves](https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK) | [In the Midst of Nature](https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N) | 2:01 |
 | 18 | [A Chit\-Chat With Nature](https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains](https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9) | 4:10 |
-| 19 | [Early Birds Light Wind](https://open.spotify.com/track/2nwyDCSpu0vXIxN0IbzyHJ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:37 |
-| 20 | [Evening Twitter](https://open.spotify.com/track/56IQIsik0oPXERemlFafdu) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Birds \- vol.1](https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P) | 2:52 |
-| 21 | [Soothing Morning Birds](https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 2](https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk) | 3:08 |
+| 19 | [Soothing Morning Birds](https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 2](https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk) | 3:08 |
+| 20 | [Early Birds Light Wind](https://open.spotify.com/track/2nwyDCSpu0vXIxN0IbzyHJ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:37 |
+| 21 | [Evening Twitter](https://open.spotify.com/track/56IQIsik0oPXERemlFafdu) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Birds \- vol.1](https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P) | 2:52 |
 | 22 | [Kaupe Spring Birds](https://open.spotify.com/track/6ajC6vMrdlIN3lO6cgaaiK) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Soothing Birds](https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j) | 2:38 |
 | 23 | [Birds Chorus](https://open.spotify.com/track/4jf5KQAc8AUqgZ1qIHYmIz) | [Nature Sounds For Sleeping](https://open.spotify.com/artist/6Ph6DcY2qlTEHtyDYodJLO) | [Birds Chorus](https://open.spotify.com/album/4BFzcd0oGaWid53qU2MD4R) | 2:13 |
 | 24 | [Blackbird Singing](https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:46 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 | 37 | [Lake Side Bird Sound](https://open.spotify.com/track/6crMJIJMG0BTz9wTlfnzQG) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Lake Side Bird Sound](https://open.spotify.com/album/4HYEHOfBqQCE5yVtphnh3u) | 2:15 |
 | 38 | [When calm comes](https://open.spotify.com/track/5COk5epl3t3rGjivwQVY9U) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [When Calm Comes](https://open.spotify.com/album/7DFoMVRYA9Mhmp1bqN3gdu) | 2:33 |
 
-Snapshot ID: `MCw0ODE5NDM2Yzk3YjcxYjg0MDQ0YzQxMTI5NjdjOGFmMGE1ZmEyMGY4`
+Snapshot ID: `MCw1YmY4OTQyNmY0MzAzOGY0ODY4Mjc1YjZiNmZmMjdmNDI2MWFmNjky`

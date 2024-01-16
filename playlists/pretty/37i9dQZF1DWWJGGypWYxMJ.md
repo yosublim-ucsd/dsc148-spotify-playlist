@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 
 > pov, you ask for your Martini shaken...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,249 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,250 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 5 | [Vendetta](https://open.spotify.com/track/4PfxDhRSuZa05eQei1aVoZ) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Traditori Di Tutti \(Deluxe Edition\)](https://open.spotify.com/album/2u0cEPDOm45kocGJuNCTFs) | 3:24 |
 | 6 | [On Her Majesty's Secret Service \- Remastered](https://open.spotify.com/track/3M0zi8iD2KRzY71XcGFUpE) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 2:35 |
 | 7 | [Interpol](https://open.spotify.com/track/1dgEYrpCzCnylUhWgrGSo3) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [Voir Venise et crever \(Agent spécial à Venise\)](https://open.spotify.com/album/2RHEPodR5oGoaGj0wqqzSP) | 1:16 |
-| 8 | [Liquid Sunshine](https://open.spotify.com/track/5rXMjn480P9q0aomXjmj0Q) | [John Cameron](https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk) | [Kpm 1000 Series: Voices in Harmony](https://open.spotify.com/album/3VmCC7JnGsOpPf2PncZX8o) | 2:59 |
-| 9 | [Left Bank Two \- \[Gallery Theme from "Vision On"](https://open.spotify.com/track/4EVjJAF4v519GjGk3rsJ7Z) | [Wayne Hill](https://open.spotify.com/artist/1wDTppICsOJwrAAaROEqaY) | [Top Dog \(A Retrospective Of Classic TV & Radio Themes 1960\-1982\)](https://open.spotify.com/album/2d286hNlRXgpqtTxXWjgiD) | 2:29 |
+| 8 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 |
+| 9 | [Liquid Sunshine](https://open.spotify.com/track/5rXMjn480P9q0aomXjmj0Q) | [John Cameron](https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk) | [Kpm 1000 Series: Voices in Harmony](https://open.spotify.com/album/3VmCC7JnGsOpPf2PncZX8o) | 2:59 |
 | 10 | [Get Carter Theme \- Alternative Mix 1](https://open.spotify.com/track/5AVTxDtDTPvvIlABb6mZVQ) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV) | [Get Carter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1WifKFCV4FXukva8WWNiWV) | 3:40 |
-| 11 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 |
-| 12 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 |
+| 11 | [Left Bank Two \- \[Gallery Theme from "Vision On"](https://open.spotify.com/track/4EVjJAF4v519GjGk3rsJ7Z) | [Wayne Hill](https://open.spotify.com/artist/1wDTppICsOJwrAAaROEqaY) | [Top Dog \(A Retrospective Of Classic TV & Radio Themes 1960\-1982\)](https://open.spotify.com/album/2d286hNlRXgpqtTxXWjgiD) | 2:29 |
+| 12 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 |
 | 13 | [Mermaid](https://open.spotify.com/track/4LcogSQgiNo6rtCG70emJj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 3:56 |
 | 14 | [Morning Broadway](https://open.spotify.com/track/6X0ufegIaeHxuShNKKmIGQ) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH), [The KPM Orchestra](https://open.spotify.com/artist/4kOSJhA1mfQHM6UDNJWjp1) | [Kpm 1000 Series: Chorus and Orchestra](https://open.spotify.com/album/6FdX6HqSa45LRBndboUfS7) | 2:05 |
 | 15 | [Thunderball \(Main Title\) \- Remastered](https://open.spotify.com/track/4LU5jR2Vmj0lZiA8tHXIia) | [Don Black](https://open.spotify.com/artist/63KnR8pniNe7l75qr1GK7Q), [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz), [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Thunderball](https://open.spotify.com/album/3VEq0jeSYz3Yzh2ibaqryN) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 49 | [Snowman's Stomp](https://open.spotify.com/track/0SSY1p3h2sQQ2QCz5BEVWk) | [Steve Gray](https://open.spotify.com/artist/2ITKeobWesOAd2RVpagAKu) | [Kpm 1000 Series: Light Intimations IV](https://open.spotify.com/album/3ISBOxXyGunLSTi2L0tDn7) | 2:27 |
 | 50 | [Exclusive Blend](https://open.spotify.com/track/64ZdWos9KcvgKOK9dCirVI) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 3:24 |
 
-Snapshot ID: `MCxhMWNiZDcxMTkwN2E4MGM1NzRiZmEwMmU3MmU2YmEyZDMxMDIxOTI4`
+Snapshot ID: `MCw2MTEwYWJlZGRjM2I4NmRlNjcxNDYwMzQyYjM2Y2JjNDliNzZhMjg4`

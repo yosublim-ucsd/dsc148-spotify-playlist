@@ -4,7 +4,7 @@
 
 > Float away on heady orchestrations and haunting harmonies...
 
-224 songs - 14 hr 24 min
+225 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bones](https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Bones](https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU) | 3:50 | 2021-10-29 |  |
 | [Born & Raised](https://open.spotify.com/track/6hDdB1lTYooDXpEe4xvHt4) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [The Great Plains](https://open.spotify.com/album/057uW2vkxmK1dDyBX0MyFX) | 3:51 | 2021-10-29 | 2022-07-26 |
 | [Branscombe](https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx) | [Branscombe](https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU) | 7:19 | 2021-10-29 | 2024-01-06 |
+| [Branscombe](https://open.spotify.com/track/5BHYShH4OT7lREGxsyYcsP) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx) | [Branscombe](https://open.spotify.com/album/6vO858dUxPCg994jjTGaBP) | 7:19 | 2023-10-20 |  |
 | [Branscombe](https://open.spotify.com/track/0QsHR0M7pbrVIVwTYKUM18) | [Wovoka Gentle](https://open.spotify.com/artist/2yDN6MgOm6D8ZMNqCkJ3XJ) | [Branscombe](https://open.spotify.com/album/5QHDhRFO7iz3mOyJWck9S1) | 7:19 | 2021-10-29 | 2022-07-29 |
 | [Bridge](https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [Open Season \(Deluxe Edition\)](https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw) | 2:30 | 2021-10-29 |  |
 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 | 2021-10-29 |  |
@@ -172,7 +173,7 @@
 | [Shiftshaping](https://open.spotify.com/track/7HlaWdYSKYaxdBRvCBdqPk) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Accompany](https://open.spotify.com/album/7MahDOJx7kRezzio0EFO5D) | 3:41 | 2023-10-20 |  |
 | [Silvery](https://open.spotify.com/track/5NrXVZfQUjjGSnzrTbGblf) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn) | [Silvery](https://open.spotify.com/album/1UlMu75tgR0VeeKOaJmttV) | 3:52 | 2021-10-29 | 2022-07-29 |
 | [Silvery](https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 3:52 | 2021-10-29 |  |
-| [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 | 2021-10-29 |  |
+| [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 | 2021-10-29 | 2024-01-16 |
 | [Smother](https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2Y3kTeMHY7GZAvyNwV1jIH) | 4:00 | 2021-10-29 | 2022-07-29 |
 | [Smother](https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:00 | 2021-10-29 | 2022-10-13 |
 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 | 2021-10-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 
 > This is Esteban Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,043 likes - 38 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,052 likes - 38 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 | 10 | [Con Un Presidente](https://open.spotify.com/track/2n953vWBOzx3m40zPBxjVQ) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:36 |
 | 11 | [Diablitos](https://open.spotify.com/track/2cyXIrnsHJUN0HoRaf4HyR) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:15 |
 | 12 | [Noche de Desmadre](https://open.spotify.com/track/0sTjY3KgI4zsabA6XYRxxG) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Noche de Desmadre](https://open.spotify.com/album/0pJRvRrnlEMn6kP9oNcvhu) | 2:39 |
-| 13 | [Que Tiene de Malo](https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:51 |
-| 14 | [En Mis Dedos un Gallito](https://open.spotify.com/track/0w05EANAQs2Cf3xj5daRPY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [En Mis Dedos un Gallito](https://open.spotify.com/album/6MntOYfLUMaSqfabw1KfVb) | 3:08 |
+| 13 | [En Mis Dedos un Gallito](https://open.spotify.com/track/0w05EANAQs2Cf3xj5daRPY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [En Mis Dedos un Gallito](https://open.spotify.com/album/6MntOYfLUMaSqfabw1KfVb) | 3:08 |
+| 14 | [Que Tiene de Malo](https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:51 |
 | 15 | [La Güera](https://open.spotify.com/track/6QedahwFMlsiWRILwtZJUG) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:57 |
 | 16 | [Tirando La H](https://open.spotify.com/track/1CSPS0XfIYL6O1sB3veINs) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Corridos Tumbados Vol\. 2](https://open.spotify.com/album/1tpjN0LOyoLBT2WEhB2EUW) | 2:36 |
 | 17 | [Mil Horas \- En Vivo](https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 2:49 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 | 37 | [Frostix](https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:48 |
 | 38 | [Intro](https://open.spotify.com/track/453sDOvAWU4QVvGegD46du) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:32 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDA4YjExYTgzZTg3OTY2ZWQzZDZmMTcxNTEzNjU2MmIzOQ==`
+Snapshot ID: `Mjg0MjIwMTEsMDAwMDAwMDAyMTA0YTBmYmI1Y2UwNjk2YzI1YTkzM2Q4NWZkMTAwYw==`

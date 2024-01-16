@@ -5666,7 +5666,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 174819,
       "name": "Cabeza",
       "url": "https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit"
@@ -5728,6 +5728,28 @@
       "duration_ms": 200706,
       "name": "Call on me (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2RO4aPByijQUqBZhYm1apz"
+    },
+    {
+      "album": {
+        "name": "HEARTBREAK LIFE II",
+        "url": "https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o"
+      },
+      "artists": [
+        {
+          "name": "Kaza",
+          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149133,
+      "name": "CALMANT",
+      "url": "https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq"
     },
     {
       "album": {
@@ -8468,7 +8490,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 169640,
       "name": "CRASH <3",
       "url": "https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6"
@@ -17988,7 +18010,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 196546,
       "name": "Jane Birkin",
       "url": "https://open.spotify.com/track/4xsVpeTSTh64G82qf2HHaF"
@@ -31673,6 +31695,28 @@
     },
     {
       "album": {
+        "name": "POISON",
+        "url": "https://open.spotify.com/album/619vWtlvr2x1MopmkxmMvQ"
+      },
+      "artists": [
+        {
+          "name": "Dospunto",
+          "url": "https://open.spotify.com/artist/74I7IwjAcqaomlLrjNRqvD"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189626,
+      "name": "POISON",
+      "url": "https://open.spotify.com/track/3Z29095berlRpJ3R31ZXmD"
+    },
+    {
+      "album": {
         "name": "Polaroid #1 - Bless\u00e9",
         "url": "https://open.spotify.com/album/5CEiYd5axZBToAntA9BdZs"
       },
@@ -38433,7 +38477,7 @@
     },
     {
       "album": {
-        "name": "Temps en temps (feat. Kore)",
+        "name": "Temps en temps",
         "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
       },
       "artists": [
@@ -38444,17 +38488,13 @@
         {
           "name": "Koba LaD",
           "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        },
-        {
-          "name": "Kore",
-          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
         }
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153649,
-      "name": "Temps en temps (feat. Kore)",
+      "name": "Temps en temps",
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
     },
     {
@@ -38916,6 +38956,28 @@
       "duration_ms": 191781,
       "name": "Tombeau - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0jx14YrpPfyZJIZCRR9alV"
+    },
+    {
+      "album": {
+        "name": "Ton ami",
+        "url": "https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "Ton ami",
+      "url": "https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB"
     },
     {
       "album": {

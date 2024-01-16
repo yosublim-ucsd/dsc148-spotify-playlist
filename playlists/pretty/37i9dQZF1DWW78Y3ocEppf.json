@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43219,
+  "num_followers": 43225,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjA2OWZhZTg4NGNmOTEzY2Y2NmI2ZjIxYzYzNTdjZmVjMGE5Y2U2",
+  "snapshot_id": "MCxjYjQwOWZkMDdjOTVkZDY1NGUzZjU4NGM1ZTllZjc1MjJlYjMyN2I0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -273,6 +273,22 @@
       "url": "https://open.spotify.com/track/5VNkW4LzMPGbFRjGiEb7Oy"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Since I Have A Lover",
@@ -291,22 +307,6 @@
       "duration_ms": 178333,
       "name": "Temporary (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Fridayy",
-        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 183705,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Love Scars II",
@@ -385,6 +369,42 @@
       "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
     },
     {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Soulection Takeover: 2K23 Edition",
+        "url": "https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Soulection",
+          "url": "https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft"
+        }
+      ],
+      "duration_ms": 110400,
+      "name": "Step 2 Me",
+      "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 183705,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
+    },
+    {
       "added_at": "2023-07-14 17:29:23",
       "album": {
         "name": "Down Bad",
@@ -399,22 +419,6 @@
       "duration_ms": 175348,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 197094,
-      "name": "Constant Bullshit",
-      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -437,24 +441,20 @@
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Soulection Takeover: 2K23 Edition",
-        "url": "https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1"
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
       "artists": [
         {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Soulection",
-          "url": "https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 110400,
-      "name": "Step 2 Me",
-      "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
+      "duration_ms": 197094,
+      "name": "Constant Bullshit",
+      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Hardlife",
-      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
-    },
-    {
       "added_at": "2023-03-03 05:16:10",
       "album": {
         "name": "Overrated",
@@ -639,6 +623,22 @@
       "duration_ms": 247873,
       "name": "Pick Up (feat. Jacquees and Fabolous)",
       "url": "https://open.spotify.com/track/6fWbDYXfnAPJWfgzWrRaW0"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Hardlife",
+      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Grudges",
-        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 213736,
-      "name": "LMK",
-      "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "BUT IF iiM HONEST",
@@ -741,22 +725,6 @@
       "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 162506,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
-    },
-    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "it's not you, it's me",
@@ -771,6 +739,38 @@
       "duration_ms": 120493,
       "name": "cascade road",
       "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "Grudges",
+        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 213736,
+      "name": "LMK",
+      "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 162506,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
     },
     {
-      "added_at": "2023-05-05 04:18:58",
-      "album": {
-        "name": "Sadboy, Vol. 1",
-        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 130021,
-      "name": "Sadboy",
-      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
-    },
-    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "Pretty Conversation",
@@ -1151,6 +1135,22 @@
       "duration_ms": 144000,
       "name": "Man on Fire",
       "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
+    },
+    {
+      "added_at": "2023-05-05 04:18:58",
+      "album": {
+        "name": "Sadboy, Vol. 1",
+        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 130021,
+      "name": "Sadboy",
+      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1183,22 +1183,6 @@
       "duration_ms": 198888,
       "name": "How Many",
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Kissing On Your Tattoos",
-        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 153599,
-      "name": "Kissing On Your Tattoos",
-      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
       "added_at": "2022-11-04 06:34:53",
@@ -1251,6 +1235,22 @@
       "duration_ms": 184736,
       "name": "Presence",
       "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Kissing On Your Tattoos",
+        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 153599,
+      "name": "Kissing On Your Tattoos",
+      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1409,6 +1409,22 @@
       "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
     },
     {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Pretty Ass Bish",
+        "url": "https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 143743,
+      "name": "Pretty Ass Bish",
+      "url": "https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8"
+    },
+    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Take II",
@@ -1443,22 +1459,6 @@
       "duration_ms": 140474,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No"
-    },
-    {
-      "added_at": "2023-07-28 08:00:10",
-      "album": {
-        "name": "Pretty Ass Bish",
-        "url": "https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 143743,
-      "name": "Pretty Ass Bish",
-      "url": "https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "From Me, To Me",
-        "url": "https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI"
-      },
-      "artists": [
-        {
-          "name": "Nelccia",
-          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
-        }
-      ],
-      "duration_ms": 196487,
-      "name": "Opps",
-      "url": "https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg"
-    },
-    {
       "added_at": "2023-09-01 04:55:52",
       "album": {
         "name": "five more",
@@ -1559,6 +1543,22 @@
       "duration_ms": 165428,
       "name": "five more",
       "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "From Me, To Me",
+        "url": "https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI"
+      },
+      "artists": [
+        {
+          "name": "Nelccia",
+          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+        }
+      ],
+      "duration_ms": 196487,
+      "name": "Opps",
+      "url": "https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1629,6 +1629,22 @@
       "url": "https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj"
     },
     {
+      "added_at": "2023-09-01 04:55:52",
+      "album": {
+        "name": "I'M THE PROBLEM",
+        "url": "https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr"
+      },
+      "artists": [
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        }
+      ],
+      "duration_ms": 249917,
+      "name": "Blame Yourself",
+      "url": "https://open.spotify.com/track/6tgy8rVvOzWDQxPxq3HwIu"
+    },
+    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "WNTRS OUTCAST",
@@ -1661,20 +1677,20 @@
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
-      "added_at": "2023-09-01 04:55:52",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "I'M THE PROBLEM",
-        "url": "https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr"
+        "name": "LOVERS WAVE VOL. 1",
+        "url": "https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B"
       },
       "artists": [
         {
-          "name": "K. Michelle",
-          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+          "name": "Lehla Samia",
+          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
         }
       ],
-      "duration_ms": 249917,
-      "name": "Blame Yourself",
-      "url": "https://open.spotify.com/track/6tgy8rVvOzWDQxPxq3HwIu"
+      "duration_ms": 108588,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1697,20 +1713,20 @@
       "url": "https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "LOVERS WAVE VOL. 1",
-        "url": "https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B"
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/6fBKjA7GfxT6PoEsT3zIHe"
       },
       "artists": [
         {
-          "name": "Lehla Samia",
-          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
         }
       ],
-      "duration_ms": 108588,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R"
+      "duration_ms": 168026,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/6NtlgDpSBBWWmY51DWcTfp"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1743,22 +1759,6 @@
       "duration_ms": 156624,
       "name": "ISN'T THE SAME",
       "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/6fBKjA7GfxT6PoEsT3zIHe"
-      },
-      "artists": [
-        {
-          "name": "Journey Montana",
-          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/6NtlgDpSBBWWmY51DWcTfp"
     }
   ],
   "unique_name": "Some Kinda Way",

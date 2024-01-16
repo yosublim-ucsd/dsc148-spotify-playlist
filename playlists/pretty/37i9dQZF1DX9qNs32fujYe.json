@@ -1,12 +1,12 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Judas Priest",
-  "num_followers": 1197529,
+  "num_followers": 1197779,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTcwNTU5MjY0YmE3NGNhMjIzMDc4MDYyZGY5MmE5OWY2OTY1ZGE4",
+  "snapshot_id": "MCxlOWExNzkzYTQxMzJkMWVmODM5Y2E1MDdkNjIyNmFhMjE5OTc3NTUy",
   "tracks": [
     {
       "added_at": "2023-12-06 03:08:55",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 293183,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+      "duration_ms": 214760,
+      "name": "My Own Summer (Shove It)",
+      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 214760,
-      "name": "My Own Summer (Shove It)",
-      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
+      "duration_ms": 293183,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 254466,
-      "name": "Custer",
-      "url": "https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf"
+      "duration_ms": 315120,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
       "artists": [
         {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 315120,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
+      "duration_ms": 254466,
+      "name": "Custer",
+      "url": "https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Wait and Bleed",
+      "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
         "name": "Master of Puppets (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 147840,
-      "name": "Wait and Bleed",
-      "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -443,22 +459,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Metal Health",
-        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
-      },
-      "artists": [
-        {
-          "name": "Quiet Riot",
-          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Cum on Feel the Noize",
-      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "Spotlight",
         "url": "https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW"
       },
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+        "name": "Metal Health",
+        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
       },
       "artists": [
         {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+          "name": "Quiet Riot",
+          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
         }
       ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+      "duration_ms": 290960,
+      "name": "Cum on Feel the Noize",
+      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 283186,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 269466,
       "name": "We\u2019ll Be Back",
       "url": "https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 283186,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Scars (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
-      },
-      "artists": [
-        {
-          "name": "Soil",
-          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "See What\u2019s On The Inside",
         "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 228977,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Scars (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
+      },
+      "artists": [
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Jomsviking",
-        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "Symbolic (Remastered Version)",
         "url": "https://open.spotify.com/album/1QgFthItpbxvMXlgGjvhBR"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 392800,
       "name": "Symbolic",
       "url": "https://open.spotify.com/track/0dpFb4qv92TE9R00Lq4SAW"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Jomsviking",
+        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "State Of Unrest",
-        "url": "https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        }
-      ],
-      "duration_ms": 187894,
-      "name": "State Of Unrest",
-      "url": "https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "The Ghost Inside",
         "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 242453,
       "name": "Princess of the Night",
       "url": "https://open.spotify.com/track/2Quz6deYulrojpI9Bi3lXl"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "State Of Unrest",
+        "url": "https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 187894,
+      "name": "State Of Unrest",
+      "url": "https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Shrine (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Overthrone",
-      "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "From The Cradle To Enslave",
         "url": "https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 397160,
       "name": "From the Cradle to Enslave",
       "url": "https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Shrine (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Overthrone",
+      "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2359,6 +2359,22 @@
       "duration_ms": 237744,
       "name": "The Fairies Dance",
       "url": "https://open.spotify.com/track/4z4ZxpLwW5iw34kPLFk9BD"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Divisive",
+        "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2439,22 +2455,6 @@
       "duration_ms": 300320,
       "name": "Gloryhammer",
       "url": "https://open.spotify.com/track/4vyrKBuBfgv390ItIC75Sw"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
-        "name": "Divisive",
-        "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 238109,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "The Path",
-        "url": "https://open.spotify.com/album/48fYiT8XJSg4k77QQDS89q"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 247251,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/2jS0i4Y5dCqzZ36GUEP7V0"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "Viva La Victoria",
         "url": "https://open.spotify.com/album/22VcmOjOj8Dx7GBcYmFu8A"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 224666,
       "name": "Sainted by the Storm",
       "url": "https://open.spotify.com/track/5zlUrvdz6o5tIC2bBg31iZ"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/48fYiT8XJSg4k77QQDS89q"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 247251,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/2jS0i4Y5dCqzZ36GUEP7V0"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2667,6 +2667,22 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
+        "name": "Scum",
+        "url": "https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu"
+      },
+      "artists": [
+        {
+          "name": "Napalm Death",
+          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "Scum",
+      "url": "https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
         "name": "Creatures of the Dark Realm",
         "url": "https://open.spotify.com/album/6VF4wS35nDPKtBsqjbdTVC"
       },
@@ -2679,6 +2695,22 @@
       "duration_ms": 248133,
       "name": "Creatures of the Dark Realm",
       "url": "https://open.spotify.com/track/1fG6E0ydGzxpyyUcgkfspJ"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Masters of War",
+        "url": "https://open.spotify.com/album/0w8qn4MsyCw0d8i98QiZTh"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 274202,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/4Avnu5FR70qWD9VxandTWe"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2711,38 +2743,6 @@
       "duration_ms": 202453,
       "name": "Roses on Your Grave",
       "url": "https://open.spotify.com/track/2xMEKnHsZLusGWXSCaKkh9"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
-        "name": "Scum",
-        "url": "https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu"
-      },
-      "artists": [
-        {
-          "name": "Napalm Death",
-          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "Scum",
-      "url": "https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
-        "name": "Masters of War",
-        "url": "https://open.spotify.com/album/0w8qn4MsyCw0d8i98QiZTh"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 274202,
-      "name": "Masters of War",
-      "url": "https://open.spotify.com/track/4Avnu5FR70qWD9VxandTWe"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2783,22 +2783,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Mandrake",
-        "url": "https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5"
-      },
-      "artists": [
-        {
-          "name": "Edguy",
-          "url": "https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu"
-        }
-      ],
-      "duration_ms": 431693,
-      "name": "Tears of a Mandrake",
-      "url": "https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "Chaosphere (Reloaded)",
         "url": "https://open.spotify.com/album/6iqYmBmkI5UcCsTKmhCqSw"
       },
@@ -2815,18 +2799,18 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Horns For A Halo",
-        "url": "https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if"
+        "name": "Mandrake",
+        "url": "https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5"
       },
       "artists": [
         {
-          "name": "Elegant Weapons",
-          "url": "https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ"
+          "name": "Edguy",
+          "url": "https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu"
         }
       ],
-      "duration_ms": 321440,
-      "name": "Do Or Die",
-      "url": "https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM"
+      "duration_ms": 431693,
+      "name": "Tears of a Mandrake",
+      "url": "https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2847,6 +2831,22 @@
       "duration_ms": 173174,
       "name": "Holy Roller (feat. Ryo Kinoshita)",
       "url": "https://open.spotify.com/track/6h4wWGxBP0NMPiyizGBGBM"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Horns For A Halo",
+        "url": "https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if"
+      },
+      "artists": [
+        {
+          "name": "Elegant Weapons",
+          "url": "https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ"
+        }
+      ],
+      "duration_ms": 321440,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2931,22 +2931,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "I Left My License in the Future",
-        "url": "https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT"
-      },
-      "artists": [
-        {
-          "name": "Thundermother",
-          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
-        }
-      ],
-      "duration_ms": 212635,
-      "name": "I Left My License in the Future",
-      "url": "https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "The Moon and the Fool",
         "url": "https://open.spotify.com/album/5MQrXXhEaswOBKULG4qLX6"
       },
@@ -2959,6 +2943,22 @@
       "duration_ms": 241560,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/1taz6QC91MFJmODsf7aQsb"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "I Left My License in the Future",
+        "url": "https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "duration_ms": 212635,
+      "name": "I Left My License in the Future",
+      "url": "https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2983,22 +2983,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Straight Out Of Hell (2020 Remaster)",
-        "url": "https://open.spotify.com/album/7yZlkj19iiyt1PndidNtur"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Waiting For The Thunder - 2020 Remaster",
-      "url": "https://open.spotify.com/track/6y83RRW0DtYFtGwIBQFSzl"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "Blackwater Park",
         "url": "https://open.spotify.com/album/3CCkWrqhWcKU7qXK3ooEEo"
       },
@@ -3011,6 +2995,22 @@
       "duration_ms": 652040,
       "name": "The Drapery Falls",
       "url": "https://open.spotify.com/track/1kLXoAje5Z4mlZOAFgZZj3"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Straight Out Of Hell (2020 Remaster)",
+        "url": "https://open.spotify.com/album/7yZlkj19iiyt1PndidNtur"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Waiting For The Thunder - 2020 Remaster",
+      "url": "https://open.spotify.com/track/6y83RRW0DtYFtGwIBQFSzl"
     },
     {
       "added_at": "2023-12-06 03:08:55",

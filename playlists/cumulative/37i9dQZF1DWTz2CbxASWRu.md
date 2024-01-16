@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-402 songs - 1 day 5 hr 36 min
+403 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Moussolou](https://open.spotify.com/track/2jkZYhTXDk83BOaRTR8QxH) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Moussolou](https://open.spotify.com/album/792ZgWQIn49vY1iv970M26) | 5:14 | 2023-07-10 | 2023-11-04 |
 | [Moussolou](https://open.spotify.com/track/5IQtSy70lutizrFGdOH9QJ) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Moussolou](https://open.spotify.com/album/1FXBNl5MIvP4wm7D3MgRDm) | 5:14 | 2023-07-10 |  |
 | [Mr Tembo](https://open.spotify.com/track/5oLOgSExVFBBzYTXVblcwu) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Everyday Robots](https://open.spotify.com/album/5SzhltQSSi1HUMi5cveZIZ) | 3:43 | 2023-07-10 |  |
-| [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 | 2023-07-10 |  |
+| [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 | 2023-07-10 | 2024-01-16 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2023-07-10 |  |
 | [Mustt Mustt \- Massive Attack Remix \- Edit](https://open.spotify.com/track/4Bu3LxBpk3Mf80M0kVFdpU) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mustt Mustt \(Massive Attack Remix\)](https://open.spotify.com/album/1JdcPYsnzYzG0uAPq7u1Ie) | 3:52 | 2023-07-10 |  |
 | [Na Kolonia](https://open.spotify.com/track/27vo1mDwmlSwf8n6Kdg2d7) | [José Carlos Schwarz & Le Cobiana Djazz](https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO) | [Lua Ki Di Nos](https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm) | 5:40 | 2023-07-10 |  |
@@ -351,6 +351,7 @@
 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 | 2023-07-10 |  |
 | [Te Ao Mārama / Solar Power](https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Te Ao Mārama](https://open.spotify.com/album/0fPuf1jv42CH5okF6MjKmE) | 3:10 | 2023-07-10 |  |
 | [Tehigren \(The Trees \)](https://open.spotify.com/track/1KgYMF5HpRGTD9oDt6h4di) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/1lfByGwwrcnxIHig1xiuHY) | 4:31 | 2023-11-13 | 2023-12-30 |
+| [Tek Time](https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 7:00 | 2023-12-15 |  |
 | [Tek Time](https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 7:03 | 2023-07-10 | 2023-12-23 |
 | [Tendme](https://open.spotify.com/track/3pIC8loAxKvT9Q3rPPaxVZ) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [The Father of Libyan Reggae \(Habibi Funk 024\)](https://open.spotify.com/album/0SmSMo59rx6TuI0B8lsQuZ) | 4:39 | 2023-07-10 |  |
 | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/track/6Fw6Ok3z54zNDNSBPeVyxN) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/album/24KGXmJsYEnqLghXdUK5Dq) | 4:39 | 2023-07-10 | 2023-10-09 |

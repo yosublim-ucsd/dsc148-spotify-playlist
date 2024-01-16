@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,392,562 likes - 100 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,392,517 likes - 100 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 2 | [douji feva](https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [douji feva](https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5) | 1:45 |
 | 3 | [Diamondz n Roses \(Back It Up!\)](https://open.spotify.com/track/1kJSda5yj2yM7NLXItqgZD) | [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Back It Up! \(Diamondz n Roses\)](https://open.spotify.com/album/5LIRiZrStdRIY3xGL4qQUL) | 1:33 |
 | 4 | [40](https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd), [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [40](https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt) | 1:04 |
-| 5 | [Africa](https://open.spotify.com/track/6ePxkskGVXrhMNFBKpenGX) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Africa](https://open.spotify.com/album/2xJBXWvEMg9lPN08qmERdu) | 1:54 |
+| 5 | [Ukraine \- Let Me Talk Afro Drill Mix](https://open.spotify.com/track/1EHkclXJgi9XKP9xbp51hk) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Slimenese](https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB) | [Ukraine \(Let Me Talk Afro Drill Mix\)](https://open.spotify.com/album/0W5rqpGSQzFT0mkfvuoKII) | 1:55 |
 | 6 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 |
 | 7 | [MOVE YO BODY \- sped up](https://open.spotify.com/track/1Z3egeO5qIoHXN5BkZgIlu) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/0HLkU4vM6OC799fhrQaf3P) | 1:57 |
 | 8 | [TANGO](https://open.spotify.com/track/05Q6BW1kQSEIwFLuLd5IUd) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [TANGO](https://open.spotify.com/album/75QPIPMelRS8Ahv7bbxwHh) | 1:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [melanin](https://open.spotify.com/track/00GgVbUzNfwknUJN0XSuh1) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [22Joeyy](https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja) | 2:20 |
 | 100 | [CODEINE CRAZY](https://open.spotify.com/track/7FoNUT1v6tCzGna2yZvVY3) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [CODEINE CRAZY](https://open.spotify.com/album/4tNzC4wdMxmqFQQ3ZAOdIU) | 2:37 |
 
-Snapshot ID: `MCw0NTQ0MzY1OGIyNGVjODkzMjQ4NDc5M2I5YjRkOGFmZTAwYzhjYWQ5`
+Snapshot ID: `MCwyMWRiMDZjYmE1YTcxMWQwOWJlZmIyMWVjZGViY2JmZmJjNWZjZGJk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,375 likes - 30 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,386 likes - 30 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 29 | [screenshots](https://open.spotify.com/track/4JQZA2kECkkb2vESETGsIb) | [yukasong](https://open.spotify.com/artist/7aWbDsC6sv6NyIPT4244wN) | [I am](https://open.spotify.com/album/5bguZf8vraDQ3Pw2ZTAoLQ) | 4:12 |
 | 30 | [おひとりさま天国](https://open.spotify.com/track/22e9NP0TRCFhOGsgBnl6Ua) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [おひとりさま天国](https://open.spotify.com/album/2427q8y1vly3VSy6Wfos3K) | 4:15 |
 
-Snapshot ID: `MCwxNGE2OGFhMTllZGI4MzVjOWVhMTc2MjM3ZTYyMzMwOGY5ZGQ0NGJm`
+Snapshot ID: `MCw5OTkwOWMwMzFmMzlkY2U2YmI0ZDFlMzIyMmY3ZDhjMDY3M2E4ODU5`

@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 1179978,
+  "2024-01-16": 1180172,
   "date_first_scraped": "2021-12-30",
   "description": "We hear you.",
   "name": "idk.",
@@ -2767,6 +2767,24 @@
       "duration_ms": 205510,
       "name": "Empty Room",
       "url": "https://open.spotify.com/track/2YUjJiHEhbb7eO9OWHdarW"
+    },
+    {
+      "album": {
+        "name": "Covered In Hether",
+        "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160675,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5fayurvS00m3T7fcXBkb7e"
     },
     {
       "album": {
@@ -8655,7 +8673,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"

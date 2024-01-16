@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1179978,
+  "num_followers": 1180172,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWY5MjI3Zjg3YjY3YjUwMThlNjgzMDljMTA2MmI0MDcxNjkzMjdi",
+  "snapshot_id": "MCw2NjY2NTM3M2Q5MGEyMDEwOGI5NmUzZmFhZTc5MzI1NDc5MWIzYjYx",
   "tracks": [
     {
       "added_at": "2023-09-29 20:20:52",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2024-01-09 23:35:49",
       "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+        "name": "Fall out of Line",
+        "url": "https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "He Is We",
+          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
         }
       ],
-      "duration_ms": 197733,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n"
+      "duration_ms": 200059,
+      "name": "I Wouldn't Mind",
+      "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
     },
     {
       "added_at": "2023-10-07 03:49:56",
@@ -121,20 +121,20 @@
       "url": "https://open.spotify.com/track/5orN4HYGUJS3AqewwwFixi"
     },
     {
-      "added_at": "2024-01-09 23:35:49",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Fall out of Line",
-        "url": "https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn"
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
       },
       "artists": [
         {
-          "name": "He Is We",
-          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 200059,
-      "name": "I Wouldn't Mind",
-      "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
+      "duration_ms": 197733,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n"
     },
     {
       "added_at": "2023-10-09 15:43:11",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Notes From A Wrist",
-        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Notes From A Wrist",
-      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "you missed the best part",
         "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 124743,
       "name": "hospital beach",
       "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Notes From A Wrist",
+        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Notes From A Wrist",
+      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "homies",
         "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 225068,
       "name": "homies",
       "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I'm Always Here",
-      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Home for the Summer",
-        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 155271,
-      "name": "Home for the Summer",
-      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 197513,
       "name": "Sorry for Me",
       "url": "https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Home for the Summer",
+        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 155271,
+      "name": "Home for the Summer",
+      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "London Is Lonely",
+      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "is your bedroom ceiling bored? (feat. Cavetown)",
         "url": "https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 207509,
       "name": "is your bedroom ceiling bored? (feat. Cavetown)",
       "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "London Is Lonely",
-        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "London Is Lonely",
-      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "i'd rather be alone",
         "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 142940,
       "name": "i'd rather be alone",
       "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 152141,
       "name": "Maybe I\u2019m Lonely",
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 289058,
-      "name": "just wanna forget you",
-      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "When the City Sleeps",
-        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 216514,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Things I Wanted To Tell You",
         "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 139354,
       "name": "Feel Again (Feat. Au/Ra)",
       "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "When the City Sleeps",
+        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 216514,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1653,28 +1653,20 @@
       "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
     },
     {
-      "added_at": "2023-11-06 23:14:40",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Blanket",
-        "url": "https://open.spotify.com/album/7MbhBlacUYoWPZYUhsWLxK"
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
       "artists": [
         {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
-        },
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
         }
       ],
-      "duration_ms": 210466,
-      "name": "My Friend (feat. Kara Jackson & MJ Lenderman)",
-      "url": "https://open.spotify.com/track/5khPTiW1Ufc5uXMEqOaOXP"
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2023-09-29 20:20:52",

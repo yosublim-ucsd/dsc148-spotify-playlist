@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: GYE0M\(겸\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: KYUL\(결\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-617 songs - 1 day 13 hr 49 min
+619 songs - 1 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [I was wrong](https://open.spotify.com/track/2Nudb9hCRVGqePHBBedTic) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Songs from a bed](https://open.spotify.com/album/3d8OKUqQ7KBBK7iFMnK1ZE) | 4:30 | 2021-12-12 | 2022-06-25 |
 | [I Will Give You Everything](https://open.spotify.com/track/2pW1y2KEOrgSFJyzgU8LvZ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [\[Vol.48\] You Hee yul's Sketchbook : 26th Voice 'Sketchbook X Jannabi'](https://open.spotify.com/album/1mzynYOm6D6r6hAOUEFjIv) | 3:32 | 2021-12-21 | 2022-06-23 |
 | [I'll Eat Up Your Darkness](https://open.spotify.com/track/4NKa7tW2N6mCdQSJKCP2hF) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Be Trapped In A Picture](https://open.spotify.com/album/6fhEPy3mHzSdp87i48Yono) | 3:35 | 2023-07-17 | 2023-07-28 |
-| [I'll Get Off](https://open.spotify.com/track/5benJ7SrT8nDWv5folm7bi) | [Im DAI](https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE) | [I'll Get Off](https://open.spotify.com/album/0GlIcMH98qVp8K8UmbuS0h) | 3:22 | 2024-01-05 |  |
+| [I'll Get Off](https://open.spotify.com/track/5benJ7SrT8nDWv5folm7bi) | [Im DAI](https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE) | [I'll Get Off](https://open.spotify.com/album/0GlIcMH98qVp8K8UmbuS0h) | 3:22 | 2024-01-05 | 2024-01-16 |
 | [I'm Homeless](https://open.spotify.com/track/5jYioe70lpLaSRgyhDA8ZJ) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I'm Homeless](https://open.spotify.com/album/1JAyIVuV1OccG70eLBkWkc) | 2:30 | 2023-02-14 | 2023-03-01 |
 | [I'MMORTAL \(feat\. sogumm\)](https://open.spotify.com/track/7lNm1tvWp2EEKE6293Iuj8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [I'MMORTAL](https://open.spotify.com/album/6yuKLd2o2NAdlHe7EIRiiM) | 3:55 | 2022-07-04 | 2022-07-28 |
 | [ICARUS](https://open.spotify.com/track/6I1VYleHY5n6RJujfFvj33) | [Kim Sookhyung](https://open.spotify.com/artist/5Yjiiksbgd959gXHO7H7in), [sucozy](https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ) | [ICARUS](https://open.spotify.com/album/7hauZJUoi314kbFesqZ5Jt) | 3:08 | 2022-12-21 | 2023-01-05 |
@@ -408,7 +408,7 @@
 | [Pluto](https://open.spotify.com/track/1wuZAvMhmqIecohHQYibED) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Boong\-](https://open.spotify.com/album/0HANd2pgqDZkrpzx4lLvOc) | 3:55 | 2021-12-21 | 2022-07-25 |
 | [Pluto \(feat\. Woshi\)](https://open.spotify.com/track/7EaG6UP4h9EEFrz71ctqgV) | [Waizmin](https://open.spotify.com/artist/0H7VLFkfZZ5i1oEvrWKDBm), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Pluto](https://open.spotify.com/album/2h5lZIXOeoLR0JJ07By9HP) | 3:26 | 2022-07-04 | 2022-07-09 |
 | [Pong Dang](https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Pong Dang](https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2) | 3:53 | 2022-07-08 | 2022-07-12 |
-| [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 | 2023-07-05 |  |
+| [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 | 2023-07-05 | 2024-01-16 |
 | [Potential](https://open.spotify.com/track/6Lrp4HqonE16Tt8PDeOHbY) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Potential](https://open.spotify.com/album/1aF1e7wcTDiADgCGe6trPg) | 3:08 | 2022-06-20 | 2022-06-30 |
 | [Prettiest One](https://open.spotify.com/track/5jxBIft0pEtB3rJKs06dwv) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Prettiest One \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1saFQAJ9to9vbnggAleSfm) | 3:08 | 2022-03-31 | 2022-06-17 |
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-03-09 | 2022-07-29 |
@@ -610,15 +610,17 @@
 | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 | 2023-09-26 |  |
 | [꿈이라면 좋을까 Wish It Were a Dream](https://open.spotify.com/track/78FZO8IrNvegLUmCmJCgKm) | [Moskva Surfing Club](https://open.spotify.com/artist/72RQExfl8kYY207YfKV5Nl) | [꿈이라면 좋을까 Wish It Were a Dream](https://open.spotify.com/album/1m2Yj8iAnUtCJ0BeWAAp5l) | 4:45 | 2023-02-14 | 2023-03-01 |
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2021-12-12 |  |
+| [난 멜로는 원래 재미없는 건 줄 알았어 Melodrama](https://open.spotify.com/track/5HgpGY1jWcla3bnHWQ9Ib8) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [난 멜로는 원래 재미없는 건 줄 알았어 Melodrama](https://open.spotify.com/album/4AF9BFNJ4FMoL7rM3owTQn) | 3:06 | 2024-01-15 |  |
 | [널 지우려 해](https://open.spotify.com/track/2rrYnRZaanjsF4iPbGk3dS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [여름 감성](https://open.spotify.com/album/4yOWIAHIQYOWGkZ3BOKi3o) | 3:29 | 2021-12-21 | 2022-06-28 |
 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 | 2022-03-31 | 2022-04-08 |
-| [단춘 Scarlet youth](https://open.spotify.com/track/7AI5Iglkp074EzjqQXtnGn) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [붉게 물든 젊음과 자주 헤매던 새벽에서 Scarlet youth in Nomadic daybreak](https://open.spotify.com/album/6hx1MoGmRaNOrN0ygAerYA) | 2:55 | 2024-01-05 |  |
+| [단춘 Scarlet youth](https://open.spotify.com/track/7AI5Iglkp074EzjqQXtnGn) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [붉게 물든 젊음과 자주 헤매던 새벽에서 Scarlet youth in Nomadic daybreak](https://open.spotify.com/album/6hx1MoGmRaNOrN0ygAerYA) | 2:55 | 2024-01-05 | 2024-01-16 |
 | [떠날까 Should We Leave](https://open.spotify.com/track/63yfmOOnCoH6CVxJIOl3pm) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [아무도 모르게 Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 4:45 | 2023-07-05 | 2023-07-18 |
 | [마네킨 Mannequin](https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2) | [The ASIANIC](https://open.spotify.com/artist/7hrYxrbbaa7TtlKqg9iruF) | [마네킨 Mannequin](https://open.spotify.com/album/2xuc8x41OZSjTeP255pqdv) | 3:40 | 2023-01-10 | 2023-01-26 |
-| [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 | 2021-12-21 | 2024-01-15 |
+| [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 | 2021-12-21 |  |
 | [방랑자](https://open.spotify.com/track/6h7VcJXkym9NGISDIYlmch) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [방랑자](https://open.spotify.com/album/7EOdAL92s1kwBSqYlJNAOX) | 3:20 | 2023-09-15 | 2023-11-11 |
 | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/track/5SLKr9YIs6MT195opLHZTg) | [cool\_lazy](https://open.spotify.com/artist/1hpBDK67kAJEqCcR8KW6Q4), [hyeri ji 지혜리](https://open.spotify.com/artist/1aUPs6AsUyPbpH00DEA31P) | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/album/05XQGlkHH5hliTxgRyg1RK) | 3:42 | 2022-03-31 | 2022-04-11 |
 | [사랑해 줘](https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [사랑해 줘](https://open.spotify.com/album/4bFd58vyDLdhNYLK5lJb5D) | 3:37 | 2023-01-10 | 2023-01-26 |
+| [슬퍼하지마 Don't be sad](https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [슬퍼하지마 Don't be sad](https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D) | 3:30 | 2024-01-15 |  |
 | [어디쯤 있나요](https://open.spotify.com/track/3WAdDOETjUOylNrWj4ACNd) | [Sentimental Scenery](https://open.spotify.com/artist/3tAtWjLnNyZqmvfLx2dDJ7) | [H](https://open.spotify.com/album/12m0JCfmS6G5mMQa7ev5M1) | 3:28 | 2022-04-12 | 2022-04-17 |
 | [오월의 나무](https://open.spotify.com/track/4SvybiKZukEaXOk4xA2laz) | [Lucite Tokki](https://open.spotify.com/artist/5AXPLM73kNsbt3lh5bysN9) | [오월의 나무](https://open.spotify.com/album/7eyIv9fDkaHtnVtJGj5It4) | 3:43 | 2022-03-31 | 2022-04-02 |
 | [오키나와 Okinawa](https://open.spotify.com/track/5WJtEElIz5vt7EOEGR97Yz) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [오키나와 Okinawa](https://open.spotify.com/album/16zuGRQCDsJsJL8psjJM9M) | 5:48 | 2021-12-12 | 2022-07-29 |

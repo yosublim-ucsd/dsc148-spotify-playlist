@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Delete",
+        "url": "https://open.spotify.com/album/1FBh6j95LW3VF854lh9Ueb"
+      },
+      "artists": [
+        {
+          "name": "Francisco Sola",
+          "url": "https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235127,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/2nx1bryoL6yLPmCikpjJ0u"
+    },
+    {
+      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L"
       },
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 188560,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"

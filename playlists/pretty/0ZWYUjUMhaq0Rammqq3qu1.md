@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Break the speakers with these absolute House Party BANGERS!!! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Project X \| House Party \| Frat Party \| Pre\-Drink Playlist
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 113,342 likes - 60 songs - 3 hr 16 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 113,267 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 59 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 3:38 |
 | 60 | [Latch](https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:15 |
 
-Snapshot ID: `NDc0NSw0NzViYzBlYTIzMjI2YzU3ODc2M2NmMjdiZjgyOGIwNThlNWI3YzE1`
+Snapshot ID: `NDc0NywzNDZiYTQzNjRjZWQ1MmJiOGI1YWVjY2UxMmRlODQ4MDNkZmE3Mzc4`

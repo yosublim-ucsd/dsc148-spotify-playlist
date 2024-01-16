@@ -1,12 +1,12 @@
 {
   "description": "The rap soundtrack to the internet. Cover: Barretta",
-  "num_followers": 1392562,
+  "num_followers": 1392517,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTQ0MzY1OGIyNGVjODkzMjQ4NDc5M2I5YjRkOGFmZTAwYzhjYWQ5",
+  "snapshot_id": "MCwyMWRiMDZjYmE1YTcxMWQwOWJlZmIyMWVjZGViY2JmZmJjNWZjZGJk",
   "tracks": [
     {
       "added_at": "2023-12-18 18:17:54",
@@ -81,20 +81,28 @@
       "url": "https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH"
     },
     {
-      "added_at": "2023-12-29 17:46:36",
+      "added_at": "2024-01-15 20:25:31",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/2xJBXWvEMg9lPN08qmERdu"
+        "name": "Ukraine (Let Me Talk Afro Drill Mix)",
+        "url": "https://open.spotify.com/album/0W5rqpGSQzFT0mkfvuoKII"
       },
       "artists": [
         {
-          "name": "Santea2",
-          "url": "https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz"
+          "name": "Jay Hound",
+          "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
+        },
+        {
+          "name": "Slimenese",
+          "url": "https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze"
+        },
+        {
+          "name": "Jay5ive",
+          "url": "https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB"
         }
       ],
-      "duration_ms": 114154,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/6ePxkskGVXrhMNFBKpenGX"
+      "duration_ms": 115208,
+      "name": "Ukraine - Let Me Talk Afro Drill Mix",
+      "url": "https://open.spotify.com/track/1EHkclXJgi9XKP9xbp51hk"
     },
     {
       "added_at": "2023-12-12 21:16:28",

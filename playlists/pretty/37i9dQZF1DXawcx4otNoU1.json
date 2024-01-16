@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 501446,
+  "num_followers": 501236,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjE5YTlmNGQxNzVlMjUyZTIyNDEyZTczNDIwZWYxYWQ4MzVkMTgy",
+  "snapshot_id": "MCxjM2Y3YTg0NTBlN2RhYmI5ZGY1ZGU3NWE0Mjc5YmU0NWZiZWU1NzQy",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+    },
+    {
       "added_at": "2023-11-08 15:18:46",
       "album": {
         "name": "BALLADS 1",
@@ -159,38 +175,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
       "added_at": "2023-11-08 15:18:46",
@@ -239,6 +239,22 @@
       "duration_ms": 295515,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -295,22 +311,6 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "I Knew I Loved You",
+      "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Kaleidoscope Dream",
         "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 263013,
       "name": "OTW",
       "url": "https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Affirmation",
-        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "I Knew I Loved You",
-      "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
       "added_at": "2023-11-08 15:18:46",
       "album": {
         "name": "Come Through (feat. Chris Brown)",
@@ -1099,6 +1083,22 @@
       "duration_ms": 214093,
       "name": "Come Through (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Edges Run",
         "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 207164,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
         "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 207164,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1485,6 +1485,22 @@
       "url": "https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR"
     },
     {
+      "added_at": "2023-11-08 15:18:46",
+      "album": {
+        "name": "Life On Earth - EP",
+        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF"
+    },
+    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Unbreakable Smile",
@@ -1503,22 +1519,6 @@
       "duration_ms": 188946,
       "name": "I Was Made For Loving You",
       "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
-    },
-    {
-      "added_at": "2023-11-08 15:18:46",
-      "album": {
-        "name": "Life On Earth - EP",
-        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Goodnight (Go Home)",
-        "url": "https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd"
-      },
-      "artists": [
-        {
-          "name": "Craig Cardiff",
-          "url": "https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "Dirty Old Town",
-      "url": "https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "One Call Away (Acoustic + Remixes)",
         "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 189052,
       "name": "One Call Away - Acoustic",
       "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Goodnight (Go Home)",
+        "url": "https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd"
+      },
+      "artists": [
+        {
+          "name": "Craig Cardiff",
+          "url": "https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "Dirty Old Town",
+      "url": "https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh"
     },
     {
       "added_at": "2023-04-14 07:38:09",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "The Meetings of the Waters",
-        "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 300277,
-      "name": "The Meetings of the Waters",
-      "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Know-It-All (Deluxe)",
         "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 228000,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "The Meetings of the Waters",
+        "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 300277,
+      "name": "The Meetings of the Waters",
+      "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 190104,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Eternally Even",
         "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 293413,
       "name": "The World's Smiling Now",
       "url": "https://open.spotify.com/track/6KrDF0sid0jwhbVIT0tatx"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 190104,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
     },
     {
       "added_at": "2023-02-10 11:00:00",

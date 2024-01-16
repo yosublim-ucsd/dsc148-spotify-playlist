@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 198675,
+  "2024-01-16": 198645,
   "date_first_scraped": "2023-08-09",
   "description": "Nomadismo sonoro para quienes aman la m\u00fasica de todos los rincones del planeta.",
   "name": "Trotamundos",
@@ -97,6 +97,24 @@
       "duration_ms": 424080,
       "name": "Abusey Junction",
       "url": "https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q"
+    },
+    {
+      "album": {
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "Achinkad",
+      "url": "https://open.spotify.com/track/6KiS9YtjvBEr96wazaVfO4"
     },
     {
       "album": {
@@ -3871,7 +3889,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 229754,
       "name": "Kisasa Kisas",
       "url": "https://open.spotify.com/track/6ArwNGBU2aBHf1hLIQWmm8"
@@ -5211,7 +5229,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 479053,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA"
@@ -6861,7 +6879,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 242727,
       "name": "Tiku La Hina",
       "url": "https://open.spotify.com/track/4zfSgk8S1mq8klntilxm1k"

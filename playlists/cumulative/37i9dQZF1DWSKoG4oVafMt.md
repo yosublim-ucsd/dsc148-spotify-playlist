@@ -2,13 +2,13 @@
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Jordan Sandhu
+> The very best of Punjabi romance featuring Amrit Maan & Baani Sandhu
 
-807 songs - 1 day 19 hr 52 min
+808 songs - 1 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [21 QUESTIONS](https://open.spotify.com/track/7v1wOTMZ2fmMlZ5cJTWvIj) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:42 | 2024-01-05 |  |
+| [21 QUESTIONS](https://open.spotify.com/track/7v1wOTMZ2fmMlZ5cJTWvIj) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:42 | 2024-01-05 | 2024-01-16 |
 | [3 Saal](https://open.spotify.com/track/3ArpigFsF6ipOYVpzeDQRC) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [3 Saal](https://open.spotify.com/album/5EkE6jP3IpBWwPaba463Fk) | 2:54 | 2022-12-13 | 2023-01-24 |
 | [7 Janam](https://open.spotify.com/track/6la9hchXWt6n7m3YNIWbs3) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gaurrav Kakkarr](https://open.spotify.com/artist/29I8D8JWG00UE4zbZ1BkpY), [Ankita Saili](https://open.spotify.com/artist/2Q1yqRJQjjlQCmAcQafCgs) | [7 Janam \(From "Rowdy Singh"\) \- Single](https://open.spotify.com/album/3ia41o4ofgZmdllpZCOTIj) | 3:26 | 2022-08-31 | 2022-09-03 |
 | [7 Phase](https://open.spotify.com/track/70lW1RWUMfDm5yCveoBx7l) | [Hapee Boparai](https://open.spotify.com/artist/2nDlRwnqU2G7R66rFpafGT) | [Seven](https://open.spotify.com/album/11aqRgdZhGIZ9VYJ2Cq4jZ) | 2:17 | 2022-07-15 | 2022-08-18 |
@@ -406,6 +406,7 @@
 | [Libaas](https://open.spotify.com/track/0vqw3BCyNr3DDVBmjD21H8) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Libaas](https://open.spotify.com/album/1zCJSedSGgctXkJ3HnQCfC) | 4:27 | 2021-12-02 | 2022-04-06 |
 | [Lifeline](https://open.spotify.com/track/0oKRRJUcHFBHay9B8851FB) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj) | [Lifeline](https://open.spotify.com/album/46QP5a4l9n4LREswMLJN9a) | 3:29 | 2022-05-20 | 2022-07-06 |
 | [Like Karda](https://open.spotify.com/track/1JuSXMxHuRiVaHFN3z380v) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:26 | 2022-08-04 | 2022-08-18 |
+| [Like Me](https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [5 Diamonds](https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh) | 2:58 | 2024-01-15 |  |
 | [Like Moon](https://open.spotify.com/track/7H0F4B8lh7pG2A1U2H6m2O) | [The Koko](https://open.spotify.com/artist/5fdZP1hlx6kNQlOVVunTi3) | [Like Moon](https://open.spotify.com/album/1QKhydtnWNeOD2G3DyP0NJ) | 3:31 | 2022-03-16 | 2022-04-06 |
 | [London Bridge](https://open.spotify.com/track/7iSITFbbFsBP5vfZH2BSdY) | [Sarmad Qadeer](https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ) | [London Bridge](https://open.spotify.com/album/28356uvnBo5DfxR8u1hPhc) | 2:30 | 2022-12-06 | 2022-12-24 |
 | [London Da Lakk](https://open.spotify.com/track/6KFjOVXJR7WC8egwepPJTw) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Meet Sehra](https://open.spotify.com/artist/3yHKjwbYaj7IvSX7qjSI1l) | [London Da Lakk](https://open.spotify.com/album/1HOy4MTSYqJjqyjWdc925z) | 2:53 | 2022-05-06 | 2022-05-20 |

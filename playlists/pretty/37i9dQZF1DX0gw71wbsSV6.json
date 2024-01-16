@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 45049,
+  "num_followers": 45051,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDg3YWM5ZjExNDAxNDVkNmNiYjUzYmYwMDQwNzI3NGI4MTM5ZDI0",
+  "snapshot_id": "MCw1YjY1MjEzYzkxMmE1NDBlYzg4ODYxMzNhOWU3MGYwZTNjZjhlODRi",
   "tracks": [
     {
       "added_at": "2024-01-11 15:00:00",
@@ -759,18 +759,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Comedy",
-        "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
       "artists": [
         {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 230666,
-      "name": "Comedy",
-      "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -791,22 +795,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+        "name": "Comedy",
+        "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
         }
       ],
-      "duration_ms": 216306,
-      "name": "California and Me",
-      "url": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
+      "duration_ms": 230666,
+      "name": "Comedy",
+      "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -827,22 +827,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         },
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+      "duration_ms": 216306,
+      "name": "California and Me",
+      "url": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
     },
     {
       "added_at": "2024-01-11 15:00:00",

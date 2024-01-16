@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with TSS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,734 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,024 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [Showdown](https://open.spotify.com/track/0dMlUGAmgBLLLjiufG5R18) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Showdown](https://open.spotify.com/album/0hynTwx1tRcpaCMf2t2YXv) | 4:11 |
 | 50 | [Everything She Wants](https://open.spotify.com/track/01pR1krOFbSYfTbSaxYHq0) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Everything She Wants](https://open.spotify.com/album/5fCJH4JORE9qWixhlniKem) | 3:41 |
 
-Snapshot ID: `MCxjMTIyMzM5YmVjYWExN2VkZmJlNTA4ZDdiMTdlNTMyMTQyNzRkNzM4`
+Snapshot ID: `MCwxZjAyMTE4NDkwYTBkZjZkOWZhZWQ2ODkxMTU2OTA5Y2ZkNWUyMzgy`

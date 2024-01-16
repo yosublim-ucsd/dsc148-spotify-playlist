@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 43219,
+  "2024-01-16": 43225,
   "date_first_scraped": "2021-12-30",
   "description": "Let the songs speak. Cover: VEDO",
   "name": "Some Kinda Way",
@@ -789,6 +789,24 @@
       "duration_ms": 167862,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A"
+    },
+    {
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/6fBKjA7GfxT6PoEsT3zIHe"
+      },
+      "artists": [
+        {
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/6NtlgDpSBBWWmY51DWcTfp"
     },
     {
       "album": {
@@ -5249,7 +5267,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 143903,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"

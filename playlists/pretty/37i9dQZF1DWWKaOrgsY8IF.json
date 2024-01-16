@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 131026,
+  "num_followers": 131042,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjdmZjU0ODRhMjczMzA1ZmIwYzU4NzFmZTY1NjQzODU5ZjJiOGE2",
+  "snapshot_id": "MCxjOWVmNDk2NmI0YTdlMzdiMjY5NDc3NmNlM2Y5MDk5Y2E4OWFjYzE4",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -135,26 +135,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 188213,
-      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
-      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
+      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 182708,
       "name": "Por Primera Vez",
       "url": "https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 159665,
       "name": "Agua (with J Balvin)",
       "url": "https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "AYAYAY!",
+        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 130759,
+      "name": "Amor T\u00f3xico",
+      "url": "https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "AYAYAY!",
-        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 130759,
-      "name": "Amor T\u00f3xico",
-      "url": "https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Si T\u00fa La Quieres",
         "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 224761,
       "name": "Si T\u00fa La Quieres",
       "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 185482,
-      "name": "Sue\u00f1o (con Pablo Albor\u00e1n)",
-      "url": "https://open.spotify.com/track/71M1szVbVYZM5M6QlIm6aC"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Colegio",
         "url": "https://open.spotify.com/album/6IJ3u6R56lp0AUT0W9snon"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 209026,
       "name": "Locura",
       "url": "https://open.spotify.com/track/5379uuUPHodsdVhy8pIAAr"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 185482,
+      "name": "Sue\u00f1o (con Pablo Albor\u00e1n)",
+      "url": "https://open.spotify.com/track/71M1szVbVYZM5M6QlIm6aC"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Una Foto en Blanco y Negro",
         "url": "https://open.spotify.com/album/3nB3A1kSf886E04UHsdDSI"
       },
@@ -939,22 +959,42 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+        "name": "4 besos",
+        "url": "https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
         }
       ],
-      "duration_ms": 200960,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
+      "duration_ms": 232526,
+      "name": "4 besos",
+      "url": "https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Los Consejos",
+        "url": "https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Los Consejos",
+      "url": "https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -995,22 +1035,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Los Consejos",
-        "url": "https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Los Consejos",
-      "url": "https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Trece",
         "url": "https://open.spotify.com/album/17iAbw8ZsuixaaATKdBIEB"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 219040,
       "name": "El Equivocado",
       "url": "https://open.spotify.com/track/6yCrxyjQxkdYpNexoNixK2"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "4 besos",
-        "url": "https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 232526,
-      "name": "4 besos",
-      "url": "https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs"
     },
     {
       "added_at": "2020-12-01 05:03:00",

@@ -4,7 +4,7 @@
 
 > Best of hip\-hop tracks from South Asia\. Cover:  Shubh
 
-241 songs - 13 hr 52 min
+242 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Secrets](https://open.spotify.com/track/0v8UhUalYhCuq6fDEe9ijE) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 4:38 | 2023-05-04 | 2024-01-06 |
 | [SHAAM](https://open.spotify.com/track/1OuwL8fpUKV1TIVaA6hbJh) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO), [Mujju](https://open.spotify.com/artist/2SfEGrMv3AQ7D6WhY62BIm) | [SHAAM](https://open.spotify.com/album/77mickx6ctnKNGiANxDpZR) | 3:28 | 2022-01-13 | 2022-04-08 |
 | [Shana Bann](https://open.spotify.com/track/5ZTsPwtt7aCuzbWd5rDGys) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Shana Bann](https://open.spotify.com/album/2Tw9GDRPo2ITN5CbBFAkJn) | 3:48 | 2022-06-16 | 2023-10-04 |
+| [Shatir](https://open.spotify.com/track/5yuTexOifpmPst6HKSZP3x) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Zahid Jaggi](https://open.spotify.com/artist/56cO7nXqr5US1gvzghPUiZ) | [Shatir](https://open.spotify.com/album/35q2tgzbNljiOc5mpoepke) | 2:40 | 2024-01-15 |  |
 | [Shayad](https://open.spotify.com/track/1RD5wRJuPegDsFtyXRsHY1) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Shayad](https://open.spotify.com/album/67JQKgqmuRtTXxBSQmazrx) | 5:25 | 2022-01-13 | 2022-02-25 |
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-07-31 |  |
 | [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 | 2023-11-18 |

@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Akokoa",
+        "url": "https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD"
+      },
+      "artists": [
+        {
+          "name": "Safo Newman",
+          "url": "https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202501,
+      "name": "Akokoa",
+      "url": "https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR"
+    },
+    {
+      "album": {
         "name": "All Gas No Breaks",
         "url": "https://open.spotify.com/album/563vOOWujyM8dwQKzYhGMP"
       },
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 180625,
       "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
       "url": "https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP"
@@ -4058,6 +4076,32 @@
       "duration_ms": 160418,
       "name": "Koobi",
       "url": "https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH"
+    },
+    {
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205083,
+      "name": "Kusuu",
+      "url": "https://open.spotify.com/track/0BXG6kR9D7ZjXtjBwvPiKy"
     },
     {
       "album": {
@@ -6988,7 +7032,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 132231,
       "name": "Stand Firm",
       "url": "https://open.spotify.com/track/0YcxvwO8PUGQgxUER2C2bM"

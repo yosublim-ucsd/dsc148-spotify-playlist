@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 709982,
+  "2024-01-16": 709807,
   "date_first_scraped": "2021-12-21",
   "description": "This week's best new metal & hard rock tracks. Cover: Fit For A King",
   "name": "All New Metal",
@@ -35924,6 +35924,24 @@
     },
     {
       "album": {
+        "name": "RYUJIN",
+        "url": "https://open.spotify.com/album/5wXQup3iFUfm69IUXeeZtC"
+      },
+      "artists": [
+        {
+          "name": "RYUJIN",
+          "url": "https://open.spotify.com/artist/3SUKO4vAKUtulR6t99R1Zk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287151,
+      "name": "Gekokujo",
+      "url": "https://open.spotify.com/track/12SHQE0LutzIe4ltA8s7WP"
+    },
+    {
+      "album": {
         "name": "Gekokujo",
         "url": "https://open.spotify.com/album/6FPIlc5s7W17qNjFWobkcP"
       },
@@ -35935,7 +35953,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 287151,
       "name": "Gekokujo",
       "url": "https://open.spotify.com/track/4P5FLFEXubO1ubrCsd6xWW"

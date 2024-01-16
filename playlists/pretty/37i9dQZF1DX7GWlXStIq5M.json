@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla",
-  "num_followers": 365962,
+  "num_followers": 365756,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWVhMjAxNzdhOWY3MGVhNTJjMTQ1ZTBiODBlMDkyYmQ2Y2U5YjVi",
+  "snapshot_id": "MCxhMGU2ZjA2M2I1MGVlYzM4ODhhZDJmNDRmMjE3OGZmOTA0ZWRkYmZi",
   "tracks": [
     {
       "added_at": "2024-01-12 03:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Dia de Fluxo",
         "url": "https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 133610,
       "name": "Dia de Fluxo",
       "url": "https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 205111,
-      "name": "Dano Sarrada",
-      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "QUER DAN\u00c7AR",
         "url": "https://open.spotify.com/album/0dcppOWM61TlHS4cfaE451"
       },
@@ -423,6 +407,42 @@
       "duration_ms": 130729,
       "name": "QUER DAN\u00c7AR",
       "url": "https://open.spotify.com/track/1g1elRYAuQ7BHMpeejvvKH"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 205111,
+      "name": "Dano Sarrada",
+      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Falta De Aten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4Tk9B83h1srd2bSbQnE4lM"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 150142,
+      "name": "Falta De Aten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4KPZyTXOMkBxCo2e4KXbDf"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -459,46 +479,6 @@
       "duration_ms": 175086,
       "name": "Me Lambe",
       "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "Falta De Aten\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4Tk9B83h1srd2bSbQnE4lM"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 150142,
-      "name": "Falta De Aten\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4KPZyTXOMkBxCo2e4KXbDf"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 204235,
-      "name": "Fiu Fiu",
-      "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -543,90 +523,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "REVERSA [in]ato",
-        "url": "https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7"
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         },
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         }
       ],
-      "duration_ms": 220000,
-      "name": "real valor",
-      "url": "https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "BANDIDONA",
-        "url": "https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "DJ Biel do Furduncinho",
-          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "BANDIDONA",
-      "url": "https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "C\u00e9u Ros\u00e9",
-        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 164237,
-      "name": "C\u00e9u Ros\u00e9",
-      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 201612,
-      "name": "Alinhamento Milenar",
-      "url": "https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m"
+      "duration_ms": 204235,
+      "name": "Fiu Fiu",
+      "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -667,18 +579,26 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+        "name": "REVERSA [in]ato",
+        "url": "https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7"
       },
       "artists": [
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         }
       ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+      "duration_ms": 220000,
+      "name": "real valor",
+      "url": "https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -695,6 +615,122 @@
       "duration_ms": 172950,
       "name": "Used To Be",
       "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "MAMA.CITA (hasta la vista)",
+        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 152358,
+      "name": "MAMA.CITA (hasta la vista)",
+      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 201612,
+      "name": "Alinhamento Milenar",
+      "url": "https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Tudo Pra Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/729wf3M4niTm0Cw7J8p63a"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "BANDIDONA",
+        "url": "https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "BANDIDONA",
+      "url": "https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -727,42 +763,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "MAMA.CITA (hasta la vista)",
-        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 152358,
-      "name": "MAMA.CITA (hasta la vista)",
-      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Tudo Pra Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/729wf3M4niTm0Cw7J8p63a"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Minha Arte",
         "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 223912,
       "name": "Minha Arte",
       "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Funk Generation: A Favela Love Story",
+        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 133140,
+      "name": "Casi Casi",
+      "url": "https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -811,22 +827,6 @@
       "duration_ms": 127068,
       "name": "Mais Uma",
       "url": "https://open.spotify.com/track/1ttR4WB57ZZQqVBGiUZVis"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "Funk Generation: A Favela Love Story",
-        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 133140,
-      "name": "Casi Casi",
-      "url": "https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "ELEMENTO X",
-        "url": "https://open.spotify.com/album/5QAJoeeHiDDHRO2Nwz2wMN"
-      },
-      "artists": [
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        }
-      ],
-      "duration_ms": 146243,
-      "name": "ELEMENTO X",
-      "url": "https://open.spotify.com/track/68byKiGzLvQo7VWbXIYTBx"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "NOVA ERA Part. I",
         "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
       },
@@ -935,22 +919,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Segredos da Vida",
-        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 142136,
-      "name": "Segredos da Vida",
-      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Pronta pra desagradar",
         "url": "https://open.spotify.com/album/12ADSluUXLFmJkFG2Q1jlO"
       },
@@ -963,6 +931,38 @@
       "duration_ms": 204494,
       "name": "Pronta pra desagradar",
       "url": "https://open.spotify.com/track/70Uk8CJ5H8pnjZ1iCEKDlc"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "ELEMENTO X",
+        "url": "https://open.spotify.com/album/5QAJoeeHiDDHRO2Nwz2wMN"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "duration_ms": 146243,
+      "name": "ELEMENTO X",
+      "url": "https://open.spotify.com/track/68byKiGzLvQo7VWbXIYTBx"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Segredos da Vida",
+        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 142136,
+      "name": "Segredos da Vida",
+      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        }
+      ],
+      "duration_ms": 251611,
+      "name": "31",
+      "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "se for pra ser",
         "url": "https://open.spotify.com/album/4lgDyBawg2FC6h3Jl2AMJ2"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 199811,
       "name": "se for pra ser",
       "url": "https://open.spotify.com/track/125V81LGC3wVXjRhnb6mXr"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "31",
-        "url": "https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        }
-      ],
-      "duration_ms": 251611,
-      "name": "31",
-      "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1251,6 +1251,42 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "ESTRANHO",
+        "url": "https://open.spotify.com/album/50O67wfhrrVoqbQr8p9WW7"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 166315,
+      "name": "ESTRANHO",
+      "url": "https://open.spotify.com/track/35bXQjFxZwp40I1pwb7Jke"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "La\u00e7o",
+        "url": "https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh"
+      },
+      "artists": [
+        {
+          "name": "Reddy Allor",
+          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
+        },
+        {
+          "name": "Diego Martins",
+          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
+        }
+      ],
+      "duration_ms": 149349,
+      "name": "La\u00e7o",
+      "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "Ai, Que Calor",
         "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
       },
@@ -1267,22 +1303,6 @@
       "duration_ms": 144262,
       "name": "Ai, Que Calor",
       "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "ESTRANHO",
-        "url": "https://open.spotify.com/album/50O67wfhrrVoqbQr8p9WW7"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 166315,
-      "name": "ESTRANHO",
-      "url": "https://open.spotify.com/track/35bXQjFxZwp40I1pwb7Jke"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1375,26 +1395,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "La\u00e7o",
-        "url": "https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh"
-      },
-      "artists": [
-        {
-          "name": "Reddy Allor",
-          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
-        },
-        {
-          "name": "Diego Martins",
-          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
-        }
-      ],
-      "duration_ms": 149349,
-      "name": "La\u00e7o",
-      "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Piquezin do WC",
         "url": "https://open.spotify.com/album/0NNho9WRvEmkK3GvtzM3QV"
       },
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "30 Dias",
-        "url": "https://open.spotify.com/album/2enff2BC3Mw10WtoaFjF15"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 128850,
-      "name": "30 Dias",
-      "url": "https://open.spotify.com/track/73wzSdHPS39JQeAal4Ka5x"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Sonhei com voc\u00ea / Me Amarro Nela",
         "url": "https://open.spotify.com/album/5jtqUMEDYPccKAPINHCm2o"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 130914,
       "name": "Me Amarro Nela",
       "url": "https://open.spotify.com/track/2gf5XAIP3Vb94V4RhpuJX4"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "30 Dias",
+        "url": "https://open.spotify.com/album/2enff2BC3Mw10WtoaFjF15"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 128850,
+      "name": "30 Dias",
+      "url": "https://open.spotify.com/track/73wzSdHPS39JQeAal4Ka5x"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1539,30 +1539,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "PROCURANDO AMOR",
-        "url": "https://open.spotify.com/album/4BZBRpBRpgrqKQZRT1fIXN"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        },
-        {
-          "name": "Cabrera",
-          "url": "https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Procurando Amor",
-      "url": "https://open.spotify.com/track/3pjy8hxCpTOIzJYU0CgNHm"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Pro Dia Nascer Feliz",
         "url": "https://open.spotify.com/album/5dePvauWlTrFFIwPsA3EHB"
       },
@@ -1583,6 +1559,30 @@
       "duration_ms": 195467,
       "name": "Pro Dia Nascer Feliz",
       "url": "https://open.spotify.com/track/0pciCbK80mgjXTYeVxbIru"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "PROCURANDO AMOR",
+        "url": "https://open.spotify.com/album/4BZBRpBRpgrqKQZRT1fIXN"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        },
+        {
+          "name": "Cabrera",
+          "url": "https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "Procurando Amor",
+      "url": "https://open.spotify.com/track/3pjy8hxCpTOIzJYU0CgNHm"
     },
     {
       "added_at": "2024-01-12 03:00:00",

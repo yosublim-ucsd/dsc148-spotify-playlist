@@ -6,187 +6,83 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMGU3OTA5NjlmZjdjYjZkYjRlOGE0ZTU2NjkzNDUwMTY1",
+  "snapshot_id": "MCwwMDAwMDAwMGQyZDRhMDhjM2EwNTA3NzY3MDk5ZWYyMmYwZDFjNzBj",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "The Most Winning",
-        "url": "https://open.spotify.com/album/0JTaJ6c4DJdF7VkWga0cty"
+        "name": "DJ Turn It Up",
+        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
       },
       "artists": [
         {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camaron Pelao",
+        "url": "https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF"
+      },
+      "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 190312,
-      "name": "Discoteca - Deorro Remix",
-      "url": "https://open.spotify.com/track/5YZX840FQQuMpLFUXE9Cla"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arrasando",
-        "url": "https://open.spotify.com/album/2PA0R3BGC5ZGCAR6G23sqO"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Arrasando",
-      "url": "https://open.spotify.com/track/1EhDeCHd34jt7dMDqkGQBC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F8",
-        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 202249,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scream Aim Fire",
-        "url": "https://open.spotify.com/album/04VE36yBM6GyJpDtD61e0p"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 247693,
-      "name": "Waking the Demon",
-      "url": "https://open.spotify.com/track/1ZEoYuekZQo62DLFtPVdqT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Insomnia (Rework)",
-        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
         },
         {
-          "name": "Jack Holiday",
-          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+          "name": "Voces Del Rancho",
+          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Insomnia - Rework",
-      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
+      "duration_ms": 210349,
+      "name": "Camaron Pelao",
+      "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/2U5JuUDjUjAkP7gcd5QY4N"
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Peppe Citarella",
-          "url": "https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB"
-        },
-        {
-          "name": "Billy the Diamond",
-          "url": "https://open.spotify.com/artist/7sjiAjXjA4ncQE7cJTcMb5"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 167619,
-      "name": "Dale",
-      "url": "https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/55qNkmFdL2xRZ728GIQcc1"
-      },
-      "artists": [
-        {
-          "name": "Stratovarius",
-          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
-        }
-      ],
-      "duration_ms": 340240,
-      "name": "Black Diamond",
-      "url": "https://open.spotify.com/track/1EoN7hqAsyuTUrBjJPzWJF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 332906,
-      "name": "AOV",
-      "url": "https://open.spotify.com/track/2qfLaOWD7bB4J1Val3vO4K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Operation: Mindcrime (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4eEQ3aNA8mptFIfbFdX79p"
-      },
-      "artists": [
-        {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
-        }
-      ],
-      "duration_ms": 263560,
-      "name": "I Don't Believe In Love - Remastered 2003",
-      "url": "https://open.spotify.com/track/0U2TocFjqul3sis3sE5jZl"
+      "duration_ms": 147960,
+      "name": "Kill Rock 'n Roll",
+      "url": "https://open.spotify.com/track/28TReO2Mxk9Q3GA4K98YSz"
     },
     {
       "added_at": null,
@@ -211,96 +107,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Clarity",
-        "url": "https://open.spotify.com/album/3ddOlyyj2YlSk4xbuxsG4S"
+        "name": "5to Aniversario",
+        "url": "https://open.spotify.com/album/7vF23xibM5eNthq9HnkIcc"
       },
       "artists": [
         {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Take This Life",
-      "url": "https://open.spotify.com/track/7eyshS7nRaFtN8oMjHZSnp"
+      "duration_ms": 202293,
+      "name": "Se Encendio el Beeper",
+      "url": "https://open.spotify.com/track/3F0npTC1lHEQpEz35tvQTT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 231532,
-      "name": "Besos En Guerra",
-      "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/6SjbzGo7arjfM5cXpXhc5B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Transports en commun",
-        "url": "https://open.spotify.com/album/6yVOPfEPm6h8rWfXW8wjph"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Intro/Promiscuous",
-      "url": "https://open.spotify.com/track/4Q69jQ7KRhTw81TiGt15c1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Ojos As\u00ed",
-      "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
       },
       "artists": [
         {
@@ -308,165 +132,77 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 315177,
-      "name": "Nero Forte",
-      "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P"
+      "duration_ms": 254106,
+      "name": "Everything Ends",
+      "url": "https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Reign In Blood",
-        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 291440,
-      "name": "Angel Of Death",
-      "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
+      "duration_ms": 216533,
+      "name": "Hell Patrol",
+      "url": "https://open.spotify.com/track/6QKplS12OIhLVzbfCOLesv"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Deluxe Remaster)",
-        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+        "name": "Fogo (feat. Julimar Santos)",
+        "url": "https://open.spotify.com/album/2jCs17qefATIyXkKBGWq2D"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 244066,
-      "name": "Trapped Under Ice (Remastered)",
-      "url": "https://open.spotify.com/track/3lVAAVOkfNyCii1aLgH3JX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Separates Me From You",
-        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pega",
-        "url": "https://open.spotify.com/album/167hCxWi15k96f2XJfqGPM"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Garmiani",
+          "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
         },
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+          "name": "Julimar Santos",
+          "url": "https://open.spotify.com/artist/2GJP8WUxtpkE7NolyW0BPr"
         }
       ],
-      "duration_ms": 167812,
-      "name": "Pega",
-      "url": "https://open.spotify.com/track/1kYlz5hWpg8Okxcg5nzS2A"
+      "duration_ms": 148242,
+      "name": "Fogo (feat. Julimar Santos)",
+      "url": "https://open.spotify.com/track/7uKjjI2a4Ia8nHKzgdya1y"
     },
     {
       "added_at": null,
       "album": {
-        "name": "El Templo del Pop",
-        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
       },
       "artists": [
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 206053,
-      "name": "Yo Te Dir\u00e9",
-      "url": "https://open.spotify.com/track/45dWn7gzWdxNO15dPzWRSV"
+      "duration_ms": 243320,
+      "name": "Shadow Moses",
+      "url": "https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+        "name": "Mezmerize",
+        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 288320,
-      "name": "Three Nil",
-      "url": "https://open.spotify.com/track/61KpjCXatXtHSv7z9hsv7B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/7IdKpXiJU049bx6jqbERFc"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 153784,
-      "name": "Louder - Radio Edit",
-      "url": "https://open.spotify.com/track/1jTKIuhvCHygnnY4QnUvyv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loco Papi",
-        "url": "https://open.spotify.com/album/7ehHSfldPNGr0rRbdxffcs"
-      },
-      "artists": [
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Loco Papi",
-      "url": "https://open.spotify.com/track/5EuVplVa6I5vbAUBuCRnvS"
+      "duration_ms": 131706,
+      "name": "Cigaro",
+      "url": "https://open.spotify.com/track/47EqCQZG5v4o0WFMufGf5S"
     },
     {
       "added_at": null,
@@ -491,64 +227,124 @@
     {
       "added_at": null,
       "album": {
-        "name": "By Your Side (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
+        "name": "Party PPL",
+        "url": "https://open.spotify.com/album/0oglJBSSaMlKM95QLXQGx5"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "89ers",
+          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
         }
       ],
-      "duration_ms": 189671,
-      "name": "By Your Side (feat. Tom Grennan)",
-      "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
+      "duration_ms": 148412,
+      "name": "Party PPL",
+      "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Rust In Peace (2004 Remix / Expanded Edition)",
-        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
+        "name": "Slipknot",
+        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 392600,
-      "name": "Holy Wars...The Punishment Due - 2004 Remix",
-      "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
+      "duration_ms": 218093,
+      "name": "Surfacing",
+      "url": "https://open.spotify.com/track/7ilvmUhG4jmCuJV4ZvjkKT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sway (Mucho Mambo)",
-        "url": "https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr"
+        "name": "Gold Cobra (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
       },
       "artists": [
         {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 159360,
-      "name": "Sway (Mucho Mambo)",
-      "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
+      "duration_ms": 233533,
+      "name": "Gold Cobra",
+      "url": "https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 311813,
+      "name": "Bat Country",
+      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evolution: The Hits",
+        "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "You Spin Me Round (Like a Record)",
+      "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ten Thousand Fists",
+        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Ten Thousand Fists",
+      "url": "https://open.spotify.com/track/5hkgrWxkobGtg30I7DsfVu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
       },
       "artists": [
         {
@@ -556,89 +352,89 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
+      "duration_ms": 191331,
+      "name": "Hardwired",
+      "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 243320,
-      "name": "Shadow Moses",
-      "url": "https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj"
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+      "duration_ms": 207280,
+      "name": "Give Me Your Love",
+      "url": "https://open.spotify.com/track/1plzDKavZ6EkVk91RPYd1L"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Get in Trouble (So What)",
-        "url": "https://open.spotify.com/album/7GBK0goW5wG8bJUy65QDCE"
+        "name": "Inv\u00edtame A Un Caf\u00e9 (Steve Aoki & Deorro Remix)",
+        "url": "https://open.spotify.com/album/2NUCKKuJNCYgE7LjBy49Pj"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         },
         {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 161739,
-      "name": "Get in Trouble (So What)",
-      "url": "https://open.spotify.com/track/5KC7ginqShi7mhDQLttQh0"
+      "duration_ms": 236250,
+      "name": "Inv\u00edtame A Un Caf\u00e9 (Steve Aoki & Deorro Remix)",
+      "url": "https://open.spotify.com/track/2D75sVKFfKAhb9V9kChgKZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Run Free (Countdown)",
-        "url": "https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f"
+        "name": "C.U.B.A",
+        "url": "https://open.spotify.com/album/12zQ9tz6fjLsB5RjxUgXFu"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 152380,
-      "name": "Run Free (Countdown)",
-      "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
+      "duration_ms": 269906,
+      "name": "C.U.B.A",
+      "url": "https://open.spotify.com/track/1ZoHuLxbQho7N5ioKA6Hx1"
     },
     {
       "added_at": null,
@@ -659,88 +455,200 @@
     {
       "added_at": null,
       "album": {
-        "name": "She Moves",
-        "url": "https://open.spotify.com/album/3HXwXYHOWO8dFeL0GklsKc"
+        "name": "What Separates Me From You",
+        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
       },
       "artists": [
         {
-          "name": "Pulsedriver",
-          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
-        },
-        {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
-        },
-        {
-          "name": "Luna Isa",
-          "url": "https://open.spotify.com/artist/48rIZslea3sq2nxBfiEPpb"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 155000,
-      "name": "She Moves",
-      "url": "https://open.spotify.com/track/3x31PiZkXH4waQklmVUZ5L"
+      "duration_ms": 202640,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ohms",
-        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 290339,
-      "name": "Error",
-      "url": "https://open.spotify.com/track/5XQPlP8yHnXz5qTjIZ10gC"
+      "duration_ms": 160800,
+      "name": "Garden Of Eden",
+      "url": "https://open.spotify.com/track/5rGmkQ5cXbDrFPW8CefvFq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 429198,
-      "name": "Spit Out the Bone",
-      "url": "https://open.spotify.com/track/7MHkweinOceprzkRWIYTTc"
+      "duration_ms": 123400,
+      "name": "Get This",
+      "url": "https://open.spotify.com/track/5GOfjX6UN5yyDkMGl8nrnn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pa Lante",
-        "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
+        "name": "Traffic",
+        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
         },
         {
-          "name": "Ryan Arnold",
-          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
-        },
-        {
-          "name": "El Chuape",
-          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 130123,
-      "name": "Pa Lante",
-      "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Indestructible (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
+        "name": "Get Up (Rattle) [feat. Far East Movement]",
+        "url": "https://open.spotify.com/album/1qnQH3SVJ19CIO16VW2tes"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        }
+      ],
+      "duration_ms": 166932,
+      "name": "Get Up (Rattle) [feat. Far East Movement] - Vocal Edit",
+      "url": "https://open.spotify.com/track/3bu6Gu2lzm9VEoab1za8BM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 217847,
+      "name": "Burn MF",
+      "url": "https://open.spotify.com/track/0QTpLHFixtmJCU9o0ZIShg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Instant Gratification",
+        "url": "https://open.spotify.com/album/60LbtmnmOLTkz8ZiVhbynM"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/2ZS8jyDUXuAaNWxiwsOCER"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/2EgrwJxwvimdATl24NrvLC"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 447333,
+      "name": "Caught Somewhere in Time (2015 Remaster)",
+      "url": "https://open.spotify.com/track/0xfa9MLvVdgjcWZwsx5nf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Immortalized (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
       },
       "artists": [
         {
@@ -748,9 +656,189 @@
           "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 204546,
-      "name": "The Curse",
-      "url": "https://open.spotify.com/track/2BqtzTiaYgiTmHvMexmBya"
+      "duration_ms": 297693,
+      "name": "Who Taught You How to Hate",
+      "url": "https://open.spotify.com/track/4l9Lfk1AHTwM837s2VslBX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock The Rebel / Metal The Devil",
+        "url": "https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Radio Girl",
+      "url": "https://open.spotify.com/track/0gRh8F76LwLkHMkQtHBe5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/77OD5Mo3PzbEsi3ySuOGb0"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 225705,
+      "name": "Wash It All Away",
+      "url": "https://open.spotify.com/track/5k0KjsgX1ETIAQWVBRHzq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/6SjbzGo7arjfM5cXpXhc5B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Asereje",
+        "url": "https://open.spotify.com/album/7FH5hS1VYDTy0hE1yni0cV"
+      },
+      "artists": [
+        {
+          "name": "Jean Massey",
+          "url": "https://open.spotify.com/artist/0jxlHo3OVSP5B5u0MsU8rE"
+        }
+      ],
+      "duration_ms": 168538,
+      "name": "Asereje",
+      "url": "https://open.spotify.com/track/4DrUjTGCmZHbeAnRCFX5QM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sound Loaded",
+        "url": "https://open.spotify.com/album/3zI9R2ktXKRwcPpZH1zpPe"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 280626,
+      "name": "She Bangs - English Version",
+      "url": "https://open.spotify.com/track/1uPrIHgYztXSkkcts9jet8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Immortalized (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/0Q4zzvZA2anhHTs0zjwQhy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 294426,
+      "name": "Soldier On!",
+      "url": "https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Ready to Die (From \"Call of the Dead\")",
+        "url": "https://open.spotify.com/album/7mCTipdyAfByJBqBgyBbI0"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 425264,
+      "name": "Not Ready to Die - From \"Call of the Dead\"",
+      "url": "https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disgusting",
+        "url": "https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 213576,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/03jdl5GTBhKsgB1Yw8mVPh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shockwave (with Afrojack)",
+        "url": "https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 122578,
+      "name": "Shockwave (with Afrojack)",
+      "url": "https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD"
     },
     {
       "added_at": null,
@@ -771,78 +859,114 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boyz In Paris (with VINAI)",
-        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+        "name": "Florianopolis",
+        "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
       },
       "artists": [
         {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         }
       ],
-      "duration_ms": 151589,
-      "name": "Boyz In Paris (with VINAI)",
-      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+      "duration_ms": 141467,
+      "name": "Florianopolis",
+      "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bad Omens",
-        "url": "https://open.spotify.com/album/2Di81karStvWRrnERvIOQC"
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE"
       },
       "artists": [
         {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 127498,
-      "name": "Hedonist",
-      "url": "https://open.spotify.com/track/6wj9ubbsF8hjyGH0sSqjz6"
+      "duration_ms": 183640,
+      "name": "In the Name of Tragedy",
+      "url": "https://open.spotify.com/track/0jVKdXM4LQm94SP33rNbi9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+        "name": "Never Miss A Beat",
+        "url": "https://open.spotify.com/album/6jTdaQKWxgkfEO5gLPMRDC"
       },
       "artists": [
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "KIMMIC",
+          "url": "https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Never Miss A Beat",
+      "url": "https://open.spotify.com/track/1VJLgFrfKrckuOb0DrvcQn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen (Deluxe)",
+        "url": "https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
         }
       ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
+      "duration_ms": 170625,
+      "name": "Bad (feat. Vassy) - Radio Edit",
+      "url": "https://open.spotify.com/track/06dT0EYXrhRQV1MsvWhNGv"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Slipknot",
-        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 218093,
-      "name": "Surfacing",
-      "url": "https://open.spotify.com/track/7ilvmUhG4jmCuJV4ZvjkKT"
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 428320,
+      "name": "That Was Just Your Life",
+      "url": "https://open.spotify.com/track/2otSugsyrMFRi7ohdeB635"
     },
     {
       "added_at": null,
@@ -867,18 +991,298 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution: The Hits",
-        "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
       "artists": [
         {
-          "name": "Dead Or Alive",
-          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 195146,
-      "name": "You Spin Me Round (Like a Record)",
-      "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
+      "duration_ms": 231560,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/4WPyOlL7E6ckUcCUzIKNJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 251173,
+      "name": "Lhabia",
+      "url": "https://open.spotify.com/track/28q0pUwcJRS2tGZsYH6xL5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CMF2",
+        "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 182449,
+      "name": "We Are The Rest",
+      "url": "https://open.spotify.com/track/1c206nIhscBrNMXM2b5Jfw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Gonna Hurt",
+        "url": "https://open.spotify.com/album/0PmX7001Em6UK7LC5HbKF9"
+      },
+      "artists": [
+        {
+          "name": "Sixx:A.M.",
+          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "This Is Gonna Hurt",
+      "url": "https://open.spotify.com/track/3trdEhvJEmaBEHKcr6RiWH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNDEN!ABLE",
+        "url": "https://open.spotify.com/album/7JEmohpfbrZVszNXBskJUc"
+      },
+      "artists": [
+        {
+          "name": "HELLYEAH",
+          "url": "https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f"
+        }
+      ],
+      "duration_ms": 213086,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/4y4tpeSlNThWItcGZTUqNX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Immortalized (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 257836,
+      "name": "Immortalized",
+      "url": "https://open.spotify.com/track/7FChJg2hPG2uAZ3hmDg6xL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Favela Joint",
+        "url": "https://open.spotify.com/album/5tGqwxDFlJMRXm4Iiwnqb9"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "duration_ms": 218604,
+      "name": "Favela Joint",
+      "url": "https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mundial (Deluxe Version)",
+        "url": "https://open.spotify.com/album/45se0M80yOL4t9j3REDyEK"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/33a2zTGZocgU9XVDDILHM3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Not Alone 2019",
+        "url": "https://open.spotify.com/album/3dJwfx4lh57IOTiu6Jmvpi"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 201313,
+      "name": "I'm Not Alone - 2019 Edit",
+      "url": "https://open.spotify.com/track/43ILNTrpuwv2vTcJErWFWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Battle Of Los Angeles",
+        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 220765,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Persistence Of Time (30th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Got The Time",
+      "url": "https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mot\u00f6rizer",
+        "url": "https://open.spotify.com/album/47eOItno8EgqlZlSNW54Ru"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 126733,
+      "name": "Rock Out",
+      "url": "https://open.spotify.com/track/2iZPbUUBaw4BrIUVsUOf1u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Burnin",
+      "url": "https://open.spotify.com/track/5lByoyTJti3jYo22bLQKOH"
     },
     {
       "added_at": null,
@@ -907,54 +1311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Aviary",
-        "url": "https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "No Money",
-      "url": "https://open.spotify.com/track/6M6Tk58pQvABy6ru66dY3d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artificial Selection",
-        "url": "https://open.spotify.com/album/4YkhIDrZZ3dFlH0POQ3Syj"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 297625,
-      "name": "Evaporate",
-      "url": "https://open.spotify.com/track/3GHIBH6ytVZ4aXcw3NlwIf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AfterLife",
         "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
       },
@@ -964,113 +1320,149 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 267290,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/0rqRkmrlWyuhSUqJKvf8SK"
+      "duration_ms": 199813,
+      "name": "Roll Dem Bones",
+      "url": "https://open.spotify.com/track/2EwMqSMpU9nTkdB0pIExdX"
     },
     {
       "added_at": null,
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+        "name": "The Mortal Coil",
+        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
         }
       ],
-      "duration_ms": 254466,
-      "name": "Custer",
-      "url": "https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf"
+      "duration_ms": 243913,
+      "name": "The Remedy",
+      "url": "https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tears On The Dancefloor (feat. Hannah Boleyn)",
-        "url": "https://open.spotify.com/album/0IPAqCfLfsDauO2huFSnGt"
+        "name": "Epic (Garmiani Remix)",
+        "url": "https://open.spotify.com/album/3C2yoz4fitqOF92byjClX5"
       },
       "artists": [
         {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+          "name": "Sandro Silva",
+          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
         },
         {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 211347,
-      "name": "Tears On The Dancefloor (feat. Hannah Boleyn)",
-      "url": "https://open.spotify.com/track/3dLAuJrWEQQaXyh12BeQG5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 304893,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Powerage",
-        "url": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Rock 'N' Roll Damnation",
-      "url": "https://open.spotify.com/track/2308VPPaMh7Q3AX1Zap99A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Faint",
-      "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         },
         {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+          "name": "Garmiani",
+          "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41"
+      "duration_ms": 155864,
+      "name": "Epic - Garmiani Remix",
+      "url": "https://open.spotify.com/track/4D5uw4lzpyBIwA54NmjFND"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 268213,
+      "name": "Nightrain",
+      "url": "https://open.spotify.com/track/7CBFRsUz1pz1cS12soVhih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phobia (Clean Version)",
+        "url": "https://open.spotify.com/album/2usyeZYdUHKlNHKDKgAYSo"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 200546,
+      "name": "The Diary of Jane - Single Version",
+      "url": "https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XIII",
+        "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
+      },
+      "artists": [
+        {
+          "name": "Mushroomhead",
+          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Sun Doesn't Rise",
+      "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 352906,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
     },
     {
       "added_at": null,
@@ -1095,698 +1487,294 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+        "name": "Jackpot Juicer",
+        "url": "https://open.spotify.com/album/07sIEDGzhGsfM8QZQll0FO"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
         }
       ],
-      "duration_ms": 144706,
-      "name": "Spit It Out - Hyper Version",
-      "url": "https://open.spotify.com/track/6ftph4VaiX6aG2NwZUWd3q"
+      "duration_ms": 226207,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/0FEo9zrLmKfhap1R7obOwZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 147960,
-      "name": "Kill Rock 'n Roll",
-      "url": "https://open.spotify.com/track/28TReO2Mxk9Q3GA4K98YSz"
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Holy Wood",
-        "url": "https://open.spotify.com/album/3stFLIWyYH4a8u0bdxDopt"
+        "name": "Friends (Bassjackers Remix)",
+        "url": "https://open.spotify.com/album/4u6UBvjfarDMSzTeNZyBnm"
       },
       "artists": [
         {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 175760,
-      "name": "The Fight Song",
-      "url": "https://open.spotify.com/track/6pfdW2NouUI3ZnugM7r0G0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Indestructible (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 278026,
-      "name": "Indestructible",
-      "url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As Daylight Dies (Special Edition)",
-        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "This Fire",
-      "url": "https://open.spotify.com/track/07ceEXOyS7ghQkyCOycXwP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/3r7fZsRIWMBDbiYP3R8FDI"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 97142,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/1jNLVHoxNFEWRTEaFuCUiT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "War Eternal",
-        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 256053,
-      "name": "War Eternal",
-      "url": "https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "Duality",
-      "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everytime We Touch (Premium Edition)",
-        "url": "https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 197124,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "King Of My Castle",
-        "url": "https://open.spotify.com/album/3hjLM01JbuC0E74QVJgnMx"
-      },
-      "artists": [
-        {
-          "name": "SP3CTRUM",
-          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         },
         {
-          "name": "Milan Gavris",
-          "url": "https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
         }
       ],
-      "duration_ms": 116433,
-      "name": "King Of My Castle",
-      "url": "https://open.spotify.com/track/3gs60fPEJDaHKto1Bh0Erj"
+      "duration_ms": 162857,
+      "name": "Friends - Bassjackers Remix",
+      "url": "https://open.spotify.com/track/4s69BXFmdssMXfSllZ2zlf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "How We Party",
-        "url": "https://open.spotify.com/album/3kA25T4kY1AwFVrLDJCzLE"
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I, The Mask",
+        "url": "https://open.spotify.com/album/2nLTMIfQsiFEP3feSBVqks"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 229816,
+      "name": "I Am Above",
+      "url": "https://open.spotify.com/track/6qgpBezjMvybos30jStS2Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Time To Chill",
+        "url": "https://open.spotify.com/album/0sFHr1bZ6mPOnICWWRJA01"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "How Much Is The Fish?",
+      "url": "https://open.spotify.com/track/73aOM4jyU3begiIYxYUd89"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rule The World (Everybody)",
+        "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Rule The World (Everybody)",
+      "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
         },
         {
           "name": "VINAI",
           "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
         }
       ],
-      "duration_ms": 211875,
-      "name": "How We Party",
-      "url": "https://open.spotify.com/track/6Yis2VwVcABCNVEutLgAf7"
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "South Of Heaven",
-        "url": "https://open.spotify.com/album/2UqJjz5eMYRzbbKToD3Peh"
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 245133,
-      "name": "Mandatory Suicide",
-      "url": "https://open.spotify.com/track/2KPcujYDaukvtfRR0Zmu0O"
+      "duration_ms": 232880,
+      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Collide With The Sky",
-        "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
       "artists": [
         {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "A Match Into Water",
-      "url": "https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Now You're Gone - The Album",
-        "url": "https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ"
-      },
-      "artists": [
-        {
-          "name": "Basshunter",
-          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "All I Ever Wanted - Radio Edit",
-      "url": "https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Left Behind",
-      "url": "https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoria (Standard US/Latin version)",
-        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         },
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 231786,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/4nVyHATevhl5RC6Qmoko5H"
+      "duration_ms": 231532,
+      "name": "Besos En Guerra",
+      "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq"
+      "duration_ms": 221186,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+        "name": "LIVING THINGS",
+        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+      "duration_ms": 230253,
+      "name": "BURN IT DOWN",
+      "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+        "name": "The Aviary",
+        "url": "https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 229813,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mezmerize",
-        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 131706,
-      "name": "Cigaro",
-      "url": "https://open.spotify.com/track/47EqCQZG5v4o0WFMufGf5S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO"
-      },
-      "artists": [
-        {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
-        }
-      ],
-      "duration_ms": 336840,
-      "name": "Mr. Vain",
-      "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "People = Shit",
-      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chakachaka",
-        "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Damien N-Drix",
-          "url": "https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Chakachaka",
-      "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Devu\u00e9lveme a mi chica",
-      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ameno (Techno Mix)",
-        "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
-        },
-        {
-          "name": "Roberto Molinaro",
-          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
-        }
-      ],
-      "duration_ms": 150400,
-      "name": "Ameno (Techno Mix)",
-      "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Played-A-Live (The Bongo Song)",
-        "url": "https://open.spotify.com/album/1MxM3wvwaHMpSSCYovfgGN"
-      },
-      "artists": [
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Played-A-Live (The Bongo Song) - Radio Edit",
-      "url": "https://open.spotify.com/track/71cEGt2SrA5toSCCTVpLMU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spectrum (Say My Name) EP",
-        "url": "https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 218190,
-      "name": "Spectrum (Say My Name) - Calvin Harris Remix",
-      "url": "https://open.spotify.com/track/1c478uMN61yF2JOXXEtsdw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chitty Chitty Bang!",
-        "url": "https://open.spotify.com/album/0u0l2ECiCnEj59jH63tvT1"
-      },
-      "artists": [
-        {
-          "name": "Whisnu Santika",
-          "url": "https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh"
-        },
-        {
-          "name": "Amy B",
-          "url": "https://open.spotify.com/artist/15Fzs8RORFE4fRKldCiH3f"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Chitty Chitty Bang!",
-      "url": "https://open.spotify.com/track/2BCaIBIY0nR5uKED34WGW3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 476266,
-      "name": "The Day That Never Comes",
-      "url": "https://open.spotify.com/track/2gqzkEF88vMclfRZEIOnQO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tamo Loco",
-        "url": "https://open.spotify.com/album/5NnhmrnWEEFXdhnUg7XBlm"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Lorna",
-          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Tamo Loco",
-      "url": "https://open.spotify.com/track/1NaXrdrI2OkCPAop1tU7Ch"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fall Of Ideals",
-        "url": "https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "This Calling",
-      "url": "https://open.spotify.com/track/2vH5Fy44mcCDUrUk0XbvfH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/0ZmkjefPVLvloVSgtmRu5M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Powerslave (2015 Remaster)",
-        "url": "https://open.spotify.com/album/0BAxqxhmEwrman5qLSB7An"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 431520,
-      "name": "Powerslave (2015 Remaster)",
-      "url": "https://open.spotify.com/track/2Oj9Oqd1npO1TC1NXr4bky"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Everything Ends",
-      "url": "https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 274440,
-      "name": "Eat the Rich",
-      "url": "https://open.spotify.com/track/6WcyOskUC1L0ZyHgkPDc7V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Immortalized (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 297693,
-      "name": "Who Taught You How to Hate",
-      "url": "https://open.spotify.com/track/4l9Lfk1AHTwM837s2VslBX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 343600,
-      "name": "Beast and the Harlot",
-      "url": "https://open.spotify.com/track/6FVYwnVrnAEIRnY3bHJb46"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 214173,
-      "name": "Out of Hell",
-      "url": "https://open.spotify.com/track/6lzmirX8hoaDFy7vrojXJN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F8",
-        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 214542,
-      "name": "Living The Dream",
-      "url": "https://open.spotify.com/track/2gsxeJnGbJQkBddBDr0UTV"
+      "duration_ms": 191293,
+      "name": "No Money",
+      "url": "https://open.spotify.com/track/6M6Tk58pQvABy6ru66dY3d"
     }
   ],
   "unique_name": "Upside Down Playlist",

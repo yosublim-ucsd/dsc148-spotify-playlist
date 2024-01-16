@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 44307,
+  "num_followers": 44364,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTdiMmZkYTI5ZjYxM2JjMjY4NzVkYTFiMDRhZWQ1ZDRiODJjZjk2",
+  "snapshot_id": "MCxlNTNkYTI2MmZjNGRiZWYzODlhZWUzZWJiMTgxNDUzYzUyZWIxZDBm",
   "tracks": [
     {
       "added_at": "2023-08-23 10:31:46",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Super Session (with Al Kooper & Stephen Stills)",
-        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        },
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Blues for Nothing",
-      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Chicago/The Blues/Today!",
         "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
       },
@@ -487,22 +467,6 @@
       "duration_ms": 141560,
       "name": "Spann's Stomp",
       "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Io",
-        "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
-      },
-      "artists": [
-        {
-          "name": "Daniel Arena",
-          "url": "https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -523,6 +487,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Io",
+        "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
+      },
+      "artists": [
+        {
+          "name": "Daniel Arena",
+          "url": "https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "What's The Word?",
         "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
       },
@@ -539,18 +519,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+        "name": "Super Session (with Al Kooper & Stephen Stills)",
+        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        },
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
         }
       ],
-      "duration_ms": 172173,
-      "name": "Jam On A Monday Morning",
-      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
+      "duration_ms": 255066,
+      "name": "Blues for Nothing",
+      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -571,6 +555,22 @@
       "duration_ms": 405346,
       "name": "Mr. B.",
       "url": "https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Jam On A Monday Morning",
+      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Ain't That Dandy",
+      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 134106,
       "name": "Chitlin Con Carne",
       "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Ain't That Dandy",
-      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4"
+      },
+      "artists": [
+        {
+          "name": "Gary O'Slide",
+          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
+        }
+      ],
+      "duration_ms": 122924,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/5cFGwaWYOp1vP96BEMCZdU"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
         "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Vagabond",
-        "url": "https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4"
+        "name": "Mile End ll",
+        "url": "https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz"
       },
       "artists": [
         {
-          "name": "Gary O'Slide",
-          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
         }
       ],
-      "duration_ms": 122924,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/5cFGwaWYOp1vP96BEMCZdU"
+      "duration_ms": 217893,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/2Dec3RFyyRpZR6eKhA2yaf"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -787,22 +803,6 @@
       "duration_ms": 171640,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Mile End ll",
-        "url": "https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 217893,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/2Dec3RFyyRpZR6eKhA2yaf"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Second Album",
-        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Tribute To Elmore James",
-      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "All Kinds Of Blues",
         "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 233382,
       "name": "Alone With Yourself",
       "url": "https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Second Album",
+        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
+      },
+      "artists": [
+        {
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Tribute To Elmore James",
+      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Blues On Blues",
+        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 183279,
+      "name": "Blues After Hours",
+      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 418493,
       "name": "Albert's Shuffle - 2002 Remix w/o Horns",
       "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Blues On Blues",
-        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 183279,
-      "name": "Blues After Hours",
-      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "I Feel Like Goin' On",
-        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "Hey Jose",
-      "url": "https://open.spotify.com/track/6QuQyoaQ8Yrv70au1VNTkg"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Stay High [Feat. Cory Henry]",
         "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 193551,
       "name": "Stay High [Feat. Cory Henry]",
       "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "Hey Jose",
+      "url": "https://open.spotify.com/track/6QuQyoaQ8Yrv70au1VNTkg"
     },
     {
       "added_at": "2023-08-23 10:31:46",

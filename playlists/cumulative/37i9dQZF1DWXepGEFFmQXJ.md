@@ -2,7 +2,7 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Zach Bryan
+> The cream of today's Country crop\. Cover: Dylan Gossett
 
 523 songs - 1 day 4 hr 41 min
 

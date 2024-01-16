@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez, Ariana Grande, Alok e Bebe Rexha e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,914,365 likes - 85 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913,151 likes - 85 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 66 | [Laço](https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [Laço](https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh) | 2:29 |
 | 67 | [Daqui Pra Frente](https://open.spotify.com/track/1z1Hg7SrMFNBguiJkWxBrN) | [Malu](https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ) | [Daqui Pra Frente](https://open.spotify.com/album/4d3iyWL6Sww8qaKjSLB2Eh) | 3:04 |
 | 68 | [BROCOLIZ](https://open.spotify.com/track/5P7ASG9SpcvYCjaJI3tANl) | [Jamal KMG](https://open.spotify.com/artist/2DF0255bTz07OvXhrT8gaA), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Klyn](https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm) | [Brocoliz](https://open.spotify.com/album/5bCxWBSBhWj7JSKephFOFv) | 2:18 |
-| 69 | [Sonho Lindo](https://open.spotify.com/track/2YgGXaXy66jT5c0pp4vQqZ) | [Diomedes Chinaski](https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK) | [Coração Partido 2](https://open.spotify.com/album/7Gpkokh0XKbf0iIfiALSlh) | 3:31 |
+| 69 | [Sonho Lindo](https://open.spotify.com/track/2YgGXaXy66jT5c0pp4vQqZ) | [Diomedes Chinaski](https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK), [Don9](https://open.spotify.com/artist/1X0nrf6StvXvXc30C7Gexs) | [Coração Partido 2](https://open.spotify.com/album/7Gpkokh0XKbf0iIfiALSlh) | 3:31 |
 | 70 | [Sainha Rosa](https://open.spotify.com/track/6Nsm1jyRtGUz9YVFgYNtso) | [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK), [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G) | [Sainha Rosa](https://open.spotify.com/album/5VSwMBzpqIZxJxUZFx6HQF) | 2:38 |
 | 71 | [Beck De Xangai](https://open.spotify.com/track/5jdYxBkQsSCCLuXjQ9gIAR) | [Hz skrr](https://open.spotify.com/artist/2WYHbNdoNly8YWCzYK4f7X), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Billy Billy](https://open.spotify.com/artist/1uUyWteV2hZskmno7GVARe), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Beck De Xangai](https://open.spotify.com/album/1Hi0ORHdu5JjYAJb6rTYdc) | 2:05 |
 | 72 | [Empacota](https://open.spotify.com/track/5Z0TBh3mbPGfVeVam1chQd) | [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Racovi Oficial](https://open.spotify.com/artist/4wKMCoPdqFIdM8I1jDERYX), [KENNEDYBEATZ](https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC) | [La Carga](https://open.spotify.com/album/3mwuiDpG96OCXlPCgr5JLX) | 2:09 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 81 | [Viciado](https://open.spotify.com/track/0pA8V4Kp0C6i8cgAg0jxIu) | [Zé Vaqueiro Estilizado](https://open.spotify.com/artist/5rJJOghaNhAk41itivi1LO), [Heitor Costa](https://open.spotify.com/artist/1f0uTZ6roXfWpYsN8V1QqM) | [Viciado](https://open.spotify.com/album/1hdW0SlZJVLK5bdKfwbV19) | 3:01 |
 | 82 | [Você Não Ama Eu](https://open.spotify.com/track/5xxBcXMhycabshMaGanMRs) | [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [Você Não Ama Eu](https://open.spotify.com/album/6KDZPxgAUEALSKIBiCOl0m) | 2:00 |
 | 83 | [Gosta de um Papin](https://open.spotify.com/track/1qaTvH15PZ2chOoP5SM6C5) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [WiLLY DJAY](https://open.spotify.com/artist/03eAVAQJZGCvnSkKBNevDW) | [Gosta de um Papin](https://open.spotify.com/album/1vXtqbavfKReftPeEMw8L2) | 2:00 |
-| 84 | [24 HORAS](https://open.spotify.com/track/267H67kLMfetyHFNTlwJT3) | [BAILE PHONK](https://open.spotify.com/artist/0DNEd7LWCAZyGniVlHXDz6), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [DJ Dudah](https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr) | [24 HORAS](https://open.spotify.com/album/6qmZ8KIy49J2hyxye1nJOM) | 1:57 |
+| 84 | [24 HORAS](https://open.spotify.com/track/267H67kLMfetyHFNTlwJT3) | [BAILE PHONK](https://open.spotify.com/artist/0DNEd7LWCAZyGniVlHXDz6), [DJ Dudah](https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr) | [24 HORAS](https://open.spotify.com/album/6qmZ8KIy49J2hyxye1nJOM) | 1:57 |
 | 85 | [BRAZIL DRIFT](https://open.spotify.com/track/0wvTMEma4oBtSkwRlcPOiw) | [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU), [NICKXXX](https://open.spotify.com/artist/3zfgyWQdkhUoVyqjrISKKO), [DJ VIBER](https://open.spotify.com/artist/2AJGtiRmXalpq8FayihpD8) | [BRAZIL DRIFT](https://open.spotify.com/album/3Tt0CiKF5ORHjA2eod988c) | 1:32 |
 
-Snapshot ID: `MCwyN2QzYmNkYWVkZWVhZGNjNTk5Mzk0N2UwNjgxY2QyZTkwYWM4NjRl`
+Snapshot ID: `MCxhODRmYmUyYjY4YzQ5ZGNkM2U3YjgyNWI3ZThmYWQ1YjExZWRiYWQ5`

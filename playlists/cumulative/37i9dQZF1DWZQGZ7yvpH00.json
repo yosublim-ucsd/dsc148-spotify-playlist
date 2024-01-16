@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
+    },
+    {
+      "album": {
         "name": "amorlove",
         "url": "https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 167112,
       "name": "Copa Tras Copas",
       "url": "https://open.spotify.com/track/1gLNj6ANVeSYSvBGLODeQ5"
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 167988,
       "name": "EL HECHIZO",
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 228893,
       "name": "La Ni\u00f1a Del Instagram",
       "url": "https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG"
@@ -4018,7 +4036,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 213926,
       "name": "Tal Vez Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu"
@@ -4228,6 +4246,28 @@
       "duration_ms": 141199,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r"
+    },
+    {
+      "album": {
+        "name": "Todavia",
+        "url": "https://open.spotify.com/album/1Nqdpy5j3juTdK90Gbo2Bo"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        },
+        {
+          "name": "Inquieto Liniaje",
+          "url": "https://open.spotify.com/artist/0cBkLUqMmgdTFWf2INvqSV"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165364,
+      "name": "Todavia",
+      "url": "https://open.spotify.com/track/0Aexh6qBGuMRnxZQpcaNoa"
     },
     {
       "album": {
@@ -4565,6 +4605,24 @@
     },
     {
       "album": {
+        "name": "Un D\u00eda Entender\u00e1s",
+        "url": "https://open.spotify.com/album/4zWFjr8O3VjrxRADoslrhB"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206089,
+      "name": "Un D\u00eda Entender\u00e1s",
+      "url": "https://open.spotify.com/track/1scPtwHT7gurkNhwyojAtx"
+    },
+    {
+      "album": {
         "name": "Un Mill\u00f3n De Primaveras",
         "url": "https://open.spotify.com/album/26TiMKbz0xH4YNGO5h6uSV"
       },
@@ -4838,6 +4896,28 @@
       "duration_ms": 177666,
       "name": "Ya Coraz\u00f3n",
       "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
+    },
+    {
+      "album": {
+        "name": "Ya No Estoy Dolido",
+        "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "Ya No Estoy Dolido",
+      "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"
     },
     {
       "album": {

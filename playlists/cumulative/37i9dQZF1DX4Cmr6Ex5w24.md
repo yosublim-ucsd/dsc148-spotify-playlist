@@ -4,7 +4,7 @@
 
 > Revisit the retro Rahman
 
-194 songs - 18 hr 0 min
+195 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,9 +65,10 @@
 | [Kaadhal kaditham \(From "Jodi"\)](https://open.spotify.com/track/2KZ7VdPXY5k8B3pZB3nhCv) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Hits of A.R.Rahman Isai Saral](https://open.spotify.com/album/5C4IT7eoAtWIfkDVvmsq7o) | 4:57 | 2021-10-15 |  |
 | [Kaadhal Rojave](https://open.spotify.com/track/6Eon1DjI712yg69mi3MsAd) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Roja](https://open.spotify.com/album/1yhVLCFqvjIAARRbzbhY30) | 4:59 | 2021-10-15 | 2023-07-14 |
 | [Kaadhal Rojave \(From "Roja"\)](https://open.spotify.com/track/3ENOEyv39csYpynRSRGW0o) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Sangeetha Utsavam \- S\. P\. Balasubrahmanyam Isai Mazhai](https://open.spotify.com/album/4DXA16ovNiR0GklpUkVsnn) | 4:59 | 2021-10-15 | 2023-11-09 |
-| [Kaadhal Yogi](https://open.spotify.com/track/0U0li5SEzK8DNg5ySs3nMS) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d), [T\. L\. Maharajan](https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD) | [Taalam \(OST\)](https://open.spotify.com/album/0tt5OuqyDfwRD0ICPa9tzD) | 6:27 | 2021-10-15 |  |
+| [Kaadhal Yogi](https://open.spotify.com/track/0U0li5SEzK8DNg5ySs3nMS) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d), [T\. L\. Maharajan](https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD) | [Taalam \(OST\)](https://open.spotify.com/album/0tt5OuqyDfwRD0ICPa9tzD) | 6:27 | 2021-10-15 | 2024-01-16 |
 | [Kaadhal Yogi](https://open.spotify.com/track/4gmqahu6i5AXRMgn4Lmg1f) | [T\. L\. Maharajan](https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Thaalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1dqjhGrFSVGCsqf0BhDx4s) | 6:30 | 2021-10-15 | 2022-07-29 |
 | [Kaadhal yogi \(From "Thaalam"\)](https://open.spotify.com/track/4jyHT2uekcfJehrSKDjVrh) | [T\. L\. Maharajan](https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Hits of A.R.Rahman Isai Saral](https://open.spotify.com/album/5C4IT7eoAtWIfkDVvmsq7o) | 6:30 | 2021-10-15 | 2022-11-13 |
+| [Kadhal Yogi](https://open.spotify.com/track/1ZpbtI0QWBKm9RgFjMayw7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Thaalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZsK9nAQv7xQHY1XbzVm6R) | 6:29 | 2021-10-15 |  |
 | [Kadhalenum](https://open.spotify.com/track/2vIJ5ynPunetnvAV6Xe5rk) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 6:42 | 2021-10-15 | 2023-04-18 |
 | [Kadhalenum](https://open.spotify.com/track/70usDdEk4zRWxSPFogQqfQ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Kadhalar Dhinam](https://open.spotify.com/album/54smW0Ay2dLlme2CUivRmf) | 6:42 | 2021-10-15 | 2023-03-11 |
 | [Kannai Kattikkollathae](https://open.spotify.com/track/4ND4dDfxFWOZx5PXo0bU85) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Iruvar](https://open.spotify.com/album/5ztXu69YTnoVGJixlOcmBD) | 6:01 | 2021-10-15 | 2022-07-29 |

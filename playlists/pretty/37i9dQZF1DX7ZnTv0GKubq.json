@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 360434,
+  "num_followers": 360407,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjA0YzAxMTkyMjc5MzIwNzJmM2QwMmYzNTU5YTQ2MTZjYTVjYzZl",
+  "snapshot_id": "MCwwYWI0ZDljYmZjY2UwMjM0ZDQ4YmIyYjE3YjQ1NDMxNTQ2YTc3NDU2",
   "tracks": [
     {
       "added_at": "2023-11-24 11:28:11",
@@ -259,6 +259,26 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
+        "name": "INTOXYCATED (feat. Dave)",
+        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "INTOXYCATED (feat. Dave)",
+      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
+    },
+    {
+      "added_at": "2023-11-24 11:28:11",
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -271,22 +291,6 @@
       "duration_ms": 254319,
       "name": "PLASTIC OFF THE SOFA",
       "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
-    },
-    {
-      "added_at": "2023-11-24 11:28:11",
-      "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "The Most Beautiful Thing",
-      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
     },
     {
       "added_at": "2023-11-24 11:28:11",
@@ -339,22 +343,18 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "INTOXYCATED (feat. Dave)",
-        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
         }
       ],
-      "duration_ms": 212000,
-      "name": "INTOXYCATED (feat. Dave)",
-      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
+      "duration_ms": 235426,
+      "name": "The Most Beautiful Thing",
+      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
     },
     {
       "added_at": "2023-11-24 11:28:11",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 127807,
-      "name": "All To Me",
-      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
+      "duration_ms": 201546,
+      "name": "Helmet",
+      "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
     },
     {
       "added_at": "2023-11-24 11:28:11",
@@ -435,22 +435,6 @@
       "duration_ms": 188080,
       "name": "Sacrifices",
       "url": "https://open.spotify.com/track/0ADsPpxjFXl4ULiJkTrIqY"
-    },
-    {
-      "added_at": "2023-11-24 11:28:11",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Helmet",
-      "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
     },
     {
       "added_at": "2023-11-24 11:28:11",
@@ -479,6 +463,22 @@
       "duration_ms": 225893,
       "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
       "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
+    },
+    {
+      "added_at": "2023-11-24 11:28:11",
+      "album": {
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 127807,
+      "name": "All To Me",
+      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
     },
     {
       "added_at": "2023-11-24 11:28:11",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 226118,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
+    },
+    {
+      "added_at": "2023-11-24 11:28:11",
+      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 175432,
       "name": "Inside Friend (feat. John Mayer)",
       "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
-    },
-    {
-      "added_at": "2023-11-24 11:28:11",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 226118,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
     },
     {
       "added_at": "2023-11-24 11:28:11",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 160736,
-      "name": "17",
-      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
-    },
-    {
-      "added_at": "2023-11-24 11:28:11",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 262960,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
+    },
+    {
+      "added_at": "2023-11-24 11:28:11",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 160736,
+      "name": "17",
+      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
     },
     {
       "added_at": "2023-11-24 11:28:11",

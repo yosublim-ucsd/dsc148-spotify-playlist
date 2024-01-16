@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 237935,
+  "2024-01-16": 238097,
   "date_first_scraped": "2021-12-28",
   "description": "Les hits marocains du moment. Cover: ElGrandeToto",
   "name": "Maroc Hits",
@@ -2687,6 +2687,24 @@
       "duration_ms": 171130,
       "name": "J\u2019en ai marre",
       "url": "https://open.spotify.com/track/6VQTDVNUUeb3pcP8QbvmMa"
+    },
+    {
+      "album": {
+        "name": "Kan Kis7abli",
+        "url": "https://open.spotify.com/album/1EAhT7MKSd0kVGJZKUD20V"
+      },
+      "artists": [
+        {
+          "name": "Ayoub Anbaoui",
+          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202271,
+      "name": "Kan Kis7abli",
+      "url": "https://open.spotify.com/track/28YTJGOAnyrdmAAkorOie5"
     },
     {
       "album": {
@@ -6245,7 +6263,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 157625,
       "name": "Yemma",
       "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"

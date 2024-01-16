@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 36479,
+  "num_followers": 36531,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzRiNGU1NzVkMzdkNDgyMmUxYmZiN2QyOGM3NTY3ZjA1ZTY2Yzcw",
+  "snapshot_id": "MCxhYzM0NmM5ODdmNGRiZWQ2YWY0M2Y2ZDY2ZTFjMmM5OTc0Njc1MzQ5",
   "tracks": [
     {
       "added_at": "2023-12-21 09:31:40",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "You Had Me at Goodbye",
-        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "Grinde",
-      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 253973,
       "name": "Remembrance IV",
       "url": "https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "You Had Me at Goodbye",
+        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Grinde",
+      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -411,70 +411,6 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "Live in Gothenburg",
-        "url": "https://open.spotify.com/album/6X0P7XyEdeTrt3p8H59EHW"
-      },
-      "artists": [
-        {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
-        }
-      ],
-      "duration_ms": 370093,
-      "name": "The Second Page - Live",
-      "url": "https://open.spotify.com/track/4gm27nUNV7cj747hTWKJAA"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "Khmer",
-        "url": "https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 301026,
-      "name": "On Stream",
-      "url": "https://open.spotify.com/track/6nqhMMxnXbb2kMuh2cNd2L"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        }
-      ],
-      "duration_ms": 307356,
-      "name": "Winx",
-      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "Elise",
-        "url": "https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d"
-      },
-      "artists": [
-        {
-          "name": "Ingebrigt H\u00e5ker Flaten & H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF"
-        }
-      ],
-      "duration_ms": 362680,
-      "name": "Paa Hinside \u00d8rken",
-      "url": "https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
         "name": "The Door",
         "url": "https://open.spotify.com/album/2dySoKZJaOsXcAZPwngDrB"
       },
@@ -499,6 +435,70 @@
       "duration_ms": 472053,
       "name": "The Door",
       "url": "https://open.spotify.com/track/7xlHjxJbGQjHA40E7pFnZB"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "Live in Gothenburg",
+        "url": "https://open.spotify.com/album/6X0P7XyEdeTrt3p8H59EHW"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+        }
+      ],
+      "duration_ms": 370093,
+      "name": "The Second Page - Live",
+      "url": "https://open.spotify.com/track/4gm27nUNV7cj747hTWKJAA"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 307356,
+      "name": "Winx",
+      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "Khmer",
+        "url": "https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 301026,
+      "name": "On Stream",
+      "url": "https://open.spotify.com/track/6nqhMMxnXbb2kMuh2cNd2L"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "Elise",
+        "url": "https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d"
+      },
+      "artists": [
+        {
+          "name": "Ingebrigt H\u00e5ker Flaten & H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF"
+        }
+      ],
+      "duration_ms": 362680,
+      "name": "Paa Hinside \u00d8rken",
+      "url": "https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "Changing Places",
-        "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 496693,
-      "name": "Song Of Yearning",
-      "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
         "name": "Last Spring",
         "url": "https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "The Mariner's Cross",
-        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
+        "name": "Changing Places",
+        "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
       },
       "artists": [
         {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
         }
       ],
-      "duration_ms": 194893,
-      "name": "The Mariner's Cross",
-      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
+      "duration_ms": 496693,
+      "name": "Song Of Yearning",
+      "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -727,22 +711,6 @@
       "duration_ms": 289733,
       "name": "Vulkanen",
       "url": "https://open.spotify.com/track/7nTTRAinXFN70lO4CIDEqC"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "Helsinki Songs",
-        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
-      },
-      "artists": [
-        {
-          "name": "Trygve Seim",
-          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
-        }
-      ],
-      "duration_ms": 474106,
-      "name": "Helsinki Song",
-      "url": "https://open.spotify.com/track/3k9cTaO4ZxEre7obmq3faH"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -767,6 +735,38 @@
       "duration_ms": 258161,
       "name": "Jeg gik mig ud en Sommerdag",
       "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "Helsinki Songs",
+        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
+      },
+      "artists": [
+        {
+          "name": "Trygve Seim",
+          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
+        }
+      ],
+      "duration_ms": 474106,
+      "name": "Helsinki Song",
+      "url": "https://open.spotify.com/track/3k9cTaO4ZxEre7obmq3faH"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "The Mariner's Cross",
+        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "The Mariner's Cross",
+      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "Scandinavian Standards",
-        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
-      },
-      "artists": [
-        {
-          "name": "Niels Lan Doky",
-          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
-        }
-      ],
-      "duration_ms": 306826,
-      "name": "The Lilly Flower - Liljankukka",
-      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
         "name": "\u00d8yne",
         "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 210000,
       "name": "\u00d8yne",
       "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "Scandinavian Standards",
+        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
+      },
+      "artists": [
+        {
+          "name": "Niels Lan Doky",
+          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
+        }
+      ],
+      "duration_ms": 306826,
+      "name": "The Lilly Flower - Liljankukka",
+      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
+        "name": "As If The Ghost \u2026 Was Me!?",
+        "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
+      },
+      "artists": [
+        {
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+        }
+      ],
+      "duration_ms": 343213,
+      "name": "As If The Ghost \u2026 Was Me!?",
+      "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
         "name": "Reflections and Odysseys",
         "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
       },
@@ -1159,46 +1175,6 @@
       "duration_ms": 415186,
       "name": "The Lugubrious Youth Of Lucky Luke",
       "url": "https://open.spotify.com/track/4KOGxrdk7NVm63Ea9ZkbIi"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "As If The Ghost \u2026 Was Me!?",
-        "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
-      },
-      "artists": [
-        {
-          "name": "Terje Rypdal",
-          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
-        }
-      ],
-      "duration_ms": 343213,
-      "name": "As If The Ghost \u2026 Was Me!?",
-      "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "Snow Catches on Her Eyelashes",
-        "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
-      },
-      "artists": [
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
-        },
-        {
-          "name": "Hilde Norbakken",
-          "url": "https://open.spotify.com/artist/5HJCkhpDKHnbOWY7SQN6g0"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "Before the Wedding",
-      "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1259,6 +1235,30 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
+        "name": "Snow Catches on Her Eyelashes",
+        "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        },
+        {
+          "name": "Hilde Norbakken",
+          "url": "https://open.spotify.com/artist/5HJCkhpDKHnbOWY7SQN6g0"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "Before the Wedding",
+      "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
         "name": "Salmesykkel",
         "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 169639,
       "name": "Bibelbeltet",
       "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "How Could It Be?",
+        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "How Could It Be?",
+      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1291,22 +1307,6 @@
       "duration_ms": 336533,
       "name": "Naked Trees",
       "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "How Could It Be?",
-        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "How Could It Be?",
-      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
-        "name": "Dansere",
-        "url": "https://open.spotify.com/album/6MUR1LTmrjc61OkGzLCGl5"
-      },
-      "artists": [
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Bobo Stenson Quartet",
-          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
-        }
-      ],
-      "duration_ms": 903733,
-      "name": "Dansere",
-      "url": "https://open.spotify.com/track/6gTklRlojDWnRaZWC5v6aw"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
         "name": "Tree House",
         "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 449893,
       "name": "Seaweed",
       "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
+        "name": "Dansere",
+        "url": "https://open.spotify.com/album/6MUR1LTmrjc61OkGzLCGl5"
+      },
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Bobo Stenson Quartet",
+          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
+        }
+      ],
+      "duration_ms": 903733,
+      "name": "Dansere",
+      "url": "https://open.spotify.com/track/6gTklRlojDWnRaZWC5v6aw"
     },
     {
       "added_at": "2023-12-21 09:31:40",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-12-21 09:31:40",
       "album": {
+        "name": "Kingdom of Coldness",
+        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 457853,
+      "name": "Kingdom of Coldness",
+      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
+    },
+    {
+      "added_at": "2023-12-21 09:31:40",
+      "album": {
         "name": "Going with the Flow",
         "url": "https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 531252,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
-    },
-    {
-      "added_at": "2023-12-21 09:31:40",
-      "album": {
-        "name": "Kingdom of Coldness",
-        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 457853,
-      "name": "Kingdom of Coldness",
-      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
     },
     {
       "added_at": "2023-12-21 09:31:40",

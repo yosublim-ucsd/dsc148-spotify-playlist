@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 125631,
+  "num_followers": 125675,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjczOGU0NTJlMjFiZjAxY2ZhNzIzMzdiNzRiNWVmNTQ2OGI2N2Iy",
+  "snapshot_id": "MCwxODliNzI5OTAxMmQ0ZTc4OGI5ODMwYjE0ZmJkNWQ0MWEyYTM5NDc0",
   "tracks": [
     {
       "added_at": "2024-01-11 15:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "Comedy",
+        "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Comedy",
+      "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "golden hour (Fujii Kaze Remix)",
         "url": "https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 159000,
       "name": "golden hour - Fujii Kaze Remix",
       "url": "https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Comedy",
-        "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Comedy",
-      "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Love's Train",
         "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 307014,
       "name": "Love's Train",
       "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1155,34 +1155,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Where I Go (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
-      },
-      "artists": [
-        {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "Where I Go (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "grace",
         "url": "https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu"
       },
@@ -1223,6 +1195,50 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "Where I Go (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "duration_ms": 201026,
+      "name": "Where I Go (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "F64",
+        "url": "https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 204893,
+      "name": "F64",
+      "url": "https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "F64",
-        "url": "https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 204893,
-      "name": "F64",
-      "url": "https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "Marshmallow",
+        "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "duration_ms": 182321,
+      "name": "Marshmallow",
+      "url": "https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "I'm Sorry (ft. Lous and The Yakuza)",
         "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Marshmallow",
-        "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
-      },
-      "artists": [
-        {
-          "name": "MISAMO",
-          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
-        }
-      ],
-      "duration_ms": 182321,
-      "name": "Marshmallow",
-      "url": "https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 214468,
+      "name": "erase me",
+      "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "New Heart Designs",
         "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
       },
@@ -1387,22 +1407,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 214468,
-      "name": "erase me",
-      "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
+      "duration_ms": 229333,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1419,22 +1435,6 @@
       "duration_ms": 172892,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "The Juicebox",
+        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 150700,
+      "name": "Body & Soul (feat. Biig Piig)",
+      "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "\u98df\u5353",
         "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
       },
@@ -1847,26 +1867,6 @@
       "duration_ms": 252503,
       "name": "Marking My Time - BADBADNOTGOOD Edit",
       "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "The Juicebox",
-        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 150700,
-      "name": "Body & Soul (feat. Biig Piig)",
-      "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

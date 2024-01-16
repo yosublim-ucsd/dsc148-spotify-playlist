@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL?si=44ypFljwS7KHqFvdra2eFg"> Medikal</a>
 
-139 songs - 7 hr 4 min
+140 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,11 +77,12 @@
 | [KABUTEY FLOW](https://open.spotify.com/track/7JS8FzTaLZEQFhTHTXinLY) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [KABUTEY FLOW](https://open.spotify.com/album/71E270Mzm0P0YkMPAMBEjx) | 2:17 | 2024-01-05 |  |
 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 | 2022-11-28 |  |
 | [Koobi](https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1) | [Koobi](https://open.spotify.com/album/67NQONOlbvJVe4qlCf2llO) | 2:40 | 2022-06-09 | 2023-03-11 |
+| [Kusuu](https://open.spotify.com/track/0BXG6kR9D7ZjXtjBwvPiKy) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:25 | 2024-01-15 |  |
 | [Kusuu](https://open.spotify.com/track/1ESLdyMbLyjOHVQlNzRVSf) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Kusuu](https://open.spotify.com/album/4aOZ8ao2T20NAhM93nMa2t) | 3:25 | 2023-12-01 | 2024-01-05 |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-06-09 | 2023-04-21 |
 | [Kɔɔ](https://open.spotify.com/track/5XCBMETHAG2klPDEcUP4Jy) | [Uncle Rich](https://open.spotify.com/artist/7B1cOpsjjQEadmCo3psX4l), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/5ZpVtG24m3h6pPcwPJQAqN) | [Kɔɔ](https://open.spotify.com/album/1x6Cii1tbEpe35hHklUJTD) | 3:46 | 2023-06-16 | 2023-09-15 |
 | [Lavida Loca](https://open.spotify.com/track/6OOUQ6PiHVK5M63KEfpXUg) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [PITJ](https://open.spotify.com/album/2YLTD3ctvprBZqF3nBspik) | 2:35 | 2023-08-10 |  |
-| [Live From 233](https://open.spotify.com/track/1mxaeq1bLsbLAYfxd8hDAf) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not The Tape, Sorry 4 The Wait II](https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8) | 2:44 | 2022-06-09 |  |
+| [Live From 233](https://open.spotify.com/track/1mxaeq1bLsbLAYfxd8hDAf) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not The Tape, Sorry 4 The Wait II](https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8) | 2:44 | 2022-06-09 | 2024-01-16 |
 | [LONELY ROAD](https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T) | 3:00 | 2023-11-29 |  |
 | [LOWKEY](https://open.spotify.com/track/47Xn4zouOd54MPkJW0b0WL) | [Jo.Real](https://open.spotify.com/artist/6AukcisQx35JShJCQvxCW2) | [LOWKEY](https://open.spotify.com/album/47HqwTpphpRCUrhgvT2H7r) | 3:38 | 2022-10-13 | 2022-11-05 |
 | [M.O.B](https://open.spotify.com/track/5ZjMbsuc7hzTyMlauaJUbt) | [O'kenneth,reggie](https://open.spotify.com/artist/132awLu7WliKxvElyC2Qgu) | [Straight Outta Kumerica](https://open.spotify.com/album/54JOkOQwRCI799ZdqP3EyA) | 3:11 | 2022-06-09 |  |

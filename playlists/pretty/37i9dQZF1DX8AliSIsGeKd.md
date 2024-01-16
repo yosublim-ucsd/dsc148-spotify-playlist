@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Peer Kusiv
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,358 likes - 90 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,418 likes - 90 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Voices](https://open.spotify.com/track/0HGh1ezSWnJdjyMaiZiXsM) | [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [Atomic Rush](https://open.spotify.com/album/1jGmPkX2VyNR0PHncniGKA) | 6:48 |
 | 90 | [Like Forever](https://open.spotify.com/track/5LfsrBhrgR6Gkb3XG6UcpA) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Like Forever / Little Void](https://open.spotify.com/album/6EByNISL8uFeS2mW1kVzVA) | 6:20 |
 
-Snapshot ID: `MCwwZGQ4NjI2NzBkZGQ0NThjOWJiMDRjODdkMmFkMDNiNzllZTc5ZTY5`
+Snapshot ID: `MCw2NmMwYmM5ZWFkZDhmMDkwYzY0ZjJjYjRmZjAyZmIwODg3MDQ3Y2U1`

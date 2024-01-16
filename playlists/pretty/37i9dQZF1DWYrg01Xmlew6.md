@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Vale Lambo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,002 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,991 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [Soprano](https://open.spotify.com/track/6wtYcRaHvDsuOi4xXGGaSy) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN) | [Soprano](https://open.spotify.com/album/4Y08s8bqsT5lEPbquo3HhU) | 2:40 |
 | 55 | [Uh Ah Ah](https://open.spotify.com/track/1JDIwqwmJZkMyekXsyjCHq) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [Uh Ah Ah](https://open.spotify.com/album/3fbqHsycYllRTYVtyZv20V) | 2:06 |
 
-Snapshot ID: `MCw1OGM5ODliNWY4Mzg2Y2FhZWE4YTMzYjdmMjdkYTZlZjY3MDcyN2Nl`
+Snapshot ID: `MCxmYTdjNDNmZDBhZTgxZWRjZGY1MDQxODk5MWU5YmI4N2NhODU0YjEy`

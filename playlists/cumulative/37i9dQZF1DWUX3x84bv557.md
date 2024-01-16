@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: FLEMMING, Zoë Tauran & Ronnie Flex
 
-462 songs - 22 hr 29 min
+463 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Hou Me Vast](https://open.spotify.com/track/575YSTycxx4BQpgNB5oG49) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:36 | 2023-02-23 | 2023-05-10 |
 | [Hou Me Vast](https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9) | [Sem van Dijk](https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V), [Xander de Buisonjé](https://open.spotify.com/artist/0VuP43Q70c5QRXrdgVNQXP) | [Hou Me Vast](https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj) | 3:11 | 2023-06-15 | 2023-09-22 |
 | [Hou Mij Vast](https://open.spotify.com/track/2DgtPHgQeLFRAMHKIBNN4W) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ), [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Hou Mij Vast](https://open.spotify.com/album/1Feu6CV2sQb2tK5m6hX2qQ) | 2:33 | 2023-12-25 |  |
-| [Houden Van Mij](https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Houden Van Mij](https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty) | 2:18 | 2023-10-26 |  |
+| [Houden Van Mij](https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Houden Van Mij](https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty) | 2:18 | 2023-10-26 | 2024-01-16 |
 | [Houden Van Mij](https://open.spotify.com/track/6EuitFOryzqbENBhziq2aS) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Houden Van Mij](https://open.spotify.com/album/0H1bolHYB0kTUHvs7cc7Zd) | 2:38 | 2023-08-24 | 2023-09-22 |
 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 | 2023-07-13 | 2023-09-22 |
 | [Iemand Anders](https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Iemand Anders](https://open.spotify.com/album/0Du6lXqUfjPK0DJjqKzQIL) | 3:03 | 2023-11-23 |  |
@@ -243,6 +243,7 @@
 | [Kom Jij Weer Voorbij](https://open.spotify.com/track/6saNAXWMY0gqpNMwnFG34a) | [Luminar](https://open.spotify.com/artist/4XVWcEp6zOQScLQZl4fCsT) | [Kom Jij Weer Voorbij](https://open.spotify.com/album/67RWbCJmi16DnublyBoNvC) | 3:33 | 2023-03-02 | 2023-06-16 |
 | [Koning Liefde](https://open.spotify.com/track/4y8Lwn9OwGxUf7fTJtlPXl) | [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [Koning Liefde](https://open.spotify.com/album/2xyUvd6kssT9MiTbDQfwUZ) | 2:44 | 2023-03-30 | 2023-08-18 |
 | [Kop In The Sand](https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk) | [The Dean](https://open.spotify.com/artist/6ado6OQHT11e73WVhbAo4c) | [Kop In The Sand](https://open.spotify.com/album/3lRqcRvlYbaqK65LTnUZno) | 2:12 | 2023-09-21 | 2023-10-06 |
+| [Kwijt](https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:51 | 2024-01-15 |  |
 | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/track/6nZwVhVHVq6kSfEpDMDrfh) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/album/4YgN9rdbto5MEEphIvVvL5) | 2:26 | 2023-06-08 | 2023-09-08 |
 | [Laat Het Effe](https://open.spotify.com/track/2TpYFSFsDLK0Sd0QwoV7zV) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Laat Het Effe](https://open.spotify.com/album/6YW7e4vC5ytXUDG2IDoWUt) | 3:23 | 2023-02-23 | 2023-04-28 |
 | [Laat Me Dansen](https://open.spotify.com/track/5hhsnHxxfhYLh21gOm8bDc) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Laat Me Dansen](https://open.spotify.com/album/5Psg8RGP7f8EsKBdTd9N4S) | 2:40 | 2023-06-08 | 2023-07-08 |

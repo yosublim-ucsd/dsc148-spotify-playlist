@@ -4,7 +4,7 @@
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 34 min
+52 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,9 +52,10 @@
 | [Sonho da Braba](https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Mixtape Rock Danger de Verão](https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy) | 2:04 | 2023-12-30 |  |
 | [São Gonçalo](https://open.spotify.com/track/1xXWehn4TUTstEXvkwh0Oq) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 2:52 | 2023-12-30 |  |
 | [Só Eu](https://open.spotify.com/track/6vkLqv8WDCCAqx9YHkBWZf) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Só Eu](https://open.spotify.com/album/7LzqynrUxF5hW2InDQJ2bG) | 3:03 | 2023-12-30 |  |
-| [Te Levar \- Acústico](https://open.spotify.com/track/4462AMqVy2RZnBmrfXq4RP) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Te Levar \(Acústico\)](https://open.spotify.com/album/6iIjXgimA2PGFG6jMlrO1T) | 3:13 | 2023-12-30 |  |
+| [Te Levar \- Acústico](https://open.spotify.com/track/4462AMqVy2RZnBmrfXq4RP) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Te Levar \(Acústico\)](https://open.spotify.com/album/6iIjXgimA2PGFG6jMlrO1T) | 3:13 | 2023-12-30 | 2024-01-16 |
 | [think of me.](https://open.spotify.com/track/1sM8jvXUHPQfMDtzDDksJT) | [Bloque](https://open.spotify.com/artist/4JmDhnwJ8dEymk7vkeV8hz), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Super Static](https://open.spotify.com/artist/0Bth6SDuK4U3aaI4xieTzg) | [think of me](https://open.spotify.com/album/4IfGry1nodm4bJowPJLLnT) | 2:54 | 2023-12-30 |  |
 | [Tifanny](https://open.spotify.com/track/0N4C42417079Bc1uxCCivU) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Tlust](https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6) | [LOVEZY](https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp) | 2:40 | 2023-12-30 |  |
+| [Tormento](https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Tormento](https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI) | 3:18 | 2024-01-15 |  |
 | [TUDO É SOBRE MÚSICA](https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [TUDO É SOBRE MÚSICA](https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7) | 3:26 | 2023-12-30 |  |
 | [Vale Nada](https://open.spotify.com/track/6e9mevCxIfRq8KKJyhXQXd) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Vale Nada](https://open.spotify.com/album/1sFLaxyMYYFz7OY7zLvWUt) | 2:44 | 2024-01-01 | 2024-01-15 |
 | [VÍBORA](https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK) | [funBABE](https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [VÍBORA](https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU) | 3:25 | 2023-12-30 |  |

@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KYUHYUN\(규현\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: aespa\) \(핫한 국내 록 음악을 만나보세요!\)
 
-560 songs - 1 day 10 hr 26 min
+561 songs - 1 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Lunar phase](https://open.spotify.com/track/1F3pPDZkBpfxcPzcQbXjTt) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Lunar phase : A side](https://open.spotify.com/album/08wRhg5KFGIsE0MTQEfyF4) | 4:49 | 2022-04-21 | 2022-07-03 |
 | [MAGIC](https://open.spotify.com/track/3IwGQoFbpFbSAS8FiTPVH4) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Living the moment of love](https://open.spotify.com/album/6bMMVgG0lVRmoGaeJ6J2Vi) | 3:34 | 2022-06-03 | 2022-07-28 |
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-12 | 2023-07-08 |
-| [MAISON](https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:05 | 2023-07-25 |  |
+| [MAISON](https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:05 | 2023-07-25 | 2024-01-16 |
 | [Me, the Protagonist \(Feat\. Love X Stereo\)](https://open.spotify.com/track/7EqTBT6pT9Dr76qjji90I3) | [Tearliner](https://open.spotify.com/artist/0pLH4lklRk1JmFIkW5A7Si), [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Summer Strike, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6t9MI2qmx8P65y39TftTcp) | 3:40 | 2022-12-22 | 2023-01-11 |
 | [melon](https://open.spotify.com/track/4anw7njgXqWoNABbWwAbEO) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Since the World is About to End](https://open.spotify.com/album/0ACwMoxFMS9lTsuWcRs4WB) | 5:02 | 2022-04-12 | 2022-07-10 |
 | [Memories](https://open.spotify.com/track/2tjlsodEoYD9xfPDkedn8s) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [Memories](https://open.spotify.com/album/6g7NACiHwVR0qCYiBVcwqa) | 4:22 | 2022-05-11 | 2022-05-15 |
@@ -366,6 +366,7 @@
 | [RED](https://open.spotify.com/track/4Dy1Iav5ND9bJCHE090An9) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4CMscoZuaGi6UEDC2Wpdtk) | 2:56 | 2022-04-12 | 2022-07-29 |
 | [RED ROCKET \(Feat\. MINTAKHA\)](https://open.spotify.com/track/4TC0yFH4ryF1rIZYBBzOOo) | [BLUEICE Key](https://open.spotify.com/artist/6BUjgJA1JpnBk6dmFwmevx), [MINTAKHA](https://open.spotify.com/artist/3WnsvvrzM3jWOgZoZ1YhaU) | [IMAGINATION : unusual](https://open.spotify.com/album/1zt31eNpxHErC5taDZtwaX) | 3:45 | 2023-01-26 | 2023-02-15 |
 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 | 2022-06-23 | 2022-07-29 |
+| [Regret of the Times \- 2024 aespa Remake Version](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Regret of the Times \(2024 aespa Remake Version\) \- SM STATION](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) | 2:51 | 2024-01-15 |  |
 | [Regret of the Times \- 2024 Remastered Version](https://open.spotify.com/track/5RcGQ7is0iQEhS7XsTOiST) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Regret of the Times \(2024 Remastered Version\)](https://open.spotify.com/album/0DVYKxYfMt8kUGav5K3bqq) | 3:28 | 2024-01-12 |  |
 | [Regulus](https://open.spotify.com/track/299CpDyNkUS3aFAZCr0c9A) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [2/4](https://open.spotify.com/album/55ucpTq6CWc40dJakIPajP) | 3:42 | 2022-04-12 | 2022-07-25 |
 | [Remedy](https://open.spotify.com/track/0iJXk34vAEuHtFdgONxCas) | [Vanillare](https://open.spotify.com/artist/1snfnH0w3DHTY1GXJ630Ys) | [Remedy](https://open.spotify.com/album/4ybo5wS56wFFUexsDM5Xne) | 3:04 | 2022-06-09 | 2022-06-26 |

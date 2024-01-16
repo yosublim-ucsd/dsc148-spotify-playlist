@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 14999,
+  "num_followers": 15021,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjM5MTA4OTZlOWRlY2RlYWU3OWY4MGE2NGMzZGJhNDUyODBlZmY0",
+  "snapshot_id": "MCxmMzk3MjM4NTU1MjM0YzNhNTcwYzBmZTc2ZmU2MGE3OGU5OTM0NzMz",
   "tracks": [
     {
       "added_at": "2024-01-12 15:33:57",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-01-12 15:33:57",
       "album": {
+        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Oh N\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4OjfLZXliygHX2OeXKmc9i"
+    },
+    {
+      "added_at": "2024-01-12 15:33:57",
+      "album": {
         "name": "COLADINHO",
         "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 152079,
       "name": "COLADINHO",
       "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
-    },
-    {
-      "added_at": "2024-01-12 15:33:57",
-      "album": {
-        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Oh N\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/4OjfLZXliygHX2OeXKmc9i"
     },
     {
       "added_at": "2024-01-12 15:33:57",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-01-12 15:33:57",
       "album": {
-        "name": "Que Cal\u00f4",
-        "url": "https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 180512,
-      "name": "Que Cal\u00f4",
-      "url": "https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz"
-    },
-    {
-      "added_at": "2024-01-12 15:33:57",
-      "album": {
         "name": "Luar",
         "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
       },
@@ -803,6 +783,30 @@
     {
       "added_at": "2024-01-12 15:33:57",
       "album": {
+        "name": "N\u00e3o Prometeu Nada",
+        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
+      },
+      "artists": [
+        {
+          "name": "Victor sant's",
+          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
+        },
+        {
+          "name": "Pivet Panda",
+          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "N\u00e3o Prometeu Nada",
+      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
+    },
+    {
+      "added_at": "2024-01-12 15:33:57",
+      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
       },
@@ -835,26 +839,22 @@
     {
       "added_at": "2024-01-12 15:33:57",
       "album": {
-        "name": "N\u00e3o Prometeu Nada",
-        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
+        "name": "Que Cal\u00f4",
+        "url": "https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD"
       },
       "artists": [
         {
-          "name": "Victor sant's",
-          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "Pivet Panda",
-          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         }
       ],
-      "duration_ms": 175200,
-      "name": "N\u00e3o Prometeu Nada",
-      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
+      "duration_ms": 180512,
+      "name": "Que Cal\u00f4",
+      "url": "https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz"
     },
     {
       "added_at": "2024-01-12 15:33:57",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-01-12 15:33:57",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 144522,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
-    },
-    {
-      "added_at": "2024-01-12 15:33:57",
-      "album": {
         "name": "A\u00ed \u00e9 Bom Demais",
         "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 197667,
       "name": "A\u00ed \u00e9 Bom Demais",
       "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
+    },
+    {
+      "added_at": "2024-01-12 15:33:57",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        }
+      ],
+      "duration_ms": 144522,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
     },
     {
       "added_at": "2024-01-12 15:33:57",

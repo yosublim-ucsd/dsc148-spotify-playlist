@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 284457,
+  "2024-01-16": 284302,
   "date_first_scraped": "2022-03-22",
   "description": "Fresh Latin pop on the rise. Cover: Emilia & NATHY PELUSO",
   "name": "el nuevo pop",
@@ -5451,7 +5451,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 126013,
       "name": "Mancora",
       "url": "https://open.spotify.com/track/7096gyexnvsXEwe0m2TYfv"
@@ -8675,6 +8675,24 @@
       "duration_ms": 162500,
       "name": "Secuela",
       "url": "https://open.spotify.com/track/43XwC379JnUYhLhqVfpIls"
+    },
+    {
+      "album": {
+        "name": "Segunda Parte",
+        "url": "https://open.spotify.com/album/2HnRMOIJIokubg4BJHVdLQ"
+      },
+      "artists": [
+        {
+          "name": "Adri Torron",
+          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176489,
+      "name": "Segunda Parte",
+      "url": "https://open.spotify.com/track/116yQ8HR9Azrlf5ZxMXgNU"
     },
     {
       "album": {

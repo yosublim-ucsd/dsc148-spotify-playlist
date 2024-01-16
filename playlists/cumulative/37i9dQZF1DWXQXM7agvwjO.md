@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Paul Partohap \(Indonesia\)
 
-1,132 songs - 2 day 20 hr 12 min
+1,133 songs - 2 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [a luv song](https://open.spotify.com/track/0V3P6jdD0vxBrsBFErn1Xg) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [friexza](https://open.spotify.com/artist/3DGKUbhwIE6KEIbpJhp5Cq) | [a luv song](https://open.spotify.com/album/3ebClLURIBXy425TuC7Gbo) | 3:43 | 2022-09-22 | 2022-10-07 |
 | [A Noisy Train](https://open.spotify.com/track/3KJHGwOSRZmoM9WD7DaVVd) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [A Noisy Train](https://open.spotify.com/album/1HlFmZZUjGmNgppfCP7yz3) | 4:20 | 2023-08-17 | 2023-09-16 |
 | [A Nothing Day](https://open.spotify.com/track/3XuBSGfyPaVxfpt97F5IVJ) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [GLOOMY BOOGIE Vol\. 2](https://open.spotify.com/album/2QmP1Re18kxf8OUbRKw4GN) | 2:42 | 2023-11-30 | 2023-12-24 |
+| [A Nothing Day](https://open.spotify.com/track/5gIktKmECYQP5HY0dYfbst) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [GLOOMY BOOGIE](https://open.spotify.com/album/3iDH8JeYPyeuQ7OcTWnzjq) | 2:42 | 2024-01-11 |  |
 | [A Place to Belong](https://open.spotify.com/track/4lun8QvR4sKXK1undQgIr7) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [A Place to Belong](https://open.spotify.com/album/14EI3GUx9auJPVLWh612jE) | 3:58 | 2022-12-15 | 2023-01-27 |
 | [A Promised Land](https://open.spotify.com/track/1Bh2D6JRzwn1ZPL2dxcfnh) | [Wicked Lights](https://open.spotify.com/artist/2JMweZxR2xGs9rcfzktB5k) | [Have A Nice Dream](https://open.spotify.com/album/1V8UvQAM2qaPb4326KWUE3) | 5:37 | 2023-09-15 | 2023-09-22 |
 | [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-13 | 2023-04-27 |
@@ -283,7 +284,7 @@
 | [Easy Like 123](https://open.spotify.com/track/5WafeWUNLnf2BY9UJ3xgRP) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [FUNFAIR](https://open.spotify.com/album/5n2ics3EJmLttFmgBkeC7i) | 2:28 | 2022-04-07 | 2022-04-22 |
 | [Eksplisit](https://open.spotify.com/track/0VIvXVm6RN2Dm0cCZxKHTq) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Eksplisit](https://open.spotify.com/album/28x4n2ncfpIByC8Q76lxVU) | 3:32 | 2023-02-16 | 2023-03-18 |
 | [Elevator Music \(OMG\)](https://open.spotify.com/track/4mYTYavKZErjx5MjDuaNW2) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Blueboy Must Die](https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg) | 2:44 | 2023-09-07 | 2023-10-13 |
-| [Em Trang Trí](https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Em Trang Trí](https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3) | 2:45 | 2023-04-20 |  |
+| [Em Trang Trí](https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Em Trang Trí](https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3) | 2:45 | 2023-04-20 | 2024-01-16 |
 | [Em Trong Đầu](https://open.spotify.com/track/0ON38MgDpAMcRC9ULx7NOf) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Gieo](https://open.spotify.com/album/1ZnJrvDY8ih3ppPWR2Tc2a) | 3:18 | 2022-12-08 | 2023-01-13 |
 | [Emi](https://open.spotify.com/track/2LmAkK4Q8ICC4Zjwi88Lfv) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [Emi](https://open.spotify.com/album/0chDoPF513Mifi9TP50kqT) | 4:32 | 2023-12-08 |  |
 | [Empathy](https://open.spotify.com/track/0smhYLzS4wSETI2ALFrIXr) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Empathy](https://open.spotify.com/album/2SVHt6UvABd7VDnzDIkfB6) | 3:32 | 2023-09-29 | 2023-10-13 |

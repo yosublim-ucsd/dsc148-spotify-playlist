@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 280845,
       "name": "hard to let you go",
       "url": "https://open.spotify.com/track/5DNGbLPU0fQVWPWToqCodN"
@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "So Far Away",
+        "url": "https://open.spotify.com/album/6vchSuJqaags07dhfrdpSP"
+      },
+      "artists": [
+        {
+          "name": "\u5289\u82af\u59a4",
+          "url": "https://open.spotify.com/artist/0HMLasq8hfthRFt6DGRA47"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242571,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/0TdHOyWGsuZIStaVJIBuTI"
+    },
+    {
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/5LaEOiUvmv5sTX4lEPIxD6"
       },
@@ -510,7 +528,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 280524,
       "name": "You Better Not Think About Me",
       "url": "https://open.spotify.com/track/0mpo3w2SHXb3rsfepeG5Pr"
@@ -810,6 +828,28 @@
       "duration_ms": 222098,
       "name": "\u4e0d\u80fd\u547c\u5438\u7684\u611b",
       "url": "https://open.spotify.com/track/5iPSfA6kStHPKvyc5GLr8X"
+    },
+    {
+      "album": {
+        "name": "\u5468\u6770\u502b\u7684\u5e8a\u908a\u6545\u4e8b",
+        "url": "https://open.spotify.com/album/7sydOexyOcfIdE9Pt4WR1H"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290133,
+      "name": "\u4e0d\u8a72",
+      "url": "https://open.spotify.com/track/5miH0BWhRVTvHAwmnoeyXH"
     },
     {
       "album": {
@@ -1347,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "\u4f60\u7684\u7ae5\u8a71",
+        "url": "https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD"
+      },
+      "artists": [
+        {
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327001,
+      "name": "\u4f60\u7684\u7ae5\u8a71 (\u96fb\u8996\u5287\u300a\u4f60\u4e5f\u6709\u4eca\u5929\u300b\u7247\u5c3e\u66f2)",
+      "url": "https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm"
+    },
+    {
+      "album": {
         "name": "\u4f60\u7684\u9152\u9986\u5bf9\u6211\u6253\u4e86\u70ca",
         "url": "https://open.spotify.com/album/2lYhegs4QXZDW1vpmsR1FW"
       },
@@ -1528,7 +1586,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 272003,
       "name": "\u5099\u80ce (feat. Eetu Kalavainen)",
       "url": "https://open.spotify.com/track/6OuBzoZm0GHYzPNGlvB3yx"
@@ -2505,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "\u5929\u4e0b",
+        "url": "https://open.spotify.com/album/2jhnvk13zoeCfb74AvTyr2"
+      },
+      "artists": [
+        {
+          "name": "\u4e8e\u51ac\u7136",
+          "url": "https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205833,
+      "name": "\u5929\u4e0b",
+      "url": "https://open.spotify.com/track/7vlCdxLVwaV6wBPFwcFXXK"
+    },
+    {
+      "album": {
         "name": "\u300a\u516b\u5c3a\u9580\u7684\u8faf\u8b77\u4eba\u300b\u4e3b\u984c\u66f2\u539f\u8072\u5e36",
         "url": "https://open.spotify.com/album/29GUehP1C75V485aAC0dUO"
       },
@@ -2826,7 +2902,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 294379,
       "name": "\u5982\u6b4c\u7684\u6b72\u6708",
       "url": "https://open.spotify.com/track/7DqDwHD5dCzsGQP4au3l8I"
@@ -5221,6 +5297,24 @@
     },
     {
       "album": {
+        "name": "\u771f\u7684\u50bb",
+        "url": "https://open.spotify.com/album/3b55PQfSwRCOuNRhNlMIaD"
+      },
+      "artists": [
+        {
+          "name": "\u6668\u60a0 CHENYO",
+          "url": "https://open.spotify.com/artist/69HAncV59CvB16M51q77AI"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "\u771f\u7684\u50bb",
+      "url": "https://open.spotify.com/track/75SFJY5NVEG20HciRFqIp4"
+    },
+    {
+      "album": {
         "name": "\u771f\u7684\u50bb (\u96fb\u5f71\u300a\u4e00\u543b\u5b9a\u60c5\u300b\u8ffd\u611b\u7248\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/5VjoZ5TS5zF54zP5gB4O0B"
       },
@@ -5828,7 +5922,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 186112,
       "name": "\u89c2\u661f\u8005",
       "url": "https://open.spotify.com/track/4eMJ21iW1GzeH9SYVHC2MH"

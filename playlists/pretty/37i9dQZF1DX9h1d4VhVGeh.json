@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 174922,
+  "num_followers": 174987,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzcyZjVjYjI4YTlmYjRjYzMzZjE4MTY2ZGY2ZGJmNTAxNTI4NWUz",
+  "snapshot_id": "MCxiOTAxZGZhZjVkMzQ2NDUxMzllNzU1Y2M5MDVlN2Y2YmQwMWYxYzM1",
   "tracks": [
     {
       "added_at": "2023-12-27 09:37:08",
@@ -91,26 +91,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Roma",
-        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
-      },
-      "artists": [
-        {
-          "name": "Cairokee",
-          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
-        },
-        {
-          "name": "Sara Moullablad",
-          "url": "https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM"
-        }
-      ],
-      "duration_ms": 257656,
-      "name": "Nefsy Ahbek",
-      "url": "https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Mawloud Sanat 80",
         "url": "https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7"
       },
@@ -179,18 +159,22 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Bi Saraha",
-        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
       },
       "artists": [
         {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        },
+        {
+          "name": "Sara Moullablad",
+          "url": "https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM"
         }
       ],
-      "duration_ms": 199864,
-      "name": "Bi Saraha",
-      "url": "https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP"
+      "duration_ms": 257656,
+      "name": "Nefsy Ahbek",
+      "url": "https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -207,6 +191,22 @@
       "duration_ms": 298292,
       "name": "Ahwak",
       "url": "https://open.spotify.com/track/1chsFxuRdocgGwhhCYfZ9m"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Bi Saraha",
+        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "duration_ms": 199864,
+      "name": "Bi Saraha",
+      "url": "https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
-        "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
-      },
-      "artists": [
-        {
-          "name": "Abdulrahman Mohammed",
-          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
-        },
-        {
-          "name": "Mohab Omer",
-          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
-      "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Ya Ayech Bi Oyouni",
         "url": "https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 326739,
       "name": "Saaltak Habiby",
       "url": "https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
+        "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
+      },
+      "artists": [
+        {
+          "name": "Abdulrahman Mohammed",
+          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
+        },
+        {
+          "name": "Mohab Omer",
+          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
+      "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Poco a Poco",
-        "url": "https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC"
-      },
-      "artists": [
-        {
-          "name": "Sonia Noor",
-          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
-        }
-      ],
-      "duration_ms": 222440,
-      "name": "Poco a Poco",
-      "url": "https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "HANNET LEKLOUB",
         "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 235026,
       "name": "Sucre",
       "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Poco a Poco",
+        "url": "https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC"
+      },
+      "artists": [
+        {
+          "name": "Sonia Noor",
+          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
+        }
+      ],
+      "duration_ms": 222440,
+      "name": "Poco a Poco",
+      "url": "https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Ya Zalamez",
-        "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        },
-        {
-          "name": "Norah Shaqur",
-          "url": "https://open.spotify.com/artist/357LwT1uF798pX9P418HhS"
-        }
-      ],
-      "duration_ms": 233215,
-      "name": "Albi",
-      "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Leila",
         "url": "https://open.spotify.com/album/2iw5NCNPUG8Wv0kg2ujCcc"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 206044,
       "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Ya Zalamez",
+        "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        },
+        {
+          "name": "Norah Shaqur",
+          "url": "https://open.spotify.com/artist/357LwT1uF798pX9P418HhS"
+        }
+      ],
+      "duration_ms": 233215,
+      "name": "Albi",
+      "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Ossit Helem",
-        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 232618,
-      "name": "Bala Wala Shi (Live)",
-      "url": "https://open.spotify.com/track/0EP3x8Yh2JtvWmFjEOENU3"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Shou Byeb'a",
         "url": "https://open.spotify.com/album/3oyjqPAgYJfJ3uP8vEgbfB"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 223014,
       "name": "Shou Byeb'a",
       "url": "https://open.spotify.com/track/5BuuNKK47ns8EkBBNT9LWn"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Ossit Helem",
+        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 232618,
+      "name": "Bala Wala Shi (Live)",
+      "url": "https://open.spotify.com/track/0EP3x8Yh2JtvWmFjEOENU3"
     },
     {
       "added_at": "2023-12-27 09:37:08",

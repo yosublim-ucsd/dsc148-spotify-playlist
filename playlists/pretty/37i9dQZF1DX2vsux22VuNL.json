@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Thiaguinho, L7NNON",
-  "num_followers": 291422,
+  "num_followers": 291391,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Njk0YWVkYWFjMzI3ZjdlOTU4OWY3MzRhNzlmMTlhZGQ2MTI5ZGEw",
+  "snapshot_id": "MCw5MzU0YWRmZDlkY2VjODc4ZjM3NGU2NTI0ODcyZDA1YTIxOWI3NTUz",
   "tracks": [
     {
       "added_at": "2024-01-12 03:00:00",
@@ -239,22 +239,26 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Aladdin",
-        "url": "https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk"
+        "name": "N\u00e3o Demora",
+        "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
       },
       "artists": [
         {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         }
       ],
-      "duration_ms": 154374,
-      "name": "Aladdin",
-      "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
+      "duration_ms": 182003,
+      "name": "N\u00e3o Demora",
+      "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -283,30 +287,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "N\u00e3o Demora",
-        "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 182003,
-      "name": "N\u00e3o Demora",
-      "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Eu T\u00f4 Bem",
         "url": "https://open.spotify.com/album/0UB56UeSf0wPQBPUjvL896"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 154615,
       "name": "Eu T\u00f4 Bem",
       "url": "https://open.spotify.com/track/2xk8j9SCiaFehFgxoFVEAW"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Aladdin",
+        "url": "https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "Aladdin",
+      "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -527,6 +527,30 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "Teu Sorriso",
+        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Teu Sorriso",
+      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
       },
@@ -571,30 +595,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Teu Sorriso",
-        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Teu Sorriso",
-      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Ele Me Falou",
         "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -707,22 +723,6 @@
       "duration_ms": 291166,
       "name": "Ladeira da Vida",
       "url": "https://open.spotify.com/track/6xKnsvZ0O06BvQcT2Prt2A"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -851,30 +851,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Agradecer",
-        "url": "https://open.spotify.com/album/6nbaW10oxiFgYuquDE1oxM"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "Deb Ribeiro",
-          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
-        },
-        {
-          "name": "Zeus",
-          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
-        }
-      ],
-      "duration_ms": 162470,
-      "name": "Agradecer",
-      "url": "https://open.spotify.com/track/0w7Rk3Czu5KSfLakYzPkrw"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Escuro Brilhante, \u00daltimo Dia no Orfanato Tia Guga",
         "url": "https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob"
       },
@@ -943,6 +919,30 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "Agradecer",
+        "url": "https://open.spotify.com/album/6nbaW10oxiFgYuquDE1oxM"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "Deb Ribeiro",
+          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
+        },
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        }
+      ],
+      "duration_ms": 162470,
+      "name": "Agradecer",
+      "url": "https://open.spotify.com/track/0w7Rk3Czu5KSfLakYzPkrw"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
         "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
       },
@@ -963,6 +963,30 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Meus Olhos",
+        "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 188548,
+      "name": "Meus Olhos",
+      "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1011,26 +1035,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
         "url": "https://open.spotify.com/album/7IaErXiyLBdaxKDqzd892m"
       },
@@ -1071,26 +1075,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Meus Olhos",
-        "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
       },
       "artists": [
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         },
         {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         }
       ],
-      "duration_ms": 188548,
-      "name": "Meus Olhos",
-      "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1159,26 +1159,26 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
       "artists": [
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
         },
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
         }
       ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1207,26 +1207,26 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
       "artists": [
         {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
         }
       ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "CULPADO",
-        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
+        "name": "mapa da mina",
+        "url": "https://open.spotify.com/album/1uVdxFe5nZky5FoesZaM3F"
       },
       "artists": [
         {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
         }
       ],
-      "duration_ms": 182933,
-      "name": "CULPADO",
-      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
+      "duration_ms": 163375,
+      "name": "mapa da mina",
+      "url": "https://open.spotify.com/track/5FJHgBu1z2ou3xRqwtCbzq"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "CULPADO",
+        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "CULPADO",
+      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "Queria Te Ver",
         "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
       },
@@ -1383,6 +1399,26 @@
       "duration_ms": 189562,
       "name": "Queria Te Ver",
       "url": "https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1427,26 +1463,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Voc\u00ea Falou pra Mim",
         "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 141120,
       "name": "Voc\u00ea Falou pra Mim",
       "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "mapa da mina",
-        "url": "https://open.spotify.com/album/1uVdxFe5nZky5FoesZaM3F"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 163375,
-      "name": "mapa da mina",
-      "url": "https://open.spotify.com/track/5FJHgBu1z2ou3xRqwtCbzq"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/2tmBwAa0NoFE0c8h3LfCCp"
-      },
-      "artists": [
-        {
-          "name": "NIZZ",
-          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "O Que Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
       },
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Quadrantes",
-        "url": "https://open.spotify.com/album/4rBGuWhliwok2qvqUrF3Yn"
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/2tmBwAa0NoFE0c8h3LfCCp"
       },
       "artists": [
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
         }
       ],
-      "duration_ms": 137435,
-      "name": "Quadrantes",
-      "url": "https://open.spotify.com/track/4c0D88soVytSSLYS0m3FCl"
+      "duration_ms": 175208,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1743,6 +1727,22 @@
       "duration_ms": 136430,
       "name": "Seu Z\u00e9",
       "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Quadrantes",
+        "url": "https://open.spotify.com/album/4rBGuWhliwok2qvqUrF3Yn"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 137435,
+      "name": "Quadrantes",
+      "url": "https://open.spotify.com/track/4c0D88soVytSSLYS0m3FCl"
     },
     {
       "added_at": "2024-01-12 03:00:00",

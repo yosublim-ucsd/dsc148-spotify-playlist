@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 299699,
+  "num_followers": 299714,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmNkYTcyNWI3YzA0ODM4NGZjNGIwZjNiZGU1ZDliY2E5YTBkY2Y4",
+  "snapshot_id": "MCw1ZDA1NmFhNDNhY2FhNDI2ZGU2ODZmOGZjOTU0YzU4M2QyOWY1NjYy",
   "tracks": [
     {
       "added_at": "2023-10-01 21:11:39",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 196133,
       "name": "Magic (feat. Rivers Cuomo)",
       "url": "https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "The Hunting Party",
-        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        }
-      ],
-      "duration_ms": 355120,
-      "name": "Guilty All the Same (feat. Rakim)",
-      "url": "https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Life Is Peachy",
         "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 240546,
       "name": "Wicked (feat. Chino Moreno)",
       "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "The Hunting Party",
+        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "duration_ms": 355120,
+      "name": "Guilty All the Same (feat. Rakim)",
+      "url": "https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -643,6 +643,26 @@
       "duration_ms": 382826,
       "name": "Rollin' (Urban Assault Vehicle)",
       "url": "https://open.spotify.com/track/3nsxMrnYlfBNotHRevTRgM"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Children of the Korn (feat. Ice Cube)",
+      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -783,42 +803,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Children of the Korn (feat. Ice Cube)",
-      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 361360,
-      "name": "Ready To Go",
-      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Radioactive (Explicit Version)",
         "url": "https://open.spotify.com/album/3AGMorE666prvzWaHGddKo"
       },
@@ -839,22 +823,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Transplants",
-        "url": "https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ"
-      },
-      "artists": [
-        {
-          "name": "Transplants",
-          "url": "https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q"
-        }
-      ],
-      "duration_ms": 241908,
-      "name": "Diamonds And Guns",
-      "url": "https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Game On (feat. Good Charlotte) [from \"Pixels - The Movie\"]",
         "url": "https://open.spotify.com/album/45qTcdlqFuZfj25pnYxeVL"
       },
@@ -871,6 +839,38 @@
       "duration_ms": 227080,
       "name": "Game On (feat. Good Charlotte) - From \"Pixels - The Movie\"",
       "url": "https://open.spotify.com/track/2qUTxCqJW2Irez1eYZcGNx"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 361360,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Transplants",
+        "url": "https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ"
+      },
+      "artists": [
+        {
+          "name": "Transplants",
+          "url": "https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q"
+        }
+      ],
+      "duration_ms": 241908,
+      "name": "Diamonds And Guns",
+      "url": "https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Up Style Down",
-        "url": "https://open.spotify.com/album/6OT8sbDrxyACRi1mzzkj9M"
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X"
       },
       "artists": [
         {
-          "name": "28 Days",
-          "url": "https://open.spotify.com/artist/0NXVGrFkPu0Cohh3BJV5Wx"
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
         }
       ],
-      "duration_ms": 219053,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl"
+      "duration_ms": 250213,
+      "name": "Unfuck The World",
+      "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
     }
   ],
   "unique_name": "Rap 'n' Roll",

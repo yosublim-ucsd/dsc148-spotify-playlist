@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: 21 Savage
 
-2,824 songs - 6 day 21 hr 3 min
+2,825 songs - 6 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1346,6 +1346,7 @@
 | [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 | 2023-12-03 | 2023-12-18 |
 | [My Innocence](https://open.spotify.com/track/7E9h1udUWTkqmOoNWnI1gO) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [My Innocence](https://open.spotify.com/album/1wHXxMbeFl5EOOgUnDe5vG) | 3:12 | 2023-01-29 | 2023-02-13 |
 | [My Jinji](https://open.spotify.com/track/0JTkPVNmfsy86OWvlXrtIW) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Jinji Kikko](https://open.spotify.com/album/30RoOJnInHXUzLK72XvlMN) | 6:40 | 2023-06-12 | 2023-06-19 |
+| [My Lady of Mercy](https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [My Lady Of Mercy](https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0) | 2:55 | 2024-01-15 |  |
 | [My Life](https://open.spotify.com/track/5Qvh1GFlIL2qSmZ7Yj4br6) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [My Life](https://open.spotify.com/album/7gdAMtRYRjZsylJXBaH6Xf) | 3:11 | 2023-06-11 | 2023-06-19 |
 | [My Life \(feat\. The Runaway Club\)](https://open.spotify.com/track/2ii4OMvYuKkRe7o4Xy68RH) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [The Runaway Club](https://open.spotify.com/artist/6tVdbeBMatYt5AZcmj8DnN) | [My Life \(feat\. The Runaway Club\)](https://open.spotify.com/album/0bSFvNT802a9GwaSwXRL0O) | 2:20 | 2023-02-05 | 2023-02-27 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-17 |  |
@@ -2792,7 +2793,7 @@
 | [論理はロンリー](https://open.spotify.com/track/5RoGgHnJ6QAClrbmjHvFdS) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [論理はロンリー](https://open.spotify.com/album/3U38JcKpHHhRfY2h7y0ESd) | 4:48 | 2024-01-14 |  |
 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 | 2023-06-13 | 2023-06-19 |
 | [踊り場のサーカスナイト](https://open.spotify.com/track/2moXvLn60P2tXJ0iKK6Lia) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [踊り場のサーカスナイト](https://open.spotify.com/album/0KyhovBbuSDaZckWIuJwEP) | 3:29 | 2023-12-31 |  |
-| [輝けるもの](https://open.spotify.com/track/5IWsAjExgVuzDZQT2gexuS) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [輝けるもの](https://open.spotify.com/album/0DwmAkmFvzWneRDrUZS88j) | 4:20 | 2024-01-07 |  |
+| [輝けるもの](https://open.spotify.com/track/5IWsAjExgVuzDZQT2gexuS) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [輝けるもの](https://open.spotify.com/album/0DwmAkmFvzWneRDrUZS88j) | 4:20 | 2024-01-07 | 2024-01-16 |
 | [近い夜明け](https://open.spotify.com/track/2a8183S8N1XtyHBbBOoFYy) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [近い夜明け](https://open.spotify.com/album/5cmjQoKSSl3HdQphqKpLvo) | 4:05 | 2023-05-07 | 2023-05-15 |
 | [退屈](https://open.spotify.com/track/0Imp3yueaJNsOjrnY2zmB7) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [退屈](https://open.spotify.com/album/3EtQUrq1CpdPVxrFV5vUNu) | 4:07 | 2023-12-10 | 2023-12-18 |
 | [透明なガール \-Dye me\- \(feat\. ひかり\) \- Kan Sano Remix](https://open.spotify.com/track/1siasGbYxYkN9PXZvNGTWS) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [透明なガール \(Remixes\)](https://open.spotify.com/album/2zu4pvYDprErsrMOA0eP8U) | 3:57 | 2023-12-17 | 2024-01-01 |

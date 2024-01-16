@@ -4,7 +4,7 @@
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-127 songs - 7 hr 7 min
+128 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [400 Mil Veinte Años](https://open.spotify.com/track/4VGUCIgdO6i6oYE6NyefYT) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [Evolucion](https://open.spotify.com/album/779LWwiN1DzQslUNywZvaZ) | 3:28 | 2023-10-12 |  |
 | [5 Minutos](https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Por Qué Me Gustas](https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP) | 3:41 | 2023-10-12 |  |
 | [A Toda Ley](https://open.spotify.com/track/1oKVaMt36y9ExZYXbNIRMV) | [Isma Ortiz & Sierreños M.O.](https://open.spotify.com/artist/3LzI4xUdzCw0OkdWT1phSa), [Dueto Los Armadillos](https://open.spotify.com/artist/7bpwAaudm06jhepHxDifV4) | [Conquistando](https://open.spotify.com/album/3Kpbz6Oa0pvG5E2IZAFjjX) | 2:31 | 2023-10-12 |  |
-| [Alta y Delgadita](https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune) | [HNOS\. SANTAMARIA DE TIERRA CALIENTE](https://open.spotify.com/artist/0sn5awme5aIW1SefU6ziCW) | [Nadie Sabe Lo Que Tiene](https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y) | 3:23 | 2023-10-12 |  |
+| [Alta y Delgadita](https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune) | [HNOS\. SANTAMARIA DE TIERRA CALIENTE](https://open.spotify.com/artist/0sn5awme5aIW1SefU6ziCW) | [Nadie Sabe Lo Que Tiene](https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y) | 3:23 | 2023-10-12 | 2024-01-16 |
 | [Aléjate](https://open.spotify.com/track/2EnsWGWtOUonOxo1DKdO9a) | [Freddy Cárdenas y su Grupo Brebaje](https://open.spotify.com/artist/0MZxSUM0Xqv7xipDHmvUlm) | [Aléjate](https://open.spotify.com/album/0j5CtCEF5m3SI6rzkHVRvZ) | 3:45 | 2023-10-12 |  |
 | [Amor a la Ligera](https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 2:29 | 2023-10-12 |  |
 | [Amor Limosnero](https://open.spotify.com/track/0SLdgfVlFaf0vv9HUFAXgx) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [De Parranda Con Jorge Garcia](https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa) | 3:39 | 2023-10-12 |  |
@@ -131,6 +131,7 @@
 | [Traficantes Michoacanos](https://open.spotify.com/track/3InbOGb8IJdbzjYUlLkrPf) | [Los hermanos Jimenez](https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn) | [Traficantes Michoacanos](https://open.spotify.com/album/3nhEMjYDoUJYApQQ22utG2) | 2:41 | 2023-10-12 |  |
 | [Tu Nuevo Cariñito](https://open.spotify.com/track/5mp6HHshKmDN9Sy1CanJOo) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [El Mejor De Todos](https://open.spotify.com/album/1AUXylDUCOVotYuD4vvTpy) | 2:33 | 2023-10-12 |  |
 | [Tuve una Novia](https://open.spotify.com/track/2Bkpw6I25bUultWsqj3ZlG) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Tuve una Novia](https://open.spotify.com/album/6mki6ggST0ZCY5yOpiBDNq) | 3:33 | 2023-10-12 | 2024-01-14 |
+| [Tuve una Novia](https://open.spotify.com/track/2l36YOAn4r37S9wj3Q2nyO) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [20 Éxitos de Ley \(Serie de Colección\)](https://open.spotify.com/album/7wrf7tzBFiEyJwgX4R6cf3) | 3:33 | 2023-10-12 |  |
 | [Un Día de Rey Otro de Wey](https://open.spotify.com/track/1XgvlEvmIfyenmpYdlZ0J4) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Monarcas 2018](https://open.spotify.com/album/6T7bhldD2jlBePRIaHh8n2) | 3:16 | 2023-10-12 |  |
 | [Veinte Mujeres de Negro](https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [18 Kilates](https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h) | 3:10 | 2023-10-12 |  |
 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 | 2023-10-12 |  |

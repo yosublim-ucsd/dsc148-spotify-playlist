@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo?si=\_7dt1SNIR5WmWQxNj\-173w"> نوال </a>
 
-752 songs - 1 day 18 hr 34 min
+754 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,7 @@
 | [Pablo Ewaa Tabelo](https://open.spotify.com/track/0knH4tZZ5skqSUjY3Ks6FY) | [Hassan El Raddad](https://open.spotify.com/artist/2gWQ4p1lY34EMOeHjbGS0t), [El Ordoni](https://open.spotify.com/artist/6jGepDFddofmnVlNnmSC4H) | [Pablo Ewaa Tabelo](https://open.spotify.com/album/5TJi6uxaLCPMCVMYau9300) | 2:46 | 2022-04-07 | 2022-07-21 |
 | [Paris Dubaï](https://open.spotify.com/track/3n2WhCms25jdQo5msJTvBf) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Paris Dubaï](https://open.spotify.com/album/1Iynd8khQBQ1J7ql4lgFSx) | 3:06 | 2021-12-30 | 2022-03-15 |
 | [Ra2y 3am](https://open.spotify.com/track/2cXNrefEFkDbm65gOjnUZw) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx) | [Ra2y 3am](https://open.spotify.com/album/0Wo2JEEICswHDwy8iTDgJI) | 2:43 | 2024-01-11 |  |
-| [Raha](https://open.spotify.com/track/0epZMFP9yDZP4imm5whVvO) | [Mahmoud Siam](https://open.spotify.com/artist/5qTGPUX2P4ShWiUyIoWCo9), [Hala Roushdy](https://open.spotify.com/artist/7DAWcw9PdXb5IM1g7G8JzX) | [Red Bull Sika](https://open.spotify.com/album/4Lo5BDtGFVcT1OOCu4Qp4b) | 2:32 | 2023-10-04 |  |
+| [Raha](https://open.spotify.com/track/0epZMFP9yDZP4imm5whVvO) | [Mahmoud Siam](https://open.spotify.com/artist/5qTGPUX2P4ShWiUyIoWCo9), [Hala Roushdy](https://open.spotify.com/artist/7DAWcw9PdXb5IM1g7G8JzX) | [Red Bull Sika](https://open.spotify.com/album/4Lo5BDtGFVcT1OOCu4Qp4b) | 2:32 | 2023-10-04 | 2024-01-16 |
 | [Ramo Tobty](https://open.spotify.com/track/1fMfO3xpg1OGfmNBXow57n) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Ramo Tobty](https://open.spotify.com/album/0CKqgpYnHAetUCjrn74BvQ) | 2:41 | 2023-06-22 | 2023-07-28 |
 | [Ramy El Hemoul](https://open.spotify.com/track/6zIvLt0jU08Nb6OnxLDelm) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:25 | 2022-02-16 | 2022-05-19 |
 | [Rawa2any](https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Rawa2any](https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS) | 3:11 | 2023-09-27 | 2024-01-05 |
@@ -437,6 +437,7 @@
 | [Sabok Fel Beit](https://open.spotify.com/track/31VMiaHcvuaO3Hz2bWb0Qw) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Sabok Fel Beit](https://open.spotify.com/album/3EroB4W63EzsReYPUq3W5r) | 5:10 | 2023-05-04 | 2023-06-09 |
 | [Sad Khana](https://open.spotify.com/track/1AIQIDVTAbmlOSNdhOjUlc) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Sad Khana](https://open.spotify.com/album/1Ejmq4KPVN6jDkZmWfTIFt) | 3:52 | 2023-02-16 | 2023-04-21 |
 | [Safert B3eed \- سافرت بعيد](https://open.spotify.com/track/4dRCwaICB2eo2VBcelXmNu) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Safert B3eed \(سافرت بعيد\)](https://open.spotify.com/album/0WZPlrKmI7mZPjBkIahYkg) | 4:03 | 2023-08-28 | 2023-12-21 |
+| [Saggan](https://open.spotify.com/track/7yKvi1Ftnda6J3PyqKY139) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Saggan](https://open.spotify.com/album/7FqxSipC4DIQ0IA3RgWqxa) | 2:53 | 2024-01-15 |  |
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-07 | 2022-09-26 |
 | [Saheb Elgmal](https://open.spotify.com/track/7mVS4YxLT7IT2Ao4K7iIEo) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [صاحب الجمال](https://open.spotify.com/album/2eHo5yU1pR9oRmAbS6Ql41) | 3:35 | 2021-12-23 | 2022-01-21 |
 | [Salam](https://open.spotify.com/track/3FqMnmjsk4KDSdDC279tUS) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Salam](https://open.spotify.com/album/4GZe5xoQhego59080gUcqM) | 4:00 | 2021-12-23 | 2022-01-11 |
@@ -643,6 +644,7 @@
 | [روق](https://open.spotify.com/track/60RmfptZLtkoxaCZuuTrVg) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [روق](https://open.spotify.com/album/6X1CS8FShrwAZDmUgrqTFV) | 3:01 | 2022-01-27 | 2022-04-29 |
 | [سارح فى السما \( فى ثانيه كله كان معايا \)](https://open.spotify.com/track/2iudD0MDAvJvV4Po8pQvGV) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [سارح فى السما \( فى ثانيه كله كان معايا \)](https://open.spotify.com/album/0Lgx0uYxOsVbLMDKBeI71K) | 3:20 | 2023-04-20 | 2023-05-19 |
 | [سحلاني](https://open.spotify.com/track/6OqfxVVUvkSesd88gTUCOt) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk) | [سحلاني](https://open.spotify.com/album/7yM6tuifG1Yo3Px5Gq7hfe) | 3:01 | 2023-05-04 | 2023-06-16 |
+| [سخنت](https://open.spotify.com/track/3XAUmK0uUZKIWET53ty42t) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [سخنت](https://open.spotify.com/album/5BkD4tMCI2qfFecCXRvtO3) | 3:06 | 2024-01-15 |  |
 | [سلام يا عم](https://open.spotify.com/track/6IhUxlhxf852CyABJ9yw4o) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [سلام يا عم](https://open.spotify.com/album/1wLE9SUeHUUNaa1iHmJRwI) | 3:39 | 2023-06-08 | 2023-06-23 |
 | [سمع هس](https://open.spotify.com/track/7v6T4DIvmmmUmyAxMdNUAJ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Karim Abdelaziz](https://open.spotify.com/artist/2MFCrt54MlbqNJZdjWiTUs), [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6) | [سمع هس](https://open.spotify.com/album/44zSqMLdhsuJc6iGs9VruL) | 2:36 | 2023-06-19 | 2023-07-25 |
 | [سوكسيه](https://open.spotify.com/track/2e9tv43tcu7X9pqxvKkkRI) | [Nehal Kamal](https://open.spotify.com/artist/0IlcjzFU7NNJbTFZEPDRGf), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [سوكسيه](https://open.spotify.com/album/2Wu6uUUCLxq99a0DnuMvpa) | 3:27 | 2021-12-23 | 2022-03-10 |

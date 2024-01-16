@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > We're back! The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Kyle Wildfern
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,908 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,963 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [The Problem](https://open.spotify.com/track/1jqxX4ZOWlJS4IndoohhAh) | [Budman.](https://open.spotify.com/artist/4nYiKj7r3vpgTeoF0kz5rU) | [The Problem](https://open.spotify.com/album/0d5LHZzOt8UViHoSJ1vPSZ) | 2:34 |
 | 75 | [My Mother's Daughter](https://open.spotify.com/track/3Z2F2EWLS8AIn4ukk5LxrD) | [Shahaddah Jack](https://open.spotify.com/artist/3e19WLdCU6Eb6XLQiCSYhZ) | [My Mother's Daughter](https://open.spotify.com/album/0JxAV3R3HbBF30WBhNamct) | 2:00 |
 
-Snapshot ID: `MCwzY2ZjODJjYWY1MDhmZDg2Mjg2ZDFhZDU2NmFmOTJhNjNjNGM3ZTc5`
+Snapshot ID: `MCw1NzBjZjcwN2JjYTk1MjRjZDJmYTcyMjNmM2M2NGMyMWI5ZjlkZmQy`

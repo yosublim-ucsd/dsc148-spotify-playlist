@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 396756,
+  "num_followers": 396577,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGJmNGJkOGQ1MzNiZTkxNWI3YzQ5MDYyMGRjOTU1NGMyOTRhOGM3",
+  "snapshot_id": "MCxhMzRhNDU5YjkyMTEwOTBkNzA1NDIzMWY4MzUxODE3YzA3NzJiZGFi",
   "tracks": [
     {
       "added_at": "2023-12-06 20:28:35",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 204718,
+      "name": "De Vez en Cuando",
+      "url": "https://open.spotify.com/track/1QZk1of3DuIrqCklUPfy4W"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
         "name": "Regalo",
         "url": "https://open.spotify.com/album/512JRiq6UX5wYeFIAXN4KK"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 177640,
       "name": "Regalo",
       "url": "https://open.spotify.com/track/7mU8ts3VQhufEOMc00vzKX"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 204718,
-      "name": "De Vez en Cuando",
-      "url": "https://open.spotify.com/track/1QZk1of3DuIrqCklUPfy4W"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "Tourist (Remastered)",
-        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
-      },
-      "artists": [
-        {
-          "name": "St Germain",
-          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
-        }
-      ],
-      "duration_ms": 354715,
-      "name": "Latin Note",
-      "url": "https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
         "name": "Tiene Sabor",
         "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 240562,
       "name": "Tiene Sabor",
       "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
+        "name": "Tourist (Remastered)",
+        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        }
+      ],
+      "duration_ms": 354715,
+      "name": "Latin Note",
+      "url": "https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Vanesa Mart\u00edn",
-          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
         "name": "Tregua",
         "url": "https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 183066,
       "name": "Tregua",
       "url": "https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "Esperando Verte",
-        "url": "https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        }
-      ],
-      "duration_ms": 232853,
-      "name": "Esperando Verte",
-      "url": "https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
         "name": "Tr\u00e9bol",
         "url": "https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 159790,
       "name": "Si Te Contara",
       "url": "https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
+        "name": "Esperando Verte",
+        "url": "https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Esperando Verte",
+      "url": "https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "Parrilladas Vargas",
-        "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 131897,
-      "name": "Una Piedra en el Cielo",
-      "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
         "name": "Para Llevar",
         "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
       },
@@ -1231,22 +1215,18 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "El Caudal",
-        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
+        "name": "Parrilladas Vargas",
+        "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
       },
       "artists": [
         {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
         }
       ],
-      "duration_ms": 237619,
-      "name": "El Caudal",
-      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
+      "duration_ms": 131897,
+      "name": "Una Piedra en el Cielo",
+      "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -1291,18 +1271,22 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
+        "name": "El Caudal",
+        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
       },
       "artists": [
         {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 261696,
-      "name": "Mariposas Blancas",
-      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
+      "duration_ms": 237619,
+      "name": "El Caudal",
+      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 261696,
+      "name": "Mariposas Blancas",
+      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
         "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
         "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "Pelear",
-        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
-      },
-      "artists": [
-        {
-          "name": "Blanco Palamera",
-          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
-        }
-      ],
-      "duration_ms": 252397,
-      "name": "Pelear",
-      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 208320,
       "name": "El Chuchumb\u00e9",
       "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
+        "name": "Pelear",
+        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
+      },
+      "artists": [
+        {
+          "name": "Blanco Palamera",
+          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+        }
+      ],
+      "duration_ms": 252397,
+      "name": "Pelear",
+      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "The Now Sound of Ursula 1000 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7pyqMk8bzqQDIAFT2MdRKK"
-      },
-      "artists": [
-        {
-          "name": "Ursula 1000",
-          "url": "https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT"
-        }
-      ],
-      "duration_ms": 340946,
-      "name": "Mambo 1000",
-      "url": "https://open.spotify.com/track/1NuSZFERO5CMr0dSrWO3Lu"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
         "name": "Meus Momentos: Paulinho Da Viola",
         "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
+        "name": "The Now Sound of Ursula 1000 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7pyqMk8bzqQDIAFT2MdRKK"
+      },
+      "artists": [
+        {
+          "name": "Ursula 1000",
+          "url": "https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT"
+        }
+      ],
+      "duration_ms": 340946,
+      "name": "Mambo 1000",
+      "url": "https://open.spotify.com/track/1NuSZFERO5CMr0dSrWO3Lu"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
         "name": "Companeros De Mi Vida",
         "url": "https://open.spotify.com/album/5syN6MvgMAkQDOpYy8mceC"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 262989,
       "name": "Maria Cristina",
       "url": "https://open.spotify.com/track/6RkiGbfRM1Blo3iXVc98uS"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
+      },
+      "artists": [
+        {
+          "name": "Si*S\u00e9",
+          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Donde Est\u00e1",
+      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -1639,22 +1655,6 @@
       "duration_ms": 313750,
       "name": "Grietas",
       "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
-      },
-      "artists": [
-        {
-          "name": "Si*S\u00e9",
-          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Donde Est\u00e1",
-      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
     },
     {
       "added_at": "2023-12-06 20:28:35",

@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 811202,
+  "2024-01-16": 810954,
   "date_first_scraped": "2022-04-20",
   "description": "Relax to gentle vocal and instrumental Jazz.",
   "name": "Jazz Relax",
@@ -2609,7 +2609,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 233514,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/15L7bPjJZDxhhaaY1pKbpK"
@@ -6961,6 +6961,24 @@
       "duration_ms": 507534,
       "name": "I Have Dreamed",
       "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"
+    },
+    {
+      "album": {
+        "name": "I Hear You Now",
+        "url": "https://open.spotify.com/album/7KAddonNSAiDuYBlMZIYS3"
+      },
+      "artists": [
+        {
+          "name": "Carla Anderson",
+          "url": "https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223454,
+      "name": "I Hear You Now",
+      "url": "https://open.spotify.com/track/6SMfs8KCyzSANk33d3cQcN"
     },
     {
       "album": {
@@ -18108,6 +18126,24 @@
     },
     {
       "album": {
+        "name": "Who Can Tell",
+        "url": "https://open.spotify.com/album/6YnErcW1NClFot1YHz29zi"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219615,
+      "name": "Who Can Tell",
+      "url": "https://open.spotify.com/track/6GpJYnZJXbi8BRZgUxa5Pt"
+    },
+    {
+      "album": {
         "name": "Love Jumped Out",
         "url": "https://open.spotify.com/album/09TftPWypfuAl6wdUNw9aJ"
       },
@@ -18685,7 +18721,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 217370,
       "name": "You Stepped Out Of A Dream",
       "url": "https://open.spotify.com/track/627SZOevCkeudqmkV3Mc6h"

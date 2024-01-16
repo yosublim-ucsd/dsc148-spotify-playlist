@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,273 likes - 100 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,314 likes - 100 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 70 | [Night Owl](https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns) | 6:16 |
 | 71 | [The Dark Sea of Awareness](https://open.spotify.com/track/1J5QYbZLeLPjQUIa92yMdE) | [PIERJ](https://open.spotify.com/artist/0XqcmCaE2gQvtiSnfw6cnj) | [The Dark Sea of Awareness](https://open.spotify.com/album/6nCGsneNWhJj1GOeJXlDaQ) | 7:13 |
 | 72 | [Bataille's Will \- Oceanvs Orientalis Remix](https://open.spotify.com/track/35jUZgmjDmVyvchmhczt82) | [Emin Gök](https://open.spotify.com/artist/0G6CKdqtwYDdGOgqw3GSNE), [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Continuity](https://open.spotify.com/album/2P6JiDOFgHLOT4VsDR6NTw) | 5:31 |
-| 73 | [](https://open.spotify.com/track/4ssNM8cQStlQn7U2ZdEk2D) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/79EK83wLCeDcVcos3A7osl) | 0:00 |
+| 73 | [Hikâye](https://open.spotify.com/track/4ssNM8cQStlQn7U2ZdEk2D) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC), [Tuğçe Kurtiş](https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf) | [Hikâye](https://open.spotify.com/album/79EK83wLCeDcVcos3A7osl) | 7:45 |
 | 74 | [The End Homage \(feat\. Duenia\)](https://open.spotify.com/track/2joSIGY8pHPt3PGl5JoSKl) | [Biota](https://open.spotify.com/artist/4nzXUdRf1uVNKqlyFQwutD), [Duenia](https://open.spotify.com/artist/2JYtaaw3tnqJXQsOWqJN0r) | [The End Homage](https://open.spotify.com/album/2J0yedk08oqBqEHkyU45su) | 7:19 |
 | 75 | [Une foule](https://open.spotify.com/track/7LWLVydjuu0kxBLAIfWOwy) | [Gaspar Claus](https://open.spotify.com/artist/6KqcjBp8Xap7vzjg3IQPtk) | [Tancade](https://open.spotify.com/album/3gljD9nf9Ln8RMU6P3HY9U) | 3:16 |
 | 76 | [Sama](https://open.spotify.com/track/72ilCqHF1BzEqQGzKkPI13) | [Ikaru](https://open.spotify.com/artist/4tYwl76xf1qgXxZapr6NVl), [Barış Demirel](https://open.spotify.com/artist/1aITX6DDHmFbRuXXiFNdyR) | [Monolith](https://open.spotify.com/album/4a6AeHFHXmVzk9zk2IjVDT) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 99 | [Marmara](https://open.spotify.com/track/0mWySChvIoNiwwjrseycdT) | [Muno](https://open.spotify.com/artist/1DZGRRvmPsjC8o8F8MwpRe) | [Marmara](https://open.spotify.com/album/4j0YbHO2ronLXxxVXHEMt2) | 5:50 |
 | 100 | [Lyre](https://open.spotify.com/track/6sFgqgE20JJ3whmxIOoP8h) | [NINZE & OKAXY](https://open.spotify.com/artist/4yJU0dWTxh9cmKKjXWOneJ) | [Cranes at Night](https://open.spotify.com/album/7CTizjF89XdarzPdTPMmdW) | 5:35 |
 
-Snapshot ID: `MCwxODg1ZTM4ZDQ3ZThjMzljMWNmOTFkOWU0YzI0YmRkNThlZGQ0ZmZl`
+Snapshot ID: `MCw5ODc0MDFjZmQ1Mjk3ODFjYWMwOGQ3YjFhNGRmZTYyNTA4MDZjMGNj`

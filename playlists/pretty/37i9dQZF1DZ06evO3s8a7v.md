@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 > This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,129 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,179 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 15 | [MYA LIVE P1: Chanel de Coco](https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [MYA LIVE P1: Chanel de Coco](https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ) | 3:29 |
 | 16 | [Nunca Soltamos](https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Nunca Soltamos](https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E) | 3:18 |
 | 17 | [250X](https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [250X](https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS) | 2:17 |
-| 18 | [BIKINI](https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BIKINI](https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E) | 3:02 |
-| 19 | [HISTERIQUEO](https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [HISTERIQUEO](https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc) | 3:25 |
+| 18 | [HISTERIQUEO](https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [HISTERIQUEO](https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc) | 3:25 |
+| 19 | [BIKINI](https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BIKINI](https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E) | 3:02 |
 | 20 | [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 |
 | 21 | [No Bailo Pa Ti](https://open.spotify.com/track/5tCWZXTFstxYy1BoF7q6J6) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [No Bailo Pa Ti](https://open.spotify.com/album/2qzobqLuiyFRIMF9FyRHip) | 2:51 |
 | 22 | [Insta \- Remix](https://open.spotify.com/track/1K9b2N8P77GNFnx5Tw6MbA) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Insta \(Remix\)](https://open.spotify.com/album/6MZFJuzRUr28x1Fxs3sJxp) | 3:26 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 50 | [Fuego](https://open.spotify.com/track/1sOQKZHaEo2SKzVfUqMriM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Fuego](https://open.spotify.com/album/481GrNpsZ4fKzykR8FRxMi) | 2:46 |
 | 51 | [No Regreses](https://open.spotify.com/track/6CMH3PlVAObXs4aHHR4Hu8) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:20 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDAzMTdiODk0MmRiY2Q3MGIyMjY2NjQxZmYwNjdlNjc0Ng==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDAwMGI4YmEyNTI3Mzg5YjljMTQ3Y2EzNjJhNWY0MjRjZA==`

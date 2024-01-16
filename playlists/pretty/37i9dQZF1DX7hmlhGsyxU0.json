@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 153936,
+  "num_followers": 154081,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDM2YzcwNTM4MjliZGUxNDFlYTNjMTMxZDI5OTVlNzk0MGU5Nzk5",
+  "snapshot_id": "MCw4YmE4MjMxNWY5ZGRmZjQ2NGJjZDBmYTM1ODBkMDlkZjE5N2JmMjc3",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Made To Be Wanting",
+        "url": "https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF"
+      },
+      "artists": [
+        {
+          "name": "Job Roggeveen",
+          "url": "https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv"
+        }
+      ],
+      "duration_ms": 183764,
+      "name": "Made To Be Wanting",
+      "url": "https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Frankenthaler",
         "url": "https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Made To Be Wanting",
-        "url": "https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF"
-      },
-      "artists": [
-        {
-          "name": "Job Roggeveen",
-          "url": "https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv"
-        }
-      ],
-      "duration_ms": 183764,
-      "name": "Made To Be Wanting",
-      "url": "https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu"
       },
@@ -215,6 +215,22 @@
       "duration_ms": 228257,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "On The Verge Of Collapse",
+        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
+      },
+      "artists": [
+        {
+          "name": "Rohit",
+          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "We All Grieve Differently",
+      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -239,22 +255,6 @@
       "duration_ms": 223283,
       "name": "Composite 03",
       "url": "https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "On The Verge Of Collapse",
-        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
-      },
-      "artists": [
-        {
-          "name": "Rohit",
-          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "We All Grieve Differently",
-      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "No Time But Eternity",
-        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
-      },
-      "artists": [
-        {
-          "name": "Corciolli",
-          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
-        }
-      ],
-      "duration_ms": 399544,
-      "name": "No Time But Eternity",
-      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
+        "name": "No Time But Eternity",
+        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
       },
       "artists": [
         {
-          "name": "Cysur",
-          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
+          "name": "Corciolli",
+          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
         }
       ],
-      "duration_ms": 132755,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
+      "duration_ms": 399544,
+      "name": "No Time But Eternity",
+      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -455,6 +439,22 @@
       "duration_ms": 315644,
       "name": "Until The End",
       "url": "https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
+      },
+      "artists": [
+        {
+          "name": "Cysur",
+          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
+        }
+      ],
+      "duration_ms": 132755,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Living Rooms",
+        "url": "https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe"
+      },
+      "artists": [
+        {
+          "name": "Joshua Naranjo",
+          "url": "https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Living Rooms",
+      "url": "https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
       },
@@ -519,38 +535,6 @@
       "duration_ms": 128684,
       "name": "Flight of the Sea Birds",
       "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Living Rooms",
-        "url": "https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe"
-      },
-      "artists": [
-        {
-          "name": "Joshua Naranjo",
-          "url": "https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Living Rooms",
-      "url": "https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Calm Water",
-        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
-      },
-      "artists": [
-        {
-          "name": "Elise Bordeaux",
-          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
-        }
-      ],
-      "duration_ms": 260729,
-      "name": "Calm Water",
-      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -587,6 +571,22 @@
       "duration_ms": 202105,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Calm Water",
+        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
+      },
+      "artists": [
+        {
+          "name": "Elise Bordeaux",
+          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
+        }
+      ],
+      "duration_ms": 260729,
+      "name": "Calm Water",
+      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "S\u00e9r\u00e9nit\u00e9",
-        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9mie Fauquet",
-          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
-        }
-      ],
-      "duration_ms": 108690,
-      "name": "S\u00e9r\u00e9nit\u00e9",
-      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "The Last Gate",
         "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 408791,
       "name": "Inside Me",
       "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "S\u00e9r\u00e9nit\u00e9",
+        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9mie Fauquet",
+          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
+        }
+      ],
+      "duration_ms": 108690,
+      "name": "S\u00e9r\u00e9nit\u00e9",
+      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
-      },
-      "artists": [
-        {
-          "name": "Takaaki Izumi",
-          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Drifter",
-      "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Be Here Now",
         "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "S\u00f3liton",
-        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
       },
       "artists": [
         {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+          "name": "Takaaki Izumi",
+          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
         }
       ],
-      "duration_ms": 122347,
-      "name": "S\u00f3liton",
-      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
+      "duration_ms": 157500,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -891,6 +875,22 @@
       "duration_ms": 229350,
       "name": "Efterskalv",
       "url": "https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "S\u00f3liton",
+        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 122347,
+      "name": "S\u00f3liton",
+      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "EGUZKIA GALDU",
-        "url": "https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 161981,
-      "name": "EGUZKIA GALDU",
-      "url": "https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Adventure",
         "url": "https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 163124,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/5IUQOzC9u2IMs6FcGEe5pX"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "EGUZKIA GALDU",
+        "url": "https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 161981,
+      "name": "EGUZKIA GALDU",
+      "url": "https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3"
     },
     {
       "added_at": "2023-06-27 16:12:39",

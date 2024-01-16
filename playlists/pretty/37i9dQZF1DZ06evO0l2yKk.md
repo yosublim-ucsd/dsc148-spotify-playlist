@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,835 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,877 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 49 | [Una Aventura](https://open.spotify.com/track/1gNzBRLuAKNZNf7zAp59cD) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Una Aventura](https://open.spotify.com/album/6mTSwfg0ncYlg9pJox9Dvo) | 3:05 |
 | 50 | [El Señor De Las Canas](https://open.spotify.com/track/5fnLEufeYsIAK7n7BiqBuY) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [A Mis Viejos](https://open.spotify.com/album/1VZWvdtpCIi1VdP0IYgznz) | 2:47 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDAyZTA5Mjk4Zjc0ZmJiYjE2MmY5ODkxMDM1OTZlYzk4YQ==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDBiZTI3ZWUyMWM1MGM0YjUxMzhjOGYxNjQwN2UwNzkwMQ==`

@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: bludnymph
 
-571 songs - 1 day 2 hr 12 min
+573 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,8 +440,10 @@
 | [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 | 2022-09-09 | 2023-04-22 |
 | [SEX MACHINA](https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq) | 2:09 | 2023-11-10 |  |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-02-04 | 2022-07-02 |
+| [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 | 2024-01-15 |  |
 | [She Ruins Everything](https://open.spotify.com/track/6bxpZV3PmkGzGpr5qgIejf) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [She Ruins Everything](https://open.spotify.com/album/47dUMKJXhMColrlmkd0WPU) | 3:09 | 2023-12-08 |  |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-04 | 2022-03-18 |
+| [Should We](https://open.spotify.com/track/4Y8PgWmxjAnBHNuz516yWf) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Should We](https://open.spotify.com/album/4UTy95lbfZb73MJeRwSfcA) | 2:33 | 2024-01-15 |  |
 | [Should've Been A Dick to You](https://open.spotify.com/track/1x7H9gKKAvLjYkxZQCBDWZ) | [Piper 57](https://open.spotify.com/artist/6sOxk8gr7bsACj95waVXx7) | [Should've Been A Dick to You](https://open.spotify.com/album/3UbV2bdR9F3FxQNqO9RXMk) | 2:12 | 2023-10-02 |  |
 | [SHUT UP](https://open.spotify.com/track/0EdZVIPG9yl7D796fiFiw1) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [SHUT UP](https://open.spotify.com/album/3wcpkLbPP7w7ciwuYcI7aV) | 2:33 | 2022-11-25 | 2023-06-10 |
 | [SHUT UP AND KISS ME](https://open.spotify.com/track/69XM2hnoX1hVwqDGnnGZSq) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [EMOTION SICKNESS](https://open.spotify.com/album/7qpJHu4q1taE6JOFvdm6YA) | 2:43 | 2023-09-29 | 2023-11-18 |
@@ -502,7 +504,7 @@
 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 | 2022-01-14 | 2022-03-18 |
 | [The Things I Do For Love](https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [The Things I Do For Love](https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp) | 2:40 | 2024-01-12 |  |
 | [Therapy](https://open.spotify.com/track/0wvj3kJpZIyu7eYfxeKn3g) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Therapy](https://open.spotify.com/album/5c0knxfQLKoNV5BwB7DKWH) | 2:18 | 2022-01-28 | 2022-04-23 |
-| [THEY ALL DIE IN THE END](https://open.spotify.com/track/3EMjyCdzpAVapByDEhict6) | [safesp8ce](https://open.spotify.com/artist/4ag9JIDeFbLg9vwAz6QqxO) | [THEY ALL DIE IN THE END](https://open.spotify.com/album/7BF7vzi4vGitNCfTm9VYro) | 2:45 | 2023-11-17 |  |
+| [THEY ALL DIE IN THE END](https://open.spotify.com/track/3EMjyCdzpAVapByDEhict6) | [safesp8ce](https://open.spotify.com/artist/4ag9JIDeFbLg9vwAz6QqxO) | [THEY ALL DIE IN THE END](https://open.spotify.com/album/7BF7vzi4vGitNCfTm9VYro) | 2:45 | 2023-11-17 | 2024-01-16 |
 | [Thing of Beauty](https://open.spotify.com/track/5fDbX9qCPLjBNZkZVnu19E) | [Danger Twins](https://open.spotify.com/artist/1YuielWiKfNC5Mh2GizHSO) | [Thing of Beauty](https://open.spotify.com/album/4nz28faAHZndFb42UEwf5P) | 0:29 | 2022-03-04 | 2022-07-02 |
 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 | 2023-08-04 | 2024-01-05 |
 | [this is how i learn to say no](https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [this is how i learn to say no](https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG) | 2:22 | 2021-09-10 | 2023-03-25 |
@@ -531,7 +533,7 @@
 | [Unfinished Business](https://open.spotify.com/track/4YluI2KiR4ZWxqGAvNWsD1) | [Fae](https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB) | [Unfinished Business](https://open.spotify.com/album/4fHanSBBo7YvqXhYUQgZ8N) | 2:56 | 2023-08-18 |  |
 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-07-14 | 2023-09-09 |
 | [Unholy \(feat\. Kim Petras\) \- Nova Twins Remix](https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Unholy \(feat\. Kim Petras\) \[Nova Twins Remix\]](https://open.spotify.com/album/1Zq6e7bJTNwtf4IcZr4YaB) | 2:57 | 2022-12-09 | 2023-04-09 |
-| [Unsubstantial](https://open.spotify.com/track/7u9gUIq2jVEnIgUXAVXnBb) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Unsubstantial](https://open.spotify.com/album/6kzXo1uFPopE5YEGgxImau) | 1:40 | 2023-09-29 |  |
+| [Unsubstantial](https://open.spotify.com/track/7u9gUIq2jVEnIgUXAVXnBb) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Unsubstantial](https://open.spotify.com/album/6kzXo1uFPopE5YEGgxImau) | 1:40 | 2023-09-29 | 2024-01-16 |
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-01-21 | 2022-05-28 |
 | [UR SO FULL OF IT](https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT](https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS) | 2:14 | 2023-05-12 | 2023-06-03 |
 | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 | 2022-05-27 | 2022-06-11 |

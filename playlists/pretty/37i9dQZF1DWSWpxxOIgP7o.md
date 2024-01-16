@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 
 > The official playlist for MO\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,860 likes - 42 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,865 likes - 42 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 | 41 | [Overdose \- From the Netflix Series "Mo"](https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Overdose \(From the Netflix Series "Mo"\)](https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI) | 2:54 |
 | 42 | [End Credits](https://open.spotify.com/track/4S87bBXeAsMPuGFgPckCQP) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 1:48 |
 
-Snapshot ID: `MCwwODIxMTVjN2M0ODE3MWI5MjY4NjViMmY4OTBiMDI3MjA0N2RmNmJh`
+Snapshot ID: `MCxkN2FlMzBhMjkxNjhiZjY5YTRhNjlmYWI4ZDgxOTgxNmM1Mzg5Nzhh`

@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Dabin\(홍다빈\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-661 songs - 1 day 11 hr 54 min
+662 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,7 @@
 | [On the street \(Feat\. ASH ISLAND\)](https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [On the street](https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU) | 3:29 | 2023-08-16 |  |
 | [one \(feat\. Paul Blanco, Kim Seungmin\)](https://open.spotify.com/track/6AWXGKo1zTjMV1WNjIpwhx) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [김승민](https://open.spotify.com/artist/1h8ZqUlVEXd1qvOjXVuFg2) | [one & ashes](https://open.spotify.com/album/2LpbGE8qfrCjYykxO7v3of) | 3:16 | 2022-07-14 | 2022-07-24 |
 | [One More Night \(Feat\. lIlBOI\)](https://open.spotify.com/track/1kZwWtijucTV6LRUrGn51f) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:15 | 2022-05-05 | 2022-06-06 |
-| [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 | 2022-04-01 |  |
+| [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 | 2022-04-01 | 2024-01-16 |
 | [One\-man show \(Feat\. Sik\-K\)](https://open.spotify.com/track/0L4BpVI5JmuCBW4dGNsuAf) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 4:04 | 2022-05-31 | 2022-06-06 |
 | [Only Late at Night \(feat\. Jay Park\) \(prod\. Vangdale\)](https://open.spotify.com/track/2PY3kiM41wd6gjkPt4JD9p) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 2](https://open.spotify.com/album/6KPCcxkR5B80HyRQaAjqiq) | 2:31 | 2022-04-01 | 2022-07-27 |
 | [Open sesame \(feat\. sokodomo\)](https://open.spotify.com/track/4jobe1ZAB1fAaTHDkPXQA8) | [WET VIDEO](https://open.spotify.com/artist/2QASfJdWbvHxuGbMhhDFpY), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [first tape of wetvideo](https://open.spotify.com/album/7wnkonllOWH8jzXTvssvkJ) | 2:35 | 2022-04-01 | 2022-07-26 |
@@ -584,6 +584,7 @@
 | [Tic Tac?](https://open.spotify.com/track/1xnjwH0oVDptgAhSvnuWq4) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Tic Tac?](https://open.spotify.com/album/6UzFx8pWnJQm4832lXPfos) | 2:15 | 2024-01-05 |  |
 | [Tiffany Cartier](https://open.spotify.com/track/1T5xZOx03EqBlU4WcjJFpU) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:21 | 2022-06-09 | 2022-06-26 |
 | [Till I Live](https://open.spotify.com/track/41QtqULXM34zXfPkM88Rwm) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Till I Live](https://open.spotify.com/album/7uZSZnFHoZIGYA5eN9nLbH) | 4:28 | 2023-10-27 | 2024-01-10 |
+| [Till I Live](https://open.spotify.com/track/6mKVMbbmoMDO8DS9hyxhtx) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Tic Tac?](https://open.spotify.com/album/6UzFx8pWnJQm4832lXPfos) | 4:28 | 2024-01-08 |  |
 | [TIPSY](https://open.spotify.com/track/6DB2B0oxQTHdV6Q5j7uxRV) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:20 | 2023-03-22 | 2023-06-04 |
 | [TMI](https://open.spotify.com/track/0cMrtRgJ2pU8pwX05iZnT3) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [TMI](https://open.spotify.com/album/3fDrYTztZCc4b75fbVSBJ4) | 3:00 | 2022-06-18 | 2022-06-20 |
 | [TO ALL MY LOVES](https://open.spotify.com/track/3to69hEWMy6LjZ7EBkzxHe) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [A LOVE LETTER FROM THE SAD BOY](https://open.spotify.com/album/6vcTyikf0IfJ19LWAQBXdA) | 2:11 | 2022-06-09 | 2022-06-14 |

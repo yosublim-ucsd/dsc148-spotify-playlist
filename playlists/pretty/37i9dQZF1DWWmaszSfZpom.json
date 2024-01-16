@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 990771,
+  "num_followers": 989947,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTBlNTQ0YzAyNjUyMTM3MWYwY2EwNmVjNDMwOWQ5ODZhN2U4ZjQ1",
+  "snapshot_id": "MCw0NGMzZmJmOGY1NWEwM2JiM2FhYThmODY3ZTk0YjQxOTQwNDFkMjAx",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -27,6 +27,26 @@
       "duration_ms": 171692,
       "name": "Parado no Bail\u00e3o",
       "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Vento Forte",
+        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Dj Tk",
+          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
+        }
+      ],
+      "duration_ms": 123711,
+      "name": "Vento Forte",
+      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -59,26 +79,6 @@
       "duration_ms": 213988,
       "name": "Bum Bum Tam Tam",
       "url": "https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Vento Forte",
-        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "Dj Tk",
-          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
-        }
-      ],
-      "duration_ms": 123711,
-      "name": "Vento Forte",
-      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Comprei um Lan\u00e7a",
-        "url": "https://open.spotify.com/album/61MhAUFhtd7LjHVooYcUCb"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        }
-      ],
-      "duration_ms": 112345,
-      "name": "Comprei um Lan\u00e7a",
-      "url": "https://open.spotify.com/track/12v6LfkX9YIR3uLefIAAYZ"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "SENTAD\u00c3O",
         "url": "https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 143448,
       "name": "SENTAD\u00c3O",
       "url": "https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Comprei um Lan\u00e7a",
+        "url": "https://open.spotify.com/album/61MhAUFhtd7LjHVooYcUCb"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        }
+      ],
+      "duration_ms": 112345,
+      "name": "Comprei um Lan\u00e7a",
+      "url": "https://open.spotify.com/track/12v6LfkX9YIR3uLefIAAYZ"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Cara Bacana",
+        "url": "https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Cara Bacana",
+      "url": "https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "\u00d4 Mo\u00e7a",
         "url": "https://open.spotify.com/album/4ps8YCaJj1S9AmZ20mm7P6"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Cara Bacana",
-        "url": "https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX"
-      },
-      "artists": [
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Cara Bacana",
-      "url": "https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Oh Juliana",
-        "url": "https://open.spotify.com/album/4TqvKXoNxzUt3KFvb2kMOL"
-      },
-      "artists": [
-        {
-          "name": "Niack",
-          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
-        }
-      ],
-      "duration_ms": 153077,
-      "name": "Oh Juliana",
-      "url": "https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Vem Me Satisfazer",
         "url": "https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 188388,
       "name": "Vem Me Satisfazer",
       "url": "https://open.spotify.com/track/63SHcJzckFykS8faA5zojY"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Oh Juliana",
+        "url": "https://open.spotify.com/album/4TqvKXoNxzUt3KFvb2kMOL"
+      },
+      "artists": [
+        {
+          "name": "Niack",
+          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
+        }
+      ],
+      "duration_ms": 153077,
+      "name": "Oh Juliana",
+      "url": "https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Coisa Boa",
+        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Deixa de Onda (Porra Nenhuma)",
         "url": "https://open.spotify.com/album/1fjkJADMiiZWMDusZSMNix"
       },
@@ -819,18 +835,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Coisa Boa",
-        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
+        "name": "Na Raba Toma Tap\u00e3o",
+        "url": "https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Niack",
+          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
+        },
+        {
+          "name": "Markim WF",
+          "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
+      "duration_ms": 165230,
+      "name": "Na Raba Toma Tap\u00e3o",
+      "url": "https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -891,6 +911,30 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Malandramente",
+        "url": "https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Nandinho",
+          "url": "https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf"
+        },
+        {
+          "name": "Nego Bam",
+          "url": "https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Malandramente",
+      "url": "https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Preta do Cabelo Cacheado",
         "url": "https://open.spotify.com/album/6l6ykuHvWq1rV65S5Y1wJh"
       },
@@ -911,26 +955,6 @@
       "duration_ms": 161730,
       "name": "Preta do Cabelo Cacheado",
       "url": "https://open.spotify.com/track/0Ve3XWcrsgy90xo0UL2syx"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Na Raba Toma Tap\u00e3o",
-        "url": "https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP"
-      },
-      "artists": [
-        {
-          "name": "Niack",
-          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
-        },
-        {
-          "name": "Markim WF",
-          "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "Na Raba Toma Tap\u00e3o",
-      "url": "https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -991,8 +1015,8 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Malandramente",
-        "url": "https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC"
+        "name": "Isso Que \u00e9 Vida",
+        "url": "https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm"
       },
       "artists": [
         {
@@ -1000,17 +1024,13 @@
           "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
         },
         {
-          "name": "MC Nandinho",
-          "url": "https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf"
-        },
-        {
-          "name": "Nego Bam",
-          "url": "https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw"
+          "name": "Cantini",
+          "url": "https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3"
         }
       ],
-      "duration_ms": 171692,
-      "name": "Malandramente",
-      "url": "https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9"
+      "duration_ms": 159458,
+      "name": "Isso Que \u00e9 Vida",
+      "url": "https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1067,6 +1087,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Mc Jo\u00e3o",
+        "url": "https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo"
+      },
+      "artists": [
+        {
+          "name": "Mc Jo\u00e3o",
+          "url": "https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Baile de Favela",
+      "url": "https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "TOMA",
         "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
@@ -1087,38 +1123,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Mc Jo\u00e3o",
-        "url": "https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo"
+        "name": "Amor ou o Litr\u00e3o",
+        "url": "https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn"
       },
       "artists": [
         {
-          "name": "Mc Jo\u00e3o",
-          "url": "https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Baile de Favela",
-      "url": "https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Isso Que \u00e9 Vida",
-        "url": "https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+          "name": "Petter Ferraz",
+          "url": "https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U"
         },
         {
-          "name": "Cantini",
-          "url": "https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3"
+          "name": "Menor Nico",
+          "url": "https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw"
         }
       ],
-      "duration_ms": 159458,
-      "name": "Isso Que \u00e9 Vida",
-      "url": "https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn"
+      "duration_ms": 173913,
+      "name": "Amor ou o Litr\u00e3o",
+      "url": "https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1139,26 +1159,6 @@
       "duration_ms": 160666,
       "name": "S\u00f3 Quer Vrau",
       "url": "https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Amor ou o Litr\u00e3o",
-        "url": "https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn"
-      },
-      "artists": [
-        {
-          "name": "Petter Ferraz",
-          "url": "https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U"
-        },
-        {
-          "name": "Menor Nico",
-          "url": "https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Amor ou o Litr\u00e3o",
-      "url": "https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Papum",
-        "url": "https://open.spotify.com/album/3tFMDqGswZfRy3RX4Ek1bQ"
-      },
-      "artists": [
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 139980,
-      "name": "Papum",
-      "url": "https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Resenha l\u00e1 em casa",
         "url": "https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Papum",
+        "url": "https://open.spotify.com/album/3tFMDqGswZfRy3RX4Ek1bQ"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 139980,
+      "name": "Papum",
+      "url": "https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Kikadinha",
         "url": "https://open.spotify.com/album/1SFRgpdcJKaTeGQmU1Pq6E"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 146158,
       "name": "Kikadinha",
       "url": "https://open.spotify.com/track/4cVhsNXSwSLIZJjwexEoYe"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
+        "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
+      },
+      "artists": [
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
+      "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
-        "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
-      },
-      "artists": [
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
-      "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Talarica",
         "url": "https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP"
       },
@@ -1539,6 +1539,26 @@
       "duration_ms": 162000,
       "name": "Talarica",
       "url": "https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Chama Ela (feat. Pedro Sampaio)",
+        "url": "https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 120200,
+      "name": "Chama Ela (feat. Pedro Sampaio)",
+      "url": "https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1575,26 +1595,6 @@
       "duration_ms": 149615,
       "name": "Senta braba",
       "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Chama Ela (feat. Pedro Sampaio)",
-        "url": "https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 120200,
-      "name": "Chama Ela (feat. Pedro Sampaio)",
-      "url": "https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "N\u00e3o encosta",
+        "url": "https://open.spotify.com/album/0FVXKp0wuQJikYk6qg1cW3"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "DJ Will22",
+          "url": "https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn"
+        }
+      ],
+      "duration_ms": 144039,
+      "name": "N\u00e3o encosta",
+      "url": "https://open.spotify.com/track/3TLik0AUo5Ri65DFrEivd4"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Para n\u00e3o",
         "url": "https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 150886,
       "name": "Bumbum caliente (Participa\u00e7\u00e3o especial de De La Ghetto)",
       "url": "https://open.spotify.com/track/2WXpTKDvFRRAKKwaNbT6OW"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "N\u00e3o encosta",
-        "url": "https://open.spotify.com/album/0FVXKp0wuQJikYk6qg1cW3"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "DJ Will22",
-          "url": "https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn"
-        }
-      ],
-      "duration_ms": 144039,
-      "name": "N\u00e3o encosta",
-      "url": "https://open.spotify.com/track/3TLik0AUo5Ri65DFrEivd4"
     },
     {
       "added_at": "2023-06-26 14:06:50",

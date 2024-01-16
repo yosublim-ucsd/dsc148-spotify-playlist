@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 174329,
+  "num_followers": 174360,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWYyMzUzNWM1MTA5YzQ5MTA3NWUzYzcyOTFlYjJkNjJkZjVjN2E5",
+  "snapshot_id": "MCwxODdmZTk5NmM2MTEzZmM4MGFiYzM1Mjg5YmJiYTc5ZWVlZTQ0MTc4",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 258713,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -183,18 +199,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 258713,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH"
+      "duration_ms": 102371,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -215,22 +231,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
-      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -247,18 +247,54 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 102371,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
+      "duration_ms": 184970,
+      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
+      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209403,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -291,58 +327,6 @@
       "duration_ms": 245373,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Am\u00e1rrame",
-      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 199505,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209403,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -415,6 +399,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 199505,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Solstis - De Le\u00f3n Larregui",
         "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
       },
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+        "name": "Confidently Lost",
+        "url": "https://open.spotify.com/album/6Y0sR4pj7mxRN0EudJnMQw"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 254993,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
+      "duration_ms": 209885,
+      "name": "Confidently Lost",
+      "url": "https://open.spotify.com/track/3cQmqM0awej9iAESjhKrI9"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Confidently Lost",
-        "url": "https://open.spotify.com/album/6Y0sR4pj7mxRN0EudJnMQw"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 209885,
-      "name": "Confidently Lost",
-      "url": "https://open.spotify.com/track/3cQmqM0awej9iAESjhKrI9"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Unbothered",
         "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 124954,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 254993,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 184480,
       "name": "De Momento Abril",
       "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 170926,
-      "name": "Obra de Arte",
-      "url": "https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "\u00c9pocas",
-        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
       },
       "artists": [
         {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 221853,
-      "name": "\u00c9pocas",
-      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
+      "duration_ms": 170926,
+      "name": "Obra de Arte",
+      "url": "https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -879,6 +863,22 @@
       "duration_ms": 255960,
       "name": "Cycles of Existential Rhyme",
       "url": "https://open.spotify.com/track/6rpi77GqamZNoltbZ5ksdi"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "\u00c9pocas",
+        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "\u00c9pocas",
+      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
-        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+        "name": "Far In",
+        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
       },
       "artists": [
         {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
         }
       ],
-      "duration_ms": 242760,
-      "name": "Cuidado",
-      "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
+      "duration_ms": 290106,
+      "name": "There Must Be a Song Like You",
+      "url": "https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Far In",
-        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
       },
       "artists": [
         {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
         }
       ],
-      "duration_ms": 290106,
-      "name": "There Must Be a Song Like You",
-      "url": "https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA"
+      "duration_ms": 242760,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 137746,
-      "name": "Sono",
-      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Espera (feat. Carlos Sadness)",
         "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 210285,
       "name": "Oscuridad",
       "url": "https://open.spotify.com/track/46ii3SsKP0k6qZYo0mYKi6"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 137746,
+      "name": "Sono",
+      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Ambar Bossa Nova - Spotify Singles",
-      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Ahomale",
         "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 236786,
       "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
       "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Ambar Bossa Nova - Spotify Singles",
+      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 190462,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "NTE",
         "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 242906,
       "name": "En Mis Genes",
       "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 190462,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
     }
   ],
   "unique_name": "Latin Indie Classics",

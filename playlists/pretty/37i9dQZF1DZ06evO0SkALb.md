@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,987 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,995 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 43 | [Early Morning Love](https://open.spotify.com/track/4sy7qMHNQCBGJGLjwmnPt7) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Unmistakably Lou](https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r) | 5:41 |
 | 44 | [Evil Woman](https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I Can't Make It Alone: The Axelrod Years](https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU) | 2:36 |
 | 45 | [Two Years Of Torture](https://open.spotify.com/track/2h0PMVMul2UYYkef8i0OHZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 2:49 |
-| 46 | [Kansas City \- Digitally Remastered 00](https://open.spotify.com/track/6HHVWXN2ItXtLdkH4pXgdR) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:13 |
-| 47 | [You're the One](https://open.spotify.com/track/5t49UsvU4pnQaP6ys3EvcD) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 5:18 |
-| 48 | [Save the Bones for Henry Jones](https://open.spotify.com/track/5ZFb67RDwZFyOIfkkpdQvq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:42 |
-| 49 | [I'd Rather Drink Muddy Water \- 2006 Remaster](https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Black And Blue](https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS) | 3:35 |
-| 50 | [It Was A Very Good Year \- Digitally Remastered 00](https://open.spotify.com/track/0MuK8gUKHaj9PdlOxgvygy) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:50 |
+| 46 | [Georgia on My Mind](https://open.spotify.com/track/0mUqSrAlGBQ1zHEwAjCZmz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Rhymes and Reasons](https://open.spotify.com/album/6Jj2Qzi6a9x8FPWNe10x8I) | 3:20 |
+| 47 | [Kansas City \- Digitally Remastered 00](https://open.spotify.com/track/6HHVWXN2ItXtLdkH4pXgdR) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:13 |
+| 48 | [You're the One](https://open.spotify.com/track/5t49UsvU4pnQaP6ys3EvcD) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 5:18 |
+| 49 | [Save the Bones for Henry Jones](https://open.spotify.com/track/5ZFb67RDwZFyOIfkkpdQvq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:42 |
+| 50 | [Blues Is A Woman](https://open.spotify.com/track/144kj4S4IGdWjcHjb1PyWL) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann Ltd.](https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 2:58 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDA0YWNhZGRiNDExZDBlMjVmNzU2ZGE0NGIyODBlMTM2NQ==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDBkOWNlNDg0ZDcxZWU0NzZlNjMxOGNmOWIwMDJiZGY2YQ==`

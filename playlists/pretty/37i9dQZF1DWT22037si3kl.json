@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Kyan",
-  "num_followers": 136019,
+  "num_followers": 136038,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmMwOTk4ZmIyMzVmM2I1M2NkZDQ3MzgyNTU0MjRlNzkxOTVkNTMz",
+  "snapshot_id": "MCxhNTEzZDcyYTYxN2UzM2VkNzgwMzhkODJhZGI4MzY1NDkzZWQxYjYy",
   "tracks": [
     {
       "added_at": "2024-01-12 03:01:00",
@@ -255,30 +255,6 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Maturidade",
-        "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 142026,
-      "name": "Maturidade",
-      "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
         "name": "237",
         "url": "https://open.spotify.com/album/3VGvkH5X8bhjIV0rSohaVU"
       },
@@ -327,6 +303,30 @@
       "duration_ms": 157608,
       "name": "Feir\u00e3o dos 23",
       "url": "https://open.spotify.com/track/4V1MOX0xhbRroh6YBmAVZg"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Maturidade",
+        "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 142026,
+      "name": "Maturidade",
+      "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -383,42 +383,6 @@
       "duration_ms": 160000,
       "name": "De Lala - Spotify Singles",
       "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
-        "name": "Invis\u00edvel pt.2",
-        "url": "https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 174556,
-      "name": "Invis\u00edvel pt.2",
-      "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -503,6 +467,42 @@
       "duration_ms": 245987,
       "name": "INEF\u00c1VEL (feat. Leviano)",
       "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Invis\u00edvel pt.2",
+        "url": "https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 174556,
+      "name": "Invis\u00edvel pt.2",
+      "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -599,34 +599,6 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Clickbait",
-        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 161344,
-      "name": "Clickbait",
-      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
         "name": "Sem Compaix\u00e3o",
         "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
       },
@@ -699,6 +671,34 @@
       "duration_ms": 157868,
       "name": "Casa Bomba",
       "url": "https://open.spotify.com/track/1o8OibQkhsMFXRc7xfJfN9"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Clickbait",
+        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 161344,
+      "name": "Clickbait",
+      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
+        "name": "ARRUME-SE COMIGO",
+        "url": "https://open.spotify.com/album/2LXHRtoW5kSOWsW2eXmlsa"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 226427,
+      "name": "ARRUME-SE COMIGO",
+      "url": "https://open.spotify.com/track/5uEC8WWulHOHNjEOgLAliZ"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
         "name": "Dos Pr\u00e9dios",
         "url": "https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 128000,
       "name": "Londres Freestyle",
       "url": "https://open.spotify.com/track/5E6J5d0GB3yowau3SYig6F"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
-        "name": "ARRUME-SE COMIGO",
-        "url": "https://open.spotify.com/album/2LXHRtoW5kSOWsW2eXmlsa"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 226427,
-      "name": "ARRUME-SE COMIGO",
-      "url": "https://open.spotify.com/track/5uEC8WWulHOHNjEOgLAliZ"
     },
     {
       "added_at": "2024-01-12 03:01:00",

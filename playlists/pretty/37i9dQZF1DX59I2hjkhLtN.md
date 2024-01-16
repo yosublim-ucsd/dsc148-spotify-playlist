@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,149 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,147 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Memorial](https://open.spotify.com/track/4LfmlcX9PaeEqO96Ds1RV8) | [Buster](https://open.spotify.com/artist/7eLPnjLxEaQYIAv4T6f5nc) | [Memorial](https://open.spotify.com/album/13aPfgSiqQ9AbCkmLhIqN5) | 3:35 |
 | 100 | [Alma](https://open.spotify.com/track/3rX9KvRYL1PQtbne79nnZd) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U) | [Alma](https://open.spotify.com/album/0iMqeFAka3DpLtRBBnc431) | 2:48 |
 
-Snapshot ID: `MCwzZjQ0ZmYwNzNiNDc1NjkyNzk2NTAyODU5ZGFlNWRjNzU4MzFmMDNk`
+Snapshot ID: `MCwyZWY5Zjk3MWU4YWNlODUxOTVmMWJhNzZkZWJiN2NmZDZhNGViNzQ4`

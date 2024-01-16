@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 206803,
+  "2024-01-16": 206569,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Malaysia.",
   "name": "Top 50 - Malaysia",
@@ -3812,6 +3812,24 @@
     },
     {
       "album": {
+        "name": "Antonim Pt. I",
+        "url": "https://open.spotify.com/album/02SRZ4OSSxnHvyLQX83fwl"
+      },
+      "artists": [
+        {
+          "name": "Hael Husaini",
+          "url": "https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201457,
+      "name": "Diam",
+      "url": "https://open.spotify.com/track/3Kjftr1Zz1iVNvTB1SyodI"
+    },
+    {
+      "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
@@ -5529,7 +5547,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -6747,7 +6765,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 160239,
       "name": "I Love You So",
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
@@ -15985,7 +16003,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"

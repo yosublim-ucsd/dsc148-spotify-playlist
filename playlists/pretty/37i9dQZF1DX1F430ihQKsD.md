@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > Montréal’s music scene, front and centre\. Cover: Born At Midnite
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,806 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,814 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Différent de toi](https://open.spotify.com/track/6QqapEQ1RsiEJnlWQKtqzf) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Différent de toi](https://open.spotify.com/album/1ir16RkFLAXmhqHvWNhDCV) | 2:45 |
 | 100 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 |
 
-Snapshot ID: `MCxkMTcwNWZkYzFjODNiNTU1MGJjYjgwZTBjNmI5YTFhNWEzNjdlODYx`
+Snapshot ID: `MCxkY2RhNGU2OGFiZWJhZDIwMzhjYmE4ZGFmZGQ4ZTYyY2RlN2E4MTkx`

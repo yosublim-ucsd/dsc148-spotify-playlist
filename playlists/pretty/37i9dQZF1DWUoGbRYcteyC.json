@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1972952,
+  "num_followers": 1971031,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWNlZWE3ZDYyMTJmMzAxMGUzYWI4ODlkZjA1YWU4NTA4NTRlNGMx",
+  "snapshot_id": "MCwzODU3NmJlMzdmMjRhNzY4Y2U2YTk4ZjEwMTkyNDhmNjlmYTAwMmQ5",
   "tracks": [
     {
       "added_at": "2024-01-12 16:39:14",
@@ -263,26 +263,6 @@
     {
       "added_at": "2024-01-12 16:39:14",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Bendita Tu Luz",
-      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
-    },
-    {
-      "added_at": "2024-01-12 16:39:14",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 221946,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
+    },
+    {
+      "added_at": "2024-01-12 16:39:14",
+      "album": {
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Bendita Tu Luz",
+      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
     },
     {
       "added_at": "2024-01-12 16:39:14",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-01-12 16:39:14",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
-    },
-    {
-      "added_at": "2024-01-12 16:39:14",
-      "album": {
         "name": "Bomb\u00f3n",
         "url": "https://open.spotify.com/album/60tj4hg4wjcfjgnewQyGJT"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 160399,
       "name": "Bomb\u00f3n",
       "url": "https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT"
+    },
+    {
+      "added_at": "2024-01-12 16:39:14",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
     },
     {
       "added_at": "2024-01-12 16:39:14",
@@ -575,6 +575,26 @@
       "duration_ms": 162816,
       "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
       "url": "https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq"
+    },
+    {
+      "added_at": "2024-01-12 16:39:14",
+      "album": {
+        "name": "Mi Persona Favorita",
+        "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 239972,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
     },
     {
       "added_at": "2024-01-12 16:39:14",
@@ -611,26 +631,6 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
-    },
-    {
-      "added_at": "2024-01-12 16:39:14",
-      "album": {
-        "name": "Mi Persona Favorita",
-        "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 239972,
-      "name": "Mi Persona Favorita",
-      "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
     },
     {
       "added_at": "2024-01-12 16:39:14",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-01-12 16:39:14",
       "album": {
-        "name": "Ella Es",
-        "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
-    },
-    {
-      "added_at": "2024-01-12 16:39:14",
-      "album": {
         "name": "No Tengo Nada",
         "url": "https://open.spotify.com/album/0sUMIXlf7GdaeiEibYJLml"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 225599,
       "name": "No Tengo Nada",
       "url": "https://open.spotify.com/track/2gXclup5H2J9dInrVLFs3n"
+    },
+    {
+      "added_at": "2024-01-12 16:39:14",
+      "album": {
+        "name": "Ella Es",
+        "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
     },
     {
       "added_at": "2024-01-12 16:39:14",
@@ -1103,8 +1103,8 @@
     {
       "added_at": "2024-01-12 16:39:14",
       "album": {
-        "name": "Cuando Te Encuentre",
-        "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
       "artists": [
         {
@@ -1114,7 +1114,7 @@
       ],
       "duration_ms": 176056,
       "name": "Cuando Te Encuentre",
-      "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
+      "url": "https://open.spotify.com/track/1rIezJH3NQpbKJBAxZlIKQ"
     },
     {
       "added_at": "2024-01-12 16:39:14",

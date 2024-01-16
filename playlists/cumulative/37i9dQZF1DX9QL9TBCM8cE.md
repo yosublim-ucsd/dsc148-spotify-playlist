@@ -4,7 +4,7 @@
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-125 songs - 8 hr 41 min
+126 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Catch the Breeze](https://open.spotify.com/track/2QDUrXSkpk7AZID6uc8Ekp) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 07](https://open.spotify.com/album/4WwTB9xJxqOqAS6kmMyqtz) | 4:02 | 2022-11-29 |  |
 | [Damascus Cocktail](https://open.spotify.com/track/5XkAwhmHyr3u9mrQEs1HlP) | [有栖川夏葉 \(CV.涼本あきほ\)](https://open.spotify.com/artist/37jw4iXmEc9Vb9ESE9PnJf) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:50 | 2022-11-29 | 2023-12-21 |
 | [Darling you!](https://open.spotify.com/track/0blUADIOntOI8r0qRpVyvy) | [桑山千雪 \(CV.芝崎典子\)](https://open.spotify.com/artist/6R8tCdnZadSp7NbPv2VQSd) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:10 | 2022-11-29 | 2023-08-01 |
-| [Daybreak Age](https://open.spotify.com/track/12wfryAax6OKqO5Y7lXLcI) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 01](https://open.spotify.com/album/2nINsRjHFbz5oWMG4zJo2i) | 3:43 | 2022-11-29 |  |
+| [Daybreak Age](https://open.spotify.com/track/12wfryAax6OKqO5Y7lXLcI) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 01](https://open.spotify.com/album/2nINsRjHFbz5oWMG4zJo2i) | 3:43 | 2022-11-29 | 2024-01-16 |
 | [Dye the sky\. \- 2023 Version](https://open.spotify.com/track/69R99kEwLEW6g7Yk2Hmp9t) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 01 \(2023 Version\)](https://open.spotify.com/album/3AhxC1o8vYrnpyLFp313q6) | 4:22 | 2023-03-07 |  |
 | [Fashionable](https://open.spotify.com/track/79XqCpFNN065CQUDv32c7T) | [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 08](https://open.spotify.com/album/4fifEAU2mSmSaEXKccsjRF) | 4:03 | 2022-11-29 |  |
 | [FELICE](https://open.spotify.com/track/4dWeVQoerTUVrp6af7KxOb) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 02](https://open.spotify.com/album/4CSSUlAhyx3mbZmwRLSMQj) | 3:45 | 2022-11-29 | 2023-11-14 |
@@ -26,6 +26,7 @@
 | [Forward March!!!](https://open.spotify.com/track/6aA13qFJgbuL1vG006gEvl) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS "CANVAS" 01](https://open.spotify.com/album/6sAK3pEDDuGfgUmQR1op0w) | 5:19 | 2023-11-07 |  |
 | [FUTURITY SMILE \- 25 colors](https://open.spotify.com/track/17xPuvISrXlEsDtrWYtFJX) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER WING COLLECTION \-A side\-](https://open.spotify.com/album/5YyUeirmIV0Uo1cqf6Wi5x) | 4:48 | 2023-03-07 | 2023-11-08 |
 | [Give me some more...](https://open.spotify.com/track/1xPgiEVUAqnK8akH4rynmR) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 05](https://open.spotify.com/album/3UigZQb1RxyalZQMokQdNV) | 3:46 | 2022-11-29 |  |
+| [Happy Funny Lucky](https://open.spotify.com/track/6VNIjYDc8UN0il9UZNr2R7) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 02](https://open.spotify.com/album/1pewpwUqImQRPBxJlLFXv3) | 4:14 | 2023-11-08 |  |
 | [HAREBARE!!](https://open.spotify.com/track/2TLTgsOcrS1isAZIxbWB3M) | [八宮めぐる \(CV.峯田茉優\)](https://open.spotify.com/artist/1GZdVDLat5KC60IzjjySDn) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:50 | 2022-11-29 | 2023-03-18 |
 | [Hide & Attack](https://open.spotify.com/track/5mX8BzqOQ4u1UwrOCztEIc) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 06](https://open.spotify.com/album/6pgeXOy8vv6LZ4ten6TKKE) | 3:59 | 2023-03-07 | 2023-12-13 |
 | [Ijigen BIGBANG](https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j) | [Uzuki Shimamura \(CV: Ayaka Ohashi\)](https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj), [Shizuka Mogami \(CV: Azusa Tadokoro\)](https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l), [KOGANE TSUKIOKA \(CV: Karin Isobe\)](https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1), [Chika Takami \(CV: Anju Inami\)](https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5), [Ayumu Uehara \(CV: Aguri Onishi\)](https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF), [Kanon Shibuya \(CV: Sayuri Date\)](https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR), [Kaho Hinoshita \(CV: Nozomi Nirei\)](https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy) | [Ijigen BIGBANG](https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH) | 5:16 | 2023-11-08 |  |

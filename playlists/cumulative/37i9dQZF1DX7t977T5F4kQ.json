@@ -285,6 +285,24 @@
     },
     {
       "album": {
+        "name": "Akokoa",
+        "url": "https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD"
+      },
+      "artists": [
+        {
+          "name": "Safo Newman",
+          "url": "https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202501,
+      "name": "Akokoa",
+      "url": "https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR"
+    },
+    {
+      "album": {
         "name": "All of a Sudden",
         "url": "https://open.spotify.com/album/694ZgcasfENDbZ8pq9fNGp"
       },
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 163467,
       "name": "Joo",
       "url": "https://open.spotify.com/track/0gsUEvfyck7i7cZknquaD6"

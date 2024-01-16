@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,021 songs - 2 day 22 hr 0 min
+1,022 songs - 2 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Don't Take Me For Granted](https://open.spotify.com/track/0pWw8k7ThQXQlODdT0MVkP) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Don't Take Me For Granted](https://open.spotify.com/album/7HEn07lzayUeSHnGSwWaAL) | 3:11 | 2023-06-15 |  |
 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/2k9INO4dSLTfEDRz7aorQC) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/5ybWzNgRuOpY4vFoIGdsDk) | 4:41 | 2022-04-14 | 2022-06-09 |
 | [Don’t believe it](https://open.spotify.com/track/2CwWhS5c1sDfJYIMKhoxPj) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Don’t believe it](https://open.spotify.com/album/7zDFXo0yXWXzQ8qDypDrdY) | 3:08 | 2023-12-15 |  |
+| [Don’t ruin it](https://open.spotify.com/track/5E9FQwE8VNfNYB9bSD8lAn) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Don’t ruin it](https://open.spotify.com/album/3Y9sptxgegR4ePGCr5JYXR) | 2:14 | 2024-01-12 |  |
 | [Doubtful](https://open.spotify.com/track/4fnBofV3Ou8nbpPxXj7n0B) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Doubtful](https://open.spotify.com/album/4hmQ6VCiK9XYc1HCTl8XPo) | 3:44 | 2023-06-15 |  |
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-06-14 |  |
 | [Draw Me Nearer](https://open.spotify.com/track/6vZ8PZZy7ljlQEgCPSZTAM) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Eclipse](https://open.spotify.com/album/2tWjJCMYSGNRJg55XJj0rj) | 4:42 | 2022-04-14 | 2022-09-29 |
@@ -282,7 +283,7 @@
 | [Fine And Dandy](https://open.spotify.com/track/7xMqwidXiiKsCR8f5l48wg) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fine And Dandy](https://open.spotify.com/album/2QNt0vHym8Oyfom0mElA7f) | 2:43 | 2023-03-09 |  |
 | [First Call](https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [First Call](https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA) | 2:44 | 2023-06-08 |  |
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-08-11 |  |
-| [First Star](https://open.spotify.com/track/29lmvGBTyz9v2FFJpKHP0I) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg) | [First Star](https://open.spotify.com/album/2kLWiGv7G7zsRillIELLMx) | 5:21 | 2023-08-31 |  |
+| [First Star](https://open.spotify.com/track/29lmvGBTyz9v2FFJpKHP0I) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg) | [First Star](https://open.spotify.com/album/2kLWiGv7G7zsRillIELLMx) | 5:21 | 2023-08-31 | 2024-01-16 |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-24 |  |
 | [Flying Over](https://open.spotify.com/track/6AbMGa9QQdqIKfcmSJhhTx) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Flying Over](https://open.spotify.com/album/27xdgaWX1Hs9bJlZawlXZw) | 2:58 | 2023-09-22 |  |
 | [Food is the dream](https://open.spotify.com/track/0w0fqaQcl9OFquSsm7Gjqm) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Food is the dream](https://open.spotify.com/album/5yzCocNQq9wnxBlQ6YFcOq) | 2:21 | 2023-08-10 |  |

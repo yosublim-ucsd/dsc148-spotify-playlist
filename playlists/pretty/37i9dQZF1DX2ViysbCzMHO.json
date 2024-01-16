@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 144191,
+  "num_followers": 144263,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjRjZjJlMTVjOGY5MTU0OWM3Y2M0NTg4MDY1NTIyNmVmNDZmZmE2",
+  "snapshot_id": "MCxmNjM5NjQ2ZmEyNzNiMzIwNTJiMDgyZmE3OWI5ZTVjNTEwYjRiNzZm",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -471,54 +471,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "World on Fire (Bonfire Version)",
-        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 185915,
-      "name": "World on Fire - Bonfire Version",
-      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "The I\u2019m Not Always Put Together EP",
-        "url": "https://open.spotify.com/album/4cCjYpkMsvEVpw5kLBlugQ"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 188661,
-      "name": "Tell You Everything - Not Put Together",
-      "url": "https://open.spotify.com/track/3cbc8QVHpx4gSHAXNbXPRc"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Fall In Love (Acoustic)",
-        "url": "https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 238676,
-      "name": "Fall In Love - Acoustic",
-      "url": "https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -539,6 +491,54 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "The I\u2019m Not Always Put Together EP",
+        "url": "https://open.spotify.com/album/4cCjYpkMsvEVpw5kLBlugQ"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 188661,
+      "name": "Tell You Everything - Not Put Together",
+      "url": "https://open.spotify.com/track/3cbc8QVHpx4gSHAXNbXPRc"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "World on Fire (Bonfire Version)",
+        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "World on Fire - Bonfire Version",
+      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Pack My Hometown",
+        "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
+      },
+      "artists": [
+        {
+          "name": "Eli Winders",
+          "url": "https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w"
+        }
+      ],
+      "duration_ms": 191615,
+      "name": "Pack My Hometown",
+      "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Pack My Hometown",
-        "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
+        "name": "Fall In Love (Acoustic)",
+        "url": "https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD"
       },
       "artists": [
         {
-          "name": "Eli Winders",
-          "url": "https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 191615,
-      "name": "Pack My Hometown",
-      "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
+      "duration_ms": 238676,
+      "name": "Fall In Love - Acoustic",
+      "url": "https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -623,18 +623,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Under My Skin (Stripped)",
-        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
+        "name": "This City Remix (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 185110,
-      "name": "Under My Skin - Stripped",
-      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
+      "duration_ms": 194837,
+      "name": "This City Remix (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -707,22 +711,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "This City Remix (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
+        "name": "Under My Skin (Stripped)",
+        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 194837,
-      "name": "This City Remix (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+      "duration_ms": 185110,
+      "name": "Under My Skin - Stripped",
+      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Take My Name (Wedding Version)",
-        "url": "https://open.spotify.com/album/2gGSvwn3wS3drhrN07fnSC"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Take My Name (Wedding Version)",
-      "url": "https://open.spotify.com/track/5Pe59NlkY1rYND0I1wqgv6"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Slow Dance In A Parking Lot (Acoustic)",
         "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 178285,
       "name": "Slow Dance In A Parking Lot - Acoustic",
       "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Take My Name (Wedding Version)",
+        "url": "https://open.spotify.com/album/2gGSvwn3wS3drhrN07fnSC"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Take My Name (Wedding Version)",
+      "url": "https://open.spotify.com/track/5Pe59NlkY1rYND0I1wqgv6"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Hey World Sessions",
-        "url": "https://open.spotify.com/album/1cukOALZABGxEuM4O28Iqy"
+        "name": "Live from Layman",
+        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
       },
       "artists": [
         {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
         }
       ],
-      "duration_ms": 177459,
-      "name": "Come Get Your Memory - Hey World Sessions",
-      "url": "https://open.spotify.com/track/2jUawi80YTVDXNau91PQMX"
+      "duration_ms": 260000,
+      "name": "Waves (Live)",
+      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Live from Layman",
-        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Waves (Live)",
-      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "That's Why (Acoustic Version)",
         "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
       },
@@ -1399,38 +1383,6 @@
       "duration_ms": 177772,
       "name": "That's Why (Acoustic Version)",
       "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Hush Little Baby (Acoustic)",
-        "url": "https://open.spotify.com/album/6MOlPULOAZB0pxAaLiiTCG"
-      },
-      "artists": [
-        {
-          "name": "Ashley Ryan",
-          "url": "https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq"
-        }
-      ],
-      "duration_ms": 174965,
-      "name": "Hush Little Baby (Acoustic)",
-      "url": "https://open.spotify.com/track/6m28U7MG4KdMU5Y9z1zgI3"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Narcissist (Piano Version)",
-        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
-      },
-      "artists": [
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 153186,
-      "name": "Narcissist - Piano Version",
-      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1451,6 +1403,54 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Hush Little Baby (Acoustic)",
+        "url": "https://open.spotify.com/album/6MOlPULOAZB0pxAaLiiTCG"
+      },
+      "artists": [
+        {
+          "name": "Ashley Ryan",
+          "url": "https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq"
+        }
+      ],
+      "duration_ms": 174965,
+      "name": "Hush Little Baby (Acoustic)",
+      "url": "https://open.spotify.com/track/6m28U7MG4KdMU5Y9z1zgI3"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Hey World Sessions",
+        "url": "https://open.spotify.com/album/1cukOALZABGxEuM4O28Iqy"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 177459,
+      "name": "Come Get Your Memory - Hey World Sessions",
+      "url": "https://open.spotify.com/track/2jUawi80YTVDXNau91PQMX"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Narcissist (Piano Version)",
+        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 153186,
+      "name": "Narcissist - Piano Version",
+      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Breakin' in Boots (Stripped)",
         "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 154173,
       "name": "Breakin' in Boots - Stripped",
       "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 170755,
+      "name": "Buy Dirt - Alternate Version",
+      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 187361,
       "name": "You, Me, And Whiskey - Acoustic",
       "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 170755,
-      "name": "Buy Dirt - Alternate Version",
-      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Outskirts (Acoustic)",
-        "url": "https://open.spotify.com/album/5qyPZa71L2HyiPndLDI9T0"
-      },
-      "artists": [
-        {
-          "name": "Sean Stemaly",
-          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
-        }
-      ],
-      "duration_ms": 182692,
-      "name": "Outskirts - Acoustic",
-      "url": "https://open.spotify.com/track/31biT4mpfWsydnwXihioIH"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Creek Will Rise (Acoustic)",
         "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 171320,
       "name": "Creek Will Rise - Acoustic",
       "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Outskirts (Acoustic)",
+        "url": "https://open.spotify.com/album/5qyPZa71L2HyiPndLDI9T0"
+      },
+      "artists": [
+        {
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+        }
+      ],
+      "duration_ms": 182692,
+      "name": "Outskirts - Acoustic",
+      "url": "https://open.spotify.com/track/31biT4mpfWsydnwXihioIH"
     }
   ],
   "unique_name": "Nashville Stripped",

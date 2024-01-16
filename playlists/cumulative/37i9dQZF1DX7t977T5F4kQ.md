@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1?si=TOzAEf6yTvWEDysOJWHqPA"> Olivetheboy </a>
 
-286 songs - 15 hr 12 min
+287 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Africa Money](https://open.spotify.com/track/6kQlDRYfRhzjfisBceYJkJ) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Africa Money](https://open.spotify.com/album/7kpWSh8UcAGkcxZVUibqCh) | 2:23 | 2023-10-27 | 2023-11-10 |
 | [Ahoufe](https://open.spotify.com/track/4XU0t33ITYzP8D0YroWBRV) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Ahoufe](https://open.spotify.com/album/6eYHMWlLzFeUZChXI7raVY) | 2:58 | 2023-08-11 | 2023-09-15 |
 | [Akohwie](https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Akohwie](https://open.spotify.com/album/5YHo8SQnebWXMA43Qoos51) | 2:54 | 2023-05-12 | 2023-05-20 |
+| [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 | 2024-01-15 |  |
 | [All of a Sudden](https://open.spotify.com/track/6gexVsMvwjIr5NQPDrmrkp) | [Abochi](https://open.spotify.com/artist/1yCRHs6DWub2XayDl4GEEw) | [All of a Sudden](https://open.spotify.com/album/694ZgcasfENDbZ8pq9fNGp) | 3:13 | 2022-11-18 | 2022-12-02 |
 | [Aluta](https://open.spotify.com/track/42zyObr3pHrqizANcRdSQK) | [OV](https://open.spotify.com/artist/6m4OztP0eEgXadXD9biIN0) | [Aluta](https://open.spotify.com/album/5AGGhnDzlCCPjq74uDfZ4t) | 3:04 | 2023-09-14 | 2023-10-13 |
 | [Amina](https://open.spotify.com/track/4ZSjfHkPNAB1ywr4yW72fS) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Amina](https://open.spotify.com/album/654HPFGo9jVTd8biJ66QWX) | 2:57 | 2023-08-10 | 2023-12-15 |
@@ -138,7 +139,7 @@
 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 | 2022-11-04 |  |
 | [JJC](https://open.spotify.com/track/5DuZrfanbwiEtmU7ZDXaX0) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [JJC](https://open.spotify.com/album/4vr2gkRB2OYFzdbAr8sPqN) | 4:57 | 2022-12-05 | 2023-09-15 |
 | [Jo 'Dance](https://open.spotify.com/track/4ja7B6pvvdV0GKXzsDZR2C) | [FBS](https://open.spotify.com/artist/1WyucEnZDSMkVAxdhgnlUx), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Jo 'Dance](https://open.spotify.com/album/5hVZsA0LOsty1GlQ1L0Oep) | 2:58 | 2022-11-04 | 2023-07-21 |
-| [Joo](https://open.spotify.com/track/0gsUEvfyck7i7cZknquaD6) | [Moffy](https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9) | [Joo](https://open.spotify.com/album/7kgD44Ey7k9NQDygaUO28K) | 2:43 | 2023-12-15 |  |
+| [Joo](https://open.spotify.com/track/0gsUEvfyck7i7cZknquaD6) | [Moffy](https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9) | [Joo](https://open.spotify.com/album/7kgD44Ey7k9NQDygaUO28K) | 2:43 | 2023-12-15 | 2024-01-16 |
 | [Kaba](https://open.spotify.com/track/0JxMcsYDw5m5fSunh11kqj) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Kaba](https://open.spotify.com/album/7DsT04iHohIn3H4abcSZjH) | 2:51 | 2022-11-04 | 2023-06-05 |
 | [Kaba](https://open.spotify.com/track/4vNO2QV06RA4abMvrGkZ6C) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 2:51 | 2023-06-02 |  |
 | [Kaba](https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Kaba](https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO) | 2:51 | 2022-11-04 | 2022-12-25 |

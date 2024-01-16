@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Club Dogo, Vale Lambo e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,762 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,808 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [Cavallo Bianco](https://open.spotify.com/track/6W8D182SLIjb2uIbdOpqoU) | [Doxa Laem](https://open.spotify.com/artist/3bc4Xbf9QPUdWIN0ooiUyu), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Christmas Carol 2](https://open.spotify.com/album/7JLAnoRG331a3cc6UbWE9J) | 2:00 |
 | 80 | [Caramella](https://open.spotify.com/track/3xsHQAueBhbwgoVaK3Hf1y) | [GOTIK](https://open.spotify.com/artist/3Ey9eEXfND6R45RySALanw) | [Caramella](https://open.spotify.com/album/6DEYDwiUQuhaySNtBcAEsG) | 2:24 |
 
-Snapshot ID: `MCxmN2Q3MzY2ZDM1Njk1YTJlMDdkODgyM2RkODkyMzFhYjZlZTE1Zjhm`
+Snapshot ID: `MCw2ODEyNDZjZGEyNGUwNjkzYTA4MWU0MjkwYTA3OWJjNTJmMjExNjhi`

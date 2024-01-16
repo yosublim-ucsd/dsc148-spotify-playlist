@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-117 songs - 9 hr 50 min
+118 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Amen](https://open.spotify.com/track/0xzJ4tttj4yidyKPgnXdYY) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Amen](https://open.spotify.com/album/5RTLtWTO9qyUzwn0Eps3cY) | 4:14 | 2023-04-06 | 2023-08-18 |
 | [Amen \(feat\. Ntokozo Mbambo\)](https://open.spotify.com/track/18iiY88WV4ma0OLvCMC6p5) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:21 | 2023-04-06 | 2023-08-24 |
 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 | 2023-07-28 | 2023-08-04 |
-| [Away](https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Away](https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL) | 3:30 | 2023-12-15 |  |
+| [Away](https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Away](https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL) | 3:30 | 2023-12-15 | 2024-01-16 |
 | [Bianule](https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Bianule](https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl) | 4:44 | 2023-04-06 |  |
 | [Big God](https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Big God](https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP) | 2:30 | 2023-07-14 |  |
 | [Bigger Everyday](https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:12 | 2023-04-06 |  |
@@ -60,6 +60,7 @@
 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 | 2023-04-06 |  |
 | [Iwo Nikan L'ogo Ye / Too Much for Me](https://open.spotify.com/track/6DSnwdMQOB62cFCG3EOySO) | [Wale Adenuga](https://open.spotify.com/artist/0s7YJetebaV73NYYtMx1E2) | [Songs for Generations](https://open.spotify.com/album/3OD5WwFzklKlShbCRfVJYD) | 7:09 | 2023-04-06 | 2023-08-09 |
 | [Jehovah Praise](https://open.spotify.com/track/0cY0ylpZTnazJcEuGTxnhf) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 2:19 | 2023-04-06 | 2023-07-17 |
+| [Jesus](https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Jesus](https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2) | 3:36 | 2023-12-15 |  |
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2023-08-04 |  |
 | [Joy Overflow \- Live](https://open.spotify.com/track/5FxeHgp09vEDEnd13YqBcP) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Praise Ovation \(Live Recording\)](https://open.spotify.com/album/7IOP1HGSwRMkIVcZjdcwgL) | 8:27 | 2023-04-06 | 2023-07-02 |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2023-04-06 |  |

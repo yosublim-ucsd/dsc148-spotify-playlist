@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 53477,
+  "2024-01-16": 53525,
   "date_first_scraped": "2023-12-07",
   "description": "Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party. For submissions: j-dosch@freenet.de",
   "name": "Beach Lounge 2024 \ud83c\udf34 IBIZA Summer Chillout",
@@ -99,7 +99,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 133333,
       "name": "All That You Need",
       "url": "https://open.spotify.com/track/31VFS3dhBQjutKgTuYCGYa"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 153333,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/4iEmc19nHE8qXEbugWZDNv"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 131869,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/67JnHOZ56PObAwCQ5PgbqL"
@@ -1965,7 +1965,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 184200,
       "name": "It\u2019s You",
       "url": "https://open.spotify.com/track/5O8WyuvUlz2lWC2sWRttaC"
@@ -2711,7 +2711,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 154363,
       "name": "Miss California (DeejaVu Remix)",
       "url": "https://open.spotify.com/track/5iiI3Aw0AruRfiZItxEHRx"
@@ -3409,7 +3409,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 133186,
       "name": "Safe & Sound",
       "url": "https://open.spotify.com/track/09W35ykeoYUXdlCkEFkqLq"
@@ -3587,7 +3587,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 192000,
       "name": "Smooth Operator",
       "url": "https://open.spotify.com/track/0EnilVWwRs0G4VeijF8c4O"
@@ -3766,6 +3766,28 @@
     },
     {
       "album": {
+        "name": "Stuck In The Middle",
+        "url": "https://open.spotify.com/album/4UNEF0Hg8VPo86RAaa9Hba"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        },
+        {
+          "name": "Benjamin Roustaing",
+          "url": "https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204777,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/6niBwol34bKc0LXRRHHIGD"
+    },
+    {
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/3wCwbzjcVI6PNPyWGuH3AG"
       },
@@ -3873,6 +3895,28 @@
       "duration_ms": 146124,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/3lq8LmjUXIUILkLkKnA7Hx"
+    },
+    {
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/3yK260qrSv3GNsxtHYjsHd"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157777,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/5DpNSz643RNngHsWSDllkZ"
     },
     {
       "album": {
@@ -4259,6 +4303,28 @@
       "duration_ms": 163636,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/4BnNu11SXAJKu4TaMoipUA"
+    },
+    {
+      "album": {
+        "name": "Through Glass",
+        "url": "https://open.spotify.com/album/3Anq47xQ6ubEdxmP6g4Agb"
+      },
+      "artists": [
+        {
+          "name": "Cale",
+          "url": "https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ"
+        },
+        {
+          "name": "HALUNA",
+          "url": "https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186226,
+      "name": "Through Glass",
+      "url": "https://open.spotify.com/track/3v60ytSWrozCqpiAZbkI1O"
     },
     {
       "album": {

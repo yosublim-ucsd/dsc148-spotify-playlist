@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 383595,
+  "num_followers": 383531,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTljNmFmZjU2YzI1NDNjYzQxMTkzYWJjOWEwYmE4NWYyYzQwOTBm",
+  "snapshot_id": "MCw1MzZlZTcyMThlYzU2ZDljNjBjM2NiZDZkNjY0NjJiZTM4NzRlOGI4",
   "tracks": [
     {
       "added_at": "2024-01-11 15:00:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "WINTER WITHOUT YOU",
-        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
+        "name": "\u5730\u7403\u5100 - Spinning Globe",
+        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 243520,
-      "name": "WINTER WITHOUT YOU",
-      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
+      "duration_ms": 273437,
+      "name": "\u5730\u7403\u5100 - Spinning Globe",
+      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "\u5730\u7403\u5100 - Spinning Globe",
-        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
+        "name": "WINTER WITHOUT YOU",
+        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 273437,
-      "name": "\u5730\u7403\u5100 - Spinning Globe",
-      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
+      "duration_ms": 243520,
+      "name": "WINTER WITHOUT YOU",
+      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "\u3055\u3059\u3089\u3044",
-        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
+        "name": "Tokyo Calling",
+        "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
       },
       "artists": [
         {
-          "name": "Tamio Okuda",
-          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 206200,
-      "name": "\u3055\u3059\u3089\u3044",
-      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
+      "duration_ms": 191180,
+      "name": "Tokyo Calling",
+      "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Tokyo Calling",
-        "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
+        "name": "\u3055\u3059\u3089\u3044",
+        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "Tamio Okuda",
+          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
         }
       ],
-      "duration_ms": 191180,
-      "name": "Tokyo Calling",
-      "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
+      "duration_ms": 206200,
+      "name": "\u3055\u3059\u3089\u3044",
+      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "I say bye",
-        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 180596,
-      "name": "I say bye",
-      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "L7 Blues",
         "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
@@ -999,6 +983,54 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "\u98df\u5353",
+        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 206107,
+      "name": "\u98df\u5353",
+      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "I say bye",
+        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 180596,
+      "name": "I say bye",
+      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 239625,
+      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "snow love",
         "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
       },
@@ -1027,38 +1059,6 @@
       "duration_ms": 213400,
       "name": "STARS",
       "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 239625,
-      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "\u98df\u5353",
-        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 206107,
-      "name": "\u98df\u5353",
-      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "WE'LL DIE THIS WAY",
-        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "PRO",
-      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "ZERO",
         "url": "https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 203011,
       "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
       "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "WE'LL DIE THIS WAY",
+        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "PRO",
+      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "RUN FOR YOU",
-        "url": "https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 178099,
-      "name": "RUN FOR YOU",
-      "url": "https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Welcome to My Castle",
         "url": "https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 202000,
       "name": "UMAMI",
       "url": "https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "RUN FOR YOU",
+        "url": "https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 178099,
+      "name": "RUN FOR YOU",
+      "url": "https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1375,38 +1375,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Question",
-        "url": "https://open.spotify.com/album/3ianuamQ5HkgsPLaFGB4H6"
-      },
-      "artists": [
-        {
-          "name": "chelmico",
-          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
-        }
-      ],
-      "duration_ms": 171695,
-      "name": "Question",
-      "url": "https://open.spotify.com/track/4ueD865i4d25gzz3UoDSus"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "\u4e71\u75f4\u6c17",
-        "url": "https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3"
-      },
-      "artists": [
-        {
-          "name": "BREIMEN",
-          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
-        }
-      ],
-      "duration_ms": 221428,
-      "name": "\u4e71\u75f4\u6c17",
-      "url": "https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "umi tsuki (feat. iri) (Prod. Chaki Zulu)",
         "url": "https://open.spotify.com/album/23EkcKAnLu6wUqEeCUe9sa"
       },
@@ -1447,6 +1415,38 @@
       "duration_ms": 221666,
       "name": "WORLD DANCE",
       "url": "https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Question",
+        "url": "https://open.spotify.com/album/3ianuamQ5HkgsPLaFGB4H6"
+      },
+      "artists": [
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "duration_ms": 171695,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/4ueD865i4d25gzz3UoDSus"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "\u4e71\u75f4\u6c17",
+        "url": "https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "duration_ms": 221428,
+      "name": "\u4e71\u75f4\u6c17",
+      "url": "https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "OKACHIMACHI FRIDAY NIGHT",
+        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 198088,
+      "name": "OKACHIMACHI FRIDAY NIGHT",
+      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "FINE LINE (feat. Skaai) (Prod. uin)",
         "url": "https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P"
       },
@@ -1571,26 +1587,6 @@
       "duration_ms": 179266,
       "name": "FINE LINE (feat. Skaai) (Prod. uin)",
       "url": "https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "What\u2019s going on?",
-        "url": "https://open.spotify.com/album/5FSfuTfvfVR3iWmHuwEDl6"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        },
-        {
-          "name": "Celina Sharma",
-          "url": "https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD"
-        }
-      ],
-      "duration_ms": 223887,
-      "name": "What\u2019s going on?",
-      "url": "https://open.spotify.com/track/2dUVkU69fTjQvuCDIu4eT5"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1623,6 +1619,26 @@
       "duration_ms": 242499,
       "name": "Backseat (feat. G.RINA, Kick a Show, ZEN-LA-ROCK & JUVENILE)",
       "url": "https://open.spotify.com/track/0KHRem2sNG7J5vCFhEdjTT"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "What\u2019s going on?",
+        "url": "https://open.spotify.com/album/5FSfuTfvfVR3iWmHuwEDl6"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        },
+        {
+          "name": "Celina Sharma",
+          "url": "https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD"
+        }
+      ],
+      "duration_ms": 223887,
+      "name": "What\u2019s going on?",
+      "url": "https://open.spotify.com/track/2dUVkU69fTjQvuCDIu4eT5"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1667,38 +1683,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "OKACHIMACHI FRIDAY NIGHT",
-        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 198088,
-      "name": "OKACHIMACHI FRIDAY NIGHT",
-      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "SHOZEN",
-        "url": "https://open.spotify.com/album/6FEJoTviFUPHucUfGgbJT9"
-      },
-      "artists": [
-        {
-          "name": "\u5bb6\u4e3b",
-          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
-        }
-      ],
-      "duration_ms": 223109,
-      "name": "SHOZEN",
-      "url": "https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Don't go (feat. ASH ISLAND)",
         "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 157773,
       "name": "Don't go (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "SHOZEN",
+        "url": "https://open.spotify.com/album/6FEJoTviFUPHucUfGgbJT9"
+      },
+      "artists": [
+        {
+          "name": "\u5bb6\u4e3b",
+          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
+        }
+      ],
+      "duration_ms": 223109,
+      "name": "SHOZEN",
+      "url": "https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu"
     },
     {
       "added_at": "2024-01-11 15:00:00",

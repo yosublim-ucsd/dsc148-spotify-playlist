@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 208492,
+  "num_followers": 208462,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDYzZDcxYTVkYWU2YzM3YTQxMzg0M2Q3ODQ4YWI2NWM4YzQzMzcy",
+  "snapshot_id": "MCw1ZjA0MjdhOTI0ODAxNzk5NTA4MGQ2YmQ0YmU3MjcxNmM5ZGRmZjhi",
   "tracks": [
     {
       "added_at": "2023-12-11 13:59:45",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 211000,
       "name": "Tonight I Celebrate My Love",
       "url": "https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Keeper Of The Castle",
         "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 187773,
       "name": "Ain't No Woman (Like The One I've Got)",
       "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Jazzy Soul",
-        "url": "https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Caught Up In the Rapture",
-      "url": "https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Blue Lights in the Basement",
         "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Jazzy Soul",
+        "url": "https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Caught Up In the Rapture",
+      "url": "https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Original Musiquarium",
-        "url": "https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 337066,
-      "name": "Ribbon In The Sky",
-      "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Car Wash",
         "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 238200,
       "name": "I Wanna Get Next To You",
       "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Original Musiquarium",
+        "url": "https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 337066,
+      "name": "Ribbon In The Sky",
+      "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
         "name": "Rit, Vol. 1",
         "url": "https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 286960,
       "name": "Love X Love",
       "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
         "name": "A Woman Needs Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/38993ejU6at3J4b0fxIien"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 249053,
       "name": "A Woman Needs Love (Just Like You Do)",
       "url": "https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "The Very Best of Otis Redding",
-        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "I've Got Dreams to Remember",
-      "url": "https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Secret Combination",
         "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 254613,
       "name": "Rainy Night in Georgia",
       "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "The Very Best of Otis Redding",
+        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "I've Got Dreams to Remember",
+      "url": "https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK"
     },
     {
       "added_at": "2023-12-11 13:59:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,996 likes - 48 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,005 likes - 48 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 28 | [A Bad Day's Fishin'](https://open.spotify.com/track/3PwrVREh5ak8dpX7rqYZ0N) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 2:36 |
 | 29 | [Mechanised Swaggie](https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 3:15 |
 | 30 | [Plains Of Peppimenarti \- 1998 Remaster](https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best Of Slim Dusty \(Remastered\)](https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02) | 3:13 |
-| 31 | [Traveller's Prayer \- 1996 Remaster](https://open.spotify.com/track/44g3o4cQv7wMSpogAUArWg) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Singer From Down Under](https://open.spotify.com/album/4UdTfWAwOn6cKwY8xtLJuB) | 3:15 |
+| 31 | [By A Fire Of Gidgee Coal \- 1996 Digital Remaster](https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty Sings Stan Coster](https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp) | 2:58 |
 | 32 | [Paddy William](https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 4:32 |
 | 33 | [Boomaroo Flyer](https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 3:32 |
-| 34 | [By A Fire Of Gidgee Coal \- 1996 Digital Remaster](https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty Sings Stan Coster](https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp) | 2:58 |
+| 34 | [Traveller's Prayer \- 1996 Remaster](https://open.spotify.com/track/44g3o4cQv7wMSpogAUArWg) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Singer From Down Under](https://open.spotify.com/album/4UdTfWAwOn6cKwY8xtLJuB) | 3:15 |
 | 35 | [Trumby \- 1994 Remaster](https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Old Time Drover's Lament](https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480) | 3:29 |
 | 36 | [Matilda No More](https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:41 |
 | 37 | [Haulin' For The Double 'T'](https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 2:42 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 47 | [Wobbly Boot](https://open.spotify.com/track/2WLqQbjvpMrUNnJaMVKOT5) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Rolf Harris](https://open.spotify.com/artist/50KLYZQtZLrR2gGa5oHJEF) | [Pubs, Trucks & Plains](https://open.spotify.com/album/7CS7R9ZsE8QlrCOphaYpyi) | 2:58 |
 | 48 | [Gotta Keep Moving](https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 3:11 |
 
-Snapshot ID: `Mjg0MjA1NDgsMDAwMDAwMDA2NDUwNjUwMGFlNGNlYjhiMDY1NzViNzIwN2Y5MDM4Yg==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDA5NDI3YTAwNjlmY2FiZGJkNWQ5YWQ1YmJlZGU0MjNkMQ==`

@@ -2,7 +2,7 @@
 
 ### [exams 2024](https://open.spotify.com/playlist/37i9dQZF1DWVceT0UosQME)
 
-> your soundtrack to your exam studies\. for max productivness\. u got this!
+> your soundtrack to your exam studies\. for max productiveness\. u got this!
 
 501 songs - 19 hr 10 min
 

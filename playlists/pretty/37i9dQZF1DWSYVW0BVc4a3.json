@@ -1,12 +1,12 @@
 {
   "description": "The stomping ground. ",
-  "num_followers": 114986,
+  "num_followers": 115230,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzA2ZGUwYWY5MmM0MGJkMWZlY2Q2ZjI5OTkwNDljMGEyMjIxNzQy",
+  "snapshot_id": "MCxhNzdiMTAwNTFlYWYwMzlhOTUxOTI4NGEzZWY4MjIxMTRiZGU1OTY2",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -879,30 +879,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 189783,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Banho de Folhas (Maz Remix)",
         "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
       },
@@ -923,22 +899,26 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 302740,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
+      "duration_ms": 189783,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1003,6 +983,26 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 302740,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Ray Of Solar (Mau P Remix)",
         "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
@@ -1019,6 +1019,26 @@
       "duration_ms": 251428,
       "name": "Ray Of Solar - Mau P Remix",
       "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Simulation",
+        "url": "https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "duration_ms": 195238,
+      "name": "Simulation",
+      "url": "https://open.spotify.com/track/5166Ws58cqwtQE2YR7Nyal"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1043,26 +1063,6 @@
       "duration_ms": 210731,
       "name": "Subterranean",
       "url": "https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Simulation",
-        "url": "https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        }
-      ],
-      "duration_ms": 195238,
-      "name": "Simulation",
-      "url": "https://open.spotify.com/track/5166Ws58cqwtQE2YR7Nyal"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Dance With Me EP",
+        "url": "https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 391590,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Dimension",
         "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Dance With Me EP",
-        "url": "https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 391590,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Tudo Bem, Tudo Bom",
         "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
       },
@@ -1343,6 +1343,30 @@
       "duration_ms": 178125,
       "name": "Tudo Bem, Tudo Bom - Radio Edit",
       "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Night After Night",
+        "url": "https://open.spotify.com/album/7hSPuiVmOvzEEm4rRr9N4o"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        }
+      ],
+      "duration_ms": 418528,
+      "name": "Night After Night (CamelPhat Remix)",
+      "url": "https://open.spotify.com/track/3fFDHJoKWph8PQwXq3aIoX"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1363,18 +1387,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Captain Nemo",
-        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
+        "name": "Great Southern Land",
+        "url": "https://open.spotify.com/album/0BysOODMvw4P7nfZgLoNde"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "ICEHOUSE",
+          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
         }
       ],
-      "duration_ms": 243840,
-      "name": "Captain Nemo - Edit",
-      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
+      "duration_ms": 255483,
+      "name": "Great Southern Land",
+      "url": "https://open.spotify.com/track/3kvZ95Je92gWoXF1E9aFQM"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1419,26 +1447,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Great Southern Land",
-        "url": "https://open.spotify.com/album/0BysOODMvw4P7nfZgLoNde"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "ICEHOUSE",
-          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
-        }
-      ],
-      "duration_ms": 255483,
-      "name": "Great Southern Land",
-      "url": "https://open.spotify.com/track/3kvZ95Je92gWoXF1E9aFQM"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Tontoron Tonton (Vlado & Rockywhereyoubeen Remix)",
         "url": "https://open.spotify.com/album/66mbvl4eeLvyvM7umCzsac"
       },
@@ -1463,26 +1471,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Night After Night",
-        "url": "https://open.spotify.com/album/7hSPuiVmOvzEEm4rRr9N4o"
+        "name": "Captain Nemo",
+        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
       },
       "artists": [
         {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Be No Rain",
-          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         }
       ],
-      "duration_ms": 418528,
-      "name": "Night After Night (CamelPhat Remix)",
-      "url": "https://open.spotify.com/track/3fFDHJoKWph8PQwXq3aIoX"
+      "duration_ms": 243840,
+      "name": "Captain Nemo - Edit",
+      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1651,26 +1651,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
         },
         {
-          "name": "Redfield",
-          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
-        },
-        {
-          "name": "DJ Rae",
-          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
         }
       ],
-      "duration_ms": 173601,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j"
+      "duration_ms": 337000,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1695,22 +1691,50 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
+        "name": "Consciousness (Eric Prydz Remix)",
+        "url": "https://open.spotify.com/album/2jITDjGchk0LPGBXRqGiUQ"
       },
       "artists": [
         {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
         }
       ],
-      "duration_ms": 337000,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
+      "duration_ms": 244130,
+      "name": "Consciousness (Eric Prydz Remix)",
+      "url": "https://open.spotify.com/track/5jf5tzTvyRWTHwiFiGYgsP"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Redfield",
+          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
+        },
+        {
+          "name": "DJ Rae",
+          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
+        }
+      ],
+      "duration_ms": 173601,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1735,6 +1759,26 @@
       "duration_ms": 217280,
       "name": "Dope Dance",
       "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 283902,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1779,30 +1823,6 @@
       "duration_ms": 247559,
       "name": "Breathe In (Short Mix)",
       "url": "https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Consciousness (Eric Prydz Remix)",
-        "url": "https://open.spotify.com/album/2jITDjGchk0LPGBXRqGiUQ"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        },
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 244130,
-      "name": "Consciousness (Eric Prydz Remix)",
-      "url": "https://open.spotify.com/track/5jf5tzTvyRWTHwiFiGYgsP"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1907,26 +1927,6 @@
       "duration_ms": 191355,
       "name": "Perfect Love - Biscits Remix",
       "url": "https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Point Of No Return",
-        "url": "https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ"
-      },
-      "artists": [
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 283902,
-      "name": "Point Of No Return",
-      "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
     },
     {
       "added_at": "2024-01-11 23:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 1326872,
+  "2024-01-16": 1327620,
   "date_first_scraped": "2022-04-20",
   "description": "The perfect study beats. Find your focus, crush your productivity. ",
   "name": "chill lofi study beats",
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 139440,
       "name": "Autumn Air",
       "url": "https://open.spotify.com/track/6rHLRiZ8YYwO03he7OJQU2"
@@ -6290,6 +6290,24 @@
     },
     {
       "album": {
+        "name": "con leche",
+        "url": "https://open.spotify.com/album/63NdYIgJpX3pH8mUTRucY8"
+      },
+      "artists": [
+        {
+          "name": "Camden Clown",
+          "url": "https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178875,
+      "name": "con leche",
+      "url": "https://open.spotify.com/track/5ORMaylKqIYBtAFedOVIXD"
+    },
+    {
+      "album": {
         "name": "Concrete",
         "url": "https://open.spotify.com/album/2hs7bgiqTR39429D3eIoke"
       },
@@ -9947,7 +9965,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 139503,
       "name": "fight the flab",
       "url": "https://open.spotify.com/track/5NkFP4QgCvAA050xLpTxBk"
@@ -13758,6 +13776,24 @@
     },
     {
       "album": {
+        "name": "I Love You, Girl",
+        "url": "https://open.spotify.com/album/0yHWLTdcCWTVbUeM7wOGAb"
+      },
+      "artists": [
+        {
+          "name": "AAGAPE",
+          "url": "https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134142,
+      "name": "I Love You, Girl",
+      "url": "https://open.spotify.com/track/36RJxgfJQjSBCb26klkFR4"
+    },
+    {
+      "album": {
         "name": "kiwi juice",
         "url": "https://open.spotify.com/album/67CGdn3DQeQLJkRJ4QgNst"
       },
@@ -15217,7 +15253,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 120750,
       "name": "knox",
       "url": "https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL"
@@ -18037,6 +18073,24 @@
       "duration_ms": 204874,
       "name": "Meltdown",
       "url": "https://open.spotify.com/track/4gLJWrqUpHLaiDH7K276l9"
+    },
+    {
+      "album": {
+        "name": "Melted Sidewalk",
+        "url": "https://open.spotify.com/album/1ELHePM6qlzvB0I5l9rDTL"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200052,
+      "name": "Melted Sidewalk",
+      "url": "https://open.spotify.com/track/0d4ZPBFr0vTDQcKj8sAVwt"
     },
     {
       "album": {
@@ -23681,6 +23735,24 @@
       "duration_ms": 119117,
       "name": "Rainy Day Reverie",
       "url": "https://open.spotify.com/track/0YvTkRufBOCQbWGzbHh2Nn"
+    },
+    {
+      "album": {
+        "name": "rainy days",
+        "url": "https://open.spotify.com/album/65inz801tjfzT0VvCCoj7N"
+      },
+      "artists": [
+        {
+          "name": "Kaptain Kola",
+          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125434,
+      "name": "rainy days",
+      "url": "https://open.spotify.com/track/4dYfEHMUW9TxpYg8B5Iv5y"
     },
     {
       "album": {
@@ -30831,7 +30903,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 91428,
       "name": "True",
       "url": "https://open.spotify.com/track/3Elj8kE6dLDym1iIBy6JeC"

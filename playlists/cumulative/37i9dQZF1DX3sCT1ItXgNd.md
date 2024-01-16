@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Myke Towers
 
-363 songs - 18 hr 14 min
+364 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [LUCES DE CIUDAD \(feat\. Álvaro De Luna, Dani Fernández\)](https://open.spotify.com/track/4GrbQq8TcYoUd4s5YmzydE) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [LUCES DE CIUDAD \(feat\. Álvaro De Luna, Dani Fernández\)](https://open.spotify.com/album/3EBBkRkTqYd59GNwxUH3ar) | 2:43 | 2023-08-24 |  |
 | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr) | 2:47 | 2023-11-21 | 2023-11-29 |
 | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/track/5zDEMy7lLJ1W7vauTrH5mb) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/album/5J0QySoFlt8cXEQIH0jF64) | 2:47 | 2023-10-16 | 2023-11-25 |
+| [M.A.I](https://open.spotify.com/track/6ERI20r4GlgPI6ZDVLcGMO) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:04 | 2024-01-15 |  |
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2023-09-28 |  |
 | [Mala Gente](https://open.spotify.com/track/6ju55V6qat6G1DIPn0yszc) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Mala Gente](https://open.spotify.com/album/73KxpUdAwS9raw5JWjkD55) | 2:33 | 2023-11-30 | 2023-12-19 |
 | [MALA SUERTE](https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [MALA SUERTE](https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS) | 3:35 | 2023-08-31 | 2023-09-29 |

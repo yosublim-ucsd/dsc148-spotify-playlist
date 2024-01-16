@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 
 > Aesthetic vibes that just make sense.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,625 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,646 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 7 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 |
 | 8 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
 | 9 | [kishu inu](https://open.spotify.com/track/42yJL8dXr3S4c0kO6bfpBS) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [kishu inu](https://open.spotify.com/album/4lgPT8tIzb69EMZ7lm30WO) | 2:16 |
-| 10 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 |
-| 11 | [i'm closing my eyes](https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w) | 1:58 |
+| 10 | [i'm closing my eyes](https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w) | 1:58 |
+| 11 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 |
 | 12 | [walk but in a garden](https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/03Glq418UekVfi6ud34yeg) | 1:54 |
 | 13 | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1) | [Sista Prod](https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61), [Subvrbs](https://open.spotify.com/artist/0NVy1xEsz4i8pX33Scv75n) | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/album/5UYjxc4HIYeesKS0WJlhEI) | 2:34 |
 | 14 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 44 | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/track/1F0a3Au8NIpoRP7PVdO1YR) | [TSUKI](https://open.spotify.com/artist/5JUQJ7KsNBUfvga48DbmAf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/album/6hS1GnERLOTXde2WYhUzCL) | 2:37 |
 | 45 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
 | 46 | [Day in Paris](https://open.spotify.com/track/5uuD5CBnuAF6VoC57WLxol) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [Day in Paris](https://open.spotify.com/album/71Xu2aatGYldckWmQHeYSF) | 3:17 |
-| 47 | [Tired Boy](https://open.spotify.com/track/4BrhZASiyGjVr5mjh6Ciwq) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Tired Boy](https://open.spotify.com/album/22FRiZs4mG1fUZslYCcaWi) | 4:15 |
-| 48 | [Aesthetic Girl](https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Aesthetic Girl](https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX) | 4:18 |
+| 47 | [Aesthetic Girl](https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Aesthetic Girl](https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX) | 4:18 |
+| 48 | [Tired Boy](https://open.spotify.com/track/4BrhZASiyGjVr5mjh6Ciwq) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Tired Boy](https://open.spotify.com/album/22FRiZs4mG1fUZslYCcaWi) | 4:15 |
 | 49 | [Aesthetic](https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/3OWiPXLWYWCvQ9nIKvTQkk) | 2:38 |
 | 50 | [To the Girl With Red Converse](https://open.spotify.com/track/2YTtjhY9zEAHESbozqrkkB) | [Jackie Xan](https://open.spotify.com/artist/2ykxC1VJhlsCrfLfuFEcL1) | [To the Girl With Red Converse](https://open.spotify.com/album/7h1W4dSDEbc1NUnK16MXhq) | 2:23 |
 
-Snapshot ID: `MCwxMDBkNzgxYmExYmJiMWY5OWIyYzUyNjdhZDdiOTBlMWYyODgxMTMy`
+Snapshot ID: `MCw2Nzk4ZGIwODg2OWRmY2Y4YTc2OTE4Y2NiYzY1ZDI2ZmRmMTQ4YjA2`

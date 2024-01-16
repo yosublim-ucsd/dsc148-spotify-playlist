@@ -1,12 +1,12 @@
 {
-  "description": "The best remixes of popular tracks!",
-  "num_followers": 130921,
-  "original_name": "Hardstyle Remixes",
+  "description": "The best hardstyle remixes of songs you know!",
+  "num_followers": 131042,
+  "original_name": "Hardstyle Remix of Popular Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzc2MjMzZTk5NzQwZTc2M2YwNzc3N2MzZTZiYjJhZmU0MzU4NzVh",
+  "snapshot_id": "MCw0YTI3MjZkZjdmNDY2ZWYzNzU4MjRhZGZjYzQ1ODYyNGM3ZTgzZDdk",
   "tracks": [
     {
       "added_at": "2023-12-04 12:32:06",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-12-04 12:32:06",
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X"
+      },
+      "artists": [
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo"
+    },
+    {
+      "added_at": "2023-12-04 12:32:06",
+      "album": {
         "name": "Can Can (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2023-12-04 12:32:06",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X"
-      },
-      "artists": [
-        {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo"
-    },
-    {
-      "added_at": "2023-12-04 12:32:06",
-      "album": {
         "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
       },
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-12-04 12:32:06",
       "album": {
+        "name": "Dark Horse (Hardstyle)",
+        "url": "https://open.spotify.com/album/26AwKORtQduylqg17xd0MH"
+      },
+      "artists": [
+        {
+          "name": "PXSEIDON",
+          "url": "https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw"
+        }
+      ],
+      "duration_ms": 108705,
+      "name": "Dark Horse (Hardstyle)",
+      "url": "https://open.spotify.com/track/5aJT7dU40Ry4zz1zI34845"
+    },
+    {
+      "added_at": "2023-12-04 12:32:06",
+      "album": {
         "name": "Can Can",
         "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 128812,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
-    },
-    {
-      "added_at": "2023-12-04 12:32:06",
-      "album": {
-        "name": "Dark Horse (Hardstyle)",
-        "url": "https://open.spotify.com/album/26AwKORtQduylqg17xd0MH"
-      },
-      "artists": [
-        {
-          "name": "PXSEIDON",
-          "url": "https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw"
-        }
-      ],
-      "duration_ms": 108705,
-      "name": "Dark Horse (Hardstyle)",
-      "url": "https://open.spotify.com/track/5aJT7dU40Ry4zz1zI34845"
     },
     {
       "added_at": "2023-12-04 12:32:06",
@@ -655,6 +655,30 @@
     {
       "added_at": "2023-12-04 12:32:06",
       "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Special D.",
+          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
+        }
+      ],
+      "duration_ms": 161589,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
+    },
+    {
+      "added_at": "2023-12-04 12:32:06",
+      "album": {
         "name": "Don't Let Me Down (feat. Daya) [Hardwell & Sephyx Remix]",
         "url": "https://open.spotify.com/album/3oS6pMqcIiHaq3B47mDop5"
       },
@@ -679,30 +703,6 @@
       "duration_ms": 162440,
       "name": "Don't Let Me Down (feat. Daya) - Hardwell & Sephyx Remix",
       "url": "https://open.spotify.com/track/1JI70l1lE5IF2tgJm5TnMD"
-    },
-    {
-      "added_at": "2023-12-04 12:32:06",
-      "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Special D.",
-          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
-        }
-      ],
-      "duration_ms": 161589,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
     },
     {
       "added_at": "2023-12-04 12:32:06",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-12-04 12:32:06",
       "album": {
+        "name": "Axel F",
+        "url": "https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        }
+      ],
+      "duration_ms": 193704,
+      "name": "Axel F",
+      "url": "https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz"
+    },
+    {
+      "added_at": "2023-12-04 12:32:06",
+      "album": {
         "name": "We Found Love (Hardstyle)",
         "url": "https://open.spotify.com/album/6eMaRX72HOopSZMsLwt4XY"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 155416,
       "name": "We Found Love (Hardstyle)",
       "url": "https://open.spotify.com/track/5Kv0Oy4K55O5LFOL5Z8kfW"
-    },
-    {
-      "added_at": "2023-12-04 12:32:06",
-      "album": {
-        "name": "Axel F",
-        "url": "https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ"
-      },
-      "artists": [
-        {
-          "name": "Jordiz",
-          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
-        }
-      ],
-      "duration_ms": 193704,
-      "name": "Axel F",
-      "url": "https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz"
     },
     {
       "added_at": "2023-12-04 12:32:06",
@@ -1411,44 +1411,20 @@
     {
       "added_at": "2023-12-04 12:32:06",
       "album": {
-        "name": "Instagram (The Remixes)",
-        "url": "https://open.spotify.com/album/154K5houWcuFT0xqGKEMC1"
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "MANDY",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
         }
       ],
-      "duration_ms": 269250,
-      "name": "Instagram - Mandy Remix",
-      "url": "https://open.spotify.com/track/3p69LocgURIn0HniU4SbQy"
+      "duration_ms": 190412,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td"
     }
   ],
-  "unique_name": "Hardstyle Remixes",
+  "unique_name": "Hardstyle Remix of Popular Songs",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWz3YvZd9NIz"
 }

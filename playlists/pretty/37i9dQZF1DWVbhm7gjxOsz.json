@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 56378,
+  "num_followers": 56523,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjZiYWMzZTUzMzg3MmJiYTkzYjcwMjk5MjQ5NTk1YjQ2YjdkOWYz",
+  "snapshot_id": "MCwxNTg5ODZiNDE1ODQwNTczOGU1ZmFhMzViMDgwNWQwMjUwZDFmMjI1",
   "tracks": [
     {
       "added_at": "2024-01-05 17:02:31",
@@ -79,18 +79,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 188800,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -115,18 +115,34 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -143,22 +159,6 @@
       "duration_ms": 154533,
       "name": "These Arms of Mine",
       "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Sky's The Limit",
-        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 228160,
-      "name": "Just My Imagination (Running Away With Me)",
-      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 164160,
       "name": "Ooo Baby Baby",
       "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Sky's The Limit",
+        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Just My Imagination (Running Away With Me)",
+      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 163302,
+      "name": "I Like The Way You Love Me",
+      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "The Very Best Of The Dramatics",
         "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 151906,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 163302,
-      "name": "I Like The Way You Love Me",
-      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 227624,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/71keN33KR0rS5jwKi4JNLE"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "OOO Baby Baby: The Anthlogy",
         "url": "https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 164560,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "The Never Ending Impressions",
+        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Never Ending Impressions",
-        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
+        "name": "Baby, I'm Yours",
+        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
       },
       "artists": [
         {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
         }
       ],
-      "duration_ms": 171506,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
+      "duration_ms": 148706,
+      "name": "Baby, I'm Yours",
+      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1143,22 +1159,6 @@
       "duration_ms": 282480,
       "name": "Computer Love",
       "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Baby, I'm Yours",
-        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Baby, I'm Yours",
-      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "The One Who Really Loves You - Single Version",
-      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
       "artists": [
         {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 159080,
-      "name": "Cowboys to Girls",
-      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
+      "duration_ms": 147466,
+      "name": "The One Who Really Loves You - Single Version",
+      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1259,6 +1243,22 @@
       "duration_ms": 253004,
       "name": "Betcha by Golly Wow (Live)",
       "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Cowboys to Girls",
+      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 141746,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Takin' All My Lovin'",
-        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
-      },
-      "artists": [
-        {
-          "name": "Mikey Jimenez",
-          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
-        },
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "Takin' All My Lovin'",
-      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Essential Deniece Williams (The Columbia Years)",
         "url": "https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 708866,
       "name": "Float On",
       "url": "https://open.spotify.com/track/7xg0Rbj3SVOVzQVJEqh5Zd"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Takin' All My Lovin'",
+        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
+      },
+      "artists": [
+        {
+          "name": "Mikey Jimenez",
+          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
+        },
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "Takin' All My Lovin'",
+      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
     },
     {
       "added_at": "2024-01-05 17:02:31",

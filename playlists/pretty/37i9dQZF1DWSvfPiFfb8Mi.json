@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 548322,
+  "num_followers": 548366,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2RiZDM4Y2QxM2ZkZjc0NDQwOTdkNTZkNmRiZTI5NmEyNTg2ZmYx",
+  "snapshot_id": "MCw2N2M3MmM2NzUwMjNlYzg5NjI2OWU3ODgyMzc4YzhkYmY1YjQzYjM0",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -167,26 +167,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Something On My Mind",
-        "url": "https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8"
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
         }
       ],
-      "duration_ms": 216774,
-      "name": "Something On My Mind",
-      "url": "https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR"
+      "duration_ms": 181935,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -207,18 +199,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
+        "name": "Something On My Mind",
+        "url": "https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8"
       },
       "artists": [
         {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 181935,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
+      "duration_ms": 216774,
+      "name": "Something On My Mind",
+      "url": "https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 227486,
+      "name": "Actually",
+      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
         "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 172884,
       "name": "Tighten It Up - Barney Bones - DRAMA Edit",
       "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 227486,
-      "name": "Actually",
-      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "We Could Be Falling In Love",
-        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 179487,
-      "name": "We Could Be Falling In Love - Edit",
-      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "ON THE MOVE",
         "url": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 204820,
       "name": "ON THE MOVE",
       "url": "https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "We Could Be Falling In Love",
+        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 179487,
+      "name": "We Could Be Falling In Love - Edit",
+      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1011,18 +1011,38 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
+        "name": "I Miss Having Someone To Talk To",
+        "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
       },
       "artists": [
         {
           "name": "Folamour",
           "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
         }
       ],
-      "duration_ms": 355480,
-      "name": "Poundland Anthem",
-      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+      "duration_ms": 223742,
+      "name": "I Miss Having Someone To Talk To",
+      "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Seventies",
+        "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "duration_ms": 196035,
+      "name": "Seventies",
+      "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1043,22 +1063,6 @@
       "duration_ms": 246533,
       "name": "Tension (Chromeo Remix)",
       "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Seventies",
-        "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
-      },
-      "artists": [
-        {
-          "name": "Theo Kottis",
-          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
-        }
-      ],
-      "duration_ms": 196035,
-      "name": "Seventies",
-      "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1139,6 +1143,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 355480,
+      "name": "Poundland Anthem",
+      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 144545,
       "name": "Disco Maniac",
       "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "I Miss Having Someone To Talk To",
-        "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 223742,
-      "name": "I Miss Having Someone To Talk To",
-      "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Please - Single Edit",
+      "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Cosmic Fonk",
         "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 213815,
       "name": "Glitter Fonk",
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Please - Single Edit",
-      "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Sweet Side",
-        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
-      },
-      "artists": [
-        {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
-        },
-        {
-          "name": "Dux",
-          "url": "https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr"
-        }
-      ],
-      "duration_ms": 225414,
-      "name": "Leave Me Behind",
-      "url": "https://open.spotify.com/track/4dbUtdJDtqjHEgOxt2a4Dp"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/6OQvq7hzK2BCj89A4wBAxh"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 180000,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/76CcHmpRJjb1y6RFnTh4nK"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Sweet Side",
+        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        },
+        {
+          "name": "Dux",
+          "url": "https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr"
+        }
+      ],
+      "duration_ms": 225414,
+      "name": "Leave Me Behind",
+      "url": "https://open.spotify.com/track/4dbUtdJDtqjHEgOxt2a4Dp"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Motions",
+        "url": "https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W"
+      },
+      "artists": [
+        {
+          "name": "Midnight Pool Party",
+          "url": "https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z"
+        }
+      ],
+      "duration_ms": 232794,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Love If You Need It (feat. Fi McCluskey)",
         "url": "https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 204823,
       "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
       "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Motions",
-        "url": "https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W"
-      },
-      "artists": [
-        {
-          "name": "Midnight Pool Party",
-          "url": "https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z"
-        }
-      ],
-      "duration_ms": 232794,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Disc Me Bro",
+        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
+      },
+      "artists": [
+        {
+          "name": "Basixx",
+          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Disc Me Bro",
+      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Call On Me & Lifetime (Remixes)",
         "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 193106,
       "name": "Lifetime - Dimitri From Paris 'Cruising Attitude' Remix",
       "url": "https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Disc Me Bro",
-        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
-      },
-      "artists": [
-        {
-          "name": "Basixx",
-          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Disc Me Bro",
-      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
     },
     {
       "added_at": "2023-12-15 05:00:00",

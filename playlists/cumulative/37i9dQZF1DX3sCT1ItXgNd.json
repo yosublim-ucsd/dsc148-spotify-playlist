@@ -3679,6 +3679,24 @@
     },
     {
       "album": {
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184027,
+      "name": "M.A.I",
+      "url": "https://open.spotify.com/track/6ERI20r4GlgPI6ZDVLcGMO"
+    },
+    {
+      "album": {
         "name": "Madrid City",
         "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
       },

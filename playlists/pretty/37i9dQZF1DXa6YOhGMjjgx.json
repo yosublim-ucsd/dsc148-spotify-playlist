@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 473269,
+  "num_followers": 473146,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGIzZGE4MGJhODE2NjEyOWViYTJmODJlNjUxMzljOGRhOWQ1MGZm",
+  "snapshot_id": "MCxiODk5OTVkMjc2OTk4MzcxZTk5Zjc1NjYwZWM3NDMwYjE4Yzg4ZTg4",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Life Support / Ms. Supernova",
+        "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "Life Support",
+      "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Black Box",
         "url": "https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 163026,
       "name": "Hooves",
       "url": "https://open.spotify.com/track/59gcuFEGvp32erxYFekyG4"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Life Support / Ms. Supernova",
-        "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
-      },
-      "artists": [
-        {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Life Support",
-      "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "STATUES (v2)",
-        "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
-      },
-      "artists": [
-        {
-          "name": "George Barnett",
-          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
-        }
-      ],
-      "duration_ms": 293354,
-      "name": "STATUES (v2)",
-      "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Don't Hate Me",
         "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 251010,
       "name": "Don't Hate Me",
       "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "STATUES (v2)",
+        "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
+      },
+      "artists": [
+        {
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+        }
+      ],
+      "duration_ms": 293354,
+      "name": "STATUES (v2)",
+      "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Take Back The Night",
         "url": "https://open.spotify.com/album/0KO8BT7pSqGZugqBiKwieo"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 164826,
       "name": "Applause",
       "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Right After I Smoke This...",
-        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 142760,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Hung Up",
-        "url": "https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 204560,
-      "name": "Hung Up",
-      "url": "https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Hung Up",
+        "url": "https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 204560,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "SAY IT",
-        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
-      },
-      "artists": [
-        {
-          "name": "NEW LANGUAGE",
-          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
-        }
-      ],
-      "duration_ms": 161315,
-      "name": "SAY IT",
-      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Burn The Empire",
         "url": "https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 187786,
       "name": "Burn The Empire",
       "url": "https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "SAY IT",
+        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
+      },
+      "artists": [
+        {
+          "name": "NEW LANGUAGE",
+          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
+        }
+      ],
+      "duration_ms": 161315,
+      "name": "SAY IT",
+      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Teenage Lines",
-        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
       },
       "artists": [
         {
-          "name": "alltheprettythings",
-          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
         }
       ],
-      "duration_ms": 224602,
-      "name": "Teenage Lines",
-      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
+      "duration_ms": 127093,
+      "name": "Choking",
+      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1335,6 +1335,22 @@
       "duration_ms": 205600,
       "name": "If I Believed In Love",
       "url": "https://open.spotify.com/track/051k1srOqbQ6bTaCGUdrmj"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Teenage Lines",
+        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
+      },
+      "artists": [
+        {
+          "name": "alltheprettythings",
+          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
+        }
+      ],
+      "duration_ms": 224602,
+      "name": "Teenage Lines",
+      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1367,22 +1383,6 @@
       "duration_ms": 241334,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 127093,
-      "name": "Choking",
-      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
     },
     {
       "added_at": "2023-09-08 20:23:35",

@@ -4,10 +4,11 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Anuv Jain
 
-240 songs - 13 hr 32 min
+241 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aa Milke Baate Zindagi](https://open.spotify.com/track/4OLU7HbSkmhoxuoZCEO1Vo) | [Sagar Siddham](https://open.spotify.com/artist/3XldFTs2E3AIRnP6ht5jcL), [Pallavi Jamindar Siddham](https://open.spotify.com/artist/5IUmaGr0oynNc6WnOoT3Ee) | [Aa Milke Baate Zindagi](https://open.spotify.com/album/1p3RjUC8pYQ3TAS57zLuHb) | 4:07 | 2024-01-15 |  |
 | [Aangan](https://open.spotify.com/track/5fQ68f0syCRx6dJoJvyxEh) | [Arjun Tikadar](https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Aangan](https://open.spotify.com/album/1Y8jcvhXzOdX8n8JkxniVT) | 3:32 | 2023-10-26 | 2023-11-16 |
 | [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Shreya Phukan](https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6), [Raaj Jyoti Konwar](https://open.spotify.com/artist/5olB8pxiBEf6xV6cJlawbD) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 | 2023-07-05 | 2023-10-04 |
 | [Aasmaan](https://open.spotify.com/track/4OJ3ecc157Wg4Z29aglEOu) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 2:52 | 2023-05-17 |  |
@@ -186,7 +187,7 @@
 | [Rahnuma](https://open.spotify.com/track/7KbYD6BasraCSJ2fSp9MNW) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa), [Saurabh Shetye](https://open.spotify.com/artist/5GXlDxOxHwWFutiCMOIQGN) | [Rahnuma](https://open.spotify.com/album/1ZxPWhL6F5VY3ZuA279ihM) | 3:46 | 2023-06-09 | 2023-07-21 |
 | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/track/5vctTLIZIVCs4DIBdZG56l) | [Anurag Kale](https://open.spotify.com/artist/6QI0w03kPAgMBCKI4OIakr), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/album/1wUVSvP0Kay5ANLWpqO9PG) | 3:10 | 2023-05-17 | 2023-06-13 |
 | [Rehbara](https://open.spotify.com/track/2cE44TVmzUyCWBKM7qHmKo) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Gaurav Pahuja](https://open.spotify.com/artist/25WsKcwA4b5G1OCONyIrit) | [Rehbara](https://open.spotify.com/album/29zfqRveC9l8ngiYfVgszo) | 2:53 | 2023-07-12 |  |
-| [Roshni Ka Sira](https://open.spotify.com/track/59jj3LZxOuRbmdfyes94m4) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Roshni Ka Sira](https://open.spotify.com/album/3BMZq92gJk681qk9Y899Zo) | 3:41 | 2023-07-03 |  |
+| [Roshni Ka Sira](https://open.spotify.com/track/59jj3LZxOuRbmdfyes94m4) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Roshni Ka Sira](https://open.spotify.com/album/3BMZq92gJk681qk9Y899Zo) | 3:41 | 2023-07-03 | 2024-01-16 |
 | [Ruqsat](https://open.spotify.com/track/3ZSazSSWUTgoPiCtVU9wVz) | [Sanam Malik](https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI) | [Ruqsat](https://open.spotify.com/album/0T6Dy2GvUJFZpOhJ4IxvaE) | 3:39 | 2024-01-08 |  |
 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 | 2023-06-14 | 2023-08-05 |
 | [Saari Umar](https://open.spotify.com/track/2H3Ybag8WuTdoaGVMCDqRl) | [Harish Budhwani](https://open.spotify.com/artist/1Gl7igag9ejxcepMCPDg4H) | [Saari Umar](https://open.spotify.com/album/4CLPALqNL9TZnE3gOIQ3C5) | 4:34 | 2023-05-17 | 2023-06-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lil Nas X, Ariana Grande, Kali Uchis, 21 Savage, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,167,367 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,165,650 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [I've Changed a Lot](https://open.spotify.com/track/24nOWJI4FCRuAtMSGcDQxU) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [I've Changed a Lot](https://open.spotify.com/album/1mnDUOBwlCuibZOhb6lfs2) | 2:46 |
 | 100 | [All My Friends](https://open.spotify.com/track/61hdNqdXph9AAjX1ZG9PVC) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [The Knights](https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm), [The Westerlies](https://open.spotify.com/artist/7pQXfjCzKMCrcQnp9TAn3z), [San Francisco Girls Choir](https://open.spotify.com/artist/5Fgud2eR2l1WfZzMrRJ0Wn) | [All My Friends](https://open.spotify.com/album/3hqu0HT9ZY3JWkjYMilMzc) | 4:23 |
 
-Snapshot ID: `MCw4OTlhOGRjNTc4YjQ1OWZhZWM3ZmRlMzEzNGMxZWQ1NjhkMDAwZTJj`
+Snapshot ID: `MCw0M2NjYzg3NzJlOThjZDA1ODlkMDcyOTZkYjhhZDA4N2ZmZmRiMmQw`

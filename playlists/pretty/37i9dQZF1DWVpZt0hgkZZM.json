@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 27653,
+  "num_followers": 27676,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGNiZTliOWMxZTkyN2RmODVkZGEwNTA2YTE1OWZlNWY3YmNmNmY3",
+  "snapshot_id": "MCw4NjNjN2IxZjBlZTUzNjY2YmQ3MzEzZjI4OWM3M2Q5MGJiZmM3YjVj",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -263,6 +263,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "De Mil Maneras",
         "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 205333,
       "name": "Guallando",
       "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -407,6 +407,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Arranh\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 125560,
       "name": "Disco Arranhado - Funk Remix",
       "url": "https://open.spotify.com/track/3SI736Mng30L5ZTpGEhKEr"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "No Hay Quinto Malo",
-        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "Cali Pachanguero",
-      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 293893,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Latin Vallenatos",
         "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "The Reventon: 30 Pegaditas",
         "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 263253,
       "name": "El Baile del Perrito",
       "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -643,22 +659,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "17 \u00c9xitos",
         "url": "https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved"
       },
@@ -695,22 +695,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "De Pel\u00edcula",
-        "url": "https://open.spotify.com/album/5zrHyuF84953CZ1PLwTQeb"
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
       "artists": [
         {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        },
-        {
-          "name": "Gustavo Quintero",
-          "url": "https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn"
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
         }
       ],
-      "duration_ms": 176509,
-      "name": "Fantas\u00eda Nocturna",
-      "url": "https://open.spotify.com/track/2tcv4KCa1jPl0DuOm5pkJv"
+      "duration_ms": 248480,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -731,6 +727,26 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/5zrHyuF84953CZ1PLwTQeb"
+      },
+      "artists": [
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        },
+        {
+          "name": "Gustavo Quintero",
+          "url": "https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn"
+        }
+      ],
+      "duration_ms": 176509,
+      "name": "Fantas\u00eda Nocturna",
+      "url": "https://open.spotify.com/track/2tcv4KCa1jPl0DuOm5pkJv"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 219980,
       "name": "La Colegiada (Live)",
       "url": "https://open.spotify.com/track/5uCehav0pF99E5wdQylxWl"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -875,6 +875,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Y Como Se Mata El Gusano?",
         "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
       },
@@ -891,22 +907,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Nelson Henr\u00edquez vs. Pastor L\u00f3pez",
-        "url": "https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW"
+        "name": "Descarga Espectacular",
+        "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
       },
       "artists": [
         {
-          "name": "Nelson Henriquez",
-          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
-        },
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
         }
       ],
-      "duration_ms": 248373,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
+      "duration_ms": 297386,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -927,34 +939,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+        "name": "Nelson Henr\u00edquez vs. Pastor L\u00f3pez",
+        "url": "https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW"
       },
       "artists": [
         {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Descarga Espectacular",
-        "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
-      },
-      "artists": [
+          "name": "Nelson Henriquez",
+          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
+        },
         {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 297386,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
+      "duration_ms": 248373,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Juanito Pregunt\u00f3n",
-        "url": "https://open.spotify.com/album/0ChvjVVzLBOam8NDs9nL5p"
+        "name": "Orqu\u00eddea de Plata",
+        "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
       },
       "artists": [
         {
-          "name": "Los Graduados",
-          "url": "https://open.spotify.com/artist/1JldSq8x5MHlqxHVMDEnlF"
-        },
-        {
-          "name": "Gustavo Quintero",
-          "url": "https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn"
+          "name": "Nelson Y Sus Estrellas",
+          "url": "https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi"
         }
       ],
-      "duration_ms": 146718,
-      "name": "Asi empezaron papa y mama",
-      "url": "https://open.spotify.com/track/7MvJSxFokYigdTshWdoOPW"
+      "duration_ms": 165586,
+      "name": "La Sirena",
+      "url": "https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1075,6 +1071,26 @@
       "duration_ms": 162826,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Juanito Pregunt\u00f3n",
+        "url": "https://open.spotify.com/album/0ChvjVVzLBOam8NDs9nL5p"
+      },
+      "artists": [
+        {
+          "name": "Los Graduados",
+          "url": "https://open.spotify.com/artist/1JldSq8x5MHlqxHVMDEnlF"
+        },
+        {
+          "name": "Gustavo Quintero",
+          "url": "https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn"
+        }
+      ],
+      "duration_ms": 146718,
+      "name": "Asi empezaron papa y mama",
+      "url": "https://open.spotify.com/track/7MvJSxFokYigdTshWdoOPW"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1131,38 +1147,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Orqu\u00eddea de Plata",
-        "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
-      },
-      "artists": [
-        {
-          "name": "Nelson Y Sus Estrellas",
-          "url": "https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "La Sirena",
-      "url": "https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
-      },
-      "artists": [
-        {
-          "name": "El Rey de los Diciembres",
-          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
-        }
-      ],
-      "duration_ms": 187144,
-      "name": "Adonay (Live)",
-      "url": "https://open.spotify.com/track/7ihWacHx8eKbglkhI7vikt"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Los Dos Inseparables",
         "url": "https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
+      },
+      "artists": [
+        {
+          "name": "El Rey de los Diciembres",
+          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
+        }
+      ],
+      "duration_ms": 187144,
+      "name": "Adonay (Live)",
+      "url": "https://open.spotify.com/track/7ihWacHx8eKbglkhI7vikt"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Tierra Mala",
         "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 289933,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Mis Exitos Vol.1",
+        "url": "https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x"
+      },
+      "artists": [
+        {
+          "name": "Richie Cepeda",
+          "url": "https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "La Fotografia",
+      "url": "https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1255,38 +1271,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
-      },
-      "artists": [
-        {
-          "name": "El Rey de los Diciembres",
-          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
-        }
-      ],
-      "duration_ms": 173822,
-      "name": "Carola (Live)",
-      "url": "https://open.spotify.com/track/4DaC0h77cp8NWHtTW8ECEo"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Mis Exitos Vol.1",
-        "url": "https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x"
-      },
-      "artists": [
-        {
-          "name": "Richie Cepeda",
-          "url": "https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "La Fotografia",
-      "url": "https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Party Tyme Karaoke - Latin Tropical Hits 9",
         "url": "https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 188717,
       "name": "Oye (Made Popular By La Sonora Dinamita) [Karaoke Version]",
       "url": "https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
+      },
+      "artists": [
+        {
+          "name": "El Rey de los Diciembres",
+          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
+        }
+      ],
+      "duration_ms": 173822,
+      "name": "Carola (Live)",
+      "url": "https://open.spotify.com/track/4DaC0h77cp8NWHtTW8ECEo"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
-        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 157115,
-      "name": "Cumbia de la Cadenita",
-      "url": "https://open.spotify.com/track/0s3rFFNwIf23TG4q3JTDbZ"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 378373,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
+        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 157115,
+      "name": "Cumbia de la Cadenita",
+      "url": "https://open.spotify.com/track/0s3rFFNwIf23TG4q3JTDbZ"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
-      },
-      "artists": [
-        {
-          "name": "El Rey de los Diciembres",
-          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "Cari\u00f1ito (Live)",
-      "url": "https://open.spotify.com/track/3vPtbRkj6qGEm244ULVQ4R"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Los Mejores, Los Hispanos, Los Graduados",
         "url": "https://open.spotify.com/album/1IBR0Tmgw4urAXuE32Sd0z"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 154506,
       "name": "Tan bella y tan presumida",
       "url": "https://open.spotify.com/track/1iD7PGq7tgAg2SBPDj1E53"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
+      },
+      "artists": [
+        {
+          "name": "El Rey de los Diciembres",
+          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "Cari\u00f1ito (Live)",
+      "url": "https://open.spotify.com/track/3vPtbRkj6qGEm244ULVQ4R"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1535,30 +1535,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
-      },
-      "artists": [
-        {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        },
-        {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
-        },
-        {
-          "name": "David",
-          "url": "https://open.spotify.com/artist/5XfK5zmN6FEyhMgpRIPrtw"
-        }
-      ],
-      "duration_ms": 204288,
-      "name": "Cachete, Pechito y Ombligo",
-      "url": "https://open.spotify.com/track/4sZEqIf2LO003CBxxbBV51"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Leyenda",
         "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
       },
@@ -1587,6 +1563,30 @@
       "duration_ms": 283103,
       "name": "muero por verla luis mateus vallenato",
       "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        },
+        {
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+        },
+        {
+          "name": "David",
+          "url": "https://open.spotify.com/artist/5XfK5zmN6FEyhMgpRIPrtw"
+        }
+      ],
+      "duration_ms": 204288,
+      "name": "Cachete, Pechito y Ombligo",
+      "url": "https://open.spotify.com/track/4sZEqIf2LO003CBxxbBV51"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Historia M\u00fasical - 30 \u00c9xitos",
+        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Piper Pimienta Diaz",
+          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+        }
+      ],
+      "duration_ms": 280880,
+      "name": "Buscandote",
+      "url": "https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Recordando a Pastor Lopez",
         "url": "https://open.spotify.com/album/5tmSVevQNFdbxFKTFOHWAk"
       },
@@ -1639,6 +1659,22 @@
       "duration_ms": 210208,
       "name": "Golpe Con Golpe",
       "url": "https://open.spotify.com/track/7lG5rKK7defs3wLH3A1wtd"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Homenaje a Victor Pi\u00f1ero",
+        "url": "https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "Cayetano Baila",
+      "url": "https://open.spotify.com/track/0uFdvE0zg08Hg2oKvcNeIf"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1663,54 +1699,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Historia M\u00fasical - 30 \u00c9xitos",
-        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
+        "name": "63 A\u00f1os de Vida Art\u00edstica",
+        "url": "https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5"
       },
       "artists": [
         {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        },
-        {
-          "name": "Piper Pimienta Diaz",
-          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
         }
       ],
-      "duration_ms": 280880,
-      "name": "Buscandote",
-      "url": "https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "20 A\u00f1os",
-        "url": "https://open.spotify.com/album/2RuHV8qf5TiCqx6bg4itTj"
-      },
-      "artists": [
-        {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        }
-      ],
-      "duration_ms": 191746,
-      "name": "Todo el Mundo Necesita un Beso",
-      "url": "https://open.spotify.com/track/1mO9On0xaCs0SPPgjmq5v6"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Homenaje a Victor Pi\u00f1ero",
-        "url": "https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "Cayetano Baila",
-      "url": "https://open.spotify.com/track/0uFdvE0zg08Hg2oKvcNeIf"
+      "duration_ms": 226011,
+      "name": "Las Tapas",
+      "url": "https://open.spotify.com/track/4cH62g06fG7WsLuxiyNaD7"
     }
   ],
   "unique_name": "\u00c9xitos de Balneario",

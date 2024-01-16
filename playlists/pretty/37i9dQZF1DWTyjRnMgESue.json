@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: NIKI",
-  "num_followers": 70821,
+  "num_followers": 70879,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGQ3ZTkwYzAxMjAxNTljNDkyNjRmMWNjNzg4MWZjNDlkZDBlMDBk",
+  "snapshot_id": "MCw4OTJiYzgzNjE5ZjQxYjYxOWM2Zjk4MGNjN2FlMTJiZjNhYzc4NWFi",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -451,38 +451,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194277,
-      "name": "Magical",
-      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 232277,
-      "name": "Doesn\u2019t Do Me Any Good",
-      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Swan Upon Leda",
         "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
       },
@@ -499,6 +467,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194277,
+      "name": "Magical",
+      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 183937,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "68",
-        "url": "https://open.spotify.com/album/51JORfnib4vdjiXHAouErb"
-      },
-      "artists": [
-        {
-          "name": "Nolan Taylor",
-          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
-        }
-      ],
-      "duration_ms": 207845,
-      "name": "68",
-      "url": "https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "The Way Back Home",
         "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 214361,
       "name": "The Way Back Home",
       "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "68",
+        "url": "https://open.spotify.com/album/51JORfnib4vdjiXHAouErb"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "duration_ms": 207845,
+      "name": "68",
+      "url": "https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Love Like That (Words from Her)",
-        "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
-      },
-      "artists": [
-        {
-          "name": "Suriel Hess",
-          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
-        }
-      ],
-      "duration_ms": 174489,
-      "name": "Love Like That (Words from Her)",
-      "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 194000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Love Like That (Words from Her)",
+        "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "duration_ms": 174489,
+      "name": "Love Like That (Words from Her)",
+      "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -867,6 +867,30 @@
       "duration_ms": 211837,
       "name": "Best Days",
       "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
+      },
+      "artists": [
+        {
+          "name": "Olivia Vedder",
+          "url": "https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E"
+        },
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "My Father's Daughter",
+      "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -915,30 +939,6 @@
       "duration_ms": 196266,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
-      },
-      "artists": [
-        {
-          "name": "Olivia Vedder",
-          "url": "https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E"
-        },
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "My Father's Daughter",
-      "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1175,6 +1175,38 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 196359,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
       },
@@ -1203,22 +1235,6 @@
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Forget About Us",
-        "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 196359,
-      "name": "Forget About Us",
-      "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1267,22 +1283,6 @@
       "duration_ms": 173446,
       "name": "handgun",
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "A Running Start",
-        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Woman on the Internet",
         "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 220208,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "A Running Start",
+        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 141796,
-      "name": "14",
-      "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 162560,
       "name": "Catch Your Eye",
       "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "14",
+        "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 141796,
+      "name": "14",
+      "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "The Yellow Mile",
+        "url": "https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "The Yellow Mile",
+      "url": "https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Claire De Lune",
         "url": "https://open.spotify.com/album/6R26aiDw2QeSEryJDYo3MZ"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 141120,
       "name": "Claire De Lune",
       "url": "https://open.spotify.com/track/0ecoVckLVydbLHGNv6F9fr"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "I've Got Me",
-        "url": "https://open.spotify.com/album/3l3xPtGZXUcnQaNlpbjvR0"
-      },
-      "artists": [
-        {
-          "name": "Joanna Sternberg",
-          "url": "https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI"
-        }
-      ],
-      "duration_ms": 136160,
-      "name": "I've Got Me",
-      "url": "https://open.spotify.com/track/4IUPYB1d0CDKWKNYQtl6g3"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

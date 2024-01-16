@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 17962,
+  "2024-01-16": 17956,
   "date_first_scraped": "2022-01-10",
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
   "name": "Viral 50 - Costa Rica",
@@ -2605,7 +2605,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6"
@@ -4013,7 +4013,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
@@ -6071,7 +6071,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 243806,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
@@ -6504,24 +6504,6 @@
     },
     {
       "album": {
-        "name": "Christell",
-        "url": "https://open.spotify.com/album/37hWotp4LwiFxD9hPOe8tC"
-      },
-      "artists": [
-        {
-          "name": "Christell",
-          "url": "https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V"
-        }
-      ],
-      "date_added": "2024-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 226069,
-      "name": "Chipi Chipi Chapa Cahapa Dubidubidu",
-      "url": "https://open.spotify.com/track/0tdtQptse7jupJyrkIIFiA"
-    },
-    {
-      "album": {
         "name": "Chipi Chipi Chapa Chapa",
         "url": "https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH"
       },
@@ -6549,6 +6531,24 @@
       "duration_ms": 226324,
       "name": "Chipi Chipi Chapa Chapa",
       "url": "https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5"
+    },
+    {
+      "album": {
+        "name": "Christell",
+        "url": "https://open.spotify.com/album/37hWotp4LwiFxD9hPOe8tC"
+      },
+      "artists": [
+        {
+          "name": "Christell",
+          "url": "https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226069,
+      "name": "Chipi Chipi Chapa Chapa Dubidubidu",
+      "url": "https://open.spotify.com/track/0tdtQptse7jupJyrkIIFiA"
     },
     {
       "album": {
@@ -6923,7 +6923,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 223302,
       "name": "Closer Than This",
       "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
@@ -16143,7 +16143,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 250700,
       "name": "K.D.P. (feat. YOVNGCHIMI)",
       "url": "https://open.spotify.com/track/6woLMre9nBApTlIobN5Py5"
@@ -17333,6 +17333,28 @@
       "duration_ms": 195373,
       "name": "Labios Mordidos (with KAROL G)",
       "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/5ycn8M0WNGedabDuaH9mQT"
     },
     {
       "album": {
@@ -19221,7 +19243,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 100465,
       "name": "MANDA BALA",
       "url": "https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25"
@@ -19279,7 +19301,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 195520,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
@@ -22333,6 +22355,24 @@
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
+    },
+    {
+      "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
     },
     {
       "album": {
@@ -26803,7 +26843,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
@@ -26883,7 +26923,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 240047,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"
@@ -31895,6 +31935,24 @@
       "duration_ms": 217797,
       "name": "Te Marqu\u00e9 Pedo - Remix",
       "url": "https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "Te Mata",
+      "url": "https://open.spotify.com/track/1NEBuFp0BJMikgXJI9VVab"
     },
     {
       "album": {

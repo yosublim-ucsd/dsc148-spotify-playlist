@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Eliza Marie Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,838 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,822 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Down](https://open.spotify.com/track/6hZMKAVfEpzyu4DV9P1N1s) | [Ty Raquin](https://open.spotify.com/artist/0TPGrHros3vvU1eR2dgDQp) | [Rendezvous](https://open.spotify.com/album/3E8ctYqz5kNmvYeTvIAtKZ) | 2:57 |
 | 100 | [baka sa ibang mundo](https://open.spotify.com/track/1EBqfp0nL4AImLfpZkY8oZ) | [esa](https://open.spotify.com/artist/32gKPyvVOMrhSCrjDm657c) | [baka sa ibang mundo](https://open.spotify.com/album/5hHfV0nNYAlY4suVznKLGW) | 3:07 |
 
-Snapshot ID: `MCwxYTJiMDZjYTM3MjdiZTcxYTU0MWJkMmVlMGIzYmQ0Mzc5YTRkZWZi`
+Snapshot ID: `MCwxOTViMmM0ZWQyMzI3NjRhZDgxNTljNDYyNTg3MjBmMTM2MmUxODM3`

@@ -1,12 +1,12 @@
 {
   "description": "New music from your favourite hip-hop artists! We keep our finger on the pulse so you don\u2019t have to. Featuring Drake, Nicki Minaj, Kid Cudi and more! Sign up <a href=\"https://forms.umusic-online.com/forms/-MymKGNlc3qqAKkFa_Hi\">here</a> for exclusives, merch &amp; more",
-  "num_followers": 23605,
+  "num_followers": 23600,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "ODAzMCw1YjZhMzQ0NDQ0ZjQ1ZjY0ZWFlYjEyNmFhZjBjOWQ2YTY0MjNjZTQx",
+  "snapshot_id": "ODAzMSwzOGUxNzViZjY5ZWNlYTZhN2NlNjIzZWJhZjBlNjcxMTI1NGYwZjY2",
   "tracks": [
     {
       "added_at": "2024-01-12 18:13:09",
@@ -71,6 +71,30 @@
       "duration_ms": 274200,
       "name": "WOW (with A$AP Rocky)",
       "url": "https://open.spotify.com/track/2RWlRSi9TthgUka2yrLnrD"
+    },
+    {
+      "added_at": "2024-01-12 18:13:09",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 319191,
+      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
       "added_at": "2024-01-12 18:13:09",
@@ -155,30 +179,6 @@
       "duration_ms": 242453,
       "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
-    },
-    {
-      "added_at": "2024-01-12 18:13:09",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 319191,
-      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
-      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
       "added_at": "2024-01-12 18:13:09",

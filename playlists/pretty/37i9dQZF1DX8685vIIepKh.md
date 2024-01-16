@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,345 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,292 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 44 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 45 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
 | 46 | [Dreaming](https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Dreaming](https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK) | 2:50 |
-| 47 | [Jubel \- Radio Edit](https://open.spotify.com/track/58VSx2Adlz83g6YVDdJ0zR) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel EP](https://open.spotify.com/album/29EeCNBZxGVdwHUAyos10R) | 3:18 |
+| 47 | [jubel](https://open.spotify.com/track/73RLHjMWKikrfsWwNgszA4) | [lucesy](https://open.spotify.com/artist/69vyzEtaUoT2gzzCwMJkf8), [ZETH INC.](https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj), [Cardus](https://open.spotify.com/artist/4gxaHMduYNqazJxiXMBLqA) | [jubel](https://open.spotify.com/album/2zJjP7EM87BPZhEgFRmZhG) | 3:17 |
 | 48 | [Life Is Life \(C'est la vie\)](https://open.spotify.com/track/1ds4c5ehLBwn8PEghUMbTl) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Life Is Life \(C'est la vie\)](https://open.spotify.com/album/0wGjk4xe1uiNbW3DxehqNy) | 2:25 |
 | 49 | [Good Time](https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Midsummer Station](https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p) | 3:25 |
 | 50 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 
-Snapshot ID: `MCxhZmQ0ZDcxYmE2MGJiMTEwMDYyZmZhN2Y2MTVjMzIxMDNlMTM0YThj`
+Snapshot ID: `MCw0OWM5ZjZjMGJjYTU2YzBjZmRjOGFmOTM5NWI5NTFkZGVlOWRkMmMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,771 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,792 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 33 | [Simply Won't Do](https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 |
 | 34 | [When the Lights Go Out](https://open.spotify.com/track/51T5k0OjVZE6d8O1UwTU7W) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [When the Lights Go Out](https://open.spotify.com/album/1L7MYLhgLH4LAevJrd0OJx) | 3:41 |
 | 35 | [No Reason](https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [No Reason](https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt) | 4:00 |
-| 36 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
-| 37 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 |
-| 38 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
+| 36 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
+| 37 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
+| 38 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 |
 | 39 | [Rose Rouge](https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [Rose Rouge](https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D) | 4:37 |
 | 40 | [Burn Dem Bridges \- Nia Archives Edit](https://open.spotify.com/track/7jOMGubGp37qGAnsCdztCn) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Burn Dem Bridges \(Nia Archives Edit\)](https://open.spotify.com/album/0trpgSYjPsFpnsjxD7FAIM) | 2:27 |
 | 41 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 74 | [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 |
 | 75 | [Beautiful World](https://open.spotify.com/track/4Qti4wrmLntg5BKAvK47uI) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Steve Smith](https://open.spotify.com/artist/6WUz3m9cjNKSvtQ8uAu9qu) | [Beautiful World](https://open.spotify.com/album/0ZnnuF8eC7ZsyMJm9008k4) | 6:15 |
 
-Snapshot ID: `MCwxMTNhYjExZGZmZWFlNWZhMDlmM2YzZjM0ZDcyZmFiZWY0ZmM0MTdi`
+Snapshot ID: `MCxhMDNjYWVkYWI2MmIzNTAxYWYyYTVkYzQzYTU4ZThkNTk3YzIzOWNk`

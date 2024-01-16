@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Zeeshan Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,508 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,519 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 69 | [Gareeb Ka Bar](https://open.spotify.com/track/4L1dMJZvf70ULIdLT2yTPq) | [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv) | [Gareeb Ka Bar](https://open.spotify.com/album/1dPskfEvAix6d4tChcuWiC) | 2:47 |
 | 70 | [Raatain](https://open.spotify.com/track/7iNIdvTw4C2KJZow1neWzA) | [Muhammad Ali](https://open.spotify.com/artist/7ynQpUquGX363qUYC23U7x) | [Raatain](https://open.spotify.com/album/1tzBjW5EPm7bowTHtx8wgc) | 2:06 |
 
-Snapshot ID: `MCw1NTFlNzgzMTk2M2QxMzE2ZGRiYjgwYjExZWM2NWEwZjFhNzVjMzJk`
+Snapshot ID: `MCxmODA1MTlmNTgxYmM3YTQzMWY1MmFiNjU0N2MwYzgwYjc2YjVmNjI3`

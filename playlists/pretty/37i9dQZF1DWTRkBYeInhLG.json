@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 465021,
+  "num_followers": 464761,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTg1YWY2ZjVhM2JlOTkxMThiZjM2MDM3MTQ4NjQ0ZGU1MmZjZTg4",
+  "snapshot_id": "MCw2YmE5MzM5OGJiMzlmMWNlMmIxMjI3ODU4ZjQwZDRlZTQzNzI0ODZj",
   "tracks": [
     {
       "added_at": "2023-12-06 09:40:22",
@@ -443,6 +443,38 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
+        "name": "Every Summertime",
+        "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 215686,
+      "name": "Every Summertime",
+      "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
+        "name": "Labirin",
+        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 182656,
+      "name": "Labirin",
+      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
         "name": "Kereta Kencan",
         "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
       },
@@ -471,38 +503,6 @@
       "duration_ms": 300512,
       "name": "Kangen",
       "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
-        "name": "Labirin",
-        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 182656,
-      "name": "Labirin",
-      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
-        "name": "Every Summertime",
-        "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 215686,
-      "name": "Every Summertime",
-      "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -555,6 +555,38 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Pelangi",
+      "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
+        "name": "Tulus",
+        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Sewindu",
+      "url": "https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -591,22 +623,6 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
-      },
-      "artists": [
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Pelangi",
-      "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
         "name": "Tempat Aku Pulang",
         "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 243413,
       "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
       "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
-        "name": "Tulus",
-        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "Sewindu",
-      "url": "https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Mata Ke Hati (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
         "name": "Aku Yang Salah",
         "url": "https://open.spotify.com/album/7swcI60yTRtgNUncVzGyRx"
       },
@@ -719,6 +735,22 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
+        "name": "Gajah",
+        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 219284,
+      "name": "Sepatu",
+      "url": "https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
         "name": "RAN For Your Life",
         "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
       },
@@ -731,54 +763,6 @@
       "duration_ms": 300693,
       "name": "Pandangan Pertama",
       "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
-      },
-      "artists": [
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Mata Ke Hati (Acoustic Version)",
-      "url": "https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
-        "name": "Lelaku",
-        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 229986,
-      "name": "Aku Tenang",
-      "url": "https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
-        "name": "Satu-Satu",
-        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
-      },
-      "artists": [
-        {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
-        }
-      ],
-      "duration_ms": 284988,
-      "name": "Satu-Satu",
-      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -799,6 +783,22 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
+        "name": "Satu-Satu",
+        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "duration_ms": 284988,
+      "name": "Satu-Satu",
+      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
         "name": "Judika",
         "url": "https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr"
       },
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "Gajah",
-        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
+        "name": "Lelaku",
+        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
       },
       "artists": [
         {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
         }
       ],
-      "duration_ms": 219284,
-      "name": "Sepatu",
-      "url": "https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS"
+      "duration_ms": 229986,
+      "name": "Aku Tenang",
+      "url": "https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
+        "name": "Tulus",
+        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Teman Hidup",
+      "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
         "name": "Hari Baru",
         "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 241266,
       "name": "Kamulah Satu - Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
-        "name": "Tulus",
-        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Teman Hidup",
-      "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "Ruang Tunggu",
-        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 329865,
-      "name": "Di Atas Meja",
-      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
         "name": "Kesempurnaan Cinta",
         "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 216019,
       "name": "Kesempurnaan Cinta",
       "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
+        "name": "Ruang Tunggu",
+        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 329865,
+      "name": "Di Atas Meja",
+      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "1st (Special Edition)",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
         "name": "COBA CINTAKU",
         "url": "https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 206183,
       "name": "COBA CINTAKU",
       "url": "https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
+        "name": "1st (Special Edition)",
+        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "Losing Us.",
-        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
-      },
-      "artists": [
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 236885,
-      "name": "Losing Us.",
-      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
         "name": "Seperti Kisah",
         "url": "https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 279031,
       "name": "Seperti Kisah",
       "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
+        "name": "Losing Us.",
+        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 236885,
+      "name": "Losing Us.",
+      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
     },
     {
       "added_at": "2023-12-06 09:40:22",

@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-218 songs - 13 hr 23 min
+219 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Alaska Blue](https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ) | [Barry Mcloughlin](https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d), [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ) | [Alaska Blue](https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq) | 2:53 | 2022-10-10 | 2023-01-21 |
 | [Am I Wrong](https://open.spotify.com/track/3xoMRK8egNvtjrCEQieLko) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Martin Scorsese Presents The Blues: Keb' Mo'](https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc) | 2:18 | 2022-05-25 |  |
 | [Assossam](https://open.spotify.com/track/0kkU5wgY8w4l3RSTSSaAgz) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Aboogi](https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw) | 2:57 | 2022-09-20 | 2024-01-13 |
+| [Assossam](https://open.spotify.com/track/4mrDCkjzLhi9CfxYfHWPaD) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Aboogi](https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk) | 2:57 | 2023-09-15 |  |
 | [Automobile Blues](https://open.spotify.com/track/2zs9TAPSIj3UY6TDN5Ic0u) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Complete Prestige/Bluesville Recordings](https://open.spotify.com/album/57Xzt2jSuJErOnEEmyE0Mr) | 4:31 | 2022-05-25 | 2022-07-29 |
 | [Automobile Blues](https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Complete Prestige / Bluesville Recordings](https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH) | 4:34 | 2022-09-20 | 2023-08-25 |
 | [Avalon Blues](https://open.spotify.com/track/2LMHSxhp5CahCt9DJVLX0F) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Avalon Blues](https://open.spotify.com/album/5Er6ubiIavSvQNQI5cwXYm) | 4:23 | 2022-10-10 | 2023-04-30 |
@@ -177,7 +178,7 @@
 | [Same Train](https://open.spotify.com/track/5zkfweSEqiARpZ4eIMnd4N) | [Sue Ray](https://open.spotify.com/artist/0X5AzsfEoqLOqtWczOKE3B) | [Same Train](https://open.spotify.com/album/4dntdgAScxEYy00uXNYQsY) | 3:52 | 2023-05-22 | 2023-12-18 |
 | [San Quentin Infirmary Blues \- Stripped Back](https://open.spotify.com/track/6A8JDsJSjQsrBwfXl2UTKk) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [All The Bad Things \(Stripped Back\)](https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4) | 3:12 | 2023-05-22 |  |
 | [See See Rider](https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Country Blues](https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2) | 3:14 | 2022-10-14 |  |
-| [Shake and Bake](https://open.spotify.com/track/5pcrKXHNn0Yd20cpI5dgha) | [Kerri Powers](https://open.spotify.com/artist/6OET1llczQiGh2bEvxMm5c) | [Shake and Bake](https://open.spotify.com/album/6BVD4ZapJOmzCND0XJfkOG) | 4:01 | 2023-09-15 |  |
+| [Shake and Bake](https://open.spotify.com/track/5pcrKXHNn0Yd20cpI5dgha) | [Kerri Powers](https://open.spotify.com/artist/6OET1llczQiGh2bEvxMm5c) | [Shake and Bake](https://open.spotify.com/album/6BVD4ZapJOmzCND0XJfkOG) | 4:01 | 2023-09-15 | 2024-01-16 |
 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 | 2022-05-25 |  |
 | [Shake It Up \- Acoustic](https://open.spotify.com/track/01lLPrIDxsRdPpx0jpkS4S) | [Mitch Grainger](https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G) | [Shake It Up](https://open.spotify.com/album/2uda262NCN5VZeMQVjtaox) | 4:01 | 2023-06-09 |  |
 | [She's Long, She's Tall, She Weeps Like A Willow Tree](https://open.spotify.com/track/22DUP4yldr66HQPT3n0utz) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 2:47 | 2023-08-18 |  |

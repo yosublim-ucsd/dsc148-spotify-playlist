@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Architects
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,473 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,391 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 99 | [Reap](https://open.spotify.com/track/0sG0I67b53eGXCKryNCgmC) | [Shallowsky](https://open.spotify.com/artist/0OggfRsxbs119D8rf3rXvG) | [Reap](https://open.spotify.com/album/4cBmWgK6BWMuh5NakqcOIi) | 3:27 |
 | 100 | [Broken Bloodlines](https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Broken Bloodlines](https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM) | 4:36 |
 
-Snapshot ID: `MCw1MDI1ODU5NTI0MDMwNDIxNjQ0OGVjMGUxMDY5ZDI4ZDU1Y2Q4ODMw`
+Snapshot ID: `MCw5MDVkYWFjZmNkNTNhNjE2NzQ5NTNjNmY2M2Y3MmI5ZDNiYzlkNDVh`

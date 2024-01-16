@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 47263,
+  "num_followers": 47287,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTBiNjgzZWFiOGVlMDEzZjNjNGE4NGI5NDQ5OWRjMWJlOWU1YzJi",
+  "snapshot_id": "MCw4MTc5NDkwOWQ3YjAxZTc0OTIyNTBiYjhlMDY5OWZjOWMxOGY1MDQ4",
   "tracks": [
     {
       "added_at": "2024-01-04 08:28:26",
@@ -371,8 +371,8 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Weary Whispers",
-        "url": "https://open.spotify.com/album/7pUujzA6emE3Th9X9Dbcv6"
+        "name": "Gloomy Sunday",
+        "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
         }
       ],
-      "duration_ms": 178640,
-      "name": "Weary Whispers",
-      "url": "https://open.spotify.com/track/3OiYzoixJ1b73KWVxgR6M2"
+      "duration_ms": 193256,
+      "name": "Gloomy Sunday",
+      "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
+        "name": "Weary Whispers",
+        "url": "https://open.spotify.com/album/7pUujzA6emE3Th9X9Dbcv6"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+        }
+      ],
+      "duration_ms": 178640,
+      "name": "Weary Whispers",
+      "url": "https://open.spotify.com/track/3OiYzoixJ1b73KWVxgR6M2"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
         "name": "Tammy's Song",
         "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 260690,
       "name": "Tammy's Song",
       "url": "https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
-        "name": "Gloomy Sunday",
-        "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
-      },
-      "artists": [
-        {
-          "name": "Alec Taylor Trio",
-          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
-        }
-      ],
-      "duration_ms": 193256,
-      "name": "Gloomy Sunday",
-      "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "The Boss Is Back!",
-        "url": "https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 367693,
-      "name": "Here's That Rainy Day",
-      "url": "https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Quiet Time",
         "url": "https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 492933,
       "name": "When October Goes",
       "url": "https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "The Boss Is Back!",
+        "url": "https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 367693,
+      "name": "Here's That Rainy Day",
+      "url": "https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
+        "name": "The Shadow of Your Smile",
+        "url": "https://open.spotify.com/album/5qz2663lHFjJC9QYTu4JRC"
+      },
+      "artists": [
+        {
+          "name": "Dominick Farinacci",
+          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
+        }
+      ],
+      "duration_ms": 155741,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/1I7OMSoMhToGtA1QCTyTBw"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
         "name": "An Evening In Vienna",
         "url": "https://open.spotify.com/album/3WfIRV65RyKAJeVTXR4WEr"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 184135,
       "name": "An Evening In Vienna",
       "url": "https://open.spotify.com/track/3bop0vSSbniMVgkYuOCEKR"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
-        "name": "the point above",
-        "url": "https://open.spotify.com/album/7EeqlvrMoFYDZjWh1jDyuu"
-      },
-      "artists": [
-        {
-          "name": "Brandon's Three",
-          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
-        }
-      ],
-      "duration_ms": 168615,
-      "name": "the point above",
-      "url": "https://open.spotify.com/track/27j2QBudHBt7AYWjCpcnEa"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "The Shadow of Your Smile",
-        "url": "https://open.spotify.com/album/5qz2663lHFjJC9QYTu4JRC"
+        "name": "the point above",
+        "url": "https://open.spotify.com/album/7EeqlvrMoFYDZjWh1jDyuu"
       },
       "artists": [
         {
-          "name": "Dominick Farinacci",
-          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
+          "name": "Brandon's Three",
+          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
         }
       ],
-      "duration_ms": 155741,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/1I7OMSoMhToGtA1QCTyTBw"
+      "duration_ms": 168615,
+      "name": "the point above",
+      "url": "https://open.spotify.com/track/27j2QBudHBt7AYWjCpcnEa"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "The Silver Lining",
-        "url": "https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY"
-      },
-      "artists": [
-        {
-          "name": "Hara Noda",
-          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
-        }
-      ],
-      "duration_ms": 162887,
-      "name": "Centre",
-      "url": "https://open.spotify.com/track/4O44XcSyYrDUkNcKqi9aAl"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Unsentimental",
         "url": "https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 240903,
       "name": "End Music",
       "url": "https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "The Silver Lining",
+        "url": "https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY"
+      },
+      "artists": [
+        {
+          "name": "Hara Noda",
+          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
+        }
+      ],
+      "duration_ms": 162887,
+      "name": "Centre",
+      "url": "https://open.spotify.com/track/4O44XcSyYrDUkNcKqi9aAl"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1379,6 +1379,38 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
+        "name": "Min B\u00e4sta V\u00e4n",
+        "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
+      },
+      "artists": [
+        {
+          "name": "Bergsundet",
+          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
+        }
+      ],
+      "duration_ms": 214944,
+      "name": "Min B\u00e4sta V\u00e4n",
+      "url": "https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Anyone Can Dream",
+        "url": "https://open.spotify.com/album/773JrMS5ndOwtXxSss6u2m"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 192394,
+      "name": "Winter in Munich",
+      "url": "https://open.spotify.com/track/3b9UgzMQmT1DZGgoHNtLTq"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
         "name": "Yesterdays",
         "url": "https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX"
       },
@@ -1403,22 +1435,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Anyone Can Dream",
-        "url": "https://open.spotify.com/album/773JrMS5ndOwtXxSss6u2m"
-      },
-      "artists": [
-        {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
-        }
-      ],
-      "duration_ms": 192394,
-      "name": "Winter in Munich",
-      "url": "https://open.spotify.com/track/3b9UgzMQmT1DZGgoHNtLTq"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "I wish I did",
         "url": "https://open.spotify.com/album/1TO02dKaeGtMBXDHlUiwjA"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 203175,
       "name": "I wish I did",
       "url": "https://open.spotify.com/track/44AchFNfZR9RsnGz76s05b"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
-        "name": "Min B\u00e4sta V\u00e4n",
-        "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
-      },
-      "artists": [
-        {
-          "name": "Bergsundet",
-          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
-        }
-      ],
-      "duration_ms": 214944,
-      "name": "Min B\u00e4sta V\u00e4n",
-      "url": "https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
-      },
-      "artists": [
-        {
-          "name": "Ben & Katsy",
-          "url": "https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw"
-        }
-      ],
-      "duration_ms": 244879,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Standard Time Vol. 2: Intimacy Calling",
         "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 191840,
       "name": "The End Of A Love Affair",
       "url": "https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
+      },
+      "artists": [
+        {
+          "name": "Ben & Katsy",
+          "url": "https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw"
+        }
+      ],
+      "duration_ms": 244879,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Red Garland Revisited!",
-        "url": "https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 335533,
-      "name": "You Keep Coming Back Like A Song",
-      "url": "https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Seymour Reads the Constitution!",
         "url": "https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 483280,
       "name": "Seymour Reads the Constitution",
       "url": "https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Red Garland Revisited!",
+        "url": "https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "You Keep Coming Back Like A Song",
+      "url": "https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
+        "name": "Being the problem",
+        "url": "https://open.spotify.com/album/7j8VO9KD9r54qiFTQevH8T"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "duration_ms": 176337,
+      "name": "Being the problem",
+      "url": "https://open.spotify.com/track/2wJkGPUzUHcdDCPHe0bF4b"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
         "name": "Some Love Songs",
         "url": "https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB"
       },
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Being the problem",
-        "url": "https://open.spotify.com/album/7j8VO9KD9r54qiFTQevH8T"
-      },
-      "artists": [
-        {
-          "name": "Mabon Clarke Quartet",
-          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
-        }
-      ],
-      "duration_ms": 176337,
-      "name": "Being the problem",
-      "url": "https://open.spotify.com/track/2wJkGPUzUHcdDCPHe0bF4b"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "The Now",
         "url": "https://open.spotify.com/album/69Gu5J2EtrqXQKCdpYqvjK"
       },
@@ -1807,22 +1807,6 @@
       "duration_ms": 302640,
       "name": "The Wind In The Night",
       "url": "https://open.spotify.com/track/6GTSgyjdnJIehgiQu38qhL"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
-        "name": "No Time To Lose",
-        "url": "https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob"
-      },
-      "artists": [
-        {
-          "name": "North West Trio",
-          "url": "https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa"
-        }
-      ],
-      "duration_ms": 271624,
-      "name": "No Time To Lose",
-      "url": "https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1843,34 +1827,18 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Simplicitas",
-        "url": "https://open.spotify.com/album/5u282HONP3k3BSzLNZkCBA"
+        "name": "No Time To Lose",
+        "url": "https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob"
       },
       "artists": [
         {
-          "name": "Edward Simon",
-          "url": "https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF"
-        },
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
-        },
-        {
-          "name": "Adam Cruz",
-          "url": "https://open.spotify.com/artist/1jQe1E5ZvrDvzR4BePCHkA"
-        },
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        },
-        {
-          "name": "Adam Rogers",
-          "url": "https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH"
+          "name": "North West Trio",
+          "url": "https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa"
         }
       ],
-      "duration_ms": 308453,
-      "name": "Simplicity",
-      "url": "https://open.spotify.com/track/0AEBs3sZ492afceldzJzF0"
+      "duration_ms": 271624,
+      "name": "No Time To Lose",
+      "url": "https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1907,6 +1875,38 @@
       "duration_ms": 221053,
       "name": "From Now On",
       "url": "https://open.spotify.com/track/53roJ5AgOGeWt7f0sjKpXW"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Simplicitas",
+        "url": "https://open.spotify.com/album/5u282HONP3k3BSzLNZkCBA"
+      },
+      "artists": [
+        {
+          "name": "Edward Simon",
+          "url": "https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF"
+        },
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Adam Cruz",
+          "url": "https://open.spotify.com/artist/1jQe1E5ZvrDvzR4BePCHkA"
+        },
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        },
+        {
+          "name": "Adam Rogers",
+          "url": "https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH"
+        }
+      ],
+      "duration_ms": 308453,
+      "name": "Simplicity",
+      "url": "https://open.spotify.com/track/0AEBs3sZ492afceldzJzF0"
     },
     {
       "added_at": "2024-01-04 08:28:26",

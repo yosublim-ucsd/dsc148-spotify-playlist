@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Didi R en portada.",
-  "num_followers": 101190,
+  "num_followers": 101202,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzZkMDc4ZmQwZWQxYjk3M2Q3Y2QyOWE0OTVhOWI4Y2Y5OTc0NWI5",
+  "snapshot_id": "MCxkM2JlNDlmMDkzZTJjODI2ZDJjZWRhMmQ4N2E0YmZjMDEyZTIwMWUx",
   "tracks": [
     {
       "added_at": "2024-01-12 17:09:25",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
         "name": "Loca De Amar",
         "url": "https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3"
       },
@@ -203,18 +219,22 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+        "name": "Choro",
+        "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
         }
       ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+      "duration_ms": 136250,
+      "name": "Choro",
+      "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -251,42 +271,6 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 189309,
-      "name": "Que Poca",
-      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
-        "name": "Choro",
-        "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Choro",
-      "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
         "name": "Canci\u00f3n Para Olvidarte",
         "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
       },
@@ -299,42 +283,6 @@
       "duration_ms": 164120,
       "name": "Canci\u00f3n Para Olvidarte",
       "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 243173,
-      "name": "Basta Ya - Banda",
-      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -355,6 +303,54 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "Fotos Y Recuerdos",
+      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 189309,
+      "name": "Que Poca",
+      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
         "name": "Todo Todo",
         "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
       },
@@ -371,18 +367,22 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 157306,
-      "name": "Fotos Y Recuerdos",
-      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Ya Lo S\u00e9",
-      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
       },
@@ -471,6 +455,22 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
+        "name": "Camila Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Aqu\u00ed Lo Siento",
+      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
         "name": "Al No Tenerte",
         "url": "https://open.spotify.com/album/4eQvcIFA0g1LN7lGWm4JgH"
       },
@@ -487,34 +487,18 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
-        "name": "Camila Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Aqu\u00ed Lo Siento",
-      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+      "duration_ms": 203520,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -535,18 +519,18 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "Parrandera, Rebelde y Atrevida",
-        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
         }
       ],
-      "duration_ms": 195626,
-      "name": "Qu\u00e9 Me Vas a Dar",
-      "url": "https://open.spotify.com/track/1dqURLZC3n4EL6lPUF2DHx"
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -567,6 +551,22 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
       },
@@ -579,6 +579,38 @@
       "duration_ms": 219693,
       "name": "Con La Misma Piedra",
       "url": "https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 195626,
+      "name": "Qu\u00e9 Me Vas a Dar",
+      "url": "https://open.spotify.com/track/1dqURLZC3n4EL6lPUF2DHx"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
+        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -599,22 +631,6 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
         "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
         "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 164054,
       "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
       "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
-        "name": "Me Cuesta Tanto Olvidarte",
-        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 173546,
-      "name": "Me Cuesta Tanto Olvidarte",
-      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
+        "name": "Me Cuesta Tanto Olvidarte",
+        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 173546,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
         "name": "CHIQUIS - BEE SIDE",
         "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
       },
@@ -683,34 +699,18 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
+        "name": "Esto Es Lo M\u00edo",
+        "url": "https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
         }
       ],
-      "duration_ms": 178378,
-      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+      "duration_ms": 121141,
+      "name": "Esto Es Lo M\u00edo",
+      "url": "https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -735,38 +735,18 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "A Mi Me Respetas",
-        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 150148,
-      "name": "A Mi Me Respetas",
-      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
-        "name": "Esto Es Lo M\u00edo",
-        "url": "https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        }
-      ],
-      "duration_ms": 121141,
-      "name": "Esto Es Lo M\u00edo",
-      "url": "https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i"
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -787,6 +767,26 @@
       "duration_ms": 180773,
       "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
       "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
+        "name": "A Mi Me Respetas",
+        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 150148,
+      "name": "A Mi Me Respetas",
+      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
         "name": "Qu\u00edtame ese Hombre",
         "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 196874,
       "name": "Qu\u00edtame Ese Hombre",
       "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
+        "name": "Te mereces un amor",
+        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "La Casa de la Esquina",
+      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "Mucha Mujer",
-        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
-      },
-      "artists": [
-        {
-          "name": "Herly RG",
-          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
-        }
-      ],
-      "duration_ms": 156067,
-      "name": "Mucha Mujer",
-      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
         "name": "De Ti No Lo Esperaba",
         "url": "https://open.spotify.com/album/1inwitAIaD1Fe5Yx8f8NmK"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 193184,
       "name": "De Ti No Lo Esperaba",
       "url": "https://open.spotify.com/track/1aEq8Z97NDTiqnC3kBLgqb"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
+        "name": "Mucha Mujer",
+        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
+      },
+      "artists": [
+        {
+          "name": "Herly RG",
+          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
+        }
+      ],
+      "duration_ms": 156067,
+      "name": "Mucha Mujer",
+      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "Prohibido Llorar",
-        "url": "https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Prohibido Llorar",
-      "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
-        "name": "\u00c9chame A M\u00ed La Culpa",
-        "url": "https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "\u00c9chame A M\u00ed La Culpa",
-      "url": "https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
         "name": "Si Dej\u00f3 de Quererte",
         "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
       },
@@ -1187,6 +1155,22 @@
       "duration_ms": 200864,
       "name": "Si Dej\u00f3 de Quererte",
       "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
+        "name": "Prohibido Llorar",
+        "url": "https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Prohibido Llorar",
+      "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
+        "name": "\u00c9chame A M\u00ed La Culpa",
+        "url": "https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "\u00c9chame A M\u00ed La Culpa",
+      "url": "https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
         "name": "La Muerte No Es el Olvido",
         "url": "https://open.spotify.com/album/2Naj6u36xiUj5BPqSuM7Ip"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 220500,
       "name": "La Muerte No Es el Olvido",
       "url": "https://open.spotify.com/track/7h62f2DDObGo0B7FOoyAan"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
+        "name": "Por Cbrn y x Qlero",
+        "url": "https://open.spotify.com/album/3zJstkHuWczgdUSQPUXLSZ"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 170603,
+      "name": "Por Cbrn y x Qlero",
+      "url": "https://open.spotify.com/track/54pMzb8zgSjQ7FnGtF3zdx"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -1279,38 +1295,6 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
-        "name": "Dej\u00e9moslo As\u00ed",
-        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
-        "name": "No Me Rebajo",
-        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
-      },
-      "artists": [
-        {
-          "name": "La Morra De La Vihuela",
-          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "No Me Rebajo",
-      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
         "name": "Busca Otro Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6fvx4HALVK3h4cGd24v6IQ"
       },
@@ -1323,22 +1307,6 @@
       "duration_ms": 229077,
       "name": "Busca Otro Amor (En Vivo)",
       "url": "https://open.spotify.com/track/612bRKznhv8gN6Jwsr5IPX"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
-        "name": "Por Cbrn y x Qlero",
-        "url": "https://open.spotify.com/album/3zJstkHuWczgdUSQPUXLSZ"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 170603,
-      "name": "Por Cbrn y x Qlero",
-      "url": "https://open.spotify.com/track/54pMzb8zgSjQ7FnGtF3zdx"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -1359,6 +1327,22 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
+        "name": "Dej\u00e9moslo As\u00ed",
+        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
         "name": "LMV",
         "url": "https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 171153,
       "name": "LMV",
       "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
+        "name": "No Me Rebajo",
+        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
+      },
+      "artists": [
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "No Me Rebajo",
+      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
     },
     {
       "added_at": "2024-01-12 17:09:25",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-01-12 17:09:25",
       "album": {
+        "name": "Que Le Vamos A Hacer",
+        "url": "https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
+        }
+      ],
+      "duration_ms": 203251,
+      "name": "Que Le Vamos A Hacer",
+      "url": "https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ"
+    },
+    {
+      "added_at": "2024-01-12 17:09:25",
+      "album": {
         "name": "Tu Lo Decidiste",
         "url": "https://open.spotify.com/album/0HKJJRXEaWNdDPPSP0543Y"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 231793,
       "name": "Tu Lo Decidiste",
       "url": "https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni"
-    },
-    {
-      "added_at": "2024-01-12 17:09:25",
-      "album": {
-        "name": "Que Le Vamos A Hacer",
-        "url": "https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa"
-      },
-      "artists": [
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
-        }
-      ],
-      "duration_ms": 203251,
-      "name": "Que Le Vamos A Hacer",
-      "url": "https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ"
     },
     {
       "added_at": "2024-01-12 17:09:25",

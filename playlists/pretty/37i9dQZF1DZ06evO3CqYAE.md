@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,496 likes - 46 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,506 likes - 46 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 45 | [Love Expression](https://open.spotify.com/track/1h4oo2IsxI5xUiipPYOj15) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Love Expression](https://open.spotify.com/album/6YMiYEkP0jdzjvCXsmlE1O) | 3:44 |
 | 46 | [NaNa Owei \(feat\. Mercy Chinwo\)](https://open.spotify.com/track/1st08MRE0BCD7CwwlEL8oi) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Ready](https://open.spotify.com/album/3ZDKzS3dLFIo0UErHknL2A) | 4:08 |
 
-Snapshot ID: `Mjg0MjA1NDgsMDAwMDAwMDAyYjJhMWMxODc2NWQzNzVhYWZlMjQ3YTNhYjAyOWU1MQ==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDBmNWMzZTJhNzliMzk3MDM5ZTg1NDQ0YzU4NTdjOWNlZg==`

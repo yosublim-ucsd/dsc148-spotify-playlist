@@ -1,12 +1,12 @@
 {
   "description": "With FKA twigs, Crystal Castles, Purity Ring and more",
-  "num_followers": 23174,
+  "num_followers": 23193,
   "original_name": "Grimes Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2VmNzJlODM2ZjQ5ZjAyNmIzMjlmMTBmMmE5OTMwYThhNWJiODJh",
+  "snapshot_id": "MCw5NTdiNzc4YWM4N2M3NWM5OGNkMTMxNjc0NDY5NjMxYzg3NzJkMjEz",
   "tracks": [
     {
       "added_at": null,
@@ -20,25 +20,9 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call For Help",
-        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        }
-      ],
-      "duration_ms": 147441,
-      "name": "Bloom For Me",
-      "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
+      "duration_ms": 118853,
+      "name": "Visiting Statue",
+      "url": "https://open.spotify.com/track/2p8RITtRYMtk3RkpgLYe5M"
     },
     {
       "added_at": null,
@@ -75,18 +59,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyelid Movies",
-        "url": "https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV"
+        "name": "Oak",
+        "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
       },
       "artists": [
         {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+          "name": "Labyrinth Ear",
+          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
         }
       ],
-      "duration_ms": 249066,
-      "name": "When I'm Small",
-      "url": "https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"
+      "duration_ms": 187506,
+      "name": "Navy Light",
+      "url": "https://open.spotify.com/track/6o43Gi1cX7Nyi6koSkwIBc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4zXZ5Mq2L6jnsOsTssgRh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 107533,
+      "name": "Nangs",
+      "url": "https://open.spotify.com/track/1cCbsojaA6GIT7Y3zuMJ1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Duvet",
+      "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
     },
     {
       "added_at": null,
@@ -103,6 +135,54 @@
       "duration_ms": 128198,
       "name": "Washing Machine Heart",
       "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Really Cares",
+        "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Cigarettes out the Window",
+      "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Maze To Nowhere",
+        "url": "https://open.spotify.com/album/4bplGkhwmNIVjMf2rTGeW5"
+      },
+      "artists": [
+        {
+          "name": "Lorn",
+          "url": "https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5"
+        }
+      ],
+      "duration_ms": 172473,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ribbed Music For The Numb Generation",
+        "url": "https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW"
+      },
+      "artists": [
+        {
+          "name": "Sohodolls",
+          "url": "https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Bang Bang Bang Bang",
+      "url": "https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3"
     },
     {
       "added_at": null,
@@ -139,54 +219,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instrumental Relics",
-        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
       },
       "artists": [
         {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 277710,
-      "name": "I'm God",
-      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+      "duration_ms": 111626,
+      "name": "Stargirl Interlude",
+      "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ribbed Music For The Numb Generation",
-        "url": "https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW"
+        "name": "Who Really Cares",
+        "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
       },
       "artists": [
         {
-          "name": "Sohodolls",
-          "url": "https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN"
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         }
       ],
-      "duration_ms": 181640,
-      "name": "Bang Bang Bang Bang",
-      "url": "https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3"
+      "duration_ms": 167864,
+      "name": "Not Allowed",
+      "url": "https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ancient Dreams In A Modern Land",
-        "url": "https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd"
+        "name": "Good Looking",
+        "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 158733,
-      "name": "Venus Fly Trap",
-      "url": "https://open.spotify.com/track/6h7AmUi3ghBeEfsZygAxOd"
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 62520,
+      "name": "TV Dream",
+      "url": "https://open.spotify.com/track/19mZWzhbUj27oJA0cl9O9p"
     },
     {
       "added_at": null,
@@ -223,40 +335,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Perfect Girl",
-        "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
+        "name": "moment",
+        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
       },
       "artists": [
         {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+          "name": "Vierre Cloud",
+          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
         }
       ],
-      "duration_ms": 194423,
-      "name": "The Perfect Girl",
-      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
+      "duration_ms": 129543,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 62520,
-      "name": "TV Dream",
-      "url": "https://open.spotify.com/track/19mZWzhbUj27oJA0cl9O9p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Looking",
-        "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
+        "name": "Johanna",
+        "url": "https://open.spotify.com/album/7pF4a07flFvnyFUzZqn3Pv"
       },
       "artists": [
         {
@@ -264,45 +360,25 @@
           "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Good Looking",
-      "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
+      "duration_ms": 155565,
+      "name": "Johanna",
+      "url": "https://open.spotify.com/track/6gH2V6XzhDXfTqml6c2w4Z"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/1O2FPFDjmyEOSTfqNuuuNG"
+        "name": "Beach House",
+        "url": "https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5"
       },
       "artists": [
         {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 258186,
-      "name": "Don't Move",
-      "url": "https://open.spotify.com/track/1BeNZQORyV0jEF2toAmrsA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 111626,
-      "name": "Stargirl Interlude",
-      "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
+      "duration_ms": 199413,
+      "name": "Master of None",
+      "url": "https://open.spotify.com/track/3stWWPN41byqp8loPdy92u"
     },
     {
       "added_at": null,
@@ -340,153 +416,25 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 118853,
-      "name": "Visiting Statue",
-      "url": "https://open.spotify.com/track/2p8RITtRYMtk3RkpgLYe5M"
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Le Tigre",
-        "url": "https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL"
+        "name": "The Perfect Girl",
+        "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
       },
       "artists": [
         {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         }
       ],
-      "duration_ms": 184686,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sour Switchblade",
-        "url": "https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4"
-      },
-      "artists": [
-        {
-          "name": "Elita",
-          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
-        }
-      ],
-      "duration_ms": 148955,
-      "name": "Sour Switchblade",
-      "url": "https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay Ugly EP",
-        "url": "https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7"
-      },
-      "artists": [
-        {
-          "name": "Crim3s",
-          "url": "https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU"
-        }
-      ],
-      "duration_ms": 149090,
-      "name": "Stay Ugly",
-      "url": "https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CINEMA",
-        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/4zXZ5Mq2L6jnsOsTssgRh8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oak",
-        "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
-      },
-      "artists": [
-        {
-          "name": "Labyrinth Ear",
-          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Navy Light",
-      "url": "https://open.spotify.com/track/6o43Gi1cX7Nyi6koSkwIBc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u2026Because I\u2019m Young Arrogant and Hate Everything You Stand For",
-        "url": "https://open.spotify.com/album/7fTuXSJ3ULQYSbmsv006CI"
-      },
-      "artists": [
-        {
-          "name": "Machine Girl",
-          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
-        }
-      ],
-      "duration_ms": 95002,
-      "name": "Athoth a Go!! Go!!",
-      "url": "https://open.spotify.com/track/5HEpI1nOR0vHicKklJRvvd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miracle Mile",
-        "url": "https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 283053,
-      "name": "Golden Light",
-      "url": "https://open.spotify.com/track/1rPYEWQfIRo5A4fvLgFbBe"
+      "duration_ms": 194423,
+      "name": "The Perfect Girl",
+      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
     },
     {
       "added_at": null,
@@ -507,82 +455,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Petals",
-        "url": "https://open.spotify.com/album/4HrweIr1TmPaCVCH4kHtpB"
+        "name": "Stay Ugly EP",
+        "url": "https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7"
       },
       "artists": [
         {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+          "name": "Crim3s",
+          "url": "https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU"
         }
       ],
-      "duration_ms": 115053,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/3G7hlx1gFFE7oNnTbqb2fy"
+      "duration_ms": 149090,
+      "name": "Stay Ugly",
+      "url": "https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 104880,
-      "name": "Know the Way",
-      "url": "https://open.spotify.com/track/13WOkzGKinrEuKiK7tZtOp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oak",
-        "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
-      },
-      "artists": [
-        {
-          "name": "Labyrinth Ear",
-          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/6d67Xv8ms2noA8wWFLiPDN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Alone",
-        "url": "https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        }
-      ],
-      "duration_ms": 233176,
-      "name": "High Alone",
-      "url": "https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd"
+      "duration_ms": 244946,
+      "name": "Lemon Glow",
+      "url": "https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy"
     },
     {
       "added_at": null,
@@ -603,6 +503,198 @@
     {
       "added_at": null,
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Bubblegum Bitch",
+      "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u2026Because I\u2019m Young Arrogant and Hate Everything You Stand For",
+        "url": "https://open.spotify.com/album/7fTuXSJ3ULQYSbmsv006CI"
+      },
+      "artists": [
+        {
+          "name": "Machine Girl",
+          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
+        }
+      ],
+      "duration_ms": 95002,
+      "name": "Athoth a Go!! Go!!",
+      "url": "https://open.spotify.com/track/5HEpI1nOR0vHicKklJRvvd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oak",
+        "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
+      },
+      "artists": [
+        {
+          "name": "Labyrinth Ear",
+          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 184686,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 104880,
+      "name": "Know the Way",
+      "url": "https://open.spotify.com/track/13WOkzGKinrEuKiK7tZtOp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call For Help",
+        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "duration_ms": 147441,
+      "name": "Bloom For Me",
+      "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ethereality",
+        "url": "https://open.spotify.com/album/6zk1WNC7YNM9qgAxWY98qW"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "duration_ms": 218384,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/7h7DK2ZHIe4w0id8qkNqla"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sexy",
+        "url": "https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "duration_ms": 184222,
+      "name": "Pop Star",
+      "url": "https://open.spotify.com/track/0widrZ6KVNuIPhbM1rWPDR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/6d67Xv8ms2noA8wWFLiPDN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lovers From The Past",
+        "url": "https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "Lovers From The Past",
+      "url": "https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
@@ -612,9 +704,25 @@
           "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Cherry-coloured Funk",
-      "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
+      "duration_ms": 194080,
+      "name": "Pitch the Baby",
+      "url": "https://open.spotify.com/track/1DXD0wVXXHwUYo9AXbcMMI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/4HrweIr1TmPaCVCH4kHtpB"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 115053,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/3G7hlx1gFFE7oNnTbqb2fy"
     },
     {
       "added_at": null,
@@ -639,38 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovers From The Past",
-        "url": "https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "Lovers From The Past",
-      "url": "https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 199505,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -687,50 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cults",
-        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
       "artists": [
         {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 150373,
-      "name": "You Know What I Mean",
-      "url": "https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Duvet",
-      "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "fineshrine",
-      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": null,
@@ -751,82 +795,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 258653,
-      "name": "Myth",
-      "url": "https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5"
+      "duration_ms": 189040,
+      "name": "Sea, Swallow Me",
+      "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Witching Hour (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/6xg5HNx68kXJGH1y5zpCJJ"
+        "name": "Crest",
+        "url": "https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4"
       },
       "artists": [
         {
-          "name": "Ladytron",
-          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
-        }
-      ],
-      "duration_ms": 276508,
-      "name": "Destroy Everything You Touch",
-      "url": "https://open.spotify.com/track/7z5xueAygjpMdd7hT8zAY3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
-      },
-      "artists": [
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Rhinestone Eyes",
-      "url": "https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Really Cares",
-        "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Cigarettes out the Window",
-      "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 129052,
-      "name": "shuck",
-      "url": "https://open.spotify.com/track/44UYqr58VO4Vgyh9yEprd5"
+      "duration_ms": 134693,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin"
     }
   ],
   "unique_name": "Grimes Radio",

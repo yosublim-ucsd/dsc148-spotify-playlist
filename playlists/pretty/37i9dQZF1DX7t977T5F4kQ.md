@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1?si=TOzAEf6yTvWEDysOJWHqPA"> Olivetheboy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,603 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,611 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 19 | [Atele](https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Atele](https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1) | 2:46 |
 | 20 | [Hosanna](https://open.spotify.com/track/1UcrPc3sarXiVaoYelfLbU) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Hosanna](https://open.spotify.com/album/2ue26FOfSdSpiV47IOknYk) | 2:54 |
 | 21 | [Sugarcane \- Remix](https://open.spotify.com/track/6NuG2JgERZZXvvjmtjOFix) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gregory Bortey Newman](https://open.spotify.com/artist/6uNKMzEUQhiTskricpo2yw) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 4:11 |
-| 22 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
-| 23 | [Not God](https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Not God](https://open.spotify.com/album/3ACMZjr0WdsIqQiIMo7eRs) | 2:30 |
-| 24 | [Terminator \- Remix](https://open.spotify.com/track/10AIyGWEbCddWbxHzRm9pJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Terminator \(Remix\)](https://open.spotify.com/album/2ke3G6HBIqidv4jrcZh2gN) | 3:31 |
-| 25 | [Dancé](https://open.spotify.com/track/4YG5iI71UY9VAE68t4vn2a) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [M.O.G Beatz](https://open.spotify.com/artist/33ItZZXaZDSfgphZRZ7hd2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Dancé](https://open.spotify.com/album/5wtg6LNVHgxvloQka3IkS1) | 3:17 |
-| 26 | [Atide](https://open.spotify.com/track/6scZrxPXUjUM5CdkV4onSp) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Evergreen](https://open.spotify.com/album/1Bl9nHpcgJFp5rwcHCyV4Y) | 3:22 |
-| 27 | [Afrafranto](https://open.spotify.com/track/4Nr8zmrAdnJBnFs4CpMxnr) | [Limuel](https://open.spotify.com/artist/3NBnMiLgFDVmRmPEFTaWT8) | [Afrafranto](https://open.spotify.com/album/6eaqs8ArRnHL7kpSeqj4mK) | 3:21 |
-| 28 | [Plenty Evil](https://open.spotify.com/track/0QgGGSo6ygXcDKjk5s2aER) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Plenty Evil](https://open.spotify.com/album/4LGC4uOB6sSUIirDU0w5GS) | 3:09 |
-| 29 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 |
-| 30 | [Tupac](https://open.spotify.com/track/2WA0ROd9Vxjb83hTFah5CK) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Tupac](https://open.spotify.com/album/1uLVlQFylIj6Fl2zi6r4Hs) | 3:34 |
-| 31 | [Joo](https://open.spotify.com/track/0gsUEvfyck7i7cZknquaD6) | [Moffy](https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9) | [Joo](https://open.spotify.com/album/7kgD44Ey7k9NQDygaUO28K) | 2:43 |
+| 22 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 |
+| 23 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
+| 24 | [Not God](https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Not God](https://open.spotify.com/album/3ACMZjr0WdsIqQiIMo7eRs) | 2:30 |
+| 25 | [Terminator \- Remix](https://open.spotify.com/track/10AIyGWEbCddWbxHzRm9pJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Terminator \(Remix\)](https://open.spotify.com/album/2ke3G6HBIqidv4jrcZh2gN) | 3:31 |
+| 26 | [Dancé](https://open.spotify.com/track/4YG5iI71UY9VAE68t4vn2a) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [M.O.G Beatz](https://open.spotify.com/artist/33ItZZXaZDSfgphZRZ7hd2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Dancé](https://open.spotify.com/album/5wtg6LNVHgxvloQka3IkS1) | 3:17 |
+| 27 | [Atide](https://open.spotify.com/track/6scZrxPXUjUM5CdkV4onSp) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Evergreen](https://open.spotify.com/album/1Bl9nHpcgJFp5rwcHCyV4Y) | 3:22 |
+| 28 | [Afrafranto](https://open.spotify.com/track/4Nr8zmrAdnJBnFs4CpMxnr) | [Limuel](https://open.spotify.com/artist/3NBnMiLgFDVmRmPEFTaWT8) | [Afrafranto](https://open.spotify.com/album/6eaqs8ArRnHL7kpSeqj4mK) | 3:21 |
+| 29 | [Plenty Evil](https://open.spotify.com/track/0QgGGSo6ygXcDKjk5s2aER) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Plenty Evil](https://open.spotify.com/album/4LGC4uOB6sSUIirDU0w5GS) | 3:09 |
+| 30 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 |
+| 31 | [Tupac](https://open.spotify.com/track/2WA0ROd9Vxjb83hTFah5CK) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Tupac](https://open.spotify.com/album/1uLVlQFylIj6Fl2zi6r4Hs) | 3:34 |
 | 32 | [PRACTICE](https://open.spotify.com/track/0P1T4HQzeG598FX3UVFtxs) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [BillyDray](https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k) | [PRACTICE](https://open.spotify.com/album/4X9lqbIDMJ2AQB9kF2rlYY) | 2:22 |
 | 33 | [Brown Skin Girl](https://open.spotify.com/track/1MnLtHUkNjywtD2kyCiXXn) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:08 |
 | 34 | [Running](https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Running](https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [She Bad \(feat\. Oxlade\)](https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 5:00 |
 | 80 | [Ashawo](https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Ashawo](https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa) | 3:01 |
 
-Snapshot ID: `MCxjMmQ1NWE3ZDcwMWI0NzQ5ZDE4NDk0MTZhNGE4ZDI5M2YwNzY3OWYw`
+Snapshot ID: `MCw0ZmU0M2QzZTBkYjk4MTUxMGNjYjY3MmIzM2QzYzliNGY1ZGM4NDlm`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/karencivil/?hl=en\">Karen Civil</a>",
-  "num_followers": 27658,
+  "num_followers": 27697,
   "original_name": "Karen Civil's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDNhYzg4ODBjYTM3OTAxZDU3YjMxZGYyYzZiYzc5NDY0MWViY2Jl",
+  "snapshot_id": "MCwzNjhkNGFkZmE5YTA0M2EwMWQyOWM0NDBjYjU1YjZiM2U1OTU4Nzcw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -135,6 +135,38 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 135746,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 272186,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },
@@ -171,38 +203,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 272186,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 135746,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Plain Jane REMIX (feat. Nicki Minaj)",
         "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
       },
@@ -219,26 +219,6 @@
       "duration_ms": 202636,
       "name": "Plain Jane REMIX (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 181929,
-      "name": "We Paid (feat. 42 Dugg)",
-      "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -263,6 +243,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 181929,
+      "name": "We Paid (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Pray 4 Love (Deluxe)",
         "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
       },
@@ -279,6 +279,22 @@
       "duration_ms": 235987,
       "name": "Rags2Riches 2 (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Welcome To The Party",
+      "url": "https://open.spotify.com/track/0fIffclhgJC5h8AdMMVvkp"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -351,22 +367,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Welcome To The Party",
-      "url": "https://open.spotify.com/track/0fIffclhgJC5h8AdMMVvkp"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "City On Lock",
         "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
@@ -383,6 +383,38 @@
       "duration_ms": 218332,
       "name": "Pussy Talk",
       "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Christopher Walking",
+      "url": "https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Dark Conversation",
+      "url": "https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -423,38 +455,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Street Sermons",
-        "url": "https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN"
-      },
-      "artists": [
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Quicksand",
-      "url": "https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Dark Conversation",
-      "url": "https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+        "name": "Street Sermons",
+        "url": "https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN"
       },
       "artists": [
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
         }
       ],
-      "duration_ms": 190680,
-      "name": "Christopher Walking",
-      "url": "https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G"
+      "duration_ms": 224933,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Crenshaw",
+        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "U See Us",
+      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Young Jefe 3",
         "url": "https://open.spotify.com/album/2rnt0fBBFJ9ByEPnewCPr5"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 200586,
       "name": "Yessirski",
       "url": "https://open.spotify.com/track/1c3Zkz6wzRAakKaYY6F3iw"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Crenshaw",
-        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "U See Us",
-      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
     },
     {
       "added_at": "2022-10-01 16:00:00",

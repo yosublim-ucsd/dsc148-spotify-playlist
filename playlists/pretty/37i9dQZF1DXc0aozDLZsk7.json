@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 480445,
+  "num_followers": 480317,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2E3MzI4MzA3NDMwOTJhNTdjYjRkOTYxOTFlYmU2ODgwZmI1N2Vk",
+  "snapshot_id": "MCw0YTYxY2RlYTUwNjVkNDE2YmI4NDU0ODA0ODg3MmY5Y2UyNGJkYTZl",
   "tracks": [
     {
       "added_at": "2023-06-09 16:26:46",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 329666,
-      "name": "WALLS",
-      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Know.",
-        "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 226106,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah"
+      "duration_ms": 329666,
+      "name": "WALLS",
+      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -723,6 +707,22 @@
       "duration_ms": 223600,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Know.",
+        "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 226106,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 197178,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 236786,
       "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 197178,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
+        "name": "A Song For Every Moon",
+        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 200620,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1Vm82EBiyQlvbnHJ08eWbb"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 208692,
       "name": "Let\u2019s Go Home Together",
       "url": "https://open.spotify.com/track/53fP1JzpjywHdJKx1flKCA"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
-        "name": "A Song For Every Moon",
-        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1Vm82EBiyQlvbnHJ08eWbb"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Process (Bonus Edition)",
-        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "(No One Knows Me) Like the Piano",
-      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "The Use In Trying",
         "url": "https://open.spotify.com/album/6bQhy4kKZbZ1yZjXhuO2Lm"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 192295,
       "name": "The Use In Trying",
       "url": "https://open.spotify.com/track/5ntlf6H1CTaqmZWbRgr0y8"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
     }
   ],
   "unique_name": "No Stress",

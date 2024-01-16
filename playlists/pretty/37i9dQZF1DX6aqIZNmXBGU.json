@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17430,
+  "num_followers": 17427,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWZiYjdhZjBhZGMzMThlYWJhZTY2YTE2MmM3MzQ4Y2NlZWIwYjJh",
+  "snapshot_id": "MCxmM2Y1YWFiMmM3YjU4YjMyNjUyOTVkZWQ1ZTU2ZGYwOTMwYmMwNmEz",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG"
     },
     {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Cochise",
-      "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
-    },
-    {
       "added_at": "2022-03-23 15:48:35",
       "album": {
         "name": "Come Clean",
@@ -215,6 +199,22 @@
       "duration_ms": 174306,
       "name": "Lets Go Surfing",
       "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Cochise",
+      "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "In Utero",
-        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 95386,
-      "name": "Tourette's",
-      "url": "https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Allah-Las",
         "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "In Utero",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 95386,
+      "name": "Tourette's",
+      "url": "https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "De Stijl",
         "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Stay Away",
-      "url": "https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Superunknown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Bass Drum of Death",
         "url": "https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 229946,
       "name": "Crawling After You",
       "url": "https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Sundown Syndrome / Remember Me",
-        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 261040,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -571,22 +555,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "FIDLAR",
-        "url": "https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "No Waves",
-      "url": "https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Good Bad Not Evil",
         "url": "https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A"
       },
@@ -603,6 +571,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "FIDLAR",
+        "url": "https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "No Waves",
+      "url": "https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Lullabies To Paralyze",
         "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 114386,
       "name": "Medication",
       "url": "https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Sundown Syndrome / Remember Me",
+        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 261040,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Onion",
-        "url": "https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W"
-      },
-      "artists": [
-        {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "The Boy",
-      "url": "https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Carrion Crawler / The Dream",
         "url": "https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 412040,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Onion",
+        "url": "https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "The Boy",
+      "url": "https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -751,18 +751,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Abysmal Thoughts",
-        "url": "https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw"
+        "name": "Badillac",
+        "url": "https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz"
       },
       "artists": [
         {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+          "name": "Together Pangea",
+          "url": "https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Blood Under My Belt",
-      "url": "https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp"
+      "duration_ms": 147880,
+      "name": "Badillac",
+      "url": "https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -783,18 +783,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Badillac",
-        "url": "https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz"
+        "name": "Abysmal Thoughts",
+        "url": "https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw"
       },
       "artists": [
         {
-          "name": "Together Pangea",
-          "url": "https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 147880,
-      "name": "Badillac",
-      "url": "https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O"
+      "duration_ms": 228146,
+      "name": "Blood Under My Belt",
+      "url": "https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Manipulator",
-        "url": "https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Tall Man Skinny Lady",
-      "url": "https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Glazin'",
         "url": "https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 203906,
       "name": "Glazin'",
       "url": "https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Oddments",
+        "url": "https://open.spotify.com/album/480wRHoZ8rOqp34KYGbD1Z"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 209011,
+      "name": "Hot Wax",
+      "url": "https://open.spotify.com/track/687yagvo8PZFbeY8ctz3vL"
     }
   ],
   "unique_name": "Sun & Surf",

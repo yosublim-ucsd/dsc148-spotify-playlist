@@ -11699,6 +11699,28 @@
     },
     {
       "album": {
+        "name": "kid",
+        "url": "https://open.spotify.com/album/6UwOlF0jddXjlTTdIeIKQI"
+      },
+      "artists": [
+        {
+          "name": "DESSIIIK",
+          "url": "https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV"
+        },
+        {
+          "name": "MobTies",
+          "url": "https://open.spotify.com/artist/6pXqMnsvxXCrE3yHil15Fh"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74666,
+      "name": "kid",
+      "url": "https://open.spotify.com/track/1lMK5Pa5ukWVctalIZB0s4"
+    },
+    {
+      "album": {
         "name": "Kill Bill",
         "url": "https://open.spotify.com/album/3KXG1yHvYqitTfkgQet0Vw"
       },
@@ -13312,7 +13334,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 131495,
       "name": "MEDICINA",
       "url": "https://open.spotify.com/track/7heJfU2Lk9rGJB9EQdMFPa"
@@ -13330,7 +13352,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 169600,
       "name": "medo do futuro",
       "url": "https://open.spotify.com/track/3BYU4zpVwJP7g6WFxYSO9P"
@@ -16846,6 +16868,32 @@
       "duration_ms": 134786,
       "name": "PIRANHAS INTERNACIONAIS",
       "url": "https://open.spotify.com/track/4txAPwCt21Dua6qdHatlD6"
+    },
+    {
+      "album": {
+        "name": "PIRATARIA",
+        "url": "https://open.spotify.com/album/62hSX442CFxVqUrDD7MJ7L"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6"
+        },
+        {
+          "name": "TTF",
+          "url": "https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184471,
+      "name": "PIRATARIA",
+      "url": "https://open.spotify.com/track/7B1KZHXVUI2clf15IpwsB7"
     },
     {
       "album": {

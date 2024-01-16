@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,148 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,096 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 12 | [My Family \- from "The Addams Family"](https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Rock Mafia](https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47) | [My Family \(feat\. Migos\) \[from "The Addams Family"\]](https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2) | 2:57 |
 | 13 | [T\-Shirt](https://open.spotify.com/track/1rkfJLgTlB6XYNjgZ0sVaK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:02 |
 | 14 | [Fight Night](https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:36 |
-| 15 | [MotorSport](https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 5:03 |
+| 15 | [Notice Me](https://open.spotify.com/track/3OnOomd79OjqSYHchCQ6ht) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:53 |
 | 16 | [Bad Intentions](https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 4:05 |
 | 17 | [We Set The Trends \(feat\. Migos & ‎Juelz Santana\) \- Remix](https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [We Set The Trends \(Remix\) \[feat\. ‎Migos & Juelz Santana\]](https://open.spotify.com/album/7JZ79IAZ6xFXBqbzsb06YE) | 3:37 |
 | 18 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
-| 19 | [Notice Me](https://open.spotify.com/track/3OnOomd79OjqSYHchCQ6ht) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:53 |
+| 19 | [MotorSport](https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 5:03 |
 | 20 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 |
 | 21 | [Danger \(with Migos & Marshmello\)](https://open.spotify.com/track/0nhVrTiCGiGRCoZOJiWzm1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Danger \(with Migos & Marshmello\) \[From Bright: The Album\]](https://open.spotify.com/album/0829Pk9WEro3oPVnWT2B4B) | 3:34 |
 | 22 | [Kelly Price \(feat\. Travis Scott\)](https://open.spotify.com/track/5Q6DJEgNTiN9xcOQzKmw9F) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 6:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Frosted Flakes](https://open.spotify.com/track/2ngLCsaDgirvx3aNgejilJ) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 4:18 |
 | 50 | [First 48](https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:18 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDAwZGU0Mzk1MTQzNGJlNWNhNDNiZjY3MDFiN2NmOTA4MA==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDBlZTlmMGYzYTA0ODBjMzA4OGMxYzYyOWIzYjM3MTQ5Mg==`

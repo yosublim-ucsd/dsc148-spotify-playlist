@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 60197,
+  "2024-01-16": 60180,
   "date_first_scraped": "2022-06-09",
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
   "name": "\u5fc3\u60c5\u5927\u632f",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 196866,
       "name": "(Trust Me Now) I'm Fine",
       "url": "https://open.spotify.com/track/13B8K60ppDcg8MjlvN0Bb9"
@@ -2296,6 +2296,24 @@
     },
     {
       "album": {
+        "name": "Good Side",
+        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164286,
+      "name": "Good Side",
+      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/6dJO0DBV6QxLIHjYytOmzO"
       },
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 153191,
       "name": "hard enough to stay alive",
       "url": "https://open.spotify.com/track/4fKn4WivcX3bRxCfuS88xS"
@@ -2441,6 +2459,24 @@
       "duration_ms": 210849,
       "name": "Have A Good Summer (Without Me)",
       "url": "https://open.spotify.com/track/4A1GjAsAWjxBV4rzgOAOxR"
+    },
+    {
+      "album": {
+        "name": "petals",
+        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157598,
+      "name": "he loves me, he loves me not",
+      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
     },
     {
       "album": {
@@ -2747,7 +2783,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 140186,
       "name": "Hungry Heart",
       "url": "https://open.spotify.com/track/2KBuHBac1gbzFzhkL5Wlvx"
@@ -4411,6 +4447,24 @@
       "duration_ms": 184473,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u"
+    },
+    {
+      "album": {
+        "name": "Peace Sign",
+        "url": "https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Peace Sign",
+      "url": "https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa"
     },
     {
       "album": {

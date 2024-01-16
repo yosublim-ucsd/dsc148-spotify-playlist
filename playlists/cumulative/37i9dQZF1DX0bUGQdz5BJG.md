@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Brittney Spencer
 
-1,830 songs - 4 day 2 hr 11 min
+1,831 songs - 4 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [Girls Of Summer](https://open.spotify.com/track/7uC982LGoPRx26jtEN2XYU) | [Naomi Cooke Johnson](https://open.spotify.com/artist/0TOpxMqjBLR53TUNKK29ML) | [Girls Of Summer](https://open.spotify.com/album/0omrpULsTRR2J58rSCXrbN) | 2:52 | 2023-06-23 | 2023-10-14 |
 | [Glad She Got Away](https://open.spotify.com/track/70DJhQRDuGCTWcSuqueFCB) | [Salemtown](https://open.spotify.com/artist/6Lblad81pn8Lhh6OKNiax2) | [Glad She Got Away](https://open.spotify.com/album/0PMq7HXtjdeAYs0H8dAgIU) | 2:47 | 2021-12-31 | 2022-02-26 |
 | [Go Easy](https://open.spotify.com/track/4XZP9LnptkN57n2XOoTYlk) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [Go Easy](https://open.spotify.com/album/7rnvTK2qj7TzULoz7ck3KI) | 3:03 | 2022-12-02 | 2023-01-14 |
+| [Go Get Er](https://open.spotify.com/track/7h99v6wbJdjFVtP2ScgTME) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/43u2JbXX3icMNv6dd0aXn6) | 3:03 | 2024-01-15 |  |
 | [God Made Airplanes](https://open.spotify.com/track/18zscGhKn4aPXvtGRINYcP) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [God Made Airplanes](https://open.spotify.com/album/0cm9Mqk91nvyj9KukFB7Ha) | 3:39 | 2022-04-01 | 2022-04-23 |
 | [God Only Knows](https://open.spotify.com/track/3Pazi0v8BKtpwp2qjkh3ra) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [God Only Knows](https://open.spotify.com/album/6tUWgnrqrDo001L5hDTnC6) | 3:00 | 2023-05-19 | 2023-07-29 |
 | [God's Hometown](https://open.spotify.com/track/30qsFI2OTLaJL3aOQgMh3J) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2), [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Superbloom](https://open.spotify.com/album/1EWz9DG6PmXodQJKjl0A0j) | 3:23 | 2023-10-27 |  |

@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-108 songs - 6 hr 27 min
+109 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Damage Case](https://open.spotify.com/track/3EkLYcqCD35q1Ws4rwY1Wk) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 3:02 | 2023-12-13 |  |
 | [Damage Case](https://open.spotify.com/track/5VtZWqbYE9vkVSbvqNmg2D) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 3:02 | 2022-12-30 | 2023-12-14 |
 | [Deaf Forever](https://open.spotify.com/track/4U9PDEya4AvkU4yLDRIhsM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 4:26 | 2024-01-13 | 2024-01-15 |
+| [Doctor Rock \(Live at Download Festival, Donington, England, June 13, 2008\)](https://open.spotify.com/track/0qkYLlozbEJMgYWrYa8Qyt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 5](https://open.spotify.com/album/1TGHTdiR7QolfRrIzjzY6Z) | 4:10 | 2024-01-15 |  |
 | [Eat the Rich](https://open.spotify.com/track/6WcyOskUC1L0ZyHgkPDc7V) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU) | 4:34 | 2023-12-13 |  |
 | [Eat the Rich](https://open.spotify.com/track/3XDkKF2P82Om5ZjAfxX2Y4) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/3aoZZWomzwY4KuXM2Jqt7C) | 4:34 | 2022-12-30 | 2023-12-14 |
 | [Electricity](https://open.spotify.com/track/1KYfhcM7K7Ahs6opoG4cd0) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 2:16 | 2023-12-14 | 2023-12-16 |
@@ -79,7 +80,7 @@
 | [One Track Mind \- Live at Hull City Hall, 22/6/1983](https://open.spotify.com/track/4vRcgWjmYHGToSJyJvEEIu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [One Track Mind \(Live at Hull City Hall, 22/6/1983\)](https://open.spotify.com/album/4aQFtLSp3Uux25rRtFrejZ) | 4:05 | 2023-11-10 | 2023-12-14 |
 | [Orgasmatron](https://open.spotify.com/track/3RqNRquosVuv2C6AT6HLGT) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/6jHRYw1JsUNParuSI9BtFX) | 5:23 | 2022-12-30 | 2023-12-14 |
 | [Orgasmatron](https://open.spotify.com/track/3FXkhPqETD7nkZsr1Vr7qX) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 5:24 | 2023-12-13 |  |
-| [Over the Top \(Live at Download Festival, Donington, England, June 13, 2008\)](https://open.spotify.com/track/1n1mXoqx7fzapLVRKq7ZBp) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 5](https://open.spotify.com/album/1TGHTdiR7QolfRrIzjzY6Z) | 2:29 | 2023-12-31 |  |
+| [Over the Top \(Live at Download Festival, Donington, England, June 13, 2008\)](https://open.spotify.com/track/1n1mXoqx7fzapLVRKq7ZBp) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 5](https://open.spotify.com/album/1TGHTdiR7QolfRrIzjzY6Z) | 2:29 | 2023-12-31 | 2024-01-16 |
 | [Overkill](https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 5:11 | 2022-12-30 | 2023-12-14 |
 | [Overkill](https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 5:13 | 2023-12-13 |  |
 | [Please Don't Touch \(feat\. Motörhead\)](https://open.spotify.com/track/2fZKtGjQ5vWLDWm6AhfvQ1) | [Girlschool](https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8), [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Very Best of Girlschool](https://open.spotify.com/album/2KN9p0XSOmycyt4ZzMKJGB) | 2:47 | 2022-12-30 | 2023-12-14 |

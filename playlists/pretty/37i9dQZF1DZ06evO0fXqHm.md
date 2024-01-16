@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 13 | [Telefone](https://open.spotify.com/track/06pNle1p87Hvz8YMv7IJkV) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Riff](https://open.spotify.com/artist/7HWxy4b4td3XP7WjueymyN) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 3:08 |
 | 14 | [Balança Dona Onça](https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Balança Dona Onça](https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H) | 3:24 |
 | 15 | [Papo 10](https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [VINT](https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7) | [Papo 10](https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs) | 2:33 |
-| 16 | [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 |
+| 16 | [Só Lamento](https://open.spotify.com/track/6OT7k19AcCujMXzYaIYmFa) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 3:13 |
 | 17 | [Para de Brincar Comigo](https://open.spotify.com/track/1XU61okRaI9UxMB3z2O2GQ) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 1:56 |
-| 18 | [Só Lamento](https://open.spotify.com/track/6OT7k19AcCujMXzYaIYmFa) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 3:13 |
+| 18 | [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 |
 | 19 | [Minha Vida](https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Minha Vida](https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav) | 2:45 |
 | 20 | [Gloss](https://open.spotify.com/track/5l3vz1aOUOQAlwU6F1F3Jr) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo) | [Gloss](https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT) | 2:14 |
 | 21 | [BOLA LOGO](https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql) | [Wealstarcks](https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [AMOUR BEIJA FLOR](https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn) | 1:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 49 | [Medley](https://open.spotify.com/track/6FA0auhg0L75rRKIoYwpAx) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:26 |
 | 50 | [Money Make](https://open.spotify.com/track/1Wv5iyCi1kEeKYvFf0Ruha) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc) | [Sextape: Love Me Two Times](https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR) | 2:11 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDAzYzcwNmY4ZjY1NzE4ZjhmZjEzMmE2YThlNTA0MjkyNA==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDAyMWFiOGVjNzAwZmY1ZTFlNzA1ZGRmODUxMTA2ZmUxNw==`

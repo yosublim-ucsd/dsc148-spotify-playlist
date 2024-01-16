@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Danny Schiller",
-  "num_followers": 19691,
+  "num_followers": 19715,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTY4M2ZmYTBhOWU3M2YyODM3ZmRjNjU5OTQ5OTk3MWMyN2RjN2Q4",
+  "snapshot_id": "MCw1MGViMWZiZWYxZTkyMTJlZDgyNThlNWQzMGU5YTU5YjcyNDdkNzY4",
   "tracks": [
     {
       "added_at": "2024-01-04 17:50:56",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-01-04 17:50:56",
       "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
+    },
+    {
+      "added_at": "2024-01-04 17:50:56",
+      "album": {
         "name": "Paris Texas",
         "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 212659,
       "name": "Conticinio",
       "url": "https://open.spotify.com/track/66V8fWmTWOTcZTo0niDctU"
-    },
-    {
-      "added_at": "2024-01-04 17:50:56",
-      "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
     },
     {
       "added_at": "2024-01-04 17:50:56",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-01-04 17:50:56",
       "album": {
-        "name": "las consecuencias",
-        "url": "https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9"
-      },
-      "artists": [
-        {
-          "name": "Jaze",
-          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
-        }
-      ],
-      "duration_ms": 191448,
-      "name": "las consecuencias",
-      "url": "https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d"
-    },
-    {
-      "added_at": "2024-01-04 17:50:56",
-      "album": {
         "name": "Paris Texas",
         "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 240000,
       "name": "siente m\u00e1s",
       "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2024-01-04 17:50:56",
+      "album": {
+        "name": "las consecuencias",
+        "url": "https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9"
+      },
+      "artists": [
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "duration_ms": 191448,
+      "name": "las consecuencias",
+      "url": "https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d"
     },
     {
       "added_at": "2024-01-04 17:50:56",
@@ -443,22 +443,6 @@
       "duration_ms": 308346,
       "name": "Pajarito colibr\u00ed",
       "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
-    },
-    {
-      "added_at": "2024-01-04 17:50:56",
-      "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 201674,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
     },
     {
       "added_at": "2024-01-04 17:50:56",
@@ -511,22 +495,6 @@
     {
       "added_at": "2024-01-04 17:50:56",
       "album": {
-        "name": "mis compas tan aqu\u00ed",
-        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "mis compas tan aqu\u00ed",
-      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
-    },
-    {
-      "added_at": "2024-01-04 17:50:56",
-      "album": {
         "name": "Los D\u00edas en la Sala",
         "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
       },
@@ -539,6 +507,38 @@
       "duration_ms": 163411,
       "name": "Siempre Te Voy a Querer",
       "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
+    },
+    {
+      "added_at": "2024-01-04 17:50:56",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 201674,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
+    },
+    {
+      "added_at": "2024-01-04 17:50:56",
+      "album": {
+        "name": "mis compas tan aqu\u00ed",
+        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "mis compas tan aqu\u00ed",
+      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
     },
     {
       "added_at": "2024-01-04 17:50:56",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-01-04 17:50:56",
       "album": {
-        "name": "Prenda del Alma - Spotify Singles",
-        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 258579,
-      "name": "Prenda del Alma - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
-    },
-    {
-      "added_at": "2024-01-04 17:50:56",
-      "album": {
         "name": "La Casa de Mis Pap\u00e1s",
         "url": "https://open.spotify.com/album/4fDVPUDYYSLk6g3WWoZUzG"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 245161,
       "name": "Ojos Del Sol",
       "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
+    },
+    {
+      "added_at": "2024-01-04 17:50:56",
+      "album": {
+        "name": "Prenda del Alma - Spotify Singles",
+        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 258579,
+      "name": "Prenda del Alma - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
     },
     {
       "added_at": "2024-01-04 17:50:56",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-01-04 17:50:56",
       "album": {
-        "name": "Estas Canciones Me Recuerdan a Ti",
-        "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 203950,
-      "name": "La Ola",
-      "url": "https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa"
-    },
-    {
-      "added_at": "2024-01-04 17:50:56",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2024-01-04 17:50:56",
+      "album": {
+        "name": "Estas Canciones Me Recuerdan a Ti",
+        "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "duration_ms": 203950,
+      "name": "La Ola",
+      "url": "https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa"
     },
     {
       "added_at": "2024-01-04 17:50:56",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-01-04 17:50:56",
       "album": {
-        "name": "C\u00f3smosis",
-        "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "C\u00f3smosis",
-      "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
-    },
-    {
-      "added_at": "2024-01-04 17:50:56",
-      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2024-01-04 17:50:56",
       "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+        "name": "C\u00f3smosis",
+        "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
         }
       ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
+      "duration_ms": 246720,
+      "name": "C\u00f3smosis",
+      "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
     },
     {
       "added_at": "2024-01-04 17:50:56",
@@ -1151,6 +1135,22 @@
       "duration_ms": 206040,
       "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
       "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
+    },
+    {
+      "added_at": "2024-01-04 17:50:56",
+      "album": {
+        "name": "Te mereces un amor",
+        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "La Casa de la Esquina",
+      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     },
     {
       "added_at": "2024-01-04 17:50:56",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-01-04 17:50:56",
       "album": {
+        "name": "Extra\u00f1os",
+        "url": "https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn"
+      },
+      "artists": [
+        {
+          "name": "Ayzak Ewan",
+          "url": "https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl"
+        }
+      ],
+      "duration_ms": 231878,
+      "name": "Extra\u00f1os",
+      "url": "https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq"
+    },
+    {
+      "added_at": "2024-01-04 17:50:56",
+      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 165200,
       "name": "azul",
       "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
-    },
-    {
-      "added_at": "2024-01-04 17:50:56",
-      "album": {
-        "name": "Extra\u00f1os",
-        "url": "https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn"
-      },
-      "artists": [
-        {
-          "name": "Ayzak Ewan",
-          "url": "https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl"
-        }
-      ],
-      "duration_ms": 231878,
-      "name": "Extra\u00f1os",
-      "url": "https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq"
     },
     {
       "added_at": "2024-01-04 17:50:56",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-01-04 17:50:56",
       "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
       },
       "artists": [
         {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 201861,
-      "name": "Sagitario",
-      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
     }
   ],
   "unique_name": "Latin Folk",

@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 154509,
+  "2024-01-16": 154473,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Thailand.",
   "name": "Top 50 - Thailand",
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Because of You, I Shine",
       "url": "https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6"
@@ -5733,7 +5733,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"

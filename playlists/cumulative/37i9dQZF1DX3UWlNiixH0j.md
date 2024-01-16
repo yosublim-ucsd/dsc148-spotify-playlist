@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: No Buses
 
-1,206 songs - 3 day 2 hr 52 min
+1,207 songs - 3 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Gene](https://open.spotify.com/track/0Gh6U25xKdfiiPzNzAwsBM) | [Stone Flower Blooms](https://open.spotify.com/artist/4xrufp4lvhwz4DwmPNUICF) | [Gene](https://open.spotify.com/album/7MKF8cJtx42bxaFcEe0MI8) | 3:19 | 2023-09-26 | 2023-10-04 |
 | [Gene](https://open.spotify.com/track/1lx8OEz37PCZmcOkSYDbNV) | [Stone Flower Blooms](https://open.spotify.com/artist/4xrufp4lvhwz4DwmPNUICF) | [Gene](https://open.spotify.com/album/4gc5c2BtolLfv1Fii7cIZf) | 3:19 | 2023-09-26 | 2023-09-28 |
 | [Genius Made by Publishers](https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [Zen\(ego apartment\)](https://open.spotify.com/artist/4AySGpV1qQ9Ut7fAaHAYAu) | [Fight for Innocence](https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u) | 4:19 | 2023-02-21 | 2023-04-13 |
-| [Getting Ready](https://open.spotify.com/track/5fCc8BqZJpPkVNZFXsMxDl) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Getting Ready](https://open.spotify.com/album/1jIMDnp4hR7eYZa1KzftSv) | 3:11 | 2023-12-07 |  |
+| [Getting Ready](https://open.spotify.com/track/5fCc8BqZJpPkVNZFXsMxDl) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Getting Ready](https://open.spotify.com/album/1jIMDnp4hR7eYZa1KzftSv) | 3:11 | 2023-12-07 | 2024-01-16 |
 | [Ghostyard](https://open.spotify.com/track/3oLqV1WFo9YqBKiOzEFUn9) | [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [Ghostyard](https://open.spotify.com/album/7r64o5DHZdPqhf2FoYTT5C) | 3:39 | 2023-01-17 | 2023-01-25 |
 | [GIRIGIRI GIRL](https://open.spotify.com/track/5rdmr4IyRZwudS44rQdxma) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [GIRIGIRI GIRL](https://open.spotify.com/album/6a2mJptpyDgHXF6OdaNWgt) | 3:25 | 2023-06-20 | 2023-07-05 |
 | [GIVE MINE](https://open.spotify.com/track/6s88qhU19OYs0MXb58LgwQ) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [GIVE MINE](https://open.spotify.com/album/5bhUSxacVDGCApH4qcc3SH) | 2:28 | 2023-06-20 | 2023-06-28 |
@@ -404,6 +404,7 @@
 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 | 2023-08-01 | 2024-01-01 |
 | [Magic hour](https://open.spotify.com/track/00431JgUFuCZGE9Ucjh4t5) | [miida and The Department](https://open.spotify.com/artist/6KueHYid6VoKcksdcIKqew), [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [Magic hour](https://open.spotify.com/album/5R0VUhPdk9DJkIZgVezqyn) | 4:26 | 2023-07-27 | 2023-08-30 |
 | [magic journey](https://open.spotify.com/track/5oCkzlqCyxgLyIVxuI9xl2) | [中川理沙](https://open.spotify.com/artist/4MyrgJ1rFn4ZxeKIH49jDO) | [magic journey](https://open.spotify.com/album/6dVpUHScn5FVA77pziO3Pq) | 4:03 | 2023-09-05 | 2023-09-20 |
+| [Magic sword](https://open.spotify.com/track/2SDG8TEEBGX3tPwSjqX5xG) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Magic sword](https://open.spotify.com/album/4CZuzm3N2YLi8m7RM4Ek0A) | 2:56 | 2024-01-11 |  |
 | [Magnetized](https://open.spotify.com/track/3dBn4h8S8UhY9npfamBOSD) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [Magnetized](https://open.spotify.com/album/2voD9UoVMxvAZwrK71UlWX) | 2:59 | 2023-11-29 | 2023-12-13 |
 | [MAJIC](https://open.spotify.com/track/07pGTcfzbu0jtG6aoAfKhM) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [INORI](https://open.spotify.com/album/3jDrLQ2fCCjBgF3IC5wP0D) | 4:01 | 2023-04-04 | 2023-05-24 |
 | [Makkuroi Mizu](https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 6:03 | 2023-06-02 | 2023-08-31 |

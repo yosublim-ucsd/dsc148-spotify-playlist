@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: FZMZ + icy",
-  "num_followers": 42912,
+  "num_followers": 42935,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjg0ZGEyYTQ2YjM2YjgzOTk2MTI0ZDRkNjhiODRiZjY4YTJlNjVk",
+  "snapshot_id": "MCxhYTVlY2JmYTNhYjg5NTUyMjFiN2QyYzMzMjdkNGE2MzlmNDA2MzMz",
   "tracks": [
     {
       "added_at": "2024-01-11 15:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194695,
+      "name": "Vandalize",
+      "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
         "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 89563,
       "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
       "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "CAVU",
-        "url": "https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8"
-      },
-      "artists": [
-        {
-          "name": "04 Limited Sazabys",
-          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "swim",
-      "url": "https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "ELLEGARDEN BEST 1999-2008",
-        "url": "https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK"
+        "name": "CAVU",
+        "url": "https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
         }
       ],
-      "duration_ms": 252453,
-      "name": "\u98a8\u306e\u65e5",
-      "url": "https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp"
+      "duration_ms": 207000,
+      "name": "swim",
+      "url": "https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -731,50 +731,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Luxury Disease",
-        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+        "name": "ELLEGARDEN BEST 1999-2008",
+        "url": "https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 194695,
-      "name": "Vandalize",
-      "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 226253,
-      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc"
+      "duration_ms": 252453,
+      "name": "\u98a8\u306e\u65e5",
+      "url": "https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -795,6 +763,38 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 226253,
+      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "SEEDS OF HOPE",
         "url": "https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 175386,
       "name": "KiLLiNG ME",
       "url": "https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "THE ETERNAL DOOM",
-        "url": "https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP"
-      },
-      "artists": [
-        {
-          "name": "Knosis",
-          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "\u5384\u707d",
-      "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -843,22 +827,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Missing",
-        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "The Autumn Song",
-      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "\u604b\u306e\u30e1\u30ac\u30e9\u30d0 / G'old\u301cen\u301cGuy (D\u00d7D remix) [feat. Misaki]",
         "url": "https://open.spotify.com/album/3zf6cTsrsFWo0YyBdc7IsU"
       },
@@ -871,6 +839,38 @@
       "duration_ms": 324599,
       "name": "\u604b\u306e\u30e1\u30ac\u30e9\u30d0",
       "url": "https://open.spotify.com/track/7cML1VOtaxsPH1EkktvVq6"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "THE ETERNAL DOOM",
+        "url": "https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP"
+      },
+      "artists": [
+        {
+          "name": "Knosis",
+          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "\u5384\u707d",
+      "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "The Autumn Song",
+      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "BUG",
-        "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
-      },
-      "artists": [
-        {
-          "name": "THE ORAL CIGARETTES",
-          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "BUG",
-      "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "ELEVEN FIRE CRACKERS",
         "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 226920,
       "name": "Salamander",
       "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "BUG",
+        "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "BUG",
+      "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "These Magic Words",
+        "url": "https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "duration_ms": 173279,
+      "name": "These Magic Words",
+      "url": "https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "10-feat",
         "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 236013,
       "name": "VIBES BY VIBES",
       "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "These Magic Words",
-        "url": "https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW"
-      },
-      "artists": [
-        {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
-        }
-      ],
-      "duration_ms": 173279,
-      "name": "These Magic Words",
-      "url": "https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "Inside Your Head",
+        "url": "https://open.spotify.com/album/7fS687f0QR3bCyjMgDATWd"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "Your Head",
+      "url": "https://open.spotify.com/track/3B4WNqMYRAfGmxlVMoilyh"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "800TRIBUTE-champloo is the BEST!!2-",
         "url": "https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Inside Your Head",
-        "url": "https://open.spotify.com/album/7fS687f0QR3bCyjMgDATWd"
+        "name": "\u30b3\u30ea\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
       },
       "artists": [
         {
-          "name": "Survive Said The Prophet",
-          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
         }
       ],
-      "duration_ms": 214146,
-      "name": "Your Head",
-      "url": "https://open.spotify.com/track/3B4WNqMYRAfGmxlVMoilyh"
+      "duration_ms": 168280,
+      "name": "SLAM",
+      "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "\u30b3\u30ea\u30f3\u30ba",
-        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+        "name": "Face My Fate",
+        "url": "https://open.spotify.com/album/40YpB1ShKLeVkWnvvUiyWC"
       },
       "artists": [
         {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+          "name": "WHISPER OUT LOUD",
+          "url": "https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP"
         }
       ],
-      "duration_ms": 168280,
-      "name": "SLAM",
-      "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
+      "duration_ms": 210922,
+      "name": "Face My Fate",
+      "url": "https://open.spotify.com/track/4lrmQhbKY9PSZ4DyepfHvj"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 233678,
       "name": "From Today",
       "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Face My Fate",
-        "url": "https://open.spotify.com/album/40YpB1ShKLeVkWnvvUiyWC"
-      },
-      "artists": [
-        {
-          "name": "WHISPER OUT LOUD",
-          "url": "https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP"
-        }
-      ],
-      "duration_ms": 210922,
-      "name": "Face My Fate",
-      "url": "https://open.spotify.com/track/4lrmQhbKY9PSZ4DyepfHvj"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "The Novembers",
-        "url": "https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO"
-      },
-      "artists": [
-        {
-          "name": "THE NOVEMBERS",
-          "url": "https://open.spotify.com/artist/06qEHODsluMWTP4MrQC9RF"
-        }
-      ],
-      "duration_ms": 207006,
-      "name": "Seaside",
-      "url": "https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Tank-top Flower for Friends",
         "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 132386,
       "name": "Blooming the Tank-top",
       "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "The Novembers",
+        "url": "https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO"
+      },
+      "artists": [
+        {
+          "name": "THE NOVEMBERS",
+          "url": "https://open.spotify.com/artist/06qEHODsluMWTP4MrQC9RF"
+        }
+      ],
+      "duration_ms": 207006,
+      "name": "Seaside",
+      "url": "https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "INSAINT",
-        "url": "https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        }
-      ],
-      "duration_ms": 150966,
-      "name": "Destruction Sisters",
-      "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "BLOOMING",
         "url": "https://open.spotify.com/album/09gk3EbwFcSfMvXupZRUXS"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "INSAINT",
+        "url": "https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "duration_ms": 150966,
+      "name": "Destruction Sisters",
+      "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "I'M A RAT",
         "url": "https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 124719,
       "name": "I'M A RAT",
       "url": "https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
-      },
-      "artists": [
-        {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
-        }
-      ],
-      "duration_ms": 131680,
-      "name": "Drain Water",
-      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "Drain Water",
+      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "My One Wish",
         "url": "https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 236125,
       "name": "\u6249\u306e\u5411\u3053\u3046",
       "url": "https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "AXIS",
+        "url": "https://open.spotify.com/album/3lVu6JZpO1wk2IBpU4j88Q"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "duration_ms": 224527,
+      "name": "Hunter or Prey",
+      "url": "https://open.spotify.com/track/1uDADMKPdOgZvthrIqvOyb"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "AXIS",
-        "url": "https://open.spotify.com/album/3lVu6JZpO1wk2IBpU4j88Q"
+        "name": "Dance & Scream",
+        "url": "https://open.spotify.com/album/16MNF4dTAOiVhgVtlFM1PP"
       },
       "artists": [
         {
-          "name": "NOISEMAKER",
-          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
         }
       ],
-      "duration_ms": 224527,
-      "name": "Hunter or Prey",
-      "url": "https://open.spotify.com/track/1uDADMKPdOgZvthrIqvOyb"
+      "duration_ms": 252093,
+      "name": "Love at First Sight",
+      "url": "https://open.spotify.com/track/3eXeHEeoFn0Fc9BkHuvQOS"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1587,22 +1603,6 @@
       "duration_ms": 251400,
       "name": "\u5bc2\u5bde -sekibaku-",
       "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Dance & Scream",
-        "url": "https://open.spotify.com/album/16MNF4dTAOiVhgVtlFM1PP"
-      },
-      "artists": [
-        {
-          "name": "Fear, and Loathing in Las Vegas",
-          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
-        }
-      ],
-      "duration_ms": 252093,
-      "name": "Love at First Sight",
-      "url": "https://open.spotify.com/track/3eXeHEeoFn0Fc9BkHuvQOS"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+        "name": "APEX",
+        "url": "https://open.spotify.com/album/14H4061l4bvaxzT8EcMVP2"
       },
       "artists": [
         {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
         }
       ],
-      "duration_ms": 203545,
-      "name": "Sad Song",
-      "url": "https://open.spotify.com/track/5exqWbhEoSxjx8S6YgVGF1"
+      "duration_ms": 227225,
+      "name": "APEX",
+      "url": "https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE"
     }
   ],
   "unique_name": "Loud Rock Japan",

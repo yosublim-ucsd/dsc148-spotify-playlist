@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Renan Samam
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,420 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,296 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 10 | [Férias da Metrópole](https://open.spotify.com/track/1Yh1BIQoPyH63SUxTGWs6U) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Duani](https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ) | [Férias da Metrópole](https://open.spotify.com/album/2zrVQ7cEqAMquEsilCU0U7) | 3:01 |
 | 11 | [INTENÇÃO](https://open.spotify.com/track/3BSrkgc0HEM0dod45jmqyN) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:46 |
 | 12 | [Só Era Nós](https://open.spotify.com/track/7nJ4wRW6vdHLR7FosmdeAT) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Só Era Nós](https://open.spotify.com/album/4xm2JGYOqNOYNkHdqGG7bf) | 3:14 |
-| 13 | [Luxo](https://open.spotify.com/track/3mawalxBZwZROIFufojlHr) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Força Suprema](https://open.spotify.com/artist/5aHBo7aTtbveyygEOFqOX3), [Gutto](https://open.spotify.com/artist/2xTmseecOdW1wBsVicsOmg) | [Luxo](https://open.spotify.com/album/3I7Z9qEgkliVmRA1thYens) | 4:42 |
+| 13 | [](https://open.spotify.com/track/3mawalxBZwZROIFufojlHr) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Luxo](https://open.spotify.com/album/3I7Z9qEgkliVmRA1thYens) | 0:00 |
 | 14 | [Criminal](https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:48 |
 | 15 | [Dissconectados](https://open.spotify.com/track/0wL1txEXtly3Fgb75ff60A) | [Nocivo Shomon](https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof) | [Dissconectados](https://open.spotify.com/album/0xUSeQaWPyxiaU6D7aiNzH) | 5:37 |
 | 16 | [Retro](https://open.spotify.com/track/2S75LoqFHoUsBVZDenWfgN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw) | [Retro](https://open.spotify.com/album/17P3Iw3nUMezj9sWEnwDYN) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Não Me Esqueça Ao Amanhecer](https://open.spotify.com/track/1ZWSw6I6tY3nvVA95tz7cD) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV) | [Não Me Esqueça Ao Amanhecer](https://open.spotify.com/album/4nRVw34TEkjk4ww425I3oq) | 2:26 |
 | 75 | [TAÇA](https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 3:06 |
 
-Snapshot ID: `MCwzN2UwYzllNDVlOTg5NmQ3MGY2ZGIxMGNmOWY3NzcwM2M1N2E0ODMz`
+Snapshot ID: `MCw5YzYxZmQ5YWQ3ZTkyZTE2NGJjNWNiNjg4N2UwMjgwY2FkYmQ2ZmFj`

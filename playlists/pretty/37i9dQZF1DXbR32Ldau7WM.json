@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now!  Cover: THE BAWDIES",
-  "num_followers": 276201,
+  "num_followers": 276289,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWUyYWNkNGZiZTczMzNhYTFkOWI5NDRiYTRmNGMwY2ZhNzVlNzlm",
+  "snapshot_id": "MCw2MmE2MTA0MWE4NTdkMzRiMGU5OGIxMzljMDM4NmQ2MjM0NTc3NTM3",
   "tracks": [
     {
       "added_at": "2024-01-14 22:48:27",
@@ -243,38 +243,6 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 193990,
-      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
-        "name": "Feeling of Unity",
-        "url": "https://open.spotify.com/album/6zf2m6QVhxsXrS0EoAR6Lg"
-      },
-      "artists": [
-        {
-          "name": "Fear, and Loathing in Las Vegas",
-          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "Let Me Hear",
-      "url": "https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
         "name": "FIXION",
         "url": "https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0"
       },
@@ -291,18 +259,18 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "\u5730\u7403\u5100 - Spinning Globe",
-        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
+        "name": "Feeling of Unity",
+        "url": "https://open.spotify.com/album/6zf2m6QVhxsXrS0EoAR6Lg"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
         }
       ],
-      "duration_ms": 273437,
-      "name": "\u5730\u7403\u5100 - Spinning Globe",
-      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
+      "duration_ms": 223626,
+      "name": "Let Me Hear",
+      "url": "https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -327,6 +295,38 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
+        "name": "\u5730\u7403\u5100 - Spinning Globe",
+        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 273437,
+      "name": "\u5730\u7403\u5100 - Spinning Globe",
+      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
+        "name": "SOUVENIR",
+        "url": "https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 264126,
+      "name": "SOUVENIR",
+      "url": "https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
         "name": "Sleep Walking Orchestra",
         "url": "https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl"
       },
@@ -343,18 +343,18 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "MESSAGE",
-        "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
+        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
       },
       "artists": [
         {
-          "name": "MONGOL800",
-          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 222640,
-      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35"
+      "duration_ms": 193990,
+      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -375,18 +375,18 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "\u4e00\u9014",
-        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
+        "name": "MESSAGE",
+        "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "MONGOL800",
+          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
         }
       ],
-      "duration_ms": 190606,
-      "name": "\u4e00\u9014",
-      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
+      "duration_ms": 222640,
+      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "SOUVENIR",
-        "url": "https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7"
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
       },
       "artists": [
         {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
         }
       ],
-      "duration_ms": 264126,
-      "name": "SOUVENIR",
-      "url": "https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ"
+      "duration_ms": 207368,
+      "name": "\u3068\u3082\u306b",
+      "url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "Everybody!!",
-        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+        "name": "\u4e00\u9014",
+        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
       },
       "artists": [
         {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 207368,
-      "name": "\u3068\u3082\u306b",
-      "url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3"
+      "duration_ms": 190606,
+      "name": "\u4e00\u9014",
+      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -531,6 +531,38 @@
       "duration_ms": 256665,
       "name": "\u9762\u5f71",
       "url": "https://open.spotify.com/track/5m7ZuRemZ0JDzVHpld0aXt"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
+        "name": "jupiter",
+        "url": "https://open.spotify.com/album/0onaVQoaiffqxbds3QDR1m"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "\u5929\u4f53\u89b3\u6e2c",
+      "url": "https://open.spotify.com/track/3hRRYgBeunE3PTmnzATTS0"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
+        "name": "No more cry",
+        "url": "https://open.spotify.com/album/6zpFA9iNwQHkV4xSXzIQEK"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kashimashi",
+          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "No more cry",
+      "url": "https://open.spotify.com/track/0pxhbWaseLjZbcFCKpMrn3"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -555,38 +587,6 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "No more cry",
-        "url": "https://open.spotify.com/album/6zpFA9iNwQHkV4xSXzIQEK"
-      },
-      "artists": [
-        {
-          "name": "Elephant Kashimashi",
-          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "No more cry",
-      "url": "https://open.spotify.com/track/0pxhbWaseLjZbcFCKpMrn3"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
-        "name": "\u3055\u3059\u3089\u3044",
-        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
-      },
-      "artists": [
-        {
-          "name": "Tamio Okuda",
-          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "\u3055\u3059\u3089\u3044",
-      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
         "name": "GEAR BLUES",
         "url": "https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ"
       },
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "jupiter",
-        "url": "https://open.spotify.com/album/0onaVQoaiffqxbds3QDR1m"
+        "name": "\u30bd\u30eb\u30d5\u30a1",
+        "url": "https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04"
       },
       "artists": [
         {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
         }
       ],
-      "duration_ms": 263600,
-      "name": "\u5929\u4f53\u89b3\u6e2c",
-      "url": "https://open.spotify.com/track/3hRRYgBeunE3PTmnzATTS0"
+      "duration_ms": 225493,
+      "name": "\u30ea\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "\u30bd\u30eb\u30d5\u30a1",
-        "url": "https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04"
+        "name": "\u3055\u3059\u3089\u3044",
+        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
       },
       "artists": [
         {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+          "name": "Tamio Okuda",
+          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
         }
       ],
-      "duration_ms": 225493,
-      "name": "\u30ea\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ"
+      "duration_ms": 206200,
+      "name": "\u3055\u3059\u3089\u3044",
+      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
-        "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
-      },
-      "artists": [
-        {
-          "name": "MAXIMUM THE HORMONE",
-          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
-        }
-      ],
-      "duration_ms": 89563,
-      "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
-      "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
         "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
         "url": "https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "Re\u65b9\u7a0b\u5f0f",
-        "url": "https://open.spotify.com/album/26zVnYZBcPIBYDXv2Id7w7"
+        "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
+        "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
       },
       "artists": [
         {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
         }
       ],
-      "duration_ms": 252385,
-      "name": "Re\u65b9\u7a0b\u5f0f",
-      "url": "https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH"
+      "duration_ms": 89563,
+      "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
+      "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -779,38 +763,6 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "\u511a\u304f\u306a\u3044",
-        "url": "https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 310560,
-      "name": "\u511a\u304f\u306a\u3044",
-      "url": "https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
-        "name": "THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",
-        "url": "https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "Devil in Your Heart",
-      "url": "https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
         "name": "Everybody!!",
         "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
       },
@@ -823,6 +775,38 @@
       "duration_ms": 219530,
       "name": "\u30b7\u30b0\u30ca\u30eb",
       "url": "https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
+        "name": "Re\u65b9\u7a0b\u5f0f",
+        "url": "https://open.spotify.com/album/26zVnYZBcPIBYDXv2Id7w7"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 252385,
+      "name": "Re\u65b9\u7a0b\u5f0f",
+      "url": "https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
+        "name": "\u511a\u304f\u306a\u3044",
+        "url": "https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 310560,
+      "name": "\u511a\u304f\u306a\u3044",
+      "url": "https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
+        "name": "THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",
+        "url": "https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "Devil in Your Heart",
+      "url": "https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
         "name": "\u30b9\u30dd\u30fc\u30c4",
         "url": "https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU"
       },
@@ -855,86 +855,6 @@
       "duration_ms": 180000,
       "name": "\u80fd\u52d5\u7684\u4e09\u5206\u9593",
       "url": "https://open.spotify.com/track/4veOvrYiK224LWEqHX39vv"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
-        "name": "BRING YOUR BOARD!!",
-        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
-      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
-        "name": "\u3072\u305f\u3080\u304d",
-        "url": "https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "\u3072\u305f\u3080\u304d",
-      "url": "https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
-        "name": "Kisses and Kills",
-        "url": "https://open.spotify.com/album/3pepTeuEGPpmGF3oOwboo0"
-      },
-      "artists": [
-        {
-          "name": "THE ORAL CIGARETTES",
-          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
-        }
-      ],
-      "duration_ms": 252632,
-      "name": "BLACK MEMORY",
-      "url": "https://open.spotify.com/track/5XyC4vVIFnMvpnh5StApxw"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
-        "name": "\u30ef\u30fc\u30eb\u30c9 \u30ef\u30fc\u30eb\u30c9 \u30ef\u30fc\u30eb\u30c9",
-        "url": "https://open.spotify.com/album/6ZcU0MGlWn9oc4dEhY1TEI"
-      },
-      "artists": [
-        {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "\u30a2\u30d5\u30bf\u30fc\u30c0\u30fc\u30af",
-      "url": "https://open.spotify.com/track/6XsJTpZwPKMcG8QK8k14Z6"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB"
-      },
-      "artists": [
-        {
-          "name": "Creep Hyp",
-          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
-        }
-      ],
-      "duration_ms": 201599,
-      "name": "I",
-      "url": "https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -955,18 +875,66 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "\u3044\u3051\u306a\u3044fool logic",
-        "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
+        "name": "\u3072\u305f\u3080\u304d",
+        "url": "https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq"
       },
       "artists": [
         {
-          "name": "UNISON SQUARE GARDEN",
-          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
         }
       ],
-      "duration_ms": 255000,
-      "name": "\u3044\u3051\u306a\u3044fool logic",
-      "url": "https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo"
+      "duration_ms": 250960,
+      "name": "\u3072\u305f\u3080\u304d",
+      "url": "https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
+        "name": "BRING YOUR BOARD!!",
+        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
+      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
+        "name": "\u30ef\u30fc\u30eb\u30c9 \u30ef\u30fc\u30eb\u30c9 \u30ef\u30fc\u30eb\u30c9",
+        "url": "https://open.spotify.com/album/6ZcU0MGlWn9oc4dEhY1TEI"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "\u30a2\u30d5\u30bf\u30fc\u30c0\u30fc\u30af",
+      "url": "https://open.spotify.com/track/6XsJTpZwPKMcG8QK8k14Z6"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
+        "name": "Kisses and Kills",
+        "url": "https://open.spotify.com/album/3pepTeuEGPpmGF3oOwboo0"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "duration_ms": 252632,
+      "name": "BLACK MEMORY",
+      "url": "https://open.spotify.com/track/5XyC4vVIFnMvpnh5StApxw"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -987,34 +955,34 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ"
+        "name": "I",
+        "url": "https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB"
       },
       "artists": [
         {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
         }
       ],
-      "duration_ms": 240533,
-      "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg"
+      "duration_ms": 201599,
+      "name": "I",
+      "url": "https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg"
     },
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "\u72d0\u72ec\u306e\u624d\u671b",
-        "url": "https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5"
+        "name": "\u3044\u3051\u306a\u3044fool logic",
+        "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
       },
       "artists": [
         {
-          "name": "Ling tosite sigure",
-          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
         }
       ],
-      "duration_ms": 212950,
-      "name": "\u72d0\u72ec\u306e\u624d\u671b",
-      "url": "https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp"
+      "duration_ms": 255000,
+      "name": "\u3044\u3051\u306a\u3044fool logic",
+      "url": "https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -1031,6 +999,54 @@
       "duration_ms": 232706,
       "name": "\u30d0\u30a4\u30aa\u30ec\u30f3\u30b9",
       "url": "https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
+        "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
+        "name": "\u6559\u80b2",
+        "url": "https://open.spotify.com/album/0WhNxc2V5kYKaPevYHVT5v"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Incidents",
+          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "\u7fa4\u9752\u65e5\u548c",
+      "url": "https://open.spotify.com/track/1oWlUSljPUqKwbvEl0C3zE"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
+        "name": "\u72d0\u72ec\u306e\u624d\u671b",
+        "url": "https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5"
+      },
+      "artists": [
+        {
+          "name": "Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+        }
+      ],
+      "duration_ms": 212950,
+      "name": "\u72d0\u72ec\u306e\u624d\u671b",
+      "url": "https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -1115,6 +1131,22 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 260079,
+      "name": "VICTOSPIN",
+      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
         "name": "cult grass stars",
         "url": "https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n"
       },
@@ -1127,22 +1159,6 @@
       "duration_ms": 346866,
       "name": "\u4e16\u754c\u306e\u7d42\u308f\u308a - Primitive Version",
       "url": "https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
-        "name": "\u6559\u80b2",
-        "url": "https://open.spotify.com/album/0WhNxc2V5kYKaPevYHVT5v"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Incidents",
-          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "\u7fa4\u9752\u65e5\u548c",
-      "url": "https://open.spotify.com/track/1oWlUSljPUqKwbvEl0C3zE"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -1163,6 +1179,22 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
+        "name": "\u5a2f\u697d(\u30d0\u30e9\u30a8\u30c6\u30a3)",
+        "url": "https://open.spotify.com/album/3lppsAthiV8VkNYwTPJBRp"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Incidents",
+          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "\u30ad\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
         "name": "DocumentaLy",
         "url": "https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb"
       },
@@ -1175,22 +1207,6 @@
       "duration_ms": 246759,
       "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
-        "name": "ENIGMASIS",
-        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 260079,
-      "name": "VICTOSPIN",
-      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
     },
     {
       "added_at": "2024-01-14 22:48:27",
@@ -1243,38 +1259,6 @@
     {
       "added_at": "2024-01-14 22:48:27",
       "album": {
-        "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
-        "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "\u7a81\u7834\u53e3",
-      "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
-        "name": "\u5a2f\u697d(\u30d0\u30e9\u30a8\u30c6\u30a3)",
-        "url": "https://open.spotify.com/album/3lppsAthiV8VkNYwTPJBRp"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Incidents",
-          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "\u30ad\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS"
-    },
-    {
-      "added_at": "2024-01-14 22:48:27",
-      "album": {
         "name": "GET BACK",
         "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 120200,
       "name": "STAY GOLD",
       "url": "https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6"
+    },
+    {
+      "added_at": "2024-01-14 22:48:27",
+      "album": {
+        "name": "10-FEET\u5165\u308a\u53e3\u306e10\u66f2 2",
+        "url": "https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 203830,
+      "name": "\u30cf\u30ed\u30fc\u30d5\u30a3\u30af\u30b5\u30fc",
+      "url": "https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh"
     }
   ],
   "unique_name": "Big in Japan",

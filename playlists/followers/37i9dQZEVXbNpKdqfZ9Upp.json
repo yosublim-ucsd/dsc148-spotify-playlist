@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 8292,
+  "2024-01-16": 8285,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -5494,24 +5494,6 @@
     },
     {
       "album": {
-        "name": "Christell",
-        "url": "https://open.spotify.com/album/37hWotp4LwiFxD9hPOe8tC"
-      },
-      "artists": [
-        {
-          "name": "Christell",
-          "url": "https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V"
-        }
-      ],
-      "date_added": "2024-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 226069,
-      "name": "Chipi Chipi Chapa Cahapa Dubidubidu",
-      "url": "https://open.spotify.com/track/0tdtQptse7jupJyrkIIFiA"
-    },
-    {
-      "album": {
         "name": "Chipi Chipi Chapa Chapa",
         "url": "https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH"
       },
@@ -5539,6 +5521,24 @@
       "duration_ms": 226324,
       "name": "Chipi Chipi Chapa Chapa",
       "url": "https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5"
+    },
+    {
+      "album": {
+        "name": "Christell",
+        "url": "https://open.spotify.com/album/37hWotp4LwiFxD9hPOe8tC"
+      },
+      "artists": [
+        {
+          "name": "Christell",
+          "url": "https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226069,
+      "name": "Chipi Chipi Chapa Chapa Dubidubidu",
+      "url": "https://open.spotify.com/track/0tdtQptse7jupJyrkIIFiA"
     },
     {
       "album": {
@@ -9567,7 +9567,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 196832,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
@@ -14215,7 +14215,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 250700,
       "name": "K.D.P. (feat. YOVNGCHIMI)",
       "url": "https://open.spotify.com/track/6woLMre9nBApTlIobN5Py5"
@@ -14999,7 +14999,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 192240,
       "name": "La Mojave",
       "url": "https://open.spotify.com/track/76Wmwoc4PZg8nwmCA6cPnc"
@@ -21031,7 +21031,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 208213,
       "name": "Ojitos de Miel",
       "url": "https://open.spotify.com/track/2bwEcqbpIclNBc0y9NAsBZ"

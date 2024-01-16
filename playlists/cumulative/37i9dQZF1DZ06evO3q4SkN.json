@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 84650,
       "name": "Arriving to Ginny's Farm",
       "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 123946,
       "name": "Autumn Becomes Winter",
       "url": "https://open.spotify.com/track/2uYcCSsJp4gHgWogMRdDpM"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 76680,
       "name": "Mr. Stubbles",
       "url": "https://open.spotify.com/track/7ayPTn7VfMpZhB1WZEC86V"
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 122626,
       "name": "The Legend Of The Tiger",
       "url": "https://open.spotify.com/track/5efJajWJiHRmENqLdHxWkI"
@@ -1738,6 +1738,24 @@
       "duration_ms": 73853,
       "name": "Three Days Left in May",
       "url": "https://open.spotify.com/track/3ILlJIKgB87Un6dsKciJla"
+    },
+    {
+      "album": {
+        "name": "Little (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97826,
+      "name": "To The One Yes",
+      "url": "https://open.spotify.com/track/5glgjf8qPwbnHrKAiuzLXT"
     },
     {
       "album": {
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 35842,
       "name": "Wagon Discovery",
       "url": "https://open.spotify.com/track/1PXbbMQvEhmVLRrvESSeA6"

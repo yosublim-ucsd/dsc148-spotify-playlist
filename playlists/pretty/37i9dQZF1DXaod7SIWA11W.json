@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a> ",
-  "num_followers": 67038,
+  "num_followers": 67096,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjM2OWM1MjYxNGViOTQxNjlkNTlkNDBmY2E0YzYyYjY1MzFkYmE3",
+  "snapshot_id": "MCwxOWRiOTJmOTRhZTY5ZDg4MjI4NjAwMjlmNDJlZmUzMmI1M2VmZWRm",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Any Attack",
-        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 113051,
-      "name": "Any Attack",
-      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Nobody's Perfect",
         "url": "https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ"
       },
@@ -311,6 +291,22 @@
       "duration_ms": 189960,
       "name": "Third Day (feat. Ty Brasel)",
       "url": "https://open.spotify.com/track/585LHTE4ugzJoCqk6bmkjV"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "My Tribe (Extended Edition)",
+        "url": "https://open.spotify.com/album/4xwLMnQG1UoZ4uP6DN8gG8"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 163457,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/5ISFFwzDlnzcFrvhp0egaf"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -351,18 +347,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "My Tribe (Extended Edition)",
-        "url": "https://open.spotify.com/album/4xwLMnQG1UoZ4uP6DN8gG8"
+        "name": "Any Attack",
+        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
         }
       ],
-      "duration_ms": 163457,
-      "name": "Good Good",
-      "url": "https://open.spotify.com/track/5ISFFwzDlnzcFrvhp0egaf"
+      "duration_ms": 113051,
+      "name": "Any Attack",
+      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/0HAUdLbzMP3GnYzCww1g4C"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 211499,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/5GVgzaPol7z9Z36R6tACoG"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "When I Pray",
         "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
       },
@@ -447,18 +463,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/0HAUdLbzMP3GnYzCww1g4C"
+        "name": "Try Love",
+        "url": "https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW"
       },
       "artists": [
         {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 211499,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/5GVgzaPol7z9Z36R6tACoG"
+      "duration_ms": 272593,
+      "name": "Try Love",
+      "url": "https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -523,22 +539,6 @@
       "duration_ms": 556673,
       "name": "More Than Able (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Try Love",
-        "url": "https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 272593,
-      "name": "Try Love",
-      "url": "https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 195404,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Back To Life (Studio Version)",
         "url": "https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "High Noon",
         "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Keeper Of My Soul",
-        "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
-      },
-      "artists": [
-        {
-          "name": "Earnest Pugh",
-          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "Keeper Of My Soul",
-      "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Matthew 6:33",
         "url": "https://open.spotify.com/album/7ChiyCA6LkJQiQY4IsovDb"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 182019,
       "name": "Matthew 6:33",
       "url": "https://open.spotify.com/track/5mARaySmtSd60C7UHgQvuk"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Keeper Of My Soul",
+        "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
+      },
+      "artists": [
+        {
+          "name": "Earnest Pugh",
+          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "Keeper Of My Soul",
+      "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 185382,
+      "name": "Blak Sheep Freestyle",
+      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "My Worship",
         "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
       },
@@ -1335,38 +1351,6 @@
       "duration_ms": 187118,
       "name": "RIVALS",
       "url": "https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 185382,
-      "name": "Blak Sheep Freestyle",
-      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Blues and Roses",
-        "url": "https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 145725,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/0QvZBcImFtSlNrWgUQeChr"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Blues and Roses",
+        "url": "https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 145725,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/0QvZBcImFtSlNrWgUQeChr"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Zion (Gbe)",
         "url": "https://open.spotify.com/album/2P685NkylY7hPjlsD30EBZ"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Clouds II",
-        "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 235275,
-      "name": "Clouds II",
-      "url": "https://open.spotify.com/track/4cWaqqvy5itUbOHj6C3AyW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Imprint (Live in Memphis)",
         "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 570594,
       "name": "You've Been Good To Me - Live",
       "url": "https://open.spotify.com/track/0GFG2Tr60pn7NHRAsBIe8b"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Clouds II",
+        "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 235275,
+      "name": "Clouds II",
+      "url": "https://open.spotify.com/track/4cWaqqvy5itUbOHj6C3AyW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1715,38 +1715,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "El Shaddai",
-        "url": "https://open.spotify.com/album/5BJf6P5PmlCLriuQDmJu2i"
-      },
-      "artists": [
-        {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "El Shaddai",
-      "url": "https://open.spotify.com/track/2f3lgzTjKA7gMfzaokghVy"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Closer Than You Think",
-        "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 156384,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Lover of My Soul",
         "url": "https://open.spotify.com/album/2S3qRBiuvL9pD5oHPvobHd"
       },
@@ -1779,6 +1747,38 @@
       "duration_ms": 236667,
       "name": "Lift Me",
       "url": "https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "El Shaddai",
+        "url": "https://open.spotify.com/album/5BJf6P5PmlCLriuQDmJu2i"
+      },
+      "artists": [
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "El Shaddai",
+      "url": "https://open.spotify.com/track/2f3lgzTjKA7gMfzaokghVy"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Closer Than You Think",
+        "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 156384,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU"
     },
     {
       "added_at": "2023-12-15 05:00:00",

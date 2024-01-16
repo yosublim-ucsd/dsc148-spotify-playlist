@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin w/ tour mates <a href=\"https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74?si=c1be7e2940d844f0\">Liz Phair</a> and <a href=\"https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij?si=YxaujGp8SUiTnZgRi5epLw\">Blondshell</a>, who highlight some of their favorites.",
-  "num_followers": 199832,
+  "num_followers": 199946,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWE1MTJmNDMzNjRiNDFkMTU4NWVmYTAxOWU3NmNhNzg0NTk0MTU4",
+  "snapshot_id": "MCw2Mzk3YmU1YmUxN2U5NWIxNDY5ZmZmN2E3YTAwYWI5NWJlMmVlYjA2",
   "tracks": [
     {
       "added_at": "2023-11-27 17:30:04",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+    },
+    {
+      "added_at": "2023-11-27 17:30:04",
+      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+      "duration_ms": 268426,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
     },
     {
       "added_at": "2023-11-27 17:30:04",
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 268426,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
-    },
-    {
-      "added_at": "2023-11-27 17:30:04",
-      "album": {
         "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 308626,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
-    },
-    {
-      "added_at": "2023-11-27 17:30:04",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
     },
     {
       "added_at": "2023-11-27 17:30:04",
@@ -983,6 +967,22 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 290706,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
+    },
+    {
+      "added_at": "2023-11-27 17:30:04",
+      "album": {
         "name": "Brighten the Corners: Nicene Creedence Ed.",
         "url": "https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 206946,
       "name": "Harness Your Hopes - B-side",
       "url": "https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX"
+    },
+    {
+      "added_at": "2023-11-27 17:30:04",
+      "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
     },
     {
       "added_at": "2023-11-27 17:30:04",
@@ -1015,22 +1031,6 @@
       "duration_ms": 330773,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
-    },
-    {
-      "added_at": "2023-11-27 17:30:04",
-      "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Shiny Happy People",
-      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
     },
     {
       "added_at": "2023-11-27 17:30:04",

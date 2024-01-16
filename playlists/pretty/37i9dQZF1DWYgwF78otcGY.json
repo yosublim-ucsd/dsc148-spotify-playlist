@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGY0MDY2MTY0M2YyNDBiMTZiMzc2MzZjYzY4MzA0YTJmMGNkYzE3",
+  "snapshot_id": "MCxlMmI0Y2ZhMWM4MzlhNzc1MDc1ZGZhYzFiOTdkYTdmMTZhMDM0Mzc5",
   "tracks": [
     {
       "added_at": "2023-12-01 11:30:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Euphoria (The Alternative Mixes)",
-        "url": "https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Euphoria - Single Version",
-      "url": "https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 183397,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Euphoria (The Alternative Mixes)",
+        "url": "https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Eloise",
-        "url": "https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR"
-      },
-      "artists": [
-        {
-          "name": "Arvingarna",
-          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Eloise",
-      "url": "https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "Where You Are (S\u00e1ve\u017ean)",
         "url": "https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 176960,
       "name": "Where You Are (S\u00e1ve\u017ean)",
       "url": "https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
-      },
-      "artists": [
-        {
-          "name": "Eric Saade",
-          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Manboy",
-      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "Dolly Styles b\u00e4sta",
         "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 171340,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
+      },
+      "artists": [
+        {
+          "name": "Eric Saade",
+          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Manboy",
+      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
+        "name": "Rhythm Of My Show",
+        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Rhythm Of My Show",
+      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
         "name": "I Can't Go On",
         "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 184506,
       "name": "Kizunguzungu",
       "url": "https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
-        "name": "Rhythm Of My Show",
-        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
-      },
-      "artists": [
-        {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Rhythm Of My Show",
-      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Greatest of the Best",
-        "url": "https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo"
-      },
-      "artists": [
-        {
-          "name": "\u00d6sten Med Resten",
-          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Hon Kommer Med Solsken",
-      "url": "https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "All My Life (Where Have You Been)",
         "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 172306,
       "name": "All My Life (Where Have You Been)",
       "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Greatest of the Best",
+        "url": "https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo"
+      },
+      "artists": [
+        {
+          "name": "\u00d6sten Med Resten",
+          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Hon Kommer Med Solsken",
+      "url": "https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
       },
       "artists": [
         {
-          "name": "Anton Ewald",
-          "url": "https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb"
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
         }
       ],
-      "duration_ms": 182106,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
     }
   ],
   "unique_name": "Mellofest! ",

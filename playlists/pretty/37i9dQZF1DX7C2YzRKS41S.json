@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 109656,
+  "num_followers": 109719,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2M3OGJiMTAzNmE5N2Q2YmU5ZmM2MzBhNjllOWY2ZTRlNGE1ZDYw",
+  "snapshot_id": "MCw0ZjEzNDk5YTVlM2ZlNjc5N2QyZjg4ZWE3MjEzY2E1NGUxYmMzY2Jm",
   "tracks": [
     {
       "added_at": "2023-12-22 15:53:28",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-12-22 15:53:28",
       "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2023-12-22 15:53:28",
+      "album": {
         "name": "Northern Attitude (with Hozier)",
         "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
       },
@@ -83,22 +99,6 @@
     {
       "added_at": "2023-12-22 15:53:28",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2023-12-22 15:53:28",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-12-22 15:53:28",
       "album": {
-        "name": "Now And Then",
-        "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Now And Then",
-      "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
-    },
-    {
-      "added_at": "2023-12-22 15:53:28",
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2023-12-22 15:53:28",
+      "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Now And Then",
+      "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
     },
     {
       "added_at": "2023-12-22 15:53:28",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-12-22 15:53:28",
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185486,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+    },
+    {
+      "added_at": "2023-12-22 15:53:28",
+      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 214933,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
-    },
-    {
-      "added_at": "2023-12-22 15:53:28",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 185486,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
     },
     {
       "added_at": "2023-12-22 15:53:28",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-12-22 15:53:28",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Featherstone",
-      "url": "https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6"
-    },
-    {
-      "added_at": "2023-12-22 15:53:28",
-      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 197976,
       "name": "American Town",
       "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
+    },
+    {
+      "added_at": "2023-12-22 15:53:28",
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Featherstone",
+      "url": "https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6"
     },
     {
       "added_at": "2023-12-22 15:53:28",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-12-22 15:53:28",
       "album": {
+        "name": "cardigan (cabin in candlelight version)",
+        "url": "https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "cardigan - cabin in candlelight version",
+      "url": "https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj"
+    },
+    {
+      "added_at": "2023-12-22 15:53:28",
+      "album": {
         "name": "Partilhar",
         "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 262552,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2023-12-22 15:53:28",
-      "album": {
-        "name": "cardigan (cabin in candlelight version)",
-        "url": "https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "cardigan - cabin in candlelight version",
-      "url": "https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj"
     },
     {
       "added_at": "2023-12-22 15:53:28",
@@ -579,38 +579,6 @@
     {
       "added_at": "2023-12-22 15:53:28",
       "album": {
-        "name": "Trem-Bala",
-        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 180319,
-      "name": "Trem-Bala",
-      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
-    },
-    {
-      "added_at": "2023-12-22 15:53:28",
-      "album": {
-        "name": "Girassol",
-        "url": "https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda"
-      },
-      "artists": [
-        {
-          "name": "Kell Smith",
-          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Era uma Vez",
-      "url": "https://open.spotify.com/track/16v1xv9QCx1kGXl6fJvTIz"
-    },
-    {
-      "added_at": "2023-12-22 15:53:28",
-      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
       },
@@ -631,18 +599,18 @@
     {
       "added_at": "2023-12-22 15:53:28",
       "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+        "name": "Trem-Bala",
+        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
       },
       "artists": [
         {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
         }
       ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
+      "duration_ms": 180319,
+      "name": "Trem-Bala",
+      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
     },
     {
       "added_at": "2023-12-22 15:53:28",
@@ -659,6 +627,38 @@
       "duration_ms": 172059,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG"
+    },
+    {
+      "added_at": "2023-12-22 15:53:28",
+      "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda"
+      },
+      "artists": [
+        {
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Era uma Vez",
+      "url": "https://open.spotify.com/track/16v1xv9QCx1kGXl6fJvTIz"
+    },
+    {
+      "added_at": "2023-12-22 15:53:28",
+      "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
     },
     {
       "added_at": "2023-12-22 15:53:28",

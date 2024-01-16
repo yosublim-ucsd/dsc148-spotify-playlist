@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "na sua opini\u00e3o, qual foi a trend do ano????",
+  "description": "pi po po po ro po ",
   "name": "faz a trend",
   "tracks": [
     {
@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 209520,
       "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
       "url": "https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1"
@@ -3962,7 +3962,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 137872,
       "name": "Google da Minha Vida",
       "url": "https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4"
@@ -5420,7 +5420,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 235258,
       "name": "Mant\u00e9m",
       "url": "https://open.spotify.com/track/3E25bifWwU2oHNWy3I9d2m"
@@ -5722,6 +5722,24 @@
       "duration_ms": 189810,
       "name": "Melhor Vers\u00e3o",
       "url": "https://open.spotify.com/track/0Xyclx1QPOCp7YX9xbdgUo"
+    },
+    {
+      "album": {
+        "name": "V\u00f4o de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt"
+      },
+      "artists": [
+        {
+          "name": "Ritchie",
+          "url": "https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281293,
+      "name": "Menina Veneno",
+      "url": "https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP"
     },
     {
       "album": {
@@ -8417,6 +8435,76 @@
     },
     {
       "album": {
+        "name": "Set Dj Gm 6.0",
+        "url": "https://open.spotify.com/album/3PJWTYXjCCatdpiSKNUY9N"
+      },
+      "artists": [
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 624000,
+      "name": "Set Dj Gm 6.0",
+      "url": "https://open.spotify.com/track/4WXVqLSRHF4ypdiBngbcqU"
+    },
+    {
+      "album": {
         "name": "SET MC Kauan",
         "url": "https://open.spotify.com/album/7xIgtgCJ5Hvx6QLRiKgJcn"
       },
@@ -10616,6 +10704,24 @@
       "duration_ms": 142151,
       "name": "Zona De Perigo",
       "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"
+    },
+    {
+      "album": {
+        "name": "\u00c9 o Lelek do Lek",
+        "url": "https://open.spotify.com/album/4mUrsho7YX5Guo4w9yxmqh"
+      },
+      "artists": [
+        {
+          "name": "kocheMMM",
+          "url": "https://open.spotify.com/artist/0TpUsCTAGi1w489DQ2GvHn"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154309,
+      "name": "\u00c9 o Lelek do Lek",
+      "url": "https://open.spotify.com/track/4dDg1hmquumZDJJJ0ynKbk"
     },
     {
       "album": {

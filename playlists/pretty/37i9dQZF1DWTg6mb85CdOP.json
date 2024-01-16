@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 16, 17 y 18 de Febrero en Las Estacas para celebrar juntos! Compra tus entradas <a href=\"https://bahidora.com//\"> aqu\u00ed</a>. ",
-  "num_followers": 12522,
+  "num_followers": 12538,
   "original_name": "Bahidor\u00e1 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDI1YzU0NDQ3MGM1Zjc4OTRjOTk3N2VkNzg1OWYzMDU1Y2NiNzQ1",
+  "snapshot_id": "MCxjZWUzMDYwN2U3MWM0ZTExYjdmODI5ZGIwOGRhYjZjOTAxNTVlMWU3",
   "tracks": [
     {
       "added_at": "2023-11-01 04:13:15",
@@ -151,50 +151,6 @@
     {
       "added_at": "2023-11-01 04:13:15",
       "album": {
-        "name": "Yasuke",
-        "url": "https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 133520,
-      "name": "Crust",
-      "url": "https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa"
-    },
-    {
-      "added_at": "2023-11-01 04:13:15",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "VOLVER",
-      "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
-    },
-    {
-      "added_at": "2023-11-01 04:13:15",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
       },
@@ -207,6 +163,22 @@
       "duration_ms": 151214,
       "name": "La Tortura - Spotify Singles",
       "url": "https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02"
+    },
+    {
+      "added_at": "2023-11-01 04:13:15",
+      "album": {
+        "name": "Yasuke",
+        "url": "https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 133520,
+      "name": "Crust",
+      "url": "https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa"
     },
     {
       "added_at": "2023-11-01 04:13:15",
@@ -247,6 +219,50 @@
     {
       "added_at": "2023-11-01 04:13:15",
       "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Sonido Amazonico",
+      "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
+    },
+    {
+      "added_at": "2023-11-01 04:13:15",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "VOLVER",
+      "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
+    },
+    {
+      "added_at": "2023-11-01 04:13:15",
+      "album": {
         "name": "Yaeji",
         "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 220866,
       "name": "P\u00e1jaro Cenzontle",
       "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
-    },
-    {
-      "added_at": "2023-11-01 04:13:15",
-      "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Sonido Amazonico",
-      "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
     },
     {
       "added_at": "2023-11-01 04:13:15",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-11-01 04:13:15",
       "album": {
-        "name": "Sue\u00f1o",
-        "url": "https://open.spotify.com/album/6YSqR3KcyQHjZ5WY8kj6tR"
-      },
-      "artists": [
-        {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        },
-        {
-          "name": "Kev Koko",
-          "url": "https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "Sue\u00f1o",
-      "url": "https://open.spotify.com/track/7dIvphaNMRC1f8hre6PSWw"
-    },
-    {
-      "added_at": "2023-11-01 04:13:15",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 215412,
       "name": "si preguntas por mi",
       "url": "https://open.spotify.com/track/5Uoni5ULnC7Aq69DsRR10G"
+    },
+    {
+      "added_at": "2023-11-01 04:13:15",
+      "album": {
+        "name": "Sue\u00f1o",
+        "url": "https://open.spotify.com/album/6YSqR3KcyQHjZ5WY8kj6tR"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        },
+        {
+          "name": "Kev Koko",
+          "url": "https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "Sue\u00f1o",
+      "url": "https://open.spotify.com/track/7dIvphaNMRC1f8hre6PSWw"
     },
     {
       "added_at": "2023-11-01 04:13:15",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-11-01 04:13:15",
       "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 154361,
+      "name": "REPROGRAMAR",
+      "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
+    },
+    {
+      "added_at": "2023-11-01 04:13:15",
+      "album": {
         "name": "Las Chicas Super Perreadoras",
         "url": "https://open.spotify.com/album/1VIUatLFSfUN9b6x9GxpVU"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 187197,
       "name": "Las Chicas Super Perreadoras",
       "url": "https://open.spotify.com/track/5TVqlN1aXHAckyO794xuSv"
-    },
-    {
-      "added_at": "2023-11-01 04:13:15",
-      "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 154361,
-      "name": "REPROGRAMAR",
-      "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
     },
     {
       "added_at": "2023-11-01 04:13:15",
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-11-01 04:13:15",
       "album": {
+        "name": "Chimborazo",
+        "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        },
+        {
+          "name": "Felipe Orjuela",
+          "url": "https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs"
+        }
+      ],
+      "duration_ms": 210032,
+      "name": "To\u00f1o y el Demonio",
+      "url": "https://open.spotify.com/track/723A2ZVGFrVU9nOiZATcRY"
+    },
+    {
+      "added_at": "2023-11-01 04:13:15",
+      "album": {
         "name": "Homecore! Miami All-Stars",
         "url": "https://open.spotify.com/album/66XFndmwDXr8Eu6llRCzSd"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 145714,
       "name": "Phonkay",
       "url": "https://open.spotify.com/track/7Gi8tO48Xe7IcgiVXTqs1x"
-    },
-    {
-      "added_at": "2023-11-01 04:13:15",
-      "album": {
-        "name": "Chimborazo",
-        "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        },
-        {
-          "name": "Felipe Orjuela",
-          "url": "https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs"
-        }
-      ],
-      "duration_ms": 210032,
-      "name": "To\u00f1o y el Demonio",
-      "url": "https://open.spotify.com/track/723A2ZVGFrVU9nOiZATcRY"
     },
     {
       "added_at": "2023-11-01 04:13:15",

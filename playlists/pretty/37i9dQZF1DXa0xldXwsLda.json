@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Buen provecho!",
-  "num_followers": 230999,
+  "num_followers": 230949,
   "original_name": "Hora de la Comida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjQ2YTAwZmEyODE5NzBmYWY1YmUyMGVjNWE0NTRmZGM2MDFkZDQx",
+  "snapshot_id": "MCwxMGRjMDQ2MjFiYWY2Y2I5ODJmZjM3MGJkN2ViNzJmYTA1NzA2Zjhj",
   "tracks": [
     {
       "added_at": "2023-05-05 15:49:38",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
+        "name": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 214933,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
-        "name": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Can't Help Falling In Love",
-      "url": "https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
         "name": "Perfect (Acoustic)",
         "url": "https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 260866,
       "name": "Perfect - Acoustic",
       "url": "https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -679,42 +663,18 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "MEMORIA FUTURO",
-        "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 221390,
-      "name": "Respiro (Cap. 8)",
-      "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
-        "name": "No Ha Parado De Llover",
-        "url": "https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 245209,
-      "name": "No Ha Parado De Llover (with Sebasti\u00e1n Yatra)",
-      "url": "https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv"
+      "duration_ms": 197853,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -775,6 +735,46 @@
       "duration_ms": 198499,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "No Ha Parado De Llover",
+        "url": "https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 245209,
+      "name": "No Ha Parado De Llover (with Sebasti\u00e1n Yatra)",
+      "url": "https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "MEMORIA FUTURO",
+        "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 221390,
+      "name": "Respiro (Cap. 8)",
+      "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 148900,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/4FqhM1hv7pQ0UbemW90HZL"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Dimensi\u00f3n Caribe",
-        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        },
-        {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
+        "name": "Dimensi\u00f3n Caribe",
+        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -1195,26 +1195,6 @@
       "duration_ms": 194981,
       "name": "Ay, Ay",
       "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
-        "name": "I Don't Wanna Live Forever (Fifty Shades Darker)",
-        "url": "https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        },
-        {
-          "name": "Simon Samaeng",
-          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "I Don't Wanna Live Forever (Fifty Shades Darker) - Acoustic",
-      "url": "https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -1235,6 +1215,26 @@
       "duration_ms": 255669,
       "name": "Solo M\u00eda",
       "url": "https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+        "url": "https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        },
+        {
+          "name": "Simon Samaeng",
+          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "I Don't Wanna Live Forever (Fifty Shades Darker) - Acoustic",
+      "url": "https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim"
-      },
-      "artists": [
-        {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
-        }
-      ],
-      "duration_ms": 130222,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
         "name": "(un poco + de) FE",
         "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 204500,
       "name": "Lento",
       "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim"
+      },
+      "artists": [
+        {
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+        }
+      ],
+      "duration_ms": 130222,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9"
     },
     {
       "added_at": "2023-05-05 15:49:38",

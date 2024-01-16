@@ -9823,6 +9823,24 @@
     },
     {
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/43u2JbXX3icMNv6dd0aXn6"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183880,
+      "name": "Go Get Er",
+      "url": "https://open.spotify.com/track/7h99v6wbJdjFVtP2ScgTME"
+    },
+    {
+      "album": {
         "name": "God Made Airplanes",
         "url": "https://open.spotify.com/album/0cm9Mqk91nvyj9KukFB7Ha"
       },

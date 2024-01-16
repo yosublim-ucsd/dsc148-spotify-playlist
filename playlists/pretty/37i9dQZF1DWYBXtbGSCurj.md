@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Distrito 23
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,370 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,309 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Gato Preto](https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Bem Vindo Natal Mixtape 2](https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr) | 2:16 |
 | 75 | [LAPIDADO](https://open.spotify.com/track/2WvNuQh87fYwdVY2gNIYy2) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [LAPIDADO](https://open.spotify.com/album/3URqY4nlWbjNy83m3wYrEf) | 3:46 |
 
-Snapshot ID: `MCxjYjIxZTMwMTc4YTk0MmNmMGNhMDBmMzA3YzM2MTIwYTFjMWU1NzMz`
+Snapshot ID: `MCwwMDg4M2M0ZjFlYWM4N2MxOWI3MTYxMWZkYTJiYTAyZTEzZWU1NTky`

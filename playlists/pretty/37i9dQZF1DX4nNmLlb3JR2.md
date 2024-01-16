@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,966 likes - 158 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,097 likes - 158 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 111 | [Everytime We Touch](https://open.spotify.com/track/1sI8fD3wfYhawnZAYJlmuB) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y), [holydope](https://open.spotify.com/artist/0xxzcwAkvq75H2kNaZVLxD), [Gletscher](https://open.spotify.com/artist/2XvOqRc89ghu9XuYotuqDj) | [Everytime We Touch](https://open.spotify.com/album/7rg8IXnMzoesocIOIGklWQ) | 2:06 |
 | 112 | [Bad Habits](https://open.spotify.com/track/7y161CHpc3KkKVMJZ1bNEQ) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Bad Habits](https://open.spotify.com/album/16XIxgGPr1Ispb6IJJ0AaW) | 1:28 |
 | 113 | [Dog Days Are Over \- Lofi Version](https://open.spotify.com/track/5G6D5WHf5weBJ7Z9WA6pyH) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Dog Days Are Over \(Lofi Version\)](https://open.spotify.com/album/7iqDk6pZdA7aPAZpoZzXve) | 2:15 |
-| 114 | [Foolish](https://open.spotify.com/track/3Mt0mb8hQcCrzQUEMGXhWX) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/5cCEONJGfWiPtR9yn63Ghf) | 2:59 |
+| 114 | [Foolish](https://open.spotify.com/track/327YD8hrJehqymoHyLzjvL) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/205AAzdvybdc1XHfLkQIfv) | 2:59 |
 | 115 | [love me like you do \- lofi](https://open.spotify.com/track/490fqdlm8AGR5tRWcoBGKj) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [its' okay](https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq) | [love me like you do \- lofi](https://open.spotify.com/album/5G7LFYUjjdBbermgFy0gMD) | 1:39 |
 | 116 | [Viva La Vida](https://open.spotify.com/track/0rZ4Yyt5Su46Uo6mqci1iW) | [Phatazza Cat](https://open.spotify.com/artist/3dV8aCIrUUtXrOnU6qo3rN) | [Viva La Vida](https://open.spotify.com/album/25q2SkwrmZmcnhGAAeUGci) | 2:57 |
 | 117 | [That's The Way It Is](https://open.spotify.com/track/4KlG6TcBmbr56ejToFZZNM) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [That's the Way It Is](https://open.spotify.com/album/3JNRLXYVdLBni8VY92Irve) | 1:27 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 157 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 |
 | 158 | [Jimmy Cooks \- Lofi Cover](https://open.spotify.com/track/0QtpzHpNX7piC7zuMFEHEK) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl), [Wild Issues](https://open.spotify.com/artist/1m3Su2QS1BPQuE4SdHjb2S) | [Lo\-Fi Rap Caviar, Vol\. 4](https://open.spotify.com/album/6d59AcN0nULql52ea9ViNJ) | 1:09 |
 
-Snapshot ID: `MCw0MmU4MWU0YTJkODMzNWVhOTRkYWJhMTRkYWFmMTQzYjg3ZGFmZWZl`
+Snapshot ID: `MCwyYmNlNjdiZDNiYmQ2OTNkMmY2NDIxNzEzNTUzMTM5N2NmYmQzYWMy`

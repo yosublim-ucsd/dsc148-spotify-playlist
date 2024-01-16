@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 7377327,
+  "num_followers": 7382636,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2RjYzkyMzI2YTA1M2UzNWU3YzIwODM2ZDUyZjRiNDYyMjE2MGYw",
+  "snapshot_id": "MCw1ZDA2ZmY1NzZiNmExNzdiNjJhYTljYTliMDU3MTkxZTE3NGVlZmEy",
   "tracks": [
     {
       "added_at": "2023-09-08 15:16:54",
@@ -803,18 +803,26 @@
     {
       "added_at": "2023-12-01 14:11:37",
       "album": {
-        "name": "robot rock (funk)",
-        "url": "https://open.spotify.com/album/4GX5gPDX5eZkPY7aDm1Cs4"
+        "name": "Robot Rock (Funk Remix)",
+        "url": "https://open.spotify.com/album/2Nus2h0JQmdCxs2jHHVzfp"
       },
       "artists": [
         {
-          "name": "DJ Paulinho Mondi Da Baixa Baviera",
-          "url": "https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE"
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos"
+        },
+        {
+          "name": "alper6nen",
+          "url": "https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj"
+        },
+        {
+          "name": "Armut",
+          "url": "https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj"
         }
       ],
-      "duration_ms": 153529,
-      "name": "robot rock (funk)",
-      "url": "https://open.spotify.com/track/5CzmDYSqoancLlV8vMGdPl"
+      "duration_ms": 153520,
+      "name": "Robot Rock - Funk Remix",
+      "url": "https://open.spotify.com/track/7ImCIbhZXIu0ulBGEwvC8W"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -892,29 +900,25 @@
       "added_at": "2023-09-22 18:14:49",
       "album": {
         "name": "Montagem Coral",
-        "url": "https://open.spotify.com/album/7yB8cqc8wyJXq9w4oEZ9Qu"
+        "url": "https://open.spotify.com/album/4qYv01PwTelamkcX0aqoYS"
       },
       "artists": [
         {
-          "name": "DJ Holanda",
-          "url": "https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC"
+          "name": "loera",
+          "url": "https://open.spotify.com/artist/7gSVrCt5LUSUjTRGf2qIlX"
         },
         {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "ZETH INC.",
+          "url": "https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj"
         },
         {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        },
-        {
-          "name": "MC Cyclope",
-          "url": "https://open.spotify.com/artist/5yGArOIHgCn6AOA86LaW9N"
+          "name": "Flexyz",
+          "url": "https://open.spotify.com/artist/7b1fbUqnT4rGuWLNK8aQDI"
         }
       ],
-      "duration_ms": 145080,
+      "duration_ms": 145059,
       "name": "Montagem Coral",
-      "url": "https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix"
+      "url": "https://open.spotify.com/track/7o5n1CDIYYM3f979LbsMr3"
     },
     {
       "added_at": "2023-03-17 15:27:46",

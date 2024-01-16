@@ -551,6 +551,28 @@
     },
     {
       "album": {
+        "name": "Bonjour - Na Frente do Pared\u00e3o",
+        "url": "https://open.spotify.com/album/2zan2CQT5bHbqN59UEyARq"
+      },
+      "artists": [
+        {
+          "name": "DJ PAULIN",
+          "url": "https://open.spotify.com/artist/7eIq1rjn5GWmAKp3tdTyLv"
+        },
+        {
+          "name": "MC Theuzyn",
+          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125908,
+      "name": "Bonjour - Na Frente do Pared\u00e3o",
+      "url": "https://open.spotify.com/track/76Zx8UrOIudkZQsI0sIcef"
+    },
+    {
+      "album": {
         "name": "Calma Amor, Calma Bb",
         "url": "https://open.spotify.com/album/0KnF9KhEoQSLvtUOXdZixU"
       },
@@ -1644,7 +1666,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 145080,
       "name": "Montagem Coral",
       "url": "https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix"

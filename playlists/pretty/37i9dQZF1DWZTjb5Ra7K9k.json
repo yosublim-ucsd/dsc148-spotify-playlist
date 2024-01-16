@@ -1,12 +1,12 @@
 {
   "description": "Hora de aumentar o som e cair na \u00e1gua!",
-  "num_followers": 188783,
+  "num_followers": 188704,
   "original_name": "Free Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTQ1N2QzZTc5NjljZWRiZDhkNDRiOWNjNTMxMjYyNmE0YzFjMWFl",
+  "snapshot_id": "MCwzN2U5MmEyNmRjNjM1NzhlMWVkMzE1MjQ3NjhjYWEzMGY3ZTE1Yjhj",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Imunidade Musical",
         "url": "https://open.spotify.com/album/1l8K5fgYz4J0ZZyjMVd6Q1"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 214613,
       "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "What I Got",
-      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Floored",
-        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 183720,
       "name": "Sitting, Waiting, Wishing",
       "url": "https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Floored",
+        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -411,6 +411,22 @@
       "duration_ms": 148600,
       "name": "Free",
       "url": "https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
-        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 250133,
       "name": "Queen of California",
       "url": "https://open.spotify.com/track/0CETmgFGt8Ne8vLnaLcduU"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Brushfire Fairytales [Remastered (Bonus Version)]",
+        "url": "https://open.spotify.com/album/23BBbqDGMhloT6f2YBecSr"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 281749,
+      "name": "Flake",
+      "url": "https://open.spotify.com/track/54S3uCvfZauNw8lVCHZYYo"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -615,22 +631,6 @@
       "duration_ms": 224413,
       "name": "Beach In Hawaii",
       "url": "https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Brushfire Fairytales [Remastered (Bonus Version)]",
-        "url": "https://open.spotify.com/album/23BBbqDGMhloT6f2YBecSr"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 281749,
-      "name": "Flake",
-      "url": "https://open.spotify.com/track/54S3uCvfZauNw8lVCHZYYo"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Brother the Cloud",
-        "url": "https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 262226,
-      "name": "Brother the Cloud",
-      "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Welcome To The Cruel World",
         "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Pass It Around",
-        "url": "https://open.spotify.com/album/5UGyKjOCdpxPkamcLkJNZL"
+        "name": "Brother the Cloud",
+        "url": "https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB"
       },
       "artists": [
         {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
         }
       ],
-      "duration_ms": 190760,
-      "name": "Life, Love & Laughter",
-      "url": "https://open.spotify.com/track/4d0mp3RK1yCY2RkWvLibNV"
+      "duration_ms": 262226,
+      "name": "Brother the Cloud",
+      "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1179,6 +1163,22 @@
       "duration_ms": 179626,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/4JnefzMlvvO3OUBRW4oLlU"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Pass It Around",
+        "url": "https://open.spotify.com/album/5UGyKjOCdpxPkamcLkJNZL"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Life, Love & Laughter",
+      "url": "https://open.spotify.com/track/4d0mp3RK1yCY2RkWvLibNV"
     },
     {
       "added_at": "2023-07-28 03:01:00",

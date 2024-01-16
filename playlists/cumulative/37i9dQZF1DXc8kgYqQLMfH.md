@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,113 songs - 1 day 18 hr 7 min
+1,114 songs - 1 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,7 +597,7 @@
 | [Main Source](https://open.spotify.com/track/7dBkguRkblf2E86giR5AXF) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Main Source](https://open.spotify.com/album/10KFkzmGKNHigqLdtf78FE) | 2:25 | 2021-11-10 | 2022-08-19 |
 | [Making Pizza](https://open.spotify.com/track/3v65mSFX4hY7l0JveBQjNa) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy), [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q) | [Making Pizza](https://open.spotify.com/album/0Td6eNByAw6kBfB47t576G) | 1:51 | 2022-06-24 | 2022-09-03 |
 | [Mallet Dreams](https://open.spotify.com/track/4FyekCqwBwaFRWCLvL4Or4) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [Mallet Dreams](https://open.spotify.com/album/2TluPmCV8AGpmyrg62Rwkb) | 1:42 | 2023-03-16 | 2023-10-06 |
-| [Mansion Of Sizz](https://open.spotify.com/track/1U0jroBry8iTfYt73P9ET0) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [Lofi City](https://open.spotify.com/album/4LVapYHIAJc5s8V9yyKgc2) | 2:24 | 2022-10-28 |  |
+| [Mansion Of Sizz](https://open.spotify.com/track/1U0jroBry8iTfYt73P9ET0) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [Lofi City](https://open.spotify.com/album/4LVapYHIAJc5s8V9yyKgc2) | 2:24 | 2022-10-28 | 2024-01-16 |
 | [mararun](https://open.spotify.com/track/2nG9Kq8al1Y8CwuikqWXut) | [m3lly](https://open.spotify.com/artist/6ImTBYsoSoDNEMgY9VFU23) | [mararun](https://open.spotify.com/album/4T3cSDUhFHeoIEo4fDec58) | 2:06 | 2021-11-10 | 2023-03-02 |
 | [mariposas](https://open.spotify.com/track/2OEiGdcYERflPWGTau38WC) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [sunday mornings](https://open.spotify.com/album/1kd235cgVh0bdUEsx2wDlB) | 2:24 | 2021-11-10 | 2022-10-01 |
 | [Massiv](https://open.spotify.com/track/4v7qUBLz0u5AnSRRcRyNyD) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Knowh3r3](https://open.spotify.com/artist/0NlaY8zuh9hjpOPSRL3yOG) | [Massiv](https://open.spotify.com/album/1zYbe3XZCBebHnDtZ5FPEt) | 2:03 | 2023-04-03 |  |
@@ -888,6 +888,7 @@
 | [smet](https://open.spotify.com/track/7EW0u8DM1elNsehpykrhcu) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [smet](https://open.spotify.com/album/5f8UFfSgkJ6PN8ClaqnNvb) | 2:32 | 2021-11-10 | 2022-01-28 |
 | [smoke & sleep](https://open.spotify.com/track/2CG8eXUcfA5IwAPnD9bKcN) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [smoke & sleep](https://open.spotify.com/album/5a6P31flOyTnuvVMQqNFvs) | 2:12 | 2022-08-12 |  |
 | [Smokey](https://open.spotify.com/track/4p14eOpDYsh7lxZCNDFeF6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Smokey](https://open.spotify.com/album/25uVN5TAJTQ2byMKlkOJab) | 1:30 | 2021-11-10 | 2022-06-10 |
+| [Smoothology](https://open.spotify.com/track/29iPA5TBi6bWTraMDUKkqR) | [ella diva conflict](https://open.spotify.com/artist/7zCs5xY96PPTSGNYcghfux) | [Smoothology](https://open.spotify.com/album/0RdMK6Bn9b3B5HMCF8kxt9) | 2:34 | 2024-01-12 |  |
 | [Snooze](https://open.spotify.com/track/06k8TlJRnp0XHOWxuXrvpV) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Lonely Llama](https://open.spotify.com/artist/7qyiD7cCyow6BICznBnKfk) | [Snooze](https://open.spotify.com/album/5u6zyPvdcNql3sglsO0Chw) | 2:52 | 2022-10-15 | 2023-04-28 |
 | [Snooze](https://open.spotify.com/track/2J3SlUak8rUmbqQKLhVsrx) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Snooze](https://open.spotify.com/album/35lv87Ea72rsGbvMgZ3UXd) | 1:55 | 2022-04-22 | 2023-09-16 |
 | [Snow Cat](https://open.spotify.com/track/0xFmEZEGo8Coz5CL1EiEDP) | [Easy Deviance](https://open.spotify.com/artist/5nwDk2qZ6uzdaQ7Rz5aNZr), [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp) | [Snow Cat](https://open.spotify.com/album/7dC9t5Fo2Q1fBPjx1iwwWJ) | 2:34 | 2022-12-09 |  |

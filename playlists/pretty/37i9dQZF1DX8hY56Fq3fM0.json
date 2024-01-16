@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 294420,
+  "num_followers": 294603,
   "original_name": "Energy Booster: Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmM1MGJhZjBkYTY3MTQwMDgzYjUwOWJhZGU0OGYxNWRjMDJkOTQy",
+  "snapshot_id": "MCwyNTBkOTMxMTAxM2Y0YTA1MWRiYzk3YzdhYzU3OGExY2Q2ZjI3MzYx",
   "tracks": [
     {
       "added_at": "2023-07-26 19:45:38",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 193030,
-      "name": "Snap Out Of It",
-      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 177280,
       "name": "Everybody Talks",
       "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 193030,
+      "name": "Snap Out Of It",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "Supercut",
-      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -635,38 +635,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 236887,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Mountain at My Gates",
-      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -711,6 +679,38 @@
       "duration_ms": 188866,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 236887,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Gone Now",
-        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Don't Take The Money",
-      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "saintmotelevision",
         "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 192040,
       "name": "Sweet Talk",
       "url": "https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Gone Now",
+        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Don't Take The Money",
+      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Strange Desire",
-        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "I Wanna Get Better",
-      "url": "https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Young Chasers (Deluxe)",
         "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 192120,
       "name": "T-Shirt Weather",
       "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Strange Desire",
+        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "I Wanna Get Better",
+      "url": "https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Dear Miss Lonelyhearts",
-        "url": "https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "Miracle Mile",
-      "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Spreading Rumours",
         "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Disappear Here",
-        "url": "https://open.spotify.com/album/3fSYQvcrQJJhTv9PYYMkY5"
+        "name": "Dear Miss Lonelyhearts",
+        "url": "https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy"
       },
       "artists": [
         {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
         }
       ],
-      "duration_ms": 187013,
-      "name": "Daft Pretty Boys (Explicit)",
-      "url": "https://open.spotify.com/track/2ZRQixbe1MCJxpcO96Zj1y"
+      "duration_ms": 180133,
+      "name": "Miracle Mile",
+      "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1319,6 +1303,22 @@
       "duration_ms": 197946,
       "name": "Feeling Lonely",
       "url": "https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Disappear Here",
+        "url": "https://open.spotify.com/album/3fSYQvcrQJJhTv9PYYMkY5"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Daft Pretty Boys (Explicit)",
+      "url": "https://open.spotify.com/track/2ZRQixbe1MCJxpcO96Zj1y"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "LA DIVINE",
+        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Love Is Mystical",
+      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "LA DIVINE",
-        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Love Is Mystical",
-      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Solitude Is Bliss",
-      "url": "https://open.spotify.com/track/2a2MbiJN2skOxohykOVcss"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "What Did You Expect from The Vaccines?",
         "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 174453,
       "name": "Post Break-Up Sex",
       "url": "https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Solitude Is Bliss",
+      "url": "https://open.spotify.com/track/2a2MbiJN2skOxohykOVcss"
     },
     {
       "added_at": "2023-07-26 19:45:38",

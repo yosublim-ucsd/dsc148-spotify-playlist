@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : MDNS
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,987 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,984 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Bewitched Me](https://open.spotify.com/track/1kJdkrtByJFrUe3eIefo47) | [Howlin' Jaws](https://open.spotify.com/artist/5i6iGHHnuGDlQR9PLaqikc) | [Half Asleep Half Awake](https://open.spotify.com/album/6ur6w7vngoC5G6I6IgS4Wr) | 2:22 |
 | 50 | [Constant Rebirth](https://open.spotify.com/track/7aIOmApDKfraYs1YKlS2YJ) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [Constant Rebirth](https://open.spotify.com/album/177ZDDCagLXjwZyglACK5Y) | 3:54 |
 
-Snapshot ID: `MCwyYTg4M2Q2MGVkOTg2YzgwNTdiYjRiOGIyMDc1ZjEwYzMzNTBiZDdl`
+Snapshot ID: `MCwxNmQzYmY3Mjc3MmUzYzlhZWI4N2I3NDA3MGE2MGFlZGI3OTU1ODkx`

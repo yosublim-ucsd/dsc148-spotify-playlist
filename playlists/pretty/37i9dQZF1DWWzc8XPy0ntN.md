@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,578 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,492 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 25 | [Mexican Superstar](https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Mexican Superstar](https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14) | 3:57 |
 | 26 | [Los muertos no lloran](https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS) | [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Los muertos no lloran](https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG) | 5:40 |
 | 27 | [Esta Noche](https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It) | 5:11 |
-| 28 | [Invierno \(Remix\)](https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Invierno \(Remix\)](https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj) | 4:45 |
-| 29 | [Mexico Trance](https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Mexico Trance](https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ) | 6:55 |
-| 30 | [Dancehall, Audubon Ballroom](https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN) | [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Night in Tijuana](https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx) | 2:50 |
-| 31 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 |
+| 28 | [Mexico Trance](https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Mexico Trance](https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ) | 6:55 |
+| 29 | [Invierno \(Remix\)](https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Invierno \(Remix\)](https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj) | 4:45 |
+| 30 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 |
+| 31 | [Dancehall, Audubon Ballroom](https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN) | [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Night in Tijuana](https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx) | 2:50 |
 | 32 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 |
 | 33 | [Lejos](https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Shika Shika / Botanas](https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo) | 3:26 |
 | 34 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 45 | [Resistencia](https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resistencia](https://open.spotify.com/album/3TG0EIcV4lRzXY6NQEZD1O) | 4:25 |
 | 46 | [La Nueva Mortalidad](https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [La Nueva Mortalidad \(Remaster 2021\)](https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO) | 5:51 |
 | 47 | [Ananda](https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Ananda](https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb) | 4:12 |
-| 48 | [Love is Dancing](https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0) | [Suricata](https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b) | [Love is Dancing](https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8) | 8:26 |
-| 49 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 |
+| 48 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 |
+| 49 | [Love is Dancing](https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0) | [Suricata](https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b) | [Love is Dancing](https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8) | 8:26 |
 | 50 | [Collateral](https://open.spotify.com/track/4DZRbYzbMCMpGZMgZDh3Yz) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/3ZAvSUMAFSxvb9nRekwxQH) | 4:31 |
 
-Snapshot ID: `MCxkYzg3ZWE1N2Y5YzU5MjhkNzVhMTM4MGJmZTE3MzYxZGYwNjZmZTE3`
+Snapshot ID: `MCwwOTJmMDY0MjQ0ZmRjOTc2YzRjMGVlMGI2MGJkMjkxZGU1ZDQzY2Nh`

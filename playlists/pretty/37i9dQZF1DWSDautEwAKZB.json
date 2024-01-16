@@ -1,12 +1,12 @@
 {
   "description": "Latin songs you love like you've never heard before. Cover: Kevin Kaarl ",
-  "num_followers": 5078,
+  "num_followers": null,
   "original_name": "Spotify Singles: Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDY2ODk3MDY5MmQwMGNkNmM2ODAxZmE4NDBiYzZiN2QxMzFmNzIw",
+  "snapshot_id": "MCxkM2U1ZDI3MjUzMzQ3NTVhOWJiMzE5YzYxMTdiMzJiOWY5MDEwMmRk",
   "tracks": [
     {
       "added_at": "2024-01-11 19:32:15",
@@ -248,22 +248,6 @@
       "added_at": "2024-01-11 19:32:15",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 156819,
-      "name": "Hush \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP"
-    },
-    {
-      "added_at": "2024-01-11 19:32:15",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
       },
       "artists": [
@@ -275,6 +259,22 @@
       "duration_ms": 189005,
       "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
+    },
+    {
+      "added_at": "2024-01-11 19:32:15",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 156819,
+      "name": "Hush \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP"
     },
     {
       "added_at": "2024-01-11 19:32:15",
@@ -384,6 +384,22 @@
       "added_at": "2024-01-11 19:32:15",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
+    },
+    {
+      "added_at": "2024-01-11 19:32:15",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
       },
       "artists": [
@@ -411,22 +427,6 @@
       "duration_ms": 217058,
       "name": "thank u, next - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
-    },
-    {
-      "added_at": "2024-01-11 19:32:15",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
     },
     {
       "added_at": "2024-01-11 19:32:15",
@@ -556,6 +556,22 @@
       "added_at": "2024-01-11 19:32:15",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 307856,
+      "name": "Hasta la Noche (Ilegal)",
+      "url": "https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X"
+    },
+    {
+      "added_at": "2024-01-11 19:32:15",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
       },
       "artists": [
@@ -599,22 +615,6 @@
       "duration_ms": 215480,
       "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
       "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
-    },
-    {
-      "added_at": "2024-01-11 19:32:15",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 307856,
-      "name": "Hasta la Noche (Ilegal)",
-      "url": "https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X"
     },
     {
       "added_at": "2024-01-11 19:32:15",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-01-11 19:32:15",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Ambar Bossa Nova - Spotify Singles",
+      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
+    },
+    {
+      "added_at": "2024-01-11 19:32:15",
+      "album": {
         "name": "Prende el Arbolito - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 170163,
       "name": "Prende el Arbolito - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW"
-    },
-    {
-      "added_at": "2024-01-11 19:32:15",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Ambar Bossa Nova - Spotify Singles",
-      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
     },
     {
       "added_at": "2024-01-11 19:32:15",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-11 19:32:15",
       "album": {
-        "name": "Pir\u00e2mide Social - Spotify Singles",
-        "url": "https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 198281,
-      "name": "Pir\u00e2mide Social - Spotify Singles",
-      "url": "https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj"
-    },
-    {
-      "added_at": "2024-01-11 19:32:15",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 210355,
       "name": "El Rey de la Popola - Spotify Singles",
       "url": "https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj"
+    },
+    {
+      "added_at": "2024-01-11 19:32:15",
+      "album": {
+        "name": "Pir\u00e2mide Social - Spotify Singles",
+        "url": "https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 198281,
+      "name": "Pir\u00e2mide Social - Spotify Singles",
+      "url": "https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj"
     },
     {
       "added_at": "2024-01-11 19:32:15",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2024-01-11 19:32:15",
       "album": {
-        "name": "Back In Bahia - Spotify Singles",
-        "url": "https://open.spotify.com/album/50V1qiuLjfFRvgJ9c4Bup3"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        },
+        {
+          "name": "BLACKPAW",
+          "url": "https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467"
         }
       ],
-      "duration_ms": 163366,
-      "name": "Back In Bahia - Spotify Singles",
-      "url": "https://open.spotify.com/track/6ModYZze07tx1R40jykgeL"
+      "duration_ms": 250000,
+      "name": "Alemania - Spotify Singles (Blackpaw Remix)",
+      "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
     }
   ],
   "unique_name": "Spotify Singles: Latin",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 30554,
+  "num_followers": 30628,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2JkYTZhYjU1OTdhMjJmNThjYmRiOTMxNWUyMWQzYmJhYzk2NGY1",
+  "snapshot_id": "MCxmYjM1MTI4MzMwYTI2MWFhMTFiYmI2YjM5NDQ0NzhhZmY0ODVhNmY0",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 224722,
+      "name": "Flor de Pi\u00f1a",
+      "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Puras Pa'levantar la Polvadera",
         "url": "https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 208875,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Carnavaleando con la Tierra Mojada",
-        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 224722,
-      "name": "Flor de Pi\u00f1a",
-      "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
-        "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 264693,
-      "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
-      "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Te Advierto",
         "url": "https://open.spotify.com/album/4T5rNGbPphSO5cBNjDEkNc"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 219200,
       "name": "El Condor Pasa",
       "url": "https://open.spotify.com/track/5wmZVCE7vxFr6Gzl6H4fOg"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
+        "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 264693,
+      "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
+      "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Contra Viento y Marea",
-        "url": "https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo"
-      },
-      "artists": [
-        {
-          "name": "Banda Bucanera",
-          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Chineleando",
-      "url": "https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Zapateado Perron",
         "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 167100,
       "name": "Los Colorados (feat. Banda los Escamilla)",
       "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Contra Viento y Marea",
+        "url": "https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Chineleando",
+      "url": "https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 253015,
+      "name": "El Carretero",
+      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Las Mamirriquis",
         "url": "https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I"
       },
@@ -611,38 +627,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Puras De Viento En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 145103,
-      "name": "Arriba Pichataro (En Vivo)",
-      "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 253015,
-      "name": "El Carretero",
-      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Y Seguimos Loqueando!",
         "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "El Novillo Despuntado / Toro Pinto",
-        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
+        "name": "Puras De Viento En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
       },
       "artists": [
         {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 277796,
-      "name": "El Novillo Despuntado / Toro Pinto",
-      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
+      "duration_ms": 145103,
+      "name": "Arriba Pichataro (En Vivo)",
+      "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -691,6 +675,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "El Novillo Despuntado / Toro Pinto",
+        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 277796,
+      "name": "El Novillo Despuntado / Toro Pinto",
+      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
         "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 461333,
       "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
       "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Puras De Viento En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 175934,
-      "name": "La Conga Roja (En Vivo)",
-      "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -751,6 +735,22 @@
       "duration_ms": 218893,
       "name": "El Pistolero - Son, Huapangobanda",
       "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Puras De Viento En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 175934,
+      "name": "La Conga Roja (En Vivo)",
+      "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 190171,
+      "name": "Conga Conguita",
+      "url": "https://open.spotify.com/track/3FJ7dZ6WXilGsBIVOoB0wB"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "La Trayectoria! (De Arturo Camarillo)",
         "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 243506,
       "name": "Popurr\u00ed Mexicano: Son de la Negra / Pelea de Gallos",
       "url": "https://open.spotify.com/track/0gi7rXrTRTmQqsoVrVW3X8"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Carnavaleando con la Tierra Mojada",
-        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 190171,
-      "name": "Conga Conguita",
-      "url": "https://open.spotify.com/track/3FJ7dZ6WXilGsBIVOoB0wB"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -935,42 +935,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr"
-      },
-      "artists": [
-        {
-          "name": "Banda Trancazo",
-          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
-        },
-        {
-          "name": "Arturo Camarillo",
-          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
-        }
-      ],
-      "duration_ms": 166269,
-      "name": "Cinco Trancazos",
-      "url": "https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "El Ahualoca",
-      "url": "https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Bailando Ando",
         "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
       },
@@ -999,6 +963,22 @@
       "duration_ms": 154266,
       "name": "Zapateando Con La Banda",
       "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "El Ahualoca",
+      "url": "https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1035,6 +1015,26 @@
       "duration_ms": 217626,
       "name": "Son de la Raza",
       "url": "https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr"
+      },
+      "artists": [
+        {
+          "name": "Banda Trancazo",
+          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
+        },
+        {
+          "name": "Arturo Camarillo",
+          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
+        }
+      ],
+      "duration_ms": 166269,
+      "name": "Cinco Trancazos",
+      "url": "https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Sin Miedo Al Toro",
-        "url": "https://open.spotify.com/album/2X4uzJ9nJhpjwRyB795jar"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 199420,
-      "name": "Sin Miedo Al Toro",
-      "url": "https://open.spotify.com/track/5B1R4vTA5UdFDPpcy0PckR"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
         "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 213951,
       "name": "Corazon De Texas",
       "url": "https://open.spotify.com/track/2QOpqX6wuf0wZhJto3jWKY"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Sin Miedo Al Toro",
+        "url": "https://open.spotify.com/album/2X4uzJ9nJhpjwRyB795jar"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 199420,
+      "name": "Sin Miedo Al Toro",
+      "url": "https://open.spotify.com/track/5B1R4vTA5UdFDPpcy0PckR"
     },
     {
       "added_at": "2022-08-02 22:31:47",

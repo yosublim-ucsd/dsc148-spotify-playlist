@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,839 likes - 71 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,870 likes - 71 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 70 | [Family Curse](https://open.spotify.com/track/2Bwj1i96TGj2Z2QQhOHy95) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Satisfaction Guaranteed](https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O) | 4:37 |
 | 71 | [Phone Booth](https://open.spotify.com/track/3uOs9LzMSrkvqKj0fWyiiP) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Heavy Picks\-The Robert Cray Band Collection](https://open.spotify.com/album/4vxRqmFB4Tp4zXYV2HITXI) | 3:29 |
 
-Snapshot ID: `MCw0NGFkYmM2Y2MyOWVmYWI0OWYxMDRkYTRlYmU2OThmNWI3OTYwNGU2`
+Snapshot ID: `MCwyMmYzM2Q1MDhmMzVkNTc4ZWVhN2I3MjFhZmNmMWVhMzE1OTc5Njcx`

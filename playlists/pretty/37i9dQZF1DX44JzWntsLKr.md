@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 
 > Every Monbebe's HERO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,480 likes - 130 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,383 likes - 130 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 129 | [I'll Be There](https://open.spotify.com/track/3AhSHpQhUasqq1Ni8xRh3c) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:12 |
 | 130 | [부나비 \(The Tiger Moth\)](https://open.spotify.com/track/1h68rW9DjBqyphvchkFHNE) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [쇼핑왕 루이 Shopping King Louie \(Music from the Korean Tv Drama\)](https://open.spotify.com/album/5akkvAV2X14XXJdWawFUxm) | 3:24 |
 
-Snapshot ID: `MCw2N2EzNGMwOWFkMWUzYThlODg4ZjlmZTlhMmY5MDE1ODNhOGY2MDMx`
+Snapshot ID: `MCw5YzJmYzZmYWY1MTE2YmM4YjQ5ZTk3NGRhMjk5YzkzNDUzMDE2ZjVh`

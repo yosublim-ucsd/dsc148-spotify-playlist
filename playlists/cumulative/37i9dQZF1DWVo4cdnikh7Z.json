@@ -931,6 +931,28 @@
     },
     {
       "album": {
+        "name": "Ae Pulla (From \"Lal Salaam\")",
+        "url": "https://open.spotify.com/album/6oFnu5xpV7fCXJMiAODder"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280810,
+      "name": "Ae Pulla (From \"Lal Salaam\")",
+      "url": "https://open.spotify.com/track/0Qe8uzIYTnnz4BOJw4Hki7"
+    },
+    {
+      "album": {
         "name": "Shamshera - Tamil",
         "url": "https://open.spotify.com/album/3Q3bar7jEDWuxDekyOZvKj"
       },
@@ -3846,7 +3868,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 247448,
       "name": "Chillanjirukkiye (From \"Lubber Pandhu\")",
       "url": "https://open.spotify.com/track/3jixbQHg5vDuZRNqzordcI"
@@ -6070,7 +6092,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 192000,
       "name": "Feel of Jailer (From \"Jailer\")",
       "url": "https://open.spotify.com/track/7dcufQ1B7SkfSJk0k6OFKl"
@@ -7840,7 +7862,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 188102,
       "name": "Jawan Title Track",
       "url": "https://open.spotify.com/track/7BOMm2gouxtIB2oxfSzPi6"
@@ -11664,7 +11686,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 276000,
       "name": "Machaane Unnaala (From \"Tiger Nageswara Rao\")",
       "url": "https://open.spotify.com/track/7AotfV7sDwJARza5FpFE1W"
@@ -14558,7 +14580,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 275526,
       "name": "Nee Vaadi (From \"ANIMAL\") [TAMIL]",
       "url": "https://open.spotify.com/track/2mYxRHt1C9WJwM98ifUpnr"
@@ -15800,7 +15822,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 195375,
       "name": "Ore kanaa - From \"Joe\"",
       "url": "https://open.spotify.com/track/4Hk0yDDEG5nY1LB4QVd8kk"
@@ -16452,7 +16474,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 186821,
       "name": "Pakoda Song - From \"Nanban Oruvan Vantha Piragu\"",
       "url": "https://open.spotify.com/track/3MUbhAmXSpuNS60DdUYLD7"
@@ -16850,7 +16872,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 195230,
       "name": "Pattasa",
       "url": "https://open.spotify.com/track/79jbwGgknCBKjikDDdfSph"
@@ -18594,10 +18616,36 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 186000,
       "name": "Rise of Miller (From \"Captain Miller\")",
       "url": "https://open.spotify.com/track/5XjW09Zha0Y0f0SUE3swep"
+    },
+    {
+      "album": {
+        "name": "Rise of Miller (From \"Captain Miller\")",
+        "url": "https://open.spotify.com/album/4yAmusyvB4xZKRaCnvFvpF"
+      },
+      "artists": [
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Rakendu Mouli",
+          "url": "https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Rise of Miller (From \"Captain Miller\")",
+      "url": "https://open.spotify.com/track/03nDSAVLih3c37mTPz0vqX"
     },
     {
       "album": {
@@ -20744,6 +20792,32 @@
       "duration_ms": 264306,
       "name": "Thalire - From \"Aramudaitha Kombu\"",
       "url": "https://open.spotify.com/track/6QGU3Dm7BBNO8XEosXkf9l"
+    },
+    {
+      "album": {
+        "name": "Thamarai Poovukum (Leo Version)",
+        "url": "https://open.spotify.com/album/55RTGR4rAhSPy6nO9vBIqB"
+      },
+      "artists": [
+        {
+          "name": "Vidyasagar",
+          "url": "https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5"
+        },
+        {
+          "name": "Krishnachandar",
+          "url": "https://open.spotify.com/artist/3MjuFSfNJ4fgbAgKHoS2dB"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71541,
+      "name": "Thamarai Poovukum - Leo Version",
+      "url": "https://open.spotify.com/track/7usU0Z1EqM4j4piDv4V4wB"
     },
     {
       "album": {
@@ -24272,7 +24346,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 82750,
       "name": "Varman Theme (From \"Jailer\")",
       "url": "https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg"

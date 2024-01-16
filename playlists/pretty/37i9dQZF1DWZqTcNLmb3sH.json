@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
-  "num_followers": 56829,
+  "num_followers": 56833,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDE0MmI3ZDVkMjhkMDVkZjcyNjQ2MGM3OWU1YmNkYzAyZDgzN2Yz",
+  "snapshot_id": "MCw1NWM3MmY5ZDllNTA4MDY4OGZiNmIwNmVkZmQxZmFlNTc5OTg0MmRi",
   "tracks": [
     {
       "added_at": "2024-01-04 06:14:40",
@@ -81,6 +81,50 @@
       "url": "https://open.spotify.com/track/2N4RKXVjv7mG4YLfXsYjxC"
     },
     {
+      "added_at": "2024-01-15 07:13:20",
+      "album": {
+        "name": "Dava Dava (From \"Anshu\" )",
+        "url": "https://open.spotify.com/album/0v4yVI1RH1jy3rLnftVj4B"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "K C Balasarangan",
+          "url": "https://open.spotify.com/artist/7b5pJ3sqgxxD2BYEQKl9eQ"
+        }
+      ],
+      "duration_ms": 152484,
+      "name": "Dava Dava (From \"Anshu\" )",
+      "url": "https://open.spotify.com/track/56hNssGHtrjE5DwaLRvaDK"
+    },
+    {
+      "added_at": "2024-01-15 07:15:30",
+      "album": {
+        "name": "Mr. Madimaye",
+        "url": "https://open.spotify.com/album/2exhsxVgCKRR6PAKOxbqlr"
+      },
+      "artists": [
+        {
+          "name": "K P Milan Kumar",
+          "url": "https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ"
+        },
+        {
+          "name": "Vismay Vinayak",
+          "url": "https://open.spotify.com/artist/7xFHHaQ1cDKKyaG6Q0zekN"
+        },
+        {
+          "name": "Umesh Mijar",
+          "url": "https://open.spotify.com/artist/1sKReGsoaaOvHYJAQmN2N7"
+        }
+      ],
+      "duration_ms": 236999,
+      "name": "Peg Song",
+      "url": "https://open.spotify.com/track/1y2ZQXSzAzPF1CQUPX9wdG"
+    },
+    {
       "added_at": "2024-01-03 06:27:07",
       "album": {
         "name": "Ninyaarele (from \"Ondu Sarala Prema Kathe\")",
@@ -152,7 +196,7 @@
       "added_at": "2024-01-12 04:30:01",
       "album": {
         "name": "Rise of Miller (From \"Captain Miller\")",
-        "url": "https://open.spotify.com/album/4yAmusyvB4xZKRaCnvFvpF"
+        "url": "https://open.spotify.com/album/0NOaai0nhdN581ZndcrcKp"
       },
       "artists": [
         {
@@ -162,15 +206,11 @@
         {
           "name": "G. V. Prakash",
           "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Rakendu Mouli",
-          "url": "https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8"
         }
       ],
       "duration_ms": 186000,
       "name": "Rise of Miller (From \"Captain Miller\")",
-      "url": "https://open.spotify.com/track/03nDSAVLih3c37mTPz0vqX"
+      "url": "https://open.spotify.com/track/5XjW09Zha0Y0f0SUE3swep"
     },
     {
       "added_at": "2024-01-12 10:33:41",
@@ -1655,50 +1695,6 @@
       "duration_ms": 87633,
       "name": "Huli Nayaka - From \"Huli Nayaka\"",
       "url": "https://open.spotify.com/track/3t8egF8E8cLn1TQj5SxavR"
-    },
-    {
-      "added_at": "2023-11-07 09:55:15",
-      "album": {
-        "name": "Mr.Natwarlal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Iwp5e97eFuvP0jjmKNfuE"
-      },
-      "artists": [
-        {
-          "name": "Sai Vignesh",
-          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
-        },
-        {
-          "name": "Dharma Vish",
-          "url": "https://open.spotify.com/artist/6miwTHZ03xmcPUtShuAGgS"
-        }
-      ],
-      "duration_ms": 233872,
-      "name": "Acchacchacho",
-      "url": "https://open.spotify.com/track/3BjEKXOXGWByEtILXx5mNs"
-    },
-    {
-      "added_at": "2023-11-06 09:57:29",
-      "album": {
-        "name": "Shantala (Kannada)",
-        "url": "https://open.spotify.com/album/6TPmdWbDplsiwvseo5pHD6"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Kinnal Raj",
-          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Savi Mohave",
-      "url": "https://open.spotify.com/track/0xSlAOwa5kiVu9VceqgJnI"
     }
   ],
   "unique_name": "Latest Kannada",

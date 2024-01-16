@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Suzie Arioli
+> The best jazz new releases\. Cover: Susie Arioli
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,612 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,644 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Sunseekers](https://open.spotify.com/track/2hD250ixyqBjvYHpsOOEqG) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [Discotheques 001](https://open.spotify.com/album/3v11OGRfUdnN6IGp2tdcAm) | 3:32 |
 | 50 | [Home Cookin'](https://open.spotify.com/track/63geyyZS7EBU3opmvQK4Tw) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Home Cookin'](https://open.spotify.com/album/7CAToGy0bWVmXolIK9EVlx) | 5:35 |
 
-Snapshot ID: `MCxjYWY2NDJkMmQzMTc5OWMyMTIwOTdjOTM4MzZhMGM0ODU5MWI3MmY2`
+Snapshot ID: `MCw5ODMxNWEyNjJjODE3ZjcyMTFjMjY1ZGNmMDMzMjQyMDJhODZlZTJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Kant
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,662 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,660 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Chuva de Benção](https://open.spotify.com/track/30vr0rox6VBWsmAcbuf5yW) | [Rosa](https://open.spotify.com/artist/6jw8SiJGInnFJ76Je7NtsV), [Dj Vitinho Beat](https://open.spotify.com/artist/3J9aTItEsTv0bdV4W7oVrt), [991Didi](https://open.spotify.com/artist/4Gi0bQFqrTkn6d6xAH0AIr) | [Chuva de Benção](https://open.spotify.com/album/2RQ5gGFs0EvyAvhL4i9VHw) | 2:51 |
 | 75 | [Vermelho Campari](https://open.spotify.com/track/6AGNVdcVyZTyNsy1BN1ER6) | [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Vermelho Campari](https://open.spotify.com/album/5fUpKhFaOUJXLqCetLATxf) | 3:34 |
 
-Snapshot ID: `MCw1ZGFlMjFjNzIyZDU4ZjhiMjBmNGZmMTc0ODc0Y2QwOGFjOWVhMWY0`
+Snapshot ID: `MCw4MmJiYjNhODJiNDE5NzQ2N2M0NDgzZDFiYWI2M2M2NDUzNmUwZjgx`

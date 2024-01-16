@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,974 likes - 32 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,978 likes - 32 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 31 | [Love Is A Heavy Word](https://open.spotify.com/track/2iWQrd8LABqESP9gC4jfYW) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:05 |
 | 32 | [Here Be Dragons](https://open.spotify.com/track/5VeV8aExj7SSgNDXr5bdJK) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:14 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDBiMjIyYThjM2Q0OTI3YmJhNDc4OWI5MGM3YmYwMjNhNw==`
+Snapshot ID: `Mjg0MjIwMTEsMDAwMDAwMDBhMjNjNWI0YWRiMDAxOGEzMTU1NjNhODk0NThlY2NhMg==`

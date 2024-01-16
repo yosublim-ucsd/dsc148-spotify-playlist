@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 1525567,
+  "2024-01-16": 1525293,
   "date_first_scraped": "2019-05-25",
   "description": "A calm piano soundtrack to all activities.",
   "name": "Piano in the Background",
@@ -24729,6 +24729,24 @@
     {
       "album": {
         "name": "The Greek",
+        "url": "https://open.spotify.com/album/3XO6cd4LgCDGlNIZFcvaPf"
+      },
+      "artists": [
+        {
+          "name": "Miguel P\u00e9rez",
+          "url": "https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164999,
+      "name": "The Greek",
+      "url": "https://open.spotify.com/track/2f9FdNRn2uDnNUxJ7JWXMf"
+    },
+    {
+      "album": {
+        "name": "The Greek",
         "url": "https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb"
       },
       "artists": [
@@ -24739,7 +24757,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 164999,
       "name": "The Greek",
       "url": "https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM"

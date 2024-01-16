@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 329482,
+  "num_followers": 329506,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDRjZjAzMjdlYWIyODI1Njg4OGZhZDYyZmQwZGZjN2NmMzFkOGEz",
+  "snapshot_id": "MCw3NzZiMTJhYTBmYTE4NDliZmUyMzgyM2VmYjliZmE1MDQ0Mzc1YzA5",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
+      },
+      "artists": [
+        {
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
+        }
+      ],
+      "duration_ms": 204221,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "N\u00f3s VOZ Eles",
         "url": "https://open.spotify.com/album/7BPwhaHjhjWTwIopJY6FTK"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 215116,
       "name": "Pra Me Refazer",
       "url": "https://open.spotify.com/track/1KIMRoLleFJCwABBrlAOPI"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "C\u00e9u Azul",
-        "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
-      },
-      "artists": [
-        {
-          "name": "Paula Toller",
-          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
-        }
-      ],
-      "duration_ms": 204221,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Primeira Vez",
-        "url": "https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "Primeira Vez",
-      "url": "https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Sandra de S\u00e1 - 1982",
         "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 267266,
       "name": "Olhos Coloridos",
       "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Primeira Vez",
+        "url": "https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "Primeira Vez",
+      "url": "https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -915,6 +915,26 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "S\u00f3 o Amor",
+        "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
+      },
+      "artists": [
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 178105,
+      "name": "S\u00f3 o Amor",
+      "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Poesia Ac\u00fastica Ep. Acabou",
         "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
       },
@@ -947,22 +967,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "S\u00f3 o Amor",
-        "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e"
       },
       "artists": [
         {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
         }
       ],
-      "duration_ms": 178105,
-      "name": "S\u00f3 o Amor",
-      "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
+      "duration_ms": 235128,
+      "name": "Voc\u00ea N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -979,22 +995,6 @@
       "duration_ms": 137608,
       "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
       "url": "https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e"
-      },
-      "artists": [
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
-        }
-      ],
-      "duration_ms": 235128,
-      "name": "Voc\u00ea N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Que Tiro Foi Esse",
-        "url": "https://open.spotify.com/album/3G3VEfeCybeGdKbeBkQaGH"
-      },
-      "artists": [
-        {
-          "name": "Jojo Maronttinni",
-          "url": "https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5"
-        }
-      ],
-      "duration_ms": 162444,
-      "name": "Que Tiro Foi Esse",
-      "url": "https://open.spotify.com/track/7g9l2KZ1IsxJReWQeMzqX2"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Maxximum - Faf\u00e1 de Bel\u00e9m",
         "url": "https://open.spotify.com/album/6PiK8fXCZVguMpR8DN0dAr"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 250226,
       "name": "Nuvem de L\u00e1grimas",
       "url": "https://open.spotify.com/track/5VRNQc6Z0YNemIvOrD1h2e"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Que Tiro Foi Esse",
+        "url": "https://open.spotify.com/album/3G3VEfeCybeGdKbeBkQaGH"
+      },
+      "artists": [
+        {
+          "name": "Jojo Maronttinni",
+          "url": "https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5"
+        }
+      ],
+      "duration_ms": 162444,
+      "name": "Que Tiro Foi Esse",
+      "url": "https://open.spotify.com/track/7g9l2KZ1IsxJReWQeMzqX2"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "\u00c9 o Que Temos",
-        "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Eug\u00eania",
-          "url": "https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ciranda Sem Fim",
         "url": "https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 200000,
       "name": "Meu S\u00e3o Jorge",
       "url": "https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "\u00c9 o Que Temos",
+        "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Eug\u00eania",
+          "url": "https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu"
     },
     {
       "added_at": "2022-10-07 03:01:33",

@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 14753,
+  "2024-01-16": 14734,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Latvia.",
   "name": "Top 50 - Latvia",
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 63415,
       "name": "american dream",
       "url": "https://open.spotify.com/track/4yreExU3eRNTe2iJz6X6k3"
@@ -3979,6 +3979,24 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
       "album": {
@@ -6143,7 +6161,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -6393,7 +6411,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 265305,
       "name": "dangerous",
       "url": "https://open.spotify.com/track/0fyP96TikhD9sM4eKqw5Yp"
@@ -7597,7 +7615,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 158589,
       "name": "Dont Trust Them",
       "url": "https://open.spotify.com/track/2ALnLwITVU6KkNOKdZqXVw"
@@ -12915,7 +12933,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -15549,7 +15567,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 159133,
       "name": "letter to my brudda",
       "url": "https://open.spotify.com/track/5P1z8XwsCStb74emERTx9v"
@@ -20920,6 +20938,24 @@
     },
     {
       "album": {
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
+      "album": {
         "name": "Are You Alright?",
         "url": "https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR"
       },
@@ -22773,7 +22809,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 207585,
       "name": "prove it",
       "url": "https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF"
@@ -24251,7 +24287,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 547733,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
@@ -25085,7 +25121,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 182039,
       "name": "see the real",
       "url": "https://open.spotify.com/track/4E64eAph6AYI98ucunrGH8"
@@ -25539,7 +25575,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 186770,
       "name": "should've wore a bonnet",
       "url": "https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ"
@@ -26893,7 +26929,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -28969,7 +29005,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -29573,7 +29609,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
@@ -34683,7 +34719,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 167903,
       "name": "\u041f\u043b\u0430\u0447\u0443\u0442 \u043d\u0435\u0431\u0435\u0441\u0430",
       "url": "https://open.spotify.com/track/6euqOfQXC3YdneT6bGTyI6"

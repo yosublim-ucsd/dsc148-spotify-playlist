@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 173328,
+  "num_followers": 173383,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTliZTVmYWE4ZjE2MzEzNGE4YTRmNWY1ZmFiNGVhOGM4OWUwYzg1",
+  "snapshot_id": "MCwyYWNiMmZlOTExYjNiMzhhYjYzZDhiYjk3NjIwNjA0Y2EwYWQ3YjRh",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -183,6 +183,42 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Aquatic",
+        "url": "https://open.spotify.com/album/1sXUPeXG3bo3norKvF2nJx"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 226229,
+      "name": "Aquatic",
+      "url": "https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Because You Move Me",
         "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
       },
@@ -219,42 +255,6 @@
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Aquatic",
-        "url": "https://open.spotify.com/album/1sXUPeXG3bo3norKvF2nJx"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 226229,
-      "name": "Aquatic",
-      "url": "https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -319,26 +319,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Felix Raphael",
-          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
         }
       ],
-      "duration_ms": 262249,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
+      "duration_ms": 224750,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -399,22 +391,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        }
-      ],
-      "duration_ms": 224750,
-      "name": "Spaces",
-      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "My Stripes",
         "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
       },
@@ -451,18 +427,26 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
       },
       "artists": [
         {
           "name": "Ben B\u00f6hmer",
           "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
         }
       ],
-      "duration_ms": 253662,
-      "name": "Zeit & Raum",
-      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
+      "duration_ms": 262249,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -499,22 +483,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Alkantara",
-        "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
-      },
-      "artists": [
-        {
-          "name": "Bottai",
-          "url": "https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk"
-        }
-      ],
-      "duration_ms": 216393,
-      "name": "Alkantara",
-      "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
       },
@@ -531,6 +499,22 @@
       "duration_ms": 216200,
       "name": "Lose Your Head - CamelPhat Remix",
       "url": "https://open.spotify.com/track/16Tsi2k0C9QNpyIXyMBbo6"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Alkantara",
+        "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
+      },
+      "artists": [
+        {
+          "name": "Bottai",
+          "url": "https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk"
+        }
+      ],
+      "duration_ms": 216393,
+      "name": "Alkantara",
+      "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -559,18 +543,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Piece Of Art",
-        "url": "https://open.spotify.com/album/2FxV796hbaU52R033iD7s5"
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
       },
       "artists": [
         {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         }
       ],
-      "duration_ms": 196751,
-      "name": "Piece Of Art",
-      "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
+      "duration_ms": 253662,
+      "name": "Zeit & Raum",
+      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -587,6 +571,22 @@
       "duration_ms": 210356,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Piece Of Art",
+        "url": "https://open.spotify.com/album/2FxV796hbaU52R033iD7s5"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        }
+      ],
+      "duration_ms": 196751,
+      "name": "Piece Of Art",
+      "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "All We Have Is Now / Stay The Same",
-        "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
-      },
-      "artists": [
-        {
-          "name": "Just Her",
-          "url": "https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL"
-        }
-      ],
-      "duration_ms": 252125,
-      "name": "All We Have Is Now",
-      "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 249677,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "All We Have Is Now / Stay The Same",
+        "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
+      },
+      "artists": [
+        {
+          "name": "Just Her",
+          "url": "https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL"
+        }
+      ],
+      "duration_ms": 252125,
+      "name": "All We Have Is Now",
+      "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Need You by My Side",
-        "url": "https://open.spotify.com/album/1dQQsumH9Y0MO5xbq3Tr9s"
-      },
-      "artists": [
-        {
-          "name": "Boy North",
-          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
-        }
-      ],
-      "duration_ms": 200874,
-      "name": "Need You By My Side",
-      "url": "https://open.spotify.com/track/09xjDhkPAbr3OqP9zYjnM8"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Ascendance / Give It Up",
         "url": "https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 230673,
       "name": "Ascendance",
       "url": "https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Need You by My Side",
+        "url": "https://open.spotify.com/album/1dQQsumH9Y0MO5xbq3Tr9s"
+      },
+      "artists": [
+        {
+          "name": "Boy North",
+          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
+        }
+      ],
+      "duration_ms": 200874,
+      "name": "Need You By My Side",
+      "url": "https://open.spotify.com/track/09xjDhkPAbr3OqP9zYjnM8"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -879,6 +879,26 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Unity Pt. 2",
+        "url": "https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX"
+      },
+      "artists": [
+        {
+          "name": "Tale Of Us",
+          "url": "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "duration_ms": 372906,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Colibr\u00ed",
         "url": "https://open.spotify.com/album/3E0HK3VIW7CkG90bFNEoqo"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 236000,
       "name": "Vivi",
       "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Unity Pt. 2",
-        "url": "https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX"
-      },
-      "artists": [
-        {
-          "name": "Tale Of Us",
-          "url": "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
-        },
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        }
-      ],
-      "duration_ms": 372906,
-      "name": "Vanishing",
-      "url": "https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Shizumu",
+        "url": "https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj"
+      },
+      "artists": [
+        {
+          "name": "Lycoriscoris",
+          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
+        }
+      ],
+      "duration_ms": 231830,
+      "name": "Shizumu",
+      "url": "https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "The Old You",
         "url": "https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 195701,
       "name": "The Old You",
       "url": "https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Shizumu",
-        "url": "https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj"
-      },
-      "artists": [
-        {
-          "name": "Lycoriscoris",
-          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
-        }
-      ],
-      "duration_ms": 231830,
-      "name": "Shizumu",
-      "url": "https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ"
     },
     {
       "added_at": "2022-11-25 16:56:36",

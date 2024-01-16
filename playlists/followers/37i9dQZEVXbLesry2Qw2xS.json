@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 18144,
+  "2024-01-16": 18138,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Estonia.",
   "name": "Top 50 - Estonia",
@@ -1581,7 +1581,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 63415,
       "name": "american dream",
       "url": "https://open.spotify.com/track/4yreExU3eRNTe2iJz6X6k3"
@@ -3635,6 +3635,24 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
       "album": {
@@ -5963,7 +5981,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 265305,
       "name": "dangerous",
       "url": "https://open.spotify.com/track/0fyP96TikhD9sM4eKqw5Yp"
@@ -12757,7 +12775,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -15133,7 +15151,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 163822,
       "name": "KUHU KADUS STEN?",
       "url": "https://open.spotify.com/track/63YH4W1jfTXbuS9LNSCTXB"
@@ -16013,7 +16031,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 159133,
       "name": "letter to my brudda",
       "url": "https://open.spotify.com/track/5P1z8XwsCStb74emERTx9v"
@@ -20897,7 +20915,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 167864,
       "name": "Not Allowed",
       "url": "https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB"
@@ -21883,7 +21901,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 213850,
       "name": "Paarist\u00f5uked",
       "url": "https://open.spotify.com/track/5fhn8aAo9FAl1pVLsMPOPk"
@@ -23309,7 +23327,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 207585,
       "name": "prove it",
       "url": "https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF"
@@ -25419,7 +25437,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 182039,
       "name": "see the real",
       "url": "https://open.spotify.com/track/4E64eAph6AYI98ucunrGH8"
@@ -25891,7 +25909,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 186770,
       "name": "should've wore a bonnet",
       "url": "https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ"
@@ -31623,7 +31641,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"

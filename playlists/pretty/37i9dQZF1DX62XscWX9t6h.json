@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 169009,
+  "num_followers": 169218,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2I2ZDE5YjkwYjIyZWY4MmUwOGNiMGRiM2U4MmI0YzM1M2Q3NzQ4",
+  "snapshot_id": "MCwyMmQzNGIyOWE4NDdkNjc2NGJhMWNhYjFmNDQ4NGZhZTQ3Mzk0MTNh",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -245,24 +245,20 @@
       "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
     },
     {
-      "added_at": "2022-08-03 03:33:55",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
+        "name": "Ordet",
+        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
       },
       "artists": [
         {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Bremer/McCoy",
+          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Savanne",
-      "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
+      "duration_ms": 216362,
+      "name": "Midnat",
+      "url": "https://open.spotify.com/track/3IuCUFbRlEXQv9Wjbbxyys"
     },
     {
       "added_at": "2024-01-05 00:53:46",
@@ -281,20 +277,24 @@
       "url": "https://open.spotify.com/track/2irMaYF8DQXBz6ILPvTdmr"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-08-03 03:33:55",
       "album": {
-        "name": "Ordet",
-        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
       "artists": [
         {
-          "name": "Bremer/McCoy",
-          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 216362,
-      "name": "Midnat",
-      "url": "https://open.spotify.com/track/3IuCUFbRlEXQv9Wjbbxyys"
+      "duration_ms": 316093,
+      "name": "Savanne",
+      "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -575,38 +575,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Stone by Stone",
-        "url": "https://open.spotify.com/album/6eKOlWJno03vPizhhyY1VO"
-      },
-      "artists": [
-        {
-          "name": "Ikebe Shakedown",
-          "url": "https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Rio Grande",
-      "url": "https://open.spotify.com/track/174aZteQew30wcq8sPzlW6"
-    },
-    {
-      "added_at": "2023-12-12 21:18:55",
-      "album": {
-        "name": "The Livelong Day",
-        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 614363,
-      "name": "The Wild Rover",
-      "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Carry Me Home",
         "url": "https://open.spotify.com/album/18xdK3SoHfN0nHVAQfKvnQ"
       },
@@ -619,6 +587,22 @@
       "duration_ms": 327560,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/2mgIoFgItGxpYAQw5j1ShQ"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Stone by Stone",
+        "url": "https://open.spotify.com/album/6eKOlWJno03vPizhhyY1VO"
+      },
+      "artists": [
+        {
+          "name": "Ikebe Shakedown",
+          "url": "https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Rio Grande",
+      "url": "https://open.spotify.com/track/174aZteQew30wcq8sPzlW6"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -651,6 +635,22 @@
       "duration_ms": 167293,
       "name": "Dance of Maria",
       "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC"
+    },
+    {
+      "added_at": "2023-12-12 21:18:55",
+      "album": {
+        "name": "The Livelong Day",
+        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 614363,
+      "name": "The Wild Rover",
+      "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
-        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
-      },
-      "artists": [
-        {
-          "name": "William Onyeabor",
-          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
-        }
-      ],
-      "duration_ms": 479546,
-      "name": "Atomic Bomb",
-      "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "K.G.",
         "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
       },
@@ -795,6 +779,42 @@
       "duration_ms": 209803,
       "name": "Automation",
       "url": "https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Yeti Season (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Piya Malik",
+          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+        }
+      ],
+      "duration_ms": 192404,
+      "name": "Murkit Gem",
+      "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "duration_ms": 479546,
+      "name": "Atomic Bomb",
+      "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
     },
     {
       "added_at": "2022-02-18 02:21:25",
@@ -831,22 +851,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Yeti Season (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
       "artists": [
         {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Piya Malik",
-          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
         }
       ],
-      "duration_ms": 192404,
-      "name": "Murkit Gem",
-      "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
+      "duration_ms": 298969,
+      "name": "Chismiten",
+      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
     },
     {
       "added_at": "2023-11-23 03:51:02",
@@ -863,22 +879,6 @@
       "duration_ms": 331500,
       "name": "Bear Creek",
       "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 298969,
-      "name": "Chismiten",
-      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -981,6 +981,22 @@
       "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
     },
     {
+      "added_at": "2022-12-29 18:51:03",
+      "album": {
+        "name": "Tayyara Warak (Habibi Funk 023)",
+        "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
+      },
+      "artists": [
+        {
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        }
+      ],
+      "duration_ms": 168097,
+      "name": "Tayyara Warak",
+      "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Yemay\u00e1",
@@ -999,22 +1015,6 @@
       "duration_ms": 239875,
       "name": "Yemay\u00e1",
       "url": "https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4"
-    },
-    {
-      "added_at": "2022-12-29 18:51:03",
-      "album": {
-        "name": "Tayyara Warak (Habibi Funk 023)",
-        "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
-      },
-      "artists": [
-        {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
-        }
-      ],
-      "duration_ms": 168097,
-      "name": "Tayyara Warak",
-      "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
+        "name": "Yol",
+        "url": "https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 258315,
+      "name": "Y\u00fcce Dag Basinda",
+      "url": "https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
         "name": "Cera Perdida",
         "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 189892,
       "name": "Jaley Jaley",
       "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
-    },
-    {
-      "added_at": "2022-07-28 06:00:43",
-      "album": {
-        "name": "Weird Fishes/ Arpeggi",
-        "url": "https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
-        }
-      ],
-      "duration_ms": 325773,
-      "name": "Weird Fishes/ Arpeggi",
-      "url": "https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1231,6 +1231,22 @@
       "duration_ms": 338108,
       "name": "Tala Tannam",
       "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
+    },
+    {
+      "added_at": "2022-07-28 06:00:43",
+      "album": {
+        "name": "Weird Fishes/ Arpeggi",
+        "url": "https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "duration_ms": 325773,
+      "name": "Weird Fishes/ Arpeggi",
+      "url": "https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1301,10 +1317,10 @@
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2023-03-31 19:02:24",
       "album": {
-        "name": "Yol",
-        "url": "https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k"
+        "name": "A\u015fk",
+        "url": "https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8"
       },
       "artists": [
         {
@@ -1312,9 +1328,9 @@
           "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
         }
       ],
-      "duration_ms": 258315,
-      "name": "Y\u00fcce Dag Basinda",
-      "url": "https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH"
+      "duration_ms": 220142,
+      "name": "Rak\u0131ya Su Katamam",
+      "url": "https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1335,6 +1351,22 @@
       "duration_ms": 319653,
       "name": "Tittle Tattle",
       "url": "https://open.spotify.com/track/250EZZGyjYplBum6Simk1B"
+    },
+    {
+      "added_at": "2023-02-23 03:11:35",
+      "album": {
+        "name": "In Between Thoughts...A New World",
+        "url": "https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "Descending To Nowhere",
+      "url": "https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1367,22 +1399,6 @@
       "duration_ms": 236578,
       "name": "\u015einanay",
       "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
-    },
-    {
-      "added_at": "2023-02-23 03:11:35",
-      "album": {
-        "name": "In Between Thoughts...A New World",
-        "url": "https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Descending To Nowhere",
-      "url": "https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1473,6 +1489,22 @@
       "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
     },
     {
+      "added_at": "2023-03-29 18:06:57",
+      "album": {
+        "name": "A\u015fk",
+        "url": "https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Su S\u0131z\u0131yor",
+      "url": "https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU"
+    },
+    {
       "added_at": "2022-08-31 05:11:30",
       "album": {
         "name": "Enter J's Chamber",
@@ -1487,22 +1519,6 @@
       "duration_ms": 287026,
       "name": "Serpentines (to Nik\u0161i\u0107)",
       "url": "https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY"
-    },
-    {
-      "added_at": "2023-03-31 19:02:24",
-      "album": {
-        "name": "A\u015fk",
-        "url": "https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 220142,
-      "name": "Rak\u0131ya Su Katamam",
-      "url": "https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv"
     },
     {
       "added_at": "2022-03-04 21:17:03",
@@ -1521,20 +1537,20 @@
       "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
     },
     {
-      "added_at": "2023-09-25 02:48:36",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Love Buzz",
-        "url": "https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC"
+        "name": "Zan",
+        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
       },
       "artists": [
         {
-          "name": "Gaye Su Akyol",
-          "url": "https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ"
+          "name": "Liraz",
+          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
         }
       ],
-      "duration_ms": 262079,
-      "name": "Love Buzz",
-      "url": "https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i"
+      "duration_ms": 216640,
+      "name": "Bia Bia",
+      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1557,20 +1573,20 @@
       "url": "https://open.spotify.com/track/0yV9em29PuD1roFpthc0aQ"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2023-09-25 02:48:36",
       "album": {
-        "name": "Zan",
-        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
+        "name": "Love Buzz",
+        "url": "https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC"
       },
       "artists": [
         {
-          "name": "Liraz",
-          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
+          "name": "Gaye Su Akyol",
+          "url": "https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ"
         }
       ],
-      "duration_ms": 216640,
-      "name": "Bia Bia",
-      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
+      "duration_ms": 262079,
+      "name": "Love Buzz",
+      "url": "https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1619,22 +1635,6 @@
       "duration_ms": 310446,
       "name": "Yaykatekar Dub (Love Dub)",
       "url": "https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT"
-    },
-    {
-      "added_at": "2023-03-29 18:06:57",
-      "album": {
-        "name": "A\u015fk",
-        "url": "https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Su S\u0131z\u0131yor",
-      "url": "https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU"
     },
     {
       "added_at": "2021-10-20 20:05:06",

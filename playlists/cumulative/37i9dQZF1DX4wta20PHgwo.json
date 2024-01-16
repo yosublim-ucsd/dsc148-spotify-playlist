@@ -2085,6 +2085,24 @@
     },
     {
       "album": {
+        "name": "Defiant, Tender Warrior",
+        "url": "https://open.spotify.com/album/6o4Vh8olYsbYaMSBc8kR3B"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256840,
+      "name": "Defiant, Tender Warrior",
+      "url": "https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4"
+    },
+    {
+      "album": {
         "name": "Trust and Honesty",
         "url": "https://open.spotify.com/album/6q0OYWv7DtOV9iY0yryzWh"
       },
@@ -4300,7 +4318,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 309733,
       "name": "Lookout for Hope",
       "url": "https://open.spotify.com/track/0MN9n3I4Hicx8rbb1CqvaH"

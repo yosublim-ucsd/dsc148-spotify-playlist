@@ -1,12 +1,12 @@
 {
   "description": "Ya que el amor, de m\u00fasica ligera #ZodiacoSpotify Foto: Sebasti\u00e1n Yatra",
-  "num_followers": 71340,
+  "num_followers": 71361,
   "original_name": "Libra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTllYjVmMmJkYzlkNzIwY2E3MjhjNDk1N2U1ZWE0YTM5YzUwM2M1",
+  "snapshot_id": "MCxkOGYyNzhhNzNmYzQ3OTk1ZDYzMDFjMTMxOWVjYWRlYzMwMWQyNWVk",
   "tracks": [
     {
       "added_at": "2020-06-15 23:32:26",
@@ -127,22 +127,6 @@
     {
       "added_at": "2020-06-15 23:32:26",
       "album": {
-        "name": "Face Value (Deluxe Editon)",
-        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 336453,
-      "name": "In The Air Tonight - 2015 Remastered",
-      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
-    },
-    {
-      "added_at": "2020-06-15 23:32:26",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 187866,
       "name": "Imagine - Remastered 2010",
       "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+    },
+    {
+      "added_at": "2020-06-15 23:32:26",
+      "album": {
+        "name": "Face Value (Deluxe Editon)",
+        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 336453,
+      "name": "In The Air Tonight - 2015 Remastered",
+      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
     },
     {
       "added_at": "2020-06-15 23:32:26",

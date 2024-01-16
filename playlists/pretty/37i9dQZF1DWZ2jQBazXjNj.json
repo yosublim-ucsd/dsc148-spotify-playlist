@@ -1,12 +1,12 @@
 {
   "description": "Corridos aesthetic y rolitas pa' las buchifresas \ud83c\udf53\ud83c\udf51",
-  "num_followers": 55635,
+  "num_followers": 55839,
   "original_name": "Corridos Aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmIxY2Y4NjAxM2EzZTgxYzYwNmQ3ZjY4YzNmM2QzOWI0MWQyZjNm",
+  "snapshot_id": "MCxlOWRhYzFiYjRlYWFlMDVmZGYyMGNjN2MwMmFmYzMxOWQ2NTcwM2Uw",
   "tracks": [
     {
       "added_at": "2024-01-12 07:10:12",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
+        "name": "TQM",
+        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158965,
+      "name": "TQM",
+      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
         "name": "Las Morras",
         "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 193621,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
-        "name": "TQM",
-        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 158965,
-      "name": "TQM",
-      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -343,22 +343,18 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "No Quiero Perderte",
-        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
+        "name": "Corleone",
+        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 159530,
-      "name": "No Quiero Perderte",
-      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
+      "duration_ms": 203829,
+      "name": "Hoy Todo Cambio",
+      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -395,18 +391,22 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "Corleone",
-        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+        "name": "No Quiero Perderte",
+        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 203829,
-      "name": "Hoy Todo Cambio",
-      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
+      "duration_ms": 159530,
+      "name": "No Quiero Perderte",
+      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -423,6 +423,26 @@
       "duration_ms": 183680,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
+        "name": "La Fresa",
+        "url": "https://open.spotify.com/album/6o8WsqrJDQBPxG2gxnZIpu"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174923,
+      "name": "La Fresa",
+      "url": "https://open.spotify.com/track/2DzHUSTaK8KWDYjiPuHzPu"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -447,22 +467,22 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "La Fresa",
-        "url": "https://open.spotify.com/album/6o8WsqrJDQBPxG2gxnZIpu"
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 174923,
-      "name": "La Fresa",
-      "url": "https://open.spotify.com/track/2DzHUSTaK8KWDYjiPuHzPu"
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -499,22 +519,6 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
         "name": "Rosas",
         "url": "https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E"
       },
@@ -531,38 +535,18 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 155818,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
-        "name": "Malas Decisiones",
-        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
+      "duration_ms": 193666,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -579,6 +563,22 @@
       "duration_ms": 199210,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "Todo Porque Te Amo",
-        "url": "https://open.spotify.com/album/6hpCzNbJXGyzW22aPVTQoC"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Todo Porque Te Amo",
-      "url": "https://open.spotify.com/track/6xEUelbWEG0tntBKr3qjK3"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
         "name": "Eres Mi Crush",
         "url": "https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp"
       },
@@ -679,6 +663,42 @@
       "duration_ms": 227380,
       "name": "Mi Amor Por Ti",
       "url": "https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
+        "name": "LALA",
+        "url": "https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
+        "name": "Todo Porque Te Amo",
+        "url": "https://open.spotify.com/album/6hpCzNbJXGyzW22aPVTQoC"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Todo Porque Te Amo",
+      "url": "https://open.spotify.com/track/6xEUelbWEG0tntBKr3qjK3"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -719,42 +739,6 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "LALA",
-        "url": "https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
-        "name": "Te Perdonar\u00eda",
-        "url": "https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        }
-      ],
-      "duration_ms": 163542,
-      "name": "Te Perdonar\u00eda",
-      "url": "https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/7kRqoAgwxx9miEyVIfoqBS"
       },
@@ -775,6 +759,38 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
+        "name": "No Me Quiero Enamorar",
+        "url": "https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 159929,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
+        "name": "Te Perdonar\u00eda",
+        "url": "https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "duration_ms": 163542,
+      "name": "Te Perdonar\u00eda",
+      "url": "https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
         "name": "La Playa",
         "url": "https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO"
       },
@@ -791,22 +807,18 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "Colgando En Tus Manos (En Vivo)",
-        "url": "https://open.spotify.com/album/3RxqQkDJNnDtGkz9cAITm5"
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
       },
       "artists": [
         {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        },
-        {
-          "name": "Angelina Victoria",
-          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Colgando En Tus Manos (En Vivo)",
-      "url": "https://open.spotify.com/track/1aUfM1dau8x2Zcrbm6JZeZ"
+      "duration_ms": 193960,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -827,34 +839,22 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "No Me Quiero Enamorar",
-        "url": "https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP"
+        "name": "Colgando En Tus Manos (En Vivo)",
+        "url": "https://open.spotify.com/album/3RxqQkDJNnDtGkz9cAITm5"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 159929,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
-      },
-      "artists": [
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        },
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Angelina Victoria",
+          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
         }
       ],
-      "duration_ms": 193960,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
+      "duration_ms": 203600,
+      "name": "Colgando En Tus Manos (En Vivo)",
+      "url": "https://open.spotify.com/track/1aUfM1dau8x2Zcrbm6JZeZ"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "Ocean (Versi\u00f3n Norte\u00f1o)",
-        "url": "https://open.spotify.com/album/5C5lBJSmjLAF87w9yXW6px"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Reta",
-          "url": "https://open.spotify.com/artist/7tLva7S0wR560BjLDuERQi"
-        }
-      ],
-      "duration_ms": 187397,
-      "name": "Ocean (Versi\u00f3n Norte\u00f1o)",
-      "url": "https://open.spotify.com/track/1pvk9aZ2aZvfVumOUZu4zc"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
         "name": "Las M\u00e1s Pedidas (Cover)",
         "url": "https://open.spotify.com/album/3s0zPWQXnBr6hjCwnTw0SK"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 210649,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor - Cover",
       "url": "https://open.spotify.com/track/33BVSng7vUV8EYhKetJkbe"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
+        "name": "Ocean (Versi\u00f3n Norte\u00f1o)",
+        "url": "https://open.spotify.com/album/5C5lBJSmjLAF87w9yXW6px"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Reta",
+          "url": "https://open.spotify.com/artist/7tLva7S0wR560BjLDuERQi"
+        }
+      ],
+      "duration_ms": 187397,
+      "name": "Ocean (Versi\u00f3n Norte\u00f1o)",
+      "url": "https://open.spotify.com/track/1pvk9aZ2aZvfVumOUZu4zc"
     },
     {
       "added_at": "2024-01-12 07:10:12",

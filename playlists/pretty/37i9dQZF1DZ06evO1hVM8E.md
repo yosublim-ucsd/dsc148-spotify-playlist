@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,520 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,519 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 50 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:03 |
 | 51 | [Sin Pensar Yo Te Engañé](https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Derecho De Antigüedad](https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT) | 3:40 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDA5NDAwMDRhNjc4ZGZjY2UyYjc0OGQ3ZTkyZmJkMTMwMQ==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDAzYzM0YzMwODUxMjRlOTQ4YjRhOTU4MGQ4MTU0NjMwNg==`

@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Subtronics and Rezz",
-  "num_followers": 975654,
+  "num_followers": 975604,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTNlODgzMzk1Zjg2MDUzM2ExOTc0MThiN2Q5ZGRkNTRjMzBhYTM2",
+  "snapshot_id": "MCwyMWIzYWE0YzE0YzI5N2Q3NzM1NGYzZjQxMThlMTVmMjU1ZDhiNmRm",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -977,6 +977,26 @@
       "url": "https://open.spotify.com/track/5CMOwBRA9nShq31cMeMEsE"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "2 RUFF, Vol. 1",
+        "url": "https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Selecta (feat. Stefflon Don)",
+      "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Chase The Sun",
@@ -1047,26 +1067,6 @@
       "duration_ms": 167172,
       "name": "Badders",
       "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "2 RUFF, Vol. 1",
-        "url": "https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Selecta (feat. Stefflon Don)",
-      "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1185,6 +1185,26 @@
       "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Say The Word (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Say The Word (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
+    },
+    {
       "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "High Voltage (with JT Foley)",
@@ -1259,26 +1279,6 @@
       "duration_ms": 161708,
       "name": "F.Y.U.",
       "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Say The Word (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Say The Word (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1381,20 +1381,28 @@
       "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "INFERNO / Ratchets",
-        "url": "https://open.spotify.com/album/6doPpUdLA2hRzbE4YJDTHI"
+        "name": "Don't Look Down (Hold On)",
+        "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
       "artists": [
         {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
         }
       ],
-      "duration_ms": 167533,
-      "name": "INFERNO",
-      "url": "https://open.spotify.com/track/0qGWp7DlpMBeD1ol9uTHfV"
+      "duration_ms": 245333,
+      "name": "Don't Look Down (Hold On)",
+      "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1421,30 +1429,6 @@
       "url": "https://open.spotify.com/track/0m3EsIfqAfo48vGr18KVpq"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Don't Look Down (Hold On)",
-        "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Don't Look Down (Hold On)",
-      "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
-    },
-    {
       "added_at": "2024-01-05 05:03:38",
       "album": {
         "name": "Hot In Here",
@@ -1465,20 +1449,20 @@
       "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Tear Jerker",
-        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
+        "name": "INFERNO / Ratchets",
+        "url": "https://open.spotify.com/album/6doPpUdLA2hRzbE4YJDTHI"
       },
       "artists": [
         {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
         }
       ],
-      "duration_ms": 155538,
-      "name": "Tear Jerker",
-      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
+      "duration_ms": 167533,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/0qGWp7DlpMBeD1ol9uTHfV"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 222608,
       "name": "Omnidirectional",
       "url": "https://open.spotify.com/track/3Uadv5DQG3qXZ1jFYIQBVT"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Tear Jerker",
+        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Tear Jerker",
+      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Asteroid",
+      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "kidsgonemad!",
         "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 228800,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/4Xo0c4AtfUUuprVEKzyNYW"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Asteroid",
-      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
     },
     {
       "added_at": "2023-12-15 05:13:07",
@@ -1825,6 +1825,22 @@
       "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Stone cold.",
+        "url": "https://open.spotify.com/album/0XegDwoQDiCJYLu4VODUzx"
+      },
+      "artists": [
+        {
+          "name": "The Caracal Project",
+          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Stone cold.",
+      "url": "https://open.spotify.com/track/27hGDu6VTcXy0sugTIsDvv"
+    },
+    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "ANGELS IN HELL",
@@ -1847,22 +1863,6 @@
       "duration_ms": 234350,
       "name": "ANGELS IN HELL",
       "url": "https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Stone cold.",
-        "url": "https://open.spotify.com/album/0XegDwoQDiCJYLu4VODUzx"
-      },
-      "artists": [
-        {
-          "name": "The Caracal Project",
-          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Stone cold.",
-      "url": "https://open.spotify.com/track/27hGDu6VTcXy0sugTIsDvv"
     },
     {
       "added_at": "2023-12-15 05:13:07",

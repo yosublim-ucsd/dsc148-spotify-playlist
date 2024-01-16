@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,433 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,446 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 23 | [I Need You Tonight \- 2008 Remaster](https://open.spotify.com/track/4s22XSQoOFvN5HrXk9YZ3I) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 6:18 |
 | 24 | [Tube Snake Boogie](https://open.spotify.com/track/0KbtyQ2oKJWiFJz5wY4HBX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The ZZ Top Sixpack](https://open.spotify.com/album/7qiuWLGm20GqQ19ykHbGAF) | 3:04 |
 | 25 | [\(Somebody Else Been\) Shaking Your Tree](https://open.spotify.com/track/56osPBrG8UgZTlgJN6IUYD) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 2:35 |
-| 26 | [Chartreuse](https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 2:57 |
-| 27 | [Viva Las Vegas](https://open.spotify.com/track/5JFywJVhSvuJI6KB9ikgjA) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:46 |
+| 26 | [Viva Las Vegas](https://open.spotify.com/track/5JFywJVhSvuJI6KB9ikgjA) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:46 |
+| 27 | [Chartreuse](https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 2:57 |
 | 28 | [Nasty Dogs and Funky Kings \- 2005 Remaster](https://open.spotify.com/track/2nOkKjTkLvKeebQEHUB3Hi) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:42 |
 | 29 | [I Thank You](https://open.spotify.com/track/4iIU7YoqElLJa6gNx9mDx2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 3:24 |
 | 30 | [Stages](https://open.spotify.com/track/4Sx0FBH0vNWZVxeUCpdHoL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:32 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 37 | [Planet of Women](https://open.spotify.com/track/6VdlbIPdzJYj35Tq05vsH5) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 4:02 |
 | 38 | [Brown Sugar](https://open.spotify.com/track/5dGVIZ6oc0ScR4ldWGbXSU) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 5:24 |
 | 39 | [Pearl Necklace](https://open.spotify.com/track/4anJfhuQLpdg637D6wt0cL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:05 |
-| 40 | [Master of Sparks \- 2006 Remaster](https://open.spotify.com/track/5QlRoZ3eJRwFOK8xBQf44y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:29 |
-| 41 | [Sixteen Tons \(feat\. Jeff Beck\) \- Live from London](https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Sixteen Tons \(feat\. Jeff Beck\) \[Live From London\]](https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge) | 3:17 |
+| 40 | [Sixteen Tons \(feat\. Jeff Beck\) \- Live from London](https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Sixteen Tons \(feat\. Jeff Beck\) \[Live From London\]](https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge) | 3:17 |
+| 41 | [Master of Sparks \- 2006 Remaster](https://open.spotify.com/track/5QlRoZ3eJRwFOK8xBQf44y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:29 |
 | 42 | [Give It Up](https://open.spotify.com/track/470PZEQc7PUnvhp73hSrJc) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:29 |
 | 43 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/30sJmjuLalNSzlRIml1PlJ) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 7:20 |
-| 44 | [Velcro Fly](https://open.spotify.com/track/511XWfaUgmaVcms4OhQ9oz) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:29 |
-| 45 | [Certified Blues](https://open.spotify.com/track/7mdPXhJBfxJBonEmqZvm9t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 3:27 |
-| 46 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
+| 44 | [Squank](https://open.spotify.com/track/5ndUXJQPTVDPVlQUgW2vgE) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 2:48 |
+| 45 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
+| 46 | [Velcro Fly](https://open.spotify.com/track/511XWfaUgmaVcms4OhQ9oz) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:29 |
 | 47 | [Down Brownie](https://open.spotify.com/track/0aipmEKEVMfYccmS4CQa6C) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 2:30 |
-| 48 | [She Loves My Automobile](https://open.spotify.com/track/4AeZKrbiPqJuVrJvrngTkR) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 2:23 |
-| 49 | [Squank](https://open.spotify.com/track/5ndUXJQPTVDPVlQUgW2vgE) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 2:48 |
+| 48 | [Certified Blues](https://open.spotify.com/track/7mdPXhJBfxJBonEmqZvm9t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 3:27 |
+| 49 | [She Loves My Automobile](https://open.spotify.com/track/4AeZKrbiPqJuVrJvrngTkR) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 2:23 |
 | 50 | [Mexican Blackbird \- 2005 Remaster](https://open.spotify.com/track/7rbm9b3fLOKCCBqNFVdkWV) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 3:05 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDAyNzVkNTM1YTY3M2M4ZGQ1MjZjZDk1MGYyOWY3NTgzMw==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDAxYmQzNGUxODRlMTQxYjNlMDAxMDE5YTEyNThlYzQzYg==`

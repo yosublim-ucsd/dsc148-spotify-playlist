@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 42495,
+  "2024-01-16": 42603,
   "date_first_scraped": "2022-03-22",
   "description": "Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own. ",
   "name": "The Listening Room",
@@ -2895,6 +2895,24 @@
       "duration_ms": 425733,
       "name": "It's All You",
       "url": "https://open.spotify.com/track/1vt2whkHsfAVtoitCPeJcp"
+    },
+    {
+      "album": {
+        "name": "2023",
+        "url": "https://open.spotify.com/album/6QQEN5mwHoeypL9soPByPj"
+      },
+      "artists": [
+        {
+          "name": "ILIVEHERE.",
+          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337200,
+      "name": "june",
+      "url": "https://open.spotify.com/track/5mMuvuQLsF4rbC6OmW3Tbc"
     },
     {
       "album": {
@@ -6023,7 +6041,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 226975,
       "name": "Take it Easy - Single Version",
       "url": "https://open.spotify.com/track/5oaP0XHFuiaR1f2i9J6Ebq"

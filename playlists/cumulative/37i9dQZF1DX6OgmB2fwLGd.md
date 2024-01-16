@@ -4,7 +4,7 @@
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-929 songs - 1 day 13 hr 58 min
+930 songs - 1 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2023-12-18 |  |
 | [ADHD](https://open.spotify.com/track/2NnYebjJbFNce6q7vVYRsc) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [ADHD](https://open.spotify.com/album/3gRHDUqZGMb4wnHBPvk5OL) | 2:30 | 2023-04-12 | 2023-08-05 |
 | [Africa](https://open.spotify.com/track/4JuRS40lZe0yfSewmnR9mT) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Africa](https://open.spotify.com/album/2Mj6dalgFFAwZBBYiJ8Ego) | 1:40 | 2024-01-08 | 2024-01-12 |
-| [Africa](https://open.spotify.com/track/6ePxkskGVXrhMNFBKpenGX) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Africa](https://open.spotify.com/album/2xJBXWvEMg9lPN08qmERdu) | 1:54 | 2023-12-29 |  |
+| [Africa](https://open.spotify.com/track/6ePxkskGVXrhMNFBKpenGX) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Africa](https://open.spotify.com/album/2xJBXWvEMg9lPN08qmERdu) | 1:54 | 2023-12-29 | 2024-01-16 |
 | [Africa](https://open.spotify.com/track/3EJX92YQikjQ67VnPszDVh) | [Slimenese](https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze) | [Africa](https://open.spotify.com/album/2ZJpYF6pdZZh98WKRSRUxO) | 1:55 | 2023-12-29 | 2024-01-15 |
 | [agenda](https://open.spotify.com/track/3nDjCWmn3FHTI9q8y2twLS) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [agenda](https://open.spotify.com/album/4IZknU9lFykJaudWhINIDl) | 1:39 | 2022-02-03 | 2022-07-30 |
 | [AINT NOTHING](https://open.spotify.com/track/5754hZ1mD8MUxppIBI1Lze) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [AINT NOTHING](https://open.spotify.com/album/5Xcs66TveRQpEMUoJE0V9d) | 2:34 | 2023-10-20 | 2023-11-18 |
@@ -857,6 +857,7 @@
 | [twisted](https://open.spotify.com/track/2eJSp2cHMegpyQpddwnB3o) | [blxty](https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p) | [twisted](https://open.spotify.com/album/7pQye8vr3i3YbGJmDLFytj) | 2:35 | 2023-05-05 | 2023-06-10 |
 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-01-27 | 2023-06-22 |
 | [Ugly](https://open.spotify.com/track/3qDbBtbRv6eBls6q51pAL7) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:35 | 2022-09-09 | 2023-03-23 |
+| [Ukraine \- Let Me Talk Afro Drill Mix](https://open.spotify.com/track/1EHkclXJgi9XKP9xbp51hk) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Slimenese](https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB) | [Ukraine \(Let Me Talk Afro Drill Mix\)](https://open.spotify.com/album/0W5rqpGSQzFT0mkfvuoKII) | 1:55 | 2024-01-15 |  |
 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:09 | 2023-09-08 |  |
 | [UP](https://open.spotify.com/track/7Mkc0cgOKfT6FsdNG5D9A9) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [LAMBDIDDY 2 EP](https://open.spotify.com/album/3gCjy6KiSUHOGszFDrsPJ3) | 1:47 | 2023-12-01 | 2023-12-30 |
 | [VEGAPUNK](https://open.spotify.com/track/2Jh4Ik2VD5Et1J593Vtotp) | [ITSOKTOCRY](https://open.spotify.com/artist/2BUUAEl4BwFRA9NBDgMWSf) | [VEGAPUNK](https://open.spotify.com/album/2vv7kcy8ZfvNHBKtC8btFy) | 2:02 | 2023-02-03 | 2023-04-15 |

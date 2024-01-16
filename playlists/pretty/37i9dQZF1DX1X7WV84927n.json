@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Corey Taylor",
-  "num_followers": 347147,
+  "num_followers": 347203,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTIzNjQwMjYxMzBlZjUyZjUyMjFiMmJlNjZmNThhOGIzYjA2ODI1",
+  "snapshot_id": "MCxiMjMzYmJlZjg0NGJjODZmMmMwYjE0MWE4NjE4M2UwY2EzMDMzZDBl",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 241499,
+      "name": "THE DEATH OF PEACE OF MIND",
+      "url": "https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Take Me Back To Eden",
         "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "THE DEATH OF PEACE OF MIND",
-        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 241499,
-      "name": "THE DEATH OF PEACE OF MIND",
-      "url": "https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Might Love Myself",
-      "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Might Love Myself",
+      "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Dance Devil Dance",
         "url": "https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 244597,
       "name": "The Dirt I'm Buried In",
       "url": "https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Parasite",
-        "url": "https://open.spotify.com/album/1snJ2mJ2UJXASD7QteQ6PK"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/47yul4OvMZctnAVjrEJ1YC"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -699,6 +683,22 @@
       "duration_ms": 316458,
       "name": "Separate Ways (Worlds Apart)",
       "url": "https://open.spotify.com/track/7goFhrbCC2m2HI3EbBYgU4"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/1snJ2mJ2UJXASD7QteQ6PK"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/47yul4OvMZctnAVjrEJ1YC"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Too Good At Raising Hell",
-        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 229212,
-      "name": "Too Good At Raising Hell",
-      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "virus",
         "url": "https://open.spotify.com/album/6nAOndDSvGs7dsQ8FgrdnZ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 226874,
       "name": "virus",
       "url": "https://open.spotify.com/track/56cIg3GhiWW5OLp87pQ8MA"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Too Good At Raising Hell",
+        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 229212,
+      "name": "Too Good At Raising Hell",
+      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Mammoth II",
-        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
-      },
-      "artists": [
-        {
-          "name": "Mammoth WVH",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
-        }
-      ],
-      "duration_ms": 275739,
-      "name": "I\u2019m Alright",
-      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
       },
@@ -1191,22 +1175,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Fallin' With Me",
-        "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 161791,
-      "name": "Fallin' With Me",
-      "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Black Box",
         "url": "https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5"
       },
@@ -1219,6 +1187,38 @@
       "duration_ms": 212621,
       "name": "Like A Drug",
       "url": "https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Mammoth II",
+        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
+      },
+      "artists": [
+        {
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "duration_ms": 275739,
+      "name": "I\u2019m Alright",
+      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Fallin' With Me",
+        "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 161791,
+      "name": "Fallin' With Me",
+      "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Divisive",
+        "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Dinosaur",
         "url": "https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Divisive",
-        "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
+        "name": "Beguiled",
+        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 238109,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
+      "duration_ms": 238143,
+      "name": "Beguiled",
+      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1575,22 +1591,6 @@
       "duration_ms": 181120,
       "name": "Together Right",
       "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Beguiled",
-        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Beguiled",
-      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/53Qn747V1G16yJvN363RZA"
       },
       "artists": [
         {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 286941,
-      "name": "welcome2paradise",
-      "url": "https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ"
+      "duration_ms": 235736,
+      "name": "Paranoid (Crash & Burn)",
+      "url": "https://open.spotify.com/track/1Q1SYwGXe7dFtcTgkgblwF"
     }
   ],
   "unique_name": "Hard Rock",

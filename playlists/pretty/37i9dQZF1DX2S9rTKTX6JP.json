@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 667759,
+  "num_followers": 667814,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjBjYjk4NjA0N2U3YmNkYjFmMDU3OWUzODJlMDRkNDU2Yjk5MzMz",
+  "snapshot_id": "MCwwODYxYjdhZjNlYzE2ZjM1MGQzNmQ1Zjk5MDQ1MjNmZjcwYTk5NmM2",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Last Kiss",
-        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 182733,
       "name": "Live And Let Die",
       "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Last Kiss",
+        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Enjoy the Silence - cover version",
-      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "God's Gonna Cut You Down",
         "url": "https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 160538,
       "name": "God's Gonna Cut You Down",
       "url": "https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Enjoy the Silence - cover version",
+      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 236450,
-      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Girl With the Dragon Tattoo",
         "url": "https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7"
       },
@@ -2107,18 +2091,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 265547,
-      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
-      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
+      "duration_ms": 236450,
+      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2135,6 +2119,22 @@
       "duration_ms": 249853,
       "name": "Ballroom Blitz",
       "url": "https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
-      },
-      "artists": [
-        {
-          "name": "The Polyphonic Spree",
-          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
-        }
-      ],
-      "duration_ms": 323666,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Uninvited",
         "url": "https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8"
       },
@@ -2219,18 +2203,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Fortunate Son",
-        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
       },
       "artists": [
         {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+          "name": "The Polyphonic Spree",
+          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
+      "duration_ms": 323666,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2247,6 +2231,22 @@
       "duration_ms": 269946,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Fortunate Son",
+        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Mississippi Queen/Slow Hand",
-        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
-      },
-      "artists": [
-        {
-          "name": "Joyous Wolf",
-          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Enter Sandman",
         "url": "https://open.spotify.com/album/7sIrH5m7rD2dxhZVWehQjH"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 263693,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/2XGnAEodeIvFvoH60V251s"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Mississippi Queen/Slow Hand",
+        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
+      },
+      "artists": [
+        {
+          "name": "Joyous Wolf",
+          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
     },
     {
       "added_at": "2023-11-17 05:00:00",

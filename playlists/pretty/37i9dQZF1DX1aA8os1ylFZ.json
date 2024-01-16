@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241106,
+  "num_followers": 241072,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjg0MWM2MDVlMWI0YjQ3NTdkMDQ0MTc3OTc0Yjk5ZDhjMzZjNmJh",
+  "snapshot_id": "MCxmNzZlOWM0MjIzZTg1NDllNWZlMzczNDI4YTJjNzQ4NDM2YTU5YzVl",
   "tracks": [
     {
       "added_at": "2023-12-28 23:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
+        "name": "Words of Affirmation",
+        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "duration_ms": 186095,
+      "name": "Words of Affirmation",
+      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 229040,
       "name": "In My Bag",
       "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
-        "name": "Words of Affirmation",
-        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        }
-      ],
-      "duration_ms": 186095,
-      "name": "Words of Affirmation",
-      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
+        "name": "Unfiltered",
+        "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
+      },
+      "artists": [
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "duration_ms": 109270,
+      "name": "Solutions",
+      "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 186666,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
-        "name": "Unfiltered",
-        "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
-      },
-      "artists": [
-        {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
-        }
-      ],
-      "duration_ms": 109270,
-      "name": "Solutions",
-      "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
+        "name": "Baeside",
+        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
+      },
+      "artists": [
+        {
+          "name": "LORNZO",
+          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Baeside",
+      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
         "name": "Do They Know",
         "url": "https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Baeside",
-        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
-      },
-      "artists": [
-        {
-          "name": "LORNZO",
-          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Baeside",
-      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "City Girl",
         "url": "https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn"
       },
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 181422,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "WASTEMAN",
         "url": "https://open.spotify.com/album/5hkDbZCyoA0kD0vdCbyNBA"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 182222,
       "name": "WASTEMAN",
       "url": "https://open.spotify.com/track/6RqUIRQuupESKh8DvgTuRV"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 181422,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
     },
     {
       "added_at": "2023-12-28 23:00:00",

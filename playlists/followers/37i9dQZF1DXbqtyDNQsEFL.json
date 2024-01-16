@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 59303,
+  "2024-01-16": 59400,
   "date_first_scraped": "2022-10-01",
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
   "name": "Be Lifted ",
@@ -2921,7 +2921,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 173015,
       "name": "MAJO",
       "url": "https://open.spotify.com/track/3ixbMvMSAZLWRhqNdlQbnd"
@@ -5443,6 +5443,28 @@
       "duration_ms": 129000,
       "name": "Working In Me",
       "url": "https://open.spotify.com/track/4NrPDnJAh7oM2dQ1qcFYkJ"
+    },
+    {
+      "album": {
+        "name": "Worry About Nothing",
+        "url": "https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204975,
+      "name": "Worry About Nothing",
+      "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
     },
     {
       "album": {

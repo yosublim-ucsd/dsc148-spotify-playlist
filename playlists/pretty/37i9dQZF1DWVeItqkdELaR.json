@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 105828,
+  "num_followers": 105830,
   "original_name": "Ver\u00e3o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTZiM2QwMGM4NjFmNWU3YTI3NDE1YzgxY2FkNzcwMDAxZDc3NGFm",
+  "snapshot_id": "MCw0ZmYxODMzMzMwMjRiYmZhYzllN2I3YjYwODY0NjZjNzhiZDRlZTc2",
   "tracks": [
     {
       "added_at": "2023-08-29 17:00:51",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
+        "name": "If We Ever Broke Up",
+        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "If We Ever Broke Up",
+      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
-        "name": "If We Ever Broke Up",
-        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
-      },
-      "artists": [
-        {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "If We Ever Broke Up",
-      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
+        "name": "Palha\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 170191,
+      "name": "Palha\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
         "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
         "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 206054,
       "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
-        "name": "Palha\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Palha\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "10 Anos (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 144298,
-      "name": "Quando Apaga A Luz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
         "url": "https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 144000,
       "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
       "url": "https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "10 Anos (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 144298,
+      "name": "Quando Apaga A Luz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
     },
     {
       "added_at": "2023-08-29 17:00:51",

@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 11542,
+  "num_followers": 11544,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzhlMjQ0OWYyYzE1ODMwMWE0MzRlNjE5OWUxNzVmZmY3YjM5YTQy",
+  "snapshot_id": "MCwzMThhOTJhMGM2MDgxNzNjZWU0ZDljMzg5MmFlYTdiZmM5ZDIwMzIw",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -203,38 +203,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zitilites",
-        "url": "https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c"
-      },
-      "artists": [
-        {
-          "name": "Kashmir",
-          "url": "https://open.spotify.com/artist/6Jsq0AbwEKcmDuyA4ca9wu"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Surfing The Warm Industry",
-      "url": "https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Mars Audiac Quintet",
-        "url": "https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Wow And Flutter",
-      "url": "https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Flying Microtonal Banana",
         "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
       },
@@ -263,6 +231,38 @@
       "duration_ms": 193530,
       "name": "Nana",
       "url": "https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Mars Audiac Quintet",
+        "url": "https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Wow And Flutter",
+      "url": "https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Zitilites",
+        "url": "https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c"
+      },
+      "artists": [
+        {
+          "name": "Kashmir",
+          "url": "https://open.spotify.com/artist/6Jsq0AbwEKcmDuyA4ca9wu"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "Surfing The Warm Industry",
+      "url": "https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Third",
-        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 387786,
-      "name": "We Carry On",
-      "url": "https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Alexa!",
         "url": "https://open.spotify.com/album/77FBNlMvuIbvsTAJar8rk9"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 234720,
       "name": "Alexa!",
       "url": "https://open.spotify.com/track/1mZvTkWDMhElKK9h91EtTI"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Third",
+        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 387786,
+      "name": "We Carry On",
+      "url": "https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Before And After Science",
-        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 236239,
-      "name": "King's Lead Hat - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Lightbulbs",
         "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 200133,
       "name": "Knickerbocker",
       "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Before And After Science",
+        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 236239,
+      "name": "King's Lead Hat - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv"
     },
     {
       "added_at": "2023-11-08 01:23:32",
@@ -591,6 +591,26 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
+        "url": "https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Andrea Balency",
+          "url": "https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF"
+        }
+      ],
+      "duration_ms": 334979,
+      "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
+      "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Now Here Is Nowhere",
         "url": "https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg"
       },
@@ -671,22 +691,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
-        "url": "https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "Andrea Balency",
-          "url": "https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 334979,
-      "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
-      "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -723,22 +739,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Lodger (2017 Remaster)",
         "url": "https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 209630,
       "name": "Record Still Spinning",
       "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -867,22 +883,6 @@
       "duration_ms": 141800,
       "name": "Han-Tyumi, The Confused Cyborg",
       "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Chinese Restaurant",
-        "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
-      },
-      "artists": [
-        {
-          "name": "Krisma",
-          "url": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
-        }
-      ],
-      "duration_ms": 329786,
-      "name": "C.Rock",
-      "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Power Out",
-        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
+        "name": "Chinese Restaurant",
+        "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
       },
       "artists": [
         {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+          "name": "Krisma",
+          "url": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
         }
       ],
-      "duration_ms": 324333,
-      "name": "Love Builds Up",
-      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
+      "duration_ms": 329786,
+      "name": "C.Rock",
+      "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 384000,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The Power Out",
+        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
+      },
+      "artists": [
+        {
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+        }
+      ],
+      "duration_ms": 324333,
+      "name": "Love Builds Up",
+      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
     },
     {
-      "added_at": "2022-03-18 05:36:55",
-      "album": {
-        "name": "Osa Polar",
-        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 282169,
-      "name": "Osa Polar",
-      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Ohms",
@@ -1291,6 +1275,22 @@
       "duration_ms": 136426,
       "name": "State of Clear",
       "url": "https://open.spotify.com/track/1RpcIabGrqPQQe1jSHwpna"
+    },
+    {
+      "added_at": "2022-03-18 05:36:55",
+      "album": {
+        "name": "Osa Polar",
+        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 282169,
+      "name": "Osa Polar",
+      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": ">>>",
-        "url": "https://open.spotify.com/album/7FAIwJVREPlHAmqesdOwmn"
-      },
-      "artists": [
-        {
-          "name": "Beak>",
-          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
-        }
-      ],
-      "duration_ms": 231377,
-      "name": "Brean Down",
-      "url": "https://open.spotify.com/track/0LvgkU2tHpdzYUjJ94xYcn"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Faust IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2yFbw2SIBZ7ExIBRVoFkJJ"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 708813,
       "name": "Krautrock - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": ">>>",
+        "url": "https://open.spotify.com/album/7FAIwJVREPlHAmqesdOwmn"
+      },
+      "artists": [
+        {
+          "name": "Beak>",
+          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
+        }
+      ],
+      "duration_ms": 231377,
+      "name": "Brean Down",
+      "url": "https://open.spotify.com/track/0LvgkU2tHpdzYUjJ94xYcn"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Interloper",
-        "url": "https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs"
-      },
-      "artists": [
-        {
-          "name": "Holy Wave",
-          "url": "https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b"
-        }
-      ],
-      "duration_ms": 247900,
-      "name": "I'm Not Living in the Past Anymore",
-      "url": "https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Anthology (Remastered Version)",
         "url": "https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 396306,
       "name": "Mother Sky (from Deep End)",
       "url": "https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Interloper",
+        "url": "https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs"
+      },
+      "artists": [
+        {
+          "name": "Holy Wave",
+          "url": "https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b"
+        }
+      ],
+      "duration_ms": 247900,
+      "name": "I'm Not Living in the Past Anymore",
+      "url": "https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1633,20 +1633,20 @@
       "url": "https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-03-23 21:21:38",
       "album": {
-        "name": "NEU! 2",
-        "url": "https://open.spotify.com/album/2PKmOmYVEzOuHwEUpmtuak"
+        "name": "L'\u00e9t\u00e9 suivant...",
+        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
       },
       "artists": [
         {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+          "name": "Limousine",
+          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
         }
       ],
-      "duration_ms": 677493,
-      "name": "Fur immer",
-      "url": "https://open.spotify.com/track/64oCQFb2LQFCROYJOk6mkS"
+      "duration_ms": 387200,
+      "name": "Autoroute",
+      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
     }
   ],
   "unique_name": "Krautrock Highway",

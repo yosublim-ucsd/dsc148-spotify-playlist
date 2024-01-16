@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177106,
+      "name": "Assossam",
+      "url": "https://open.spotify.com/track/4mrDCkjzLhi9CfxYfHWPaD"
+    },
+    {
+      "album": {
         "name": "The Complete Prestige/Bluesville Recordings",
         "url": "https://open.spotify.com/album/57Xzt2jSuJErOnEEmyE0Mr"
       },
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 241529,
       "name": "Shake and Bake",
       "url": "https://open.spotify.com/track/5pcrKXHNn0Yd20cpI5dgha"

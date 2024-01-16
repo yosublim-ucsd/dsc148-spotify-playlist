@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 145976,
+  "2024-01-16": 146063,
   "date_first_scraped": "2021-12-21",
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:0GdzQJqgRL5SHp7kXOKba0\">Wande</a>",
   "name": "The Flow",
@@ -611,6 +611,28 @@
       "duration_ms": 184563,
       "name": "All Joy No Stress (feat. Tedashii)",
       "url": "https://open.spotify.com/track/5Z4D2dNjMFBlL6c4hha7Rq"
+    },
+    {
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/4Afzn2z4er22nFYpIQkDxG"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170154,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/2yqGONpgtntihMfzZgErC2"
     },
     {
       "album": {
@@ -16925,7 +16947,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 130741,
       "name": "Ungodly",
       "url": "https://open.spotify.com/track/7KetrsLsI4NlqVeIuYX0xG"

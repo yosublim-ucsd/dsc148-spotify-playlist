@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-381 songs - 21 hr 12 min
+382 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-07-28 | 2023-09-24 |
 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 | 2022-03-25 |  |
 | [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 | 2023-12-01 |  |
-| [Blue Butterflies](https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd) | [JHIN](https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c) | [Blue Butterflies](https://open.spotify.com/album/2cJJcQCoQRfQe3inKIQa3K) | 2:17 | 2023-08-30 |  |
+| [Blue Butterflies](https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd) | [JHIN](https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c) | [Blue Butterflies](https://open.spotify.com/album/2cJJcQCoQRfQe3inKIQa3K) | 2:17 | 2023-08-30 | 2024-01-16 |
 | [Body](https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:13 | 2022-06-17 |  |
 | [Brand New \(feat\. QUIN\)](https://open.spotify.com/track/75lHm1sBz6m6ytBR4CBmBP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [QUIN](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 2:51 | 2021-12-10 | 2022-07-29 |
 | [Bury me \(feat\. Kelela\)](https://open.spotify.com/track/3tPH2C0umk9pjLBMmz0D9M) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:04 | 2023-11-20 | 2023-12-02 |
@@ -386,6 +386,7 @@
 | [You Belong To Somebody Else](https://open.spotify.com/track/7izlgARoZsidRx23DOBhad) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Fuck A Friend Zone](https://open.spotify.com/album/51OWMVKHXRYaXdizydeRSd) | 3:38 | 2022-07-13 | 2022-09-10 |
 | [You Right](https://open.spotify.com/track/7Me3GKpQyEsHwS9xnOrUgM) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her \(Deluxe\)](https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO) | 3:06 | 2021-12-24 | 2022-11-13 |
 | [You, Dear](https://open.spotify.com/track/318GlwGP0P1jr3FrSiQWZq) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/0IBIPDGBV3UdrwVjDTU8oE) | 3:07 | 2021-12-10 | 2022-10-13 |
+| [Young Rich & In Love](https://open.spotify.com/track/2R6tflIwv19qoYxg5hYLVh) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:18 | 2024-01-12 |  |
 | [Your Guilty Pleasure](https://open.spotify.com/track/1FlH4OcYNclGCb2nIvKmld) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [Your Guilty Pleasure](https://open.spotify.com/album/3x0OjWQt4BhiLZewP0NRkG) | 2:54 | 2021-12-10 | 2022-07-29 |
 | [Your Guilty Pleasure](https://open.spotify.com/track/0Sn0hAaE5yQxyduDZuqWoY) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [Vanity](https://open.spotify.com/album/3Wicqw4vojPJ7Um7DaK9Qi) | 2:54 | 2022-11-10 | 2022-11-13 |
 | [死ぬのがいいわ](https://open.spotify.com/track/54mG1R0iqWi7COJrHAXSkg) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [The Best J\-Pop 2022](https://open.spotify.com/album/1sMOVQA0CuRIWvD5XKgVLn) | 3:05 | 2022-11-10 | 2022-11-13 |

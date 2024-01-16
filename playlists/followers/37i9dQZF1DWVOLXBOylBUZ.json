@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 512491,
+  "2024-01-16": 512332,
   "date_first_scraped": "2022-01-13",
   "description": "Latinoam\u00e9rica baila al ritmo de Kali Uchis.",
   "name": "El Ritmo",
@@ -4563,7 +4563,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 167191,
       "name": "Dem Time Deh",
       "url": "https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf"
@@ -7937,6 +7937,24 @@
       "duration_ms": 217514,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1SLLQv5od5CwfyiuN3mrWu"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh"
     },
     {
       "album": {

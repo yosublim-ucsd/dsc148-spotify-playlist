@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 1,
+  "2024-01-16": 1,
   "date_first_scraped": "2023-06-01",
   "description": "",
   "name": "\ud835\ude5b\ud835\ude68\ud835\ude5d \ud835\ude63\ud835\ude59 \ud835\ude58\ud835\ude5d\ud835\ude65 \ud835\ude5f\ud835\ude62\ud835\ude68 ",
@@ -10949,6 +10949,24 @@
       "duration_ms": 102986,
       "name": "For What",
       "url": "https://open.spotify.com/track/1sVl3DFsvCst5fsnLwRp8v"
+    },
+    {
+      "album": {
+        "name": "We're Not Here to Be Loved",
+        "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305527,
+      "name": "Foreign",
+      "url": "https://open.spotify.com/track/0dhIREu2eVTBCbwLsJhgmJ"
     },
     {
       "album": {
@@ -27344,6 +27362,32 @@
     },
     {
       "album": {
+        "name": "Ketamine Girl",
+        "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
+      },
+      "artists": [
+        {
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
+    },
+    {
+      "album": {
         "name": "DIRTIERNASTIER$UICIDE",
         "url": "https://open.spotify.com/album/6gjGquz7wIJCvQ6gehf1rO"
       },
@@ -33527,6 +33571,24 @@
       "duration_ms": 220706,
       "name": "What the Hell",
       "url": "https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo"
+    },
+    {
+      "album": {
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/2yWdfejXTvMsUOafpKs4gI"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153129,
+      "name": "What Was Really Said",
+      "url": "https://open.spotify.com/track/7dO1Pnoy2Evv4QyL1fimWc"
     },
     {
       "album": {

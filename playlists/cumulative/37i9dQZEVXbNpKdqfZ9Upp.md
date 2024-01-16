@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Honduras.
 
-1,634 songs - 3 day 19 hr 22 min
+1,635 songs - 3 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Chanel](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Chanel](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 | 2023-04-25 | 2023-05-24 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-03-22 | 2022-04-02 |
 | [Chipi Chipi Chapa Chapa](https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [Kairas](https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY) | [Chipi Chipi Chapa Chapa](https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH) | 3:46 | 2024-01-09 | 2024-01-12 |
-| [Chipi Chipi Chapa Chapa Dubidubidu](https://open.spotify.com/track/0tdtQptse7jupJyrkIIFiA) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/37hWotp4LwiFxD9hPOe8tC) | 3:46 | 2024-01-13 |  |
+| [Chipi Chipi Chapa Chapa Dubidubidu](https://open.spotify.com/track/0tdtQptse7jupJyrkIIFiA) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/37hWotp4LwiFxD9hPOe8tC) | 3:46 | 2024-01-13 | 2024-01-16 |
 | [Chocalo](https://open.spotify.com/track/0TXKqTWLPaDhwJNetDgDzP) | [Goldin](https://open.spotify.com/artist/2qdnChURFhL0AEoQ5o8eqm), [KBP EL ALIEN](https://open.spotify.com/artist/4O6h6daISMFjWaM9xqJxAM) | [Chocalo](https://open.spotify.com/album/5YWWx4a09cZjZmP6oiMmfR) | 2:26 | 2023-11-23 | 2023-12-13 |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2022-12-27 | 2023-03-22 |
 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-03-19 | 2023-04-11 |
@@ -462,6 +462,7 @@
 | [El poder](https://open.spotify.com/track/2Sur4LiJLj4grpAK3u0xmX) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C) | [El poder](https://open.spotify.com/album/2xcyJsdn7bYfseEUbYr7c3) | 3:03 | 2022-10-11 | 2022-11-18 |
 | [El Rayo](https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [El Rayo](https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE) | 3:38 | 2023-01-03 | 2023-02-06 |
 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 | 2022-08-16 | 2022-09-18 |
+| [El Rey De La Rapidas](https://open.spotify.com/track/06K5Vl4Ui4QhMEHD6IW9U2) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [El Rey De La Rapidas](https://open.spotify.com/album/50bcMYI7pmJHrhlaD1LnDa) | 2:29 | 2024-01-15 |  |
 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 | 2022-02-24 | 2022-03-02 |
 | [El Soldado Ausente](https://open.spotify.com/track/2bBWSsirMnwnF8ysNXwPf7) | [Los Speed](https://open.spotify.com/artist/1ZmDf9SfaL49Efe6oXxUca) | [Musica Hondureña Tradicional](https://open.spotify.com/album/2mMVSbiHI9XCP6GgNYNk4r) | 5:22 | 2022-12-26 | 2023-12-30 |
 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 | 2023-09-11 | 2023-09-19 |
@@ -1227,7 +1228,7 @@
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-08-08 | 2023-09-06 |
 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2022-10-18 | 2022-10-25 |
 | [RÁPIDO](https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [RÁPIDO](https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe) | 3:02 | 2023-05-24 | 2023-05-31 |
-| [Rápido Soy](https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Rápido Soy](https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr) | 1:54 | 2023-11-17 |  |
+| [Rápido Soy](https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Rápido Soy](https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr) | 1:54 | 2023-11-17 | 2024-01-16 |
 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2023-06-27 | 2023-07-12 |
 | [S91](https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:53 | 2023-08-12 | 2023-08-23 |
 | [SABOR FRESA](https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SABOR FRESA](https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ) | 2:36 | 2023-07-18 | 2023-08-15 |
@@ -1325,7 +1326,7 @@
 | [Sobran Motivos](https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt) | 3:05 | 2023-03-10 | 2023-05-01 |
 | [Sobredosis](https://open.spotify.com/track/6TTkgmwbCnz8Y4oiUdzmtD) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Sobredosis](https://open.spotify.com/album/2CnZQxtqXpbo7qgbLuU0sd) | 2:36 | 2023-10-05 | 2023-10-18 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-28 | 2022-03-23 |
-| [Sol](https://open.spotify.com/track/791SeQLJ0mcwZALYEIlb2V) | [Willian](https://open.spotify.com/artist/01UTnAQSAFwvG7ZRfSnrNK) | [Sol](https://open.spotify.com/album/0KrKL1FwQMiqMMqX5tBUvy) | 2:19 | 2023-08-07 | 2024-01-14 |
+| [Sol](https://open.spotify.com/track/791SeQLJ0mcwZALYEIlb2V) | [Willian](https://open.spotify.com/artist/01UTnAQSAFwvG7ZRfSnrNK) | [Sol](https://open.spotify.com/album/0KrKL1FwQMiqMMqX5tBUvy) | 2:19 | 2023-08-07 |  |
 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 | 2023-01-31 | 2023-02-04 |
 | [Solo Conmigo](https://open.spotify.com/track/22iCMlT0xYryKNnz4X5Vwn) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 4:14 | 2022-09-27 | 2022-10-03 |
 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 | 2022-08-05 | 2022-08-08 |

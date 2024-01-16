@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh"
+    },
+    {
+      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },

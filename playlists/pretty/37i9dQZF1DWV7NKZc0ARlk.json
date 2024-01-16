@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 148789,
+  "num_followers": 149075,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGU4MzgwY2U0NWZjNDdjMDY3ZTc0ODJlYjMzNjRiNGE5ZmI3Yjc1",
+  "snapshot_id": "MCw4Y2JiYmZkYjU2MTQyMWM4NzFhNWU2OGU4MGY1ZTk0NTQzOTE4NjM4",
   "tracks": [
     {
       "added_at": "2023-08-11 13:33:49",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "HA-ASH Primera Fila - Hecho Realidad",
-        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
-      "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
         "name": "MTV Unplugged (En Vivo)",
         "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
@@ -183,22 +167,6 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "MTV Unplugged: Con El Alma Desnuda",
-        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 298546,
-      "name": "La Chica De Humo - MTV Unplugged",
-      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -211,6 +179,38 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "HA-ASH Primera Fila - Hecho Realidad",
+        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "MTV Unplugged: Con El Alma Desnuda",
+        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 298546,
+      "name": "La Chica De Humo - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -231,6 +231,26 @@
       "duration_ms": 291117,
       "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
       "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Deseos de Cosas Imposibles (with Abel Pintos) - Directo Primera Fila",
+      "url": "https://open.spotify.com/track/42rtLutZjrQGmzxZhN5YFA"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -259,42 +279,6 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Deseos de Cosas Imposibles (with Abel Pintos) - Directo Primera Fila",
-      "url": "https://open.spotify.com/track/42rtLutZjrQGmzxZhN5YFA"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
-        "name": "HA-ASH Primera Fila - Hecho Realidad",
-        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "Ex de Verdad - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
-      "url": "https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
       },
@@ -315,22 +299,6 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "La Guzm\u00e1n en Primera Fila",
-        "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Mi Peor Error - Primera Fila [En Vivo]",
-      "url": "https://open.spotify.com/track/4eRSrpFOgXugLRH0odKDej"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
         "name": "Franco De Vita Vuelve en Primera Fila",
         "url": "https://open.spotify.com/album/2KwMBLrvM82Kxm18H5bxdw"
       },
@@ -347,6 +315,38 @@
       "duration_ms": 250960,
       "name": "Te Pienso Sin Querer (feat. Gloria Trevi) - Vuelve en Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/2s1biIrO5DCMrqw3RoidGO"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "La Guzm\u00e1n en Primera Fila",
+        "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Mi Peor Error - Primera Fila [En Vivo]",
+      "url": "https://open.spotify.com/track/4eRSrpFOgXugLRH0odKDej"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "HA-ASH Primera Fila - Hecho Realidad",
+        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "Ex de Verdad - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -391,62 +391,6 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 221146,
-      "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
-      "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
-        "name": "Dos Mundos Revoluci\u00f3n En Vivo (Live At El Lunario En La Ciudad De M\u00e9xico/2010)",
-        "url": "https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "Vamos A Darnos Tiempo - Live At El Lunario En La Ciudad De M\u00e9xico/2010",
-      "url": "https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
-        "name": "HA-ASH Primera Fila - Hecho Realidad",
-        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 243600,
-      "name": "S\u00e9 Que Te Vas (feat. Matisse) - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
-      "url": "https://open.spotify.com/track/42sSYBxc05zD6dTK0KBZIw"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -483,26 +427,6 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "Vitali Sessions #3 (En vivo)",
-        "url": "https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1"
-      },
-      "artists": [
-        {
-          "name": "Vale Acevedo",
-          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
-        },
-        {
-          "name": "Vitali Sessions",
-          "url": "https://open.spotify.com/artist/0qygzhCoNDqxeoer3H2M4Y"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Como vos - En vivo",
-      "url": "https://open.spotify.com/track/2On90QefesETPtJw7LePV2"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
         "name": "La Guzm\u00e1n en Primera Fila",
         "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
       },
@@ -519,22 +443,22 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
+        "name": "HA-ASH Primera Fila - Hecho Realidad",
+        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
       },
       "artists": [
         {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
         }
       ],
-      "duration_ms": 241680,
-      "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
-      "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
+      "duration_ms": 243600,
+      "name": "S\u00e9 Que Te Vas (feat. Matisse) - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/42sSYBxc05zD6dTK0KBZIw"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -555,6 +479,26 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
+        "name": "Vitali Sessions #3 (En vivo)",
+        "url": "https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1"
+      },
+      "artists": [
+        {
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+        },
+        {
+          "name": "Vitali Sessions",
+          "url": "https://open.spotify.com/artist/0qygzhCoNDqxeoer3H2M4Y"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Como vos - En vivo",
+      "url": "https://open.spotify.com/track/2On90QefesETPtJw7LePV2"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
         "name": "Primera Fila (En Vivo)",
         "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
@@ -567,6 +511,62 @@
       "duration_ms": 203346,
       "name": "La Duda (Primera fila) - En Vivo",
       "url": "https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
+      "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "Dos Mundos Revoluci\u00f3n En Vivo (Live At El Lunario En La Ciudad De M\u00e9xico/2010)",
+        "url": "https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "Vamos A Darnos Tiempo - Live At El Lunario En La Ciudad De M\u00e9xico/2010",
+      "url": "https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
+      "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "Primera Fila Sasha Benny Erik",
-        "url": "https://open.spotify.com/album/0DB9SvuVNpmScrd8InA3jv"
-      },
-      "artists": [
-        {
-          "name": "Sasha, Benny y Erik",
-          "url": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "Cada Beso - Primera Fila",
-      "url": "https://open.spotify.com/track/7LXoq0tHtpL3szSsqagc7K"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 300106,
       "name": "Coraz\u00f3n part\u00edo",
       "url": "https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "Primera Fila Sasha Benny Erik",
+        "url": "https://open.spotify.com/album/0DB9SvuVNpmScrd8InA3jv"
+      },
+      "artists": [
+        {
+          "name": "Sasha, Benny y Erik",
+          "url": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC"
+        }
+      ],
+      "duration_ms": 213186,
+      "name": "Cada Beso - Primera Fila",
+      "url": "https://open.spotify.com/track/7LXoq0tHtpL3szSsqagc7K"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "OV7 Primera Fila",
-        "url": "https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa"
-      },
-      "artists": [
-        {
-          "name": "OV7",
-          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Confieso - En Vivo",
-      "url": "https://open.spotify.com/track/7LdnlQjKYxFJ1Ar7sM3sN4"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
         "name": "MTV Unplugged (En Vivo)",
         "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 259320,
       "name": "Ser\u00e1s el Aire - Primera Fila",
       "url": "https://open.spotify.com/track/1s8i3KnevFv5h5BVfFotCl"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "OV7 Primera Fila",
+        "url": "https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa"
+      },
+      "artists": [
+        {
+          "name": "OV7",
+          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Confieso - En Vivo",
+      "url": "https://open.spotify.com/track/7LdnlQjKYxFJ1Ar7sM3sN4"
     },
     {
       "added_at": "2023-08-11 13:33:49",

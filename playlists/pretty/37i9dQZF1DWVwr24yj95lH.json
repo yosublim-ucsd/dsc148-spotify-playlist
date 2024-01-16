@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Staind",
-  "num_followers": 621879,
+  "num_followers": 621707,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzE5ZTE3MDg0YzJhMjUwZDI0NzI4MDQxN2MyNDQ4MTE2ZDJlNGI4",
+  "snapshot_id": "MCwzY2QxODY5ZDZjMTgyNjAxNWU1MjQzYWQ4OWQ4ZDgwMzRlYjY2MGU4",
   "tracks": [
     {
       "added_at": "2023-12-18 16:46:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-12-18 16:46:53",
       "album": {
-        "name": "Silver Side Up",
-        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "How You Remind Me",
-      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
-    },
-    {
-      "added_at": "2023-12-18 16:46:53",
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 193893,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
+    },
+    {
+      "added_at": "2023-12-18 16:46:53",
+      "album": {
+        "name": "Silver Side Up",
+        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
     },
     {
       "added_at": "2023-12-18 16:46:53",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-12-18 16:46:53",
       "album": {
-        "name": "Three Days Grace (Expanded Edition)",
-        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
+        "name": "Karma and Effect",
+        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 231480,
-      "name": "I Hate Everything About You",
-      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
+      "duration_ms": 207213,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
     },
     {
       "added_at": "2023-12-18 16:46:53",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-12-18 16:46:53",
       "album": {
-        "name": "Karma and Effect",
-        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
-    },
-    {
-      "added_at": "2023-12-18 16:46:53",
-      "album": {
         "name": "Leave a Whisper (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 250093,
       "name": "45",
       "url": "https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v"
+    },
+    {
+      "added_at": "2023-12-18 16:46:53",
+      "album": {
+        "name": "Three Days Grace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "I Hate Everything About You",
+      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
     },
     {
       "added_at": "2023-12-18 16:46:53",
@@ -583,6 +583,22 @@
       "duration_ms": 216066,
       "name": "Hanging By A Moment",
       "url": "https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4"
+    },
+    {
+      "added_at": "2023-12-18 16:46:53",
+      "album": {
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 243640,
+      "name": "Fine Again",
+      "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
     },
     {
       "added_at": "2023-12-18 16:46:53",
@@ -623,22 +639,6 @@
     {
       "added_at": "2023-12-18 16:46:53",
       "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 243640,
-      "name": "Fine Again",
-      "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
-    },
-    {
-      "added_at": "2023-12-18 16:46:53",
-      "album": {
         "name": "Lemon Parade",
         "url": "https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 304373,
       "name": "Awake",
       "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
-    },
-    {
-      "added_at": "2023-12-18 16:46:53",
-      "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 258920,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
     },
     {
       "added_at": "2023-12-18 16:46:53",
@@ -763,6 +747,22 @@
       "duration_ms": 201373,
       "name": "Meant to Live",
       "url": "https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg"
+    },
+    {
+      "added_at": "2023-12-18 16:46:53",
+      "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 258920,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
     },
     {
       "added_at": "2023-12-18 16:46:53",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-12-18 16:46:53",
       "album": {
-        "name": "Human Clay",
-        "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
-      },
-      "artists": [
-        {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-        }
-      ],
-      "duration_ms": 318093,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/22bX2FwXSvG49G0bPWm5nc"
-    },
-    {
-      "added_at": "2023-12-18 16:46:53",
-      "album": {
         "name": "Short Bus",
         "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 314440,
       "name": "Hey Man, Nice Shot - Remastered Version",
       "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
+    },
+    {
+      "added_at": "2023-12-18 16:46:53",
+      "album": {
+        "name": "Human Clay",
+        "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "duration_ms": 318093,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/22bX2FwXSvG49G0bPWm5nc"
     },
     {
       "added_at": "2023-12-18 16:46:53",

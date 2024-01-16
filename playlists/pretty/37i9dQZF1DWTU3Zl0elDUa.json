@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 331820,
+  "num_followers": 332010,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmIwMWExYjE4NWU0Nzg5YzUzZDdiODEyZjEwMjRhODVlOGFmZWUw",
+  "snapshot_id": "MCxiMzFmNzlkZGMxMWE1NGZlY2NmMWNhNjUwZjkyMTQyMzM1ZTNjMDYw",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        }
-      ],
-      "duration_ms": 319866,
-      "name": "Don't Stop Movin'",
-      "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Club Classics",
         "url": "https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        }
+      ],
+      "duration_ms": 319866,
+      "name": "Don't Stop Movin'",
+      "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Nitelife - Armand Van Helden Remixes",
         "url": "https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
-        "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
-      },
-      "artists": [
-        {
-          "name": "Aly-Us",
-          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
-        }
-      ],
-      "duration_ms": 382373,
-      "name": "Follow Me (Club Mix)",
-      "url": "https://open.spotify.com/track/3CIg59v1inc5vss6GIvDTn"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Playing With Knives [Quadrant Mix]",
         "url": "https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 407213,
       "name": "Playing With Knives [Quadrant Mix}",
       "url": "https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
+        "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
+      },
+      "artists": [
+        {
+          "name": "Aly-Us",
+          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
+        }
+      ],
+      "duration_ms": 382373,
+      "name": "Follow Me (Club Mix)",
+      "url": "https://open.spotify.com/track/3CIg59v1inc5vss6GIvDTn"
     },
     {
       "added_at": "2023-08-18 04:00:00",

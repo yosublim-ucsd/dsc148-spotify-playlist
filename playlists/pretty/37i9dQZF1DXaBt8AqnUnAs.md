@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,977 likes - 79 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,976 likes - 79 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 12 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 |
 | 13 | [Meus Olhos](https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Meus Olhos](https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw) | 3:08 |
 | 14 | [Planos](https://open.spotify.com/track/5x7R1rusIM5Hwy91kj0mf0) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv) | [Planos](https://open.spotify.com/album/2SLOEwLKzsUPHDXy1ljN25) | 2:13 |
-| 15 | [Sonho Lindo](https://open.spotify.com/track/2YgGXaXy66jT5c0pp4vQqZ) | [Diomedes Chinaski](https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK) | [Coração Partido 2](https://open.spotify.com/album/7Gpkokh0XKbf0iIfiALSlh) | 3:31 |
+| 15 | [Sonho Lindo](https://open.spotify.com/track/2YgGXaXy66jT5c0pp4vQqZ) | [Diomedes Chinaski](https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK), [Don9](https://open.spotify.com/artist/1X0nrf6StvXvXc30C7Gexs) | [Coração Partido 2](https://open.spotify.com/album/7Gpkokh0XKbf0iIfiALSlh) | 3:31 |
 | 16 | [Caixa De Pandora](https://open.spotify.com/track/4emhZhpjFmRQYRv49cD6Az) | [Mano Mike](https://open.spotify.com/artist/5sirmQHzdlX1dFTIlApA6A), [Canguru](https://open.spotify.com/artist/4ztqBTwprdTcXkE5Tte6AG) | [Caixa De Pandora](https://open.spotify.com/album/1Q9zkXC2qcsL6sj7bL52Co) | 2:38 |
 | 17 | [Tudo Oque Quero](https://open.spotify.com/track/3jHQypDRSnCMRO244MQSrA) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Matrix](https://open.spotify.com/album/7HMJeHkmIyCxRSHotWeJ2K) | 2:17 |
 | 18 | [Mal Sei Falar de Amor](https://open.spotify.com/track/1BoMpKPeITtg3HN9Ursz5T) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Mal Sei Falar de Amor](https://open.spotify.com/album/2p6554PCcGEKWrSLknXpAr) | 2:08 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 78 | [VALHO NADA](https://open.spotify.com/track/18XOY618zQH4bFw3TgVT9L) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N), [Brutos](https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6), [Bairro 13](https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:37 |
 | 79 | [Só me ligar](https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:13 |
 
-Snapshot ID: `MCxkMmI5YTUxNDMxYzI0N2ZlY2YyZDkwYTdjZDM2MmY3MjdlNDU2NTk3`
+Snapshot ID: `MCw2MGU4OGZlZTg0M2Y1MTQzYWU4MjBmMGYyMWE5NzM2MTUxMDZlNjY3`

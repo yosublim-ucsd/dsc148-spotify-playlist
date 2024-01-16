@@ -4,7 +4,7 @@
 
 > It's murder on the dancefloor  🍆 \#fyp
 
-255 songs - 13 hr 30 min
+256 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Cheri Cheri Lady \- New Version](https://open.spotify.com/track/2vbJUtO8SZ0nZn5qwRAo3v) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [Back For Good](https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u) | 3:01 | 2023-11-10 | 2023-12-14 |
 | [Chipi Chipi Chapa Chapa](https://open.spotify.com/track/6PZobAHn3uKmVulYaBFusp) | [Kairas](https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [Spyzah](https://open.spotify.com/artist/5meSJ0JjZXEi7NTwr4zOka) | [Chipi Chipi Chapa Chapa](https://open.spotify.com/album/2GpLlSk3DIcERUZ3PUcuRu) | 3:46 | 2024-01-05 | 2024-01-10 |
 | [Chipi Chipi Chapa Chapa](https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [Kairas](https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY) | [Chipi Chipi Chapa Chapa](https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH) | 3:46 | 2024-01-05 | 2024-01-14 |
+| [Chipi Chipi Chapa Chapa Dubidubidu](https://open.spotify.com/track/0tdtQptse7jupJyrkIIFiA) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/37hWotp4LwiFxD9hPOe8tC) | 3:46 | 2024-01-05 |  |
 | [Chou Daddy](https://open.spotify.com/track/0k8BfK43wucvEDpvVpU2Py) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Chou Daddy](https://open.spotify.com/album/7gk1ye4LIJ3WwJTVK2G1gR) | 1:28 | 2023-06-30 | 2023-11-11 |
 | [Chou Daddy](https://open.spotify.com/track/6e4UhRfZqwC8xdbgDs1gb1) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Chou Daddy](https://open.spotify.com/album/1kld714TJvVclAm3vuRLkR) | 1:28 | 2023-06-30 | 2023-11-18 |
 | [Chou wasabi \(feat\. Micky Green\)](https://open.spotify.com/track/1mZbP5dp7CAU2qZI2I6OiV) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj), [Micky Green](https://open.spotify.com/artist/2xRBcpNYedlk5IhmIxfUqo) | [LØVE](https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I) | 3:39 | 2023-11-24 |  |
@@ -92,7 +93,7 @@
 | [Donna](https://open.spotify.com/track/4mLzkKIOllZqAEU3JHc10y) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Mandat de Dépôt](https://open.spotify.com/album/41HNUXTQtfRTKZdcxD3qH6) | 3:02 | 2023-10-06 | 2023-11-18 |
 | [DRILL FR 5 \(feat\. Hamza\)](https://open.spotify.com/track/44DmnZDl6ZZ0lPtgZansqV) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DRILL FR](https://open.spotify.com/album/31H0KWvM2hCC3p8jkctCWN) | 3:42 | 2023-08-11 | 2023-11-18 |
 | [Drogbacité \(feat\. Junior Bvndo\)](https://open.spotify.com/track/1s20za1efDrV6tjO4Aiz73) | [Bhk220](https://open.spotify.com/artist/5eL7Hq6SnfxhK6CFYBesK1), [Junior Bvndo](https://open.spotify.com/artist/58lWi9l7zeTHdUz6Glzm9p) | [Drogbacité \(feat\. Junior Bvndo\)](https://open.spotify.com/album/144BJevrFl9CEwP5Dp4j18) | 2:02 | 2023-07-07 | 2023-08-05 |
-| [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/0O3ow3j5y8q3ykRs2K2n1b) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/album/4nmIEe2NyoIJ5mxlDMcTCo) | 3:46 | 2024-01-05 |  |
+| [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/0O3ow3j5y8q3ykRs2K2n1b) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/album/4nmIEe2NyoIJ5mxlDMcTCo) | 3:46 | 2024-01-05 | 2024-01-16 |
 | [Délit](https://open.spotify.com/track/200KWc4kIOPeF5zP3ckTVS) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Délit](https://open.spotify.com/album/7sKoDDg4cns52JOPb74TTW) | 2:03 | 2023-10-27 |  |
 | [Elle a mal \(feat\. Niska\)](https://open.spotify.com/track/2ct8sYE8u8UZT229rWvXwL) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [M.I.L.S](https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz) | 3:13 | 2023-05-19 |  |
 | [Embrasse\-moi](https://open.spotify.com/track/44X8jiakA6Aw5TZqxMWVSl) | [MZ](https://open.spotify.com/artist/0xEVr5H3VEj3g11u1q6ifW) | [MZ Music, Vol\. 3.5](https://open.spotify.com/album/0OQnvAbr1445HkrQiPzBP7) | 4:39 | 2023-11-24 |  |

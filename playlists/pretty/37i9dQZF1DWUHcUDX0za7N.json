@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1?si=o2drqVJlQ0SE51IoIHgDyA\"> Vector </a> and <a href=\"https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM?si=l8i33k0OQ-6W_ouiHghr8Q\"> Bella Shmurda</a>",
-  "num_followers": 40878,
+  "num_followers": 40967,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjc0MjQ1MjUwNjZkZDQ5OGM2MTg3N2ZhNDY5OTQ4MjFjOTAzNzBi",
+  "snapshot_id": "MCw2NGFkNDU5NGQ2MWU2MGMzMGNjNDgyMDdiZGE1YzVkOWY4MTU4MTA1",
   "tracks": [
     {
       "added_at": "2024-01-12 00:01:00",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
     },
     {
+      "added_at": "2024-01-15 06:54:03",
+      "album": {
+        "name": "Sunny Ade",
+        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Sunny Ade",
+      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
+    },
+    {
       "added_at": "2024-01-12 00:01:00",
       "album": {
         "name": "All My Life (Remixes) (feat. Burna Boy)",
@@ -399,26 +415,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 131764,
-      "name": "Reason (feat. Russ)",
-      "url": "https://open.spotify.com/track/6WavyUNdnJk9SRW7ko9ack"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Vawulence (Remix)",
         "url": "https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri"
       },
@@ -467,6 +463,26 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 131764,
+      "name": "Reason (feat. Russ)",
+      "url": "https://open.spotify.com/track/6WavyUNdnJk9SRW7ko9ack"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -487,6 +503,26 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "ROAD RUNNERS (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
         "name": "My Brother",
         "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
       },
@@ -499,6 +535,26 @@
       "duration_ms": 158520,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "FIREGUN (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -527,26 +583,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "ROAD RUNNERS (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -563,26 +599,6 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "EZIOKWU",
-        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "FIREGUN (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -619,30 +635,6 @@
       "duration_ms": 130873,
       "name": "Sere (feat. Tega boi dc)",
       "url": "https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Steel Banglez",
-          "url": "https://open.spotify.com/artist/12KTYt5AkiDP3GL7QSXd6W"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
-      "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -687,26 +679,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "NSV",
         "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
       },
@@ -727,18 +699,46 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "You Go Know",
-        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/12KTYt5AkiDP3GL7QSXd6W"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 142135,
-      "name": "You Go Know",
-      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
+      "duration_ms": 229440,
+      "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
+      "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Letter From Overseas (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 138243,
+      "name": "Letter From Overseas (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -763,22 +763,38 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Letter From Overseas (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
       },
       "artists": [
         {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 138243,
-      "name": "Letter From Overseas (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "You Go Know",
+        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 142135,
+      "name": "You Go Know",
+      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -979,22 +995,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/66o0wqPyjdeExQieFnNBK4"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 165929,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/1YTNRddcxKyMheo9HkxBJU"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 145351,
       "name": "In Charge",
       "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/66o0wqPyjdeExQieFnNBK4"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 165929,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/1YTNRddcxKyMheo9HkxBJU"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1071,26 +1087,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
-        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "My Bro",
-      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Busy",
         "url": "https://open.spotify.com/album/1wVpvX9AjgmIoIfikkwFdK"
       },
@@ -1131,50 +1127,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "James Bond (With Harley)",
-        "url": "https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg"
-      },
-      "artists": [
-        {
-          "name": "Jujuboy",
-          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
-        },
-        {
-          "name": "Banx & Ranx",
-          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
-        },
-        {
-          "name": "Harley",
-          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "James Bond (With Harley)",
-      "url": "https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "BACK IN UNI",
-        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "BACK IN UNI",
-      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Philo (Remix)",
         "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
       },
@@ -1195,22 +1147,26 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "In Battle",
-        "url": "https://open.spotify.com/album/3OlFbSNU6yn5xQuXjYpHnW"
+        "name": "James Bond (With Harley)",
+        "url": "https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg"
       },
       "artists": [
         {
-          "name": "PaBrymo",
-          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+          "name": "Jujuboy",
+          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
         }
       ],
-      "duration_ms": 196571,
-      "name": "In Battle",
-      "url": "https://open.spotify.com/track/4A1HJZwX7krIq8qk20nc3W"
+      "duration_ms": 161739,
+      "name": "James Bond (With Harley)",
+      "url": "https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1239,6 +1195,46 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
+        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
+        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "My Bro",
+      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "BACK IN UNI",
+        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "BACK IN UNI",
+      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
         "name": "Where Dem Dey",
         "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
       },
@@ -1255,6 +1251,26 @@
       "duration_ms": 182500,
       "name": "Where Dem Dey",
       "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "In Battle",
+        "url": "https://open.spotify.com/album/3OlFbSNU6yn5xQuXjYpHnW"
+      },
+      "artists": [
+        {
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 196571,
+      "name": "In Battle",
+      "url": "https://open.spotify.com/track/4A1HJZwX7krIq8qk20nc3W"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1375,26 +1391,6 @@
       "duration_ms": 180765,
       "name": "My Own (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "High Tension 2.0",
-        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
-      },
-      "artists": [
-        {
-          "name": "Dangbana Republik",
-          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
     }
   ],
   "unique_name": "Naija Bars ",

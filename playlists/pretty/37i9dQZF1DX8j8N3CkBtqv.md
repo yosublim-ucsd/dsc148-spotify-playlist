@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Prateeksha Srivastava, A$AD
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,589 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,602 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Khoya](https://open.spotify.com/track/1PTX1futeTG5wTrMNPrSRH) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Khoya](https://open.spotify.com/album/6iVv6eBhwiX9qBJMkWbNtG) | 3:01 |
 | 50 | [Baatein](https://open.spotify.com/track/0YDu2KNs4JEk21cuO538hE) | [Dhrriti Saharan](https://open.spotify.com/artist/3CfM61zeuztKppkmj0CggJ) | [Baatein](https://open.spotify.com/album/2CIEW2qLACFHpPdrLU66Kh) | 3:05 |
 
-Snapshot ID: `MCxhMTNkNTgyYzg1OTRiZDA4ZTNlZGFlMzNiYTIzY2RjNzdkNmNiYTQx`
+Snapshot ID: `MCxkYzk2ZTM1MWI5M2IzMTJiNDJiMTBiOTQ4ZDkxOTI0MDdjNjFjYjE5`

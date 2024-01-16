@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 225700,
+  "num_followers": 225749,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTViOTBiNDdiNThmZmI1YTAwN2Y1YzdiM2M0YjE4OTg3MzFiNzE1",
+  "snapshot_id": "MCxhNjIwMWUwZmRjMDg1NWM0Yzc4Yzg4OGU5ZWYwOTIzNGQ4MDM1ODk5",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The 12\" Collection And More (Funk Essentials)",
-        "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "Outstanding - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The 12\" Collection And More (Funk Essentials)",
+        "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "Outstanding - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Marcos Valle",
-        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 313493,
-      "name": "Estrelar",
-      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Bad Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 495186,
       "name": "I Feel Love - 12\" Version",
       "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Marcos Valle",
+        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "Estrelar",
+      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Groovin' You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 376986,
+      "name": "Groovin' You - 12\" Version",
+      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Taana Gardner",
         "url": "https://open.spotify.com/album/3Cry53QsMK0kF7Z59FUml0"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 259415,
       "name": "You're a Melody - Extended Disco Version",
       "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Groovin' You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 376986,
-      "name": "Groovin' You - 12\" Version",
-      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Early Recordings",
-        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
-      },
-      "artists": [
-        {
-          "name": "Patchworks",
-          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
-        }
-      ],
-      "duration_ms": 330013,
-      "name": "Brothers on the Slide - Brooklyn Mix",
-      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
         "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 438199,
       "name": "Haven't You Heard - 12\" Version",
       "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Early Recordings",
+        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
+      },
+      "artists": [
+        {
+          "name": "Patchworks",
+          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
+        }
+      ],
+      "duration_ms": 330013,
+      "name": "Brothers on the Slide - Brooklyn Mix",
+      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
     },
     {
       "added_at": "2022-09-05 16:54:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEZXXfFphen.md) - [plain]
 
 > Los sonidos más dulces del pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,030 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,069 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEZXXfFphen.md) - [plain]
 | 59 | [Me Equivoqué](https://open.spotify.com/track/1Ab8LMRP4syFbYZKtGUwss) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:43 |
 | 60 | [Yo Te Diré](https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Yo Te Diré](https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J) | 3:27 |
 
-Snapshot ID: `MCxkNzI4ZDc2MzU1Y2YwMjc0ZjAxZjVmMWM5YzI2MzgxNTBlZGFkMTI4`
+Snapshot ID: `MCwzMWVjYjVkMzE3MjI2ZTAxYzgwZDJhMWE4M2M3OGQwZmY5ZmU4ZTcy`

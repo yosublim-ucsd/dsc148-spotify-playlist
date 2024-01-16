@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,298 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,336 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 79 | [Bubba Man](https://open.spotify.com/track/03Z1yhSewsReSk6a5GBZOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Welcome To Bubba Land](https://open.spotify.com/album/2gxWI53PddwWddJQyrII3h) | 2:28 |
 | 80 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 |
 
-Snapshot ID: `MCw2NDEzMjhlODRhN2U2NWRkMjkwNjVhMTk2OTlmOTk5ODFmMTNhMGNl`
+Snapshot ID: `MCw2NGZjYzQ1MTU2YWM0YTM5YWRlZTRlNDhhNzgwZjI3MjIyNDc2Yjk4`

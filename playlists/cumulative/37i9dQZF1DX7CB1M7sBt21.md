@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-228 songs - 11 hr 8 min
+229 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 | 2021-11-19 |  |
 | [Everywhere \(feat\. Maya Avedis\)](https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk) | [XO Cupid](https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc), [Maya Avedis](https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4) | [Everywhere \(feat\. Maya Avedis\)](https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8) | 2:56 | 2021-11-19 | 2023-11-21 |
 | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk) | 3:06 | 2021-11-19 | 2023-10-13 |
+| [Fake Friends](https://open.spotify.com/track/0EmRpbJRA31htpY92zd8uA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Fake Friends](https://open.spotify.com/album/73svpOwVvDjEnSXAaL6U3G) | 2:12 | 2024-01-11 |  |
 | [Falling Free](https://open.spotify.com/track/33IWraG5z0avudEgDLOI4S) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Falling Free](https://open.spotify.com/album/2yfil7vZeOHAbhidpm6tJm) | 2:41 | 2021-11-19 | 2022-07-29 |
 | [Feel It](https://open.spotify.com/track/1zaQHvyPeBifmTPtxZuYvw) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Feel It](https://open.spotify.com/album/0n77k01Odm0nerd18pAnPQ) | 2:53 | 2021-11-19 | 2022-01-27 |
 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2023-09-08 |  |
@@ -209,7 +210,7 @@
 | [The Nights](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 2:56 | 2023-12-08 |  |
 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 | 2022-07-28 |  |
 | [The Truth \- Sam Feldt Remix](https://open.spotify.com/track/4ERDsm0YhyQuP32Qrvg2ne) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [The Truth \(Sam Feldt Remix\)](https://open.spotify.com/album/3eLaVXLiU0z1oguPxtNHLD) | 3:40 | 2021-11-19 | 2022-07-29 |
-| [Thieves](https://open.spotify.com/track/6Af3ncYlnMUubDYKcoHZIF) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Thieves](https://open.spotify.com/album/2jxT4u5M7wykbnYp46RYkd) | 2:25 | 2023-12-21 |  |
+| [Thieves](https://open.spotify.com/track/6Af3ncYlnMUubDYKcoHZIF) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Thieves](https://open.spotify.com/album/2jxT4u5M7wykbnYp46RYkd) | 2:25 | 2023-12-21 | 2024-01-16 |
 | [Think You Should](https://open.spotify.com/track/4QZHDAf0lw2PN6olVg0ztp) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO), [Linnea Dale](https://open.spotify.com/artist/3wuG1n9nWNz4szSzITG7wO) | [Think You Should](https://open.spotify.com/album/7itxK8CyOVj7nJEMlqWFYv) | 3:01 | 2021-11-19 | 2022-07-29 |
 | [Thorns](https://open.spotify.com/track/6DuE8kXIDJ3oiCibWXmgeN) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Thorns](https://open.spotify.com/album/57ATyOS7Gud3uEjzIbMp7Y) | 3:06 | 2021-11-19 | 2022-07-28 |
 | [Tillfälligheter](https://open.spotify.com/track/5iJLphnVyGpLeAcsOZSfhw) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Tillfälligheter](https://open.spotify.com/album/4tr4TQvcgflCRwOqHcilfL) | 3:46 | 2021-11-19 | 2022-07-29 |

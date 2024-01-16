@@ -2,7 +2,7 @@
 
 ### [lofi garden](https://open.spotify.com/playlist/37i9dQZF1DX4t95PAs1EpY)
 
-> beats + birds = <3
+> beats + birds = &lt;3
 
 484 songs - 18 hr 37 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 330361,
+  "num_followers": 330382,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTAzMzY0M2JhZGFjMzk0NWUxYWNkMGY0NjQ2NTZiYmU2MDI0NDAz",
+  "snapshot_id": "MCwxNmM4NjkxNzljN2Q4OGQ4ZWY1ZDE1Y2E0MWZmOGNmMDU0NmM5YjBm",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -315,22 +315,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Svalbard",
-        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Andy Barlow",
-          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 204845,
-      "name": "Duvet",
-      "url": "https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG"
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
     },
     {
       "added_at": "2023-12-22 16:03:56",
@@ -351,18 +347,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+        "name": "Svalbard",
+        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Andy Barlow",
+          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
         }
       ],
-      "duration_ms": 255333,
-      "name": "#20",
-      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
+      "duration_ms": 204845,
+      "name": "Duvet",
+      "url": "https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -397,24 +397,20 @@
       "url": "https://open.spotify.com/track/43mIM61mitnuRzxRgttpek"
     },
     {
-      "added_at": "2022-10-14 04:40:55",
+      "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+        "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
       },
       "artists": [
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
         }
       ],
-      "duration_ms": 80427,
-      "name": "Brush",
-      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
+      "duration_ms": 255335,
+      "name": "I Can Almost See You",
+      "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
     },
     {
       "added_at": "2024-01-03 18:52:26",
@@ -433,20 +429,24 @@
       "url": "https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
+      "added_at": "2022-10-14 04:40:55",
       "album": {
-        "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
       "artists": [
         {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
         }
       ],
-      "duration_ms": 255335,
-      "name": "I Can Almost See You",
-      "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
+      "duration_ms": 80427,
+      "name": "Brush",
+      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
     },
     {
       "added_at": "2024-01-05 00:40:31",
@@ -839,18 +839,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Life Of",
-        "url": "https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC"
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
       "artists": [
         {
-          "name": "Steve Tibbetts",
-          "url": "https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 99400,
-      "name": "Bloodwork",
-      "url": "https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64"
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     }
   ],
   "unique_name": "Deep Listening",

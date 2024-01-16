@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from TV shows and films nominated for the 81st Golden Globe Awards\. Watch Jan 7, 2024 on CBS and Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,910 likes - 33 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,911 likes - 33 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 32 | [On the Town: Lonely Town\. Pas de deux](https://open.spotify.com/track/3EjSbCtOjkPci8yTvoRBqX) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [Maestro: Music by Leonard Bernstein \(Original Soundtrack\)](https://open.spotify.com/album/3Eu9QPnzZEXpo0BzjWOLC4) | 2:23 |
 | 33 | [Confirming Hal's Story](https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg) | [Nathan Barr](https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC), [Dimitri Smith](https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP) | [The Diplomat \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB) | 1:09 |
 
-Snapshot ID: `MCw1ZWIzYzE2NzVjMmU4ZDQxNzQ2NmYxMjc5MWIzMjJjYzEzYzc3NGRm`
+Snapshot ID: `MCxhMDFiM2YzYzJiNGM2N2E5NmNiOGNjZjgxMTNlMjBmZDRlOTMyYjI1`

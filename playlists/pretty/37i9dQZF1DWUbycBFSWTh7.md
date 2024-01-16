@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,286 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,304 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 99 | [Friday Night](https://open.spotify.com/track/6vkPohD3nlDe7s0k09eoWT) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Le Funk](https://open.spotify.com/album/60BqgLIFbLMXQTBiTQqiyp) | 7:08 |
 | 100 | [Yasuo](https://open.spotify.com/track/13UXFUokjGZqQM0g1HSX7Q) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Yasuo](https://open.spotify.com/album/6sZubZLNEZiwb1VYnxB5Qa) | 6:50 |
 
-Snapshot ID: `MCxiNWQ2MTk3ZTdmOGNkNjJlODc1MWE1ZmIwNmU4ZWFlNTRkNGQ5ZmVl`
+Snapshot ID: `MCxlYjA3MmNkMWUyNTBmNGFhMjFmMzgwMDg0ZWQwN2Y0MmRiYWFhMjY5`

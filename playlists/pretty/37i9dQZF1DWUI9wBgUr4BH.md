@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,837 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,841 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Amigos](https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Amigos](https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ) | 3:15 |
 | 40 | [Stigmate \- Radio Edit](https://open.spotify.com/track/3U4bK2tYfVTZrcXJRp3gfY) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/4AqueaxcLjHpLQJpouOGSZ) | 2:25 |
 
-Snapshot ID: `MCwzZmE0NDU5NGU1NGE5MjM3NzNjYzZhODg3OGIwM2IwMzRhMDdiYWFi`
+Snapshot ID: `MCw5MWFhYWNlMmM0NGQ4ODYwZGMwNzkzODM3OGMwZGU1ODY5Y2UwZTMy`

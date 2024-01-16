@@ -2,7 +2,7 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Suzie Arioli
+> The best jazz new releases\. Cover: Susie Arioli
 
 444 songs - 1 day 8 hr 7 min
 

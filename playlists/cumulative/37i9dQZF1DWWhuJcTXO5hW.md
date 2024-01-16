@@ -4,7 +4,7 @@
 
 > The most chill instrumental oud sounds.
 
-53 songs - 3 hr 50 min
+54 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Les ondes orientales](https://open.spotify.com/track/7qJ3fjjufJ4VYvUguGne0y) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Abu Nawas Rhapsody](https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl) | 9:09 | 2023-10-23 |  |
 | [Long Wait](https://open.spotify.com/track/2kkAw4ryowf5wBv2lUI0Lr) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Longing \(Best of Omar Faruk Tekbilek\)](https://open.spotify.com/album/3aKIaTCMukq8X8JsUteUqc) | 6:01 | 2023-10-23 |  |
 | [Lotus Feet](https://open.spotify.com/track/5nrENJiiZa2H3MwhT2Yggs) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 6:18 | 2023-10-23 |  |
+| [Makam Ajam / Tala'a Mint Beit Abouha \- Takassim](https://open.spotify.com/track/1ahxUKddfqp0ZRTySX4vwZ) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [To My Father](https://open.spotify.com/album/5IQmbdf0EFqGyuwpV6J85n) | 4:10 | 2023-10-23 |  |
 | [Miss A](https://open.spotify.com/track/1xXLzy2BJD7yJDd6xAat55) | [Joseph Tawadros](https://open.spotify.com/artist/17wNBDPLkNYdnmAKwiwbih) | [The Bluebird, the Mystic and the Fool](https://open.spotify.com/album/1bQ9D3Vvx6EnKKb4aZ8WfO) | 1:05 | 2023-10-23 |  |
 | [More Than Once](https://open.spotify.com/track/67Amwno0hyp64jMbP0HbA9) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:22 | 2023-10-23 |  |
 | [Mouassal](https://open.spotify.com/track/7nHhEPcoSSs9t06LdxWhFF) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [Antoine Khalife](https://open.spotify.com/artist/1gjCKGbc7gfW3FFSiSNAld), [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Bassam Saleh](https://open.spotify.com/artist/5EqVGwu1oKl89yKKuJnbNv), [Ali El Khatib](https://open.spotify.com/artist/5yIcPZLOTa7K2XRmpMddwk), [Albert Rouhana](https://open.spotify.com/artist/71bU7HnM3LflAuhVJ2WTqt) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6) | 1:21 | 2023-10-23 |  |
@@ -48,7 +49,7 @@
 | [Nugriz](https://open.spotify.com/track/6ggBOrhVLihp57cTr8L4yX) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:14 | 2023-10-23 | 2023-12-20 |
 | [Oblivion](https://open.spotify.com/track/5sFJcINPGw2PjZHg4soZoK) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Oblivion](https://open.spotify.com/album/6KEMRKPWrk56GSXRX1jJBf) | 3:02 | 2023-10-23 |  |
 | [Oud](https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX) | 3:10 | 2023-10-23 |  |
-| [Saltana](https://open.spotify.com/track/0sZeSBseexWaFsFjl2ZUR4) | [Hussein Mohamed Aly](https://open.spotify.com/artist/0dq4xBuWu91EjmwCBjJft0) | [Fann \(Arabic Traditional Music\)](https://open.spotify.com/album/6MG1BuCZGrYy5j910ubH1s) | 12:46 | 2023-10-23 |  |
+| [Saltana](https://open.spotify.com/track/0sZeSBseexWaFsFjl2ZUR4) | [Hussein Mohamed Aly](https://open.spotify.com/artist/0dq4xBuWu91EjmwCBjJft0) | [Fann \(Arabic Traditional Music\)](https://open.spotify.com/album/6MG1BuCZGrYy5j910ubH1s) | 12:46 | 2023-10-23 | 2024-01-16 |
 | [Sama' Ay Sihr Misr](https://open.spotify.com/track/3iflS35RQOA8uPKQ9TF455) | [Saber Abdelsattar](https://open.spotify.com/artist/2TtJW54EuW7FoqRimKehA5) | [Alabanza \- Tasabih](https://open.spotify.com/album/4NsiDOK7VsDTJoEQQvzCK0) | 4:35 | 2023-10-23 |  |
 | [Solo oud \(feat\. Amer Ammouri\)](https://open.spotify.com/track/0it5BioYQs1dC6VKDgbaH1) | [Salatin Al Tarab Orchestra](https://open.spotify.com/artist/4hTMpf0ODUmFlW4uzJTx6l), [Amer Ammouri](https://open.spotify.com/artist/6faOVTE4L8BoaUeYKh3uR9) | [Arabian Classics for Belly Dance](https://open.spotify.com/album/1RYwe9ttWsCXR7o5wYbava) | 1:02 | 2023-10-23 |  |
 | [Souk Okaz](https://open.spotify.com/track/0M9KszKXLp1kjRTB5td9cT) | [Jean\-Marie Riachi](https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc) | [Souk Okaz](https://open.spotify.com/album/3af9UPxr1VkRwmp5rPdJcB) | 5:49 | 2023-10-23 |  |

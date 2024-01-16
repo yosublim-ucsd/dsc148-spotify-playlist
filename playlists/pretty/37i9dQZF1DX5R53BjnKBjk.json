@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Mjk0OWFjMWE4ZjY3NjgwZWFjMjMyN2ZmMDJmMzNiYzNkOTk2M2Rl",
+  "snapshot_id": "MCxkN2FlYmY2YjdjNTFmMTA5MjM0MzI3OGY1ODY4YjlkYzBlNDliNGNh",
   "tracks": [
     {
       "added_at": "2023-11-30 21:58:24",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
+        "name": "tudo que eu fa\u00e7o",
+        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
       },
       "artists": [
         {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
+          "name": "R\u00f4",
+          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
         }
       ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+      "duration_ms": 143766,
+      "name": "tudo que eu fa\u00e7o",
+      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "tudo que eu fa\u00e7o",
-        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
       },
       "artists": [
         {
-          "name": "R\u00f4",
-          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
         }
       ],
-      "duration_ms": 143766,
-      "name": "tudo que eu fa\u00e7o",
-      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Repara",
-        "url": "https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk"
-      },
-      "artists": [
-        {
-          "name": "Maielle",
-          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "Repara",
-      "url": "https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Luz Na Madrugada / Late Night Light",
         "url": "https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 142699,
       "name": "Mete o P\u00e9",
       "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Repara",
+        "url": "https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk"
+      },
+      "artists": [
+        {
+          "name": "Maielle",
+          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "Repara",
+      "url": "https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Beija e Arranha",
+        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 172874,
+      "name": "Beija e Arranha",
+      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Minha Cara",
         "url": "https://open.spotify.com/album/7asVGLUfBi2Fxwb818FCzs"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 199608,
       "name": "Talante",
       "url": "https://open.spotify.com/track/5P1WNHW4nUcBDFQPXHbSfR"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Beija e Arranha",
-        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "Beija e Arranha",
-      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 158985,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Casal Desgra\u00e7a",
         "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 163809,
       "name": "Casal Desgra\u00e7a",
       "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 158985,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Amor de Sonhos",
-        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Amor de Sonhos",
-      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "4 Da Tarde",
         "url": "https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 168293,
       "name": "4 Da Tarde",
       "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Amor de Sonhos",
+        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Amor de Sonhos",
+      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
-      },
-      "artists": [
-        {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
-        }
-      ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Mad\u00e1 (Remix)",
         "url": "https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 205862,
       "name": "Mad\u00e1 - Remix",
       "url": "https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
+      },
+      "artists": [
+        {
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+        }
+      ],
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Hortel\u00e3",
-        "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
-      },
-      "artists": [
-        {
-          "name": "leffs",
-          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Hortel\u00e3",
-      "url": "https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "reluz",
         "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 193053,
       "name": "reluz",
       "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Hortel\u00e3",
+        "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
+      },
+      "artists": [
+        {
+          "name": "leffs",
+          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Hortel\u00e3",
+      "url": "https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "vc \u00e9 uma bagun\u00e7a",
-        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
-      },
-      "artists": [
-        {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        }
-      ],
-      "duration_ms": 171084,
-      "name": "vc \u00e9 uma bagun\u00e7a",
-      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Meu Mantra pra Te Esquecer",
         "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 233019,
       "name": "Meu Mantra pra Te Esquecer",
       "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "vc \u00e9 uma bagun\u00e7a",
+        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        }
+      ],
+      "duration_ms": 171084,
+      "name": "vc \u00e9 uma bagun\u00e7a",
+      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Esse Jogo",
-        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
-      },
-      "artists": [
-        {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
-        }
-      ],
-      "duration_ms": 144742,
-      "name": "Esse Jogo",
-      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Esquece",
         "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 189271,
       "name": "Por um Fio",
       "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Esse Jogo",
+        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
+      },
+      "artists": [
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        }
+      ],
+      "duration_ms": 144742,
+      "name": "Esse Jogo",
+      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
       "added_at": "2023-11-30 21:58:24",

@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 68212,
+  "2024-01-16": 68346,
   "date_first_scraped": "2022-05-26",
   "description": "The soundtrack to lazing around.",
   "name": "Lazy Afternoon",
@@ -1788,6 +1788,24 @@
     },
     {
       "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270315,
+      "name": "Little Life",
+      "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
+    },
+    {
+      "album": {
         "name": "Love Is Letting Go (feat. Diane Keaton)",
         "url": "https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv"
       },
@@ -2373,7 +2391,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 217920,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0RKKLIOnAPImtlLlYEjbYF"

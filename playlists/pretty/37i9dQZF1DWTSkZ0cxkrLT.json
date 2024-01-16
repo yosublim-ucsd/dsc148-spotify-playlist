@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 419318,
+  "num_followers": 419209,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGRhNTIzMzNkOTM1OTJiMjhhMmJmNDk5ZGZkNmRkZmI5Y2UwMzBk",
+  "snapshot_id": "MCxhMzljMDQxYjZkNmNmMTM3Mzk3N2U0ZTZjMTJjODc4YzAyMjczOTFl",
   "tracks": [
     {
       "added_at": "2024-01-04 23:16:32",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+    },
+    {
+      "added_at": "2024-01-04 23:16:32",
+      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -159,22 +175,6 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Te Para 3 - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
-    },
-    {
-      "added_at": "2024-01-04 23:16:32",
-      "album": {
         "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
         "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
       },
@@ -191,18 +191,18 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+      "duration_ms": 247000,
+      "name": "Te Para 3 - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
     },
     {
       "added_at": "2024-01-04 23:16:32",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
-        "name": "Amor Amarillo",
-        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Te Llevo para Que Me Lleves",
-      "url": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
-    },
-    {
-      "added_at": "2024-01-04 23:16:32",
-      "album": {
         "name": "Bemaste",
         "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
       },
@@ -391,6 +375,42 @@
       "duration_ms": 254929,
       "name": "Ojos Noche (feat. Carla Morrison)",
       "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
+    },
+    {
+      "added_at": "2024-01-04 23:16:32",
+      "album": {
+        "name": "Amor Amarillo",
+        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Te Llevo para Que Me Lleves",
+      "url": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
+    },
+    {
+      "added_at": "2024-01-04 23:16:32",
+      "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 237873,
+      "name": "De Nada Sirve",
+      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
     },
     {
       "added_at": "2024-01-04 23:16:32",
@@ -443,26 +463,6 @@
       "duration_ms": 168125,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
-    },
-    {
-      "added_at": "2024-01-04 23:16:32",
-      "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 237873,
-      "name": "De Nada Sirve",
-      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
     },
     {
       "added_at": "2024-01-04 23:16:32",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2024-01-04 23:16:32",
-      "album": {
         "name": "Azules Turquesas",
         "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 162160,
       "name": "Tu Nombre y el M\u00edo",
       "url": "https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI"
+    },
+    {
+      "added_at": "2024-01-04 23:16:32",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2024-01-04 23:16:32",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 182373,
-      "name": "Dulcito e Coco - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L"
-    },
-    {
-      "added_at": "2024-01-04 23:16:32",
-      "album": {
         "name": "Mundo Debajo del Mundo",
         "url": "https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ"
       },
@@ -807,26 +791,6 @@
       "duration_ms": 176270,
       "name": "Desaprender",
       "url": "https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ"
-    },
-    {
-      "added_at": "2024-01-04 23:16:32",
-      "album": {
-        "name": "Cure For Me (feat. Silvana Estrada) [Live]",
-        "url": "https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 231285,
-      "name": "Cure For Me (feat. Silvana Estrada) - Live",
-      "url": "https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG"
     },
     {
       "added_at": "2024-01-04 23:16:32",
@@ -851,6 +815,22 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 182373,
+      "name": "Dulcito e Coco - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L"
+    },
+    {
+      "added_at": "2024-01-04 23:16:32",
+      "album": {
         "name": "A Roar Of Southern Clouds",
         "url": "https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 185933,
       "name": "A Primera Vista",
       "url": "https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg"
+    },
+    {
+      "added_at": "2024-01-04 23:16:32",
+      "album": {
+        "name": "Cure For Me (feat. Silvana Estrada) [Live]",
+        "url": "https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 231285,
+      "name": "Cure For Me (feat. Silvana Estrada) - Live",
+      "url": "https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG"
     },
     {
       "added_at": "2024-01-04 23:16:32",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
-        "name": "Gal\u00e1ctica",
-        "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Gal\u00e1ctica",
-      "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
-    },
-    {
-      "added_at": "2024-01-04 23:16:32",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 289154,
       "name": "Al Vac\u00edo",
       "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
+    },
+    {
+      "added_at": "2024-01-04 23:16:32",
+      "album": {
+        "name": "Gal\u00e1ctica",
+        "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Gal\u00e1ctica",
+      "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
     },
     {
       "added_at": "2024-01-04 23:16:32",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
-        "name": "Con Las Ganas",
-        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 241306,
-      "name": "Con Las Ganas",
-      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2024-01-04 23:16:32",
@@ -1255,6 +1251,26 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
+        "name": "Con Las Ganas",
+        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Con Las Ganas",
+      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
+    },
+    {
+      "added_at": "2024-01-04 23:16:32",
+      "album": {
         "name": "SMS",
         "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 188660,
       "name": "Me Conecto (feat. Jorge Drexler)",
       "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
-    },
-    {
-      "added_at": "2024-01-04 23:16:32",
-      "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2024-01-04 23:16:32",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
-    },
-    {
-      "added_at": "2024-01-04 23:16:32",
-      "album": {
         "name": "Por Amor al Arte",
         "url": "https://open.spotify.com/album/5hpbQTlqiYxmrwLn4IYQls"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 125611,
       "name": "Por Amor al Arte",
       "url": "https://open.spotify.com/track/2M6gFpCKX6IxkdQZrzi7r6"
+    },
+    {
+      "added_at": "2024-01-04 23:16:32",
+      "album": {
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 254135,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
     },
     {
       "added_at": "2024-01-04 23:16:32",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 238128,
+      "name": "Los Paisajes",
+      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
+    },
+    {
+      "added_at": "2024-01-04 23:16:32",
+      "album": {
         "name": "Dios Los Cr\u00eda",
         "url": "https://open.spotify.com/album/1K9AuVjYM9zMHR3wrLJuRK"
       },
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 238128,
-      "name": "Los Paisajes",
-      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
-    },
-    {
-      "added_at": "2024-01-04 23:16:32",
-      "album": {
         "name": "Fin del Mundo",
         "url": "https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0"
       },
@@ -1495,22 +1495,6 @@
       "duration_ms": 232263,
       "name": "Fin del Mundo",
       "url": "https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw"
-    },
-    {
-      "added_at": "2024-01-04 23:16:32",
-      "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 217609,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu"
     },
     {
       "added_at": "2024-01-04 23:16:32",
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2024-01-04 23:16:32",
       "album": {
-        "name": "Tu Pirata Soy Yo",
-        "url": "https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU"
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 167586,
-      "name": "Tu Pirata Soy Yo",
-      "url": "https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF"
+      "duration_ms": 217609,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu"
     },
     {
       "added_at": "2024-01-04 23:16:32",
@@ -1563,6 +1547,22 @@
       "duration_ms": 170192,
       "name": "Ojitos de Md - Remix",
       "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
+    },
+    {
+      "added_at": "2024-01-04 23:16:32",
+      "album": {
+        "name": "Tu Pirata Soy Yo",
+        "url": "https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Tu Pirata Soy Yo",
+      "url": "https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF"
     }
   ],
   "unique_name": "T\u00e9 Para Tres",

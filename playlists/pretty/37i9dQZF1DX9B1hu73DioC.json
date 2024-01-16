@@ -1,12 +1,12 @@
 {
   "description": "Vibey indie tracks for just hanging out.",
-  "num_followers": 818520,
+  "num_followers": 818795,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmRkNWM5MmEyNzM5Zjk5MWFlN2E2ZTM2OTA4NTQwZWYxMDRhM2M0",
+  "snapshot_id": "MCwyYzc4ZTk3ZDZmNDk4YWQxYTQ5ODYzN2U3Yjk4NWM4YjNkMTNiNzJi",
   "tracks": [
     {
       "added_at": "2024-01-12 17:05:09",
@@ -415,6 +415,26 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
+        "name": "Lego Ring",
+        "url": "https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 163228,
+      "name": "Lego Ring",
+      "url": "https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
         "name": "BOY",
         "url": "https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1"
       },
@@ -435,22 +455,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Built on Glass",
         "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
       },
@@ -463,6 +467,22 @@
       "duration_ms": 218067,
       "name": "Talk Is Cheap",
       "url": "https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
     },
     {
       "added_at": "2024-01-12 17:12:27",
@@ -483,22 +503,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Casita",
-        "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Casita",
-      "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "So Long Forever",
         "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
       },
@@ -511,6 +515,22 @@
       "duration_ms": 233360,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Casita",
+        "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Casita",
+      "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
     },
     {
       "added_at": "2024-01-12 17:12:27",
@@ -527,26 +547,6 @@
       "duration_ms": 111986,
       "name": "Cracking",
       "url": "https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
-        "name": "Lego Ring",
-        "url": "https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 163228,
-      "name": "Lego Ring",
-      "url": "https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -661,24 +661,20 @@
       "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
     },
     {
-      "added_at": "2024-01-12 17:12:27",
+      "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Separate Ways (feat. The Mar\u00edas)",
-        "url": "https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz"
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 206833,
-      "name": "Separate Ways (feat. The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S"
+      "duration_ms": 273560,
+      "name": "Chateau",
+      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -717,20 +713,24 @@
       "url": "https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H"
     },
     {
-      "added_at": "2024-01-12 17:05:09",
+      "added_at": "2024-01-12 17:12:27",
       "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
+        "name": "Separate Ways (feat. The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 273560,
-      "name": "Chateau",
-      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+      "duration_ms": 206833,
+      "name": "Separate Ways (feat. The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "EP III",
-        "url": "https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "In Camera",
-      "url": "https://open.spotify.com/track/34PIoWUkKuAUbGTozZsxvB"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Tailwhip",
         "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 225263,
       "name": "Tailwhip",
       "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "EP III",
+        "url": "https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "In Camera",
+      "url": "https://open.spotify.com/track/34PIoWUkKuAUbGTozZsxvB"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -909,6 +909,26 @@
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
     },
     {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Right Back to It",
+        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "Right Back to It",
+      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
+    },
+    {
       "added_at": "2024-01-12 17:12:27",
       "album": {
         "name": "Coastal Grooves",
@@ -979,22 +999,18 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Right Back to It",
-        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
+        "name": "Football",
+        "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
         }
       ],
-      "duration_ms": 273026,
-      "name": "Right Back to It",
-      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
+      "duration_ms": 204507,
+      "name": "Football",
+      "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1031,22 +1047,6 @@
       "duration_ms": 173956,
       "name": "LAUREN",
       "url": "https://open.spotify.com/track/5sQSiJhUQcJDCW9S81bKIU"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
-        "name": "Football",
-        "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
-      },
-      "artists": [
-        {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
-        }
-      ],
-      "duration_ms": 204507,
-      "name": "Football",
-      "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "It Could Be Me",
-        "url": "https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 127458,
-      "name": "It Could Be Me",
-      "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5kh7hZnVTP2Dc8C4Q3BbKi"
       },
@@ -1463,22 +1447,6 @@
       "duration_ms": 165000,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/7zDl54zA8lMPe0g9Ezvnap"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/187ddebM7tIpmkdDOicu81"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 185458,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/2ESCxmLAUmOPPWlUtbCMDo"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1499,6 +1467,22 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
+        "name": "It Could Be Me",
+        "url": "https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 127458,
+      "name": "It Could Be Me",
+      "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
         "name": "Sing Spaceship, Sing!",
         "url": "https://open.spotify.com/album/2e1hdKbDX95Fr1phOYt8Vv"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 208407,
       "name": "SummerBrain",
       "url": "https://open.spotify.com/track/5W3ut9fKvknIV1TCzUl2Lo"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/187ddebM7tIpmkdDOicu81"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 185458,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/2ESCxmLAUmOPPWlUtbCMDo"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 281333,
+      "name": "Astral Plane",
+      "url": "https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
         "name": "Jardin",
         "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
-        "name": "coogie",
-        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "coogie",
-      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
+        "name": "coogie",
+        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
       },
       "artists": [
         {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 236106,
-      "name": "Forget Me Not",
-      "url": "https://open.spotify.com/track/6fCQ0b4fGyyTqHwpHqxRll"
+      "duration_ms": 189514,
+      "name": "coogie",
+      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
     },
     {
       "added_at": "2024-01-12 17:05:09",

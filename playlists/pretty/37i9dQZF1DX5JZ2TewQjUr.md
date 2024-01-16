@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Jasmine Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,847 likes - 92 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,852 likes - 92 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 91 | [三分醉](https://open.spotify.com/track/10dyRZNPSJBLnSgX2rPegm) | [Wolfe](https://open.spotify.com/artist/5BS8OU8Qoy4brGmgm6X2pA), [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [Daishin](https://open.spotify.com/artist/3MZmW9TjNyNLp3NR18pRZh) | [三分醉](https://open.spotify.com/album/3WFNApCRIN4F9pDwI0d0j3) | 3:09 |
 | 92 | [Sorry呢度係香港 \- REMIX](https://open.spotify.com/track/3ht0dlqYLY90PA6mOX1hSE) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O), [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Sorry呢度係香港 \(REMIX\)](https://open.spotify.com/album/69GXEw42aJdTVL52BgNmiN) | 4:06 |
 
-Snapshot ID: `MCxkOThmOWMxZGQ5NTljMmQ5ZmE5YTE4NWI1OWU1ZjE4ZjY2ZDRiNTI0`
+Snapshot ID: `MCw5OWFkZGFjYWM2ZjNhYzExMzYwMDJlOTZiYWMzNDcwM2ZiMjEyOWY5`

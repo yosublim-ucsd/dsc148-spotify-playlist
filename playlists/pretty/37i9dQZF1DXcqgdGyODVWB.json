@@ -1,12 +1,12 @@
 {
   "description": "Cumbia Norte\u00f1a y Norte\u00f1o Sax para las vibras de verano.",
-  "num_followers": 15468,
+  "num_followers": 15505,
   "original_name": "Norte\u00f1o Pa' La Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDBjNTRjMmRjZjI5ZTY5MmQyZjIwYWM5YTAyOThjM2FlMzllMjYz",
+  "snapshot_id": "MCw4NGU4MmJmNGJjN2M3ZTJjZmRiYzc2NDczNWIwMGRkN2JhM2MyMTQy",
   "tracks": [
     {
       "added_at": "2023-12-07 01:18:03",
@@ -163,26 +163,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "un x100to",
-        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 194563,
-      "name": "un x100to",
-      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Princesa",
         "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
-        "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        }
-      ],
-      "duration_ms": 172018,
-      "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
-      "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 193816,
       "name": "NO SE VA - EN VIVO",
       "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
+        "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "duration_ms": 172018,
+      "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
+      "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 175471,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "En Las Buenas Y En Las Malas",
         "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 215066,
       "name": "Cumbia Con La Luna",
       "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 175471,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Fuentes de Ortiz",
-        "url": "https://open.spotify.com/album/6fcrLDiVt4ukz1j7UBoHss"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 231932,
-      "name": "Fuentes de Ortiz",
-      "url": "https://open.spotify.com/track/4vvxsS3eN7EGJf1Ejdbmz6"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "En Vivo, Vol.1",
         "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 187929,
       "name": "Mas Que Amigos - En Vivo",
       "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Fuentes de Ortiz",
+        "url": "https://open.spotify.com/album/6fcrLDiVt4ukz1j7UBoHss"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 231932,
+      "name": "Fuentes de Ortiz",
+      "url": "https://open.spotify.com/track/4vvxsS3eN7EGJf1Ejdbmz6"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "La Boca Les Callamos",
-        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 164650,
-      "name": "La Boca Les Callamos",
-      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Huapango Amor Ranchero",
         "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "La Boca Les Callamos",
+        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 164650,
+      "name": "La Boca Les Callamos",
+      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "De Parranda Lives Vol. 5",
         "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
-      },
-      "artists": [
-        {
-          "name": "Contrabandistas de San Luis",
-          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
-        }
-      ],
-      "duration_ms": 208927,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Cumbias con Garra Vol. IV *",
         "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 202253,
       "name": "Mira oye",
       "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
+      },
+      "artists": [
+        {
+          "name": "Contrabandistas de San Luis",
+          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
+        }
+      ],
+      "duration_ms": 208927,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "P\u00eddeme",
+        "url": "https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t"
+      },
+      "artists": [
+        {
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "P\u00eddeme",
+      "url": "https://open.spotify.com/track/1diebTiolD8N22iuOfmvSy"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "P\u00eddeme",
-        "url": "https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t"
+        "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
       "artists": [
         {
-          "name": "Grupo Legitimo",
-          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 207679,
-      "name": "P\u00eddeme",
-      "url": "https://open.spotify.com/track/1diebTiolD8N22iuOfmvSy"
+      "duration_ms": 203853,
+      "name": "Te Quiero Mucho",
+      "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "De Coraz\u00f3n Norte\u00f1o",
-        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Te Quiero Mucho",
-      "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Los Locos Del Corrido",
         "url": "https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 162400,
       "name": "As\u00ed Ya No",
       "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Esper\u00e1ndote",
+        "url": "https://open.spotify.com/album/1hRk2jBvzatrEbqFtZmUVo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "Y Me Da Verg\u00fcenza",
+      "url": "https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Modo Inc\u00f3gnito",
-        "url": "https://open.spotify.com/album/6alvJhuwlYz1j12wdWIOi3"
-      },
-      "artists": [
-        {
-          "name": "Los Avila",
-          "url": "https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo"
-        }
-      ],
-      "duration_ms": 250872,
-      "name": "Modo Inc\u00f3gnito",
-      "url": "https://open.spotify.com/track/7C3ajbwFKs2tThsJfTC9Hf"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "A Bailar Huapangos",
         "url": "https://open.spotify.com/album/3HwzYVu702BGntM846aF8T"
       },
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Esper\u00e1ndote",
-        "url": "https://open.spotify.com/album/1hRk2jBvzatrEbqFtZmUVo"
+        "name": "Modo Inc\u00f3gnito",
+        "url": "https://open.spotify.com/album/6alvJhuwlYz1j12wdWIOi3"
       },
       "artists": [
         {
-          "name": "Grupo Legitimo",
-          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+          "name": "Los Avila",
+          "url": "https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo"
         }
       ],
-      "duration_ms": 169041,
-      "name": "Y Me Da Verg\u00fcenza",
-      "url": "https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b"
+      "duration_ms": 250872,
+      "name": "Modo Inc\u00f3gnito",
+      "url": "https://open.spotify.com/track/7C3ajbwFKs2tThsJfTC9Hf"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "De Cuando Ac\u00e1",
-        "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
-      },
-      "artists": [
-        {
-          "name": "La Energia Nortena",
-          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
-        }
-      ],
-      "duration_ms": 178474,
-      "name": "De Cuando Ac\u00e1",
-      "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Ando Bien Agusto",
         "url": "https://open.spotify.com/album/6Vd6fo2eFRRZvxCILrySBa"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 190682,
       "name": "Ando Bien Agusto",
       "url": "https://open.spotify.com/track/5heouRKOr5RdKXWd4tdZZw"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "De Cuando Ac\u00e1",
+        "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
+      },
+      "artists": [
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        }
+      ],
+      "duration_ms": 178474,
+      "name": "De Cuando Ac\u00e1",
+      "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Nunca Imagin\u00e9",
-        "url": "https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL"
-      },
-      "artists": [
-        {
-          "name": "Los Vendavales de Adan Melendez",
-          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Norte\u00f1o, Vol. 2",
         "url": "https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 167903,
       "name": "Un Cari\u00f1o Como T\u00fa",
       "url": "https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Nunca Imagin\u00e9",
+        "url": "https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        }
+      ],
+      "duration_ms": 232680,
+      "name": "Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1587,6 +1587,38 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "Los de la DC",
+        "url": "https://open.spotify.com/album/1PRVah5XRGSaWLZyqlXruE"
+      },
+      "artists": [
+        {
+          "name": "La Descendencia De Rio Grande",
+          "url": "https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Escondidos",
+      "url": "https://open.spotify.com/track/5rvDEOniEstwbFvn2yCfL2"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
+        }
+      ],
+      "duration_ms": 204078,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "As\u00ed Somos",
         "url": "https://open.spotify.com/album/3ER5KlEQW19hQxUNmRdtFJ"
       },
@@ -1619,38 +1651,6 @@
       "duration_ms": 234666,
       "name": "Cortinas Guindas",
       "url": "https://open.spotify.com/track/6mEkvLnD8knuzA9KCKVvEB"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "Los de la DC",
-        "url": "https://open.spotify.com/album/1PRVah5XRGSaWLZyqlXruE"
-      },
-      "artists": [
-        {
-          "name": "La Descendencia De Rio Grande",
-          "url": "https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Escondidos",
-      "url": "https://open.spotify.com/track/5rvDEOniEstwbFvn2yCfL2"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "Fuiste Mala",
-        "url": "https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
-        }
-      ],
-      "duration_ms": 204078,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o"
     },
     {
       "added_at": "2023-12-07 01:18:03",

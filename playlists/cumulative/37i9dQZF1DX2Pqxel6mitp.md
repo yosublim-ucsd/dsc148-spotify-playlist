@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-177 songs - 11 hr 0 min
+178 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Good Times](https://open.spotify.com/track/5cUjDokJ7BpzghS8gcRhWi) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Good Times](https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR) | 3:14 | 2023-09-22 |  |
 | [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-05-25 | 2023-11-04 |
 | [Goodbye Jimmy Reed](https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:13 | 2022-05-25 |  |
-| [Got to Go Back Home](https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Got to Go Back Home](https://open.spotify.com/album/47a2tTcWRCEOxQVEw12tvR) | 3:54 | 2022-05-25 |  |
+| [Got to Go Back Home](https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Got to Go Back Home](https://open.spotify.com/album/47a2tTcWRCEOxQVEw12tvR) | 3:54 | 2022-05-25 | 2024-01-16 |
 | [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 | 2022-05-25 |  |
 | [Guitar Man \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:05 | 2022-07-08 |  |
 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2022-05-25 |  |
@@ -81,6 +81,7 @@
 | [Hey Hey \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/7d8L6hQ8VROqzjjjd35NcK) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 3:46 | 2022-05-25 | 2022-10-17 |
 | [High And Lonesome](https://open.spotify.com/track/1fy10qCN9rlsfRKRJxxfrA) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:33 | 2022-07-08 |  |
 | [High and Lonesome](https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [High and Lonesome](https://open.spotify.com/album/1hXu1hzBLLXJLoJgacsc6K) | 4:33 | 2022-05-25 | 2022-07-29 |
+| [Hobo Blues](https://open.spotify.com/track/3dish93LmeKpVtE5DNNi2p) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Holding Court](https://open.spotify.com/album/2lqQLEtZ46XMtWNymL5fCV) | 3:28 | 2023-11-24 |  |
 | [How To Love](https://open.spotify.com/track/0g2i0wii2FZuBskWUta2SK) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [How To Love](https://open.spotify.com/album/4MOG342gzrJ8AEagVhXjcg) | 3:38 | 2022-05-25 | 2022-07-29 |
 | [How to Love](https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:38 | 2022-07-08 |  |
 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 | 2022-05-25 |  |

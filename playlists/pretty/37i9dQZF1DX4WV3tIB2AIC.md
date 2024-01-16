@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 
 > Our editors' picks of the best gaming tracks of the year\. Cover: ericdoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,271 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,275 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 38 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 |
 | 39 | [Swing \- From "Marvel's Spider\-Man 2"](https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Swing \(From "Marvel's Spider\-Man 2"\)](https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U) | 3:04 |
 | 40 | [Shmunk \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:49 |
-| 41 | [I GUESS IT'S LOVE?](https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I GUESS IT'S LOVE?](https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW) | 2:17 |
-| 42 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 |
+| 41 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 |
+| 42 | [I GUESS IT'S LOVE?](https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I GUESS IT'S LOVE?](https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW) | 2:17 |
 | 43 | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe) | 3:08 |
 | 44 | [No Way Jose](https://open.spotify.com/track/1kCXmKWlfc9tZIp3Thumkl) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Baby Gravy 3](https://open.spotify.com/album/0mDeN57X1YtJHfXNdYlJbw) | 2:49 |
 | 45 | [Until I End Up Dead](https://open.spotify.com/track/5bVTkc2s7TQbTbVZZn2fXn) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd) | [Until I End Up Dead](https://open.spotify.com/album/7FqeGIj2CoHAbWTyqeOpGu) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 49 | [Fatal \(Mortal Kombat 1\)](https://open.spotify.com/track/6sHsemX0bfvhZd2p2ZnnP2) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Fatal \(Mortal Kombat 1\)](https://open.spotify.com/album/5cr5pHpbw6dz3yQuCEFBIV) | 4:11 |
 | 50 | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/track/59ze8lLaqAIamVOBx46RcQ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/album/0FijhrXIqeHShfcww5Smb0) | 2:41 |
 
-Snapshot ID: `MCw2YjllMjA0ZDY2YTRjZmE1MGQzNWM2ZTZhMzFlNTk1NTRmY2FlNWU2`
+Snapshot ID: `MCw0NWQ1NWExMjQxZDhkNWU4MWJiZDBhYmIzZDVkNWEwZTY2OGE1MjVl`

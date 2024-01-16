@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 34311,
+  "2024-01-16": 34313,
   "date_first_scraped": "2023-12-31",
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
   "name": "This Is Mc Dricka",
@@ -427,7 +427,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 153230,
       "name": "Faixa Rosa (feat. Mc Carol)",
       "url": "https://open.spotify.com/track/6ADQaiTWb63joaiYYXPUAf"
@@ -773,6 +773,32 @@
       "duration_ms": 134769,
       "name": "Mentiroso Que Vem Junto",
       "url": "https://open.spotify.com/track/5wr5mPRFg0hb3D7PZ7q6ux"
+    },
+    {
+      "album": {
+        "name": "Mundo Pequeno",
+        "url": "https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228252,
+      "name": "Mundo Pequeno",
+      "url": "https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5"
     },
     {
       "album": {

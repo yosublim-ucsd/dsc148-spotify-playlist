@@ -7692,7 +7692,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 152000,
       "name": "Raha",
       "url": "https://open.spotify.com/track/0epZMFP9yDZP4imm5whVvO"
@@ -8056,6 +8056,24 @@
       "duration_ms": 243478,
       "name": "Safert B3eed - \u0633\u0627\u0641\u0631\u062a \u0628\u0639\u064a\u062f",
       "url": "https://open.spotify.com/track/4dRCwaICB2eo2VBcelXmNu"
+    },
+    {
+      "album": {
+        "name": "Saggan",
+        "url": "https://open.spotify.com/album/7FqxSipC4DIQ0IA3RgWqxa"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173906,
+      "name": "Saggan",
+      "url": "https://open.spotify.com/track/7yKvi1Ftnda6J3PyqKY139"
     },
     {
       "album": {
@@ -11976,6 +11994,28 @@
       "duration_ms": 181224,
       "name": "\u0633\u062d\u0644\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/6OqfxVVUvkSesd88gTUCOt"
+    },
+    {
+      "album": {
+        "name": "\u0633\u062e\u0646\u062a",
+        "url": "https://open.spotify.com/album/5BkD4tMCI2qfFecCXRvtO3"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "Ismail Nosrat",
+          "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186046,
+      "name": "\u0633\u062e\u0646\u062a",
+      "url": "https://open.spotify.com/track/3XAUmK0uUZKIWET53ty42t"
     },
     {
       "album": {

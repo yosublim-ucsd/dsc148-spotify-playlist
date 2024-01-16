@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Vortxz
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,343 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,372 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Different](https://open.spotify.com/track/70L61yj3bxVojr86c7xUJ1) | [soft serve](https://open.spotify.com/artist/3zIgLbjYZS3ClwVgN8NQ4B) | [Different](https://open.spotify.com/album/300kNCtYC2PieuVvjzh65J) | 3:59 |
 | 100 | [It's A Pain](https://open.spotify.com/track/6fYQfO8TdcHsrGsyiHcbP6) | [Bummer Camp](https://open.spotify.com/artist/03PQWgjoaJt88TpMi1dmm5) | [Big Deal](https://open.spotify.com/album/4hclPpxh4OdsHhYc14TpQV) | 2:54 |
 
-Snapshot ID: `MCwxMWE0NzIzODhiNDNlZmUxMGZhMzE2ZWI4MjUwMjQwYjVhYTZiOGEx`
+Snapshot ID: `MCw0ZmQ1Zjk5NTkwNjY4ZWI4OTNiMTRkYmM1MWQyMDliYTlkN2I2ZDNl`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 43865,
+  "num_followers": 43878,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWM3MjFhYTZjNTM3Zjg5MDZhNDVjZTUwYzcwMmVlZGJhMjFmODBm",
+  "snapshot_id": "MCw5ZjhlMzA2OGY4ODZkMTU3ZTkxYzMxODg2M2Q4ODdiMWEyZmFjOTIx",
   "tracks": [
     {
       "added_at": "2023-02-13 22:58:21",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-02-13 22:58:21",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Volverte A Ver",
-      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
-    },
-    {
-      "added_at": "2023-02-13 22:58:21",
-      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 245120,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
+    },
+    {
+      "added_at": "2023-02-13 22:58:21",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "added_at": "2023-02-13 22:58:21",
@@ -335,6 +335,26 @@
     {
       "added_at": "2023-02-13 22:58:21",
       "album": {
+        "name": "M\u00e1s + Coraz\u00f3n Profundo",
+        "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
+    },
+    {
+      "added_at": "2023-02-13 22:58:21",
+      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 302946,
       "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
       "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
-    },
-    {
-      "added_at": "2023-02-13 22:58:21",
-      "album": {
-        "name": "M\u00e1s + Coraz\u00f3n Profundo",
-        "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
     },
     {
       "added_at": "2023-02-13 22:58:21",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-02-13 22:58:21",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+    },
+    {
+      "added_at": "2023-02-13 22:58:21",
+      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 284421,
       "name": "Una Hoja en Blanco",
       "url": "https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW"
-    },
-    {
-      "added_at": "2023-02-13 22:58:21",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 293893,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
     },
     {
       "added_at": "2023-02-13 22:58:21",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-13 22:58:21",
       "album": {
-        "name": "Kaleth Morales En Guitarras",
-        "url": "https://open.spotify.com/album/6WEgrW9kNfKtQQQWqefD7Y"
-      },
-      "artists": [
-        {
-          "name": "Kaleth Morales",
-          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Lo Mejor Para Los Dos (Todo de Cabeza) - Version Guitarra - En Vivo",
-      "url": "https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw"
-    },
-    {
-      "added_at": "2023-02-13 22:58:21",
-      "album": {
         "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 275186,
       "name": "El Amor M\u00e1s Grande del Planeta",
       "url": "https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM"
+    },
+    {
+      "added_at": "2023-02-13 22:58:21",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 259812,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl"
     }
   ],
   "unique_name": "Sopa y Seco",

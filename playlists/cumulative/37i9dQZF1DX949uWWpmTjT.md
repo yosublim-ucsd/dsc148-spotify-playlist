@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-901 songs - 2 day 10 hr 39 min
+902 songs - 2 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [A Fine Romance](https://open.spotify.com/track/191Pkd7ZYqI2zgQ3QbCbfM) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 3:41 | 2021-12-03 | 2023-11-17 |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/2EPm4CREZTAaifDkmTZ1UD) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/6e5sks6jNZiizyhRdcguh9) | 4:51 | 2023-11-17 |  |
 | [A Foggy Day](https://open.spotify.com/track/1TIBoZ9EokVBNMJxetdfO0) | [Robert Kaddouch](https://open.spotify.com/artist/1xbBIDmxFyssNnRwvZJCmO), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [53rd Street](https://open.spotify.com/album/4qNuS2VIZZozT0RcI8c5tJ) | 6:33 | 2021-12-03 | 2022-07-29 |
-| [A Foggy Day](https://open.spotify.com/track/7b579YfrUOFI8jwCd8ZeZm) | [Robert Kaddouch](https://open.spotify.com/artist/1xbBIDmxFyssNnRwvZJCmO), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [53rd Street](https://open.spotify.com/album/5fR9R5HWZcyhdBXdpGsZiu) | 6:33 | 2022-06-30 |  |
+| [A Foggy Day](https://open.spotify.com/track/7b579YfrUOFI8jwCd8ZeZm) | [Robert Kaddouch](https://open.spotify.com/artist/1xbBIDmxFyssNnRwvZJCmO), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [53rd Street](https://open.spotify.com/album/5fR9R5HWZcyhdBXdpGsZiu) | 6:33 | 2022-06-30 | 2024-01-16 |
 | [A Glimpse Of The Future](https://open.spotify.com/track/6D3Imkm2BqdYhn1RoFVGmY) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [A Glimpse Of The Future](https://open.spotify.com/album/5qXuFVg88DnAFDpYtl9A9S) | 2:29 | 2023-08-17 |  |
 | [A Knock On The Door](https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [A Knock On The Door](https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F) | 3:27 | 2022-11-10 |  |
 | [A Long Day](https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [A Long Day](https://open.spotify.com/album/1NNC5s9uAgPIHxwi7VlvBs) | 2:48 | 2023-10-13 |  |
@@ -199,6 +199,7 @@
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-11-10 |  |
 | [Don't Take Me For Granted](https://open.spotify.com/track/0pWw8k7ThQXQlODdT0MVkP) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Don't Take Me For Granted](https://open.spotify.com/album/7HEn07lzayUeSHnGSwWaAL) | 3:11 | 2023-03-16 |  |
 | [Don't You Know I Care](https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 4:10 | 2021-12-03 |  |
+| [Don’t ruin it](https://open.spotify.com/track/5E9FQwE8VNfNYB9bSD8lAn) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Don’t ruin it](https://open.spotify.com/album/3Y9sptxgegR4ePGCr5JYXR) | 2:14 | 2024-01-12 |  |
 | [Doubtful](https://open.spotify.com/track/4fnBofV3Ou8nbpPxXj7n0B) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Doubtful](https://open.spotify.com/album/4hmQ6VCiK9XYc1HCTl8XPo) | 3:44 | 2023-06-01 |  |
 | [Down and Out](https://open.spotify.com/track/61oeoAAPUXdhZZjq9F93g0) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 3:10 | 2022-01-27 |  |
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-11-10 |  |

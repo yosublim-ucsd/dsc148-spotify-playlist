@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-222 songs - 8 hr 53 min
+223 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [fly away](https://open.spotify.com/track/3nEKznjXAihwGO0KDodJYi) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [fly away](https://open.spotify.com/album/4LqsbsDUK9nMERCArof3w8) | 1:51 | 2023-01-06 |  |
 | [fly me to the moon](https://open.spotify.com/track/0ZRXuSHt856z22kJtfqVjK) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [fly me to the moon](https://open.spotify.com/album/428Omo1qGn6r2FzfpVGDwC) | 1:48 | 2023-08-28 |  |
 | [fly me to the moon \~ lofi](https://open.spotify.com/track/5KIzXL5NxUb8NZQEuSqFt6) | [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3) | [fly me to the moon \~ lofi](https://open.spotify.com/album/0opYKO3lnDCWgHtaq7wlBG) | 1:04 | 2022-09-02 | 2023-11-24 |
-| [Foolish](https://open.spotify.com/track/3Mt0mb8hQcCrzQUEMGXhWX) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/5cCEONJGfWiPtR9yn63Ghf) | 2:59 | 2022-12-02 |  |
+| [Foolish](https://open.spotify.com/track/327YD8hrJehqymoHyLzjvL) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/205AAzdvybdc1XHfLkQIfv) | 2:59 | 2024-01-12 |  |
+| [Foolish](https://open.spotify.com/track/3Mt0mb8hQcCrzQUEMGXhWX) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/5cCEONJGfWiPtR9yn63Ghf) | 2:59 | 2022-12-02 | 2024-01-16 |
 | [Gangsta's Paradise](https://open.spotify.com/track/2VWNSlfsBCxKVDaGBTYAvL) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:55 | 2022-09-02 | 2022-09-30 |
 | [Gangsta's Paradise \- Lofi Version](https://open.spotify.com/track/176AsqgJiJL4PFMpGFD0px) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lofi Madness, Vol\. 1](https://open.spotify.com/album/3G0mO8o0VBCJMGpUdT6rFG) | 2:10 | 2022-09-30 | 2023-09-08 |
 | [Ghost](https://open.spotify.com/track/7xIONLBEuuXdjd9KFGxUWz) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Ghost](https://open.spotify.com/album/5F25JMKIZl6Zl4huvs6GtE) | 1:59 | 2022-09-02 |  |

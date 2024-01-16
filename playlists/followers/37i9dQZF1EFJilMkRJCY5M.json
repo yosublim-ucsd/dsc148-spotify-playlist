@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 157,
+  "2024-01-16": 157,
   "date_first_scraped": "2022-05-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g\">Emily Falvey</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Emily Falvey",
@@ -1488,6 +1488,24 @@
     },
     {
       "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ"
+      },
+      "artists": [
+        {
+          "name": "Hannah Ellis",
+          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215552,
+      "name": "Someone Else's Heartbreak",
+      "url": "https://open.spotify.com/track/35Asbjj2UV7m6LpCT3EOqA"
+    },
+    {
+      "album": {
         "name": "Someone Else's Heartbreak",
         "url": "https://open.spotify.com/album/3xccw93KgxWuesYmkkJsLp"
       },
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 215552,
       "name": "Someone Else's Heartbreak",
       "url": "https://open.spotify.com/track/4EKvXD76hhYuKAXWokpyRB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > Please consider donating to Hawai'i Community Foundation's <a href="https://www.hawaiicommunityfoundation.org/maui\-strong?fbclid=IwAR13k\_bWcOzvA0EM6bF6CSmkSktK8G\[%E2%80%A6\]EzD6jXm7wvU2z18gYZVchaFYOyGe2pBhhcts&mibextid=Zxz2cZ">Maui Strong Fund</a> to provide financial resources quickly to those that have been impacted by the devastating wildfires on Maui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,160 likes - 65 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,214 likes - 65 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 13 | [Prisoner of Love](https://open.spotify.com/track/27dhf3MNqSiNCSX5Z7le3E) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Prisoner of Love](https://open.spotify.com/album/2V0I7vyGKDIgPjgSMhjITp) | 4:20 |
 | 14 | [Kawaikini](https://open.spotify.com/track/1a2UimgBeSAHzTECBo2iya) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Kawaikini](https://open.spotify.com/album/1KBUkJGGdMwPRrRcO2FWs9) | 4:30 |
 | 15 | [Moonlight Lady](https://open.spotify.com/track/1HOMw6a7ywU1AiFMIS7FcV) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Gabby Pahinui Hawaiian Band, Vol\. 1](https://open.spotify.com/album/2mAXdR3BgOOvQCmRKsLecw) | 4:23 |
-| 16 | [Ipo Lei Manu](https://open.spotify.com/track/4cXRygylIkwc1EgOJltbIw) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [Songs of Aloha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/119mKxx5iYvDFOFJbSxO6K) | 5:10 |
+| 16 | [Ipo Lei Manu](https://open.spotify.com/track/0j1rPE5I0707BqbolAyT0G) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [6 & 12 String Slack Key Guitar](https://open.spotify.com/album/7dgIUPKunBub5OYXGJf5UQ) | 5:10 |
 | 17 | [Hanalei I Ka Pilimoe](https://open.spotify.com/track/16AgooUpw2xG8OQqGepEJZ) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:09 |
 | 18 | [Wahine 'Ilikea](https://open.spotify.com/track/7ctTIxYYyYYQ58pzkRrYiR) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y) | [Pua'ena "Glow Brightly"](https://open.spotify.com/album/14qTaMf1Vf32iELPpl8RZp) | 4:29 |
 | 19 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 64 | [Whee Ha Swing](https://open.spotify.com/track/2yfmFza2MM6TV3QBvC138Z) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol\. 1](https://open.spotify.com/album/6BpspuHJBMZxI7Cc3Y9Tjr) | 2:31 |
 | 65 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 |
 
-Snapshot ID: `MCw3ZjRhNGJmYjNlOGYwNTc5ZDA0MTg0NGUyNmE5ODQ4YjczOTM4NWRm`
+Snapshot ID: `MCxlOWVlYTc3MWQzNDZkODVhYTA4MGQ2NDYwMTc5ZDVlMjU1ODI1Yzlj`

@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 342587,
+  "2024-01-16": 342297,
   "date_first_scraped": "2023-07-23",
   "description": "A batida certa para o seu treino",
   "name": "Treino Hip-Hop",
@@ -2087,10 +2087,28 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 173159,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW"
+    },
+    {
+      "album": {
+        "name": "Internal Affairs",
+        "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
+      },
+      "artists": [
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6"
     },
     {
       "album": {

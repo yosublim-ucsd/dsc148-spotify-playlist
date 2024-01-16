@@ -4,7 +4,7 @@
 
 > Country Music that rocks\. Cover: HARDY
 
-333 songs - 19 hr 5 min
+334 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Did It To Myself](https://open.spotify.com/track/2iJnmQ9dB4CUqQSoeFlX57) | [Bobby McClendon](https://open.spotify.com/artist/24ZSRZ25gSFAx2bCl1aM66) | [Did It To Myself](https://open.spotify.com/album/4rMdm6bJ4Ud3aUMuUwsLY7) | 2:47 | 2021-11-19 | 2022-07-09 |
 | [Die Rockin](https://open.spotify.com/track/6TIBQ6xqAEbcTDcnXJqgVT) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Die Rockin](https://open.spotify.com/album/67oVAfnRY3Qw1B4285CAOR) | 3:24 | 2021-11-01 | 2022-04-29 |
 | [Die Too Young](https://open.spotify.com/track/2VhtuodYYG5YZCWRMKWk5o) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Die Too Young](https://open.spotify.com/album/6VmV8giZGESZ25E0mZrKFU) | 3:46 | 2022-06-03 | 2022-07-09 |
-| [Dig A Hole](https://open.spotify.com/track/5sl5dwbfQqkigMNUjQQ4PI) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Dig A Hole](https://open.spotify.com/album/6Qj4bkL3XK29fR6qcT7Kyb) | 4:12 | 2023-08-25 |  |
+| [Dig A Hole](https://open.spotify.com/track/5sl5dwbfQqkigMNUjQQ4PI) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Dig A Hole](https://open.spotify.com/album/6Qj4bkL3XK29fR6qcT7Kyb) | 4:12 | 2023-08-25 | 2024-01-16 |
 | [Dirt](https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Anything Goes](https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc) | 3:50 | 2023-01-20 |  |
 | [Dirt Road When I Die](https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dirt Road When I Die \- EP](https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM) | 2:54 | 2023-07-07 |  |
 | [DLTGYD](https://open.spotify.com/track/474bbaCVDM80WEg9iSvkYb) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [DLTGYD](https://open.spotify.com/album/7FnG6OJfxnWf3YdYqt4jv9) | 4:30 | 2021-11-01 | 2022-01-29 |
@@ -195,6 +195,7 @@
 | [Make Matters Worse](https://open.spotify.com/track/7EUoEK6keyGlntdRJ6rKYK) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Make Matters Worse](https://open.spotify.com/album/0vSu0riQ2DRPIUu8ZfXgKI) | 3:40 | 2023-04-07 | 2023-08-26 |
 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 | 2023-01-02 |  |
 | [Met the Devil in Oklahoma](https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Oklahoma](https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh) | 3:56 | 2021-11-01 |  |
+| [Midnight Dancer](https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf) | [Aaron McBee](https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA) | [If I Know You](https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr) | 2:43 | 2024-01-15 |  |
 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 | 2021-11-01 |  |
 | [Might As Well Be Me](https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Nobody's Nobody](https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg) | 2:49 | 2023-04-07 |  |
 | [Mine Never Could](https://open.spotify.com/track/3sShyPAlNV2WiZK1y6AOcN) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Mine Never Could](https://open.spotify.com/album/33mdBMjdHSWrIjrmHIhxGX) | 3:05 | 2023-12-01 |  |

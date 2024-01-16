@@ -1,12 +1,12 @@
 {
   "description": "Canciones para sacarle brillo a la pista de baile.",
-  "num_followers": 96541,
+  "num_followers": 96546,
   "original_name": "Sal\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzQ1M2ZkM2UwZDgwOTg4YTZhMWU5NjVhYjQ1YTlkNWNlMWNhNDY0",
+  "snapshot_id": "MCw5Nzc1MTg3NzYzNjUyMDNkYjRlZThkZmZjNGY4OWNhODk1YTZiM2Ex",
   "tracks": [
     {
       "added_at": "2023-08-14 15:51:23",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Eres M\u00eda",
+      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 225953,
       "name": "Corazon de Acero",
       "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Eres M\u00eda",
-      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "We Broke The Rules",
+        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 348826,
+      "name": "Ense\u00f1ame a Olvidar",
+      "url": "https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 245120,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
-        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ensamble",
-          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
-        }
-      ],
-      "duration_ms": 226346,
-      "name": "Tus Jefes No Me Quieren",
-      "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "We Broke The Rules",
-        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
+        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
+        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Grupo Ensamble",
+          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
         }
       ],
-      "duration_ms": 348826,
-      "name": "Ense\u00f1ame a Olvidar",
-      "url": "https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM"
+      "duration_ms": 226346,
+      "name": "Tus Jefes No Me Quieren",
+      "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -451,6 +451,22 @@
       "duration_ms": 308693,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 289840,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/2jQeX1fMZo5z82w3BviN5x"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -547,22 +563,6 @@
       "duration_ms": 301573,
       "name": "Amores Como el Nuestro",
       "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 289840,
-      "name": "La Boda",
-      "url": "https://open.spotify.com/track/2jQeX1fMZo5z82w3BviN5x"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Fabricando Fantas\u00edas",
-        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "Fabricando Fantas\u00edas - Salsa Version",
-      "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. 3",
         "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 281129,
       "name": "Echarme Al Olvido",
       "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Fabricando Fantas\u00edas",
+        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "Fabricando Fantas\u00edas - Salsa Version",
+      "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "De Mil Maneras",
-        "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
-      },
-      "artists": [
-        {
-          "name": "Sonora Siguaray",
-          "url": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Los Caminos De La Vida",
         "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 291133,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "De Mil Maneras",
+        "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
+      },
+      "artists": [
+        {
+          "name": "Sonora Siguaray",
+          "url": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Coraz\u00f3n Duro",
-        "url": "https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 287960,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 220753,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Coraz\u00f3n Duro",
+        "url": "https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 287960,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "Lluvia (Baile Total)",
+        "url": "https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/2on3gXXCAoZKdOWXdgHmUR"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 221346,
       "name": "Amor A Primera Vista",
       "url": "https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Lluvia (Baile Total)",
-        "url": "https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/2on3gXXCAoZKdOWXdgHmUR"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1439,38 +1439,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Merengues Con Gusto",
-        "url": "https://open.spotify.com/album/3cnNKDOYcchZ5Jl9aPxvKL"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 291324,
-      "name": "Moviendo Las Caderas",
-      "url": "https://open.spotify.com/track/4q6N9URYBLk9g1bUIWwnoR"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Son By 4",
-        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
       },
@@ -1499,6 +1467,38 @@
       "duration_ms": 194466,
       "name": "Te Quiero A T\u00ed",
       "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Merengues Con Gusto",
+        "url": "https://open.spotify.com/album/3cnNKDOYcchZ5Jl9aPxvKL"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 291324,
+      "name": "Moviendo Las Caderas",
+      "url": "https://open.spotify.com/track/4q6N9URYBLk9g1bUIWwnoR"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Son By 4",
+        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267613,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
         "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 215524,
       "name": "Yo Quiero Chupar",
       "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267613,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
     },
     {
       "added_at": "2023-08-14 15:51:23",

@@ -4,7 +4,7 @@
 
 > Get your gaming session going with this rap mix.
 
-406 songs - 22 hr 17 min
+407 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 | 2022-10-28 |  |
 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:29 | 2022-04-29 |  |
 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/3LnOF5n1GOs01siYZXzS3p) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/album/793GjzTKqeLWecWiEFT5u4) | 3:29 | 2022-03-11 | 2022-07-29 |
+| [Erase Your Social](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Perfect LUV Tape](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67) | 3:19 | 2024-01-11 |  |
 | [Errbody](https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Errbody](https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2) | 3:30 | 2021-09-03 | 2022-07-02 |
 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 | 2021-09-03 |  |
 | [Everybody](https://open.spotify.com/track/7cGFbx7MP0H23iHZTZpqMM) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Everybody](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk) | 2:42 | 2022-03-25 | 2022-04-21 |
@@ -200,7 +201,7 @@
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-04-08 | 2022-10-29 |
 | [Look Alive \(feat\. Drake\)](https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Look Alive \(feat\. Drake\)](https://open.spotify.com/album/7GGoJfKFOwDNuiLjjfzyCS) | 3:01 | 2022-10-28 | 2023-01-01 |
 | [Look Alive \(feat\. Drake\)](https://open.spotify.com/track/6HJ34Zyw6bg8yGm28AxLXf) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Simi](https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S) | 3:01 | 2022-10-28 | 2024-01-12 |
-| [Lord Pretty Flacko Jodye 2 \(LPFJ2\)](https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 2:06 | 2022-10-28 |  |
+| [Lord Pretty Flacko Jodye 2 \(LPFJ2\)](https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 2:06 | 2022-10-28 | 2024-01-16 |
 | [LOT OF ME](https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:03 | 2024-01-11 |  |
 | [Love Scars](https://open.spotify.com/track/0AICBlLzFCTpUqmAbtzB2z) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You](https://open.spotify.com/album/7ae73nWyKrrH9wwGm97RIA) | 2:23 | 2022-10-28 | 2023-10-25 |
 | [Love Scars](https://open.spotify.com/track/4w552MI4k7dwPHLjI8YOBy) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You](https://open.spotify.com/album/4bJCgEvJNMhIxmufeJlFB9) | 2:23 | 2022-10-28 | 2024-01-12 |

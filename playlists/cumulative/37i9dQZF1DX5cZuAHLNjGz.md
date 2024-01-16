@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Shubh
 
-291 songs - 15 hr 5 min
+292 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Everybody Hurts](https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:53 | 2022-06-01 |  |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2022-05-29 |  |
 | [Fallin Star](https://open.spotify.com/track/45w4U2lr3UCEShY27BV8VO) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Fallin Star](https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI) | 2:45 | 2022-06-28 | 2022-08-06 |
-| [Famous](https://open.spotify.com/track/5CAJV45ARpLxvDlCe2thta) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Let's Go](https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf) | 2:35 | 2023-12-21 |  |
+| [Famous](https://open.spotify.com/track/5CAJV45ARpLxvDlCe2thta) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Let's Go](https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf) | 2:35 | 2023-12-21 | 2024-01-16 |
 | [Fate](https://open.spotify.com/track/52XpQt2fDLozI4qlhYvWl0) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 2:50 | 2022-05-29 | 2023-04-14 |
 | [Fayaah Fayaah](https://open.spotify.com/track/45VoxYJ8AUkOpvL4q2wBf6) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:37 | 2022-08-22 | 2022-09-07 |
 | [Feelinga](https://open.spotify.com/track/2DzEnsDbTLHwPuIMAB2z0P) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Adhi Tape](https://open.spotify.com/album/5oQenRXHToaoAFJnIbOV5Y) | 3:08 | 2022-05-29 | 2022-10-26 |
@@ -147,6 +147,7 @@
 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 | 2023-10-06 |  |
 | [Lalkara](https://open.spotify.com/track/6swVP5qDAjqlzbF2R3A4bC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 2:40 | 2023-10-27 | 2023-11-17 |
 | [Lemonade](https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:46 | 2022-07-15 |  |
+| [Like Me](https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [5 Diamonds](https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh) | 2:58 | 2024-01-15 |  |
 | [Likhari](https://open.spotify.com/track/14r3uhYqRQbbm7jwcU6kHx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Likhari](https://open.spotify.com/album/4Yv1xU5GycGXbaTMzhTkJF) | 3:06 | 2022-05-29 | 2022-10-18 |
 | [Love Sick](https://open.spotify.com/track/1skGwRjc7wYY70PJCAkKMr) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:52 | 2022-05-29 |  |
 | [Love Ya](https://open.spotify.com/track/4Vaa9Mq34xA9cSX8B7PtCN) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Love Ya](https://open.spotify.com/album/74AG3N4OJWlJR19gRIEJyB) | 2:41 | 2024-01-05 |  |

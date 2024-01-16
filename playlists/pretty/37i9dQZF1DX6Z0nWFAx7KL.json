@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47373,
+  "num_followers": 47379,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTBhNjBmZWNkMDM4YzkxMDA2MTczZjJlNTA5MTJjNzBmNThlYzdi",
+  "snapshot_id": "MCxhMDEzMzBiZTBlODk4M2U4ZGUzM2RlNDU4N2ZmMjM5M2E3MWJjZjc3",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -595,30 +595,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
-        },
-        {
-          "name": "Alon",
-          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
-        }
-      ],
-      "duration_ms": 148522,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Forever, Now",
         "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 217377,
       "name": "The Beach",
       "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+        },
+        {
+          "name": "Alon",
+          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
+        }
+      ],
+      "duration_ms": 148522,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239021,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "That Kinda Love",
         "url": "https://open.spotify.com/album/55CLCdTPdK4EhfeHqeZ5Zc"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 164125,
       "name": "That Kinda Love",
       "url": "https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239021,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1043,6 +1043,30 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Hold on Tight",
+        "url": "https://open.spotify.com/album/6UtbCHjl70Y4lfeBzpHCOS"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "ASTIR",
+          "url": "https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h"
+        },
+        {
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+        }
+      ],
+      "duration_ms": 206384,
+      "name": "Hold on Tight",
+      "url": "https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Light A Fire",
         "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
       },
@@ -1103,30 +1127,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Hold on Tight",
-        "url": "https://open.spotify.com/album/6UtbCHjl70Y4lfeBzpHCOS"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "ASTIR",
-          "url": "https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h"
-        },
-        {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
-        }
-      ],
-      "duration_ms": 206384,
-      "name": "Hold on Tight",
-      "url": "https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Dollar For A Dime",
         "url": "https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko"
       },
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "STAY",
-        "url": "https://open.spotify.com/album/013a6sw3mwlatsiiMDvoJV"
-      },
-      "artists": [
-        {
-          "name": "Ayko",
-          "url": "https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf"
-        },
-        {
-          "name": "George",
-          "url": "https://open.spotify.com/artist/3sedn32ScoPV1uUo54el2E"
-        }
-      ],
-      "duration_ms": 162393,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/2t0wgon3zNi2rK5RmBI6PB"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 174893,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/013a6sw3mwlatsiiMDvoJV"
+      },
+      "artists": [
+        {
+          "name": "Ayko",
+          "url": "https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf"
+        },
+        {
+          "name": "George",
+          "url": "https://open.spotify.com/artist/3sedn32ScoPV1uUo54el2E"
+        }
+      ],
+      "duration_ms": 162393,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/2t0wgon3zNi2rK5RmBI6PB"
     },
     {
       "added_at": "2024-01-11 23:00:00",

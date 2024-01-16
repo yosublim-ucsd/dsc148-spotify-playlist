@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Jordan Sandhu
+> The very best of Punjabi romance featuring Amrit Maan & Baani Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,061 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,213 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ishqan De Rog](https://open.spotify.com/track/3pDxUzAOLnmjxUum5PcTip) | [Deep Chambal](https://open.spotify.com/artist/3urpfjeiggQzlhbXFylaB0) | [Ishqan De Rog](https://open.spotify.com/album/537pV5ckO6gHzSYjgpKGmA) | 2:54 |
-| 2 | [AJA](https://open.spotify.com/track/54GK1bZMOAMXKysrnH4vTp) | [Kaléra](https://open.spotify.com/artist/6iikMXh4KCnspxngWliHWa), [Jaski](https://open.spotify.com/artist/1FOAUmccKtd4J6zRQBybfJ) | [AJA](https://open.spotify.com/album/5P34lnavFvbkEhbKRcPU9m) | 2:14 |
+| 1 | [Like Me](https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [5 Diamonds](https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh) | 2:58 |
+| 2 | [Ishqan De Rog](https://open.spotify.com/track/3pDxUzAOLnmjxUum5PcTip) | [Deep Chambal](https://open.spotify.com/artist/3urpfjeiggQzlhbXFylaB0) | [Ishqan De Rog](https://open.spotify.com/album/537pV5ckO6gHzSYjgpKGmA) | 2:54 |
 | 3 | [Apa Fer Milaange](https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Apa Fer Milaange](https://open.spotify.com/album/62dVx2sHnVaGFP2cuURpL5) | 4:14 |
 | 4 | [Nimm Thalle](https://open.spotify.com/track/1t0Kt7JeVFRgrCqwdsca8d) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Nimm Thalle](https://open.spotify.com/album/6AMmCNpdB7SrNOsOk7AATv) | 3:00 |
-| 5 | [Dhundle Dhundle](https://open.spotify.com/track/4JU4kP0LBnUJg4qMQjGF0H) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Dhundle Dhundle](https://open.spotify.com/album/1mazw25I3H3UlGaw8a7tiO) | 4:03 |
-| 6 | [Whenever](https://open.spotify.com/track/4pFDMbftahto1oz8SZx2qQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Whenever](https://open.spotify.com/album/4wYzAxoYguNudxzUXPTGtC) | 3:30 |
-| 7 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 |
-| 8 | [FLOWER & SAINTS](https://open.spotify.com/track/76nPGzoILoxiq1ntIrixfS) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Stolen Dreams](https://open.spotify.com/album/3wKOSB7GTT0aeaXsEJ26G9) | 3:00 |
-| 9 | [21 QUESTIONS](https://open.spotify.com/track/7v1wOTMZ2fmMlZ5cJTWvIj) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:42 |
+| 5 | [AJA](https://open.spotify.com/track/54GK1bZMOAMXKysrnH4vTp) | [Kaléra](https://open.spotify.com/artist/6iikMXh4KCnspxngWliHWa), [Jaski](https://open.spotify.com/artist/1FOAUmccKtd4J6zRQBybfJ) | [AJA](https://open.spotify.com/album/5P34lnavFvbkEhbKRcPU9m) | 2:14 |
+| 6 | [Dhundle Dhundle](https://open.spotify.com/track/4JU4kP0LBnUJg4qMQjGF0H) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Dhundle Dhundle](https://open.spotify.com/album/1mazw25I3H3UlGaw8a7tiO) | 4:03 |
+| 7 | [Whenever](https://open.spotify.com/track/4pFDMbftahto1oz8SZx2qQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Whenever](https://open.spotify.com/album/4wYzAxoYguNudxzUXPTGtC) | 3:30 |
+| 8 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 |
+| 9 | [FLOWER & SAINTS](https://open.spotify.com/track/76nPGzoILoxiq1ntIrixfS) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Stolen Dreams](https://open.spotify.com/album/3wKOSB7GTT0aeaXsEJ26G9) | 3:00 |
 | 10 | [Chann Sitare \(From "Oye Makhna"\)](https://open.spotify.com/track/4ZlAM2VoFpv0VyZjv34A4o) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Chann Sitare \(From "Oye Makhna"\) \- Single](https://open.spotify.com/album/78eSecjSVDN0T0KDylfVMf) | 3:07 |
 | 11 | [Ik Tu Goriye](https://open.spotify.com/track/155WbOc8SuCW9ZyIh4rFI4) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Ik Tu Goriye](https://open.spotify.com/album/003fTrJAdHyNsxNLh22vsy) | 4:00 |
 | 12 | [Shart Lagake](https://open.spotify.com/track/1IffRKiB73SXuSIY216UXK) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Shart Lagake](https://open.spotify.com/album/6WYypqpmi4WzMEhecA7NPX) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Naah Lofi](https://open.spotify.com/track/7B8WJgjZzzV1uS7v9z8FGX) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Naah Lofi](https://open.spotify.com/album/3Cz2ocxGPWWREjLucIdaO7) | 3:18 |
 | 75 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 
-Snapshot ID: `MCxjZDUzYzQyYjdiZmUxMTMzNzljYzI3OTBlZTIzNzg5NGQxODI4ZGY0`
+Snapshot ID: `MCwwMDk3YTlkNGUxNDg3MmEzMzM5N2M2NjhmOGE0NjBmYjhhMDE0YzVi`

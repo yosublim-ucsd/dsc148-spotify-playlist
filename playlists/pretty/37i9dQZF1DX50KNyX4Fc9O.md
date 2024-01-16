@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Kid Cudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,767 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,734 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 74 | [A Wish Worth Making](https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 2:53 |
 | 75 | [Drums \(Feat\. Kim Petras\) \- Tiësto Remix](https://open.spotify.com/track/5QZmUKPG3uPU0hwJuHwfGD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drums \(Feat\. Kim Petras\) \[Tiesto Remix\]](https://open.spotify.com/album/44XmkCYKteYUBrSwe6Jvc2) | 2:52 |
 
-Snapshot ID: `MCw3ZGI3YzhiZWFiOTVlNzNmNjQ5M2EyNGNlYTJhZTRiZWNhMDZjMjc0`
+Snapshot ID: `MCw2ODQ4NmJmY2Y3Yzk0ODlkYzUxODExNDc4NzUxMGZhZTFlYjkzZWVh`

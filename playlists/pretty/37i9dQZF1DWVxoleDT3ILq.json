@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Yorka",
-  "num_followers": 125635,
+  "num_followers": 125495,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDRiMzVhYmVjZGMwYTI0YTM1YWIxMTI5YmFlMmUyMWY3MzFmYWIw",
+  "snapshot_id": "MCwwNWI0ZDg3ZDgzODQ5NTBjOGI2OTFkNDgwYTg3MDRlNmZmZjA1YzE4",
   "tracks": [
     {
       "added_at": "2024-01-12 16:08:51",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
+        "name": "Estado Vegetal",
+        "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Estado Vegetal",
+      "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
+    },
+    {
+      "added_at": "2024-01-12 16:08:51",
+      "album": {
         "name": "Herida",
         "url": "https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "Estado Vegetal",
-        "url": "https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n"
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz"
       },
       "artists": [
         {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 196173,
-      "name": "Estado Vegetal",
-      "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
+      "duration_ms": 113852,
+      "name": "Lo Nuestro",
+      "url": "https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -463,18 +479,18 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "Lo Nuestro",
-        "url": "https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz"
+        "name": "Que Nunca Pare",
+        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
         }
       ],
-      "duration_ms": 113852,
-      "name": "Lo Nuestro",
-      "url": "https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy"
+      "duration_ms": 204133,
+      "name": "Que Nunca Pare",
+      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -547,18 +563,18 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "Que Nunca Pare",
-        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
+        "name": "VALOR",
+        "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
       },
       "artists": [
         {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
         }
       ],
-      "duration_ms": 204133,
-      "name": "Que Nunca Pare",
-      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
+      "duration_ms": 223133,
+      "name": "VALOR",
+      "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -579,22 +595,6 @@
       "duration_ms": 307414,
       "name": "Vuela Lejos",
       "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
-    },
-    {
-      "added_at": "2024-01-12 16:08:51",
-      "album": {
-        "name": "VALOR",
-        "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "VALOR",
-      "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -635,22 +635,18 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "Apoyo Emocional",
-        "url": "https://open.spotify.com/album/1G5jvDrtoyDSZGz9juVFqb"
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE"
       },
       "artists": [
         {
-          "name": "Estoy Bien",
-          "url": "https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda"
-        },
-        {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
         }
       ],
-      "duration_ms": 221826,
-      "name": "El Sonido De Las Campanas",
-      "url": "https://open.spotify.com/track/7H01fPYJe56IldvnvtGrpY"
+      "duration_ms": 228093,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -667,6 +663,26 @@
       "duration_ms": 266502,
       "name": "Sulamita",
       "url": "https://open.spotify.com/track/6GeDdnTBZmZzu9luTKndJs"
+    },
+    {
+      "added_at": "2024-01-12 16:08:51",
+      "album": {
+        "name": "Apoyo Emocional",
+        "url": "https://open.spotify.com/album/1G5jvDrtoyDSZGz9juVFqb"
+      },
+      "artists": [
+        {
+          "name": "Estoy Bien",
+          "url": "https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda"
+        },
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "El Sonido De Las Campanas",
+      "url": "https://open.spotify.com/track/7H01fPYJe56IldvnvtGrpY"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -711,18 +727,18 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE"
+        "name": "Peque\u00f1as Esperanzas",
+        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
       },
       "artists": [
         {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 228093,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9"
+      "duration_ms": 200238,
+      "name": "Peque\u00f1as Esperanzas",
+      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -743,18 +759,18 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "Peque\u00f1as Esperanzas",
-        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
+        "name": "Cuatro",
+        "url": "https://open.spotify.com/album/0UHvv58P5yJLGxHyAM66hS"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
         }
       ],
-      "duration_ms": 200238,
-      "name": "Peque\u00f1as Esperanzas",
-      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
+      "duration_ms": 150623,
+      "name": "Tri\u00e1logo",
+      "url": "https://open.spotify.com/track/7jhOHdaEHGCiGnRaNFNHTG"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -775,22 +791,6 @@
       "duration_ms": 192989,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
-    },
-    {
-      "added_at": "2024-01-12 16:08:51",
-      "album": {
-        "name": "Cuatro",
-        "url": "https://open.spotify.com/album/0UHvv58P5yJLGxHyAM66hS"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 150623,
-      "name": "Tri\u00e1logo",
-      "url": "https://open.spotify.com/track/7jhOHdaEHGCiGnRaNFNHTG"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -899,6 +899,42 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
+        "name": "Maricoteca",
+        "url": "https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 222543,
+      "name": "Maricoteca",
+      "url": "https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q"
+    },
+    {
+      "added_at": "2024-01-12 16:08:51",
+      "album": {
+        "name": "Detonaci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        },
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Detonaci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
+    },
+    {
+      "added_at": "2024-01-12 16:08:51",
+      "album": {
         "name": "Avena",
         "url": "https://open.spotify.com/album/3y2tTCdRWCM3VqKQpKEsVt"
       },
@@ -927,58 +963,6 @@
       "duration_ms": 165088,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/1MbOQiNa5KQl7OVTHBBje3"
-    },
-    {
-      "added_at": "2024-01-12 16:08:51",
-      "album": {
-        "name": "Maricoteca",
-        "url": "https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 222543,
-      "name": "Maricoteca",
-      "url": "https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q"
-    },
-    {
-      "added_at": "2024-01-12 16:08:51",
-      "album": {
-        "name": "Nochecita en B.A",
-        "url": "https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Nochecita en B.A",
-      "url": "https://open.spotify.com/track/2AHOVEc4QaYvSx6t5vLqvf"
-    },
-    {
-      "added_at": "2024-01-12 16:08:51",
-      "album": {
-        "name": "Detonaci\u00f3n (Remix)",
-        "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        },
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Detonaci\u00f3n - Remix",
-      "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -1035,6 +1019,38 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
+        "name": "Nochecita en B.A",
+        "url": "https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Nochecita en B.A",
+      "url": "https://open.spotify.com/track/2AHOVEc4QaYvSx6t5vLqvf"
+    },
+    {
+      "added_at": "2024-01-12 16:08:51",
+      "album": {
+        "name": "Qu\u00e9 piensas hacer sin mi amor?",
+        "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 248121,
+      "name": "Qu\u00e9 piensas hacer sin mi amor?",
+      "url": "https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52"
+    },
+    {
+      "added_at": "2024-01-12 16:08:51",
+      "album": {
         "name": "Tu Olor",
         "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "Qu\u00e9 piensas hacer sin mi amor?",
-        "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 248121,
-      "name": "Qu\u00e9 piensas hacer sin mi amor?",
-      "url": "https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52"
-    },
-    {
-      "added_at": "2024-01-12 16:08:51",
-      "album": {
         "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
         "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
+        "name": "intento 2: pi\u00e9nsalo bien",
+        "url": "https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 224604,
+      "name": "intento 2: pi\u00e9nsalo bien",
+      "url": "https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn"
+    },
+    {
+      "added_at": "2024-01-12 16:08:51",
+      "album": {
         "name": "Un Espejismo",
         "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "intento 2: pi\u00e9nsalo bien",
-        "url": "https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47"
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
       },
       "artists": [
         {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
         }
       ],
-      "duration_ms": 224604,
-      "name": "intento 2: pi\u00e9nsalo bien",
-      "url": "https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn"
+      "duration_ms": 229740,
+      "name": "Pasos de Gigantes",
+      "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -1167,22 +1183,6 @@
       "duration_ms": 206750,
       "name": "Decid\u00ed",
       "url": "https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z"
-    },
-    {
-      "added_at": "2024-01-12 16:08:51",
-      "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 229740,
-      "name": "Pasos de Gigantes",
-      "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "Debe Ser Mi Culpa",
-        "url": "https://open.spotify.com/album/3lwcj0FwuE4Oz7jB2GSDAz"
+        "name": "Hace 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
       },
       "artists": [
         {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
         }
       ],
-      "duration_ms": 269047,
-      "name": "Debe Ser Mi Culpa",
-      "url": "https://open.spotify.com/track/3htUaYb6Tl4EbE3Gyz6rbn"
+      "duration_ms": 184250,
+      "name": "Hace 10 A\u00f1os",
+      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -1259,66 +1259,18 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "Amarte as\u00ed",
-        "url": "https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub"
+        "name": "Debe Ser Mi Culpa",
+        "url": "https://open.spotify.com/album/3lwcj0FwuE4Oz7jB2GSDAz"
       },
       "artists": [
         {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
         }
       ],
-      "duration_ms": 215596,
-      "name": "Amarte as\u00ed",
-      "url": "https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q"
-    },
-    {
-      "added_at": "2024-01-12 16:08:51",
-      "album": {
-        "name": "Hace 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Hace 10 A\u00f1os",
-      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
-    },
-    {
-      "added_at": "2024-01-12 16:08:51",
-      "album": {
-        "name": "NI\u00d1A",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "NI\u00d1A",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
-    },
-    {
-      "added_at": "2024-01-12 16:08:51",
-      "album": {
-        "name": "Lo Que No Hablas",
-        "url": "https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 208441,
-      "name": "Lo Que No Hablas",
-      "url": "https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb"
+      "duration_ms": 269047,
+      "name": "Debe Ser Mi Culpa",
+      "url": "https://open.spotify.com/track/3htUaYb6Tl4EbE3Gyz6rbn"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -1335,6 +1287,38 @@
       "duration_ms": 206018,
       "name": "GARZA",
       "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+    },
+    {
+      "added_at": "2024-01-12 16:08:51",
+      "album": {
+        "name": "Amarte as\u00ed",
+        "url": "https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 215596,
+      "name": "Amarte as\u00ed",
+      "url": "https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q"
+    },
+    {
+      "added_at": "2024-01-12 16:08:51",
+      "album": {
+        "name": "NI\u00d1A",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "NI\u00d1A",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -1359,34 +1343,18 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
-        "url": "https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY"
+        "name": "Lo Que No Hablas",
+        "url": "https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE"
       },
       "artists": [
         {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
         }
       ],
-      "duration_ms": 209579,
-      "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
-      "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
-    },
-    {
-      "added_at": "2024-01-12 16:08:51",
-      "album": {
-        "name": "Al calor de un sol que acaba de morir",
-        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Salvaje y tierno",
-      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
+      "duration_ms": 208441,
+      "name": "Lo Que No Hablas",
+      "url": "https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -1439,6 +1407,22 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
+        "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
+        "url": "https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 209579,
+      "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
+      "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
+    },
+    {
+      "added_at": "2024-01-12 16:08:51",
+      "album": {
         "name": "\u00daltimo Adi\u00f3s",
         "url": "https://open.spotify.com/album/3NypapKHKGVY92ONbBSy3M"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 237750,
       "name": "\u00daltimo Adi\u00f3s",
       "url": "https://open.spotify.com/track/7lBhTIVEhFmuptaX7Cs1vD"
+    },
+    {
+      "added_at": "2024-01-12 16:08:51",
+      "album": {
+        "name": "Al calor de un sol que acaba de morir",
+        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Salvaje y tierno",
+      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
     },
     {
       "added_at": "2024-01-12 16:08:51",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/7r1NTAu2ThCUQb7D0q9TxQ"
-      },
-      "artists": [
-        {
-          "name": "Dodo",
-          "url": "https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq"
-        }
-      ],
-      "duration_ms": 353957,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/6PpxCjRBxhZb3tNnCM407o"
-    },
-    {
-      "added_at": "2024-01-12 16:08:51",
-      "album": {
         "name": "como antes :(",
         "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
       },
@@ -1751,18 +1735,34 @@
     {
       "added_at": "2024-01-12 16:08:51",
       "album": {
-        "name": "El Encanto Del Fuego",
-        "url": "https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97"
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
       },
       "artists": [
         {
-          "name": "Paracaidistas",
-          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
+          "name": "Fran Quintero",
+          "url": "https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2"
         }
       ],
-      "duration_ms": 242240,
-      "name": "Mirandonos",
-      "url": "https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho"
+      "duration_ms": 251261,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
+    },
+    {
+      "added_at": "2024-01-12 16:08:51",
+      "album": {
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/7r1NTAu2ThCUQb7D0q9TxQ"
+      },
+      "artists": [
+        {
+          "name": "Dodo",
+          "url": "https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq"
+        }
+      ],
+      "duration_ms": 353957,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/6PpxCjRBxhZb3tNnCM407o"
     }
   ],
   "unique_name": "Indie Chile",

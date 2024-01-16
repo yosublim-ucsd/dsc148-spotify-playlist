@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 14079,
+  "num_followers": 14115,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTVlNjkzYTliMWE3NGJiZjBjMzBjM2EyNDViN2FkYTc0MThhYmRi",
+  "snapshot_id": "MCwyNTdmNmM5OWY0MWRhYTk3YTRjZmNhOWU5NGZlYmU2YjJkNTMwMDNh",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 106285,
+      "name": "No Love Lost",
+      "url": "https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "On Me (Remix) (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 135444,
       "name": "On Me (Remix) (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "No Love Lost",
-      "url": "https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 182258,
-      "name": "RPS & Codeine (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 172391,
       "name": "My Terms (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 182258,
+      "name": "RPS & Codeine (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -763,6 +763,26 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 155224,
+      "name": "45 (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "VORY",
         "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 138390,
       "name": "Thug Cry",
       "url": "https://open.spotify.com/track/74PG0V0b2yt1xZqTNkL2Tr"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 155224,
-      "name": "45 (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7"
     },
     {
       "added_at": "2022-10-01 20:31:11",

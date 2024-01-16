@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 259390,
+  "num_followers": 259326,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODdhOTM2NWRhZTExYTlkZDNhMzFlZjc3ZDYyZTNkNTdiMTEwYmEy",
+  "snapshot_id": "MCxmZDA1NDE3NzNjNGUxMTQ0MzFlMWU5YWJlZDc2NzU5Yjc3YTYxM2Zm",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -167,22 +167,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
-      },
-      "artists": [
-        {
-          "name": "In Love With a Ghost",
-          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
-        }
-      ],
-      "duration_ms": 199603,
-      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
-      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Woodstock (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 166344,
       "name": "By",
       "url": "https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
+      },
+      "artists": [
+        {
+          "name": "In Love With a Ghost",
+          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+        }
+      ],
+      "duration_ms": 199603,
+      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
+      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -535,22 +535,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "VIII",
         "url": "https://open.spotify.com/album/1WLT9X55scygUSpb304x4L"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 101469,
       "name": "The Falls",
       "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2019-09-16 15:44:25",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Aisle of Palm",
-        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
-      },
-      "artists": [
-        {
-          "name": "Beshken",
-          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "White Gemini",
-      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "After the Tone with Lossapardo",
@@ -833,6 +817,22 @@
       "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
     },
     {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Aisle of Palm",
+        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
+      },
+      "artists": [
+        {
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "White Gemini",
+      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
+    },
+    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Small Clan",
@@ -847,6 +847,26 @@
       "duration_ms": 232312,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        },
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 259423,
+      "name": "Fleur",
+      "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -903,22 +923,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
       },
       "artists": [
         {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        },
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+          "name": "Glded",
+          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
         }
       ],
-      "duration_ms": 259423,
-      "name": "Fleur",
-      "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
+      "duration_ms": 189445,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -939,18 +955,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
       },
       "artists": [
         {
-          "name": "Glded",
-          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
         }
       ],
-      "duration_ms": 189445,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
+      "duration_ms": 218000,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -967,22 +983,6 @@
       "duration_ms": 182857,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
-      },
-      "artists": [
-        {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
     },
     {
       "added_at": "2019-03-18 20:29:35",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Wherever You Go (You'll Never See Me)",
-        "url": "https://open.spotify.com/album/1Da9UhVgPmpSYlJsSHV9KG"
+        "name": "\"What Is This Heart?\" (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf"
       },
       "artists": [
         {
-          "name": "Aybner",
-          "url": "https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA"
+          "name": "How To Dress Well",
+          "url": "https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI"
         }
       ],
-      "duration_ms": 176470,
-      "name": "Wherever You Go (You'll Never See Me)",
-      "url": "https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1"
+      "duration_ms": 378253,
+      "name": "Words I Don't Remember",
+      "url": "https://open.spotify.com/track/69tms8bn7pYZck6hJw6X1e"
     }
   ],
   "unique_name": "Mellow Mood",

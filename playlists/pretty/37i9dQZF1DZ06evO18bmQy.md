@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,525 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,540 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 23 | [É o Rei do Sexo](https://open.spotify.com/track/5MGhz9NF41oppyU31Z0dpj) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs) | [Funktroit](https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU) | 2:20 |
 | 24 | [Criminal](https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:48 |
 | 25 | [Dá pra ser?](https://open.spotify.com/track/7jdP9m9lpNp51ainfora8t) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:56 |
-| 26 | [Sintoniza](https://open.spotify.com/track/52aonA32y0YYt1NfnZNvWv) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:58 |
-| 27 | [JUNHO DE 94](https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 5:29 |
+| 26 | [JUNHO DE 94](https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 5:29 |
+| 27 | [Sintoniza](https://open.spotify.com/track/52aonA32y0YYt1NfnZNvWv) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:58 |
 | 28 | [REAL NIGGA](https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 3:12 |
 | 29 | [Geminiano](https://open.spotify.com/track/543HV83fPC5akWEtYsMzq8) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 2:55 |
 | 30 | [em quase tudo](https://open.spotify.com/track/26EFuKUDqQKLc4BStNDnHh) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 49 | [Nós](https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:13 |
 | 50 | [LADRÃO](https://open.spotify.com/track/1SoVbAACWECOhsVZY4M1Jb) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 4:22 |
 
-Snapshot ID: `Mjg0MjA1NDksMDAwMDAwMDBiNDIzNDhiOWZkMGUyY2Q3MzhmYTViNjFkM2NmOTNlZQ==`
+Snapshot ID: `Mjg0MjIwMTAsMDAwMDAwMDAyNTQ0NjM1YWVmZjZmOGYxM2E4YTZjYjZkZDFmMjFjNQ==`

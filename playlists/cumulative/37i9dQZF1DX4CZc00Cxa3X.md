@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-378 songs - 1 day 7 hr 21 min
+379 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Love](https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy) | 5:12 | 2023-09-22 | 2023-10-07 |
 | [Love Is The Tune](https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Love Is The Tune](https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ) | 3:40 | 2022-03-17 | 2023-03-18 |
 | [Loved Ones](https://open.spotify.com/track/5gx6A2v2yq2a5YbfV6rtsh) | [Hauschka](https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt) | [Loved Ones](https://open.spotify.com/album/39onlwEeLB7nunB7cu0WJq) | 3:33 | 2023-07-14 | 2024-01-12 |
+| [Loved Ones](https://open.spotify.com/track/7rteNw7alL8uZiLmtBWiAP) | [Hauschka](https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt) | [Philanthropy](https://open.spotify.com/album/0ts04BxWX0tqhE7uCSyWOp) | 3:33 | 2023-11-17 |  |
 | [Loving Kindness](https://open.spotify.com/track/0dxXjGXABX6gs1svER3A6p) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Loving Kindness](https://open.spotify.com/album/079D5fH3NELsp00fmd4YIQ) | 5:17 | 2022-10-14 | 2023-06-19 |
 | [Loving Kindness](https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Intention II](https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy) | 5:17 | 2023-06-09 |  |
 | [Luck \(運\)](https://open.spotify.com/track/5Eswd8cRz3J9rqYRpLyTuM) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 4:32 | 2023-06-05 | 2024-01-10 |
@@ -249,7 +250,7 @@
 | [Peaceful Garden](https://open.spotify.com/track/2mgmnEhmvdFKBf9FZyn377) | [Wendy Panoah](https://open.spotify.com/artist/63YMcX7Qq0SkEB0vpxaLcC) | [Peaceful Garden](https://open.spotify.com/album/0TiHJCNjzaz6Pf3tdBnhj0) | 3:11 | 2022-11-11 |  |
 | [Phase 10](https://open.spotify.com/track/2DIpVyc5mtyfEHj8FNdZGF) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Meditation: You Are Relaxed](https://open.spotify.com/album/1Q0s12XR8nQNiImc9KBO4v) | 3:00 | 2023-01-20 |  |
 | [Phase 10](https://open.spotify.com/track/6sDe8RA7VqWfBUYg3fiBwD) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Meditation: You Are Relaxed](https://open.spotify.com/album/4QL5klSQaSxjr5ahXU4Mex) | 3:00 | 2022-08-19 | 2022-12-16 |
-| [Phenomena](https://open.spotify.com/track/2rHyG15WplCxbhPCELXxdM) | [Conrad Clipper](https://open.spotify.com/artist/2cq7jKz8HyIZaoxdaLVxQc) | [Rainfall](https://open.spotify.com/album/1DfF3LJF5FzTpOJmJkqrwC) | 4:46 | 2023-03-16 |  |
+| [Phenomena](https://open.spotify.com/track/2rHyG15WplCxbhPCELXxdM) | [Conrad Clipper](https://open.spotify.com/artist/2cq7jKz8HyIZaoxdaLVxQc) | [Rainfall](https://open.spotify.com/album/1DfF3LJF5FzTpOJmJkqrwC) | 4:46 | 2023-03-16 | 2024-01-16 |
 | [Poppy Nogood and the Phantom Band \- Instrumental](https://open.spotify.com/track/7yX6clhxwVHuKMNcCXAyB9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band](https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq) | 21:38 | 2023-09-22 | 2023-10-07 |
 | [Porcelain Blue](https://open.spotify.com/track/01qEefc0uSR0KlbxxdJnHZ) | [solo andata](https://open.spotify.com/artist/7xTvOO20IwW3NId23WsLeM) | [In The Lens](https://open.spotify.com/album/4W87koCASZujLo7cAGOhDv) | 4:47 | 2023-08-18 | 2023-09-01 |
 | [Portrait of Tracy](https://open.spotify.com/track/5NBAy2oiS9OIWyAZhklsH2) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Jaco Pastorius](https://open.spotify.com/album/6SsT4Zyev0zS7eocL0B72m) | 2:22 | 2023-09-22 | 2023-10-07 |

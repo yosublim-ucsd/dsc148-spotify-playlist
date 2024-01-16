@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: <a href="https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1?si=o2drqVJlQ0SE51IoIHgDyA"> Vector </a> and <a href="https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM?si=l8i33k0OQ\-6W\_ouiHghr8Q"> Bella Shmurda</a>
 
-338 songs - 16 hr 9 min
+339 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Operation Sweep](https://open.spotify.com/track/2exuZNzNYl96pncjTYokOd) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Operation Sweep](https://open.spotify.com/album/5Z27393Vx6iqkl1dG6mXyq) | 2:35 | 2023-08-10 | 2023-09-29 |
 | [OPPS](https://open.spotify.com/track/4yTwUVvSIjB62K5iQH56hi) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN2](https://open.spotify.com/album/1ru2DrxX58DmKELFCOFO4g) | 2:27 | 2022-10-14 | 2022-10-29 |
 | [Otedola](https://open.spotify.com/track/0RTNc1RQqIviHjZIqcZmsm) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Otedola](https://open.spotify.com/album/0BTJgMB3PiI9E6PMAQ2bD9) | 3:05 | 2022-10-14 | 2022-10-29 |
-| [Out There](https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension 2.0](https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q) | 2:43 | 2022-06-09 |  |
+| [Out There](https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension 2.0](https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q) | 2:43 | 2022-06-09 | 2024-01-16 |
 | [OUTSIDE](https://open.spotify.com/track/0ykUFlFHvqShR6irBlS0IH) | [Prince DeJersey](https://open.spotify.com/artist/5ClHOjYPuxU64qFJb1VWWB) | [OUTSIDE & PUT ON](https://open.spotify.com/album/1FksGKiZFxrX7ScWKuIsPf) | 2:39 | 2023-06-16 | 2023-07-01 |
 | [Outside](https://open.spotify.com/track/67a6PjhPku8MgieSPof2dD) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 1:52 | 2023-02-16 | 2023-06-17 |
 | [Owa](https://open.spotify.com/track/0QJGhiYMgf22RoRjYFmx3H) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Owa](https://open.spotify.com/album/00OQvNVhBS2IxUIOmPMEj0) | 2:53 | 2023-02-24 | 2023-06-17 |
@@ -293,6 +293,7 @@
 | [Still Up](https://open.spotify.com/track/72FcNQ4PJNAWEaNS2lgpty) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [NO ZZZZ 2](https://open.spotify.com/album/17gL7RXMOp0Advfm0L7th9) | 2:56 | 2022-10-14 | 2022-10-29 |
 | [Stronger](https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Stronger](https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA) | 2:53 | 2022-10-28 | 2023-07-28 |
 | [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 | 2022-06-09 | 2023-07-21 |
+| [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 | 2024-01-15 |  |
 | [Superstar](https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Superstar](https://open.spotify.com/album/4NR3st0lpRq63g3oSp5wj3) | 2:26 | 2022-11-18 | 2023-02-08 |
 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 | 2023-11-03 |  |
 | [Symbiosis](https://open.spotify.com/track/1Kk6brKxaBAhMIkmgIvMsN) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Symbiosis](https://open.spotify.com/album/0KI3PKN0xXtkUooClFFkFv) | 4:09 | 2023-09-29 | 2023-11-22 |

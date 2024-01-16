@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Alok & Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,157 likes - 64 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,207 likes - 64 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 63 | [Us ft\. ERNEST](https://open.spotify.com/track/0Tcr2YRAz84AVjopX9Sm7Q) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT) | 3:16 |
 | 64 | [Heart Still Beating](https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m) | 2:29 |
 
-Snapshot ID: `MCxmOTY1NTNlYzM0ODljMzFhYjZjM2ZiMWE1OWRhYjgzODlmMWI5ZTBh`
+Snapshot ID: `MCxjNTQ2NzkzNjgzNDIzYmQ5YmMwYmQ1MDAyNmVkNjRhNTllN2NiOTM0`

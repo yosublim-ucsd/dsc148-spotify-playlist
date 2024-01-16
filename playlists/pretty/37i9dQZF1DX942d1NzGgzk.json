@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Essosa ",
-  "num_followers": 137327,
+  "num_followers": 137347,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjJiNGZiYWZhYWVjYTFlZGMyZmFkMWY2ZDA0ZTE4MjUyNjAxMzUz",
+  "snapshot_id": "MCw2NzlkMjRlNWJjMGE4NzMwZjAyMDUzMjFkYzFjZTRkNjNlNTVkZDk3",
   "tracks": [
     {
       "added_at": "2023-11-24 03:09:54",
@@ -43,30 +43,18 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
-        "url": "https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En"
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 225893,
-      "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
-      "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -159,18 +147,30 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+        "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
+        "url": "https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+      "duration_ms": 225893,
+      "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
+      "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
         "name": "It Only Cost Everything",
         "url": "https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 209682,
       "name": "Terms and Conditions",
       "url": "https://open.spotify.com/track/0gR8uAS5TNzsuWzWw9OR8C"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -595,22 +579,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 207239,
-      "name": "Golden Child (Jealous)",
-      "url": "https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "Marking My Time",
         "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
       },
@@ -623,6 +591,38 @@
       "duration_ms": 161529,
       "name": "Someday",
       "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Immature",
+        "url": "https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 173105,
+      "name": "Immature",
+      "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Immature",
-        "url": "https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 173105,
-      "name": "Immature",
-      "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
       },
@@ -675,22 +659,6 @@
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -711,6 +679,38 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 207239,
+      "name": "Golden Child (Jealous)",
+      "url": "https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
         "name": "Free (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 234771,
       "name": "Free (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Not My Job",
+        "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 174588,
+      "name": "Not My Job",
+      "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -767,6 +783,26 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Shaybo",
+          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
+        }
+      ],
+      "duration_ms": 201942,
+      "name": "Bussdown (feat. Shaybo)",
+      "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
         "name": "After the Butterflies",
         "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
       },
@@ -803,22 +839,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Not My Job",
-        "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 174588,
-      "name": "Not My Job",
-      "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Shaybo",
-          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
-        }
-      ],
-      "duration_ms": 201942,
-      "name": "Bussdown (feat. Shaybo)",
-      "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
+        "name": "Cardboard Box",
+        "url": "https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Happi",
+          "url": "https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Cardboard Box - Happi Remix",
+      "url": "https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
         "name": "Marking My Time",
         "url": "https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau"
       },
@@ -923,6 +943,22 @@
       "duration_ms": 232706,
       "name": "In Too Deep (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -975,58 +1011,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Cardboard Box",
-        "url": "https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "Happi",
-          "url": "https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Cardboard Box - Happi Remix",
-      "url": "https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
-        "name": "Used Girl",
-        "url": "https://open.spotify.com/album/1eey2MhbcWPrS29wVQZ4BC"
-      },
-      "artists": [
-        {
-          "name": "Tallia Storm",
-          "url": "https://open.spotify.com/artist/21Dbw8JMFzg88oB2lkkLlh"
-        }
-      ],
-      "duration_ms": 232762,
-      "name": "Used Girl",
-      "url": "https://open.spotify.com/track/6TdDjjugHtkTNF6pUGre1I"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "As You Are - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 155728,
       "name": "long stay (feat. Bakar)",
       "url": "https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Falling or flying",
+        "url": "https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Falling or flying",
+      "url": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
     }
   ],
   "unique_name": "R&B UK",

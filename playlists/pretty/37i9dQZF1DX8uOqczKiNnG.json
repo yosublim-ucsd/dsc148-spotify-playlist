@@ -1,12 +1,12 @@
 {
   "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "num_followers": 83442,
+  "num_followers": 83438,
   "original_name": "Los 70 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzA3MGQ4OWQyZGQ0MjFkNDFhOTE2YTg2MjJlZmUxN2NkYTdmNTNm",
+  "snapshot_id": "MCw3ZjU4MjJkNWY1ZGY1MTNkZmVmMzg1ODNjYzI4Y2UyMjUwZDQ3MmNk",
   "tracks": [
     {
       "added_at": "2020-03-13 18:13:53",
@@ -127,22 +127,6 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 482830,
-      "name": "Stairway to Heaven - Remaster",
-      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 245200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 482830,
+      "name": "Stairway to Heaven - Remaster",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
     },
     {
       "added_at": "2020-03-13 18:13:53",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 285373,
       "name": "Stayin' Alive",
       "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2020-03-13 18:13:53",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "News Of The World (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
         "name": "Diego En Los 70",
         "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 214003,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
     },
     {
       "added_at": "2020-03-13 18:13:53",
@@ -691,6 +691,22 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 132973,
+      "name": "Quiz\u00e1s, Porque",
+      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
         "name": "Sandro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 153026,
       "name": "Rosa... Rosa",
       "url": "https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/1zGXaWkMGLV1rkJbxJwCkp"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 209253,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/5VstdEyGsUzyS4UXtKGAMG"
     },
     {
       "added_at": "2020-03-13 18:13:53",
@@ -739,6 +739,22 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/1zGXaWkMGLV1rkJbxJwCkp"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 209253,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/5VstdEyGsUzyS4UXtKGAMG"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -751,38 +767,6 @@
       "duration_ms": 187786,
       "name": "Muchacha (Ojos de Papel)",
       "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 132973,
-      "name": "Quiz\u00e1s, Porque",
-      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Las Habladurias del Mundo",
-      "url": "https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b"
     },
     {
       "added_at": "2020-03-13 18:13:53",
@@ -815,6 +799,22 @@
       "duration_ms": 208866,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
+        "name": "Begin the Beguine",
+        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Quiereme Mucho - Yours",
+      "url": "https://open.spotify.com/track/3D1ourR6ar31jOZmHGCoa2"
     }
   ],
   "unique_name": "Los 70 Argentina",

@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 9018,
+  "2024-01-16": 9016,
   "date_first_scraped": "2022-11-23",
   "description": "90-00\ub144\ub300 \uc138\uae30\ub9d0 \uac10\uc131\uc744 \ud568\uaed8 \ud588\ub358 \uadf8 \ub54c \uadf8 \ubc1c\ub77c\ub4dc \uac10\uc131\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "\uc138\uae30\ub9d0 \ubc1c\ub77c\ub4dc",
@@ -4059,7 +4059,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 286799,
       "name": "\ud3b8\uc9c0\ud560\uac8c\uc694",
       "url": "https://open.spotify.com/track/43YpsYj6YW2kDPF06CsGZR"
@@ -4072,12 +4072,12 @@
       "artists": [
         {
           "name": "Lena Park",
-          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+          "url": "https://open.spotify.com/artist/0haibpa9N2huTbnUiziBeF"
         }
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 286975,
       "name": "\ud3b8\uc9c0\ud560\uac8c\uc694",
       "url": "https://open.spotify.com/track/0jHRtgWauzb1mkANquNQ5T"

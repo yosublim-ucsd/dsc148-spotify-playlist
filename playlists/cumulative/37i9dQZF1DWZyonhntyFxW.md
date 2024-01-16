@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9?si=Pb48qvpcQXyihE4cOGp6Xg"> Lege\-Cy </a> : اجمد التراكات كلها على ملوك السين غلاف
 
-265 songs - 13 hr 30 min
+266 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Guardiola](https://open.spotify.com/track/29YCDHtUuXgOLUvmQnoKE0) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK) | [Manchester City](https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt) | 2:19 | 2024-01-05 |  |
 | [Ha3](https://open.spotify.com/track/0XDa7oQORZ84HOwEaVViTk) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [Ha3](https://open.spotify.com/album/7kNRMUfT3gSybpSVTdE31r) | 2:11 | 2022-09-30 | 2023-01-27 |
 | [Haaland](https://open.spotify.com/track/2ZP3tRbY6NrdVlTiaEgX8L) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK) | [Haaland](https://open.spotify.com/album/7FymPbSAQXe9Pd4aumoHzy) | 3:51 | 2023-09-30 | 2024-01-10 |
-| [Haaland](https://open.spotify.com/track/2soVy9jLOXdXPW8OFNzzrj) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK) | [Manchester City](https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt) | 3:51 | 2024-01-05 |  |
+| [Haaland](https://open.spotify.com/track/2soVy9jLOXdXPW8OFNzzrj) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK) | [Manchester City](https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt) | 3:51 | 2024-01-05 | 2024-01-16 |
 | [Habebi](https://open.spotify.com/track/0KViukFxUz0qvgPoXBahXH) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Big Moe](https://open.spotify.com/artist/0onL6q1ADntaSpByqMhgtA) | [Habebi](https://open.spotify.com/album/3h2E9FqNEQYYr759vIgd0m) | 3:22 | 2023-05-22 | 2023-08-18 |
 | [Hanfantazook](https://open.spotify.com/track/1BACFcabFp5jRKgXeBDqY3) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Hanfantazook](https://open.spotify.com/album/1v1IZilOvTvNVY78mYz0d4) | 3:13 | 2022-05-10 | 2022-06-18 |
 | [Haram](https://open.spotify.com/track/7qFJ6AZ2sxHP2YTzaI71mh) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abo EL Anwar](https://open.spotify.com/artist/2SGKZx9TN8xmObKgFyjK4t), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Mextape](https://open.spotify.com/album/52X9QBMjLUbdIOLzOyvTKC) | 3:05 | 2022-06-20 | 2022-10-21 |
@@ -250,6 +250,7 @@
 | [خلصانة](https://open.spotify.com/track/0UEVzjzh4cdVdseez14q1G) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj) | [خلصانة](https://open.spotify.com/album/1NfFVrdOU9l6xHvNRG8Zw0) | 3:02 | 2022-10-10 | 2023-02-14 |
 | [خلصانة](https://open.spotify.com/track/6B2ZBGIwT28egK3PAZN3Sx) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj) | [خلصانة](https://open.spotify.com/album/7mo4jctLOQgaxuuC3PVkCU) | 3:02 | 2023-02-13 | 2023-02-23 |
 | [سحمد](https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:17 | 2022-10-25 | 2022-12-24 |
+| [سخنت](https://open.spotify.com/track/3XAUmK0uUZKIWET53ty42t) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [سخنت](https://open.spotify.com/album/5BkD4tMCI2qfFecCXRvtO3) | 3:06 | 2024-01-15 |  |
 | [صح صح للكلام](https://open.spotify.com/track/58IDmCrPSh18wKXv1mirGt) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [صح صح للكلام](https://open.spotify.com/album/6JJjjiKFYr7fUOCBOZGODr) | 3:09 | 2023-09-30 | 2023-10-06 |
 | [عرفة](https://open.spotify.com/track/7KPk6KMHIlPO31D8Ku39vP) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/4EXcT2v8Vy1zUpBwjMF39Y) | 2:41 | 2023-02-10 | 2023-02-14 |
 | [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2022-05-10 | 2023-02-12 |

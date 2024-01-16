@@ -1,12 +1,12 @@
 {
   "description": "Baila como en la \u00e9poca de los autos, moda y rocanrol.",
-  "num_followers": 437861,
+  "num_followers": 437786,
   "original_name": "Fiesta 80era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTgyMjUzZmRlODE4NDg5Yjk0YmZiODUyODQxOTM4NWU0NjVhZmVl",
+  "snapshot_id": "MCwyYjhiY2I1Nzg0Y2JmYTdhN2FkODBhYmIyNTUzNGM5NmFiODNhNGYw",
   "tracks": [
     {
       "added_at": "2018-12-09 15:53:33",
@@ -715,22 +715,6 @@
     {
       "added_at": "2018-12-09 15:53:33",
       "album": {
-        "name": "La Ley Del Desierto",
-        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Escuela de Calor",
-      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
-    },
-    {
-      "added_at": "2018-12-09 15:53:33",
-      "album": {
         "name": "30 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
       },
@@ -763,22 +747,6 @@
     {
       "added_at": "2018-12-09 15:53:33",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Neon",
-        "url": "https://open.spotify.com/album/3vJCmTwiW8FIWFd5wCblk8"
-      },
-      "artists": [
-        {
-          "name": "Ne\u00f3n",
-          "url": "https://open.spotify.com/artist/3wv682f2IGrweKNr4SlGeC"
-        }
-      ],
-      "duration_ms": 259786,
-      "name": "Juegos de Amor",
-      "url": "https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl"
-    },
-    {
-      "added_at": "2018-12-09 15:53:33",
-      "album": {
         "name": "Flans",
         "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
       },
@@ -791,6 +759,38 @@
       "duration_ms": 208573,
       "name": "No Controles",
       "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
+    },
+    {
+      "added_at": "2018-12-09 15:53:33",
+      "album": {
+        "name": "La Ley Del Desierto",
+        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Escuela de Calor",
+      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+    },
+    {
+      "added_at": "2018-12-09 15:53:33",
+      "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Neon",
+        "url": "https://open.spotify.com/album/3vJCmTwiW8FIWFd5wCblk8"
+      },
+      "artists": [
+        {
+          "name": "Ne\u00f3n",
+          "url": "https://open.spotify.com/artist/3wv682f2IGrweKNr4SlGeC"
+        }
+      ],
+      "duration_ms": 259786,
+      "name": "Juegos de Amor",
+      "url": "https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl"
     },
     {
       "added_at": "2018-12-09 15:53:33",

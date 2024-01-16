@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: NIKI
 
-436 songs - 1 day 0 hr 56 min
+437 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [I'm a Man](https://open.spotify.com/track/0x0BAh5h0ttabkoiWcv3Wo) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [I'm a Man](https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn) | 3:01 | 2022-07-15 | 2022-10-28 |
 | [I'm a Man](https://open.spotify.com/track/2IAyG4qRTI0FnFiDKiLzut) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Trouble With Fever](https://open.spotify.com/album/6RBwxi0etDSpfqrRo45phN) | 3:01 | 2022-08-12 | 2023-02-11 |
 | [I've Got Me](https://open.spotify.com/track/3OEkjjCpSSDJKtgCKA7lXx) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/7554UBrWWgTDrFloVXvVCc) | 2:16 | 2023-06-30 | 2023-10-07 |
-| [I've Got Me](https://open.spotify.com/track/4IUPYB1d0CDKWKNYQtl6g3) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/3l3xPtGZXUcnQaNlpbjvR0) | 2:16 | 2023-10-27 |  |
+| [I've Got Me](https://open.spotify.com/track/4IUPYB1d0CDKWKNYQtl6g3) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/3l3xPtGZXUcnQaNlpbjvR0) | 2:16 | 2023-10-27 | 2024-01-16 |
 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 | 2022-02-11 | 2022-03-12 |
 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 | 2022-03-11 | 2024-01-13 |
 | [if i were a friend](https://open.spotify.com/track/11gjN7Mh7DA6GzVJmhUvcn) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [if i were a friend](https://open.spotify.com/album/6n5YzvSeJh7THkuLUAAnRE) | 2:32 | 2021-11-19 | 2022-05-20 |
@@ -389,6 +389,7 @@
 | [The Way Back Home](https://open.spotify.com/track/52Xwn8r3KLcwgHO0wyDNbC) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/0Hx4AIsLgkYCDZgsdb4pdi) | 3:34 | 2021-11-19 | 2022-07-29 |
 | [The Wire](https://open.spotify.com/track/0UrtLwXYnDIAtHtUDmGe4V) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [The Wire](https://open.spotify.com/album/41UFnVR8Qb8NqBxvhteQrh) | 3:06 | 2021-11-19 | 2022-02-05 |
 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 | 2021-11-19 | 2022-06-09 |
+| [The Yellow Mile](https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [The Yellow Mile](https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b) | 3:03 | 2024-01-12 |  |
 | [They All Are](https://open.spotify.com/track/2D0d1JrwtyRfLf3lr6mojF) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [It's Gonna Be OK](https://open.spotify.com/album/66474qFM2r8fcjmX6bLGwl) | 2:56 | 2021-11-19 | 2022-07-25 |
 | [They Are You](https://open.spotify.com/track/5FdtgW0zQFghZjsLlu1cPv) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [They Are You](https://open.spotify.com/album/4fjdYOwjejeWhOp2K42Xux) | 4:15 | 2021-11-19 | 2022-07-13 |
 | [Thick Skin \- Acoustic](https://open.spotify.com/track/5gRYJXhjuNC5KIDbq7DdoM) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Thick Skin \(Acoustic\)](https://open.spotify.com/album/22rlgzYymcUqVpYlSW263m) | 3:05 | 2022-03-11 | 2022-07-29 |

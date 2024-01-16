@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 129556,
+  "2024-01-16": 129584,
   "date_first_scraped": "2023-11-11",
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
   "name": "This Is Bj\u00f6rk",
@@ -163,6 +163,24 @@
       "duration_ms": 236640,
       "name": "Big Time Sensuality",
       "url": "https://open.spotify.com/track/6K0g7J6sKHwvDF6b2KGN3t"
+    },
+    {
+      "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 608760,
+      "name": "Black Lake",
+      "url": "https://open.spotify.com/track/7McqTkJc3laznwCoQXKxFe"
     },
     {
       "album": {
@@ -821,7 +839,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 409320,
       "name": "Stonemilker",
       "url": "https://open.spotify.com/track/7mg5wIB2b6D5K5mOhALKxs"

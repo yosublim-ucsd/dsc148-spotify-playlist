@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 75050,
+  "2024-01-16": 75186,
   "date_first_scraped": "2022-08-06",
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:4rwolwLHj97rPwbhyNSeU9\">Marizu</a>",
   "name": "AfroGospel",
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 178180,
       "name": "Keep it To Myself",
       "url": "https://open.spotify.com/track/1igORpjnhIfzd8w9XX0Zxt"
@@ -3959,6 +3959,32 @@
       "duration_ms": 145994,
       "name": "Take Over",
       "url": "https://open.spotify.com/track/1DVctAfDlfLvpLGDpCjUrg"
+    },
+    {
+      "album": {
+        "name": "Take Over",
+        "url": "https://open.spotify.com/album/3n4sFd0Yb6eHm1YVgALvXB"
+      },
+      "artists": [
+        {
+          "name": "Uchenna",
+          "url": "https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177011,
+      "name": "Take Over",
+      "url": "https://open.spotify.com/track/17M2ibLo2cqF1Mh8NWxPez"
     },
     {
       "album": {

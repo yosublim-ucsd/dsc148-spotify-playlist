@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 422874,
+  "2024-01-16": 422939,
   "date_first_scraped": "2022-01-24",
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
   "name": "Trap Rewind",
@@ -25,6 +25,48 @@
       "duration_ms": 119438,
       "name": "#Ysya2020 Vol. 5 - Silbando",
       "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
+    },
+    {
+      "album": {
+        "name": "Chosen Few: New Generation",
+        "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        },
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        },
+        {
+          "name": "LYAN",
+          "url": "https://open.spotify.com/artist/5XxL3trG0x8T7rJeYHyEbQ"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335736,
+      "name": "0 Sentimientos (Remix) [feat. Baby Rasta, Noriel, Darkiel, Messiah & Lyan]",
+      "url": "https://open.spotify.com/track/3gYco8uoFBmpxqYlz3Zhs7"
     },
     {
       "album": {
@@ -59,7 +101,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 335736,
       "name": "0 Sentimientos (Remix) [feat. Noriel, Darkiel, Lyan, Messiah & Baby Rasta]",
       "url": "https://open.spotify.com/track/4COGASZEbAxmH6k5gYMo6G"

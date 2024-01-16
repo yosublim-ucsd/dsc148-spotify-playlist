@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 135946,
+  "num_followers": 135971,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGQ1NTlmMzgyZTJkMTNmYWM3ZDRlMGM0Y2FmOTBkMmZkZjhlNmY5",
+  "snapshot_id": "MCxhMTEzZDNlYmRjNDZiNzdlOTZhNjhkYWZhZjg3NmI3ZjI3MTRkOWJj",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -91,22 +91,6 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
         "name": "Koko Taylor",
         "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
       "artists": [
         {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 173533,
-      "name": "Back Door Man",
-      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -199,6 +183,38 @@
       "duration_ms": 170373,
       "name": "That's All Right - 1950 Single Version",
       "url": "https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 173533,
+      "name": "Back Door Man",
+      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -263,22 +279,6 @@
       "duration_ms": 219559,
       "name": "I Can't Quit You Baby",
       "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2018-02-27 18:08:29",

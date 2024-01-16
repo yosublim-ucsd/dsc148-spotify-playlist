@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 114815,
+  "num_followers": 114798,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGQ3ZWU3M2IwZWYyNjE0MmMxN2MwMGJjYjViYWU5MmZlZGI1NDI3",
+  "snapshot_id": "MCxhNzhkYzhiNWMwYjdiZDlkNGJkOGFkZjQ0ZDNjZTc2ZGFkMWIyMWIw",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 187269,
-      "name": "Rollercoaster (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/6UbWYuDxDYmYYhsNYuYPPC"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 187269,
+      "name": "Rollercoaster (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/6UbWYuDxDYmYYhsNYuYPPC"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Mama Tetema (feat. Rayvanny)",
-        "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        }
-      ],
-      "duration_ms": 188087,
-      "name": "Mama Tetema (feat. Rayvanny)",
-      "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "DNK",
         "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
       },
@@ -483,6 +463,46 @@
       "duration_ms": 215284,
       "name": "T'as peur",
       "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Tucu",
+        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        }
+      ],
+      "duration_ms": 186895,
+      "name": "Tucu",
+      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Mama Tetema (feat. Rayvanny)",
+        "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "duration_ms": 188087,
+      "name": "Mama Tetema (feat. Rayvanny)",
+      "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -559,26 +579,6 @@
       "duration_ms": 186693,
       "name": "Arco\u00edris",
       "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Tucu",
-        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        }
-      ],
-      "duration_ms": 186895,
-      "name": "Tucu",
-      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
+        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Midnight Boom - with ChocQuibTown & Afro B",
+      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Zimenice",
         "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
       },
@@ -1083,30 +1107,6 @@
       "duration_ms": 187555,
       "name": "Hapo Tu",
       "url": "https://open.spotify.com/track/5g90vbGDO2zc7tYUqUHtmN"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
-        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 220552,
-      "name": "Midnight Boom - with ChocQuibTown & Afro B",
-      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Yoyo",
-        "url": "https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR"
-      },
-      "artists": [
-        {
-          "name": "El Gerard",
-          "url": "https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P"
-        }
-      ],
-      "duration_ms": 156850,
-      "name": "Yoyo",
-      "url": "https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Claramente",
         "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 182542,
       "name": "Claramente",
       "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Yoyo",
+        "url": "https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR"
+      },
+      "artists": [
+        {
+          "name": "El Gerard",
+          "url": "https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P"
+        }
+      ],
+      "duration_ms": 156850,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Apashe",
-  "num_followers": 231473,
+  "num_followers": 231524,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2Q1ZjdkNDU2Y2UzNzg5OTIxOGE3NzJkZDUyOGIzNjQwMTY1ZDBl",
+  "snapshot_id": "MCxmMDNkZTk0NGZjMjJkYjFmMzFhMDM2ODk2MmNkMTMzMzYyZDdiOTBm",
   "tracks": [
     {
       "added_at": "2024-01-12 05:37:40",
@@ -519,6 +519,30 @@
     {
       "added_at": "2024-01-12 05:37:40",
       "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+    },
+    {
+      "added_at": "2024-01-12 05:37:40",
+      "album": {
         "name": "DJ Turn It Up",
         "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
       },
@@ -531,6 +555,22 @@
       "duration_ms": 177931,
       "name": "DJ Turn It Up",
       "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
+    },
+    {
+      "added_at": "2024-01-12 05:37:40",
+      "album": {
+        "name": "Sunshine (My Girl)",
+        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Sunshine (My Girl)",
+      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
     },
     {
       "added_at": "2024-01-12 05:37:40",
@@ -555,30 +595,6 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
-    },
-    {
-      "added_at": "2024-01-12 05:37:40",
-      "album": {
-        "name": "BOTH",
-        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "BOTH",
-      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
     },
     {
       "added_at": "2024-01-12 05:37:40",
@@ -623,6 +639,22 @@
     {
       "added_at": "2024-01-12 05:37:40",
       "album": {
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+    },
+    {
+      "added_at": "2024-01-12 05:37:40",
+      "album": {
         "name": "Diamonds On My Mind",
         "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
@@ -651,38 +683,6 @@
       "duration_ms": 213800,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
-    },
-    {
-      "added_at": "2024-01-12 05:37:40",
-      "album": {
-        "name": "Sunshine (My Girl)",
-        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Sunshine (My Girl)",
-      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
-    },
-    {
-      "added_at": "2024-01-12 05:37:40",
-      "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
     },
     {
       "added_at": "2024-01-12 05:37:40",
@@ -767,30 +767,6 @@
     {
       "added_at": "2024-01-12 05:37:40",
       "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
-    },
-    {
-      "added_at": "2024-01-12 05:37:40",
-      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "added_at": "2024-01-12 05:37:40",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
     },
     {
       "added_at": "2024-01-12 05:37:40",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-01-12 05:37:40",
       "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 156924,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
+    },
+    {
+      "added_at": "2024-01-12 05:37:40",
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/5crYO6MbmHmFPHW9G6hr3p"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 208846,
       "name": "All Night",
       "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
-    },
-    {
-      "added_at": "2024-01-12 05:37:40",
-      "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 156924,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
     },
     {
       "added_at": "2024-01-12 05:37:40",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2024-01-12 05:37:40",
       "album": {
-        "name": "Motor",
-        "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Motor",
-      "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
-    },
-    {
-      "added_at": "2024-01-12 05:37:40",
-      "album": {
         "name": "Where You Are (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 282375,
       "name": "Where You Are - Gorgon City Remix",
       "url": "https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw"
+    },
+    {
+      "added_at": "2024-01-12 05:37:40",
+      "album": {
+        "name": "Motor",
+        "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Motor",
+      "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
     },
     {
       "added_at": "2024-01-12 05:37:40",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2024-01-12 05:37:40",
       "album": {
-        "name": "My Crew (feat. Flowdan)",
-        "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 205555,
-      "name": "My Crew (feat. Flowdan)",
-      "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
-    },
-    {
-      "added_at": "2024-01-12 05:37:40",
-      "album": {
         "name": "DRENCH",
         "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+    },
+    {
+      "added_at": "2024-01-12 05:37:40",
+      "album": {
+        "name": "My Crew (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 205555,
+      "name": "My Crew (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
     },
     {
       "added_at": "2024-01-12 05:37:40",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2024-01-12 05:37:40",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/1jRulCRI6kVDGpQ5OC9uN6"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Wasiu",
-          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/04zVcQYcV9iPQVsQVVDkKD"
-    },
-    {
-      "added_at": "2024-01-12 05:37:40",
-      "album": {
         "name": "Into U",
         "url": "https://open.spotify.com/album/5nSJWsxgo6XCBWyyperlwk"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 158139,
       "name": "Into U",
       "url": "https://open.spotify.com/track/7Esv32DsoH0GlAm42R4eXD"
+    },
+    {
+      "added_at": "2024-01-12 05:37:40",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/1jRulCRI6kVDGpQ5OC9uN6"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/04zVcQYcV9iPQVsQVVDkKD"
     },
     {
       "added_at": "2024-01-12 05:37:40",
@@ -2387,26 +2387,6 @@
     {
       "added_at": "2024-01-12 05:37:40",
       "album": {
-        "name": "Jumpstarter",
-        "url": "https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 173592,
-      "name": "Jumpstarter",
-      "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
-    },
-    {
-      "added_at": "2024-01-12 05:37:40",
-      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/6UUxfgFRnORokuQCqEXA1g"
       },
@@ -2427,6 +2407,26 @@
       "duration_ms": 220689,
       "name": "Touch",
       "url": "https://open.spotify.com/track/1l90jvHTkNh9VmOh2LbbeC"
+    },
+    {
+      "added_at": "2024-01-12 05:37:40",
+      "album": {
+        "name": "Jumpstarter",
+        "url": "https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 173592,
+      "name": "Jumpstarter",
+      "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
     },
     {
       "added_at": "2024-01-12 05:37:40",

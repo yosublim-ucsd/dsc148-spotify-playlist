@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 59678,
+  "num_followers": 59716,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTczZjgyNmE2ZTgxNjUxOTcxMzc1ZjJkMTFmNzc5YjA0MDcyNjAy",
+  "snapshot_id": "MCxhY2EyMGZkY2FiNmZiMGFmNTdkMTE2YWM2YWVjZjU1MDA4YTBkNTlm",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Pacific Coast Highway",
-        "url": "https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 238853,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/61S3v0zujG9J171zdMEap7"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "La Dolce Vita",
         "url": "https://open.spotify.com/album/11fmFfNbLB7Y6OPZEmBWWq"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 325093,
       "name": "La Dolce Vita",
       "url": "https://open.spotify.com/track/2bKblqcMNEJD9l0vBaFMA8"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Pacific Coast Highway",
+        "url": "https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/61S3v0zujG9J171zdMEap7"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "My Inspiration",
-        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 307506,
-      "name": "All Jazzed Up (And Nowhere To Go)",
-      "url": "https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "It's On Tonight",
         "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 234000,
       "name": "Dreaming Of You",
       "url": "https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "My Inspiration",
+        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 307506,
+      "name": "All Jazzed Up (And Nowhere To Go)",
+      "url": "https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -331,18 +331,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+        "name": "Soul To Souls",
+        "url": "https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM"
       },
       "artists": [
         {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
         }
       ],
-      "duration_ms": 332293,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
+      "duration_ms": 333880,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -363,18 +363,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Soul To Souls",
-        "url": "https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM"
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
       "artists": [
         {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
         }
       ],
-      "duration_ms": 333880,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw"
+      "duration_ms": 332293,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
     },
     {
       "added_at": "2020-08-19 19:15:51",

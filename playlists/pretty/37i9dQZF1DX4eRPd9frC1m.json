@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2586879,
+  "num_followers": 2587024,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODM4MGQ1MzRkM2U5NzVlYzUwNGMyZGIyMzA2NmNiODI3ZjIyYzAz",
+  "snapshot_id": "MCw1NmI0MDVmMTAyODI4ODczYWZjOWVlMjdmZDE4MzBiYTBiZTJhYTg3",
   "tracks": [
     {
       "added_at": "2024-01-12 05:29:15",
@@ -247,6 +247,26 @@
     {
       "added_at": "2024-01-12 05:29:15",
       "album": {
+        "name": "Puzzle Box",
+        "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 212210,
+      "name": "Puzzle Box",
+      "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
+    },
+    {
+      "added_at": "2024-01-12 05:29:15",
+      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
-    },
-    {
-      "added_at": "2024-01-12 05:29:15",
-      "album": {
-        "name": "Puzzle Box",
-        "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 212210,
-      "name": "Puzzle Box",
-      "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
     },
     {
       "added_at": "2024-01-12 05:29:15",
@@ -511,30 +511,6 @@
     {
       "added_at": "2024-01-12 05:29:15",
       "album": {
-        "name": "Gassed Up",
-        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "Gassed Up",
-      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
-    },
-    {
-      "added_at": "2024-01-12 05:29:15",
-      "album": {
         "name": "Mind Pluck",
         "url": "https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 220839,
       "name": "DAMN",
       "url": "https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93"
+    },
+    {
+      "added_at": "2024-01-12 05:29:15",
+      "album": {
+        "name": "Gassed Up",
+        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "Gassed Up",
+      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
     },
     {
       "added_at": "2024-01-12 05:29:15",
@@ -631,6 +631,26 @@
       "duration_ms": 221600,
       "name": "Laserbeam",
       "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
+    },
+    {
+      "added_at": "2024-01-12 05:29:15",
+      "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Asteroid",
+      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
     },
     {
       "added_at": "2024-01-12 05:29:15",
@@ -727,26 +747,6 @@
       "duration_ms": 139805,
       "name": "Old School",
       "url": "https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc"
-    },
-    {
-      "added_at": "2024-01-12 05:29:15",
-      "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Asteroid",
-      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
     },
     {
       "added_at": "2024-01-12 05:29:15",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2024-01-12 05:29:15",
       "album": {
+        "name": "2 MUCH (feat. 24hrs)",
+        "url": "https://open.spotify.com/album/01xr9so8umOVL5bwL82noG"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "2 MUCH (feat. 24hrs)",
+      "url": "https://open.spotify.com/track/5YRmvwA6P4fABxRhc61iH9"
+    },
+    {
+      "added_at": "2024-01-12 05:29:15",
+      "album": {
         "name": "Bangers[7].Zip",
         "url": "https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 163764,
       "name": "MEGAZORD",
       "url": "https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD"
-    },
-    {
-      "added_at": "2024-01-12 05:29:15",
-      "album": {
-        "name": "2 MUCH (feat. 24hrs)",
-        "url": "https://open.spotify.com/album/01xr9so8umOVL5bwL82noG"
-      },
-      "artists": [
-        {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "24hrs",
-          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "2 MUCH (feat. 24hrs)",
-      "url": "https://open.spotify.com/track/5YRmvwA6P4fABxRhc61iH9"
     },
     {
       "added_at": "2024-01-12 05:29:15",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-01-12 05:29:15",
       "album": {
+        "name": "Rainbow Brain",
+        "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Jantsen",
+          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Burn Up The Floor",
+      "url": "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
+    },
+    {
+      "added_at": "2024-01-12 05:29:15",
+      "album": {
         "name": "NEW WIP",
         "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
       },
@@ -1427,26 +1447,6 @@
     {
       "added_at": "2024-01-12 05:29:15",
       "album": {
-        "name": "Rainbow Brain",
-        "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Jantsen",
-          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Burn Up The Floor",
-      "url": "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
-    },
-    {
-      "added_at": "2024-01-12 05:29:15",
-      "album": {
         "name": "Cheatcode",
         "url": "https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI"
       },
@@ -1467,26 +1467,6 @@
       "duration_ms": 187000,
       "name": "Cheatcode",
       "url": "https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs"
-    },
-    {
-      "added_at": "2024-01-12 05:29:15",
-      "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 249090,
-      "name": "Breach",
-      "url": "https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn"
     },
     {
       "added_at": "2024-01-12 05:29:15",
@@ -1583,6 +1563,26 @@
       "duration_ms": 193333,
       "name": "Shift",
       "url": "https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO"
+    },
+    {
+      "added_at": "2024-01-12 05:29:15",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 249090,
+      "name": "Breach",
+      "url": "https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn"
     }
   ],
   "unique_name": "Hype",

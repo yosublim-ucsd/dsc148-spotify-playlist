@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-831 songs - 1 day 17 hr 44 min
+832 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Boşuna Nefes Tüketme](https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Boşuna Nefes Tüketme](https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5) | 2:42 | 2023-11-25 | 2023-12-01 |
 | [Bu Aşkta Zararım Var](https://open.spotify.com/track/1MsCY6QzxtZLZ7tsgRCfhX) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Bu Aşkta Zararım Var](https://open.spotify.com/album/4IcObM2kZAOPyrF1mUa3hw) | 3:17 | 2021-08-22 | 2021-08-27 |
 | [Bu da Geçer mi Sevgilim](https://open.spotify.com/track/4knoybQvMTZkuTI8dWx7ZA) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Bu da Geçer mi Sevgilim](https://open.spotify.com/album/1xCT8zKbhD3aur3tPjwuUq) | 3:20 | 2022-01-15 | 2022-01-21 |
-| [bu gece karakolluk olabilirim](https://open.spotify.com/track/2CNqJNwrybE70v6eBjpBOV) | [Mert Ali Aslan](https://open.spotify.com/artist/5vaqBLjNLseAiCCU12ZoHO) | [bu gece karakolluk olabilirim](https://open.spotify.com/album/6v4lQt7VW06iHKrjuW071m) | 2:55 | 2024-01-13 |  |
+| [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/track/2SLWxQ1HDxNlkIhxNRtIaT) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/album/4pmke7Abk1fcNfFTSv63Po) | 2:55 | 2024-01-15 |  |
+| [bu gece karakolluk olabilirim](https://open.spotify.com/track/2CNqJNwrybE70v6eBjpBOV) | [Mert Ali Aslan](https://open.spotify.com/artist/5vaqBLjNLseAiCCU12ZoHO) | [bu gece karakolluk olabilirim](https://open.spotify.com/album/6v4lQt7VW06iHKrjuW071m) | 2:55 | 2024-01-13 | 2024-01-16 |
 | [Bu Gün Bayram](https://open.spotify.com/track/4sNTDiLygCF0NAo3vDqhY2) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [24 Ayar](https://open.spotify.com/album/5Ii0po9FpJQPqCwlY8xGze) | 2:35 | 2021-05-15 | 2021-05-16 |
 | [Bu Saatten Sonra](https://open.spotify.com/track/53QUjrQ8BygCTBXfIs1Beu) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bu Saatten Sonra](https://open.spotify.com/album/6wtf8zyYddES6YnnVwqxRH) | 3:51 | 2022-01-05 | 2023-01-16 |
 | [Bu Son Olsun](https://open.spotify.com/track/5QfhqYAS8wmNnvFuOgLNRs) | [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Bu Son Olsun](https://open.spotify.com/album/30oGctq0ESNTuT5zX5SYfp) | 2:46 | 2021-08-27 | 2022-03-02 |
@@ -224,7 +225,7 @@
 | [Dibine Kadar](https://open.spotify.com/track/5pbFyTdwtJVmZB5LXmccX4) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Duman 1](https://open.spotify.com/album/0DKrLdv42DlBsGZQYMKU8C) | 3:48 | 2021-10-20 | 2022-02-13 |
 | [Diken Mi Gül Mü?](https://open.spotify.com/track/0QQ1BLUudNdqOHg3FpFnYH) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Yeni Aşkım](https://open.spotify.com/album/3zuJa3yg2XJWMmxoOULDaA) | 3:28 | 2023-03-31 | 2023-08-25 |
 | [Diken Mi Gül Mü?](https://open.spotify.com/track/4IjSOaCoGkP9Lqd5U8YeP0) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Yeni Aşkım](https://open.spotify.com/album/7soBdXkrnCgcTBQV7tCoJT) | 3:28 | 2023-05-16 | 2023-06-07 |
-| [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 | 2024-01-13 | 2024-01-15 |
+| [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 | 2024-01-13 |  |
 | [Dinle Beni Bi'](https://open.spotify.com/track/11PO9iu6PtpgL1JK4QNUEJ) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Akustik Travma](https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU) | 2:24 | 2021-09-28 | 2023-04-01 |
 | [Dip](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6) | 3:43 | 2022-07-23 | 2023-02-09 |
 | [Dip](https://open.spotify.com/track/17MzeMBa6mWeY30BWYW8dd) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/1tOfXoKAd5AcUpq2MCge2W) | 3:43 | 2021-04-13 | 2021-05-16 |
@@ -365,7 +366,7 @@
 | [Harmandalı](https://open.spotify.com/track/0Jen57hUkke7H6AbZY3W5d) | [sinkeyra](https://open.spotify.com/artist/4uWgevrr5tILVr5uYRWuAm) | [Harmandalı](https://open.spotify.com/album/2N8P4ULaELloQfsEVF1E3G) | 2:20 | 2022-10-01 | 2022-10-03 |
 | [hatırla](https://open.spotify.com/track/2XruYLgVQP1cgTO4QpH8pJ) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [hatırla](https://open.spotify.com/album/5N6QI8kqqWnA9VkhGOnVtv) | 2:36 | 2021-05-13 | 2021-06-20 |
 | [Hay Hay](https://open.spotify.com/track/0awjgmoviztbv4tnHUUzUE) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Hay Hay](https://open.spotify.com/album/2Ziw3fTldn7Q0HHUFTXYpe) | 3:38 | 2021-06-20 | 2021-09-12 |
-| [Hayalet](https://open.spotify.com/track/3NWhRNp75M7bEZZH1nWzMw) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Hayalet](https://open.spotify.com/album/02PUeAZeieBC4Sd1LUEdjj) | 2:42 | 2024-01-06 |  |
+| [Hayalet](https://open.spotify.com/track/3NWhRNp75M7bEZZH1nWzMw) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Hayalet](https://open.spotify.com/album/02PUeAZeieBC4Sd1LUEdjj) | 2:42 | 2024-01-06 | 2024-01-16 |
 | [Hayatım Kaymış](https://open.spotify.com/track/7dxlHPdMeGZQDX70TK0jB5) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Hayatım Kaymış](https://open.spotify.com/album/0glBp4JJvAthxFRfklMOde) | 4:06 | 2021-08-16 | 2022-01-15 |
 | [Haydi Gel Benimle Ol](https://open.spotify.com/track/6wE2kwWJpEWuKGxlN1DMKi) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Haydi Gel Benimle Ol](https://open.spotify.com/album/65Op2SMVGbXfT4FE1BuHlj) | 2:35 | 2023-06-07 | 2023-06-18 |
 | [HAYIR](https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [HAYIR](https://open.spotify.com/album/2hWeZlMbzNGdSAZo33Pahi) | 2:21 | 2023-01-28 | 2023-02-26 |

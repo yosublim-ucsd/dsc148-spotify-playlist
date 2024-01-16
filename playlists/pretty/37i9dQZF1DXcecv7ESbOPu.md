@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,268 likes - 119 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,290 likes - 119 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 118 | [Waste Your Time](https://open.spotify.com/track/5xVgd0RijaqQYjDtZKuIvU) | [Cardinal Bloom](https://open.spotify.com/artist/1kL35cnfsVSfKJ6xLk0K9f) | [Waste Your Time](https://open.spotify.com/album/2DSodCRz6uiJCx1TmXSibD) | 2:58 |
 | 119 | [Achilles](https://open.spotify.com/track/4IGwI1G5ZYe1oMYYLoQFPN) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Achilles](https://open.spotify.com/album/7cP9X0WVECnCcHRBRRLlps) | 2:36 |
 
-Snapshot ID: `MCw4M2Q5ZDZiNzRjYTM3NGRkYmIyN2QwMjc3N2RjNTUwYWQzNDkyMjQx`
+Snapshot ID: `MCxlMWM2NjI5MmY0ZDhjODYzMjU5ZWI3YzgxNzYzMTI0M2IxZWU0OWIw`

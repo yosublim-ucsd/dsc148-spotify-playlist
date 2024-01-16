@@ -1,5 +1,5 @@
 {
-  "2024-01-15": 206033,
+  "2024-01-16": 206034,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Denmark.",
   "name": "Top 50 - Denmark",
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 198292,
       "name": "all of me",
       "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
@@ -5957,7 +5957,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 205880,
       "name": "Dronning Af M\u00e5nen",
       "url": "https://open.spotify.com/track/2d0qsULaWlQMZ13jlPRA1d"
@@ -7777,7 +7777,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 198659,
       "name": "Flyvende Faduma",
       "url": "https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X"
@@ -9131,7 +9131,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 140089,
       "name": "Gode Dage, Gode Drinks",
       "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
@@ -14481,7 +14481,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 136267,
       "name": "LEV I NUET",
       "url": "https://open.spotify.com/track/5fHydJvKwLenrvyczUqXBq"
@@ -16257,7 +16257,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 185516,
       "name": "Mindst Ondt (feat. Svea S)",
       "url": "https://open.spotify.com/track/58XXETVCHXEl2siipiQOi5"
@@ -17765,7 +17765,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 160753,
       "name": "North Face (feat. Lamin)",
       "url": "https://open.spotify.com/track/5WfPaCdvCn5UhXKtEbGSb3"
@@ -23429,7 +23429,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 200500,
       "name": "Terrier",
       "url": "https://open.spotify.com/track/6ImP4OQ986Bed0EL3XOlFo"

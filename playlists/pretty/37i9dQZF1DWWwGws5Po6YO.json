@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 33314,
+  "num_followers": 33336,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2Q0YTQ3MzAwNWNkNzIxYTE5ZmRlMmY0MWU5MmUwYjVmMjBlNThl",
+  "snapshot_id": "MCwzZDhiNzRkMGZiM2FlOTRmYTcxMzNhZDdlYjJlODE5Mzc3Y2FiMmZj",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -319,6 +319,38 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Mt Baker",
+      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Love Is The Tune",
+        "url": "https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 220687,
+      "name": "Love Is The Tune",
+      "url": "https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "The Expanding Universe",
         "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
       },
@@ -367,34 +399,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
       },
       "artists": [
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Mt Baker",
-      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Love Is The Tune",
-        "url": "https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 220687,
-      "name": "Love Is The Tune",
-      "url": "https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk"
+      "duration_ms": 208912,
+      "name": "The Trembling of Glass",
+      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -415,22 +431,6 @@
       "duration_ms": 187863,
       "name": "Fantas Morbida",
       "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 208912,
-      "name": "The Trembling of Glass",
-      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Collected Pieces: 2015-2020",
-        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 230051,
-      "name": "We Wave From Our Boats",
-      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Raw Silk Uncut Wood",
         "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 186600,
       "name": "Night Journeys I",
       "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 230051,
+      "name": "We Wave From Our Boats",
+      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Collected Pieces",
-        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 628736,
-      "name": "Wawa by the Ocean",
-      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Big Room",
         "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Antiphonals",
-        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
+        "name": "Collected Pieces",
+        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
       },
       "artists": [
         {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
+      "duration_ms": 628736,
+      "name": "Wawa by the Ocean",
+      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Bassin Bleu",
-        "url": "https://open.spotify.com/album/1xbZmUFMUIN9SHS9JDuuvi"
+        "name": "Antiphonals",
+        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
       },
       "artists": [
         {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 359398,
-      "name": "Bassin Bleu",
-      "url": "https://open.spotify.com/track/6O6L2WaSYRsehdwvqf5N63"
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -855,6 +839,22 @@
       "duration_ms": 144500,
       "name": "Absolution",
       "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Bassin Bleu",
+        "url": "https://open.spotify.com/album/1xbZmUFMUIN9SHS9JDuuvi"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 359398,
+      "name": "Bassin Bleu",
+      "url": "https://open.spotify.com/track/6O6L2WaSYRsehdwvqf5N63"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -895,22 +895,6 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Selected Works Preview",
-        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 381496,
-      "name": "Composition Of Flowers (Excerpt)",
-      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -979,6 +963,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Selected Works Preview",
+        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 381496,
+      "name": "Composition Of Flowers (Excerpt)",
+      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "World Breathes",
         "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 517151,
-      "name": "Walking in a spiral towards the house: Side C",
-      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Meditations Mixtape Vol.1",
         "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 299666,
       "name": "Satnam Waheguru",
       "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 517151,
+      "name": "Walking in a spiral towards the house: Side C",
+      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "For Organ and Brass",
+        "url": "https://open.spotify.com/album/1CYC6me7uYzEHT5klCLQpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Arkbro",
+          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
+        }
+      ],
+      "duration_ms": 446000,
+      "name": "Mountain of Air",
+      "url": "https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "For Organ and Brass",
-        "url": "https://open.spotify.com/album/1CYC6me7uYzEHT5klCLQpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Arkbro",
-          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
-        }
-      ],
-      "duration_ms": 446000,
-      "name": "Mountain of Air",
-      "url": "https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Possessed (Original Score)",
-        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
-      },
-      "artists": [
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 387268,
-      "name": "Hyphae",
-      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Healing Is A Miracle - Extended Versions",
         "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 640034,
       "name": "Inspirit - Extended Version",
       "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Possessed (Original Score)",
+        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 387268,
+      "name": "Hyphae",
+      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1259,26 +1259,6 @@
       "duration_ms": 324000,
       "name": "Cradle - Patience Rework",
       "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Cry Me a Blizzard (Afrodeutsche I'm Here Remix)",
-        "url": "https://open.spotify.com/album/5BcZeareGEqIlRoJT5fGAq"
-      },
-      "artists": [
-        {
-          "name": "Nathan Fake",
-          "url": "https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG"
-        },
-        {
-          "name": "AFRODEUTSCHE",
-          "url": "https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
-      "url": "https://open.spotify.com/track/3Oi3oW4U2QRnc7Gt0VNnQB"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1315,22 +1295,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Humidity",
-        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
+        "name": "Cry Me a Blizzard (Afrodeutsche I'm Here Remix)",
+        "url": "https://open.spotify.com/album/5BcZeareGEqIlRoJT5fGAq"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+          "name": "Nathan Fake",
+          "url": "https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG"
         },
         {
-          "name": "Nana Pi",
-          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
+          "name": "AFRODEUTSCHE",
+          "url": "https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m"
         }
       ],
-      "duration_ms": 271093,
-      "name": "Humidity",
-      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
+      "duration_ms": 209160,
+      "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
+      "url": "https://open.spotify.com/track/3Oi3oW4U2QRnc7Gt0VNnQB"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1351,18 +1331,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Keep the Ocean Inside",
-        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
+        "name": "Humidity",
+        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
       },
       "artists": [
         {
-          "name": "The Seven Fields Of Aphelion",
-          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Nana Pi",
+          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
         }
       ],
-      "duration_ms": 291026,
-      "name": "Divining (naming of the Lost)",
-      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
+      "duration_ms": 271093,
+      "name": "Humidity",
+      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Keep the Ocean Inside",
+        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
+      },
+      "artists": [
+        {
+          "name": "The Seven Fields Of Aphelion",
+          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+        }
+      ],
+      "duration_ms": 291026,
+      "name": "Divining (naming of the Lost)",
+      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Hope Dealers",
         "url": "https://open.spotify.com/album/71cZVBxEtdDgJDRXipmtlZ"
       },
@@ -1399,22 +1399,6 @@
       "duration_ms": 352000,
       "name": "Hope Dealers",
       "url": "https://open.spotify.com/track/4V6Y9lCX3xnSoa11nN2S02"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1479,6 +1463,22 @@
       "duration_ms": 280000,
       "name": "dana\u00efdes",
       "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "The Harmonic Series Volume 2",
-        "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 835000,
-      "name": "Firmamento",
-      "url": "https://open.spotify.com/track/0KHQIxbitvGI5Hm8AKEtZa"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
         "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 1792000,
       "name": "Sino Algo Que Produce Sombras?",
       "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "The Harmonic Series Volume 2",
+        "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 835000,
+      "name": "Firmamento",
+      "url": "https://open.spotify.com/track/0KHQIxbitvGI5Hm8AKEtZa"
     },
     {
       "added_at": "2023-09-08 14:04:07",

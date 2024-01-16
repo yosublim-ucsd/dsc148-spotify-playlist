@@ -1,12 +1,12 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kim Min Seok, Sam Ryder) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 325992,
+  "num_followers": 325900,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjQwYTA0OTRhMDJjZGU5MTk5YWRiZDIxMjU3YjkxZWEzOWJhYjk0",
+  "snapshot_id": "MCw4NDI1NjVlNzQzNmY1YzM4ODY5YjQ0ODdiNzY4ZDc4ODE1ZTMwNTAz",
   "tracks": [
     {
       "added_at": "2024-01-12 05:32:53",
@@ -219,26 +219,6 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "GANADARA",
-        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 203727,
-      "name": "GANADARA (Feat. IU)",
-      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
-    },
-    {
-      "added_at": "2024-01-12 05:32:53",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -259,6 +239,26 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
+        "name": "GANADARA",
+        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 203727,
+      "name": "GANADARA (Feat. IU)",
+      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2024-01-12 05:32:53",
+      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
       },
@@ -271,22 +271,6 @@
       "duration_ms": 193321,
       "name": "200%",
       "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
-    },
-    {
-      "added_at": "2024-01-12 05:32:53",
-      "album": {
-        "name": "My Voice - The 1st Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
     },
     {
       "added_at": "2024-01-12 05:32:53",
@@ -311,6 +295,22 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
+    },
+    {
+      "added_at": "2024-01-12 05:32:53",
+      "album": {
         "name": "Me After You",
         "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
       },
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "SEOULITE",
-        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 288915,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
+      "duration_ms": 233813,
+      "name": "\ubcf4\uc5ec\uc904\uac8c",
+      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
     },
     {
       "added_at": "2024-01-12 05:32:53",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 288915,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
+    },
+    {
+      "added_at": "2024-01-12 05:32:53",
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
-    },
-    {
-      "added_at": "2024-01-12 05:32:53",
-      "album": {
-        "name": "Invitation",
-        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "\ubcf4\uc5ec\uc904\uac8c",
-      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
     },
     {
       "added_at": "2024-01-12 05:32:53",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 223214,
-      "name": "Love Is Ugly (Feat. Hwa Sa)",
-      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
-    },
-    {
-      "added_at": "2024-01-12 05:32:53",
-      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -527,22 +507,6 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 260607,
-      "name": "Gift",
-      "url": "https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB"
-    },
-    {
-      "added_at": "2024-01-12 05:32:53",
-      "album": {
         "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
       },
@@ -555,6 +519,42 @@
       "duration_ms": 256173,
       "name": "I\u2032m Sorry",
       "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
+    },
+    {
+      "added_at": "2024-01-12 05:32:53",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 223214,
+      "name": "Love Is Ugly (Feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
+    },
+    {
+      "added_at": "2024-01-12 05:32:53",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 260607,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB"
     },
     {
       "added_at": "2024-01-12 05:32:53",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "Naul <Ballad Pop City>",
-        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 260668,
-      "name": "Nights Into Days (Prod. by Naul)",
-      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
-    },
-    {
-      "added_at": "2024-01-12 05:32:53",
-      "album": {
         "name": "Spring Again",
         "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 236071,
       "name": "The Snowman",
       "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
+    },
+    {
+      "added_at": "2024-01-12 05:32:53",
+      "album": {
+        "name": "Naul <Ballad Pop City>",
+        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 260668,
+      "name": "Nights Into Days (Prod. by Naul)",
+      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
     },
     {
       "added_at": "2024-01-12 05:32:53",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "\uc911\ub3c5",
-        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
-      },
-      "artists": [
-        {
-          "name": "Na Yoon Kwon",
-          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
-        }
-      ],
-      "duration_ms": 262562,
-      "name": "\ub098\uc600\uc73c\uba74",
-      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
-    },
-    {
-      "added_at": "2024-01-12 05:32:53",
-      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 260264,
       "name": "Stars",
       "url": "https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq"
+    },
+    {
+      "added_at": "2024-01-12 05:32:53",
+      "album": {
+        "name": "\uc911\ub3c5",
+        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
+      },
+      "artists": [
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        }
+      ],
+      "duration_ms": 262562,
+      "name": "\ub098\uc600\uc73c\uba74",
+      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
     },
     {
       "added_at": "2024-01-12 05:32:53",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "I'M",
-        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 238252,
-      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
-    },
-    {
-      "added_at": "2024-01-12 05:32:53",
-      "album": {
         "name": "Butterfly Effect",
         "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
+        "name": "I'M",
+        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 238252,
+      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
+    },
+    {
+      "added_at": "2024-01-12 05:32:53",
+      "album": {
         "name": "It\u2032s You",
         "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "Do",
-        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
+        "name": "Such a thing",
+        "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }
       ],
-      "duration_ms": 165986,
-      "name": "Do",
-      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
+      "duration_ms": 266986,
+      "name": "Such a thing",
+      "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
     },
     {
       "added_at": "2024-01-12 05:32:53",
@@ -1355,6 +1355,38 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
+        "name": "Like Yesterday",
+        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
+    },
+    {
+      "added_at": "2024-01-12 05:32:53",
+      "album": {
+        "name": "Do",
+        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "Do",
+      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
+    },
+    {
+      "added_at": "2024-01-12 05:32:53",
+      "album": {
         "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
       },
@@ -1367,22 +1399,6 @@
       "duration_ms": 212146,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
-    },
-    {
-      "added_at": "2024-01-12 05:32:53",
-      "album": {
-        "name": "You&I",
-        "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "You&I",
-      "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
     },
     {
       "added_at": "2024-01-12 05:32:53",
@@ -1403,34 +1419,18 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "Such a thing",
-        "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
       },
       "artists": [
         {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 266986,
-      "name": "Such a thing",
-      "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
-    },
-    {
-      "added_at": "2024-01-12 05:32:53",
-      "album": {
-        "name": "Like Yesterday",
-        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
+      "duration_ms": 221333,
+      "name": "You&I",
+      "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
     },
     {
       "added_at": "2024-01-12 05:32:53",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "It'll pass",
-        "url": "https://open.spotify.com/album/6MkAOPaZtqTuDYVi68jqDU"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "It'll pass",
-      "url": "https://open.spotify.com/track/3Yzlsk9g1zqWZUeI5oq1BN"
-    },
-    {
-      "added_at": "2024-01-12 05:32:53",
-      "album": {
         "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
       },
@@ -1535,22 +1515,22 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "Solo Christmas",
-        "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
+        "name": "It'll pass",
+        "url": "https://open.spotify.com/album/6MkAOPaZtqTuDYVi68jqDU"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         },
         {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
         }
       ],
-      "duration_ms": 216146,
-      "name": "Solo Christmas",
-      "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
+      "duration_ms": 228213,
+      "name": "It'll pass",
+      "url": "https://open.spotify.com/track/3Yzlsk9g1zqWZUeI5oq1BN"
     },
     {
       "added_at": "2024-01-12 05:32:53",
@@ -1575,18 +1555,22 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "New Year",
-        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+        "name": "Solo Christmas",
+        "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 168760,
-      "name": "Fuckin' New Year",
-      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
+      "duration_ms": 216146,
+      "name": "Solo Christmas",
+      "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
     },
     {
       "added_at": "2024-01-12 05:32:53",
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2024-01-12 05:32:53",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 238022,
-      "name": "didn't know me",
-      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
+      "duration_ms": 168760,
+      "name": "Fuckin' New Year",
+      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
     },
     {
       "added_at": "2024-01-12 05:32:53",
@@ -1691,6 +1675,22 @@
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
+    },
+    {
+      "added_at": "2024-01-12 05:32:53",
+      "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 238022,
+      "name": "didn't know me",
+      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
     }
   ],
   "unique_name": "v o K a l",
