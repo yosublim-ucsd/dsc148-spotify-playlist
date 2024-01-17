@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9381,
+  "num_followers": 9376,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTVmMGM1YjcwNWI0MzdjNjFjMzM4ZDc1MmU2ZmUwY2M3NDkyMzRm",
+  "snapshot_id": "MCxjZGMwYzMyMWM2NTU2ZWZiM2JmNmY4MWY4ZGVjN2MxNjg5ZDk3NzAx",
   "tracks": [
     {
       "added_at": "2024-01-08 08:25:31",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "Future Boy",
-        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
-      },
-      "artists": [
-        {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
-        }
-      ],
-      "duration_ms": 124263,
-      "name": "Future Boy",
-      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
         "name": "DARKROOM",
         "url": "https://open.spotify.com/album/3mbp7RgskfhBo8GO7FNyi6"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 209086,
       "name": "Home Sh*t Home (Feat. JINBO)",
       "url": "https://open.spotify.com/track/2pdIj0UkQBu0eB0BMIoJcT"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
+        "name": "Future Boy",
+        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "duration_ms": 124263,
+      "name": "Future Boy",
+      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
     },
     {
       "added_at": "2024-01-08 08:25:31",

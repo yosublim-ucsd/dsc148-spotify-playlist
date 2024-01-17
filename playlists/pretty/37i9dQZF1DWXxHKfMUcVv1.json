@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 112860,
+  "num_followers": 112912,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzVjYWY0YTIxOGEwM2RiM2QwYTQ2YzI0ZDc3NzZmN2M0MGVhMGE3",
+  "snapshot_id": "MCxlYWQwNmU3MmVkYTRhMTQ0ZjY4NDMwNTMxZGNlN2Q2MjA5NWUwYjUw",
   "tracks": [
     {
       "added_at": "2024-01-12 16:17:07",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
+        "name": "Alma en Pe\u00f1a",
+        "url": "https://open.spotify.com/album/4bkPnI5gKmETlDyZe5BKEH"
+      },
+      "artists": [
+        {
+          "name": "Salamandra",
+          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
+        }
+      ],
+      "duration_ms": 236605,
+      "name": "Solito",
+      "url": "https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
         "name": "Vas A Morir Con Eso",
         "url": "https://open.spotify.com/album/1VNzUYcY2Hi5YcjSu352pR"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 183036,
       "name": "Todo Biento",
       "url": "https://open.spotify.com/track/33noWMO0SPfWArA58YHLtr"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "180 Grados",
-        "url": "https://open.spotify.com/album/7o4MMZwV9JSG0kkXrdKMvn"
-      },
-      "artists": [
-        {
-          "name": "Chili Fernandez",
-          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
-        }
-      ],
-      "duration_ms": 197761,
-      "name": "Mi Dulce Ni\u00f1a - Remasterizado 2017",
-      "url": "https://open.spotify.com/track/5zxQLnG4DhQT1lUPQJSCC4"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 377407,
+  "num_followers": 377378,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDhmYmU1N2U0MWU4Y2IzZGJiNjM1ODkwODJjZjEwMGYxZTIxYzRm",
+  "snapshot_id": "MCw1N2Q2MDBjYTY4YjQ5ZTczZTllMTgwYmY4YjcxZDFlMWRjMTAzYmRj",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 254013,
+      "name": "Someone To Stay",
+      "url": "https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 218586,
       "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 254013,
-      "name": "Someone To Stay",
-      "url": "https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Scarlett",
-      "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Tailwhip",
         "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 225263,
       "name": "Tailwhip",
       "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Scarlett",
+      "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "EPHEMERA",
-        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
-      },
-      "artists": [
-        {
-          "name": "Jim-E Stack",
-          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 167636,
-      "name": "Jeanie",
-      "url": "https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Gold (Flume Rework)",
         "url": "https://open.spotify.com/album/0c6k1Sx08mOgZ1ZmnyqG9T"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 223813,
       "name": "Four Winds",
       "url": "https://open.spotify.com/track/18ZlXU6zRcjPcxdGwr8gC9"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "EPHEMERA",
+        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 167636,
+      "name": "Jeanie",
+      "url": "https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "What Kinda Music (Jordan Rakei Remix)",
-        "url": "https://open.spotify.com/album/2xNZKNIlHUY9NKXrHzr19g"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        }
-      ],
-      "duration_ms": 340729,
-      "name": "What Kinda Music - Jordan Rakei Remix",
-      "url": "https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "For The Very Last Time",
         "url": "https://open.spotify.com/album/6kJB5oD7RKL6eJFtMWmNTn"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 202500,
       "name": "Fading",
       "url": "https://open.spotify.com/track/7lKl0UjUeIE3KJMTnn8CMW"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "What Kinda Music (Jordan Rakei Remix)",
+        "url": "https://open.spotify.com/album/2xNZKNIlHUY9NKXrHzr19g"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "duration_ms": 340729,
+      "name": "What Kinda Music - Jordan Rakei Remix",
+      "url": "https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI"
-      },
-      "artists": [
-        {
-          "name": "Young & Sick",
-          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
-        }
-      ],
-      "duration_ms": 237112,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI"
+      },
+      "artists": [
+        {
+          "name": "Young & Sick",
+          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
+        }
+      ],
+      "duration_ms": 237112,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "EPHEMERA",
-        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
-      },
-      "artists": [
-        {
-          "name": "Jim-E Stack",
-          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
-        },
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 183988,
-      "name": "Sweet Summer Sweat",
-      "url": "https://open.spotify.com/track/2rF0SIGlQLyU2Vg3Vxlxn5"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Heart (Alternative Version)",
         "url": "https://open.spotify.com/album/3raFKyVQMl05qPHSDUUjcS"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 175862,
       "name": "Heart - Alternative Version",
       "url": "https://open.spotify.com/track/44EPCM1s8YWZKGUTTcbxOB"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "EPHEMERA",
+        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 183988,
+      "name": "Sweet Summer Sweat",
+      "url": "https://open.spotify.com/track/2rF0SIGlQLyU2Vg3Vxlxn5"
     },
     {
       "added_at": "2023-01-11 21:01:15",

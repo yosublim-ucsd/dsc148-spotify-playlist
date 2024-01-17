@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Dana Salah
 
-604 songs - 1 day 10 hr 52 min
+605 songs - 1 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Weslat Al Fekra](https://open.spotify.com/track/6Dolz1cbu6hURxPnpLyNYM) | [Nadine Fahad](https://open.spotify.com/artist/4vloTyzi91BkV0RhnGwsji) | [Weslat Al Fekra](https://open.spotify.com/album/7izEIo3KT8uqKWnx9Cm6xP) | 3:57 | 2021-12-23 | 2022-03-02 |
 | [What She Does](https://open.spotify.com/track/5DvvVvt9tJT3WQYgnNKPKi) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [What She Does](https://open.spotify.com/album/1LCRN8aHHEwH4efSZLmH1c) | 2:41 | 2021-12-23 | 2022-03-01 |
 | [Wojoud Efterady](https://open.spotify.com/track/0kd00pkjvrTrK8dDKmwMCr) | [Mirelle Mokhtar](https://open.spotify.com/artist/72qojRuTcRlpvPehi30h7p) | [Wojoud Efterady](https://open.spotify.com/album/25NYgltgevJgJjQATySzkQ) | 4:11 | 2021-12-30 | 2022-03-02 |
+| [Woseltelha](https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Woseltelha](https://open.spotify.com/album/6RrDEMqADohA3DYvWkulNB) | 4:08 | 2024-01-16 |  |
 | [WUSUL](https://open.spotify.com/track/4xxtcmaAHdHfnH6EJ0uTuj) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [WUSUL](https://open.spotify.com/album/1ZY40CYuKiMm3eTNJUojVb) | 2:46 | 2022-09-08 | 2022-10-30 |
 | [WUSUL](https://open.spotify.com/track/7dCGZu3toTD8UPjZ8R0yRk) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [WUSUL](https://open.spotify.com/album/3QrE53UU70mBPZwni9pEs7) | 2:46 | 2022-11-19 | 2023-01-26 |
 | [Ya Ana](https://open.spotify.com/track/7iXbIIEeBJLI89HDrn9V0s) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Ya Ana](https://open.spotify.com/album/5S7WCHWsqQUdHzH9nKzTzN) | 2:52 | 2023-01-19 | 2023-02-04 |

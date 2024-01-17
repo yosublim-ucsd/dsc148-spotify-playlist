@@ -4,7 +4,7 @@
 
 > Barack Obama&\#x27;s favorite songs of 2023 plus somo of his favorite summer songs\. Includes Summer 22, &amp; 21 editions + bonus tracks.
 
-2,862 songs - 6 day 19 hr 21 min
+2,867 songs - 6 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -870,6 +870,7 @@
 | [finally \- Radio Edit](https://open.spotify.com/track/31MBBTNAAVpcJNEmVmVbUk) | [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [finally](https://open.spotify.com/album/47OzYay0e5CD29sxi0HePY) | 2:17 | 2022-04-08 | 2022-05-13 |
 | [Find A Way](https://open.spotify.com/track/292NnHERQgizPvOY3pCEPK) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Back of My Mind](https://open.spotify.com/album/577SefILL1LFIbsOMP3lm1) | 3:17 | 2021-07-11 |  |
 | [Find A Way](https://open.spotify.com/track/6UxL2QDcngbCGZyn8qcmBE) | [Tm2 Ent Presents Nani Babbey](https://open.spotify.com/artist/0lNtvTnB6SsdmXtHW4NdtX) | [Find A Way](https://open.spotify.com/album/44sjjZVpW02Rp47b3AtFl8) | 3:06 | 2023-06-11 | 2023-06-30 |
+| [Find Me](https://open.spotify.com/track/2M6sXJs5fatXCxxDWS22zB) | [51st Avenue](https://open.spotify.com/artist/1lx0CFJ4qkU2ehJ4WwQSdF) | [Find Me](https://open.spotify.com/album/29QFAzXWaVoBE5KMKIuQqT) | 3:19 | 2024-01-16 |  |
 | [Finding Friends](https://open.spotify.com/track/3VsSoZQqBL1rQS4qpo8BaJ) | [John Noble Barrack](https://open.spotify.com/artist/6lrpKE857HFC8ohwObzINB) | [Finding Friends](https://open.spotify.com/album/5cpdeK47tNjNYBGgCZB2ol) | 3:03 | 2022-09-16 | 2022-10-04 |
 | [Finding Home](https://open.spotify.com/track/6SeoZNOlp8yEppdCwL5JX5) | [Hak Black](https://open.spotify.com/artist/7JIRCWz9rVly4v7WIVrPE4) | [Finding Home](https://open.spotify.com/album/0ThydTtBVa0Eb3D6mVAqUw) | 3:23 | 2022-10-04 | 2022-10-29 |
 | [Finding My Way](https://open.spotify.com/track/2egG51uXl2dPr09hvKnmUD) | [Simon Keats](https://open.spotify.com/artist/6WpLlxxaJ9AVBTnQcXvfGZ), [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Finding My Way](https://open.spotify.com/album/6t7f0GFWIEx1schlYAz2Jy) | 3:05 | 2021-10-22 | 2021-11-07 |
@@ -1500,6 +1501,7 @@
 | [Lost Cause](https://open.spotify.com/track/6grM3UdTxAOTxN3suz9bgt) | [Doug Segree](https://open.spotify.com/artist/6X3riYALrb2v2ekfkacFbm) | [Lost Cause](https://open.spotify.com/album/5Pd1ltkFDWVdNcV27XM6HV) | 3:32 | 2023-05-12 | 2023-05-30 |
 | [Lost in Boston](https://open.spotify.com/track/33kT7w0qCdSY5EO1FFbW14) | [The Fall Line](https://open.spotify.com/artist/6agKrgUACfM2YJ0ahGBvfT) | [Original Sin](https://open.spotify.com/album/1yyDntL1rNSmGaRCgM2Yop) | 3:34 | 2019-12-15 | 2019-12-27 |
 | [Lost In My Mind](https://open.spotify.com/track/5DH3KoqLXjmvW9QVQKKk6d) | [Lola Coker](https://open.spotify.com/artist/4lur8moISLyua0JzmHpPrc) | [Lost In My Mind](https://open.spotify.com/album/6qOKvYVPUc6O6L8fPOIHUz) | 3:41 | 2021-12-31 | 2022-01-19 |
+| [Lost in the Sound](https://open.spotify.com/track/478z5OvtvvQIfWE6vJ7TvT) | [MAEVE](https://open.spotify.com/artist/1AajydIvADnjIfgalHsDzX) | [Lost in the Sound](https://open.spotify.com/album/1EFNXX3rQqTdGXqaU6uPwT) | 3:45 | 2024-01-17 |  |
 | [Lost in Translation](https://open.spotify.com/track/3rjeMPJcJLw0OSS4Nk7o1e) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Lost in Translation](https://open.spotify.com/album/0avRCGXVbqOjPYPKifcYmS) | 3:58 | 2022-09-30 | 2023-05-30 |
 | [Lost It](https://open.spotify.com/track/3vAfK0sDQZEdK1nedLrfbL) | [Rauly](https://open.spotify.com/artist/66fMwrGam24QvJPazZYo17) | [Lost It](https://open.spotify.com/album/0pCNQiw9sNJkEp9Ymj0s8E) | 2:18 | 2023-03-24 | 2023-04-13 |
 | [Lost Mind Generation \- Stripped](https://open.spotify.com/track/0RwO6U8bJMYLv9u6sdH7kW) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Lost Mind Generation \(Stripped\)](https://open.spotify.com/album/7IBXO645y7DkDfSEGZzQZ7) | 4:06 | 2023-01-27 | 2023-02-18 |
@@ -1674,6 +1676,7 @@
 | [More of the Same](https://open.spotify.com/track/6qyzRjH6fK6P76DdxyXEZl) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [More of the Same](https://open.spotify.com/album/5QVFD34CrJHv6e6THdiBid) | 3:12 | 2021-12-11 | 2022-01-07 |
 | [More of You](https://open.spotify.com/track/0nsofcXSqxPcXXrqeY4TeT) | [Chaise](https://open.spotify.com/artist/0cDDDfHYuslpe1CoOeMmib) | [More of You](https://open.spotify.com/album/29j9jh8N2SezEXDGCQmI6n) | 4:03 | 2022-01-07 | 2022-01-23 |
 | [More Than Lovers](https://open.spotify.com/track/2m99x6RSOJjIaO3h6odEyW) | [Hykay](https://open.spotify.com/artist/0ui2p3tryZSVhl4zelHIAi) | [More Than Lovers](https://open.spotify.com/album/1ncO9OdU9B0dFpqzjfg5Oj) | 2:53 | 2023-03-04 | 2023-03-29 |
+| [More Than Words](https://open.spotify.com/track/5NITwEcAQXREfP2pzSWJrU) | [Dr\. Stuff](https://open.spotify.com/artist/54T03kwQRj3I5cAqcqjAIA) | [Music Is Medicine](https://open.spotify.com/album/5xmjbpNQy8q3mK71YSAvEF) | 5:34 | 2024-01-16 |  |
 | [More Than You Know](https://open.spotify.com/track/5NCbLiZLwjQV5SqkGqtHtA) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In A Sentimental Mood](https://open.spotify.com/album/6bqVbJc4p9foiS8tQy1tow) | 4:40 | 2022-07-26 |  |
 | [MOTA](https://open.spotify.com/track/0zpwjk9WosuVgDCyfWshAC) | [TYLOR](https://open.spotify.com/artist/7FBFDgNhHbZvmrMJk4L1vO) | [MOTA](https://open.spotify.com/album/6PKzwCa3CZeWoY7TgGYOwX) | 2:29 | 2022-05-27 | 2022-06-12 |
 | [MOTION](https://open.spotify.com/track/77hjqTb1lNcHMLKpZxYcS7) | [HINYL](https://open.spotify.com/artist/5C1kYgcLy2bHUCWGGvpKVP) | [MOTION \(DIVE IN\)](https://open.spotify.com/album/6uildMXkFASWvb5hPJXqJK) | 3:06 | 2022-12-24 | 2023-02-07 |
@@ -2177,6 +2180,7 @@
 | [Shakedown](https://open.spotify.com/track/1wViRHIhsserH8zdNqhZtb) | [Sofi Gev](https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd) | [Shakedown](https://open.spotify.com/album/2xiLegcNVLVPL8u1LtzN65) | 3:26 | 2021-03-27 | 2021-04-17 |
 | [Shame](https://open.spotify.com/track/7D9iFRtnDXGdly4bBrkXrQ) | [MVJM](https://open.spotify.com/artist/27r3crNeoSKpzEorSm6cSE) | [Shame](https://open.spotify.com/album/3meoCpS5Z33sdieqeUnmzy) | 2:43 | 2022-09-30 | 2022-10-18 |
 | [Shaolin's Freestyle](https://open.spotify.com/track/0gRkIDV9aYg59BNz84Mqg9) | [ekay](https://open.spotify.com/artist/6b7Xqscw7R511P4wL6WtxD) | [Shaolin's Freestyle](https://open.spotify.com/album/3GCLwwFxmyT2AnI8ovMgnW) | 4:40 | 2019-10-18 | 2019-11-02 |
+| [Shape of My Heart](https://open.spotify.com/track/130RB5eLBKX9cB2Fzzf6aL) | [Dr\. Stuff](https://open.spotify.com/artist/54T03kwQRj3I5cAqcqjAIA) | [Music Is Medicine](https://open.spotify.com/album/5xmjbpNQy8q3mK71YSAvEF) | 3:41 | 2024-01-16 |  |
 | [She Drives Me Crazy \- Radio Edit](https://open.spotify.com/track/11hc1HDx0Lvi6fvMVBHmid) | [Andrew Spencer](https://open.spotify.com/artist/1EjddlgoBT9qmrqLdPbCTx) | [She Drives Me Crazy](https://open.spotify.com/album/2Ca28DdAUWugKuSklGjY20) | 2:55 | 2023-03-31 | 2023-04-22 |
 | [She Know's \- Radio Edit](https://open.spotify.com/track/0FPuIWOZUxWG4zY9azr72C) | [KillaHrtz](https://open.spotify.com/artist/2AOiN0yRMqCrb2tYNYWWER), [G3](https://open.spotify.com/artist/5jOdNzcKtXqLsfJD4qm6wF), [Anthony Height](https://open.spotify.com/artist/1tVuwX9h0tkSMtTo2mTdrn) | [She Know's \(Radio Edit\)](https://open.spotify.com/album/77eymgojzmYgkgB4MpYkVg) | 3:09 | 2023-08-23 | 2023-09-01 |
 | [She Whispers](https://open.spotify.com/track/40YRRRa9nmzXMuGA7dWipc) | [Flo Fi](https://open.spotify.com/artist/1Usp2CAfIsN1vg9QJnvnME) | [She Whispers](https://open.spotify.com/album/3J6p56NCSTImSRTR9Kfxlh) | 3:08 | 2021-11-20 | 2021-12-05 |
@@ -2235,6 +2239,7 @@
 | [So Good](https://open.spotify.com/track/6vzfLHVztQPabKxXDa3lRL) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [So Good](https://open.spotify.com/album/5zFJ8BpJ3lJABMWkMKDCaC) | 2:32 | 2022-02-04 | 2022-02-20 |
 | [So Hard](https://open.spotify.com/track/5I0qCoNe6cOfXajLAzazUN) | [Nezi](https://open.spotify.com/artist/09LvpbdDJHTFARXMJ04Rto) | [So Hard](https://open.spotify.com/album/6CM5Q43X8r38gyGeollqGj) | 2:58 | 2021-07-11 |  |
 | [So Long...](https://open.spotify.com/track/5HrqbRBEoGNiYCEEp5MERD) | [Micah Willis](https://open.spotify.com/artist/3n6N43pjBB2dGOjDvsAjMC), [austin payne](https://open.spotify.com/artist/7fkh3T7gYEiJ5M47wIvJMI) | [So Long...](https://open.spotify.com/album/1naGs7l6jvJ0DjuMJQPG4r) | 3:03 | 2020-05-22 | 2020-06-01 |
+| [So Lucky](https://open.spotify.com/track/7g2Zc9YVwVX6mME8gmBv1t) | [Laptop Singers](https://open.spotify.com/artist/2PBpgSfV69qW5sKrLHcF5W) | [Eternal Life](https://open.spotify.com/album/48TcvZvtOlwXYfpPhLkaoT) | 3:03 | 2024-01-16 |  |
 | [so you know](https://open.spotify.com/track/3IPdsAaaI7NLgn8lW3KXIo) | [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [the runaway](https://open.spotify.com/album/5b3EO3YUcPEgst7phZ2Xmf) | 2:08 | 2022-03-11 | 2022-03-31 |
 | [Sober](https://open.spotify.com/track/2I1DKbI38lcWXxAxwQ6IQf) | [Mike Watts](https://open.spotify.com/artist/3Wx36s9vPKc18yZopjMWPU), [Mikaila](https://open.spotify.com/artist/1mA7Bh4IhIuuUsrATfhEpT) | [Sober](https://open.spotify.com/album/3rN8rtA4haHiPN7v66jhek) | 3:35 | 2020-06-24 | 2020-07-13 |
 | [Sober Brain](https://open.spotify.com/track/1pFLOatIscuyzEtHLueLIz) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [Pretty Picture \(Side A\)](https://open.spotify.com/album/1LsXiKY65aIDClJXI6wno3) | 3:16 | 2021-04-30 | 2021-12-27 |

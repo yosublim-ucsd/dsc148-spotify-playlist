@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Club Dogo, Vale Lambo e tanti altri.
 
-2,895 songs - 5 day 11 hr 9 min
+2,896 songs - 5 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [CHICKEN NUGGETZ](https://open.spotify.com/track/0xyuOjZR5m2oNG9oqwlMeP) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [CHICKEN NUGGETZ](https://open.spotify.com/album/7C8o8Pgazytm7MSOpMEOmL) | 1:51 | 2023-09-28 | 2023-10-13 |
 | [CHIEF KEEF](https://open.spotify.com/track/5VcqW0d3xQjarpgAq76z7M) | [Fiore](https://open.spotify.com/artist/4GOWLNptHmjfpDP4HN21Im), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [CHIEF KEEF](https://open.spotify.com/album/23thkyjQZXbh3fOBoSOoCv) | 3:25 | 2023-02-03 | 2023-02-15 |
 | [CHILLZONE](https://open.spotify.com/track/4PEfHhSWf1kwjQ5SrEl4s6) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:10 | 2022-07-07 | 2022-08-13 |
+| [Chilometri](https://open.spotify.com/track/2fMzIzFExDeabwWsWWNpkY) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Chilometri](https://open.spotify.com/album/6DO6FMW1osAxPc6dmSIeWb) | 2:42 | 2024-01-16 |  |
 | [Chimico](https://open.spotify.com/track/4ipAS8LhHG6nARTPURzCn3) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV) | [Chimico](https://open.spotify.com/album/7zdWtDoQIDNFLNjtVNG9xT) | 1:47 | 2022-07-29 | 2022-08-05 |
 | [Chiodo Fisso](https://open.spotify.com/track/1kMuT7JL7DTS26eFU9SymN) | [provinciale](https://open.spotify.com/artist/6tAtlcAeMZM7LeKnYxo8u5), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A) | [Chiodo Fisso](https://open.spotify.com/album/2NUxZu8NbjDV0QrBRK0vve) | 2:37 | 2023-05-25 | 2023-06-02 |
 | [Chloé](https://open.spotify.com/track/2PMza9HBH7wBVsPgI4WwIO) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Chloé](https://open.spotify.com/album/5tijxFLqES9J1xPa9u5tbg) | 2:40 | 2022-11-10 | 2022-12-02 |
@@ -2620,7 +2621,7 @@
 | [Tiger](https://open.spotify.com/track/2hgEpXDvLCtcTUmF00Mxjw) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [Tiger](https://open.spotify.com/album/3JN5Q4TNhG2lZCExpOWjUu) | 2:39 | 2023-06-15 | 2023-06-30 |
 | [Tigresse](https://open.spotify.com/track/6FtWOgaI3icr8D7TNabM5H) | [Keione](https://open.spotify.com/artist/03hK7y0FwbAU0GbP8eXmbu) | [Tigresse](https://open.spotify.com/album/4oCfom11e5Uy8ducm4KVkf) | 2:37 | 2022-07-14 | 2022-08-13 |
 | [TIK TOK](https://open.spotify.com/track/20t5iixTDSQq5jzl1DO5pQ) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [TIK TOK](https://open.spotify.com/album/3HzyU4PxIww2bPHiqnGblG) | 2:39 | 2022-06-02 | 2022-06-17 |
-| [Time](https://open.spotify.com/track/5hEKTk2E2ILp9MDrZmC5UY) | [LiL AnDr€w](https://open.spotify.com/artist/0UEYvNJKJdAkLOdK7G8ghK) | [Time](https://open.spotify.com/album/1QDMvFdwe1SrRkLbY4tEfK) | 1:46 | 2024-01-04 |  |
+| [Time](https://open.spotify.com/track/5hEKTk2E2ILp9MDrZmC5UY) | [LiL AnDr€w](https://open.spotify.com/artist/0UEYvNJKJdAkLOdK7G8ghK) | [Time](https://open.spotify.com/album/1QDMvFdwe1SrRkLbY4tEfK) | 1:46 | 2024-01-04 | 2024-01-17 |
 | [Tip Tap](https://open.spotify.com/track/01HIRt67ZPMDfNNByTdw88) | [Joka Diablo](https://open.spotify.com/artist/2y7MutJk3oS7vIcOCwv3YZ), [GIA](https://open.spotify.com/artist/17k1bAQwNIsz9Zdw4AQGYq) | [Tip Tap](https://open.spotify.com/album/2ZkmQGzySkO7KEzUF6lYlL) | 2:51 | 2023-11-02 | 2023-11-17 |
 | [Tirana \(feat\. Finem\)](https://open.spotify.com/track/1EsVVU4G94ZdAaeEHP4T0d) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [Tirana \(feat\. Finem\)](https://open.spotify.com/album/0D2zfLodyfFuVg4W5uT3gU) | 2:37 | 2023-02-03 | 2023-02-10 |
 | [Tirana \(feat\. Finem\)](https://open.spotify.com/track/5OSdAnnPdKg2KvsUjL1uXl) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [Salvatore Vive](https://open.spotify.com/album/7H6877riJIFSominCYGZx8) | 2:37 | 2023-02-09 | 2023-03-03 |

@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: Alice Merton",
-  "num_followers": 33000,
+  "num_followers": 32996,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzUxMzEzNzM1Mjg5ZmZlMGRmNGE1ZDdhN2U5N2YwZjdiZGU5Mjlh",
+  "snapshot_id": "MCwwMGRmNjY5MzBmYjcyYTBmOWExZGRjNmU1YTVlMjM4MDQ2YTdmYWM0",
   "tracks": [
     {
       "added_at": "2024-01-09 23:00:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "Hauptgewinn",
+        "url": "https://open.spotify.com/album/3QpMThEvkqJHHVvfqluIqi"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "duration_ms": 122900,
+      "name": "Welt Ohne Dich",
+      "url": "https://open.spotify.com/track/0syXVKe7WAHa8VmA3ftDTM"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "DEVIL",
         "url": "https://open.spotify.com/album/6Te7u1x6u2uBGaEbWelpgr"
       },
@@ -311,18 +327,18 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Hauptgewinn",
-        "url": "https://open.spotify.com/album/3QpMThEvkqJHHVvfqluIqi"
+        "name": "See U Whenever",
+        "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
       },
       "artists": [
         {
-          "name": "Sandra Hesch",
-          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+          "name": "Willow Parlo",
+          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
         }
       ],
-      "duration_ms": 122900,
-      "name": "Welt Ohne Dich",
-      "url": "https://open.spotify.com/track/0syXVKe7WAHa8VmA3ftDTM"
+      "duration_ms": 220764,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -343,34 +359,18 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "See U Whenever",
-        "url": "https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt"
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/1EVoP9HiCAtz1f8aIGyjJ3"
       },
       "artists": [
         {
-          "name": "Willow Parlo",
-          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
         }
       ],
-      "duration_ms": 220764,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/6PNGlUvQwB7bxFUBHaceGk"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "TROUBLESHOOTER",
-        "url": "https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t"
-      },
-      "artists": [
-        {
-          "name": "KUOKO",
-          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
-        }
-      ],
-      "duration_ms": 140029,
-      "name": "CRISIS QUEEN",
-      "url": "https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm"
+      "duration_ms": 176976,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/37KFF19iUOsht1gc9qyrH5"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/1EVoP9HiCAtz1f8aIGyjJ3"
+        "name": "TROUBLESHOOTER",
+        "url": "https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t"
       },
       "artists": [
         {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
         }
       ],
-      "duration_ms": 176976,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/37KFF19iUOsht1gc9qyrH5"
+      "duration_ms": 140029,
+      "name": "CRISIS QUEEN",
+      "url": "https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Wuz poppin",
-        "url": "https://open.spotify.com/album/5qxriuwicjI98My7Z52bJK"
-      },
-      "artists": [
-        {
-          "name": "Kitty Kat",
-          "url": "https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd"
-        }
-      ],
-      "duration_ms": 148462,
-      "name": "Wuz poppin",
-      "url": "https://open.spotify.com/track/0VwSCUl9wvV2McHly3VTW3"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Paralysed",
         "url": "https://open.spotify.com/album/4rCLKINqXlt4NslY3VaK3U"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Nothing's Set In Stone",
-        "url": "https://open.spotify.com/album/3XMG68ynUfyh6P3FftvIDc"
+        "name": "Wuz poppin",
+        "url": "https://open.spotify.com/album/5qxriuwicjI98My7Z52bJK"
       },
       "artists": [
         {
-          "name": "Krak\u00f3w Loves Adana",
-          "url": "https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN"
+          "name": "Kitty Kat",
+          "url": "https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd"
         }
       ],
-      "duration_ms": 199844,
-      "name": "Nothing's Set In Stone",
-      "url": "https://open.spotify.com/track/6s76u76W9kFp87XdvOXRsd"
+      "duration_ms": 148462,
+      "name": "Wuz poppin",
+      "url": "https://open.spotify.com/track/0VwSCUl9wvV2McHly3VTW3"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -487,6 +471,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "Nothing's Set In Stone",
+        "url": "https://open.spotify.com/album/3XMG68ynUfyh6P3FftvIDc"
+      },
+      "artists": [
+        {
+          "name": "Krak\u00f3w Loves Adana",
+          "url": "https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN"
+        }
+      ],
+      "duration_ms": 199844,
+      "name": "Nothing's Set In Stone",
+      "url": "https://open.spotify.com/track/6s76u76W9kFp87XdvOXRsd"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "bitte nicht in blicken / zum tag des barsches",
         "url": "https://open.spotify.com/album/62y6GQAZe3bPXEM3BuEH7V"
       },
@@ -499,22 +499,6 @@
       "duration_ms": 179483,
       "name": "bitte nicht in blicken",
       "url": "https://open.spotify.com/track/7eCbfOP0Oic7nWjEqEvMR9"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Allerletzter Tag",
-        "url": "https://open.spotify.com/album/6nemsAh2qUgGijKAoAjIfm"
-      },
-      "artists": [
-        {
-          "name": "AYMZ",
-          "url": "https://open.spotify.com/artist/7yq3RsSN2IXYprxdcxmp7z"
-        }
-      ],
-      "duration_ms": 179922,
-      "name": "Allerletzter Tag",
-      "url": "https://open.spotify.com/track/0ScRAPcV190fYvLeSAIVZw"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -535,6 +519,22 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
+        "name": "Allerletzter Tag",
+        "url": "https://open.spotify.com/album/6nemsAh2qUgGijKAoAjIfm"
+      },
+      "artists": [
+        {
+          "name": "AYMZ",
+          "url": "https://open.spotify.com/artist/7yq3RsSN2IXYprxdcxmp7z"
+        }
+      ],
+      "duration_ms": 179922,
+      "name": "Allerletzter Tag",
+      "url": "https://open.spotify.com/track/0ScRAPcV190fYvLeSAIVZw"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
         "name": "Rave the Planet: Supporter Series, Vol. 018",
         "url": "https://open.spotify.com/album/6aPrAqD2WDtO24SwxTZ0Lx"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Nina Hagen sings Larry Norman",
-        "url": "https://open.spotify.com/album/685AcFqtZ1ubHhdeoKQYf0"
-      },
-      "artists": [
-        {
-          "name": "Nina Hagen",
-          "url": "https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj"
-        }
-      ],
-      "duration_ms": 177402,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/078TILT7Zgz4S0KMr03VLf"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Bleiherz",
         "url": "https://open.spotify.com/album/6f56gH8GnzCxy8iTPGOVxo"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 162750,
       "name": "Bleiherz",
       "url": "https://open.spotify.com/track/7oz4i3wwMofltIsy1D8rc8"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Nina Hagen sings Larry Norman",
+        "url": "https://open.spotify.com/album/685AcFqtZ1ubHhdeoKQYf0"
+      },
+      "artists": [
+        {
+          "name": "Nina Hagen",
+          "url": "https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj"
+        }
+      ],
+      "duration_ms": 177402,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/078TILT7Zgz4S0KMr03VLf"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/5oTSOIBTT3JllUgEWXezoB"
-      },
-      "artists": [
-        {
-          "name": "JISKA",
-          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/3lVMgj0NUTy5KjFPZk8eyv"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/1owrZgF2mos1oWCpsnA3Ly"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 140952,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1e1snBkwEaoXaW6LYt8lSE"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/5oTSOIBTT3JllUgEWXezoB"
+      },
+      "artists": [
+        {
+          "name": "JISKA",
+          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/3lVMgj0NUTy5KjFPZk8eyv"
     },
     {
       "added_at": "2024-01-09 23:00:00",

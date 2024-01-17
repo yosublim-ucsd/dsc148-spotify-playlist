@@ -1,12 +1,12 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos. \u00a1Felices fiestas!",
-  "num_followers": 2070,
+  "num_followers": 2072,
   "original_name": "Fiesta Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODM3ODY1MGY0MDMyZDYyOTEwOTI1NjkzM2Q3YjFlZDI1YjlmMTU5",
+  "snapshot_id": "MCw0YmJkMjdkZDhmNjEyZDNjNGFiOGUxZWUzMWIyM2JhNDUyMGEyN2I5",
   "tracks": [
     {
       "added_at": "2023-12-15 19:49:30",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "La Tierra del Olvido",
-        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Pa' Mayte",
-      "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Victor Manuelle (3 CD Box Set)",
         "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 304640,
       "name": "Api\u00e1date de Mi",
       "url": "https://open.spotify.com/track/3SHvRyQDsmumq48SF7jtVk"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "La Tierra del Olvido",
+        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Pa' Mayte",
+      "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Siente El Amor",
+        "url": "https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "Es Mentiroso",
+      "url": "https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "Billos Caracas Boys Fin de A\u00f1o",
         "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 171990,
       "name": "A\u00f1o Nuevo",
       "url": "https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Siente El Amor",
-        "url": "https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "Es Mentiroso",
-      "url": "https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "La Maquina del Sabor '88",
-        "url": "https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL"
-      },
-      "artists": [
-        {
-          "name": "Gran Coquivacoa",
-          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Gaita Onomatop\u00e9yica",
-      "url": "https://open.spotify.com/track/2BZUWYA2NcvrtWdStRn1KX"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Mudanza y Acarreo",
         "url": "https://open.spotify.com/album/3OrV9YokDdQgnHN0wLcSJL"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 211453,
       "name": "Ella Dice",
       "url": "https://open.spotify.com/track/4DBXjmV7W7igXSDwvlfH4C"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "La Maquina del Sabor '88",
+        "url": "https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL"
+      },
+      "artists": [
+        {
+          "name": "Gran Coquivacoa",
+          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Gaita Onomatop\u00e9yica",
+      "url": "https://open.spotify.com/track/2BZUWYA2NcvrtWdStRn1KX"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Y Es F\u00e1cil!",
-        "url": "https://open.spotify.com/album/0hTAsUTkGytIz0jozjge3A"
+        "name": "32 Ca\u00f1onazos",
+        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
       "artists": [
         {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 279280,
-      "name": "Fin de Semana - Version Navide\u00f1a",
-      "url": "https://open.spotify.com/track/4he2N9NCRkMdzCcFyADnp7"
+      "duration_ms": 378373,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "32 Ca\u00f1onazos",
-        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
+        "name": "Y Es F\u00e1cil!",
+        "url": "https://open.spotify.com/album/0hTAsUTkGytIz0jozjge3A"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 378373,
-      "name": "Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8"
+      "duration_ms": 279280,
+      "name": "Fin de Semana - Version Navide\u00f1a",
+      "url": "https://open.spotify.com/track/4he2N9NCRkMdzCcFyADnp7"
     },
     {
       "added_at": "2023-12-15 19:49:30",

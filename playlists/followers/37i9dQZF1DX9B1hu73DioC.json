@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 818795,
+  "2024-01-17": 819050,
   "date_first_scraped": "2020-10-05",
   "description": "Vibey indie tracks for just hanging out.",
   "name": "Indie Chillout",
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 281333,
       "name": "Astral Plane",
       "url": "https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc"
@@ -4529,7 +4529,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 236106,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/6fCQ0b4fGyyTqHwpHqxRll"

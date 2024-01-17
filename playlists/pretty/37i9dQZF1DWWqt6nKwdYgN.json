@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Los Bendecidos en portada. ",
-  "num_followers": 12589,
+  "num_followers": 12596,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjlhYzY4MjEyZTk0OGQ2NTU3OWJlMDVmMDc0MTBjNTUwMTgzMzc3",
+  "snapshot_id": "MCw0YTU1N2VjYmJiY2NmNjgzZWI1NzIxZGM1ODE0NWFkNjIxYTM0NTE4",
   "tracks": [
     {
       "added_at": "2024-01-12 06:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
+        "name": "Cuando Ya Est\u00e9 Muerto",
+        "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Cuando Ya Est\u00e9 Muerto",
+      "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
         "name": "1000 KM",
         "url": "https://open.spotify.com/album/20q9WdJWeO6p1FJF0a5hmO"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 157241,
       "name": "1000 KM",
       "url": "https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "Cuando Ya Est\u00e9 Muerto",
-        "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Cuando Ya Est\u00e9 Muerto",
-      "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
+        "name": "Mexicanos Bravos",
+        "url": "https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        },
+        {
+          "name": "Someone Sm1",
+          "url": "https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ"
+        }
+      ],
+      "duration_ms": 257491,
+      "name": "Corridos Prohibidos",
+      "url": "https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
         "name": "Pr\u00f3ximo Diciembre",
         "url": "https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 224000,
       "name": "Pr\u00f3ximo Diciembre",
       "url": "https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "Mexicanos Bravos",
-        "url": "https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        },
-        {
-          "name": "Someone Sm1",
-          "url": "https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ"
-        }
-      ],
-      "duration_ms": 257491,
-      "name": "Corridos Prohibidos",
-      "url": "https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "El Callej\u00f3n",
-        "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
-      },
-      "artists": [
-        {
-          "name": "Jorge Carmona",
-          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
-        },
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        }
-      ],
-      "duration_ms": 256049,
-      "name": "El Callej\u00f3n",
-      "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
         "name": "Ajena",
         "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
       },
@@ -1475,22 +1455,6 @@
       "duration_ms": 160000,
       "name": "Ajena",
       "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "El Horror",
-        "url": "https://open.spotify.com/album/678X5ALismYG9S35w1dFbC"
-      },
-      "artists": [
-        {
-          "name": "Tino El Ping\u00fcino",
-          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
-        }
-      ],
-      "duration_ms": 375360,
-      "name": "Estrobos",
-      "url": "https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1515,22 +1479,38 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "\u00edcaro",
-        "url": "https://open.spotify.com/album/1vtrBs348NQgNBIJG2cUFH"
+        "name": "El Horror",
+        "url": "https://open.spotify.com/album/678X5ALismYG9S35w1dFbC"
       },
       "artists": [
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
         }
       ],
-      "duration_ms": 169019,
-      "name": "\u00edcaro",
-      "url": "https://open.spotify.com/track/68BnzdIbvcoW11I0EhVvwb"
+      "duration_ms": 375360,
+      "name": "Estrobos",
+      "url": "https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "El Callej\u00f3n",
+        "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Carmona",
+          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
+        },
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 256049,
+      "name": "El Callej\u00f3n",
+      "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1547,6 +1527,26 @@
       "duration_ms": 371367,
       "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
       "url": "https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "\u00edcaro",
+        "url": "https://open.spotify.com/album/1vtrBs348NQgNBIJG2cUFH"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 169019,
+      "name": "\u00edcaro",
+      "url": "https://open.spotify.com/track/68BnzdIbvcoW11I0EhVvwb"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "VICE CITY",
-        "url": "https://open.spotify.com/album/6viR5WVsPcynrX5HzbMnCM"
-      },
-      "artists": [
-        {
-          "name": "Crazy Point",
-          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
-        }
-      ],
-      "duration_ms": 208968,
-      "name": "VICE CITY",
-      "url": "https://open.spotify.com/track/1yGmlc8rsoRrKd9CrbgBRF"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
         "name": "Loquer\u00f3n",
         "url": "https://open.spotify.com/album/5Atz4PxOtr8DWhU9hIO44E"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 168760,
       "name": "Loquer\u00f3n",
       "url": "https://open.spotify.com/track/1fNX6g5vWctNJ0PSxg0yyz"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "VICE CITY",
+        "url": "https://open.spotify.com/album/6viR5WVsPcynrX5HzbMnCM"
+      },
+      "artists": [
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        }
+      ],
+      "duration_ms": 208968,
+      "name": "VICE CITY",
+      "url": "https://open.spotify.com/track/1yGmlc8rsoRrKd9CrbgBRF"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
+        "name": "B\u00e9same Lento",
+        "url": "https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 271714,
+      "name": "B\u00e9same Lento",
+      "url": "https://open.spotify.com/track/702HgdUa5QILPolhhVoktM"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
         "name": "Arte",
         "url": "https://open.spotify.com/album/5SsyubVb6ry1L845ARB5x2"
       },
@@ -1743,18 +1759,26 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "B\u00e9same Lento",
-        "url": "https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF"
+        "name": "Enrolemos uno",
+        "url": "https://open.spotify.com/album/5gaExTOw8xJLQdZkDwEqRE"
       },
       "artists": [
         {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+          "name": "Kaeve",
+          "url": "https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Chenguedengue",
+          "url": "https://open.spotify.com/artist/2BbaWbkYiUZw3MRpiZYFdi"
         }
       ],
-      "duration_ms": 271714,
-      "name": "B\u00e9same Lento",
-      "url": "https://open.spotify.com/track/702HgdUa5QILPolhhVoktM"
+      "duration_ms": 186495,
+      "name": "Enrolemos uno",
+      "url": "https://open.spotify.com/track/51SfvQm8QcPAyW4yBfPv1L"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1787,30 +1811,6 @@
       "duration_ms": 219512,
       "name": "BARRA",
       "url": "https://open.spotify.com/track/5YsPLqZshBiKDzhOotNPqh"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "Enrolemos uno",
-        "url": "https://open.spotify.com/album/5gaExTOw8xJLQdZkDwEqRE"
-      },
-      "artists": [
-        {
-          "name": "Kaeve",
-          "url": "https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        },
-        {
-          "name": "Chenguedengue",
-          "url": "https://open.spotify.com/artist/2BbaWbkYiUZw3MRpiZYFdi"
-        }
-      ],
-      "duration_ms": 186495,
-      "name": "Enrolemos uno",
-      "url": "https://open.spotify.com/track/51SfvQm8QcPAyW4yBfPv1L"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1851,38 +1851,6 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
-        "name": "Peleando para Mantenerlo",
-        "url": "https://open.spotify.com/album/3oLkCmmZpqjQVj2TrTQ18P"
-      },
-      "artists": [
-        {
-          "name": "Solo Cadaver",
-          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
-        }
-      ],
-      "duration_ms": 252700,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2XzNjpgWCx4Jd7DgfXOanj"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "Cumbia Guanajuato",
-        "url": "https://open.spotify.com/album/2OfS4FQONfrjASRTVixgok"
-      },
-      "artists": [
-        {
-          "name": "Chato 473",
-          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
-        }
-      ],
-      "duration_ms": 339692,
-      "name": "Cumbia Guanajuato",
-      "url": "https://open.spotify.com/track/2yfBHIWg2GWqQvUhR9MW1U"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
         "name": "BAJO PRESI\u00d3N",
         "url": "https://open.spotify.com/album/7pqOiwVjdbibxeQnzAMC0v"
       },
@@ -1895,6 +1863,22 @@
       "duration_ms": 130289,
       "name": "BAJO PRESI\u00d3N",
       "url": "https://open.spotify.com/track/1HYBEi7PYzjEg7JSm0xzbQ"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "Peleando para Mantenerlo",
+        "url": "https://open.spotify.com/album/3oLkCmmZpqjQVj2TrTQ18P"
+      },
+      "artists": [
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        }
+      ],
+      "duration_ms": 252700,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2XzNjpgWCx4Jd7DgfXOanj"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -1939,6 +1923,22 @@
       "duration_ms": 171221,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/3wpukX8pJ6wNLECrQlhUq5"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
+        "name": "Cumbia Guanajuato",
+        "url": "https://open.spotify.com/album/2OfS4FQONfrjASRTVixgok"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        }
+      ],
+      "duration_ms": 339692,
+      "name": "Cumbia Guanajuato",
+      "url": "https://open.spotify.com/track/2yfBHIWg2GWqQvUhR9MW1U"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -2067,6 +2067,26 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
+        "name": "En Abril",
+        "url": "https://open.spotify.com/album/4oyJfVyRMFrXc6DPFlDoiB"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "Gayo Valdez",
+          "url": "https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "En Abril",
+      "url": "https://open.spotify.com/track/1nyP1aYcgxrpCPXg09DP0W"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
         "name": "Serenata En La Monta\u00f1a (feat. DeeJohend)",
         "url": "https://open.spotify.com/album/7akWMnlEc6ESIahULbAx5M"
       },
@@ -2091,26 +2111,6 @@
       "duration_ms": 187150,
       "name": "Serenata En La Monta\u00f1a (feat. DeeJohend)",
       "url": "https://open.spotify.com/track/4vvg7VZChBIm5D2yBAmaeI"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "En Abril",
-        "url": "https://open.spotify.com/album/4oyJfVyRMFrXc6DPFlDoiB"
-      },
-      "artists": [
-        {
-          "name": "La Potter",
-          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
-        },
-        {
-          "name": "Gayo Valdez",
-          "url": "https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "En Abril",
-      "url": "https://open.spotify.com/track/1nyP1aYcgxrpCPXg09DP0W"
     },
     {
       "added_at": "2024-01-12 06:00:00",

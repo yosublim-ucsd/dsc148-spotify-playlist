@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 493714,
+  "2024-01-17": 493684,
   "date_first_scraped": "2023-10-11",
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
   "name": "This Is Lizzo",
@@ -145,7 +145,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 203422,
       "name": "Batches & Cookies",
       "url": "https://open.spotify.com/track/1HgwseKCKrBgL7By8ZcU9M"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 157759,
       "name": "Lizzie Borden",
       "url": "https://open.spotify.com/track/0TUxk2H9jyST2rpaF0OoHr"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 172832,
       "name": "Rumors (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"

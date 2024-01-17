@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Joey B
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,887 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,933 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Fine](https://open.spotify.com/track/5NcUF8EKTsWbhhRkhCAiR9) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Fine](https://open.spotify.com/album/2xS0FKkPCvYQuHW2lel1lp) | 2:41 |
 | 80 | [JUST LIKE DETO](https://open.spotify.com/track/5vxETGyeKhT0atQECpWcMt) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [JUST LIKE DETO](https://open.spotify.com/album/1aLAoQ1BZMQMIh2IxVaHxL) | 2:11 |
 
-Snapshot ID: `MCw3YzFkMzIyZTQ1N2Y5NDNhYmUxNTc4ZmMyZTViYzg0ZWU2ZmE2Zjc4`
+Snapshot ID: `MCw0ZjUzZmI0Zjg2N2JiODk4YzgzYTk0ZDk2YmVkN2M3ZGU2Yzc3NjQx`

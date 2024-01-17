@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 326701,
+  "num_followers": 326813,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDgzNzQwZGVkMjBjYjNhYzBjOTE3NzJjZTRiZGQ2NmMxNGI2ODNk",
+  "snapshot_id": "MCxmZDliZTE2NDc4MTIyYzViNWNmZjU4YTlmNzhlMzY3NzVkNjhiZDMw",
   "tracks": [
     {
       "added_at": "2024-01-12 13:12:02",
@@ -87,18 +87,22 @@
     {
       "added_at": "2024-01-12 13:12:02",
       "album": {
-        "name": "Kosmos",
-        "url": "https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP"
+        "name": "Will You Be My Yellow?",
+        "url": "https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p"
       },
       "artists": [
         {
-          "name": "J Lloyd",
-          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 61280,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8"
+      "duration_ms": 173349,
+      "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
     },
     {
       "added_at": "2024-01-12 13:12:02",
@@ -179,7 +183,7 @@
     {
       "added_at": "2024-01-12 13:12:02",
       "album": {
-        "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
+        "name": "Pain & Pleasure (feat. F\u00e9d\u00e9ration Internationale du Bruit)",
         "url": "https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo"
       },
       "artists": [
@@ -205,7 +209,7 @@
         }
       ],
       "duration_ms": 243205,
-      "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
+      "name": "Pain & Pleasure (feat. F\u00e9d\u00e9ration Internationale du Bruit)",
       "url": "https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk"
     },
     {
@@ -403,22 +407,18 @@
     {
       "added_at": "2024-01-12 13:12:02",
       "album": {
-        "name": "Will You Be My Yellow?",
-        "url": "https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p"
+        "name": "Kosmos",
+        "url": "https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
         }
       ],
-      "duration_ms": 173349,
-      "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
+      "duration_ms": 61280,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8"
     },
     {
       "added_at": "2024-01-12 13:12:02",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-01-12 13:12:02",
       "album": {
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 216793,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
+    },
+    {
+      "added_at": "2024-01-12 13:12:02",
+      "album": {
         "name": "ENERGY (Special Edition)",
         "url": "https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 230932,
       "name": "Watch Your Step (Harvey Sutherland Remix)",
       "url": "https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj"
-    },
-    {
-      "added_at": "2024-01-12 13:12:02",
-      "album": {
-        "name": "Be Patient",
-        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 216793,
-      "name": "Be Patient",
-      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
     },
     {
       "added_at": "2024-01-12 13:12:02",
@@ -967,6 +967,26 @@
     {
       "added_at": "2024-01-12 13:12:02",
       "album": {
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/5d272VxHzFg8In4h3OzbGQ"
+      },
+      "artists": [
+        {
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/1duCNrSCe2xVNYAT5H7G76"
+    },
+    {
+      "added_at": "2024-01-12 13:12:02",
+      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -1019,22 +1039,18 @@
     {
       "added_at": "2024-01-12 13:12:02",
       "album": {
-        "name": "We Are",
-        "url": "https://open.spotify.com/album/5d272VxHzFg8In4h3OzbGQ"
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
       },
       "artists": [
         {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Afronaut Zu",
-          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
         }
       ],
-      "duration_ms": 255500,
-      "name": "We Are",
-      "url": "https://open.spotify.com/track/1duCNrSCe2xVNYAT5H7G76"
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     },
     {
       "added_at": "2024-01-12 13:12:02",
@@ -1079,22 +1095,6 @@
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
-    },
-    {
-      "added_at": "2024-01-12 13:12:02",
-      "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 242637,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     },
     {
       "added_at": "2024-01-12 13:12:02",

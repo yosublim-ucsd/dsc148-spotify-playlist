@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,793 songs - 4 day 0 hr 10 min
+1,794 songs - 4 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -915,7 +915,7 @@
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-11-10 |
 | [Make\-Up \(feat\. DAVI, Cledos, william\)](https://open.spotify.com/track/2iUi4TmF8JqsZEh0IuWYQ0) | [vitunleija](https://open.spotify.com/artist/0nV8YXTHj3pP05WTGNBF5Z), [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Make\-Up \(feat\. DAVI, Cledos, william\)](https://open.spotify.com/album/1JcHDC5Xa7eSsgDyMrpBV9) | 3:07 | 2022-10-15 | 2022-11-20 |
 | [Makso Mitä Makso](https://open.spotify.com/track/2G1gCuldjtW9xcN1n1yenB) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Makso Mitä Makso](https://open.spotify.com/album/0S8l92CyIZbgGzvQL5QpbK) | 2:45 | 2022-09-10 | 2023-04-16 |
-| [Makso Mitä Makso](https://open.spotify.com/track/2DUORZ1FH4CEzLqXaCQJGq) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kävi Miten Kävi](https://open.spotify.com/album/7Fz2E3SM0ikOMkzKCbeZO0) | 2:46 | 2023-06-03 |  |
+| [Makso Mitä Makso](https://open.spotify.com/track/2DUORZ1FH4CEzLqXaCQJGq) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kävi Miten Kävi](https://open.spotify.com/album/7Fz2E3SM0ikOMkzKCbeZO0) | 2:46 | 2023-06-03 | 2024-01-17 |
 | [Malja](https://open.spotify.com/track/0D7x0ECQWc6bD8VrMf7Ab4) | [Rasmus Gozzi Finland](https://open.spotify.com/artist/36S78QfuAwYb4G8WQOJvDG), [Levi\-Äijä](https://open.spotify.com/artist/2VdJHalHkbRwjT7zhdUZ0q) | [Malja](https://open.spotify.com/album/5Fk8BtxPtmzPbZBBRBXXbN) | 2:42 | 2023-12-11 | 2023-12-23 |
 | [Mama sano](https://open.spotify.com/track/3TIUyJEDQStx0ZweySjCC2) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Mama sano](https://open.spotify.com/album/3zfAYcqEcUxolb0CDRgvx0) | 2:14 | 2023-06-17 | 2023-07-16 |
 | [Mama ŠČ!](https://open.spotify.com/track/7hcPebUUvJDRH6BhjZ5xEZ) | [Let 3](https://open.spotify.com/artist/4gs82a9ZgG2faut653OMRD) | [Mama ŠČ!](https://open.spotify.com/album/2Z7f4V8Z7CcPPtPKXW6wbc) | 2:34 | 2023-05-15 | 2023-05-21 |
@@ -1186,6 +1186,7 @@
 | [Parisuhdehautausmaa](https://open.spotify.com/track/3pQzhjQKES7qGfAW1ROT4a) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Parisuhdehautausmaa](https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE) | 4:03 | 2022-03-12 | 2022-03-21 |
 | [PARTYBOY](https://open.spotify.com/track/2ZJ50ZqUlqFnva0hCvmWkh) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [PARTYBOY](https://open.spotify.com/album/0IFu8OkgmQOVWM0yXu2X0h) | 2:41 | 2023-05-06 | 2023-09-03 |
 | [PAS2](https://open.spotify.com/track/2JBlPO294sgv2CfFgaCWbZ) | [Arttu Lindeman](https://open.spotify.com/artist/0AK0qOs8ykb6CsaYks1xwK) | [Anomalia \- EP](https://open.spotify.com/album/4ezFkUO9cCiaIHlhb3seDi) | 2:32 | 2022-09-24 | 2022-09-26 |
+| [Paskana](https://open.spotify.com/track/2fLgdHBISoiNXuvXW4LjnM) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Paskana](https://open.spotify.com/album/47i8dXMDLY77ZGPNplfeup) | 3:04 | 2024-01-16 |  |
 | [PATO](https://open.spotify.com/track/1JLS2KpG4G5UXTV2WZznEf) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [RÄPPÄRI](https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq) | 2:54 | 2023-11-04 | 2023-11-12 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-06-27 |
 | [Pelasta mut](https://open.spotify.com/track/6SqhmtX7NbQEHZUx1k3HWB) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [BOY WONDER](https://open.spotify.com/album/17NNoDhQk1jYRWeVTuoPSB) | 3:39 | 2021-10-03 | 2021-10-04 |

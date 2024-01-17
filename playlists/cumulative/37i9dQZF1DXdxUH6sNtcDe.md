@@ -2,7 +2,7 @@
 
 ### [2000s Country](https://open.spotify.com/playlist/37i9dQZF1DXdxUH6sNtcDe)
 
-> We're celebrating the 20th anniversary of Sara Evan's hit album "Restless" on 2000s Country!
+> A decade full of 00s country hits! Cover: Rascal Flatts
 
 171 songs - 11 hr 7 min
 

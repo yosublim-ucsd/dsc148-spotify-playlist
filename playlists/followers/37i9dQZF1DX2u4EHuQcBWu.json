@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 186460,
+  "2024-01-17": 186495,
   "date_first_scraped": "2022-06-30",
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
   "name": "Himnos de Resistencia Latinoamericana",
@@ -2651,7 +2651,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 183640,
       "name": "La Maldici\u00f3n de Mi Pa\u00eds",
       "url": "https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U"
@@ -4343,7 +4343,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 301560,
       "name": "Polyrics",
       "url": "https://open.spotify.com/track/6XKoyd0TlK3i0aS7CEiGVX"
@@ -4689,6 +4689,24 @@
       "duration_ms": 310146,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/11aK3cqZ8oPt6flLqkQu77"
+    },
+    {
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/4N7aFyo10qOsLA6hV2b4RL"
+      },
+      "artists": [
+        {
+          "name": "Fiskales Ad-Hok",
+          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128573,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/5vHv37nWrQKPVlzsL0R4Zp"
     },
     {
       "album": {
@@ -5145,7 +5163,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"

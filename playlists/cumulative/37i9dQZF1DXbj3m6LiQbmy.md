@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Giolì & Assia in cover! ✨
 
-334 songs - 19 hr 51 min
+335 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [How I Became A House](https://open.spotify.com/track/2J2VP9r6Tq8yPuxEVd4UJy) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH) | [Loser With A Strategy](https://open.spotify.com/album/3ja6JyJDSg2ucusI9kFUbG) | 2:59 | 2022-04-01 |  |
 | [I Know Your Present](https://open.spotify.com/track/3CD3Ymds6yWnVHBNDYfZTA) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/3HWZFc7EIvG09YxKQivd1G) | 3:49 | 2023-05-09 | 2023-05-11 |
 | [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 | 2023-05-09 |  |
+| [I Nostri Fiori](https://open.spotify.com/track/3aMcfNmm7WR8V25FpmGXtn) | [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [I Nostri Fiori](https://open.spotify.com/album/2fUzYSRyRLva9J8T5PRMxa) | 3:26 | 2024-01-16 |  |
 | [I'm Not Defeated \- Cassius Remix](https://open.spotify.com/track/7iJZ0ADQhYIyk6c63mAzMY) | [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor), [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [I'm Not Defeated \(Cassius Remix\)](https://open.spotify.com/album/5QiCs86yEbzpc0ZrkbTMKY) | 4:03 | 2021-11-19 | 2022-07-27 |
 | [Il mondo non cambia mai \- Club Remix](https://open.spotify.com/track/27hWThmcTksfVOouhhgTXV) | [H.E.R.](https://open.spotify.com/artist/4qO38FsAm2dNLh0LDswJI7) | [Il mondo non cambia mai \(Club Remix\)](https://open.spotify.com/album/4YFZFZnm72tpKHIWg7WQ7e) | 4:42 | 2022-06-26 | 2022-07-29 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-06-12 | 2022-06-27 |

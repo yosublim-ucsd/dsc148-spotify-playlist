@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Gerson King Combo
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,923 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,924 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Soul Brasileira](https://open.spotify.com/track/6dJ0wn1N0JtFdMlu5VbXjJ) | [Denise Diniz](https://open.spotify.com/artist/6MHeydE3MqKbdCVYavZxCR) | [Deusa Música](https://open.spotify.com/album/10SrMOCudH13pz9cSK3GnF) | 3:40 |
 | 75 | [Mr\. Funky samba](https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:39 |
 
-Snapshot ID: `MCxkMDA3NTcyZTFiZTg5MGUzOTc4OWUyOTBlMWVhMzQ0Nzk4MDgwNzlk`
+Snapshot ID: `MCw3NTUzZjRlZTAwOTExNTEzZjE2YzY5ZDlhZmQ5NDE0MWE2ZTM0MDY3`

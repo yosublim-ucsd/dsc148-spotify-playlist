@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Ruth de las Plantas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,474 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,429 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Santa Monica](https://open.spotify.com/track/13AjjEYvUqoSeBbox4oLuj) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Santa Monica](https://open.spotify.com/album/6orVWBjmJRZ5LOAuxN2wpt) | 1:56 |
 | 50 | [La Sequía](https://open.spotify.com/track/33aR7z6sIreGTCtrPIZBbO) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [La Sequía](https://open.spotify.com/album/5XS4ypHAJYnSH3KPBOHJoS) | 2:52 |
 
-Snapshot ID: `MCxhZDdiOTY4NDkwN2M5NjUxNWE0ODc1NDgzODJiZWNmNWFkMTQyZTE4`
+Snapshot ID: `MCw2NmY0ZjAwMDcyY2Q5M2NlYWE0ZjQ5NWU4M2FlOGE4NzI5NzY1NjEy`

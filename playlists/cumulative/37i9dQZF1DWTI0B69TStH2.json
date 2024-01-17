@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:0o67bNa457im54EQIpinH2\">Julia Mre\u0144ca</a> | Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:1alcdAcSxQfrx5GmgWAqGk\">RAF</a> | Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -2029,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "Bez",
+        "url": "https://open.spotify.com/album/75Th5JkuvyQRnw0cHS2bNe"
+      },
+      "artists": [
+        {
+          "name": "Klaudia Borczyk",
+          "url": "https://open.spotify.com/artist/2Jw1ZJ2kRO9sV7VQLwps8x"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186842,
+      "name": "Bez",
+      "url": "https://open.spotify.com/track/7t9Q6fZRy5SV7ouPLH0pQ6"
+    },
+    {
+      "album": {
         "name": "Bez Biegu",
         "url": "https://open.spotify.com/album/335xvsb1myV77k0mSq6tGt"
       },
@@ -2748,6 +2766,28 @@
       "duration_ms": 181818,
       "name": "Boys Town",
       "url": "https://open.spotify.com/track/29dSoX7IdiuLKebtMnQF34"
+    },
+    {
+      "album": {
+        "name": "Boys Will Be Boys (feat. Aljas)",
+        "url": "https://open.spotify.com/album/2l0AQovw3YIB9hcWEiI6qX"
+      },
+      "artists": [
+        {
+          "name": "Wrona",
+          "url": "https://open.spotify.com/artist/4BGx0SJF0EyZw3Es7vCBs7"
+        },
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137150,
+      "name": "Boys Will Be Boys (feat. Aljas)",
+      "url": "https://open.spotify.com/track/5U23VXjimba0QIGa4xgXKI"
     },
     {
       "album": {
@@ -4824,6 +4864,24 @@
     {
       "album": {
         "name": "Czas",
+        "url": "https://open.spotify.com/album/3JTTvv975Q0vKRQIYKU5wk"
+      },
+      "artists": [
+        {
+          "name": "Libra",
+          "url": "https://open.spotify.com/artist/2ok0asnoSPESoUEXkmG7Bl"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226497,
+      "name": "Czas",
+      "url": "https://open.spotify.com/track/4ETOyTThqo4TtSJXi4BbEV"
+    },
+    {
+      "album": {
+        "name": "Czas",
         "url": "https://open.spotify.com/album/4D2Sr1gi9xg2biCaUqxCMr"
       },
       "artists": [
@@ -5362,6 +5420,28 @@
       "duration_ms": 143221,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/2rulTweABVnjxOUh92qnyM"
+    },
+    {
+      "album": {
+        "name": "Daj mi zje\u015b\u0107",
+        "url": "https://open.spotify.com/album/3N8DLbllwyElc2JVVbKOqP"
+      },
+      "artists": [
+        {
+          "name": "Icee",
+          "url": "https://open.spotify.com/artist/4z3gbt5shK6neqcwBjwti8"
+        },
+        {
+          "name": "samunowak",
+          "url": "https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104117,
+      "name": "Daj mi zje\u015b\u0107",
+      "url": "https://open.spotify.com/track/002Zfzv4c3h7YC5X3OPrKw"
     },
     {
       "album": {
@@ -8109,6 +8189,24 @@
     },
     {
       "album": {
+        "name": "Gdybym Chcia\u0142",
+        "url": "https://open.spotify.com/album/5tvlmYzhMoueYC2aiTtwg6"
+      },
+      "artists": [
+        {
+          "name": "Lucas Flint",
+          "url": "https://open.spotify.com/artist/6hDQK58Mp46BJ8mCVR8ToK"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "Gdybym Chcia\u0142",
+      "url": "https://open.spotify.com/track/50Tml0A7C8mqYacR3KJFhp"
+    },
+    {
+      "album": {
         "name": "Gdybym Spotka\u0142 Ciebie",
         "url": "https://open.spotify.com/album/0Ck0RQh2gZffl169OW4Fsw"
       },
@@ -9742,6 +9840,24 @@
       "duration_ms": 184423,
       "name": "Insane (Oh When I Run)",
       "url": "https://open.spotify.com/track/7rC3tj4fcml8iTYQ5z1z8k"
+    },
+    {
+      "album": {
+        "name": "INSTA",
+        "url": "https://open.spotify.com/album/6c7x93my3X3ttDzSAJC3am"
+      },
+      "artists": [
+        {
+          "name": "Karolina Prasa\u0142",
+          "url": "https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "INSTA",
+      "url": "https://open.spotify.com/track/1BDrAiMqPSaYFrnvByFGR0"
     },
     {
       "album": {
@@ -13022,6 +13138,24 @@
       "duration_ms": 221012,
       "name": "Lato w mie\u015bcie",
       "url": "https://open.spotify.com/track/0GQol4x8WQXPh5kCY1V0rr"
+    },
+    {
+      "album": {
+        "name": "Lawa",
+        "url": "https://open.spotify.com/album/4Pxh7HyyWYbc3PdLtKgRzW"
+      },
+      "artists": [
+        {
+          "name": "Mania G",
+          "url": "https://open.spotify.com/artist/7nlOXd17kHMWiMO3ownSc4"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163909,
+      "name": "Lawa",
+      "url": "https://open.spotify.com/track/3bL5gVI19x7TU6XTeENClD"
     },
     {
       "album": {
@@ -16615,6 +16749,24 @@
     },
     {
       "album": {
+        "name": "Hanxiety",
+        "url": "https://open.spotify.com/album/1WHQLuxK60nolVCx160VKx"
+      },
+      "artists": [
+        {
+          "name": "Hanxiety",
+          "url": "https://open.spotify.com/artist/4iz2HXr2cFDyYvemCVQAVn"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134960,
+      "name": "Nie chodz\u0119 do wr\u00f3\u017cek",
+      "url": "https://open.spotify.com/track/2vkhAOgUgZneWEPkzyc3Vr"
+    },
+    {
+      "album": {
         "name": "Nie Dokuczaj",
         "url": "https://open.spotify.com/album/5upypJfgNopCUqvzolwytL"
       },
@@ -18135,6 +18287,24 @@
     },
     {
       "album": {
+        "name": "Night City",
+        "url": "https://open.spotify.com/album/4PfOvN9AyaWatq7R2VwUEJ"
+      },
+      "artists": [
+        {
+          "name": "Beat Wise",
+          "url": "https://open.spotify.com/artist/60tV1GeDwjotc4rM2nNbOV"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "Night City",
+      "url": "https://open.spotify.com/track/5um5VPulUznTJIKhzj99CO"
+    },
+    {
+      "album": {
         "name": "Night Life",
         "url": "https://open.spotify.com/album/3QkwWmqx2SeHItInShY71O"
       },
@@ -18770,6 +18940,24 @@
       "duration_ms": 183424,
       "name": "Nudakres",
       "url": "https://open.spotify.com/track/18pjKK8QeqeyJGbAPIXiox"
+    },
+    {
+      "album": {
+        "name": "NYGJUT",
+        "url": "https://open.spotify.com/album/4ZWZTr83OgAlmNgJmkEfi3"
+      },
+      "artists": [
+        {
+          "name": "Bedzik",
+          "url": "https://open.spotify.com/artist/2rLulWQ79BASTjvtgbggmT"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132102,
+      "name": "NYGJUT",
+      "url": "https://open.spotify.com/track/0rUQorqikNHLIObFtUx57u"
     },
     {
       "album": {
@@ -21170,6 +21358,24 @@
       "duration_ms": 245769,
       "name": "Plan",
       "url": "https://open.spotify.com/track/4fIFK3J4VGT8avQX6wIFsk"
+    },
+    {
+      "album": {
+        "name": "Plan",
+        "url": "https://open.spotify.com/album/2zylUPJKG4TPgetzq2Gd8q"
+      },
+      "artists": [
+        {
+          "name": "Kolumbia",
+          "url": "https://open.spotify.com/artist/2pErY8PZ1DoourougRvWWy"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213348,
+      "name": "Plan",
+      "url": "https://open.spotify.com/track/4icmyQgu2ZYN4ojg8kYcD9"
     },
     {
       "album": {
@@ -23597,6 +23803,24 @@
     },
     {
       "album": {
+        "name": "romantyzuj\u0119 przesz\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/20IlKsdw4YrL4eMXqnZj9W"
+      },
+      "artists": [
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188697,
+      "name": "romantyzuj\u0119 przesz\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/70LuJ7rdBQQlDBzzfIcC2f"
+    },
+    {
+      "album": {
         "name": "Motyli Sen",
         "url": "https://open.spotify.com/album/4jcBjVO6s32qkzmBIhvEhC"
       },
@@ -24808,6 +25032,24 @@
       "duration_ms": 225000,
       "name": "Silvermane",
       "url": "https://open.spotify.com/track/27GiN6ex5dCjizecQaofL3"
+    },
+    {
+      "album": {
+        "name": "Silverwing Outpost",
+        "url": "https://open.spotify.com/album/6ixkD5Mcwsk8EW9nuhQPbx"
+      },
+      "artists": [
+        {
+          "name": "Polish Ski Jumping",
+          "url": "https://open.spotify.com/artist/4jUgxKqlweTG4tSZcjzM1f"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222782,
+      "name": "Silverwing Outpost",
+      "url": "https://open.spotify.com/track/0Y01plMvKYbxeFIS0BAapW"
     },
     {
       "album": {
@@ -26140,6 +26382,24 @@
       "duration_ms": 227538,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/4eT37l18gQzl71JNNMog8H"
+    },
+    {
+      "album": {
+        "name": "STOP",
+        "url": "https://open.spotify.com/album/6J9I9OcNDTayLnhSXM2v19"
+      },
+      "artists": [
+        {
+          "name": "adi",
+          "url": "https://open.spotify.com/artist/0jt2f5aZJ4HskYRg6mYMPz"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "STOP",
+      "url": "https://open.spotify.com/track/14nLuAwITW0K3fR0XUENpx"
     },
     {
       "album": {
@@ -34302,6 +34562,24 @@
       "duration_ms": 221680,
       "name": "\u017babka",
       "url": "https://open.spotify.com/track/0mm2T12ahiA9VadDLPMKyU"
+    },
+    {
+      "album": {
+        "name": "\u017bar",
+        "url": "https://open.spotify.com/album/3RyEZJcjwV7khau4HeacxU"
+      },
+      "artists": [
+        {
+          "name": "Cz\u0142owiek",
+          "url": "https://open.spotify.com/artist/2wWnXjK5gmmoOsefK1mkrE"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226156,
+      "name": "\u017bar",
+      "url": "https://open.spotify.com/track/6BW9cVgDaIeLhEwKGzbnQt"
     },
     {
       "album": {

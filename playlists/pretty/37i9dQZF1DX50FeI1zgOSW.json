@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sanathan Shree Krishnan",
-  "num_followers": 6058,
+  "num_followers": 6065,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODA0OTA0OGFlYjI1OWQwNGM4NTUwMTY0MjgyZGU3ZGNlYmI5YWQ2",
+  "snapshot_id": "MCwwYmVkNjk5MzM3ZjA5NDUzY2U0OGY1MGEwOGJhOGZkOWU4MTJiY2Zi",
   "tracks": [
     {
       "added_at": "2023-10-27 09:17:06",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/34ruDKLw6OXTU0pB5tEmjL"
     },
     {
+      "added_at": "2024-01-16 06:04:03",
+      "album": {
+        "name": "Pogaathey",
+        "url": "https://open.spotify.com/album/5kLSRW1b4xRvzgM6pQdNpx"
+      },
+      "artists": [
+        {
+          "name": "Shriram Sachi",
+          "url": "https://open.spotify.com/artist/4jzvkble6InbXIYDQRERSd"
+        }
+      ],
+      "duration_ms": 118967,
+      "name": "Pogaathey",
+      "url": "https://open.spotify.com/track/5F5DIAIAKeInyl3WndDM6l"
+    },
+    {
       "added_at": "2024-01-15 04:19:17",
       "album": {
         "name": "Nenjukulla oru Sogamilla",
@@ -123,6 +139,26 @@
       "duration_ms": 127090,
       "name": "Come to Me Baby",
       "url": "https://open.spotify.com/track/0tyVTkcGqE4CP4OPNnQlwi"
+    },
+    {
+      "added_at": "2024-01-16 09:23:00",
+      "album": {
+        "name": "Fake Escobar",
+        "url": "https://open.spotify.com/album/0GxmBhQxX8F95Ck7BzR9Wy"
+      },
+      "artists": [
+        {
+          "name": "Vidushaan",
+          "url": "https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "duration_ms": 158056,
+      "name": "Fake Escobar",
+      "url": "https://open.spotify.com/track/2bc5OEFuJgcEOoLxpmXD0t"
     },
     {
       "added_at": "2024-01-05 12:51:04",
@@ -1341,26 +1377,6 @@
       "url": "https://open.spotify.com/track/1mg6Gv8G88c7BLYolp8FF4"
     },
     {
-      "added_at": "2023-07-03 12:43:08",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/5uE6rPTznwSR9IXxgUHcpi"
-      },
-      "artists": [
-        {
-          "name": "Vijay Krishna",
-          "url": "https://open.spotify.com/artist/5lEkeVdPIfR5GuqtfhpfyW"
-        },
-        {
-          "name": "Subash Mouli",
-          "url": "https://open.spotify.com/artist/6u7Hv6H979EzkmglgndHKh"
-        }
-      ],
-      "duration_ms": 251502,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/46uVjOchiOzNChMb36MKN2"
-    },
-    {
       "added_at": "2023-06-29 11:25:58",
       "album": {
         "name": "FLYHIGH - Tamil",
@@ -1375,22 +1391,6 @@
       "duration_ms": 235115,
       "name": "FLYHIGH",
       "url": "https://open.spotify.com/track/09rtkeKUT1QU1GnC1kud4O"
-    },
-    {
-      "added_at": "2023-06-23 12:12:36",
-      "album": {
-        "name": "Mittai Kannu Baby",
-        "url": "https://open.spotify.com/album/0fW3IVR2KG97oz7gtrwmv0"
-      },
-      "artists": [
-        {
-          "name": "Sanathan Shree Krishnan",
-          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
-        }
-      ],
-      "duration_ms": 181107,
-      "name": "Mittai Kannu Baby",
-      "url": "https://open.spotify.com/track/4PsMQdLUKAUSuE63c9ZLXg"
     },
     {
       "added_at": "2023-07-06 11:13:18",

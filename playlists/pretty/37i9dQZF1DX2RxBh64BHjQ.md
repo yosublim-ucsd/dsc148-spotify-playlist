@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0yknvLWQZxwsMjhUhwWZQ8">41</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,781,897 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,781,687 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Changes](https://open.spotify.com/track/4yKv2cx4TcIE0wiiu6Mwix) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Changes](https://open.spotify.com/album/25fFITkCpLiZOySKwXon54) | 3:20 |
 | 100 | [Play](https://open.spotify.com/track/6jltKC6iC1uscqcG8uJ7sw) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [Play](https://open.spotify.com/album/0omwsxPVHZZY3A3lsqO7v0) | 2:15 |
 
-Snapshot ID: `MCxhMmI0ODZkZTE1ZmM3YTFiOTE4NmJjNmM1YmIwNzZmNjM3NGUyNmMy`
+Snapshot ID: `MCwxYTM3ZjY3YjBiOTZhZGY4NjFlYTVmZDA4ZmFlODY4ZDFhNTI1YzU4`

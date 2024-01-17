@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 849000,
+  "2024-01-17": 849553,
   "date_first_scraped": "2023-08-09",
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
   "name": "This Is Alfredo Olivas",
@@ -111,7 +111,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 239013,
       "name": "Con La Novedad",
       "url": "https://open.spotify.com/track/4BkRkW91EvxeW9VhzVatqi"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 209040,
       "name": "Tres Tiros",
       "url": "https://open.spotify.com/track/2emeqNzdm71GXY2aADYGHJ"

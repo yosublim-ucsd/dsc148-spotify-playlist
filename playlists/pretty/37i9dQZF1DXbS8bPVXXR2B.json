@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 225749,
+  "num_followers": 225792,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjIwMWUwZmRjMDg1NWM0Yzc4Yzg4OGU5ZWYwOTIzNGQ4MDM1ODk5",
+  "snapshot_id": "MCw3YTViOTBiNDdiNThmZmI1YTAwN2Y1YzdiM2M0YjE4OTg3MzFiNzE1",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
-      },
-      "artists": [
-        {
-          "name": "Indeep",
-          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
-        }
-      ],
-      "duration_ms": 341426,
-      "name": "Last Night a D.J. Saved My Life",
-      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Turn This Mutha Out",
         "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 516586,
       "name": "Could Heaven Ever Be Like This",
       "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
+      },
+      "artists": [
+        {
+          "name": "Indeep",
+          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
+        }
+      ],
+      "duration_ms": 341426,
+      "name": "Last Night a D.J. Saved My Life",
+      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Soup for One (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 248490,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6Wux9SSXcUdgwG7TItGTJz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
         "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 381040,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Soup for One (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 248490,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6Wux9SSXcUdgwG7TItGTJz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Just A Touch Of Love",
-        "url": "https://open.spotify.com/album/1KGJvJwBNbDpMW29QdW7qg"
-      },
-      "artists": [
-        {
-          "name": "Slave",
-          "url": "https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e"
-        }
-      ],
-      "duration_ms": 392733,
-      "name": "Just a Touch of Love",
-      "url": "https://open.spotify.com/track/1abbmCW62dP7ag10VjQBz4"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Sa\u00e2da Bonaire",
         "url": "https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 356613,
       "name": "You Could Be More As You Are",
       "url": "https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Just A Touch Of Love",
+        "url": "https://open.spotify.com/album/1KGJvJwBNbDpMW29QdW7qg"
+      },
+      "artists": [
+        {
+          "name": "Slave",
+          "url": "https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e"
+        }
+      ],
+      "duration_ms": 392733,
+      "name": "Just a Touch of Love",
+      "url": "https://open.spotify.com/track/1abbmCW62dP7ag10VjQBz4"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe"
-      },
-      "artists": [
-        {
-          "name": "The System",
-          "url": "https://open.spotify.com/artist/0Dhlcr8EQOAp0hHbhz1ozR"
-        }
-      ],
-      "duration_ms": 357812,
-      "name": "You Are in My System",
-      "url": "https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Nigeria 70 - Funky Lagos",
         "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe"
+      },
+      "artists": [
+        {
+          "name": "The System",
+          "url": "https://open.spotify.com/artist/0Dhlcr8EQOAp0hHbhz1ozR"
+        }
+      ],
+      "duration_ms": 357812,
+      "name": "You Are in My System",
+      "url": "https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Watchin Out",
-        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
-      },
-      "artists": [
-        {
-          "name": "Frazelle",
-          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
-        }
-      ],
-      "duration_ms": 320851,
-      "name": "Today Is the Day - Linkwood Chop",
-      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love Island",
         "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 272533,
       "name": "Whistle Bump",
       "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Watchin Out",
+        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
+      },
+      "artists": [
+        {
+          "name": "Frazelle",
+          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
+        }
+      ],
+      "duration_ms": 320851,
+      "name": "Today Is the Day - Linkwood Chop",
+      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
     },
     {
       "added_at": "2022-09-05 16:54:43",

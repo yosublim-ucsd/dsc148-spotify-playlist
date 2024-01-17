@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 1168069,
+  "2024-01-17": 1169675,
   "date_first_scraped": "2021-12-30",
   "description": "slowed, reverbed, chopped and screwed.",
   "name": "slowed and reverbed",
@@ -2475,6 +2475,24 @@
     {
       "album": {
         "name": "Kerosene (Slowed)",
+        "url": "https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf"
+      },
+      "artists": [
+        {
+          "name": "fam0uz",
+          "url": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "Kerosene - Slowed",
+      "url": "https://open.spotify.com/track/2weO22kObPnyX1jKQStb40"
+    },
+    {
+      "album": {
+        "name": "Kerosene (Slowed)",
         "url": "https://open.spotify.com/album/6tiGvKDEPIPBW0LeGXnNQX"
       },
       "artists": [
@@ -4743,7 +4761,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 187884,
       "name": "\u041e\u0442\u043a\u043b\u044e\u0447\u0430\u044e \u0442\u0435\u043b\u0435\u0444\u043e\u043d (Slowed)",
       "url": "https://open.spotify.com/track/7qwlUHDJI8aKwpuYVzuvoe"

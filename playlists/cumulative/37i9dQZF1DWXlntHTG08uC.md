@@ -2,7 +2,7 @@
 
 ### [Sleep Frequency](https://open.spotify.com/playlist/37i9dQZF1DWXlntHTG08uC)
 
-> 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
+> Frecuencia solfeggio de 528 Hz, ritmos y música para un sueño profundo y noches de descanso.
 
 185 songs - 8 hr 45 min
 

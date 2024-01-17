@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Whitey en vogue, Ikkimel
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,694 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,828 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Liebe ist sowas wie ein Schwert](https://open.spotify.com/track/5B0gC3MVu8i4Dc4MSsGAbj) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Liebe ist sowas wie ein Schwert](https://open.spotify.com/album/3h0jolofuDo4TCa2OIyzPM) | 1:57 |
 | 100 | [pasta](https://open.spotify.com/track/78oxQhzMZVkfBQbzVwMQhI) | [dobel](https://open.spotify.com/artist/2k56DBnh92ucRbT7lonjkS), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [pasta & mehr](https://open.spotify.com/album/2ZTXiIBLARpoY1t5V9dO53) | 2:47 |
 
-Snapshot ID: `MCw5YmFkMTczY2Y2YTIzMmNkNGNkYWE0YmYzNWUzMWQ5NjIwNzIyZjRl`
+Snapshot ID: `MCw3ZDIyMjg0NGY1ODI1NjMzOTBmZDdjMzNmYzg5NGZlMzIwZDg2NGFk`

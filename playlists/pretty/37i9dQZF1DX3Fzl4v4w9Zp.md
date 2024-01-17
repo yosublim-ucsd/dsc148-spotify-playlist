@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Jess Williamson
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,909 likes - 149 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,875 likes - 149 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Rhinestone](https://open.spotify.com/track/7dHy8LL7YpI69ZtmfmI83n) | [Jonathan Tyler](https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU) | [Underground Forever](https://open.spotify.com/album/2EJv943X8gpKSdw82Hwhyb) | 3:32 |
 | 149 | [Good Morning Coffee](https://open.spotify.com/track/6ic8f1Bzdq8hYoqUobU15F) | [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [Laughing River](https://open.spotify.com/album/1LnQJBFkhJGgr6mfTwDET8) | 3:46 |
 
-Snapshot ID: `MCxlNjliZmI1YmYxY2JjMzQ5ZWQ0NmM2NmM0ZWViYzk5ZDgyNDQ1MjQw`
+Snapshot ID: `MCxiOThkMTY5NmIwMTdkMGI4MDk4OThkNjEyN2IzZWYwZjI3ZmY4OGMz`

@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 248002,
+  "2024-01-17": 247983,
   "date_first_scraped": "2022-05-09",
   "description": "Musica da ascoltare con un Negroni in mano. \ud83c\udf79",
   "name": "Aperitivo Time",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 405866,
       "name": "A Tune For Jack",
       "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
@@ -4247,7 +4247,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 204344,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/1hRTVpNilLWj2un5mlKUjh"

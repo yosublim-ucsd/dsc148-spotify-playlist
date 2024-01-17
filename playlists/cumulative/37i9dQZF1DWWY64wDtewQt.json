@@ -425,6 +425,32 @@
     },
     {
       "album": {
+        "name": "GLORY RAGE",
+        "url": "https://open.spotify.com/album/5vsBsjiI9iYhFcmRDhZtMJ"
+      },
+      "artists": [
+        {
+          "name": "BEG FXR FXRGIVENESS",
+          "url": "https://open.spotify.com/artist/77gKiFVwtaJERiNTR07fd2"
+        },
+        {
+          "name": "\u041f\u0415\u041d\u0422\u0410\u0413\u0420\u0410\u041c\u041c\u0410",
+          "url": "https://open.spotify.com/artist/1BQKXB93Ot2ClxRBzH26ku"
+        },
+        {
+          "name": "1-800-096-\u041f\u0418\u041b\u0410",
+          "url": "https://open.spotify.com/artist/09OJh7kEFji4yPFyEfQlGp"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101204,
+      "name": "ALORS BRAZIL",
+      "url": "https://open.spotify.com/track/1FMnIR4FUCW8WVZThvCqab"
+    },
+    {
+      "album": {
         "name": "ALORS BRAZIL",
         "url": "https://open.spotify.com/album/6133HkdSpCx0s9wwtg3wAi"
       },
@@ -534,7 +560,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 101321,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"

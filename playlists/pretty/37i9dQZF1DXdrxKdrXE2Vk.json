@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3yAv8udgy9z6yF6rREcgfB\">Rock City Worship</a> ",
-  "num_followers": 887554,
+  "num_followers": 887683,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTdlYWZiYTc5MWFlNzJjOTM3MzAxZTYzNzU5ZWMzZTBlNjZhYjRl",
+  "snapshot_id": "MCwxYjMyM2E5MGM5NjFjNDRmMThiMzczZjJhMTFmMDVhNWZlMzIwZTJh",
   "tracks": [
     {
       "added_at": "2024-01-12 07:43:13",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Church (Live)",
-        "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 362500,
-      "name": "Manasseh - Live",
-      "url": "https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "You Will Be Saved",
         "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 374904,
       "name": "You Will Be Saved",
       "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "Church (Live)",
+        "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 362500,
+      "name": "Manasseh - Live",
+      "url": "https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "At The Altar (Live)",
-        "url": "https://open.spotify.com/album/3SGTVnqzpykrAI7ExoZLnP"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "At The Altar - Live",
-      "url": "https://open.spotify.com/track/7okfzzIL7t7UhygeRDRN0x"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/0N7g1biLYfgX00mWoHmMud"
       },
@@ -527,6 +511,38 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "The Commission (Live)",
+        "url": "https://open.spotify.com/album/2KUoF56KCelukYtMprpuex"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 419337,
+      "name": "The Commission - Live",
+      "url": "https://open.spotify.com/track/3ss1iIaEN29yujcQf48ujO"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "At The Altar (Live)",
+        "url": "https://open.spotify.com/album/3SGTVnqzpykrAI7ExoZLnP"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "At The Altar - Live",
+      "url": "https://open.spotify.com/track/7okfzzIL7t7UhygeRDRN0x"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "Sing! Christ Our Hope In Life And Death (Live At The Getty Music Worship Conference)",
         "url": "https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 243800,
       "name": "The Lord Almighty Reigns - Live",
       "url": "https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "The Commission (Live)",
-        "url": "https://open.spotify.com/album/2KUoF56KCelukYtMprpuex"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 419337,
-      "name": "The Commission - Live",
-      "url": "https://open.spotify.com/track/3ss1iIaEN29yujcQf48ujO"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -595,26 +595,6 @@
       "duration_ms": 239480,
       "name": "Better Hands",
       "url": "https://open.spotify.com/track/2Hb74c1PVOMy5XYYUNIoU3"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "Starlight (Live)",
-        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 337956,
-      "name": "Starlight - Live",
-      "url": "https://open.spotify.com/track/13t0zj4RPKM1asysCWgRaU"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -671,6 +651,26 @@
       "duration_ms": 221274,
       "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
       "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 337956,
+      "name": "Starlight - Live",
+      "url": "https://open.spotify.com/track/13t0zj4RPKM1asysCWgRaU"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -847,6 +847,46 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "In Christ Alone (Live From Sydney)",
+        "url": "https://open.spotify.com/album/6cCviTac5Tm6skLA9BoMgH"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 249838,
+      "name": "In Christ Alone - Live From Sydney",
+      "url": "https://open.spotify.com/track/78VNLbkNUvZUih7XDUqfme"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "Made For More (Live)",
+        "url": "https://open.spotify.com/album/4WSovjbbLpFMz7M3NtJiKh"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 372600,
+      "name": "Made For More - Live",
+      "url": "https://open.spotify.com/track/3eQJ6y1J3VL1cMWQ9cY3tl"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "Here For It",
         "url": "https://open.spotify.com/album/09RjBOAUSdKzernJEEqxGy"
       },
@@ -943,26 +983,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "In Christ Alone (Live From Sydney)",
-        "url": "https://open.spotify.com/album/6cCviTac5Tm6skLA9BoMgH"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 249838,
-      "name": "In Christ Alone - Live From Sydney",
-      "url": "https://open.spotify.com/track/78VNLbkNUvZUih7XDUqfme"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Testify - EP (Live)",
         "url": "https://open.spotify.com/album/79dfXsRzT8FwQFJ1FlK93I"
       },
@@ -979,38 +999,26 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Made For More (Live)",
-        "url": "https://open.spotify.com/album/4WSovjbbLpFMz7M3NtJiKh"
+        "name": "Christ Is Mine Forevermore (Live)",
+        "url": "https://open.spotify.com/album/7CIKiMHuxWOJg07bRzs3EC"
       },
       "artists": [
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 372600,
-      "name": "Made For More - Live",
-      "url": "https://open.spotify.com/track/3eQJ6y1J3VL1cMWQ9cY3tl"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "The Praise Is Yours (Live)",
-        "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
-      },
-      "artists": [
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        },
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
         }
       ],
-      "duration_ms": 336008,
-      "name": "The Praise Is Yours - Live",
-      "url": "https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY"
+      "duration_ms": 314255,
+      "name": "Christ Is Mine Forevermore - Live",
+      "url": "https://open.spotify.com/track/03JT9uJsNupvj1h5iJ9FVi"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1055,26 +1063,18 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Christ Is Mine Forevermore (Live)",
-        "url": "https://open.spotify.com/album/7CIKiMHuxWOJg07bRzs3EC"
+        "name": "The Praise Is Yours (Live)",
+        "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
       },
       "artists": [
         {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        },
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 314255,
-      "name": "Christ Is Mine Forevermore - Live",
-      "url": "https://open.spotify.com/track/03JT9uJsNupvj1h5iJ9FVi"
+      "duration_ms": 336008,
+      "name": "The Praise Is Yours - Live",
+      "url": "https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "Sing As One (Live)",
+        "url": "https://open.spotify.com/album/5u5lOB1VHyCfbNZrRKjMs6"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 463848,
+      "name": "Satisfied - Live",
+      "url": "https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "Moments: 011 (Live)",
         "url": "https://open.spotify.com/album/63Fa54QgiqrrEuPFbKqkVC"
       },
@@ -1167,18 +1183,22 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Sing As One (Live)",
-        "url": "https://open.spotify.com/album/5u5lOB1VHyCfbNZrRKjMs6"
+        "name": "Yahweh Will Manifest (Live From San Juan PR)",
+        "url": "https://open.spotify.com/album/5OoSjMQoO2PlmUSzP33gwQ"
       },
       "artists": [
         {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        },
+        {
+          "name": "Laila Olivera",
+          "url": "https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX"
         }
       ],
-      "duration_ms": 463848,
-      "name": "Satisfied - Live",
-      "url": "https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc"
+      "duration_ms": 513466,
+      "name": "Yahweh Will Manifest - Live From San Juan PR",
+      "url": "https://open.spotify.com/track/1z7Fxs69SXH3OD9XNye8Lz"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1311,30 +1331,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Living Breathing Miracle (Live)",
-        "url": "https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J"
-      },
-      "artists": [
-        {
-          "name": "Victory Worship",
-          "url": "https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs"
-        },
-        {
-          "name": "Jeremiah Mateola",
-          "url": "https://open.spotify.com/artist/0ZfNmKnIS3AkQNqf4HFQTY"
-        },
-        {
-          "name": "Rozanne Hodgetts",
-          "url": "https://open.spotify.com/artist/14fiyawUXDIsruSLGvFHgl"
-        }
-      ],
-      "duration_ms": 385574,
-      "name": "Remain - Live",
-      "url": "https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -1347,26 +1343,6 @@
       "duration_ms": 403920,
       "name": "Never Lost - Live",
       "url": "https://open.spotify.com/track/0kB28CdAxrYvMXrQB1iXor"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "Yahweh Will Manifest (Live From San Juan PR)",
-        "url": "https://open.spotify.com/album/5OoSjMQoO2PlmUSzP33gwQ"
-      },
-      "artists": [
-        {
-          "name": "Oasis Ministry",
-          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
-        },
-        {
-          "name": "Laila Olivera",
-          "url": "https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX"
-        }
-      ],
-      "duration_ms": 513466,
-      "name": "Yahweh Will Manifest - Live From San Juan PR",
-      "url": "https://open.spotify.com/track/1z7Fxs69SXH3OD9XNye8Lz"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1387,6 +1363,30 @@
       "duration_ms": 238982,
       "name": "Still God (Live)",
       "url": "https://open.spotify.com/track/5Tudz46wDPEKifYilxXZTq"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "Living Breathing Miracle (Live)",
+        "url": "https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J"
+      },
+      "artists": [
+        {
+          "name": "Victory Worship",
+          "url": "https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs"
+        },
+        {
+          "name": "Jeremiah Mateola",
+          "url": "https://open.spotify.com/artist/0ZfNmKnIS3AkQNqf4HFQTY"
+        },
+        {
+          "name": "Rozanne Hodgetts",
+          "url": "https://open.spotify.com/artist/14fiyawUXDIsruSLGvFHgl"
+        }
+      ],
+      "duration_ms": 385574,
+      "name": "Remain - Live",
+      "url": "https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Gratitude: 10 Live Worship Songs From Spring Harvest 2022",
-        "url": "https://open.spotify.com/album/33QIgV6G5UIDN2neiShgyM"
-      },
-      "artists": [
-        {
-          "name": "Spring Harvest",
-          "url": "https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Greater Than It All - Live",
-      "url": "https://open.spotify.com/track/36v3znbKACA4BkhaUHSjbE"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Because Of You (Live)",
         "url": "https://open.spotify.com/album/6AY30EqlFxWj7s3vpXKfP5"
       },
@@ -1527,26 +1511,6 @@
       "duration_ms": 361027,
       "name": "Because Of You - Live",
       "url": "https://open.spotify.com/track/3BQWQdgTzKSnnsLSFlntQB"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "Shalom",
-        "url": "https://open.spotify.com/album/0cudtQVYv29jw1Q4MOIUdU"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        },
-        {
-          "name": "Setnick Sene",
-          "url": "https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE"
-        }
-      ],
-      "duration_ms": 322689,
-      "name": "Shalom",
-      "url": "https://open.spotify.com/track/30mz7jGufwQ3YAvulUUi18"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1571,18 +1535,38 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "All To Jesus (Live)",
-        "url": "https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl"
+        "name": "Shalom",
+        "url": "https://open.spotify.com/album/0cudtQVYv29jw1Q4MOIUdU"
       },
       "artists": [
         {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        },
+        {
+          "name": "Setnick Sene",
+          "url": "https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE"
         }
       ],
-      "duration_ms": 360690,
-      "name": "Abide - Live",
-      "url": "https://open.spotify.com/track/3WbMGg3SExCmKhDSFCinFg"
+      "duration_ms": 322689,
+      "name": "Shalom",
+      "url": "https://open.spotify.com/track/30mz7jGufwQ3YAvulUUi18"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "Gratitude: 10 Live Worship Songs From Spring Harvest 2022",
+        "url": "https://open.spotify.com/album/33QIgV6G5UIDN2neiShgyM"
+      },
+      "artists": [
+        {
+          "name": "Spring Harvest",
+          "url": "https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Greater Than It All - Live",
+      "url": "https://open.spotify.com/track/36v3znbKACA4BkhaUHSjbE"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1599,6 +1583,22 @@
       "duration_ms": 316400,
       "name": "Show Me Your Glory - Live At Chapel",
       "url": "https://open.spotify.com/track/3mYBDgjbviEZQDl3KQpJF8"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "All To Jesus (Live)",
+        "url": "https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "duration_ms": 360690,
+      "name": "Abide - Live",
+      "url": "https://open.spotify.com/track/3WbMGg3SExCmKhDSFCinFg"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "Steady Light (Live from LO Conference)",
+        "url": "https://open.spotify.com/album/6St8kQLFrmsjhtKySbp4Jv"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        }
+      ],
+      "duration_ms": 239922,
+      "name": "Steady Light - Live",
+      "url": "https://open.spotify.com/track/4C25Cy09CwtbyJkkMFLXCu"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "People Get Ready (Live)",
         "url": "https://open.spotify.com/album/2FrEGPZMpthxbBPoiTtlGO"
       },
@@ -1651,18 +1667,22 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Steady Light (Live from LO Conference)",
-        "url": "https://open.spotify.com/album/6St8kQLFrmsjhtKySbp4Jv"
+        "name": "Only God (Live From Costa Mesa, CA, 2023)",
+        "url": "https://open.spotify.com/album/3FO3dV5JlM5oD4kINskNT4"
       },
       "artists": [
         {
-          "name": "LO Worship",
-          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Lucas McCloud",
+          "url": "https://open.spotify.com/artist/3O8ssrHqGYnyGdPg7nOGDJ"
         }
       ],
-      "duration_ms": 239922,
-      "name": "Steady Light - Live",
-      "url": "https://open.spotify.com/track/4C25Cy09CwtbyJkkMFLXCu"
+      "duration_ms": 436188,
+      "name": "Only God - Live From Costa Mesa, CA, 2023",
+      "url": "https://open.spotify.com/track/3aOEV0SCViQ61mrjIyzGP3"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1687,26 +1707,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Only God (Live From Costa Mesa, CA, 2023)",
-        "url": "https://open.spotify.com/album/3FO3dV5JlM5oD4kINskNT4"
-      },
-      "artists": [
-        {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        },
-        {
-          "name": "Lucas McCloud",
-          "url": "https://open.spotify.com/artist/3O8ssrHqGYnyGdPg7nOGDJ"
-        }
-      ],
-      "duration_ms": 436188,
-      "name": "Only God - Live From Costa Mesa, CA, 2023",
-      "url": "https://open.spotify.com/track/3aOEV0SCViQ61mrjIyzGP3"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "As The Deer / Nothing But The Blood (Live)",
         "url": "https://open.spotify.com/album/1tldcRrDJAaBSTtHQyY1Rx"
       },
@@ -1723,6 +1723,30 @@
       "duration_ms": 391407,
       "name": "As The Deer / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/0txOPgvIVpVZf8YosrjEx2"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "Steady Light (Live from LO Conference) [Deluxe]",
+        "url": "https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        }
+      ],
+      "duration_ms": 625955,
+      "name": "Open (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1759,6 +1783,22 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ"
+      },
+      "artists": [
+        {
+          "name": "catch the fire music",
+          "url": "https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x"
+        }
+      ],
+      "duration_ms": 428054,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "Pour Over Me (Live)",
         "url": "https://open.spotify.com/album/3FOHB4HifsQur0uyQoOmTW"
       },
@@ -1775,50 +1815,6 @@
       "duration_ms": 598000,
       "name": "Pour Over Me - Live",
       "url": "https://open.spotify.com/track/5Nzcv9MhQd8VkrvYgTy3IW"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "Every Season Is Holy Ground (Live)",
-        "url": "https://open.spotify.com/album/6y1YPH0kyXCV1WN18Zjkfu"
-      },
-      "artists": [
-        {
-          "name": "Jacob Cantrell",
-          "url": "https://open.spotify.com/artist/3vRlp48MEXs2uuVGKhZtro"
-        },
-        {
-          "name": "Capital City Music",
-          "url": "https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH"
-        }
-      ],
-      "duration_ms": 441973,
-      "name": "Every Season Is Holy Ground (Live)",
-      "url": "https://open.spotify.com/track/4df54lW3hCbohXGctOx6HG"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "Steady Light (Live from LO Conference) [Deluxe]",
-        "url": "https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt"
-      },
-      "artists": [
-        {
-          "name": "LO Worship",
-          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        },
-        {
-          "name": "Chidima",
-          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
-        }
-      ],
-      "duration_ms": 625955,
-      "name": "Open (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1863,6 +1859,26 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "Every Season Is Holy Ground (Live)",
+        "url": "https://open.spotify.com/album/6y1YPH0kyXCV1WN18Zjkfu"
+      },
+      "artists": [
+        {
+          "name": "Jacob Cantrell",
+          "url": "https://open.spotify.com/artist/3vRlp48MEXs2uuVGKhZtro"
+        },
+        {
+          "name": "Capital City Music",
+          "url": "https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH"
+        }
+      ],
+      "duration_ms": 441973,
+      "name": "Every Season Is Holy Ground (Live)",
+      "url": "https://open.spotify.com/track/4df54lW3hCbohXGctOx6HG"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "On The Rise",
         "url": "https://open.spotify.com/album/5RxG9qsktzpP1xGa01l3kG"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 376541,
       "name": "Thin Place - Live",
       "url": "https://open.spotify.com/track/6Kt5xALwAfnGDGdZWq3XDu"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ"
-      },
-      "artists": [
-        {
-          "name": "catch the fire music",
-          "url": "https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x"
-        }
-      ],
-      "duration_ms": 428054,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG"
     },
     {
       "added_at": "2024-01-12 07:43:13",

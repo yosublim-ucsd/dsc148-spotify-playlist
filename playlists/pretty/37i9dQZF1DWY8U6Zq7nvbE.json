@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1132084,
+  "num_followers": 1132074,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGUzMjc4ZGQ2ZTNhZmJmNDA3MzMyNGFmMTU3NzRmYWE1NWQyYWJi",
+  "snapshot_id": "MCwxMjI0Yzk2N2E5OTYwZTBiYjcyODc5ODZjMjhlMDNiMDc5MDM1YTgw",
   "tracks": [
     {
       "added_at": "2024-01-12 00:01:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Latch",
-        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
+        "name": "what if",
+        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
       },
       "artists": [
         {
-          "name": "Mel & Macy",
-          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
         }
       ],
-      "duration_ms": 197684,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
+      "duration_ms": 201666,
+      "name": "what if",
+      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "what if",
-        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
+        "name": "Latch",
+        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
       },
       "artists": [
         {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+          "name": "Mel & Macy",
+          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
         }
       ],
-      "duration_ms": 201666,
-      "name": "what if",
-      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
+      "duration_ms": 197684,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Somebody That I Used To Know",
-        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 172454,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 169756,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 189650,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Love Or Something Like It",
         "url": "https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 172741,
       "name": "Love Or Something Like It",
       "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 189650,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "STAY",
-        "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn"
       },
       "artists": [
         {
-          "name": "Isaac Hale",
-          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+          "name": "WestSouth",
+          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
         }
       ],
-      "duration_ms": 132789,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
+      "duration_ms": 166019,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -855,6 +855,22 @@
       "duration_ms": 211058,
       "name": "Let Me Get Close To You",
       "url": "https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "duration_ms": 132789,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -887,22 +903,6 @@
       "duration_ms": 241184,
       "name": "Good",
       "url": "https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn"
-      },
-      "artists": [
-        {
-          "name": "WestSouth",
-          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
-        }
-      ],
-      "duration_ms": 166019,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
+        "name": "Annie's Song",
+        "url": "https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX"
+      },
+      "artists": [
+        {
+          "name": "Cameron Payne",
+          "url": "https://open.spotify.com/artist/60gG6AmEKOQO5Iyqp6zSOi"
+        }
+      ],
+      "duration_ms": 167887,
+      "name": "Annie's Song",
+      "url": "https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
         "name": "Because the Night",
         "url": "https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 148015,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Annie's Song",
-        "url": "https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX"
-      },
-      "artists": [
-        {
-          "name": "Cameron Payne",
-          "url": "https://open.spotify.com/artist/60gG6AmEKOQO5Iyqp6zSOi"
-        }
-      ],
-      "duration_ms": 167887,
-      "name": "Annie's Song",
-      "url": "https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 212624,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "OTW (Acoustic Version)",
         "url": "https://open.spotify.com/album/6l6dNBkA3JjaUHbfQqidei"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 190561,
       "name": "Out Of My Head And Back In My Bed",
       "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 212624,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "How to save a life - Acoustic version",
-        "url": "https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 207824,
-      "name": "How to save a life - Acoustic version",
-      "url": "https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Sure Thing",
         "url": "https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 239178,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "How to save a life - Acoustic version",
+        "url": "https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 207824,
+      "name": "How to save a life - Acoustic version",
+      "url": "https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/2N76uyM3yxfn8Jpo00EMiL"
-      },
-      "artists": [
-        {
-          "name": "Samuel Pine",
-          "url": "https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv"
-        }
-      ],
-      "duration_ms": 152854,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/5LFXHU0Ed4S71AN5baidDF"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 206294,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/0uXKksgFQS0qgjpEKv82wA"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/2N76uyM3yxfn8Jpo00EMiL"
+      },
+      "artists": [
+        {
+          "name": "Samuel Pine",
+          "url": "https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv"
+        }
+      ],
+      "duration_ms": 152854,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU"
     },
     {
       "added_at": "2024-01-12 00:01:00",

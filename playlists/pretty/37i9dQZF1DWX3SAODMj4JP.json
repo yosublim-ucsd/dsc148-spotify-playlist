@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 134044,
+  "num_followers": 134098,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzQzMTlkOTM5ZjZkOGY2NjQ4YTIzNjljZTRlMmVlYTAzMDNkNDNi",
+  "snapshot_id": "MCxlMDU3MTk2YjEzYWVmM2Y0YzAyZjA0ZmRjNGMzZjFjMDY0OTZhNDYx",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -559,6 +559,30 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Agora, Aqui",
+        "url": "https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR"
+      },
+      "artists": [
+        {
+          "name": "Ana Heloysa",
+          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Filipe da Guia",
+          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
+        }
+      ],
+      "duration_ms": 205329,
+      "name": "Agora, Aqui",
+      "url": "https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "Claro e Certo",
         "url": "https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI"
       },
@@ -591,30 +615,6 @@
       "duration_ms": 267972,
       "name": "Incrivelmente",
       "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Agora, Aqui",
-        "url": "https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR"
-      },
-      "artists": [
-        {
-          "name": "Ana Heloysa",
-          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
-        },
-        {
-          "name": "Coletivo Candiero",
-          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
-        },
-        {
-          "name": "Filipe da Guia",
-          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
-        }
-      ],
-      "duration_ms": 205329,
-      "name": "Agora, Aqui",
-      "url": "https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Todos Um",
-        "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 211386,
-      "name": "Todos Um",
-      "url": "https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Olhar de Longe",
         "url": "https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 212354,
       "name": "Olhar de Longe",
       "url": "https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Todos Um",
+        "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 211386,
+      "name": "Todos Um",
+      "url": "https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -975,42 +975,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Primeiro",
-        "url": "https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6"
-      },
-      "artists": [
-        {
-          "name": "Itagon",
-          "url": "https://open.spotify.com/artist/1nRBkENa3rDetRoPakipOh"
-        },
-        {
-          "name": "Renata Calheiros",
-          "url": "https://open.spotify.com/artist/3L3jIoTWT58r8Jrc2X8svJ"
-        }
-      ],
-      "duration_ms": 282932,
-      "name": "Asas",
-      "url": "https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Descansar em Ti",
-        "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Descansar em Ti",
-      "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Tributo A Iehovah (Ao Vivo)",
         "url": "https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62"
       },
@@ -1031,6 +995,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Descansar em Ti",
+        "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Descansar em Ti",
+      "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "M\u00e3o No Arado",
         "url": "https://open.spotify.com/album/6RLHnVKEmEwjG2r5KRCIPx"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 210495,
       "name": "M\u00e3o No Arado",
       "url": "https://open.spotify.com/track/5ugXpVjpBle03j9zWdl42w"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Primeiro",
+        "url": "https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6"
+      },
+      "artists": [
+        {
+          "name": "Itagon",
+          "url": "https://open.spotify.com/artist/1nRBkENa3rDetRoPakipOh"
+        },
+        {
+          "name": "Renata Calheiros",
+          "url": "https://open.spotify.com/artist/3L3jIoTWT58r8Jrc2X8svJ"
+        }
+      ],
+      "duration_ms": 282932,
+      "name": "Asas",
+      "url": "https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Pra Viver Project",
-        "url": "https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS"
-      },
-      "artists": [
-        {
-          "name": "Praviver Worship",
-          "url": "https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Pra Viver - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "O Banquete",
         "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 280760,
       "name": "Corpo I",
       "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Pra Viver Project",
+        "url": "https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS"
+      },
+      "artists": [
+        {
+          "name": "Praviver Worship",
+          "url": "https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Pra Viver - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Meu Grande Amor (Vers\u00e3o Cordas)",
-        "url": "https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe"
-      },
-      "artists": [
-        {
-          "name": "Giselle Knevitz",
-          "url": "https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM"
-        },
-        {
-          "name": "Brasa Church Music",
-          "url": "https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A"
-        }
-      ],
-      "duration_ms": 442247,
-      "name": "Meu Grande Amor - Vers\u00e3o Cordas",
-      "url": "https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Awake (Deluxe)",
         "url": "https://open.spotify.com/album/1OrZpETlp9ZUT1qbLvYMu0"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 234973,
       "name": "Upper Room - Acoustic/Live",
       "url": "https://open.spotify.com/track/2JzhTp2M56LLuatw7jQGV5"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Meu Grande Amor (Vers\u00e3o Cordas)",
+        "url": "https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe"
+      },
+      "artists": [
+        {
+          "name": "Giselle Knevitz",
+          "url": "https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM"
+        },
+        {
+          "name": "Brasa Church Music",
+          "url": "https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A"
+        }
+      ],
+      "duration_ms": 442247,
+      "name": "Meu Grande Amor - Vers\u00e3o Cordas",
+      "url": "https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i"
     }
   ],
   "unique_name": "Chocolate Crente",

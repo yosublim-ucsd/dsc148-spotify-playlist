@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITa25xsl1Y.md) - [plain]
 
 > This is METTE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64 likes - 10 songs - 32 min 15 sec
+[Spotify](https://open.spotify.com/user/spotify) - 76 likes - 10 songs - 32 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITa25xsl1Y.md) - [plain]
 | 9 | [MAMA'S EYES \- Barry Can't Swim Remix](https://open.spotify.com/track/45VIjDX8MvHrqluCoZSiN1) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Mama's Eyes \(The Remixes\)](https://open.spotify.com/album/5Uip1APa5s5KRNMVUAUqiL) | 4:04 |
 | 10 | [MAMA'S EYES \- Jethro Heston Remix](https://open.spotify.com/track/50PvX4Q6Lk5iKSVR0OBnTh) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj) | [Mama's Eyes \(The Remixes\)](https://open.spotify.com/album/5Uip1APa5s5KRNMVUAUqiL) | 3:40 |
 
-Snapshot ID: `MCwyYTZhMTg2NmVjODQ3YmJlOWJiM2QyYjk5MjJiZjY3NWY1Njk2ZDdh`
+Snapshot ID: `MCw3ZDM4NzQ3MTI5MmYxMTJjNmIzNTVkYmM5YjA3YjE1ODlhMTJhMzc2`

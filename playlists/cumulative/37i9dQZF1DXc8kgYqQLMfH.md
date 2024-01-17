@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,114 songs - 1 day 18 hr 9 min
+1,115 songs - 1 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [moon rays](https://open.spotify.com/track/4c7dkc4kNxAC2TNy7CEHHz) | [kyoshi](https://open.spotify.com/artist/3f07ZRsXK7XDJfccmAJNi1) | [dream cycle](https://open.spotify.com/album/62CWfFuwUVNiIGPjU3WalQ) | 1:54 | 2022-07-15 | 2023-04-28 |
 | [moonchild](https://open.spotify.com/track/6Xbiu6Iu8miwwju12kf9mz) | [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [moonchild](https://open.spotify.com/album/2lh1IIUURyEev7O4P0LhGZ) | 2:11 | 2022-04-15 | 2023-09-16 |
 | [moonlight](https://open.spotify.com/track/0tgOSi0Ew7wPIm1TyA3YPJ) | [drmycat](https://open.spotify.com/artist/50gpOabMr60yHviIA8gNY6) | [moonlight](https://open.spotify.com/album/0HBJZGo9r9xT0Dlhu6xcEh) | 2:12 | 2022-08-05 | 2023-04-12 |
+| [Moonlit Moments](https://open.spotify.com/track/4B0wlzgM5OqAZJ2GpQmyF2) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [Moonlit Moments](https://open.spotify.com/album/4xnqvzypvNBDttQa70MqI5) | 3:08 | 2024-01-12 |  |
 | [moonwatch](https://open.spotify.com/track/2CZEvQKqgtNLwWqkdyc2yy) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [moonwatch](https://open.spotify.com/album/3orK6ZBhRQQAxopaMfZivu) | 3:18 | 2023-12-08 |  |
 | [Morning bun](https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [Morning bun](https://open.spotify.com/album/2y09TYneTZgtrneQRE8bw9) | 1:54 | 2022-01-27 |  |
 | [morning coffe](https://open.spotify.com/track/6Ui1WWGXX4GUQksFKa1Uoo) | [inbetweenjobs](https://open.spotify.com/artist/0T05MHbAGVD9ZwWfVztzBk) | [morning coffe](https://open.spotify.com/album/6xhWgSZJ06ndOEfezRyMQP) | 2:40 | 2021-11-10 | 2022-06-10 |
@@ -801,7 +802,7 @@
 | [Red Lotus](https://open.spotify.com/track/6vDkLO9STbIiD5fvnoV3m0) | [All In One Day](https://open.spotify.com/artist/79D0IopCxMqbXmt7AYmG39) | [Red Lotus](https://open.spotify.com/album/6NoJVAllOIjeSSzJuYOXV8) | 2:04 | 2021-11-10 | 2022-10-15 |
 | [Red Wine at Dawn](https://open.spotify.com/track/5w7snuYJzYBSeCwgZPwpME) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Red Wine at Dawn](https://open.spotify.com/album/78JpJyBCQgkOIVdk91YwE3) | 3:01 | 2021-11-10 | 2023-03-18 |
 | [Reel Feelings](https://open.spotify.com/track/1AL8CEWwVRkDSfY9EKSTQF) | [Clique Epique](https://open.spotify.com/artist/42s4wWqRaDFw25sMxt0FsT) | [Reel Feelings](https://open.spotify.com/album/4EI38sWBJMU7bmEamMbmP9) | 2:07 | 2022-10-01 |  |
-| [Reflecting Light](https://open.spotify.com/track/1HHyhFkYrokYeNR16GiGx9) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Reflecting Light](https://open.spotify.com/album/6GHH0NWPTGcNAvUiR6kTPh) | 2:41 | 2022-12-23 |  |
+| [Reflecting Light](https://open.spotify.com/track/1HHyhFkYrokYeNR16GiGx9) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Reflecting Light](https://open.spotify.com/album/6GHH0NWPTGcNAvUiR6kTPh) | 2:41 | 2022-12-23 | 2024-01-17 |
 | [Reforged](https://open.spotify.com/track/7jjbHjzqKWpMlZi3lJYb7U) | [LoFi Squad](https://open.spotify.com/artist/7h60BEfYJHccbTPcIDezST) | [Reforged](https://open.spotify.com/album/3rnNDq2QpuGwnHokXZs7A6) | 2:21 | 2022-09-23 | 2023-04-28 |
 | [Remedial Education](https://open.spotify.com/track/39tSKZOv3jSmAi9F4kgAZZ) | [Tethered Ghosts](https://open.spotify.com/artist/4tMeBDw2jUzYYCxx4MqlVM) | [All Awash](https://open.spotify.com/album/7KbnTBtPzsjAcC0CuDByv6) | 2:38 | 2021-11-10 | 2022-07-29 |
 | [Reminder](https://open.spotify.com/track/0ZFovY24PezbGWAPlpTCjU) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Reminder](https://open.spotify.com/album/2QhxYPXYMo0h59LIPWjqC3) | 2:15 | 2021-11-10 | 2022-11-20 |

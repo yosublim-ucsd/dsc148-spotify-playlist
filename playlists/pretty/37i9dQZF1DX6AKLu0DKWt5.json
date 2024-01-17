@@ -1,12 +1,12 @@
 {
-  "description": "Music from TV shows and films nominated for the 81st Golden Globe Awards. Watch Jan 7, 2024 on CBS and Paramount+.",
-  "num_followers": 5911,
+  "description": "Music from the winners and nominees from the 81st Golden Globe Awards. ",
+  "num_followers": 5917,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDFiM2YzYzJiNGM2N2E5NmNiOGNjZjgxMTNlMjBmZDRlOTMyYjI1",
+  "snapshot_id": "MCxjNzM2ZTBlOTZkYTRiODk1YjZlM2E0YWRmY2MyZDE2ZTJkZGQ5NzM2",
   "tracks": [
     {
       "added_at": "2023-12-19 16:37:32",
@@ -531,6 +531,26 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
+        "name": "The Diplomat (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB"
+      },
+      "artists": [
+        {
+          "name": "Nathan Barr",
+          "url": "https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC"
+        },
+        {
+          "name": "Dimitri Smith",
+          "url": "https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP"
+        }
+      ],
+      "duration_ms": 69626,
+      "name": "Confirming Hal's Story",
+      "url": "https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
         "name": "Maestro: Music by Leonard Bernstein (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Eu9QPnzZEXpo0BzjWOLC4"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 143925,
       "name": "On the Town: Lonely Town. Pas de deux",
       "url": "https://open.spotify.com/track/3EjSbCtOjkPci8yTvoRBqX"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
-        "name": "The Diplomat (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB"
-      },
-      "artists": [
-        {
-          "name": "Nathan Barr",
-          "url": "https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC"
-        },
-        {
-          "name": "Dimitri Smith",
-          "url": "https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP"
-        }
-      ],
-      "duration_ms": 69626,
-      "name": "Confirming Hal's Story",
-      "url": "https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg"
     }
   ],
   "unique_name": "Golden Globes",

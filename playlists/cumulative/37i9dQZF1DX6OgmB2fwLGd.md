@@ -4,11 +4,12 @@
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-930 songs - 1 day 14 hr 0 min
+931 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/3Be6tP8oTqFVOMhEJg4wlO) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Ct3Nikd1tNSufQrnKqwev) | 2:53 | 2021-11-05 | 2022-02-18 |
+| [\#CERTIFIED \(feat\. DJ Ess\) \- DJ Ess Mix](https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DJ Ess](https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ) | [\#CERTIFIED \(DJ Ess Mix\) \[feat\. DJ Ess\]](https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ) | 2:31 | 2024-01-16 |  |
 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 | 2022-07-05 | 2022-12-17 |
 | [$ix $ix](https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$ix $ix](https://open.spotify.com/album/6jKq9Avinx5yz7MzcPHPRG) | 1:52 | 2023-06-16 | 2023-09-23 |
 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 | 2021-10-01 | 2022-07-09 |
@@ -931,7 +932,7 @@
 | [You Need God](https://open.spotify.com/track/31L3KmjeHA8lMBvF0lLrv4) | [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [You Need God](https://open.spotify.com/album/1OuDZVfPIiSuDYfRUEwrFL) | 3:12 | 2023-06-09 | 2023-09-23 |
 | [You Need Jesus](https://open.spotify.com/track/2JJjWLvlJhfYSfj4umyaTc) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [You Need Jesus](https://open.spotify.com/album/2JhiffKjGgJ1DcjNPE0WHG) | 2:14 | 2023-06-30 | 2023-10-21 |
 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-06-30 | 2023-08-26 |
-| [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK) | 2:37 | 2023-09-08 |  |
+| [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK) | 2:37 | 2023-09-08 | 2024-01-17 |
 | [You're A Jerk 2](https://open.spotify.com/track/5aXplC3gYU14i6HW5Fpaer) | [New Boyz](https://open.spotify.com/artist/1ZKqrja0WvbSssYNFO3lzs) | [You're A Jerk 2](https://open.spotify.com/album/4LbJu3jDgQvb6C3zPP7r2T) | 2:28 | 2022-01-21 | 2022-02-05 |
 | [you're a parasite](https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa) | 2:32 | 2022-08-31 | 2023-02-16 |
 | [you're a parasite](https://open.spotify.com/track/5CoMPjfMO8XnNc6aNKYSo1) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/1ZJR20NLRKNzzSbQvwkFMK) | 2:32 | 2022-08-31 | 2023-03-25 |

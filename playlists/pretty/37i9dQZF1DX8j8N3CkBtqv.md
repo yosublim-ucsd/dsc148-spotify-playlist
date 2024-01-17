@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Prateeksha Srivastava, A$AD
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,602 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,614 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jaane Kyu Diya](https://open.spotify.com/track/1bP6nyNtpIx4VuEEiAPQJM) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [Jaane Kyu Diya](https://open.spotify.com/album/7bFjkNxfriKVb0WUZRPx3P) | 3:04 |
 | 2 | [Jiya Jaise](https://open.spotify.com/track/0HN9mR6ajzVOnJcD4L0R8Z) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jiya Jaise](https://open.spotify.com/album/7cOkHnDXeP1bZYiscIIMcj) | 3:30 |
-| 3 | [Dil Na Laage](https://open.spotify.com/track/1iQ06QdWjaaPKmwQrJCx49) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Dil Na Laage](https://open.spotify.com/album/707iJF1SzEcGPytosRmLJD) | 3:14 |
+| 3 | [Dil Na Laage](https://open.spotify.com/track/1iQ06QdWjaaPKmwQrJCx49) | [Mitraz](https://open.spotify.com/artist/06FW0iaX7FJHn0Kgt7X5Wb), [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Dil Na Laage](https://open.spotify.com/album/707iJF1SzEcGPytosRmLJD) | 3:14 |
 | 4 | [Saahiba](https://open.spotify.com/track/76z2uAcGGoOhIxSdOwxlQJ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Saahiba](https://open.spotify.com/album/7mlb1stM6vE1g4vtHn0GBG) | 3:15 |
 | 5 | [Parwaaz](https://open.spotify.com/track/30yLu7ZxVdCC78PeljUek0) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Parwaaz](https://open.spotify.com/album/3Hs3LgTNTl5zZyvbhsdPSm) | 3:30 |
 | 6 | [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Khoya](https://open.spotify.com/track/1PTX1futeTG5wTrMNPrSRH) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Khoya](https://open.spotify.com/album/6iVv6eBhwiX9qBJMkWbNtG) | 3:01 |
 | 50 | [Baatein](https://open.spotify.com/track/0YDu2KNs4JEk21cuO538hE) | [Dhrriti Saharan](https://open.spotify.com/artist/3CfM61zeuztKppkmj0CggJ) | [Baatein](https://open.spotify.com/album/2CIEW2qLACFHpPdrLU66Kh) | 3:05 |
 
-Snapshot ID: `MCxkYzk2ZTM1MWI5M2IzMTJiNDJiMTBiOTQ4ZDkxOTI0MDdjNjFjYjE5`
+Snapshot ID: `MCxhMTNkNTgyYzg1OTRiZDA4ZTNlZGFlMzNiYTIzY2RjNzdkNmNiYTQx`

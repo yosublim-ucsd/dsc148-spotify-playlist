@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 36568,
+  "2024-01-17": 36623,
   "date_first_scraped": "2022-07-19",
   "description": "Grind day motivation ",
   "name": "Daily Hustle ",
@@ -3691,6 +3691,24 @@
       "duration_ms": 140050,
       "name": "Icon",
       "url": "https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ"
+    },
+    {
+      "album": {
+        "name": "Id.Me",
+        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169273,
+      "name": "Id.Me",
+      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
     },
     {
       "album": {

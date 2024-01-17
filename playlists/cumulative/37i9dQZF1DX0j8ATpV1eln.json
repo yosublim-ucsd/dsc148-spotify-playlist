@@ -1681,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "\u308f\u3084\u308f\u3084\u308f\u30fc\uff01",
+        "url": "https://open.spotify.com/album/4s3rWZNrEFZ3OdZrK6fTVQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189850,
+      "name": "\u308f\u3084\u308f\u3084\u308f\u30fc\uff01",
+      "url": "https://open.spotify.com/track/1Cfq2MGVnhT4ovbSRRmYab"
+    },
+    {
+      "album": {
         "name": "Sound Schedule Live Tour \u201cPLACE2019\u201d LIQUIDROOM",
         "url": "https://open.spotify.com/album/5ZKL7tnZPYK9by71TBIOXq"
       },

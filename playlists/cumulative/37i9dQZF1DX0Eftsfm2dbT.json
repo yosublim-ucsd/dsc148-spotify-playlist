@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: eyden",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: AK-69, \u00a5ellow Bucks",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -812,7 +812,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 369111,
       "name": "Bad Bitch Bigaku Remix",
       "url": "https://open.spotify.com/track/7HBhfTW2zcldEs0qsXuvT2"
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 209496,
       "name": "Change Up",
       "url": "https://open.spotify.com/track/1u7rOKJDVmppE1qo7FmAxm"
@@ -1690,6 +1690,28 @@
       "duration_ms": 116621,
       "name": "Choco Flow",
       "url": "https://open.spotify.com/track/2eXHFnDyVXtPwYXorogqq6"
+    },
+    {
+      "album": {
+        "name": "MATSURI",
+        "url": "https://open.spotify.com/album/7affgEpm5B1mwdgPBlvCTw"
+      },
+      "artists": [
+        {
+          "name": "Kona Rose",
+          "url": "https://open.spotify.com/artist/0mGt3la29cRNic4G2pQ0HN"
+        },
+        {
+          "name": "Jean Placide",
+          "url": "https://open.spotify.com/artist/0zpEE72yAy9eM0jxoYX0DM"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "Chotto Mattene (feat. Jean Placide)",
+      "url": "https://open.spotify.com/track/0RqJcCqFvJyjfJnkjgxq3R"
     },
     {
       "album": {
@@ -2526,7 +2548,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 107937,
       "name": "F*ck School",
       "url": "https://open.spotify.com/track/7E7y5zIrk60pb7wrypa9gU"
@@ -3868,7 +3890,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 181344,
       "name": "Iburi Gacko Flow pt.2",
       "url": "https://open.spotify.com/track/2uzlLXfDZDEgu46Pz4ohsW"
@@ -3886,7 +3908,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 161032,
       "name": "iikanji",
       "url": "https://open.spotify.com/track/6BnM0zSmcdPe7hPErGFYvE"
@@ -5296,7 +5318,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 165642,
       "name": "NARI-A-GARI",
       "url": "https://open.spotify.com/track/1qu08a7i7udyKuzl1vN8tY"
@@ -5556,6 +5578,24 @@
       "duration_ms": 248682,
       "name": "Nicety",
       "url": "https://open.spotify.com/track/4JNaiaqrepEWZDINHsoC01"
+    },
+    {
+      "album": {
+        "name": "No control",
+        "url": "https://open.spotify.com/album/7mTK88tTycLDnZFOZYdRU2"
+      },
+      "artists": [
+        {
+          "name": "DADA",
+          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125793,
+      "name": "No control",
+      "url": "https://open.spotify.com/track/6EO7ZAlUx1Wgcu4rIIV2Q2"
     },
     {
       "album": {
@@ -6240,7 +6280,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 201666,
       "name": "Psychedelic",
       "url": "https://open.spotify.com/track/4WcpmNZaCVS3OWNoRehz7b"
@@ -6757,6 +6797,28 @@
     },
     {
       "album": {
+        "name": "See, Saw",
+        "url": "https://open.spotify.com/album/7bx3h1AxJ7yfXiIFi0SfQy"
+      },
+      "artists": [
+        {
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        },
+        {
+          "name": "Gagle",
+          "url": "https://open.spotify.com/artist/7EEGSEHvuzEc2x4dhZPb50"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "See, Saw",
+      "url": "https://open.spotify.com/track/0QUniQsyXZwtkaEBLw29Qg"
+    },
+    {
+      "album": {
         "name": "Self Esteem",
         "url": "https://open.spotify.com/album/43t5qfn0aQd8N3RD6b0Tb5"
       },
@@ -6790,7 +6852,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 170573,
       "name": "self medication",
       "url": "https://open.spotify.com/track/6s5zFESrsnjKb92MozeINQ"
@@ -7342,7 +7404,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 201063,
       "name": "TARAREBA",
       "url": "https://open.spotify.com/track/72Zdhh39YsvcuBChATbIpG"
@@ -7404,6 +7466,28 @@
       "duration_ms": 122442,
       "name": "tetote",
       "url": "https://open.spotify.com/track/4jJi5kCvHjD7mRGx3lntbp"
+    },
+    {
+      "album": {
+        "name": "TETSU",
+        "url": "https://open.spotify.com/album/22W6gNgCkqRJim4HvxQ72s"
+      },
+      "artists": [
+        {
+          "name": "IRONSTONE",
+          "url": "https://open.spotify.com/artist/5H0BuahS3WSkksuBC9UDYf"
+        },
+        {
+          "name": "KyonCeeAPartment",
+          "url": "https://open.spotify.com/artist/2rAzjET9lHGRElU88HcK84"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "TETSU",
+      "url": "https://open.spotify.com/track/7C56vYddCPWRLR3rAfzFTE"
     },
     {
       "album": {
@@ -8230,7 +8314,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 147333,
       "name": "Yap Yap",
       "url": "https://open.spotify.com/track/5XbunWE0rvjeiMmtc2v5Pa"
@@ -8278,7 +8362,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 181379,
       "name": "YEA",
       "url": "https://open.spotify.com/track/03egqoKY0iIDZgSm6GfFC0"
@@ -8513,6 +8597,24 @@
     },
     {
       "album": {
+        "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
+        "url": "https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
+      "url": "https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V"
+    },
+    {
+      "album": {
         "name": "SOUL CUT'S",
         "url": "https://open.spotify.com/album/0ROF6yQrqunA38QXeGTaCq"
       },
@@ -8726,6 +8828,24 @@
       "duration_ms": 253492,
       "name": "\u559c\u54c0",
       "url": "https://open.spotify.com/track/0LiN597XAlatsK7v6zsnAv"
+    },
+    {
+      "album": {
+        "name": "\u5730\u5143\u306e\u5504",
+        "url": "https://open.spotify.com/album/1412Z8sa3HiGYtBVAxhzxh"
+      },
+      "artists": [
+        {
+          "name": "Hannya",
+          "url": "https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178079,
+      "name": "\u5730\u5143\u306e\u5504",
+      "url": "https://open.spotify.com/track/4Lta82KxL2mYTGU1wHMOSq"
     },
     {
       "album": {

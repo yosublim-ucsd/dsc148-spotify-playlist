@@ -2627,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "I Nostri Fiori",
+        "url": "https://open.spotify.com/album/2fUzYSRyRLva9J8T5PRMxa"
+      },
+      "artists": [
+        {
+          "name": "Blue Phelix",
+          "url": "https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "I Nostri Fiori",
+      "url": "https://open.spotify.com/track/3aMcfNmm7WR8V25FpmGXtn"
+    },
+    {
+      "album": {
         "name": "I'm Not Defeated (Cassius Remix)",
         "url": "https://open.spotify.com/album/5QiCs86yEbzpc0ZrkbTMKY"
       },

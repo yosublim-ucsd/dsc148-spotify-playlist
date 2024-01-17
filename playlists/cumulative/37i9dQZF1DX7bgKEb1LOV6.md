@@ -4,7 +4,7 @@
 
 > To the world, Here is NCT! Hi we are NCT!
 
-192 songs - 11 hr 11 min
+193 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Diggity](https://open.spotify.com/track/2JEaSgRiEra5OQrZlnyqXG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:29 | 2021-12-16 | 2023-05-03 |
 | [Dive](https://open.spotify.com/track/7MosmUFQt3qNapB3K2zk1x) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 3:56 | 2023-05-02 |  |
 | [Dive Into You](https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:12 | 2021-12-16 | 2023-05-03 |
+| [Do It \(Let’s Play\)](https://open.spotify.com/track/11r8LiIeQSXJWWHMkXuFsh) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Do It \(Let’s Play\) \(NCT ZONE OST\)](https://open.spotify.com/album/5QZRGNvfpETjoXK47LESUf) | 3:23 | 2024-01-16 |  |
 | [Don’t Need Your Love](https://open.spotify.com/track/7oEm5Q1virEUB9H0XjWZzF) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Don’t Need Your Love](https://open.spotify.com/album/2e3TvxplnFh1HcFUcSe39u) | 3:21 | 2021-12-16 | 2023-05-03 |
 | [Dream In A Dream](https://open.spotify.com/track/6MWqKPyfweTJ60mpiTj24o) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:35 | 2023-05-02 |  |
 | [Dreamer](https://open.spotify.com/track/2dGQn6Dqb5PPLqtbmvfcFf) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:29 | 2021-12-16 | 2023-05-03 |

@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Vacations
 
-1,304 songs - 2 day 23 hr 23 min
+1,305 songs - 2 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -859,6 +859,7 @@
 | [On Fye](https://open.spotify.com/track/2kjZSE6DNlNIBr05cD2Pxo) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [On Fye](https://open.spotify.com/album/38myRdXCKVOzacQ6vHjT8P) | 2:07 | 2022-01-28 | 2022-04-13 |
 | [On My Own](https://open.spotify.com/track/3trxmuZxjqlUTRDa1zkn5D) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [On My Own](https://open.spotify.com/album/5v2bQHeLBLobuHZZHt3cNZ) | 3:11 | 2022-03-25 | 2022-04-16 |
 | [On The Ground](https://open.spotify.com/track/4FHJqPdhIHhHn1JfcdwQOL) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:25 | 2022-06-10 | 2022-07-23 |
+| [One Bad Day](https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [One Bad Day](https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M) | 3:20 | 2024-01-16 |  |
 | [One Day](https://open.spotify.com/track/58U47mHjyLwUwJZ7voUt15) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/5nlhLmWKBfIzkCxwVRAFd2) | 2:24 | 2022-12-07 | 2023-03-04 |
 | [One Day](https://open.spotify.com/track/0IUprcNjE2hDtlvY8rq2W9) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 2:24 | 2021-06-07 | 2022-06-11 |
 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 | 2022-01-28 | 2022-04-21 |

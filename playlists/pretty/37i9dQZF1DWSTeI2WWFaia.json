@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Smoke DZA",
-  "num_followers": 1608315,
+  "num_followers": 1608172,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjFmYmI1NDczMTNiMjc2YzY2ZDA2OGMxOTRiZmZmYzcwMmIwYWE2",
+  "snapshot_id": "MCw0NjQ1NWUyMzc3YWQ1ZWQzMWQzZWIzMTMxZThlOWI1YTQxMDk2Y2Jl",
   "tracks": [
     {
       "added_at": "2024-01-12 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Tha Fix Before Tha VI",
-        "url": "https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 210509,
-      "name": "Slip",
-      "url": "https://open.spotify.com/track/4mnjagpaCTWFLqiRMHbFAm"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "The Elephant Man's Bones",
         "url": "https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf"
       },
@@ -979,22 +963,18 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Flying High, Part 2",
-        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
+        "name": "Tha Fix Before Tha VI",
+        "url": "https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG"
       },
       "artists": [
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Phil Drummond (feat. Conway the Machine)",
-      "url": "https://open.spotify.com/track/0MZPezONUuxbQZGsWeFWra"
+      "duration_ms": 210509,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/4mnjagpaCTWFLqiRMHbFAm"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -1015,6 +995,26 @@
       "duration_ms": 171989,
       "name": "Dead Men (feat. Cozz)",
       "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "Flying High, Part 2",
+        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Phil Drummond (feat. Conway the Machine)",
+      "url": "https://open.spotify.com/track/0MZPezONUuxbQZGsWeFWra"
     },
     {
       "added_at": "2024-01-12 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez, Ariana Grande, Alok e Bebe Rexha e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,913,151 likes - 85 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913,205 likes - 85 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 81 | [Viciado](https://open.spotify.com/track/0pA8V4Kp0C6i8cgAg0jxIu) | [Zé Vaqueiro Estilizado](https://open.spotify.com/artist/5rJJOghaNhAk41itivi1LO), [Heitor Costa](https://open.spotify.com/artist/1f0uTZ6roXfWpYsN8V1QqM) | [Viciado](https://open.spotify.com/album/1hdW0SlZJVLK5bdKfwbV19) | 3:01 |
 | 82 | [Você Não Ama Eu](https://open.spotify.com/track/5xxBcXMhycabshMaGanMRs) | [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [Você Não Ama Eu](https://open.spotify.com/album/6KDZPxgAUEALSKIBiCOl0m) | 2:00 |
 | 83 | [Gosta de um Papin](https://open.spotify.com/track/1qaTvH15PZ2chOoP5SM6C5) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [WiLLY DJAY](https://open.spotify.com/artist/03eAVAQJZGCvnSkKBNevDW) | [Gosta de um Papin](https://open.spotify.com/album/1vXtqbavfKReftPeEMw8L2) | 2:00 |
-| 84 | [24 HORAS](https://open.spotify.com/track/267H67kLMfetyHFNTlwJT3) | [BAILE PHONK](https://open.spotify.com/artist/0DNEd7LWCAZyGniVlHXDz6), [DJ Dudah](https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr) | [24 HORAS](https://open.spotify.com/album/6qmZ8KIy49J2hyxye1nJOM) | 1:57 |
+| 84 | [24 HORAS](https://open.spotify.com/track/267H67kLMfetyHFNTlwJT3) | [BAILE PHONK](https://open.spotify.com/artist/0DNEd7LWCAZyGniVlHXDz6), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [DJ Dudah](https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr) | [24 HORAS](https://open.spotify.com/album/6qmZ8KIy49J2hyxye1nJOM) | 1:57 |
 | 85 | [BRAZIL DRIFT](https://open.spotify.com/track/0wvTMEma4oBtSkwRlcPOiw) | [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU), [NICKXXX](https://open.spotify.com/artist/3zfgyWQdkhUoVyqjrISKKO), [DJ VIBER](https://open.spotify.com/artist/2AJGtiRmXalpq8FayihpD8) | [BRAZIL DRIFT](https://open.spotify.com/album/3Tt0CiKF5ORHjA2eod988c) | 1:32 |
 
-Snapshot ID: `MCxhODRmYmUyYjY4YzQ5ZGNkM2U3YjgyNWI3ZThmYWQ1YjExZWRiYWQ5`
+Snapshot ID: `MCwyN2QzYmNkYWVkZWVhZGNjNTk5Mzk0N2UwNjgxY2QyZTkwYWM4NjRl`

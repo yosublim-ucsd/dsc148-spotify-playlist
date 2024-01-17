@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,435 songs - 10 day 3 hr 52 min
+6,436 songs - 10 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3066,7 +3066,7 @@
 | [Leaves From The Vine](https://open.spotify.com/track/7dK55fynkFpFoiAB1Qf9ud) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Leaves From The Vine](https://open.spotify.com/album/5kXWjHfqjk2maJA7esfHtj) | 1:54 | 2020-09-18 | 2021-01-11 |
 | [leaves on the end of june](https://open.spotify.com/track/3FO0qbUbkcnqIgwwCUuVZi) | [tecashi](https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w) | [leaves on the end of june](https://open.spotify.com/album/1ahX1JLIhOjwvdCyTZXCZw) | 2:27 | 2022-01-07 | 2022-07-08 |
 | [Leaving Home](https://open.spotify.com/track/23NhXEpn5xDu9wfUxFc97q) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [Leaving Home](https://open.spotify.com/album/2PH9WJkYVJmSoF8eCeGrC1) | 2:38 | 2022-11-18 |  |
-| [Left](https://open.spotify.com/track/4dAK01jOvEsJ7rQl8XXP5R) | [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Left](https://open.spotify.com/album/4duZoxyO2u695K1OrefkrC) | 2:04 | 2024-01-12 |  |
+| [Left](https://open.spotify.com/track/4dAK01jOvEsJ7rQl8XXP5R) | [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Left](https://open.spotify.com/album/4duZoxyO2u695K1OrefkrC) | 2:04 | 2024-01-12 | 2024-01-17 |
 | [Left Behind](https://open.spotify.com/track/5nerxClu54joJ7YWik41y8) | [Son Of Arn](https://open.spotify.com/artist/725aXOndVSiKmldfKJ6Rnr) | [Left Behind](https://open.spotify.com/album/0FMVhAsPlHxnzT1IFSjyot) | 2:05 | 2023-12-08 |  |
 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 | 2021-11-05 | 2022-05-27 |
 | [Lemon](https://open.spotify.com/track/1G9KON1So2d8r7Mle9RGmv) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Lemon](https://open.spotify.com/album/1m5kRFZjm9due7qlRtsYoF) | 1:48 | 2019-05-27 | 2020-10-21 |
@@ -5485,6 +5485,7 @@
 | [Swoon](https://open.spotify.com/track/5hASCaq53lZP8aUwiIqZEV) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Recalibrate](https://open.spotify.com/album/2birbZpVxQLhcTht8Mxcnz) | 2:37 | 2021-11-05 | 2022-05-27 |
 | [Sxs13](https://open.spotify.com/track/73Oxy2zrZMTFgFARikF4UA) | [BXT Aer](https://open.spotify.com/artist/4Ih0m8L9Xc3fksQjlZHiWk) | [Beauty](https://open.spotify.com/album/28B4EwvzIlTy1gT9UlavVa) | 1:25 | 2020-10-28 | 2021-10-20 |
 | [Synergy](https://open.spotify.com/track/01ArL6Ix0SUyFHkAGAMBE2) | [Lofi Astronaut](https://open.spotify.com/artist/0BQRdk9XRbCZE8wGYAz4dG) | [Synergy \(Lofi Music\)](https://open.spotify.com/album/3q78HwaB3CJqbHQxZGWc7l) | 2:53 | 2022-08-05 | 2022-11-18 |
+| [Synthetic Forest](https://open.spotify.com/track/5Lplx3jpmE2GjvCZxxjBVA) | [East Lassitude](https://open.spotify.com/artist/0LY4tSbZ3fJinTgpoIudAm) | [Synthetic Forest](https://open.spotify.com/album/6YTIod9c8bs3AFucyEZTk1) | 2:55 | 2024-01-12 |  |
 | [Synthetic Love](https://open.spotify.com/track/0t2DLY5h1j9pDoqdsrZ4F0) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/0FDZZMdF6DIrGD76lxgw1Y) | 2:48 | 2022-11-18 | 2023-01-07 |
 | [Synthetic Love](https://open.spotify.com/track/4IjdbmobRYukzG1ls4z7iK) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/4IGhDpOK1sigwsd1Rk7Xuk) | 2:48 | 2022-11-18 | 2022-11-24 |
 | [Synthetic Love](https://open.spotify.com/track/4cdUlJdtucjfgP5ZtJTRLC) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [Synthetic Love](https://open.spotify.com/album/3bwD9r16L9AO8wnFxIgO9y) | 2:48 | 2022-09-23 | 2022-11-20 |

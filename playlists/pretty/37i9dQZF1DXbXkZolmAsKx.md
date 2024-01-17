@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,171 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,189 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 38 | [Your Pond](https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 6:03 |
 | 39 | [First Time Ruth Saw The Sea \- Original Mix](https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Talk To The Sea](https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK) | 3:19 |
 | 40 | [Made of Metal](https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 1:38 |
-| 41 | [Kae](https://open.spotify.com/track/033Vg3im3XjMERhAf180cN) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [AUN](https://open.spotify.com/album/29zcWtCKrowX82m30Ta6Lh) | 2:11 |
-| 42 | [Calamus](https://open.spotify.com/track/204GTh8baiHsw4dM97xkmJ) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Balsams](https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3) | 5:10 |
+| 41 | [Calamus](https://open.spotify.com/track/204GTh8baiHsw4dM97xkmJ) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Balsams](https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3) | 5:10 |
+| 42 | [Kae](https://open.spotify.com/track/033Vg3im3XjMERhAf180cN) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [AUN](https://open.spotify.com/album/29zcWtCKrowX82m30Ta6Lh) | 2:11 |
 | 43 | [Narkopop 1](https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Narkopop](https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF) | 4:52 |
 | 44 | [You Mean More to Me Than Any Scientific Truth](https://open.spotify.com/track/0qZk8jOCXnHqeAN5sE1XDM) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl), [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon) | [Sólaris](https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9) | 2:38 |
 | 45 | [Low Sudden](https://open.spotify.com/track/59t2d9JGOXxh3P9Hq7eoIl) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Goodbye To Language](https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN) | 2:38 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 49 | [Live Room Out](https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Virgins](https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx) | 2:37 |
 | 50 | [Hear Me Out](https://open.spotify.com/track/6bxilo3FjnLhbk8IzhyVO4) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 6:07 |
 | 51 | [Convex](https://open.spotify.com/track/0EvEp9ERqjF3XW0mZb4rmj) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Parallel](https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX) | 7:02 |
-| 52 | [Chonchos](https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 4:58 |
-| 53 | [We Search for the Lights](https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4) | [Sean Curtis Patrick](https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4) | [The Best Driving Music in the World Ever](https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj) | 4:10 |
+| 52 | [We Search for the Lights](https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4) | [Sean Curtis Patrick](https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4) | [The Best Driving Music in the World Ever](https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj) | 4:10 |
+| 53 | [Chonchos](https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 4:58 |
 | 54 | [Eye on the Sparrow](https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Balsams](https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3) | 7:15 |
 | 55 | [Atelier](https://open.spotify.com/track/71mFfICCJkyn4gyYjnoiDL) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 6:47 |
 | 56 | [Cloak](https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Magic Place](https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7) | 4:05 |
 | 57 | [Cherry Blossom Petals Fall Like Heavy Snow](https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Forgotten Hill](https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf) | 5:21 |
-| 58 | [Before Meaning Comes](https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 3:12 |
-| 59 | [Narkopop 4](https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Narkopop](https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF) | 4:09 |
+| 58 | [Narkopop 4](https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Narkopop](https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF) | 4:09 |
+| 59 | [Before Meaning Comes](https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 3:12 |
 | 60 | [Atomos VII](https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [Atomos](https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z) | 7:49 |
 | 61 | [Moonstone](https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Balsams](https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3) | 9:04 |
 | 62 | [To All It](https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 6:02 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 73 | [Opening](https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER), [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr) | [Everything](https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4) | 3:34 |
 | 74 | [Walking in a spiral towards the house: Side D](https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 12:28 |
 | 75 | [Faded Earth](https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 3:47 |
-| 76 | [Wound](https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Xen](https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe) | 2:09 |
-| 77 | [Bridgets' Theme](https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [American Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1) | 2:14 |
-| 78 | [Two Different People](https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt) | [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By) | [Living With Yourself](https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx) | 3:22 |
+| 76 | [Two Different People](https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt) | [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By) | [Living With Yourself](https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx) | 3:22 |
+| 77 | [Wound](https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Xen](https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe) | 2:09 |
+| 78 | [Bridgets' Theme](https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [American Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1) | 2:14 |
 | 79 | [Without Motion \- Leandro Fresco Remix](https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY), [Leandro Fresco](https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5) | [Glider 10: Reworks](https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF) | 7:44 |
 | 80 | [Ogives / Redistributed](https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Curious Things](https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF) | 5:28 |
 | 81 | [An Evening With Dusty](https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx) | [Kyle Bobby Dunn](https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl) | [Bring Me The Head of Kyle Bobby Dunn](https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph) | 8:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 99 | [Sunlight of Oneness](https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI) | [Phillip Wilkerson](https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp) | [Sunlight of Oneness and Very Amazing Now](https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v) | 9:16 |
 | 100 | [Gentle Flight](https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [21 Exoticism ESCAP](https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h) | 3:17 |
 
-Snapshot ID: `MCwwNDY3ZWM3ZjVhOTFkZTFhZDQwNGU3NzE0NDFlZjQ3YmE2YWVkYjRh`
+Snapshot ID: `MCw5Y2YzYmVhNTQ5M2JlNWQyOWVkNTBmZDQ4MGU0N2RjODE2MzdlNDhl`

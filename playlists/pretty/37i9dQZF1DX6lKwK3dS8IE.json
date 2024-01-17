@@ -1,12 +1,12 @@
 {
   "description": "Folk punk, anti-folk, acoustic punk & more. Cover: AJJ",
-  "num_followers": 2256,
+  "num_followers": 2262,
   "original_name": "Folk Misfits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2U0NDEyMGQ3NTI5OTU0MTIxZDliYTE3MjE5MDg4MmM5Y2NjZWRj",
+  "snapshot_id": "MCw3MGRmYmZiMzljY2IwNjBjOTUxOTA1YTc5NWI3ZmRmZTRjMWZkM2Vl",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Revel in the Rubble",
-        "url": "https://open.spotify.com/album/3ZOYd7kYr7MBKJo7l0iyTf"
-      },
-      "artists": [
-        {
-          "name": "Cousin Boneless",
-          "url": "https://open.spotify.com/artist/5fPPvbwNTcwUlHEnupabeg"
-        }
-      ],
-      "duration_ms": 234833,
-      "name": "Devil's Will",
-      "url": "https://open.spotify.com/track/12A6vaFlMMGVOxwTrLjexL"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Death and Hatred to Mankind",
         "url": "https://open.spotify.com/album/5lIeYBB9sGqFZHPasYTr8t"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 119457,
       "name": "Critical Hit",
       "url": "https://open.spotify.com/track/2XCxUexRr4mxLqBwZoHg9I"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Revel in the Rubble",
+        "url": "https://open.spotify.com/album/3ZOYd7kYr7MBKJo7l0iyTf"
+      },
+      "artists": [
+        {
+          "name": "Cousin Boneless",
+          "url": "https://open.spotify.com/artist/5fPPvbwNTcwUlHEnupabeg"
+        }
+      ],
+      "duration_ms": 234833,
+      "name": "Devil's Will",
+      "url": "https://open.spotify.com/track/12A6vaFlMMGVOxwTrLjexL"
     },
     {
       "added_at": "2023-05-26 04:01:00",

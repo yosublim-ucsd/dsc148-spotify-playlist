@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:2PCl4hx9Qds8sjcnoWUdqp">Sondae</a>
 
-480 songs - 1 day 4 hr 32 min
+481 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Death in Reverse](https://open.spotify.com/track/1gQBJLHT1uHoa52ZYlRK4X) | [Emilie Weiss](https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg), [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Death in Reverse](https://open.spotify.com/album/1UGW0FEM2zXsejRl8or0YE) | 3:56 | 2023-11-03 |  |
 | [Deconstruction](https://open.spotify.com/track/5OZMaDnsgkKDgXOe8l39iF) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Deconstruction](https://open.spotify.com/album/2GgbtY9mlWdhEoWctT1Qva) | 4:27 | 2020-12-18 | 2022-07-04 |
 | [Deliverer](https://open.spotify.com/track/5ZSeBObQHeYMUiRkwwcE6M) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Deliverer](https://open.spotify.com/album/1RoNtF8fj3ms3r6oA4cSn4) | 4:09 | 2023-04-07 |  |
-| [Demons](https://open.spotify.com/track/2a7FYpY6K2S1cMYFATnXNE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Demons](https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4) | 3:09 | 2023-03-10 |  |
+| [Demons](https://open.spotify.com/track/2a7FYpY6K2S1cMYFATnXNE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Demons](https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4) | 3:09 | 2023-03-10 | 2024-01-17 |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-08-04 |  |
 | [DNA](https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:47 | 2020-12-18 | 2023-02-19 |
 | [DNA](https://open.spotify.com/track/5EvEHYLKLso3cR4PVAbSwz) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [DNA](https://open.spotify.com/album/6wsUhs9eHjW1n8DIOiEYCQ) | 3:49 | 2020-12-18 | 2022-07-23 |
@@ -225,6 +225,7 @@
 | [Just Like In Heaven](https://open.spotify.com/track/4tx2oRqJFOEuwye6C1FpgV) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [Just Like In Heaven](https://open.spotify.com/album/3tmfiGss6xeKIiAmn4nJgW) | 4:56 | 2023-04-07 |  |
 | [Just Wondering](https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Wilder Wonderland](https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF) | 3:40 | 2023-02-19 | 2023-12-02 |
 | [Keep Looking Up \- Radio Mix](https://open.spotify.com/track/2Ly8NLI7sQ0LOicM7sAHRf) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Keep Looking Up \(Radio Mix\)](https://open.spotify.com/album/2JX7K0eXBgECFklS7qwygf) | 3:32 | 2023-04-07 | 2023-12-17 |
+| [Keep me](https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G) | 4:08 | 2023-12-15 |  |
 | [Kinda Wild](https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Kinda Wild](https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy) | 4:57 | 2023-08-04 |  |
 | [King of My Heart](https://open.spotify.com/track/221wISKB6AmZqZjrhrIrTv) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [King of My Heart](https://open.spotify.com/album/3LCnkn9T7aaHT3PLMrQWtb) | 4:03 | 2023-08-04 |  |
 | [Kingdom Business](https://open.spotify.com/track/0eRXjkHgPK8nfgSz1W6On8) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [ST\-Saint](https://open.spotify.com/artist/1Ibt48HCzHnDbkZYstwnTw), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Kingdom Business](https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr) | 3:30 | 2023-12-01 |  |

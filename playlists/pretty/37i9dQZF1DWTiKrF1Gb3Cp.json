@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 192779,
+  "num_followers": 192877,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjhjYjU3YzI5NzI5MGRjYzI1YzYxNjc4NTVkMWMwYjIwMTljY2E5",
+  "snapshot_id": "MCw1YzdhZTYwNTE2M2U5ZjcwOWEyNDE4NWNlYmU2YWRkMTEwNDI5NWI2",
   "tracks": [
     {
       "added_at": "2024-01-08 15:12:42",
@@ -835,30 +835,6 @@
     {
       "added_at": "2024-01-08 15:12:42",
       "album": {
-        "name": "De Mexico Song",
-        "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Bear Busby",
-          "url": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 213812,
-      "name": "De Mexico Song",
-      "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
-    },
-    {
-      "added_at": "2024-01-08 15:12:42",
-      "album": {
         "name": "Disfrutando El Proceso",
         "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 177230,
       "name": "Una Ruedita",
       "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
+    },
+    {
+      "added_at": "2024-01-08 15:12:42",
+      "album": {
+        "name": "De Mexico Song",
+        "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Bear Busby",
+          "url": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 213812,
+      "name": "De Mexico Song",
+      "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
     },
     {
       "added_at": "2024-01-08 15:12:42",
@@ -1563,22 +1563,18 @@
     {
       "added_at": "2024-01-08 15:12:42",
       "album": {
-        "name": "High Con Class XIII",
-        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+        "name": "Cementerio De Raperos",
+        "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
       },
       "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
         {
           "name": "TREN LOKOTE",
           "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
         }
       ],
-      "duration_ms": 252533,
-      "name": "La Feria Drogas y Muerte",
-      "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
+      "duration_ms": 238210,
+      "name": "Corren Con Suerte",
+      "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
     },
     {
       "added_at": "2024-01-08 15:12:42",
@@ -1615,18 +1611,22 @@
     {
       "added_at": "2024-01-08 15:12:42",
       "album": {
-        "name": "Cementerio De Raperos",
-        "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
+        "name": "High Con Class XIII",
+        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
       },
       "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
         {
           "name": "TREN LOKOTE",
           "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
         }
       ],
-      "duration_ms": 238210,
-      "name": "Corren Con Suerte",
-      "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
+      "duration_ms": 252533,
+      "name": "La Feria Drogas y Muerte",
+      "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
     },
     {
       "added_at": "2024-01-08 15:12:42",

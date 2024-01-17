@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 
 > Guided meditations for a variety of needs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,169 likes - 71 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,394 likes - 71 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 | 70 | [Deepening Relaxation with Guided Sleep Visualization](https://open.spotify.com/track/0gMTqpdHED35G1REqaPUK5) | [Sacred Body Scans](https://open.spotify.com/artist/0mpuyeMeBxHhE1JTGLWyic) | [Serenity Slumber: Guided Body Scan Meditation for Deep Sleep](https://open.spotify.com/album/6AyZZ64fA5O9Wl84vtRIcg) | 2:04 |
 | 71 | [Introduction to Mindfulness](https://open.spotify.com/track/7nd9g9KX6hHH7X5obIGIQL) | [Derek Turesky](https://open.spotify.com/artist/1FB0Zrw29XdrVIjq59gKWh) | [Mindfulness Meditation and Stress Reduction for Beginners: The Garden of NOW \(Audio CD\)](https://open.spotify.com/album/4y474ve7wvRhi7RP5Jr54k) | 3:36 |
 
-Snapshot ID: `MCw1ZmVlYmJlMDFlMTBlMDYyOTBlMjQ1YTg5Y2UyZGVlN2Y0ODk3ODhj`
+Snapshot ID: `MCwyNzA0MTdhMWRlNTUyNjI2ZTk1ZWYzOWM3MzYxNDRlYTYxMjgyODZj`

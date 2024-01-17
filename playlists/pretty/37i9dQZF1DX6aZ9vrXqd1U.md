@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,005 likes - 130 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,115 likes - 130 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 129 | [Hoshizora no Believe](https://open.spotify.com/track/3cST7z20txQesotATAQQ7l) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Hoshizora no Believe](https://open.spotify.com/album/6NZQluArYPWSujVrIK2xX1) | 3:30 |
 | 130 | [Beginning](https://open.spotify.com/track/1KunfYrG5bj00xvH5llE0f) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Beginning](https://open.spotify.com/album/71zJ9HyHJ3BuSJH6kXfcTQ) | 3:24 |
 
-Snapshot ID: `MCw0YzU5ZGJmOGFmZmUyODEwNzM5ZGYyMGJhMjJiNTJhMjY5OGVmMWI3`
+Snapshot ID: `MCwxZGQwY2FkZmViYTFlM2Y0Y2RiODNiNmU4NDQzOGMzODJjNWUwMTU1`

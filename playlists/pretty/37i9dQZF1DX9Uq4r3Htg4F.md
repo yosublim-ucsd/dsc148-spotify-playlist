@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uq4r3Htg4F.md) - [plain]
 
 > Listen to the soundtracks of the Maestra\. \(마에스트라 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,132 likes - 40 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,170 likes - 40 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uq4r3Htg4F.md) - [plain]
 | 39 | [Salut d'Amour, Op\. 12](https://open.spotify.com/track/0P7UwPB9vL74bD6gzYaKIu) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:44 |
 | 40 | [Rhapsody on a Theme of Paganini, Op\. 43: Variation No\. 18 Andante cantabile](https://open.spotify.com/track/5xcYuTciYwyCDPkOgYBAYz) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [Rachmaninov Variations](https://open.spotify.com/album/63PKBCJO4rZRgejds1VMCf) | 2:54 |
 
-Snapshot ID: `MCwzNTQwMDk5OWYyOWI0ZTVlM2M2ZGI4MGEyNjA4YWI1Y2M5YTAxMjQ1`
+Snapshot ID: `MCw2NzYxZTUxOTA0ZmQyNmQ4ODQ5OWI1YzFhMGNlOWEyMGVkZGIwNTZi`

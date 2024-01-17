@@ -2791,6 +2791,28 @@
     },
     {
       "album": {
+        "name": "BYE BYE!",
+        "url": "https://open.spotify.com/album/0ZE5fMneYtdl93X1GHqxSH"
+      },
+      "artists": [
+        {
+          "name": "PXRKX",
+          "url": "https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4"
+        },
+        {
+          "name": "RZXT!",
+          "url": "https://open.spotify.com/artist/5hfVobwxTC73whNVhzwlcP"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "BYE BYE!",
+      "url": "https://open.spotify.com/track/17Nc99PG4IF49K5H8uNEQi"
+    },
+    {
+      "album": {
         "name": "CAI PRA TRETA",
         "url": "https://open.spotify.com/album/4PGqvsA3ZzRwLqiUCWNunD"
       },

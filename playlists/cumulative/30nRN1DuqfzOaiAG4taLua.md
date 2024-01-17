@@ -4,7 +4,7 @@
 
 > 
 
-56 songs - 3 hr 1 min
+58 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,9 @@
 | [Gas Pedal \- Kyle Watson Remix](https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Gas Pedal \(Kyle Watson Remix\)](https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg) | 3:03 | 2023-12-14 |  |
 | [Give You](https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Give You](https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy) | 2:35 | 2023-12-15 |  |
 | [Help Me](https://open.spotify.com/track/1lLMUMpTAKCjHoKhR0MCVh) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Help Me](https://open.spotify.com/album/7DjRXrfWnN1dJNoDWXwxoy) | 3:10 | 2023-12-14 |  |
+| [Hook Or Crook](https://open.spotify.com/track/1PAP14ZkxJGdyFR2KpxORT) | [Jack Kennedy](https://open.spotify.com/artist/31dw7SuERzZnTvIMo98GOq) | [Hook Or Crook](https://open.spotify.com/album/0wN03tpWcsbTbb4eK5XETQ) | 2:46 | 2024-01-16 |  |
 | [I'm Lost](https://open.spotify.com/track/4LhZ61CeMpOHnGr7rl03Au) | [Aidan Rudd](https://open.spotify.com/artist/0Sk7ICzr5YpQ2b9N7zPSdD) | [I'm Lost](https://open.spotify.com/album/2FBPuKPAmuv1wJHZok2ugw) | 2:36 | 2023-12-14 |  |
+| [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2024-01-16 |  |
 | [Illuminate](https://open.spotify.com/track/6yythpkfyJhdqRSrPjmsLN) | [STVN LEON](https://open.spotify.com/artist/67qaDEodmDODu7iHm0Atfs) | [Illuminate](https://open.spotify.com/album/3QyvGioO1kxAiTJ7XQmwcc) | 2:47 | 2023-12-23 |  |
 | [Ininna Tora](https://open.spotify.com/track/3hBvz6hfpRuh8mxSnoplMG) | [Mazdem](https://open.spotify.com/artist/5HuVtqpuZlBSeQs0NLMehi) | [Ininna Tora](https://open.spotify.com/album/4din5YpFUJZK4tnvwFKbAj) | 3:16 | 2023-12-14 |  |
 | [Jiggy Jerry](https://open.spotify.com/track/20RftxXUx2ZyE02sdGmgOp) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt), [Tagmann](https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7) | [Jiggy Jerry](https://open.spotify.com/album/2WQsBsF44O6NhdZ8exZOK2) | 3:05 | 2023-12-18 |  |

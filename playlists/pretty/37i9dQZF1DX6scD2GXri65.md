@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,020 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,101 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 29 | [Come With Me](https://open.spotify.com/track/6vFEXiW7QPKGRardogdK6f) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Come With Me](https://open.spotify.com/album/1nS5RjmwKhROZY2XvSL71u) | 2:58 |
 | 30 | [Hero](https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [Hero](https://open.spotify.com/album/6WN1NA4eXWtdmNdXzjxEVS) | 3:02 |
 | 31 | [Bounce B\#tch](https://open.spotify.com/track/0tzNc4vPi7YujhPEl0lVCO) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Bounce B\#tch](https://open.spotify.com/album/4AeJff1Luy0nNTDchtaacw) | 2:07 |
-| 32 | [Live Fast Die Young](https://open.spotify.com/track/6Dr20NRSnMh9NT76D4FNqk) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Live Fast Die Young](https://open.spotify.com/album/4T6rUAR786jTllgifeo6Zx) | 4:01 |
-| 33 | [BLOW THE SPEAKERS UP](https://open.spotify.com/track/3Z6yPfZ18vOpDcmvMsgTxg) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [BLOW THE SPEAKERS UP](https://open.spotify.com/album/3RPjZ1oE9b7FRHPEXQQrDl) | 3:02 |
-| 34 | [Lose It All](https://open.spotify.com/track/5u6MUAawmhnFHVGaAGDj2v) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Lose It All](https://open.spotify.com/album/6uUPzHoAFzIIjRu7PNSNVT) | 3:28 |
+| 32 | [Lose It All](https://open.spotify.com/track/5u6MUAawmhnFHVGaAGDj2v) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Lose It All](https://open.spotify.com/album/6uUPzHoAFzIIjRu7PNSNVT) | 3:28 |
+| 33 | [Live Fast Die Young](https://open.spotify.com/track/6Dr20NRSnMh9NT76D4FNqk) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Live Fast Die Young](https://open.spotify.com/album/4T6rUAR786jTllgifeo6Zx) | 4:01 |
+| 34 | [BLOW THE SPEAKERS UP](https://open.spotify.com/track/3Z6yPfZ18vOpDcmvMsgTxg) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [BLOW THE SPEAKERS UP](https://open.spotify.com/album/3RPjZ1oE9b7FRHPEXQQrDl) | 3:02 |
 | 35 | [Impact](https://open.spotify.com/track/33yP87JuBfAhwuZplkysHH) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Impact](https://open.spotify.com/album/7pAC6BK4KbA21ffLsT99jY) | 3:39 |
 | 36 | [Let's Go Insane \(Into The Madness 2023 OST\)](https://open.spotify.com/track/321NLHCw7fk329HwnpDw9S) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Let's Go Insane \(Into The Madness 2023 OST\)](https://open.spotify.com/album/4CXFQdtkKxov3rjvmDsML2) | 3:35 |
 | 37 | [Living In A Rave](https://open.spotify.com/track/1jtelkyKjyRJTIhhf4yfxG) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Living In A Rave](https://open.spotify.com/album/2cBej5XP6FobrzbHVLooZW) | 3:19 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 62 | [Sacrifice](https://open.spotify.com/track/0Yrl0j2sFiTYY5wgUl28Iz) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Max P](https://open.spotify.com/artist/7D76Zt5h5OIV4zHi1AtCqw) | [Sacrifice \(feat\. Max P\)](https://open.spotify.com/album/0BDzrXxO9aJ0lO3d5PtMZa) | 2:56 |
 | 63 | [Heartache](https://open.spotify.com/track/6D58y0FkssslpxMqC2UfB9) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Heartache](https://open.spotify.com/album/3l79VbT1LAHSIVB3Scrsk4) | 3:11 |
 | 64 | [Unite](https://open.spotify.com/track/0EBURzaaZP0wHABAK0KajO) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Unite](https://open.spotify.com/album/22rdKqGyiQu7oJHtFppjdE) | 3:21 |
-| 65 | [UNDRGRND](https://open.spotify.com/track/5OPiQgHKYUGd50bAfJnxx8) | [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [UNDRGRND](https://open.spotify.com/album/0zccfdoWWFsJW6c7YPRBLj) | 2:54 |
-| 66 | [The Raven Of The Night](https://open.spotify.com/track/4SdCxGUYg3XRezP1VBrKAn) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [The Raven Of The Night](https://open.spotify.com/album/48NY92V1K9NtzgfH3jbOAu) | 4:22 |
+| 65 | [The Raven Of The Night](https://open.spotify.com/track/4SdCxGUYg3XRezP1VBrKAn) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [The Raven Of The Night](https://open.spotify.com/album/48NY92V1K9NtzgfH3jbOAu) | 4:22 |
+| 66 | [UNDRGRND](https://open.spotify.com/track/5OPiQgHKYUGd50bAfJnxx8) | [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [UNDRGRND](https://open.spotify.com/album/0zccfdoWWFsJW6c7YPRBLj) | 2:54 |
 | 67 | [What You Heard](https://open.spotify.com/track/6n6xZkucdDYETMuqOmZ8OI) | [Phrantic](https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [What You Heard](https://open.spotify.com/album/5cUjfZQV7IaaYi89yzz3L4) | 2:42 |
 | 68 | [Nothing About You](https://open.spotify.com/track/58AHKBiwr20gH8XYOZsyaz) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Nothing About You](https://open.spotify.com/album/0GsgSrhg6KOeJt3MERRAnx) | 3:16 |
 | 69 | [Wasted](https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Wasted](https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [Edge of The Unknown](https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [The Elite](https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk) | [Edge Of The Unknown](https://open.spotify.com/album/13mS26sOAVYfngzLevsf82) | 4:18 |
 | 80 | [In the Shadows 2k22 \- Krowdexx Mix](https://open.spotify.com/track/6pgDjTGp6VgbUG2dYLUMdO) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [A.Spencer](https://open.spotify.com/artist/5mc3fIXZDVqM8g9wkntXyg), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [In the Shadows 2k22 \(Krowdexx Mix\)](https://open.spotify.com/album/5l19N5cOJJv9Mj4KF5dJDk) | 2:39 |
 
-Snapshot ID: `MCw3MTFjODBjZjYwNDhkYTY5MzViY2U2MDhjZjJjMDc2YmJkZDg2YTE1`
+Snapshot ID: `MCxlZWM1NDI1NjQ1ODgxNjRmMzMwZWE1MmE0MTEzNWU1N2VkMjYwZmNj`

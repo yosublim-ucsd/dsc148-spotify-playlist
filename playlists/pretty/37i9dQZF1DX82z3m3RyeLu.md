@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82z3m3RyeLu.md) - [plain]
 
 > Listen BAEKHYUN's all solo tracks here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,334 likes - 38 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,360 likes - 38 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82z3m3RyeLu.md) - [plain]
 | 37 | [비처럼 음악처럼](https://open.spotify.com/track/28XlJkvSn8Dq99UkThmoeQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [2015 가요대전 Limited Edition](https://open.spotify.com/album/5QxeSMFLJ70kPLHzRiL2Nx) | 3:01 |
 | 38 | [On the road](https://open.spotify.com/track/0i5rdCbqhk6Iao4bwI4B9J) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [HYENA \(Original Television Soundtrack\)](https://open.spotify.com/album/1ps9C9hsH6eT2W46d9r68D) | 3:58 |
 
-Snapshot ID: `MCw2NDFkY2U3ODMzYTM0MGJiMjAyNGQ0ZWRhZjZmMTE4NWEyNzNhZjZk`
+Snapshot ID: `MCwyYWE3NmEwNDMxMjM5MjJjNDRiYWQ1YTVjNDliYzU4YmJkMmFhMWU0`

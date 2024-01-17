@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> 🛁 bathtub scene? no, i keep thinking about the one at the graveyard 🪦
+> i've been a jacob elordi stan since kissing booth
 
 1,342 songs - 2 day 22 hr 41 min
 

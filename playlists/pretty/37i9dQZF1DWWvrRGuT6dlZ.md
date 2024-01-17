@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Ishbel Arifa\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,385 likes - 156 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,386 likes - 156 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 155 | [Baby Blue](https://open.spotify.com/track/5FZsJeAOphubEbGEzHATlq) | [Soong](https://open.spotify.com/artist/1hKtrBDlkEWMZuu6clRxKc) | [Baby Blue](https://open.spotify.com/album/7rFLaq2TZuwO3piSQXhHtr) | 3:16 |
 | 156 | [You Got This](https://open.spotify.com/track/5nawgAeuUEqfyMumoflBEL) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ), [Munah Bagharib](https://open.spotify.com/artist/3oBQ7ewna5bYNetZBKUZQj) | [You Got This](https://open.spotify.com/album/2zGwurbXSagLIRNuR3b8Jj) | 2:57 |
 
-Snapshot ID: `MCxkNDg1NTg3YWQ2YzdlZThkMTRjNzY0NjM2ODVlMGEwNTFiMzU5NWMw`
+Snapshot ID: `MCxlMjY3YmRlOWFlMTMyN2Y4M2E5ZjJmNzdlNGY5YmZjN2JmNDdiNzky`

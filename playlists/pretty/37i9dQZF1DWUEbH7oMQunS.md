@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,856 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,870 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Great I Am \- Live](https://open.spotify.com/track/3rJAP9G6hjx2kN8Jsvas09) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn) | [You Hold It All \(Live\)](https://open.spotify.com/album/7ELf5tQ4o4MQP1d6Ps8t5R) | 5:28 |
 | 2 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs \(Live\)](https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV) | 5:09 |
-| 3 | [Same God](https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God](https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh) | 3:49 |
-| 4 | [Nothing Else](https://open.spotify.com/track/1noA1mip0whVmqAfOQGooU) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1) | [Nothing Else](https://open.spotify.com/album/4ZbxrL9T8SPMUYlgj0tZMm) | 4:24 |
+| 3 | [Nothing Else](https://open.spotify.com/track/1noA1mip0whVmqAfOQGooU) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1) | [Nothing Else](https://open.spotify.com/album/4ZbxrL9T8SPMUYlgj0tZMm) | 4:24 |
+| 4 | [Same God](https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God](https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh) | 3:49 |
 | 5 | [Call on Your Name \- Piano Version](https://open.spotify.com/track/5gETd5liL7Q0SJht440CNt) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name \(Piano Version\)](https://open.spotify.com/album/4rmRrqkch7H5dAMKjsMpbn) | 3:48 |
 | 6 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 |
 | 7 | [Shepherd of My Soul](https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [All Things New](https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a) | 5:46 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 31 | [I Could Sing Of Your Love Forever \- Instrumental](https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Rivers & Robots Presents: Still, Vol\. 1 \(Instrumentals\)](https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM) | 3:43 |
 | 32 | [Greater Than All Other Names \- Instrumental](https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 5:36 |
 | 33 | [The Invitation](https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:28 |
-| 34 | [Just Come](https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k) | [Creative Culture Co.](https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [At the Table](https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB) | 3:37 |
-| 35 | [The Sun Will Rise](https://open.spotify.com/track/6dQh3ivvGZqQh42B5avolF) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [The Sun Will Rise](https://open.spotify.com/album/1bwaS6JvUGRErJYUCWsWXP) | 3:30 |
+| 34 | [The Sun Will Rise](https://open.spotify.com/track/6dQh3ivvGZqQh42B5avolF) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [The Sun Will Rise](https://open.spotify.com/album/1bwaS6JvUGRErJYUCWsWXP) | 3:30 |
+| 35 | [Just Come](https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k) | [Creative Culture Co.](https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [At the Table](https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB) | 3:37 |
 | 36 | [\* Consecrate \*](https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK) | [Parachute Band](https://open.spotify.com/artist/32vh2QQNm1zEgZHFREPiUk) | [Matins : Vespers](https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv) | 3:56 |
 | 37 | [\(73\) the Nearness of You](https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Asaph](https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5) | 5:42 |
 | 38 | [Dawn](https://open.spotify.com/track/5rFYyHoZgm6EaOw1NsHJP5) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:31 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 59 | [5am](https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX) | [I'm Healing](https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET) | 4:42 |
 | 60 | [Lord I need You](https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4) | [Holy Communion Instrumental Duo](https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr) | [Contemporary Worship Hits](https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0) | 2:59 |
 | 61 | [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 |
-| 62 | [To The Sky](https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO) | [The Spacies](https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn) | [The Spacies](https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp) | 4:21 |
-| 63 | [Psalm 68](https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Psalm 68](https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g) | 4:12 |
+| 62 | [Psalm 68](https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Psalm 68](https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g) | 4:12 |
+| 63 | [To The Sky](https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO) | [The Spacies](https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn) | [The Spacies](https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp) | 4:21 |
 | 64 | [Lord Have Mercy](https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [The Universal Christ](https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t) | 3:51 |
 | 65 | [Mother's Love](https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f) | [Antonious](https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ) | [Mother's Love](https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0) | 1:00 |
 | 66 | [You & I Again](https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [You & I Again](https://open.spotify.com/album/0Q5FgBERKireTEtap76rej) | 2:40 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 94 | [Suddenly](https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Suddenly \- EP](https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN) | 4:49 |
 | 95 | [Velveteen](https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy) | [Christa Wells](https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby) | [Velveteen](https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO) | 3:57 |
 | 96 | [Higher Ways](https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA) | [Olu Meduoye](https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0) | [Higher Ways](https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh) | 5:33 |
-| 97 | [Spoken](https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 5:27 |
-| 98 | [A Reason to Hide](https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk) | [Caves](https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD) | [Caves \(Deluxe Edition\)](https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ) | 5:31 |
+| 97 | [A Reason to Hide](https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk) | [Caves](https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD) | [Caves \(Deluxe Edition\)](https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ) | 5:31 |
+| 98 | [Spoken](https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 5:27 |
 | 99 | [Even Here Love Comes \- Acoustic](https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo), [Teresa Bitoy](https://open.spotify.com/artist/7gFgT2PK2y409Y3Im8B8g2) | [Even Here Love Comes](https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc) | 4:27 |
 | 100 | [Smile](https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [Smile](https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar) | 3:39 |
 
-Snapshot ID: `MCw4MTRlZWM4ZmEwZWM5YzQ2YzhjNDQwMjg5MDgzNDJhYzM1ZDBmNjc4`
+Snapshot ID: `MCw3M2ZlYjYyM2MxZTVmYjRhN2ZiYzE4ZjgyMjRmZGY4MDQwNmNkYzg4`

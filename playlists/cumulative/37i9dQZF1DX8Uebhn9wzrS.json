@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Adamant",
+        "url": "https://open.spotify.com/album/6U0MdTQjK0U72GYRagwHl1"
+      },
+      "artists": [
+        {
+          "name": "Kuma",
+          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135187,
+      "name": "Adamant",
+      "url": "https://open.spotify.com/track/1rj0JZBZJhBa0LL2sQ7ro9"
+    },
+    {
+      "album": {
         "name": "ginzan / ador",
         "url": "https://open.spotify.com/album/03FxKN9k4HsF0RCLTCBHeE"
       },
@@ -10554,7 +10572,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 160109,
       "name": "Follow the maze",
       "url": "https://open.spotify.com/track/2cqoll9mqMTlaJRIgoK3ko"
@@ -16005,6 +16023,24 @@
     },
     {
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/20Qb081N1ZKNv4CegBQxjp"
+      },
+      "artists": [
+        {
+          "name": "The Timberkids",
+          "url": "https://open.spotify.com/artist/0JTTJTRYbWL8aQfuk0y20H"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114937,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6yfAOgJsACIP8UwkxFeOyH"
+    },
+    {
+      "album": {
         "name": "Let's Puddle",
         "url": "https://open.spotify.com/album/6RDVlWP0D8qqH4n5FA91Gx"
       },
@@ -18712,7 +18748,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 136551,
       "name": "Mistle",
       "url": "https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw"
@@ -19164,7 +19200,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 104062,
       "name": "Morning Journey",
       "url": "https://open.spotify.com/track/1191leNva7cN89gJQahJxz"
@@ -25437,6 +25473,24 @@
     },
     {
       "album": {
+        "name": "semi-hollow",
+        "url": "https://open.spotify.com/album/4ctfPJLaYEBKhoy5E7aR3k"
+      },
+      "artists": [
+        {
+          "name": "Ponzi Skeemz",
+          "url": "https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "semi-hollow",
+      "url": "https://open.spotify.com/track/0WZmg03i0vltH03r3pDuex"
+    },
+    {
+      "album": {
         "name": "Sentosa",
         "url": "https://open.spotify.com/album/5pAzfThJksEP3eyWzWfCzO"
       },
@@ -26662,6 +26716,24 @@
       "duration_ms": 96461,
       "name": "Snag It",
       "url": "https://open.spotify.com/track/3c8ARxqGvlucNqj3kDiHES"
+    },
+    {
+      "album": {
+        "name": "SNOOZY",
+        "url": "https://open.spotify.com/album/0fNG0QHYogZKvDHTdTBwxd"
+      },
+      "artists": [
+        {
+          "name": "SLOWIFI",
+          "url": "https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120681,
+      "name": "SNOOZY",
+      "url": "https://open.spotify.com/track/4XhPlXWcmojFQC93KicLkM"
     },
     {
       "album": {
@@ -28985,6 +29057,24 @@
     },
     {
       "album": {
+        "name": "Synthetic Forest",
+        "url": "https://open.spotify.com/album/6YTIod9c8bs3AFucyEZTk1"
+      },
+      "artists": [
+        {
+          "name": "East Lassitude",
+          "url": "https://open.spotify.com/artist/0LY4tSbZ3fJinTgpoIudAm"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175066,
+      "name": "Synthetic Forest",
+      "url": "https://open.spotify.com/track/5Lplx3jpmE2GjvCZxxjBVA"
+    },
+    {
+      "album": {
         "name": "Take Away",
         "url": "https://open.spotify.com/album/69rPS7tyNHuhvX18GT28pI"
       },
@@ -30938,7 +31028,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 91428,
       "name": "True",
       "url": "https://open.spotify.com/track/3Elj8kE6dLDym1iIBy6JeC"
@@ -33220,7 +33310,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 173164,
       "name": "wombat",
       "url": "https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV"

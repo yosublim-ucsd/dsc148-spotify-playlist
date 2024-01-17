@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
-  "num_followers": 162765,
+  "num_followers": 162891,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjY3MzZkYTk3MmU0MGE3NDNhYTk2NWVhYjYyN2QzZjdhYTBhYzk3",
+  "snapshot_id": "MCxmOTIzM2VkMDJjZGQ4M2NlNjQ1Mzc3ZTljZjRlNzYzZDY3MGEzZTli",
   "tracks": [
     {
       "added_at": "2023-11-09 16:46:30",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
-      },
-      "artists": [
-        {
-          "name": "TTNG",
-          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Baboon",
-      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
         "name": "TNT",
         "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 284666,
       "name": "Ten-Day Interval",
       "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
+      },
+      "artists": [
+        {
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Baboon",
+      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Valuables",
-        "url": "https://open.spotify.com/album/6ppuPMu9s3GYz2sOiGcTJk"
-      },
-      "artists": [
-        {
-          "name": "Enemies",
-          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
-        }
-      ],
-      "duration_ms": 267852,
-      "name": "itsallwaves",
-      "url": "https://open.spotify.com/track/04xtPsRyfN9giDE6plaIev"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/1IGmIS1wTwiz0JgXnM7QHd"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "World Class Listening Problem",
-        "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
+        "name": "Valuables",
+        "url": "https://open.spotify.com/album/6ppuPMu9s3GYz2sOiGcTJk"
       },
       "artists": [
         {
-          "name": "Don Caballero",
-          "url": "https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C"
+          "name": "Enemies",
+          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
         }
       ],
-      "duration_ms": 316213,
-      "name": "Railroad Cancellation",
-      "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
+      "duration_ms": 267852,
+      "name": "itsallwaves",
+      "url": "https://open.spotify.com/track/04xtPsRyfN9giDE6plaIev"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -787,6 +771,22 @@
       "duration_ms": 234813,
       "name": "Echolocation",
       "url": "https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "World Class Listening Problem",
+        "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
+      },
+      "artists": [
+        {
+          "name": "Don Caballero",
+          "url": "https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C"
+        }
+      ],
+      "duration_ms": 316213,
+      "name": "Railroad Cancellation",
+      "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Ni Hablar",
-        "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
-      },
-      "artists": [
-        {
-          "name": "LE\u00d1A",
-          "url": "https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS"
-        }
-      ],
-      "duration_ms": 221686,
-      "name": "GRVD",
-      "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 395146,
       "name": "D'arcy",
       "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "Ni Hablar",
+        "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
+      },
+      "artists": [
+        {
+          "name": "LE\u00d1A",
+          "url": "https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS"
+        }
+      ],
+      "duration_ms": 221686,
+      "name": "GRVD",
+      "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
-      },
-      "artists": [
-        {
-          "name": "FRDZ",
-          "url": "https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t"
-        }
-      ],
-      "duration_ms": 245290,
-      "name": "Habanero",
-      "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
         "name": "Limerencia: Split",
         "url": "https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 262666,
       "name": "El Capit\u00e1n",
       "url": "https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
+      },
+      "artists": [
+        {
+          "name": "FRDZ",
+          "url": "https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t"
+        }
+      ],
+      "duration_ms": 245290,
+      "name": "Habanero",
+      "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
     },
     {
       "added_at": "2023-11-09 16:46:30",

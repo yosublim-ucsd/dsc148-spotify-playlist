@@ -4,7 +4,7 @@
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-128 songs - 11 hr 41 min
+129 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Moonlight In Vermont](https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV) | [Jimmy Bruno](https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5) | [Burnin'](https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K) | 8:12 | 2022-05-24 |  |
 | [My Foolish Heart](https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Kaleidoscope](https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z) | 3:29 | 2022-05-24 |  |
 | [Never Will I Marry](https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/34rwazvp4s6hULceKvV5MV) | 5:54 | 2022-05-24 | 2024-01-14 |
-| [Never Will I Marry](https://open.spotify.com/track/5U5dQkH5I16AkPx0OrR9JQ) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/1XFiNrteRnlPbQfSYCITKb) | 5:54 | 2023-12-20 |  |
+| [Never Will I Marry](https://open.spotify.com/track/5U5dQkH5I16AkPx0OrR9JQ) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/1XFiNrteRnlPbQfSYCITKb) | 5:54 | 2023-12-20 | 2024-01-17 |
 | [Night And Day](https://open.spotify.com/track/6BH7yXu2TGulH6Gdn6zJSI) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Virtuoso](https://open.spotify.com/album/15mqbWSQ1XtAtpx5JsRA3Y) | 3:32 | 2022-05-24 | 2023-09-15 |
 | [Night And Day](https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:44 | 2022-05-24 |  |
 | [Nimbus](https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Eberhard Weber](https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Solstice](https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0) | 6:25 | 2022-05-24 |  |
@@ -95,6 +95,7 @@
 | [Ralph's Piano Waltz](https://open.spotify.com/track/6eldKsQmwvE8W8RJvE4bF8) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW) | 4:52 | 2022-05-24 |  |
 | [Rambler](https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Rambler](https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC) | 8:12 | 2022-05-24 |  |
 | [Rumspringa](https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN) | [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39), [Lage Lund](https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E) | [Idlewild](https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV) | 7:28 | 2022-05-24 | 2024-01-14 |
+| [Rumspringa](https://open.spotify.com/track/7moyBSRfjuR0sKUver4dIq) | [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39), [Lage Lund](https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E) | [Idlewild](https://open.spotify.com/album/5Kkxnyzd7BJ1MGCx0itIH4) | 7:28 | 2023-12-20 |  |
 | [Sacred Place](https://open.spotify.com/track/0od5R0qVfDsWJKa3SL2wa9) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Chiaroscuro](https://open.spotify.com/album/0lsINQ5eGOr4GBVfZYDqyI) | 4:13 | 2022-05-24 |  |
 | [Samba Em Prelùdio](https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL) | [Homes](https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr) | 7:11 | 2022-05-24 |  |
 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 | 2022-05-24 |  |

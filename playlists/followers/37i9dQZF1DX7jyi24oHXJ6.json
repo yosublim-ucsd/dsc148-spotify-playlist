@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 2077,
+  "2024-01-17": 2193,
   "date_first_scraped": "2024-01-13",
   "description": "Listen to the soundtracks of the EXchange series. (\ud658\uc2b9\uc5f0\uc560 \uc2dc\ub9ac\uc988 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "EXchange3 (\ud658\uc2b9\uc5f0\uc5603)",
@@ -212,6 +212,42 @@
     },
     {
       "album": {
+        "name": "EXchange3, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C"
+      },
+      "artists": [
+        {
+          "name": "Eddie and the Bricks",
+          "url": "https://open.spotify.com/artist/2FSpLqT9FBl8OX4J3IWTto"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169301,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/6mwnhpSXiGjlbkLAUX7TQU"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C"
+      },
+      "artists": [
+        {
+          "name": "Eddie and the Bricks",
+          "url": "https://open.spotify.com/artist/2FSpLqT9FBl8OX4J3IWTto"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169301,
+      "name": "Pause - Instrumental",
+      "url": "https://open.spotify.com/track/2wKPwLlxehFkHNYIeSJkmR"
+    },
+    {
+      "album": {
         "name": "EXchange2, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2FGLLuUb0Jue2nOgTJ1aiH"
       },
@@ -281,6 +317,42 @@
       "duration_ms": 170120,
       "name": "SUN OR SUCK - Instrumental",
       "url": "https://open.spotify.com/track/0Sz3yG1vtYzSPpM0wuCC4Q"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C"
+      },
+      "artists": [
+        {
+          "name": "SOO",
+          "url": "https://open.spotify.com/artist/2JpqnSaW77ij1es6oorhYx"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173575,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/18rhqcXRTE9IrtCUPJvncB"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C"
+      },
+      "artists": [
+        {
+          "name": "SOO",
+          "url": "https://open.spotify.com/artist/2JpqnSaW77ij1es6oorhYx"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173193,
+      "name": "Sunset - Instrumental",
+      "url": "https://open.spotify.com/track/5uBqXqeW6yoGTMXbprk847"
     },
     {
       "album": {
@@ -356,6 +428,42 @@
     },
     {
       "album": {
+        "name": "EXchange3, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C"
+      },
+      "artists": [
+        {
+          "name": "Luca minor",
+          "url": "https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212496,
+      "name": "They sing for us",
+      "url": "https://open.spotify.com/track/2sZrp7KDIy5J2kMWFlC2tN"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C"
+      },
+      "artists": [
+        {
+          "name": "Luca minor",
+          "url": "https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212496,
+      "name": "They sing for us - Instrumental",
+      "url": "https://open.spotify.com/track/4AUcB7gzStsmlGOE0DDY4K"
+    },
+    {
+      "album": {
         "name": "EXchange2, Pt. 4 'My Heart Flutter, Again' (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1KDWuCEliNwhGIZpzTWhrF"
       },
@@ -389,6 +497,42 @@
       "duration_ms": 196358,
       "name": "Timing - Instrumental",
       "url": "https://open.spotify.com/track/3h6hzt7sD9MiqAMxa50tJT"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C"
+      },
+      "artists": [
+        {
+          "name": "onthedal",
+          "url": "https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216573,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/7wcEpnPu8tqbnj4bsTxAlL"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C"
+      },
+      "artists": [
+        {
+          "name": "onthedal",
+          "url": "https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216586,
+      "name": "Together - Instrumental",
+      "url": "https://open.spotify.com/track/04qmgNNfOdMpAbrfLdSzeL"
     },
     {
       "album": {

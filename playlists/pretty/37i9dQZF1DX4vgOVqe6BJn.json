@@ -1,12 +1,12 @@
 {
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
-  "num_followers": 189357,
+  "num_followers": 189382,
   "original_name": "FIFA 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzQ1ZjMxOWZkYTg4NzM5ZDQxY2NkZGU3Y2FlOWVlMWZiMWYzM2M5",
+  "snapshot_id": "MCw1YTFlMDdiNTJiZDU1MzJlNWM4NTdlODgwOGMxNTMzM2E4MDUzMDA1",
   "tracks": [
     {
       "added_at": "2023-01-25 16:56:24",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Baby Queen",
-        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 220105,
-      "name": "Baby Queen",
-      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Big Talk",
         "url": "https://open.spotify.com/album/2Rt12p1ywQyDf0czEb1nPK"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 197352,
       "name": "Big Talk",
       "url": "https://open.spotify.com/track/39W9pHDCfUcw3zJSYb3HNJ"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Baby Queen",
+        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 171092,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Spell 31",
         "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 228083,
       "name": "Made of Gold",
       "url": "https://open.spotify.com/track/2dOlQsivPlIDjgISeoTJQw"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 171092,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Simple.",
-        "url": "https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 184123,
-      "name": "Dog Food (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/2WTbnYggqMxe2SIixTrooY"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
       },
@@ -887,18 +867,22 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/5RWjMHB1dicwuZIi8fCdE5"
+        "name": "Simple.",
+        "url": "https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy"
       },
       "artists": [
         {
-          "name": "moa moa",
-          "url": "https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc"
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         }
       ],
-      "duration_ms": 208106,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5OTZXDxcrbRqv6DzI1R2mm"
+      "duration_ms": 184123,
+      "name": "Dog Food (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/2WTbnYggqMxe2SIixTrooY"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -919,6 +903,22 @@
       "duration_ms": 262346,
       "name": "READY4DEM",
       "url": "https://open.spotify.com/track/7CHVm8NeCxvPuCXyAGAx3v"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/5RWjMHB1dicwuZIi8fCdE5"
+      },
+      "artists": [
+        {
+          "name": "moa moa",
+          "url": "https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5OTZXDxcrbRqv6DzI1R2mm"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "So Sick Of Me",
-        "url": "https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO"
-      },
-      "artists": [
-        {
-          "name": "Haich Ber Na",
-          "url": "https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd"
-        }
-      ],
-      "duration_ms": 167156,
-      "name": "So Sick Of Me",
-      "url": "https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Prettier Than You",
         "url": "https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 202093,
       "name": "Prettier Than You",
       "url": "https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "So Sick Of Me",
+        "url": "https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO"
+      },
+      "artists": [
+        {
+          "name": "Haich Ber Na",
+          "url": "https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd"
+        }
+      ],
+      "duration_ms": 167156,
+      "name": "So Sick Of Me",
+      "url": "https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
+        "name": "Full Round Table",
+        "url": "https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 254379,
+      "name": "Full Round Table",
+      "url": "https://open.spotify.com/track/2mX022csmPILfLhGGwctqn"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
         "name": "Skelele",
         "url": "https://open.spotify.com/album/3wQaO7CmLDh4eY6dHNMUNI"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 203389,
       "name": "Skelele",
       "url": "https://open.spotify.com/track/1k6OPAYYh1DawiHZ08djuM"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
-        "name": "Full Round Table",
-        "url": "https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 254379,
-      "name": "Full Round Table",
-      "url": "https://open.spotify.com/track/2mX022csmPILfLhGGwctqn"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Beep",
-        "url": "https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 120626,
-      "name": "Beep",
-      "url": "https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Life Is Infinite",
         "url": "https://open.spotify.com/album/3bu72kr0HlzSAAEIXX8kmq"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 206798,
       "name": "Choose A Life",
       "url": "https://open.spotify.com/track/0H5SDb0KCXx3c4CNjSwktn"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Beep",
+        "url": "https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 120626,
+      "name": "Beep",
+      "url": "https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "MAN NENNT MICH",
-        "url": "https://open.spotify.com/album/3OmyEcFktiJqy3JHybl01e"
-      },
-      "artists": [
-        {
-          "name": "Eunique",
-          "url": "https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe"
-        }
-      ],
-      "duration_ms": 135407,
-      "name": "MAN NENNT MICH",
-      "url": "https://open.spotify.com/track/4pnGmHL2PXPGfmgP61eoei"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Maybe Not",
         "url": "https://open.spotify.com/album/6mufZmjMUV4NnxgMHtteOb"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 137739,
       "name": "Maybe Not",
       "url": "https://open.spotify.com/track/4baVlZg9mWWkNYPBpMdZON"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "MAN NENNT MICH",
+        "url": "https://open.spotify.com/album/3OmyEcFktiJqy3JHybl01e"
+      },
+      "artists": [
+        {
+          "name": "Eunique",
+          "url": "https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe"
+        }
+      ],
+      "duration_ms": 135407,
+      "name": "MAN NENNT MICH",
+      "url": "https://open.spotify.com/track/4pnGmHL2PXPGfmgP61eoei"
     },
     {
       "added_at": "2023-01-25 16:56:24",

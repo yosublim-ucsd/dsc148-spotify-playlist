@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 107996,
+  "2024-01-17": 108000,
   "date_first_scraped": "2019-09-29",
   "description": "Barack Obama&#x27;s favorite songs of 2023 plus somo of his favorite summer songs. Includes Summer 22, &amp; 21 editions + bonus tracks.",
   "name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",
@@ -7748,6 +7748,24 @@
     },
     {
       "album": {
+        "name": "Calling You Out",
+        "url": "https://open.spotify.com/album/1e02uUS8ejIdwU7WOjDuYr"
+      },
+      "artists": [
+        {
+          "name": "Michael Meaney",
+          "url": "https://open.spotify.com/artist/53N5nS18cDlYFPPLlpZMS2"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155555,
+      "name": "Calling You Out",
+      "url": "https://open.spotify.com/track/7hqVARWgRLLZB01bgkVeyF"
+    },
+    {
+      "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
@@ -9327,7 +9345,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 186262,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3njSzp0s3j9NKaBeCkkxve"
@@ -11137,6 +11155,24 @@
       "duration_ms": 240000,
       "name": "C\u00f4te d\u2019Azur",
       "url": "https://open.spotify.com/track/4V6aMBBXyg4BgCeX8S7kKS"
+    },
+    {
+      "album": {
+        "name": "C\u00falpame",
+        "url": "https://open.spotify.com/album/3IAlltTgjqL6Z5T16AhPsD"
+      },
+      "artists": [
+        {
+          "name": "Natalia Dorigoni",
+          "url": "https://open.spotify.com/artist/0vzHaiiJpq71nyo7QWEvly"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195572,
+      "name": "C\u00falpame",
+      "url": "https://open.spotify.com/track/3V4KnzS51NS5H5xOAFoNoR"
     },
     {
       "album": {
@@ -20609,7 +20645,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 336386,
       "name": "Healing",
       "url": "https://open.spotify.com/track/2FBCT9y4LNqGjOV52SRB28"
@@ -33501,7 +33537,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 125901,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/3zdu4JE1HuGCe6uMISMszm"
@@ -36335,6 +36371,24 @@
       "duration_ms": 161750,
       "name": "Passed It",
       "url": "https://open.spotify.com/track/3divbxfH77KYSmFrMjQDrj"
+    },
+    {
+      "album": {
+        "name": "POWER&LOVE",
+        "url": "https://open.spotify.com/album/4HN7vNR3dsOiVuctGnH0v1"
+      },
+      "artists": [
+        {
+          "name": "Jem Rovez",
+          "url": "https://open.spotify.com/artist/2nF3gGn7N1eomCfiWNm4ot"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "PASSION",
+      "url": "https://open.spotify.com/track/7poeTqmLXXJC92wqbdRunV"
     },
     {
       "album": {

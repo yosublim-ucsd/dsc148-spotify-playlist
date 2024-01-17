@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,450 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,459 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,20 +73,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 63 | [Dança](https://open.spotify.com/track/5dFuWvNXDMwWJg3Fs64pJM) | [nastyfactor](https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1) | [Dança](https://open.spotify.com/album/0P7u3Ze1wNDzKFFNo7to1C) | 2:59 |
 | 64 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
 | 65 | [Tua](https://open.spotify.com/track/5UEyHP0qtkslMPeKXY1TYL) | [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd) | [Tua](https://open.spotify.com/album/2yPwEUuRMCoGqDjw8Ln0TO) | 3:21 |
-| 66 | [COMIGO \(extended version\)](https://open.spotify.com/track/5MOTrUpMemyBYPgtKHeVqA) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Carmen Chaquice](https://open.spotify.com/artist/7FNGfhLBvPhRisszCPtHAT) | [COMIGO \(extended version\)](https://open.spotify.com/album/6UKRXjm8zeSIKopgdAc5TR) | 2:47 |
+| 66 | [Corre](https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y) | [Osémio Boémio](https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx), [R7ALNESS](https://open.spotify.com/artist/5e2E68RwtTs37jHS3mZ885) | [Corre](https://open.spotify.com/album/7ea5899z7Ij1HuoNO5r5Sq) | 3:05 |
 | 67 | [Karma \(feat\. Coca FSM\)](https://open.spotify.com/track/1Fz1vSPH9JxwmJRtCQPiS6) | [Tekilla](https://open.spotify.com/artist/4JpVZA90RocmWArCvMSWqM), [Coca FSM](https://open.spotify.com/artist/7nBujSP0pSaB93RkhIWIiG) | [Karma \(feat\. Coca FSM\)](https://open.spotify.com/album/3zmKF4shlzNRvy3OMbkDiR) | 3:34 |
-| 68 | [Corre](https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y) | [Osémio Boémio](https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx), [R7ALNESS](https://open.spotify.com/artist/5e2E68RwtTs37jHS3mZ885) | [Corre](https://open.spotify.com/album/7ea5899z7Ij1HuoNO5r5Sq) | 3:05 |
+| 68 | [COMIGO \(extended version\)](https://open.spotify.com/track/5MOTrUpMemyBYPgtKHeVqA) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Carmen Chaquice](https://open.spotify.com/artist/7FNGfhLBvPhRisszCPtHAT) | [COMIGO \(extended version\)](https://open.spotify.com/album/6UKRXjm8zeSIKopgdAc5TR) | 2:47 |
 | 69 | [Mais Um](https://open.spotify.com/track/0xTGck7kcQuE5FKaV76Ge3) | [Maison Vërt](https://open.spotify.com/artist/3Cy9Lx1rIFy8alkXjVLq9S), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx), [Frank Lucas](https://open.spotify.com/artist/6tpjAPaF1K2nDrixml8l0R) | [Mais Um](https://open.spotify.com/album/18Lz9SXvBWL9KpFxg1PRUx) | 2:36 |
 | 70 | [I Want You](https://open.spotify.com/track/3hKtsahbgDQ5QoSjIrDkNy) | [Bless](https://open.spotify.com/artist/7G3cc4g02s4aGoY30P8dIG) | [I Want You](https://open.spotify.com/album/5cBkOqoIQhmHC9q464uWWY) | 3:28 |
 | 71 | [Selva](https://open.spotify.com/track/7M7fp3ErAQQuIAfqUAJ2Ot) | [Cabaceira](https://open.spotify.com/artist/28rxpmIYnxElyIqc1bJDBp) | [Selva](https://open.spotify.com/album/0n9luoSJgWYbZus7nU6qXJ) | 2:54 |
 | 72 | [Pausa](https://open.spotify.com/track/1eSJkqC47qMbJjvgIyGQw8) | [Sergio](https://open.spotify.com/artist/5eimxLCITlwq8OnT8nxCw7), [Fingaz](https://open.spotify.com/artist/3rSDUm0Q6QFFISsUaanplB) | [Pausa](https://open.spotify.com/album/4lAOkzdF6ugwfgaU2CjWTJ) | 3:11 |
 | 73 | [TEU PHONE](https://open.spotify.com/track/1xjifxQdnPy5j95rgWtdEh) | [JXST](https://open.spotify.com/artist/15hEnDT5ZvhkEG53gLYokS) | [TEU PHONE](https://open.spotify.com/album/2JCuu2mAIZzYqw0r43BCE5) | 2:03 |
 | 74 | [Sem Ti](https://open.spotify.com/track/0f4byXqIig8NDRC1gsyJe6) | [None](https://open.spotify.com/artist/2DUnriCSKtsAbjjnvROh9x) | [Sem Ti](https://open.spotify.com/album/70lTT4A9jPNXaAgbTgw2f7) | 3:06 |
-| 75 | [Paz](https://open.spotify.com/track/0gPI6cDpys6B8fTc05sE6v) | [Naue](https://open.spotify.com/artist/7yMH1XeYUX77DZ2yvHigrm) | [Amor perigoso](https://open.spotify.com/album/351iGGZSnO23YGeG79HfHf) | 2:41 |
-| 76 | [Agora Naw](https://open.spotify.com/track/1PgAHn4rhXbsGNkFK8A8HN) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Camadas](https://open.spotify.com/album/2sdk6kCoIXXJUf0v67Ig2x) | 3:04 |
+| 75 | [Agora Naw](https://open.spotify.com/track/1PgAHn4rhXbsGNkFK8A8HN) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Camadas](https://open.spotify.com/album/2sdk6kCoIXXJUf0v67Ig2x) | 3:04 |
+| 76 | [Paz](https://open.spotify.com/track/0gPI6cDpys6B8fTc05sE6v) | [Naue](https://open.spotify.com/artist/7yMH1XeYUX77DZ2yvHigrm) | [Amor perigoso](https://open.spotify.com/album/351iGGZSnO23YGeG79HfHf) | 2:41 |
 | 77 | [Mar de Rosas](https://open.spotify.com/track/7xPkzDlimUKWdr3Gf7JdPN) | [fontayne](https://open.spotify.com/artist/5LqAHoa04Mi9HtTtskh2GF) | [Mar de Rosas](https://open.spotify.com/album/492Q0hPgKBp529dQpdHvPZ) | 2:46 |
 | 78 | [Falsa Cinderela](https://open.spotify.com/track/4KCR3YcAV2hwdnTDrRQKQo) | [VARC](https://open.spotify.com/artist/5oS1nvRZ8gHlNirN7dDlLn) | [Falsa Cinderela](https://open.spotify.com/album/0QvKQ9d42TVCt1anDSDCUg) | 2:51 |
 | 79 | [Laços](https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Laços](https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw) | 3:26 |
 | 80 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 |
 
-Snapshot ID: `MCw5YWRhNmU5YzE2NzRkNjE3OWExYWVlZjRjNmRiZmI2NTg5NjhlY2Iz`
+Snapshot ID: `MCw2MTI1NDU1YzM3NDQxY2E3NGQwNzZmYjVhNTFiODAxMGQxNDczMTc5`

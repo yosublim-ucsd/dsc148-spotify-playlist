@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,386 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,446 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [NIKKI](https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO) | [Joseph of Mercury](https://open.spotify.com/artist/7vahFRSKRiVDOejIMEBWvO) | [NIKKI](https://open.spotify.com/album/0oJ4yy7ZeZAT4aAfsd4kFU) | 3:18 |
 | 100 | [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 |
 
-Snapshot ID: `MCw4Zjk5NGU2NjhkNGM1OTEwNGY0NTcyODUwOTRiNjUwOTMwNzJlNjM3`
+Snapshot ID: `MCxlM2EyZmYzODA0NzBiNGU3YTNiNjBkMDdmMWU1ZmUzZjE1NGQzY2U0`

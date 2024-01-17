@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 28074,
+  "2024-01-17": 28084,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Ukraine.",
   "name": "Top 50 - Ukraine",
@@ -13753,7 +13753,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
@@ -20980,6 +20980,28 @@
     },
     {
       "album": {
+        "name": "\u041d\u0435\u0444\u0435\u0440\u0442\u0438\u0442\u0438",
+        "url": "https://open.spotify.com/album/4AmalzmUVMIRzgj1d3rENq"
+      },
+      "artists": [
+        {
+          "name": "\u0418\u0446\u044b\u043a \u0426\u044b\u043f\u0435\u0440",
+          "url": "https://open.spotify.com/artist/3itorhtp2xgFl1iMPwvAGs"
+        },
+        {
+          "name": "\u0418\u0433\u043e\u0440\u044c \u0426\u044b\u0431\u0430",
+          "url": "https://open.spotify.com/artist/02Gn2Lbcdednu9WM1T12nz"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129250,
+      "name": "\u041d\u0435\u0444\u0435\u0440\u0442\u0438\u0442\u0438",
+      "url": "https://open.spotify.com/track/7ezwdx3OVyn6aImfCopgEB"
+    },
+    {
+      "album": {
         "name": "\u041d\u043e\u0432\u0430\u044f \u0432\u043e\u043b\u043d\u0430",
         "url": "https://open.spotify.com/album/4hwnkuhRmnW9rFN1P0m6D4"
       },
@@ -21201,7 +21223,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
       "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
@@ -22605,7 +22627,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 210465,
       "name": "\u041f\u044b\u044f\u043b\u0430",
       "url": "https://open.spotify.com/track/1nZHWDoDoP0Dtgup8jTW2u"

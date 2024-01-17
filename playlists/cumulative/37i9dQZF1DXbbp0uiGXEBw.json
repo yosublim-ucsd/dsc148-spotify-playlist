@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "Anh",
+        "url": "https://open.spotify.com/album/4tHoCOKrPBg3QZwQeDaywT"
+      },
+      "artists": [
+        {
+          "name": "Ch\u1ecb \u0110\u1eb9p \u0110\u1ea1p Gi\u00f3 R\u1ebd S\u00f3ng",
+          "url": "https://open.spotify.com/artist/4DNLpoezq6CHCbbp0JmmHa"
+        },
+        {
+          "name": "Uy\u00ean Linh",
+          "url": "https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182399,
+      "name": "Anh - Uy\u00ean Linh Version",
+      "url": "https://open.spotify.com/track/2YF6BpVt9vvmrCSdYYLGpq"
+    },
+    {
+      "album": {
         "name": "T\u1eadp 12: The Masked Singer Vietnam",
         "url": "https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA"
       },
@@ -472,6 +494,28 @@
       "duration_ms": 231497,
       "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh",
       "url": "https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM"
+    },
+    {
+      "album": {
+        "name": "CAM'ON",
+        "url": "https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg"
+      },
+      "artists": [
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+        },
+        {
+          "name": "Tr\u1ea7n Thu H\u00e0",
+          "url": "https://open.spotify.com/artist/0DxYes5zk3LMaliyhYdXHN"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224580,
+      "name": "C\u00f3 bao l\u1ea7n",
+      "url": "https://open.spotify.com/track/1rAQ8Ae8exEhcYCTazow8k"
     },
     {
       "album": {
@@ -1382,7 +1426,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 219212,
       "name": "H\u01b0\u1edbng D\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/65uxT4ZGe6eOABj1g5V2Fj"
@@ -2791,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Em",
+        "url": "https://open.spotify.com/album/5r85lwBL5ytrpQlWSAsNjy"
+      },
+      "artists": [
+        {
+          "name": "My Anh",
+          "url": "https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132013,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/5pKG7UZURp1m7hjFLRcghs"
+    },
+    {
+      "album": {
         "name": "VSTRA",
         "url": "https://open.spotify.com/album/168kYvrugeWAGTfIl7i4Ck"
       },
@@ -2810,7 +2872,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 186535,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/2gP1CDcPJ8hJTwFGEpnRgw"
@@ -3614,7 +3676,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 299076,
       "name": "Y\u00eau \u0110\u01a1n Ph\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/30q9zUr6k8fowUiKwetqP1"

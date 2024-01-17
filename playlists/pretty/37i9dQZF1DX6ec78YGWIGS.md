@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Emilia & NATHY PELUSO
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,493 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,543 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 |
 | 100 | [Come Back](https://open.spotify.com/track/23SHCMa4ploHHZHqNBK23D) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i), [Lucas Murua](https://open.spotify.com/artist/5954OWgf6WfFMTHNNLraVJ) | [Come Back](https://open.spotify.com/album/5lNVP2336w7BnIenG1TeXi) | 2:43 |
 
-Snapshot ID: `MCw1MjVjNTMzNDNlNmI5N2IxYWMxNTgyOTAwNGEwNDI1NWFjMjMxNjFl`
+Snapshot ID: `MCw4NWIzOWEyZjZjNmNkMjJkNGE5ZTYyNTgwNGUwYmI3NWU5Mjk2MDZk`

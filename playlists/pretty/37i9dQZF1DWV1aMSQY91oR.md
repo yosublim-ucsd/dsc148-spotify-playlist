@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,469 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,476 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [CITÉS DE FRANCE](https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [CITÉS DE FRANCE](https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX) | 3:35 |
 | 50 | [Trapstar](https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [BRAZY](https://open.spotify.com/artist/7HytOPAbrG6oy21znAXXzM), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Trapstar](https://open.spotify.com/album/6w0MKX4W3Q8m80ZRWWg2ya) | 2:54 |
 
-Snapshot ID: `MCw0MzYwYmVlYWNmNzk0MTVjNmRiMWE2ZDIzZmExMjk4YzUyYzRjZmI1`
+Snapshot ID: `MCxlYTNkZTY0M2U4NTk4ZmEyOTFmMTIxMzJkMGZlOWMzMWYyMmZlNjQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,153 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,250 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 43 | [Salomé](https://open.spotify.com/track/6DDQmrMvH4RfxVn7TTTDW6) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [With A Little Help From My Friend](https://open.spotify.com/album/3RRcw4zxfUm5rhfYpLMzlZ) | 4:42 |
 | 44 | [Comedia](https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 3:31 |
 | 45 | [Siempre Seré Guajiro](https://open.spotify.com/track/2PQMhXmBx5h2jDsgZYHTfx) | [William Millan](https://open.spotify.com/artist/2RYP0CUL9ezyuVt13yMzVj), [Saoco](https://open.spotify.com/artist/5w8CzZs1645N7nVRmbVdF1) | [Siempre Seré Guajiro](https://open.spotify.com/album/5a7isqzKSbZ8ugfrqq8d8d) | 5:27 |
-| 46 | [Siempre Alegre](https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp) | [Raphy Leavitt](https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR) | [Oro Salsero](https://open.spotify.com/album/2GlGH2mmkFoR1mqE6CnCjS) | 5:16 |
-| 47 | [Mala Suerte](https://open.spotify.com/track/3aYEabwDHrlSSReJd6m9bR) | [The Lebron Brothers Orchestra](https://open.spotify.com/artist/6zb5tBPPvk4nRXW33IqztD) | [Psychedelic Goes Latin](https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC) | 3:10 |
+| 46 | [Mala Suerte](https://open.spotify.com/track/3aYEabwDHrlSSReJd6m9bR) | [The Lebron Brothers Orchestra](https://open.spotify.com/artist/6zb5tBPPvk4nRXW33IqztD) | [Psychedelic Goes Latin](https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC) | 3:10 |
+| 47 | [Siempre Alegre](https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp) | [Raphy Leavitt](https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR) | [Oro Salsero](https://open.spotify.com/album/2GlGH2mmkFoR1mqE6CnCjS) | 5:16 |
 | 48 | [Ojalá Te Vaya Bonito](https://open.spotify.com/track/6UrQqgQIqVsp63Dfgc9UCZ) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [Serie Sensacional Tropical Willie Rosario](https://open.spotify.com/album/7fCLBnwndU22MSF2IHRcC5) | 6:26 |
 | 49 | [Anacaona](https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Ponte Duro The Fania All Stars Story](https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv) | 7:17 |
 | 50 | [Popurrí Navideño / Estrella De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen María / La Tierra Mía](https://open.spotify.com/track/4b6c7ugOlWaVBUmCElgImW) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 3:36 |
 
-Snapshot ID: `MCxiOGRmYWJiM2RkMDc5N2VmOTU0NjI0YzdlMzdjMDU4ZjE3NzQ1Y2Nh`
+Snapshot ID: `MCwzM2U5ZTRmN2EzNGMzMmU4Zjk5N2E4Y2FkZDdkZmU4OTQyMTFiYzg3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Jenobi, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,894 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,901 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Desiring Machines](https://open.spotify.com/track/6p3d5fNZj0olwXS8eL4SEE) | [Atka](https://open.spotify.com/artist/49MRn294La2ofVJ2w9ZaJv) | [Desiring Machines](https://open.spotify.com/album/2jL8t5HbCPaIkC4duTAfCp) | 4:58 |
 | 80 | [Shillings](https://open.spotify.com/track/1oOqyRlTmo6RW6OkZec2MG) | [Noum](https://open.spotify.com/artist/28j3pb4XKdlLKDAmzlSQ3u) | [Shillings](https://open.spotify.com/album/0Uu9c38GWgsgRdlNd26mbU) | 4:34 |
 
-Snapshot ID: `MCw5ZWRhOTcwZDcwMTUxZGM4YTg2ZDFkNTFjZmM5MTQxNTQyZmM0ZTA4`
+Snapshot ID: `MCw5MDdmZDg5OGU1ZGVmMTJlZTYwMDcwZGIyMGM3MTgyZWU1ZTQ0Mzdk`

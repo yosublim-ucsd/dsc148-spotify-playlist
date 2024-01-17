@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Twintig (Deluxe)",
+        "url": "https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177690,
+      "name": "Blijf Zo",
+      "url": "https://open.spotify.com/track/3bHhbGAnKXlD3SIoRZr8oj"
+    },
+    {
+      "album": {
         "name": "Blijven Rijden",
         "url": "https://open.spotify.com/album/1y2ecqD1oA6JSDRfMHBNPV"
       },
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 212471,
       "name": "Troostzoekers (met Froukje)",
       "url": "https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J"

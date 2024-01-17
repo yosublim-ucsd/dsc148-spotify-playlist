@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzYxZmQ5YWQ3ZTkyZTE2NGJjNWNiNjg4N2UwMjgwY2FkYmQ2ZmFj",
+  "snapshot_id": "MCwzN2UwYzllNDVlOTg5NmQ3MGY2ZGIxMGNmOWY3NzcwM2M1N2E0ODMz",
   "tracks": [
     {
       "added_at": "2024-01-12 03:01:00",
@@ -296,12 +296,20 @@
       },
       "artists": [
         {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "For\u00e7a Suprema",
+          "url": "https://open.spotify.com/artist/5aHBo7aTtbveyygEOFqOX3"
+        },
+        {
+          "name": "Gutto",
+          "url": "https://open.spotify.com/artist/2xTmseecOdW1wBsVicsOmg"
         }
       ],
-      "duration_ms": 0,
-      "name": "",
+      "duration_ms": 282563,
+      "name": "Luxo",
       "url": "https://open.spotify.com/track/3mawalxBZwZROIFufojlHr"
     },
     {

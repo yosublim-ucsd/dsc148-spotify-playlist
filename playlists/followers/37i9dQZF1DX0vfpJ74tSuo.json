@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 66456,
+  "2024-01-17": 66494,
   "date_first_scraped": "2022-05-26",
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
   "name": "Morning Blues",
@@ -195,6 +195,24 @@
       "duration_ms": 177106,
       "name": "Assossam",
       "url": "https://open.spotify.com/track/0kkU5wgY8w4l3RSTSSaAgz"
+    },
+    {
+      "album": {
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177106,
+      "name": "Assossam",
+      "url": "https://open.spotify.com/track/4mrDCkjzLhi9CfxYfHWPaD"
     },
     {
       "album": {
@@ -3203,7 +3221,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 241529,
       "name": "Shake and Bake",
       "url": "https://open.spotify.com/track/5pcrKXHNn0Yd20cpI5dgha"

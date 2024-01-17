@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 399480,
+  "num_followers": 399680,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmM5MzE1NTc5ZTBmZmQ0ODRiNjY5Y2M3OWY2ZWE3NGFhZTQzMjBm",
+  "snapshot_id": "MCxkYzVlNGM5OGRhYTY2ZjdkYTliMjY5ZTY2YWY4NzNkNDUxMWY2MDU2",
   "tracks": [
     {
       "added_at": "2024-01-11 15:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "Adieux",
+        "url": "https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "Adieux",
+      "url": "https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "Astray",
         "url": "https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 141814,
       "name": "Muse Of History",
       "url": "https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Adieux",
-        "url": "https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Adieux",
-      "url": "https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "To Bring Rest",
-        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Austin",
-          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
-        }
-      ],
-      "duration_ms": 137749,
-      "name": "To Bring Rest",
-      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Fields Of Love",
         "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 137743,
       "name": "Fields Of Love",
       "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "To Bring Rest",
+        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Austin",
+          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+        }
+      ],
+      "duration_ms": 137749,
+      "name": "To Bring Rest",
+      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU"
-      },
-      "artists": [
-        {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
-        }
-      ],
-      "duration_ms": 151750,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Aspres",
         "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Chanson d\u2019\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp"
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU"
       },
       "artists": [
         {
-          "name": "Moleno",
-          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
         }
       ],
-      "duration_ms": 163027,
-      "name": "Chanson d\u2019\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob"
+      "duration_ms": 151750,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -603,6 +587,22 @@
       "duration_ms": 130403,
       "name": "Luce",
       "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Chanson d\u2019\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp"
+      },
+      "artists": [
+        {
+          "name": "Moleno",
+          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "Chanson d\u2019\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "The Way Home",
-        "url": "https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB"
+        "name": "Peace flow",
+        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
       },
       "artists": [
         {
-          "name": "Wendie Solomon",
-          "url": "https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs"
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
         }
       ],
-      "duration_ms": 147535,
-      "name": "The Way Home",
-      "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
+      "duration_ms": 137692,
+      "name": "Peace flow",
+      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Peace flow",
-        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB"
       },
       "artists": [
         {
-          "name": "Jon Albreit",
-          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
+          "name": "Wendie Solomon",
+          "url": "https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs"
         }
       ],
-      "duration_ms": 137692,
-      "name": "Peace flow",
-      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
+      "duration_ms": 147535,
+      "name": "The Way Home",
+      "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Waitings",
-        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
-      },
-      "artists": [
-        {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
-        }
-      ],
-      "duration_ms": 139411,
-      "name": "Waitings",
-      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Bona Fide",
         "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
       },
@@ -907,6 +891,38 @@
       "duration_ms": 157860,
       "name": "Bona Fide",
       "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Dancing Dreams",
+        "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
+      },
+      "artists": [
+        {
+          "name": "Steven Windhaug",
+          "url": "https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Dancing Dreams",
+      "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Waitings",
+        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 139411,
+      "name": "Waitings",
+      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -927,18 +943,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Dancing Dreams",
-        "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
       },
       "artists": [
         {
-          "name": "Steven Windhaug",
-          "url": "https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA"
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
         }
       ],
-      "duration_ms": 138181,
-      "name": "Dancing Dreams",
-      "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
+      "duration_ms": 158000,
+      "name": "Archipelago",
+      "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -975,6 +991,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "Countryside Mansion",
+        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
+      },
+      "artists": [
+        {
+          "name": "Joanne Gardiner",
+          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "Countryside Mansion",
+      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "Sound Of Mind",
         "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
       },
@@ -1007,22 +1039,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Evenings on Instagram, Pt. I",
-        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
-      },
-      "artists": [
-        {
-          "name": "Jef Martens",
-          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
-        }
-      ],
-      "duration_ms": 61000,
-      "name": "And So the Story Began",
-      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Pines and Cedars",
         "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
       },
@@ -1039,34 +1055,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Archipelago",
-        "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
+        "name": "Evenings on Instagram, Pt. I",
+        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
       },
       "artists": [
         {
-          "name": "Damien Jeunet",
-          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Archipelago",
-      "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Countryside Mansion",
-        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
-      },
-      "artists": [
-        {
-          "name": "Joanne Gardiner",
-          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "Countryside Mansion",
-      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
+      "duration_ms": 61000,
+      "name": "And So the Story Began",
+      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
+        "name": "My Story",
+        "url": "https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH"
+      },
+      "artists": [
+        {
+          "name": "Portia Price",
+          "url": "https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7"
+        }
+      ],
+      "duration_ms": 138301,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "My Story",
-        "url": "https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH"
+        "name": "Les Soir",
+        "url": "https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m"
       },
       "artists": [
         {
-          "name": "Portia Price",
-          "url": "https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7"
+          "name": "Mes Croquis",
+          "url": "https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW"
         }
       ],
-      "duration_ms": 138301,
-      "name": "My Story",
-      "url": "https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G"
+      "duration_ms": 144875,
+      "name": "Les Soir",
+      "url": "https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Les Soir",
-        "url": "https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m"
-      },
-      "artists": [
-        {
-          "name": "Mes Croquis",
-          "url": "https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW"
-        }
-      ],
-      "duration_ms": 144875,
-      "name": "Les Soir",
-      "url": "https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Full Bloom",
         "url": "https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Kalmte",
-        "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
-      },
-      "artists": [
-        {
-          "name": "Barry Hudson-Taylor",
-          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
-        }
-      ],
-      "duration_ms": 141736,
-      "name": "Languor",
-      "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 143750,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Kalmte",
+        "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
+      },
+      "artists": [
+        {
+          "name": "Barry Hudson-Taylor",
+          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
+        }
+      ],
+      "duration_ms": 141736,
+      "name": "Languor",
+      "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1435,6 +1435,22 @@
       "duration_ms": 143400,
       "name": "Act Of Reconciling",
       "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Bridge Across the Ocean",
+        "url": "https://open.spotify.com/album/2njPpnXxSX53OX35rEiEuG"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "duration_ms": 186711,
+      "name": "Bridge Across the Ocean",
+      "url": "https://open.spotify.com/track/47Dbe09uprsTUFezKfy594"
     },
     {
       "added_at": "2024-01-11 15:00:00",
@@ -1503,38 +1519,6 @@
     {
       "added_at": "2024-01-11 15:00:00",
       "album": {
-        "name": "Balloon",
-        "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Balloon",
-      "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
-        "name": "Bridge Across the Ocean",
-        "url": "https://open.spotify.com/album/2njPpnXxSX53OX35rEiEuG"
-      },
-      "artists": [
-        {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
-        }
-      ],
-      "duration_ms": 186711,
-      "name": "Bridge Across the Ocean",
-      "url": "https://open.spotify.com/track/47Dbe09uprsTUFezKfy594"
-    },
-    {
-      "added_at": "2024-01-11 15:00:00",
-      "album": {
         "name": "Poesia",
         "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 125248,
       "name": "Poesia",
       "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
+    },
+    {
+      "added_at": "2024-01-11 15:00:00",
+      "album": {
+        "name": "Balloon",
+        "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 197750,
+      "name": "Balloon",
+      "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
     },
     {
       "added_at": "2024-01-11 15:00:00",

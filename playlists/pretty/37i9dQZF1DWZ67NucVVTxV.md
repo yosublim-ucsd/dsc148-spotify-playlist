@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,568 likes - 81 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,623 likes - 81 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 80 | [Stand Attention](https://open.spotify.com/track/2ff1ZzgSQdHDkD3dCKBiEm) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Osapa London](https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3) | 3:06 |
 | 81 | [RULER](https://open.spotify.com/track/3fbn0D0RFJeQv5jKkvOd6u) | [Kiiwii](https://open.spotify.com/artist/7yncXxUXkPHEawRyKM6Gr7) | [Freestyle pack](https://open.spotify.com/album/3jkrKmRXpEfW5jF0t2GPPs) | 2:47 |
 
-Snapshot ID: `MCxhZDkxNzQ3NzUzMmNkMzgxMmIzZGFhZWUxNDU2NzE4MTVkNGNlYjQy`
+Snapshot ID: `MCwwMjdkZmJiZGJkNTU1N2JiNzJlZDQ4YzNhZWEzNzdkMTliMzZlMzdh`

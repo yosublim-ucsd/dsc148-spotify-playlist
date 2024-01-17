@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-311 songs - 23 hr 22 min
+312 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [El Viejo \(En Vivo\)](https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Pepsi Music 2005](https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N) | 3:15 | 2022-04-01 |  |
 | [Ella Es Como un Ángel \- En Vivo Cosquín Rock](https://open.spotify.com/track/1ZwRW2fBF8MwLhopiNeYcJ) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Vivo Cosquín Rock](https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR) | 2:58 | 2022-04-01 | 2023-10-07 |
 | [Ella Uso Mi Cabeza Como Un Revolver \- MTV Unplugged](https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 6:04 | 2022-04-01 |  |
-| [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 | 2022-04-01 |  |
+| [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 | 2022-04-01 | 2024-01-17 |
 | [En el Baldío \- En Vivo](https://open.spotify.com/track/1hNT1e0igCiprBrETIhd55) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Estadio Newell's Old Boys, 18 de Mayo de 2018 \(En Vivo\)](https://open.spotify.com/album/419PfoPpVGyQAKvsxBsqxb) | 4:13 | 2023-03-03 | 2023-05-19 |
 | [En el Baldío \- En Vivo](https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Estadio Newell's Old Boys, 18 de Mayo de 2018 \(En Vivo\)](https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB) | 4:13 | 2023-10-06 |  |
 | [Envuelto en Llamas \(En Vivo\)](https://open.spotify.com/track/674zid6QdjoHzafff631N8) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Sortilegio de Arrabal](https://open.spotify.com/album/4FMIICOCC7pmOdhDwIUkid) | 4:04 | 2022-08-19 | 2024-01-15 |
@@ -120,6 +120,7 @@
 | [Espejismo \- En Vivo](https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Los Fundamentalistas del Aire Acondicionado en Huracán \(En Vivo\)](https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL) | 6:23 | 2023-09-14 |  |
 | [Estoy Completamente Nervioso \- En Vivo \- Remasterizado](https://open.spotify.com/track/0XwsU1FkJ96PBYoAiS8Oev) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [En Concierto \(Remasterizado\)](https://open.spotify.com/album/5R1Xd9BBV8i9fX4MsmQ2Nb) | 3:37 | 2022-04-01 | 2022-07-09 |
 | [Facil \(En Vivo \- Sala Nini Marshall\)](https://open.spotify.com/track/3pE1nVUEIjKgB8H7uheBtq) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Vozenoff \(En Vivo Desde Ushuaia\)](https://open.spotify.com/album/2IQn8dtrVIXly0qHkLTnFs) | 3:10 | 2022-06-24 | 2022-07-15 |
+| [Fantasma \- En Vivo](https://open.spotify.com/track/0qUPTVminL2wV1GXpDu7ya) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peléandole al Viento](https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx) | 4:58 | 2023-12-22 |  |
 | [Fantasma \- En Vivo](https://open.spotify.com/track/0yxyblN8AAiOuSSktlLzMx) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 4:58 | 2022-04-01 | 2024-01-04 |
 | [Faro de los Ahogados](https://open.spotify.com/track/0NOHPwuVslrB8JK9d7riji) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Quebrado Vivo](https://open.spotify.com/album/4h0Ues7dxWwg3i6BmPIPiZ) | 3:35 | 2022-04-01 | 2022-07-29 |
 | [Faro de los Ahogados](https://open.spotify.com/track/6SmQ9rcEcmcpGdk41EKgWr) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Quebrado Vivo](https://open.spotify.com/album/2obHx8Orxsw1my5N3SrLhY) | 3:35 | 2022-06-24 | 2023-10-07 |

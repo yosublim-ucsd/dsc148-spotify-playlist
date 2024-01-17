@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 32607,
+  "num_followers": 32636,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmU5ODJjYjM3MTAzZDM1MzgwMDg4M2JjYzU4MjMwN2ZlOTEwZGEx",
+  "snapshot_id": "MCxhODdiOTVjYzZhNzZlOTMxNzI2YTBlYjFlMzUwYThiNGNjMzJiNjQ5",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Classified (Remixed & Expanded Edition)",
-        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "One For The Highway",
-      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Down In Mississippi",
         "url": "https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 223386,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Classified (Remixed & Expanded Edition)",
+        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "One For The Highway",
+      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The King of Chicago Blues Piano",
-        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
-      },
-      "artists": [
-        {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Things Have Changed",
-      "url": "https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "New Orleans Piano Professor",
         "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 202000,
       "name": "Honky Tonk",
       "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "The King of Chicago Blues Piano",
+        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
+      },
+      "artists": [
+        {
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Things Have Changed",
+      "url": "https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi"
     },
     {
       "added_at": "2023-09-15 11:43:10",

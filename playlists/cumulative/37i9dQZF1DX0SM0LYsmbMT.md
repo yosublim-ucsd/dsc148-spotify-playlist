@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,962 songs - 6 day 7 hr 30 min
+3,963 songs - 6 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2061,6 +2061,7 @@
 | [Marseille](https://open.spotify.com/track/06Ck50qEeY1Ka8Q7RSFyfM) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [William Shine](https://open.spotify.com/artist/31qJcWRmZuRNILCRbn9idq) | [Marseille](https://open.spotify.com/album/5Iywk43RWPJGaMNOcsd6iB) | 2:58 | 2023-10-19 | 2023-11-14 |
 | [Mashup](https://open.spotify.com/track/0qEaBH8oLqTteftCDatAtM) | [ilover](https://open.spotify.com/artist/7hP2RufxOMB3558ETkkK3z) | [Mashup](https://open.spotify.com/album/44jqZ2iWq6XYh2NxwNhIC1) | 2:51 | 2021-04-03 | 2021-08-06 |
 | [Matagal](https://open.spotify.com/track/5hUjfGbIJlv89IqEt74kAI) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Matagal](https://open.spotify.com/album/782uk1vb0JanYy9QJcALjo) | 2:41 | 2020-12-09 | 2021-03-14 |
+| [Matura](https://open.spotify.com/track/615dueLshTDN5G4Rkvdh8g) | [ORSO](https://open.spotify.com/artist/6CUtexEoHrRbt4Ro9V2leN) | [Matura](https://open.spotify.com/album/3vbt8xcmCxiKm9NlHEzhMm) | 1:48 | 2024-01-15 |  |
 | [Maus Beat](https://open.spotify.com/track/1DXfdf3aZs4qGnihFDYxQA) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [Die Sendung mit der Maus](https://open.spotify.com/album/2fXOANKdHN24e65xCGv3pW) | 2:21 | 2020-11-06 | 2020-12-04 |
 | [Mauá](https://open.spotify.com/track/5eChYT1I1EWaRO4jkd2Qho) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Mauá](https://open.spotify.com/album/0oXuC5MMnTCZXPu9esn2OD) | 2:15 | 2022-04-21 | 2022-06-03 |
 | [May 27](https://open.spotify.com/track/2MLrs9lknnFicXc5NAhUie) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU) | [Lost Wallet](https://open.spotify.com/album/6DgiE0Suz5lvZysZSR9F5t) | 2:06 | 2023-07-27 | 2023-10-06 |
@@ -2969,7 +2970,7 @@
 | [Shallow](https://open.spotify.com/track/34rDTa9sEiCGccvIzZkHbN) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Shallow](https://open.spotify.com/album/1Cqo9G9WJ9Ea69K9W2ebpF) | 1:58 | 2023-01-20 | 2023-05-19 |
 | [Shanghai Mood](https://open.spotify.com/track/5oTgvEU0mdebUniWvFN9sm) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Shanghai Mood](https://open.spotify.com/album/4EDrMHEDq0ljAhfwvYgeF8) | 2:15 | 2020-02-18 | 2020-05-29 |
 | [Shaping Waves](https://open.spotify.com/track/7hZhNUNb4x0AZjlOJO65U0) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [Shaping Waves](https://open.spotify.com/album/2WR9v2DxrP0pev2TUsBfeZ) | 2:37 | 2023-11-13 |  |
-| [Shaq Attaq](https://open.spotify.com/track/2OABKO6E6XZG4ThPc8vKk4) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Shaq Attaq](https://open.spotify.com/album/33DPTXUGDWD2JnYEleqxz5) | 2:28 | 2024-01-11 |  |
+| [Shaq Attaq](https://open.spotify.com/track/2OABKO6E6XZG4ThPc8vKk4) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Shaq Attaq](https://open.spotify.com/album/33DPTXUGDWD2JnYEleqxz5) | 2:28 | 2024-01-11 | 2024-01-17 |
 | [Shards](https://open.spotify.com/track/6c5hmRMe6X7t6xNNdQapC0) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI) | [Shards](https://open.spotify.com/album/33CAzM2rCwYf64wqt6EKY8) | 2:02 | 2022-12-15 | 2023-10-20 |
 | [Shawty](https://open.spotify.com/track/1kGX01yhwMRuuyOEd1H4OU) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Shawty](https://open.spotify.com/album/27l4t4DI9R8NZYu4IsWEml) | 1:31 | 2022-12-22 | 2023-07-28 |
 | [She Is One of a Kind](https://open.spotify.com/track/3nkHEuzsb0o7wplZ79Kpwd) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Rosebuds](https://open.spotify.com/album/3wguHUMqIPgXiT3PfWUh5a) | 3:20 | 2019-05-26\* | 2019-08-13 |

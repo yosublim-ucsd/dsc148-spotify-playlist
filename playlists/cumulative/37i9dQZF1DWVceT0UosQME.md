@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-501 songs - 19 hr 10 min
+503 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Audemars Pigeon](https://open.spotify.com/track/7iFiiIo6y2jNsmnWJaGUpz) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Audemars Pigeon](https://open.spotify.com/album/5urVLzzVGsvI0lNH1ufLGI) | 2:20 | 2024-01-05 |  |
 | [Aurora Village](https://open.spotify.com/track/5uMKK3FM8xuOtBQ4r5kHsV) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [Aurora Village](https://open.spotify.com/album/1GEp44Hx7irB4w6RmOadUq) | 2:33 | 2024-01-05 |  |
 | [Autopilot](https://open.spotify.com/track/7qwKNJIHESKRCZhMVEryi0) | [Vrouzli](https://open.spotify.com/artist/5UdyPviMkdOWjnawTiCFch) | [Autopilot](https://open.spotify.com/album/4zkTVG3n8JMJ97rBPvRcWv) | 2:08 | 2024-01-05 |  |
-| [Autumn Air](https://open.spotify.com/track/6rHLRiZ8YYwO03he7OJQU2) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Autumn Air](https://open.spotify.com/album/1LOTpCIncHlI19boa03gC5) | 2:19 | 2024-01-05 |  |
+| [Autumn Air](https://open.spotify.com/track/6rHLRiZ8YYwO03he7OJQU2) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Autumn Air](https://open.spotify.com/album/1LOTpCIncHlI19boa03gC5) | 2:19 | 2024-01-05 | 2024-01-17 |
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2024-01-05 |  |
 | [Ayways](https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Ayways](https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ) | 1:54 | 2024-01-05 |  |
 | [Backwards](https://open.spotify.com/track/3kiPyaxjjdXnR7SAvQvy5W) | [Lazy Lama](https://open.spotify.com/artist/2OIClIFaDrHXq6ilh3bICZ) | [Backwards](https://open.spotify.com/album/4uRWNT5GJ4dq1Nym8N1uFN) | 2:42 | 2024-01-05 |  |
@@ -263,6 +263,7 @@
 | [Lo\-fi Love Letters](https://open.spotify.com/track/1vwVgDd0EHURAjoTb2glnM) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Lo\-fi Love Letters](https://open.spotify.com/album/1LDYsz7AHxedlGPb2Mj3Jw) | 1:59 | 2024-01-05 |  |
 | [Loafing About](https://open.spotify.com/track/0v7hjhp5gLUl2Z6owHK8ao) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Loafing About](https://open.spotify.com/album/4TxogjaWGWQcKjghyLEUJi) | 2:48 | 2024-01-05 |  |
 | [London](https://open.spotify.com/track/4IgI10xrOzTIiDg4ApvfwC) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [London](https://open.spotify.com/album/5vyoEpmkwXKO8lUSaTsz2O) | 2:35 | 2024-01-05 |  |
+| [Lonely Astronaut](https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Cloudy Sleeps](https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd) | 2:31 | 2024-01-15 |  |
 | [Long Green](https://open.spotify.com/track/4ADWxy7ycP8yvfYvbKrgro) | [ULMÄR](https://open.spotify.com/artist/68q8XXsA6PTuUJGRge3sR5) | [Long Green](https://open.spotify.com/album/08vHVer2zsqXCop1SKBA5Y) | 2:52 | 2024-01-05 |  |
 | [Longing for summer](https://open.spotify.com/track/7I6VIP00dwIA97Ge5AK1YP) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Longing for summer](https://open.spotify.com/album/4FGN3nnZpSUtQ0tbzccpmX) | 2:20 | 2024-01-05 |  |
 | [Loose Changes](https://open.spotify.com/track/2TwnlyZK8MUipdASFzPSPl) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [Loose Changes](https://open.spotify.com/album/6hW0KKfZpxIDwlSQDbE0Zo) | 2:08 | 2024-01-05 |  |
@@ -419,6 +420,7 @@
 | [Softly Whispering](https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Softly Whispering](https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3) | 3:07 | 2024-01-05 |  |
 | [Someday](https://open.spotify.com/track/6DD1Ddv0U7cTA2pqqmjWxR) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Someday](https://open.spotify.com/album/2hSAOh15pAteCBD9wP2vOB) | 2:03 | 2024-01-05 |  |
 | [Something To Sing About](https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Something To Sing About](https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG) | 2:44 | 2024-01-05 |  |
+| [somethings up](https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [somethings up](https://open.spotify.com/album/3f5XgiJhXdkBL7yqY9PuP9) | 1:52 | 2024-01-15 |  |
 | [Sounds From The Park](https://open.spotify.com/track/55uqa2dZDFoy45LNi2c0Da) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Sounds From The Park](https://open.spotify.com/album/1hZjugixYJQrlemnJEwnLE) | 1:54 | 2024-01-05 |  |
 | [spacewalk](https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [spacewalk](https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX) | 2:15 | 2024-01-05 |  |
 | [Spectre](https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Spectre](https://open.spotify.com/album/1gI6pkoJ3EvTV5msQgFzSe) | 1:51 | 2024-01-05 |  |
@@ -485,7 +487,7 @@
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2024-01-05 |  |
 | [Waitress service](https://open.spotify.com/track/5ALbklP1iYE6UaPzO0tVlS) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Waitress service](https://open.spotify.com/album/6EYqvlu2EjsRqQ9VmKuDSR) | 1:50 | 2024-01-05 |  |
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2024-01-05 |  |
-| [Walk Through the Sky](https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [All the Thoughts](https://open.spotify.com/album/3BKr1o8n8vLlCjv2IRDxLl) | 1:53 | 2024-01-05 |  |
+| [Walk Through the Sky](https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [All the Thoughts](https://open.spotify.com/album/3BKr1o8n8vLlCjv2IRDxLl) | 1:53 | 2024-01-05 | 2024-01-17 |
 | [warm & orange](https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [warm & orange](https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW) | 3:06 | 2024-01-05 |  |
 | [waves](https://open.spotify.com/track/75lbe3dkMnMlOk2NiXhD7b) | [Coastlinez](https://open.spotify.com/artist/1JDqWVMetMtVAFvSH1ahzj) | [waves](https://open.spotify.com/album/1N5uO19ere7Y3cbG41LHCk) | 3:02 | 2024-01-05 |  |
 | [We Are Love](https://open.spotify.com/track/5wZetUDyN1GQypcfUyxPqo) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 1:57 | 2024-01-05 |  |

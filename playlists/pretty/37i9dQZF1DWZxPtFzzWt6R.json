@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 77138,
+  "num_followers": 77185,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmNjZjA3Mzk4MWJmNjljYzY3YmI3M2Q1ZjY3NTk2ZTBlYzg3OTdi",
+  "snapshot_id": "MCw1N2NkN2I0NTM0Mzc4MTdhMTY4YjA1NTliZGZhMTBmOGE4MmRhYmFh",
   "tracks": [
     {
       "added_at": "2024-01-05 13:32:09",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "A Esperan\u00e7a Que Restou",
-        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
-      },
-      "artists": [
-        {
-          "name": "Rayssa e Ravel",
-          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
-        }
-      ],
-      "duration_ms": 281941,
-      "name": "A Esperan\u00e7a Que Restou",
-      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "Tudo",
         "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
       },
@@ -607,18 +591,34 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Chuva de Poder",
-        "url": "https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr"
+        "name": "A Esperan\u00e7a Que Restou",
+        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
       },
       "artists": [
         {
-          "name": "Gabriela Rodrigues",
-          "url": "https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb"
+          "name": "Rayssa e Ravel",
+          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Chuva de Poder",
-      "url": "https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb"
+      "duration_ms": 281941,
+      "name": "A Esperan\u00e7a Que Restou",
+      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "O Meu Clamor, Vol. 2",
+        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Ovelha Rebelde",
+      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "O Meu Clamor, Vol. 2",
-        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
+        "name": "Chuva de Poder",
+        "url": "https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr"
       },
       "artists": [
         {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+          "name": "Gabriela Rodrigues",
+          "url": "https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Ovelha Rebelde",
-      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
+      "duration_ms": 196000,
+      "name": "Chuva de Poder",
+      "url": "https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb"
     },
     {
       "added_at": "2024-01-05 13:32:09",

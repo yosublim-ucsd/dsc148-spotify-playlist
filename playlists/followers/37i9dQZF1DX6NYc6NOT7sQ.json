@@ -1,27 +1,9 @@
 {
-  "2024-01-16": 69314,
+  "2024-01-17": 69368,
   "date_first_scraped": "2023-02-25",
   "description": "<a href=\"spotify:artist:3gNEIgLeknpwkNViU8WAhg\">Oceanvs Orientalis</a>' favorite tracks. Updated regularly. Curated by Oceanvs Orientalis. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Oceanvs Orientalis' track IDs",
   "tracks": [
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/79EK83wLCeDcVcos3A7osl"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "date_added": "2023-01-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/4ssNM8cQStlQn7U2ZdEk2D"
-    },
     {
       "album": {
         "name": "18 & Over",
@@ -1021,6 +1003,28 @@
       "duration_ms": 295799,
       "name": "Heritage feat. Anthony Joseph",
       "url": "https://open.spotify.com/track/15llwHbLMKejJughR05oT6"
+    },
+    {
+      "album": {
+        "name": "Hik\u00e2ye",
+        "url": "https://open.spotify.com/album/79EK83wLCeDcVcos3A7osl"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        },
+        {
+          "name": "Tu\u011f\u00e7e Kurti\u015f",
+          "url": "https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465550,
+      "name": "Hik\u00e2ye",
+      "url": "https://open.spotify.com/track/4ssNM8cQStlQn7U2ZdEk2D"
     },
     {
       "album": {

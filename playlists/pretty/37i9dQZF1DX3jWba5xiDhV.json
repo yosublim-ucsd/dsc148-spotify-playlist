@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 185161,
+  "num_followers": 185392,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmJlOTMyMjZhOWYwYWFlYWVjYmZhNTEwMzk0Y2Y0MDU3MzBjOTZj",
+  "snapshot_id": "MCwzYjIyZmZlMzRjY2IxNDhhMDc5Y2E3YTk1YTA1ZDNmZjlkN2FjZTA0",
   "tracks": [
     {
       "added_at": "2023-12-13 14:54:09",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "The Singles 83/87",
-        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
       },
       "artists": [
         {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
         }
       ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+      "duration_ms": 233640,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC"
     },
     {
       "added_at": "2023-12-13 14:54:09",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
+        "name": "The Singles 83/87",
+        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
       "artists": [
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
         }
       ],
-      "duration_ms": 233640,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC"
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
     },
     {
       "added_at": "2023-12-13 14:54:09",
@@ -1291,22 +1291,26 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Under the Ice - Single",
-        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
+        "name": "My Magic Number",
+        "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
       },
       "artists": [
         {
-          "name": "Topo",
-          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
+          "name": "Daddy Squad",
+          "url": "https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj"
         },
         {
-          "name": "Roby",
-          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
+          "name": "Dita Von Teese",
+          "url": "https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz"
+        },
+        {
+          "name": "Club Domani",
+          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
         }
       ],
-      "duration_ms": 432404,
-      "name": "Under the Ice - Original 12 Inch Version",
-      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
+      "duration_ms": 317120,
+      "name": "My Magic Number - Club Domani Remix",
+      "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
     }
   ],
   "unique_name": "Italo Disco",

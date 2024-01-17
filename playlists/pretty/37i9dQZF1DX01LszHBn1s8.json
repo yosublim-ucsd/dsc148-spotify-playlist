@@ -1,13 +1,33 @@
 {
-  "description": "\ud83d\udec1 bathtub scene? no, i keep thinking about the one at the graveyard \ud83e\udea6",
-  "num_followers": 233751,
+  "description": "i've been a jacob elordi stan since kissing booth ",
+  "num_followers": 233839,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTBiNmZmYTdkM2U1NmJhMThjZWQ0NGZlZmM5N2VjOTdhOWU5MmQ4",
+  "snapshot_id": "MCxlMWEzMmYxYmQ5N2U0MDMwY2JkMGMzZjRmMzU1Mjc5Nzk4YjI1Zjc1",
   "tracks": [
+    {
+      "added_at": "2024-01-14 11:45:05",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "kai",
+          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
+        }
+      ],
+      "duration_ms": 234909,
+      "name": "Never Be Like You (feat. Kai)",
+      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
+    },
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
@@ -119,26 +139,6 @@
       "duration_ms": 136374,
       "name": "Toxic (Freestyle)",
       "url": "https://open.spotify.com/track/3KTRve0Kx6ytMtlEWkWcgt"
-    },
-    {
-      "added_at": "2024-01-14 11:45:05",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "kai",
-          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
-        }
-      ],
-      "duration_ms": 234909,
-      "name": "Never Be Like You (feat. Kai)",
-      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
     },
     {
       "added_at": "2024-01-14 11:45:05",

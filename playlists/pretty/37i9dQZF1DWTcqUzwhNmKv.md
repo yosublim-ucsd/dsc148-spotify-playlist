@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Brand of Sacrifice on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,470,702 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,470,903 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Rose Tinted World](https://open.spotify.com/track/67vYna8TF0R0kQfN92x933) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 8:11 |
 | 75 | [Wish \(feat\. Devin Swank & Sanguisugabogg\)](https://open.spotify.com/track/4HKJ0qILJh1c0XQ6IRHr6A) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q), [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN), [Devin Swank](https://open.spotify.com/artist/0cn1OcNDxmXsMCD4WmejWJ) | [No Love Lost](https://open.spotify.com/album/5nOj9wbbrVwrNCAwue9PTf) | 1:25 |
 
-Snapshot ID: `MCwzZThkOTQxMTMxZjkyMDg3NjMwY2JkZDQxZmNhYmU4MzdiNDBhMWM0`
+Snapshot ID: `MCw1Mjk5NzhhZWE2YWZiNzQ4MWNmZmUwZjE0ODQ2YjkyYmY2ZTAwNjRh`

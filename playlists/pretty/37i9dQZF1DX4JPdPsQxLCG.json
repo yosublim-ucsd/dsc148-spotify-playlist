@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 80618,
+  "num_followers": 80628,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGE5ODA2ODNkYjFhNjUxNzkzMzBkOTMyNDUwMzAzYWFmYmY1ZjY2",
+  "snapshot_id": "MCxlMWE3NjNiY2I4MzU0ZTA3ZmNjZjdmMDZkNTJlNGU4OGYzOWNmM2U0",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "The Thin Red Line (Deluxe)",
-        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
-      },
-      "artists": [
-        {
-          "name": "Glass Tiger",
-          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Don't Forget Me (When I'm Gone)",
-      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Almost Naked",
         "url": "https://open.spotify.com/album/7xwPqByltDrgXM4UT0SjeO"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 200251,
       "name": "Sweet Sublime",
       "url": "https://open.spotify.com/track/7hUnSCUQDknVpKAnnhejlP"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "The Thin Red Line (Deluxe)",
+        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
+      },
+      "artists": [
+        {
+          "name": "Glass Tiger",
+          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Don't Forget Me (When I'm Gone)",
+      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
     },
     {
       "added_at": "2024-01-12 05:01:00",

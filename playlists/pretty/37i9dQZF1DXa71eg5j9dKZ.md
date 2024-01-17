@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Jamie XX
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,033 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,073 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 44 | [Always Ascending](https://open.spotify.com/track/3neH0qCEd7nNYPOJCoB7xr) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Always Ascending](https://open.spotify.com/album/75WREsbuQHGUUiW7sIddLm) | 5:51 |
 | 45 | [Killing Bee](https://open.spotify.com/track/1Z5pKCx5DpTnefMyBjakT5) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Killing Bee](https://open.spotify.com/album/1wLbs8yC4P6DZnXTVqHsHq) | 3:10 |
 | 46 | [JOY \(I Did You Wrong\)](https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(I Did You Wrong\)](https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra) | 3:08 |
-| 47 | [Pain & Pleasure \(feat\. VANYFOX & Fédération Internationale du Bruit\)](https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe), [Fédération Internationale du Bruit](https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV) | [Pain & Pleasure \(feat\. VANYFOX & Fédération Internationale du Bruit\)](https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo) | 4:03 |
+| 47 | [Pain & Pleasure \(feat\. Fédération Internationale du Bruit\)](https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe), [Fédération Internationale du Bruit](https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV) | [Pain & Pleasure \(feat\. Fédération Internationale du Bruit\)](https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo) | 4:03 |
 | 48 | [Other Side](https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Other Side](https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo) | 3:26 |
 | 49 | [You Never Take Me Dancing](https://open.spotify.com/track/4pUen16NDnHuTTwhFKnRDM) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [You Never Take Me Dancing](https://open.spotify.com/album/4aEINAY37QrEjuUM0xxGVP) | 5:46 |
 | 50 | [Foxes](https://open.spotify.com/track/5rGtpIBaTXQKcFVDlrAerI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Ninetynine](https://open.spotify.com/track/1Ly3K26YPGfRc802bd8jsn) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ninetynine](https://open.spotify.com/album/4nfGboE0gBkRA3x1fd4vBn) | 3:20 |
 | 100 | [Zebadee](https://open.spotify.com/track/6yHSnAjPbUnLjXjAzP3QKX) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq), [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Zebadee](https://open.spotify.com/album/78KGuDpY11w5qxhKUHqKxT) | 3:12 |
 
-Snapshot ID: `MCwzMWFiMWY3NmI0ZGRlODI3ZGZhZGM4NTNlZDE5ZDczZTFiOWU0YTJk`
+Snapshot ID: `MCxmMWRkZGQxODhmYTQxMjNkZmM4OGM5ZWU4ZjY1ZGVjMDkwNmZhZmVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9?si=A3f78gMpTTemvNkHgx0\_6w"> Nali </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,983 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,094 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 49 | [Pros and Cons](https://open.spotify.com/track/2szn1ATpTPRsCswbQ24XWp) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Pros and Cons](https://open.spotify.com/album/7kUdJRYvPttmaMJ1lKCA9p) | 2:44 |
 | 50 | [Closure \(feat\. Jane Handcock\)](https://open.spotify.com/track/6Li90fECyiwWCx7OfqbxyL) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jane Handcock](https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD) | [Yam Grier](https://open.spotify.com/album/4yRSYMAzTAg4HEUjVVwfhU) | 3:29 |
 
-Snapshot ID: `MCw1OGQ5YmU1MWU4ODRiN2Q2YmEwZGUwOTAwNzFjYzA0ZTZjNDY3YWMz`
+Snapshot ID: `MCw1ZDg1ZGQ3NmI3NjEwMDRkZjY0ODQxYzI1YzMyYWY4MDYwZjM3YzY0`

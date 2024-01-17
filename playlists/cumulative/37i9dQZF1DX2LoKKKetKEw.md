@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:4rwolwLHj97rPwbhyNSeU9">Marizu</a>
 
-222 songs - 11 hr 37 min
+223 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Already Won](https://open.spotify.com/track/6iMeVb83BHP9IetgCLaf2q) | [Mo'Lola](https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Already Won](https://open.spotify.com/album/6wJQFqrxl6EkCY9PyVFeHY) | 3:48 | 2024-01-12 |  |
 | [Amplify](https://open.spotify.com/track/3Yst8fBmKcLK7OEPeXB7tm) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Amplify](https://open.spotify.com/album/0Yl6Q9gjUT7EMvuU8oK5GG) | 3:11 | 2023-05-19 |  |
 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 | 2023-08-25 |  |
-| [Assurance](https://open.spotify.com/track/5LJ0LqhxAmRgqU0OtoxJ4X) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Afolake](https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8) | [Assurance](https://open.spotify.com/album/28ykxvEn1X7VE1XjDGNXHv) | 2:49 | 2024-01-12 |  |
+| [Assurance](https://open.spotify.com/track/5LJ0LqhxAmRgqU0OtoxJ4X) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Afolake](https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8) | [Assurance](https://open.spotify.com/album/28ykxvEn1X7VE1XjDGNXHv) | 2:49 | 2024-01-12 | 2024-01-17 |
 | [At The Place Of Koinonia \- B’Ola / My Daddy My Daddy](https://open.spotify.com/track/6ECnlcVCKLIlO2b66N2M8P) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [At The Place of Koinonia \(B’Ola / My Daddy My Daddy\)](https://open.spotify.com/album/2et5SsDpaQAAwrnBg1JYcA) | 18:46 | 2023-11-17 | 2023-12-02 |
 | [Attention](https://open.spotify.com/track/3a19KaPgaijBm1yOmqsxf9) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Attention](https://open.spotify.com/album/2GGdcif99IqBhZ7m9401eZ) | 2:49 | 2023-05-19 |  |
 | [ATTNTN](https://open.spotify.com/track/18EBejyRsQZGCdUGcXKqYj) | [Izee Smith](https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt) | [ATTNTN](https://open.spotify.com/album/6OE9lvvKzTkXjWQafV4rjU) | 3:16 | 2022-12-16 | 2023-03-08 |
@@ -111,6 +111,7 @@
 | [Kingdom Business](https://open.spotify.com/track/0eRXjkHgPK8nfgSz1W6On8) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [ST\-Saint](https://open.spotify.com/artist/1Ibt48HCzHnDbkZYstwnTw), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Kingdom Business](https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr) | 3:30 | 2023-12-01 |  |
 | [Kulosa Gospel Cover \- Remix](https://open.spotify.com/track/68P1UKOPTMt5iQloTD571k) | [elnazor Obi](https://open.spotify.com/artist/2JLGAnT20pYCjVCLFPDLT7) | [Kulosa Gospel Cover \(Remix\)](https://open.spotify.com/album/28A4C03hGLqeNH23gCCIdO) | 1:17 | 2023-05-19 | 2023-08-26 |
 | [Lay Low](https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Lay Low](https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd) | 2:54 | 2022-07-30 | 2024-01-13 |
+| [Lead Me Back](https://open.spotify.com/track/1wBoQTh0EoUXqARM2pzc5a) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn) | [Lead Me Back](https://open.spotify.com/album/4Cxp3yhZ4uIXvdzZkETFlf) | 2:33 | 2024-01-12 |  |
 | [Legacy \- Remix](https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T) | [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Legacy \(Remix\)](https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M) | 2:59 | 2023-05-19 |  |
 | [Light](https://open.spotify.com/track/24yzTiIIm6voL9ez0AUOZ1) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0) | [Light](https://open.spotify.com/album/1eukwQKbKTyHhnQDGU0ZfC) | 2:18 | 2022-08-16 | 2023-10-13 |
 | [Lotta Things](https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Lotta Things](https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5) | 2:36 | 2022-07-30 | 2023-05-20 |

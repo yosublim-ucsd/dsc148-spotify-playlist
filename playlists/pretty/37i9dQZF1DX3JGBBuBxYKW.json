@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 92070,
+  "num_followers": 92122,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTUyOTUxY2IxOGU4NTc1YzA5NGU5ZjNkN2EwYzI3M2FhNGMwMjQ3",
+  "snapshot_id": "MCw0MjBjOWVhMjg3MjQ3NzI5NTdhODZlMjFkMGM0MDAyMDc3ZWE1ZmEy",
   "tracks": [
     {
       "added_at": "2024-01-11 22:47:22",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-01-11 22:47:22",
       "album": {
-        "name": "La Segunda Me Vas a Extra\u00f1ar",
-        "url": "https://open.spotify.com/album/2xi7bDYP9rOHQv6Oyyizhf"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "La Segunda Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/607P8cHcs2SV9U1n17rRqY"
-    },
-    {
-      "added_at": "2024-01-11 22:47:22",
-      "album": {
         "name": "Placer y Olvido (En Vivo)",
         "url": "https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 82400,
       "name": "Placer y Olvido",
       "url": "https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU"
+    },
+    {
+      "added_at": "2024-01-11 22:47:22",
+      "album": {
+        "name": "La Segunda Me Vas a Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/2xi7bDYP9rOHQv6Oyyizhf"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "La Segunda Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/607P8cHcs2SV9U1n17rRqY"
     },
     {
       "added_at": "2024-01-11 22:47:22",

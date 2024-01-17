@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-148 songs - 9 hr 42 min
+149 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [ようこそジャパリパークへ](https://open.spotify.com/track/7z0HnNeAREuJmRvQtpQIz0) | [Doubutsu Biscuits](https://open.spotify.com/artist/5S7SMGimbPWuPh2F0urDgE), [PPP](https://open.spotify.com/artist/2V17fC0iAXQ2MpOw4DPvBV) | [ようこそジャパリパークへ](https://open.spotify.com/album/2ySoProatKQk7URAGuMuQf) | 3:24 | 2022-04-26 |  |
 | [ようこそジャパリパークへ](https://open.spotify.com/track/0RZiBrdTiCVCCnFCyr68Nr) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [カバーアルバム「仮歌」](https://open.spotify.com/album/0302LeRxu3lj5CMsuyNv7o) | 3:23 | 2022-07-26 |  |
 | [ようこそジャパリパークへ](https://open.spotify.com/track/3vk351NLllggTIW4oPUQhA) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [カバーアルバム「仮歌」](https://open.spotify.com/album/0bj4Hweje0nBU1b8Abnc1H) | 3:23 | 2022-04-26 | 2022-07-29 |
+| [わやわやわー！](https://open.spotify.com/track/1Cfq2MGVnhT4ovbSRRmYab) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [わやわやわー！](https://open.spotify.com/album/4s3rWZNrEFZ3OdZrK6fTVQ) | 3:09 | 2024-01-16 |  |
 | [アンサー](https://open.spotify.com/track/0h77eDK5doDdvFKRP9GgRG) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/5ZKL7tnZPYK9by71TBIOXq) | 6:26 | 2022-07-26 |  |
 | [アンサー](https://open.spotify.com/track/5m1zdht1btC8rezRu2qQ1T) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/2Cl3zwN0Bfzgzw1662zIXa) | 6:26 | 2022-04-26 | 2022-07-29 |
 | [インパーフェクト](https://open.spotify.com/track/5mqvPARzMkKIO06ZBvq0wu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [インパーフェクト](https://open.spotify.com/album/458ubOzK10el0DaV1Ud7Qp) | 3:47 | 2022-04-26 | 2022-07-29 |

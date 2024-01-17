@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now!  Cover: THE BAWDIES",
+  "description": "The biggest rock bands/artists in Japan right now!  Cover: the telephones",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -276,6 +276,24 @@
       "duration_ms": 309918,
       "name": "All for RAN",
       "url": "https://open.spotify.com/track/2Exj7jLQ6dWGfynuNu8gj8"
+    },
+    {
+      "album": {
+        "name": "ALL SHIT",
+        "url": "https://open.spotify.com/album/4Evb2AGXWGrwdaYvfhgHgj"
+      },
+      "artists": [
+        {
+          "name": "the telephones",
+          "url": "https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206221,
+      "name": "ALL SHIT",
+      "url": "https://open.spotify.com/track/5zfYkGf54njt9hXFfD4MSA"
     },
     {
       "album": {
@@ -2806,7 +2824,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 195750,
       "name": "GET BACK",
       "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
@@ -3276,7 +3294,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 200713,
       "name": "Hikarakka",
       "url": "https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m"
@@ -3496,10 +3514,36 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 272709,
       "name": "I MISS YOU",
       "url": "https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1"
+    },
+    {
+      "album": {
+        "name": "I miss your fire",
+        "url": "https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g"
+      },
+      "artists": [
+        {
+          "name": "\u5ca1\u6751\u548c\u7fa9",
+          "url": "https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC"
+        },
+        {
+          "name": "Yasuyuki Okamura",
+          "url": "https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL"
+        },
+        {
+          "name": "Kazuyoshi Saito",
+          "url": "https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342951,
+      "name": "I miss your fire",
+      "url": "https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8"
     },
     {
       "album": {
@@ -3878,7 +3922,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 278587,
       "name": "Jane",
       "url": "https://open.spotify.com/track/4AadyyEVbQuhLV9FggUJPj"
@@ -4156,7 +4200,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 235743,
       "name": "Kowareso",
       "url": "https://open.spotify.com/track/3Z3RDXIcMsCQ3GJB32Q5qg"
@@ -4718,7 +4762,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 241503,
       "name": "Loss(Angels)",
       "url": "https://open.spotify.com/track/2oHluzjZJkIA28X5H1zLKG"
@@ -4830,6 +4874,24 @@
       "duration_ms": 258333,
       "name": "LOVE LETTER FROM A DEAD END",
       "url": "https://open.spotify.com/track/39mgx6DZ7yCF2u0ygKkYjZ"
+    },
+    {
+      "album": {
+        "name": "Love melts into the marble ocean",
+        "url": "https://open.spotify.com/album/28ctY7cUtusuQBMlvyEPmf"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u5c71\u7530\u58ee\u5e73",
+          "url": "https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Love melts into the marble ocean",
+      "url": "https://open.spotify.com/track/59Jucw9BcXHb8bwzTMR2n7"
     },
     {
       "album": {
@@ -7954,7 +8016,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 207773,
       "name": "SMOKIN' BILLY",
       "url": "https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8"
@@ -8658,7 +8720,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 260031,
       "name": "SweetSweet",
       "url": "https://open.spotify.com/track/7LgPH3O0HkHYo5IJBcwpTG"
@@ -9094,7 +9156,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 173279,
       "name": "These Magic Words",
       "url": "https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC"
@@ -9556,7 +9618,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 121692,
       "name": "Under the Tree",
       "url": "https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0"
@@ -10068,6 +10130,24 @@
       "duration_ms": 231164,
       "name": "WeTube\uff5e\u590f\u3084\u308d\u3046\u306e\u590f\uff5e",
       "url": "https://open.spotify.com/track/3UGOzOlwGSZZw2kzNLFGL1"
+    },
+    {
+      "album": {
+        "name": "Whaleland",
+        "url": "https://open.spotify.com/album/2s1h6j9l3AZJ8yEXAbCy4W"
+      },
+      "artists": [
+        {
+          "name": "\u3068\u307e\u3068\u304f\u3089\u3076",
+          "url": "https://open.spotify.com/artist/6gvHiE41hsCPrljYaSoQ0P"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234517,
+      "name": "Whaleland",
+      "url": "https://open.spotify.com/track/7j5HLMGvve9kfOfWAtCkpB"
     },
     {
       "album": {
@@ -10620,6 +10700,24 @@
       "duration_ms": 240412,
       "name": "\u3042\u308b\u671d",
       "url": "https://open.spotify.com/track/3a2qX03Ctq69PEqG89cDM9"
+    },
+    {
+      "album": {
+        "name": "and world",
+        "url": "https://open.spotify.com/album/4ch03gmg7kQW32XKnbSlV0"
+      },
+      "artists": [
+        {
+          "name": "ACIDMAN",
+          "url": "https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307666,
+      "name": "\u3042\u308b\u8a3c\u660e",
+      "url": "https://open.spotify.com/track/210KKbtaSEC8dazqRyNwsM"
     },
     {
       "album": {
@@ -11802,7 +11900,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 222320,
       "name": "\u30ad\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS"
@@ -12772,7 +12870,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 203830,
       "name": "\u30cf\u30ed\u30fc\u30d5\u30a3\u30af\u30b5\u30fc",
       "url": "https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh"
@@ -13900,7 +13998,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 277360,
       "name": "\u540d\u524d\u3092\u547c\u3076\u3088",
       "url": "https://open.spotify.com/track/5iTyiE1jAfmjorzFLc4Frg"
@@ -16330,7 +16428,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 260680,
       "name": "\u8f1d\u3051\u308b\u3082\u306e",
       "url": "https://open.spotify.com/track/5IWsAjExgVuzDZQT2gexuS"
@@ -16636,7 +16734,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 256665,
       "name": "\u9762\u5f71",
       "url": "https://open.spotify.com/track/5m7ZuRemZ0JDzVHpld0aXt"

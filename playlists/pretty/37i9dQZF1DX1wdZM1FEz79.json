@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Kang Minjeong(\uac15\ubbfc\uc815)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 284065,
+  "num_followers": 284122,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGIyYWI1MzlhYzM1MDVjYjQzNTQ4MjY1M2I0YmU1MzU4OWZiMTg4",
+  "snapshot_id": "MCxjMGRiZGE1OGVlZDA4MDQ1NzQ4MTg1NWRkZDNkMDhjMmI1Nzg0YjM5",
   "tracks": [
     {
       "added_at": "2024-01-15 04:33:16",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-01-15 04:33:16",
       "album": {
-        "name": "Tomorrow - SM STATION",
-        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
-      },
-      "artists": [
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        }
-      ],
-      "duration_ms": 145360,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
-    },
-    {
-      "added_at": "2024-01-15 04:33:16",
-      "album": {
         "name": "Dear My All",
         "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 161250,
       "name": "Dear My All",
       "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
+    },
+    {
+      "added_at": "2024-01-15 04:33:16",
+      "album": {
+        "name": "Tomorrow - SM STATION",
+        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        }
+      ],
+      "duration_ms": 145360,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
     },
     {
       "added_at": "2024-01-15 04:33:16",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-01-15 04:33:16",
       "album": {
-        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne"
-      },
-      "artists": [
-        {
-          "name": "KWON SOON IL",
-          "url": "https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf"
-        }
-      ],
-      "duration_ms": 257986,
-      "name": "Loveless Night",
-      "url": "https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB"
-    },
-    {
-      "added_at": "2024-01-15 04:33:16",
-      "album": {
         "name": "When The Wind Blows - SM STATION",
         "url": "https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 226168,
       "name": "When The Wind Blows",
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
+    },
+    {
+      "added_at": "2024-01-15 04:33:16",
+      "album": {
+        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne"
+      },
+      "artists": [
+        {
+          "name": "KWON SOON IL",
+          "url": "https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf"
+        }
+      ],
+      "duration_ms": 257986,
+      "name": "Loveless Night",
+      "url": "https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB"
     },
     {
       "added_at": "2024-01-15 04:33:16",

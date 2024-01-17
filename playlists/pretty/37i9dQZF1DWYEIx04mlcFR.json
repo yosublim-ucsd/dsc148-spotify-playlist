@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de artistas con Dannylux en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 67258,
+  "num_followers": 67257,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWRhODQ1YTBjZDQ4ZTNkZjBhNDkwOTY4ZTAyYmQ1ZDQ5YTQ2MmU1",
+  "snapshot_id": "MCxlMjY4NTNjNGVmYWIyYmZiM2U2ZmJhNDFmOTIxYjI4OGVlMTI2MGRh",
   "tracks": [
     {
       "added_at": "2024-01-12 06:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-01-12 06:00:00",
       "album": {
+        "name": "EN EL ESPACIO",
+        "url": "https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "Im\u00e1n",
+      "url": "https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG"
+    },
+    {
+      "added_at": "2024-01-12 06:00:00",
+      "album": {
         "name": "Rosa Pastel",
         "url": "https://open.spotify.com/album/3iwukaTIs0irnTqui1vtnk"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 240000,
       "name": "Ah\u00ed Estar\u00e9",
       "url": "https://open.spotify.com/track/1HDSpp1hQxCuUloQCS7GcD"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "EN EL ESPACIO",
-        "url": "https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ"
-      },
-      "artists": [
-        {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "Im\u00e1n",
-      "url": "https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG"
     },
     {
       "added_at": "2024-01-12 06:00:00",

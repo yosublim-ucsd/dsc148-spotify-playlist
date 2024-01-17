@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 77418,
+  "num_followers": 77480,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTgwOTkyMThmMmJjZmE0NTQ0YjQwYzFmODQwNjMyNTk4YmE2MWRm",
+  "snapshot_id": "MCw3OTM5ZjY2NjRmYTcyMzFkYjM5NTg3ZmZhN2Y0YTdlZDUxZmY4NjAy",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -375,22 +375,26 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "The Essential John P. Kee",
-        "url": "https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy"
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
       },
       "artists": [
         {
-          "name": "The New Life Community Choir",
-          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Rich Tolbert Jr.",
+          "url": "https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb"
         }
       ],
-      "duration_ms": 326493,
-      "name": "I Do Worship (feat. John P. Kee) - Live",
-      "url": "https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO"
+      "duration_ms": 402826,
+      "name": "Miracle Worker (feat. Rich Tolbert Jr.) - Live",
+      "url": "https://open.spotify.com/track/28a6fdX75aPqpVHDp1cOpX"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -431,26 +435,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Miracle Worker (Live)",
-        "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
+        "name": "The Essential John P. Kee",
+        "url": "https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy"
       },
       "artists": [
         {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+          "name": "The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
         },
         {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Rich Tolbert Jr.",
-          "url": "https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb"
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
         }
       ],
-      "duration_ms": 402826,
-      "name": "Miracle Worker (feat. Rich Tolbert Jr.) - Live",
-      "url": "https://open.spotify.com/track/28a6fdX75aPqpVHDp1cOpX"
+      "duration_ms": 326493,
+      "name": "I Do Worship (feat. John P. Kee) - Live",
+      "url": "https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO"
     },
     {
       "added_at": "2023-02-18 05:28:04",

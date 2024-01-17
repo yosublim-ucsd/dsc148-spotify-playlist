@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 0,
+  "2024-01-17": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
   "name": "Discover Weekly (@pipemanuel10)",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 138399,
       "name": "2en2",
       "url": "https://open.spotify.com/track/7DT4BSlwhQV8RoSTvxrSev"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 239680,
       "name": "Advertencia",
       "url": "https://open.spotify.com/track/5wx3ecSkNWZomj1aMRGSfL"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 163173,
       "name": "Aguaviva",
       "url": "https://open.spotify.com/track/5Z57F4xnFMrnJDW9YsAOlf"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 268333,
       "name": "Al otro lado del silencio",
       "url": "https://open.spotify.com/track/6nZGegauhy3raLriPhGI6i"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 162093,
       "name": "Ana No Duerme",
       "url": "https://open.spotify.com/track/2P2tl8JT698TJJ55ScKyku"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 401186,
       "name": "Anesthesia",
       "url": "https://open.spotify.com/track/0c03LEUpwW0O2tmt0dfktG"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 306000,
       "name": "Auto Rojo",
       "url": "https://open.spotify.com/track/5PSCWHpXi8I45NXURHyhBA"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 274453,
       "name": "Bala perdida",
       "url": "https://open.spotify.com/track/10pbPf8GUBP5lfRIktyXau"
@@ -2457,7 +2457,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 205824,
       "name": "Calibraciones (sin censura)",
       "url": "https://open.spotify.com/track/2mjMjovgyCRqEdLAe4NGv9"
@@ -2785,10 +2785,28 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 210426,
       "name": "Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/2TuoRWJFfN2DRBNhEaoc6L"
+    },
+    {
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265933,
+      "name": "Charisma",
+      "url": "https://open.spotify.com/track/6afDASlKWMARNxYSrCAAf8"
     },
     {
       "album": {
@@ -4611,7 +4629,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 320293,
       "name": "El Himno",
       "url": "https://open.spotify.com/track/6ySGtcU6rehPcsxwWX2K83"
@@ -4867,7 +4885,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 252866,
       "name": "En Tus Manos",
       "url": "https://open.spotify.com/track/28sKeAfc8lTSUsncvSro4f"
@@ -4993,10 +5011,28 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 203293,
       "name": "Esta luz nunca se apagar\u00e1 - There Is a Light That Never Goes Out",
       "url": "https://open.spotify.com/track/5kDvGOJLmYttWjHMcwxlT5"
+    },
+    {
+      "album": {
+        "name": "Habemus Sed",
+        "url": "https://open.spotify.com/album/0FtFUzNNMJVswDtXkccGHs"
+      },
+      "artists": [
+        {
+          "name": "Los Mox!",
+          "url": "https://open.spotify.com/artist/3vOhBYpEKYtJhZcQWh0Q4Q"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57800,
+      "name": "Estoy Pal Copy Paste",
+      "url": "https://open.spotify.com/track/1gF7Zzvp70Rnl1MU3JH4Lo"
     },
     {
       "album": {
@@ -5281,7 +5317,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 307960,
       "name": "Fire Woman",
       "url": "https://open.spotify.com/track/2rbcCco3PrSyMinVJdh61J"
@@ -5699,7 +5735,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 398222,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU"
@@ -8565,7 +8601,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 485893,
       "name": "Liar - Live",
       "url": "https://open.spotify.com/track/2z0T2ifNBfAP06IcYo7USy"
@@ -9371,7 +9407,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 199933,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/2kB1rqoTaZ3j6ChtIWGurm"
@@ -10209,7 +10245,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 216573,
       "name": "Nada Cambi\u00f3 Mi Amor",
       "url": "https://open.spotify.com/track/5pG2M0EQRjTBaNcK1Ozoed"
@@ -11261,7 +11297,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 82640,
       "name": "Pega Fuerte",
       "url": "https://open.spotify.com/track/4XiPXYjqS35cKbaoUhnwuJ"
@@ -12019,7 +12055,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 312800,
       "name": "Punto Final",
       "url": "https://open.spotify.com/track/69OfVtcwv0l9etxgk4q95y"
@@ -12037,7 +12073,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 287760,
       "name": "Purgatorio",
       "url": "https://open.spotify.com/track/2rGcld3ZVXLjlGEZHWO8ZO"
@@ -12127,7 +12163,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 103105,
       "name": "Que Te Vas",
       "url": "https://open.spotify.com/track/4yWlGF6zWvhRgDwnNzE3Ge"
@@ -12171,6 +12207,24 @@
       "duration_ms": 280933,
       "name": "Queen of the Rodeo - Live at the Marquee, Dallas, TX - November 1990",
       "url": "https://open.spotify.com/track/38sjtUeEP2f9gfyLcJiqx9"
+    },
+    {
+      "album": {
+        "name": "Quien Mato A Gaete?",
+        "url": "https://open.spotify.com/album/2YVQNMOpkDlqKRx8dskEsb"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Redoles",
+          "url": "https://open.spotify.com/artist/30iOgrPV86QMnMsPOJYHOJ"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404626,
+      "name": "Quien Mato A Gaete?",
+      "url": "https://open.spotify.com/track/6w8prGxDTuaO2auLOTbMa5"
     },
     {
       "album": {
@@ -12653,7 +12707,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 214000,
       "name": "Rutina",
       "url": "https://open.spotify.com/track/7L3VPUjzc5RF61Da0bG5Mr"
@@ -13845,7 +13899,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 242600,
       "name": "Somos Uno",
       "url": "https://open.spotify.com/track/1wQqeNE9vcQARph6dhBuDf"
@@ -13863,7 +13917,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 272306,
       "name": "Somos Violentos",
       "url": "https://open.spotify.com/track/1QDHzn1IcUJSrS8ewBf3SA"
@@ -14137,7 +14191,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 201746,
       "name": "Still Ill - 2011 Remaster",
       "url": "https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J"
@@ -14299,7 +14353,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 229997,
       "name": "Sucio Policia",
       "url": "https://open.spotify.com/track/5ZMYggZmihQ4D7p7OUq3qX"
@@ -14623,7 +14677,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 168306,
       "name": "S\u00edndrome Camboya",
       "url": "https://open.spotify.com/track/4IeiaAtPN6CWijJaW18N26"
@@ -16295,7 +16349,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 169799,
       "name": "Vinito tinto",
       "url": "https://open.spotify.com/track/0vW0DzIntmHv8CZoK1i5cx"
@@ -16749,7 +16803,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 367960,
       "name": "When Love and Death Embrace",
       "url": "https://open.spotify.com/track/7p9fJOQJJFzE8pkQ99v6yb"
@@ -17055,7 +17109,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-28",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "Ya No Se Que Hacer Conmigo",
       "url": "https://open.spotify.com/track/3vUWWpeAUDowjEgTcpsbSE"

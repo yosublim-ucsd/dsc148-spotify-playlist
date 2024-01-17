@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-465 songs - 1 day 3 hr 44 min
+466 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Burn It Away](https://open.spotify.com/track/32LZoWfLpIfffpKI0BkqUZ) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Burn It Away](https://open.spotify.com/album/2qSJxSUyGFDAvRHmr3MxCR) | 2:42 | 2023-07-21 | 2023-07-29 |
 | [BUSY](https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [BUSY](https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC) | 2:07 | 2023-01-20 | 2023-07-14 |
 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 | 2022-04-01 | 2022-04-18 |
-| [By Your Stripes](https://open.spotify.com/track/4wSv15ySAkejSbUmpWI8Nt) | [MARV](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [By Your Stripes](https://open.spotify.com/album/7B9oQRNfp82bgUsINsaNpL) | 4:26 | 2023-01-20 |  |
+| [By Your Stripes](https://open.spotify.com/track/4wSv15ySAkejSbUmpWI8Nt) | [MARV](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [By Your Stripes](https://open.spotify.com/album/7B9oQRNfp82bgUsINsaNpL) | 4:26 | 2023-01-20 | 2024-01-17 |
 | [CALL](https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [CALL](https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j) | 2:40 | 2022-04-08 | 2023-11-01 |
 | [Can You Feel It \(feat\. Tamela Mann\) \- Kirk Franklin Remix](https://open.spotify.com/track/1aTvsZ24hGnqavThyNo7nY) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Triumph \(Expanded Version\)](https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7) | 5:48 | 2022-04-01 | 2022-06-05 |
 | [CAN'T](https://open.spotify.com/track/0FCzQqeK1Kqpmvjr4rrZ8H) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [CAN'T](https://open.spotify.com/album/4A6vxUHZmpN3qq4ysEC90z) | 3:40 | 2022-02-19 | 2022-06-26 |
@@ -268,6 +268,7 @@
 | [Milk & Honey](https://open.spotify.com/track/56JGnyYpo9I2g8yOfgEt4p) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Sensibilities](https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl) | 2:26 | 2022-06-25 | 2023-10-31 |
 | [Mind Remix](https://open.spotify.com/track/08f44TILBPrfpzKF4GtMbf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Mind Remix](https://open.spotify.com/album/2Qe1HpbdXkBN7GsmDTTdig) | 2:38 | 2022-02-19 | 2022-06-25 |
 | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD) | 5:58 | 2023-01-20 | 2023-11-01 |
+| [More In Seconds](https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [More In Seconds](https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj) | 4:04 | 2024-01-12 |  |
 | [more like you](https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more like you](https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J) | 3:17 | 2022-06-25 | 2024-01-13 |
 | [Motive](https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Motive](https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH) | 2:42 | 2022-06-25 | 2024-01-13 |
 | [Movin' On](https://open.spotify.com/track/4H3rqFTUsyeMOLhTXjxmDn) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [People](https://open.spotify.com/album/6kM7VIaHKHxqbxtLszt1To) | 3:48 | 2022-02-19 | 2022-06-26 |

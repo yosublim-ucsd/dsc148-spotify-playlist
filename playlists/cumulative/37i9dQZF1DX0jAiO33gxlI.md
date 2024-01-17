@@ -4,11 +4,10 @@
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Renan Samam
 
-553 songs - 1 day 6 hr 1 min
+553 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/3mawalxBZwZROIFufojlHr) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Luxo](https://open.spotify.com/album/3I7Z9qEgkliVmRA1thYens) | 0:00 | 2024-01-05 |  |
 | [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 | 2023-04-14 | 2023-08-01 |
 | [157](https://open.spotify.com/track/6RDpNYmvVAY0NCjWKr9e40) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [157](https://open.spotify.com/album/42yjoPI1TbqylzR3ZCNA8a) | 2:21 | 2022-03-22 | 2022-10-22 |
 | [16 Toneladas](https://open.spotify.com/track/1sL8jrQOc3lG2Tow2lpjDj) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Killergui](https://open.spotify.com/artist/1bPxKzl5Lg8eMzsB7az0Jc) | [16 Toneladas](https://open.spotify.com/album/3Lp50deOAmqBJsN4vBPZLs) | 2:34 | 2023-02-17 | 2023-03-03 |
@@ -283,6 +282,7 @@
 | [Loyalty](https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Jojo Baby](https://open.spotify.com/artist/6PZt0GDf28Kg2smT0qq1nM) | [Loyalty](https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw) | 3:24 | 2023-07-28 | 2023-10-28 |
 | [Lucro](https://open.spotify.com/track/4H9PvG7E38FmfCgBukFJ5t) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 3:14 | 2023-07-28 |  |
 | [Lugar na mesa](https://open.spotify.com/track/3CwSGsw1rxv3WsUI3X95ch) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 2:59 | 2022-11-21 |  |
+| [Luxo](https://open.spotify.com/track/3mawalxBZwZROIFufojlHr) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Força Suprema](https://open.spotify.com/artist/5aHBo7aTtbveyygEOFqOX3), [Gutto](https://open.spotify.com/artist/2xTmseecOdW1wBsVicsOmg) | [Luxo](https://open.spotify.com/album/3I7Z9qEgkliVmRA1thYens) | 4:42 | 2024-01-05 |  |
 | [Luz da Lua](https://open.spotify.com/track/71i1attKK5wZKNPUYOHRB0) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Luz da Lua](https://open.spotify.com/album/3P2Zg9ZZ2njZgWziGm614U) | 3:23 | 2022-03-22 | 2023-02-04 |
 | [Lá Fora](https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lossio](https://open.spotify.com/artist/3AQxHBg7YeOuvqdvfzj95r) | [Lá Fora](https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe) | 3:11 | 2022-08-26 | 2022-09-03 |
 | [Lágrimas](https://open.spotify.com/track/3PWfXDkLIqfbTdEyv812za) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 2:57 | 2022-03-22 | 2023-01-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,339 likes - 80 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,528 likes - 80 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 40 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
 | 41 | [R U 4REAL \(feat\. Marina Maximilian\)](https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [R U 4REAL \(feat\. Marina Maximilian\)](https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa) | 3:09 |
 | 42 | [Don't Care Anymore](https://open.spotify.com/track/1Rpo5GI7BxWj2hXLaK39fq) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Don't Care Anymore](https://open.spotify.com/album/0mTspKDmWINKfM2gPqMmF1) | 6:56 |
-| 43 | [Arbora](https://open.spotify.com/track/1QgbpXgP9AGnEwTHtA51Al) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Arbora](https://open.spotify.com/album/5DLGmdDcettb6PPnfu11ch) | 3:40 |
-| 44 | [Ceremony](https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 7:00 |
+| 43 | [Ceremony](https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 7:00 |
+| 44 | [Arbora](https://open.spotify.com/track/1QgbpXgP9AGnEwTHtA51Al) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Arbora](https://open.spotify.com/album/5DLGmdDcettb6PPnfu11ch) | 3:40 |
 | 45 | [Get Lucky](https://open.spotify.com/track/4lSCnW0nsmts8DKJLNiia9) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Gracie Thunder](https://open.spotify.com/artist/25d61nDt5Q9CgyfTraRplX) | [Get Lucky](https://open.spotify.com/album/17OsldS6iPodvsbgVOJEho) | 3:45 |
 | 46 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
 | 47 | [No One Like You \- Edit](https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [No One Like You \- EP](https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK) | 4:16 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 70 | [Lost Generation \- Edit](https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [Bulgarian Voices Angelite](https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9), [Huun\-Huur\-Tu](https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t) | [Lost Generation](https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC) | 2:43 |
 | 71 | [Camaleon](https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Camaleon](https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX) | 5:59 |
 | 72 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 |
-| 73 | [Tomorrow](https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR) | [Mika Olson](https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc) | [Tomorrow](https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO) | 3:16 |
-| 74 | [To Be Written \- Lunar Plane Remix](https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r), [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [To Be Written](https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2) | 6:33 |
+| 73 | [To Be Written \- Lunar Plane Remix](https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r), [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [To Be Written](https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2) | 6:33 |
+| 74 | [Tomorrow](https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR) | [Mika Olson](https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc) | [Tomorrow](https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO) | 3:16 |
 | 75 | [Noso](https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML) | [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088), [Nico Casal](https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Noso](https://open.spotify.com/album/46TCzN7jRdwIWXPzi60Eyz) | 7:23 |
 | 76 | [Howl \- Logic1000 Remix](https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Howl \(Logic1000 Remix\)](https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq) | 4:49 |
 | 77 | [Better In The Dark](https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Better In The Dark](https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax) | 5:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Restless](https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Ahmet Kilic](https://open.spotify.com/artist/5OyOddK42Hm0pENFDWxn39), [Lynn](https://open.spotify.com/artist/7nzbcK2bzEtoMgTQAwHQVl) | [Restless & Wild](https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX) | 6:43 |
 | 80 | [Letting Go](https://open.spotify.com/track/0MNM0hmteyINSvRtUIURTM) | [Evelynka](https://open.spotify.com/artist/2GfOeShdTYQziYC2HjP8PN) | [Letting Go](https://open.spotify.com/album/6gqSSAAFz9rzYgyTGjFdSD) | 4:16 |
 
-Snapshot ID: `MCw0MWIxOGQyMjY1MWJjMDVhYmYyN2YyOTE1MWZhZjMyZDY3YWI0Nzli`
+Snapshot ID: `MCw4Mjc4NWQxMmJkMzIyMTY3NWU2YjRjZTgxNmVmMWQ1ZDk2YWZjMTUy`

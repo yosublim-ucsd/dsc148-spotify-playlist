@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 10365,
+  "num_followers": 10370,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWI3NGRmOTUzOGQ1MjM4YzNlNjkxN2JjMzY4NWExMWM5ODEzYzVk",
+  "snapshot_id": "MCw1NTUyNDc3ZDkzYTZmOGJlYzhlNDg5ZGNiYTdiMmUxNDFiODI3MjFh",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -387,22 +387,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Tower Of Song - The Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
+        "name": "Ron Sexsmith",
+        "url": "https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "The Chieftains",
-          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
         }
       ],
-      "duration_ms": 199600,
-      "name": "Sisters Of Mercy",
-      "url": "https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw"
+      "duration_ms": 189840,
+      "name": "Heart With No Companion",
+      "url": "https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -439,18 +435,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Ron Sexsmith",
-        "url": "https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg"
+        "name": "Tower Of Song - The Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
       },
       "artists": [
         {
-          "name": "Ron Sexsmith",
-          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "The Chieftains",
+          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
         }
       ],
-      "duration_ms": 189840,
-      "name": "Heart With No Companion",
-      "url": "https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui"
+      "duration_ms": 199600,
+      "name": "Sisters Of Mercy",
+      "url": "https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw"
     },
     {
       "added_at": "2018-12-06 19:29:22",

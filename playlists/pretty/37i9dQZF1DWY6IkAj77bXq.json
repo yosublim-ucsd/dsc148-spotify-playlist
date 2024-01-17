@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 66970,
+  "num_followers": 67012,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTA4Mzg3NWQxYTQxZTJlZDI4OTczNDgzNDE2ZDlhNjAyMDM2Y2Y0",
+  "snapshot_id": "MCxiZGMyYTc3NDViOGJlOTFlZDVmNDVkNzQ2NGE4ZjhhNzVjY2JjZDA1",
   "tracks": [
     {
       "added_at": "2023-11-24 18:47:41",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Mind Balance",
-        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
-      },
-      "artists": [
-        {
-          "name": "Angelic Planet",
-          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Mind Balance",
-      "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Trust the Universe",
         "url": "https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 169000,
       "name": "Trust the Universe",
       "url": "https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Mind Balance",
+        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Mind Balance",
+      "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Hills Of Clarity",
-        "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
-      },
-      "artists": [
-        {
-          "name": "Elevated Minds",
-          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
-        }
-      ],
-      "duration_ms": 255792,
-      "name": "Hills Of Clarity",
-      "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Bortgjemt",
         "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Easy Mind",
-        "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
+        "name": "Hills Of Clarity",
+        "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
       },
       "artists": [
         {
-          "name": "Alma Meris",
-          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+          "name": "Elevated Minds",
+          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Easy Mind",
-      "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
+      "duration_ms": 255792,
+      "name": "Hills Of Clarity",
+      "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -711,6 +695,22 @@
       "duration_ms": 165000,
       "name": "Vishram - Yoga Version",
       "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Easy Mind",
+        "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
+      },
+      "artists": [
+        {
+          "name": "Alma Meris",
+          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Easy Mind",
+      "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
+        "name": "Lights on Water",
+        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Lights on Water",
+      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
         "name": "Sammram",
         "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Lights on Water",
-        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
-      },
-      "artists": [
-        {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Lights on Water",
-      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Prieks",
         "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Sleep Sequence",
-        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 203374,
-      "name": "Sleep Sequence",
-      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Insights",
         "url": "https://open.spotify.com/album/5yB1iHwxoDqs4UqPtQravz"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 165325,
       "name": "Forgettable",
       "url": "https://open.spotify.com/track/6O6QxgjfXLyHH4C6aa8jbO"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Sleep Sequence",
+        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 203374,
+      "name": "Sleep Sequence",
+      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
-      },
-      "artists": [
-        {
-          "name": "James Nepali",
-          "url": "https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x"
-        }
-      ],
-      "duration_ms": 137349,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 160000,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
+      },
+      "artists": [
+        {
+          "name": "James Nepali",
+          "url": "https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x"
+        }
+      ],
+      "duration_ms": 137349,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
+        "name": "Repose",
+        "url": "https://open.spotify.com/album/1kWjQNP5T5CsEgbYusdWu2"
+      },
+      "artists": [
+        {
+          "name": "Aerial Love",
+          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Repose",
+      "url": "https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 162400,
       "name": "Floating Without Gravity",
       "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
-        "name": "Repose",
-        "url": "https://open.spotify.com/album/1kWjQNP5T5CsEgbYusdWu2"
-      },
-      "artists": [
-        {
-          "name": "Aerial Love",
-          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Repose",
-      "url": "https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Dream Away",
-        "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
+        "name": "Stressophobic",
+        "url": "https://open.spotify.com/album/4viW8FRpQz928WnCqe2NME"
       },
       "artists": [
         {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+          "name": "Phobic",
+          "url": "https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj"
         }
       ],
-      "duration_ms": 124615,
-      "name": "Dream Away",
-      "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
+      "duration_ms": 172000,
+      "name": "Stressophobic",
+      "url": "https://open.spotify.com/track/6O6CClNFRAQ9Y2wB3t2g84"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Stressophobic",
-        "url": "https://open.spotify.com/album/4viW8FRpQz928WnCqe2NME"
+        "name": "Dream Away",
+        "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
       },
       "artists": [
         {
-          "name": "Phobic",
-          "url": "https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj"
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Stressophobic",
-      "url": "https://open.spotify.com/track/6O6CClNFRAQ9Y2wB3t2g84"
+      "duration_ms": 124615,
+      "name": "Dream Away",
+      "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
     },
     {
       "added_at": "2023-11-24 18:47:41",

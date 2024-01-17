@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Ares.
 
-272 songs - 13 hr 11 min
+273 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [GALAXIS](https://open.spotify.com/track/7jdvq2vMztAFVV1lanuC39) | [Cozie](https://open.spotify.com/artist/38f9ZxefXrMjdW985F0WbO) | [CHECKTAPE](https://open.spotify.com/album/4JBZJ0IXsl5iEaBF1Y3kNN) | 3:20 | 2023-09-28 | 2023-10-06 |
 | [Gangstaparty](https://open.spotify.com/track/2Y16eiSMRQjbGwwC9EkJ9F) | [Mjay](https://open.spotify.com/artist/4LyW2oFLhrNAMsNo7QzHE1) | [Gangstaparty](https://open.spotify.com/album/377FvzsMfCUoYg0V7dxFEA) | 2:11 | 2024-01-11 |  |
 | [Ghetto Love](https://open.spotify.com/track/4zClLaFTN76B9qHuXpJ2hH) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Ghetto Love](https://open.spotify.com/album/6h6gvLvzUFaap0qVojsrox) | 2:06 | 2023-10-12 |  |
+| [Glow](https://open.spotify.com/track/0YpLcVh6Wuq7XUu3s0VRN1) | [Jesse Markin](https://open.spotify.com/artist/3mxJuHRn2ZWD5OofvJtDZY) | [Glow](https://open.spotify.com/album/2kHsf0WVsde3cNmeVJY1H2) | 3:02 | 2024-01-15 |  |
 | [HAAVEIT](https://open.spotify.com/track/6O7P4MpIhOPUcTavOnvf7D) | [Jokis](https://open.spotify.com/artist/0wqFCqsFsfZFpoTE2Vzcb3), [Hoo](https://open.spotify.com/artist/6pmXXmGmXplVNYI7C6xoVj) | [HAAVEIT](https://open.spotify.com/album/1zQUZTO1xQHxucKKsGWFhs) | 2:47 | 2024-01-04 |  |
 | [Haikailla](https://open.spotify.com/track/0WaM1Gm2pepIsQOGtUfEKG) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Haikailla](https://open.spotify.com/album/6Cf1dmW8TpCtRTF7xS4tIT) | 3:08 | 2023-10-26 |  |
 | [HALLILLE](https://open.spotify.com/track/0OqAvK1fX9vktHFuPJHBUa) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [HALLILLE](https://open.spotify.com/album/16LXwgFZt00HlZ7j4icdIu) | 3:31 | 2023-11-30 |  |

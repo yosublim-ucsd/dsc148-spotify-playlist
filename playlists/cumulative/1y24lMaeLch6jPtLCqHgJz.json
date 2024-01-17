@@ -4271,6 +4271,28 @@
     },
     {
       "album": {
+        "name": "Renegades",
+        "url": "https://open.spotify.com/album/7GBjJgA2a7EI1wII8efEDC"
+      },
+      "artists": [
+        {
+          "name": "VIVID",
+          "url": "https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178344,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/7DUd7RxFvD07eKR2n0x9LV"
+    },
+    {
+      "album": {
         "name": "Acid EP",
         "url": "https://open.spotify.com/album/5gK8htmk5sE0Nu5BGOR5a6"
       },

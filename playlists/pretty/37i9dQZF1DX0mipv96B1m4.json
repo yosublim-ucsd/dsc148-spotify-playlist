@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjNmNTNhZmRhMmMyMDAwNzgwYmI2NjA5YjY0OTlmYzlhMWY2MjBi",
+  "snapshot_id": "MCw3M2E4ODc1YzYzY2NhMDNkZDY3ZDJiM2Q3NDIyZWNmZTAzZjYwYjRl",
   "tracks": [
     {
       "added_at": "2023-11-24 04:39:56",
@@ -623,22 +623,18 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
+        "name": "Wulira Omuziki",
+        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
       },
       "artists": [
         {
-          "name": "Arrow Bwoy",
-          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
-        },
-        {
-          "name": "Jackie Chandiru",
-          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
+          "name": "Eezzy",
+          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
         }
       ],
-      "duration_ms": 208000,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
+      "duration_ms": 196205,
+      "name": "Wulira Omuziki",
+      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -671,18 +667,22 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Wulira Omuziki",
-        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
+        "name": "The One",
+        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
       },
       "artists": [
         {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
+          "name": "Arrow Bwoy",
+          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+        },
+        {
+          "name": "Jackie Chandiru",
+          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
         }
       ],
-      "duration_ms": 196205,
-      "name": "Wulira Omuziki",
-      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
+      "duration_ms": 208000,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
     },
     {
       "added_at": "2023-11-24 04:39:56",

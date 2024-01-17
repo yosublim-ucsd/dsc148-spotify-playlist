@@ -1,12 +1,12 @@
 {
   "description": "Knees go down and the prayers go up",
-  "num_followers": 22813,
+  "num_followers": 22899,
   "original_name": "On Bended Knees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTUyYWFhZjhkMjYxYzk3YTA2YWZkYjM3ZGQwMDJlOTQwODg2MDg1",
+  "snapshot_id": "MCxjYjc1ZjM2OTFiMzEwNTBkM2IzMDAyNTljMGE4OGQ3ODVlNWUxYzky",
   "tracks": [
     {
       "added_at": "2024-01-15 06:52:22",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-01-15 06:52:22",
       "album": {
-        "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 295262,
-      "name": "More Than Gold",
-      "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
-    },
-    {
-      "added_at": "2024-01-15 06:52:22",
-      "album": {
         "name": "Kingdom Now",
         "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 696179,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
+    },
+    {
+      "added_at": "2024-01-15 06:52:22",
+      "album": {
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "duration_ms": 295262,
+      "name": "More Than Gold",
+      "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
     },
     {
       "added_at": "2024-01-15 06:52:22",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-01-15 06:52:22",
       "album": {
-        "name": "Nations Will Rise and Sing",
-        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 317204,
-      "name": "All the Glory",
-      "url": "https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc"
-    },
-    {
-      "added_at": "2024-01-15 06:52:22",
-      "album": {
         "name": "Yeshua",
         "url": "https://open.spotify.com/album/2AVLsx6wOL64vO5bd01g78"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 533914,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/1CCmVTHzUjJT70rcyFDCpM"
+    },
+    {
+      "added_at": "2024-01-15 06:52:22",
+      "album": {
+        "name": "Nations Will Rise and Sing",
+        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 317204,
+      "name": "All the Glory",
+      "url": "https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc"
     },
     {
       "added_at": "2024-01-15 06:52:22",

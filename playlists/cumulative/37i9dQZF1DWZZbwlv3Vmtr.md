@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-869 songs - 1 day 9 hr 43 min
+870 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [Hammock in the Clouds](https://open.spotify.com/track/6KW9sCI0ZePT4KWRVEwAwV) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0) | [Hammock in the Clouds](https://open.spotify.com/album/7gRvTZ12OEA7nbEeJhZhK4) | 2:57 | 2022-11-11 | 2023-11-17 |
 | [Handprints](https://open.spotify.com/track/1gJrZGrE3RZ8HhS45OuqTq) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Handprints](https://open.spotify.com/album/5hAgnNl3k9ZxYsK1131fbd) | 1:14 | 2022-04-15 | 2022-07-01 |
 | [Hang On](https://open.spotify.com/track/4duI476FUu6iId8JOTOk8i) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Hang On](https://open.spotify.com/album/246psBSULJ3D3tL7zwU4wO) | 1:58 | 2022-04-15 | 2022-07-01 |
-| [Happy Rhythm](https://open.spotify.com/track/3rqXQZIaS8MJxg3ZH4U7PS) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Happy Rhythm](https://open.spotify.com/album/6kUm2VBgPparejM4cqiMOj) | 1:46 | 2022-11-11 |  |
+| [Happy Rhythm](https://open.spotify.com/track/3rqXQZIaS8MJxg3ZH4U7PS) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Happy Rhythm](https://open.spotify.com/album/6kUm2VBgPparejM4cqiMOj) | 1:46 | 2022-11-11 | 2024-01-17 |
 | [Happy Vibes](https://open.spotify.com/track/756qohm4sXMyfHT6t0pPOK) | [Banker](https://open.spotify.com/artist/2VTXmYvdlvwrIQ0p2j2XfI) | [Happy Vibes](https://open.spotify.com/album/6emgwxBXdHUBvWy4y0XJwH) | 2:40 | 2022-11-11 |  |
 | [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 |  |
 | [have we met before?](https://open.spotify.com/track/096FqtiSIjZqAAZH6U6mW7) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [have we met before?](https://open.spotify.com/album/6MsQoiJdl6aC8QxybR4OF1) | 1:42 | 2022-06-24 |  |
@@ -300,6 +300,7 @@
 | [Hong Kong Minute](https://open.spotify.com/track/3M0fRULm8Js8oHwiO9Cjod) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Hong Kong Minute](https://open.spotify.com/album/3DLhD7vymFXPYWscCRM7yW) | 2:17 | 2022-04-15 | 2022-12-10 |
 | [Horizon Butterfly](https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [HoriZon Butterfly](https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp) | 2:00 | 2022-10-14 |  |
 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 | 2022-04-15 |  |
+| [hot sauce expert](https://open.spotify.com/track/6Y9htoJ4aK8doMsrfSjfZk) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [hot sauce expert](https://open.spotify.com/album/6ENsgfts4fxKpxve4szGlD) | 2:03 | 2024-01-12 |  |
 | [Hot Stones](https://open.spotify.com/track/13LZg3VSWy7YWnaBOhPmMo) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/13hvjH0sRnYLVJRAUC1z2z) | 1:45 | 2022-11-11 | 2022-11-25 |
 | [Hot Stones](https://open.spotify.com/track/16rYkrvniJ5h40ajA5bKpI) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/3dG4Xh1b0BIgLUkRfefhJ1) | 1:45 | 2022-12-09 |  |
 | [Hot Stones](https://open.spotify.com/track/2022877RqBEPVfODofVbbN) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/4BG58BhdX5Rc4xgL1wTzsi) | 1:45 | 2022-11-11 | 2022-12-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,755 likes - 125 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,848 likes - 125 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 79 | [Yesterdays](https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7) | [Lennie Tristano Sextet](https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 2:48 |
 | 80 | [I Should Care](https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9) | [Nat Adderley](https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D) | [Introducing Nat Adderley](https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT) | 4:27 |
 | 81 | [Stars Fell On Alabama](https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Harmonica Jazz](https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j) | 3:11 |
-| 82 | [Lover Come Back To Me](https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 8:28 |
-| 83 | [These Foolish Things \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:09 |
+| 82 | [These Foolish Things \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:09 |
+| 83 | [Lover Come Back To Me](https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 8:28 |
 | 84 | [Love For Sale \- Rudy Van Gelder Edition](https://open.spotify.com/track/31LoccJiEwfzHm72hDHLj0) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 7:37 |
 | 85 | [Almost Like Being In Love](https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO) | [Konitz Meets Mulligan](https://open.spotify.com/album/7yXH6IIoz1egpOdG62fiMh) | 2:58 |
 | 86 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Now!](https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG) | 4:15 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 90 | [Exactly Like You](https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Dizzy 100](https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn) | 5:00 |
 | 91 | [The Way You Look Tonight](https://open.spotify.com/track/7ln3tLGBE1knxxUnkt7IXE) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Hollywood Stampede](https://open.spotify.com/album/1b4uwxIF7PHkdAgkhoagPW) | 2:50 |
 | 92 | [Time After Time \- Instrumental](https://open.spotify.com/track/0AtkWTAdzyuXO5AFdMd2nH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Young Chet](https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky) | 2:35 |
-| 93 | [What Is This Thing Called Love?](https://open.spotify.com/track/7uwEQccVDaRZwz3zp09e5M) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 6:03 |
+| 93 | [It's Only A Paper Moon](https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Work From Home with Count Basie](https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6) | 2:43 |
 | 94 | [You've Changed](https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 7:27 |
-| 95 | [It's Only A Paper Moon](https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Work From Home with Count Basie](https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6) | 2:43 |
+| 95 | [What Is This Thing Called Love?](https://open.spotify.com/track/7uwEQccVDaRZwz3zp09e5M) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 6:03 |
 | 96 | [Blame It On My Youth](https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [The Cure](https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9) | 8:16 |
 | 97 | [In A Mellow Tone](https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:26 |
 | 98 | [Basin Street Blues](https://open.spotify.com/track/4Sg0W2BElMlqk2QVCz7xlP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 10:27 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 124 | [You Are Too Beautiful](https://open.spotify.com/track/0ncaOYFsDJ7X0HaVOESL2v) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [You And Lee](https://open.spotify.com/album/4zOW1zEMnDd4mH6Gs8dpFr) | 4:09 |
 | 125 | [My Romance \(take 2\) \- Alternate Take](https://open.spotify.com/track/4Ui4x5HkS80awaZRdjdGXd) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:12 |
 
-Snapshot ID: `MCwxZGM2N2ZkYmFiMDkwMjRjOGE0MTI4MmZhZDNhN2IyM2U0ZGM3YWUx`
+Snapshot ID: `MCw1MzM5ZDE3YWZiNDVlODc5ZWRjZDIwOTYyOTFkNTQxNjY4ZjJlY2Vi`

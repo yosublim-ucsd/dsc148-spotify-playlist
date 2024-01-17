@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-277 songs - 14 hr 16 min
+278 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Reality](https://open.spotify.com/track/1SOK81MZs2M0WzvIzTFaqD) | [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [Alvi](https://open.spotify.com/artist/5NiZEpj3XzblvgCLwxurbg) | [Reality](https://open.spotify.com/album/4LGbWAhmObQWhqCMRPoOon) | 2:34 | 2023-11-16 |  |
 | [Realm Of Acid](https://open.spotify.com/track/57KoTEm1naOkOYawTJq0Qx) | [MØNSIEUR](https://open.spotify.com/artist/08svoVIQeWMKP9ryi4DuBv), [Michael Ace](https://open.spotify.com/artist/1yxYREEpLiPCieAv65TlT2) | [Realm Of Acid](https://open.spotify.com/album/6rQGUwKZbkIrbO1AB2DrKV) | 3:12 | 2023-11-02 |  |
 | [Recount the Stars](https://open.spotify.com/track/0SEkpFkzcwvbZ3muExGTx5) | [TAKEOFFANDFLY](https://open.spotify.com/artist/38cnnPZnUjRbSEcvvnZNlW) | [Recount the Stars](https://open.spotify.com/album/4ztlaCtCCYQ1QYlZbTI0MU) | 3:16 | 2023-01-09 | 2023-02-07 |
+| [Renegades](https://open.spotify.com/track/7DUd7RxFvD07eKR2n0x9LV) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Renegades](https://open.spotify.com/album/7GBjJgA2a7EI1wII8efEDC) | 2:58 | 2024-01-16 |  |
 | [Return to Rave](https://open.spotify.com/track/0dHUlFclEzLXbbMtPpxoQk) | [AndyG](https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3), [MK8](https://open.spotify.com/artist/56P4MWXXtmCt1Zam2oLaeU) | [Acid EP](https://open.spotify.com/album/5gK8htmk5sE0Nu5BGOR5a6) | 2:30 | 2023-08-11 |  |
 | [Right Here](https://open.spotify.com/track/5ic27VIYvnEnHgBuXWLa9a) | [Fablers](https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX), [Joysic](https://open.spotify.com/artist/3FW1fcyuFVakqhaKw1HC5h), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Baiden Holland](https://open.spotify.com/artist/0nTCgWKkvxKVqpldaLIolY) | [Right Here](https://open.spotify.com/album/7rFA256wJK0iwTumwqj8fB) | 3:08 | 2022-07-29 | 2023-05-13 |
 | [Rising Tides](https://open.spotify.com/track/5YNEMf0CmbpC2019m5QEWT) | [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ), [G.U.O.L.](https://open.spotify.com/artist/2wZaQyJOZ7y68O1cayCN16), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [Rising Tides](https://open.spotify.com/album/0da1kIqfftXGGKmkZ47eUA) | 3:16 | 2023-06-13 | 2023-09-23 |

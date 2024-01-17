@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Vale Lambo in cover.
 
-280 songs - 13 hr 3 min
+281 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [FUOC X SEMP](https://open.spotify.com/track/6PoAFFOQiLzXOFeD3EbiaL) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [FUOC X SEMP](https://open.spotify.com/album/1eOLhOslFE7WSermbE6Ne4) | 2:46 | 2023-05-04 | 2023-05-12 |
 | [GAS](https://open.spotify.com/track/6351T1EhGpm7IAnsmXplnn) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H), [emvnuel](https://open.spotify.com/artist/6rGb0Db2lSQVMVWuSwzQBj) | [GAS](https://open.spotify.com/album/7ciK8kJ0K7fExA4VtiXLYQ) | 2:25 | 2022-07-07 | 2022-07-27 |
 | [Gelosa](https://open.spotify.com/track/6yFFIzhqSpbLpThVX1NBA5) | [Fiore](https://open.spotify.com/artist/087xYE0Vx9VAmQnkDpCq3R) | [Gelosa](https://open.spotify.com/album/4DqWLszRz3xqOVKwYtQrop) | 2:46 | 2023-10-12 | 2023-11-10 |
-| [Genkidama](https://open.spotify.com/track/5WUAZVcoe0g7MLnHA3akWy) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Genkidama](https://open.spotify.com/album/1VE2rt8pjEWu7kh1y6FqHY) | 2:29 | 2023-11-02 |  |
+| [Genkidama](https://open.spotify.com/track/5WUAZVcoe0g7MLnHA3akWy) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Genkidama](https://open.spotify.com/album/1VE2rt8pjEWu7kh1y6FqHY) | 2:29 | 2023-11-02 | 2024-01-17 |
 | [Genny e Mattia](https://open.spotify.com/track/0Ok5OqNJtBwU6iROg4M5cA) | [Kepa](https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg), [Manuel Erry](https://open.spotify.com/artist/3EuxW7IEIQFkxTKHSq8ETH), [Whizy](https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2) | [Genny e Mattia](https://open.spotify.com/album/2VB3t5nVljtzj0qJwePSIj) | 3:14 | 2023-06-01 | 2023-06-15 |
 | [GESCAL](https://open.spotify.com/track/3i9FbuHPNwzERPtut6ZdgW) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [GESCAL](https://open.spotify.com/album/722mXX4yzovAHZo9K6gag9) | 2:16 | 2022-10-13 | 2022-11-30 |
 | [GESCAL RMX](https://open.spotify.com/track/1azqLZpUeY64qv0DuU72Ve) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Rione](https://open.spotify.com/artist/7iMfaY3weGRYnarHrFogVH) | [GESCAL RMX](https://open.spotify.com/album/3GxOPgluCYNEcoK1lfw0Na) | 2:22 | 2023-12-07 | 2024-01-09 |
@@ -217,6 +217,7 @@
 | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/album/421OGAOihQdZuiXiVoCVV5) | 2:08 | 2022-05-12 | 2022-09-02 |
 | [RHLM \(feat\. Rame\)](https://open.spotify.com/track/711TpNrKbnG0qJF7j21I0q) | [Kepa](https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg), [Whizy](https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2), [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7) | [RHLM \(feat\. Rame\)](https://open.spotify.com/album/40LRNKQCOgxasBBASHrISS) | 3:00 | 2023-11-16 | 2023-12-15 |
 | [RICCHEZZA](https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:04 | 2023-01-06 | 2023-04-07 |
+| [Rolex \(feat\. Lele Blade\)](https://open.spotify.com/track/74bfTNttbZDa0x9v57V94K) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:02 | 2024-01-16 |  |
 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:56 | 2023-09-22 | 2023-12-13 |
 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 | 2023-05-18 |  |
 | [Royalty](https://open.spotify.com/track/21kRy3Z2XAL80IOabWrOnx) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Baloo](https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA) | [Royalty \(Stirpe Nova, Vol.2\)](https://open.spotify.com/album/0eNJ6p3SIEa9o6PxJV35Bn) | 2:57 | 2023-05-11 | 2023-06-02 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 396926,
+  "2024-01-17": 396974,
   "date_first_scraped": "2022-02-06",
   "description": "Dark, hard hitting pop. Cover: bludnymph",
   "name": "SALT",
@@ -7946,6 +7946,24 @@
     },
     {
       "album": {
+        "name": "She Likes a Boy",
+        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129056,
+      "name": "She Likes a Boy",
+      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
+    },
+    {
+      "album": {
         "name": "She Ruins Everything",
         "url": "https://open.spotify.com/album/47dUMKJXhMColrlmkd0WPU"
       },
@@ -7979,6 +7997,24 @@
       "duration_ms": 206772,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
+    },
+    {
+      "album": {
+        "name": "Should We",
+        "url": "https://open.spotify.com/album/4UTy95lbfZb73MJeRwSfcA"
+      },
+      "artists": [
+        {
+          "name": "Emi Jeen",
+          "url": "https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153731,
+      "name": "Should We",
+      "url": "https://open.spotify.com/track/4Y8PgWmxjAnBHNuz516yWf"
     },
     {
       "album": {
@@ -9109,7 +9145,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 165150,
       "name": "THEY ALL DIE IN THE END",
       "url": "https://open.spotify.com/track/3EMjyCdzpAVapByDEhict6"
@@ -9643,7 +9679,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 100128,
       "name": "Unsubstantial",
       "url": "https://open.spotify.com/track/7u9gUIq2jVEnIgUXAVXnBb"

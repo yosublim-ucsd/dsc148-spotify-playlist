@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 14608,
+  "num_followers": 14617,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTE0NDgxNjY2NDdmYjU4MDVkYWY0YTBmMWU2YmUzNmJjNzJhMTAx",
+  "snapshot_id": "MCwzYjhhNmFjODA1NjRkZjNjMDE5NTFkNTIxNWNkN2Y5OWZkYjZkNzQ4",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Junkyard",
         "url": "https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 232626,
       "name": "Nitroglycerine",
       "url": "https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 177546,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Thunderbird ESQ",
-      "url": "https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Root Damage",
         "url": "https://open.spotify.com/album/3lONx9tNtCCo47EkD0mYJf"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 180213,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Thunderbird ESQ",
+      "url": "https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Midnight Soul Serenade",
         "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Sedition",
         "url": "https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv"
       },
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "You, The Night\u2026 and The Music",
+        "url": "https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP"
+      },
+      "artists": [
+        {
+          "name": "Gallon Drunk",
+          "url": "https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "Just One More",
+      "url": "https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Midnight Soul Serenade",
         "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Too Much Guitar",
-        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
-      },
-      "artists": [
-        {
-          "name": "Reigning Sound",
-          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
-        }
-      ],
-      "duration_ms": 123013,
-      "name": "Get It!",
-      "url": "https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Nothing Can Stop These Men",
         "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 135400,
       "name": "Ida Honey (Tell Me You'll Be Mine)",
       "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "You, The Night\u2026 and The Music",
-        "url": "https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP"
-      },
-      "artists": [
-        {
-          "name": "Gallon Drunk",
-          "url": "https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Just One More",
-      "url": "https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -695,6 +679,22 @@
       "duration_ms": 217040,
       "name": "Summer Sun Blues",
       "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Too Much Guitar",
+        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
+      },
+      "artists": [
+        {
+          "name": "Reigning Sound",
+          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
+        }
+      ],
+      "duration_ms": 123013,
+      "name": "Get It!",
+      "url": "https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo"
     },
     {
       "added_at": "2022-03-28 20:14:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,343 likes - 81 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,364 likes - 81 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 80 | [More Love](https://open.spotify.com/track/3Btp2yoOci6l2XocvDkhTj) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5), [EDDY](https://open.spotify.com/artist/35EEWhSbFB6RRH5KoZermD) | [More Love](https://open.spotify.com/album/1yMyJ2HDO6RiTXvRHqT8eG) | 2:37 |
 | 81 | [MONSTER](https://open.spotify.com/track/2ZvI7tBb6kRs3MiNx9K2CA) | [HARLOW](https://open.spotify.com/artist/1aLrXcfXIrmgnkh3YmPzOd) | [MONSTER](https://open.spotify.com/album/2fhor5q8wmTFErYNvCrjrW) | 3:23 |
 
-Snapshot ID: `MCxjMTNiN2M2NWFkMWVmYTgzYmQzNjMxMzRjNjYwMDk2OGU5NDE5YzU4`
+Snapshot ID: `MCwxMWZiN2NlYWJmOTA4Y2Y4ZTAxMGZlNTUwODU1NWFiYjg3MTI1OTRi`

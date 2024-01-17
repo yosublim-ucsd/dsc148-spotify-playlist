@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 5846,
+  "num_followers": 5857,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmZiNjYxMGRiNWE1MDZkMDczZTM2NjNhMzk2M2Y5NGRjNTU5NDJj",
+  "snapshot_id": "MCxkZDQyYWUyNTYzMTI1ZmJlMjFiNWM4ZTA4ZjczODRmNDQ5MTA5ZjY2",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -315,8 +315,8 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Pornosotros",
-        "url": "https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx"
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
       },
       "artists": [
         {
@@ -324,17 +324,17 @@
           "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
         },
         {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
         },
         {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
         }
       ],
-      "duration_ms": 198058,
-      "name": "Pornosotros",
-      "url": "https://open.spotify.com/track/7DTnxzUjeho8NYE0IsoDw1"
+      "duration_ms": 174757,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -447,8 +447,8 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "La Diferencia",
-        "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
+        "name": "Pornosotros",
+        "url": "https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx"
       },
       "artists": [
         {
@@ -456,17 +456,45 @@
           "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
         },
         {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
         },
         {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+          "name": "Fixty Ordara y Ja Rulay",
+          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
         }
       ],
-      "duration_ms": 174757,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
+      "duration_ms": 198058,
+      "name": "Pornosotros",
+      "url": "https://open.spotify.com/track/7DTnxzUjeho8NYE0IsoDw1"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Agua Noche Remix",
+        "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
+      },
+      "artists": [
+        {
+          "name": "Yulien Oviedo",
+          "url": "https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4"
+        },
+        {
+          "name": "Fixty Ordara y Ja Rulay",
+          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        },
+        {
+          "name": "Ja Rulay",
+          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
+        },
+        {
+          "name": "Fixty Ordara",
+          "url": "https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E"
+        }
+      ],
+      "duration_ms": 238269,
+      "name": "Agua Noche Remix",
+      "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -499,34 +527,6 @@
       "duration_ms": 124589,
       "name": "NO ES LO QUE PARECE",
       "url": "https://open.spotify.com/track/1WrTj4KU7QNgm6qS3lSocA"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Agua Noche Remix",
-        "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
-      },
-      "artists": [
-        {
-          "name": "Yulien Oviedo",
-          "url": "https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4"
-        },
-        {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
-        },
-        {
-          "name": "Ja Rulay",
-          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
-        },
-        {
-          "name": "Fixty Ordara",
-          "url": "https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E"
-        }
-      ],
-      "duration_ms": 238269,
-      "name": "Agua Noche Remix",
-      "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
-      },
-      "artists": [
-        {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
-      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "The Hits Kings",
         "url": "https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 183131,
       "name": "Ganas de Ti",
       "url": "https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
+      },
+      "artists": [
+        {
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
+      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
     },
     {
       "added_at": "2023-12-08 05:00:00",

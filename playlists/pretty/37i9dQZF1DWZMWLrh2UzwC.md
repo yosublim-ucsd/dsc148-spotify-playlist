@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,857 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,853 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 79 | [Sea](https://open.spotify.com/track/2mvlTkWNYuY1ADkYhu9swW) | [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [Sea](https://open.spotify.com/album/1eMTHBNaOPa3KWhJSWaL75) | 3:47 |
 | 80 | [poison ivy!](https://open.spotify.com/track/0YqCIpNWeKlQQ1XUvllmWr) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [poison ivy!](https://open.spotify.com/album/4UrbrGPvXxIfHXOA0P4Gjb) | 2:44 |
 
-Snapshot ID: `MCxiNTg1ODY0NzIzNGU5Yjc0NTY0M2JlN2U1YzJlNTkxZTU3OTI0MDMx`
+Snapshot ID: `MCxlYzdjZjU2MmI3YzUyMTY0ZDI1ZDcwNzY5YzVlNDQ3OGFhNGM3MWM1`

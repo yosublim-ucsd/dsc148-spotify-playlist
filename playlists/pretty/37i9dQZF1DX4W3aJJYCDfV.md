@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ariana Grande \(pictured\), D\-Block Europe, The Vaccines and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,877 likes - 119 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,890 likes - 119 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 118 | [Derby's Dose](https://open.spotify.com/track/3XWtrpRAyfF6ZoHAsdlao1) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Derby's Dose](https://open.spotify.com/album/62s4yMS26LGe6DFcWyWAdW) | 3:06 |
 | 119 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
 
-Snapshot ID: `MCw1Y2Y0MDc1MmRmYjRiZWIxOTMxMTFiYjYzYzAxMjQwYWM4YWZhNDRl`
+Snapshot ID: `MCw2NzQ1ZTNlZTU0YWIxZTNlNDdiYWY4MWQ2MDcwYjYwNTU4MGY0NWE4`

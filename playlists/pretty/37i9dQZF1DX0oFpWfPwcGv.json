@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 58591,
+  "num_followers": 58623,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzI0NDEzYjU3NTJhMWE0MmNlMmUyNDcyMWE2ODA1MDFkMDMwNTZi",
+  "snapshot_id": "MCw0YzkzMTgzYTNlYjcxM2VkMzQ1YjgzNzI5OGQwNTJhM2E1NmM5Nzkw",
   "tracks": [
     {
       "added_at": "2023-12-31 05:22:18",
@@ -379,22 +379,18 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
-        "name": "Love Is The Message",
-        "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
       },
       "artists": [
         {
-          "name": "MFSB",
-          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
-        },
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
         }
       ],
-      "duration_ms": 222346,
-      "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
-      "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
     },
     {
       "added_at": "2023-12-31 05:22:18",
@@ -415,18 +411,22 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+        "name": "Love Is The Message",
+        "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
       "artists": [
         {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
+      "duration_ms": 222346,
+      "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
+      "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
     },
     {
       "added_at": "2023-12-31 05:22:18",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
-        "name": "Portfolio",
-        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "I Need A Man",
-      "url": "https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS"
-    },
-    {
-      "added_at": "2023-12-31 05:22:18",
-      "album": {
         "name": "Karen Carpenter",
         "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 225160,
       "name": "My Body Keeps Changing My Mind",
       "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
+    },
+    {
+      "added_at": "2023-12-31 05:22:18",
+      "album": {
+        "name": "Portfolio",
+        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "I Need A Man",
+      "url": "https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS"
     },
     {
       "added_at": "2023-12-31 05:22:18",

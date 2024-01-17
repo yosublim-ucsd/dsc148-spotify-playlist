@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-757 songs - 2 day 2 hr 1 min
+758 songs - 2 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [NEO JAPAN](https://open.spotify.com/track/4PQJs2U6R1xhXLxyjmf4gj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:13 | 2023-11-14 |  |
 | [nestling](https://open.spotify.com/track/2eXkWpzzJVQ57l6DOQec7y) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [nestling](https://open.spotify.com/album/1sqB7PoKaqf4QiCaRlZpUq) | 3:47 | 2023-04-11 | 2023-09-09 |
 | [nestling](https://open.spotify.com/track/1Ox30wrAfvowGChbGc2y6p) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Steppin' Out](https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN) | 3:49 | 2023-09-19 |  |
+| [NEW AGE](https://open.spotify.com/track/7JgLa5jso9GYRyaBxKJHMm) | [Gambs](https://open.spotify.com/artist/16AEm9MJ06RFrLAsbqCiwv) | [NEW AGE](https://open.spotify.com/album/4aKBMTVHGadz08I1aRoIaf) | 4:42 | 2024-01-16 |  |
 | [New Place, New Life](https://open.spotify.com/track/1zOhrl9g5ABIjwwCJ9OI5Q) | [RAq](https://open.spotify.com/artist/0I6KWC4h8huHA3Mgj2NaqZ) | [New Place, New Life](https://open.spotify.com/album/15QZRuqfRxjJ5lkvuXx1wS) | 2:27 | 2023-03-21 | 2023-03-29 |
 | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/track/3QcM6ch2eQqWJgjtpIZvm7) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx) | 3:13 | 2023-05-30 | 2023-09-26 |
 | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/track/4DAGg2adRd1PuKrnoUZXOP) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/album/4zDzYgnFLtpLj9Zo2I6zNi) | 3:13 | 2023-05-30 | 2023-06-01 |
@@ -687,7 +688,7 @@
 | [恋はジェラシー](https://open.spotify.com/track/6IXn8HunEvFtT6yihvgkYC) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [恋はジェラシー](https://open.spotify.com/album/0VzuX0pUtargb2ROyJgWXO) | 4:06 | 2023-01-24 | 2023-01-26 |
 | [恋は流星 Part Ⅱ](https://open.spotify.com/track/7ENEQQY8yvG7zseEkiS9Rg) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [TWILIGHT TIME](https://open.spotify.com/album/0WNOuQ9sN0J3lV3pkzrJMu) | 5:28 | 2022-06-14 | 2022-06-22 |
 | [恋標](https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [恋標](https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3) | 3:32 | 2022-07-27 | 2022-07-29 |
-| [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ) | 4:35 | 2022-05-24 |  |
+| [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ) | 4:35 | 2022-05-24 | 2024-01-17 |
 | [愛が一層メロウ](https://open.spotify.com/track/1kwO1OLDhgP4H0TnieLYio) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:12 | 2024-01-14 |  |
 | [愛してるなんて今更](https://open.spotify.com/track/0bZLJwPW1jjTkzRcvB8sXC) | [ネオンに恋して](https://open.spotify.com/artist/0nUqLbbcq3ZxXPjaU76nB9) | [愛してるなんて今更](https://open.spotify.com/album/3jXkIlnD4d3kAAMpH0akbF) | 4:11 | 2023-12-12 | 2023-12-20 |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-11-10 | 2023-11-18 |

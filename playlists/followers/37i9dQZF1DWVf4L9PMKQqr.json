@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 20016,
+  "2024-01-17": 20029,
   "date_first_scraped": "2023-12-19",
   "description": "Enam\u00f3rate con las interpretaciones m\u00e1s rom\u00e1nticas de El Flaco de Oro.",
   "name": "Cancionero Agust\u00edn Lara",
@@ -551,7 +551,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 180453,
       "name": "Estrella Solitaria",
       "url": "https://open.spotify.com/track/6RXz0sqsnvnPDOm1I5paIH"
@@ -1011,6 +1011,24 @@
       "duration_ms": 137333,
       "name": "Naufragio",
       "url": "https://open.spotify.com/track/7vTmlPkU3BGipqzeStpqSw"
+    },
+    {
+      "album": {
+        "name": "Inmortales de To\u00f1a la Negra",
+        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159164,
+      "name": "Noche Criolla",
+      "url": "https://open.spotify.com/track/5Zrdtd4UC1ESsSFgyc0jqg"
     },
     {
       "album": {

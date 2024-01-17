@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 234372,
+  "num_followers": 234437,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzA5ZThiODY0NjA0NzlmYmUwOGZmMGQ5MmU0MTJjNjk0YTMzZjdk",
+  "snapshot_id": "MCxmY2IyNzQxZDI0OWI2MTU1OGNlYzhjYmMwZGQ5OWQwOWZlZTE2ODhi",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -279,18 +279,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Los Creadores Del Sonido",
-        "url": "https://open.spotify.com/album/2tFZT8FiXb8GjEhTI03vCl"
+        "name": "De Cuba a Per\u00fa",
+        "url": "https://open.spotify.com/album/4b00R4Z5nToeFS9tS9F03w"
       },
       "artists": [
         {
-          "name": "Chiquito Team Band",
-          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
+          "name": "Bamboleo",
+          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
         }
       ],
-      "duration_ms": 211866,
-      "name": "La Llamada De Mi Ex",
-      "url": "https://open.spotify.com/track/3DsOQD00s3Z6Km4WvtMkJt"
+      "duration_ms": 295543,
+      "name": "Usted No Sabe",
+      "url": "https://open.spotify.com/track/0NcmQ04wzsyNiXqRLWWO92"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -311,18 +311,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "De Cuba a Per\u00fa",
-        "url": "https://open.spotify.com/album/4b00R4Z5nToeFS9tS9F03w"
+        "name": "Los Creadores Del Sonido",
+        "url": "https://open.spotify.com/album/2tFZT8FiXb8GjEhTI03vCl"
       },
       "artists": [
         {
-          "name": "Bamboleo",
-          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
+          "name": "Chiquito Team Band",
+          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
         }
       ],
-      "duration_ms": 295543,
-      "name": "Usted No Sabe",
-      "url": "https://open.spotify.com/track/0NcmQ04wzsyNiXqRLWWO92"
+      "duration_ms": 211866,
+      "name": "La Llamada De Mi Ex",
+      "url": "https://open.spotify.com/track/3DsOQD00s3Z6Km4WvtMkJt"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Con La Musica Cubana No!",
-        "url": "https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy"
-      },
-      "artists": [
-        {
-          "name": "TIMBALIVE",
-          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
-        }
-      ],
-      "duration_ms": 316339,
-      "name": "Conmigo No",
-      "url": "https://open.spotify.com/track/3yophgzbY958X32KOQqiYF"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Timba Cubana",
         "url": "https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 325026,
       "name": "Un Mal Sue\u00f1o",
       "url": "https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Con La Musica Cubana No!",
+        "url": "https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy"
+      },
+      "artists": [
+        {
+          "name": "TIMBALIVE",
+          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+        }
+      ],
+      "duration_ms": 316339,
+      "name": "Conmigo No",
+      "url": "https://open.spotify.com/track/3yophgzbY958X32KOQqiYF"
     },
     {
       "added_at": "2022-12-30 18:20:45",

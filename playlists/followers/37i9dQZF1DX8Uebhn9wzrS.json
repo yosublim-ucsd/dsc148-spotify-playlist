@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 1327620,
+  "2024-01-17": 1328407,
   "date_first_scraped": "2022-04-20",
   "description": "The perfect study beats. Find your focus, crush your productivity. ",
   "name": "chill lofi study beats",
@@ -14887,7 +14887,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 138000,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/7m1tBjVEK1JQarLmrOvkic"
@@ -16003,6 +16003,24 @@
       "duration_ms": 186088,
       "name": "Let It Out",
       "url": "https://open.spotify.com/track/0JEU96lgzuk1xe5OOdK0H8"
+    },
+    {
+      "album": {
+        "name": "Let's Puddle",
+        "url": "https://open.spotify.com/album/6RDVlWP0D8qqH4n5FA91Gx"
+      },
+      "artists": [
+        {
+          "name": "Lime Nyorobon",
+          "url": "https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132214,
+      "name": "Let's Puddle",
+      "url": "https://open.spotify.com/track/6yMtuNltStGSJyv6LLytcE"
     },
     {
       "album": {
@@ -19339,7 +19357,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 135375,
       "name": "Mowet",
       "url": "https://open.spotify.com/track/39U3Csv6FnR77n4dZURepR"
@@ -24617,6 +24635,24 @@
       "duration_ms": 193515,
       "name": "Roots of the Green",
       "url": "https://open.spotify.com/track/1b8U66FM9AsyPEc3fX7sai"
+    },
+    {
+      "album": {
+        "name": "rose quartz",
+        "url": "https://open.spotify.com/album/6Vzlg6lBDOAUBXUARsv4ky"
+      },
+      "artists": [
+        {
+          "name": "Cyan_95",
+          "url": "https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124590,
+      "name": "rose quartz",
+      "url": "https://open.spotify.com/track/6QCZUHBxTk7Fa05l0RFhMn"
     },
     {
       "album": {
@@ -30809,7 +30845,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 137626,
       "name": "Trip walkin",
       "url": "https://open.spotify.com/track/2hm1fDCEshDF9cR02ruyWq"
@@ -30903,7 +30939,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 91428,
       "name": "True",
       "url": "https://open.spotify.com/track/3Elj8kE6dLDym1iIBy6JeC"

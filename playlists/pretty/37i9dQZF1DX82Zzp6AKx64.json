@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Tina Turner",
-  "num_followers": 1158876,
+  "num_followers": 1158967,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWY5N2MxZWM5NGZiZTRiZGE3MzNmZGRmN2UyNjIwNTJkYzZmMjQ2",
+  "snapshot_id": "MCxhNjg4ZjA5OWE3OTVkMjMwZTBjMmYwYzE0M2E5ODkwZDVhNmM5MmUw",
   "tracks": [
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Rock & Roll Strategy",
-        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
-      },
-      "artists": [
-        {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
-        }
-      ],
-      "duration_ms": 304693,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "The Time of the Oath",
         "url": "https://open.spotify.com/album/1NWq90Tc3ZTnKnpUXT7dTH"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Firehouse",
-        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
+        "name": "Rock & Roll Strategy",
+        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
       },
       "artists": [
         {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
         }
       ],
-      "duration_ms": 235360,
-      "name": "Don't Treat Me Bad",
-      "url": "https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM"
+      "duration_ms": 304693,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1163,6 +1147,22 @@
       "duration_ms": 326826,
       "name": "Til Death Do Us Part",
       "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Firehouse",
+        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "Don't Treat Me Bad",
+      "url": "https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "OU812",
-        "url": "https://open.spotify.com/album/3KufjKt0L2EVahGfxOYJhg"
+        "name": "Sheriff",
+        "url": "https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Sheriff",
+          "url": "https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d"
         }
       ],
-      "duration_ms": 337906,
-      "name": "When It's Love",
-      "url": "https://open.spotify.com/track/7gG1RvwQRrofiL3tvq8pBI"
+      "duration_ms": 238040,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"
     }
   ],
   "unique_name": "Rock Power Ballads",

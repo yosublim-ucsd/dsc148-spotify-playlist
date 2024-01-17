@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: NAV",
-  "num_followers": 9639,
+  "num_followers": 9657,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGI3OWNmMjc2NThlNzAxNzg0YjFhYTY1OWNhOTkzYTdlMDEzMzJl",
+  "snapshot_id": "MCwyYzZhNDY5OTlmMGUzN2I1MzU4MGRhZDdmM2Y1ZWU3NDI5ZmQ2M2Qy",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -691,6 +691,26 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "Northside Jane",
+        "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
+      },
+      "artists": [
+        {
+          "name": "Burna Bandz",
+          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
+        },
+        {
+          "name": "Houdini",
+          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
+        }
+      ],
+      "duration_ms": 228388,
+      "name": "Late Nights",
+      "url": "https://open.spotify.com/track/4tFWHvXkGeJPH0hLeq3c06"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "All Aces",
         "url": "https://open.spotify.com/album/5soFx6s5E0fpGrrAEvSaVg"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 201600,
       "name": "All Aces",
       "url": "https://open.spotify.com/track/0uDfuXjHlSQaSAFELqqk7p"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Northside Jane",
-        "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
-      },
-      "artists": [
-        {
-          "name": "Burna Bandz",
-          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
-        },
-        {
-          "name": "Houdini",
-          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
-        }
-      ],
-      "duration_ms": 228388,
-      "name": "Late Nights",
-      "url": "https://open.spotify.com/track/4tFWHvXkGeJPH0hLeq3c06"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1051,6 +1051,30 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "002 / LOVE ME",
+        "url": "https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "duration_ms": 266599,
+      "name": "Come Inside (Kaytranada Edit)",
+      "url": "https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "NightmareZ",
         "url": "https://open.spotify.com/album/2YlFBQKbefAcrWtidbdms7"
       },
@@ -1063,22 +1087,6 @@
       "duration_ms": 109446,
       "name": "NightmareZ",
       "url": "https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Been Himma",
-        "url": "https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq"
-      },
-      "artists": [
-        {
-          "name": "Dom Vallie",
-          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "Been Himma",
-      "url": "https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1103,6 +1111,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "Been Himma",
+        "url": "https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq"
+      },
+      "artists": [
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "duration_ms": 166829,
+      "name": "Been Himma",
+      "url": "https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G"
       },
@@ -1123,30 +1147,6 @@
       "duration_ms": 245093,
       "name": "Realest In the City (feat. Meek Mill & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "002 / LOVE ME",
-        "url": "https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        }
-      ],
-      "duration_ms": 266599,
-      "name": "Come Inside (Kaytranada Edit)",
-      "url": "https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6"
     },
     {
       "added_at": "2024-01-12 05:01:00",

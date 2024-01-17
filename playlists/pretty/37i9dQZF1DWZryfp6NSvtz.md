@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: swim school
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,429 likes - 39 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,734 likes - 39 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 38 | [Woah](https://open.spotify.com/track/5TsqxwqSDXSnS8rYHLElQV) | [Yogurt](https://open.spotify.com/artist/41mxrCQY3INlKRtV17QglN) | [Woah](https://open.spotify.com/album/70u58SLiqooCkPAtLLWmis) | 4:20 |
 | 39 | [I Can't Be Yours](https://open.spotify.com/track/2gnq5j1BmHXIMiCYzCDPgh) | [Moloch/Monolyth](https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm) | [I Can't Be Yours](https://open.spotify.com/album/2GOtx62sD5AQUDUT6JgQ57) | 4:13 |
 
-Snapshot ID: `MCxkMjI5MmMzMDdkZGZhMGQ0Yzc4OGJhNWQwZDRkZDQxYmM3ZDMyNmQ4`
+Snapshot ID: `MCwyYTQ3ZTFkMzQ0OTVlNzJkNTZjMjNmMjczMTE3ODA1MTRiYmFiMzU3`

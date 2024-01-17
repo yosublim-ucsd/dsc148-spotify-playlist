@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Lyna Mahyem
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,638 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,701 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Ex](https://open.spotify.com/track/5Y4Dekluv6nGMVTSnqzJyA) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [4 SEASONS \- WINTER](https://open.spotify.com/album/6cU214tMQeiPGIp4gmiEcz) | 3:21 |
 | 40 | [Parano](https://open.spotify.com/track/5Ts3gJAbMVewHiE5vrrPbb) | [MIYA](https://open.spotify.com/artist/3wvHOKj1SHKL28TCoGatJT) | [Coeur froid](https://open.spotify.com/album/56jucH9s6rmLITqM7N9Ejl) | 2:14 |
 
-Snapshot ID: `MCw1NjQ1ZjIxZGM4NDM1OTMwYjg2ZGNkMzYxMDMzMmZlN2ZkOTA2NWQz`
+Snapshot ID: `MCwyZTFjNzBmNTE5YmZjZDc3MWE5OWMyODEwYmQzNWY3YTBjZjQxMmYw`

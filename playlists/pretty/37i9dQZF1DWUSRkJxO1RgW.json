@@ -1,12 +1,12 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 285585,
+  "num_followers": 285639,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjI1MTIzNzIyNmUxMGQwMmI3NTEyY2U5ZjQzMjEyOTI2M2IyM2Ix",
+  "snapshot_id": "MCxiYTczNjZiMThkYTVlNDI4NDcwMGU3MzBlM2FlNDA4ZDE0YmM3NmQ3",
   "tracks": [
     {
       "added_at": "2020-03-13 14:40:50",
@@ -863,6 +863,22 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 259026,
+      "name": "Barbazul Versus el Amor Letal",
+      "url": "https://open.spotify.com/track/4raoyZZLL6wsxihsGjuNev"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
         "name": "Perlas y Diamantes",
         "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 194693,
       "name": "Lunes Por La Madrugada - 1994 Remastered Version",
       "url": "https://open.spotify.com/track/5M6b21Y9Igl0uAfFeRHX3y"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 259026,
-      "name": "Barbazul Versus el Amor Letal",
-      "url": "https://open.spotify.com/track/4raoyZZLL6wsxihsGjuNev"
     },
     {
       "added_at": "2020-03-13 14:40:50",

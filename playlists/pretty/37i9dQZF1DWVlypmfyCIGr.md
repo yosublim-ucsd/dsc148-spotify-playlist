@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: レトロリロン
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,930 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,972 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 39 | [Slip, Fall, Sleep](https://open.spotify.com/track/74n2hdEZVW3ogYP74Pzh85) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Slip, Fall, Sleep](https://open.spotify.com/album/1lRfBlZjd4wHun8GPczQGH) | 3:38 |
 | 40 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 |
 | 41 | [good time](https://open.spotify.com/track/0tVG7UROkKBgW2YtYvAkst) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [good time](https://open.spotify.com/album/54bVETGL4E3SpCt2ZWJz5s) | 3:12 |
-| 42 | [limit](https://open.spotify.com/track/1eexRSvOsnlj4jTd0Sexac) | [ペンギンラッシュ](https://open.spotify.com/artist/538OiFiUjQwtbwswIDeOcD) | [limit](https://open.spotify.com/album/0RxQZZwGASpfg7OH2OkxIK) | 4:23 |
+| 42 | [limit](https://open.spotify.com/track/1eexRSvOsnlj4jTd0Sexac) | [Penguinrush](https://open.spotify.com/artist/6EZO3QfDzV0BREKPesx6Io) | [limit](https://open.spotify.com/album/0RxQZZwGASpfg7OH2OkxIK) | 4:23 |
 | 43 | [poppin](https://open.spotify.com/track/5VfmQpR2oEbsG0SDLFnSPW) | [tomodati](https://open.spotify.com/artist/2jUHyOTAww2DwD3RDGwjzd), [Kiing36](https://open.spotify.com/artist/4ygBoDuxgI8IgjAkEQDClK) | [I don't wanna be xxx](https://open.spotify.com/album/2CSTPAyV65ZD8cSjJBK3Id) | 4:24 |
 | 44 | [匿名奇謀](https://open.spotify.com/track/56VGFy1ykmlUfGulaXaGo0) | [アツキタケトモ](https://open.spotify.com/artist/3heMyf2JzG0BDI5KGMNF1f) | [匿名奇謀](https://open.spotify.com/album/7n1ooVetm2k8AUgQZF1jSu) | 3:34 |
 | 45 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Pray](https://open.spotify.com/track/2qHW7U1LRU9F9HPUnJ6ffk) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Pray](https://open.spotify.com/album/0oxb7UtZLAmpBjHZ0mM1PD) | 3:04 |
 | 80 | [WINTER DANCE](https://open.spotify.com/track/5d90AlhUhCDgY17imsiztL) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [Digitalian is eating breakfast](https://open.spotify.com/album/4ClHbl3AUrQeGH5GEg7QgT) | 5:52 |
 
-Snapshot ID: `MCw3OTM3MGJkM2ZhZDJiM2IzMjlhOTQyZmViMWM0NDRlZjQzNzNjNzMw`
+Snapshot ID: `MCxjZmRlZjRkNzllYjc1Mjk4NWY4OWMzZDlkZjY3ZDBjYzVhNTVlNjVi`

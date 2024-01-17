@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Frank Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,272 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,265 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 69 | [Heaven \(feat\. Jon Bryant\)](https://open.spotify.com/track/15xN5qQdAT0FGZhaJSfjHm) | [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E), [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Heaven \(feat\. Jon Bryant\)](https://open.spotify.com/album/7BoFacXpJzeAbbBJQpTUVa) | 3:05 |
 | 70 | [Hollow](https://open.spotify.com/track/3gByRyiigH782nWRRA5AO0) | [Jack Trades](https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Hollow](https://open.spotify.com/album/419GAsyEbISUne6I62pkpk) | 2:59 |
 
-Snapshot ID: `MCwwOWFjNGU4OGE2MjMxYmNlNGZjZDZjMzc2Yjc1MDAzOGI4ODJmYjNk`
+Snapshot ID: `MCwxZDE0ZjM1MWI3MDRjYzAxNWFkNjhmZTFkZjY0NDRlMDM2NDNmODA3`

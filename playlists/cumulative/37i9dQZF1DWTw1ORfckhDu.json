@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/2kHsf0WVsde3cNmeVJY1H2"
+      },
+      "artists": [
+        {
+          "name": "Jesse Markin",
+          "url": "https://open.spotify.com/artist/3mxJuHRn2ZWD5OofvJtDZY"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182108,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/0YpLcVh6Wuq7XUu3s0VRN1"
+    },
+    {
+      "album": {
         "name": "HAAVEIT",
         "url": "https://open.spotify.com/album/1zQUZTO1xQHxucKKsGWFhs"
       },

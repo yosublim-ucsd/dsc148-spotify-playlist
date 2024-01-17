@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,232 likes - 179 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,233 likes - 179 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 178 | [POOLSIDE](https://open.spotify.com/track/0xlWwwUYRWSbCRfo2ouHPJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [SPRING: POOLSIDE x LAGOON](https://open.spotify.com/album/5bJYoNzkHpbXYWl694WGmI) | 2:41 |
 | 179 | [All Made Up](https://open.spotify.com/track/3L5dOP6Ihkg8dxkMzxJUuc) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4jCnOBRxxucPjnNMr1NYGK) | 4:10 |
 
-Snapshot ID: `MCwxZmQ0NjNhMDUwZGNmZDk0OGVjYjEyODlhZThiZTk5MjE5NmE2NGU1`
+Snapshot ID: `MCwzM2E1MDFiOWFjNGFlODExNGQ3MGQ4NGYxMDhlZWM2NDUxNjU3Yzg4`

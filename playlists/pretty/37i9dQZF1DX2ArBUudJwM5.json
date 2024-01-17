@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 40067,
+  "num_followers": 40076,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWU2MWE4ZTgxMDkwYTBiZDIyMjc0Zjc2MDFiZjhlMjc0MWFiM2I1",
+  "snapshot_id": "MCxhYTEzOTcxZmQyMWE5ZDRmZWMxZjg5ZTU4MGEwN2IzZGUyOTFkMTVi",
   "tracks": [
     {
       "added_at": "2024-01-10 17:36:14",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "MILENA",
-        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
-      },
-      "artists": [
-        {
-          "name": "Milena Salamanca",
-          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
-        }
-      ],
-      "duration_ms": 126146,
-      "name": "Pal Tiempo Del Carnaval",
-      "url": "https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Si Me Duele Que Duela",
         "url": "https://open.spotify.com/album/6gnumXyZdCKbpx7fmkBXuo"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 159285,
       "name": "Si Me Duele Que Duela",
       "url": "https://open.spotify.com/track/5iDW3YN3foLkUzdK9mAAvk"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "MILENA",
+        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
+      },
+      "artists": [
+        {
+          "name": "Milena Salamanca",
+          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
+        }
+      ],
+      "duration_ms": 126146,
+      "name": "Pal Tiempo Del Carnaval",
+      "url": "https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -687,18 +687,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Desaniversario",
-        "url": "https://open.spotify.com/album/222BIV6PsPK1iliAOnXqdx"
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
       },
       "artists": [
         {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 158307,
-      "name": "Desaniversario",
-      "url": "https://open.spotify.com/track/41XoV9JteU1gs49l71pr4o"
+      "duration_ms": 185432,
+      "name": "INFINITO",
+      "url": "https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -719,22 +723,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
+        "name": "Desaniversario",
+        "url": "https://open.spotify.com/album/222BIV6PsPK1iliAOnXqdx"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
         }
       ],
-      "duration_ms": 185432,
-      "name": "INFINITO",
-      "url": "https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt"
+      "duration_ms": 158307,
+      "name": "Desaniversario",
+      "url": "https://open.spotify.com/track/41XoV9JteU1gs49l71pr4o"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -951,38 +951,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7Fb2WjHd01JQGL6lKleSv7"
-      },
-      "artists": [
-        {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "La Ara\u00f1a",
-      "url": "https://open.spotify.com/track/4hOPF9upeZmmpXCXpro2bs"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "eclips3",
         "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
       },
@@ -1003,6 +971,38 @@
       "duration_ms": 162843,
       "name": "CHROME",
       "url": "https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7Fb2WjHd01JQGL6lKleSv7"
+      },
+      "artists": [
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "La Ara\u00f1a",
+      "url": "https://open.spotify.com/track/4hOPF9upeZmmpXCXpro2bs"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1112,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
         }
       ],
-      "duration_ms": 179579,
-      "name": "Opuesto Complementario",
-      "url": "https://open.spotify.com/track/7G5Zd3uDwBnEPVJeYOveee"
+      "duration_ms": 191278,
+      "name": "Rothmans",
+      "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1216,9 +1216,9 @@
           "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
         }
       ],
-      "duration_ms": 191278,
-      "name": "Rothmans",
-      "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
+      "duration_ms": 179579,
+      "name": "Opuesto Complementario",
+      "url": "https://open.spotify.com/track/7G5Zd3uDwBnEPVJeYOveee"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP"
-      },
-      "artists": [
-        {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 176528,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Piedra del \u00c1guila",
         "url": "https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ"
       },
@@ -1447,22 +1427,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Carajo",
-        "url": "https://open.spotify.com/album/2bFagscYwDpB7WWoWJEHt2"
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Gabanna",
-          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
         },
         {
-          "name": "Lupita's Friends",
-          "url": "https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW"
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
         }
       ],
-      "duration_ms": 284050,
-      "name": "Carajo",
-      "url": "https://open.spotify.com/track/77AKXWSJHnHscFfovjvFJI"
+      "duration_ms": 176528,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1479,6 +1459,26 @@
       "duration_ms": 218613,
       "name": "1312 (Portarme Mal)",
       "url": "https://open.spotify.com/track/1kGTOTvzDICyz3BiTNQEq5"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Carajo",
+        "url": "https://open.spotify.com/album/2bFagscYwDpB7WWoWJEHt2"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+        },
+        {
+          "name": "Lupita's Friends",
+          "url": "https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW"
+        }
+      ],
+      "duration_ms": 284050,
+      "name": "Carajo",
+      "url": "https://open.spotify.com/track/77AKXWSJHnHscFfovjvFJI"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Loter\u00eda",
-        "url": "https://open.spotify.com/album/2Du3juhT7PsmLUllpoYlTa"
-      },
-      "artists": [
-        {
-          "name": "Flor Vigna",
-          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
-        }
-      ],
-      "duration_ms": 133760,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/3dV0Znw71wFiOSNN20k5u1"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "El terciopelo",
         "url": "https://open.spotify.com/album/6quUdu8HN7KcqxqykeUFt1"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 138530,
       "name": "La historia de la sensibilidad",
       "url": "https://open.spotify.com/track/66OXKTSyAHvJYtwSMmTPAd"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Loter\u00eda",
+        "url": "https://open.spotify.com/album/2Du3juhT7PsmLUllpoYlTa"
+      },
+      "artists": [
+        {
+          "name": "Flor Vigna",
+          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
+        }
+      ],
+      "duration_ms": 133760,
+      "name": "Loter\u00eda",
+      "url": "https://open.spotify.com/track/3dV0Znw71wFiOSNN20k5u1"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Lonely Fans",
-        "url": "https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 211186,
-      "name": "D\u00cdAS COMO HOY",
-      "url": "https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "El Final de Las Cosas",
         "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 319807,
       "name": "Fin del Mundo",
       "url": "https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Lonely Fans",
+        "url": "https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "D\u00cdAS COMO HOY",
+      "url": "https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N"
     },
     {
       "added_at": "2024-01-10 17:36:14",

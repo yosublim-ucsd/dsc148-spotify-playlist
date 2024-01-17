@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 824432,
+  "2024-01-17": 824370,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -3172,6 +3172,28 @@
     },
     {
       "album": {
+        "name": "Bu Gece Karakolluk Olabilirim",
+        "url": "https://open.spotify.com/album/4pmke7Abk1fcNfFTSv63Po"
+      },
+      "artists": [
+        {
+          "name": "Heijan",
+          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+        },
+        {
+          "name": "Azer B\u00fclb\u00fcl",
+          "url": "https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175457,
+      "name": "Bu Gece Karakolluk Olabilirim",
+      "url": "https://open.spotify.com/track/2SLWxQ1HDxNlkIhxNRtIaT"
+    },
+    {
+      "album": {
         "name": "bu gece karakolluk olabilirim",
         "url": "https://open.spotify.com/album/6v4lQt7VW06iHKrjuW071m"
       },
@@ -3183,7 +3205,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 175509,
       "name": "bu gece karakolluk olabilirim",
       "url": "https://open.spotify.com/track/2CNqJNwrybE70v6eBjpBOV"
@@ -4157,7 +4179,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Dilerim Ki",
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
@@ -6939,7 +6961,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 162295,
       "name": "Hayalet",
       "url": "https://open.spotify.com/track/3NWhRNp75M7bEZZH1nWzMw"

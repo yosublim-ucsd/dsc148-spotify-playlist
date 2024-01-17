@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 41955,
+  "num_followers": 41968,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4",
+  "snapshot_id": "MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1195,22 +1195,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "La Banda Grande de la Sultana del Norte",
-        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
+        "name": "No Fue Necesario",
+        "url": "https://open.spotify.com/album/0K21IEi0RqZQuuyrNPD7js"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        },
-        {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 181386,
-      "name": "Que Caro Estoy Pagando (feat. Leandro R\u00edos)",
-      "url": "https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD"
+      "duration_ms": 221960,
+      "name": "No Fue Necesario",
+      "url": "https://open.spotify.com/track/0nzNb3eVpbBp0HmXzL8lCy"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1231,18 +1227,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "No Fue Necesario",
-        "url": "https://open.spotify.com/album/0K21IEi0RqZQuuyrNPD7js"
+        "name": "La Banda Grande de la Sultana del Norte",
+        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
       },
       "artists": [
         {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
         }
       ],
-      "duration_ms": 221960,
-      "name": "No Fue Necesario",
-      "url": "https://open.spotify.com/track/0nzNb3eVpbBp0HmXzL8lCy"
+      "duration_ms": 181386,
+      "name": "Que Caro Estoy Pagando (feat. Leandro R\u00edos)",
+      "url": "https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Homenaje a Nuestros Viejos",
-        "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
-      },
-      "artists": [
-        {
-          "name": "Luis y Juli\u00e1n Jr.",
-          "url": "https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Chaparrita de Mi Amor",
-      "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Alegre Y Enamorado",
         "url": "https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 209333,
       "name": "No Merec\u00edas Tanto Amor",
       "url": "https://open.spotify.com/track/1UsZoJEQqZ1XlH8jbxBoJw"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Homenaje a Nuestros Viejos",
+        "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
+      },
+      "artists": [
+        {
+          "name": "Luis y Juli\u00e1n Jr.",
+          "url": "https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Chaparrita de Mi Amor",
+      "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Y Lo Que Le Sigue",
-        "url": "https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo"
-      },
-      "artists": [
-        {
-          "name": "Norte\u00f1o 4.5",
-          "url": "https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "Si T\u00fa Fueras M\u00eda",
-      "url": "https://open.spotify.com/track/0O0KpqeoegBvsTsrrso8jN"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Seguimos Firmes",
         "url": "https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 221638,
       "name": "La Mejor Versi\u00f3n de Mi",
       "url": "https://open.spotify.com/track/7nu53ruv2tSg9zC90FA0cy"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Y Lo Que Le Sigue",
+        "url": "https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo"
+      },
+      "artists": [
+        {
+          "name": "Norte\u00f1o 4.5",
+          "url": "https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "Si T\u00fa Fueras M\u00eda",
+      "url": "https://open.spotify.com/track/0O0KpqeoegBvsTsrrso8jN"
     },
     {
       "added_at": "2022-01-25 18:24:05",

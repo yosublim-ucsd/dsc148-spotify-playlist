@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Subsonica
 
-698 songs - 1 day 14 hr 44 min
+699 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [The Ugliest](https://open.spotify.com/track/4FXaEnGPtiuHdzFqDf7ENS) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [The Ugliest](https://open.spotify.com/album/1NSGC4IIDcW5R0fVWcy7z8) | 2:27 | 2023-10-12 | 2023-11-03 |
 | [The Weather Song](https://open.spotify.com/track/2OXsiCgkmUbfP6DoaQniaK) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [The Weather Song](https://open.spotify.com/album/3KZmLwH0oI1MVeu6OUSAEX) | 3:45 | 2023-10-19 |  |
 | [Thin Ice](https://open.spotify.com/track/4EJhnSQtPRUN5cUzaSA0ZH) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fiesta](https://open.spotify.com/album/0rXmDvbdBuAsMVQYpfqT0u) | 2:32 | 2022-10-13 | 2022-12-02 |
+| [Ti Amerei](https://open.spotify.com/track/09EeLpRYDS8Qxk5Q7mOa1A) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Serole](https://open.spotify.com/album/4WrXBdup2TcNuo7eOLWGFG) | 3:25 | 2024-01-16 |  |
 | [TI DEVI ROVINARE](https://open.spotify.com/track/4867uScJp6gPGEckidOWk1) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TI DEVI ROVINARE](https://open.spotify.com/album/29mSkfiTOynaVBxBp2E4Vh) | 2:29 | 2022-05-09 | 2022-05-20 |
 | [Ticking](https://open.spotify.com/track/6fXZbd1rHxJvzqUzA0h1ah) | [Elli de Mon](https://open.spotify.com/artist/5cKkMwUUJG4ikwRpeynbhm) | [Ticking](https://open.spotify.com/album/0TLJkKNmpLZ7iZZKwQJH7R) | 3:27 | 2023-04-06 | 2023-04-15 |
 | [Til Life Do Us Part](https://open.spotify.com/track/2o8uFXQOFhnyKjVSYui1tN) | [The Devils](https://open.spotify.com/artist/4dr588YumnHS2BIa7QOZI8) | [Til Life Do Us Part](https://open.spotify.com/album/2LiofEjkfhdxWeLL6qqlnw) | 2:55 | 2023-12-21 |  |

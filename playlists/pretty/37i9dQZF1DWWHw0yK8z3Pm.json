@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Sam Barber",
-  "num_followers": 60222,
+  "num_followers": 60249,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGRlYzE3OWU5NDA2MTFlOGIxMDFlYzI0NTMwZjY3OWQwYTE2OWQ3",
+  "snapshot_id": "MCxkODU3YTk5MzczZWExNzg4OWM0Y2VhZmMwMmVjY2NiZjcyMzIwMzU0",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Fortune Favors the Bold",
-        "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 199734,
-      "name": "Damn Darlin'",
-      "url": "https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Life Lessons",
         "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 195505,
       "name": "Life Lessons",
       "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Family Ties (Sampler)",
+        "url": "https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Family Ties (Sampler)",
-        "url": "https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz"
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
       "artists": [
         {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
         }
       ],
-      "duration_ms": 228346,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
+      "duration_ms": 199734,
+      "name": "Damn Darlin'",
+      "url": "https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Abraham",
-        "url": "https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 250257,
-      "name": "Abraham",
-      "url": "https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Resurrection Day",
         "url": "https://open.spotify.com/album/2hYOs5pJ3WSG1DuKmsh3ZM"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 169570,
       "name": "Resurrection Day",
       "url": "https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Abraham",
+        "url": "https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 250257,
+      "name": "Abraham",
+      "url": "https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8"
     },
     {
       "added_at": "2024-01-12 05:00:00",

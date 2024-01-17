@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 6058,
+  "2024-01-17": 6065,
   "date_first_scraped": "2023-05-19",
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sanathan Shree Krishnan",
   "name": "RADAR Tamil",
@@ -2557,6 +2557,24 @@
       "duration_ms": 172500,
       "name": "Neeye Vaanaai",
       "url": "https://open.spotify.com/track/0MwPSfb7P81ozhBTxlZJDR"
+    },
+    {
+      "album": {
+        "name": "Nenjukulla oru Sogamilla",
+        "url": "https://open.spotify.com/album/6f9c45nTF4RSV1pfFJCnnz"
+      },
+      "artists": [
+        {
+          "name": "Rajaganapathy Gopalakrishnan",
+          "url": "https://open.spotify.com/artist/02lKzTzfEKd4sPq9pUn5dS"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156818,
+      "name": "Nenjukulla oru Sogamilla",
+      "url": "https://open.spotify.com/track/5gJCoYhiya64f5emZxuEoT"
     },
     {
       "album": {

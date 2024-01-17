@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Casey
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,673 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,666 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 99 | [Snake In The Grass](https://open.spotify.com/track/7ziq4cBxm5xZ0GsyBJxAq9) | [ALPHAMEGA](https://open.spotify.com/artist/5Jo80kcSLQNYiwgu7A68EI) | [Snake In The Grass](https://open.spotify.com/album/03PP8plAoML5JYtp55htjB) | 2:54 |
 | 100 | [The Weight of It All](https://open.spotify.com/track/6E7trHVQxQsH6Ve3spYZyv) | [Forlorn](https://open.spotify.com/artist/4aOGVF2gQb9TY4raTPjLWf) | [The Weight of It All](https://open.spotify.com/album/3eRxuVGr0PVyugK1L7MXa5) | 3:40 |
 
-Snapshot ID: `MCxiM2FmNjA1N2RlZmExYWIyZmIwMTg0M2FhMGNhZDQ3YTcxMjA4MGIy`
+Snapshot ID: `MCxiZmYxNTE5NzRmNzFiNmZjMjJlOWE5YWZlZjdmZGI4ZDM4MTVmYjY1`

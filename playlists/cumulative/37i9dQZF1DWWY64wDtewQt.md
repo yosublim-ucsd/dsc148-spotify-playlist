@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-664 songs - 1 day 1 hr 11 min
+665 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,13 @@
 | [ALORS BRAZIL](https://open.spotify.com/track/7hn2gCHz5NAzgPqakWrtms) | [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj), [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [dec24](https://open.spotify.com/artist/3Q9jNHE6UHnQcEWH2SXFF8) | [ALORS BRAZIL](https://open.spotify.com/album/1krtBVdioH9cO7TDFnoPzu) | 1:41 | 2023-09-15 | 2023-12-08 |
 | [ALORS BRAZIL](https://open.spotify.com/track/0VEK4A4lZtorqS8rXndRhT) | [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj), [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj) | [ALORS BRAZIL](https://open.spotify.com/album/2Lk0LlfJ3CuQf16sQmGu2I) | 1:41 | 2023-09-15 | 2023-12-31 |
 | [ALORS BRAZIL](https://open.spotify.com/track/105pOaGifCwX7Z35by9uJx) | [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj), [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj) | [ALORS BRAZIL](https://open.spotify.com/album/2ptpp1z0LcTxLFMTa7cTYN) | 1:41 | 2023-09-15 | 2024-01-04 |
+| [ALORS BRAZIL](https://open.spotify.com/track/1FMnIR4FUCW8WVZThvCqab) | [BEG FXR FXRGIVENESS](https://open.spotify.com/artist/77gKiFVwtaJERiNTR07fd2), [ПЕНТАГРАММА](https://open.spotify.com/artist/1BQKXB93Ot2ClxRBzH26ku), [1\-800\-096\-ПИЛА](https://open.spotify.com/artist/09OJh7kEFji4yPFyEfQlGp) | [GLORY RAGE](https://open.spotify.com/album/5vsBsjiI9iYhFcmRDhZtMJ) | 1:41 | 2023-09-15 |  |
 | [ALORS BRAZIL](https://open.spotify.com/track/0rLQlq8mICVfHGBPSKgeon) | [Dethron](https://open.spotify.com/artist/3OsbqsBUoYYQT76uOvO6SK) | [ALORS BRAZIL](https://open.spotify.com/album/6133HkdSpCx0s9wwtg3wAi) | 1:41 | 2023-09-15 | 2024-01-13 |
 | [ALORS BRAZIL](https://open.spotify.com/track/6c5u3KmfMlBxW7bFSLfGNV) | [fatit](https://open.spotify.com/artist/42zw1tQc4mHAo0Ejfd4HgT) | [ALORS BRAZIL](https://open.spotify.com/album/3WblrqsrqkJ72Lm09vAHE4) | 1:41 | 2023-09-15 | 2023-12-03 |
 | [ALORS BRAZIL](https://open.spotify.com/track/4LT0bO8zVoqjqBlATlgpzr) | [FRE4K](https://open.spotify.com/artist/2iw30MRIGi6P9Du0EJxPc8) | [ALORS BRAZIL](https://open.spotify.com/album/4SxvncwccFwvg8ipLP2ibt) | 1:41 | 2023-09-15 | 2024-01-02 |
 | [ALORS BRAZIL](https://open.spotify.com/track/0ZOBrgBm0Rs4Ot7PQfAy8B) | [Jevio](https://open.spotify.com/artist/2bRqeQN0PGPakfgytsXq67) | [ALORS BRAZIL](https://open.spotify.com/album/4Sem9dJiZ2xJk4IuKCgAKX) | 1:40 | 2023-09-15 | 2023-11-30 |
 | [ALORS BRAZIL](https://open.spotify.com/track/4KXTlpfxEOGTdho5K2GmyG) | [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [ZETH INC.](https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj), [watari](https://open.spotify.com/artist/4m04kQ6pE6H2A8j2vRqTtl) | [ALORS BRAZIL](https://open.spotify.com/album/43NWshAphbjdHJQPMuPClz) | 1:41 | 2023-09-15 | 2024-01-12 |
-| [ALORS BRAZIL](https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY) | [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [ALORS BRAZIL](https://open.spotify.com/album/2el6zQ2h7fcrjaAMUaFp6P) | 1:41 | 2023-09-15 |  |
+| [ALORS BRAZIL](https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY) | [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [ALORS BRAZIL](https://open.spotify.com/album/2el6zQ2h7fcrjaAMUaFp6P) | 1:41 | 2023-09-15 | 2024-01-17 |
 | [Alors Brazil](https://open.spotify.com/track/7qVIgqZ6tmbjuLH3GrwaA3) | [nwmoscar](https://open.spotify.com/artist/3rl9ErAF7w9iachW5kebwu) | [Furia](https://open.spotify.com/album/5NxVF4lNc3gaphnhLyL456) | 1:41 | 2023-09-15 | 2023-12-04 |
 | [Always Want Me](https://open.spotify.com/track/24HvJre1s9gcYsgm5kV3Wz) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Always Want Me](https://open.spotify.com/album/7hnUt41M77FkCfwn7wMcXo) | 2:10 | 2022-12-02 | 2023-02-05 |
 | [AMBAL](https://open.spotify.com/track/7usbKajM9jbTQUWGdfXCiu) | [Goos](https://open.spotify.com/artist/3qbEungOBNy6JhQGP8v5cr) | [AMBAL](https://open.spotify.com/album/0uafNnjgxsjXeU91wRoWCe) | 2:32 | 2023-01-06 | 2023-03-04 |

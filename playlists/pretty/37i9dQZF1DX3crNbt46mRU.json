@@ -1,12 +1,12 @@
 {
   "description": "This week's top new releases. Cover: Ariana Grande",
-  "num_followers": 39045,
+  "num_followers": 39053,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmRlNzJlOTMzOGU4NDdlNDg1NmM2ZTFmOWYwN2FkODJhNmExMzJm",
+  "snapshot_id": "MCwxODExMDRjMjkyNzliYjEwNTg2ODVmZmI4OTQ4NDEyMTk4MjkyOTI5",
   "tracks": [
     {
       "added_at": "2024-01-12 11:59:47",
@@ -151,7 +151,7 @@
     {
       "added_at": "2024-01-12 11:59:47",
       "album": {
-        "name": "Temps en temps",
+        "name": "Temps en temps (feat. Kore)",
         "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
       },
       "artists": [
@@ -162,10 +162,14 @@
         {
           "name": "Koba LaD",
           "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        },
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
         }
       ],
       "duration_ms": 153649,
-      "name": "Temps en temps",
+      "name": "Temps en temps (feat. Kore)",
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
     },
     {

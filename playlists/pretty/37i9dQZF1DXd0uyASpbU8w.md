@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world.Cover: <a href="https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft?si=59R9VNQtRgW8wPrFitxKJQ">21 Savage</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,550 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,588 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 48 | [Roboto](https://open.spotify.com/track/6kGuzD6SGSCjMzpgNHX6Eu) | [Melo B Jones](https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O), [Ntatao](https://open.spotify.com/artist/65AL7DNBWa4m5Y94PPATUE) | [Roboto](https://open.spotify.com/album/2fHwBnIZJdNHrAEYrZBZ3W) | 5:18 |
 | 49 | [Bounce](https://open.spotify.com/track/38UjoTvHAPl0faBoO5ZoVX) | [S'BO Gyre](https://open.spotify.com/artist/1E11hcWosnHT7Ib5YgpmOM), [LTO](https://open.spotify.com/artist/3qYBtbmNfQZGjqtty0WvZ1) | [Bounce](https://open.spotify.com/album/4bMp5br56NS35NoHLhohOV) | 3:05 |
 
-Snapshot ID: `MCwwOWVjZjdkZWIxMDBhOTBiMzM2NDQ4NDQ2OGVhYzgyZTIzY2NjYzg1`
+Snapshot ID: `MCw4ZGRlYjM0NDkyM2ZmN2EzYTYwMTljYjIzZWQwZWU5YTk0NWU4Y2I1`

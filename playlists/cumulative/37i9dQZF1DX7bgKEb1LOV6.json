@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Do It (Let\u2019s Play) (NCT ZONE OST)",
+        "url": "https://open.spotify.com/album/5QZRGNvfpETjoXK47LESUf"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "Do It (Let\u2019s Play)",
+      "url": "https://open.spotify.com/track/11r8LiIeQSXJWWHMkXuFsh"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Need Your Love",
         "url": "https://open.spotify.com/album/2e3TvxplnFh1HcFUcSe39u"
       },

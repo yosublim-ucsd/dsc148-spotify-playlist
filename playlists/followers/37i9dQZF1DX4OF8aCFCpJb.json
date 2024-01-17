@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 68628,
+  "2024-01-17": 68628,
   "date_first_scraped": "2021-12-21",
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
   "name": "Svensk Reggae",
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 233934,
       "name": "Bida Din Tid",
       "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 245720,
       "name": "Du Vill S\u00e5 Du Kan",
       "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 223122,
       "name": "Dunya",
       "url": "https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i"
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 205011,
       "name": "Make Sense",
       "url": "https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn"

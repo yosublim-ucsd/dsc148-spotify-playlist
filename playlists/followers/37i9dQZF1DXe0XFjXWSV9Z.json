@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 41998,
+  "2024-01-17": 42010,
   "date_first_scraped": "2023-08-09",
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
   "name": "TROPILOCO",
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 238907,
       "name": "Noche triler",
       "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
@@ -2095,6 +2095,24 @@
       "duration_ms": 228360,
       "name": "The Link Is About to Die",
       "url": "https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU"
+    },
+    {
+      "album": {
+        "name": "Let the Festivities Begin!",
+        "url": "https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "The Link Is About to Die",
+      "url": "https://open.spotify.com/track/4IZYR8grCH5snauh6rQFbV"
     },
     {
       "album": {

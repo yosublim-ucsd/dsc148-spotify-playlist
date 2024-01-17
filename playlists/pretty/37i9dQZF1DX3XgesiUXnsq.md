@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: The Game, Big Hit
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,068 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,090 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 71 | [Fever](https://open.spotify.com/track/2Ikg6hRQOa6e29sq5xWhM8) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 2:47 |
 | 72 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 |
 | 73 | [How R U](https://open.spotify.com/track/1cH8CJex6ouAyvs3rLCXj5) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [How R U](https://open.spotify.com/album/2HrhR7GQqZbHl0BvXO9Pwf) | 2:33 |
-| 74 | [EisenHower / MultiVerse \(feat\. Benny The Butcher & Elaquent\)](https://open.spotify.com/track/3iYdz8eO8aIK0LF9W7eHik) | [Nappyhigh](https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [MENACE](https://open.spotify.com/album/3KPGJOl0LFbla8eY6gkC2j) | 4:05 |
+| 74 | [EisenHower / MultiVerse](https://open.spotify.com/track/3iYdz8eO8aIK0LF9W7eHik) | [Nappyhigh](https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [MENACE](https://open.spotify.com/album/3KPGJOl0LFbla8eY6gkC2j) | 4:05 |
 | 75 | [DR BIRDS](https://open.spotify.com/track/77EseIwL4dnUACjF3YmDWz) | [Griselda](https://open.spotify.com/artist/0wXQORjv4ChlykdyzWUJ4X) | [WWCD](https://open.spotify.com/album/13PxecK9Bart7ir6STafXP) | 4:25 |
 | 76 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 |
 | 77 | [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Watch Out Now](https://open.spotify.com/track/6sWZn6kTuTrBkbOEQFoB3a) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [A Musical Massacre](https://open.spotify.com/album/1eLbbQa8xpbZdp4DtjMB66) | 2:54 |
 | 100 | [E\-Z on the Motion](https://open.spotify.com/track/7v0NXl6RTU9XMhHrUp0gQJ) | [Ghetto Concept](https://open.spotify.com/artist/7dQsyUecbPiqTSDbVWJDaU) | [E\-Z on the Motion / Hard Copy](https://open.spotify.com/album/4FP694zjOnV4aPP6c8wn5a) | 3:58 |
 
-Snapshot ID: `MCxhNzliOGU2MzkwZmJiNjBkODcwMDg3MjEwZDU4ZTc3ZGI3NDU5OGQw`
+Snapshot ID: `MCxkY2Q4NmJhYTA3NmFlMjMzMTcxMzcyZmRmZGVjMTA0OTdjOWY2NWNh`

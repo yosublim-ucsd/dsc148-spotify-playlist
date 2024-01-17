@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 67331,
+  "num_followers": 67361,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTk2ZTgzM2Q5M2ZiZThkYjcwMThhMWYwZWRkODhjNjI1ODA5MTZj",
+  "snapshot_id": "MCxiMTQ5MmJlMDNjN2NiYmU0YWRmMzJiNTFlODRhNDdkYTQ3ZmQ5ZTRj",
   "tracks": [
     {
       "added_at": "2022-09-22 18:13:04",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Di Melo",
-        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
+        "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
+        "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
       },
       "artists": [
         {
-          "name": "Di Melo",
-          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 167533,
-      "name": "Kilario",
-      "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
+      "duration_ms": 209066,
+      "name": "Fera Ferida",
+      "url": "https://open.spotify.com/track/3aRpu8CzSJTeDCNwuqLfTB"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
-        "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
+        "name": "Di Melo",
+        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
       },
       "artists": [
         {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+          "name": "Di Melo",
+          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
         }
       ],
-      "duration_ms": 209066,
-      "name": "Fera Ferida",
-      "url": "https://open.spotify.com/track/3aRpu8CzSJTeDCNwuqLfTB"
+      "duration_ms": 167533,
+      "name": "Kilario",
+      "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Pr\u00f3xima Parada",
+        "url": "https://open.spotify.com/album/15ghaSjLDsOeeXlALfCfrP"
+      },
+      "artists": [
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "\u00c0 Francesa",
+      "url": "https://open.spotify.com/track/0wYqEYGKhZHfc92SLHbD4J"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 259480,
       "name": "Meu Esquema",
       "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Pr\u00f3xima Parada",
-        "url": "https://open.spotify.com/album/15ghaSjLDsOeeXlALfCfrP"
-      },
-      "artists": [
-        {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "\u00c0 Francesa",
-      "url": "https://open.spotify.com/track/0wYqEYGKhZHfc92SLHbD4J"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 397493,
-      "name": "Preta Pretinha",
-      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Pochete",
         "url": "https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 235712,
       "name": "Pochete",
       "url": "https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 397493,
+      "name": "Preta Pretinha",
+      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Pequim",
-        "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        },
-        {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 198897,
-      "name": "Pequim",
-      "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
+      "duration_ms": 235106,
+      "name": "Brasil Pandeiro",
+      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+        "name": "Pequim",
+        "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        },
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
         }
       ],
-      "duration_ms": 235106,
-      "name": "Brasil Pandeiro",
-      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
+      "duration_ms": 198897,
+      "name": "Pequim",
+      "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
     },
     {
       "added_at": "2022-09-22 18:13:04",

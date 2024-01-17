@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [08pm rain](https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in gothenburg](https://open.spotify.com/album/5YsUXczkuSJUIqYCTCcaOV) | 3:06 | 2022-04-07 | 2023-12-19 |
+| [08pm rain](https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in gothenburg](https://open.spotify.com/album/5YsUXczkuSJUIqYCTCcaOV) | 3:06 | 2022-04-07 |  |
 | [11 p.m rain](https://open.spotify.com/track/0236YDA8KmwrVQV5f4tTzE) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [11 p.m rain](https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW) | 2:15 | 2022-04-07 | 2023-06-21 |
 | [11 p.m rain](https://open.spotify.com/track/7umWlKowqWEBaX7XlwHC7I) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [11 p.m rain](https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW) | 2:23 | 2022-04-07 |  |
 | [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2022-04-07 |  |
@@ -44,7 +44,7 @@
 | [Det Regnar](https://open.spotify.com/track/0M3WuiuXXtxT1g2uAydhSs) | [Regnmannen](https://open.spotify.com/artist/64tKbWpanYm2SDHGclvjSj) | [Regnmannen](https://open.spotify.com/album/61sPEWCE2jjChul4Xs66Tn) | 3:12 | 2022-04-07 |  |
 | [Distant Rain](https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Distant Rain](https://open.spotify.com/album/5hy25TSUbMLRjGzyQp0FMR) | 3:28 | 2022-04-07 |  |
 | [Distant Rain Pt\. 1](https://open.spotify.com/track/72pW7y6bP3EFB46VI06Ji1) | [Brainwave Samples](https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7) | [Distant Rain](https://open.spotify.com/album/1SlwaQ3UQq8qYbTdTpFiSQ) | 2:50 | 2022-04-07 |  |
-| [Divine Drops](https://open.spotify.com/track/1AYRQcbxDoDsRlCgpxqjjs) | [Okami Sky](https://open.spotify.com/artist/3UjdSZhRRq4rEZ3K2HQWIP) | [Divine Drops](https://open.spotify.com/album/1YoCawYKVJKWWoZp97VC0T) | 2:40 | 2022-04-07 |  |
+| [Divine Drops](https://open.spotify.com/track/1AYRQcbxDoDsRlCgpxqjjs) | [Okami Sky](https://open.spotify.com/artist/3UjdSZhRRq4rEZ3K2HQWIP) | [Divine Drops](https://open.spotify.com/album/1YoCawYKVJKWWoZp97VC0T) | 2:40 | 2022-04-07 | 2024-01-17 |
 | [Divine Sleep](https://open.spotify.com/track/1z6QujIsfrLI9RjR2vBRj0) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Divine Sleep](https://open.spotify.com/album/5E3Jk03J3a6pr8tbIL1KAL) | 2:40 | 2022-04-07 |  |
 | [Dock Rain 독 비](https://open.spotify.com/track/5Xn5HO5wAQS1ya8fmJMkAQ) | [sumyeon uisa 수면 의사](https://open.spotify.com/artist/2o0U8zZEXzdcTHWnbGQt4X) | [Dock Rain](https://open.spotify.com/album/00N23ZtewpOkwzYpluaZzf) | 2:07 | 2022-04-07 |  |
 | [Don't Mind The Rain](https://open.spotify.com/track/0MaiuoWpYrbJVeCibetT3k) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Don't Mind The Rain](https://open.spotify.com/album/3YIFklxeh8I6NljMqk1CEP) | 3:12 | 2022-04-07 |  |

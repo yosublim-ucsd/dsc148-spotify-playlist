@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 18922,
+  "2024-01-17": 18927,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0\">Julia Michaels</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Julia Michaels",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 192240,
       "name": "2002",
       "url": "https://open.spotify.com/track/2AxrA6Pn7gd9385awudqGg"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 211093,
       "name": "All In My Head (Flex)",
       "url": "https://open.spotify.com/track/5jVUTIj5By4NUduB9jXkyH"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 210573,
       "name": "All In My Head (Flex) (feat. Fetty Wap)",
       "url": "https://open.spotify.com/track/7nD9nN3jord9wWcfW3Gkcm"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 196458,
       "name": "because i liked a boy",
       "url": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 205755,
       "name": "because i liked a boy",
       "url": "https://open.spotify.com/track/5ayydZsxUxyY8VnGF2kuOq"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 224917,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/1wnMdIoZ3Wjat7hYWUqTE9"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 153096,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 197038,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/6HNVMLcZfgshOx7x4dki8z"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 185258,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/4f49NZW0PuKOGo1Sz6v6gz"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 187588,
       "name": "Either Way (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/3nodtPfXcok53E8Uze8gvD"
@@ -1631,7 +1631,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 244760,
       "name": "GANG GANG",
       "url": "https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK"
@@ -1653,7 +1653,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 250581,
       "name": "GANG GANG",
       "url": "https://open.spotify.com/track/1AauIxlmueXbhqhbmzSxTy"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 191813,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3cysp2UU6xmV61ZlnQsa8s"
@@ -1957,7 +1957,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 204829,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1EBo6a9v15wx4WPfPWj5fz"
@@ -2367,7 +2367,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 191090,
       "name": "In A Perfect World",
       "url": "https://open.spotify.com/track/6robL4wOlGXyBtbqBhdZYT"
@@ -2389,7 +2389,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 191013,
       "name": "In A Perfect World (with Julia Michaels)",
       "url": "https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H"
@@ -2515,7 +2515,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 176320,
       "name": "Issues",
       "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
@@ -2533,7 +2533,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 183474,
       "name": "Issues",
       "url": "https://open.spotify.com/track/4xJrXcFGLxlLhYXNWpT1Ga"
@@ -2969,7 +2969,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 196253,
       "name": "Little Did I Know",
       "url": "https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4"
@@ -2987,7 +2987,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 219227,
       "name": "Little Did I Know",
       "url": "https://open.spotify.com/track/0GYHvZW95qwxBUirA4z1Wi"
@@ -3207,7 +3207,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 194230,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
@@ -3225,7 +3225,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 232690,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/2ggcRnSHrEkkXiJdGIDGEV"
@@ -3333,7 +3333,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 206080,
       "name": "Misery",
       "url": "https://open.spotify.com/track/7AjveaJTT8WQn5UTEgvH1E"
@@ -3351,7 +3351,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 211961,
       "name": "Misery",
       "url": "https://open.spotify.com/track/0NaGTV88mvZLdMlNeYUpqq"
@@ -3671,7 +3671,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 176826,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
@@ -3693,7 +3693,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 180930,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/6DTgmyFZov5KZOh5yE5B9F"
@@ -3711,7 +3711,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 158536,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/3TFoEJe5zNuHZStRboWPxg"
@@ -3729,7 +3729,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 209676,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/3DzaPrgVxqSZ2PG8gfeDAP"
@@ -4677,7 +4677,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 178973,
       "name": "Uh Huh",
       "url": "https://open.spotify.com/track/0oiKDZUxZn9i4jCCDmbTM2"
@@ -4695,7 +4695,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 210376,
       "name": "Uh Huh",
       "url": "https://open.spotify.com/track/3pYx7vvxrCWBvQDEOKzj4B"
@@ -4775,7 +4775,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 192918,
       "name": "Waitin for You",
       "url": "https://open.spotify.com/track/586Q1Orh7e4bbrRh9lfJgY"
@@ -4797,7 +4797,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 204120,
       "name": "Waitin for You",
       "url": "https://open.spotify.com/track/5JrPpMfdfeDLrGV2Zgeun5"
@@ -4891,7 +4891,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 177594,
       "name": "What A Time",
       "url": "https://open.spotify.com/track/4ilAnG4z3Yt8dgb83Jxpad"
@@ -4913,7 +4913,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
@@ -5021,7 +5021,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 218773,
       "name": "Words",
       "url": "https://open.spotify.com/track/49uVH18E8TveD5iSGyhZS5"
@@ -5039,7 +5039,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 220553,
       "name": "Words",
       "url": "https://open.spotify.com/track/1PaYOD8Qjh5KooTsr4h4Mh"

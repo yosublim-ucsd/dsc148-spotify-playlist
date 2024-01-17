@@ -4311,6 +4311,28 @@
     },
     {
       "album": {
+        "name": "Ch\u00e0ng Trai B\u1ea5t T\u1eed",
+        "url": "https://open.spotify.com/album/5lFQA0FkLiuI3aCvvaRLN6"
+      },
+      "artists": [
+        {
+          "name": "An V\u0169",
+          "url": "https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34"
+        },
+        {
+          "name": "Sino",
+          "url": "https://open.spotify.com/artist/4GxnBu03QfkLI9By82WNmh"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232994,
+      "name": "Ch\u00e0ng Trai B\u1ea5t T\u1eed",
+      "url": "https://open.spotify.com/track/18iADruKMXIloyA9vCJXFE"
+    },
+    {
+      "album": {
         "name": "Ch\u00e0o 04",
         "url": "https://open.spotify.com/album/3TjmHyjZF3bycamaXEsA2r"
       },
@@ -5986,7 +6008,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 181258,
       "name": "COOKIE CHIPS",
       "url": "https://open.spotify.com/track/2vmLo00Pj6iRv2PMhfNL2g"
@@ -19475,6 +19497,28 @@
     },
     {
       "album": {
+        "name": "PARACHUTE",
+        "url": "https://open.spotify.com/album/0Um04blMbsYFwiK3Kfsxts"
+      },
+      "artists": [
+        {
+          "name": "Parys",
+          "url": "https://open.spotify.com/artist/5q2rlQqfPpVnWnjPfXM4QD"
+        },
+        {
+          "name": "Ivy",
+          "url": "https://open.spotify.com/artist/2RtaPbbLWARnv8eHsWZByq"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "PARACHUTE",
+      "url": "https://open.spotify.com/track/1N1YYPQ9KBEnTKNqeRsk1N"
+    },
+    {
+      "album": {
         "name": "PEACH 2",
         "url": "https://open.spotify.com/album/6jRbH4ir3LTYqaHWV1lOtQ"
       },
@@ -27678,7 +27722,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 199082,
       "name": "you think you're better? - Renewed",
       "url": "https://open.spotify.com/track/3EqNjLHIrxZHpPx1Pypvz3"

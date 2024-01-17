@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Mao Fujita
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,555 likes - 96 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,608 likes - 96 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 95 | [Nachtstücke, Op\. 23: II\. Markirt und lebhaft](https://open.spotify.com/track/1qNyZCXKf8dTeKI4QpL3R9) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Llŷr Williams](https://open.spotify.com/artist/1hIMnRye51lifBy0mV2jdE) | [Robert Schumann: Piano Works](https://open.spotify.com/album/7KBGVwTDHkncFdvZIlHz8A) | 6:48 |
 | 96 | [Singet nicht in Trauertönen, Op\. 98a: Singet nicht in Trauertönen Op\. 98a](https://open.spotify.com/track/08vRp5IgXHZ9x2yXLt9wgz) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Eva Zalenga](https://open.spotify.com/artist/2lDQEHbKzfaKbsY3fbJyTd), [Doriana Tchakarova](https://open.spotify.com/artist/6WB0txvOQxXFTldyqQp1B6) | [Singet nicht in Trauertönen](https://open.spotify.com/album/6LKoB4RIVzcAKH7t4AFBui) | 2:38 |
 
-Snapshot ID: `MCxlMGIyZTg3ZmMxYzg4YjdiZjc2Y2E2M2Q2MGIyNTc0MjFmYjQ3NWE2`
+Snapshot ID: `MCxhMWZiOTMzYjQ2Zjc4OTQ5MWQwY2JjYWNjZDVmZDYzMzk0MmE3MDZh`

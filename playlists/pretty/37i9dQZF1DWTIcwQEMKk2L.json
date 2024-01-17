@@ -1,12 +1,12 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 66646,
+  "num_followers": 66656,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjMzNjA1NThjNjk3ZjdmNzA3MGJhODAyZDBjMWY1NjkxYmM4NmZm",
+  "snapshot_id": "MCw1YzQwZGJhNDg5YjQ1ODA1MWYwYWYzN2ZmMDE2YThiMTQxZDVjODYz",
   "tracks": [
     {
       "added_at": "2024-01-15 08:15:06",
@@ -395,30 +395,6 @@
     {
       "added_at": "2024-01-15 08:15:06",
       "album": {
-        "name": "Jane Eyre - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        },
-        {
-          "name": "Jack Liebeck",
-          "url": "https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP"
-        },
-        {
-          "name": "Benjamin Wallfisch",
-          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
-        }
-      ],
-      "duration_ms": 58386,
-      "name": "A Game of Badminton (feat. Jack Liebeck)",
-      "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
-    },
-    {
-      "added_at": "2024-01-15 08:15:06",
-      "album": {
         "name": "Never Blame The Young Ones",
         "url": "https://open.spotify.com/album/57of76S9lNXzIClZYOU16R"
       },
@@ -447,6 +423,30 @@
       "duration_ms": 248350,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B"
+    },
+    {
+      "added_at": "2024-01-15 08:15:06",
+      "album": {
+        "name": "Jane Eyre - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
+      },
+      "artists": [
+        {
+          "name": "Dario Marianelli",
+          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+        },
+        {
+          "name": "Jack Liebeck",
+          "url": "https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP"
+        },
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "duration_ms": 58386,
+      "name": "A Game of Badminton (feat. Jack Liebeck)",
+      "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
     },
     {
       "added_at": "2024-01-15 08:15:06",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-01-15 08:15:06",
       "album": {
-        "name": "Isla De Flores",
-        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 159124,
-      "name": "Isla De Flores",
-      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
-    },
-    {
-      "added_at": "2024-01-15 08:15:06",
-      "album": {
         "name": "The Secret Piano",
         "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 115227,
       "name": "Last Song",
       "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
+    },
+    {
+      "added_at": "2024-01-15 08:15:06",
+      "album": {
+        "name": "Isla De Flores",
+        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 159124,
+      "name": "Isla De Flores",
+      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
     },
     {
       "added_at": "2024-01-15 08:15:06",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-01-15 08:15:06",
       "album": {
-        "name": "When We First Met",
-        "url": "https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV"
-      },
-      "artists": [
-        {
-          "name": "Ricki Westberg",
-          "url": "https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4"
-        }
-      ],
-      "duration_ms": 112750,
-      "name": "When We First Met",
-      "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
-    },
-    {
-      "added_at": "2024-01-15 08:15:06",
-      "album": {
         "name": "Living Memories",
         "url": "https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 185188,
       "name": "White Light",
       "url": "https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG"
+    },
+    {
+      "added_at": "2024-01-15 08:15:06",
+      "album": {
+        "name": "When We First Met",
+        "url": "https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV"
+      },
+      "artists": [
+        {
+          "name": "Ricki Westberg",
+          "url": "https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4"
+        }
+      ],
+      "duration_ms": 112750,
+      "name": "When We First Met",
+      "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
     },
     {
       "added_at": "2024-01-15 08:15:06",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-01-15 08:15:06",
       "album": {
-        "name": "Disney Covers Vol 1",
-        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Nielsen",
-          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
-        }
-      ],
-      "duration_ms": 186088,
-      "name": "God Help the Outcasts",
-      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
-    },
-    {
-      "added_at": "2024-01-15 08:15:06",
-      "album": {
         "name": "Amorzinho (Piano Version)",
         "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 216023,
       "name": "Amorzinho - Piano Version",
       "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
+    },
+    {
+      "added_at": "2024-01-15 08:15:06",
+      "album": {
+        "name": "Disney Covers Vol 1",
+        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Nielsen",
+          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
+        }
+      ],
+      "duration_ms": 186088,
+      "name": "God Help the Outcasts",
+      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
     },
     {
       "added_at": "2024-01-15 08:15:06",
@@ -1075,54 +1075,6 @@
     {
       "added_at": "2024-01-15 08:15:06",
       "album": {
-        "name": "I've Grown Accustomed to Her Face",
-        "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
-      },
-      "artists": [
-        {
-          "name": "Graydon Poole",
-          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
-        }
-      ],
-      "duration_ms": 159107,
-      "name": "I've Grown Accustomed to Her Face",
-      "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
-    },
-    {
-      "added_at": "2024-01-15 08:15:06",
-      "album": {
-        "name": "Interconnectivity",
-        "url": "https://open.spotify.com/album/2H9GYEUqMHM950rBnSgZkY"
-      },
-      "artists": [
-        {
-          "name": "Sigr\u00ed\u00f0ur",
-          "url": "https://open.spotify.com/artist/2L3YlhhQBndlD8eQJaF6dT"
-        }
-      ],
-      "duration_ms": 103713,
-      "name": "Interconnectivity",
-      "url": "https://open.spotify.com/track/5qqot0gGVe5oEN9fw4QU1S"
-    },
-    {
-      "added_at": "2024-01-15 08:15:06",
-      "album": {
-        "name": "Friendship.",
-        "url": "https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 91898,
-      "name": "Friendship.",
-      "url": "https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A"
-    },
-    {
-      "added_at": "2024-01-15 08:15:06",
-      "album": {
         "name": "Stella's lullaby",
         "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
       },
@@ -1151,6 +1103,54 @@
       "duration_ms": 188025,
       "name": "Water Lilly Pond",
       "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
+    },
+    {
+      "added_at": "2024-01-15 08:15:06",
+      "album": {
+        "name": "Friendship.",
+        "url": "https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 91898,
+      "name": "Friendship.",
+      "url": "https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A"
+    },
+    {
+      "added_at": "2024-01-15 08:15:06",
+      "album": {
+        "name": "I've Grown Accustomed to Her Face",
+        "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "duration_ms": 159107,
+      "name": "I've Grown Accustomed to Her Face",
+      "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
+    },
+    {
+      "added_at": "2024-01-15 08:15:06",
+      "album": {
+        "name": "Interconnectivity",
+        "url": "https://open.spotify.com/album/2H9GYEUqMHM950rBnSgZkY"
+      },
+      "artists": [
+        {
+          "name": "Sigr\u00ed\u00f0ur",
+          "url": "https://open.spotify.com/artist/2L3YlhhQBndlD8eQJaF6dT"
+        }
+      ],
+      "duration_ms": 103713,
+      "name": "Interconnectivity",
+      "url": "https://open.spotify.com/track/5qqot0gGVe5oEN9fw4QU1S"
     },
     {
       "added_at": "2024-01-15 08:15:06",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-01-15 08:15:06",
       "album": {
-        "name": "La Vie",
-        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
-      },
-      "artists": [
-        {
-          "name": "Amandine Moulin",
-          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
-        }
-      ],
-      "duration_ms": 109228,
-      "name": "La Vie",
-      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
-    },
-    {
-      "added_at": "2024-01-15 08:15:06",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 179810,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
+    },
+    {
+      "added_at": "2024-01-15 08:15:06",
+      "album": {
+        "name": "La Vie",
+        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
+      },
+      "artists": [
+        {
+          "name": "Amandine Moulin",
+          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
+        }
+      ],
+      "duration_ms": 109228,
+      "name": "La Vie",
+      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
     },
     {
       "added_at": "2024-01-15 08:15:06",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-01-15 08:15:06",
       "album": {
+        "name": "Z\u00e9phyrine",
+        "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
+      },
+      "artists": [
+        {
+          "name": "Elliot Ziegler",
+          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Portmeirion",
+      "url": "https://open.spotify.com/track/2rNL1zppqgwWIzozc1UEq2"
+    },
+    {
+      "added_at": "2024-01-15 08:15:06",
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
       },
@@ -1411,18 +1427,22 @@
     {
       "added_at": "2024-01-15 08:15:06",
       "album": {
-        "name": "Z\u00e9phyrine",
-        "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
+        "name": "Kiss the Rain",
+        "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
       },
       "artists": [
         {
-          "name": "Elliot Ziegler",
-          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "Chris Snelling",
+          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
         }
       ],
-      "duration_ms": 131000,
-      "name": "Portmeirion",
-      "url": "https://open.spotify.com/track/2rNL1zppqgwWIzozc1UEq2"
+      "duration_ms": 170783,
+      "name": "Kiss the Rain",
+      "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
     },
     {
       "added_at": "2024-01-15 08:15:06",
@@ -1459,26 +1479,6 @@
     {
       "added_at": "2024-01-15 08:15:06",
       "album": {
-        "name": "Kiss the Rain",
-        "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
-      },
-      "artists": [
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        },
-        {
-          "name": "Chris Snelling",
-          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
-        }
-      ],
-      "duration_ms": 170783,
-      "name": "Kiss the Rain",
-      "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
-    },
-    {
-      "added_at": "2024-01-15 08:15:06",
-      "album": {
         "name": "Bergamo",
         "url": "https://open.spotify.com/album/6jSSjJeFpsaMNP2uVrsgBC"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-01-15 08:15:06",
       "album": {
-        "name": "Apples And Bananas",
-        "url": "https://open.spotify.com/album/4AYW0ItGoV4ClM939MhDkE"
-      },
-      "artists": [
-        {
-          "name": "Carolina Laurel",
-          "url": "https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p"
-        }
-      ],
-      "duration_ms": 91500,
-      "name": "Apples And Bananas",
-      "url": "https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb"
-    },
-    {
-      "added_at": "2024-01-15 08:15:06",
-      "album": {
         "name": "Lunaria",
         "url": "https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 169500,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
+    },
+    {
+      "added_at": "2024-01-15 08:15:06",
+      "album": {
+        "name": "Apples And Bananas",
+        "url": "https://open.spotify.com/album/4AYW0ItGoV4ClM939MhDkE"
+      },
+      "artists": [
+        {
+          "name": "Carolina Laurel",
+          "url": "https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p"
+        }
+      ],
+      "duration_ms": 91500,
+      "name": "Apples And Bananas",
+      "url": "https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb"
     },
     {
       "added_at": "2024-01-15 08:15:06",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-01-15 08:15:06",
       "album": {
-        "name": "P.S. I'm Still Here",
-        "url": "https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1"
-      },
-      "artists": [
-        {
-          "name": "Vincent & A Secret",
-          "url": "https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6"
-        }
-      ],
-      "duration_ms": 132509,
-      "name": "Limitation (Scaled Down Version)",
-      "url": "https://open.spotify.com/track/4ZTvGA5KudTVKbhmaH3CLb"
-    },
-    {
-      "added_at": "2024-01-15 08:15:06",
-      "album": {
         "name": "Atlas - Cacciapaglia Collection",
         "url": "https://open.spotify.com/album/6kBgAkLt5i8vMEK26SP17X"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 194413,
       "name": "Endless Time",
       "url": "https://open.spotify.com/track/0pkdDoLKIe3a2zdi9MTUMl"
+    },
+    {
+      "added_at": "2024-01-15 08:15:06",
+      "album": {
+        "name": "P.S. I'm Still Here",
+        "url": "https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1"
+      },
+      "artists": [
+        {
+          "name": "Vincent & A Secret",
+          "url": "https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6"
+        }
+      ],
+      "duration_ms": 132509,
+      "name": "Limitation (Scaled Down Version)",
+      "url": "https://open.spotify.com/track/4ZTvGA5KudTVKbhmaH3CLb"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

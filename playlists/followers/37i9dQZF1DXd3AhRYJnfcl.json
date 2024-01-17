@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 302059,
+  "2024-01-17": 302251,
   "date_first_scraped": "2022-05-13",
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d.  \u0627\u0644\u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID?si=bxJJjjGbRUO5zUw_sWadeA\">  \u0631\u0627\u0645\u064a \u062c\u0645\u0627\u0644 </a>",
   "name": "\u0627\u0644\u062a\u0648\u0628",
@@ -349,7 +349,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 178885,
       "name": "Alo Aleky",
       "url": "https://open.spotify.com/track/0qC4KxOmWoSaMqwj9rHp49"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 200930,
       "name": "Hatwhashna",
       "url": "https://open.spotify.com/track/3gAYSjeXZ5XbicBFX5G0Ya"
@@ -3639,7 +3639,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 195882,
       "name": "\u0628\u0623\u0645\u0627\u0631\u0629 \u0645\u064a\u0646",
       "url": "https://open.spotify.com/track/0SbObewB36qKLWcaxMntej"
@@ -4384,6 +4384,24 @@
     },
     {
       "album": {
+        "name": "\u0644\u0633\u0647 \u0634\u0648\u0641\u062a\u0648\u0627 \u062d\u0627\u062c\u0647",
+        "url": "https://open.spotify.com/album/03XpqW1KW0zGsVovuosHNk"
+      },
+      "artists": [
+        {
+          "name": "Nawal",
+          "url": "https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "\u0644\u0633\u0647 \u0634\u0648\u0641\u062a\u0648\u0627 \u062d\u0627\u062c\u0647",
+      "url": "https://open.spotify.com/track/0V6UZDdkqatuBp96nyyUew"
+    },
+    {
+      "album": {
         "name": "\u0644\u0641\u064a\u0646\u0627 \u0627\u0644\u062f\u0646\u064a\u0627",
         "url": "https://open.spotify.com/album/6hBfYe9PE9Wp1CAs9C2nRq"
       },
@@ -4511,6 +4529,28 @@
       "duration_ms": 198019,
       "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
       "url": "https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0631\u062c\u0639\u0644\u064a\u0634",
+        "url": "https://open.spotify.com/album/7aKK7jGo8ONkv0HX0vrisi"
+      },
+      "artists": [
+        {
+          "name": "Farid",
+          "url": "https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672"
+        },
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304225,
+      "name": "\u0645\u0631\u062c\u0639\u0644\u064a\u0634",
+      "url": "https://open.spotify.com/track/7JTf7bVijxgDdkmozrswvE"
     },
     {
       "album": {
@@ -4709,6 +4749,24 @@
       "duration_ms": 166000,
       "name": "\u0647\u064a\u0628\u062f\u0623 \u064a\u062a\u0643\u0644\u0645",
       "url": "https://open.spotify.com/track/1WZj20KRIEm6EyJwbtt2kf"
+    },
+    {
+      "album": {
+        "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
+        "url": "https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210714,
+      "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
+      "url": "https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn"
     },
     {
       "album": {

@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 203695,
       "name": "Black Out (JO1 ver.)",
       "url": "https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE"
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "BREMEN",
+        "url": "https://open.spotify.com/album/7wYlDlMNbNRnyxhGzF660D"
+      },
+      "artists": [
+        {
+          "name": "OWV",
+          "url": "https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228759,
+      "name": "BREMEN",
+      "url": "https://open.spotify.com/track/2INxMYYnLdxmB16I45lB4E"
+    },
+    {
+      "album": {
         "name": "Social Path / Super Bowl -Japanese ver.-",
         "url": "https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 218800,
       "name": "Calendar",
       "url": "https://open.spotify.com/track/4A0QbCROQJ6AdGc9SGyzxu"
@@ -322,7 +340,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 211000,
       "name": "Darlin\u2019",
       "url": "https://open.spotify.com/track/7BHFfKeKQuY7XfYi2DjO9E"
@@ -416,7 +434,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 171000,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y"
@@ -841,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Let's Standing Show",
+        "url": "https://open.spotify.com/album/0v4hD3V0e9f9maj8EIlecH"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR-L.S.S.",
+          "url": "https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "NEW ROAD",
+      "url": "https://open.spotify.com/track/6SV2IgRFdjK4I2BLT8dOkt"
+    },
+    {
+      "album": {
         "name": "NEW STAR",
         "url": "https://open.spotify.com/album/4VjojyAZQbfONf7bI1yBaw"
       },
@@ -964,7 +1000,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 222224,
       "name": "PHOTOGENIC",
       "url": "https://open.spotify.com/track/1KZZGKxtges95QLiiCQ1pU"
@@ -1285,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "STARRY LOVE",
+        "url": "https://open.spotify.com/album/27rELiARZxybADb2rbTEli"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306466,
+      "name": "STARRY LOVE",
+      "url": "https://open.spotify.com/track/6meVZwlQ5LdOCjxUy0ipQq"
+    },
+    {
+      "album": {
         "name": "Sugar Honey",
         "url": "https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV"
       },
@@ -1368,7 +1422,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 191973,
       "name": "Under the skin",
       "url": "https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7"
@@ -1466,6 +1520,24 @@
       "duration_ms": 245333,
       "name": "WHITE SNOW",
       "url": "https://open.spotify.com/track/7fUSOeRqyDSapxbZHxYBCG"
+    },
+    {
+      "album": {
+        "name": "Winter Land",
+        "url": "https://open.spotify.com/album/7CupjRrWsAHmvvz4Fowsm6"
+      },
+      "artists": [
+        {
+          "name": "DXTEEN",
+          "url": "https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200626,
+      "name": "Winter Land",
+      "url": "https://open.spotify.com/track/2gYrufmaPpk9M3kR1uctuK"
     },
     {
       "album": {

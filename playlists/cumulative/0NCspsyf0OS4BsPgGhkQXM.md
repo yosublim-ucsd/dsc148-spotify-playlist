@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-985 songs - 2 day 3 hr 51 min
+986 songs - 2 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [By My Side](https://open.spotify.com/track/00QctTgvparNNWBckHPy6b) | [Aekae](https://open.spotify.com/artist/2YXVRXrYHVJrC5P1eTGYSu) | [By My Side](https://open.spotify.com/album/0QCWRcBWvAqXjAHh0tFQkP) | 3:18 | 2022-06-02 | 2023-02-22 |
 | [By Now](https://open.spotify.com/track/5L20XOA5QMyxxzbzll57xG) | [Fytch](https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I), [Bijou Violet](https://open.spotify.com/artist/3UAijGs9SE1Da98rc7IcwV) | [Apogee](https://open.spotify.com/album/2FxL8igcB5IhOs8wsauSnH) | 3:21 | 2022-01-14 | 2022-02-17 |
 | [By Your Side](https://open.spotify.com/track/0dT1GtOA53003l85upQasN) | [Ericovich](https://open.spotify.com/artist/49X1BHaXBIqVjMkkV2w1qI), [IAN SIZE](https://open.spotify.com/artist/5xIYTb3LUDOlTOnZ2CQlEW), [Ariadna Ruiz](https://open.spotify.com/artist/4A33dXzPLFqLFr5o1skF6T) | [By Your Side](https://open.spotify.com/album/3LWfqVquCf9LVP1uYfV8bc) | 2:53 | 2022-01-24 | 2022-02-26 |
+| [BYE BYE!](https://open.spotify.com/track/17Nc99PG4IF49K5H8uNEQi) | [PXRKX](https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4), [RZXT!](https://open.spotify.com/artist/5hfVobwxTC73whNVhzwlcP) | [BYE BYE!](https://open.spotify.com/album/0ZE5fMneYtdl93X1GHqxSH) | 1:52 | 2024-01-16 |  |
 | [CAI PRA TRETA](https://open.spotify.com/track/3nHwiGg59nwrXiCYYswFyK) | [Bgnzinho](https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL) | [CAI PRA TRETA](https://open.spotify.com/album/4PGqvsA3ZzRwLqiUCWNunD) | 1:45 | 2023-06-01 | 2023-09-09 |
 | [Calabria PR Phonk](https://open.spotify.com/track/48FC50ZC54qlvTLUzP6Lck) | [1HXSX](https://open.spotify.com/artist/11pkkllIaYm8iO0W9cUTJY) | [Calabria PR Phonk](https://open.spotify.com/album/0QwJaVvaP49vjqgg3nISCi) | 1:40 | 2023-11-27 |  |
 | [Call For Liberty](https://open.spotify.com/track/0cdXb2pnXT6H4Sjl8clMjJ) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 3:53 | 2022-08-18 | 2023-02-22 |

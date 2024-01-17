@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Fit For A King
 
-5,430 songs - 15 day 7 hr 59 min
+5,431 songs - 15 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4291,6 +4291,7 @@
 | [Strike Of The Viper](https://open.spotify.com/track/3sykXyEnYnGogkypEEJ7kl) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [Strike Of The Viper](https://open.spotify.com/album/6jAOy9k064BFbw3LwT0ZyB) | 2:24 | 2023-08-25 | 2023-10-02 |
 | [Strike Of The Viper](https://open.spotify.com/track/7lR5tuTKTddjqJr1pkDTyb) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [The Sinner Rides Again](https://open.spotify.com/album/6VbE5qiFPnuNUsWE5dgZQk) | 2:24 | 2023-09-29 | 2023-10-07 |
 | [Strike The Match](https://open.spotify.com/track/40M9LLR4FZJ4bGjXzJ6PO9) | [Phil Campbell and the Bastard Sons](https://open.spotify.com/artist/7fRzvXVDS5fOLD91WQwE6q) | [Kings Of The Asylum](https://open.spotify.com/album/5bS7Shg3cWC7MTjEWdAPCj) | 4:12 | 2023-09-01 | 2023-09-09 |
+| [Strings](https://open.spotify.com/track/2SVVS94k30M3wgm7COhSsW) | [Keith Wallen](https://open.spotify.com/artist/1WmFkdy2mHEoItVK2t7OL9) | [Strings](https://open.spotify.com/album/7jA6Bqej12RXcjAp2Mt2CX) | 2:34 | 2024-01-16 |  |
 | [Strong \- Cinematic version](https://open.spotify.com/track/0BIDwcGB6NwadOqQrQ8MAf) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Strong \(Cinematic Version\)](https://open.spotify.com/album/2QSJNMIxPbFgz8cyrpYQuc) | 3:13 | 2022-08-19 | 2022-08-27 |
 | [Strongest Of The Strong](https://open.spotify.com/track/6hPlZWKfEk8bEF4SA71XMt) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Strongest Of The Strong](https://open.spotify.com/album/7q1DYUCkUOjVSMKGf0MWAC) | 4:01 | 2022-04-08 | 2022-04-22 |
 | [Stuck In My Ways](https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Stuck In My Ways](https://open.spotify.com/album/0IyXHRcQxesZtc09HdKCyv) | 2:54 | 2022-12-09 | 2022-12-17 |

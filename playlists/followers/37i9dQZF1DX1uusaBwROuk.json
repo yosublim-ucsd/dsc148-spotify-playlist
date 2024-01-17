@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 91085,
+  "2024-01-17": 91094,
   "date_first_scraped": "2021-12-21",
   "description": "Roses are red, violet are blue, its been fun but i'm leaving you. \n",
   "name": "Breakup Szn",
@@ -591,7 +591,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 205745,
       "name": "Confident",
       "url": "https://open.spotify.com/track/0Mn3amMRMoabaoTf1Publ4"
@@ -3387,7 +3387,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 232560,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0lnIJmgcUpEpe4AZACjayW"

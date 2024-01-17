@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 679428,
+  "num_followers": 679339,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2RmNmUxYWU1NDgwODZhYWQ3Y2RiNDdiNmRhZjI1MzRlZGVmZmJl",
+  "snapshot_id": "MCw0NDVhNjQzMDI3OTAyNjNjNGY0MWRjMDNkOWY3MzUxNzAzYzVjMTUy",
   "tracks": [
     {
       "added_at": "2024-01-12 13:41:04",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-01-12 13:41:04",
       "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 154083,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
+    },
+    {
+      "added_at": "2024-01-12 13:41:04",
+      "album": {
         "name": "My Head Is A Jungle (MK Remix / Radio Edit)",
         "url": "https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 167998,
       "name": "Signals",
       "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
-    },
-    {
-      "added_at": "2024-01-12 13:41:04",
-      "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 154083,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
     },
     {
       "added_at": "2024-01-12 13:41:04",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-01-12 13:41:04",
       "album": {
-        "name": "Out My Mind",
-        "url": "https://open.spotify.com/album/0WE5uN6u7HSF1tAS29gmP3"
-      },
-      "artists": [
-        {
-          "name": "GW Harrison",
-          "url": "https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Out My Mind",
-      "url": "https://open.spotify.com/track/67x9A5uxv2QH7xnjUbIoCM"
-    },
-    {
-      "added_at": "2024-01-12 13:41:04",
-      "album": {
         "name": "Outta My Head",
         "url": "https://open.spotify.com/album/7vl0y5eLEBIdeASytoZOWA"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 158692,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/73HFI78kF6Hr3PjOpdcU2t"
+    },
+    {
+      "added_at": "2024-01-12 13:41:04",
+      "album": {
+        "name": "Out My Mind",
+        "url": "https://open.spotify.com/album/0WE5uN6u7HSF1tAS29gmP3"
+      },
+      "artists": [
+        {
+          "name": "GW Harrison",
+          "url": "https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Out My Mind",
+      "url": "https://open.spotify.com/track/67x9A5uxv2QH7xnjUbIoCM"
     },
     {
       "added_at": "2024-01-12 13:41:04",

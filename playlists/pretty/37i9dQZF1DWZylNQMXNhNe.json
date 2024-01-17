@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Lia Clark",
-  "num_followers": 226324,
+  "num_followers": 226326,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTQ2NTQ0ZWM3NWVhYTZjMDI3ZTBhNzE1MDM1OThhZmU0ZGUxZWE3",
+  "snapshot_id": "MCwxZjVhZjU1Njg2MmNkODAzMTg3NzkyM2NiODU1NjY5NDdkMGM1ZWFj",
   "tracks": [
     {
       "added_at": "2024-01-15 14:40:46",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-01-15 14:40:46",
       "album": {
-        "name": "Frango \u00e9 Frango! Travesti \u00e9 Travesti!",
-        "url": "https://open.spotify.com/album/0iM2ePdVPIqqhZRB4wxkDO"
-      },
-      "artists": [
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 183594,
-      "name": "Frango \u00e9 Frango! Travesti \u00e9 Travesti!",
-      "url": "https://open.spotify.com/track/6I1rsNRIdyuqVq4JirGDyp"
-    },
-    {
-      "added_at": "2024-01-15 14:40:46",
-      "album": {
         "name": "Sainha Rosa",
         "url": "https://open.spotify.com/album/5VSwMBzpqIZxJxUZFx6HQF"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 158588,
       "name": "Sainha Rosa",
       "url": "https://open.spotify.com/track/6Nsm1jyRtGUz9YVFgYNtso"
+    },
+    {
+      "added_at": "2024-01-15 14:40:46",
+      "album": {
+        "name": "Frango \u00e9 Frango! Travesti \u00e9 Travesti!",
+        "url": "https://open.spotify.com/album/0iM2ePdVPIqqhZRB4wxkDO"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 183594,
+      "name": "Frango \u00e9 Frango! Travesti \u00e9 Travesti!",
+      "url": "https://open.spotify.com/track/6I1rsNRIdyuqVq4JirGDyp"
     },
     {
       "added_at": "2024-01-15 14:40:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Chris Young, Brian Kelley, Josh Ross and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,191 likes - 67 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,343 likes - 67 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 66 | [Finding Firsts](https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [L Is For](https://open.spotify.com/album/623wRIGODh3IBqDv3rVKOk) | 3:29 |
 | 67 | [Last Frontier](https://open.spotify.com/track/6MbptM6zw9l2O0Um8AeaF2) | [Will Jones](https://open.spotify.com/artist/3O3IXkuwqV4wkD6WuvN5ER) | [Last Frontier](https://open.spotify.com/album/5DsmJjiDUKAQocTFCtU2Dt) | 3:28 |
 
-Snapshot ID: `MCxiNDI5N2E3YmQzMDBjMzQ3MDVkMDAwMDY0NGE4Njk3MWQ0MmMwNjlk`
+Snapshot ID: `MCw5NmNiZmEyNTQxMzkxMzhlYTM1NjdhMzc5MWIzNzc2YTJmNGM2OWFh`

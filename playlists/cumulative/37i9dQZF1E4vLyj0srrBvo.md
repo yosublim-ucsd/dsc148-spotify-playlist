@@ -4,7 +4,7 @@
 
 > With FKA twigs, Crystal Castles, Purity Ring and more
 
-1,622 songs - 4 day 3 hr 48 min
+1,623 songs - 4 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Anchor](https://open.spotify.com/track/5kky1AX6SfKvqkbqpnuMpq) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God \(Deluxe\)](https://open.spotify.com/album/49xoGbYKxnS0PEfapnFG6c) | 3:08 | 2022-03-10 | 2022-10-10 |
 | [And Saints](https://open.spotify.com/track/5xF0VtCM7rFF5HjtfHmGZN) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Kid Kruschev](https://open.spotify.com/album/7mCzdpCV6JMpMmqyf2kLVL) | 2:49 | 2022-06-06 | 2022-10-17 |
 | [Andromeda](https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX) | 4:40 | 2020-10-16\* | 2020-11-03 |
-| [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 | 2020-11-03 |  |
+| [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 | 2020-11-03 | 2024-01-17 |
 | [Angel On My Shoulder](https://open.spotify.com/track/75R9r0o1HzUEYlBc2cBj2S) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 4:02 | 2022-03-13 | 2022-10-17 |
 | [Angels of Porn II](https://open.spotify.com/track/77uv3vt6yuwS9V3EopTqBH) | [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [Natural Born Losers](https://open.spotify.com/album/5Pmmw3iJPmS2uQ41g9kVzX) | 3:23 | 2022-10-12 | 2023-07-15 |
 | [Angels of Sweat](https://open.spotify.com/track/1bbxH38nE64r6iuiJsZUv7) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [Dreaming The Dark](https://open.spotify.com/album/2vqkkykfmpW9VwB3pzvNKM) | 4:04 | 2022-04-03 | 2022-10-16 |
@@ -129,7 +129,7 @@
 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 | 2022-10-10 | 2024-01-11 |
 | [Bad Girls](https://open.spotify.com/track/3o6cyNUUVQ55klr7tswS1c) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Ritual In Repeat \(Deluxe\)](https://open.spotify.com/album/2qpspWmRrEI8EEEXqL1O5e) | 4:31 | 2022-03-14 | 2022-05-25 |
 | [Bad Things](https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:38 | 2021-08-06 | 2022-03-05 |
-| [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2024-01-15 |  |
+| [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2024-01-15 | 2024-01-17 |
 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 | 2024-01-13 |  |
 | [Baptism](https://open.spotify.com/track/1Ow9ZsMYJ1XmaXmUeKYJGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(II\)](https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA) | 4:11 | 2020-11-17 | 2022-03-09 |
 | [Bassically](https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR) | 4:51 | 2022-03-13 | 2022-11-08 |
@@ -433,7 +433,7 @@
 | [Dream Fortress](https://open.spotify.com/track/5S7o1CmpcxeLCdG4Ddg00K) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Halfaxa](https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D) | 5:00 | 2021-09-09 | 2022-08-29 |
 | [Dream Fortress](https://open.spotify.com/track/7nJE1L6oq4r065H08zIdAA) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Halfaxa](https://open.spotify.com/album/3ttWoxpmhvizD9yvhxfMqd) | 5:00 | 2020-10-17 | 2021-08-24 |
 | [Dreamcatching](https://open.spotify.com/track/07ZJYwSX32GOYOk3tybj2T) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:27 | 2022-04-01 | 2022-11-02 |
-| [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 | 2023-12-16 | 2024-01-15 |
+| [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 | 2023-12-16 |  |
 | [Dressed For Space](https://open.spotify.com/track/60fEW0a2iIE2pGzKhkqYzZ) | [TR/ST](https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu) | [TRST](https://open.spotify.com/album/5QYWYA7xLfaWdK0WKrreRK) | 3:37 | 2022-03-11 | 2023-06-09 |
 | [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/3FCu8Cj7RBW3iHPaRPCurl) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/1xqK2XpJQx59bppV02Q9OZ) | 2:34 | 2020-10-18 | 2021-06-28 |
 | [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/42xSa2OHeuhpGYkWPXo3cA) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/0ixqW4vlndPhWNsvDI4l8u) | 2:34 | 2022-02-04 | 2022-02-16 |
@@ -722,7 +722,7 @@
 | [I Will](https://open.spotify.com/track/5HEeBCUDho3uQVNu98CvsS) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:18 | 2022-03-11 | 2023-09-01 |
 | [I'd Rather Sleep](https://open.spotify.com/track/56JcHvg7W4cCs6fQEOz2gW) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 1:55 | 2020-12-11 | 2021-12-18 |
 | [I'll Haunt You](https://open.spotify.com/track/4ZXIWSHrJT3yL6IrLPWPM5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Swimmer](https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb) | 2:32 | 2022-03-31 | 2022-07-03 |
-| [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2022-03-09 | 2024-01-16 |
+| [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2022-03-09 |  |
 | [I'm Not Done \- Still Not Done Mix](https://open.spotify.com/track/5bhgC6aNOJIt5PVTrmuwu1) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge Remix](https://open.spotify.com/album/2wV1CNHfzOxg2dD7UvTfGF) | 4:28 | 2022-06-09 | 2022-06-10 |
 | [I'm On Fire](https://open.spotify.com/track/04sx4DemzEp9Dzopqge2QX) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [In The City](https://open.spotify.com/album/0IPR1Bmg15FsnBtZ0BNFA5) | 4:05 | 2020-10-16\* | 2022-03-05 |
 | [I'm on Top](https://open.spotify.com/track/42xl5HtTPAiHNGzUAYC6of) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [I'm on Top](https://open.spotify.com/album/3L1JG5XGlYjZp0IN7y8pMu) | 3:22 | 2023-05-08 | 2023-11-11 |
@@ -761,7 +761,7 @@
 | [Into the Sun](https://open.spotify.com/track/0PiBB27QD4QQmi9KTk2xkl) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Planta](https://open.spotify.com/album/3mbjOKIaj6AGARKcJvL2dS) | 4:57 | 2023-06-23 | 2023-06-24 |
 | [Intro / Flowers](https://open.spotify.com/track/6JIBdV52x5W814hgCwjtG9) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Halfaxa](https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D) | 2:49 | 2022-03-22 | 2022-05-06 |
 | [Invisible](https://open.spotify.com/track/1quJ23GtZEWmlrfx79bh1a) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Invisible](https://open.spotify.com/album/7tyJYi1FiCX6XbkMRpjltu) | 4:09 | 2022-08-14 | 2024-01-15 |
-| [Iris](https://open.spotify.com/track/7h7DK2ZHIe4w0id8qkNqla) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Ethereality](https://open.spotify.com/album/6zk1WNC7YNM9qgAxWY98qW) | 3:38 | 2023-06-04 |  |
+| [Iris](https://open.spotify.com/track/7h7DK2ZHIe4w0id8qkNqla) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Ethereality](https://open.spotify.com/album/6zk1WNC7YNM9qgAxWY98qW) | 3:38 | 2023-06-04 | 2024-01-17 |
 | [Iris](https://open.spotify.com/track/6f2l4b7e0mQ7jXbbBcxAzf) | [TR/ST](https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu) | [The Destroyer \- 2](https://open.spotify.com/album/6Bmn8Ain7shwZ1RV638fXl) | 5:18 | 2022-03-11 | 2022-09-03 |
 | [Is It Cold In The Water?](https://open.spotify.com/track/292h0AOEEmddv9wIWnrDl4) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:32 | 2021-02-12 | 2023-08-20 |
 | [ISN’T EVERYONE](https://open.spotify.com/track/0c2OTdcvtEtz3EEoNrs3ge) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [ISN’T EVERYONE](https://open.spotify.com/album/2GRKPOODkTeMODkt5kwLEO) | 5:14 | 2021-05-10 | 2021-09-22 |
@@ -1016,6 +1016,7 @@
 | [No Nightmares](https://open.spotify.com/track/0JlwmGK34Lbe62xPbpsmSb) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z) | 4:06 | 2020-11-05 | 2020-12-19 |
 | [No Shadow](https://open.spotify.com/track/1kEHnkvaGmE1nfS6il75vs) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [No Shadow](https://open.spotify.com/album/3B1JyI2iR1HJ0zfJDtzHyN) | 3:18 | 2022-07-24 | 2022-08-04 |
 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 | 2022-03-09 | 2024-01-11 |
+| [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2024-01-17 |  |
 | [Nobody Asked Me \(If I Was Okay\)](https://open.spotify.com/track/0UOQdxiWOMJDAw8AHSslDr) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 4:05 | 2022-03-10 | 2023-07-01 |
 | [Noches](https://open.spotify.com/track/634IBwtWmFmJCwVnFG8gzG) | [Prince Innocence](https://open.spotify.com/artist/2lMbnMWwgAxvVHXVDlF3ZV) | [Noches](https://open.spotify.com/album/08MGy8aiFy1Omd1UKoPvKy) | 3:13 | 2022-08-03 | 2023-08-26 |
 | [Noid](https://open.spotify.com/track/6fhH6tRpDX77lDmqBy9LF7) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Safe In The Hands of Love](https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk) | 3:29 | 2020-11-09 | 2022-07-30 |

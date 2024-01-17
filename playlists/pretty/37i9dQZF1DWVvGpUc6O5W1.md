@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,955 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,968 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 69 | [Ni Te Imaginas](https://open.spotify.com/track/2wJIqpXk7OGpwBxihlox6X) | [Pancho Uresti](https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd), [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi) | [A Lo Grande](https://open.spotify.com/album/6DvZtJ6na362jKnXdmPyyf) | 2:38 |
 | 70 | [Maldito Antojo](https://open.spotify.com/track/3d9YYtn1o9Uwk1ACnkJqbe) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [Garantizados](https://open.spotify.com/album/0dqQARMlzEAE0yx6E8jFOR) | 3:25 |
 | 71 | [Què Voy Hacer](https://open.spotify.com/track/3qUcXlGzUTFBZjuDL0S4E8) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 4:20 |
-| 72 | [Que Caro Estoy Pagando \(feat\. Leandro Ríos\)](https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:01 |
+| 72 | [No Fue Necesario](https://open.spotify.com/track/0nzNb3eVpbBp0HmXzL8lCy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [No Fue Necesario](https://open.spotify.com/album/0K21IEi0RqZQuuyrNPD7js) | 3:41 |
 | 73 | [Te Lo Dije](https://open.spotify.com/track/5Q0vLMYNUstQSbn4PbEDfK) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 3:23 |
-| 74 | [No Fue Necesario](https://open.spotify.com/track/0nzNb3eVpbBp0HmXzL8lCy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [No Fue Necesario](https://open.spotify.com/album/0K21IEi0RqZQuuyrNPD7js) | 3:41 |
+| 74 | [Que Caro Estoy Pagando \(feat\. Leandro Ríos\)](https://open.spotify.com/track/1Stf1PVWqgESWrj1quS4DD) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:01 |
 | 75 | [Olvidame](https://open.spotify.com/track/0GvTHBiwOo2GiUhqu8mdsW) | [Sheyla](https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh) | [Olvidame](https://open.spotify.com/album/5L5Q3dGox09sp50aBByuTG) | 3:11 |
 | 76 | [Pa' No Quedarme Con las Ganas](https://open.spotify.com/track/4mgFxkomGzWG5V0wD2FsFI) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Mano a Mano](https://open.spotify.com/album/36VIysGLIhLjb7m1kU8dBn) | 2:56 |
 | 77 | [Me Empezó A Valer](https://open.spotify.com/track/5D3X775rPruzExNKev9yD3) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Me Empezó A Valer](https://open.spotify.com/album/6kIwvZXijC62I9y8Mut7cb) | 2:35 |
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 123 | [Recomiéndame](https://open.spotify.com/track/5I1ikVYRkrFEFCz6NU58gx) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Ni Juez Ni Parte \(Deluxe Edition\)](https://open.spotify.com/album/6rFanRfPpDoHfhWmHnP6uF) | 3:20 |
 | 124 | [Te Descuidaste](https://open.spotify.com/track/4gHsaRdzzmJ5YeGXRGnA0I) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Chicas Malas](https://open.spotify.com/album/2xLZeRTFP8qtCpGEP6Ij5e) | 3:35 |
 | 125 | [Me Toca Llorar](https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Quedamos](https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA) | 2:53 |
-| 126 | [Chaparrita de Mi Amor](https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc) | [Luis y Julián Jr.](https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP) | [Homenaje a Nuestros Viejos](https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG) | 3:07 |
-| 127 | [No Merecías Tanto Amor](https://open.spotify.com/track/1UsZoJEQqZ1XlH8jbxBoJw) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7) | [Alegre Y Enamorado](https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ) | 3:29 |
+| 126 | [No Merecías Tanto Amor](https://open.spotify.com/track/1UsZoJEQqZ1XlH8jbxBoJw) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7) | [Alegre Y Enamorado](https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ) | 3:29 |
+| 127 | [Chaparrita de Mi Amor](https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc) | [Luis y Julián Jr.](https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP) | [Homenaje a Nuestros Viejos](https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG) | 3:07 |
 | 128 | [El Shake \(feat\. Las Cumbia Girls\)](https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Las Cumbia Girls](https://open.spotify.com/artist/62Q3pEV06xLxzApKPoMg0D) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 3:03 |
 | 129 | [No Te Quedes Con la Duda](https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [No Te Quedes Con la Duda](https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT) | 2:33 |
 | 130 | [Si Te Animas](https://open.spotify.com/track/74896FSrlV7OkdEZlT0fU6) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Vete Acostumbrando \(Deluxe Edition\)](https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh) | 2:58 |
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 140 | [Con Todo Y Tus Mañas](https://open.spotify.com/track/3jSddRSaL6KayUkv6LeOH9) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Con Todo Y Tus Mañas](https://open.spotify.com/album/6jAd2KoInbzlQkxxEmXypB) | 3:26 |
 | 141 | [Cómo Que No Te Conozco](https://open.spotify.com/track/3koRLnqL6zq2VB42xqVwWh) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [No Tienes Remedio](https://open.spotify.com/album/4J4Z65zy3szLuUnVdOtt9M) | 3:13 |
 | 142 | [Ya Dime Que Si](https://open.spotify.com/track/5gzB3sL0O440Bo9D9KVLhf) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Sigue Al Frente](https://open.spotify.com/album/6tGZQPLo8mDEiVs1yD5sBr) | 2:39 |
-| 143 | [Si Tú Fueras Mía](https://open.spotify.com/track/0O0KpqeoegBvsTsrrso8jN) | [Norteño 4.5](https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY) | [Y Lo Que Le Sigue](https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo) | 3:06 |
-| 144 | [La Mejor Versión de Mi](https://open.spotify.com/track/7nu53ruv2tSg9zC90FA0cy) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:41 |
+| 143 | [La Mejor Versión de Mi](https://open.spotify.com/track/7nu53ruv2tSg9zC90FA0cy) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:41 |
+| 144 | [Si Tú Fueras Mía](https://open.spotify.com/track/0O0KpqeoegBvsTsrrso8jN) | [Norteño 4.5](https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY) | [Y Lo Que Le Sigue](https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo) | 3:06 |
 | 145 | [Para Siempre](https://open.spotify.com/track/1H1MOSnAIVLImWFDlIFYjW) | [SuenaTron](https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4) | [Para Siempre](https://open.spotify.com/album/0l0tiUZGSfNroO6vuFSuzl) | 4:08 |
 | 146 | [Que la Quieran](https://open.spotify.com/track/0oLrcolw7yV23WL5ppnMIp) | [Los De La Corona](https://open.spotify.com/artist/1zN8223xpqskBClxZG32Jw), [Francisco Chan](https://open.spotify.com/artist/3Oy3bSMncht3I8MgrDwv0Z) | [Que la Quieran](https://open.spotify.com/album/7MmnatJ6aSMaZb36CY5s2Q) | 3:06 |
 | 147 | [Amor Puro](https://open.spotify.com/track/0vm73PVeE1qthY2YyjS0S0) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Vete Acostumbrando \(Deluxe Edition\)](https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh) | 2:45 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 149 | [Vas a Recordarme](https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:26 |
 | 150 | [Pude](https://open.spotify.com/track/7xVwmWF7flGqtWyaTOYcdA) | [Gabriel Diaz](https://open.spotify.com/artist/4FqkFAlXmpAJGOsc9k4GBO) | [Prohibido El Amor](https://open.spotify.com/album/4t5EkZNnFsqJLOlETpfgj9) | 3:20 |
 
-Snapshot ID: `MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4`
+Snapshot ID: `MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0`

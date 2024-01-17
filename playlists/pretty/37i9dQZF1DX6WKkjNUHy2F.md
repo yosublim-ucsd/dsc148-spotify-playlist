@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain]
 
 > The inspiration to be who you truly are—that’s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,472 likes - 26 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,471 likes - 26 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain]
 | 25 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
 | 26 | [Adam Lambert Quoting Dr\. Seuss](https://open.spotify.com/track/5lDq9taZLBt193gxJSoBIr) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Adam Lambert \- Spotify Pride](https://open.spotify.com/album/2e0gDFnkpouqkRAovJ1hKD) | 0:20 |
 
-Snapshot ID: `MCw5NjIwYjAzNWIxNjZiZDJhYmM4NmYyMDE1NmJjYzM2MmM2MzZlM2Iw`
+Snapshot ID: `MCw0NzE3NGU4ZWVmMjM5OTU0MDI0MWMxOGFiOTA0N2YwMTdlOTg2ODk5`

@@ -1,17 +1,17 @@
 {
   "description": "Du Congo, au monde. \ud83c\udf0d Photo: Zola",
-  "num_followers": 32355,
+  "num_followers": 32402,
   "original_name": "Biso Na Biso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTBhZmUxMmVhN2FhNzJmZjk2NTc4NTY1ZDNiMzM2N2U0ZWQzNGRm",
+  "snapshot_id": "MCxlOWU3NDgzYzZiZTM1MWNjNjY2NjkzNzdhZjFjMDE4NzdlZTE5YWQ3",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Temps en temps",
+        "name": "Temps en temps (feat. Kore)",
         "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
       },
       "artists": [
@@ -22,10 +22,14 @@
         {
           "name": "Koba LaD",
           "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        },
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
         }
       ],
       "duration_ms": 153649,
-      "name": "Temps en temps",
+      "name": "Temps en temps (feat. Kore)",
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
     },
     {

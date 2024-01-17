@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-171 songs - 8 hr 36 min
+172 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,9 +131,10 @@
 | [Piece Of Your Heart](https://open.spotify.com/track/6eKDe6Oqwi4EhvsPtedAkj) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Piece Of Your Heart](https://open.spotify.com/album/4SvoV3wiMl2MTqTCYtwLHj) | 2:44 | 2023-06-29 | 2023-08-20 |
 | [Pokémon Theme \(Fallen Superhero Remix\)](https://open.spotify.com/track/0rgLJMtbtKIsTHFB52WnAS) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Fallen Superhero](https://open.spotify.com/artist/4XFbi551hXFADmZ7HHCiyY), [Austin Christopher](https://open.spotify.com/artist/3B6pf3aw8UNJLwjgei3Vnr) | [Pokémon Theme \(Fallen Superhero Remix\)](https://open.spotify.com/album/3n4BJ2tUGYSf370SIIXEY3) | 2:47 | 2023-02-02 | 2023-02-10 |
 | [Push Up](https://open.spotify.com/track/6kvbfuy7sCAufBZ17GVKZo) | [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j) | [Push Up](https://open.spotify.com/album/1wUIav3nacHC56q1ZN9ANv) | 3:24 | 2023-06-15 | 2023-10-14 |
+| [Push Up \(Hardstyle\)](https://open.spotify.com/track/04a58l9JcaFctW3xqYH4TM) | [magnuscan](https://open.spotify.com/artist/1egIACjtL0hj2j79ZZ734o) | [Push Up \(Hardstyle\)](https://open.spotify.com/album/09Wg0QVgimoAsWIROu4Wmy) | 2:31 | 2023-12-04 |  |
 | [Push Up \- Hardstyle Remix](https://open.spotify.com/track/76K2GPOdbmj2bGCnFYj2xe) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [Push Up \(Hardstyle Remix\)](https://open.spotify.com/album/0vf6Uxo4jasSRkUfVUs8dm) | 2:31 | 2023-05-31 | 2024-01-12 |
 | [Rainbow In The Sky](https://open.spotify.com/track/0clMW4mz5QaPXURDwkmKJA) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Ingrid Simons](https://open.spotify.com/artist/5nMlO8ar6S3oqX1ncLombX) | [Rainbow In The Sky](https://open.spotify.com/album/53SIt0wrmoBP4wCBGciGQ7) | 2:44 | 2022-12-05 | 2023-02-10 |
-| [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 | 2022-12-05 |  |
+| [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 | 2022-12-05 | 2024-01-17 |
 | [Ride With Me \(feat\. Kid Ink\) \- Brennan Heart Remix](https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Ride With Me \(feat\. Kid Ink\) \[Brennan Heart Remix\]](https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE) | 3:50 | 2022-12-05 |  |
 | [Rude Boy](https://open.spotify.com/track/43O2EOt85fbhIADEt7ybP8) | [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb), [Rich Fayden](https://open.spotify.com/artist/3ar8JGsr43jlNDacAnqt34) | [Rude Boy](https://open.spotify.com/album/1D69rMXTjw3X7XlRFY34of) | 2:30 | 2023-09-28 | 2023-11-18 |
 | [Running up That Hill](https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Running up That Hill](https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS) | 3:43 | 2022-12-05 | 2023-07-14 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 43878,
+  "2024-01-17": 43889,
   "date_first_scraped": "2022-07-19",
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
   "name": "Sopa y Seco",
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 251200,
       "name": "Lo Mejor Para Los Dos (Todo de Cabeza) - Version Guitarra - En Vivo",
       "url": "https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw"
@@ -1651,6 +1651,24 @@
       "duration_ms": 259657,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/4WCQuqYrqCVyIKKdZQRe2S"
+    },
+    {
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259812,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl"
     },
     {
       "album": {

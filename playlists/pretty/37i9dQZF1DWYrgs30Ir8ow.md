@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,210 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,235 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Lose You Tonight](https://open.spotify.com/track/6PILotmKgyucOyFV5iJJZ2) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Lose You Tonight](https://open.spotify.com/album/6gj3a9h0C4E0Kqx5kXAMdV) | 2:25 |
 | 40 | [Sweet Dreams](https://open.spotify.com/track/5ZUB0BNuzPR9xC1r5VcLrl) | [Perfect Pitch](https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Sweet Dreams](https://open.spotify.com/album/0xvLMGLEn1M4htJcFKXbpE) | 2:40 |
 
-Snapshot ID: `MCxiOThlYjE4YWYyZWJkZjdmYzgzOGZlNmIzNTE1OWM3NDI5MmFmM2U5`
+Snapshot ID: `MCwxNmRlNTllOTk5YWE3MWQ2ZTZhMzNhNmI2OGVlOTk1N2JkZDRiNTQx`

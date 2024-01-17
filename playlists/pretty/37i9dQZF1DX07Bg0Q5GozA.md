@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: COMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,187 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,203 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Endlessly](https://open.spotify.com/track/6H0lNoGq4grhhUtEq4yDFM) | [Sultans Court](https://open.spotify.com/artist/1Oq0fBU6CVhqp4JicuSWuZ) | [Endlessly](https://open.spotify.com/album/5E8q70XnYJiVbWXNhs7jkC) | 3:04 |
 | 75 | [Every Little Drop \(Edit\)](https://open.spotify.com/track/796JQcRYU4x0oO17xmh9xs) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Richard x](https://open.spotify.com/artist/1U3sbewNFRq4oyhUWZinMi) | [Every Little Drop \(Edit\)](https://open.spotify.com/album/7bE9IkWBXiHK6Tv35lPZ6B) | 3:35 |
 
-Snapshot ID: `MCxlNGFhMmYzNjIwZDAzZDM0NmI5NWQ0ODc0ZTFiMWFhZDM5YjUzMjhh`
+Snapshot ID: `MCxiZWY5MjUwYmU4NjI4NjQwYTU4MDA2YzM2MTEzMzBlYjQ5YzRjZTRj`

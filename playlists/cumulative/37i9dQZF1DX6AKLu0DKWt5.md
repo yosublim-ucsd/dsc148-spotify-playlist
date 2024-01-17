@@ -2,7 +2,7 @@
 
 ### [Golden Globes](https://open.spotify.com/playlist/37i9dQZF1DX6AKLu0DKWt5)
 
-> Music from TV shows and films nominated for the 81st Golden Globe Awards\. Watch Jan 7, 2024 on CBS and Paramount+.
+> Music from the winners and nominees from the 81st Golden Globe Awards.
 
 69 songs - 3 hr 14 min
 

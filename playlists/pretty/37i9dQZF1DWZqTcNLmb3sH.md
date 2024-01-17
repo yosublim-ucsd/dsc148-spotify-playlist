@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Bachelor Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,833 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,853 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Nanna Ravi Neene \(From "ANIMAL"\)](https://open.spotify.com/track/2yL2P8gYU326hVSL92x7XM) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Harshavardhan Rameshwar](https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo) | [Nanna Ravi Neene \(From "ANIMAL"\)](https://open.spotify.com/album/2AG9iEIflTbPo9wq4YkFKR) | 5:21 |
 | 75 | [Huli Nayaka \- From "Huli Nayaka"](https://open.spotify.com/track/3t8egF8E8cLn1TQj5SxavR) | [Karibasava Tadkal](https://open.spotify.com/artist/5XbgT8dGfDxZpmvP5nkMKO), [Kadri Manikanth](https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0), [Chakravarthy Chandrachud](https://open.spotify.com/artist/1Ry8tcb7NZ4jpThKEGfsCa) | [Huli Nayaka \(From "Huli Nayaka"\)](https://open.spotify.com/album/2o9VoZrrxmMt1sD2PKfUQl) | 1:27 |
 
-Snapshot ID: `MCw1NWM3MmY5ZDllNTA4MDY4OGZiNmIwNmVkZmQxZmFlNTc5OTg0MmRi`
+Snapshot ID: `MCw2NTNmMmMyODAwNGIxZTQxYWI1Mjk4MWE4OWI2YjMxNWQ2NjRhMDFi`

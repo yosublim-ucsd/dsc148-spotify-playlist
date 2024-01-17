@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-636 songs - 1 day 12 hr 52 min
+637 songs - 1 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Land of the Living](https://open.spotify.com/track/5kfnCvlXXJEa9HpFKdSczm) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Land of the Living](https://open.spotify.com/album/1Ok5c9oP3hWgunQvhIsC0e) | 2:40 | 2023-08-22 | 2023-12-14 |
 | [Landslide](https://open.spotify.com/track/7DsQcrBb8p6dc6ccMFf7Gk) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Landslide](https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n) | 3:10 | 2023-03-03 | 2023-05-30 |
 | [Landslide \- BOTCASH Remix](https://open.spotify.com/track/605ohRZDdw3UEzalXZWrM6) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [BOTCASH](https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv) | [Landslide \(BOTCASH Remix\)](https://open.spotify.com/album/2mS5bt6HNrbxWKOBhAvR7i) | 3:22 | 2023-12-14 |  |
-| [Lastecostra](https://open.spotify.com/track/2bwAt55jyN5QGQhWFkwvez) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Lastecostra](https://open.spotify.com/album/1fwfYJCgNpfuYAq0FR0HC5) | 3:21 | 2023-10-03 |  |
+| [Lastecostra](https://open.spotify.com/track/2bwAt55jyN5QGQhWFkwvez) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Lastecostra](https://open.spotify.com/album/1fwfYJCgNpfuYAq0FR0HC5) | 3:21 | 2023-10-03 | 2024-01-17 |
 | [Leap Of Faith](https://open.spotify.com/track/3hxpfTyfr2dU55eVGheeDp) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Leap Of Faith](https://open.spotify.com/album/696TSD9rzaKK6hJbSgEPnN) | 3:13 | 2023-08-22 | 2023-12-14 |
 | [Let It Bloom](https://open.spotify.com/track/0c4m3t9QKH4PXXYbYX2GBu) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let It Bloom](https://open.spotify.com/album/5QItpT8Xs57eUsrDi5Spae) | 4:00 | 2023-07-27 | 2023-12-14 |
 | [Let Me Go](https://open.spotify.com/track/0pqu2PSOGfcV2CFqhHUBOL) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Let Me Go](https://open.spotify.com/album/1j8piDAV1NouzoGo3Z7S0n) | 3:44 | 2023-02-16 | 2023-05-04 |
@@ -533,6 +533,7 @@
 | [Strictly 4 Tha](https://open.spotify.com/track/0qBIwcab1a5J8RDczBALuW) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Strictly 4 Tha](https://open.spotify.com/album/0CfTs0imoYBls6zTPdqRVH) | 3:14 | 2023-10-27 |  |
 | [Subliminal \(Even the Ghosts are Laughing\)](https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [AFTERMYFALL](https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK) | [Subliminal \(Even the Ghosts are Laughing\)](https://open.spotify.com/album/1lKKwA4RJ6xoOomuiOQ7EB) | 5:18 | 2022-06-13 | 2022-08-25 |
 | [Sugar](https://open.spotify.com/track/0rHT3KSdQn3JvGPwe5EH2Y) | [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Sugar](https://open.spotify.com/album/31hnvDgjFArB8Xbntl48ou) | 2:42 | 2023-03-01 | 2023-05-30 |
+| [Sun](https://open.spotify.com/track/0Oa3fJvhtLXc6RGkcRVHVT) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy) | [Sun](https://open.spotify.com/album/1TVA7epk6ZpEuqvTtdWfZb) | 3:13 | 2024-01-16 |  |
 | [Sunflowers](https://open.spotify.com/track/5R5oXUlnzXfQZUnbNZz2Dm) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr) | [Sunflowers](https://open.spotify.com/album/5Fv4WJupGWoHOMEJZddOR4) | 3:32 | 2023-02-24 | 2023-05-18 |
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
 | [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-10 | 2023-12-14 |

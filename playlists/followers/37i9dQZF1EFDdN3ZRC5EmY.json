@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 7080,
+  "2024-01-17": 7079,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6SK0frMbyQXljpwhhXP4KD\">Jessie Reyez</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Jessie Reyez",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 180320,
       "name": "Apple Juice",
       "url": "https://open.spotify.com/track/1PxE9RK6FBEp42F9QwzZyn"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 187520,
       "name": "Apple Juice",
       "url": "https://open.spotify.com/track/1WGo7Q127MYBnP2JMTiAeX"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 169826,
       "name": "Great One",
       "url": "https://open.spotify.com/track/1rm9z2o1PgcJHIYL6nx0VG"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 199908,
       "name": "Great One",
       "url": "https://open.spotify.com/track/5RYk5yuofj5ODRG8z6zlSk"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 223082,
       "name": "One Kiss",
       "url": "https://open.spotify.com/track/5nhPDn7C41uZjrCRcFrUEI"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"

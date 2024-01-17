@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 20670,
+  "2024-01-17": 20674,
   "date_first_scraped": "2021-12-21",
   "description": "Summertime sadness everyday",
   "name": "Sun Kissed",
@@ -4725,7 +4725,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 217426,
       "name": "New Light",
       "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
@@ -5261,7 +5261,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 184601,
       "name": "Polaroid Love",
       "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"

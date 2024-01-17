@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/3myUaKhlvdBmSQlKxYugTQ"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7i650ozZjXNUNT1AFqxAI4"
+    },
+    {
+      "album": {
         "name": "Xaxoeira",
         "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
       },
@@ -1724,28 +1742,6 @@
       "duration_ms": 327292,
       "name": "Pulse VI",
       "url": "https://open.spotify.com/track/7LNKDRkuLunvJUpT79kYO3"
-    },
-    {
-      "album": {
-        "name": "Punto Cero",
-        "url": "https://open.spotify.com/album/3myUaKhlvdBmSQlKxYugTQ"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        },
-        {
-          "name": "Tu\u011f\u00e7e Kurti\u015f",
-          "url": "https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf"
-        }
-      ],
-      "date_added": "2022-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 522666,
-      "name": "Punto Cero",
-      "url": "https://open.spotify.com/track/7i650ozZjXNUNT1AFqxAI4"
     },
     {
       "album": {

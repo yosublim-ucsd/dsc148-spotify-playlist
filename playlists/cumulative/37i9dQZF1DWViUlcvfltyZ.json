@@ -11441,6 +11441,24 @@
     },
     {
       "album": {
+        "name": "Serole",
+        "url": "https://open.spotify.com/album/4WrXBdup2TcNuo7eOLWGFG"
+      },
+      "artists": [
+        {
+          "name": "Tropea",
+          "url": "https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205580,
+      "name": "Ti Amerei",
+      "url": "https://open.spotify.com/track/09EeLpRYDS8Qxk5Q7mOa1A"
+    },
+    {
+      "album": {
         "name": "TI DEVI ROVINARE",
         "url": "https://open.spotify.com/album/29mSkfiTOynaVBxBp2E4Vh"
       },

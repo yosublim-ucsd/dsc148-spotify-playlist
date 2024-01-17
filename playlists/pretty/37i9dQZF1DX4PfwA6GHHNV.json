@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 15021,
+  "num_followers": 15050,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzk3MjM4NTU1MjM0YzNhNTcwYzBmZTc2ZmU2MGE3OGU5OTM0NzMz",
+  "snapshot_id": "MCwzYjM5MTA4OTZlOWRlY2RlYWU3OWY4MGE2NGMzZGJhNDUyODBlZmY0",
   "tracks": [
     {
       "added_at": "2024-01-12 15:33:57",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-01-12 15:33:57",
       "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 194862,
+      "name": "Luar",
+      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+    },
+    {
+      "added_at": "2024-01-12 15:33:57",
+      "album": {
         "name": "Encruzilhada",
         "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
@@ -607,22 +627,6 @@
       "duration_ms": 162774,
       "name": "Oceano",
       "url": "https://open.spotify.com/track/2c4suE33LALjs5wGWAnD4F"
-    },
-    {
-      "added_at": "2024-01-12 15:33:57",
-      "album": {
-        "name": "Patipapa",
-        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Patipapa",
-      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
     },
     {
       "added_at": "2024-01-12 15:33:57",
@@ -719,6 +723,22 @@
     {
       "added_at": "2024-01-12 15:33:57",
       "album": {
+        "name": "Patipapa",
+        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Patipapa",
+      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
+    },
+    {
+      "added_at": "2024-01-12 15:33:57",
+      "album": {
         "name": "Do Nada",
         "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
       },
@@ -743,22 +763,34 @@
     {
       "added_at": "2024-01-12 15:33:57",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+        "name": "Perigo",
+        "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
       },
       "artists": [
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Peninha'",
+          "url": "https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "JovemBlues",
+          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
         }
       ],
-      "duration_ms": 194862,
-      "name": "Luar",
-      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+      "duration_ms": 160000,
+      "name": "Perigo",
+      "url": "https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ"
     },
     {
       "added_at": "2024-01-12 15:33:57",
@@ -807,38 +839,6 @@
     {
       "added_at": "2024-01-12 15:33:57",
       "album": {
-        "name": "Perigo",
-        "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
-      },
-      "artists": [
-        {
-          "name": "Peninha'",
-          "url": "https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7"
-        },
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "JovemBlues",
-          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Perigo",
-      "url": "https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ"
-    },
-    {
-      "added_at": "2024-01-12 15:33:57",
-      "album": {
         "name": "Que Cal\u00f4",
         "url": "https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD"
       },
@@ -879,6 +879,26 @@
     {
       "added_at": "2024-01-12 15:33:57",
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        }
+      ],
+      "duration_ms": 144522,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
+    },
+    {
+      "added_at": "2024-01-12 15:33:57",
+      "album": {
         "name": "A\u00ed \u00e9 Bom Demais",
         "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 197667,
       "name": "A\u00ed \u00e9 Bom Demais",
       "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
-    },
-    {
-      "added_at": "2024-01-12 15:33:57",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 144522,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
     },
     {
       "added_at": "2024-01-12 15:33:57",
@@ -1087,22 +1087,26 @@
     {
       "added_at": "2024-01-12 15:33:57",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5"
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
       },
       "artists": [
         {
-          "name": "Tito JV",
-          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
+          "name": "Neittan",
+          "url": "https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n"
         },
         {
-          "name": "Dj Leopoldo",
-          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
+          "name": "Paulla",
+          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
+        },
+        {
+          "name": "AlmaViva M\u00fasica",
+          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
         }
       ],
-      "duration_ms": 166438,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
+      "duration_ms": 162338,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
     }
   ],
   "unique_name": "pique afrobeats",

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Fredz
 
-2,262 songs - 5 day 0 hr 47 min
+2,263 songs - 5 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Cinéma Paradiso](https://open.spotify.com/track/0KcAnoBSjTRcyVI143hoJi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Cinéma Paradiso](https://open.spotify.com/album/3AVGGrhhe8A256seUvvhhL) | 4:32 | 2023-07-28 | 2023-08-12 |
 | [City](https://open.spotify.com/track/52bqJdZWUV9HsL2Na2vOD3) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:43 | 2023-11-10 | 2023-11-18 |
 | [Cités de France](https://open.spotify.com/track/3g3YCqJbfTBhUbvmOauugY) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc) | [Chef D'orchestre](https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7) | 3:09 | 2023-06-30 | 2023-09-09 |
+| [CITÉS DE FRANCE](https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [CITÉS DE FRANCE](https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX) | 3:35 | 2024-01-12 |  |
 | [Clandestin](https://open.spotify.com/track/6DIjzGSsbZhBxAmzNg2i9T) | [La Faune](https://open.spotify.com/artist/3PHImlj9rqrewqZx3uPlQO) | [Clandestin](https://open.spotify.com/album/7FVcYDNzwMf0lYi2Es6zwO) | 2:49 | 2022-06-10 | 2022-06-18 |
 | [Clandestina](https://open.spotify.com/track/5bDhpwMTqfX1rKBn65btBr) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Clandestina](https://open.spotify.com/album/2wMWO0hVuUFJGbXl4yX4Me) | 3:47 | 2022-06-10 | 2022-06-25 |
 | [Claro que sì \(feat\. Dadju\)](https://open.spotify.com/track/0BNMtjHKvjC4iWh6r139Qp) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Rihan](https://open.spotify.com/album/0tPwB3bRESXokUKZclOLFq) | 3:11 | 2022-03-18 | 2022-04-02 |
@@ -1982,7 +1983,7 @@
 | [Tee](https://open.spotify.com/track/7lipUxEvDX7gvpVLOoqiau) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Tee](https://open.spotify.com/album/33WzuSWcCF9RWYodM9c9aG) | 3:22 | 2022-06-03 | 2022-06-18 |
 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 | 2022-04-22 | 2022-05-07 |
 | [Teke Fren \- Voilaaa Remix](https://open.spotify.com/track/2GIEDsWQGAY0Kv4bnzflVy) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Teke Fren \(Voilaaa Remix\)](https://open.spotify.com/album/1zPNlZXn6vnpZqlzeGeTSh) | 3:31 | 2023-03-24 | 2023-04-16 |
-| [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-12 |  |
+| [Temps en temps \(feat\. Kore\)](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N) | [Temps en temps \(feat\. Kore\)](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-12 |  |
 | [Temps Mort](https://open.spotify.com/track/5SjDYaaYpyuNqYgNFrwLJv) | [RIP](https://open.spotify.com/artist/5VyEjYKwnt9lyULWcLJS9f) | [Temps Mort](https://open.spotify.com/album/4pKgXmDrEJL7kKKPftkOYt) | 2:51 | 2022-04-08 | 2022-04-16 |
 | [Temps perdu](https://open.spotify.com/track/0YFuRRuUdNgpvM3G2a9lQ9) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Caméléon](https://open.spotify.com/album/7uUTDl6Q5EXTkC7pF0sGid) | 3:27 | 2022-03-04 | 2022-03-12 |
 | [Terminus](https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Terminus](https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT) | 2:38 | 2023-10-20 |  |
@@ -2047,7 +2048,7 @@
 | [Toxique](https://open.spotify.com/track/5iOqSItx90udNnb61yWt6M) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3) | [Toxique](https://open.spotify.com/album/4JFsnQN0r0JxAIIA9CdIL0) | 2:30 | 2022-06-10 | 2022-06-18 |
 | [TP](https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ouvert tout l'été](https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB) | 2:58 | 2023-06-16 | 2023-08-26 |
 | [Tracer des lignes](https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Tracer des lignes](https://open.spotify.com/album/7xty3TrdI151JCmI6tO35v) | 3:09 | 2023-09-29 | 2023-10-07 |
-| [Traficante](https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Traficante](https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV) | 2:56 | 2023-12-22 |  |
+| [Traficante](https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Traficante](https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV) | 2:56 | 2023-12-22 | 2024-01-17 |
 | [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 | 2023-08-25 | 2023-09-02 |
 | [Tralala](https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx) | [La Bottine Souriante](https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ) | [Tralala](https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV) | 4:23 | 2023-10-20 | 2023-10-30 |
 | [Transfert Trottinette](https://open.spotify.com/track/4HDdOkOcPcXN4STjisEEfL) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Transfert Trottinette](https://open.spotify.com/album/0F8odSiMiq1pxy9ddu9Nah) | 2:39 | 2022-07-22 | 2022-08-20 |

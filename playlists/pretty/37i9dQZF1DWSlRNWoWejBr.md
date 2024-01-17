@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ou vc dança ou o grave t balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,636 likes - 70 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,471 likes - 70 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 18 | [Baile do Bruxo](https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Baile do Bruxo](https://open.spotify.com/album/4gTpoHQozYg3jI7KTbFsfx) | 3:41 |
 | 19 | [Porradeiro Vs Marretada](https://open.spotify.com/track/5M7mAMgIjMRwECVLh6IUoZ) | [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g), [MC FG](https://open.spotify.com/artist/1kAJwKG8RJwXdA7qWNWwKI), [LC Santos](https://open.spotify.com/artist/2V0Xb2QqVOlHN4yxDSGluP) | [Porradeiro Vs Marretada](https://open.spotify.com/album/1uqu47jY40H0GB6JDrpmOF) | 2:29 |
 | 20 | [PUTARIA NO COMPLEXO X SELVA DO URSO](https://open.spotify.com/track/1jFaGv9IAS5hsoBeqjniCJ) | [Dj Klebin](https://open.spotify.com/artist/23bq5HhjGzFYe46YVIOkjZ) | [PUTARIA NO COMPLEXO X SELVA DO URSO](https://open.spotify.com/album/1Tj1actnkA3wyQpSDSxrn7) | 2:00 |
-| 21 | [Maria Mariah](https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Maria Mariah](https://open.spotify.com/album/4F1j6L2ncVLyIiAaG8jgo1) | 1:58 |
+| 21 | [MARIA MARIAH](https://open.spotify.com/track/4rvhvKePtR2c08LvALVLXV) | [AN0S 2002](https://open.spotify.com/artist/1cZBcvGgea6U5diHP9jdpi), [VISIXN](https://open.spotify.com/artist/0O5ZiaqbQiMFrYfjiyRihX), [codependency](https://open.spotify.com/artist/79Q0IhoK1JMM0c3jQrNvtF) | [2 hot 4 u](https://open.spotify.com/album/5Qdw3s4xfnB4MDug6NGIL1) | 1:58 |
 | 22 | [Noite Dos Perdidos](https://open.spotify.com/track/0llpifaw5Kle6wQxrdUy5p) | [DJ JV DO SG](https://open.spotify.com/artist/1vb3NH4REyIWVAKShUYQUh), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [DJ WV Oficial](https://open.spotify.com/artist/01tECeLpHN4yRu1gBqZ6WZ), [Mc Dudu Sk](https://open.spotify.com/artist/1CKLOLezvcRuPRzOiGvxS1) | [Noite Dos Perdidos](https://open.spotify.com/album/5Daso30Ue6dC3bFySoOCta) | 2:36 |
 | 23 | [Terminei Com A Ex](https://open.spotify.com/track/301UKq8uNAv7Zj7MQkQWyd) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY) | [RICKNELSO](https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR) | 2:31 |
 | 24 | [É sempre assim](https://open.spotify.com/track/2dwkCNgPmMqTjofwDCUZHu) | [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Gui Andrade](https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI) | [É sempre assim](https://open.spotify.com/album/0rhRbPFgLhjibgPhUHYQU3) | 2:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 69 | [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 1:49 |
 | 70 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCwyMTUwODM0ZDE5YTJkZDdlMTU3YWVkNmIwMjgwOTY5N2NjNGIyN2E0`
+Snapshot ID: `MCxlNmI3NTk2NDQ3MTdjOTEwOTc0MzQ1YjY3OTY0NDkwNTNmMmNiOGVm`

@@ -1,12 +1,12 @@
 {
-  "description": "With Callie Day, Terrell Grice, STOUT and more",
+  "description": "With Callie Day, STOUT, Terrell Grice and more",
   "num_followers": 204,
   "original_name": "Callie Day Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGViYmM1MDI4YzBmMDY4Yjg1Mjk3NWQyMzIxODc1MTU2MGZjNGQx",
+  "snapshot_id": "MCw0NTQ0MzQ0YTllZjJjOGNkNDZlNThhMWM4YmE3M2ZjNzE2NjNiZjAz",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saints In Praise III",
-        "url": "https://open.spotify.com/album/7HrwpdcCbHQW1RKfKD9gXV"
-      },
-      "artists": [
-        {
-          "name": "West Angeles Cogic Mass Choir And Congregation",
-          "url": "https://open.spotify.com/artist/73uuFguS457tkIlBOgQvpx"
-        }
-      ],
-      "duration_ms": 60666,
-      "name": "Bishop's Prayer",
-      "url": "https://open.spotify.com/track/03PzMzw1L0f1rtngLmb7bT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "An Invitation to the Cookout",
         "url": "https://open.spotify.com/album/1mxQynHQ4f4UBGnLpgJzFs"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 124140,
       "name": "Keep Trying",
       "url": "https://open.spotify.com/track/2dMVqyzk3Zk5TUN3F9KZC8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints In Praise III",
+        "url": "https://open.spotify.com/album/7HrwpdcCbHQW1RKfKD9gXV"
+      },
+      "artists": [
+        {
+          "name": "West Angeles Cogic Mass Choir And Congregation",
+          "url": "https://open.spotify.com/artist/73uuFguS457tkIlBOgQvpx"
+        }
+      ],
+      "duration_ms": 60666,
+      "name": "Bishop's Prayer",
+      "url": "https://open.spotify.com/track/03PzMzw1L0f1rtngLmb7bT"
     },
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alone But Not Alone",
+        "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
+      },
+      "artists": [
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/0hFClPjbfCNhNpBN0oAtSr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Believed in Me",
         "url": "https://open.spotify.com/album/7HxvBrs5u8XRZTAUHnw8Vw"
       },
@@ -179,26 +195,6 @@
       "duration_ms": 261532,
       "name": "You Believed in Me",
       "url": "https://open.spotify.com/track/19qc8m0Q7UiA3WSi1enFPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "An Invitation to the Cookout",
-        "url": "https://open.spotify.com/album/1mxQynHQ4f4UBGnLpgJzFs"
-      },
-      "artists": [
-        {
-          "name": "Terrell Grice",
-          "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
-        },
-        {
-          "name": "MaKenzie Thomas",
-          "url": "https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0"
-        }
-      ],
-      "duration_ms": 237558,
-      "name": "Dear God",
-      "url": "https://open.spotify.com/track/5OdF9NAO3BZw2DuYwnPjEu"
     },
     {
       "added_at": null,
@@ -235,6 +231,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Future Forever",
+        "url": "https://open.spotify.com/album/0Pwx2BUz3c1Oij16M6vZ6I"
+      },
+      "artists": [
+        {
+          "name": "Mike Todd",
+          "url": "https://open.spotify.com/artist/4QpvRL62L5TZ19EWL8Wq2s"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 116749,
+      "name": "Future Forever",
+      "url": "https://open.spotify.com/track/0Ol5icsjD5XMt2tTV8Td2F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soul Music",
         "url": "https://open.spotify.com/album/4lEmLxu45Tk5hs33Y6bAjZ"
       },
@@ -251,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Troop Nation",
-        "url": "https://open.spotify.com/album/0ZBnSU7WnwIhxdjuOdwkRq"
+        "name": "An Invitation to the Cookout",
+        "url": "https://open.spotify.com/album/1mxQynHQ4f4UBGnLpgJzFs"
       },
       "artists": [
         {
-          "name": "Joshua's Troop",
-          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
+          "name": "Terrell Grice",
+          "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
+        },
+        {
+          "name": "MaKenzie Thomas",
+          "url": "https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0"
         }
       ],
-      "duration_ms": 71743,
-      "name": "He's A Mighty God Reprise",
-      "url": "https://open.spotify.com/track/6CL4STl2V2oADhTVgvpcJP"
+      "duration_ms": 237558,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/5OdF9NAO3BZw2DuYwnPjEu"
     },
     {
       "added_at": null,
@@ -283,38 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.D. Jakes Presents: I Am Healed by the Word of God",
-        "url": "https://open.spotify.com/album/3dL9yCTMFVRRB5JXsGStMB"
+        "name": "Troop Nation",
+        "url": "https://open.spotify.com/album/0ZBnSU7WnwIhxdjuOdwkRq"
       },
       "artists": [
         {
-          "name": "Maurice Brown",
-          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
-        },
-        {
-          "name": "T.D. Jakes",
-          "url": "https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ"
+          "name": "Joshua's Troop",
+          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
         }
       ],
-      "duration_ms": 350472,
-      "name": "T.D. Jakes Presents: I Am Healed by the Word of God",
-      "url": "https://open.spotify.com/track/4WxivZuDkLTkWSamljhqNK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Introspection",
-        "url": "https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR"
-      },
-      "artists": [
-        {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
-        }
-      ],
-      "duration_ms": 178889,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z"
+      "duration_ms": 71743,
+      "name": "He's A Mighty God Reprise",
+      "url": "https://open.spotify.com/track/6CL4STl2V2oADhTVgvpcJP"
     },
     {
       "added_at": null,
@@ -331,26 +331,6 @@
       "duration_ms": 127703,
       "name": "Balm In Gilead",
       "url": "https://open.spotify.com/track/3LCvxWsmC6UVTWpynIYFWo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Future Forever",
-        "url": "https://open.spotify.com/album/0Pwx2BUz3c1Oij16M6vZ6I"
-      },
-      "artists": [
-        {
-          "name": "Mike Todd",
-          "url": "https://open.spotify.com/artist/4QpvRL62L5TZ19EWL8Wq2s"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 116749,
-      "name": "Future Forever",
-      "url": "https://open.spotify.com/track/0Ol5icsjD5XMt2tTV8Td2F"
     },
     {
       "added_at": null,
@@ -379,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAJOR.HOPE Motivations",
+        "url": "https://open.spotify.com/album/17QCcAuzoBWEcqAgXMBA0T"
+      },
+      "artists": [
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "duration_ms": 116591,
+      "name": "Stillness (Motivation)",
+      "url": "https://open.spotify.com/track/0nF43bYmLw1S52Y2jmYmns"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alone But Not Alone",
         "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
       },
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Faith",
-        "url": "https://open.spotify.com/album/0RQozDgqwcvMxjuxpXXq6T"
+        "name": "T.D. Jakes Presents: I Am Healed by the Word of God",
+        "url": "https://open.spotify.com/album/3dL9yCTMFVRRB5JXsGStMB"
       },
       "artists": [
         {
-          "name": "Thomas Whitfield",
-          "url": "https://open.spotify.com/artist/4UsSlDV1lMpcitobN7gXDD"
+          "name": "Maurice Brown",
+          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
+        },
+        {
+          "name": "T.D. Jakes",
+          "url": "https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ"
         }
       ],
-      "duration_ms": 233866,
-      "name": "We Need a Word from the Lord",
-      "url": "https://open.spotify.com/track/2i7UCoVQohXplZ18Rb2Zds"
+      "duration_ms": 350472,
+      "name": "T.D. Jakes Presents: I Am Healed by the Word of God",
+      "url": "https://open.spotify.com/track/4WxivZuDkLTkWSamljhqNK"
     },
     {
       "added_at": null,
@@ -427,50 +427,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAJOR.HOPE Motivations",
-        "url": "https://open.spotify.com/album/17QCcAuzoBWEcqAgXMBA0T"
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR"
       },
       "artists": [
         {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
         }
       ],
-      "duration_ms": 116591,
-      "name": "Stillness (Motivation)",
-      "url": "https://open.spotify.com/track/0nF43bYmLw1S52Y2jmYmns"
+      "duration_ms": 178889,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z"
     },
     {
       "added_at": null,
       "album": {
-        "name": "He'll Make It Alright",
-        "url": "https://open.spotify.com/album/18sGMZqTG34RTvMhOPKaOa"
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/3Wo01TSSzto3jJhxopJwTl"
       },
       "artists": [
         {
-          "name": "Charles Jenkins & Fellowship Chicago",
-          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
         }
       ],
-      "duration_ms": 240304,
-      "name": "He'll Make It Alright",
-      "url": "https://open.spotify.com/track/6YY9ZNNsFQX53WozAKUJja"
+      "duration_ms": 244960,
+      "name": "Prayer Changes Things",
+      "url": "https://open.spotify.com/track/0yFJpzXWXB4x37pstUAo2m"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Men Of Gospo, Vol. 1",
-        "url": "https://open.spotify.com/album/1N2LJu7CMRAPtuLUAJBepz"
+        "name": "Get Your Praise On",
+        "url": "https://open.spotify.com/album/1ek9TsZbSAsi6H9s3WfMBp"
       },
       "artists": [
         {
-          "name": "Byron Cage",
-          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
+          "name": "New Direction",
+          "url": "https://open.spotify.com/artist/1TpXFTRji6OtOrX061RT9F"
         }
       ],
-      "duration_ms": 251653,
-      "name": "Shabach - Edit",
-      "url": "https://open.spotify.com/track/5RFQSKkz2JMJdkXrkTZxm7"
+      "duration_ms": 129639,
+      "name": "Til We Meet",
+      "url": "https://open.spotify.com/track/4DrWlzGquUlQtxWCrXvobu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avery*sunshine Album",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 282826,
+      "name": "Blessin Me",
+      "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
     },
     {
       "added_at": null,
@@ -495,114 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Will Fix It (Trouble In My Way)",
-        "url": "https://open.spotify.com/album/5kwykZUsyHdpcRaflSv7XC"
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/3dgSbvsmAn4IvHsnLFGaaI"
       },
       "artists": [
         {
-          "name": "Shontelle Norman-Beatty",
-          "url": "https://open.spotify.com/artist/7v8SIpv9peJmgRSROMQ2NX"
+          "name": "George Huff",
+          "url": "https://open.spotify.com/artist/7khK39KFHXd3ctHBrmDmqL"
         }
       ],
-      "duration_ms": 248008,
-      "name": "Jesus Will Fix It (Trouble In My Way)",
-      "url": "https://open.spotify.com/track/5kvaIF6bsSQWvvDIQkU9ue"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Your Praise On",
-        "url": "https://open.spotify.com/album/1ek9TsZbSAsi6H9s3WfMBp"
-      },
-      "artists": [
-        {
-          "name": "New Direction",
-          "url": "https://open.spotify.com/artist/1TpXFTRji6OtOrX061RT9F"
-        }
-      ],
-      "duration_ms": 129639,
-      "name": "Til We Meet",
-      "url": "https://open.spotify.com/track/4DrWlzGquUlQtxWCrXvobu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spiritual Love",
-        "url": "https://open.spotify.com/album/2ZM2n33UPmwi3QELrJxwTf"
-      },
-      "artists": [
-        {
-          "name": "Trin-I-Tee 5:7",
-          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
-        }
-      ],
-      "duration_ms": 274106,
-      "name": "My Body",
-      "url": "https://open.spotify.com/track/05UKr3INW51Ca3ZGZK0tcw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAJOR.HOPE Motivations",
-        "url": "https://open.spotify.com/album/17QCcAuzoBWEcqAgXMBA0T"
-      },
-      "artists": [
-        {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
-        }
-      ],
-      "duration_ms": 142656,
-      "name": "You Are Worthy (Motivation)",
-      "url": "https://open.spotify.com/track/5eP7jix7drzYh4xFEjvmfZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/3Wo01TSSzto3jJhxopJwTl"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Prayer Changes Things",
-      "url": "https://open.spotify.com/track/0yFJpzXWXB4x37pstUAo2m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Power Filled With the Spirit",
-        "url": "https://open.spotify.com/album/1HbNGZSymNMQu3dhujqj6G"
-      },
-      "artists": [
-        {
-          "name": "Shara Mckee",
-          "url": "https://open.spotify.com/artist/5A6l1mbg6iDpNgXW4oNC7d"
-        }
-      ],
-      "duration_ms": 312424,
-      "name": "Ride on King Jesus",
-      "url": "https://open.spotify.com/track/6xuGvy7xMqMMsI0Zk8EMap"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fresh Start Worship",
-        "url": "https://open.spotify.com/album/6Jj1xMcSXGkdtBqPGVR3Tq"
-      },
-      "artists": [
-        {
-          "name": "Fresh Start Worship",
-          "url": "https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG"
-        }
-      ],
-      "duration_ms": 281959,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/5RX77RjMsNHKd8i6JCkGRt"
+      "duration_ms": 202226,
+      "name": "A Brighter Day",
+      "url": "https://open.spotify.com/track/2cHxeaqKLZL9Shs3Qel5GS"
     },
     {
       "added_at": null,
@@ -623,34 +543,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/3dgSbvsmAn4IvHsnLFGaaI"
+        "name": "He'll Make It Alright",
+        "url": "https://open.spotify.com/album/18sGMZqTG34RTvMhOPKaOa"
       },
       "artists": [
         {
-          "name": "George Huff",
-          "url": "https://open.spotify.com/artist/7khK39KFHXd3ctHBrmDmqL"
+          "name": "Charles Jenkins & Fellowship Chicago",
+          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
         }
       ],
-      "duration_ms": 202226,
-      "name": "A Brighter Day",
-      "url": "https://open.spotify.com/track/2cHxeaqKLZL9Shs3Qel5GS"
+      "duration_ms": 240304,
+      "name": "He'll Make It Alright",
+      "url": "https://open.spotify.com/track/6YY9ZNNsFQX53WozAKUJja"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Spiritual Love",
-        "url": "https://open.spotify.com/album/2ZM2n33UPmwi3QELrJxwTf"
+        "name": "MAJOR.HOPE Motivations",
+        "url": "https://open.spotify.com/album/17QCcAuzoBWEcqAgXMBA0T"
       },
       "artists": [
         {
-          "name": "Trin-I-Tee 5:7",
-          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
         }
       ],
-      "duration_ms": 206533,
-      "name": "Spiritual Love",
-      "url": "https://open.spotify.com/track/5LbSZ9FyqpxV8Dt3bxn2DL"
+      "duration_ms": 142656,
+      "name": "You Are Worthy (Motivation)",
+      "url": "https://open.spotify.com/track/5eP7jix7drzYh4xFEjvmfZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Faith",
+        "url": "https://open.spotify.com/album/0RQozDgqwcvMxjuxpXXq6T"
+      },
+      "artists": [
+        {
+          "name": "Thomas Whitfield",
+          "url": "https://open.spotify.com/artist/4UsSlDV1lMpcitobN7gXDD"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "We Need a Word from the Lord",
+      "url": "https://open.spotify.com/track/2i7UCoVQohXplZ18Rb2Zds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Power Filled With the Spirit",
+        "url": "https://open.spotify.com/album/1HbNGZSymNMQu3dhujqj6G"
+      },
+      "artists": [
+        {
+          "name": "Shara Mckee",
+          "url": "https://open.spotify.com/artist/5A6l1mbg6iDpNgXW4oNC7d"
+        }
+      ],
+      "duration_ms": 312424,
+      "name": "Ride on King Jesus",
+      "url": "https://open.spotify.com/track/6xuGvy7xMqMMsI0Zk8EMap"
     },
     {
       "added_at": null,
@@ -671,62 +623,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Invitation to the Cookout",
-        "url": "https://open.spotify.com/album/1mxQynHQ4f4UBGnLpgJzFs"
+        "name": "Jesus Is Born",
+        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
       },
       "artists": [
         {
-          "name": "Terrell Grice",
-          "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
-        },
-        {
-          "name": "Jaden Gray",
-          "url": "https://open.spotify.com/artist/0kLW5A7WWsj1KGwDlx455n"
-        },
-        {
-          "name": "Shel\u00e9a",
-          "url": "https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG"
-        },
-        {
-          "name": "Joshua Ledet",
-          "url": "https://open.spotify.com/artist/6aOLc2s5ULYBhMvUXBDuAr"
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
         }
       ],
-      "duration_ms": 360759,
-      "name": "The Prayer Song",
-      "url": "https://open.spotify.com/track/6HxBwfVXPdUSvwPNNShP7r"
+      "duration_ms": 202592,
+      "name": "Satan, We\u2019re Gonna Tear Your Kingdom Down",
+      "url": "https://open.spotify.com/track/5s5URjHYRVt5oyp2gdlB7h"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Let's Come Together (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3UQCOKIT56ZtC6psjOkM4C"
+        "name": "Spiritual Love",
+        "url": "https://open.spotify.com/album/2ZM2n33UPmwi3QELrJxwTf"
       },
       "artists": [
         {
-          "name": "Kevin LeVar & One Sound",
-          "url": "https://open.spotify.com/artist/3HOKc357yCWVEJddlHLGbI"
+          "name": "Trin-I-Tee 5:7",
+          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
         }
       ],
-      "duration_ms": 301226,
-      "name": "A Heart That Forgives",
-      "url": "https://open.spotify.com/track/7D0M9iVc5ayttzlJ4CODDj"
+      "duration_ms": 274106,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/05UKr3INW51Ca3ZGZK0tcw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Soul Music",
-        "url": "https://open.spotify.com/album/4lEmLxu45Tk5hs33Y6bAjZ"
+        "name": "He Wants It All",
+        "url": "https://open.spotify.com/album/6w7WeG1qLRozpZpDI0kcRO"
       },
       "artists": [
         {
-          "name": "Lisa McClendon",
-          "url": "https://open.spotify.com/artist/3ky0VIWLRaxxAyq3f8KWd1"
+          "name": "Forever Jones",
+          "url": "https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q"
         }
       ],
-      "duration_ms": 191400,
-      "name": "The Truth Is...",
-      "url": "https://open.spotify.com/track/6TYNUH3JcWkq46XM4VQeTa"
+      "duration_ms": 190106,
+      "name": "He Wants It All - Acoustic Version",
+      "url": "https://open.spotify.com/track/5bX3vgQue9xORVIJI8eEM7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Will Fix It (Trouble In My Way)",
+        "url": "https://open.spotify.com/album/5kwykZUsyHdpcRaflSv7XC"
+      },
+      "artists": [
+        {
+          "name": "Shontelle Norman-Beatty",
+          "url": "https://open.spotify.com/artist/7v8SIpv9peJmgRSROMQ2NX"
+        }
+      ],
+      "duration_ms": 248008,
+      "name": "Jesus Will Fix It (Trouble In My Way)",
+      "url": "https://open.spotify.com/track/5kvaIF6bsSQWvvDIQkU9ue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Other Foundation",
+        "url": "https://open.spotify.com/album/4izTr0mnjWcEWvFMAvOoYw"
+      },
+      "artists": [
+        {
+          "name": "Mattoon Youth Choir",
+          "url": "https://open.spotify.com/artist/26V6JarqHUYW0Td9uLa7m4"
+        }
+      ],
+      "duration_ms": 320758,
+      "name": "Oh Lord, How Excellent - The Almighty Reigns",
+      "url": "https://open.spotify.com/track/3jCRqfJdMnS5xTVpMXFo4B"
     },
     {
       "added_at": null,
@@ -743,6 +715,94 @@
       "duration_ms": 272891,
       "name": "That Will Be Good Enough For Me",
       "url": "https://open.spotify.com/track/35a3FrLspGdwSjRqpMK7Tz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Is Born",
+        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "duration_ms": 253625,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/35A5y8tHvRrLOleQDsNu76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spiritual Love",
+        "url": "https://open.spotify.com/album/2ZM2n33UPmwi3QELrJxwTf"
+      },
+      "artists": [
+        {
+          "name": "Trin-I-Tee 5:7",
+          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Spiritual Love",
+      "url": "https://open.spotify.com/track/5LbSZ9FyqpxV8Dt3bxn2DL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just James",
+        "url": "https://open.spotify.com/album/4Uq0GIcjHfK22aweAC1Wij"
+      },
+      "artists": [
+        {
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Restored",
+      "url": "https://open.spotify.com/track/4zVnnFFBGuIW9ONjsAbZeD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An Invitation to the Cookout",
+        "url": "https://open.spotify.com/album/1mxQynHQ4f4UBGnLpgJzFs"
+      },
+      "artists": [
+        {
+          "name": "Terrell Grice",
+          "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
+        },
+        {
+          "name": "Kim Cruse",
+          "url": "https://open.spotify.com/artist/5JKkaRTfSqHDBuekIcGErq"
+        },
+        {
+          "name": "Keisha Renee",
+          "url": "https://open.spotify.com/artist/3UG1w00aJyvqbJkZwgbwFA"
+        }
+      ],
+      "duration_ms": 236387,
+      "name": "Livin' my Dream",
+      "url": "https://open.spotify.com/track/1DgJRBndlOgalOMy2M02DW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh Start Worship",
+        "url": "https://open.spotify.com/album/6Jj1xMcSXGkdtBqPGVR3Tq"
+      },
+      "artists": [
+        {
+          "name": "Fresh Start Worship",
+          "url": "https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG"
+        }
+      ],
+      "duration_ms": 281959,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/5RX77RjMsNHKd8i6JCkGRt"
     },
     {
       "added_at": null,
@@ -779,62 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Invitation to the Cookout",
-        "url": "https://open.spotify.com/album/1mxQynHQ4f4UBGnLpgJzFs"
-      },
-      "artists": [
-        {
-          "name": "Terrell Grice",
-          "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
-        },
-        {
-          "name": "Kim Cruse",
-          "url": "https://open.spotify.com/artist/5JKkaRTfSqHDBuekIcGErq"
-        },
-        {
-          "name": "Keisha Renee",
-          "url": "https://open.spotify.com/artist/3UG1w00aJyvqbJkZwgbwFA"
-        }
-      ],
-      "duration_ms": 236387,
-      "name": "Livin' my Dream",
-      "url": "https://open.spotify.com/track/1DgJRBndlOgalOMy2M02DW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Other Foundation",
-        "url": "https://open.spotify.com/album/4izTr0mnjWcEWvFMAvOoYw"
-      },
-      "artists": [
-        {
-          "name": "Mattoon Youth Choir",
-          "url": "https://open.spotify.com/artist/26V6JarqHUYW0Td9uLa7m4"
-        }
-      ],
-      "duration_ms": 320758,
-      "name": "Oh Lord, How Excellent - The Almighty Reigns",
-      "url": "https://open.spotify.com/track/3jCRqfJdMnS5xTVpMXFo4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "He Wants It All",
-        "url": "https://open.spotify.com/album/6w7WeG1qLRozpZpDI0kcRO"
-      },
-      "artists": [
-        {
-          "name": "Forever Jones",
-          "url": "https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "He Wants It All - Acoustic Version",
-      "url": "https://open.spotify.com/track/5bX3vgQue9xORVIJI8eEM7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Kiss",
         "url": "https://open.spotify.com/album/23rIyUkbrvgeGebNrZM3AF"
       },
@@ -847,22 +851,6 @@
       "duration_ms": 264173,
       "name": "Sixteen Again",
       "url": "https://open.spotify.com/track/3IjjyjEZShShgbS9UwJhYU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/0KZbfUXqBRR4B22Eaof1OS"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 302160,
-      "name": "Taste and See",
-      "url": "https://open.spotify.com/track/1Jdmz4XE0LdPV5x30Wy7kt"
     }
   ],
   "unique_name": "Callie Day Radio",

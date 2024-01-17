@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 181250,
       "name": "Adore You - Acoustic",
       "url": "https://open.spotify.com/track/0JTjvbwGOoo7YIWlaAs03u"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 160019,
       "name": "Answer Phone",
       "url": "https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe"
@@ -2401,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "Everything Almost",
+        "url": "https://open.spotify.com/album/17tNCtug0gbegOqfHmwnO3"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180040,
+      "name": "Everything Almost",
+      "url": "https://open.spotify.com/track/3Y8oPDyVqlt4sVbr0wwFXe"
+    },
+    {
+      "album": {
         "name": "The Summer Isles",
         "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
       },
@@ -3740,7 +3758,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 256476,
       "name": "I miss you",
       "url": "https://open.spotify.com/track/3F1ch9CjkQdaSYIzo5LTf6"
@@ -7601,6 +7619,24 @@
     },
     {
       "album": {
+        "name": "Whaleland",
+        "url": "https://open.spotify.com/album/2s1h6j9l3AZJ8yEXAbCy4W"
+      },
+      "artists": [
+        {
+          "name": "\u3068\u307e\u3068\u304f\u3089\u3076",
+          "url": "https://open.spotify.com/artist/6gvHiE41hsCPrljYaSoQ0P"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234517,
+      "name": "Whaleland",
+      "url": "https://open.spotify.com/track/7j5HLMGvve9kfOfWAtCkpB"
+    },
+    {
+      "album": {
         "name": "When Our Love Was New",
         "url": "https://open.spotify.com/album/20FnnF4zxxqWixSnxqyrN4"
       },
@@ -8346,6 +8382,24 @@
       "duration_ms": 157983,
       "name": "\u30de\u30ea\u30fc\u30a2\u30f3",
       "url": "https://open.spotify.com/track/1DonBSaThjb3An2qmcV2T6"
+    },
+    {
+      "album": {
+        "name": "uni",
+        "url": "https://open.spotify.com/album/6WJWDTpDK5Ni6GDX239uF9"
+      },
+      "artists": [
+        {
+          "name": "\u6822\u672c\u3066\u306e",
+          "url": "https://open.spotify.com/artist/3OlZOYziekMG8FbhtU1nTF"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231905,
+      "name": "\u4e00\u89d2\u7363",
+      "url": "https://open.spotify.com/track/2ihyyQlw706XEuloPTgovZ"
     },
     {
       "album": {

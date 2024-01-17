@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,913 likes - 120 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,905 likes - 120 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 75 | [Warm](https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv) | [AO1 Collective](https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5), [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [Warm](https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC) | 2:56 |
 | 76 | [It's Christmas Time](https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk) | [Juanita Bynum](https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV) | [Christmas at Home with Juanita Bynum](https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN) | 5:03 |
 | 77 | [Silent Night](https://open.spotify.com/track/2EtIX4Jay8443y66nzTTpr) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas with Yolanda Adams](https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5) | 3:20 |
-| 78 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0kMkVBWiiErubE4fqUwZBF) | [Titus Showers](https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0rYGez2vLeVnJGrWDu80yy) | 2:40 |
-| 79 | [Silver Bells](https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Family Christmas](https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh) | 3:03 |
+| 78 | [Silver Bells](https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Family Christmas](https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh) | 3:03 |
+| 79 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0kMkVBWiiErubE4fqUwZBF) | [Titus Showers](https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0rYGez2vLeVnJGrWDu80yy) | 2:40 |
 | 80 | [With Us \(Oh Emmanuel\)](https://open.spotify.com/track/3xizrkWnSm5XHZ9HAatpbq) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 3:55 |
 | 81 | [I'll Be Home For Christmas](https://open.spotify.com/track/3oKfngho6ZWUTlWN3p5nIR) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [A Motown Gospel Christmas](https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr) | 4:40 |
 | 82 | [What a Wonderful Savior](https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo) | [Joe Pace](https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 4:58 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 119 | [Oh Come All Ye Faithful](https://open.spotify.com/track/5FMoCyIlPwmEE5mdyBCJBi) | [Twinkie Clark](https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:57 |
 | 120 | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/track/0AsURWUc8JqeILrFhCRSzx) | [Charles Butler & Trinity](https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU), [Eryka Edmund](https://open.spotify.com/artist/1VitpzYVY9vaDnqSl0wir9) | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/album/7nBbkSBamXj4ki3mlr53eY) | 5:26 |
 
-Snapshot ID: `MCwwN2MyYWVlZGExMTcxYjk1ZTEwMTI5OGRiM2QzMjRhYzY0YjU5YTFl`
+Snapshot ID: `MCw5ZTVlYjNhZGEwZDM3Y2RlNjk4ZWM2YTE2ZjRlZTRlNzU2NDA3ZjZm`

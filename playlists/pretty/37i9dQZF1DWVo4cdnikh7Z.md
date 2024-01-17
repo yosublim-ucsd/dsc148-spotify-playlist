@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Captain Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,344 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,512 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Killer Killer \(From "Captain Miller"\) \(Tamil\)](https://open.spotify.com/track/2aFg2jORQAQwny1oIivRun) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Killer Killer \(From "Captain Miller"\) \(Tamil\)](https://open.spotify.com/album/07EqQR1SJqHexUWW3UPDfX) | 3:40 |
 | 2 | [Suro Suro](https://open.spotify.com/track/2cWZSy1oeDB4F1QYRKjMg9) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Ayalaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7LaGxMvMmaBHrXGN43v6J2) | 3:52 |
 | 3 | [Ae Pulla \(From "Lal Salaam"\)](https://open.spotify.com/track/0Qe8uzIYTnnz4BOJw4Hki7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ae Pulla \(From "Lal Salaam"\)](https://open.spotify.com/album/6oFnu5xpV7fCXJMiAODder) | 4:40 |
-| 4 | [Rise of Miller \(From "Captain Miller"\)](https://open.spotify.com/track/03nDSAVLih3c37mTPz0vqX) | [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Rakendu Mouli](https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8) | [Rise of Miller \(From "Captain Miller"\)](https://open.spotify.com/album/4yAmusyvB4xZKRaCnvFvpF) | 3:06 |
+| 4 | [Rise of Miller \(From "Captain Miller"\)](https://open.spotify.com/track/5XjW09Zha0Y0f0SUE3swep) | [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Rise of Miller \(From "Captain Miller"\)](https://open.spotify.com/album/0NOaai0nhdN581ZndcrcKp) | 3:06 |
 | 5 | [Maanja Nee](https://open.spotify.com/track/2evmZa93wRifY0BBcPW6SZ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE) | [Ayalaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7LaGxMvMmaBHrXGN43v6J2) | 3:54 |
 | 6 | [Kombari Vettapuli \(From "Captain Miller"\)](https://open.spotify.com/track/5I5UHofyht01Idg7KXcjWe) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Kombari Vettapuli \(From "Captain Miller"\)](https://open.spotify.com/album/2KZ00vSugPSwx9v0OmpPCo) | 3:16 |
 | 7 | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/track/2r0ROhr7pRN4MXDMT1fEmd) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/album/1zPUq6zLrJyDUtNJBN7eQh) | 1:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 74 | [Kannaadi Kannaadi \(From "Hi Nanna"\)](https://open.spotify.com/track/4U6rjLWPkdUU3ODZXZspmL) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Kannaadi Kannaadi \(From "Hi Nanna"\)](https://open.spotify.com/album/5ovYPt9KwUGWqG13d9x93O) | 4:26 |
 | 75 | [World of Mark Antony](https://open.spotify.com/track/68Z5GxnGY1zVVBal98Dccv) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Mark Antony \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rSrWBBdwHj62zX7bqAWfN) | 1:02 |
 
-Snapshot ID: `MCxlZTBjMjllOTZiNzA0ZTM0ZmE3OGI2ZDVkNGE3MWUwMzEwYjA4MWVm`
+Snapshot ID: `MCw0MzZjNGJiZTJiOGY4MzkxZGIxMzIyMzllNTg5YzAxODY5YjMwYWE3`

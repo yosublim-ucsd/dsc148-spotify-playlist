@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 
 > 🔥 All the hottest hip hop tracks in one spot! Featuring: <a href="https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ?si=\-bxSNr4lRvqjq2NTBmpykA">Jack Harlow</a>, Gunna, Gucci Mane,  Lil Uzi Vert,  Young Thug, A Boogie Wit da Hoodie,  Rundown Spaz, &amp; many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 39,478 likes - 50 songs - 2 hr 17 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 39,474 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 2 | [Loop Hole \(feat\. 21 Savage\)](https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Tee's Coney Island](https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP) | 2:31 |
-| 3 | [Nash n Dirk \(feat\. BabyTron\)](https://open.spotify.com/track/3svqa1eDB8ezS2cDD4NakK) | [Brezden](https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt), [Babytron](https://open.spotify.com/artist/39U3qDi3cLVhCEmfyP86YB) | [Nash n Dirk \(feat\. BabyTron\)](https://open.spotify.com/album/6zhsxQCBNlgpy8VFWa1Wsk) | 2:41 |
+| 3 | [Nash n Dirk \(feat\. BabyTron\)](https://open.spotify.com/track/3svqa1eDB8ezS2cDD4NakK) | [Brezden](https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Nash n Dirk \(feat\. BabyTron\)](https://open.spotify.com/album/6zhsxQCBNlgpy8VFWa1Wsk) | 2:41 |
 | 4 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
 | 5 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 |
 | 6 | [Guwop & Gizzle](https://open.spotify.com/track/3GwwZmjEAo65jUZSQveNvJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS) | [Choppers & Bricks](https://open.spotify.com/album/4vh7MpK3M6L9B63R6u2sGs) | 3:05 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 48606,
+  "2024-01-17": 48634,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Morocco.",
   "name": "Top 50 - Morocco",
@@ -8162,6 +8162,24 @@
     },
     {
       "album": {
+        "name": "GALBI",
+        "url": "https://open.spotify.com/album/34qpy7aaMYzjDyDVW1JUps"
+      },
+      "artists": [
+        {
+          "name": "Ali S",
+          "url": "https://open.spotify.com/artist/6L7RfKlbIHQPxKbLizN9ts"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163137,
+      "name": "GALBI",
+      "url": "https://open.spotify.com/track/4q91om1qd8t7EvzbHhTSF3"
+    },
+    {
+      "album": {
         "name": "Galbi Khasah Molah",
         "url": "https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT"
       },
@@ -9113,7 +9131,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 183053,
       "name": "HASH N' BLEM (feat. Unknown T)",
       "url": "https://open.spotify.com/track/0k2szier9Q8lboIphfqaNh"
@@ -13323,7 +13341,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 191827,
       "name": "Love",
       "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
@@ -19146,6 +19164,24 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -20885,7 +20921,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 185514,
       "name": "SOUVENIRS",
       "url": "https://open.spotify.com/track/2RdFjBnr4vPvUDHoYhzeDs"
@@ -24579,7 +24615,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 157240,
       "name": "WOW",
       "url": "https://open.spotify.com/track/1cJU70ZNnJt6Mj4hl9G2u7"

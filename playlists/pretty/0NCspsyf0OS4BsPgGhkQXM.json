@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2034393,
+  "num_followers": 2034513,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQzOTMsMzIwYjQyZmVkMTQ5MjMzZDhhMDc3MGVlZWE5NTZiY2M2YTdmNTZhYw==",
+  "snapshot_id": "MTQzOTUsZGU2OGFiMTAyMDdhOWYzNDMwOGYwYjc3ZDAyZmExMDNiNDEwZWIwOA==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -919,6 +919,26 @@
       "duration_ms": 224210,
       "name": "GUD VIBRATIONS",
       "url": "https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp"
+    },
+    {
+      "added_at": "2024-01-16 18:36:05",
+      "album": {
+        "name": "BYE BYE!",
+        "url": "https://open.spotify.com/album/0ZE5fMneYtdl93X1GHqxSH"
+      },
+      "artists": [
+        {
+          "name": "PXRKX",
+          "url": "https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4"
+        },
+        {
+          "name": "RZXT!",
+          "url": "https://open.spotify.com/artist/5hfVobwxTC73whNVhzwlcP"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "BYE BYE!",
+      "url": "https://open.spotify.com/track/17Nc99PG4IF49K5H8uNEQi"
     },
     {
       "added_at": "2023-09-06 04:03:55",

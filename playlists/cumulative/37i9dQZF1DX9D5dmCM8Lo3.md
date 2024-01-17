@@ -4,7 +4,7 @@
 
 > would you like to save before closing?
 
-120 songs - 5 hr 52 min
+121 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,8 +94,9 @@
 | [paranoia](https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx) | 1:57 | 2023-07-18 |  |
 | [Partymonst3r](https://open.spotify.com/track/40JKHWIqZ6Yhvi13Va054H) | [Yesterdayneverhappened](https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh) | [twilight princess](https://open.spotify.com/album/5inmxPZxsMZIq9GJRJEQtg) | 2:41 | 2022-03-02 | 2023-06-13 |
 | [Pick a Seat](https://open.spotify.com/track/1jbGAVF3cTvh1nGZW1DHuF) | [Docx](https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj) | [I8](https://open.spotify.com/album/6bsNlLoY9chgUrwyLMCgnC) | 4:12 | 2022-03-06 | 2023-06-13 |
-| [Pink Origins](https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Pink Origins](https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H) | 2:17 | 2022-03-02 |  |
+| [Pink Origins](https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Pink Origins](https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H) | 2:17 | 2022-03-02 | 2024-01-17 |
 | [PPPP PaPiPuPePo](https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD) | [emamouse](https://open.spotify.com/artist/4dJoDugNSycsvrfS5TAsx7) | [PPPP PaPiPuPePo](https://open.spotify.com/album/5GfPmmrh30B8UxVeauXCr6) | 3:28 | 2022-03-02 | 2023-06-13 |
+| [Pretty Cvnt](https://open.spotify.com/track/6ZvXnnLiYq8IWZMfekH0Jn) | [725](https://open.spotify.com/artist/2OLCz6M82gOFqBo5rNkg4f) | [Pretty Cvnt](https://open.spotify.com/album/6ZdFfqYl6RnEb1Cu7DKYd3) | 3:40 | 2023-07-18 |  |
 | [Pretty Cvnt](https://open.spotify.com/track/0hz0bTQC2VVb4CEjLxmKiH) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Sewer//slvt](https://open.spotify.com/album/4H8zRNpiAfbdJxCgWMqosu) | 3:40 | 2022-03-02 | 2022-08-25 |
 | [Pretty Cvnt](https://open.spotify.com/track/2zFfwBk2frngZUVajhkbxf) | [shya](https://open.spotify.com/artist/4pED9bj1zFjI6tpBV3ilLe) | [Sewer//Slvt](https://open.spotify.com/album/1b1tJ7nzqwsCyhtHDGBTHw) | 3:40 | 2022-03-02 | 2022-10-28 |
 | [Pretty Cvnt](https://open.spotify.com/track/4aonVufCxoIUqqSEDc6KCs) | [swelavin](https://open.spotify.com/artist/5cIopFMTkAGk0w0MgSXC0n) | [Pretty Cvnt](https://open.spotify.com/album/52mqwizCJozEgmbGDHMcLN) | 3:40 | 2022-03-02 | 2022-08-11 |

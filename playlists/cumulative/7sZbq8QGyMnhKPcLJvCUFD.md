@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-482 songs - 1 day 0 hr 47 min
+483 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Limitless](https://open.spotify.com/track/0rw2up89gUnQRD8mUXjrm1) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu) | [Limitless](https://open.spotify.com/album/1immYAVOJxgJnZh4iKuJtP) | 4:04 | 2023-08-08 | 2023-12-14 |
 | [Link](https://open.spotify.com/track/4jEFJciScnN2AVmUlxuuxW) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Link](https://open.spotify.com/album/1flrjf18ia3KTFcTcdpx4l) | 3:44 | 2023-08-08 | 2023-12-14 |
 | [Linked](https://open.spotify.com/track/7yfhESjiagb2x1WEWlgpbb) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z) | [Linked](https://open.spotify.com/album/1mGlEwLKAOXtdRvkdyYzTY) | 3:43 | 2023-08-08 |  |
-| [Loneliness](https://open.spotify.com/track/0c2IOjZnVajRBMIQSYq2jZ) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Loneliness](https://open.spotify.com/album/5VDhzUtDHlYjrSBNn9HHSx) | 2:16 | 2023-08-25 |  |
+| [Loneliness](https://open.spotify.com/track/0c2IOjZnVajRBMIQSYq2jZ) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Loneliness](https://open.spotify.com/album/5VDhzUtDHlYjrSBNn9HHSx) | 2:16 | 2023-08-25 | 2024-01-17 |
 | [Lonely Hour](https://open.spotify.com/track/1uqVKaE5nMAf5GLQGSglly) | [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Lonely Hour](https://open.spotify.com/album/0jFbYifq12XTyvYpKw1wF1) | 2:09 | 2023-06-23 | 2023-08-10 |
 | [LOOK AT ME!](https://open.spotify.com/track/0Ll9cyI1ZfDXRqeatIVHc2) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [LOOK AT ME!](https://open.spotify.com/album/4IoK5B9QJONah9n0d1MurH) | 3:02 | 2023-05-23 | 2023-08-10 |
 | [Losing](https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Losing](https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad) | 2:41 | 2022-12-08 | 2023-08-10 |
@@ -262,6 +262,7 @@
 | [Lost](https://open.spotify.com/track/0kjlUvExDoEcubLyo2VY9l) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Lost](https://open.spotify.com/album/1LOfcHJVo5BMjcn0qQmRz7) | 2:37 | 2023-08-08 |  |
 | [Lost In The Middle](https://open.spotify.com/track/73Ir0ULVmuRYLlg9MH4yYG) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Lost In The Middle](https://open.spotify.com/album/38GI8CmepSQ8Pfihwhk3dN) | 4:02 | 2023-05-19 | 2023-08-28 |
 | [Lost Without You](https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Lost Without You](https://open.spotify.com/album/6QTpinuLRrO0P9cV8ZJCSx) | 3:44 | 2022-03-24 | 2023-04-28 |
+| [Love U](https://open.spotify.com/track/7qKXidnk1oaOl0DKAobGib) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Keep](https://open.spotify.com/album/11gPSu8vh1e4velnMh8VOr) | 3:58 | 2024-01-16 |  |
 | [Make Me Move](https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Make Me Move](https://open.spotify.com/album/1ON1B59MqwPAJXVLw3E43j) | 3:17 | 2023-08-08 |  |
 | [Make Waves](https://open.spotify.com/track/3gzZPhXOL166nTTaEwqI4c) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [Brynja Mary](https://open.spotify.com/artist/0WuACeytMF6zC8L8prNB0y) | [Make Waves](https://open.spotify.com/album/60aJkIg8ZAtPDMBbvrqAfM) | 3:09 | 2023-02-16 | 2023-08-10 |
 | [Marcheur](https://open.spotify.com/track/1sYlEY1HlO9fywssI0siXX) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Marcheur](https://open.spotify.com/album/2tvntXVzem4r9weTdSzrcA) | 4:06 | 2023-12-13 |  |

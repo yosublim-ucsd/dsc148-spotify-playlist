@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-168 songs - 12 hr 57 min
+169 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Forward](https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Forward / Wreck Dive](https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN) | 3:16 | 2022-07-01 |  |
 | [Fountain \(ars amatoria\)](https://open.spotify.com/track/4tuK95S2K07yPnMYJiMnlH) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Vessel](https://open.spotify.com/artist/3CVP7vT9JUFGLj8MgiVKjY) | [Fountain \(ars amatoria\)](https://open.spotify.com/album/0hGiFp2Ac0VzhFDQCodUFG) | 7:27 | 2022-05-18 | 2023-01-07 |
 | [From the Sea](https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig) | [Serena Gabriel](https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR), [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Seeing Inside](https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF) | 11:47 | 2022-05-18 | 2023-12-24 |
+| [From the Sea](https://open.spotify.com/track/6eIpAbDfohKsMLm5por9p4) | [Serena Gabriel](https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR), [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Seeing Inside](https://open.spotify.com/album/0HfWFQqIRjrUiCBemtweKJ) | 11:47 | 2023-10-12 |  |
 | [Frontier](https://open.spotify.com/track/3KYC7CK4Itjy7UXn1BaW67) | [Holly Herndon](https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ) | [PROTO](https://open.spotify.com/album/29sozE8XDMOHT8KK9iq4Fo) | 4:29 | 2022-05-18 |  |
 | [Fur & Feather](https://open.spotify.com/track/1V9na2MEGjOajhK1fTJRpS) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/17i8UBmNkp5UY0CLRHokyk) | 3:04 | 2022-12-02 | 2023-02-01 |
 | [Fur & Feather](https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 3:04 | 2022-05-18 | 2022-07-29 |
@@ -120,7 +121,7 @@
 | [No tiempo](https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:35 | 2022-10-10 |  |
 | [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-05 | 2022-10-21 |
 | [Nocturnal](https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN) | [Fiona Brice](https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT) | [And You Know I Care](https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ) | 4:49 | 2022-12-02 |  |
-| [O Ignee Spriritus](https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:26 | 2022-05-18 |  |
+| [O Ignee Spriritus](https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:26 | 2022-05-18 | 2024-01-17 |
 | [Ocean](https://open.spotify.com/track/6ZacLLHoOCwFun1fTXrQFG) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:28 | 2022-12-02 | 2023-01-29 |
 | [Ode to the blue](https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ode to the blue](https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO) | 2:53 | 2022-05-18 |  |
 | [Olga](https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:02 | 2022-09-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Kelsey Hart, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,109 likes - 42 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,176 likes - 42 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 41 | [Lightning In A Bottle](https://open.spotify.com/track/4GShWDhg0Owxov6D3e3y3l) | [Mike Parker](https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m) | [Lightning In A Bottle](https://open.spotify.com/album/1XvkvVgxyM9MeI7A6MoZeW) | 2:50 |
 | 42 | [All Night Longer](https://open.spotify.com/track/2ZyUI5u4aeGZKhOl8cqehj) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [All Night Longer](https://open.spotify.com/album/5jKe6XfmMaepzDQlJMwRTN) | 2:55 |
 
-Snapshot ID: `MCw2YzBjYTdjMWIwYzhkMDlkZDIzYTFlNGEyMjcyM2E2NWExZDFhNmU1`
+Snapshot ID: `MCxlY2RiNTI4YTFlMzVkNDQ4NjJjZGEwM2JkYjRmOWM2MWUwZDhjYmZh`

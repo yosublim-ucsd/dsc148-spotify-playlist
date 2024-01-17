@@ -1,5 +1,5 @@
 {
-  "2024-01-16": 8298,
+  "2024-01-17": 8312,
   "date_first_scraped": "2023-04-07",
   "description": "Fresh gospel music from Ghana. Cover: Joyce Blessing ",
   "name": "Aseda",
@@ -211,6 +211,24 @@
       "duration_ms": 256750,
       "name": "Aseda",
       "url": "https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1"
+    },
+    {
+      "album": {
+        "name": "The Awakening (Alpha Edition)",
+        "url": "https://open.spotify.com/album/4LLnxDNz2HsBKM0GhXfXaC"
+      },
+      "artists": [
+        {
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486295,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/4ppSvQRAPYr3sRP9KQPBaD"
     },
     {
       "album": {
@@ -733,7 +751,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 372240,
       "name": "Me Dan Wo (feat. Kweku Teye)",
       "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 219824,
       "name": "Testimony - Acoustic",
       "url": "https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7"
@@ -1293,6 +1311,28 @@
       "duration_ms": 288990,
       "name": "Turning Around(Live)",
       "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
+    },
+    {
+      "album": {
+        "name": "Unconditional Love (feat. Niiella)",
+        "url": "https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Niiella",
+          "url": "https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226017,
+      "name": "Unconditional Love (feat. Niiella)",
+      "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: The Strumbellas
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,614 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,581 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [The End](https://open.spotify.com/track/5GLkDPQvFqsFgtiVkfbhx2) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [The End](https://open.spotify.com/album/0lKrUfcWPN31tzv9Fi7IAs) | 2:54 |
 | 100 | [Broken Hearted](https://open.spotify.com/track/0qUkLPmdkTAEqcT6Bl5Lok) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Broken Hearted](https://open.spotify.com/album/31nzRdy29f41xSsV1ConUk) | 3:10 |
 
-Snapshot ID: `MCw3NTZhZTI5MmE4NGVhYzk0YWE2MmFjZjY0OTg5ZWQ0NTRkNGFiNDFm`
+Snapshot ID: `MCxmN2IwYjJhMzk5NWZiMDI5MjczN2YyZWEyNjY0NzNjN2YzMTA2M2Nl`
