@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,392,631 likes - 100 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,392,785 likes - 100 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [melanin](https://open.spotify.com/track/00GgVbUzNfwknUJN0XSuh1) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [22Joeyy](https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja) | 2:20 |
 | 100 | [CODEINE CRAZY](https://open.spotify.com/track/7FoNUT1v6tCzGna2yZvVY3) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [CODEINE CRAZY](https://open.spotify.com/album/4tNzC4wdMxmqFQQ3ZAOdIU) | 2:37 |
 
-Snapshot ID: `MCxkMzQ0MWNhODRjMGUwNTk5ODk0YmViZDE4OGEzOTgyODgyYmM2NWIx`
+Snapshot ID: `MCxmZTBiNTgyODdjYjU1MGQ0MmFhZDNiZjI1ZWU1Y2I3NDFiMWE3NWI5`

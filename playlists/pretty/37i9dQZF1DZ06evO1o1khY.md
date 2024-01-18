@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,162 likes - 35 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,173 likes - 35 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 27 | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m) | 2:18 |
 | 28 | [Outside](https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Niki Pooh](https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX) | [Outside](https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC) | 2:35 |
 | 29 | [Gang Nem](https://open.spotify.com/track/6klLjDbLFjIINFcNSkgnTZ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Gang Nem](https://open.spotify.com/album/3yFLxnWLRK4nUfq4XpU4au) | 2:43 |
-| 30 | [Big Shit \- Prod\. by Sunny Gob](https://open.spotify.com/track/7LrEMRvMU0UnNWjuZuHacj) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sunny Gob](https://open.spotify.com/artist/78ZZffmlwqaR1NNoYKRnFo) | [Big Shit](https://open.spotify.com/album/47iTiC280nbUCYKSexLoAO) | 2:20 |
-| 31 | [OOOHH](https://open.spotify.com/track/1qJvi5YfZTRQcdzrqD4oT4) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gloss Up](https://open.spotify.com/artist/1U5XNJxVpvBL6HJCK1vPhR), [Stmg](https://open.spotify.com/artist/1McizXN31c3hgEgPbRMoJ2) | [OOOHH](https://open.spotify.com/album/51Q9lpFEfU4iyXOgtSo7E1) | 3:15 |
+| 30 | [OOOHH](https://open.spotify.com/track/1qJvi5YfZTRQcdzrqD4oT4) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gloss Up](https://open.spotify.com/artist/1U5XNJxVpvBL6HJCK1vPhR), [Stmg](https://open.spotify.com/artist/1McizXN31c3hgEgPbRMoJ2) | [OOOHH](https://open.spotify.com/album/51Q9lpFEfU4iyXOgtSo7E1) | 3:15 |
+| 31 | [Big Shit \- Prod\. by Sunny Gob](https://open.spotify.com/track/7LrEMRvMU0UnNWjuZuHacj) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sunny Gob](https://open.spotify.com/artist/78ZZffmlwqaR1NNoYKRnFo) | [Big Shit](https://open.spotify.com/album/47iTiC280nbUCYKSexLoAO) | 2:20 |
 | 32 | [R\-A\-T\-C\-H\-E\-T \(FNF FREESTYLE\) \- Remix](https://open.spotify.com/track/5CbtJ0GNYO7wlybagnOLrg) | [Nosym](https://open.spotify.com/artist/0nKzbENsP5VM3J28NTNxQ4), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [R\-A\-T\-C\-H\-E\-T \(FNF FREESTYLE\) \[Remix\]](https://open.spotify.com/album/2cMuNulihFoYJFPwWaNHtr) | 2:30 |
 | 33 | [Better Thangs \(with Summer Walker & GloRilla\) \- Remix](https://open.spotify.com/track/0xUZ8H6dtWmXRTyqgRkkTO) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Better Thangs \(Remix\)](https://open.spotify.com/album/5Ekjip2Vx87beFHsrKDCWt) | 3:35 |
 | 34 | [You Ain't Shit](https://open.spotify.com/track/5DE3GqkM204y8eS2AAhujh) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [You Ain't Shit](https://open.spotify.com/album/1OacT8jeOurJExUtAUf2M9) | 3:40 |
 | 35 | [Afford Me](https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [JaTavia Akiaa](https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll) | [Afford Me](https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ) | 3:29 |
 
-Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDBmOTViMzhmNTg0MjMzNDU2Y2E3ODFiNmQ1OGFmZjU3Ng==`
+Snapshot ID: `Mjg0MjQ4NzcsMDAwMDAwMDA3YTE3ZTM1ZDA3ZjE0NzIxZWFmNzQ1OTZjOGQwNTJhNQ==`

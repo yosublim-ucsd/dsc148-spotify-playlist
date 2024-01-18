@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Delilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,425 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,435 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 24 | [Doble Cara](https://open.spotify.com/track/34JKjmlyDO77UInQberpSS) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [De Frente](https://open.spotify.com/album/3xiQ5jIpSuaFZOZJJtEfHI) | 3:49 |
 | 25 | [Bendecido](https://open.spotify.com/track/4BD6URiRxROzGO4kITMYhR) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Bendecido](https://open.spotify.com/album/4o0eJ66HdL5skDYs9CnOql) | 3:04 |
 | 26 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 |
-| 27 | [Solo Lo Logré](https://open.spotify.com/track/6p22iJdSMaMxtorl9foiQW) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [El Primo](https://open.spotify.com/artist/6Se57Y0JTwcAJQeNXLmjwr) | [Solo Lo Logré](https://open.spotify.com/album/4nZSTOOxHBRCCHvFQuGGCx) | 2:49 |
+| 27 | [Solo Lo Logré](https://open.spotify.com/track/6p22iJdSMaMxtorl9foiQW) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [El Primo](https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8) | [Solo Lo Logré](https://open.spotify.com/album/4nZSTOOxHBRCCHvFQuGGCx) | 2:49 |
 | 28 | [Besito Con Humo](https://open.spotify.com/track/463TMJNU67VDASLEHRGZmU) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Besito Con Humo](https://open.spotify.com/album/6RLEUN4DBKqaKJiti4TP0H) | 2:25 |
 | 29 | [Porqué No Le Dices](https://open.spotify.com/track/3sjYYiN6ZqlEDffsogmnSc) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Porqué No le Dices](https://open.spotify.com/album/7134eOCyvXpXG7xlDjPPqz) | 4:00 |
 | 30 | [Tal Vez](https://open.spotify.com/track/29FsuKnbCrHD9JChkrpK9W) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Tal Vez](https://open.spotify.com/album/2TYhUcY7yfCsKr9pUhQ1en) | 2:53 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [+Linda](https://open.spotify.com/track/72VZQD3XRqAUzi1EoOOTf6) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [+Linda](https://open.spotify.com/album/7nVscG0aRHuE4rcEkwtMes) | 3:15 |
 | 60 | [Muy Tarde](https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H) | [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casa Lumbre](https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR) | 3:09 |
 
-Snapshot ID: `MCwwMTRhODBjYThmYmE0NGVkZWUyN2JmMTZkMTM0M2Q2OGExM2Q3MmMz`
+Snapshot ID: `MCw2ODkxNjZkYTc2ZjdlNDg1ZGQ3OTRlNTNmNDE3YTU5Yzg2MDlkMDAw`

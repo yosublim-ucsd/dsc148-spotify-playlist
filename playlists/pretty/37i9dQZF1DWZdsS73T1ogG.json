@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Omar Courtz\n",
-  "num_followers": 513316,
+  "num_followers": 513341,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjk2YzIxMDZkODRlYjU3NzZiNGYzYjk0MzRkZWVmNDU5NjVkMjk5",
+  "snapshot_id": "MCw3MTE4YjYxOGYxYzkxOTZlZWQ3ZWE3N2E2NjJjMDY5ZDgyY2VjZjgx",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Mal Hombre",
-        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 162061,
-      "name": "Mal Hombre",
-      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "El Plan",
         "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 226725,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Mal Hombre",
+        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 162061,
+      "name": "Mal Hombre",
+      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "RealG4Life Vol. 4",
+        "url": "https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 143346,
+      "name": "Apocalipsis",
+      "url": "https://open.spotify.com/track/7z5cZCDpaqLy71SqfS0YbJ"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Partyson",
         "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "RealG4Life Vol. 4",
-        "url": "https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx"
+        "name": "X'CLUSIVO",
+        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
       },
       "artists": [
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
         }
       ],
-      "duration_ms": 143346,
-      "name": "Apocalipsis",
-      "url": "https://open.spotify.com/track/7z5cZCDpaqLy71SqfS0YbJ"
+      "duration_ms": 175586,
+      "name": "X'CLUSIVO",
+      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -903,22 +919,6 @@
       "duration_ms": 180360,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "X'CLUSIVO",
-        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "X'CLUSIVO",
-      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "RT",
+        "url": "https://open.spotify.com/album/1yChiQarpQkO3rSdnlM9q6"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "duration_ms": 175130,
+      "name": "RT",
+      "url": "https://open.spotify.com/track/4riHDP6yxNHSbnSfc2r5Jm"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "3ple X (Radio Edit)",
         "url": "https://open.spotify.com/album/1Ah1jnwVoENBApJqSargQd"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 211084,
       "name": "3ple X - Radio Edit",
       "url": "https://open.spotify.com/track/2lDi1sm9zSkmBwkuLUjZND"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "RT",
-        "url": "https://open.spotify.com/album/1yChiQarpQkO3rSdnlM9q6"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        }
-      ],
-      "duration_ms": 175130,
-      "name": "RT",
-      "url": "https://open.spotify.com/track/4riHDP6yxNHSbnSfc2r5Jm"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "BBY BOO",
+        "url": "https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "BBY BOO",
+      "url": "https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Merry Remix",
         "url": "https://open.spotify.com/album/0Lg66u1y0YsFw4O6GkAVzg"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 282346,
       "name": "Merry Remix",
       "url": "https://open.spotify.com/track/5fEL5j5BeLYP3gmKCH5RoP"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "BBY BOO",
-        "url": "https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "BBY BOO",
-      "url": "https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Tu Voz",
+        "url": "https://open.spotify.com/album/1s13sfeodGFEldVyphkLly"
+      },
+      "artists": [
+        {
+          "name": "GioBulla",
+          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/3xbJOrT68TJFr8qt9jljDc"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "NO BINARIA",
         "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
       },
@@ -1859,18 +1875,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Tu Voz",
-        "url": "https://open.spotify.com/album/1s13sfeodGFEldVyphkLly"
+        "name": "Fria",
+        "url": "https://open.spotify.com/album/1PSSRB5TtWj7MIKTyi98Zn"
       },
       "artists": [
         {
-          "name": "GioBulla",
-          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp"
         }
       ],
-      "duration_ms": 197938,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/3xbJOrT68TJFr8qt9jljDc"
+      "duration_ms": 149032,
+      "name": "Fria",
+      "url": "https://open.spotify.com/track/7iIREj4nlpvuDQqhj1DB4e"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1891,22 +1907,6 @@
       "duration_ms": 184164,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/3MjArU94DzHn4xK3OBZtz7"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Fria",
-        "url": "https://open.spotify.com/album/1PSSRB5TtWj7MIKTyi98Zn"
-      },
-      "artists": [
-        {
-          "name": "Milly",
-          "url": "https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp"
-        }
-      ],
-      "duration_ms": 149032,
-      "name": "Fria",
-      "url": "https://open.spotify.com/track/7iIREj4nlpvuDQqhj1DB4e"
     },
     {
       "added_at": "2024-01-12 05:00:00",

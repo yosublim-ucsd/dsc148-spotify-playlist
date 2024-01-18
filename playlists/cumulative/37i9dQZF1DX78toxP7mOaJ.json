@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "BACKSTABBER",
+        "url": "https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM"
+      },
+      "artists": [
+        {
+          "name": "Ergo, Bria",
+          "url": "https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188808,
+      "name": "BACKSTABBER",
+      "url": "https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R"
+    },
+    {
+      "album": {
         "name": "Backstep",
         "url": "https://open.spotify.com/album/4QlvXHr4MvO9RA3LZ19jsK"
       },
@@ -3697,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "Ceremonia",
+        "url": "https://open.spotify.com/album/5HQvmkIIS9p9usaySiXESE"
+      },
+      "artists": [
+        {
+          "name": "Blanket",
+          "url": "https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178679,
+      "name": "Ceremonia",
+      "url": "https://open.spotify.com/track/0Wh5hRYITjXnNsmfrcInyc"
+    },
+    {
+      "album": {
         "name": "Chains",
         "url": "https://open.spotify.com/album/7BugvsnTSyxg7jwbchyA2H"
       },
@@ -4502,7 +4538,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 223771,
       "name": "Crashing Through",
       "url": "https://open.spotify.com/track/3KO92UFKrYFiPxC7Je8vop"
@@ -8615,6 +8651,24 @@
     },
     {
       "album": {
+        "name": "Happy Place",
+        "url": "https://open.spotify.com/album/2Sw37tiYbuMHqYAeKcWUxI"
+      },
+      "artists": [
+        {
+          "name": "Chloe Star",
+          "url": "https://open.spotify.com/artist/3ZHw3I3ggo9ILmaxntFkMF"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Happy Place",
+      "url": "https://open.spotify.com/track/1XCyRASRZQpKVRU0V7Z18b"
+    },
+    {
+      "album": {
         "name": "Hard to Find",
         "url": "https://open.spotify.com/album/7pj46yLxzEifMJlt8wA71a"
       },
@@ -10230,7 +10284,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 171215,
       "name": "I Thought You'd Change",
       "url": "https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP"
@@ -10544,7 +10598,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 140293,
       "name": "If Only You Knew",
       "url": "https://open.spotify.com/track/7qOmxHqPGd1tPEI9CbGlnA"
@@ -13045,6 +13099,24 @@
     },
     {
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/0bkhNIe24XoYr1lDrbxGYT"
+      },
+      "artists": [
+        {
+          "name": "The Thing",
+          "url": "https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/7psutBuseT6JzAqmwtEw2k"
+    },
+    {
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/49N8zIt59qbdnRkY9urIwG"
       },
@@ -14494,6 +14566,28 @@
       "duration_ms": 119224,
       "name": "NUMBER",
       "url": "https://open.spotify.com/track/6InDikmZy2kOIzJTDVPxxW"
+    },
+    {
+      "album": {
+        "name": "Oddly Enough",
+        "url": "https://open.spotify.com/album/2mwK3K2XDwk1U0umEjtS9b"
+      },
+      "artists": [
+        {
+          "name": "Seago",
+          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
+        },
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165662,
+      "name": "Oddly Enough",
+      "url": "https://open.spotify.com/track/0wTRA4l4kRHoG7qR29vvXi"
     },
     {
       "album": {
@@ -17596,7 +17690,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 138170,
       "name": "Siphon",
       "url": "https://open.spotify.com/track/3GkzwxTB7kP5sH9oGX5Jlr"
@@ -20103,6 +20197,24 @@
     },
     {
       "album": {
+        "name": "the mom song",
+        "url": "https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152435,
+      "name": "the mom song",
+      "url": "https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV"
+    },
+    {
+      "album": {
         "name": "Heal My Head",
         "url": "https://open.spotify.com/album/18dzUk1Jw12nmH3STO659R"
       },
@@ -20658,7 +20770,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 336341,
       "name": "Tongues ii",
       "url": "https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O"
@@ -21044,7 +21156,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 299136,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj"
@@ -22057,6 +22169,24 @@
     },
     {
       "album": {
+        "name": "Where We've Been",
+        "url": "https://open.spotify.com/album/6ZADkFBIE0TDXapyOthWL0"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315633,
+      "name": "Where We've Been",
+      "url": "https://open.spotify.com/track/1roZVHlL8RR4s6cdrHl2qZ"
+    },
+    {
+      "album": {
         "name": "Where's My Phone (feat. Krist Novoselic)",
         "url": "https://open.spotify.com/album/68KbggGHmm8gvISpEtwnd5"
       },
@@ -22722,7 +22852,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 252000,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/0Pc96fSG0Iv6DaX1HMX1xk"

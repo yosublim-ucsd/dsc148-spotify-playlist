@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 675983,
+  "num_followers": 676712,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWQ2NDBmZDA5M2JiMjAzM2ZkNWM1NTJkMjA1MTRlMzJhNTc1MGEy",
+  "snapshot_id": "MCw0NDM0ZjhmYjc0ZmNjMmI2N2JmZjRlOWQ4MWJlZjJiN2FhYmVlNjZk",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Diesel And Dust",
-        "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
-      },
-      "artists": [
-        {
-          "name": "Midnight Oil",
-          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Beds Are Burning - Remastered",
-      "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Look Sharp! (Extended Version)",
@@ -979,6 +963,22 @@
       "duration_ms": 237320,
       "name": "The Look",
       "url": "https://open.spotify.com/track/2oWMI54r0qT4N8Xb4C76vq"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Diesel And Dust",
+        "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
+      },
+      "artists": [
+        {
+          "name": "Midnight Oil",
+          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Beds Are Burning - Remastered",
+      "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "It's My Life",
@@ -1079,6 +1063,22 @@
       "duration_ms": 275533,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Tiffany",
-        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+        "name": "True Confessions (Collector's Edition)",
+        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
       },
       "artists": [
         {
-          "name": "Tiffany",
-          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
         }
       ],
-      "duration_ms": 228840,
-      "name": "I Think We're Alone Now",
-      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
+      "duration_ms": 229164,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1335,22 +1351,6 @@
       "duration_ms": 205533,
       "name": "Kids In America",
       "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "True Confessions (Collector's Edition)",
-        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
-      },
-      "artists": [
-        {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
-        }
-      ],
-      "duration_ms": 229164,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Live Is Life",
-        "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
-      },
-      "artists": [
-        {
-          "name": "Opus",
-          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
-        }
-      ],
-      "duration_ms": 249500,
-      "name": "Live Is Life (Digitally Remastered) (Single Version)",
-      "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 272133,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Live Is Life",
+        "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
+      },
+      "artists": [
+        {
+          "name": "Opus",
+          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
+        }
+      ],
+      "duration_ms": 249500,
+      "name": "Live Is Life (Digitally Remastered) (Single Version)",
+      "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1601,6 +1601,22 @@
       "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Points On The Curve",
+        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
+      },
+      "artists": [
+        {
+          "name": "Wang Chung",
+          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Dance Hall Days",
+      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
+    },
+    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Stompin' At The Savoy",
@@ -1619,22 +1635,6 @@
       "duration_ms": 285253,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Points On The Curve",
-        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
-      },
-      "artists": [
-        {
-          "name": "Wang Chung",
-          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Dance Hall Days",
-      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 272147,
-      "name": "Ride on Time",
-      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 272147,
+      "name": "Ride on Time",
+      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "A Flock Of Seagulls",
         "url": "https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8"
       },
@@ -2199,18 +2183,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "True (Special Edition)",
-        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
       },
       "artists": [
         {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
         }
       ],
-      "duration_ms": 290720,
-      "name": "Gold - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
+      "duration_ms": 201866,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2227,6 +2211,22 @@
       "duration_ms": 239693,
       "name": "Two of Hearts",
       "url": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "True (Special Edition)",
+        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 290720,
+      "name": "Gold - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
     },
     {
       "added_at": "2021-09-08 13:09:25",

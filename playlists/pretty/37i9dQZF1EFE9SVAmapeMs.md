@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2x9Uy8yoJIWxOslfC3vYCq">Wondagurl</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,815 likes - 57 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,816 likes - 57 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 |
+| 1 | [No Idea](https://open.spotify.com/track/1UMh84TkkryEyu0ECwpyhw) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea](https://open.spotify.com/album/5kOXQsc47kkPkMe0CnLoAu) | 2:34 |
 | 2 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 |
-| 3 | [Antidote](https://open.spotify.com/track/3JqFPlwIisEO4mnoEV99Ue) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Antidote](https://open.spotify.com/album/3bGMBH8kmodkjCO3y9ui7P) | 4:42 |
+| 3 | [Antidote](https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 4:22 |
 | 4 | [CAN'T SAY](https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:18 |
-| 5 | [90210](https://open.spotify.com/track/6EmxGRHI2BTV62BtF3z0Ct) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [90210](https://open.spotify.com/album/0tKcCIB1S0KkDAL7TqGCS4) | 5:04 |
+| 5 | [90210 \(feat\. Kacy Hill\)](https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:39 |
 | 6 | [NO BYSTANDERS](https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:38 |
 | 7 | [Mystery Lady](https://open.spotify.com/track/0bkTdkWwGk3OGFX0afD3Wj) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Studying Abroad: Extended Stay](https://open.spotify.com/album/1S0yIZRDiFmqCQyTIEV175) | 3:48 |
-| 8 | [GANG GANG](https://open.spotify.com/track/1AauIxlmueXbhqhbmzSxTy) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [GANG GANG \(Official Music Video\)](https://open.spotify.com/album/1OIlrGBaFFLI7eWkAxB447) | 4:10 |
+| 8 | [GANG GANG](https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 4:04 |
 | 9 | [Aim For The Moon \(feat\. Quavo\)](https://open.spotify.com/track/6O7fPYTsb2mY0PiFt2ymDB) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:55 |
 | 10 | [No Favors](https://open.spotify.com/track/1MksGqIztTT6M9R1ErKVs8) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 5:25 |
 | 11 | [Company](https://open.spotify.com/track/6ImxYXeLDQPIv4qo7bMhSk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 4:12 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 24 | [Whip \(feat\. Travis Scott\)](https://open.spotify.com/track/6Z4rmc0uujCpl8yXe3yjgI) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rap Or Go To The League](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) | 3:46 |
 | 25 | [Scott and Ramona](https://open.spotify.com/track/7egGWCqoxtAuo7QgsWw3tm) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lil Uzi Vert vs\. The World](https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM) | 3:41 |
 | 26 | [JACKBOYS](https://open.spotify.com/track/62zKJrpbLxz6InR3tGyr7o) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 0:46 |
-| 27 | [Too Gone \(feat\. Khalid\)](https://open.spotify.com/track/7weyB4Zuj9QDwQrFbveSpG) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The World Is Yours](https://open.spotify.com/album/1Hno6CtKbaFNAEPjRHDrc6) | 3:04 |
-| 28 | [Never Catch Me](https://open.spotify.com/track/3jg8bevUzKYONDLBBQquif) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 2:56 |
+| 27 | [Never Catch Me](https://open.spotify.com/track/3jg8bevUzKYONDLBBQquif) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 2:56 |
+| 28 | [Too Gone \(feat\. Khalid\)](https://open.spotify.com/track/7weyB4Zuj9QDwQrFbveSpG) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The World Is Yours](https://open.spotify.com/album/1Hno6CtKbaFNAEPjRHDrc6) | 3:04 |
 | 29 | [This Ain't Love](https://open.spotify.com/track/5Y7dUgG3vyx3541JagbWvv) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 2:44 |
 | 30 | [4 Da Kidz](https://open.spotify.com/track/2ZDRkJrKbceJRgLKkuex14) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:04 |
 | 31 | [Hasta Luego \- Bonus](https://open.spotify.com/track/2Zyk0on2N9vZyHueREwoJC) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 3:41 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 56 | [Period.](https://open.spotify.com/track/2DXQ8dS7PkrwgLqgX2t0sh) | [Smoove'L](https://open.spotify.com/artist/6FheakPfcCNN0NeROtOKeQ) | [Ice Cups And Shootouts](https://open.spotify.com/album/4vs6WKFkz4pctlEnLO2uCy) | 2:19 |
 | 57 | [• VVS](https://open.spotify.com/track/0M5ycnOCm3yZMPGwb9y68t) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:52 |
 
-Snapshot ID: `Mjg0MjQzMDAsMDAwMDAwMDAxNmEyYmRkYmM5YjYzYjQwY2YzYzYxODg0NTcwMTM2YQ==`
+Snapshot ID: `Mjg0MjU3NDAsMDAwMDAwMDBlYjIxY2E5YjljYzFjYmMwODE0ZWMyYjczMjUyOWFhMw==`

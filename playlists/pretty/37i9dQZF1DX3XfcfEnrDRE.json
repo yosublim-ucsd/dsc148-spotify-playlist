@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 236940,
+  "num_followers": 237015,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWUyYTRkYjQ4OTI1MGRlZDI5MjMyYjYxYjEzNWJhOTRkZGY5MmE3",
+  "snapshot_id": "MCwxODZhOWFmMGYxZDFjYjgwN2RiNmVkMzRhYjY3MzBmZWU3ZjJhNTkw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Chrysaline",
+        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 193007,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Chrysaline",
-        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
-      },
-      "artists": [
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        }
-      ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "interrobang (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2WUV0q5eiPIUrodm5t6EMP"
       },
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
       "artists": [
         {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
         }
       ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "The Field",
-        "url": "https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu"
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
       },
       "artists": [
         {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 159534,
-      "name": "You Are My Country",
-      "url": "https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS"
+      "duration_ms": 313933,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
+        "name": "The Field",
+        "url": "https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu"
       },
       "artists": [
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
         }
       ],
-      "duration_ms": 313933,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
+      "duration_ms": 159534,
+      "name": "You Are My Country",
+      "url": "https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+        "name": "Leaving The 99 (Remix)",
+        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
       },
       "artists": [
         {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+          "name": "Billy Ballenger",
+          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
         }
       ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+      "duration_ms": 242468,
+      "name": "Leaving The 99 - Remix",
+      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Leaving The 99 (Remix)",
-        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
       },
       "artists": [
         {
-          "name": "Billy Ballenger",
-          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
         }
       ],
-      "duration_ms": 242468,
-      "name": "Leaving The 99 - Remix",
-      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
+      },
+      "artists": [
+        {
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+        }
+      ],
+      "duration_ms": 252520,
+      "name": "Love Over Religion",
+      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Still Mighty",
         "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 244172,
       "name": "Something to Say",
       "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
-      },
-      "artists": [
-        {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
-        }
-      ],
-      "duration_ms": 252520,
-      "name": "Love Over Religion",
-      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/5cg63vGGI7Un5TLlpK7XZn"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Heaven Is Everywhere",
-        "url": "https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1"
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
       },
       "artists": [
         {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
         }
       ],
-      "duration_ms": 234890,
-      "name": "Heaven Is Everywhere",
-      "url": "https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS"
+      "duration_ms": 223636,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1015,6 +999,22 @@
       "duration_ms": 211880,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Heaven Is Everywhere",
+        "url": "https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 234890,
+      "name": "Heaven Is Everywhere",
+      "url": "https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Way, Truth, Life",
         "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
       },
       "artists": [
         {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
         }
       ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
+      "duration_ms": 192933,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 189795,
       "name": "Old Dreams - Live from Kansas City",
       "url": "https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
-      },
-      "artists": [
-        {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 222108,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Coming Clean",
-      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "DANGEROUS",
+        "url": "https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G"
+      },
+      "artists": [
+        {
+          "name": "Anchor & Braille",
+          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
+        }
+      ],
+      "duration_ms": 222922,
+      "name": "DANGEROUS",
+      "url": "https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Nothing is Wasted (Live)",
         "url": "https://open.spotify.com/album/5gIP0NeugQ1VkKQ6lDk87l"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 348714,
       "name": "Nothing is Wasted - Live",
       "url": "https://open.spotify.com/track/5WNl2SPKaMGaasoArkhmKv"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "DANGEROUS",
-        "url": "https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G"
-      },
-      "artists": [
-        {
-          "name": "Anchor & Braille",
-          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
-        }
-      ],
-      "duration_ms": 222922,
-      "name": "DANGEROUS",
-      "url": "https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l"
     }
   ],
   "unique_name": "Ultimate Christian Alternative",

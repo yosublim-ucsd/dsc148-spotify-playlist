@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Kuervos del Sur",
-  "num_followers": 196633,
+  "num_followers": 196637,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWJlNDlkNTYyMzczZjczMDNlN2Y1M2RhYzJlNWExYjdlODFmNzE2",
+  "snapshot_id": "MCxmOGU2MTVlMjAwMzM5MDE5ZmYwOTk4ODRjODI2NzMwNTc4MTc4NmY1",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "De La Luz",
-        "url": "https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ"
-      },
-      "artists": [
-        {
-          "name": "Kuervos del Sur",
-          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
-        }
-      ],
-      "duration_ms": 307691,
-      "name": "De La Luz",
-      "url": "https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
         "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 252885,
       "name": "El Mundo Se Termina",
       "url": "https://open.spotify.com/track/0rl38vmySOskf1DVSw0wMm"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "De La Luz",
+        "url": "https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ"
+      },
+      "artists": [
+        {
+          "name": "Kuervos del Sur",
+          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
+        }
+      ],
+      "duration_ms": 307691,
+      "name": "De La Luz",
+      "url": "https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
       },
       "artists": [
         {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
         }
       ],
-      "duration_ms": 236084,
-      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
+      "duration_ms": 208821,
+      "name": "Lucero",
+      "url": "https://open.spotify.com/track/2VT5GfzNkU69TCNxpTvwXs"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
+        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
       },
       "artists": [
         {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
         }
       ],
-      "duration_ms": 208821,
-      "name": "Lucero",
-      "url": "https://open.spotify.com/track/2VT5GfzNkU69TCNxpTvwXs"
+      "duration_ms": 236084,
+      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Amaneciendo",
-        "url": "https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
-        }
-      ],
-      "duration_ms": 288226,
-      "name": "Amaneciendo",
-      "url": "https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 281037,
       "name": "Privado",
       "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        }
+      ],
+      "duration_ms": 288226,
+      "name": "Amaneciendo",
+      "url": "https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Tu mundo al rev\u00e9s",
-        "url": "https://open.spotify.com/album/4ARJfbBo30TOBB7n1M9IUE"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 224885,
-      "name": "Tu mundo al rev\u00e9s",
-      "url": "https://open.spotify.com/track/2BmAsbXWfUCLmuTSoRKvFy"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 218735,
       "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Tu mundo al rev\u00e9s",
+        "url": "https://open.spotify.com/album/4ARJfbBo30TOBB7n1M9IUE"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 224885,
+      "name": "Tu mundo al rev\u00e9s",
+      "url": "https://open.spotify.com/track/2BmAsbXWfUCLmuTSoRKvFy"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Un D\u00eda por Concepci\u00f3n",
-        "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
-      },
-      "artists": [
-        {
-          "name": "Billy Norton",
-          "url": "https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb"
-        }
-      ],
-      "duration_ms": 183484,
-      "name": "Un D\u00eda por Concepci\u00f3n",
-      "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Lo Que Dicen",
         "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 243566,
       "name": "Lo Que Dicen",
       "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Un D\u00eda por Concepci\u00f3n",
+        "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
+      },
+      "artists": [
+        {
+          "name": "Billy Norton",
+          "url": "https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb"
+        }
+      ],
+      "duration_ms": 183484,
+      "name": "Un D\u00eda por Concepci\u00f3n",
+      "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Como te amo (Radio Edit)",
-        "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 176471,
-      "name": "Como te amo - Radio Edit",
-      "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Mis Hermanos Sue\u00f1an Despiertos",
         "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Dignidad",
-        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+        "name": "Como te amo (Radio Edit)",
+        "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
       },
       "artists": [
         {
-          "name": "La M\u00f3rbida",
-          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
         }
       ],
-      "duration_ms": 248747,
-      "name": "Dignidad",
-      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
+      "duration_ms": 176471,
+      "name": "Como te amo - Radio Edit",
+      "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1027,6 +1011,22 @@
       "duration_ms": 292586,
       "name": "Viajar - Space Mix",
       "url": "https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Dignidad",
+        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+      },
+      "artists": [
+        {
+          "name": "La M\u00f3rbida",
+          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+        }
+      ],
+      "duration_ms": 248747,
+      "name": "Dignidad",
+      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Hay Fuego en Los Andes",
+        "url": "https://open.spotify.com/album/0fb6c3y3Mg7HTk0OJYl6Ym"
+      },
+      "artists": [
+        {
+          "name": "Los Desaparecidos",
+          "url": "https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N"
+        }
+      ],
+      "duration_ms": 246820,
+      "name": "Hay Fuego en Los Andes",
+      "url": "https://open.spotify.com/track/7s18XNjnKPqcGSzKThyChu"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "A Madrugar",
         "url": "https://open.spotify.com/album/1Ubx3PYhvbbrXrS9SF5Cvc"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 221233,
       "name": "Yod",
       "url": "https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Hay Fuego en Los Andes",
-        "url": "https://open.spotify.com/album/0fb6c3y3Mg7HTk0OJYl6Ym"
-      },
-      "artists": [
-        {
-          "name": "Los Desaparecidos",
-          "url": "https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N"
-        }
-      ],
-      "duration_ms": 246820,
-      "name": "Hay Fuego en Los Andes",
-      "url": "https://open.spotify.com/track/7s18XNjnKPqcGSzKThyChu"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Tu primero y luego yo",
-        "url": "https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 146922,
-      "name": "Tu primero y luego yo",
-      "url": "https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Hipertenso",
         "url": "https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Eso que ves ah\u00ed",
-        "url": "https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf"
+        "name": "Tu primero y luego yo",
+        "url": "https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY"
       },
       "artists": [
         {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
         }
       ],
-      "duration_ms": 208468,
-      "name": "Eso que ves ah\u00ed",
-      "url": "https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0"
+      "duration_ms": 146922,
+      "name": "Tu primero y luego yo",
+      "url": "https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 201496,
       "name": "Despertar (Cuando Todo Quema)",
       "url": "https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Eso que ves ah\u00ed",
+        "url": "https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 208468,
+      "name": "Eso que ves ah\u00ed",
+      "url": "https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Baladas del Fin del Mundo",
-        "url": "https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw"
-      },
-      "artists": [
-        {
-          "name": "Los Makana",
-          "url": "https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5"
-        }
-      ],
-      "duration_ms": 248593,
-      "name": "Revelando, Develando",
-      "url": "https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Blue Dalom",
         "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
       },
@@ -1315,22 +1299,6 @@
       "duration_ms": 222133,
       "name": "Let Me Fly",
       "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Destino Final",
-        "url": "https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY"
-      },
-      "artists": [
-        {
-          "name": "Aut\u00f3ctonos de Ninguna Parte",
-          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
-        }
-      ],
-      "duration_ms": 329875,
-      "name": "Destino Final",
-      "url": "https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1351,18 +1319,34 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
-        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
+        "name": "Baladas del Fin del Mundo",
+        "url": "https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw"
       },
       "artists": [
         {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+          "name": "Los Makana",
+          "url": "https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5"
         }
       ],
-      "duration_ms": 174683,
-      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
-      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
+      "duration_ms": 248593,
+      "name": "Revelando, Develando",
+      "url": "https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Destino Final",
+        "url": "https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY"
+      },
+      "artists": [
+        {
+          "name": "Aut\u00f3ctonos de Ninguna Parte",
+          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
+        }
+      ],
+      "duration_ms": 329875,
+      "name": "Destino Final",
+      "url": "https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 191658,
       "name": "No Me Esperes M\u00e1s",
       "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
+        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 174683,
+      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
+      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1419,38 +1419,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1vcXzG08KpYWIKU6QVGp6I"
-      },
-      "artists": [
-        {
-          "name": "Aut\u00f3ctonos de Ninguna Parte",
-          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
-        }
-      ],
-      "duration_ms": 319903,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/5oWhkOd58YO5LzNvIwCSG3"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Blue Dalom",
-        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
-      },
-      "artists": [
-        {
-          "name": "Cigarbox Man",
-          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
-        }
-      ],
-      "duration_ms": 215699,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/7drgoOz9TjniNAP79jB7Us"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Somos M\u00e1s",
         "url": "https://open.spotify.com/album/5SdKXgGkKl6BdDYyzhOPKa"
       },
@@ -1479,6 +1447,38 @@
       "duration_ms": 231750,
       "name": "Shawarma Love",
       "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Blue Dalom",
+        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
+      },
+      "artists": [
+        {
+          "name": "Cigarbox Man",
+          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
+        }
+      ],
+      "duration_ms": 215699,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/7drgoOz9TjniNAP79jB7Us"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1vcXzG08KpYWIKU6QVGp6I"
+      },
+      "artists": [
+        {
+          "name": "Aut\u00f3ctonos de Ninguna Parte",
+          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
+        }
+      ],
+      "duration_ms": 319903,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5oWhkOd58YO5LzNvIwCSG3"
     },
     {
       "added_at": "2023-12-01 03:00:00",

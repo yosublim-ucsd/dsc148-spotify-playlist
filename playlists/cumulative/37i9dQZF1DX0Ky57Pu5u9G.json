@@ -1110,10 +1110,28 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 108573,
       "name": "The Way I Feel Inside",
       "url": "https://open.spotify.com/track/69GPTeIbtyU1Vd1NPYX95k"
+    },
+    {
+      "album": {
+        "name": "Begin Here",
+        "url": "https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111533,
+      "name": "The Way I Feel Inside",
+      "url": "https://open.spotify.com/track/4LxeKPgKy1l37g2vTM77Mu"
     },
     {
       "album": {

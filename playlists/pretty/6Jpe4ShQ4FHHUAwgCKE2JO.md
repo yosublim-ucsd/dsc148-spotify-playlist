@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 
 > This country is a corpse
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 23 songs - 1 hr 30 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 24 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,5 +31,6 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 | 21 | [Sixteen Tons](https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d) | [Geoff Castellucci](https://open.spotify.com/artist/1TIQZBUSqWPrBZuh80x6Rz) | [Sixteen Tons](https://open.spotify.com/album/1TYeSHzqyRK8gfn8I0drTr) | 2:50 |
 | 22 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
 | 23 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 |
+| 24 | [Born2Run](https://open.spotify.com/track/66Dvkzi4HyhKRJsBoOzQVa) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Born2Run](https://open.spotify.com/album/0zdCLnsn9pHHgxEMNEFjR7) | 2:34 |
 
-Snapshot ID: `MzEsNTNjNTYwYzk4OTMzMDRjMTQyNzllMjA5M2RjZmJmYzkyODZkYTI4Zg==`
+Snapshot ID: `MzIsNzM2ZjgxZWM0YjBmYzE2MjM3NjNlYWE0MTM3OTdmMzdmYzc4YWUwMg==`

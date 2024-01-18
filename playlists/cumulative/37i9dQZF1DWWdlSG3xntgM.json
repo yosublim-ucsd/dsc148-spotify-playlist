@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 255767,
       "name": "N\u1ed1i L\u1ea1i T\u00ecnh X\u01b0a",
       "url": "https://open.spotify.com/track/1ujKrLvdQiLhgq2rUb3koa"
@@ -3064,6 +3064,24 @@
       "duration_ms": 304918,
       "name": "Thanh Pho Buon",
       "url": "https://open.spotify.com/track/3tPEPW6UyC3N8aqjFUIXBa"
+    },
+    {
+      "album": {
+        "name": "Nho Me",
+        "url": "https://open.spotify.com/album/6ravPGA3QglQrF3uSdLCpj"
+      },
+      "artists": [
+        {
+          "name": "Dan Nguyen",
+          "url": "https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "Thanh Pho Sau Lung",
+      "url": "https://open.spotify.com/track/5xgYmoQpLz2IeavYzpDVtm"
     },
     {
       "album": {

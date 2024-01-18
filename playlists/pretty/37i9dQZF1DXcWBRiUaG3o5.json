@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1284801,
+  "num_followers": 1284739,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjJhMGI5ODk4MjI2Zjk2MmU3MTMzNTNiMWIxNTRiZmEzZmZhYzE0",
+  "snapshot_id": "MCxkYmI2MzViMzU0ODRjNTliZDRkZjVhMjg3N2M4OTdhNjAxNGZlYTQ3",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264452,
-      "name": "Motion Sickness (Demo - Bonus Track)",
-      "url": "https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 227488,
       "name": "In Agreement",
       "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264452,
+      "name": "Motion Sickness (Demo - Bonus Track)",
+      "url": "https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "symbol",
+      "url": "https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 219533,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "symbol",
-      "url": "https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Lice",
         "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 205176,
       "name": "Bobby",
       "url": "https://open.spotify.com/track/0mW58kig39aueBh99f6yGz"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 283696,
-      "name": "What Am I Here For",
-      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Colder Heavens - EP",
         "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 231706,
       "name": "El B\u00faho",
       "url": "https://open.spotify.com/track/0P52wuYOxOXkRioz4hFYzW"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 283696,
+      "name": "What Am I Here For",
+      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Gloria Duplex",
-        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Ether Garden",
-      "url": "https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Folding Leaves",
         "url": "https://open.spotify.com/album/1BL9HsiqZUc4IXFT3LKwzr"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 210201,
       "name": "I Knew This Would Be Love",
       "url": "https://open.spotify.com/track/5V0oYCNtnTitbWN72iSfJ5"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Gloria Duplex",
+        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Ether Garden",
+      "url": "https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Nocturne - EP",
+        "url": "https://open.spotify.com/album/5ok909swMjMJcxMivt4JPQ"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/3wSrfFr3uqwz17l1iF5rvc"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Song For The Thankful",
         "url": "https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 231066,
       "name": "Nice and Quiet",
       "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Nocturne - EP",
-        "url": "https://open.spotify.com/album/5ok909swMjMJcxMivt4JPQ"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/3wSrfFr3uqwz17l1iF5rvc"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Every Kingdom (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 331173,
+      "name": "I Will Be Blessed",
+      "url": "https://open.spotify.com/track/4PFhGZLzpWQk7CumiCyNH7"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Listen to Formation, Look for the Signs",
         "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
       },
@@ -999,18 +1015,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Every Kingdom (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle"
+        "name": "La Lune",
+        "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 331173,
-      "name": "I Will Be Blessed",
-      "url": "https://open.spotify.com/track/4PFhGZLzpWQk7CumiCyNH7"
+      "duration_ms": 188426,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Still I Wait",
-        "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
-      },
-      "artists": [
-        {
-          "name": "Anna Leone",
-          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Still I Wait",
-      "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "The Years",
         "url": "https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx"
       },
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "La Lune",
-        "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
+        "name": "Still I Wait",
+        "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
         }
       ],
-      "duration_ms": 188426,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
+      "duration_ms": 229880,
+      "name": "Still I Wait",
+      "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "God I Hope This Year Is Better Than the Last",
-        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 236849,
-      "name": "God I Hope This Year Is Better Than The Last",
-      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Year of the Cartographer",
         "url": "https://open.spotify.com/album/4xS4qxWSBVXOdqUaClBkW2"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 167413,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/7upud4NlWW4U4C0ngg84qU"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "God I Hope This Year Is Better Than the Last",
+        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 236849,
+      "name": "God I Hope This Year Is Better Than The Last",
+      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Song Spells, No.1: Cedarsmoke",
-        "url": "https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ"
-      },
-      "artists": [
-        {
-          "name": "Sea Wolf",
-          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Young Bodies",
-      "url": "https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Emily Alone",
         "url": "https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 220189,
       "name": "Shadow Bloom",
       "url": "https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Song Spells, No.1: Cedarsmoke",
+        "url": "https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ"
+      },
+      "artists": [
+        {
+          "name": "Sea Wolf",
+          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Young Bodies",
+      "url": "https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G"
     },
     {
       "added_at": "2023-10-20 04:00:00",

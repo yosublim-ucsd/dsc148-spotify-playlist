@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,083,034 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,083,679 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 30 | [No Estuviste En Lo Malo \- REMIX](https://open.spotify.com/track/5hyKw9bjqXCcIxAoDmAxMJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [No Estuviste En Lo Malo \(REMIX\)](https://open.spotify.com/album/494i7ANNVzcAf94KtyW2X5) | 4:28 |
 | 31 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 |
 | 32 | [Extrañándote](https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Extrañándote](https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP) | 3:03 |
-| 33 | [A 300](https://open.spotify.com/track/18W8cuvcub2B9NQzm5rZxf) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh), [Blacknife](https://open.spotify.com/artist/6v5sVY93UiFu7cO9D9ypqY) | [A 300](https://open.spotify.com/album/4WgpsaQEIIujukgGqq5P7q) | 2:49 |
+| 33 | [A 300](https://open.spotify.com/track/18W8cuvcub2B9NQzm5rZxf) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh), [Blacknife](https://open.spotify.com/artist/2uVpysjtU2tanrR1N9YVjE) | [A 300](https://open.spotify.com/album/4WgpsaQEIIujukgGqq5P7q) | 2:49 |
 | 34 | [ANDO](https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ANDO](https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D) | 2:52 |
 | 35 | [La Triple M](https://open.spotify.com/track/6QX6tanKOhwMpPtu1p0zAL) | [Mawell](https://open.spotify.com/artist/6UO7zshgw0fLVF6DVKg9PN) | [La Triple M](https://open.spotify.com/album/4Mw8E2g1o54rGBTFeOd5lA) | 3:21 |
 | 36 | [YO TENGO UN NOVIO](https://open.spotify.com/track/3iUHatOlJklHFQhRQjk27h) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [YO TENGO UN NOVIO](https://open.spotify.com/album/4qX93EQMuPQBxXsWhKyB1k) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 99 | [Borracho y Loco](https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Borracho y Loco](https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX) | 2:51 |
 | 100 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 |
 
-Snapshot ID: `MCw2ZjFkZDhhZGE3ZDFmYmQ1ZWE5MjhmMjM0MDY5OTY0M2NlNWIzYzcy`
+Snapshot ID: `MCwzYjg2M2Y3OGU2OTkxM2Y4ZDAxMjVjMjY5OTY0YTRmYTczMTAzYjUy`

@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 58897,
+  "num_followers": 58909,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTlmODNiOTg0MGE4YzRmYTEwN2Y0MjU2ZDA3NjBlODEyODJjZDA0",
+  "snapshot_id": "MCwxNTVkZjZmMGM1ZjkxOTNiZjVhZTJkNTMyZmE2MDkwNTZkZmYwZDM4",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC"
     },
     {
-      "added_at": "2022-01-11 02:50:37",
-      "album": {
-        "name": "Con Sabor a M\u00e9xico",
-        "url": "https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6"
-      },
-      "artists": [
-        {
-          "name": "Big Band Jazz de M\u00e9xico",
-          "url": "https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c"
-        }
-      ],
-      "duration_ms": 271053,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "No Corro, No Grito, No Empujo",
@@ -71,6 +55,22 @@
       "duration_ms": 156960,
       "name": "Excusez-Moi",
       "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
+    },
+    {
+      "added_at": "2022-01-11 02:50:37",
+      "album": {
+        "name": "Con Sabor a M\u00e9xico",
+        "url": "https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6"
+      },
+      "artists": [
+        {
+          "name": "Big Band Jazz de M\u00e9xico",
+          "url": "https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c"
+        }
+      ],
+      "duration_ms": 271053,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Grandes de la Musica Instrumental",
         "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 113613,
       "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
       "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Dilo! Homenaje a P\u00e9rez Prado",
-        "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
       "artists": [
         {
-          "name": "Los M\u00fasicos De Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd"
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Mambo en Sax",
-      "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2022-08-09 18:38:23",
@@ -271,18 +271,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
-        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+        "name": "Dilo! Homenaje a P\u00e9rez Prado",
+        "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
       },
       "artists": [
         {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+          "name": "Los M\u00fasicos De Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd"
         }
       ],
-      "duration_ms": 148786,
-      "name": "Charleston",
-      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+      "duration_ms": 195066,
+      "name": "Mambo en Sax",
+      "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
     },
     {
       "added_at": "2023-03-16 20:51:30",
@@ -303,22 +303,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Orqu\u00eddeas Susurrantes",
         "url": "https://open.spotify.com/album/4wgY1NlxUvjbhXFbMPyTwz"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 239673,
       "name": "T\u00e9 de Olvido",
       "url": "https://open.spotify.com/track/11DHmnBqBjuGyDFvYbriWn"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
+        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -443,26 +443,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Raz\u00f3n de Vivir (Desde Casa)",
-        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
-      },
-      "artists": [
-        {
-          "name": "Magos Herrera",
-          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
-        }
-      ],
-      "duration_ms": 254269,
-      "name": "Raz\u00f3n de Vivir (Desde Casa)",
-      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Para Ser Libre",
         "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 160031,
       "name": "El Hombre Del Brazo De Oro",
       "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Raz\u00f3n de Vivir (Desde Casa)",
+        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
+      },
+      "artists": [
+        {
+          "name": "Magos Herrera",
+          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+        }
+      ],
+      "duration_ms": 254269,
+      "name": "Raz\u00f3n de Vivir (Desde Casa)",
+      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
     },
     {
       "added_at": "2023-11-23 03:14:06",
@@ -603,6 +603,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Retazos",
+        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
+      },
+      "artists": [
+        {
+          "name": "Donna Pierrot",
+          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
+        }
+      ],
+      "duration_ms": 269080,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Paisaje Gris",
         "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 259133,
       "name": "Paisaje Gris",
       "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Retazos",
-        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
-      },
-      "artists": [
-        {
-          "name": "Donna Pierrot",
-          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
-        }
-      ],
-      "duration_ms": 269080,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
     },
     {
       "added_at": "2021-07-28 16:44:28",

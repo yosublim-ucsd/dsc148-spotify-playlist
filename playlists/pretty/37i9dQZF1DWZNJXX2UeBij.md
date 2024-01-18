@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNJXX2UeBij.md) - [plain]
 
 > Bollywood songs that ruled hearts in the Y2K decade\. Cover \- Ajab Prem Ki Ghazab Kahani
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,573 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,444 likes - 100 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNJXX2UeBij.md) - [plain]
 | 99 | [Babuji Zara Dheere Chalo](https://open.spotify.com/track/6tBw0YriaKSzUr5M8xXH2H) | [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Dum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3hZsK1uPO689bFJ71c187l) | 4:59 |
 | 100 | [Aaja Mahiya](https://open.spotify.com/track/0D0lefqSgNAAoXfuQgsRUo) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Fiza \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70pmpUOtbnOc5YtuH20ehU) | 6:42 |
 
-Snapshot ID: `MCwwM2QzMWNhY2M2YjVkMTk0ZTNlZWY4YjViNjllYWU0M2M5MmJlNDJh`
+Snapshot ID: `MCxiY2U2ZDVlYmE4MzBjMjgyNWQ3MmIwY2JiOGEzMzNkYjQxODA5YmZj`

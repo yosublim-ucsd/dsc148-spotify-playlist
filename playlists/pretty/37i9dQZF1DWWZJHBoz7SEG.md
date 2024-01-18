@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Escucha las canciones mas 'fetch' de la semana! \(Mensaje aprobado por Regina George\) 💅💋👠 Kali Uchis y Peso Pluma en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,190 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,425 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 10 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 |
 | 11 | [Saludones a Mi Apá](https://open.spotify.com/track/6XLZ0Z3FpfDgJQpiscs6Au) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Saludones a Mi Apá](https://open.spotify.com/album/0RgOoUb2PLAmL2cnJhDR7o) | 2:32 |
 | 12 | [Un Día Entenderás](https://open.spotify.com/track/1scPtwHT7gurkNhwyojAtx) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Día Entenderás](https://open.spotify.com/album/4zWFjr8O3VjrxRADoslrhB) | 3:26 |
-| 13 | [DIOS ME PERDONE](https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [DIOS ME PERDONE](https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY) | 2:53 |
+| 13 | [DIOS ME PERDONE](https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DIOS ME PERDONE](https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY) | 2:53 |
 | 14 | [COMO YO TE QUIERO \(DELUXE\)](https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:31 |
 | 15 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 |
 | 16 | [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 |
 | 50 | [Boys Choir](https://open.spotify.com/track/4juwtI8VB83lvY4Qh4MTmD) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Boys Choir](https://open.spotify.com/album/5HEUho0Em2bvo50H4ONsZA) | 4:08 |
 
-Snapshot ID: `MCw3Nzk3ZDlmYWJhMWNiM2MwMDlkNDQ5ZjlhYTQ4YTI1Y2I4MDQ5NjEw`
+Snapshot ID: `MCxlMmU2NThkOTBjMDZjNjA1ZWEzNmY2MzQwOTYyMjRmYTdmYTA3Mzdj`

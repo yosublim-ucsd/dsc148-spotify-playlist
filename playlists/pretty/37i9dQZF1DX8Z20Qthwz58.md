@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,859 likes - 79 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,928 likes - 79 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 36 | [Alone with You](https://open.spotify.com/track/3mq0dLTh4wC8goZY3s6oLQ) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [haaAakkKKK!!!](https://open.spotify.com/album/44OzoIkxMtGrmnP978PTZY) | 2:47 |
 | 37 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 |
 | 38 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:00 |
-| 39 | [You know, I..](https://open.spotify.com/track/6kkFS4iHPPDvmoIElvJgO6) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Sue Museum](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [Dreaming](https://open.spotify.com/album/7IzsDD8eL1pq38mXO6q0Yc) | 2:56 |
+| 39 | [You know, I..](https://open.spotify.com/track/6kkFS4iHPPDvmoIElvJgO6) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [soo](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [Dreaming](https://open.spotify.com/album/7IzsDD8eL1pq38mXO6q0Yc) | 2:56 |
 | 40 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
 | 41 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 |
 | 42 | [Melody](https://open.spotify.com/track/05gYK3Q5t0VHs9kK7sPTcW) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Melody](https://open.spotify.com/album/3esIkkntCgiFEfYmgKgTBR) | 4:13 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 78 | [FALLING \(Prod\. by DPR CREAM\)](https://open.spotify.com/track/1sGc6tYogGNv3t09uGlucD) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [FALLING](https://open.spotify.com/album/2MKQwaFRybLOoQ1Cl19OLm) | 3:34 |
 | 79 | [Butterfly](https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf) | 3:57 |
 
-Snapshot ID: `MCxmODJlMzAxYzYzMjQzOGFkOGYzZTY1OGIyOTNjZDZjYThhYTE5NGI0`
+Snapshot ID: `MCwxMjEzMjY2MDFkNmIwZjc4ODczMWE0NzA5NmI2YzlhNmM2YTZlZTM3`

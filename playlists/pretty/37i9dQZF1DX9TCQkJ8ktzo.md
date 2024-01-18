@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,966 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,006 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [Esta Tarde Vi Llover](https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:40 |
 | 50 | [La Montaña](https://open.spotify.com/track/6ZKTF8RYIZuoANeYoBH752) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Grandes Éxitos de Lucho Gatica](https://open.spotify.com/album/56zOTEFBTqMxQQ1LHUAWpc) | 3:35 |
 
-Snapshot ID: `MCxjNTY2MmY1MDBiZDYyM2Q3YzYxNWFmOTczMjQwMTYwZTIzYzNjMWNh`
+Snapshot ID: `MCxhM2VlMmM4ZDk0ZjQ4NTE3Yzg4OWZjYWZhYzgwNTUzYmI4NWU0OTdm`

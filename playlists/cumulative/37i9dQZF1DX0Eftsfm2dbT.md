@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: AK\-69, ¥ellow Bucks
 
-400 songs - 20 hr 45 min
+401 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [VIP](https://open.spotify.com/track/3U8u7YFQvljmsBHsJWPBR3) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [i have a wing](https://open.spotify.com/album/7rLr6RHZ4u7XXNGNsRcu14) | 3:14 | 2023-09-21 | 2023-10-04 |
 | [WANGAN](https://open.spotify.com/track/6lQW7SVbgi0MuI1CUnW6eU) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [WANGAN](https://open.spotify.com/album/0iYbRdrCHO0CDLEcSYeRbP) | 2:15 | 2023-09-21 | 2023-10-02 |
 | [WANGAN](https://open.spotify.com/track/7bOpKzbWmvLoK4Kk9KQc1J) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [JIYU](https://open.spotify.com/album/5CBrCNVSRAUS1uYa3yYidP) | 2:15 | 2023-09-28 | 2023-12-06 |
+| [Wasurenaide](https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8) | [Shootz](https://open.spotify.com/artist/0gSHX4GAlRtZJ1tJhBv0SD), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Wasurenaide](https://open.spotify.com/album/6hHfnpyuiYY1ZiP48U6HwI) | 4:13 | 2024-01-17 |  |
 | [What's Poppin](https://open.spotify.com/track/4h1szxNxkEIeAiBa8QcsJr) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [JIGG](https://open.spotify.com/artist/7FaaVgMxA6RqO7viZwFaQp), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Hit Different](https://open.spotify.com/album/4H5P7cJyGe0Sw0gSHtjuMm) | 2:28 | 2023-09-21 |  |
 | [What?](https://open.spotify.com/track/48s0kZFNaYxP0bOxOkNC6f) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Survive](https://open.spotify.com/album/5ZbWHSBmK2s9fMc4LGFfW7) | 2:43 | 2023-09-21 | 2023-09-27 |
 | [White Tranzit](https://open.spotify.com/track/5KtkoaU1WcquKOcZJqd6uq) | [RYKEYDADDYDIRTY](https://open.spotify.com/artist/6ABUnz5K0dZNw7svuQitJb), [Cocgi White](https://open.spotify.com/artist/4GLl3EAOEZdXS4VTaB4Xfs), [KAN a.k.a\. GAMI](https://open.spotify.com/artist/47XrkMqishxh2RQSBWOEWq) | [Mother Jane](https://open.spotify.com/album/3jCRomBak2FVTlZ8RIclTm) | 4:00 | 2023-12-12 | 2024-01-11 |

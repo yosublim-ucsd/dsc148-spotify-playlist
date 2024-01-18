@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5KJJSIYaNvs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5KJJSIYaNvs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5KJJSIYaNvs)
 
-### [Best of EQUAL India 2023](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
+### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Highlights of 2023, listen to women at full volume \#SpotifyWrapped Cover \- Shilpa Rao
+> Listen to women at full volume\. Cover \- Shipra Goyal
 
-256 songs - 14 hr 53 min
+257 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/track/6SAwt2AylvrFdwzJg4va7U) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/album/6HOdxSKHk2VnInpw9sBbWi) | 4:09 | 2022-08-03 | 2023-01-04 |
 | [Itne Pyaar Se \(Thoda Darr Lagta Hai\)](https://open.spotify.com/track/0wPLLfMuqG8aH8xCVAe4I9) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Itne Pyaar Se \(Thoda Darr Lagta Hai\)](https://open.spotify.com/album/1zpcx8SUq3d79ROmkdBK8P) | 3:30 | 2021-12-10 | 2022-02-02 |
 | [Jaan](https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jaan](https://open.spotify.com/album/6BjpagtcyuPWjTAPxzPHNv) | 3:46 | 2022-02-01 | 2023-01-04 |
-| [Jaan Da \(Rab Ki Dua\)](https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Tejas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt) | 4:27 | 2023-12-06 |  |
+| [Jaan Da \(Rab Ki Dua\)](https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Tejas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt) | 4:27 | 2023-12-06 | 2024-01-18 |
 | [Jaane Jaan \- Title Track \(From "Jaane Jaan"\)](https://open.spotify.com/track/5rFTcUfO3ZPztJHEmFOdvM) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax), [Rajendra Krishan](https://open.spotify.com/artist/0wfdmeqX8y9eyNIX9lV0Or) | [Jaane Jaan Title Track \(From "Jaane Jaan"\)](https://open.spotify.com/album/5xDXicz8xdAi6jvSH4BrxY) | 2:20 | 2023-09-11 | 2023-11-30 |
 | [Jaaneman](https://open.spotify.com/track/13wK4rl4toq8yDXwQ6YGGf) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Kkomal Krusshna](https://open.spotify.com/artist/4BWw2LJgvfCLJpQPrUZeP7), [Kalim Shaikh](https://open.spotify.com/artist/1lEYogfDxYP1Iu3VIh4eXW) | [Jaaneman](https://open.spotify.com/album/1g2zQPpJLEJANEHD7zGL1U) | 2:55 | 2021-12-10 | 2022-02-02 |
 | [Jaanoon Na](https://open.spotify.com/track/1I6NDLPClKEefdQ635eFq7) | [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Bob Biswas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4287SfTd0WTUAePJUD7xt3) | 2:54 | 2021-12-10 | 2022-02-02 |
@@ -218,6 +218,7 @@
 | [Shaamat \(From "Ek Villain Returns"\)](https://open.spotify.com/track/455lcFHS2MOMKcGquhAf22) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Tara Sutaria](https://open.spotify.com/artist/6rOmL22Rvtv9INMpxfLluj) | [Shaamat \(From "Ek Villain Returns"\)](https://open.spotify.com/album/6fgugUW2JZ9MYLffnmv8fB) | 5:34 | 2022-08-03 | 2023-11-30 |
 | [Shagnaa](https://open.spotify.com/track/4YtqSiEWM1xXtzn1hmdkqr) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Shagnaa](https://open.spotify.com/album/2YxNZ37OoJNlYLhfpBWVSp) | 3:25 | 2023-10-27 |  |
 | [Shakti](https://open.spotify.com/track/6vRxVPhDAYkjBD8YFpWGIa) | [Aditi Ramesh](https://open.spotify.com/artist/13Z3y4eMEYPatOuboc7RcF) | [Shakti](https://open.spotify.com/album/3fQaOnmHpKAcFejfC2wWJc) | 3:22 | 2021-12-10 | 2022-01-05 |
+| [Shart Lagake](https://open.spotify.com/track/1IffRKiB73SXuSIY216UXK) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Shart Lagake](https://open.spotify.com/album/6WYypqpmi4WzMEhecA7NPX) | 2:31 | 2024-01-17 |  |
 | [Shartiya](https://open.spotify.com/track/2RTjkNHdkBUKz8fe2cwIhI) | [Samira Koppikar](https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e) | [Shartiya](https://open.spotify.com/album/2RhegqtWQEuU1VupV5FBiq) | 3:05 | 2023-11-05 | 2023-11-30 |
 | [Sherni Aayi \(From "Aarya 3"\)](https://open.spotify.com/track/4TqeKFVrlFn379UpRT157n) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Sushmita Sen](https://open.spotify.com/artist/4dVweXe1vuDaks0htRp54l) | [Sherni Aayi \(From "Aarya 3"\)](https://open.spotify.com/album/3mpPx4U4uZRUWkHTwRL0wC) | 2:10 | 2023-11-06 | 2023-11-30 |
 | [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 | 2023-02-01 | 2023-03-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: LeeHi
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,854 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,986 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [STRANGER](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [STRANGER](https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X) | 2:46 |
 | 50 | [Loved](https://open.spotify.com/track/2nWVowkuFVY6hCRBylnaZh) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Loved](https://open.spotify.com/album/5O5mq8leoHh0Cc8UPUxbhq) | 2:36 |
 
-Snapshot ID: `MCwxYzJmN2ZiNzg1ZDk4ZDc5YTA3MzZkYzQ4OTg5OGU1MzJiZDVjMjQ3`
+Snapshot ID: `MCw1MDM0NjkwOTczZjFiMDBhMmZmYWIxMzQ4MTgyYzQ3MjQ5MmI0Zjgy`

@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Yamê.
 
-1,189 songs - 2 day 17 hr 48 min
+1,190 songs - 2 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [DANS LE WAY](https://open.spotify.com/track/3WDx6AjGrZyrOygj6RCoHf) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [VOUS ÊTES PAS CONTENTS ? TRIPLÉ !](https://open.spotify.com/album/1sXTto4AKCeNd8yKON0lHh) | 3:44 | 2022-03-24 | 2022-04-17 |
 | [Das Schönste](https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Das Schönste](https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1) | 1:36 | 2023-02-17 | 2023-03-04 |
 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2022-04-12 | 2022-04-18 |
-| [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-10-13 |  |
+| [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-10-13 | 2024-01-18 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-03-24 | 2022-08-02 |
 | [De la Cueva a los Olivos](https://open.spotify.com/track/5HxlKgVbbQqSfoXYB72Gq3) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Pureza](https://open.spotify.com/album/3hTQf3Mj4ty2N69RCZ07D8) | 3:37 | 2023-02-08 | 2023-10-06 |
 | [dear abbey](https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [dear abbey](https://open.spotify.com/album/3OVI7GQjwC5CsXpyjE1Hn9) | 3:54 | 2023-05-30 | 2023-09-16 |
@@ -625,6 +625,7 @@
 | [Must Be Nice](https://open.spotify.com/track/0PPPX47RFNtQK6XGUoZLG2) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [Must Be Nice](https://open.spotify.com/album/33JR5t8jE1U8cPloJ7cEAb) | 4:48 | 2022-12-02 | 2023-05-31 |
 | [Mustang Preto](https://open.spotify.com/track/6Vgn3IEUkWs3d6og029Gtm) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mustang Preto](https://open.spotify.com/album/6fhHEgPoz6jfgZvwlH9jBA) | 3:03 | 2022-03-24 | 2022-09-16 |
 | [Mutuo Acuerdo](https://open.spotify.com/track/20wlK9lI8cq4tE5wJPK2WW) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Mutuo Acuerdo](https://open.spotify.com/album/4iQ8MdNuhc9N5B1PMbEa3T) | 2:38 | 2022-03-24 | 2022-04-19 |
+| [My best love!](https://open.spotify.com/track/4F7HpyZBYY2NU4YxKaKn3m) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [My best love!](https://open.spotify.com/album/3yfwQt9HuQunyMnozW7Sim) | 3:34 | 2024-01-12 |  |
 | [My Dream](https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [My Dream](https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K) | 3:19 | 2023-12-27 |  |
 | [MY I ONI](https://open.spotify.com/track/0SUsodImdu1cqFd12GwVcc) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [ZGRZYT](https://open.spotify.com/album/02wQzXoSwOPKZHik90xH3Q) | 2:42 | 2023-11-10 |  |
 | [My Mr.Right](https://open.spotify.com/track/7jg3UyQr4zJdiBcjrXN0rd) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [My Mr.Right](https://open.spotify.com/album/77R5JWquBVS0tqeB2J0pG9) | 3:26 | 2022-02-03 | 2022-03-11 |

@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 18 | [MONA XINA](https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [MONA XINA](https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx) | 2:32 |
 | 19 | [Adentro](https://open.spotify.com/track/4CROIfMRtC28Wx9otPTPER) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:18 |
 | 20 | [Nos lo hemos dicho todo](https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nos lo hemos dicho todo](https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3) | 4:13 |
-| 21 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
-| 22 | [El Compromiso](https://open.spotify.com/track/1fXbBlfgDB6kVOY8h2UI8y) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 2:51 |
+| 21 | [El Compromiso](https://open.spotify.com/track/1fXbBlfgDB6kVOY8h2UI8y) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 2:51 |
+| 22 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
 | 23 | [Me Enamore De Mi](https://open.spotify.com/track/5Ollqs3igkGH8yxiAyCjj1) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Todas Seremos Reinas](https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd) | 2:48 |
 | 24 | [Agarra](https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Agarra](https://open.spotify.com/album/36zOI4pViRyY786coy335g) | 3:01 |
 | 25 | [Kintsugi](https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Kintsugi](https://open.spotify.com/album/6nMidcYOqTOBbbnBiwhe8J) | 3:15 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 31 | [Ice](https://open.spotify.com/track/1jUKmgWQflhSh0zNGkkioo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Ice](https://open.spotify.com/album/2Eji6BbhvSy9gcjjfaHEVR) | 4:15 |
 | 32 | [Fine](https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Fine](https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo) | 3:02 |
 | 33 | [YA NO SOY TU BABY](https://open.spotify.com/track/3AIZ7XY0YxZHJ2Ao6d0YSg) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [YA NO SOY TU BABY](https://open.spotify.com/album/3nkkxVQVdD6LrC0pxPhJY3) | 2:52 |
-| 34 | [LENTO](https://open.spotify.com/track/4sTyc7dnCKBq7TaoNFlwzX) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:54 |
-| 35 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
+| 34 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
+| 35 | [LENTO](https://open.spotify.com/track/4sTyc7dnCKBq7TaoNFlwzX) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:54 |
 | 36 | [Invencible](https://open.spotify.com/track/79tK7MDahFqieifay7yXCb) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Invencible](https://open.spotify.com/album/6FKGwho8LYdyFa26NMiIkl) | 3:56 |
 | 37 | [HEAVY](https://open.spotify.com/track/3bEetphA24F4tNyBW1p4Bz) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Brujerías de Cantina](https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy) | 2:58 |
 | 38 | [Centenas De Miles De Años](https://open.spotify.com/track/6xa21lEbZdVtQa41HDkQcY) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Centenas De Miles De Años](https://open.spotify.com/album/2VEb1mzailGntQVRoWqaq9) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Jugando Con Fuego](https://open.spotify.com/track/7pBMCVwilHS7DWLgCArH4n) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:18 |
 | 50 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
 
-Snapshot ID: `MCw0ZmJlMDdjYmMxMzA5ODlhOWUyNWZlY2U2ZWRlODFkYzlkZTNlMDQ3`
+Snapshot ID: `MCxmMmY5NjQ2NDgwNmIxNjhkYWFkOWQwNjMyMzFjMTY0ZTIxNzU1MjI2`

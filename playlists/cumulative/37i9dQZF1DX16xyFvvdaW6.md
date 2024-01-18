@@ -4,7 +4,7 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-59 songs - 4 hr 17 min
+60 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Mas Grande Es El](https://open.spotify.com/track/69OUxNWpLdN8fB7y7gfmGP) | [Alpha Union](https://open.spotify.com/artist/7r3OVrzP7rwFr0q1C4IQ5n) | [Conquistador](https://open.spotify.com/album/6ByW3JlKlwzAnHgMRWkYuz) | 2:55 | 2022-07-22 |  |
 | [Mas que ayer](https://open.spotify.com/track/3h2K5oUOeNYfSxd1Rpjcxe) | [Lemkin](https://open.spotify.com/artist/0ircK5GeJyk319kKagj0rN) | [Anagramas](https://open.spotify.com/album/6V78TAY4elDJP2sHFbem85) | 3:46 | 2022-07-22 |  |
 | [Memoria \(Identidad\)](https://open.spotify.com/track/5GMBmIpJdpt3RqbuVxxePR) | [Mesver](https://open.spotify.com/artist/7dbLyuLmmTrijbn5TJSuMH) | [Despertares](https://open.spotify.com/album/2gomThBXGueNJ82vMAjBAt) | 3:16 | 2022-07-22 |  |
-| [Mi Amado Dios](https://open.spotify.com/track/10W7Axif6t46vv0n6xaS17) | [Cristo Para Las Naciones](https://open.spotify.com/artist/1CWzeOhNAKqu5f4ZacmifA) | [Supergod](https://open.spotify.com/album/045iUbZvHZXX462mpo10H1) | 4:33 | 2022-07-22 |  |
+| [Mi Amado Dios](https://open.spotify.com/track/10W7Axif6t46vv0n6xaS17) | [Cristo Para Las Naciones](https://open.spotify.com/artist/1CWzeOhNAKqu5f4ZacmifA) | [Supergod](https://open.spotify.com/album/045iUbZvHZXX462mpo10H1) | 4:33 | 2022-07-22 | 2024-01-18 |
+| [Mi Amado Dios](https://open.spotify.com/track/6HBo4ivgAuCOC3AWsVLl8Y) | [Cristo Para Las Naciones](https://open.spotify.com/artist/1CWzeOhNAKqu5f4ZacmifA) | [Supergod](https://open.spotify.com/album/2wApItzX2q6aTUlfaPMbAt) | 4:33 | 2022-10-25 |  |
 | [Mi Fortuna](https://open.spotify.com/track/39JsvoZcpWvQHYlh12rn6l) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Mi Fortuna](https://open.spotify.com/album/3SPxbOvXqjTI15sKBpvFAo) | 3:48 | 2022-07-22 |  |
 | [Nada Es Imposible](https://open.spotify.com/track/6OjwMUQIffS74Z2qIsWmVO) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Ilumina](https://open.spotify.com/album/2NPZuJOrcVRr1r91pmKciq) | 4:18 | 2022-07-22 |  |
 | [No Voy a Mirar Atrás](https://open.spotify.com/track/4qIWvUHQAbsXPZxhEaviJw) | [Edgar Lira](https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq) | [Morir a Mi](https://open.spotify.com/album/6DBJ08j5wc77c0f4yzhPHj) | 4:00 | 2022-10-25 |  |

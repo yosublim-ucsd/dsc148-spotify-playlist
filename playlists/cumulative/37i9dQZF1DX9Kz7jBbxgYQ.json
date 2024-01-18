@@ -5257,6 +5257,32 @@
     },
     {
       "album": {
+        "name": "Zaalima",
+        "url": "https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Shahmeer Raza Khan",
+          "url": "https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Zaalima",
+      "url": "https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V"
+    },
+    {
+      "album": {
         "name": "Hindi Gaane",
         "url": "https://open.spotify.com/album/5fOzwws4qbE6ZPKQU3BSHI"
       },

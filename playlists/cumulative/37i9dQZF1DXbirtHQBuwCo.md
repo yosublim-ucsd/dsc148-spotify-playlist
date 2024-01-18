@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: Silly Silky\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: GroovyRoom\)
 
-654 songs - 1 day 11 hr 10 min
+655 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,13 +637,14 @@
 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 | 2022-04-19 | 2022-07-06 |
 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 | 2022-12-26 | 2023-01-11 |
 | [Winter blossom](https://open.spotify.com/track/1ynuDDHKN7P7fmJEljdCLd) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Spring in Winter](https://open.spotify.com/album/3J9hWyRg3THDctWGtQOgLE) | 2:48 | 2022-04-19 | 2023-03-04 |
-| [Winter blossom \(feat\. Ashley Alisha & nobody likes you pat\)](https://open.spotify.com/track/5fTjaxacUujHQzT8qPHKoq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Spring in Winter](https://open.spotify.com/album/6P7fxKRc6pVe7Ae21s0Re9) | 2:48 | 2023-04-07 |  |
+| [Winter blossom \(feat\. Ashley Alisha & nobody likes you pat\)](https://open.spotify.com/track/5fTjaxacUujHQzT8qPHKoq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Spring in Winter](https://open.spotify.com/album/6P7fxKRc6pVe7Ae21s0Re9) | 2:48 | 2023-04-07 | 2024-01-18 |
 | [Wish You Were Here](https://open.spotify.com/track/0ck9OBdibazBRrYqIwqEJk) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/16W36ygiBLxI7df9XQgPov) | 3:41 | 2022-04-19 | 2022-07-22 |
 | [Wishing On You](https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:14 | 2023-08-18 | 2024-01-11 |
 | [with you \(feat\. g0nny\)](https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [with you \(feat\. g0nny\)](https://open.spotify.com/album/38jEKpk2q846icctNoaDKk) | 2:59 | 2023-07-07 | 2023-07-15 |
 | [Woo hoo \(Feat\. Kid Milli\)](https://open.spotify.com/track/50JEzNr75B90UaYXZvCuaT) | [KAIAVANT](https://open.spotify.com/artist/2xTSAzEj9nYkoVr2nptxFe), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Piece of space](https://open.spotify.com/album/38F3lt1f20fXN4paz2XF2X) | 4:05 | 2022-08-31 | 2022-09-09 |
 | [Woo\~](https://open.spotify.com/track/6A61HhOH8EwGSXEgyuv899) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [EGG](https://open.spotify.com/album/6riQ6u1zptxd4GdyjH0YtZ) | 2:47 | 2022-11-03 | 2022-11-23 |
 | [Write & Draw](https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34) | [Kim Boa](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [Write & Draw](https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE) | 3:52 | 2023-07-07 | 2023-07-15 |
+| [Yes or No \(Feat\. HUH YUNJIN of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 | 2024-01-17 |  |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-21 | 2023-11-02 |
 | [you got me!](https://open.spotify.com/track/4rBJvWScyzNrA7eFQVUDpU) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [you got me!](https://open.spotify.com/album/2TUXs8m5C46sv5HhvOxeOe) | 3:14 | 2022-04-19 | 2022-04-21 |
 | [You Will Never Know](https://open.spotify.com/track/6N01HkXOMOvC9659WOQGAp) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Hersh](https://open.spotify.com/artist/1mQmR1RcQpvrcrF6S1njyF), [touch](https://open.spotify.com/artist/5Fe1k0wxpOtGuvgsENwYPa) | [You Will Never Know](https://open.spotify.com/album/465mgDfE3XX055v0hkzUpv) | 3:22 | 2023-06-13 | 2023-07-06 |

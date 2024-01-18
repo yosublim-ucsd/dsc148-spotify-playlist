@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 154245,
+  "num_followers": 154388,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDM2YzcwNTM4MjliZGUxNDFlYTNjMTMxZDI5OTVlNzk0MGU5Nzk5",
+  "snapshot_id": "MCw4YmE4MjMxNWY5ZGRmZjQ2NGJjZDBmYTM1ODBkMDlkZjE5N2JmMjc3",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Steady, Thyself (Piano Version)",
-        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
-      },
-      "artists": [
-        {
-          "name": "VLMV",
-          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
-        }
-      ],
-      "duration_ms": 185387,
-      "name": "Steady, Thyself (Piano Version)",
-      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "The Innkeeper and the Moon",
         "url": "https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv"
       },
@@ -135,6 +119,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Steady, Thyself (Piano Version)",
+        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
+      },
+      "artists": [
+        {
+          "name": "VLMV",
+          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
+        }
+      ],
+      "duration_ms": 185387,
+      "name": "Steady, Thyself (Piano Version)",
+      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Made To Be Wanting",
         "url": "https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF"
       },
@@ -147,22 +147,6 @@
       "duration_ms": 183764,
       "name": "Made To Be Wanting",
       "url": "https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -187,6 +171,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Frankenthaler",
         "url": "https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35"
       },
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu"
-      },
-      "artists": [
-        {
-          "name": "Michael Coltham",
-          "url": "https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd"
-        }
-      ],
-      "duration_ms": 228257,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "On The Verge Of Collapse",
         "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 168224,
       "name": "We All Grieve Differently",
       "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu"
+      },
+      "artists": [
+        {
+          "name": "Michael Coltham",
+          "url": "https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd"
+        }
+      ],
+      "duration_ms": 228257,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "len",
-        "url": "https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI"
-      },
-      "artists": [
-        {
-          "name": "Flica",
-          "url": "https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "len",
-      "url": "https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P"
       },
@@ -359,22 +343,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Heap",
-          "url": "https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Joshua Tree",
         "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
       },
@@ -387,6 +355,38 @@
       "duration_ms": 157500,
       "name": "Joshua Tree",
       "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "len",
+        "url": "https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI"
+      },
+      "artists": [
+        {
+          "name": "Flica",
+          "url": "https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "len",
+      "url": "https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Heap",
+          "url": "https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "Autumn",
-      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Living Rooms",
         "url": "https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Sea Notes",
-        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
       },
       "artists": [
         {
-          "name": "Joanna Finnis",
-          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
         }
       ],
-      "duration_ms": 128684,
-      "name": "Flight of the Sea Birds",
-      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
+      "duration_ms": 153387,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -551,6 +535,22 @@
       "duration_ms": 202105,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Sea Notes",
+        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
+      },
+      "artists": [
+        {
+          "name": "Joanna Finnis",
+          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
+        }
+      ],
+      "duration_ms": 128684,
+      "name": "Flight of the Sea Birds",
+      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "S\u00e9r\u00e9nit\u00e9",
-        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9mie Fauquet",
-          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
-        }
-      ],
-      "duration_ms": 108690,
-      "name": "S\u00e9r\u00e9nit\u00e9",
-      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Words Left Unspoken",
         "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 165741,
       "name": "A Winter's Tale",
       "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "S\u00e9r\u00e9nit\u00e9",
+        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9mie Fauquet",
+          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
+        }
+      ],
+      "duration_ms": 108690,
+      "name": "S\u00e9r\u00e9nit\u00e9",
+      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
-      },
-      "artists": [
-        {
-          "name": "Jack Hopkins",
-          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
-        }
-      ],
-      "duration_ms": 232105,
-      "name": "R\u00eaverie",
-      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Transcend",
         "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 212307,
       "name": "What If",
       "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
+      },
+      "artists": [
+        {
+          "name": "Jack Hopkins",
+          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
+        }
+      ],
+      "duration_ms": 232105,
+      "name": "R\u00eaverie",
+      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
-      },
-      "artists": [
-        {
-          "name": "Takaaki Izumi",
-          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Drifter",
-      "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Efterskalv",
         "url": "https://open.spotify.com/album/0ozuLQjABDwXsGpZh8327b"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 229350,
       "name": "Efterskalv",
       "url": "https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
+      },
+      "artists": [
+        {
+          "name": "Takaaki Izumi",
+          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
     },
     {
       "added_at": "2023-06-27 16:12:39",

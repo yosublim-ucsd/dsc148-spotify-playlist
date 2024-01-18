@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Essosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,334 likes - 169 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,329 likes - 169 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 33 | [Don't See You Around](https://open.spotify.com/track/5JqFDF0EAPFc0S4S3qm4fB) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 3:33 |
 | 34 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 |
 | 35 | [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 |
-| 36 | [King of Nothing](https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:29 |
+| 36 | [King of Nothing](https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:29 |
 | 37 | [Tam Tam](https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Tam Tam](https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx) | 3:32 |
 | 38 | [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 |
 | 39 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 168 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 |
 | 169 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/0PXukVbYpvz40KcEFKnIw7) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/album/1UX0F7yksh3rHlEJKvliAT) | 3:27 |
 
-Snapshot ID: `MCw4ZjU5MThkMzEwMTM4MzFjMDhlNTYyNGIyY2U5NDBlNmZlMzdjNThm`
+Snapshot ID: `MCxmMGRiYWVkMGZmMmU3OGRiNGI0OGZhOGEwZjhjNjE2M2ZiMGJiZjNk`

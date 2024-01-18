@@ -2,7 +2,7 @@
 
 ### [reheat](https://open.spotify.com/playlist/37i9dQZF1DWYPhtvsbr1Fn)
 
-> resurging tracks coming in hot\. cover: Swaggie era Justin Bieber
+> resurging tracks coming in hot\. cover: Natasha Bedingfield in her Unwritten era
 
 152 songs - 10 hr 14 min
 

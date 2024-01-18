@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 
 > Explore the surreal world of Satie, from serene Gymnopédies, to gothic dances and poetic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,542 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,572 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 | 59 | [Les 3 Valses Distinguees Du Precieux Degoute: Les 3 Valses Du Precieux Degoute](https://open.spotify.com/track/7gJaQo9GINV93i6hdTzx1q) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Klara Kormendi](https://open.spotify.com/artist/5V2ay7vEghiqgb7NFFiPEZ) | [Satie: Piano Works, Vol\. 3](https://open.spotify.com/album/5aEuMjq9dlIyba38brYa4x) | 3:55 |
 | 60 | [Gnossiennes: No\. 6](https://open.spotify.com/track/48uQVaVJbUnvKNE0dPQtIB) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Complete solo piano music](https://open.spotify.com/album/5HwlyJmJZgGjTaM1a8YENX) | 1:45 |
 
-Snapshot ID: `MCw1ZWM2N2ZkMDI3Y2U4NGQ1ZWJiMWU2NTljYmIxOWE1NGIzOTRmNzE5`
+Snapshot ID: `MCwwYzAzNGJiZmJkMGNhZmFlZWU4NTJhYmU1YjNhMGJlMWNhN2IzZDI2`

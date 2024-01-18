@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 192696,
+  "num_followers": 192809,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWQyNWNjYmZkODI5ZjU2NDlmNjcxNzgyYzMxNzA5M2UzOTI4MzZi",
+  "snapshot_id": "MCw3OGE4YWE2OWM4ZDg5ODFkOTY3NWQ3YzExZDU5ZTk1OGE2YjRhM2Vh",
   "tracks": [
     {
       "added_at": "2023-10-11 22:12:05",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "En Vivo Guadalajara - Monterrey (Live)",
-        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Se Va Muriendo Mi Alma - En Vivo",
-      "url": "https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe"
+      "duration_ms": 261293,
+      "name": "Como Me Haces Falta",
+      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 261293,
-      "name": "Como Me Haces Falta",
-      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
+      "duration_ms": 231800,
+      "name": "Se Va Muriendo Mi Alma - En Vivo",
+      "url": "https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
+        "name": "De Corazon Bohemio",
+        "url": "https://open.spotify.com/album/05jXRbAmwH2b3XTRfKC0j5"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 175570,
+      "name": "T\u00fa Carcel",
+      "url": "https://open.spotify.com/track/60SAF5Xc5c04HzCNpP4rfO"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 228160,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
-        "name": "De Corazon Bohemio",
-        "url": "https://open.spotify.com/album/05jXRbAmwH2b3XTRfKC0j5"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 175570,
-      "name": "Tu\u0301 Carcel",
-      "url": "https://open.spotify.com/track/60SAF5Xc5c04HzCNpP4rfO"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1712,9 +1712,9 @@
           "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 196813,
-      "name": "Para Que No Te Vayas",
-      "url": "https://open.spotify.com/track/7sKXSKdh0V9gI5OrYnJsyL"
+      "duration_ms": 280653,
+      "name": "Entre Tu Y Yo",
+      "url": "https://open.spotify.com/track/3HzJk6dBCLNvRt2O33JgOm"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "M\u00e1s De Mi Alma",
-        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 257399,
-      "name": "Donde Estar\u00e1 Mi Primavera",
-      "url": "https://open.spotify.com/track/35eHQOoJKDcubkh3A5quLc"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "A Traves De Tus Ojos",
         "url": "https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 286013,
       "name": "Chiquilla Bonita",
       "url": "https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "M\u00e1s De Mi Alma",
+        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 257399,
+      "name": "Donde Estar\u00e1 Mi Primavera",
+      "url": "https://open.spotify.com/track/35eHQOoJKDcubkh3A5quLc"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "M\u00e1s De Mi Alma",
-        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 280026,
-      "name": "Cuando Te Acuerdes De Mi",
-      "url": "https://open.spotify.com/track/461E9GGt5TzUIrOGKAOSzy"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Si Me Recuerdas",
         "url": "https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 286400,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "M\u00e1s De Mi Alma",
+        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 280026,
+      "name": "Cuando Te Acuerdes De Mi",
+      "url": "https://open.spotify.com/track/461E9GGt5TzUIrOGKAOSzy"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Gracias Por Estar Aqu\u00ed",
-        "url": "https://open.spotify.com/album/7gn1PQ1s6ybhPRONxZkmRw"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 220238,
-      "name": "Tres Semanas",
-      "url": "https://open.spotify.com/track/3ukdeAroKGEfV0ozTjpn4k"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Por Amor A Mi Pueblo",
         "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 210653,
       "name": "Una Mujer Como T\u00fa",
       "url": "https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Gracias Por Estar Aqu\u00ed",
+        "url": "https://open.spotify.com/album/7gn1PQ1s6ybhPRONxZkmRw"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 220238,
+      "name": "Tres Semanas",
+      "url": "https://open.spotify.com/track/3ukdeAroKGEfV0ozTjpn4k"
     },
     {
       "added_at": "2023-10-11 22:12:05",

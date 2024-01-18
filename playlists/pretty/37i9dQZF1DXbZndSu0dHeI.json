@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 202943,
+  "num_followers": 203161,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2NkNDBmY2Q1MTA2YzA3OTA3ZTcyMmQwMWQyMGZkM2E5YzI3ZmFh",
+  "snapshot_id": "MCw5YzRjODExOTk1ZmE5ZmEwZTBhYjcwM2ZjOGI5ZTE2YWExOGZhZmFi",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
     },
     {
-      "added_at": "2023-01-13 13:15:53",
-      "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 59026,
-      "name": "Flight Risk",
-      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
-    },
-    {
       "added_at": "2023-05-18 14:23:33",
       "album": {
         "name": "Drop Stop Roll",
@@ -363,6 +347,22 @@
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "added_at": "2023-01-13 13:15:53",
+      "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 59026,
+      "name": "Flight Risk",
+      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "The Moldy Peaches",
         "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 180093,
       "name": "Anyone Else But You",
       "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Seventeen Going Under (Acoustic)",
@@ -867,6 +851,22 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
     },
     {
       "added_at": "2023-09-29 10:53:41",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "69 Love Songs",
-        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
-      },
-      "artists": [
-        {
-          "name": "The Magnetic Fields",
-          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
-        }
-      ],
-      "duration_ms": 166133,
-      "name": "All My Little Words",
-      "url": "https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs"
-    },
-    {
       "added_at": "2023-09-29 10:53:41",
       "album": {
         "name": "Yard",
@@ -979,6 +963,22 @@
       "duration_ms": 245466,
       "name": "Broadview",
       "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "All My Little Words",
+      "url": "https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6"
-    },
-    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "The Florist",
@@ -1043,6 +1027,22 @@
       "duration_ms": 190601,
       "name": "The Florist",
       "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
     },
     {
+      "added_at": "2023-07-28 13:45:12",
+      "album": {
+        "name": "The Secret To Life",
+        "url": "https://open.spotify.com/album/49YsmuVR4Dk9iC2m5LPSKy"
+      },
+      "artists": [
+        {
+          "name": "FIZZ",
+          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
+        }
+      ],
+      "duration_ms": 235887,
+      "name": "Close One",
+      "url": "https://open.spotify.com/track/4mL3gs1HONGGLaZyW6OYMq"
+    },
+    {
       "added_at": "2023-01-20 16:59:50",
       "album": {
         "name": "Tropic Morning News",
@@ -1171,22 +1187,6 @@
       "duration_ms": 166053,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
-    },
-    {
-      "added_at": "2023-07-28 13:45:12",
-      "album": {
-        "name": "The Secret To Life",
-        "url": "https://open.spotify.com/album/49YsmuVR4Dk9iC2m5LPSKy"
-      },
-      "artists": [
-        {
-          "name": "FIZZ",
-          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
-        }
-      ],
-      "duration_ms": 235887,
-      "name": "Close One",
-      "url": "https://open.spotify.com/track/4mL3gs1HONGGLaZyW6OYMq"
     },
     {
       "added_at": "2023-09-29 10:53:41",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Margaux",
         "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "About A Boy Soundtrack",
         "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
       },
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+        "name": "Motels",
+        "url": "https://open.spotify.com/album/59ok1dIXKrSGEuyziyoyfO"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+      "duration_ms": 203434,
+      "name": "Motels",
+      "url": "https://open.spotify.com/track/1V888fh2JLVzMElr1pEz6Z"
     },
     {
       "added_at": "2022-08-05 10:31:40",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 67464,
+  "num_followers": 67478,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWZiZjQwZmY4YmMzYzI3ODhiYWQwNDI3MDJiOWMwYWY2NTkxMTAy",
+  "snapshot_id": "MCw0N2E2ZDYxZmI1ZTExM2E5OTc3NDVjMmIxNjIwMTYzNDg1NTRjYTgz",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Casino Twilight Dogs",
         "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 239120,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "In The Summertime",
-        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
-      },
-      "artists": [
-        {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "In the Summertime - Single Version",
-      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 204128,
       "name": "I Should Be so Lucky",
       "url": "https://open.spotify.com/track/0RggFSMfsJvAsrI4itTIzr"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "In The Summertime",
+        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "In the Summertime - Single Version",
+      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
     },
     {
       "added_at": "2022-04-18 02:03:22",

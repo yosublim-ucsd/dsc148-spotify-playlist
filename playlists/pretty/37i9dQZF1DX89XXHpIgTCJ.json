@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 299757,
+  "num_followers": 299800,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmNkYTcyNWI3YzA0ODM4NGZjNGIwZjNiZGU1ZDliY2E5YTBkY2Y4",
+  "snapshot_id": "MCw1ZDA1NmFhNDNhY2FhNDI2ZGU2ODZmOGZjOTU0YzU4M2QyOWY1NjYy",
   "tracks": [
     {
       "added_at": "2023-10-01 21:11:39",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Original Prankster",
-      "url": "https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 289866,
       "name": "N 2 Gether Now",
       "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Original Prankster",
+      "url": "https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Apelogies",
-        "url": "https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        },
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 276160,
-      "name": "Pure 90 (Rapping Queen)",
-      "url": "https://open.spotify.com/track/24ZEVCdOTKgdcM41B598NM"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 212466,
       "name": "The Mighty Fall",
       "url": "https://open.spotify.com/track/4rNOFJdwQq0ulVDKOF447L"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Apelogies",
+        "url": "https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        },
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 276160,
+      "name": "Pure 90 (Rapping Queen)",
+      "url": "https://open.spotify.com/track/24ZEVCdOTKgdcM41B598NM"
     },
     {
       "added_at": "2023-10-01 21:11:39",

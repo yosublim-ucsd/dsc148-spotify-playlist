@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: SXMPRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,108 likes - 134 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,260 likes - 134 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 86 | [Skull & Bones 322](https://open.spotify.com/track/07l92BXg0M1ab1HO4viEBR) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [Skull & Bones 322](https://open.spotify.com/album/3ByAzK9AeUYiDcRZk0SYGs) | 1:50 |
 | 87 | [RITZ CARLTON](https://open.spotify.com/track/0f15W2rrueW4URXoQGaqFC) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT) | 2:48 |
 | 88 | [GANJA GOBLIN](https://open.spotify.com/track/2C0qiqukMAE9WZjvQB76qH) | [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [GANJA GOBLIN](https://open.spotify.com/album/6U4IaeKOwAnscsbdwEF5vJ) | 2:30 |
-| 89 | [YOU](https://open.spotify.com/track/2kBkseTPx3JksWLmfSAtTL) | [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju), [Cardeairé Latrelle](https://open.spotify.com/artist/43f5i9c2rhXrHmJaBt6bmG) | [YOU](https://open.spotify.com/album/24ATrBdz0bnhEeyjOioPL8) | 2:08 |
+| 89 | [YOU](https://open.spotify.com/track/2kBkseTPx3JksWLmfSAtTL) | [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [YOU](https://open.spotify.com/album/24ATrBdz0bnhEeyjOioPL8) | 2:08 |
 | 90 | [Easter Pink](https://open.spotify.com/track/4GSOrzdPw00JS2aB2dAkSi) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Easter Pink](https://open.spotify.com/album/4zvl90HgnIRiO1sBRUPmf9) | 2:34 |
 | 91 | [XTC](https://open.spotify.com/track/7j1nSP2STIKRLndR6UDV2P) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/2zEFfNgzxryDCN9cAzRN0s) | 1:52 |
 | 92 | [D.O.A](https://open.spotify.com/track/1emIl2ARLo3I2CXbh3EKz1) | [Warlord Colossus](https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf), [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [D.O.A](https://open.spotify.com/album/2swBtiVdXKsTFcm2hWkN4D) | 2:04 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 133 | [ÅÅÅFRESTELSE](https://open.spotify.com/track/2Rwcxnc8f1oyaxBvvX5TJf) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [ÅÅÅFRESTELSE](https://open.spotify.com/album/0pSR4oL8sKE2ZriOo35tJR) | 2:22 |
 | 134 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 
-Snapshot ID: `MCwxM2I0MDgxOGRhNWQyZTEzZTY1OWUzZTBmNzE0YzMxYjQxY2FiNTEz`
+Snapshot ID: `MCw5MjQzNGE1ZTQyMmNlMjgzYTE2YjRlODJhNjEzNDExYmIzNzQxNmY2`

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:   <a href="spotify:artist:1O9iHQjrVuiAYOJFCBeFSl">serpentwithfeet</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,238 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,256 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 |
-| 2 | [Safe Word](https://open.spotify.com/track/4i3h8s1fqTDYfSfd86T5It) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Safe Word](https://open.spotify.com/album/5JRVoGHRmvZbcajnXfZTHp) | 2:46 |
-| 3 | [stephanie](https://open.spotify.com/track/3ngowGyxG1ZKzOAfPYqfL1) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [stephanie](https://open.spotify.com/album/1VBFEXrp29WLCxPCbtRj7b) | 2:23 |
-| 4 | [Third Coast](https://open.spotify.com/track/5ta1fZrCY7b98YNJqNN3H8) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 2:36 |
-| 5 | [Yung Joc \(feat\. Luh Tyler\)](https://open.spotify.com/track/38f9cuHs7dmGcyRCXAHxy5) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Yung Joc \(feat\. Luh Tyler\)](https://open.spotify.com/album/555Jn3qacCtSCx2kMk40nB) | 2:10 |
+| 1 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 |
+| 2 | [Third Coast](https://open.spotify.com/track/5ta1fZrCY7b98YNJqNN3H8) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 2:36 |
+| 3 | [Yung Joc \(feat\. Luh Tyler\)](https://open.spotify.com/track/38f9cuHs7dmGcyRCXAHxy5) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Yung Joc \(feat\. Luh Tyler\)](https://open.spotify.com/album/555Jn3qacCtSCx2kMk40nB) | 2:10 |
+| 4 | [Safe Word](https://open.spotify.com/track/4i3h8s1fqTDYfSfd86T5It) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Safe Word](https://open.spotify.com/album/5JRVoGHRmvZbcajnXfZTHp) | 2:46 |
+| 5 | [stephanie](https://open.spotify.com/track/3ngowGyxG1ZKzOAfPYqfL1) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [stephanie](https://open.spotify.com/album/1VBFEXrp29WLCxPCbtRj7b) | 2:23 |
 | 6 | [Breathtaking Flows](https://open.spotify.com/track/0TN6inRWqZ6OU8XU2kRZhc) | [TYL3R DAVIS](https://open.spotify.com/artist/1ywKAvVzeUd6GkzxvGm5jA), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [If You're Checking for Me \(Deluxe Version\)](https://open.spotify.com/album/1Zrod8vPdr7YaVaStkFX87) | 3:20 |
 | 7 | [CHANTE'S GROOVE](https://open.spotify.com/track/2qMKGSiQvgJAT7J94kloTB) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [CHANTE'S GROOVE](https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X) | 3:15 |
-| 8 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 |
-| 9 | [Xho Sex](https://open.spotify.com/track/4pNgQB56Yr0t8pMXut6Zvv) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Xho Sex](https://open.spotify.com/album/5hm2nCOxOQNQQbho2emm9t) | 3:12 |
-| 10 | [On & On](https://open.spotify.com/track/4z0bo5AW4uEgHHa8DEco9Z) | [Hurri Haran](https://open.spotify.com/artist/6L05JxqjwY0sMca5WfWrtG) | [On & On](https://open.spotify.com/album/6EwKowFhVFBEV8qeJ6f0gN) | 1:57 |
-| 11 | [Up And Down](https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 3:04 |
+| 8 | [Xho Sex](https://open.spotify.com/track/4pNgQB56Yr0t8pMXut6Zvv) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Xho Sex](https://open.spotify.com/album/5hm2nCOxOQNQQbho2emm9t) | 3:12 |
+| 9 | [On & On](https://open.spotify.com/track/4z0bo5AW4uEgHHa8DEco9Z) | [Hurri Haran](https://open.spotify.com/artist/6L05JxqjwY0sMca5WfWrtG) | [On & On](https://open.spotify.com/album/6EwKowFhVFBEV8qeJ6f0gN) | 1:57 |
+| 10 | [Up And Down](https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 3:04 |
+| 11 | [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 |
 | 12 | [Water \- Remix](https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Water \(Remix\)](https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z) | 3:20 |
 | 13 | [SAME MISTAKE](https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SAME MISTAKE](https://open.spotify.com/album/41EmgJAJQInxILfagQ608k) | 2:58 |
 | 14 | [Mean Well](https://open.spotify.com/track/2fZjJ78yaF8CbjBRcIC3rY) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Mean Well](https://open.spotify.com/album/1e1Iwj8gw8pFe7Ba0PvQiy) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 |
 | 100 | [EMOTIONS DIE YOUNG](https://open.spotify.com/track/6bma2tbLXpqO2bEGqMVh3S) | [Amber Ryann](https://open.spotify.com/artist/4mbv0HeV0rHkSW9CqqANPT) | [EMOTIONS DIE YOUNG](https://open.spotify.com/album/5ixY1CqyqRfuNZphz28rh6) | 2:49 |
 
-Snapshot ID: `MCw0ZWU3ODgwZmU1ZTMzZjkyNWRjNjZlMGY0ZTViMmQ5ODM1OGUyYjky`
+Snapshot ID: `MCxlNzFjZDI2ODVhMmVjN2MwZjgwMDJkMjNkNDJkMWQyZDRmNzM3MmJm`

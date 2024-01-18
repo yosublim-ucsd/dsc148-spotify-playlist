@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 422506,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 270266,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/6bK3YND4NEVYhjnLWo7YQ0"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 306826,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/3GGslX17J2F3IzVE5yIiRJ"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 422813,
       "name": "Bye Bye Blackbird - Live",
       "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 450133,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/2nWQ1vNWFScr1w8VCJj1tz"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 296253,
       "name": "Elisian/Inutil Paisagem",
       "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 288664,
       "name": "Flotten",
       "url": "https://open.spotify.com/track/0Cni65EmkblPcDDM6f1Nwd"
@@ -1256,6 +1256,32 @@
       "duration_ms": 342000,
       "name": "Glade",
       "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
+    },
+    {
+      "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
+      },
+      "artists": [
+        {
+          "name": "Arne Torvik Trio",
+          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
+        },
+        {
+          "name": "Bj\u00f8rnar Kaldefoss Tveite",
+          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
+        },
+        {
+          "name": "\u00d8ystein Aarnes Vik",
+          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283266,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa"
     },
     {
       "album": {
@@ -1630,7 +1656,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 301783,
       "name": "June 2nd",
       "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
@@ -1790,7 +1816,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 228181,
       "name": "Loose Caboose",
       "url": "https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6"
@@ -1994,7 +2020,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 285770,
       "name": "Mosa\u00efque",
       "url": "https://open.spotify.com/track/46ENsWZeNIoYgu8VQfxhUc"
@@ -2074,7 +2100,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 287676,
       "name": "Night Creatures",
       "url": "https://open.spotify.com/track/06wDTcGK2FxVvH45bak69Z"
@@ -2289,6 +2315,36 @@
     },
     {
       "album": {
+        "name": "Professor Nelson Strikes Again",
+        "url": "https://open.spotify.com/album/4DnzGUum1AtQ1RMeclFhma"
+      },
+      "artists": [
+        {
+          "name": "The New York Second",
+          "url": "https://open.spotify.com/artist/5IvR1puiIiwZY0xh5VFWR9"
+        },
+        {
+          "name": "Harald Walkate",
+          "url": "https://open.spotify.com/artist/1h6G6eVgBdJ88Mo6mMGrl2"
+        },
+        {
+          "name": "Max Sergeant",
+          "url": "https://open.spotify.com/artist/1Zg8kiLomzWw8H4vTsqFT2"
+        },
+        {
+          "name": "Lorenzo Buffa",
+          "url": "https://open.spotify.com/artist/0wK2uFLKljFvDacip7lXbB"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251863,
+      "name": "Professor Nelson Strikes Again - Single Version",
+      "url": "https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k"
+    },
+    {
+      "album": {
         "name": "Pure Imagination",
         "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
       },
@@ -2398,6 +2454,40 @@
       "duration_ms": 283998,
       "name": "Quiet Sense (feat. Paolo Fresu)",
       "url": "https://open.spotify.com/track/56OCZENfcrmeCpufvWZd0P"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7mZIkCWKRkDABE76QP4YQL"
+      },
+      "artists": [
+        {
+          "name": "Mads Hansen",
+          "url": "https://open.spotify.com/artist/6iKV4zoLGRiV89fT1hbjSF"
+        },
+        {
+          "name": "Mathias Heise",
+          "url": "https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW"
+        },
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        },
+        {
+          "name": "Kaspar Vadsholt",
+          "url": "https://open.spotify.com/artist/0OXMwGe6XaYuXQOIIBBNEZ"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255746,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi"
     },
     {
       "album": {
@@ -2552,7 +2642,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 317112,
       "name": "Root of the Matter",
       "url": "https://open.spotify.com/track/08N0F5H3AsH3w0kh8qeBry"
@@ -2588,7 +2678,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 208880,
       "name": "Sconsolato",
       "url": "https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM"
@@ -2686,7 +2776,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 323426,
       "name": "Some Gospel According to Matthew - Live",
       "url": "https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7"
@@ -2872,7 +2962,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 236886,
       "name": "Sun Khosi",
       "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
@@ -3218,7 +3308,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 359982,
       "name": "Theo",
       "url": "https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA"
@@ -3464,7 +3554,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 386786,
       "name": "Uncle John\u2019s Band",
       "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"

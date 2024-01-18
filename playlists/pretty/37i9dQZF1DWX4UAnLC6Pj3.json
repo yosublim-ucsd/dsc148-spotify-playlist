@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Los Sebastianes y Nathan Galante en portada.",
-  "num_followers": 1144007,
+  "num_followers": 1144124,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTAwODZjYTdjOWQ3ZTVlNjkyY2QyNDk3OWVhZjA3YjZjNzQ2ODI4",
+  "snapshot_id": "MCw0NjQ3ZGU1NTM2YmQ3ZjZhMjRjMjIwY2IwNTk3YjhmNDYyOWIwYjUw",
   "tracks": [
     {
       "added_at": "2024-01-12 05:37:53",
@@ -533,7 +533,7 @@
         }
       ],
       "duration_ms": 226345,
-      "name": "Dile a Tu Orgullo - En Vivo",
+      "name": "Dile a Tu Orgullo (En Vivo)",
       "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
     },
     {
@@ -1231,22 +1231,18 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "Apenas es Martes",
-        "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 216633,
-      "name": "Apenas es Martes",
-      "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+      "duration_ms": 220653,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -1267,18 +1263,18 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
+        "name": "Quien Te Dio Permiso",
+        "url": "https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 220653,
-      "name": "Me Rindo",
-      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
+      "duration_ms": 173206,
+      "name": "Quien Te Dio Permiso",
+      "url": "https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -1299,22 +1295,6 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "Soltero Para Rato",
-        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Soltero Para Rato",
-      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
         "name": "La Despedida",
         "url": "https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5"
       },
@@ -1331,6 +1311,22 @@
       "duration_ms": 179821,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
+        "name": "Soltero Para Rato",
+        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Soltero Para Rato",
+      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -1395,6 +1391,26 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
+        "name": "M En El Radar",
+        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 140546,
+      "name": "M En El Radar",
+      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
         "name": "Pocos Regalos (En vivo)",
         "url": "https://open.spotify.com/album/4TT4BLanbzA8On89yNnY4t"
       },
@@ -1415,38 +1431,22 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "Quien Te Dio Permiso",
-        "url": "https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3"
+        "name": "Apenas es Martes",
+        "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
       },
       "artists": [
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Quien Te Dio Permiso",
-      "url": "https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
-        "name": "M En El Radar",
-        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         },
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 140546,
-      "name": "M En El Radar",
-      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
+      "duration_ms": 216633,
+      "name": "Apenas es Martes",
+      "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "Tatuajes",
-        "url": "https://open.spotify.com/album/2ckk95XUTF7wxUS3E2ypV9"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 206496,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/3OshQHBRhfbuX9Zm70GKk0"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
         "name": "Que Te Trague La Tierra",
         "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 188266,
       "name": "Que Te Trague La Tierra",
       "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
+        "name": "Tatuajes",
+        "url": "https://open.spotify.com/album/2ckk95XUTF7wxUS3E2ypV9"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 206496,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/3OshQHBRhfbuX9Zm70GKk0"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -1615,6 +1615,38 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Esta Vez Soy Yo",
+      "url": "https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
+        "name": "Lo Que No Es Pa' Uno",
+        "url": "https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Lo Que No Es Pa' Uno",
+      "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
         "name": "Amor Clandestino",
         "url": "https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA"
       },
@@ -1631,22 +1663,6 @@
       "duration_ms": 227696,
       "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
       "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Esta Vez Soy Yo",
-      "url": "https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -1747,42 +1763,6 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "Lo Que No Es Pa' Uno",
-        "url": "https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Lo Que No Es Pa' Uno",
-      "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
-        "name": "La Patrona",
-        "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        },
-        {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
-        }
-      ],
-      "duration_ms": 150527,
-      "name": "La Patrona",
-      "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
         "name": "Una Julio 70",
         "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
       },
@@ -1795,22 +1775,6 @@
       "duration_ms": 175829,
       "name": "Una Julio 70",
       "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
-        "name": "Homenaje a Valent\u00edn Elizalde (En Vivo)",
-        "url": "https://open.spotify.com/album/19DgV16VnXhykPotSNd6T0"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 280166,
-      "name": "Homenaje a Valent\u00edn Elizalde - En Vivo",
-      "url": "https://open.spotify.com/track/5wg7yhyo2jPJBbjphZORIP"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -1835,6 +1799,42 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
+        "name": "La Patrona",
+        "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        }
+      ],
+      "duration_ms": 150527,
+      "name": "La Patrona",
+      "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
+        "name": "Homenaje a Valent\u00edn Elizalde (En Vivo)",
+        "url": "https://open.spotify.com/album/19DgV16VnXhykPotSNd6T0"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 280166,
+      "name": "Homenaje a Valent\u00edn Elizalde - En Vivo",
+      "url": "https://open.spotify.com/track/5wg7yhyo2jPJBbjphZORIP"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "Lo Que Les Falta",
-        "url": "https://open.spotify.com/album/4cGj439SXTrDijNzAVh6pm"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 147725,
-      "name": "Como un Diamante",
-      "url": "https://open.spotify.com/track/31H3yoObeK8WjkbJxoVgvq"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
         "name": "De Memoria Me Las S\u00e9",
         "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 163320,
       "name": "De Memoria Me Las S\u00e9",
       "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
+        "name": "Lo Que Les Falta",
+        "url": "https://open.spotify.com/album/4cGj439SXTrDijNzAVh6pm"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 147725,
+      "name": "Como un Diamante",
+      "url": "https://open.spotify.com/track/31H3yoObeK8WjkbJxoVgvq"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "No Es Cierto Que Nunca Te Quise",
-        "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 140063,
-      "name": "No Es Cierto Que Nunca Te Quise",
-      "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
         "name": "Ojitos Caf\u00e9s",
         "url": "https://open.spotify.com/album/4F3C6UQX3tnAsLD5nl2yCt"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 190981,
       "name": "Ojitos Caf\u00e9s",
       "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
+        "name": "No Es Cierto Que Nunca Te Quise",
+        "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 140063,
+      "name": "No Es Cierto Que Nunca Te Quise",
+      "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -2127,18 +2127,18 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "C\u00f3mo Poder Olvidarte",
-        "url": "https://open.spotify.com/album/273EJtAWuOPIOYmEnXyZN9"
+        "name": "Modo Crudo (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
       },
       "artists": [
         {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 194933,
-      "name": "Como Poder Olvidarte",
-      "url": "https://open.spotify.com/track/0XTJeOTpUs02t0786QsUXz"
+      "duration_ms": 128513,
+      "name": "Modo Crudo - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "Modo Crudo (Versi\u00f3n Banda)",
-        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 128513,
-      "name": "Modo Crudo - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
         "name": "Qu\u00e9 Va a Ser de M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/0Yn8x95Ol7GqDmjgJIk85k"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 194645,
       "name": "Qu\u00e9 Va a Ser de M\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/2WKVmJuiIEt5XH1x5MCJJw"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
+        "name": "C\u00f3mo Poder Olvidarte",
+        "url": "https://open.spotify.com/album/273EJtAWuOPIOYmEnXyZN9"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "Como Poder Olvidarte",
+      "url": "https://open.spotify.com/track/0XTJeOTpUs02t0786QsUXz"
     }
   ],
   "unique_name": "Banda 2024",

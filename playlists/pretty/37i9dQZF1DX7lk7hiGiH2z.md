@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,246 likes - 47 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,252 likes - 47 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 46 | [Eisbär\-Pinguin Rock](https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT) | [Simone Ludwig](https://open.spotify.com/artist/18gN8Rna2Zfjt2t4wh8QwI) | [Eisbär\-Pinguin Rock](https://open.spotify.com/album/6hXLzTFy2ZHZYmFnFOe1uB) | 3:05 |
 | 47 | [Süßer die Glocken nie klingen](https://open.spotify.com/track/61wnGRwPJYTj3e9kvcCZiv) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:20 |
 
-Snapshot ID: `MCw1MDM5Y2NiOGM5NGVjMDMxMDJkMDA5MWZmZDU1ZThiMTFkOGE2YjAx`
+Snapshot ID: `MCwzNGMwZjVkMzI3MDE0YWE1ZjliMmU1YjgwMDQyMjNhOTBhZmJiNDRj`

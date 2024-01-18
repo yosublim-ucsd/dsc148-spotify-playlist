@@ -4,7 +4,7 @@
 
 > This country is a corpse
 
-23 songs - 1 hr 30 min
+24 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 | 2023-05-10 |  |
 | [Black Dresses](https://open.spotify.com/track/0ErVG3P2bJvIMiThIItcwj) | [The Builders and The Butchers](https://open.spotify.com/artist/3fwCB7lIrdjKWiFN4vz99j) | [The Builders and the Butchers](https://open.spotify.com/album/6SS996f1ts4ue2txHeDGyq) | 3:29 | 2023-05-15 |  |
 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:38 | 2023-05-21 |  |
+| [Born2Run](https://open.spotify.com/track/66Dvkzi4HyhKRJsBoOzQVa) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Born2Run](https://open.spotify.com/album/0zdCLnsn9pHHgxEMNEFjR7) | 2:34 | 2024-01-17 |  |
 | [C'mon Down](https://open.spotify.com/track/2OqfU8bYXte0FVWEKL10KC) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Providence](https://open.spotify.com/album/0mV9xVaTWHbakQC10LKtgL) | 2:37 | 2023-10-30 |  |
 | [Carolina Drama](https://open.spotify.com/track/2LN8mDsvMvG7JU69vtpLhk) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 5:55 | 2023-05-10 |  |
 | [Dust Bowl Dance](https://open.spotify.com/track/2QIt8RWdk5ZJneKTt4sZnK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:43 | 2023-05-10 |  |

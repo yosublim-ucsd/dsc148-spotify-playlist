@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 6201772,
+  "2024-01-18": 6201738,
   "date_first_scraped": "2021-12-21",
   "description": "Listen to all the tracks you've been missing. Cover: Katy Perry",
   "name": "Hit Rewind",
@@ -1393,6 +1393,28 @@
       "duration_ms": 204773,
       "name": "I Really Like You",
       "url": "https://open.spotify.com/track/0PGLRTN0X6DrXh645WJCIY"
+    },
+    {
+      "album": {
+        "name": "At Night, Alone.",
+        "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "I Took A Pill In Ibiza - Seeb Remix",
+      "url": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
     },
     {
       "album": {
@@ -3431,7 +3453,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 210960,
       "name": "Stereo Hearts (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 
 > Dead dove, don&\#x27;t eat
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 30 songs - 1 hr 53 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 32 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,5 +38,7 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 | 28 | [Sixteen Tons](https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d) | [Geoff Castellucci](https://open.spotify.com/artist/1TIQZBUSqWPrBZuh80x6Rz) | [Sixteen Tons](https://open.spotify.com/album/1TYeSHzqyRK8gfn8I0drTr) | 2:50 |
 | 29 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
 | 30 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 |
+| 31 | [Rät](https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:14 |
+| 32 | [Born2Run](https://open.spotify.com/track/66Dvkzi4HyhKRJsBoOzQVa) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Born2Run](https://open.spotify.com/album/0zdCLnsn9pHHgxEMNEFjR7) | 2:34 |
 
-Snapshot ID: `MzMsNmFkOTcxNzgwZWYwYjg5NDM1MmY1MTBmMzlhNTRmZDgzYWJhOGM0ZA==`
+Snapshot ID: `MzUsMmQyZGRlYjYxNWQ4YWM3ZDAzZjEzZmFjNjk3MDIwOTBhNzdjN2JmMw==`

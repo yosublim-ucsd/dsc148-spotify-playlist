@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 16681,
+  "num_followers": 16699,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Nzc0ZjM2ZTBjYmM1YmUxNWM4Y2YwNzYyNzJlYTg4ZDdhZDY5ODdi",
+  "snapshot_id": "MCwzYTMzMzc0NWE4ZGUyODMyMjJhYTAxM2JkZTQ4MjBhODYzOGRlYWZl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 305280,
+      "name": "UMI Says",
+      "url": "https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 275320,
       "name": "Nakamarra",
       "url": "https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Black On Both Sides",
-        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
-      },
-      "artists": [
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 305280,
-      "name": "UMI Says",
-      "url": "https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv"
     },
     {
       "added_at": "2022-10-01 16:00:00",

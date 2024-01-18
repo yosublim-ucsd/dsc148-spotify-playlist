@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 88278,
+  "num_followers": 88296,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDE4MjAxZTgwN2JmMmJiMTk1NmU2ZjVmYzY3M2IzZmJhZWE5ZmQ4",
+  "snapshot_id": "MCwwNzBhZDdhZTA1NzcxMTFjZTZkMzZiZGMwYTVlY2Y0N2ZmNmM0NDk3",
   "tracks": [
     {
       "added_at": "2023-10-26 20:41:14",
@@ -270,6 +270,10 @@
         {
           "name": "Moritz Von Oswald",
           "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        },
+        {
+          "name": "Borderland",
+          "url": "https://open.spotify.com/artist/4ttW3XIF666GUYBF2tEMz9"
         }
       ],
       "duration_ms": 367500,
@@ -514,6 +518,10 @@
         {
           "name": "Moritz Von Oswald",
           "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        },
+        {
+          "name": "Borderland",
+          "url": "https://open.spotify.com/artist/4ttW3XIF666GUYBF2tEMz9"
         }
       ],
       "duration_ms": 554692,

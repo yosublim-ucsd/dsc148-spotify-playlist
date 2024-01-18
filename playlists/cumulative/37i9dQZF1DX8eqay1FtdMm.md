@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Kim Min Seok, Sam Ryder\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 10cm\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-469 songs - 1 day 6 hr 33 min
+471 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 | 2022-07-25 | 2024-01-07 |
 | [Day by Day](https://open.spotify.com/track/4nndQ97Nm2HZAIVvrMSjpu) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Yoon Mi Rae \(T\) the First Album \(As Time Goes By\)](https://open.spotify.com/album/0RoshgK629hYRo0wU6LHb0) | 4:17 | 2023-12-01 | 2023-12-14 |
 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 | 2021-12-20 |  |
+| [Dear](https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.5 \[Dear\]](https://open.spotify.com/album/5Xj2IIbt7LhiFppSWrLB6l) | 3:41 | 2024-01-17 |  |
 | [Dear](https://open.spotify.com/track/5xUDsNJKebll4g40mGcnPl) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Dear](https://open.spotify.com/album/20YuFf31mUzKLlcKTAGEV5) | 5:19 | 2021-12-20 | 2022-07-28 |
 | [Decision to leave](https://open.spotify.com/track/0qP6zleSUcWWlS3Q5Ikoj6) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Decision to leave](https://open.spotify.com/album/5omlHbU5tSowwzqJ1QCFem) | 3:08 | 2023-06-15 | 2023-07-20 |
 | [Deeply](https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 | 2022-04-21 | 2023-12-02 |
@@ -95,7 +96,7 @@
 | [Diving \(Piano by Seokwon Lee\)](https://open.spotify.com/track/76BHfwrmbjxqHiUFdJS4zL) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 3:32 | 2023-02-13 | 2023-02-25 |
 | [Do](https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Do](https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX) | 2:45 | 2023-10-29 |  |
 | [dolphin](https://open.spotify.com/track/4GM3fJA0hhvLK654hg5fXO) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [dolphin](https://open.spotify.com/album/14hlDO2H1pMIUVovoMpaQ8) | 3:04 | 2022-03-29 | 2022-04-21 |
-| [Don't forget me](https://open.spotify.com/track/0wvsRYNOtR3c2aPw38LJSR) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Don't forget me](https://open.spotify.com/album/6R9g1gN8dkbfzQIVzsw1pr) | 3:58 | 2024-01-01 |  |
+| [Don't forget me](https://open.spotify.com/track/0wvsRYNOtR3c2aPw38LJSR) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Don't forget me](https://open.spotify.com/album/6R9g1gN8dkbfzQIVzsw1pr) | 3:58 | 2024-01-01 | 2024-01-18 |
 | [Don't treat me well](https://open.spotify.com/track/6gf5ELYMwGOYvihbp6NA0s) | [yeo eun](https://open.spotify.com/artist/00hyJ4Om3BEqgLwfqHSFxv) | [Don't treat me well](https://open.spotify.com/album/2FqhiCBwlQAuNW87paj41N) | 3:38 | 2022-02-10 | 2022-04-09 |
 | [Don’t Forget](https://open.spotify.com/track/0THW04vlFAkfflASMFam0t) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Don't Forget](https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt) | 3:39 | 2022-07-25 |  |
 | [Dream](https://open.spotify.com/track/2Mbq7v42FvbLJewOfCw7hv) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [Dream](https://open.spotify.com/album/6mub9pdrLa8fCqzWP4kk64) | 3:08 | 2022-09-05 | 2022-09-07 |
@@ -208,6 +209,7 @@
 | [Just Cry](https://open.spotify.com/track/6rf2JDFWsIxr888KIJ7QzN) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [from h](https://open.spotify.com/album/3KouwHtDV9HQhf6nQxIO4u) | 4:13 | 2022-03-24 | 2022-05-21 |
 | [Just Look for you](https://open.spotify.com/track/15Xk9pTVjhLH3nldqR89Sl) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1IIaSwpqJvJCvxXyM69c3A) | 3:41 | 2022-07-25 | 2024-01-10 |
 | [Just Look for you](https://open.spotify.com/track/1rP25u8w92R4rq1UttWSeq) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate,Pt.5\(Original Television Soundtrack\)](https://open.spotify.com/album/2AZ7tXHNJnGDT1Q7n4L1Yz) | 3:41 | 2021-12-20 | 2022-04-20 |
+| [Just Look for you](https://open.spotify.com/track/21Kpv5vg4jtgfgIBgAqm2U) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/04B0uLq5aKWhjVmA8Vrj8I) | 3:41 | 2024-01-17 |  |
 | [Kaze](https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA Studio Live Album 'MINDSET'](https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi) | 5:31 | 2023-05-10 | 2023-08-29 |
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-04-01 | 2022-05-17 |
 | [Last Page \(prod\. by yoonsang\)](https://open.spotify.com/track/1aS1LxAKRyWCu5wPPfCQt3) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [Last Page \(prod\. by yoonsang\)](https://open.spotify.com/album/02r7KPdGKIirL2sAUOH2KQ) | 4:12 | 2022-03-24 | 2022-04-16 |
@@ -328,7 +330,7 @@
 | [Simple is the best](https://open.spotify.com/track/0CuWEtjM6WSMOZaUe25qRX) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 3:43 | 2022-03-24 | 2022-04-21 |
 | [Snow Flower](https://open.spotify.com/track/0t3lRe5onWuDCm5533MRZ1) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Snow Flower](https://open.spotify.com/album/3GeRwFsu0S9PKpbzerXDt5) | 5:43 | 2023-01-25 | 2023-02-21 |
 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 | 2022-03-24 |  |
-| [Solo Christmas](https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Solo Christmas](https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h) | 3:36 | 2021-12-20 |  |
+| [Solo Christmas](https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Solo Christmas](https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h) | 3:36 | 2021-12-20 | 2024-01-18 |
 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 | 2022-07-25 |  |
 | [Some](https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn) | 3:01 | 2021-12-20 | 2022-07-29 |
 | [SOMETHING LIKE THAT \(2022\)](https://open.spotify.com/track/4it25gP6QbbMBMNEeRXffp) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [SOMETHING LIKE THAT \(2022\)](https://open.spotify.com/album/21qp6zQffu78ZujaxYbjCf) | 4:30 | 2022-12-14 | 2022-12-20 |

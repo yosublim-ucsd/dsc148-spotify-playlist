@@ -1527,6 +1527,32 @@
     },
     {
       "album": {
+        "name": "My Head is A Jungle - MK Remix / Radio Edit",
+        "url": "https://open.spotify.com/album/1V2K4IdlYAMC73lZyNTE7W"
+      },
+      "artists": [
+        {
+          "name": "lusttqwe",
+          "url": "https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR"
+        },
+        {
+          "name": "rufflws",
+          "url": "https://open.spotify.com/artist/6XeLF1KiaS5aBmp2d1fghp"
+        },
+        {
+          "name": "Lythx",
+          "url": "https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206007,
+      "name": "My Head is A Jungle - MK Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/1AUdrHbGmrPgWkda6JjylP"
+    },
+    {
+      "album": {
         "name": "My Head Is A Jungle (MK Remix / Radio Edit)",
         "url": "https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn"
       },
@@ -1546,7 +1572,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 205161,
       "name": "My Head Is A Jungle - MK Remix / Radio Edit",
       "url": "https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB"

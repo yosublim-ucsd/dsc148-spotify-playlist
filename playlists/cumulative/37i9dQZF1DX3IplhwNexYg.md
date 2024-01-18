@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Lime Garden
 
-522 songs - 1 day 5 hr 20 min
+523 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [Self Portrait](https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Self Portrait](https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2) | 3:32 | 2022-09-08 | 2022-09-30 |
 | [Sell Out](https://open.spotify.com/track/5aWaPqgkheottumavM0tix) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Sell Out](https://open.spotify.com/album/1CTbodOT5kXvCLAyD2poEZ) | 3:07 | 2022-10-13 | 2023-01-24 |
 | [Sentimental Animal](https://open.spotify.com/track/7xMCnyJZvWYjRG4JD5NwGe) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Sentimental Animal](https://open.spotify.com/album/5FLjveWHRuBl6xnzoOldnc) | 4:35 | 2021-03-09 | 2022-01-17 |
-| [Sepsis](https://open.spotify.com/track/1oMceEpywwehJQWKGueTlc) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:46 | 2023-12-01 |  |
+| [Sepsis](https://open.spotify.com/track/1oMceEpywwehJQWKGueTlc) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:46 | 2023-12-01 | 2024-01-18 |
 | [Sepsis](https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs) | 3:46 | 2022-10-13 | 2023-02-13 |
 | [Sepsis](https://open.spotify.com/track/5hSH7K2BAcdkDo4VRVreTo) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:46 | 2023-04-13 | 2023-05-21 |
 | [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 | 2022-08-18 | 2022-11-10 |
@@ -513,6 +513,7 @@
 | [Whenever You Want](https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Whenever You Want](https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25) | 3:59 | 2023-03-17 | 2023-05-09 |
 | [Where The Grass Is Greener](https://open.spotify.com/track/0HAT9ZgocZ3gN10Zo3bXl9) | [Annie Taylor](https://open.spotify.com/artist/3oR0fg4OcsTKOjVY17u1e0) | [Where The Grass Is Greener](https://open.spotify.com/album/1o4vVBNnaoOkPn15ElHkFL) | 3:41 | 2021-03-09 | 2022-01-17 |
 | [Where to Start](https://open.spotify.com/track/7eP0RO2UD7gtmGrxuRHI5Z) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Where to Start](https://open.spotify.com/album/42PIz233QL3gza5A3lnwNt) | 3:00 | 2021-03-09 | 2022-01-17 |
+| [White Ribbons](https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [White Ribbons](https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06) | 4:24 | 2024-01-12 |  |
 | [who cares](https://open.spotify.com/track/7hoqbmmpY9eO5qKBnHSZZE) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [who cares](https://open.spotify.com/album/3D14NekjVfBIsn7tRNshAv) | 3:04 | 2022-01-24 | 2022-08-19 |
 | [Why](https://open.spotify.com/track/1F4uLKgpFcHSNGYdoG3946) | [Krush Puppies](https://open.spotify.com/artist/55chtDaw410l2H31kc8PHF) | [Why](https://open.spotify.com/album/238DqpkeDaIYGATfOeVo1D) | 3:33 | 2022-04-01 | 2022-08-19 |
 | [Wide Eyes](https://open.spotify.com/track/0cguXUW2GmwBkM89xidIEI) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Wide Eyes](https://open.spotify.com/album/2gB44jsv1d6nmYRTRVzBuS) | 3:30 | 2022-08-18 | 2022-09-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 735827,
+  "num_followers": 736452,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGQyZTM2MDY0NDczZTdjNjEyNGMxMzFjNjcxOTYwYmZmY2JiOGI3",
+  "snapshot_id": "MCxiNjMyNGQxYTljMTRlM2UwOTg4NWIwZGU5YjhjNjc0MjMwZjdmZjYx",
   "tracks": [
     {
       "added_at": "2023-12-22 16:30:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 132700,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
         "name": "Tattoo (Topic Remix)",
         "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 132700,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 129412,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
     },
     {
       "added_at": "2023-12-22 16:30:00",

@@ -1,12 +1,12 @@
 {
   "description": "When someone you love becomes a memory... find solace in these songs.",
-  "num_followers": 147991,
+  "num_followers": 148004,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWFlOWU3MjQ4NDExNGI0ZGU4YjBjM2U2ZTgwYzJmNmQzYTMyMjZj",
+  "snapshot_id": "MCxhYTJhY2NjZjg4Zjc4NDBiMzEzODZmNWE4NjVlNTljZGE0ZWNlZThl",
   "tracks": [
     {
       "added_at": "2023-09-29 21:35:53",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "The Road And The Radio",
-        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 254573,
-      "name": "Who You'd Be Today",
-      "url": "https://open.spotify.com/track/5Vkdh8GfdXmwyJjzPewMWM"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
         "name": "The Lion The Beast The Beat (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2JcoZUEwztDoEKUiqd7Yk9"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 215933,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6s7sq2Quh4TxHRfdk6eFxk"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
+        "name": "The Road And The Radio",
+        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 254573,
+      "name": "Who You'd Be Today",
+      "url": "https://open.spotify.com/track/5Vkdh8GfdXmwyJjzPewMWM"
     },
     {
       "added_at": "2023-09-29 21:35:53",

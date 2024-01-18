@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees from the 81st Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,917 likes - 33 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,921 likes - 33 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 18 | [Osage Oil Boom](https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY) | [Robbie Robertson](https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf) | [Killers of the Flower Moon \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp) | 2:51 |
 | 19 | [Dead Reckoning Opening Titles](https://open.spotify.com/track/5UwiTSY5hB74NxIaiWBRHx) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Mission: Impossible \- Dead Reckoning Part One \(Music from the Motion Picture\)](https://open.spotify.com/album/4t1wHeUBtPD2nsIgVTGSOg) | 1:12 |
 | 20 | [Frightening Fishes \- Main Title Theme from "Shrinking"](https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ) | [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Shrinking: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq) | 2:27 |
-| 21 | [Strange Game](https://open.spotify.com/track/05TrrXoqoI17WhDCP2mX19) | [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Slow Horses: Season 1 \(ATV+ Original Series Soundtrack\)](https://open.spotify.com/album/2AjxTLIWa6qnYhylH9xCZV) | 3:32 |
-| 22 | [Bella](https://open.spotify.com/track/7dLWK0Gaa5zPswYx1TDWZl) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Poor Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO) | 1:43 |
+| 21 | [Bella](https://open.spotify.com/track/7dLWK0Gaa5zPswYx1TDWZl) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Poor Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO) | 1:43 |
+| 22 | [Strange Game](https://open.spotify.com/track/05TrrXoqoI17WhDCP2mX19) | [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Slow Horses: Season 1 \(ATV+ Original Series Soundtrack\)](https://open.spotify.com/album/2AjxTLIWa6qnYhylH9xCZV) | 3:32 |
 | 23 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Six \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN) | 3:32 |
 | 24 | [Eye For an Eye](https://open.spotify.com/track/63OiFJTU3Xv1CCCLFJQ6Fl) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [John Wick: Chapter 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PQjHSR0NRLwAZMXOJIqcN) | 3:05 |
 | 25 | [Toxic \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Fargo Year 5 \(Soundtrack from the MGM/ FXP Series\)](https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP) | 4:42 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 32 | [Confirming Hal's Story](https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg) | [Nathan Barr](https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC), [Dimitri Smith](https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP) | [The Diplomat \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB) | 1:09 |
 | 33 | [On the Town: Lonely Town\. Pas de deux](https://open.spotify.com/track/3EjSbCtOjkPci8yTvoRBqX) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [Maestro: Music by Leonard Bernstein \(Original Soundtrack\)](https://open.spotify.com/album/3Eu9QPnzZEXpo0BzjWOLC4) | 2:23 |
 
-Snapshot ID: `MCxjNzM2ZTBlOTZkYTRiODk1YjZlM2E0YWRmY2MyZDE2ZTJkZGQ5NzM2`
+Snapshot ID: `MCw4NzYxMTY3MDA2ZDE3NWQ2MzVmMTk4ZjNhMDc4MDU0YzVhNmNlZGZj`

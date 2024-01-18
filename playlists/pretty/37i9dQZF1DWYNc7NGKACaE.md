@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,075 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,106 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 26 | [Aff \- Speed Up](https://open.spotify.com/track/2KvhoUSJ3m6BYGefGVzjmX) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena \(Deluxe\)](https://open.spotify.com/album/2i9A3MdMLm2DaslCoMZMKX) | 2:26 |
 | 27 | [Manda Áudio \(Sped Funk\)](https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [Manda Áudio \(Sped Funk\)](https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk) | 1:39 |
 | 28 | [Amizade Colorida, É QUE AGENTE TRANZA E NUNCA BRIGA](https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7), [Dj Kiko Da Vila](https://open.spotify.com/artist/3U63q6lmdoAJeS5LlgjS1Z) | [Amizade Colorida, É QUE AGENTE TRANZA E NUNCA BRIGA](https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3) | 2:43 |
-| 29 | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd) | [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ) | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp) | 2:10 |
-| 30 | [TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ](https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb), [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ](https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7) | 2:16 |
+| 29 | [TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ](https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb), [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ](https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7) | 2:16 |
+| 30 | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd) | [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ) | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp) | 2:10 |
 | 31 | [Ele Te Bota Soca Soca \- Speed Up](https://open.spotify.com/track/548LVIsbvfP70STa240ZeI) | [MC Mazzie](https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [DJ Wizard](https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P), [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b) | [Ele Te Bota Soca Soca \(Speed Up\)](https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg) | 2:08 |
 | 32 | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0), [ANNY SUCESSADA](https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj) | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04) | 1:46 |
 | 33 | [Agora que eu estou sozinho nesse mal caminho speed up](https://open.spotify.com/track/1kdn6uBhMG1vnJB68HqoOj) | [Koke](https://open.spotify.com/artist/59qKvQjxbwovrGHZjO5hgN) | [Agora que eu estou sozinho nesse mal caminho speed up](https://open.spotify.com/album/5GCBeMjrGOegor93rvS7q3) | 1:36 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 65 | [Peça \- Speed](https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV) | [soiff](https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk), [uhENZX](https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz) | [Peça](https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt) | 2:15 |
 | 66 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 
-Snapshot ID: `MCw3ZTcwMzk0MTBjZmMwMWRlOGE2OTZkZDgzN2NiNmZlZmVjMDM0MDIw`
+Snapshot ID: `MCwxOWIzMjhkMzZhMmVhODk1ZGNiNjczMDJjZmFkMTNhYjgyMDZhY2Fk`

@@ -1,13 +1,33 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Emilia &amp; Nathy Peluso &quot;JET_Set.mp3&quot;,  Polim\u00e1 Westcoast &quot;BARCELONA&quot;, Emilia &amp; TINI &quot;La_Original.mp3&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot; Cover: Emilia &amp; Nathy Peluso",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot; Emilia &amp; Nathy Peluso &quot;JET_Set.mp3&quot;,  Emilia &amp; TINI &quot;La_Original.mp3&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot; Cover: Prince Royce ",
   "num_followers": 55062,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "NDMwMixjYjg4N2RkZjViYTQzYWM0MGU4MzNmNmFhMDUxNjc2YmY2M2IxYjkw",
+  "snapshot_id": "NDMwOSw3YTAzOWQzOWFhNDE5ZDc0NmVjMDQ0YWQzYjZlODhmMjlmMGM4Y2Uz",
   "tracks": [
+    {
+      "added_at": "2024-01-17 14:46:04",
+      "album": {
+        "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
+        "url": "https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 161897,
+      "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
+      "url": "https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc"
+    },
     {
       "added_at": "2024-01-12 04:18:31",
       "album": {
@@ -29,74 +49,6 @@
       "url": "https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8"
     },
     {
-      "added_at": "2023-12-15 15:05:21",
-      "album": {
-        "name": "Sicario",
-        "url": "https://open.spotify.com/album/4AtaXTCsErEQ1TkisgKAX7"
-      },
-      "artists": [
-        {
-          "name": "Poloo",
-          "url": "https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7"
-        }
-      ],
-      "duration_ms": 184988,
-      "name": "Sicario",
-      "url": "https://open.spotify.com/track/7D5Pu2c1LG23hXfXN8hmvc"
-    },
-    {
-      "added_at": "2023-11-30 00:09:54",
-      "album": {
-        "name": "Los Sabanales 3.0",
-        "url": "https://open.spotify.com/album/2blRzFXYdX7EVTReawNzUt"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 188467,
-      "name": "Los Sabanales 3.0",
-      "url": "https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS"
-    },
-    {
-      "added_at": "2023-12-08 17:42:37",
-      "album": {
-        "name": "AQTLM",
-        "url": "https://open.spotify.com/album/1jAW24wojDL4ovLnhMXW8t"
-      },
-      "artists": [
-        {
-          "name": "Cauty",
-          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
-        }
-      ],
-      "duration_ms": 128254,
-      "name": "AQTLM",
-      "url": "https://open.spotify.com/track/7FCiyjiaUnoe7Hvlr85u96"
-    },
-    {
-      "added_at": "2023-12-08 17:43:41",
-      "album": {
-        "name": "LA PRIMERA",
-        "url": "https://open.spotify.com/album/102J1ctTdvklm64wfmgGby"
-      },
-      "artists": [
-        {
-          "name": "Deimi",
-          "url": "https://open.spotify.com/artist/0NrygGrqdoAjfoUieqPFmD"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "LA PRIMERA",
-      "url": "https://open.spotify.com/track/2tEC8ZAo3zVwflDjOGVMJZ"
-    },
-    {
       "added_at": "2023-11-17 15:44:55",
       "album": {
         "name": "Vocation",
@@ -115,26 +67,6 @@
       "duration_ms": 184820,
       "name": "Vocation",
       "url": "https://open.spotify.com/track/70xKqgJOnicN4OsIB6hOXU"
-    },
-    {
-      "added_at": "2023-12-01 00:03:19",
-      "album": {
-        "name": "Orgullo",
-        "url": "https://open.spotify.com/album/3A1Hq7J1FY2xvK3RWtZCn9"
-      },
-      "artists": [
-        {
-          "name": "Slow Mike",
-          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
-        },
-        {
-          "name": "El Vega",
-          "url": "https://open.spotify.com/artist/6HWumjoLO58NYInUHk9565"
-        }
-      ],
-      "duration_ms": 177795,
-      "name": "Orgullo",
-      "url": "https://open.spotify.com/track/102SKCq72cPNo26kwyi5sT"
     },
     {
       "added_at": "2023-11-30 23:09:36",
@@ -657,6 +589,26 @@
       "url": "https://open.spotify.com/track/7Bm8KAA3mcGu26Vnss7A4f"
     },
     {
+      "added_at": "2023-12-01 00:03:19",
+      "album": {
+        "name": "Orgullo",
+        "url": "https://open.spotify.com/album/3A1Hq7J1FY2xvK3RWtZCn9"
+      },
+      "artists": [
+        {
+          "name": "Slow Mike",
+          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
+        },
+        {
+          "name": "El Vega",
+          "url": "https://open.spotify.com/artist/6HWumjoLO58NYInUHk9565"
+        }
+      ],
+      "duration_ms": 177795,
+      "name": "Orgullo",
+      "url": "https://open.spotify.com/track/102SKCq72cPNo26kwyi5sT"
+    },
+    {
       "added_at": "2023-12-08 16:04:57",
       "album": {
         "name": "NASTY SINGLES",
@@ -671,6 +623,38 @@
       "duration_ms": 190697,
       "name": "YA NO TE EXTRA\u00d1O",
       "url": "https://open.spotify.com/track/1gZXkChBq4k1kDxJW32kAg"
+    },
+    {
+      "added_at": "2023-12-08 17:42:37",
+      "album": {
+        "name": "AQTLM",
+        "url": "https://open.spotify.com/album/1jAW24wojDL4ovLnhMXW8t"
+      },
+      "artists": [
+        {
+          "name": "Cauty",
+          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
+        }
+      ],
+      "duration_ms": 128254,
+      "name": "AQTLM",
+      "url": "https://open.spotify.com/track/7FCiyjiaUnoe7Hvlr85u96"
+    },
+    {
+      "added_at": "2023-12-08 17:43:41",
+      "album": {
+        "name": "LA PRIMERA",
+        "url": "https://open.spotify.com/album/102J1ctTdvklm64wfmgGby"
+      },
+      "artists": [
+        {
+          "name": "Deimi",
+          "url": "https://open.spotify.com/artist/0NrygGrqdoAjfoUieqPFmD"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "LA PRIMERA",
+      "url": "https://open.spotify.com/track/2tEC8ZAo3zVwflDjOGVMJZ"
     },
     {
       "added_at": "2023-12-08 16:15:37",

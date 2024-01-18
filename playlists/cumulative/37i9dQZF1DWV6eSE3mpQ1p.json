@@ -1180,10 +1180,28 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 127733,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/560OsnDa7tpsK2B0krVlOP"
+    },
+    {
+      "album": {
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128306,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/5mNjFEWm65zdqHoVKKttv4"
     },
     {
       "album": {
@@ -1198,10 +1216,28 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 214026,
       "name": "Time of the Season - Mono Version",
       "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
+    },
+    {
+      "album": {
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214040,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh"
     },
     {
       "album": {

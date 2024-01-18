@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Tuyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,148 likes - 72 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,161 likes - 72 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 71 | [Boate Invisível](https://open.spotify.com/track/7igOvMhssuw867QCX4KHeK) | [Tatá Aeroplano](https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U), [Júnior Boca](https://open.spotify.com/artist/0Zz8j8DnVD61ZuoQWeNLzP), [Bruno Buarque](https://open.spotify.com/artist/4lVG6VJNeTirBzikv3xtXE), [Dustan Gallas](https://open.spotify.com/artist/4TzqdfKQdxF1xi9DP1Upfw) | [Boate Invisível](https://open.spotify.com/album/2NCrddtpeRnPyeGMcPaP9N) | 3:46 |
 | 72 | [Tô Bem Sozin](https://open.spotify.com/track/4e5wyWT8OKRkZfrXvoluDd) | [Fxbricio](https://open.spotify.com/artist/7G28rKG3ECA7Pt6HFs54ZB), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Tô Bem Sozin](https://open.spotify.com/album/69TH1pWebxqDKWcjCqKSWO) | 3:48 |
 
-Snapshot ID: `MCxkM2RhYzY5NWUyZThmOGRiZDRlZTljOTE3N2MxZWE5YWIzMTZkY2Nl`
+Snapshot ID: `MCxlNmRkM2Y2NjhmYjUzZTNjYWIxMjNjZjczZGYzY2VhN2YwNDMwZDZl`

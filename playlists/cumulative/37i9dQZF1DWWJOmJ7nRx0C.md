@@ -2,7 +2,7 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> turn it up ⬆️ Cover: Shinedown
+> Rock at its loudest ⬆️ Cover: Shinedown
 
 1,073 songs - 2 day 16 hr 15 min
 

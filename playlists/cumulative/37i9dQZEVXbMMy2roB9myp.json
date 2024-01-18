@@ -4336,7 +4336,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
@@ -6730,7 +6730,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -9104,7 +9104,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 168484,
       "name": "NO DA M\u00c1S",
       "url": "https://open.spotify.com/track/7jDYmAWdghEWmQyqwLpriE"
@@ -9256,7 +9256,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 203636,
       "name": "No_Se_Ve.mp3",
       "url": "https://open.spotify.com/track/2df5CkXBJO7jTGXm54dFJy"
@@ -10843,6 +10843,36 @@
     },
     {
       "album": {
+        "name": "\u00c9NFASIS",
+        "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162397,
+      "name": "PRINCESITA DE ...",
+      "url": "https://open.spotify.com/track/7pNzulQGBP6v2g4A2KnAJ6"
+    },
+    {
+      "album": {
         "name": "PROBLEMA",
         "url": "https://open.spotify.com/album/62qqk2oK0GGO0AwWqUIqrJ"
       },
@@ -11356,7 +11386,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"

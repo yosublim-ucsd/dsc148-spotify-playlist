@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Suki Waterhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,183 likes - 175 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,290 likes - 175 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 75 | [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 |
 | 76 | [Thumbtack](https://open.spotify.com/track/67WuAkWNUHZqV8FOgDrz7R) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Thumbtack](https://open.spotify.com/album/2K0ahxdNDQsVhCxkr9hDVg) | 2:10 |
 | 77 | [Heaven](https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH) | 4:01 |
-| 78 | [Treasure](https://open.spotify.com/track/0R81IMaZQhGFFvAmAQFRUG) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [Treasure](https://open.spotify.com/album/389KWBHLq0wKHnACVK52cQ) | 7:43 |
+| 78 | [Treasure](https://open.spotify.com/track/0R81IMaZQhGFFvAmAQFRUG) | [JJ Scheff](https://open.spotify.com/artist/141tcOWMyJ0Lt7M5AclQPh) | [Treasure](https://open.spotify.com/album/389KWBHLq0wKHnACVK52cQ) | 7:43 |
 | 79 | [Be](https://open.spotify.com/track/0puGl6gLKNvG7Ze4X7Hliq) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Be](https://open.spotify.com/album/7HUojHE25L3aSp0TaqqBXS) | 1:51 |
 | 80 | [WHERE DO U GO ?](https://open.spotify.com/track/68p6HNk6PPf0SzyoFGOXst) | [Dafna](https://open.spotify.com/artist/6FR2ARlfDqNU7BMBaWjGZP) | [WHERE DO U GO?](https://open.spotify.com/album/7bQeyMqJWzo5n7mI491EeN) | 1:57 |
 | 81 | [Heaven](https://open.spotify.com/track/0r3cq4kZ3cXhYvmkywATG2) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [M\*A\*D \(Miss American Dream\)](https://open.spotify.com/album/6yrOPZonbgXTeb4TbJ7odD) | 3:26 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [This Is Gonna Hurt](https://open.spotify.com/track/46HVIOMbE5dabV45fjJewz) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [Surrenderland](https://open.spotify.com/album/1RWzchBYUY3RLNsbDOvIy4) | 3:31 |
 | 175 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
 
-Snapshot ID: `MCwxMjczNGNmMzkxNmU0ZjVhYWIxMzUxMTAyZGY0YjYxMjQ3YTZhNWUw`
+Snapshot ID: `MCxmOTcwYmNlM2MzZjRmNzE4YjFhMmZiZTVkYWRhMDNlNDc0OGQ1ZjI2`

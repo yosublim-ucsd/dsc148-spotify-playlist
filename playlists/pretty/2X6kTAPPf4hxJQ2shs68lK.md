@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 
 > 25 songs updated every Tuesday ⏳ \(Email: jahtalksmusic@gmail.com\)
 
-[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 25,527 likes - 25 songs - 1 hr 42 min
+[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 25,573 likes - 25 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 | 16 | [Dope Boy](https://open.spotify.com/track/738kmQ6Fn1uLsAuLtGCpVG) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67) | [My Story Got Stories](https://open.spotify.com/album/7CzyObXFjSZ3DuxvS5P0pN) | 2:51 |
 | 17 | [Tu Corazón Es Mío...](https://open.spotify.com/track/59ak5RmKdyspU26ifSg0rW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:45 |
 | 18 | [BLUE SKY](https://open.spotify.com/track/7rYR2a3DisiE26KA2FpHgT) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:41 |
-| 19 | [red sky](https://open.spotify.com/track/4yLyVdEqV790aIXyGif85v) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V), [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:56 |
+| 19 | [red sky](https://open.spotify.com/track/4yLyVdEqV790aIXyGif85v) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:56 |
 | 20 | [Pistachios](https://open.spotify.com/track/18y43ozfWR9sp5vaD9cEqe) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:09 |
 | 21 | [Love Somebody](https://open.spotify.com/track/5uxPKwm1dvKiGV5wH8di1B) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [Try Again \(Deluxe\)](https://open.spotify.com/album/0A7bF8ok3Ych1pFMu7HPNA) | 2:06 |
 | 22 | [Hope](https://open.spotify.com/track/2QLNDKL7hZyh2OZ8UL9WrV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 3:59 |

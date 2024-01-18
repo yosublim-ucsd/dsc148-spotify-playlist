@@ -2,9 +2,9 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID?si=bxJJjjGbRUO5zUw\_sWadeA">  رامي جمال </a>
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F?si=5FJZTWj0RWicgrqNOvngpg">  تامر عاشور<br/> </a>
 
-251 songs - 14 hr 32 min
+252 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [3atma](https://open.spotify.com/track/47dZKuQLD7ubcY0TT0Q04x) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [3atma](https://open.spotify.com/album/0BDmbzmtap74a1IbNieQr1) | 3:19 | 2023-09-01 |  |
 | [3la 3eny](https://open.spotify.com/track/5Aun0pJOQFBQozav1hPpM1) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [3la 3eny](https://open.spotify.com/album/4I140V5a8hSz7TQzYVmTC4) | 5:16 | 2022-04-13 | 2022-05-14 |
 | [7 PM](https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [7 PM](https://open.spotify.com/album/2dFBkn85KWOQ2JwcPuJtt2) | 2:36 | 2023-05-30 | 2023-06-22 |
-| [7ALA](https://open.spotify.com/track/00TO3hVgOAgfKrRjrKEZxx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [7ALA](https://open.spotify.com/album/70r1uOvZK1dM37OeCqtEsn) | 3:01 | 2023-01-16 |  |
+| [7ALA](https://open.spotify.com/track/00TO3hVgOAgfKrRjrKEZxx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [7ALA](https://open.spotify.com/album/70r1uOvZK1dM37OeCqtEsn) | 3:01 | 2023-01-16 | 2024-01-18 |
 | [7OB KHENA2](https://open.spotify.com/track/15lgnDg0wa4gXWpts60aOF) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:44 | 2023-09-08 |  |
 | [Aala Shanak](https://open.spotify.com/track/32fN22RlrQRRCH59Y80eSB) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:14 | 2022-10-25 | 2022-11-18 |
 | [Ader Akmel](https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ader Akmel](https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n) | 4:13 | 2023-02-22 | 2023-07-11 |
@@ -195,6 +195,7 @@
 | [العدل فوق الجميع](https://open.spotify.com/track/72MAyfGDYRcbDYV7MCXbHM) | [Badrya Elsayed](https://open.spotify.com/artist/1V31n208uyKy8sKkGkMDUw) | [العدل فوق الجميع](https://open.spotify.com/album/7yWzFC4m4zb9qFER5ARKDr) | 2:32 | 2023-09-05 | 2023-12-09 |
 | [انتي قلبي](https://open.spotify.com/track/1z4wa1hxM6Ja7Cpq5cljsb) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [انتي قلبي](https://open.spotify.com/album/5ql1v6jrdAmSzuyPJPKnNF) | 3:12 | 2022-07-25 | 2022-10-11 |
 | [انتي قلبي](https://open.spotify.com/track/6FFbKaePLzo5jQLof1ZX5K) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [انتي قلبي](https://open.spotify.com/album/47KtVI2WQJoZXV0EE2e65m) | 3:12 | 2022-04-13 | 2022-07-29 |
+| [ايويا يا حبيبتي وحشتيني \- مهرجان \- ايويا يا حبيبتي وحشتيني \- اسلام كابونجا \- كلوشه \- توزيع فيجو الدخلاوي \- مهرجانات 2023](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [ايويا يا حبيبتي وحشتيني \(مهرجان \- ايويا يا حبيبتي وحشتيني \- اسلام كابونجا \- كلوشه \- توزيع فيجو الدخلاوي \- مهرجانات 2023\)](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 | 2024-01-17 |  |
 | [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-09-26 | 2024-01-16 |
 | [باشا باشا](https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc) | [ِEmad Basha](https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6) | [باشا باشا](https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc) | 4:09 | 2022-04-13 | 2022-07-31 |
 | [بتفتكرني ساعات](https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:37 | 2023-01-16 | 2023-08-04 |

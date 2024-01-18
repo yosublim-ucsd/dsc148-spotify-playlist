@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,526 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,550 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,7 +186,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 176 | [Vidigal](https://open.spotify.com/track/4y2Va0sLjrmSb0iAovAkmP) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Gafieira Universal](https://open.spotify.com/album/38pRkmDsvQHMvkqIgvJyo3) | 3:37 |
 | 177 | [Drum Song](https://open.spotify.com/track/1MbIiINcF2KPIHvEPoEz7m) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 5:10 |
 | 178 | [Hulla\-Hulla](https://open.spotify.com/track/2smK7YkC64AgY9B3BIeVz1) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Build Up](https://open.spotify.com/album/0pR1MJzQpndwio4YDWNvcF) | 3:04 |
-| 179 | [Free My People](https://open.spotify.com/track/4ZFYxhJFIxKjqW1YPRcsdW) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/5cAnTtPDJreMWuuUlmQQuz) | 4:52 |
+| 179 | [Free My People](https://open.spotify.com/track/4JhLVR6gpyPsrt8hw3GYTq) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents NIGERIA SOUL FEVER \- Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/3ZRiP7ntKDD2wuiRuyLhfs) | 4:52 |
 | 180 | [Goca Dünya](https://open.spotify.com/track/7jnJSw2SKsNibByy0PeYLC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Goca Dünya](https://open.spotify.com/album/29PYALK2CuniRSxZQdeU1G) | 3:57 |
 | 181 | [Pontos De Luz](https://open.spotify.com/track/4ABzNwtzvzvXsQMBIrdF39) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [India](https://open.spotify.com/album/7bxZ0kvGIbJRvBGFrKooub) | 2:41 |
 | 182 | [Beggin'](https://open.spotify.com/track/6CvrsiZc9aLahO7jOsoQy0) | [Dúo Inter](https://open.spotify.com/artist/7aE63AlfNLsX1sM7krrjJo) | [Sensacional Soul Vol 1](https://open.spotify.com/album/23PoJjiwmdRqHahqzUx1lR) | 2:54 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCwyZmVmYTVhMWIyYTJlOGUyMzY1NzUyNWFmZTYxNmFjMWQ2OTQ5MDcx`
+Snapshot ID: `MCw1Nzg5NTY5MmVmZDQzOTI5ZWFiZWNkYWVmYjFlNjUwY2E3MDIxOGM4`

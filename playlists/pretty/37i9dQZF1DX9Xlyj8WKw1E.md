@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:6AUl0ykLLpvTktob97x9hO">Tee Grizzley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,434 likes - 59 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,454 likes - 59 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 28 | [Smack Sh\*t](https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Smack Sh\*t](https://open.spotify.com/album/3Wa0UdCqXUAWNNuEr9ulHk) | 2:59 |
 | 29 | [Rose Gold \(feat\. Tee Grizzley\)](https://open.spotify.com/track/1f4n208NzgSki8uG62mde7) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Rose Gold \(feat\. Tee Grizzley\)](https://open.spotify.com/album/5NmHH14He9o9TLwwaZii9p) | 2:05 |
 | 30 | [Man Up](https://open.spotify.com/track/2RqkLttkL59wqTbGd9VbaB) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [No Socks 3](https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb) | 3:24 |
-| 31 | [Fresh](https://open.spotify.com/track/3a1uRM5VgmXHumHhkEBKEZ) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [SkuBop](https://open.spotify.com/album/2thtVFNwTy6WO1rseKOyWu) | 3:05 |
+| 31 | [Fresh](https://open.spotify.com/track/6SwlfxiAygslNqmAMDb02H) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [SkuBop](https://open.spotify.com/album/1GEdhAQryrbe9jU6m9Rjx4) | 3:05 |
 | 32 | [Fuck Fame PT\. 2 \(feat\. Lola Brooke\)](https://open.spotify.com/track/5ocQrLeov9liXKoO5tjiEl) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Fuck Fame PT\. 2 \(feat\. Lola Brooke\)](https://open.spotify.com/album/24VvrSk68HBYD1eHDG2IKa) | 3:39 |
 | 33 | [ABOW](https://open.spotify.com/track/4kv9DLzMBtVrks9lkfEDG2) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [ABOW](https://open.spotify.com/album/4iZTWOmS30BZIUiSGvT3M6) | 2:28 |
 | 34 | [On A Star \(feat\. FendiDa Rappa & Raiche\)](https://open.spotify.com/track/0eTKO4HoQETyeVS9I7cFTA) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI), [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy) | [Ride or...](https://open.spotify.com/album/5gmIPZLlVJUQncN654Q9gS) | 3:13 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 58 | [OUTSIDE ALL SUMMER](https://open.spotify.com/track/4VreDYwSxLuxATdvW975On) | [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [Frsh Waters](https://open.spotify.com/artist/14hFXWA8giW96HpYkTxywX), [Tru](https://open.spotify.com/artist/51Y9uMxhciB1I5qIAhJs8q) | [OUTSIDE ALL SUMMER](https://open.spotify.com/album/4vhbtuoynRryWO4M7RTmLk) | 2:44 |
 | 59 | [Tell Shyanne](https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Tell Shyanne](https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76) | 2:23 |
 
-Snapshot ID: `MCxkNzdjNjQwNWUxYTYwMGJiZjgxZTFkZDI2ZGQxYjUyZWZmNzVjODE4`
+Snapshot ID: `MCw3YzMyMjA2NmUxYTRmNWFjMzg0ZWNjZmYzMTU2MGMzZWJkZTczNDQx`

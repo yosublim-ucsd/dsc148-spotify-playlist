@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Paul Partohap \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,525 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,604 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 85 | [Vast \- ANNA Remix](https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Vast \(ANNA Remix\)](https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD) | 3:26 |
 | 86 | [Birthday](https://open.spotify.com/track/00v0tTZNJYfXZzINHWQcvN) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Birthday](https://open.spotify.com/album/16OJXa3NYyAebywfOjoPbc) | 3:01 |
 | 87 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 |
-| 88 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 |
-| 89 | [Different Shade of Blue](https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl) | 2:50 |
-| 90 | [A Nothing Day](https://open.spotify.com/track/5gIktKmECYQP5HY0dYfbst) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [GLOOMY BOOGIE](https://open.spotify.com/album/3iDH8JeYPyeuQ7OcTWnzjq) | 2:42 |
+| 88 | [A Nothing Day](https://open.spotify.com/track/5gIktKmECYQP5HY0dYfbst) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [GLOOMY BOOGIE](https://open.spotify.com/album/3iDH8JeYPyeuQ7OcTWnzjq) | 2:42 |
+| 89 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 |
+| 90 | [Different Shade of Blue](https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl) | 2:50 |
 | 91 | [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 |
 | 92 | [r u mine](https://open.spotify.com/track/0LiLk6aYQZOy1uA63pMqQo) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [r u mine](https://open.spotify.com/album/5g8A7xkBtel2aTFgcjNYXN) | 2:08 |
 | 93 | [I Feel Something Like That](https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [RUZZY TATTOO COLOUR](https://open.spotify.com/artist/5umzj4PGA5pKpgr40TMbsz) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:29 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 96 | [The Great Escape Of Our Time](https://open.spotify.com/track/3mrheKW3UCynKimx0O7rEd) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [The Great Escape Of Our Time](https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ) | 3:12 |
 | 97 | [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 |
 | 98 | [In The Clouds](https://open.spotify.com/track/6Kg8KoSEacO0Y21pL0ZcDj) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [The Great Regression](https://open.spotify.com/album/2QgFxiPrjg4KSh0NkicjEG) | 2:55 |
-| 99 | [kill the thought](https://open.spotify.com/track/5VWmYzMPAm3GLkYlMWT9zu) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [kill the thought](https://open.spotify.com/album/4frxdpM4eCcnLoUTlucFZe) | 3:04 |
-| 100 | [Pills](https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Pills](https://open.spotify.com/album/3PX7TASSTR0GE1TjHD246d) | 3:20 |
+| 99 | [Pills](https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Pills](https://open.spotify.com/album/3PX7TASSTR0GE1TjHD246d) | 3:20 |
+| 100 | [kill the thought](https://open.spotify.com/track/5VWmYzMPAm3GLkYlMWT9zu) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [kill the thought](https://open.spotify.com/album/4frxdpM4eCcnLoUTlucFZe) | 3:04 |
 
-Snapshot ID: `MCwwZGE1Yjg5ZTUxZTQ5NDEyNjgxNjE3NzY0ZDMxODdkZjY1OGU1ZDUy`
+Snapshot ID: `MCw0YzU2YjQxMDEyZjA0ZTM0ZGIxOTgyNzM3M2FjMTcxNWZhM2Q2YWRm`

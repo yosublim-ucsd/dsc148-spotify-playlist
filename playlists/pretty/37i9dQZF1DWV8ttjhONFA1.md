@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Mi Amigo Invencible
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,932 likes - 90 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,961 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 70 | [Un Preámbulo](https://open.spotify.com/track/0VAwX3wYhvYrLojAl0Ld7f) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee), [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Un Preámbulo](https://open.spotify.com/album/4N4NgsGFXOaiAiQxk87lwZ) | 3:26 |
 | 71 | [El fin](https://open.spotify.com/track/7uS5cwaPY5QqIf5U21oOew) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [El fin](https://open.spotify.com/album/7fh5YlpCehNSXuEaSs1pMG) | 3:03 |
 | 72 | [De Otra Vida](https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Una Dosis de Terciopelo](https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd) | 4:16 |
-| 73 | [MALA INFLUENCIA](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [MALA INFLUENCIA](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 |
+| 73 | [Mala Influencia](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mala Influencia](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 |
 | 74 | [Sombra](https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Sombra](https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G) | 2:59 |
 | 75 | [Nueva forma](https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Nueva forma](https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF) | 3:14 |
 | 76 | [Atormentada](https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Vida Real](https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm) | 3:19 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 89 | [Colorá](https://open.spotify.com/track/3hL7qjD8Mdcrjc5t1BFcHE) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Colorá](https://open.spotify.com/album/19MnZqlVTv2v1ZXKFLGhFQ) | 3:17 |
 | 90 | [TRON](https://open.spotify.com/track/2bUGKZBkgUnhSy3BOgsVSV) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [TRON](https://open.spotify.com/album/5s6bzBHKOA5tsFof560XlJ) | 2:25 |
 
-Snapshot ID: `MCwxYTQ3OWRhZWZkYjAwZDRkOWU3MzI3MTI0MjA0N2E5ZjgwOWQzNzk3`
+Snapshot ID: `MCwwYmQ4MjRhMDBhMmYwZGI0ZWJhMDdiNDRiMjM1MDBjZjQ4OWExOTNj`

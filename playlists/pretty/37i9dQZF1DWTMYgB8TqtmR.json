@@ -1,12 +1,12 @@
 {
   "description": "It's Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 732384,
+  "num_followers": 732412,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGFjNTc5YmJmMDkyYTc0MmE3MTE1ZTMzMjMxYjVkM2VkNTIwOWE3",
+  "snapshot_id": "MCwxZTVhZjAwYjk5NzAyMzYxYjYxZDE1ZjRhZTUzOWNlYmNjMzY2YmJl",
   "tracks": [
     {
       "added_at": "2024-01-15 12:02:50",
@@ -259,6 +259,42 @@
       "duration_ms": 270860,
       "name": "Are You Gone Already",
       "url": "https://open.spotify.com/track/1WTdZjiHI4vYnENXLn69x0"
+    },
+    {
+      "added_at": "2024-01-17 16:17:02",
+      "album": {
+        "name": "Thank You (Not So Bad)",
+        "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Thank You (Not So Bad)",
+      "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
       "added_at": "2024-01-15 12:02:50",
@@ -803,22 +839,6 @@
     {
       "added_at": "2024-01-15 12:02:50",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
-    },
-    {
-      "added_at": "2024-01-15 12:02:50",
-      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -835,8 +855,8 @@
     {
       "added_at": "2024-01-15 12:02:50",
       "album": {
-        "name": "QUE PASA?",
-        "url": "https://open.spotify.com/album/6YoQO2lhDjISo3XmzD2Kos"
+        "name": "ASKER",
+        "url": "https://open.spotify.com/album/2FBCD1CwSiLcZANLypghei"
       },
       "artists": [
         {
@@ -846,7 +866,7 @@
       ],
       "duration_ms": 140596,
       "name": "QUE PASA?",
-      "url": "https://open.spotify.com/track/3ZGxEFPmgKtrGXzCWCb04l"
+      "url": "https://open.spotify.com/track/1dDqO9FjKbhQysspzpTCSQ"
     },
     {
       "added_at": "2024-01-15 12:02:50",

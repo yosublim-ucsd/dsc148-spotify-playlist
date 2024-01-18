@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: Sala
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,794 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,842 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gacha Gacha](https://open.spotify.com/track/6dpzlQqI1Ngp4zsO3aw3Fr) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Gacha Gacha](https://open.spotify.com/album/2ad11ILhJNc7LKjEbOwzBu) | 2:24 |
 | 2 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
-| 3 | [どうでもいい話がしたい \- Acoustic Version](https://open.spotify.com/track/3UiLsCu8AbAeQJ3nFrNOhY) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [どうでもいい話がしたい \(Acoustic Version\)](https://open.spotify.com/album/7ln4sfgOmXBlIiZPG1GFsx) | 3:37 |
+| 3 | [doudemoii hanashiga shitai \- Acoustic Version](https://open.spotify.com/track/2GDYJ3nvJf6QXTWN7d60yc) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [doudemoii hanashiga shitai \(Acoustic Version\)](https://open.spotify.com/album/7nmVKMb9L1yrzghWhPDhsA) | 3:37 |
 | 4 | [Name of Life](https://open.spotify.com/track/3E7Tmjfqt4PpulTC9sjXSh) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Studio Ghibli Tribute Album "Ghibli o Utau"](https://open.spotify.com/album/0iso79mD0QNlcE4gbwVJJA) | 4:29 |
 | 5 | [E Y E S](https://open.spotify.com/track/3iMMnm0VJcxwkALgQ6fgXt) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Brighter](https://open.spotify.com/album/3pax1LStHrMgcVwstyD902) | 3:20 |
 | 6 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 8 | [「君の幸せを」](https://open.spotify.com/track/4SPjBSASlsxQ440fY1Mnyl) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [「君の幸せを」](https://open.spotify.com/album/6Nadvjub3KIbZ6hgVdwXBj) | 4:51 |
 | 9 | [ごめんね](https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [ごめんね](https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj) | 2:55 |
 | 10 | [中央フリーウェイ](https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 3:22 |
-| 11 | [からから](https://open.spotify.com/track/6oO5DvOrulZ1RehWQ3jPqG) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [からから](https://open.spotify.com/album/3xUQCyFYU8pMv0U9oh9Q2P) | 3:10 |
+| 11 | [karakara](https://open.spotify.com/track/7e4omddqowij2xnoY7k6E0) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [karakara](https://open.spotify.com/album/0At5gcOBR68qZAMin5jINu) | 3:10 |
 | 12 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
 | 13 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 14 | [Daikokai](https://open.spotify.com/track/68e2E631zUpElV1kN3AWEX) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Daikokai](https://open.spotify.com/album/10f7dQkIPEEJoWa93PRqO1) | 4:32 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 38 | [Routine Life](https://open.spotify.com/track/3U4q2PzQAGlT4iistqvnDl) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Routine Life](https://open.spotify.com/album/0m5mYXIrR6ShDGZsLxkyJ7) | 3:32 |
 | 39 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 |
 | 40 | [みんながみんな英雄2024](https://open.spotify.com/track/79aEE1CeUNPjs8vSJExZ5P) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [みんながみんな英雄2024](https://open.spotify.com/album/4Q7pUhKp0w7iWGlltJE8Xe) | 3:01 |
-| 41 | [心得](https://open.spotify.com/track/2hPBIYQeqpbQWSMAM9ln1w) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [心得](https://open.spotify.com/album/6vVdLDovF993mCA4dBayHz) | 3:39 |
+| 41 | [This Wish \- From "Wish"](https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv) | 3:25 |
 | 42 | [Vengeance](https://open.spotify.com/track/2y0gkLQbblihOimgloMCPS) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Vengeance](https://open.spotify.com/album/353yfUyCKvr6jTcudZAE3w) | 3:53 |
-| 43 | [This Wish \- From "Wish"](https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv) | 3:25 |
+| 43 | [心得](https://open.spotify.com/track/2hPBIYQeqpbQWSMAM9ln1w) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [心得](https://open.spotify.com/album/6vVdLDovF993mCA4dBayHz) | 3:39 |
 | 44 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 |
 | 45 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
 | 46 | [Loa](https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Loa](https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ) | 3:46 |
@@ -78,13 +78,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 68 | [Dakishimete](https://open.spotify.com/track/0v9Jq1rnd7O90PFfcagIQy) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Dakishimete](https://open.spotify.com/album/2P4XxaatprNT5A75dwROtG) | 4:47 |
 | 69 | [LEFT RIGHT REMIXX \- FEAT\. CIARA & JACKSON WANG // PROD BY JAKOPS](https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [LEFT RIGHT REMIXX \(FEAT\. CIARA & JACKSON WANG // PROD BY JAKOPS\)](https://open.spotify.com/album/6BYq4jicnLns37lj7By6NX) | 4:31 |
 | 70 | [Tsuzuite\-ikuyo](https://open.spotify.com/track/5HhjMw3X6wxVh9lcpRzMrN) | [JONAGOLD](https://open.spotify.com/artist/4TqO6bEnbP7FEi2dJEaU2F) | [Tsuzuite\-ikuyo](https://open.spotify.com/album/4cV8O4YKCciuQqVmwE4XuT) | 3:34 |
-| 71 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 |
+| 71 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 |
 | 72 | [インスタントジョーク](https://open.spotify.com/track/4DLhoNZw9OR8s0ovueelH8) | [omeme tenten](https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC) | [インスタントジョーク / マイラブリー](https://open.spotify.com/album/6OYEgnr0XA0TcNsfmo1NDb) | 3:14 |
-| 73 | [白色蜉蝣](https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [白色蜉蝣](https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X) | 3:11 |
+| 73 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 |
 | 74 | [Attitude](https://open.spotify.com/track/2QkUMY3sJQHcc6IR4PcaFy) | [NENE](https://open.spotify.com/artist/0GWd1nAGTQBkliv0zhbaqo), [906 / Nine\-O\-Six](https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK), [4410](https://open.spotify.com/artist/2VSV6W0KsQIHrbw7elJUZm) | [Attitude](https://open.spotify.com/album/5qQunsrqH33znkPtAzflcK) | 3:22 |
 | 75 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 |
 | 76 | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf) | 3:57 |
-| 77 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 |
+| 77 | [白色蜉蝣](https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [白色蜉蝣](https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X) | 3:11 |
 | 78 | [All the best to you](https://open.spotify.com/track/041iQwe6neBn6VXVSQ1yV2) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [All the best to you](https://open.spotify.com/album/712xvsOZfCsT6WqU3Uo0y7) | 4:36 |
 | 79 | [Mori no chiisana restaurant](https://open.spotify.com/track/77GGe1iI6TipMCaWuxfWXr) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Mori no chiisana restaurant](https://open.spotify.com/album/06ZsAXR2QKeZGVrLhqmbJa) | 2:33 |
 | 80 | [Racy](https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Racy](https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo) | 4:29 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 96 | [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 |
 | 97 | [スマイルあげない](https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [スマイルあげない](https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5) | 3:17 |
 | 98 | [P.S.](https://open.spotify.com/track/5IUa0XCUrIzqjBcFv5fgRo) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [P.S.](https://open.spotify.com/album/4Ov5F3jrRQcCApqS3NheI0) | 2:52 |
-| 99 | [すみっコディスコ](https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [すみっコディスコ](https://open.spotify.com/album/2OIPi5b7P9RzXfP6EX6OVR) | 3:27 |
+| 99 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
 | 100 | [華奢な心](https://open.spotify.com/track/4I2zu5SjESe8F8AyZLtOVC) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [華奢な心](https://open.spotify.com/album/2MCrgO6b1EiTlkNY76i4Mw) | 4:21 |
 
-Snapshot ID: `MCw5OGY3NjA0NDQyNDFlZGI5MjhlYzg2OGFlODEzYTlkMDFhZjk1NjM3`
+Snapshot ID: `MCw5YmUxMzQ1YmU1MGVmY2Y1OWRhZDBkNjliM2ZmMmZkYTBiNjc5YjM5`

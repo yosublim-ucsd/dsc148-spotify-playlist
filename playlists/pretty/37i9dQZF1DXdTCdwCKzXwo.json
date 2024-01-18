@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: Lou Reed. ",
-  "num_followers": 1224885,
+  "num_followers": 1225044,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2ViNjI2ZWE5MTNkNGZjOTdmMjBjMjExYWE5MzU3ZTgwYjcwYWUy",
+  "snapshot_id": "MCw2ZWNjZjdjZWE5Nzg0ODczNDNkNGRlNjJlZDhiNGNmOTQ0OGQ3YTQ1",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:39",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
         "name": "Personal Jesus",
         "url": "https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+        "name": "This Year's Model (2021 Remaster)",
+        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
       },
       "artists": [
         {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
         }
       ],
-      "duration_ms": 309306,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
+      "duration_ms": 196680,
+      "name": "Pump It Up - 2021 Remaster",
+      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -783,22 +799,6 @@
       "duration_ms": 240333,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
-        "name": "This Year's Model (2021 Remaster)",
-        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Pump It Up - 2021 Remaster",
-      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
     },
     {
       "added_at": "2023-03-14 21:51:39",

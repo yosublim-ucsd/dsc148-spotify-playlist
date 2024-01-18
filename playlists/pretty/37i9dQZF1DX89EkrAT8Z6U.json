@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 922408,
+  "num_followers": 924131,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTFkODAwNDY1OGRjOTY0NzEwMWJlYWEyODYyNzMzOWRiM2YxYTdl",
+  "snapshot_id": "MCxlZmVlMzYxNWJkYWU2NjZmZGQ0Mjc0NmY5M2Q3NTc4ZmQ1ZWExYzU4",
   "tracks": [
     {
       "added_at": "2024-01-12 18:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "paranoia",
-        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
-      },
-      "artists": [
-        {
-          "name": "KENTENSHI",
-          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
-        }
-      ],
-      "duration_ms": 117408,
-      "name": "paranoia",
-      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "Hexada",
         "url": "https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 124538,
       "name": "Mercury: Retrograde",
       "url": "https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
+      },
+      "artists": [
+        {
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+        }
+      ],
+      "duration_ms": 117408,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "By the Sword",
-        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        }
-      ],
-      "duration_ms": 125812,
-      "name": "By the Sword",
-      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "vampire heart",
         "url": "https://open.spotify.com/album/778RLWDdeeU7mudGxRLyQV"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 144000,
       "name": "vampire heart",
       "url": "https://open.spotify.com/track/6Ql2mpc1EbGp0GI6CbaGT4"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "By the Sword",
+        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 125812,
+      "name": "By the Sword",
+      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
+        "name": "XO EViL LiF3 (.DEMON.)",
+        "url": "https://open.spotify.com/album/6bGikVVE4O3ZEHmmbhCkMm"
+      },
+      "artists": [
+        {
+          "name": "steve breaux",
+          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
+        }
+      ],
+      "duration_ms": 123591,
+      "name": "XO EViL LiF3 (.DEMON.)",
+      "url": "https://open.spotify.com/track/0oUmiDcH2jBUEgiSnob5JW"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
         "name": "2K FREESTYLE",
         "url": "https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 213000,
       "name": "2K FREESTYLE",
       "url": "https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
-        "name": "XO EViL LiF3 (.DEMON.)",
-        "url": "https://open.spotify.com/album/6bGikVVE4O3ZEHmmbhCkMm"
-      },
-      "artists": [
-        {
-          "name": "steve breaux",
-          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
-        }
-      ],
-      "duration_ms": 123591,
-      "name": "XO EViL LiF3 (.DEMON.)",
-      "url": "https://open.spotify.com/track/0oUmiDcH2jBUEgiSnob5JW"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "BAIXO",
-        "url": "https://open.spotify.com/album/4FZ9dWvoOMpOMzh914Jmhc"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "BAIXO",
-      "url": "https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "Dalai Lama",
         "url": "https://open.spotify.com/album/78gNxj2hj39is15hwP82IC"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 135433,
       "name": "Dalai Lama",
       "url": "https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "BAIXO",
+        "url": "https://open.spotify.com/album/4FZ9dWvoOMpOMzh914Jmhc"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "BAIXO",
+      "url": "https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
+        "name": "2077",
+        "url": "https://open.spotify.com/album/4aGax9S99B53Pm8oxwzHR0"
+      },
+      "artists": [
+        {
+          "name": "do not resurrect",
+          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
+        }
+      ],
+      "duration_ms": 135074,
+      "name": "2077",
+      "url": "https://open.spotify.com/track/4Gr9pPieF9ZVUxBB8vF1gy"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
         "name": "V-12",
         "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "2077",
-        "url": "https://open.spotify.com/album/4aGax9S99B53Pm8oxwzHR0"
-      },
-      "artists": [
-        {
-          "name": "do not resurrect",
-          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
-        }
-      ],
-      "duration_ms": 135074,
-      "name": "2077",
-      "url": "https://open.spotify.com/track/4Gr9pPieF9ZVUxBB8vF1gy"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "S1KE",
         "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Cyberfreak",
-        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 118093,
-      "name": "Cyberfreak",
-      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "Go!",
         "url": "https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 160666,
       "name": "Go!",
       "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "Cyberfreak",
+        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 118093,
+      "name": "Cyberfreak",
+      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
     },
     {
       "added_at": "2024-01-12 18:00:00",

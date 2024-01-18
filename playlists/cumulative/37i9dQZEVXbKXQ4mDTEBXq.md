@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-385 songs - 1 day 0 hr 15 min
+387 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-21 | 2023-12-30 |
 | [ANTIFRAGILE](https://open.spotify.com/track/0bMoNdAnxNR0OuQbGDovrr) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 | 2023-05-02 | 2023-06-24 |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-20 | 2023-05-03 |
+| [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 | 2024-01-17 |  |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-13 |  |
 | [Bluma to Lunch](https://open.spotify.com/track/3EYWY7XBj1BkCKX3R3hoZk) | [BLOOM VASE](https://open.spotify.com/artist/3jpPlA4ASvE9TlObazOIee) | [BLOOM SQUAD](https://open.spotify.com/album/6aGYVnuwrIJY0Vy09s9CV6) | 2:39 | 2021-03-30 | 2022-03-16 |
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-03-07 | 2023-04-19 |
@@ -67,7 +68,7 @@
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/1lyDrDkuV5HsD1vfmAxbPI) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [TOKYO \- FIRST LOVE \-](https://open.spotify.com/album/3i5O36GlDT5RNarOZKuwdS) | 4:18 | 2023-12-01 |  |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2022-12-25 | 2022-12-28 |
 | [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 | 2023-11-08 | 2023-12-15 |
-| [High Note](https://open.spotify.com/track/3RoP3fJWHDXKhxDJaknv4n) | [KingLee](https://open.spotify.com/artist/2LWLcwnQRro1tCxeHgsYRj), [Code G](https://open.spotify.com/artist/39hzvvkLOg7HDWgWPkdPcD) | [High Note](https://open.spotify.com/album/2GzRfuJoyGNEbIYpbYT4pM) | 4:01 | 2024-01-13 |  |
+| [High Note](https://open.spotify.com/track/3RoP3fJWHDXKhxDJaknv4n) | [KingLee](https://open.spotify.com/artist/2LWLcwnQRro1tCxeHgsYRj), [Code G](https://open.spotify.com/artist/39hzvvkLOg7HDWgWPkdPcD) | [High Note](https://open.spotify.com/album/2GzRfuJoyGNEbIYpbYT4pM) | 4:01 | 2024-01-13 | 2024-01-18 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2022-12-25 | 2022-12-27 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-13 | 2023-07-24 |
 | [I Love...](https://open.spotify.com/track/4pRqq3MwcqitKqNO8rOrOb) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [I Love...](https://open.spotify.com/album/7EKSlfTmzRj012jKIstn7L) | 4:42 | 2021-03-27\* | 2021-08-20 |
@@ -92,7 +93,7 @@
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-25 | 2022-10-09 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 | 2022-10-09 | 2022-12-12 |
 | [Life Goes On](https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:27 | 2021-03-27\* | 2021-04-29 |
-| [Lost and Found](https://open.spotify.com/track/4sVC4dgJWVc9PrKKdH6gZe) | [KingLee](https://open.spotify.com/artist/2LWLcwnQRro1tCxeHgsYRj), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Lost and Found](https://open.spotify.com/album/4GbcWTiggWeyywhWIAIqNb) | 3:39 | 2024-01-13 |  |
+| [Lost and Found](https://open.spotify.com/track/4sVC4dgJWVc9PrKKdH6gZe) | [KingLee](https://open.spotify.com/artist/2LWLcwnQRro1tCxeHgsYRj), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Lost and Found](https://open.spotify.com/album/4GbcWTiggWeyywhWIAIqNb) | 3:39 | 2024-01-13 | 2024-01-18 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-07 | 2022-10-28 |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-16 | 2023-11-18 |
 | [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 | 2023-10-18 | 2023-12-02 |
@@ -103,6 +104,7 @@
 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 | 2023-09-13 | 2023-12-05 |
 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-08-26 | 2023-08-28 |
 | [Make you happy](https://open.spotify.com/track/1LnJVIG1BaHTRznuOgR0yc) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Make you happy](https://open.spotify.com/album/1wIIu2i7A56TlMD99CVNQD) | 3:04 | 2021-03-27\* | 2021-08-04 |
+| [Marigold](https://open.spotify.com/track/5NqGfELjcdvRIUuhgZJ34W) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Momentary Sixth Sense](https://open.spotify.com/album/2JzVi6d4gLdVFemJKJSPJf) | 5:06 | 2024-01-17 |  |
 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 | 2022-07-13 | 2022-09-19 |
 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 | 2021-12-27 | 2023-04-14 |
 | [Melody](https://open.spotify.com/track/621pzEeNauLzgQrmVvCMEA) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [8LOOM](https://open.spotify.com/album/3gh0vrpPVPrs4SZvdldgIC) | 3:14 | 2022-12-23 | 2023-03-08 |

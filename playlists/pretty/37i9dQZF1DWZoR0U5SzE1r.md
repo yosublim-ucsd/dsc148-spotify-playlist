@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,205 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,419 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 82 | [Jesus, You're Beautiful \(Live\)](https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM) | [Onething Live](https://open.spotify.com/artist/3T6MQugN3SnovyHgr7PLUa), [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Love Makes Us Strong \(Live\)](https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX) | 7:28 |
 | 83 | [Awake My Soul \(With Tasha Cobbs Leonard\)](https://open.spotify.com/track/31hmy3Djo43cIjZptFN5xs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake My Soul \(With Tasha Cobbs Leonard\)](https://open.spotify.com/album/2HC0cgHArt7LwYi31BygLX) | 3:45 |
 | 84 | [Still](https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Still](https://open.spotify.com/album/1nFQuXVKFf4FqmJcuyG7eS) | 4:16 |
-| 85 | [Is He Worthy?](https://open.spotify.com/track/2fLm3XEZnGnsw0caZh8v8T) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Is He Worthy?](https://open.spotify.com/album/4a3w0ALiId0cypY92u9g8m) | 4:31 |
+| 85 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 86 | [Valley \- Live](https://open.spotify.com/track/04IRbKCLC8ktH1nhYdmEXe) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Valley \(Live\)](https://open.spotify.com/album/2RfOUTIdbZpA8YH2qlPi6n) | 4:51 |
-| 87 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
+| 87 | [Is He Worthy?](https://open.spotify.com/track/2fLm3XEZnGnsw0caZh8v8T) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Is He Worthy?](https://open.spotify.com/album/4a3w0ALiId0cypY92u9g8m) | 4:31 |
 | 88 | [Glory to Glory](https://open.spotify.com/track/0SfGXg7vZmt5OGxET9lhRw) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 6:05 |
 | 89 | [This Is Our Story](https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo) | 5:41 |
 | 90 | [Nobody Like You \(Live\)](https://open.spotify.com/track/3g3OnglwSM3Rij5tIFA1LZ) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Nobody Like You \(Live\)](https://open.spotify.com/album/5SX9vQtcGlUpyJkB3kwry1) | 7:22 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 92 | [Oxygen](https://open.spotify.com/track/78w8tPmfZIMZ2853pe0I6d) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Oxygen](https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi) | 3:29 |
 | 93 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
 | 94 | [Liberator \- Live](https://open.spotify.com/track/6AOHOfoyvCA0tTshLFhCFM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa), [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53), [Annalise Bush](https://open.spotify.com/artist/5U7PKEYEqGUnP3SYoj17ek) | [Songs of the House \(Live\)](https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg) | 5:12 |
-| 95 | [Take Courage \(Live\)](https://open.spotify.com/track/64Gil9pakWkRHqnXZSSbrm) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation](https://open.spotify.com/album/5bO5rv7fN82wztgC4Q4TZv) | 5:50 |
+| 95 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 |
 | 96 | [The More of You I See](https://open.spotify.com/track/7jmAAygPC6IHuEwnDm82D0) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 5:15 |
 | 97 | [Fill This Place \(Studio Version\)](https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Fill This Place \(Studio Version\)](https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS) | 3:45 |
-| 98 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 |
+| 98 | [Take Courage \(Live\)](https://open.spotify.com/track/64Gil9pakWkRHqnXZSSbrm) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation](https://open.spotify.com/album/5bO5rv7fN82wztgC4Q4TZv) | 5:50 |
 | 99 | [Covered \- Live](https://open.spotify.com/track/4MeW3rzdC1uAUTfb7E5Z51) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Covered \(Live\)](https://open.spotify.com/album/3wgV3Cs5k7UQKEshAJN8BT) | 7:13 |
 | 100 | [Throne Room \- Live](https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [On My Side \(Live\)](https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe) | 5:01 |
 
-Snapshot ID: `MCxjOTEzM2U3YTBlYjY4OWRlZWM2ODUzNDdmNTUxNmM4NTcwNjRjMzlh`
+Snapshot ID: `MCw3NTYxNDg3ODc3NDQ0NGY3NmU0MGJlZjFiMWIyZTc2ZDljZjViYzk0`

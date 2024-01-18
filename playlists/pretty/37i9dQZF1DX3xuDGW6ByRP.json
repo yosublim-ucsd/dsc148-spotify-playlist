@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47398,
+  "num_followers": 47429,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjVjZmViODg5M2ZkNGI5NjkyYzI4NDU4YmQzZmM2NWRiMjk0ZDA4",
+  "snapshot_id": "MCxmZWQzYThjNThjNDMyN2NmN2E3MDIxNjE4NzMzZTA4NGFiMGZkZDc2",
   "tracks": [
     {
       "added_at": "2024-01-05 14:33:05",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 197877,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "Crazy Again",
-        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 197877,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "Foi Tudo Aqui",
-        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
+        "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
+        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
       },
       "artists": [
         {
-          "name": "Fuze",
-          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
         }
       ],
-      "duration_ms": 189901,
-      "name": "Deixa Estar",
-      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
+      "duration_ms": 207070,
+      "name": "CORPO FECHADO",
+      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
-        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
+        "name": "Foi Tudo Aqui",
+        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
       },
       "artists": [
         {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+          "name": "Fuze",
+          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
         }
       ],
-      "duration_ms": 207070,
-      "name": "CORPO FECHADO",
-      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
+      "duration_ms": 189901,
+      "name": "Deixa Estar",
+      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "Andar 14",
-        "url": "https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK"
-      },
-      "artists": [
-        {
-          "name": "Lucas Andrade",
-          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "Andar 14",
-      "url": "https://open.spotify.com/track/4mric8489EFF7DxpQfonKw"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
         "name": "melhor ou pior",
         "url": "https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 164000,
       "name": "melhor ou pior",
       "url": "https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "Andar 14",
+        "url": "https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK"
+      },
+      "artists": [
+        {
+          "name": "Lucas Andrade",
+          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "Andar 14",
+      "url": "https://open.spotify.com/track/4mric8489EFF7DxpQfonKw"
     },
     {
       "added_at": "2024-01-05 14:33:05",

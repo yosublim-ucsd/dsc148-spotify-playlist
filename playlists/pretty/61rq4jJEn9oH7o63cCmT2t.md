@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 
 > Holy fuck I&\#x27;m so tired
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 43 songs - 2 hr 27 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,8 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 | 41 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 |
 | 42 | [Ground Level](https://open.spotify.com/track/4OYbXIPquvyX3GIgdMzY3S) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 2:22 |
 | 43 | [Sixteen Tons](https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d) | [Geoff Castellucci](https://open.spotify.com/artist/1TIQZBUSqWPrBZuh80x6Rz) | [Sixteen Tons](https://open.spotify.com/album/1TYeSHzqyRK8gfn8I0drTr) | 2:50 |
+| 44 | [Shuffle](https://open.spotify.com/track/7FKkJ0NDrMobvDw1jD8w58) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Mysteries for Rats](https://open.spotify.com/album/2lLqbdwvNw8zWDYwk1nsED) | 2:43 |
+| 45 | [Cigarette Ahegao](https://open.spotify.com/track/67VxWciiaYZYy3NTlyCtp7) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:03 |
+| 46 | [Moonsickness](https://open.spotify.com/track/4lOEGaLwY4yN2WFfGIq2Tr) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 5:14 |
 
-Snapshot ID: `NDksYTllY2Y1ZTk1NDQ5MjY3ODEyYjllODZjY2U5YzgwYjk5ZjkzYjUwMA==`
+Snapshot ID: `NTIsYTBjZDBjNTg1YWNhMTY2ZjQ1YjYzOGM2NTMzODBhOGUxYTEyZTFmNw==`

@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 19407,
+  "num_followers": 19467,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWI0MmVhNDNjZDgwMWEzYzVjODgzODVlOGFiY2JmNWI3ZmM3Mjgx",
+  "snapshot_id": "MCwwYjI1NWU4NTRkOGI5NGQ3YjE0NGM1MjM1YjhhOTk4Y2YxOGZkOGE1",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Dead Texan",
-        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
-      },
-      "artists": [
-        {
-          "name": "The Dead Texan",
-          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "The Six Million Dollar Sandwich",
-      "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Grinning Cat",
         "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 154493,
       "name": "I Imagine",
       "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Dead Texan",
+        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
+      },
+      "artists": [
+        {
+          "name": "The Dead Texan",
+          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "The Six Million Dollar Sandwich",
+      "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Burial",
-        "url": "https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        }
-      ],
-      "duration_ms": 133694,
-      "name": "Night Bus",
-      "url": "https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "When the Detail Lost Its Freedom",
         "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 344560,
       "name": "I Will",
       "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Burial",
+        "url": "https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "duration_ms": 133694,
+      "name": "Night Bus",
+      "url": "https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -743,6 +743,22 @@
       "duration_ms": 234333,
       "name": "Cold Out There",
       "url": "https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 273186,
+      "name": "Piano Abg",
+      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 273186,
-      "name": "Piano Abg",
-      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Venice",
         "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
       },
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "Silent Motels",
+      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Yesterday Was Dramatic \u2013 Today Is OK",
         "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
       },
@@ -895,42 +911,6 @@
       "duration_ms": 391466,
       "name": "There Is A Number Of Small Things",
       "url": "https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "And Then I Turned Away",
-      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "An Imaginary Country",
-        "url": "https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 286626,
-      "name": "Borderlands",
-      "url": "https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -951,6 +931,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "An Imaginary Country",
+        "url": "https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 286626,
+      "name": "Borderlands",
+      "url": "https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Songs for the Broken Hearted",
         "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
       },
@@ -967,18 +963,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
       "artists": [
         {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 236773,
-      "name": "Silent Motels",
-      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
+      "duration_ms": 210706,
+      "name": "And Then I Turned Away",
+      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Telegraphs in Negative / Mouths Trapped in Static",
-        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
-      },
-      "artists": [
-        {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
-        }
-      ],
-      "duration_ms": 135293,
-      "name": "Your Guts Are Like Mine",
-      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Riceboy Sleeps (2019 Remaster)",
         "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 315386,
       "name": "All The Big Trees - 2019 Remaster",
       "url": "https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Telegraphs in Negative / Mouths Trapped in Static",
+        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 135293,
+      "name": "Your Guts Are Like Mine",
+      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "MP3 Collection",
-        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
-      },
-      "artists": [
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
-        }
-      ],
-      "duration_ms": 438066,
-      "name": "Raamat",
-      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Second Childhood",
         "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 371480,
       "name": "The Direction Was Foggy or Cloudy",
       "url": "https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "MP3 Collection",
+        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
+      },
+      "artists": [
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+        }
+      ],
+      "duration_ms": 438066,
+      "name": "Raamat",
+      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Second Childhood",
-        "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "BJ Nilsen",
-          "url": "https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB"
-        },
-        {
-          "name": "Stilluppsteypa",
-          "url": "https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj"
-        }
-      ],
-      "duration_ms": 394680,
-      "name": "It's About the Size of a House",
-      "url": "https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Choral",
         "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
       },
@@ -1555,6 +1531,30 @@
       "duration_ms": 158080,
       "name": "Arves\u00f8lv",
       "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Second Childhood",
+        "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "BJ Nilsen",
+          "url": "https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB"
+        },
+        {
+          "name": "Stilluppsteypa",
+          "url": "https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj"
+        }
+      ],
+      "duration_ms": 394680,
+      "name": "It's About the Size of a House",
+      "url": "https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Varde",
-        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
-      },
-      "artists": [
-        {
-          "name": "Elegi",
-          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "S\u00f8vnens Kvelertak",
-      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Inlandish",
         "url": "https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 187960,
       "name": "The Orchardist",
       "url": "https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Steel Wound",
+        "url": "https://open.spotify.com/album/1aLlVAVx4qvra3V7gYNag0"
+      },
+      "artists": [
+        {
+          "name": "Ben Frost",
+          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Swarm",
+      "url": "https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2"
     }
   ],
   "unique_name": "Ambient 2000s",

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 339108,
+  "num_followers": 339256,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzg4NTY0OTZkZDFjODczMjgwM2I2MTVkZDRmZTUxZGExNDQ5NTc5",
+  "snapshot_id": "MCxhYzRmYzAzZTZiODE0YTdhZWExNzlhOGRkZDhmYjg1ZDg4Y2QwYTc1",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
       },
       "artists": [
         {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
         }
       ],
-      "duration_ms": 150973,
-      "name": "Donna - Single Version",
-      "url": "https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv"
+      "duration_ms": 168306,
+      "name": "True Love Ways",
+      "url": "https://open.spotify.com/track/2Aq3BiLhITGHe6YSzkzOvi"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
         }
       ],
-      "duration_ms": 168306,
-      "name": "True Love Ways",
-      "url": "https://open.spotify.com/track/2Aq3BiLhITGHe6YSzkzOvi"
+      "duration_ms": 150973,
+      "name": "Donna - Single Version",
+      "url": "https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -687,6 +687,26 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Johnny's Greatest Hits",
+        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        },
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "Chances Are (with Ray Conniff & His Orchestra)",
+      "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "16 Most Requested Songs",
         "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
@@ -719,26 +739,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Johnny's Greatest Hits",
-        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        },
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "Chances Are (with Ray Conniff & His Orchestra)",
-      "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
         "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 145133,
       "name": "Mr. Blue",
       "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So",
+      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -799,22 +815,6 @@
       "duration_ms": 164413,
       "name": "You're Gonna Miss Me",
       "url": "https://open.spotify.com/track/1yLsZ8fuQJqk2cm1VDWTGb"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So",
-      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
     },
     {
       "added_at": "2022-05-30 12:59:00",

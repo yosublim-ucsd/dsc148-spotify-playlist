@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,984 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,192 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 26 | [The Shadow of El Shaddai \(feat\. Rita Springer\)](https://open.spotify.com/track/3VaT4LIzl57VmzGs3q3Mqv) | [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [The Shadow of El Shaddai \(feat\. Rita Springer\)](https://open.spotify.com/album/23Es2luUm8DT5QuMZEikoM) | 4:57 |
 | 27 | [True Belonging](https://open.spotify.com/track/1T3gjAMgJ4bj0NioxyRBzE) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp), [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Daybreak: Psalms of Action](https://open.spotify.com/album/7F6q2U4zsOLtnHuViWZ4NL) | 3:44 |
 | 28 | [Standing Strong \- Live](https://open.spotify.com/track/5Twd5y4BMNC1FUVPrqa44h) | [Lydia Ingegneri](https://open.spotify.com/artist/5zXH2BUYq9vVQQxPDU8fL8) | [Standing Strong \(Live\)](https://open.spotify.com/album/3gtfJNJq7LFRyHjpGQmK8f) | 5:15 |
-| 29 | [Holy](https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG) | [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x) | [Holy](https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ) | 7:08 |
+| 29 | [Holy](https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG) | [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x), [Jonathan Clarke](https://open.spotify.com/artist/5HTyP5XAnJHFgHNGEOa5p1) | [Holy](https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ) | 7:08 |
 | 30 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/3DHCxITonYPI1gNzdewEfI) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 |
 | 31 | [Jesus Jesus Jesus \- Live](https://open.spotify.com/track/6OOqZLZzCkbXfkXrJgR7pV) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Lisa Knowles\-Smith](https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo) | [Jesus, Jesus, Jesus \(Live\)](https://open.spotify.com/album/4vzNAaxddqpjNIOzByrMQd) | 6:50 |
 | 32 | [We Need Your Presence Now \(feat\. Eryka Edmund\)](https://open.spotify.com/track/3CqPj0BBWXmU3uCezP2iOF) | [Charles Butler & Trinity](https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU), [Eryka Edmund](https://open.spotify.com/artist/1VitpzYVY9vaDnqSl0wir9) | [We Need Your Presence Now \(feat\. Eryka Edmund\)](https://open.spotify.com/album/5UjMHrd8ndwHGVrGQ1lHwR) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Favorite Trapper](https://open.spotify.com/track/6ELsXVHVwBNS81g4CXiXle) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2) | [Favorite Trapper](https://open.spotify.com/album/0OOX0GDbvpMpAYZEyqM1RJ) | 2:26 |
 | 100 | [Bands](https://open.spotify.com/track/1jutX4tpnkTBu94RsGKDX3) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Bands](https://open.spotify.com/album/5veg02OZ3szLtOtf4D5eHB) | 3:17 |
 
-Snapshot ID: `MCxiMTY0OTVhNzUwOGJkNjgxZWQ5ZjZjN2I1ZWZhN2FlMzIwOTBmMzVk`
+Snapshot ID: `MCw1ZjM3NjkxMzFkM2NkMzMwNDBhZjA5MDQ3ZmRlZDcwNGRjMDgxN2Uz`

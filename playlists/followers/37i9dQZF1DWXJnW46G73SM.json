@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 118857,
+  "2024-01-18": 119011,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641:<a href=\"https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo?si=_7dt1SNIR5WmWQxNj-173w\"> \u0646\u0648\u0627\u0644 </a>",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
@@ -2727,7 +2727,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 238695,
       "name": "El Amal We El Noor Fe Eedak",
       "url": "https://open.spotify.com/track/0R9RoVQip12AW82kNNX9UF"
@@ -3821,6 +3821,24 @@
       "duration_ms": 199668,
       "name": "Fi Zeroof Tanya",
       "url": "https://open.spotify.com/track/5efRgvpDUMrX2ivUimYPcJ"
+    },
+    {
+      "album": {
+        "name": "FOKAK MENI",
+        "url": "https://open.spotify.com/album/73HNyxz2RUUZrqCyOZHW32"
+      },
+      "artists": [
+        {
+          "name": "Lella Fadda",
+          "url": "https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113208,
+      "name": "FOKAK MENI",
+      "url": "https://open.spotify.com/track/56ohyUS0aLJpk10OQhleUD"
     },
     {
       "album": {
@@ -9459,7 +9477,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 165887,
       "name": "Wara Kol Nagah",
       "url": "https://open.spotify.com/track/3mRHFu05SyAc4Y7cQPorON"
@@ -9629,6 +9647,24 @@
       "duration_ms": 230753,
       "name": "Wleeh",
       "url": "https://open.spotify.com/track/5QIatrUnbjkDqftJbfZo5B"
+    },
+    {
+      "album": {
+        "name": "Woseltelha",
+        "url": "https://open.spotify.com/album/6RrDEMqADohA3DYvWkulNB"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248241,
+      "name": "Woseltelha",
+      "url": "https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS"
     },
     {
       "album": {
@@ -11659,7 +11695,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 195375,
       "name": "\u062d\u0636\u0646 \u0627\u0628\u0648\u064a\u0627",
       "url": "https://open.spotify.com/track/6loQ5gX9N4Mq6VigXfxws7"

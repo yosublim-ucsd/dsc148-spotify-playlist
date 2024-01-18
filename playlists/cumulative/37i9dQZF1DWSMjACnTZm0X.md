@@ -4,7 +4,7 @@
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ?si=BuRQnFJQTfme77IrVmdr7w">JZyNo</a>
 
-179 songs - 12 hr 40 min
+180 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Dangerous Love \- DJ Ganyani & De Mogul Remix](https://open.spotify.com/track/4FmVx7MwV11Y3iEzbbXalR) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Ganyani](https://open.spotify.com/artist/3D168M3LLSF7IPPU7HUZGa), [De Mogul SA](https://open.spotify.com/artist/0QkYGHzYrh3PM5EjcvHfqC) | [Dangerous Love \(DJ Ganyani & De Mogul Remix\)](https://open.spotify.com/album/2IUiQgkfKXwrH08ALZSwLC) | 5:51 | 2022-05-23 | 2022-08-05 |
 | [Double Tap](https://open.spotify.com/track/77w0gjrcC63Mv0kzP35uxN) | [Mathandos](https://open.spotify.com/artist/4ie8G7LI4tNKHAXln6mhiK), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Double Tap](https://open.spotify.com/album/0oAsHg9U2yADXqDtR2GoJC) | 3:47 | 2023-07-28 |  |
 | [Dubai](https://open.spotify.com/track/6tx3PPYfrkpeJqQH2oSxhH) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [Dubai](https://open.spotify.com/album/3LU9tiUoLpihL2pXPbejWO) | 6:30 | 2022-05-23 | 2023-08-11 |
+| [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 | 2024-01-17 |  |
 | [Ekhaya](https://open.spotify.com/track/1T2pzBmz9yh5ddK8KZbtG7) | [Iyane Jamdong](https://open.spotify.com/artist/5GJHtxMt5kp2gfBrnLZO3o), [Elzo Jamdong](https://open.spotify.com/artist/2reG2sYggrEZLUXvRI1yth), [Bianca Hester](https://open.spotify.com/artist/5f7Tf5kiBghcMQGY1idPsJ), [Crosswavee](https://open.spotify.com/artist/6Sq69aTwgyzk6yL6U5mU85), [Da Musiqal Prodigy](https://open.spotify.com/artist/46nnGGk1MsYqz7Yw9EZjxZ) | [Ekhaya](https://open.spotify.com/album/1I0NVt2ETbbxHOPsw083zF) | 6:21 | 2022-09-09 | 2023-09-09 |
 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 | 2023-08-15 |  |
 | [Enjoy That \- Remix](https://open.spotify.com/track/1daeMUyT9Tt7KTTjA50wQ5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr) | [Enjoy That](https://open.spotify.com/album/77gBpDJwRBd1edfN7xxsNw) | 4:36 | 2023-08-10 |  |

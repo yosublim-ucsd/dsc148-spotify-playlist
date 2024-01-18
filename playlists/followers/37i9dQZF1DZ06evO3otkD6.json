@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 61744,
+  "2024-01-18": 61775,
   "date_first_scraped": "2023-11-11",
   "description": "This is Belinda. The essential tracks, all in one playlist.",
   "name": "This Is Belinda",
@@ -342,6 +342,24 @@
     },
     {
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189080,
+      "name": "Dame M\u00e1s",
+      "url": "https://open.spotify.com/track/2MOgE3TH2c9CapYnBvnlkp"
+    },
+    {
+      "album": {
         "name": "The Cheetah Girls 2",
         "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
       },
@@ -585,7 +603,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 204414,
       "name": "La Ni\u00f1a de la Escuela",
       "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"

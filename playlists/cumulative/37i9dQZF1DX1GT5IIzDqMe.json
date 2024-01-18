@@ -742,6 +742,10 @@
         {
           "name": "Moritz Von Oswald",
           "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        },
+        {
+          "name": "Borderland",
+          "url": "https://open.spotify.com/artist/4ttW3XIF666GUYBF2tEMz9"
         }
       ],
       "date_added": "2022-07-22",
@@ -1058,28 +1062,6 @@
     {
       "album": {
         "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
-      },
-      "artists": [
-        {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        },
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
-        }
-      ],
-      "date_added": "2022-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 554692,
-      "name": "Riod",
-      "url": "https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac"
-    },
-    {
-      "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
         "url": "https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp"
       },
       "artists": [
@@ -1098,6 +1080,32 @@
       "duration_ms": 554692,
       "name": "Riod",
       "url": "https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD"
+    },
+    {
+      "album": {
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        },
+        {
+          "name": "Borderland",
+          "url": "https://open.spotify.com/artist/4ttW3XIF666GUYBF2tEMz9"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 554692,
+      "name": "Riod",
+      "url": "https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac"
     },
     {
       "album": {

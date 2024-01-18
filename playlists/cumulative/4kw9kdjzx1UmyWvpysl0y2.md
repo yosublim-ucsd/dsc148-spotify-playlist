@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-637 songs - 1 day 12 hr 56 min
+638 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,11 +537,12 @@
 | [Sunflowers](https://open.spotify.com/track/5R5oXUlnzXfQZUnbNZz2Dm) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr) | [Sunflowers](https://open.spotify.com/album/5Fv4WJupGWoHOMEJZddOR4) | 3:32 | 2023-02-24 | 2023-05-18 |
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
 | [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-10 | 2023-12-14 |
-| [Sylky](https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Sylky](https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S) | 2:16 | 2023-10-03 |  |
+| [Sylky](https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Sylky](https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S) | 2:16 | 2023-10-03 | 2024-01-18 |
 | [Take 2](https://open.spotify.com/track/2SMhyjOfbnXSqbnGWkxASl) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m) | [Take 2](https://open.spotify.com/album/6dheHcTDf71XC3OEWZPIrU) | 3:48 | 2023-11-15 |  |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-05 | 2022-07-16 |
 | [Take Me](https://open.spotify.com/track/3bhhWM9zuWeUDyR4ODiaaD) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [Fine Lines](https://open.spotify.com/album/13YQu9MLG4xy8vBI4OrSnA) | 3:16 | 2022-11-25 | 2022-11-29 |
 | [Take Me Away](https://open.spotify.com/track/3AqelM2KUTUGUOgqPIpegG) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA), [Meredith Bull](https://open.spotify.com/artist/7qZdPKLV8xVaqsV98Dz9or) | [Take Me Away](https://open.spotify.com/album/5w1SO7iTkO8XjBhwUOi68j) | 3:37 | 2022-06-29 | 2022-09-10 |
+| [Take Me Higher](https://open.spotify.com/track/7x6WyCtfWVMSzY7BtvSlbs) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Take Me Higher](https://open.spotify.com/album/4liRBcZA8VxmCO17uCpwhC) | 2:34 | 2024-01-17 |  |
 | [Take Me Into Space](https://open.spotify.com/track/7fyOoDZjardzxtHszeAtz3) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO) | [Take Me Into Space](https://open.spotify.com/album/3gep8PSYHoNtjx05xWCN6N) | 3:01 | 2023-01-17 | 2023-03-31 |
 | [Talk To Me](https://open.spotify.com/track/1HTAiaEhm1ASBdfku96IUF) | [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Talk To Me](https://open.spotify.com/album/4lXG5SZAxBlwZGD13ePprM) | 4:07 | 2022-09-21 | 2022-11-23 |
 | [Talk To You](https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Talk To You](https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3) | 4:06 | 2023-04-06 | 2023-06-30 |

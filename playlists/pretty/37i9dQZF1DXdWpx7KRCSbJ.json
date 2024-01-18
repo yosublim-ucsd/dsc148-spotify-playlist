@@ -1,12 +1,12 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 341800,
+  "num_followers": 341799,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTI0MjJmNzEyOGJkMDgxZmVjMzBmYjA0NTMwNDc5OTIyOWEzNDc4",
+  "snapshot_id": "MCxiNDE3NDgyNzNhMjdmM2QyMjM2NWI3YzQ4NWFjZTE5ZTkwYWM1YmI3",
   "tracks": [
     {
       "added_at": "2023-01-17 01:33:36",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Menos \u00c9 Mais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6iGvvnauoKKjkutnB2b7lB"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 178903,
+      "name": "Cidade Vizinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/1pjpPXl66t4FeQaFscpG73"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Por Inteiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 172766,
       "name": "Atrasadinha - Live",
       "url": "https://open.spotify.com/track/4DfPhCFm0Cx6VXr5Rxkx6D"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Menos \u00c9 Mais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6iGvvnauoKKjkutnB2b7lB"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 178903,
-      "name": "Cidade Vizinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/1pjpPXl66t4FeQaFscpG73"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "In Miami Beach (Ao Vivo)",
-        "url": "https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 171084,
-      "name": "Ar Condicionado no 15 - Ao Vivo",
-      "url": "https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "NO CH\u00c3O NOVINHA",
         "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 136901,
       "name": "NO CH\u00c3O NOVINHA",
       "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "In Miami Beach (Ao Vivo)",
+        "url": "https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 171084,
+      "name": "Ar Condicionado no 15 - Ao Vivo",
+      "url": "https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Intensamente Hoje!",
+        "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170459,
+      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
+      "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
         "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 277125,
       "name": "Cheia de Manias - Ao Vivo",
       "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Intensamente Hoje!",
-        "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 170459,
-      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
-      "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -619,22 +619,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
-        "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
+        "name": "Ao Vivo E A Cores",
+        "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 206270,
-      "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
-      "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
+      "duration_ms": 180304,
+      "name": "Ao Vivo E A Cores",
+      "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -659,22 +659,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ao Vivo E A Cores",
-        "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
+        "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
+        "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
           "name": "Anitta",
           "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Ao Vivo E A Cores",
-      "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
+      "duration_ms": 206270,
+      "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
+      "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -715,22 +715,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i"
+        "name": "Deixa Ela Beijar",
+        "url": "https://open.spotify.com/album/0cRh2xyjTOdUSVBNk84nd4"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         },
         {
           "name": "MC Kevinho",
           "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 146276,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/7G2XZhDNHo7SSDWSVxC0UT"
+      "duration_ms": 166410,
+      "name": "Deixa Ela Beijar",
+      "url": "https://open.spotify.com/track/2KxHe4qxNgeFcKpE2r2aBt"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -803,22 +803,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Deixa Ela Beijar",
-        "url": "https://open.spotify.com/album/0cRh2xyjTOdUSVBNk84nd4"
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
           "name": "MC Kevinho",
           "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 166410,
-      "name": "Deixa Ela Beijar",
-      "url": "https://open.spotify.com/track/2KxHe4qxNgeFcKpE2r2aBt"
+      "duration_ms": 146276,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/7G2XZhDNHo7SSDWSVxC0UT"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -895,18 +895,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Bruninho & Davi ao Vivo no Ibirapuera (Deluxe)",
-        "url": "https://open.spotify.com/album/0N5TZp53t8eSWzmeHqr1tA"
+        "name": "S\u00e9culo 21",
+        "url": "https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7"
       },
       "artists": [
         {
-          "name": "Bruninho & Davi",
-          "url": "https://open.spotify.com/artist/5exy2LREZrJ6aRzj1SwXQX"
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 181013,
-      "name": "E Essa Boca A\u00ed? - Ao Vivo",
-      "url": "https://open.spotify.com/track/6vve9WKW5I7fQzkU8dNsUE"
+      "duration_ms": 167838,
+      "name": "S\u00e9culo 21",
+      "url": "https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -931,22 +935,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "S\u00e9culo 21",
-        "url": "https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7"
+        "name": "Bruninho & Davi ao Vivo no Ibirapuera (Deluxe)",
+        "url": "https://open.spotify.com/album/0N5TZp53t8eSWzmeHqr1tA"
       },
       "artists": [
         {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Bruninho & Davi",
+          "url": "https://open.spotify.com/artist/5exy2LREZrJ6aRzj1SwXQX"
         }
       ],
-      "duration_ms": 167838,
-      "name": "S\u00e9culo 21",
-      "url": "https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ"
+      "duration_ms": 181013,
+      "name": "E Essa Boca A\u00ed? - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vve9WKW5I7fQzkU8dNsUE"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Mandella \u00c9 Meu Nome",
+        "url": "https://open.spotify.com/album/27tvmysSzUy1ZmrA69BVgH"
+      },
+      "artists": [
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Mandella \u00c9 Meu Nome",
+      "url": "https://open.spotify.com/track/31fg03iImLgS3erGT5urU5"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Quem Me Dera",
         "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Mandella \u00c9 Meu Nome",
-        "url": "https://open.spotify.com/album/27tvmysSzUy1ZmrA69BVgH"
-      },
-      "artists": [
-        {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Mandella \u00c9 Meu Nome",
-      "url": "https://open.spotify.com/track/31fg03iImLgS3erGT5urU5"
     },
     {
       "added_at": "2023-01-17 01:33:36",

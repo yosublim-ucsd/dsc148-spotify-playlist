@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "Dent",
+      "url": "https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo"
+    },
+    {
+      "album": {
         "name": "Charmer",
         "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
       },

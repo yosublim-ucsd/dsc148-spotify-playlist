@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,717 likes - 76 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,722 likes - 76 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 7 | [Puerta y Regazo](https://open.spotify.com/track/2w1MdztRfIx6mS0SFSA53y) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Malosetti & la Colonia](https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH) | 2:29 |
 | 8 | [El Dia que me Quieras](https://open.spotify.com/track/1iPdxaOl9A0KJfCCdzaXvK) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU) | 3:20 |
 | 9 | [Entrada al Jardín de Ordóñez](https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t) | [El Jardín de Ordóñez](https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh) | 1:54 |
-| 10 | [Caminando Con Audífonos](https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im) | [Pat Nuño](https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN) | [En Las Afueras](https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my) | 3:50 |
-| 11 | [No Fear](https://open.spotify.com/track/7qMJVOUiXURGh27CQ8F2Fs) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [No Fear](https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf) | 5:01 |
+| 10 | [No Fear](https://open.spotify.com/track/7qMJVOUiXURGh27CQ8F2Fs) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [No Fear](https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf) | 5:01 |
+| 11 | [Caminando Con Audífonos](https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im) | [Pat Nuño](https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN) | [En Las Afueras](https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my) | 3:50 |
 | 12 | [Tico Tico No Fubà](https://open.spotify.com/track/3Q8ZbV1ebQ1vVZHcst39I8) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [Bésame Mucho](https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5) | 2:49 |
 | 13 | [Disco Inferno](https://open.spotify.com/track/62WJX6nry2MWBZ2ns4tGg1) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Envés](https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK) | 5:14 |
 | 14 | [A Night in Tunisia](https://open.spotify.com/track/3MPjfDEQhRcG17M3MKqWfe) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7) | [Vo!!](https://open.spotify.com/album/5q1uIVIcEdu1ZoxMvCUxs4) | 5:53 |
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 50 | [Ordóñez y Ernestina \(o el Banquito de Ordóñez\)](https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t) | [El Jardín de Ordóñez](https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh) | 5:47 |
 | 51 | [So in Love](https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm) | [Verónica Sala](https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP) | [Wallflower](https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u) | 6:05 |
 | 52 | [Learning the Blues \- En Vivo](https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf) | [Inés Estévez](https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq) | [Nude \(En Vivo\)](https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH) | 5:05 |
-| 53 | [Full House \- Live](https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc) | [Valentino Jazz Bazar](https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm) | [Essence of Wes Montgomery \(Live in Thelonious Club, Buenos Aires, Argentina\)](https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH) | 4:46 |
-| 54 | [Swing Summit](https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca) | [Manuel Fraga](https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8), [Oscar Giunta](https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P), [Pablo Motta](https://open.spotify.com/artist/0N4l2NjzDYy8061amZ1dv6) | [Swing Summit](https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed) | 4:33 |
+| 53 | [Swing Summit](https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca) | [Manuel Fraga](https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8), [Oscar Giunta](https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P), [Pablo Motta](https://open.spotify.com/artist/0N4l2NjzDYy8061amZ1dv6) | [Swing Summit](https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed) | 4:33 |
+| 54 | [Full House \- Live](https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc) | [Valentino Jazz Bazar](https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm) | [Essence of Wes Montgomery \(Live in Thelonious Club, Buenos Aires, Argentina\)](https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH) | 4:46 |
 | 55 | [Aura](https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Rata](https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K) | 3:57 |
 | 56 | [Viva Jujuy](https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ) | [Viva Jujuy](https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm) | 6:01 |
 | 57 | [Luna](https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Umbral de Mí](https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR) | 4:56 |
 | 58 | [El Reino del Revés](https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie), [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [El Reino del Revés](https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx) | 3:36 |
 | 59 | [Wave](https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7) | [Mensajes Secretos](https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g) | 8:44 |
-| 60 | [Full Glasses](https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Onyx](https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1) | 6:04 |
-| 61 | [Superestrella](https://open.spotify.com/track/4jB6brPwacdWQsRVBHMZGO) | [Lucio Balduini](https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn) | [El Bosque Brillante](https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg) | 5:19 |
+| 60 | [Superestrella](https://open.spotify.com/track/4jB6brPwacdWQsRVBHMZGO) | [Lucio Balduini](https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn) | [El Bosque Brillante](https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg) | 5:19 |
+| 61 | [Full Glasses](https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Onyx](https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1) | 6:04 |
 | 62 | [Nublado](https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC) | [La Grande](https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0) | [Sesiones 2017\-2020](https://open.spotify.com/album/17NlLQlimG217X7OALtTSy) | 6:14 |
 | 63 | [Coplas de Luna Quieta](https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK) | [Inocencia Repetida](https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX) | 2:37 |
 | 64 | [...Baby One More Time](https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy) | [...Baby One More Time](https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M) | 3:21 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 75 | [Cero](https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ) | [Commodore](https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN) | [Enero](https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b) | 6:52 |
 | 76 | [I Remember Clifford](https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Facundo Canosa](https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS) | [I Remember Clifford](https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY) | 3:12 |
 
-Snapshot ID: `MCxhZDcxNmJlZTI2OTg5YzZmMWM4ZTU2MTllNmI5YjdlNjBhNjA0OGYy`
+Snapshot ID: `MCxlMTRkNDg5ZmZiZTNhNzNmOTIwMDkxYmFkMjNmMmMzYTJkYTBiNDg1`

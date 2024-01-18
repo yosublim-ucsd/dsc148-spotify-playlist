@@ -1,12 +1,12 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 285639,
+  "num_followers": 285694,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTczNjZiMThkYTVlNDI4NDcwMGU3MzBlM2FlNDA4ZDE0YmM3NmQ3",
+  "snapshot_id": "MCxhMjI1MTIzNzIyNmUxMGQwMmI3NTEyY2U5ZjQzMjEyOTI2M2IyM2Ix",
   "tracks": [
     {
       "added_at": "2020-03-13 14:40:50",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Luna de Miel en la Mano",
-      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
         "name": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
         "url": "https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 167213,
       "name": "Mil Horas - 1994 Remastered Version",
       "url": "https://open.spotify.com/track/4pHdHimCLvD4nx8lh6uQyx"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Luna de Miel en la Mano",
+      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Llegando Los Monos",
-        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
-      },
-      "artists": [
-        {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "Los Viejos Vinagres",
-      "url": "https://open.spotify.com/track/587HW7legSOEetkhw2RoO2"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 273306,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
+        "name": "Llegando Los Monos",
+        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "Los Viejos Vinagres",
+      "url": "https://open.spotify.com/track/587HW7legSOEetkhw2RoO2"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -399,34 +399,18 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Ciudad De Pobres Corazones",
-        "url": "https://open.spotify.com/album/4GGCNfkWRUgyu6UjstHlJj"
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 328800,
-      "name": "Ciudad De Pobres Corazones",
-      "url": "https://open.spotify.com/track/1PSsStvZmJsU3CiJg8hRAx"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
-        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/62ZroX9gLL60Tg6VcF2tIN"
+      "duration_ms": 247066,
+      "name": "La Bestia Pop",
+      "url": "https://open.spotify.com/track/6BHlafXY1L2eetDCwict05"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -443,6 +427,22 @@
       "duration_ms": 210426,
       "name": "Amor Descartable",
       "url": "https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
+        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
+        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/62ZroX9gLL60Tg6VcF2tIN"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -479,6 +479,22 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
+        "name": "Ciudad De Pobres Corazones",
+        "url": "https://open.spotify.com/album/4GGCNfkWRUgyu6UjstHlJj"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 328800,
+      "name": "Ciudad De Pobres Corazones",
+      "url": "https://open.spotify.com/track/1PSsStvZmJsU3CiJg8hRAx"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
         "name": "Yo Te Avis\u00e9",
         "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
       },
@@ -491,38 +507,6 @@
       "duration_ms": 237866,
       "name": "Mi Novia Se Cay\u00f3 en un Pozo Ciego - Remasterizado 2008",
       "url": "https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "Noche y D\u00eda",
-        "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
-      },
-      "artists": [
-        {
-          "name": "Raul Porchetto",
-          "url": "https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "Bailando en las Veredas",
-      "url": "https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -543,6 +527,22 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
         "name": "Parte De La Religion",
         "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
       },
@@ -559,18 +559,18 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
+        "name": "Noche y D\u00eda",
+        "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Raul Porchetto",
+          "url": "https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL"
         }
       ],
-      "duration_ms": 247066,
-      "name": "La Bestia Pop",
-      "url": "https://open.spotify.com/track/6BHlafXY1L2eetDCwict05"
+      "duration_ms": 256493,
+      "name": "Bailando en las Veredas",
+      "url": "https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -591,18 +591,18 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Don Cornelio y La Zona",
-        "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
+        "name": "Tiempos Dificiles",
+        "url": "https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM"
       },
       "artists": [
         {
-          "name": "Don Cornelio Y La Zona",
-          "url": "https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe"
+          "name": "Juan Carlos Baglietto",
+          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
         }
       ],
-      "duration_ms": 251173,
-      "name": "Ella Vendr\u00e1 - Remastered",
-      "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
+      "duration_ms": 284866,
+      "name": "Era En Abril",
+      "url": "https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -623,6 +623,22 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
+        "name": "Wadu Wadu",
+        "url": "https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "Wadu Wadu",
+      "url": "https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
         "name": "El Sat\u00e1nico Dr. Cadillac",
         "url": "https://open.spotify.com/album/5VNRf3l7z1prtgHuKNhsc8"
       },
@@ -639,34 +655,18 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Tiempos Dificiles",
-        "url": "https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM"
+        "name": "Don Cornelio y La Zona",
+        "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
       },
       "artists": [
         {
-          "name": "Juan Carlos Baglietto",
-          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
+          "name": "Don Cornelio Y La Zona",
+          "url": "https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe"
         }
       ],
-      "duration_ms": 284866,
-      "name": "Era En Abril",
-      "url": "https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "Wadu Wadu",
-        "url": "https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "Wadu Wadu",
-      "url": "https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh"
+      "duration_ms": 251173,
+      "name": "Ella Vendr\u00e1 - Remastered",
+      "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -815,18 +815,18 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "S\u00ed o S\u00ed - Diario del Rock Argentino - Sumo",
-        "url": "https://open.spotify.com/album/0abeUjNSrovGBaaEavSfRm"
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
       },
       "artists": [
         {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 222893,
-      "name": "La Rubia Tarada",
-      "url": "https://open.spotify.com/track/3lO1h0KPfhlXl2fSjaTcnh"
+      "duration_ms": 259026,
+      "name": "Barbazul Versus el Amor Letal",
+      "url": "https://open.spotify.com/track/4raoyZZLL6wsxihsGjuNev"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -847,6 +847,22 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
+        "name": "S\u00ed o S\u00ed - Diario del Rock Argentino - Sumo",
+        "url": "https://open.spotify.com/album/0abeUjNSrovGBaaEavSfRm"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "La Rubia Tarada",
+      "url": "https://open.spotify.com/track/3lO1h0KPfhlXl2fSjaTcnh"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
         "name": "La Ma\u00f1ana Siguiente",
         "url": "https://open.spotify.com/album/3FiojM8DKWg6Jo4fYbc4qg"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
+        "name": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
+        "url": "https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
         }
       ],
-      "duration_ms": 259026,
-      "name": "Barbazul Versus el Amor Letal",
-      "url": "https://open.spotify.com/track/4raoyZZLL6wsxihsGjuNev"
+      "duration_ms": 194693,
+      "name": "Lunes Por La Madrugada - 1994 Remastered Version",
+      "url": "https://open.spotify.com/track/5M6b21Y9Igl0uAfFeRHX3y"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -891,22 +907,6 @@
       "duration_ms": 151493,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/6sCc07DOnWLnivJXaYvt6A"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
-        "url": "https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Lunes Por La Madrugada - 1994 Remastered Version",
-      "url": "https://open.spotify.com/track/5M6b21Y9Igl0uAfFeRHX3y"
     },
     {
       "added_at": "2020-03-13 14:40:50",

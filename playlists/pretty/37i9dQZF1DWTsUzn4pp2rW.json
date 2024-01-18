@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 145862,
+  "num_followers": 145923,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Mjk0NGEzOGMzMjFkMTU2OTAwMmNkYTc1MmNjZGJjODNhNzAxNTJk",
+  "snapshot_id": "MCxiZThmNThjMjVhNGY1MGQyZTMzYzhhNWFiMzMwMDI4NGE2ZTQ1ZGIw",
   "tracks": [
     {
       "added_at": "2023-12-20 10:53:16",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 330677,
-      "name": "It Was You",
-      "url": "https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 124986,
       "name": "They Can\u2019t Take That Away From Me",
       "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 330677,
+      "name": "It Was You",
+      "url": "https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/1cOMb8F5PoPBgF79sKxO11"
-      },
-      "artists": [
-        {
-          "name": "Eve St. Jones",
-          "url": "https://open.spotify.com/artist/6NP40ldgw4kYtspZOziuii"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/5UffJ6fz0ikQ0ze8bqRyHQ"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "I Ran (So Far Away)",
         "url": "https://open.spotify.com/album/7qhixjUIoIgMYA2Q3yjJi0"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 242486,
       "name": "I Ran (So Far Away)",
       "url": "https://open.spotify.com/track/37JRb6cexDkgxVPqcuFivc"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/1cOMb8F5PoPBgF79sKxO11"
+      },
+      "artists": [
+        {
+          "name": "Eve St. Jones",
+          "url": "https://open.spotify.com/artist/6NP40ldgw4kYtspZOziuii"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/5UffJ6fz0ikQ0ze8bqRyHQ"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Me and My Radio",
-        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
-      },
-      "artists": [
-        {
-          "name": "Anthony Strong",
-          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
-        }
-      ],
-      "duration_ms": 196185,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "This Is Not Jazz",
         "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 299106,
       "name": "Adventure Of A Lifetime",
       "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "Me and My Radio",
+        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
+      },
+      "artists": [
+        {
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
+        }
+      ],
+      "duration_ms": 196185,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "The Composers' Voice: Celebrating Australian Women Composers",
-        "url": "https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y"
-      },
-      "artists": [
-        {
-          "name": "Elly Hoyt",
-          "url": "https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 200269,
       "name": "Smile",
       "url": "https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "The Composers' Voice: Celebrating Australian Women Composers",
+        "url": "https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y"
+      },
+      "artists": [
+        {
+          "name": "Elly Hoyt",
+          "url": "https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Not For Me",
-        "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 243170,
-      "name": "Not for Me",
-      "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "Don't Forget Me (When I'm Gone)",
         "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 184250,
       "name": "Don't Forget Me (When I'm Gone)",
       "url": "https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "Not For Me",
+        "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 243170,
+      "name": "Not for Me",
+      "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
+      },
+      "artists": [
+        {
+          "name": "Kyle Eastwood",
+          "url": "https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I"
+        },
+        {
+          "name": "Hugh Coltman",
+          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
+        }
+      ],
+      "duration_ms": 276346,
+      "name": "Gran Torino",
+      "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
         "name": "My Soul Kitchen",
         "url": "https://open.spotify.com/album/1lRtenyGy9wvyxwrRNjtWD"
       },
@@ -1051,26 +1071,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
-      },
-      "artists": [
-        {
-          "name": "Kyle Eastwood",
-          "url": "https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I"
-        },
-        {
-          "name": "Hugh Coltman",
-          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
-        }
-      ],
-      "duration_ms": 276346,
-      "name": "Gran Torino",
-      "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "90 Degrees",
         "url": "https://open.spotify.com/album/5EQ1ea2Hs4SNRwmnRBp2cm"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 255024,
       "name": "90 Degrees",
       "url": "https://open.spotify.com/track/46T4UTffeX2GrfqAU1hGjZ"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
-        "name": "This Too Shall Pass",
-        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
-      },
-      "artists": [
-        {
-          "name": "Dennis van Aarssen",
-          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
-        }
-      ],
-      "duration_ms": 201979,
-      "name": "This Too Shall Pass",
-      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1135,6 +1119,22 @@
       "duration_ms": 220728,
       "name": "H I M",
       "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "This Too Shall Pass",
+        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
+      },
+      "artists": [
+        {
+          "name": "Dennis van Aarssen",
+          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "This Too Shall Pass",
+      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "No Meanness",
-        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 238524,
-      "name": "No Meanness",
-      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "Much Rain",
         "url": "https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 286678,
       "name": "Much Rain",
       "url": "https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "No Meanness",
+        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 238524,
+      "name": "No Meanness",
+      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "You Are My Everything",
-        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nosaczynski Bohovi\u010d",
-          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "You Are My Everything",
-      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "Luxury and Waste",
         "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 233384,
       "name": "Be That Someone",
       "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "You Are My Everything",
+        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nosaczynski Bohovi\u010d",
+          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "You Are My Everything",
+      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Day by Day",
-        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
-      },
-      "artists": [
-        {
-          "name": "Francesca Castro",
-          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
-        }
-      ],
-      "duration_ms": 394997,
-      "name": "Cup of Tea",
-      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "One Less Lonely Girl",
         "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 236648,
       "name": "One Less Lonely Girl",
       "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "Day by Day",
+        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
+      },
+      "artists": [
+        {
+          "name": "Francesca Castro",
+          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
+        }
+      ],
+      "duration_ms": 394997,
+      "name": "Cup of Tea",
+      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Sorrows Into Silk",
-        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
+        "name": "Take Me Off to Dreamland",
+        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
       },
       "artists": [
         {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
         }
       ],
-      "duration_ms": 138320,
-      "name": "Lime",
-      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
+      "duration_ms": 288535,
+      "name": "Take Me Off to Dreamland",
+      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1887,18 +1887,34 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Take Me Off to Dreamland",
-        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
+        "name": "Sorrows Into Silk",
+        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
       },
       "artists": [
         {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
         }
       ],
-      "duration_ms": 288535,
-      "name": "Take Me Off to Dreamland",
-      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
+      "duration_ms": 138320,
+      "name": "Lime",
+      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "River",
+      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1939,22 +1955,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "River",
-      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "Enough to Be on Your Way",
         "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
       },
@@ -1967,26 +1967,6 @@
       "duration_ms": 318175,
       "name": "Enough to Be on Your Way",
       "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
-        "name": "Featuring EP",
-        "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
-      },
-      "artists": [
-        {
-          "name": "Meryl Rudy",
-          "url": "https://open.spotify.com/artist/5D0fFHHBDqY6PuxnZgbcMc"
-        },
-        {
-          "name": "Sophie Wellington",
-          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
-        }
-      ],
-      "duration_ms": 176543,
-      "name": "I'd Run to the Moon",
-      "url": "https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -2007,6 +1987,26 @@
       "duration_ms": 267302,
       "name": "Let's Go to Bed",
       "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "Featuring EP",
+        "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
+      },
+      "artists": [
+        {
+          "name": "Meryl Rudy",
+          "url": "https://open.spotify.com/artist/5D0fFHHBDqY6PuxnZgbcMc"
+        },
+        {
+          "name": "Sophie Wellington",
+          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
+        }
+      ],
+      "duration_ms": 176543,
+      "name": "I'd Run to the Moon",
+      "url": "https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -2087,18 +2087,18 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Kettle",
-        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
+        "name": "Sleepy Time",
+        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
       },
       "artists": [
         {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Kettle",
-      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
+      "duration_ms": 158641,
+      "name": "Sleepy Time",
+      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Sleepy Time",
-        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
+        "name": "Kettle",
+        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
       },
       "artists": [
         {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
         }
       ],
-      "duration_ms": 158641,
-      "name": "Sleepy Time",
-      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
+      "duration_ms": 264000,
+      "name": "Kettle",
+      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Humphrey and Me",
-        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
-      },
-      "artists": [
-        {
-          "name": "Claes Janson",
-          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
-        }
-      ],
-      "duration_ms": 267355,
-      "name": "Humphrey and me",
-      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "A Bridge",
         "url": "https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 243666,
       "name": "A Bridge",
       "url": "https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "Humphrey and Me",
+        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
+      },
+      "artists": [
+        {
+          "name": "Claes Janson",
+          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
+        }
+      ],
+      "duration_ms": 267355,
+      "name": "Humphrey and me",
+      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -2303,22 +2303,6 @@
       "duration_ms": 160629,
       "name": "The Light",
       "url": "https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
-        "name": "Catwoman",
-        "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Domet",
-          "url": "https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ"
-        }
-      ],
-      "duration_ms": 211343,
-      "name": "Catwoman",
-      "url": "https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -2427,6 +2411,22 @@
       "duration_ms": 195601,
       "name": "And Time Froze",
       "url": "https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "Heaven's King",
+        "url": "https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ"
+      },
+      "artists": [
+        {
+          "name": "Imprint Worship",
+          "url": "https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV"
+        }
+      ],
+      "duration_ms": 215352,
+      "name": "Heaven's King",
+      "url": "https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX"
     }
   ],
   "unique_name": "Jazz Pop",

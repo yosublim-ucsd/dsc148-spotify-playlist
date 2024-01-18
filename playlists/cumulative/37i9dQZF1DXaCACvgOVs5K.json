@@ -3090,7 +3090,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 225488,
       "name": "Pump",
       "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
@@ -3688,6 +3688,36 @@
       "duration_ms": 178453,
       "name": "So Much In Love",
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/39NzRuUBQwITknLiseKkXN"
+      },
+      "artists": [
+        {
+          "name": "James Cole",
+          "url": "https://open.spotify.com/artist/4uRl0LZUcciuN8tfRQ3LRM"
+        },
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Darcey",
+          "url": "https://open.spotify.com/artist/1IyvLQeDemCIamKknyLlqM"
+        },
+        {
+          "name": "Simon Ellis",
+          "url": "https://open.spotify.com/artist/1DAMauM73heAOiZnKAYVrn"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232558,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/6h49997adA3XWCX9zMQKbX"
     },
     {
       "album": {

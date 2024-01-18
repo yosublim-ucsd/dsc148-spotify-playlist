@@ -4,7 +4,7 @@
 
 > Houseium&\#x27;s BANGIN HOUSE is full of high energy house music! 📲 TikTok &amp; IG: @houseium \[dm for inquiries\]
 
-101 songs - 5 hr 18 min
+102 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [What I Do](https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [What I Do](https://open.spotify.com/album/22m4OKMTuFzHdZG4e4DUrQ) | 2:28 | 2024-01-08 |  |
 | [When the beat Bang](https://open.spotify.com/track/3nj5UffFuqIdyy0BGrBI2l) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [When the beat Bang](https://open.spotify.com/album/12LyRM80nwhWdxAwACJeBf) | 4:01 | 2023-12-11 | 2024-01-16 |
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-12-31 | 2024-01-09 |
+| [Wooo](https://open.spotify.com/track/1siRzsZXjvNBvebxJRMeQB) | [Jan Orozco](https://open.spotify.com/artist/7vVH3zLirKAwQ1N1uMdb1x) | [Wooo](https://open.spotify.com/album/4NsSZaxAIMuSaFPzu8BrIk) | 2:54 | 2024-01-17 |  |
 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 | 2024-01-08 |  |
 | [Yes I Think](https://open.spotify.com/track/5DbsTx09Ogp2v5aGXGBMIY) | [KOCHAM](https://open.spotify.com/artist/07gJZgbJwBIKN2DmCn7Dqu) | [Yes I Think](https://open.spotify.com/album/00AMcalcSxR6TiKfxMJU2A) | 2:11 | 2024-01-08 |  |
 | [You Feel](https://open.spotify.com/track/5rsxpe0Jqg804aRryqw7Hs) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [You Feel](https://open.spotify.com/album/00le7WzuiUjS7C6zl5lzdu) | 3:00 | 2023-12-31 | 2024-01-09 |

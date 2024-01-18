@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. <br/>Featuring some of our 2024 Artists to Watch across all genres!<br/> Cover: <a href="spotify:artist:68McnNC9twEtiynOAJRRgZ">Uncle Waffles</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,652 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,702 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
 | 100 | [Air I Breathe](https://open.spotify.com/track/546AarSsNEMYLpLCRYqmB6) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Isabelle Brown](https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:41 |
 
-Snapshot ID: `MCxhY2M0MTJjM2MwYWNhNzdmYzM0NTZlNTUzMGNkZDViNWU1ZGNiNzRh`
+Snapshot ID: `MCxlZmUwN2U2NTc4ODgwNTJkMDE0ODU0ZjAwZTRiNTJkMjVmZTk1YTBk`

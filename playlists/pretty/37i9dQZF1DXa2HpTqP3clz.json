@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
-  "num_followers": 130878,
+  "num_followers": 130906,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjMyMGMyYTVjOTIxNzZmODg1MmQzZTdlZjU0ZDU4NDAwMjA2MTE2",
+  "snapshot_id": "MCw5ZWMwNDg4OGMxMTQ3ZGIzYjk4YzYxYTdmYWQzYjdhMzgzMDI3Mjlj",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -159,18 +159,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Long Violent History",
-        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
+        "name": "Bad For You",
+        "url": "https://open.spotify.com/album/4Ciw110gdWtwcleY7KQMRI"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
         }
       ],
-      "duration_ms": 190400,
-      "name": "Long Violent History",
-      "url": "https://open.spotify.com/track/4Bu4aJ7xLdIeRnD69pFBXU"
+      "duration_ms": 185022,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/56QIi1ES8speRvNHIHaHHl"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Bad For You",
-        "url": "https://open.spotify.com/album/4Ciw110gdWtwcleY7KQMRI"
+        "name": "Long Violent History",
+        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
       },
       "artists": [
         {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 185022,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/56QIi1ES8speRvNHIHaHHl"
+      "duration_ms": 190400,
+      "name": "Long Violent History",
+      "url": "https://open.spotify.com/track/4Bu4aJ7xLdIeRnD69pFBXU"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Congratulations and Condolences",
-        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 215884,
-      "name": "Congratulations and Condolences",
-      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Follow Me Down",
         "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 195200,
       "name": "Peace",
       "url": "https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Congratulations and Condolences",
+        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 215884,
+      "name": "Congratulations and Condolences",
+      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Storyman",
-        "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Play By Your Own Rules",
-      "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Brother Sister",
         "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 237186,
       "name": "The Cure",
       "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Storyman",
+        "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Play By Your Own Rules",
+      "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
       },
       "artists": [
         {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
+      "duration_ms": 204618,
+      "name": "Where the Long Line Leads",
+      "url": "https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
       "artists": [
         {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 204618,
-      "name": "Where the Long Line Leads",
-      "url": "https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY"
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 199840,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Narrow Line",
-        "url": "https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 199840,
-      "name": "How It Ends",
-      "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "The Light We Bring",
         "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Sidetrack My Engine",
         "url": "https://open.spotify.com/album/00D7oBqFifBPZidNTzzkWY"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
       },
       "artists": [
         {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
         }
       ],
-      "duration_ms": 225941,
-      "name": "Smoky Mountain Girl",
-      "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1307,6 +1291,22 @@
       "duration_ms": 300676,
       "name": "Orphan Annie",
       "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 225941,
+      "name": "Smoky Mountain Girl",
+      "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
+        "name": "Places I've Been",
+        "url": "https://open.spotify.com/album/0kgijOwaBq1rAWv8lfqEqw"
       },
       "artists": [
         {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+          "name": "The Mountain Grass Unit",
+          "url": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
         }
       ],
-      "duration_ms": 263662,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
+      "duration_ms": 188186,
+      "name": "Shays' Rebellion",
+      "url": "https://open.spotify.com/track/1DUfLULXb2XLJF3dFqRRy9"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1375,34 +1375,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
       },
       "artists": [
         {
-          "name": "Mikele Buck Band",
-          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
         }
       ],
-      "duration_ms": 223404,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Places I've Been",
-        "url": "https://open.spotify.com/album/0kgijOwaBq1rAWv8lfqEqw"
-      },
-      "artists": [
-        {
-          "name": "The Mountain Grass Unit",
-          "url": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "Shays' Rebellion",
-      "url": "https://open.spotify.com/track/1DUfLULXb2XLJF3dFqRRy9"
+      "duration_ms": 263662,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
+      },
+      "artists": [
+        {
+          "name": "Mikele Buck Band",
+          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
+        }
+      ],
+      "duration_ms": 223404,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/7gc0887rEEosEmhLnai9EZ"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 180687,
       "name": "Keys",
       "url": "https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Fall Like Rain",
         "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Rhinestone Revival",
-        "url": "https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv"
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/6Ag5zf5U06icw6B6pEEAuC"
       },
       "artists": [
         {
-          "name": "The Kody Norris Show",
-          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
         }
       ],
-      "duration_ms": 173233,
-      "name": "I Call Her Sunshine",
-      "url": "https://open.spotify.com/track/3kFQ9eRvWehIy2vweECLPY"
+      "duration_ms": 191918,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/6SKFHKROdE9wfAWlpdAD4j"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1519,6 +1519,22 @@
       "duration_ms": 186709,
       "name": "Fare Thee Well",
       "url": "https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Rhinestone Revival",
+        "url": "https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv"
+      },
+      "artists": [
+        {
+          "name": "The Kody Norris Show",
+          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+        }
+      ],
+      "duration_ms": 173233,
+      "name": "I Call Her Sunshine",
+      "url": "https://open.spotify.com/track/3kFQ9eRvWehIy2vweECLPY"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/6Ag5zf5U06icw6B6pEEAuC"
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
       },
       "artists": [
         {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
         }
       ],
-      "duration_ms": 191918,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/6SKFHKROdE9wfAWlpdAD4j"
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 139000,
       "name": "Maybelle",
       "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
-      },
-      "artists": [
-        {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
-        }
-      ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
     },
     {
       "added_at": "2023-11-24 06:00:00",

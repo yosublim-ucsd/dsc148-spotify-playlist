@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 808425,
+  "num_followers": 808958,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjhhYTIwOWI4MTI3YjA0MGFkMjBhZTI3ZTAxODI4ZDI0ZTIxMzIx",
+  "snapshot_id": "MCw3YTRiMzc1ZTIxNDVkZjExMWZjNmNjNDA0NDZhNmY3Y2ViOWM3N2Qx",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Someone You Loved (Future Humans Remix)",
-        "url": "https://open.spotify.com/album/7m7vv9wlQ4i0LFuJiE2zsQ"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Future Humans",
-          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "Someone You Loved - Future Humans Remix",
-      "url": "https://open.spotify.com/track/1e8PAfcKUYoKkxPhrHqw4x"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Mad Love (Remixes)",
         "url": "https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 200893,
       "name": "Mad Love - Blinkie Remix",
       "url": "https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Someone You Loved (Future Humans Remix)",
+        "url": "https://open.spotify.com/album/7m7vv9wlQ4i0LFuJiE2zsQ"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Future Humans",
+          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "Someone You Loved - Future Humans Remix",
+      "url": "https://open.spotify.com/track/1e8PAfcKUYoKkxPhrHqw4x"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Best Day Of My Life (Gazzo Remix)",
+        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Best Day Of My Life - Gazzo Remix",
+      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Kings & Queens (The Remixes)",
         "url": "https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 180952,
       "name": "Kings & Queens - MOTi Remix",
       "url": "https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Best Day Of My Life (Gazzo Remix)",
-        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Best Day Of My Life - Gazzo Remix",
-      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Easier (Seeb Remix)",
-        "url": "https://open.spotify.com/album/1N3m1ZId0DMGaCN83haJLs"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        },
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        }
-      ],
-      "duration_ms": 165767,
-      "name": "Easier - Seeb Remix",
-      "url": "https://open.spotify.com/track/6GIRtKNXokeu25nn7U6Hu8"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Malibu (The Remixes)",
         "url": "https://open.spotify.com/album/4kWPS9C0JwMh9bdeesSuAf"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 199480,
       "name": "Malibu - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1NvSQe0i4ApmQCnBI8Jwzq"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Easier (Seeb Remix)",
+        "url": "https://open.spotify.com/album/1N3m1ZId0DMGaCN83haJLs"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "duration_ms": 165767,
+      "name": "Easier - Seeb Remix",
+      "url": "https://open.spotify.com/track/6GIRtKNXokeu25nn7U6Hu8"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1363,6 +1363,30 @@
       "duration_ms": 220650,
       "name": "Chasing Highs - Felix Cartal Remix",
       "url": "https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
+        "url": "https://open.spotify.com/album/0HBmioJcxItnT9WIenDDdd"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1455,30 +1479,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
-        "url": "https://open.spotify.com/album/0HBmioJcxItnT9WIenDDdd"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "New Rules (Remixes)",
         "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
       },
@@ -1543,26 +1543,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "No Lie (Remixes)",
-        "url": "https://open.spotify.com/album/2ods3As8JVWwkAuzCi5skS"
+        "name": "Happier (Remixes)",
+        "url": "https://open.spotify.com/album/4Jtgil73AW8V6S7mDfchP6"
       },
       "artists": [
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "SPENCE",
+          "url": "https://open.spotify.com/artist/2zhOVmp1pHxMUZuA68Xdvb"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         },
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
         }
       ],
-      "duration_ms": 172539,
-      "name": "No Lie - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/1nRA1PmMNZMv4BMV4Je8uK"
+      "duration_ms": 158095,
+      "name": "Happier - Breathe Carolina Remix",
+      "url": "https://open.spotify.com/track/0OS7LTXYSyBXF79IIlgGE7"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1591,26 +1591,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Happier (Remixes)",
-        "url": "https://open.spotify.com/album/4Jtgil73AW8V6S7mDfchP6"
+        "name": "No Lie (Remixes)",
+        "url": "https://open.spotify.com/album/2ods3As8JVWwkAuzCi5skS"
       },
       "artists": [
         {
-          "name": "SPENCE",
-          "url": "https://open.spotify.com/artist/2zhOVmp1pHxMUZuA68Xdvb"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         },
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 158095,
-      "name": "Happier - Breathe Carolina Remix",
-      "url": "https://open.spotify.com/track/0OS7LTXYSyBXF79IIlgGE7"
+      "duration_ms": 172539,
+      "name": "No Lie - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/1nRA1PmMNZMv4BMV4Je8uK"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Ruin My Life (Remixes)",
-        "url": "https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Steve James",
-          "url": "https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "Ruin My Life - Steve James Remix",
-      "url": "https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Last Hurrah (David Guetta Remix)",
         "url": "https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG"
       },
@@ -2087,6 +2067,26 @@
       "duration_ms": 191868,
       "name": "Last Hurrah - David Guetta Remix",
       "url": "https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Ruin My Life (Remixes)",
+        "url": "https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Steve James",
+          "url": "https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "Ruin My Life - Steve James Remix",
+      "url": "https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2135,30 +2135,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Nothing Breaks Like a Heart (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/0nk08Y8IFUXtJivHJNMJnF"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Nothing Breaks Like a Heart - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/5xBafmhrJzzMsd1dxErIbJ"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Lose Control (The Remixes, Pt. 2)",
         "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
@@ -2187,6 +2163,30 @@
       "duration_ms": 207021,
       "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
       "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Nothing Breaks Like a Heart (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/0nk08Y8IFUXtJivHJNMJnF"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Nothing Breaks Like a Heart - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/5xBafmhrJzzMsd1dxErIbJ"
     }
   ],
   "unique_name": "Remix Hits",

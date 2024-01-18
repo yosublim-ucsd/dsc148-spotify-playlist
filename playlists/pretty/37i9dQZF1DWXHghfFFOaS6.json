@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 322964,
+  "num_followers": 323059,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzA2OGIxZWMwYTY4NDZkZWVlYmFjYTJjZGIwMmEwZmJiODk5Yzk2",
+  "snapshot_id": "MCwwMDQ0ZGMwNzJiYjg1NTA0MGIxMjg3ZjY0ZGNjYzhiYzAwZmFjMzYy",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Love Is The Answer (Expanded)",
-        "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Liston Smith",
-          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "Bridge Through Time",
-      "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Friends & Strangers",
         "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 289013,
       "name": "Friends And Strangers",
       "url": "https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Love Is The Answer (Expanded)",
+        "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "Bridge Through Time",
+      "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Pass It On",
-        "url": "https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27"
-      },
-      "artists": [
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Be Thankful (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 281733,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Pass It On",
+        "url": "https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "Be Thankful (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Joyful Noise",
+        "url": "https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd"
+      },
+      "artists": [
+        {
+          "name": "Breakestra",
+          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
+        }
+      ],
+      "duration_ms": 310214,
+      "name": "Dark Clouds Rain Soul - Dub",
+      "url": "https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Beatmaker",
         "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 177842,
       "name": "Beatmaker",
       "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Joyful Noise",
-        "url": "https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd"
-      },
-      "artists": [
-        {
-          "name": "Breakestra",
-          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
-        }
-      ],
-      "duration_ms": 310214,
-      "name": "Dark Clouds Rain Soul - Dub",
-      "url": "https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "YUNIK\u014dN",
-        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
-      },
-      "artists": [
-        {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Tokisan",
-      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "I'll Be With You",
         "url": "https://open.spotify.com/album/7GVaEnwt87gGsw0RxM9F3q"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Stoned Woman",
-        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
+        "name": "YUNIK\u014dN",
+        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
       },
       "artists": [
         {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
         }
       ],
-      "duration_ms": 165560,
-      "name": "Theme from Riot on 103rd Street",
-      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
+      "duration_ms": 205160,
+      "name": "Tokisan",
+      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1147,6 +1131,22 @@
       "duration_ms": 444333,
       "name": "Girl Overboard",
       "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Stoned Woman",
+        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "Theme from Riot on 103rd Street",
+      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1257,26 +1257,6 @@
       "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Leaves of Memories",
-        "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
-      },
-      "artists": [
-        {
-          "name": "Kwaj",
-          "url": "https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX"
-        },
-        {
-          "name": "V. Soul",
-          "url": "https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Clouds in the Sky",
-      "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
-    },
-    {
       "added_at": "2022-07-18 17:17:22",
       "album": {
         "name": "SGJAZZ, Vol. 2",
@@ -1295,6 +1275,26 @@
       "duration_ms": 256133,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Leaves of Memories",
+        "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
+      },
+      "artists": [
+        {
+          "name": "Kwaj",
+          "url": "https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX"
+        },
+        {
+          "name": "V. Soul",
+          "url": "https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Clouds in the Sky",
+      "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Dad Man Cat",
-        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
-      },
-      "artists": [
-        {
-          "name": "Corduroy",
-          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Long Cool & Bubbly",
-      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "In Pursuit Of The 13th Note",
         "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 286600,
       "name": "Nothing Has Changed",
       "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Dad Man Cat",
+        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
+      },
+      "artists": [
+        {
+          "name": "Corduroy",
+          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
+        }
+      ],
+      "duration_ms": 265266,
+      "name": "Long Cool & Bubbly",
+      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1539,18 +1539,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Blue Break Beats",
-        "url": "https://open.spotify.com/album/2KbHNB4R33UuA09rleUrcp"
+        "name": "Holy Sun",
+        "url": "https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
         }
       ],
-      "duration_ms": 207360,
-      "name": "The Final Comedown",
-      "url": "https://open.spotify.com/track/6z0FN1nu2aWhtK2Zp8iOqO"
+      "duration_ms": 263576,
+      "name": "Holy Sun",
+      "url": "https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp"
     }
   ],
   "unique_name": "Acid Jazz",

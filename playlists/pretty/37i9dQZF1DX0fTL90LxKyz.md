@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,319 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,334 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 14 | [Paper Cuts](https://open.spotify.com/track/1gFMfqyVSXHMgvRloH2gDL) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Paper Cuts](https://open.spotify.com/album/0bOYi2NpSA7BmCwmdszfCI) | 2:59 |
 | 15 | [Ain't It Different \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/track/6NJfIydBMYrXvlaXsFxmc8) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Ain't It Different \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/album/4DlHEcnhhUJbLuRvaOfdxC) | 3:16 |
 | 16 | [Corn](https://open.spotify.com/track/4aaEROAXVunrYjS556YxAn) | [2smokeyy](https://open.spotify.com/artist/4MUA591QaNW7xiMlMgBJV2) | [Corn](https://open.spotify.com/album/5hf9tYrWhDC5ZdKy7f9Kx8) | 3:21 |
-| 17 | [No Diet](https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Double Tap Diaries](https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ) | 3:12 |
+| 17 | [Woi](https://open.spotify.com/track/69F4G9WD5U1vKrpaCiLznl) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Woi](https://open.spotify.com/album/77qJnRUCy175akzXSXxZ5r) | 3:02 |
 | 18 | [Commitment Issues](https://open.spotify.com/track/5w3CtwPT5e0k8zg2LyjvNN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Commitment Issues](https://open.spotify.com/album/0RHc0eLRmJ7dFidneiGXeX) | 2:30 |
 | 19 | [Fizzler x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/track/0Nc02dTQgwGy1cRVHE2OnH) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Fizzler x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/album/4shsbqOhs4QcFDNj1EM8aW) | 2:39 |
 | 20 | [Wow](https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Wow](https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y) | 2:53 |
 | 21 | [AirForce](https://open.spotify.com/track/3DLRRpaDETZYltj3KZ7kxo) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ) | [AirForce](https://open.spotify.com/album/3ADX90oQVwuiHPT5ki5426) | 3:41 |
 | 22 | [Can't Be Us](https://open.spotify.com/track/2hZ17zF5a03Ly4by80wI2M) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Can't Be Us](https://open.spotify.com/album/2dDf3sv8pGnm8Oa9eC86IM) | 3:21 |
-| 23 | [Woi](https://open.spotify.com/track/69F4G9WD5U1vKrpaCiLznl) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Woi](https://open.spotify.com/album/77qJnRUCy175akzXSXxZ5r) | 3:02 |
+| 23 | [No Diet](https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Double Tap Diaries](https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ) | 3:12 |
 | 24 | [Versus](https://open.spotify.com/track/6NTxrKuDVmqb1Yr86cR5MD) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Versus](https://open.spotify.com/album/5W0gx431L1lzVXXXpH385f) | 2:54 |
 | 25 | [On Deck](https://open.spotify.com/track/34YkG2pMNOldalZtevHztN) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [On Deck](https://open.spotify.com/album/1nr8LxzUvc6iQsG2bFK8Rd) | 2:59 |
 | 26 | [Loading](https://open.spotify.com/track/4D0GT8zWuA7Z2em6dpajAn) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Loading](https://open.spotify.com/album/11W7cdDjujY2ktlOAGGq7Q) | 2:53 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 32 | [Bringing It Back](https://open.spotify.com/track/3inbZcvbbcwJFgEzZgANwE) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Bringing It Back](https://open.spotify.com/album/51NcaYxQV6atdnmrCtQoc7) | 3:10 |
 | 33 | [Warm \- Original](https://open.spotify.com/track/0h67w8nvVRIq5jOm4YO2Da) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Warm](https://open.spotify.com/album/6WBjQpN3WFzSQm0HBiOsiw) | 2:32 |
 | 34 | [M24 x Fumez the Engineer \- Plugged In](https://open.spotify.com/track/6mZ1eBLOPHltSDFZn4SfwU) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [M24 x Fumez the Engineer \- Plugged In](https://open.spotify.com/album/4XVOMAV4svBJPsSYI3SE5u) | 2:32 |
-| 35 | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe) | 2:34 |
-| 36 | [Crep Shop](https://open.spotify.com/track/0it3s0ugg3G4ZlzeH1qbOi) | [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [SJ](https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Savage](https://open.spotify.com/album/2Q2m0wCeOf3m5BoCllmlLH) | 3:20 |
-| 37 | [6am in Brighton](https://open.spotify.com/track/0pvPWDLzZcWFyXO2VantXA) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [6am in Brighton](https://open.spotify.com/album/5fuMhXg7UxrJWnm8qbWIVW) | 3:14 |
+| 35 | [Crep Shop](https://open.spotify.com/track/0it3s0ugg3G4ZlzeH1qbOi) | [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [SJ](https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Savage](https://open.spotify.com/album/2Q2m0wCeOf3m5BoCllmlLH) | 3:20 |
+| 36 | [6am in Brighton](https://open.spotify.com/track/0pvPWDLzZcWFyXO2VantXA) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [6am in Brighton](https://open.spotify.com/album/5fuMhXg7UxrJWnm8qbWIVW) | 3:14 |
+| 37 | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe) | 2:34 |
 | 38 | [Pisces](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 |
 | 39 | [Lagga](https://open.spotify.com/track/5GrnYtEXFHN51MvfBZz9ji) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Lagga](https://open.spotify.com/album/07ZZfkj294wdteUsHxwwog) | 3:26 |
 | 40 | [Spin This Coupe](https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Spin This Coupe](https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Rumours](https://open.spotify.com/track/1zxcCcoyCqSz55gk9noip5) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Rumours](https://open.spotify.com/album/3fBplUasp3sIiqGRonASkl) | 2:01 |
 | 50 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 |
 
-Snapshot ID: `MCxjYTA1YzQ0ZWRhNDc3NTIxYWEwMTBkNjYwMDA2MzZlZjA3NTIyMjIy`
+Snapshot ID: `MCxhM2RiMDgyMzc0MGYxNjU3ZmM5NzIzNThiN2IxYjA4ZGY1NTA0MmQ2`

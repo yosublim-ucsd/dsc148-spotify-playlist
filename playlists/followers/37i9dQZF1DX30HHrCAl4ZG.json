@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 837196,
+  "2024-01-18": 837166,
   "date_first_scraped": "2021-12-21",
   "description": "Explore all things indie rock right now. Featuring music from Vacations",
   "name": "Today's Indie Rock",
@@ -15641,6 +15641,24 @@
       "duration_ms": 205386,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/4FHJqPdhIHhHn1JfcdwQOL"
+    },
+    {
+      "album": {
+        "name": "One Bad Day",
+        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200248,
+      "name": "One Bad Day",
+      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
     },
     {
       "album": {

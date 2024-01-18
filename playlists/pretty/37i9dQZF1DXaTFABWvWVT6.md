@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,605 likes - 44 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,621 likes - 44 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 43 | [Midtown Playground](https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Midtown Playground](https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K) | 3:42 |
 | 44 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 |
 
-Snapshot ID: `MCwzNzVkYjczNzI2NjYxYjU3Zjc5NDBhNTgzYTczOTJhOWQxMzM2MWI1`
+Snapshot ID: `MCxmMWQ4YjgwMjk1MDA5ZDIyMzdjOTQ5MzAxYWQ0NDgxZWIzY2Y5MmFh`

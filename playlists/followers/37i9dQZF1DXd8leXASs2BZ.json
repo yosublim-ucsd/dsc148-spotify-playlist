@@ -1,7 +1,7 @@
 {
-  "2024-01-17": 1642,
+  "2024-01-18": 1655,
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Kay-on",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Flat Line Classics",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -606,6 +606,28 @@
     },
     {
       "album": {
+        "name": "MATSURI",
+        "url": "https://open.spotify.com/album/7affgEpm5B1mwdgPBlvCTw"
+      },
+      "artists": [
+        {
+          "name": "Kona Rose",
+          "url": "https://open.spotify.com/artist/0mGt3la29cRNic4G2pQ0HN"
+        },
+        {
+          "name": "Jean Placide",
+          "url": "https://open.spotify.com/artist/0zpEE72yAy9eM0jxoYX0DM"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "Chotto Mattene (feat. Jean Placide)",
+      "url": "https://open.spotify.com/track/0RqJcCqFvJyjfJnkjgxq3R"
+    },
+    {
+      "album": {
         "name": "Cold Town",
         "url": "https://open.spotify.com/album/0kVXGkSYMFSQlBKK3e47PQ"
       },
@@ -1059,7 +1081,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 180293,
       "name": "FLAT LINE CLASSICS",
       "url": "https://open.spotify.com/track/0bIU8AgK5GAwjOrFTNtSv7"
@@ -1129,7 +1151,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 195809,
       "name": "FLOOR IS MINE",
       "url": "https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3"
@@ -2553,7 +2575,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 172240,
       "name": "SABOLOW",
       "url": "https://open.spotify.com/track/3iD7ipMkpxFYHUsECdcCYf"
@@ -2619,6 +2641,28 @@
       "duration_ms": 70429,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6EXuxQV8wJVvIohejXwbPD"
+    },
+    {
+      "album": {
+        "name": "REAL TALK",
+        "url": "https://open.spotify.com/album/6v22Aa0LMQUSWXHteBhOx0"
+      },
+      "artists": [
+        {
+          "name": "\u00a5oung Flag",
+          "url": "https://open.spotify.com/artist/0axWR0RBWlULo5yCbalnWV"
+        },
+        {
+          "name": "S-Liam",
+          "url": "https://open.spotify.com/artist/3LH7yvrRzh0ZoHkOmU3vpu"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160102,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/3Bpie3D1Q8Kz2fSBi0UKzB"
     },
     {
       "album": {
@@ -2851,6 +2895,28 @@
       "duration_ms": 122442,
       "name": "tetote",
       "url": "https://open.spotify.com/track/4jJi5kCvHjD7mRGx3lntbp"
+    },
+    {
+      "album": {
+        "name": "TETSU",
+        "url": "https://open.spotify.com/album/22W6gNgCkqRJim4HvxQ72s"
+      },
+      "artists": [
+        {
+          "name": "IRONSTONE",
+          "url": "https://open.spotify.com/artist/5H0BuahS3WSkksuBC9UDYf"
+        },
+        {
+          "name": "KyonCeeAPartment",
+          "url": "https://open.spotify.com/artist/2rAzjET9lHGRElU88HcK84"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "TETSU",
+      "url": "https://open.spotify.com/track/7C56vYddCPWRLR3rAfzFTE"
     },
     {
       "album": {

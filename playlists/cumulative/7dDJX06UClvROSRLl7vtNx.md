@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-214 songs - 9 hr 27 min
+215 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/6nJFd7o25QSjV14rIFIMND) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Sweet Dreams](https://open.spotify.com/album/1PRCO6wRoGDqbmhTUzWawM) | 3:08 | 2023-09-22 |  |
 | [Sweet Escape](https://open.spotify.com/track/6ZfFGu0X3w8tUTO7vehr2w) | [Tim Olsson](https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j) | [Sweet Escape](https://open.spotify.com/album/4wjAxdNK6e6TjevpWf0eww) | 2:26 | 2023-09-22 |  |
 | [Sympathy](https://open.spotify.com/track/7dWQoTFmsAnVznADr1sZwB) | [yara.](https://open.spotify.com/artist/7rEDYRkDN2Fg6yl4xYopJC), [Lotus](https://open.spotify.com/artist/7irNamZWVrstQU1HWzY6mj), [Jan Liva](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [Sympathy](https://open.spotify.com/album/6mK76zWb9h5ZPJLycqqSf0) | 2:21 | 2023-10-24 |  |
+| [Talk About Us](https://open.spotify.com/track/2aGi8MHh1WR0le7LEqzEga) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Talk About Us](https://open.spotify.com/album/1kAQMLfTYcIJbbuq2MMMc7) | 2:17 | 2024-01-17 |  |
 | [Tell Me You Love Me](https://open.spotify.com/track/7lak0WdbGJiJDbyBiZcLgH) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [AALLAR](https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1), [Che'Nelle](https://open.spotify.com/artist/7zVOa12T0RhNRzpbwZ4OCt) | [Tell Me You Love Me](https://open.spotify.com/album/4Kt5Ph2XYQTBjqP9988Vqo) | 2:42 | 2023-11-26 |  |
 | [That Could Be Us](https://open.spotify.com/track/5Jo1DvQ6auXLFx6QD3SC5I) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [That Could Be Us](https://open.spotify.com/album/17Z8BUgk8JdLKb44JZROU6) | 2:04 | 2023-09-22 |  |
 | [The Letter](https://open.spotify.com/track/73CAqIUMfHPj2dxvO3Gg6r) | [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu), [PRSM](https://open.spotify.com/artist/3sWBYLIL9PPIP2HvQW8gP9) | [The Letter](https://open.spotify.com/album/61kwJ03rXpL0NTjflA9c3f) | 2:00 | 2023-11-26 |  |

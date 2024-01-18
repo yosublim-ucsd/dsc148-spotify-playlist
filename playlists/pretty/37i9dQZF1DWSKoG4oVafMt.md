@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Amrit Maan & Baani Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,368 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,555 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 21 | [Her](https://open.spotify.com/track/6biqkuWq069vByAEeGxZlr) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Her](https://open.spotify.com/album/17kCYpIx9cO6WEt3B7795R) | 2:34 |
 | 22 | [Ayee](https://open.spotify.com/track/3s6bB02odIXvM3OpnqgzNN) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Ayee](https://open.spotify.com/album/0kk2Nm0O28gQLXVhaznomg) | 2:26 |
 | 23 | [Udh Di Phiran](https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Udh Di Phiran](https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e) | 3:41 |
-| 24 | [BEGUM](https://open.spotify.com/track/4JLmUOct3JHKWgQzCKpb7i) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC) | [BEGUM](https://open.spotify.com/album/5iB1PuDPevACoogvNPfoIV) | 3:16 |
+| 24 | [Begum](https://open.spotify.com/track/2vP9U2aKVN7MiqJAcFBCX4) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Abbu](https://open.spotify.com/artist/41VvXdIAesEnGQJcTng2ce), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Legacy](https://open.spotify.com/album/0m8UoInWemJ0sdaS2GIqai) | 3:16 |
 | 25 | [Das Mereya Dilbara](https://open.spotify.com/track/5Fq4Quuh64GxxeZVAtVeP4) | [Sofia Inder](https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Das Mereya Dilbara](https://open.spotify.com/album/3161Pz8iLdtagTywFeM04k) | 2:34 |
 | 26 | [SPAIN](https://open.spotify.com/track/4ZVtid5khBfDx6Co0vTUE6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 1:44 |
 | 27 | [Khayal Rakhunga \- From "Any How Mitti Pao"](https://open.spotify.com/track/1pZiK3peitwvY0LqRxuDcd) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP), [Khushi Pandher](https://open.spotify.com/artist/6JgrVNpfoFwE3imEDPrzqJ) | [Khayal Rakhunga \(From "Any How Mitti Pao"\)](https://open.spotify.com/album/2xGEpbUAvug9LheBHtFkGW) | 2:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Naah Lofi](https://open.spotify.com/track/7B8WJgjZzzV1uS7v9z8FGX) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Naah Lofi](https://open.spotify.com/album/3Cz2ocxGPWWREjLucIdaO7) | 3:18 |
 | 75 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 
-Snapshot ID: `MCxlOGIyZDZhZDRjOWNlMzg0ZmJlNmY5ZDVmMGI2YzI4ZGRjZjM4MjQz`
+Snapshot ID: `MCwwMDk3YTlkNGUxNDg3MmEzMzM5N2M2NjhmOGE0NjBmYjhhMDE0YzVi`

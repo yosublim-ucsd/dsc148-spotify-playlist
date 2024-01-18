@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 32636,
+  "num_followers": 32667,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODdiOTVjYzZhNzZlOTMxNzI2YTBlYjFlMzUwYThiNGNjMzJiNjQ5",
+  "snapshot_id": "MCxiMmU5ODJjYjM3MTAzZDM1MzgwMDg4M2JjYzU4MjMwN2ZlOTEwZGEx",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Presenting Willie Mabon",
+        "url": "https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim"
+      },
+      "artists": [
+        {
+          "name": "Willie Mabon",
+          "url": "https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Count Your Blessings",
         "url": "https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl"
       },
@@ -307,24 +323,8 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Presenting Willie Mabon",
-        "url": "https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim"
-      },
-      "artists": [
-        {
-          "name": "Willie Mabon",
-          "url": "https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Shake Rattle & Rock",
-        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
+        "name": "Jumpin' With Joe",
+        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
         }
       ],
-      "duration_ms": 177439,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
+      "duration_ms": 175200,
+      "name": "Roll 'Em Pete",
+      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Chess Story 1947-1956",
-        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
-      },
-      "artists": [
-        {
-          "name": "Little Johnny Jones",
-          "url": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
-        }
-      ],
-      "duration_ms": 175640,
-      "name": "Big Town Playboy",
-      "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Sonet Blues Story",
         "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 236733,
       "name": "Lovesick Soul",
       "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "The Chess Story 1947-1956",
+        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
+      },
+      "artists": [
+        {
+          "name": "Little Johnny Jones",
+          "url": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
+        }
+      ],
+      "duration_ms": 175640,
+      "name": "Big Town Playboy",
+      "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -467,8 +467,8 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Jumpin' With Joe",
-        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
+        "name": "Shake Rattle & Rock",
+        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Roll 'Em Pete",
-      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
+      "duration_ms": 177439,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Classified (Remixed & Expanded Edition)",
-        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "One For The Highway",
-      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Biggest Thing Since Colossus",
         "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 315373,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Classified (Remixed & Expanded Edition)",
+        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "One For The Highway",
+      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
-        "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
+        "name": "Classic Piano Blues from Smithsonian Folkways",
+        "url": "https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL"
       },
       "artists": [
         {
-          "name": "Lazy Bill Lucas",
-          "url": "https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq"
+          "name": "Big Chief Ellis",
+          "url": "https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW"
         }
       ],
-      "duration_ms": 166253,
-      "name": "My Baby's Gone",
-      "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
+      "duration_ms": 298600,
+      "name": "Dices Blues",
+      "url": "https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Classic Piano Blues from Smithsonian Folkways",
-        "url": "https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL"
+        "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
+        "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
       },
       "artists": [
         {
-          "name": "Big Chief Ellis",
-          "url": "https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW"
+          "name": "Lazy Bill Lucas",
+          "url": "https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq"
         }
       ],
-      "duration_ms": 298600,
-      "name": "Dices Blues",
-      "url": "https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC"
+      "duration_ms": 166253,
+      "name": "My Baby's Gone",
+      "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "This Is the Blues! Vol. 7 (Mono Version)",
-        "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Gordon",
-          "url": "https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l"
-        }
-      ],
-      "duration_ms": 192011,
-      "name": "Me and My Gin",
-      "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/7j9tdbLMzhbDlo7qA1ZE7q"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 288240,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/7sZIzMl4D1WUEFjNZA6FJL"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "This Is the Blues! Vol. 7 (Mono Version)",
+        "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Gordon",
+          "url": "https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l"
+        }
+      ],
+      "duration_ms": 192011,
+      "name": "Me and My Gin",
+      "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
     },
     {
       "added_at": "2023-09-15 11:43:10",

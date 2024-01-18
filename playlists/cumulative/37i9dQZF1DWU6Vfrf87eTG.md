@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-182 songs - 10 hr 52 min
+183 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [The Cascades](https://open.spotify.com/track/6X3618mK5K2tKZ1w71309J) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/20RJRsAPD9Yx3Nols5cAGR) | 2:07 | 2020-07-13 | 2022-07-29 |
 | [The Day Is Past and Gone \(Variations\)](https://open.spotify.com/track/5R1dfc92To7lWXqn9ddFyC) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6RoKkTKlYJ9uXJkH4pFdg7) | 4:43 | 2020-07-13 |  |
 | [The Day is Past and Gone \(Variations\), Extended](https://open.spotify.com/track/2vSjs5QYsnVfp1HIDMhHdh) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6AwdnAvL3eD7oH87pDtrpe) | 4:43 | 2020-07-13 | 2022-07-29 |
-| [The Lizard](https://open.spotify.com/track/15BLGHLGn4PW7zjWQyWi1S) | [Ralegh Long](https://open.spotify.com/artist/1jxZMbJSBONtZQvlqH2nJ8) | [Hoverance](https://open.spotify.com/album/2K33kTgCQDyN4ox2EmgxTR) | 2:20 | 2020-07-13 |  |
+| [The Lizard](https://open.spotify.com/track/15BLGHLGn4PW7zjWQyWi1S) | [Ralegh Long](https://open.spotify.com/artist/1jxZMbJSBONtZQvlqH2nJ8) | [Hoverance](https://open.spotify.com/album/2K33kTgCQDyN4ox2EmgxTR) | 2:20 | 2020-07-13 | 2024-01-18 |
+| [The Lizard](https://open.spotify.com/track/4eot2pS2AP2xxFJbCGm7ai) | [Ralegh Long](https://open.spotify.com/artist/1jxZMbJSBONtZQvlqH2nJ8) | [Hoverance](https://open.spotify.com/album/5b1TWHleGYNhlrT2Ybe5EX) | 2:20 | 2023-01-20 |  |
 | [The Old Favourite](https://open.spotify.com/track/7EVcYnk0RQAwjntUiNLiyi) | [The Gloaming](https://open.spotify.com/artist/4fQbIxjM2vH6YF4OsWlaGT) | [2](https://open.spotify.com/album/2G10IAMXTYotpRk5w5psSV) | 4:09 | 2020-07-13 |  |
 | [The Quiet at Night](https://open.spotify.com/track/5qMWvCm0ufA59sLxdCmN3U) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [At the Dam](https://open.spotify.com/album/21WPKbevLh1bhIEWwx7Z5r) | 4:12 | 2020-07-13 | 2022-07-29 |
 | [The Quiet at Night](https://open.spotify.com/track/7vXNtGqGhGh1w8zdcxLZMG) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [At the Dam](https://open.spotify.com/album/2PLJneMiP3ADrN6hD9hfjL) | 4:12 | 2020-07-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VI VILL HA LÅDVIN UH DET ÄR VÅR BENSIN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,135 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,146 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Dynamit](https://open.spotify.com/track/0kQ0nR6UWBVZvRRLpGSX3w) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [Dynamit](https://open.spotify.com/album/2JEyGskhrHPavF0s17Vfwc) | 1:52 |
 | 100 | [NÄTTERNA PÅ SMÖGEN](https://open.spotify.com/track/20y6dLrUf6pcyhQ0C0baRx) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [NÄTTERNA PÅ SMÖGEN](https://open.spotify.com/album/0S97r72koBAgUPWmole90S) | 2:34 |
 
-Snapshot ID: `MCw1NDg5YTcyYzE3Nzc4ZTgwYTViMmExYWM5OTQ5ZWUwOGEwNGI0MjM2`
+Snapshot ID: `MCwzY2ZlYWNmNjhlYjE1NjA2ODQ4YTAwMmM2ZTQxZDdkODdiZjlkYmM4`

@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 54327,
+  "num_followers": 54371,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzNiNzkwMTk2NDE1ZGU2MDdjYTFlODFkY2VkZWQyNjYzMDE3Yzgz",
+  "snapshot_id": "MCw1YjcwMGJjNGI3ZGM2ZjdhZmM0MDBiMjNkZmU0M2U0YzU1ZTdiMmE1",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
         "name": "Absolute",
         "url": "https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 184270,
       "name": "Absolute",
       "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        }
-      ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -757,6 +757,22 @@
       "url": "https://open.spotify.com/track/5WYJ3VWw7BewsMvG92M7gQ"
     },
     {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
+      },
+      "artists": [
+        {
+          "name": "CJDJ",
+          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
+        }
+      ],
+      "duration_ms": 125567,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
+    },
+    {
       "added_at": "2023-11-17 16:57:48",
       "album": {
         "name": "Rampage Anthem VIP",
@@ -815,22 +831,6 @@
       "duration_ms": 184065,
       "name": "Forever Changes",
       "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Bass",
-        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
-      },
-      "artists": [
-        {
-          "name": "CJDJ",
-          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
-        }
-      ],
-      "duration_ms": 125567,
-      "name": "Bass",
-      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
     },
     {
       "added_at": "2023-11-17 16:57:48",

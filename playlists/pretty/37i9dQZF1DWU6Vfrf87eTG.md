@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,997 likes - 116 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,990 likes - 116 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 73 | [Budhvaar Raga](https://open.spotify.com/track/53wIyztwFrKjjHMo7IiLQm) | [Kyle Tuttle](https://open.spotify.com/artist/4TA1bJ58eUSl5Qn8DP1L86) | [Bobcat](https://open.spotify.com/album/4JGaZ0yry5gocDPGJjlZcy) | 5:14 |
 | 74 | [Great Big God of Hands](https://open.spotify.com/track/1knn3wzmWUQWC4SFYhaqrX) | [James Elkington](https://open.spotify.com/artist/7COf7QkYuPrzl1lVrR1sIE), [Nathan Salsburg](https://open.spotify.com/artist/2d4DsLfaKstHsimzDw0LyM) | [Ambsace](https://open.spotify.com/album/0LMs0t9oWggaYR0bnwzcbd) | 3:14 |
 | 75 | [Remington](https://open.spotify.com/track/6lsGZBXAJ4GFLF6UXdfXs5) | [The Honey Dewdrops](https://open.spotify.com/artist/42FAfgZpAliDGkyucfGnWM) | [Tangled Country](https://open.spotify.com/album/2HrPFeV2pa2SuwmcP4Ba9J) | 3:40 |
-| 76 | [The Lizard](https://open.spotify.com/track/15BLGHLGn4PW7zjWQyWi1S) | [Ralegh Long](https://open.spotify.com/artist/1jxZMbJSBONtZQvlqH2nJ8) | [Hoverance](https://open.spotify.com/album/2K33kTgCQDyN4ox2EmgxTR) | 2:20 |
+| 76 | [The Lizard](https://open.spotify.com/track/4eot2pS2AP2xxFJbCGm7ai) | [Ralegh Long](https://open.spotify.com/artist/1jxZMbJSBONtZQvlqH2nJ8) | [Hoverance](https://open.spotify.com/album/5b1TWHleGYNhlrT2Ybe5EX) | 2:20 |
 | 77 | [Crippled\-up Blues](https://open.spotify.com/track/1IFELYLpQlreLdG6ahFszj) | [3hattrio](https://open.spotify.com/artist/1J2E48OgZMv8t0Sbk01lhR) | [Dark Desert Night](https://open.spotify.com/album/12p2GSwbbxhNySkX4emr2M) | 2:17 |
 | 78 | [Interruptions \(Heart And Breath Nonet\): VI French Guitars](https://open.spotify.com/track/7qDMwy7Db8urIvxWWiPBoB) | [Richard Reed Parry](https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY), [yMusic](https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf) | [Richard Reed Parry: Music For Heart And Breath](https://open.spotify.com/album/3OSLmcfIsXg8bkbZRfp1QC) | 3:23 |
 | 79 | [Exploding](https://open.spotify.com/track/30rG9CHTFuH0Ol64f1wfTi) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Regions of Light and Sound of God \(Deluxe\)](https://open.spotify.com/album/3p3Lsrxgy8EX4oF8PQT8J6) | 2:00 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 115 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 116 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MCw0MmI0MTRmYzcyZmQyN2IwZTQzMGUxM2QxYTJkOTUwZmZmOTIyMjk1`
+Snapshot ID: `MCw4MTk2Y2JkMTg2ZmJlZDZhNzBkZTMzNjg4ZDkzNzQ4ODY1ZDhkNzIw`

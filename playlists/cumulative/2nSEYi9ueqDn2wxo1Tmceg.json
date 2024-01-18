@@ -1227,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Be My Best",
+        "url": "https://open.spotify.com/album/1M5lIx2zlIDbkRYtT2XUNB"
+      },
+      "artists": [
+        {
+          "name": "sweet93",
+          "url": "https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251675,
+      "name": "Be My Best",
+      "url": "https://open.spotify.com/track/4lOzsIKfOxu4yLwwoeDqEE"
+    },
+    {
+      "album": {
         "name": "Before We Fell From Grace",
         "url": "https://open.spotify.com/album/7xoC815gar0ukkCYPJj36q"
       },
@@ -3207,6 +3225,28 @@
     },
     {
       "album": {
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/09pZ7OS5XbNjZzqsGF5pqw"
+      },
+      "artists": [
+        {
+          "name": "Seven Davis Jr.",
+          "url": "https://open.spotify.com/artist/0j4Q5USZhEJ3OUfyRyW2xj"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252361,
+      "name": "Don't Take It Personal",
+      "url": "https://open.spotify.com/track/2QjO1iDxh78l7ogVCzWU4w"
+    },
+    {
+      "album": {
         "name": "Doomscrollers",
         "url": "https://open.spotify.com/album/0i9pDfwACtlX4kkXd9tE6I"
       },
@@ -4372,7 +4412,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 285040,
       "name": "Fourth Time Around - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/2xwrxptPwS1SblukgfKPgx"
@@ -5281,6 +5321,24 @@
     },
     {
       "album": {
+        "name": "Helmet",
+        "url": "https://open.spotify.com/album/2WzabkM8jhirXrC76r84mj"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Tom",
+          "url": "https://open.spotify.com/artist/6paRdA1dkAEb0dWcIS4TOp"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141106,
+      "name": "Helmet",
+      "url": "https://open.spotify.com/track/62oTXp4z6RWJoW8vr778R7"
+    },
+    {
+      "album": {
         "name": "Off the Tongue",
         "url": "https://open.spotify.com/album/7DpsVXfVOve5ClaNI0Fqvw"
       },
@@ -5783,6 +5841,24 @@
     },
     {
       "album": {
+        "name": "Iechyd Da",
+        "url": "https://open.spotify.com/album/6ucqrUvJaIMZTdPnvW4fxQ"
+      },
+      "artists": [
+        {
+          "name": "Bill Ryder-Jones",
+          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "I Hold Something In My Hand",
+      "url": "https://open.spotify.com/track/1rrbYRonZM7XZAAjcY8rWp"
+    },
+    {
+      "album": {
         "name": "I Hold Something In My Hand",
         "url": "https://open.spotify.com/album/5kqUxXj0Zwf0V5XIpUEtf6"
       },
@@ -5794,10 +5870,28 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 184466,
       "name": "I Hold Something In My Hand",
       "url": "https://open.spotify.com/track/2BUu1OUVCYGDXyDEF0dQhF"
+    },
+    {
+      "album": {
+        "name": "Iechyd Da",
+        "url": "https://open.spotify.com/album/6ucqrUvJaIMZTdPnvW4fxQ"
+      },
+      "artists": [
+        {
+          "name": "Bill Ryder-Jones",
+          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272693,
+      "name": "I Know That It\u2019s Like This (Baby)",
+      "url": "https://open.spotify.com/track/2berFinu7WImpR2fHLO8YV"
     },
     {
       "album": {
@@ -7406,7 +7500,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 259088,
       "name": "Little Wing - George FitzGerald Remix",
       "url": "https://open.spotify.com/track/3rhPZdw2c8MiFnTQ6xNwD5"
@@ -7670,7 +7764,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 276702,
       "name": "Love One Self with Joe Love",
       "url": "https://open.spotify.com/track/4vWwod2I0P5HEKiVOUcpSg"
@@ -8512,7 +8606,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 326000,
       "name": "Need You Tonight - Working Men's Club Remix",
       "url": "https://open.spotify.com/track/7u7jRj4Ch6CeMGOW8Lowrh"
@@ -9450,7 +9544,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 249500,
       "name": "Passed Tense - DJ Shadow Future Passed Remix",
       "url": "https://open.spotify.com/track/4qvhaiO7G73mxH4YEjniE1"
@@ -9861,6 +9955,24 @@
     },
     {
       "album": {
+        "name": "Down There!",
+        "url": "https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi"
+      },
+      "artists": [
+        {
+          "name": "Folly Group",
+          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208218,
+      "name": "Pressure Pad",
+      "url": "https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK"
+    },
+    {
+      "album": {
         "name": "Pulling Stitches",
         "url": "https://open.spotify.com/album/3ErkAcb0jUkphb9WblF846"
       },
@@ -9890,7 +10002,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 177382,
       "name": "Punch",
       "url": "https://open.spotify.com/track/5HCVNeRJKmT4wdzlObZdb6"
@@ -10148,6 +10260,24 @@
       "duration_ms": 325266,
       "name": "Retributions Of An Awful Life",
       "url": "https://open.spotify.com/track/7izjWViB7fRzSXuKGoYc6C"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/5a9UFfBfHCdeNNsDVtEOfm"
+      },
+      "artists": [
+        {
+          "name": "Rosali",
+          "url": "https://open.spotify.com/artist/2WpwNw5EKb52c1QlvnGqfs"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288826,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/4cE5VRcJURYP6hIyFF29N4"
     },
     {
       "album": {
@@ -11799,6 +11929,28 @@
     },
     {
       "album": {
+        "name": "Tear Gas (feat. Tyler Cryde)",
+        "url": "https://open.spotify.com/album/3dr2QOBPShCo49di8WnPvA"
+      },
+      "artists": [
+        {
+          "name": "Skydaddy",
+          "url": "https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX"
+        },
+        {
+          "name": "Tyler Cryde",
+          "url": "https://open.spotify.com/artist/1ghH3iyV8WKmK2pMvyQ55E"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258933,
+      "name": "Tear Gas",
+      "url": "https://open.spotify.com/track/1hiVYjWEA0DMHYHBy61pHC"
+    },
+    {
+      "album": {
         "name": "The Candle and the Flame",
         "url": "https://open.spotify.com/album/1e0pkJp4dZGq6vGa7L47rd"
       },
@@ -11868,6 +12020,24 @@
       "duration_ms": 293900,
       "name": "Thanksgiving Prayer",
       "url": "https://open.spotify.com/track/1PVzKScV6mAtIHd2JpysuK"
+    },
+    {
+      "album": {
+        "name": "That Golden Time",
+        "url": "https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290632,
+      "name": "That Golden Time",
+      "url": "https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60"
     },
     {
       "album": {
@@ -12038,6 +12208,24 @@
       "duration_ms": 230956,
       "name": "The Individual",
       "url": "https://open.spotify.com/track/0Exh17FiF1Nqklg5TSZArt"
+    },
+    {
+      "album": {
+        "name": "The King",
+        "url": "https://open.spotify.com/album/2tADev9pJEwyWxjqE5TAxA"
+      },
+      "artists": [
+        {
+          "name": "Anjimile",
+          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224524,
+      "name": "The King",
+      "url": "https://open.spotify.com/track/4F0Mkl0B3C9CGLvEuNAsPA"
     },
     {
       "album": {
@@ -13020,7 +13208,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 162513,
       "name": "Une Autre Attente",
       "url": "https://open.spotify.com/track/7w9ZA5e8wqoFH8vyGUBqoT"
@@ -13272,7 +13460,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 212800,
       "name": "Victory Lap - Edit",
       "url": "https://open.spotify.com/track/6VLmoYYs4WV7I4waJcs7Vr"
@@ -13554,7 +13742,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 196304,
       "name": "Well bucket",
       "url": "https://open.spotify.com/track/3GGfbeDZ63Q4TVJnP9NlnA"

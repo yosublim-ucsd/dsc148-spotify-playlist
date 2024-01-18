@@ -4,7 +4,7 @@
 
 > It's an main improv pop girl emergency 🆘  Cover: Ariana Grande
 
-759 songs - 1 day 14 hr 17 min
+760 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Headphones](https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Headphones](https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F) | 2:28 | 2022-03-25 | 2022-08-20 |
 | [Heart Still Beating](https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m) | 2:29 | 2023-10-27 |  |
 | [Heart Wants What It Wants](https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Wants What It Wants](https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG) | 3:02 | 2023-02-17 | 2023-04-29 |
+| [Heartache](https://open.spotify.com/track/3xIkCaoRNqRd4J2YtYYmag) | [Farida](https://open.spotify.com/artist/1TBqlc2KwgI8pEkTdkTwGH) | [Heartache](https://open.spotify.com/album/10lqvANS2Cq1DTYdrZf3dN) | 2:47 | 2024-01-17 |  |
 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 | 2023-01-27 | 2023-03-18 |
 | [Hello](https://open.spotify.com/track/2k5cMN5C6DEzvumS13eiGQ) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Hello](https://open.spotify.com/album/2PY1DxGDRf8s6a8rJMVQFK) | 2:07 | 2022-05-27 | 2022-07-02 |
 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 | 2022-08-12 | 2023-06-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: tg.blk
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,315 likes - 86 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,555 likes - 86 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 85 | [THE BOOK OF ENOCH](https://open.spotify.com/track/7ExMRqApkPYZC68G9jfsZD) | [Armani Jordan](https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR) | [THE SWORD IS MY SHEPHERD](https://open.spotify.com/album/2EnvvaggnpVoH2NNGlCmiN) | 2:29 |
 | 86 | [ALL FALLS DOWN](https://open.spotify.com/track/3DbWMDyMubwbLQvWnK497U) | [4kmicheal](https://open.spotify.com/artist/1uYb1BpHdrFpCPAnzlNJYa) | [FREE THE BIRDS](https://open.spotify.com/album/5vdr0MZZHEYFCnfYJXIg5Q) | 2:15 |
 
-Snapshot ID: `MCw2YjU0YTI0OGRlYTc4ZDliYTcxOWE3NjhlNzIxNWQ1ZGY2YTAxNGIz`
+Snapshot ID: `MCw2MjNmOGNjNDA0OTQ3NmIwNzk5YzJjMjgwNWM1NjZhMTJmMTI3YmJi`

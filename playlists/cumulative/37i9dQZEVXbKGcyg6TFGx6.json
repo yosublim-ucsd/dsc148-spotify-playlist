@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 198292,
       "name": "all of me",
       "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
@@ -5684,7 +5684,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 229093,
       "name": "CARTIER",
       "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
@@ -19485,6 +19485,24 @@
     },
     {
       "album": {
+        "name": "Famous Yet",
+        "url": "https://open.spotify.com/album/40fr4VZfqnTpiVRUpBkBms"
+      },
+      "artists": [
+        {
+          "name": "Daiyon",
+          "url": "https://open.spotify.com/artist/1qaAtZ7h1YofjNdaYD6Nu2"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145437,
+      "name": "MOB",
+      "url": "https://open.spotify.com/track/1Y4LogEuF1giItbDPaSF8S"
+    },
+    {
+      "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
@@ -23129,6 +23147,24 @@
     },
     {
       "album": {
+        "name": "Popcorn Sal\u00e9",
+        "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238653,
+      "name": "Popcorn Sal\u00e9",
+      "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
+    },
+    {
+      "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
       },
@@ -25006,7 +25042,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 189840,
       "name": "Saiyan",
       "url": "https://open.spotify.com/track/2BvjmY4Mp5q1AHL0laetd6"
@@ -27006,7 +27042,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -27272,7 +27308,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -28839,7 +28875,7 @@
     },
     {
       "album": {
-        "name": "Temps en temps (feat. Kore)",
+        "name": "Temps en temps",
         "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
       },
       "artists": [
@@ -28850,17 +28886,13 @@
         {
           "name": "Koba LaD",
           "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        },
-        {
-          "name": "Kore",
-          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
         }
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153649,
-      "name": "Temps en temps (feat. Kore)",
+      "name": "Temps en temps",
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
     },
     {
@@ -30920,7 +30952,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"

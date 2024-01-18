@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vem de dm 🔥  ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,943 likes - 65 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,957 likes - 65 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 54 | [Terça de Tarde 2](https://open.spotify.com/track/3MlMMabvVmUVrAGHekqAOn) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Terça de Tarde 2](https://open.spotify.com/album/7y3db4Z73wTyMTCacTcUtL) | 2:16 |
 | 55 | [Hipnotiza](https://open.spotify.com/track/0dkyy1SM9pU1AND0NhaiFc) | [Luis Fortes](https://open.spotify.com/artist/59jhGrdFhrRFKR9AbmcBmg) | [Hipnotiza](https://open.spotify.com/album/78VwZTQlrrIBEruikZrNRJ) | 2:19 |
 | 56 | [Se Eu Falhei](https://open.spotify.com/track/7fltehcRKtCLn1ddVz53vM) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Se Eu Falhei](https://open.spotify.com/album/0nwZA8g6vvpBbQ9kon3FlL) | 2:57 |
-| 57 | [BECKSTAR](https://open.spotify.com/track/7yqLFVLpu9i41mQvMkQNUv) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [BECKSTAR](https://open.spotify.com/album/38m3QTMDvnfTMz12tAZmBa) | 2:21 |
+| 57 | [BECKSTAR](https://open.spotify.com/track/2lnaPc7oXsP9eFPMq0n5k7) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [BECKSTAR](https://open.spotify.com/album/6n0XmJcip7d3NMO2F0n1Gc) | 2:21 |
 | 58 | [Júlia](https://open.spotify.com/track/4BN1FuzbCcBkULDpCVXeg9) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Júlia](https://open.spotify.com/album/5xHjd2zRPkv0rESSnVBPVH) | 2:30 |
 | 59 | [Fogo](https://open.spotify.com/track/7ev64ImfrKOFhReYZ0AJBj) | [VENVS](https://open.spotify.com/artist/2ocUyV60vAnpvfuqszD3XG), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Fogo](https://open.spotify.com/album/36N0m4UtqwvrfpLWd6aFKi) | 2:40 |
 | 60 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 64 | [Quero Agora](https://open.spotify.com/track/2EaOYBodrkKFceFdbIBRYC) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Quero Agora](https://open.spotify.com/album/0Wwfj23cw97BCGrOHznMvQ) | 3:25 |
 | 65 | [A Garota Mais Linda de Oz](https://open.spotify.com/track/6blFfIKfjek2zgrcNjWcnU) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [A Garota Mais Linda de Oz](https://open.spotify.com/album/6EnL3B0Co201xFS185pL0B) | 2:45 |
 
-Snapshot ID: `MCw5NWRkYmU1NTgzYmI5ZTY2Nzc4Yzc0OWJjODNhMzJmZThjZjBmYWQ5`
+Snapshot ID: `MCw4ZGJiOWQ4NjA3OTA0ZTdjNTQ2MDhlNGE3YTk1ZGI0Y2IxMWZkMTc1`

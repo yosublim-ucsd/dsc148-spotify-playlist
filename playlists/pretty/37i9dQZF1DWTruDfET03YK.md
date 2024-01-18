@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,555 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,605 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 29 | [El Tío McDonald Tenía una Granja](https://open.spotify.com/track/4PQHPHrY05iVfWnloiUuQf) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Ronda Musical Infantil](https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj) | 3:10 |
 | 30 | [El Cocodrilo](https://open.spotify.com/track/45ArinQcJRgEgyrtkGZbFN) | [Atención Atención](https://open.spotify.com/artist/18xacmB7GVCrXxcPX9IILZ) | [¿Donde Está el Sr\. Sapo?](https://open.spotify.com/album/4kXF33f9ZWq0WtSVJK3bnG) | 2:06 |
 | 31 | [Papá Elefante \- Remasterizado](https://open.spotify.com/track/5E20c2Sv8JbguraSR9uhEh) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:02 |
-| 32 | [El Circo](https://open.spotify.com/track/3qs4mRe6EjrjnnMiomwBqC) | [Xuxa](https://open.spotify.com/artist/4DOlsUBpxw706SXx05Xoi2) | [Xuxa Em Espanhol](https://open.spotify.com/album/46FmUNWIlYCuXXTIoFGSNi) | 3:20 |
-| 33 | [El Baile del Gorila \(Versión 2019\)](https://open.spotify.com/track/4M9MCJF2Nk9H9lYkwxQS9C) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/1nXc5zDscyT89SnDFh7l1l) | 2:42 |
+| 32 | [El Baile del Gorila \(Versión 2019\)](https://open.spotify.com/track/4M9MCJF2Nk9H9lYkwxQS9C) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/1nXc5zDscyT89SnDFh7l1l) | 2:42 |
+| 33 | [El Circo](https://open.spotify.com/track/3qs4mRe6EjrjnnMiomwBqC) | [Xuxa](https://open.spotify.com/artist/4DOlsUBpxw706SXx05Xoi2) | [Xuxa Em Espanhol](https://open.spotify.com/album/46FmUNWIlYCuXXTIoFGSNi) | 3:20 |
 | 34 | [El baile del sapito \- Remasterizado 2016](https://open.spotify.com/track/6N8lbqrViGQ5v4Xe1MZe1C) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 3:04 |
 | 35 | [Foxy Fakeout](https://open.spotify.com/track/6FPbEp2Q9QUh5SWTws5F9Y) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 2:08 |
 | 36 | [Patitos Cuacuacua](https://open.spotify.com/track/35FQXso1fGAtmpJA0skQZt) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 1:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 49 | [Escuela de Perritos](https://open.spotify.com/track/1xaIfPBnOV3aWKx2nrEMBM) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri, Vol\. 2](https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX) | 2:29 |
 | 50 | [Lumi, luminosos \- De Morko y Mali](https://open.spotify.com/track/3G5TF0y9HIZL6BMlCJnAOU) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:10 |
 
-Snapshot ID: `MCwxMmE4ODU3ZjBiNDM5NzJkNzk2ZDIwOTQzYjAzYTViNTlkNzQ4MTQ3`
+Snapshot ID: `MCwzYzZhN2NlYmUwY2QxNDI2NTMzN2JmODExNzc0NjlhNjMzY2Q5MTEy`

@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: サバシスター \(Saba Sister\)
 
-704 songs - 1 day 13 hr 38 min
+705 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [I know](https://open.spotify.com/track/15fphhO291Ut1Uu3LpS6tY) | [SEPTALUCK](https://open.spotify.com/artist/5SzyFQjwKUq5jq3qeENnZo) | [I know](https://open.spotify.com/album/3NBx35slNN8loaFNeEInB8) | 3:44 | 2022-08-25 | 2022-09-15 |
 | [I Like You](https://open.spotify.com/track/1heOMysisFUHkzn76lMBgB) | [HONEST](https://open.spotify.com/artist/59iGba2GaoFVPVlnwy5J1G) | [HONEST](https://open.spotify.com/album/22DUKrSmkz2H86ew2lsVgJ) | 1:48 | 2023-01-31 | 2023-03-01 |
 | [I LOVE HIS SONG I COULD DIE](https://open.spotify.com/track/7bxyTGWClbH0JXhG1lYx9W) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [I LOVE HIS SONG I COULD DIE](https://open.spotify.com/album/0Ib48h7MauySf6xS7xgxoC) | 3:01 | 2023-04-27 | 2023-05-17 |
+| [I love you](https://open.spotify.com/track/4X62jtMHJ6Ia7HGwy93vmb) | [Manatsu](https://open.spotify.com/artist/0QsmAtCC9Z5uS53sg6QkfS) | [I love you](https://open.spotify.com/album/0zVthy1asuKE607JfbqZgT) | 3:56 | 2024-01-16 |  |
 | [I Love You ja ai mai](https://open.spotify.com/track/7zApMvRtAq12Mk5x8rzFdm) | [音武者](https://open.spotify.com/artist/6sDl2vWL0zSjk9vqK6Ze9k) | [I Love You ja ai mai](https://open.spotify.com/album/0qHnl5doc0FCUvz2mSyePs) | 2:19 | 2022-07-07 | 2022-07-20 |
 | [I MADE YOU BLACK](https://open.spotify.com/track/13vBqDAqQBta8FF1oedWkd) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [BAD HOP](https://open.spotify.com/album/1oud6zNyNjCKTF6lnyTMke) | 2:14 | 2022-05-17 | 2022-07-11 |
 | [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 | 2023-09-07 | 2024-01-17 |
@@ -554,7 +555,7 @@
 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 | 2022-05-24 |  |
 | [ゆびきり](https://open.spotify.com/track/2rWjdoSvdwI0NvC7cBInH7) | [ONE'S TRUTH](https://open.spotify.com/artist/1aVy58ZrcvKm6QQj0KtGg7) | [ALL FOR ONE’S](https://open.spotify.com/album/5oO3I3i71SNDgDHi8T63gj) | 3:14 | 2022-05-12 | 2022-07-28 |
 | [わたしは拒絶する](https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [わたしは拒絶する](https://open.spotify.com/album/2o67tneHxUqu03nqENYij1) | 3:47 | 2023-09-07 | 2023-09-09 |
-| [アイラブユー](https://open.spotify.com/track/6fcnwqEDu1jIvwlhFao1R3) | [まなつ](https://open.spotify.com/artist/5jrKolawagaQ6oSN5VCcnO) | [アイラブユー](https://open.spotify.com/album/2XXGxgKGNVpZZbsTbaX5pq) | 3:56 | 2024-01-16 |  |
+| [アイラブユー](https://open.spotify.com/track/6fcnwqEDu1jIvwlhFao1R3) | [まなつ](https://open.spotify.com/artist/5jrKolawagaQ6oSN5VCcnO) | [アイラブユー](https://open.spotify.com/album/2XXGxgKGNVpZZbsTbaX5pq) | 3:56 | 2024-01-16 | 2024-01-18 |
 | [アオ](https://open.spotify.com/track/2XcpaIgYulHpwEESRX8L70) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [アオ](https://open.spotify.com/album/12LkKpoe7EkrIZhiZqHNb1) | 3:44 | 2022-05-12 | 2023-01-24 |
 | [アサインブレイカー](https://open.spotify.com/track/6n9WWWocRjT72N7LOqZza5) | [SABOTEN](https://open.spotify.com/artist/7sXuNhQNs04fBoANVpwUq0) | [バカと天才とハミングバード](https://open.spotify.com/album/69Rosf0INFy0sUfrJWW8Yn) | 2:48 | 2022-05-12 | 2022-05-16 |
 | [アンセム](https://open.spotify.com/track/5ZMS3dRr2INkP6r2TZnU6m) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [太陽と月のビートニクス](https://open.spotify.com/album/06dTtsuu4ZddnDTW7mIUpa) | 2:48 | 2023-12-05 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,026 songs - 2 day 9 hr 57 min
+1,027 songs - 2 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [Foto En Panty](https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 2:54 | 2022-10-29 | 2022-11-01 |
 | [Friends](https://open.spotify.com/track/4rzWmtnly4bVIi6QGUETV0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:49 | 2022-11-19 | 2022-11-26 |
 | [Friends \- Remix](https://open.spotify.com/track/54iyLNmcnLWNdCqX5pdtuL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:08 | 2023-03-18 | 2023-03-26 |
-| [Fruto](https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:12 | 2023-10-06 |  |
+| [Fruto](https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:12 | 2023-10-06 | 2024-01-18 |
 | [Fuego](https://open.spotify.com/track/2bEjeBM3MVspWXXbor9H32) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:35 | 2021-12-05 | 2021-12-09 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-25 | 2022-10-08 |
 | [Fulanito](https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Fulanito](https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o) | 2:38 | 2021-07-27 | 2021-09-05 |
@@ -763,6 +763,7 @@
 | [Quemando Calorías](https://open.spotify.com/track/3ss6y0Id5Iwk2L5MIZp4xF) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 3:02 | 2022-09-15 | 2022-09-18 |
 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 | 2022-10-22 | 2022-10-24 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-07-08 | 2023-10-15 |
+| [Quien Es Dei V?](https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quien Es Dei V?](https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC) | 2:42 | 2024-01-17 |  |
 | [Quienes Son Ustedes](https://open.spotify.com/track/4qdJeQlPfs2sKSHWUVchpi) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:20 | 2021-12-05 | 2021-12-06 |
 | [Quiero Fumar \- Remix](https://open.spotify.com/track/62jJgYMqkNuVlOiyscQo15) | [El Bird](https://open.spotify.com/artist/1XHYFx41xbzN5SxLUSvW5Q), [Pacho y Cirilo](https://open.spotify.com/artist/5tGDvtOz6ml81vjiJunyIh), [Polaco](https://open.spotify.com/artist/62zWXNKBdOWd9TIdkZ7BQN), [Gastam](https://open.spotify.com/artist/30fBzJk6j1YQc6hQIcuFj1), [Prynce](https://open.spotify.com/artist/79ejh4bgZfNJSUHp4HX82g), [Klaze & Eztylo](https://open.spotify.com/artist/4nJpm7r2FbTwvyCnvMDGET), [JQ "The \#1 Contender"](https://open.spotify.com/artist/4Dy5adTFPa9pHGv42kEeNZ) | [Flash Back](https://open.spotify.com/album/0nNVvtHQmf4RyZODwh9FRj) | 8:58 | 2022-10-07 | 2022-10-12 |
 | [Quiero Ser](https://open.spotify.com/track/6Bc55onCuouUiPcY1abddK) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E), [Buxxi](https://open.spotify.com/artist/08Cb5OwPZ7SrS19MNYaHqz) | [Greatest Hit´s](https://open.spotify.com/album/5CZTSDYXBso93w28LLm1Nk) | 3:46 | 2023-10-22 | 2023-11-01 |

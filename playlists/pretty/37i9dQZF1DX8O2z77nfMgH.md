@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Bizarrap y Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,114 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,081 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 8 | [JET\_Set.mp3](https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [JET\_Set.mp3](https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW) | 2:25 |
 | 9 | [No Cap \- A COLORS SHOW](https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [No Cap \- A COLORS SHOW](https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN) | 2:10 |
 | 10 | [Ron En El Piso](https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Ron En El Piso](https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z) | 5:35 |
-| 11 | [DIOS ME PERDONE](https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [DIOS ME PERDONE](https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY) | 2:53 |
+| 11 | [DIOS ME PERDONE](https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DIOS ME PERDONE](https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY) | 2:53 |
 | 12 | [EL VALS](https://open.spotify.com/track/7aZspSnjNoHdthMrl8cILH) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7) | [EL VALS](https://open.spotify.com/album/7fNOjCNStUOYlNGPqZFB1M) | 3:00 |
 | 13 | [SANTOBELLAKO](https://open.spotify.com/track/1CbyWChnprjBBbPFAQXllE) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [SANTOBELLAKO](https://open.spotify.com/album/41HE8taCCJIQEysYp0nEzd) | 2:36 |
 | 14 | [Cenita en Komodo](https://open.spotify.com/track/0I3XYzVy6BQEvbtPUPbpXS) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Dj Maff](https://open.spotify.com/artist/1bPqRsnm0EOVC8vVaslV3x) | [Cenita en Komodo](https://open.spotify.com/album/63q9OyRPPciHpVSF5tVM6S) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [SOMBRA](https://open.spotify.com/track/47AmsMT0o7UBlait7GmBQK) | [Brokibv](https://open.spotify.com/artist/2YV25v4a4kuPopCncqhoNE), [Young Darhi](https://open.spotify.com/artist/4g6S2KmV5fUl1heIeqaLEc), [Ryodan](https://open.spotify.com/artist/50eOOeWq6PmtEKMxq4DAcO) | [SOMBRA](https://open.spotify.com/album/27bm3Fh26jfbD3fo6TLtxV) | 2:38 |
 | 50 | [La Luz](https://open.spotify.com/track/1atMva6VKNfdTC353iWU5B) | [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V), [Farock](https://open.spotify.com/artist/68ozuRzjeeZGbKPU9b1nb2), [Morel Under](https://open.spotify.com/artist/0LvZ8BqFFdEcyBZlq2Y0OR) | [La Luz](https://open.spotify.com/album/6978eIZDaVu8Q9OqPLws54) | 3:02 |
 
-Snapshot ID: `MCw3MzJhMDgxOGY2MTMyYTAzNGFkMjg3ZGViMzg0NTQ2NjZkNTI1MDM5`
+Snapshot ID: `MCw4ZGUwNjlhODMwZmY3NjM0MWQ3Y2ZkYjgxZTVkN2YyMmMwOTM5N2E0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: ハンブレッダーズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,500 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,668 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 18 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
 | 19 | [ボーイズ ドント クライ](https://open.spotify.com/track/2oZM29QXfk0Oi6d15PjoSp) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ボーイズ ドント クライ](https://open.spotify.com/album/2ukBR6yPc7n60KjGcXxy0V) | 3:01 |
 | 20 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
-| 21 | [日常の少し先へ](https://open.spotify.com/track/6dhN74SWRrOMVHAhf0AfcA) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [日常の少し先へ](https://open.spotify.com/album/5UeMuIK04F6QPTibvkVIZM) | 3:20 |
+| 21 | [Nichijo no Sukosi Saki e](https://open.spotify.com/track/2XFgux5P8xq6JwgFImat2W) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [Nichijo no Sukosi Saki e](https://open.spotify.com/album/0XhWJADP1qlTKGyaRU31AH) | 3:20 |
 | 22 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 23 | [バックミラー](https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [バックミラー](https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc) | 3:29 |
-| 24 | [ラブソングがいらない君へ](https://open.spotify.com/track/3VXL22jDNdom9SZfdGRM5X) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ラブソングがいらない君へ](https://open.spotify.com/album/5CaIpCc1HiuulQWhhbtIDv) | 3:43 |
+| 24 | [Love Song ga Iranai Kimi e](https://open.spotify.com/track/1JckJKUfnd4Xbkh7xfAk8c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Love Song ga Iranai Kimi e](https://open.spotify.com/album/4jnUmf2eZu1fO3Pel9LwhN) | 3:43 |
 | 25 | [17](https://open.spotify.com/track/1kGkbJkZTUKOpaq40DmO4X) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [17](https://open.spotify.com/album/1etb2Hta613MH9sUYvUIaj) | 2:55 |
 | 26 | [Danger Danger](https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb), [icy](https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3) | [Danger Danger](https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri) | 3:41 |
 | 27 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 30 | [Re方程式](https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [Re方程式](https://open.spotify.com/album/26zVnYZBcPIBYDXv2Id7w7) | 4:12 |
 | 31 | [東京駅](https://open.spotify.com/track/4FpE2FA3wVOUCjnXmyF0nd) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [東京駅](https://open.spotify.com/album/33bK7NmRrbOg8KVrZHn5p9) | 3:19 |
 | 32 | [烏托邦](https://open.spotify.com/track/5TfKLAw45SuHeCTN6weP3M) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [烏托邦](https://open.spotify.com/album/3NMi4NhUlJtSnbS7krwvAg) | 5:14 |
-| 33 | [sea u again](https://open.spotify.com/track/6eLoWC2cLV72ePaDFuGYq0) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [sea u again](https://open.spotify.com/album/7ovLZpKxHm8s7gUPraXQ0S) | 4:05 |
+| 33 | [Sea U Again](https://open.spotify.com/track/2bazWE21cNpkuXekVJwHZ4) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Sea U Again](https://open.spotify.com/album/58YIbdLfmGbVlzhAR4tjOD) | 4:05 |
 | 34 | [大行侵](https://open.spotify.com/track/4J9Ls3znYHPjUgp1oTrQgg) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [大行侵](https://open.spotify.com/album/6XvgKxqN6XvcPxGvfya0Z5) | 3:58 |
 | 35 | [TENGOKUKAIDO](https://open.spotify.com/track/2gY1SkSuWOGMKrbOZyHJdt) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [TENGOKUKAIDO](https://open.spotify.com/album/5I5qUPmsIqYhpU0TZQkCI3) | 3:42 |
 | 36 | [ユートピア](https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BACK](https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd) | 2:39 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 50 | [乱痴気](https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [乱痴気](https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3) | 3:41 |
 | 51 | [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 |
 | 52 | [My best love!](https://open.spotify.com/track/4F7HpyZBYY2NU4YxKaKn3m) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [My best love!](https://open.spotify.com/album/3yfwQt9HuQunyMnozW7Sim) | 3:34 |
-| 53 | [ニタリ](https://open.spotify.com/track/0G8ErkrQkzU6usCXnly1Ge) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [ニタリ](https://open.spotify.com/album/2jKlF8Ilvqr4fAAm1mShrI) | 2:43 |
+| 53 | [nitari](https://open.spotify.com/track/1ZKoFnft58Ak3jujRlUGJQ) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [nitari](https://open.spotify.com/album/17ecQayWxTwcz9o25u8HHE) | 2:43 |
 | 54 | [僕と夜明け](https://open.spotify.com/track/063XznIkQsow0ViXjrpGwq) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [僕と夜明け](https://open.spotify.com/album/0jq9FpIl2IS4uMJVdEuuJO) | 2:17 |
 | 55 | [雪の音](https://open.spotify.com/track/2Wahb8YS7s2zPFRVK3l5gT) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [雪の音](https://open.spotify.com/album/670M5F2SQLZYmTgWLUzSZY) | 3:48 |
 | 56 | [リカ](https://open.spotify.com/track/41P1hFCw1uLYt25JKktlst) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [FANFARE \(Deluxe Version\)](https://open.spotify.com/album/6jeDa7srx82eoknJmpBkgT) | 3:38 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 86 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 |
 | 87 | [ダレカ](https://open.spotify.com/track/6lp7sXjH7jj8Hy9aIYSwVC) | [Thinking Dogs](https://open.spotify.com/artist/09bKUD807BdDQb21HLz0Lq) | [FAQ](https://open.spotify.com/album/7GtgP4pcUclzhG8BgFOszR) | 3:35 |
 | 88 | [寝顔](https://open.spotify.com/track/7hWvwXjAVgByShizI6ZCSL) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [寝顔](https://open.spotify.com/album/4MSvpJOFCsFraMazHjvCYF) | 4:00 |
-| 89 | [彼女のジャズマスター](https://open.spotify.com/track/4jVuWlrrRZ6Y2QlnRmgdsy) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [時をかけるメロディー](https://open.spotify.com/album/4CsR3SQRh4lksap6DVIbnA) | 2:40 |
+| 89 | [Her Jazzmaster](https://open.spotify.com/track/19b5Mr17lts5dlYxyILxfQ) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [A melody that flies beyond time](https://open.spotify.com/album/5jxccF7FKF9shTKQAd5MdI) | 2:40 |
 | 90 | [ホテルニュートリノ](https://open.spotify.com/track/66j7OAinOnLbkATzcQPfmA) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ホテルニュートリノ](https://open.spotify.com/album/7mAnnljEik428IDN7c8zGv) | 4:04 |
 | 91 | [エデンの花](https://open.spotify.com/track/33oY2Nn1bAL0isfLxWxwAt) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [エデンの花](https://open.spotify.com/album/2EnPqo6WPPjqYX1YH0U3WX) | 4:48 |
 | 92 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
 | 100 | [ハイウェイ](https://open.spotify.com/track/5wHYhnEjPyqlsHuzW6vCeK) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [ハイウェイ](https://open.spotify.com/album/1uG3yhVOQ21x9wAqBuPR9d) | 4:00 |
 
-Snapshot ID: `MCwwYWY5ODJkNjIwNGM0NDA3YTQ1OTA2ZjVlZTlmNzY1MGQ4OWIxYTg5`
+Snapshot ID: `MCw0YWI1M2Q1MjI1MzAzMWNkNWEwNDU4MjcwNmQ0YmUzNDkyZjhlODk2`

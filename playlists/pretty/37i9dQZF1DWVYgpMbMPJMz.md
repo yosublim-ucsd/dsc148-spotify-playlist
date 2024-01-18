@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:6CK4CBL0n07VdVZmfh40nm">Benjamin William Hastings</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,658 likes - 90 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,734 likes - 90 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 29 | [Let The People Sing \- Live](https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 3:59 |
 | 30 | [No Turning Back](https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [The Narrow Way](https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0) | 6:30 |
 | 31 | [Scandal Of Grace \- Live At Red Rocks](https://open.spotify.com/track/2Xa7XYHeb62XLMRJShKr2L) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Zion \(X\)](https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV) | 4:16 |
-| 32 | [Holy](https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG) | [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x) | [Holy](https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ) | 7:08 |
+| 32 | [Holy](https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG) | [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x), [Jonathan Clarke](https://open.spotify.com/artist/5HTyP5XAnJHFgHNGEOa5p1) | [Holy](https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ) | 7:08 |
 | 33 | [Yahweh Will Manifest \- Live From San Juan PR](https://open.spotify.com/track/1z7Fxs69SXH3OD9XNye8Lz) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Yahweh Will Manifest \(Live From San Juan PR\)](https://open.spotify.com/album/5OoSjMQoO2PlmUSzP33gwQ) | 8:33 |
 | 34 | [Your Love Will Never Change \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/6jbqxumh7V2O5AoT0Qd0ny) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Your Love Will Never Change \(Live at Mosaic, Los Angeles, 2023\)](https://open.spotify.com/album/1ClXRS95oKTIZU2EuuFk7M) | 5:04 |
 | 35 | [Never Been](https://open.spotify.com/track/2GA5R0AVGt0DIf1cY2APhv) | [Jordan Merritt](https://open.spotify.com/artist/39DgyPkCHL68NcN1rBsjbE), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Never Been](https://open.spotify.com/album/0tuajk7f2pPvbAvzgef4jM) | 5:54 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 89 | [Fighting For My Heart \- Live](https://open.spotify.com/track/2anWmr2A4jZQTDlypymJgv) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich & Lydia Dicas](https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY) | [Pull Me Through \(Live at King’s House\)](https://open.spotify.com/album/38dj7aDFY0P50sYYmfMGhr) | 7:28 |
 | 90 | [The Plan](https://open.spotify.com/track/5psIjB6ZTTyYzMqaIzDoOE) | [Souvenirs Worship](https://open.spotify.com/artist/5vybBaHZdTIRTYiLF5kAlr) | [The Plan](https://open.spotify.com/album/1COJxxwnImFbThGvDCHfn3) | 9:42 |
 
-Snapshot ID: `MCw3NzU5MDAwYWEyY2UzMjA5YmIyNWY3N2UwZDgxZGFhZjhmNDNhMGQ2`
+Snapshot ID: `MCxhOGFjY2IwOGU2ZWE0Njc3YmQ5Y2M1MjJlZTJkYzhlYzllODAyYzA3`

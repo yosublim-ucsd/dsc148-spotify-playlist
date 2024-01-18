@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,947 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,943 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 41 | [Go Wild Go Crazy](https://open.spotify.com/track/35QKv2juUi6uR9jYvmnkND) | [Fresh Hex](https://open.spotify.com/artist/70l8cTaZCtfsy0woXdUBr3) | [Go Wild Go Crazy](https://open.spotify.com/album/33T1Uq2Y9v5EmqnWLMaLmJ) | 2:12 |
 | 42 | [Navy](https://open.spotify.com/track/6T7QtZN0WQSt3XhM70oJAp) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1UZ0oOTbFYR9DDg0giB1bH) | 3:34 |
 | 43 | [Moon](https://open.spotify.com/track/5tjxFwyxYcHL9dT5RbwHNO) | [Public Practice](https://open.spotify.com/artist/5iIR0tru2tKI6NPIYUJjkf) | [Gentle Grip](https://open.spotify.com/album/1Tn3aLu9xRGuuUs6KeZrYN) | 4:44 |
-| 44 | [Drive](https://open.spotify.com/track/1ZZy0DqKK2zEXnyDRRCVTR) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:57 |
+| 44 | [Drive](https://open.spotify.com/track/1ZZy0DqKK2zEXnyDRRCVTR) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:57 |
 | 45 | [Shit \(I’ve Done It Again\)](https://open.spotify.com/track/5O4c8piJKQwShowJel8tlz) | [Gaz Coombes](https://open.spotify.com/artist/6ho33Vt1tjZyf8m7Z5NZhx) | [World’s Strongest Man](https://open.spotify.com/album/3GNgyMVDg6PSVsOxFfHZsO) | 2:58 |
 | 46 | [Bottle Episode](https://open.spotify.com/track/5N1RLbHEM7Q0Qo1achKzrY) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Bottle Episode](https://open.spotify.com/album/2nYI8TZegutcUWAvOYGoSP) | 4:39 |
 | 47 | [Baby](https://open.spotify.com/track/1i6mTfj9Nn2bYMsrkdqdSc) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Drawing Room](https://open.spotify.com/album/5M9BayikE0SjNp4PNpVZtr) | 4:29 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 407 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival Vol.01](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 408 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 
-Snapshot ID: `MCxjODA5ODI1ODI1OTIyOGM5MTk0ODMyMmVlYWRiOWQ5NGEwY2NhZDFk`
+Snapshot ID: `MCxlNjY5MWFiNDgyODA0NTZhODY4MGYxYjgxMGYyZDUwNzFlMzEyYmZi`

@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 36483,
+  "num_followers": 36559,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDc5OWMzYjVjOTNhZjJlODhjMmE2OTlmZGNiYTAxNWIzOTYyMGFj",
+  "snapshot_id": "MCxiMDFmMDk5NjAxODYyZDU3YTg4NzRkZTAxMzlhOTEyZTBjYzVkZDg0",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "NO WEAPON",
-        "url": "https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF"
-      },
-      "artists": [
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 224465,
-      "name": "NO WEAPON",
-      "url": "https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "CECE",
         "url": "https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 142782,
       "name": "CECE",
       "url": "https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "NO WEAPON",
+        "url": "https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 224465,
+      "name": "NO WEAPON",
+      "url": "https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -895,6 +895,22 @@
       "duration_ms": 156309,
       "name": "Swerve That",
       "url": "https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 150875,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 150875,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "LORD FORGIVE ME",
         "url": "https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh"
       },
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        },
-        {
-          "name": "2J Mako",
-          "url": "https://open.spotify.com/artist/4PW8LhWM1NaETYEzlYTpqV"
-        },
-        {
-          "name": "GQ DASTEPPA",
-          "url": "https://open.spotify.com/artist/6FJTRJCbi7oGB9n8CyLMNU"
-        }
-      ],
-      "duration_ms": 251306,
-      "name": "Life I Chose (feat. 2J Mako & GQ Dasteppa)",
-      "url": "https://open.spotify.com/track/4Nz5ui2QPkUXo1BfFI0PJg"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -1043,38 +1019,6 @@
       "duration_ms": 229324,
       "name": "Libre (feat. Tommy Royale)",
       "url": "https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Church Clothes 4",
-        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Still In America",
-      "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Tricky",
-        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 132635,
-      "name": "Tricky",
-      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1099,18 +1043,58 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Ram in the Bush",
-        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
+        "name": "Church Clothes 4",
+        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 148754,
-      "name": "Ram in the Bush",
-      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+      "duration_ms": 201541,
+      "name": "Still In America",
+      "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        },
+        {
+          "name": "2J Mako",
+          "url": "https://open.spotify.com/artist/4PW8LhWM1NaETYEzlYTpqV"
+        },
+        {
+          "name": "GQ DASTEPPA",
+          "url": "https://open.spotify.com/artist/6FJTRJCbi7oGB9n8CyLMNU"
+        }
+      ],
+      "duration_ms": 251306,
+      "name": "Life I Chose (feat. 2J Mako & GQ Dasteppa)",
+      "url": "https://open.spotify.com/track/4Nz5ui2QPkUXo1BfFI0PJg"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Tricky",
+        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 132635,
+      "name": "Tricky",
+      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1135,6 +1119,22 @@
       "duration_ms": 183043,
       "name": "Allegiance",
       "url": "https://open.spotify.com/track/2qHMpLZhcLTvD9YqHHWGOV"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Ram in the Bush",
+        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 148754,
+      "name": "Ram in the Bush",
+      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Look Up to the Sky",
-        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
-      },
-      "artists": [
-        {
-          "name": "Lathan Warlick",
-          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 173522,
-      "name": "Look Up to the Sky",
-      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 123478,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Look Up to the Sky",
+        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 173522,
+      "name": "Look Up to the Sky",
+      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Pray 2 God",
-        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
-      },
-      "artists": [
-        {
-          "name": "2'Live Bre",
-          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
-        }
-      ],
-      "duration_ms": 156781,
-      "name": "Pray 2 God",
-      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "A Beautiful Revolution (Pt 1)",
         "url": "https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Pray 2 God",
+        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        }
+      ],
+      "duration_ms": 156781,
+      "name": "Pray 2 God",
+      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "When It Hurts: A Story By Isaiah Hill",
         "url": "https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 122392,
       "name": "I Meant It",
       "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1535,6 +1519,22 @@
       "duration_ms": 176938,
       "name": "Pray",
       "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Sunday In Lagos",
-        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 153351,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn"
       },
@@ -1763,18 +1747,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "ON THA SEAT",
-        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
+        "name": "Sunday In Lagos",
+        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
       },
       "artists": [
         {
-          "name": "adriansings",
-          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         }
       ],
-      "duration_ms": 207068,
-      "name": "ON THA SEAT",
-      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
+      "duration_ms": 153351,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1795,6 +1779,22 @@
       "duration_ms": 207840,
       "name": "GOOD TO ME",
       "url": "https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "ON THA SEAT",
+        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
+      },
+      "artists": [
+        {
+          "name": "adriansings",
+          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "ON THA SEAT",
+      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
     },
     {
       "added_at": "2023-02-18 05:58:41",

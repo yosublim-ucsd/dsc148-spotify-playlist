@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: fhop music, Nívea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,321 likes - 30 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,362 likes - 30 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 13 | [Deixa Ele Entrar](https://open.spotify.com/track/4vy5XZ4lu2pmysT0tVDSBx) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Deixa Ele Entrar](https://open.spotify.com/album/6wpKGkXjyxjMNUNTU0gF9T) | 2:56 |
 | 14 | [Sonhei um Dia](https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Sonhei um Dia](https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv) | 3:01 |
 | 15 | [Amor Perfeito](https://open.spotify.com/track/0obHBNT5xglQUlQxfMElRx) | [Gui Hazel](https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP), [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Amor Perfeito](https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK) | 2:35 |
-| 16 | [minha vida](https://open.spotify.com/track/4u9rhcGy5RjTxJSbETsqsP) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4) | [minha vida](https://open.spotify.com/album/4kG8hRdehnWtIaEkJdG4VY) | 2:15 |
+| 16 | [minha vida](https://open.spotify.com/track/4u9rhcGy5RjTxJSbETsqsP) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [DJ HTSW](https://open.spotify.com/artist/4dXzdbWstY0rXrJiL3Cn6R) | [minha vida](https://open.spotify.com/album/4kG8hRdehnWtIaEkJdG4VY) | 2:15 |
 | 17 | [eu vi](https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [eu vi](https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI) | 2:59 |
 | 18 | [Eu Não Me Esqueci de Ti](https://open.spotify.com/track/3X62d96aK4Ad1k4pSbGTpA) | [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Jader Santos](https://open.spotify.com/artist/0LgOPOdCNpAxAkFWiliKpx), [Samuel Antunes](https://open.spotify.com/artist/7krk5pJJFAugqmfVGt3U5Q) | [Eu Não Me Esqueci de Ti](https://open.spotify.com/album/60pfqxlGzbp4z9ha2xl4w5) | 4:32 |
 | 19 | [Agradeço \- Ao Vivo](https://open.spotify.com/track/6TUq8ptWBQd1RcXQCBb7eu) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Agradeço \(Ao Vivo\)](https://open.spotify.com/album/7q8tdlooUHOuHtvfm6M1LA) | 4:41 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 29 | [Salmo 23](https://open.spotify.com/track/0ZqtF3wEbBIwfItBjuqyy4) | [Dort](https://open.spotify.com/artist/55J6E4RG9NM379yUE7F9A0) | [Salmo 23](https://open.spotify.com/album/68M07CNpq6vftxAy3UYSB9) | 5:00 |
 | 30 | [A Benção \- The Blessing](https://open.spotify.com/track/7ni7ZHhG5wLh2x4DeQnzI8) | [Musical Songsdei](https://open.spotify.com/artist/5O1bWmXcQoWFeW4QhmEMIb) | [Wedding Songs](https://open.spotify.com/album/6idu1dWtpDqDgRMqe2duxu) | 4:10 |
 
-Snapshot ID: `MCwzMzQ1ZDY0NjIzZTc0NjQ4NTljMzZjZmQ1NjAxODM1MzRjYWY0OGRi`
+Snapshot ID: `MCw5NDgwMTQ5NjU3Nzg5YzY4NDY0ZjUyZGU2NmEyYTA4YThjODhjYTBi`

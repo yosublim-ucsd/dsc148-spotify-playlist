@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Jessica Baio
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,587 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,619 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 27 | [jumpscare in your garden](https://open.spotify.com/track/10Lv8IXH4wm6o8ymIJHfHG) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [jumpscare in your garden](https://open.spotify.com/album/5PjAbxcY5tbb5eNJCLnKaH) | 3:25 |
 | 28 | [this is what winter feels like](https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what winter feels like](https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh) | 3:14 |
 | 29 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
-| 30 | [Hot Like Summer AGP](https://open.spotify.com/track/09DifLBp8dX9BOVZnIm9zT) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Hot Like Summer](https://open.spotify.com/album/1dqMqzTsHQKmBLERRe7cPp) | 2:56 |
+| 30 | [Hot Like Summer AGP \(ENG\)](https://open.spotify.com/track/09DifLBp8dX9BOVZnIm9zT) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Hot Like Summer](https://open.spotify.com/album/1dqMqzTsHQKmBLERRe7cPp) | 2:56 |
 | 31 | [Look Mom](https://open.spotify.com/track/1ydXPq8Lja4OS9UlMT5a28) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP), [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Look Mom](https://open.spotify.com/album/67EduQ0YlRpR9YKyEvsztu) | 2:29 |
 | 32 | [My House](https://open.spotify.com/track/1GK1suy5mFoPJ9mLDzGh1l) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [My House](https://open.spotify.com/album/7E9DaMnIXsxzZWRULufWh4) | 2:35 |
 | 33 | [swimming pools](https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [swimming pools](https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [don't break my...](https://open.spotify.com/track/4IobQL4j9hi0KdYoRFA4n9) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [don't break my...](https://open.spotify.com/album/4H3mkT4AxfYkDpdVR1mafr) | 2:10 |
 | 100 | [UFHO](https://open.spotify.com/track/2g3pFa3ySgKc86ZzcgBts5) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [UFHO](https://open.spotify.com/album/6RSzn0zreMMYliXT0L1E9k) | 2:11 |
 
-Snapshot ID: `MCwzMThmNzYwMGU3ZjA1MGI3ZDY5ZTg2YjQ0YjYwOTcyOWE4ZDU4YzQ2`
+Snapshot ID: `MCw4Mjg2ZjdjMmJhYzU2MDJkZjJlYWE1ZWIwZWM0MDMwYjUzMmNhMzhh`

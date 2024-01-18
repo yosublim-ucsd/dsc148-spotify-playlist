@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 
 > 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: UMI + V of BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,089 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,239 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 | 49 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 50 | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/track/1NsYaNxkwwKC18anLoxVZk) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Leo Uchida](https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL) | [The Roller Skating Tour](https://open.spotify.com/album/4iyqMZ78D9rMdbSJl6jhtO) | 3:52 |
 
-Snapshot ID: `MCwxYjc2NWQ3YWQ3MzA1ODZiMjlmODNjZGJkMmFmOTcwYTdlYzU2OGQw`
+Snapshot ID: `MCw5ZGI4ZGNmZDllMWVmODZkNDAyZmJhOGE2MzQ1NTEyNjlkZTVjODI3`

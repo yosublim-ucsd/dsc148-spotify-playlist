@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,439 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,637 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 23 | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF) | 3:07 |
 | 24 | [Who I Am](https://open.spotify.com/track/0N9C6owb2juxsvAFESepTe) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Who I Am](https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO) | 3:28 |
 | 25 | [My Light](https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light \(Acoustic Version\)](https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4) | 2:27 |
-| 26 | [Oxygen](https://open.spotify.com/track/2pOzcg0ID39t34si3387GC) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 3:26 |
+| 26 | [I Speak Jesus](https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Speak Jesus](https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo) | 3:53 |
 | 27 | [Make It Through](https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Make It Through](https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm) | 3:12 |
-| 28 | [I Speak Jesus](https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Speak Jesus](https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo) | 3:53 |
-| 29 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5) | 3:23 |
+| 28 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5) | 3:23 |
+| 29 | [Oxygen](https://open.spotify.com/track/2pOzcg0ID39t34si3387GC) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 3:26 |
 | 30 | [The Goodness \(feat\. Blessing Offor\)](https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Goodness](https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR) | 3:45 |
 | 31 | [Sound Mind \- Studio Version](https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Sound Mind \(Studio Version\)](https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD) | 3:42 |
 | 32 | [You've Already Won \- Radio Version](https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [You've Already Won \(Radio Version\)](https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
 | 100 | [To Not Worship You](https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD) | 3:45 |
 
-Snapshot ID: `MCw0YTUzM2FhYTAzZWVkMmY5NTFmZTg3NzBjOTIxYzk1MmYxY2E0YjA3`
+Snapshot ID: `MCxmYjBkNWYwNTFkYWMxNmU4NDZjNmM4MTRhMGM4ZGJkZTE5YzlkM2Yy`

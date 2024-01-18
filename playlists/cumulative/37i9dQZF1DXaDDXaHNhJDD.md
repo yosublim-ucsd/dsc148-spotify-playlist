@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaDDXaHNhJDD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaDDXaHNhJDD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaDDXaHNhJDD)
 
-### [ Best of Mollywood Gold in 2023](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
+### [Mollywood Gold](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
 
-> Best performed tracks of Mollywood Gold in 2023 \#SpotifyWrapped Cover : King Of Kotha
+> The finest set of Malayalam music from the past 10 years.<br/>Cover : Minnal Murali
 
 180 songs - 11 hr 54 min
 

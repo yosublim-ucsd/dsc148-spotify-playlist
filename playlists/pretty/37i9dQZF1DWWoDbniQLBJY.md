@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Aquí viven las canciones acústicas\. Cover: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,960,846 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,960,809 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 55 | [Volví a Nacer \- Live from Spotify](https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Spotify Sessions](https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i) | 4:18 |
 | 56 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 | 57 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 |
-| 58 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/6TTs9Wf4dIQdEAkXJFSEcR) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [El Ultimo Concierto B \(Remastered\)](https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk) | 4:40 |
-| 59 | [Tiempo Para Perder](https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tiempo Para Perder](https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC) | 3:40 |
+| 58 | [Tiempo Para Perder](https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tiempo Para Perder](https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC) | 3:40 |
+| 59 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/6TTs9Wf4dIQdEAkXJFSEcR) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [El Ultimo Concierto B \(Remastered\)](https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk) | 4:40 |
 | 60 | [Navegando](https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 2:59 |
 | 61 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 |
 | 62 | [No Lo Soñé \- Version Acustico](https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mis Favoritas](https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi) | 4:41 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 73 | [Si hubieras querido \- Versión acústica](https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:15 |
 | 74 | [Es Por Tí \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Spotify Singles](https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX) | 4:24 |
 | 75 | [Destino \- Acústico](https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk) | [Jxta Martin](https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P) | [En Acústico](https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk) | 3:27 |
-| 76 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 |
-| 77 | [Downtown \- Acoustic Version](https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Downtown \(Acoustic Version\)](https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ) | 3:24 |
+| 76 | [Downtown \- Acoustic Version](https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Downtown \(Acoustic Version\)](https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ) | 3:24 |
+| 77 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 |
 | 78 | [SUBEME LA RADIO](https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [SUBEME LA RADIO](https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo) | 3:29 |
 | 79 | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt) | 2:55 |
 | 80 | [Algo Más \(Versión Acústica\) \(with Miguel Inzunza\) \- En Vivo](https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh), [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb) | [Acustico](https://open.spotify.com/album/7nWAePPkngD730y97WP8H1) | 7:33 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 89 | [plan \(acústico\)](https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [plan \(acústico\)](https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP) | 3:21 |
 | 90 | [Souvenir \- Acústico](https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Souvenir \(Acústico\)](https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY) | 3:18 |
 | 91 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
-| 92 | [De Camino](https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Agua Del Pozo](https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd) | 3:26 |
-| 93 | [Saudade \- Versión Acústica](https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0) | [Ale Aguirre](https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS) | [Saudade \(Versión Acústica\)](https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG) | 3:58 |
+| 92 | [Saudade \- Versión Acústica](https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0) | [Ale Aguirre](https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS) | [Saudade \(Versión Acústica\)](https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG) | 3:58 |
+| 93 | [De Camino](https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Agua Del Pozo](https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd) | 3:26 |
 | 94 | [Mocca](https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Mocca](https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q) | 1:35 |
 | 95 | [Ansiedad \- Versión Acústica](https://open.spotify.com/track/7Aoej8eo1drIzrbzlbzwBL) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Los Cuatro Actos Acústicos](https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH) | 4:20 |
 | 96 | [La Parte Buena](https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Fase](https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW) | [La Parte Buena](https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 99 | [Underdog \- Acoustic Version](https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Acoustic Version\)](https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP) | 3:30 |
 | 100 | [Te quiero muchísimo](https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [Te quiero muchísimo](https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV) | 4:00 |
 
-Snapshot ID: `MCxjYzA5MWIzZDAzMjI4MjEzZGMxOTRmYmYzMzVkNzJmZWE3ZTYxZjE2`
+Snapshot ID: `MCw1MjQwNzcyZWY5NDIyMGUyNTc3ZDE1ZDE4ZGUyZDVlYzRlYTUxZWY5`

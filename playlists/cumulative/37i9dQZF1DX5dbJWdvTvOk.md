@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-637 songs - 1 day 2 hr 59 min
+639 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Coming Home to You](https://open.spotify.com/track/3z7zpVaGejh3GBR3DhlHWQ) | [Luca Stavos](https://open.spotify.com/artist/4haSSnvfxfNuKQ0Rxroodu) | [Coming home to you](https://open.spotify.com/album/5RuJR2nM1Rur7O5cAQxfrk) | 3:16 | 2022-07-15 | 2023-04-22 |
 | [Conclusions](https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Conclusions](https://open.spotify.com/album/7uNjcU7S7gkmQVeBWWpncq) | 2:01 | 2023-06-02 |  |
 | [Confidencen](https://open.spotify.com/track/2uqvdSTgEvXtKc8AutVTfc) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Confidencen](https://open.spotify.com/album/2ponLnQXC8yHOsxtvs2Ypz) | 2:21 | 2023-04-21 |  |
+| [Confirmation](https://open.spotify.com/track/4fjlynkBlFfxY8qvZ75Yn1) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Confirmation](https://open.spotify.com/album/3DSrPW0S0FjoyzWjgP5RXS) | 2:39 | 2024-01-12 |  |
 | [Corazón De Piedra](https://open.spotify.com/track/3odjYqGY9KdsTazd5fdwrt) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Corazón De Piedra](https://open.spotify.com/album/3jTZyRV27S9r7DpMd9WW69) | 2:18 | 2022-07-15 | 2023-04-22 |
 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 | 2022-07-15 | 2023-04-22 |
 | [Cradle Song](https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz) | [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse), [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Cradle Song](https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV) | 3:47 | 2022-07-15 | 2022-10-29 |
@@ -377,8 +378,9 @@
 | [Mond Stille](https://open.spotify.com/track/4R5W9Oq91uYpal40VdTGTl) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Mond Stille](https://open.spotify.com/album/3Uil3hqZzTEUHRVZ9aBE9Y) | 2:51 | 2023-04-21 |  |
 | [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 |  |
 | [Montesinho](https://open.spotify.com/track/5AzYGfl2BlQS2xDy63NcoL) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [Montesinho](https://open.spotify.com/album/5DNcFeLsvdr047AGIDtdWA) | 2:15 | 2022-07-15 | 2023-03-11 |
-| [Monteverde](https://open.spotify.com/track/7x04qsGEUv26a7gaOE2BsB) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Monteverde](https://open.spotify.com/album/0fYsEA210VvjfSWxQbgLNb) | 2:11 | 2023-04-21 |  |
+| [Monteverde](https://open.spotify.com/track/7x04qsGEUv26a7gaOE2BsB) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Monteverde](https://open.spotify.com/album/0fYsEA210VvjfSWxQbgLNb) | 2:11 | 2023-04-21 | 2024-01-18 |
 | [Moon Hearts](https://open.spotify.com/track/6iC68UqmwcLfceDrhFdE69) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Moon Hearts](https://open.spotify.com/album/4m6Vz7DuJL1u4ezzqHZbOt) | 2:48 | 2023-04-21 | 2023-09-01 |
+| [More than this](https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [More than this](https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8) | 2:39 | 2024-01-12 |  |
 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2022-07-15 |  |
 | [Morgensonne](https://open.spotify.com/track/1DVehVLP2YEOGjFgUl4DE0) | [Dominik Buchheim](https://open.spotify.com/artist/7e8fzJdZ6xHzokB2aGULSA) | [Morgensonne](https://open.spotify.com/album/1oAeUw1cBcoek76UVXFRer) | 3:03 | 2022-07-15 | 2023-03-31 |
 | [Morning Dew](https://open.spotify.com/track/0dhPf7uQVTl63JOFCaYsJD) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Morning Dew](https://open.spotify.com/album/1ycPHmmIrXmVYkpdOtKQU9) | 1:52 | 2023-06-02 | 2023-08-26 |
@@ -475,7 +477,7 @@
 | [San Gervasi](https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [San Gervasi](https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8) | 2:30 | 2022-07-15 | 2023-04-22 |
 | [san luca](https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu) | [Valery Isabel](https://open.spotify.com/artist/4QYwsnE0bbhWxuyUbSFnZR) | [purple dreams](https://open.spotify.com/album/3ofKSAH3DgolDBcU1IaWCs) | 3:06 | 2022-07-15 | 2023-03-11 |
 | [San Tropez](https://open.spotify.com/track/2RjR06sl1N1GVii5Vts7TP) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [San Tropez](https://open.spotify.com/album/7hYM36cQRk7nHmb01n54ts) | 2:22 | 2023-02-24 | 2023-04-22 |
-| [Sancy](https://open.spotify.com/track/7mBtZnqdWLJQbd2vIc3Urz) | [Oli Bloom](https://open.spotify.com/artist/7vlpBGqjj0b2Vmrf1i4Bpl) | [Sancy](https://open.spotify.com/album/4b4azFjmeRxMA0un2h196Z) | 2:23 | 2022-07-15 |  |
+| [Sancy](https://open.spotify.com/track/7mBtZnqdWLJQbd2vIc3Urz) | [Oli Bloom](https://open.spotify.com/artist/7vlpBGqjj0b2Vmrf1i4Bpl) | [Sancy](https://open.spotify.com/album/4b4azFjmeRxMA0un2h196Z) | 2:23 | 2022-07-15 | 2024-01-18 |
 | [Santa Fiora](https://open.spotify.com/track/48j6ZrDM8WaO8plMxxc4CO) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Santa Fiora](https://open.spotify.com/album/6k4IDURpsjao81eMH4LcHF) | 2:01 | 2023-04-21 |  |
 | [Santiago de Compostela](https://open.spotify.com/track/16kc1IAK0IYUvPoolUOOH6) | [Alex Van Hill](https://open.spotify.com/artist/0XGI6N0NlOJaDZqL96yJ1V) | [Burgundy](https://open.spotify.com/album/5nnD4FGclPCs3E3r1Kj2CH) | 2:40 | 2022-07-15 | 2023-04-22 |
 | [Santorini](https://open.spotify.com/track/0rx4tPhXaiVrpglMzVLVbj) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Santorini](https://open.spotify.com/album/0Ipg8tK3kvzke2pNfPVFSz) | 2:09 | 2023-10-13 |  |

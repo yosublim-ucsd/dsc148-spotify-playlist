@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > We're celebrating the 10th anniversary of <a href=https://splashhouse.com/>Splash House </a> with the announcement of their June line up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,564 likes - 52 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,665 likes - 52 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 37 | [Virgil's Dream](https://open.spotify.com/track/5rqpaBX0c4f4sTcQqxV1yp) | [Masha Mar](https://open.spotify.com/artist/5VuWDNXNzHEO08J2Hv3bU2) | [Virgil's Dream](https://open.spotify.com/album/2aK99ZgU4HVNJbfKzwiO0B) | 5:56 |
 | 38 | [Space Funk '75](https://open.spotify.com/track/0wYFT8QDImTgUh2qNSm7Xq) | [The Sponges](https://open.spotify.com/artist/3cj6O7NrjS5l0CVo8LhpV1) | [Episode VI: Return of the Sponges](https://open.spotify.com/album/5c6QYsQtFnlrSWqthutmM0) | 3:54 |
 | 39 | [Over](https://open.spotify.com/track/1vIt4OWXj9RPVbJ7Hjx06K) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Over](https://open.spotify.com/album/59KBOSR2VoSUutLgQQfPoj) | 3:14 |
-| 40 | [WRONG](https://open.spotify.com/track/5vvEecaHtonA2AiBR2L7vW) | [Hank K](https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW) | [WRONG](https://open.spotify.com/album/7gEFabAANCGj6JaSIhcuN8) | 5:37 |
+| 40 | [WRONG](https://open.spotify.com/track/5vvEecaHtonA2AiBR2L7vW) | [Hank](https://open.spotify.com/artist/1I5hLsy14ppaxxq2nqeVxk) | [WRONG](https://open.spotify.com/album/7gEFabAANCGj6JaSIhcuN8) | 5:37 |
 | 41 | [Call You Back](https://open.spotify.com/track/2l6j9yYZnYOQebfdTM2Rl9) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Heroes Of House, Vol\. 3](https://open.spotify.com/album/0ZbBYY4VDk6m7Kb8Bk4KYx) | 7:09 |
 | 42 | [Life Is Back](https://open.spotify.com/track/2HA6ZAwH7g6fy0ebKozdgi) | [Ash Lauryn](https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g) | [Truth](https://open.spotify.com/album/75FlIJdCotTnyEOZRew18J) | 5:24 |
 | 43 | [Bad Days](https://open.spotify.com/track/6xGmqj6RSKnK3of7pkllWY) | [Lee Wells](https://open.spotify.com/artist/0Q9UEU4EuF5eSWSMeIxCtX), [Monoky](https://open.spotify.com/artist/35fqprYtwqebSkrjHVXfxw) | [Bad Days](https://open.spotify.com/album/7JzhxIjvSsacGn7ereB4WO) | 6:15 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 51 | [Do U Wanna?](https://open.spotify.com/track/3JVyi1g3zaAHL9k0CRwghg) | [The Sponges](https://open.spotify.com/artist/3cj6O7NrjS5l0CVo8LhpV1) | [Love\. Death\. Funk?](https://open.spotify.com/album/2BeUzAPjKS5r0NMbmezusM) | 2:51 |
 | 52 | [Carry Us](https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Carry Us](https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj) | 3:58 |
 
-Snapshot ID: `MCwwMDQ0OGU0ZDE2ZDk5YmMwYWYyZjcxMjk4NzE2NmRmMWI1ZDY0MGVj`
+Snapshot ID: `MCwzMWRlMGRjODY4ZTkzMjEzMDdjMDAwYTBkOWVhNDFiMzY3MTYxZWFl`

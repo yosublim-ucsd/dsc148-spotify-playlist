@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:03qM4LmPCrR7CuHTE0WAIW">Koryn Hawthorne</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,403 likes - 100 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,586 likes - 100 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 |
 | 100 | [One Day](https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [One Day](https://open.spotify.com/album/2X56R8P00VmhcRKhc8CMmF) | 3:41 |
 
-Snapshot ID: `MCxkNTc1MGMyOWJiOWQyMzRhZjE1MDBmMDY3MTY2ZDQzNzA3MTBmNDA0`
+Snapshot ID: `MCxhMTI4NWM4MDk3MmI2YTAyMjQ4Y2ZjZmQyOWJiZThlOThkMjc2ODZj`

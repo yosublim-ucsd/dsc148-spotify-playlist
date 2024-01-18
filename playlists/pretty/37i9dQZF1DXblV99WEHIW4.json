@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 231352,
+  "num_followers": 231471,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODgxMmQzZTYzZTk4ZGMwY2QzMzJmODI3NzhhODdhOGU0OTE1Njkw",
+  "snapshot_id": "MCw0YjMwMjlmODllNjk4YTlmNjU0ZGRkMjRhZDI0OWU1MmFhZDY4MDRk",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"
     },
     {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 283733,
-      "name": "Don't Cry (Original)",
-      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
-    },
-    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "Appeal To Reason",
@@ -119,6 +103,22 @@
       "duration_ms": 242280,
       "name": "Savior",
       "url": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 283733,
+      "name": "Don't Cry (Original)",
+      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
     },
     {
       "added_at": "2023-02-16 19:56:13",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Nothing Left to Love",
-        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 100533,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "American Capitalist",
         "url": "https://open.spotify.com/album/0AiuvwadoYnRjDJRdpmusr"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Light Me Up",
-        "url": "https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy"
+        "name": "Nothing Left to Love",
+        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 235653,
-      "name": "Make Me Wanna Die",
-      "url": "https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"
+      "duration_ms": 100533,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -763,6 +747,22 @@
       "duration_ms": 255586,
       "name": "Hereafter",
       "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Light Me Up",
+        "url": "https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 235653,
+      "name": "Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 289346,
-      "name": "February Stars",
-      "url": "https://open.spotify.com/track/2ceA7CWWx6yIHdzppN8nLF"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 240206,
       "name": "love song",
       "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 289346,
+      "name": "February Stars",
+      "url": "https://open.spotify.com/track/2ceA7CWWx6yIHdzppN8nLF"
     },
     {
       "added_at": "2022-08-25 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,265 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,272 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 69 | [餞の鳥](https://open.spotify.com/track/0wAaSofHTEBrvwP9FwGXBb) | [ジュリア \(CV.愛美\)](https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9), [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH) | [THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal](https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17) | 5:00 |
 | 70 | [深紅のパシオン](https://open.spotify.com/track/2cWMgAKxXnZajAfMJrb29N) | [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS), [豊川風花 \(CV.末柄里恵\)](https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz), [ジュリア \(CV.愛美\)](https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9), [二階堂千鶴 \(CV.野村香菜子\)](https://open.spotify.com/artist/4zCdHJxNsqIFe1IS0KDDFe) | [THE IDOLM@STER MILLION THE@TER WAVE 15 chicAAmor](https://open.spotify.com/album/2EQQNrat2zwQMfwD67OycQ) | 4:25 |
 | 71 | [百花は月下に散りぬるを](https://open.spotify.com/track/1ae8FD9T0y8sHy6yqmuPgT) | [エミリー スチュアート \(CV.郁原ゆう\)](https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K), [白石 紬 \(CV.南 早紀\)](https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI), [天空橋朋花 \(CV.小岩井ことり\)](https://open.spotify.com/artist/5yvZ8R7mFGLF2j7DkiAiIU) | [THE IDOLM@STER MILLION THE@TER WAVE 06 花咲夜](https://open.spotify.com/album/4to4QXWpdanY8GmKkcKX8H) | 4:59 |
-| 72 | [初恋バタフライ](https://open.spotify.com/track/1oruUGPhDKQpgrJSDTrQub) | [宮尾美也 \(CV.桐谷蝶々\)](https://open.spotify.com/artist/0fwvnLlyJL3x3Se5lN6xoC) | [THE IDOLM@STER LIVE THE@TER HARMONY 06](https://open.spotify.com/album/5cr2RbD3UJgDlmD7XJmgRf) | 5:01 |
-| 73 | [ロケットスター](https://open.spotify.com/track/1e0DHXLeziWJjICQSapDYx) | [伊吹 翼 \(CV.Machico\)](https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 02](https://open.spotify.com/album/1FepCERIBwbpDzoVq8Rs2m) | 4:36 |
+| 72 | [ロケットスター](https://open.spotify.com/track/1e0DHXLeziWJjICQSapDYx) | [伊吹 翼 \(CV.Machico\)](https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 02](https://open.spotify.com/album/1FepCERIBwbpDzoVq8Rs2m) | 4:36 |
+| 73 | [初恋バタフライ](https://open.spotify.com/track/1oruUGPhDKQpgrJSDTrQub) | [宮尾美也 \(CV.桐谷蝶々\)](https://open.spotify.com/artist/0fwvnLlyJL3x3Se5lN6xoC) | [THE IDOLM@STER LIVE THE@TER HARMONY 06](https://open.spotify.com/album/5cr2RbD3UJgDlmD7XJmgRf) | 5:01 |
 | 74 | [ReTale](https://open.spotify.com/track/1VjpNNA4LiMrL9Bh2honei) | [所 恵美 \(CV.藤井ゆきよ\)](https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G), [松田亜利沙 \(CV.村川梨衣\)](https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV), [矢吹可奈 \(CV.木戸衣吹\)](https://open.spotify.com/artist/6yoMmG15xnhZrfYXL5sPUw) | [THE IDOLM@STER MILLION THE@TER WAVE 16 君彩](https://open.spotify.com/album/5HGLbVSNqj9HQHGGYe39No) | 4:47 |
 | 75 | [Cherry Colored Love](https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj) | [馬場このみ \(CV.髙橋ミナミ\)](https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F), [百瀬莉緒 \(CV.山口立花子\)](https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw) | [THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry](https://open.spotify.com/album/5XJU5PcncxC8kuLr0uZ35w) | 4:00 |
 
-Snapshot ID: `MCw5MWI2OTIyMmY3YWIyMTVjNTZmYmYxZDUyNTcxNTU1Y2Q0MmIxNTRh`
+Snapshot ID: `MCwxYTY4NmIwZmQ1ZjFmOTY4ZWUzMWVhZDQ3NzNhY2VlMGM0MTY2MzNh`

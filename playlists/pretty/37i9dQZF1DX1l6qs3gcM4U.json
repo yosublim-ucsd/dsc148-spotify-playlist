@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo e CEF Tanzy.  ",
-  "num_followers": 192862,
+  "num_followers": 192943,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2RmNzEzMDIxZDEyN2U1ZWVkYWVhMjY1NTdmNmFlMzg1OTZmM2E2",
+  "snapshot_id": "MCw5MzM1OGNiNTQ5MDgzZDZjOGVjOTNiYTQzNjkzOGRlMmQ4NmVkYzY3",
   "tracks": [
     {
       "added_at": "2024-01-16 14:13:43",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-01-16 14:13:43",
       "album": {
+        "name": "Caixa Azul",
+        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84"
+    },
+    {
+      "added_at": "2024-01-16 14:13:43",
+      "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 243750,
       "name": "Clima",
       "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
-    },
-    {
-      "added_at": "2024-01-16 14:13:43",
-      "album": {
-        "name": "Caixa Azul",
-        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84"
     },
     {
       "added_at": "2024-01-16 14:13:43",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-01-16 14:13:43",
       "album": {
-        "name": "Quarentena",
-        "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Quarentena",
-      "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
-    },
-    {
-      "added_at": "2024-01-16 14:13:43",
-      "album": {
         "name": "Te Amo Tanto",
         "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 182608,
       "name": "Te Amo Tanto",
       "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
+    },
+    {
+      "added_at": "2024-01-16 14:13:43",
+      "album": {
+        "name": "Quarentena",
+        "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Quarentena",
+      "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
     },
     {
       "added_at": "2024-01-16 14:13:43",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-01-16 14:13:43",
       "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 214814,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe"
+    },
+    {
+      "added_at": "2024-01-16 14:13:43",
+      "album": {
         "name": "Sabi",
         "url": "https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2024-01-16 14:13:43",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 214814,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe"
-    },
-    {
-      "added_at": "2024-01-16 14:13:43",
-      "album": {
         "name": "Mais Nada",
         "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-01-16 14:13:43",
       "album": {
-        "name": "Felicidade",
-        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
-    },
-    {
-      "added_at": "2024-01-16 14:13:43",
-      "album": {
         "name": "Benka Benka",
         "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
       },
@@ -1231,26 +1215,6 @@
       "duration_ms": 180026,
       "name": "Benka Benka",
       "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
-    },
-    {
-      "added_at": "2024-01-16 14:13:43",
-      "album": {
-        "name": "Boda",
-        "url": "https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR"
-      },
-      "artists": [
-        {
-          "name": "The Nitrox",
-          "url": "https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj"
-        },
-        {
-          "name": "CEF Tanzy",
-          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
-        }
-      ],
-      "duration_ms": 173844,
-      "name": "Boda",
-      "url": "https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL"
     },
     {
       "added_at": "2024-01-16 14:13:43",
@@ -1275,22 +1239,22 @@
     {
       "added_at": "2024-01-16 14:13:43",
       "album": {
-        "name": "Monarquia",
-        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
+        "name": "Boda",
+        "url": "https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR"
       },
       "artists": [
         {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+          "name": "The Nitrox",
+          "url": "https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj"
         },
         {
-          "name": "Mylson",
-          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
         }
       ],
-      "duration_ms": 202032,
-      "name": "Monarquia",
-      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
+      "duration_ms": 173844,
+      "name": "Boda",
+      "url": "https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL"
     },
     {
       "added_at": "2024-01-16 14:13:43",
@@ -1311,6 +1275,26 @@
       "duration_ms": 237717,
       "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
       "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
+    },
+    {
+      "added_at": "2024-01-16 14:13:43",
+      "album": {
+        "name": "Monarquia",
+        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Mylson",
+          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
+        }
+      ],
+      "duration_ms": 202032,
+      "name": "Monarquia",
+      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
     },
     {
       "added_at": "2024-01-16 14:13:43",
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2024-01-16 14:13:43",
       "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "O Que Eu N\u00e3o Fiz",
+      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
+    },
+    {
+      "added_at": "2024-01-16 14:13:43",
+      "album": {
         "name": "Dpos D' Quarentena",
         "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
       },
@@ -1483,22 +1483,6 @@
       "duration_ms": 217301,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
-    },
-    {
-      "added_at": "2024-01-16 14:13:43",
-      "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "O Que Eu N\u00e3o Fiz",
-      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
     },
     {
       "added_at": "2024-01-16 14:13:43",
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2024-01-16 14:13:43",
       "album": {
+        "name": "Me Leva Contigo",
+        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 258324,
+      "name": "Me Leva Contigo",
+      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
+    },
+    {
+      "added_at": "2024-01-16 14:13:43",
+      "album": {
         "name": "Preparado",
         "url": "https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf"
       },
@@ -1599,18 +1599,22 @@
     {
       "added_at": "2024-01-16 14:13:43",
       "album": {
-        "name": "Me Leva Contigo",
-        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
+        "name": "Vis\u00e3o",
+        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
       },
       "artists": [
         {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "Cl\u00e1udio Ismael",
+          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
         }
       ],
-      "duration_ms": 258324,
-      "name": "Me Leva Contigo",
-      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
+      "duration_ms": 214353,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
     },
     {
       "added_at": "2024-01-16 14:13:43",
@@ -1643,42 +1647,6 @@
     {
       "added_at": "2024-01-16 14:13:43",
       "album": {
-        "name": "Super Mulher",
-        "url": "https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 232421,
-      "name": "Super Mulher",
-      "url": "https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB"
-    },
-    {
-      "added_at": "2024-01-16 14:13:43",
-      "album": {
-        "name": "Vis\u00e3o",
-        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        },
-        {
-          "name": "Cl\u00e1udio Ismael",
-          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
-        }
-      ],
-      "duration_ms": 214353,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
-    },
-    {
-      "added_at": "2024-01-16 14:13:43",
-      "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
@@ -1699,26 +1667,6 @@
     {
       "added_at": "2024-01-16 14:13:43",
       "album": {
-        "name": "Sempre Sonhei (feat. Yasmine)",
-        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 239189,
-      "name": "Sempre Sonhei (feat. Yasmine)",
-      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
-    },
-    {
-      "added_at": "2024-01-16 14:13:43",
-      "album": {
         "name": "Mais de Mim",
         "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
       },
@@ -1735,6 +1683,26 @@
       "duration_ms": 228666,
       "name": "Fica Parado (feat. C4 Pedro)",
       "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
+    },
+    {
+      "added_at": "2024-01-16 14:13:43",
+      "album": {
+        "name": "Sempre Sonhei (feat. Yasmine)",
+        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 239189,
+      "name": "Sempre Sonhei (feat. Yasmine)",
+      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
     },
     {
       "added_at": "2024-01-16 14:13:43",
@@ -1875,6 +1843,42 @@
       "duration_ms": 192702,
       "name": "Sentimento",
       "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
+    },
+    {
+      "added_at": "2024-01-16 14:13:43",
+      "album": {
+        "name": "Vou Arriscar",
+        "url": "https://open.spotify.com/album/7AnHcW2hu73RuWTdWD9pmh"
+      },
+      "artists": [
+        {
+          "name": "Chelsy Shantel",
+          "url": "https://open.spotify.com/artist/7KO8A7idPh9D7zwd52QW44"
+        },
+        {
+          "name": "Nsoki",
+          "url": "https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH"
+        }
+      ],
+      "duration_ms": 223895,
+      "name": "Vou Arriscar",
+      "url": "https://open.spotify.com/track/7kVndwoIjvzkYxxbuoV2UM"
+    },
+    {
+      "added_at": "2024-01-16 14:13:43",
+      "album": {
+        "name": "Fala S\u00f3",
+        "url": "https://open.spotify.com/album/2nlMuBZsxGpcPRnpb8hYjr"
+      },
+      "artists": [
+        {
+          "name": "Yola Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "Fala S\u00f3",
+      "url": "https://open.spotify.com/track/0GLjhzoxp487M60SXbrdNQ"
     }
   ],
   "unique_name": "Dancing Kizomba",

@@ -4,7 +4,7 @@
 
 > music to show your grandparents this holiday season
 
-1,915 songs - 3 day 15 hr 14 min
+1,918 songs - 3 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [CUT MY HEART OUT](https://open.spotify.com/track/087UWFehhhqmHr79g9H1kn) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [CUT MY HEART OUT](https://open.spotify.com/album/19luyasFEMkdg7KBXUQKjY) | 2:32 | 2023-10-27 |  |
 | [cut the cable](https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [cut the cable](https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ) | 2:58 | 2022-09-03 | 2022-10-22 |
 | [Cyan Hardcore](https://open.spotify.com/track/5DbCXRs5PXXDgFrsdzjGDg) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [RePorpoised Phantasies](https://open.spotify.com/album/40IjED8bEPBiyVMr936p6o) | 5:05 | 2020-10-13\* | 2021-01-08 |
+| [Cyberia](https://open.spotify.com/track/2j9Xt4l2ISs2acdrv19uJr) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Cyberia](https://open.spotify.com/album/2XOAKEIdwyPdnFgX3rL53T) | 2:41 | 2024-01-17 |  |
 | [CYBERKISS 2 U\*](https://open.spotify.com/track/5qQdnjzgJjTHBjZxO1nWbf) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [CYBERKISS 2 U\*](https://open.spotify.com/album/49GiU05EkgbbgeEORDQ3IZ) | 3:08 | 2022-09-10 | 2022-10-22 |
 | [CYBERPUNK 2.0.2.0.](https://open.spotify.com/track/2z2VjbY2PFhz2BPyDLqYfk) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CYBERPUNK 2.0.2.0.](https://open.spotify.com/album/1igcsf8lYNqt40AK8LRrCx) | 5:12 | 2020-10-13\* | 2021-01-08 |
 | [d hielo](https://open.spotify.com/track/092Vvrq3s7ajxb3MsLUD1Y) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [LoLo](https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [d hielo](https://open.spotify.com/album/48enb8VUU4OTCGd39GJz5I) | 3:23 | 2023-12-08 |  |
@@ -432,6 +433,7 @@
 | [Describe \- A\. G\. Cook Remix](https://open.spotify.com/track/33oeYEc24oppZnJR0UWdph) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Describe \(A\. G\. Cook Remix\)](https://open.spotify.com/album/26JEHw6zKlFDLqK4eduXb1) | 4:23 | 2021-03-06 | 2021-07-13 |
 | [Designer](https://open.spotify.com/track/5l0E9s13vL0sTqQbaB7zQm) | [Sickface](https://open.spotify.com/artist/0mwBUAdWXo2ERzcexPo4fV) | [Designer](https://open.spotify.com/album/26Xbb8qH879jWqLr7FPvL3) | 2:42 | 2021-03-26 | 2021-04-29 |
 | [detest me](https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [detest me](https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV) | 1:58 | 2021-06-05 | 2022-01-13 |
+| [deus ex](https://open.spotify.com/track/1Bcfs1WSc2e6xLfRqzxai6) | [fyoum](https://open.spotify.com/artist/4GUYZi2qvx5zrugU0yAEHM), [Drux](https://open.spotify.com/artist/2LxQPqF82HofIRIvEnJPLu) | [deus ex](https://open.spotify.com/album/6F6jD8QHnMhFE9pq89zpFz) | 3:20 | 2024-01-17 |  |
 | [Deutsche Bank](https://open.spotify.com/track/0W25qFvfHpZUnYoTSCfgaE) | [Dj Billybool](https://open.spotify.com/artist/1WbYH0xbbvXsjbbkFL2T4k) | [My Fantasy World](https://open.spotify.com/album/4VQvKmzXJLfV8KB1lyeF6v) | 2:51 | 2020-12-11 | 2021-01-08 |
 | [devil cry](https://open.spotify.com/track/0WgQN8BjKkvEK4lNfDdKpa) | [whitetrash](https://open.spotify.com/artist/2y85xPT5Zd5h8x51C8uSuZ), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [devil cry](https://open.spotify.com/album/1ZyiMkFqB4hxYI2dQ7V9rw) | 2:07 | 2020-10-13\* | 2021-01-08 |
 | [DEVIL IN MY HEAD](https://open.spotify.com/track/5dmvNunpW65vzsayFi3ZUG) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [DEVIL IN MY HEAD](https://open.spotify.com/album/2RZmV3HMX66wfSO6Uekekl) | 2:13 | 2022-05-13 | 2022-11-12 |
@@ -1478,6 +1480,7 @@
 | [selfdestruct](https://open.spotify.com/track/0JEViMA9EhoTE501kxvJMU) | [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [selfdestruct](https://open.spotify.com/album/38MgHK12c40SSoNDvMrtlK) | 2:33 | 2022-01-07 | 2022-04-09 |
 | [selfish](https://open.spotify.com/track/5WvgvCFMADGVDAX0WfFqJd) | [polearm](https://open.spotify.com/artist/6o0hI3oqnxFcUAqzyQOGPC) | [selfish](https://open.spotify.com/album/3mopMvb61AwluDDpjnv9js) | 1:47 | 2021-01-23 | 2021-12-20 |
 | [sellout](https://open.spotify.com/track/082x0jRDbx8Zsme0enu32B) | [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf), [soupandreas](https://open.spotify.com/artist/5dPMuKQtWLLl1Thw1Bf8h9) | [sellout](https://open.spotify.com/album/4NXkykEZ2yDsCqgr1kAc9O) | 2:25 | 2022-07-01 | 2022-08-03 |
+| [Semester In Japan](https://open.spotify.com/track/0WdAsBn5wA3ptbWDCfQZ7q) | [Tommy Fleece](https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg) | [Semester In Japan](https://open.spotify.com/album/1ffn6xYEjJ7xAFw3dVDbgh) | 2:15 | 2024-01-17 |  |
 | [Sent 2 Earth](https://open.spotify.com/track/0pL3zG5WLau7PuUioSdiNs) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze), [Bleachh](https://open.spotify.com/artist/08JIRTIjSUPGQduJFVDXU2) | [Sent 2 Earth](https://open.spotify.com/album/0rKbpFp229J0dA4RjNS3pO) | 2:24 | 2021-06-06 | 2021-07-15 |
 | [Sentence](https://open.spotify.com/track/4tGtEGg2A20DKXGMZFpf0F) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:23 | 2023-12-08 |  |
 | [Sentence](https://open.spotify.com/track/3O311Ulw8pLxpYlSjuHtJx) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Sentence / If I Knew](https://open.spotify.com/album/6ZaY4Wgf91n33wZhlhuBly) | 2:24 | 2023-10-27 | 2023-11-18 |

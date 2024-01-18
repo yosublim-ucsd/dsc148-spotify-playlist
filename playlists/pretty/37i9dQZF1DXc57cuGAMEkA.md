@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Ariana Grande, Lil Nas X, Jennifer Lopez, JVKE, 21 Savage,  and more! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,747 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,770 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 77 | [1995](https://open.spotify.com/track/2ibGtnA91vq3CmYc0Z3lXx) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [1995](https://open.spotify.com/album/34ZCIBYmH0rmPvcC3Gtj64) | 3:39 |
 | 78 | [Nowhere to Hide](https://open.spotify.com/track/2kgTT46SOeDyViOIWtmU1N) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Nowhere to Hide](https://open.spotify.com/album/0iwbgBKp5FKjItE7bMeocQ) | 3:19 |
 | 79 | [I Hold Something In My Hand](https://open.spotify.com/track/2BUu1OUVCYGDXyDEF0dQhF) | [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [I Hold Something In My Hand](https://open.spotify.com/album/5kqUxXj0Zwf0V5XIpUEtf6) | 3:04 |
-| 80 | [The Colour Purple](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 |
+| 80 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 |
 
-Snapshot ID: `MCxmYjllMzc0ODBiYjczMzFhMDRhMDdkMzQ0ZWI4ZjZjMDAxOTg0Y2M0`
+Snapshot ID: `MCwwNDBlZmI3ODBlZWRkM2RlYTMyMGM3ODhmNTQ4MWUxYmIwOGM5MDJj`

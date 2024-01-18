@@ -4,7 +4,7 @@
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-200 songs - 12 hr 55 min
+201 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Amici mai](https://open.spotify.com/track/1MHJZhEo79mKEK349W188E) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Le Donne](https://open.spotify.com/album/7oRQKOgL5wWXBa0uOo39ny) | 5:15 | 2021-09-26 | 2022-07-26 |
 | [Amore bello](https://open.spotify.com/track/3R8BUVpkyfkDBeXQAFH1mw) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Gira Che Ti Rigira Amore Bello](https://open.spotify.com/album/4H1Hn8NSor46xEKRIk1cdi) | 5:48 | 2021-09-26 | 2022-07-29 |
 | [Amore che torni](https://open.spotify.com/track/7tPSRE9mdO8oOW9prmxBNc) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Amore che torni](https://open.spotify.com/album/3tG9l5R3MTk4hWUEHoPCYc) | 3:46 | 2021-09-26 | 2022-07-19 |
-| [Anche Fragile](https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Diari Aperti](https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae) | 3:59 | 2021-09-26 |  |
+| [Anche Fragile](https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Diari Aperti](https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae) | 3:59 | 2021-09-26 | 2024-01-18 |
 | [Anna E Marco](https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [Lucio Dalla](https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E) | 3:41 | 2021-09-26 | 2022-07-13 |
 | [ARSENICO](https://open.spotify.com/track/242fdwNbwYn2MAnKTD7Xcl) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [EX VOTO](https://open.spotify.com/album/4n4BEIXre48tozRUR354jP) | 2:58 | 2021-09-26 | 2022-06-23 |
 | [Baciami Ancora](https://open.spotify.com/track/36UJ6MVWrKm2mTXpHovbkc) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Backup 1987\-2012](https://open.spotify.com/album/1ws4MgPpkizrbcNYCXHESG) | 4:38 | 2021-09-26 | 2022-07-29 |
@@ -27,6 +27,7 @@
 | [Bella e rovinata](https://open.spotify.com/track/5uPQRVuGquShCnqzuOTq4B) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Giovani](https://open.spotify.com/album/59i6L1OigHny6mYy0vGttB) | 3:20 | 2021-09-26 | 2022-07-16 |
 | [Bella senz'anima](https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Anima](https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb) | 4:34 | 2021-09-26 | 2023-03-02 |
 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 | 2023-02-07 |  |
+| [Bruciasse Il Cielo](https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Bruciasse Il Cielo](https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk) | 3:57 | 2024-01-17 |  |
 | [Casa](https://open.spotify.com/track/65sEIdBT16fziZvjhckFpq) | [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [Casa](https://open.spotify.com/album/0FO2xwcfokmFAuEUuMCEel) | 2:45 | 2021-09-26 | 2022-06-22 |
 | [Cascare nei tuoi occhi](https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:46 | 2021-09-26 |  |
 | [Chiamami Ancora Amore](https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5) | [Roberto Vecchioni](https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9) | [Chiamami Ancora Amore](https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT) | 4:13 | 2021-09-26 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: ねぐせ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,688 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,758 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [コンパクトミラー](https://open.spotify.com/track/0OjN6CZMsjEFBAIUeN3J7R) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [コンパクトミラー](https://open.spotify.com/album/1KSdaSWekXgtyjrtIlTfcX) | 3:21 |
 | 60 | [Nee](https://open.spotify.com/track/3xYCy8Gpp8I37ljuIELCOJ) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [Nee](https://open.spotify.com/album/3zksjPx2UEZGeWzkmcOYaa) | 3:20 |
 
-Snapshot ID: `MCxjZTA0NDZmYjhlNDJlMWEwMzk4ZDkyNGM2NGM0ZWI5YTNjZDI2MmUx`
+Snapshot ID: `MCxlZWViMDQyOWYzOWYzODZkMWMzMThlNzU1NDdlN2I5MjA4MTg0NTRm`

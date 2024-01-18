@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,529 likes - 131 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,531 likes - 131 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 20 | [BUS RIDE \(feat\. Karriem Riggins & River Tiber\)](https://open.spotify.com/track/7lHITIlctyBaAUQXNsroZc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 2:13 |
 | 21 | [DYSFUNCTIONAL](https://open.spotify.com/track/60y3oBiHHIlOzUFZRWP6Ak) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [DYSFUNCTIONAL](https://open.spotify.com/album/2io9FL9DbX7AtefnQXFTOH) | 4:00 |
 | 22 | [Meditation \(feat\. Jazmine Sullivan & KAYTRANADA\)](https://open.spotify.com/track/7jaYiqwCFQDdtxfQaSzZuM) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 4:18 |
-| 23 | [Need It](https://open.spotify.com/track/11NwaUSqSYmZrFWo2qO2Ng) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:17 |
+| 23 | [Need It](https://open.spotify.com/track/03Q5Fy0QQXinaMSbmx2nWA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Need It \(Official Video\)](https://open.spotify.com/album/3gxxyBJ1lRmHsUGcDk8IFH) | 4:00 |
 | 24 | [Lite Weight \(feat\. The Free Nationals United Fellowship Choir\)](https://open.spotify.com/track/2vJIsdYIthbnWgLaLD9yrj) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [The Free Nationals United Fellowship Choir](https://open.spotify.com/artist/1P5kWHAMCjtV6SzDTq1ijy) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 3:26 |
 | 25 | [DRIVE ME CRAZY](https://open.spotify.com/track/6PJL4Xh0T3HEHHItDo9wV7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:37 |
 | 26 | [BULLETS \(feat\. Little Dragon\)](https://open.spotify.com/track/5hFSDtBIV0AjJwc0tgXNI7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 4:58 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 92 | [Zaza Tree](https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:16 |
 | 93 | [1000 Xans](https://open.spotify.com/track/2XkYcbrEv83s6wD0AkeCbz) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [The Healing Component](https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX) | 3:15 |
 | 94 | [Insecurities](https://open.spotify.com/track/6TptBrPCJpE40HGqdZEqyt) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Shadow of a Doubt](https://open.spotify.com/album/41zRghNRGMG6l8dYtRp3iI) | 4:26 |
-| 95 | [Say What You Mean](https://open.spotify.com/track/04iSMejOEUBniDUjo0eUPU) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Sinead Harnett](https://open.spotify.com/album/1Y3RckqVHCHZRQEF2J5S3f) | 3:43 |
-| 96 | [Out of Luck](https://open.spotify.com/track/4GztgCDwEDr7H0C7Fs0Luv) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:55 |
+| 95 | [Out of Luck](https://open.spotify.com/track/4GztgCDwEDr7H0C7Fs0Luv) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:55 |
+| 96 | [Say What You Mean](https://open.spotify.com/track/04iSMejOEUBniDUjo0eUPU) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Sinead Harnett](https://open.spotify.com/album/1Y3RckqVHCHZRQEF2J5S3f) | 3:43 |
 | 97 | [Another Lover](https://open.spotify.com/track/2KwW2VyIp48UXatX8S2TuL) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Silk Canvas](https://open.spotify.com/album/2EbhWs13R3DTnsGXHVZSPy) | 3:48 |
 | 98 | [Heard This One Before \(feat\. BOSCO & KAYTRANADA\)](https://open.spotify.com/track/0MPWtvb5xSdQlzGSnm0hCh) | [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC), [BOSCO](https://open.spotify.com/artist/1A4fV156Nn6rWIE8jk5ZpT), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Pacific Time \- EP](https://open.spotify.com/album/4JInVfKuLTpdDNdPZ3qAyK) | 2:37 |
 | 99 | [Sink or Swim](https://open.spotify.com/track/5Ir63UHpJuydc7frFGS7vs) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:21 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 130 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 131 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Mjg0MjQyODAsMDAwMDAwMDBiZjAyZDg0MDYxMzUzZGRlMDM4Mjk5ZThjNzlhMzYwNA==`
+Snapshot ID: `Mjg0MjU3MjAsMDAwMDAwMDA3NTQzZjRiNjIxZjM1MDRiMjAyZmZiODAyNDBjNGNjMg==`

@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: Eté & Los Problems
 
-289 songs - 19 hr 5 min
+290 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 | 2022-05-20 | 2022-11-13 |
 | [Tan Solo](https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK) | 4:00 | 2022-07-08 |  |
 | [Tan Solo](https://open.spotify.com/track/6vNaGz1KH44XJ9zRyCE81I) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 4:00 | 2022-05-20 | 2022-07-29 |
+| [Tarea Fina](https://open.spotify.com/track/4mZHvbJWkK9uVmD9SvHKao) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj) | 3:43 | 2024-01-12 |  |
 | [Tarea Fina](https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:43 | 2022-05-20 | 2024-01-04 |
 | [Te Busco](https://open.spotify.com/track/1zdYDK0npwfUqlQZIO5Hjf) | [Boomerang](https://open.spotify.com/artist/3B59rA68Fnu8ye1Fmp0tvz) | [Engañamundos](https://open.spotify.com/album/2COucfQS5PUPrxRyyu0zgf) | 3:34 | 2022-07-01 | 2022-07-22 |
 | [Te Sigo Buscando](https://open.spotify.com/track/28vxdqH2G5CRL3AD5Li0BB) | [Spuntone & Mendaro](https://open.spotify.com/artist/3KQCegrPR9dS6bzmYmGAte) | [Equilibrio](https://open.spotify.com/album/3tpMRnxXgdPHUybQdnE5Is) | 3:33 | 2022-07-08 | 2022-07-16 |
@@ -282,7 +283,7 @@
 | [Una Señal](https://open.spotify.com/track/2cUiwVTonGgVW4yormo0ZZ) | [Chala Madre](https://open.spotify.com/artist/4K8Bs7ExuPr0rIvXIlMXK4) | [Hay Que Salir](https://open.spotify.com/album/7bOlAK9wInvuumXLyla1h1) | 3:29 | 2022-05-20 | 2022-07-28 |
 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/2aSFLiDPreOVP6KHiWk4lF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Greatest Hits II](https://open.spotify.com/album/7rq68qYz66mNdPfidhIEFa) | 3:56 | 2022-07-08 | 2022-11-13 |
 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 | 2022-05-20 |  |
-| [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2022-05-20 |  |
+| [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2022-05-20 | 2024-01-18 |
 | [Violenta Ansiedad](https://open.spotify.com/track/68cXdFN9ku3KJ2jt1xfhZS) | [La Mujer Pájaro](https://open.spotify.com/artist/6A35QJtFjw6EQQLGrjxHpi), [Fede Graña](https://open.spotify.com/artist/7GwI22TlgkP8yxRgIeVEKI) | [Faros Ciegos](https://open.spotify.com/album/0GptATOJpodVkDepdm5uy4) | 4:40 | 2022-05-20 | 2022-07-08 |
 | [Vos Lo Ves](https://open.spotify.com/track/3HCQQvzCXRQF4t7iVqaDCP) | [Chala Madre](https://open.spotify.com/artist/4K8Bs7ExuPr0rIvXIlMXK4) | [Vos Lo Ves](https://open.spotify.com/album/3RVlnqj3VjYgfsbIL5XwGE) | 2:50 | 2022-07-01 | 2022-07-29 |
 | [Vos No Me Llamaste](https://open.spotify.com/track/0tKcif1wMdG304bFQeDlve) | [Peyote Asesino](https://open.spotify.com/artist/2cYeADErfbwZ0xIP19KeWD) | [Vos No Me Llamaste](https://open.spotify.com/album/6bzXU0dQFRbdtaouCuxjhO) | 3:33 | 2022-07-01 | 2022-07-24 |

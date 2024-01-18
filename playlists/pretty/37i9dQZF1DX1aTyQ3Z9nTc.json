@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 131964,
+  "num_followers": 131991,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDUxNTc1YTg0YjdiY2EwOTRmYTcwMmU3M2FkNzEyZGMwYjFhMjRm",
+  "snapshot_id": "MCwwNzMyOTdkMTIwZjE2ZDU5ZDRmMzA2ZjhkNTVkODIwM2M1ZGU5OTA0",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 173458,
+      "name": "ON 10",
+      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Remember Your North Star",
         "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 125973,
       "name": "pour up",
       "url": "https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 173458,
-      "name": "ON 10",
-      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "D.W.Y.W. (Do What You Want)",
+        "url": "https://open.spotify.com/album/4w9VuxCHKZ3tBTCvYgNgCL"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
         }
       ],
-      "duration_ms": 192518,
-      "name": "i",
-      "url": "https://open.spotify.com/track/3nOK7iHFsy16nsIflFhGnP"
+      "duration_ms": 208064,
+      "name": "D.W.Y.W. (Do What You Want)",
+      "url": "https://open.spotify.com/track/2ZNFpE337s3luymlkhJSgQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "D.W.Y.W. (Do What You Want)",
-        "url": "https://open.spotify.com/album/4w9VuxCHKZ3tBTCvYgNgCL"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 208064,
-      "name": "D.W.Y.W. (Do What You Want)",
-      "url": "https://open.spotify.com/track/2ZNFpE337s3luymlkhJSgQ"
+      "duration_ms": 192518,
+      "name": "i",
+      "url": "https://open.spotify.com/track/3nOK7iHFsy16nsIflFhGnP"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "damnshestamil",
+        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
+      },
+      "artists": [
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "Good Love 2.0",
+      "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Interstellar.",
         "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 235339,
       "name": "Interstellar.",
       "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "damnshestamil",
-        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
-      },
-      "artists": [
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "Good Love 2.0",
-      "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Xtasy",
-      "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "So Badly",
         "url": "https://open.spotify.com/album/3v3waqFybLYp6P4iKAmzg9"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 230002,
       "name": "So Badly",
       "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Xtasy",
+      "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "crave you",
+        "url": "https://open.spotify.com/album/64N5QCbyXjO34S0IFPoGSq"
+      },
+      "artists": [
+        {
+          "name": "sagun",
+          "url": "https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II"
+        },
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "duration_ms": 160863,
+      "name": "crave you",
+      "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/1607XCpNlwbHG2ZY9OwtDl"
       },
@@ -1831,22 +1851,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "crave you",
-        "url": "https://open.spotify.com/album/64N5QCbyXjO34S0IFPoGSq"
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm"
       },
       "artists": [
         {
-          "name": "sagun",
-          "url": "https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II"
-        },
-        {
-          "name": "KALLITECHNIS",
-          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
         }
       ],
-      "duration_ms": 160863,
-      "name": "crave you",
-      "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
+      "duration_ms": 207194,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1871,22 +1887,6 @@
       "duration_ms": 300522,
       "name": "Silver & Gold - Yarni & Liv East Remix",
       "url": "https://open.spotify.com/track/5HfAWcuSOLWGihI0bfpls0"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm"
-      },
-      "artists": [
-        {
-          "name": "AMAKA",
-          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
-        }
-      ],
-      "duration_ms": 207194,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
     },
     {
       "added_at": "2023-12-08 05:00:00",

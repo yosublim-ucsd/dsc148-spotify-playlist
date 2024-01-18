@@ -4,7 +4,7 @@
 
 > Summer breeze, makes me feel fine...
 
-60 songs - 3 hr 51 min
+61 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 | 2023-12-12 |  |
 | [Summer Of '81 \- Digitally Remastered](https://open.spotify.com/track/2A7uvYaZvWz4FVjbOcA2Oy) | [Mondo Rock](https://open.spotify.com/artist/0f7ChwXkRvmj2ViLbEQwYK) | [Chemistry](https://open.spotify.com/album/0zFX3144xCFvdU8paCvJYF) | 3:57 | 2023-12-12 |  |
 | [Summer Rain](https://open.spotify.com/track/16QRHjDGxLEN36KoyJz95A) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Runaway Horses \(Deluxe Edition\)](https://open.spotify.com/album/14HEt8p61frBrOqht0yex7) | 5:32 | 2023-12-12 |  |
-| [Summertime](https://open.spotify.com/track/49TIT8O6KR9rdfgVBwdbac) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw) | 2:17 | 2023-12-12 |  |
+| [Summertime](https://open.spotify.com/track/49TIT8O6KR9rdfgVBwdbac) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw) | 2:17 | 2023-12-12 | 2024-01-18 |
+| [Summertime](https://open.spotify.com/track/3TFyvBYEHq7cfdmIYD6RMG) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ) | 2:17 | 2023-12-12 |  |
 | [Sun Is Shining](https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:58 | 2023-12-12 |  |
 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 | 2023-12-12 |  |
 | [Sunny Afternoon](https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Face to Face \(Deluxe\)](https://open.spotify.com/album/44tcGfOAI8iZc1U5BAgLkT) | 3:32 | 2023-12-12 |  |

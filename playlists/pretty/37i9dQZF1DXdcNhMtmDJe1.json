@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 83291,
+  "num_followers": 83307,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjA5ZDc5NjBiNDdlZjhmYmJiYzAzYjI4YzliY2RmNmQ1MjU2ZmI1",
+  "snapshot_id": "MCwxNmI5ZDRhOTFkNWVkMjg1NjVhODI4MWQ2MTYzMzBiYTc0ZWRiYzY1",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1063,6 +1063,30 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
+        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
+      "url": "https://open.spotify.com/track/0SIRzB0ZuR3LTPisCFPsAp"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
         "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
       },
@@ -1091,30 +1115,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
-        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Gil Shaham",
-          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
-      "url": "https://open.spotify.com/track/0SIRzB0ZuR3LTPisCFPsAp"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
         "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
       },
@@ -1131,34 +1131,6 @@
       "duration_ms": 239693,
       "name": "Love Walked In",
       "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin: Rhapsody in Blue",
-        "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic",
-          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
-      "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1187,6 +1159,34 @@
       "duration_ms": 799826,
       "name": "Piano Concerto in F: 2. Adagio",
       "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue",
+        "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
+      "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
     },
     {
       "added_at": "2022-08-05 04:02:00",

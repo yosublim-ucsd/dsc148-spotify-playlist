@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,973 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,978 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 25 | [Şampanya](https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Şampanya](https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF) | 4:13 |
 | 26 | [kördüğüm](https://open.spotify.com/track/6mYGCOpWCq1qtrlOr68u5p) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Jako](https://open.spotify.com/artist/4kpqHcVwTcRhrNTAB66li4) | [kördüğüm](https://open.spotify.com/album/2khti4BtrnPoDh4zHxD8Ez) | 2:46 |
 | 27 | [Sallan](https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [Sallan](https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh) | 3:15 |
-| 28 | [Keşke Benim Olsan](https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Keşke Benim Olsan](https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR) | 2:34 |
-| 29 | [Yangınlar](https://open.spotify.com/track/62Neo1KGRRXVaiISkxFUrE) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Sertan](https://open.spotify.com/artist/0LlV4LGUosenvcisOMC4Vs) | [Yangınlar](https://open.spotify.com/album/6KMkJMnKZ9Vqwy6GdKSTUN) | 2:57 |
+| 28 | [Yangınlar](https://open.spotify.com/track/62Neo1KGRRXVaiISkxFUrE) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Sertan](https://open.spotify.com/artist/0LlV4LGUosenvcisOMC4Vs) | [Yangınlar](https://open.spotify.com/album/6KMkJMnKZ9Vqwy6GdKSTUN) | 2:57 |
+| 29 | [Keşke Benim Olsan](https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Keşke Benim Olsan](https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR) | 2:34 |
 | 30 | [NERDESİN](https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:45 |
 | 31 | [Boş Yapma](https://open.spotify.com/track/3vjW60vUWX82R4SFcUlZk7) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Boş Yapma](https://open.spotify.com/album/6fXyjHXlM4V5kjiO97pC51) | 2:27 |
 | 32 | [Goal](https://open.spotify.com/track/4QVEEOx7TeTA0vQfeP8tgN) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Goal](https://open.spotify.com/album/0sQ3MO1z5HTIKEUYu56aGo) | 3:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 47 | [Imdat \(feat\. Hadise\)](https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat \(feat\. Hadise\)](https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD) | 3:14 |
 | 48 | [madem](https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [madem](https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU) | 2:22 |
 | 49 | [Artık](https://open.spotify.com/track/4IRitV0vz4K7lCgwPilLPO) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42) | [P.O.P Mixtape pt.2](https://open.spotify.com/album/2Ffmd55esIgdPHxsXuFFc3) | 3:09 |
-| 50 | [BABY BİRTANEM](https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [BABY BİRTANEM](https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL) | 2:47 |
+| 50 | [PARAMPARÇA](https://open.spotify.com/track/4NA5nUTn0KM457fR9ba20A) | [Papa Benj](https://open.spotify.com/artist/6VxQOfN8SzlyH78rd7fyQB), [Oversize](https://open.spotify.com/artist/56P4MjAIYVf0ruSy9pzKLs) | [PARAMPARÇA](https://open.spotify.com/album/6s48Hfq7goYvPnRbTXSOOR) | 2:08 |
 
-Snapshot ID: `MCxlZTUyNTI0MmRmNDM4YzNmODk5ZmZlYmJjOGNiODljZDNhMTE1Zjcz`
+Snapshot ID: `MCw4NjZlY2IwZTRjZTMzMWU2OTY3Y2RlZDE5ZjdiZWRkNWQ5MTc1YjE2`

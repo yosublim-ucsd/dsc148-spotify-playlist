@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Bizarrap & Young Miko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 992,874 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,383 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 68 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 |
 | 69 | [Hablamos Mañana](https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:00 |
 | 70 | [Tú No Lo Amas](https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:34 |
-| 71 | [LIBRE](https://open.spotify.com/track/4hCHvrNozvAGPJGeadXJML) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Orodembow](https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd) | [LIBRE](https://open.spotify.com/album/7Fli0EzDcjYjXZywh3gAsp) | 3:25 |
+| 71 | [LIBRE](https://open.spotify.com/track/4hCHvrNozvAGPJGeadXJML) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Orodembow](https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd) | [LIBRE](https://open.spotify.com/album/7Fli0EzDcjYjXZywh3gAsp) | 3:12 |
 | 72 | [HELLCAT](https://open.spotify.com/track/541bPCQXqcU8mNRV7udEff) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [HELLCAT](https://open.spotify.com/album/4vb14fg6oTyXWeMAz4DqnV) | 3:06 |
 | 73 | [JS4E](https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [JS4E](https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U) | 3:57 |
 | 74 | [Me Ama Me Odia](https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2) | [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Me Ama Me Odia](https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq) | 5:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 99 | [Dígitos](https://open.spotify.com/track/6EGcTqLZZ7gkuhOIcyCp0k) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:16 |
 | 100 | [PANAMÁ](https://open.spotify.com/track/7fz7HrFRF4y8YEe0duWTDW) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PANAMÁ](https://open.spotify.com/album/5965FckNzWypHw7yXNGd92) | 2:51 |
 
-Snapshot ID: `MCwwOTgzMGY2OGY0MTk4NGNmNWE2YjVhNmJkNDQzOWQwNGY4ZmYwMjk0`
+Snapshot ID: `MCw2YjZhN2Q5NzkzNWJiZTBlOGQyNTY3Zjc2Y2IyMjY1NWQ0MmI5NzY4`

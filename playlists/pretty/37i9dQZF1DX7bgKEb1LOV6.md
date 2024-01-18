@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 
 > To the world, Here is NCT! Hi we are NCT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,663 likes - 65 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,677 likes - 65 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 | 9 | [Kangaroo](https://open.spotify.com/track/6b30ItDzcKL2oLwW8p7cRa) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:36 |
 | 10 | [Not Your Fault](https://open.spotify.com/track/3OECqiMnDCzadpOtUocKbE) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:21 |
 | 11 | [Golden Age](https://open.spotify.com/track/6NVdrwoqcAD16HMPOT6FLE) | [NCT 2023](https://open.spotify.com/artist/7e0ruktNBO8etVJ5rjvhbG) | [Golden Age](https://open.spotify.com/album/2PCdWOGSx5Xt8rBE5wD8Bu) | 3:38 |
-| 12 | [Bandit](https://open.spotify.com/track/3mQH4pXsnixxr8EDK7ZZVa) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Song of the Bandits \(Music from The Netflix Series\)](https://open.spotify.com/album/1TXOVlZGrd3KbphTcXN8vw) | 3:23 |
+| 12 | [Bandit](https://open.spotify.com/track/3mQH4pXsnixxr8EDK7ZZVa) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Song of the Bandits \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1TXOVlZGrd3KbphTcXN8vw) | 3:23 |
 | 13 | [N.Y.C.T](https://open.spotify.com/track/4ksIFsGXezKXZX91dE6ClJ) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [N.Y.C.T \- NCT LAB](https://open.spotify.com/album/5pa2JvvpufiC2IlKUgbjZQ) | 3:56 |
 | 14 | [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 |
 | 15 | [SHALALA](https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [SHALALA \- The 1st Mini Album](https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp) | 3:21 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 | 64 | [Make Your Day](https://open.spotify.com/track/3AHenSAPA6AQZZnyuWHJnz) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 3:35 |
 | 65 | [WITHOUT YOU](https://open.spotify.com/track/78DVHbAahuQF56gOC4GnuN) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:25 |
 
-Snapshot ID: `MCxhYTdlODQ0MGQxNmNjNjBmYTA1MTY1ZTYxZWE3YjcyMGFlMTgxOGM2`
+Snapshot ID: `MCxlNDc5YWM0NGQ3NGI0YTU2ZTQxYWYzMjY1Y2U2YmVlZjhkNzc0MTcz`

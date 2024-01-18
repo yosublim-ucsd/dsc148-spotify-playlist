@@ -42,7 +42,7 @@
 | [Beyond Thought](https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Beyond Thought](https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b) | 2:48 | 2023-10-26 |  |
 | [Big Sky](https://open.spotify.com/track/1pBLOl4l4pNgejlBywS0jz) | [Moderato Aredo](https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj) | [Big Sky](https://open.spotify.com/album/2eVYfkj9FfLamFXSQB76fe) | 3:14 | 2023-12-15 |  |
 | [Birth](https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Birth](https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM) | 2:55 | 2023-02-17 |  |
-| [Blissful Pulses](https://open.spotify.com/track/05lZVhGjLi84vuGB4pa4QF) | [astral rhythms](https://open.spotify.com/artist/41e1gVX7wXCRGUGmFcajEu) | [Blissful Pulses](https://open.spotify.com/album/6ix5Or8Zc4ins5o7AYcAkY) | 3:20 | 2023-10-26 | 2024-01-07 |
+| [Blissful Pulses](https://open.spotify.com/track/05lZVhGjLi84vuGB4pa4QF) | [astral rhythms](https://open.spotify.com/artist/41e1gVX7wXCRGUGmFcajEu) | [Blissful Pulses](https://open.spotify.com/album/6ix5Or8Zc4ins5o7AYcAkY) | 3:20 | 2023-10-26 |  |
 | [Blue Reef](https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Beneath The Waves](https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17) | 3:06 | 2023-02-17 |  |
 | [Breakthrough \(EMDR\)](https://open.spotify.com/track/2vG8CbryztUUT7jRLlcdQ2) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Healing Clarity EMDR](https://open.spotify.com/album/1EBY9nOYFoSKFbYpdyyhzo) | 3:30 | 2023-02-17 |  |
 | [Breathe](https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Breathe](https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ) | 3:10 | 2023-02-17 |  |
@@ -211,6 +211,6 @@
 | [White Stone](https://open.spotify.com/track/46iDOpQlHuhBlznZapris4) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Distant Call](https://open.spotify.com/album/5EfbJXg23QPARwyBdjnYtd) | 3:05 | 2023-07-10 |  |
 | [Zen Dream](https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Zen Dream](https://open.spotify.com/album/2i650uiyy3whaLil4v4cGv) | 3:34 | 2023-02-17 | 2023-08-17 |
 | [Ārōhaṇa](https://open.spotify.com/track/60jHNqUBMnj6mH5EqlxpTX) | [Glåsbird](https://open.spotify.com/artist/6bt0NrtqveKQvQJJv2cD5N) | [Himalaya](https://open.spotify.com/album/5EijZWbp7RKBckHZPqHspP) | 4:53 | 2023-02-17 | 2023-05-20 |
-| [Ātmik Sāmānjasya / Harmony of the Soul](https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Ușā Dhyāna](https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt) | 2:27 | 2023-09-25 |  |
+| [Ātmik Sāmānjasya / Harmony of the Soul](https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Ușā Dhyāna](https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt) | 2:27 | 2023-09-25 | 2024-01-18 |
 
 \*This playlist was first scraped on 2023-02-18. Prior content cannot be recovered.

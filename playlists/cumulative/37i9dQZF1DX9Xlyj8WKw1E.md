@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:6AUl0ykLLpvTktob97x9hO">Tee Grizzley</a>
 
-560 songs - 1 day 3 hr 22 min
+561 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [For The Best](https://open.spotify.com/track/6TIAj4WLkXKV6afNwXz1dp) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [For The Best](https://open.spotify.com/album/3Ycl5WaR5AVYL90ZjECwx4) | 3:01 | 2022-12-02 | 2023-04-16 |
 | [Freak Nasty](https://open.spotify.com/track/6FQrsqNNyWbRAn4pIpcjPG) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Pain Never Looked This Good \(Night\)](https://open.spotify.com/album/7yjMed4dr5ZOKIbLI3mXP5) | 2:30 | 2022-07-22 | 2022-09-17 |
 | [FREE DOGGY \(FEAT\. 42 DUGG\)](https://open.spotify.com/track/4fSvurzElRi0jYgmqReno0) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:00 | 2023-08-25 | 2023-12-02 |
-| [Fresh](https://open.spotify.com/track/3a1uRM5VgmXHumHhkEBKEZ) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [SkuBop](https://open.spotify.com/album/2thtVFNwTy6WO1rseKOyWu) | 3:05 | 2023-12-01 |  |
+| [Fresh](https://open.spotify.com/track/3a1uRM5VgmXHumHhkEBKEZ) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [SkuBop](https://open.spotify.com/album/2thtVFNwTy6WO1rseKOyWu) | 3:05 | 2023-12-01 | 2024-01-18 |
+| [Fresh](https://open.spotify.com/track/6SwlfxiAygslNqmAMDb02H) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [SkuBop](https://open.spotify.com/album/1GEdhAQryrbe9jU6m9Rjx4) | 3:05 | 2023-12-15 |  |
 | [Fuck Fame PT\. 2 \(feat\. Lola Brooke\)](https://open.spotify.com/track/5ocQrLeov9liXKoO5tjiEl) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Fuck Fame PT\. 2 \(feat\. Lola Brooke\)](https://open.spotify.com/album/24VvrSk68HBYD1eHDG2IKa) | 3:39 | 2023-12-01 |  |
 | [Fuck It](https://open.spotify.com/track/7kNmljSMkECHUdaEZLJJLp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Nightmares In the Trenches](https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU) | 2:59 | 2023-12-01 |  |
 | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/album/341UBgXu04jXD1oESdpDWa) | 3:14 | 2022-08-01 | 2023-04-16 |

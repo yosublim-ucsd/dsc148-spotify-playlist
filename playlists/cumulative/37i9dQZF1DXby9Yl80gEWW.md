@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-246 songs - 15 hr 10 min
+247 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,8 +237,9 @@
 | [Watch 'At Breakdown](https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [How To Grow A Woman From The Ground](https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4) | 4:14 | 2021-12-03 |  |
 | [Waveland](https://open.spotify.com/track/0RgsjTcfbWndH0oNiSvWtx) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Universal Favorite](https://open.spotify.com/album/72BjHzwfZXDbxm1HuiXcAo) | 2:58 | 2021-12-03 | 2022-07-23 |
 | [Waynesboro \- Live](https://open.spotify.com/track/3wacduUnfHODRq6QXVcBQe) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT), [Sarah Kate Morgan](https://open.spotify.com/artist/4UCdRwhNwF470fGAfVfNQa) | [Live from Bristol](https://open.spotify.com/album/7z1pLmTcUEHoOzkdfDeFhU) | 2:54 | 2023-08-25 | 2023-12-24 |
-| [Waynesboro \- Live](https://open.spotify.com/track/5ake2OCj488YQf3Frq4yWc) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT), [Sarah Kate Morgan](https://open.spotify.com/artist/4UCdRwhNwF470fGAfVfNQa) | [Live from Bristol](https://open.spotify.com/album/731zEInCmBczQ35Tn2kjZN) | 2:54 | 2023-11-24 |  |
+| [Waynesboro \- Live](https://open.spotify.com/track/5ake2OCj488YQf3Frq4yWc) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT), [Sarah Kate Morgan](https://open.spotify.com/artist/4UCdRwhNwF470fGAfVfNQa) | [Live from Bristol](https://open.spotify.com/album/731zEInCmBczQ35Tn2kjZN) | 2:54 | 2023-11-24 | 2024-01-18 |
 | [We Hide And Seek](https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Americana Master Series: Best Of The Sugar Hill Years](https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS) | 6:32 | 2021-12-03 |  |
+| [Weevils in the Grits](https://open.spotify.com/track/1Dg3PcIeIpsGRlckX8jHEE) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Riveter](https://open.spotify.com/album/2oELvsQJrL4W6YvHnoDVnD) | 3:41 | 2023-11-24 |  |
 | [Weevils in the Grits](https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Weevils in the Grits](https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C) | 3:41 | 2023-02-17 | 2023-12-24 |
 | [Wellington](https://open.spotify.com/track/1SFzKEJOIuCDv7Vp2e6YrF) | [Allison de Groot & Tatiana Hargreaves](https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe) | [Hurricane Clarice](https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76) | 3:23 | 2022-07-22 | 2023-12-11 |
 | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9) | 4:15 | 2021-12-03 | 2023-11-11 |

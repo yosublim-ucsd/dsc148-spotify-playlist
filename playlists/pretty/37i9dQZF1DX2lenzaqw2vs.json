@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Adrian Bello",
-  "num_followers": 133620,
+  "num_followers": 133634,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2MwNWJlYTJiMTZjYmIwOWJjZjY3MDRlYzA5OTU4Y2IzMzkzYzA1",
+  "snapshot_id": "MCw2MmE0ZGQwMTUwYTI4MmRkMTViOTE2ZDg5NmJmZmY1OTJkZTczN2Zm",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "no cambies tu andar",
-        "url": "https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        }
-      ],
-      "duration_ms": 196571,
-      "name": "no cambies tu andar",
-      "url": "https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/4yR4MIZ2kn7WULEOPohp6V"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 225000,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "no cambies tu andar",
+        "url": "https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        }
+      ],
+      "duration_ms": 196571,
+      "name": "no cambies tu andar",
+      "url": "https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "NO BINARIA",
-        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 131416,
-      "name": "NO BINARIA",
-      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Voy en Auto",
         "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 178686,
       "name": "Voy en Auto",
       "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "NO BINARIA",
+        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 131416,
+      "name": "NO BINARIA",
+      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1339,18 +1339,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
+        "name": "Charreando En La Disco",
+        "url": "https://open.spotify.com/album/2PfLqGjgSyRRYFR0xxb47S"
       },
       "artists": [
         {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        },
+        {
+          "name": "Cita",
+          "url": "https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC"
         }
       ],
-      "duration_ms": 163348,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
+      "duration_ms": 173000,
+      "name": "Charreando En La Disco",
+      "url": "https://open.spotify.com/track/7Cyvb8cXv9uTY3r8479F3p"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1371,22 +1375,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Charreando En La Disco",
-        "url": "https://open.spotify.com/album/2PfLqGjgSyRRYFR0xxb47S"
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
       },
       "artists": [
         {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
-        },
-        {
-          "name": "Cita",
-          "url": "https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC"
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Charreando En La Disco",
-      "url": "https://open.spotify.com/track/7Cyvb8cXv9uTY3r8479F3p"
+      "duration_ms": 163348,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "The Early Years",
-        "url": "https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD"
-      },
-      "artists": [
-        {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Fashion Victims",
-      "url": "https://open.spotify.com/track/3pdonyyWeL5F7sWNVo519h"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "kiss my friends",
         "url": "https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 162143,
       "name": "kiss my friends",
       "url": "https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "The Early Years",
+        "url": "https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Fashion Victims",
+      "url": "https://open.spotify.com/track/3pdonyyWeL5F7sWNVo519h"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Encontr\u00e1ndome",
-        "url": "https://open.spotify.com/album/1nKM1APSxh0ZNxBmqZbPKq"
-      },
-      "artists": [
-        {
-          "name": "Luis Gamarra",
-          "url": "https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr"
-        },
-        {
-          "name": "Gamay",
-          "url": "https://open.spotify.com/artist/2Ezs1vBEQVtHYz2OfersAa"
-        }
-      ],
-      "duration_ms": 175796,
-      "name": "Encontr\u00e1ndome",
-      "url": "https://open.spotify.com/track/4pPkbdJLxcAkpIqnGxSjDe"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 195048,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Encontr\u00e1ndome",
+        "url": "https://open.spotify.com/album/1nKM1APSxh0ZNxBmqZbPKq"
+      },
+      "artists": [
+        {
+          "name": "Luis Gamarra",
+          "url": "https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr"
+        },
+        {
+          "name": "Gamay",
+          "url": "https://open.spotify.com/artist/2Ezs1vBEQVtHYz2OfersAa"
+        }
+      ],
+      "duration_ms": 175796,
+      "name": "Encontr\u00e1ndome",
+      "url": "https://open.spotify.com/track/4pPkbdJLxcAkpIqnGxSjDe"
     },
     {
       "added_at": "2023-12-15 05:00:00",

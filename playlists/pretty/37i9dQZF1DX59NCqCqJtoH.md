@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,338 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,526 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 72 | [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 |
 | 73 | [I even told my mom about u](https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Seon](https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8), [Boyfifty](https://open.spotify.com/artist/1UXAQeRmVW5aEd4W0gTIA9), [juli](https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV) | [I even told my mom about u](https://open.spotify.com/album/7keewWiui2hsR0iOXOQaQQ) | 2:00 |
 | 74 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 |
-| 75 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
-| 76 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 |
+| 75 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 |
+| 76 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
 | 77 | [Tired](https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Tired](https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c) | 2:58 |
 | 78 | [If I Really Love You](https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [If I Really Love You](https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u) | 3:14 |
 | 79 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 85 | [Second Place](https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Second Place](https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK) | 2:08 |
 | 86 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 |
 | 87 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 |
-| 88 | [are you sleeping alone again?](https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [are you sleeping alone again?](https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU) | 2:06 |
-| 89 | [Baby](https://open.spotify.com/track/5jI88gmbKnva1Pak0ZZo1M) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/3HYuk6rTzUcO1ZGya3vHwu) | 1:51 |
-| 90 | [disappear](https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf) | [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp) | [the way we used to love.](https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo) | 3:45 |
-| 91 | [Rage](https://open.spotify.com/track/3ammZjwN6FtKFcnsoZn7de) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Rage](https://open.spotify.com/album/5DOU5HNaALZj7ErsuXHg29) | 2:41 |
-| 92 | [Meant to Be](https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Meant to Be](https://open.spotify.com/album/2htrQFSW4pVKkBtrTVbBbx) | 1:50 |
-| 93 | [Deep End](https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Deep End](https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU) | 2:16 |
+| 88 | [Baby](https://open.spotify.com/track/5jI88gmbKnva1Pak0ZZo1M) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/3HYuk6rTzUcO1ZGya3vHwu) | 1:51 |
+| 89 | [are you sleeping alone again?](https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [are you sleeping alone again?](https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU) | 2:06 |
+| 90 | [Rage](https://open.spotify.com/track/3ammZjwN6FtKFcnsoZn7de) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Rage](https://open.spotify.com/album/5DOU5HNaALZj7ErsuXHg29) | 2:41 |
+| 91 | [disappear](https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf) | [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp) | [the way we used to love.](https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo) | 3:45 |
+| 92 | [Deep End](https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Deep End](https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU) | 2:16 |
+| 93 | [Meant to Be](https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Meant to Be](https://open.spotify.com/album/2htrQFSW4pVKkBtrTVbBbx) | 1:50 |
 | 94 | [Slow Down](https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:22 |
 | 95 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 |
 | 96 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 |
 | 97 | [If I Showed You](https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [If I Showed You](https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku) | 3:15 |
 | 98 | [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 |
-| 99 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
-| 100 | [End Of The World](https://open.spotify.com/track/5fayurvS00m3T7fcXBkb7e) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:40 |
+| 99 | [End Of The World](https://open.spotify.com/track/5fayurvS00m3T7fcXBkb7e) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:40 |
+| 100 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
 
-Snapshot ID: `MCwzYWY5MjI3Zjg3YjY3YjUwMThlNjgzMDljMTA2MmI0MDcxNjkzMjdi`
+Snapshot ID: `MCw2NjY2NTM3M2Q5MGEyMDEwOGI5NmUzZmFhZTc5MzI1NDc5MWIzYjYx`

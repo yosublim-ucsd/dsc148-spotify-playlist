@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MTcyNjAsMDAwMDAwMDAxMDU5YjI5OGVkYzVkOWIxMjBiOWUxZmJlYTQwY2U5Yg==",
+  "snapshot_id": "Mjg0MTcyNjAsMDAwMDAwMDBmNzVmM2ZkNDc2NmNlNmJjYTU1NjBiYmU0NDU0MjVjZQ==",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -23,26 +23,6 @@
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/0ttw2K5qNwaKse9LJQBaQt"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Out the Dark Into the Light",
-        "url": "https://open.spotify.com/album/0S0RXOgA1a88j5e51NJRsm"
-      },
-      "artists": [
-        {
-          "name": "Sandpaypa",
-          "url": "https://open.spotify.com/artist/6xc203h8o1IiqkE6F558jt"
-        },
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/22u3lBuPsQy6PlIr0phoCs"
-        }
-      ],
-      "duration_ms": 190142,
-      "name": "Out the Dark into the Light",
-      "url": "https://open.spotify.com/track/4OwUqVqlgRTvgTvQjLVLwE"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -147,22 +127,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "One (Slowed)",
-        "url": "https://open.spotify.com/album/33XSBPEiAaEeAG8MYvWSyN"
+        "name": "INSANO",
+        "url": "https://open.spotify.com/album/5koNuqZAONxJgt6aWjlc1u"
       },
       "artists": [
         {
-          "name": "Trekt",
-          "url": "https://open.spotify.com/artist/51Qp81HqR3dreIiQmznIzp"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 135418,
-      "name": "One (Slowed)",
-      "url": "https://open.spotify.com/track/3uKR1sGpR7FfmW2AWrqLMU"
+      "duration_ms": 151933,
+      "name": "SEVEN (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/0l5Hh5W4VybexZ0hXEj2jD"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -335,22 +315,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Down With Me",
-        "url": "https://open.spotify.com/album/2EhFeUrerhWKDzfLx1jgba"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 120034,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/2iVfe5kY149mbTMX92Urb4"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
         "url": "https://open.spotify.com/album/3bVFS6hU8jvQoaXetRshv6"
       },
@@ -363,6 +327,22 @@
       "duration_ms": 214438,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7zkz7Y2mYNg6rWxQDUQM2J"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Down With Me",
+        "url": "https://open.spotify.com/album/2EhFeUrerhWKDzfLx1jgba"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 120034,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/2iVfe5kY149mbTMX92Urb4"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -383,26 +363,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Decapitation Chamber",
-        "url": "https://open.spotify.com/album/4599NgmjSfdjeNgq1iarXi"
+        "name": "Caspa Clark- Ninja Warrior",
+        "url": "https://open.spotify.com/album/50hfWF7oWKIoM63p6XXeFY"
       },
       "artists": [
         {
-          "name": "Lazarus",
-          "url": "https://open.spotify.com/artist/5KZfRaQHfjizCZsoRV9vqA"
+          "name": "Caspa Clark",
+          "url": "https://open.spotify.com/artist/0Ox3FqXrE6J3mdEgVHKCO7"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "DJ Symphony",
-          "url": "https://open.spotify.com/artist/75nXQyLeB5YjzE7LV8l5gx"
         }
       ],
-      "duration_ms": 216082,
-      "name": "Decapitation Chamber",
-      "url": "https://open.spotify.com/track/7hkx7WJoBglksDJXL0ujoD"
+      "duration_ms": 209665,
+      "name": "We sell weed",
+      "url": "https://open.spotify.com/track/62c82cEDfgwjXUSGsJ8qjj"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -603,6 +579,30 @@
       "duration_ms": 125225,
       "name": "Set In Stone",
       "url": "https://open.spotify.com/track/3i7xst5okV5Jowh4RAJNxe"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Lace It (with Eminem & benny blanco)",
+        "url": "https://open.spotify.com/album/2GWbJqFPEi1FGC9DnBRbk1"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Lace It (with Eminem & benny blanco)",
+      "url": "https://open.spotify.com/track/0hitTdEb4YohfxjOhdcIMi"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

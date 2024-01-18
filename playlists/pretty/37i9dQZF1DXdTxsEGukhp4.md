@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 乃紫
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,954 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,958 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [Family Sale](https://open.spotify.com/track/3sFhDmtCO39yZUzpk2o4Gs) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [親父](https://open.spotify.com/artist/7tvsTkLL1lt0D5QU8yIvdI) | [Family Sale](https://open.spotify.com/album/3JfuFVx4rgavnVvqXYqK3z) | 4:00 |
 | 50 | [Wind Rise](https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Speed Tape](https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD) | 3:05 |
 
-Snapshot ID: `MCw3YWY4MTZmOWUyNWJmNWNiNTZiNTYwYzZkYzc1ZTQxMjhiNDQyZjg5`
+Snapshot ID: `MCw3OWU0ODQ5NjVkM2M5MjE1YjA0YmZmYWQxYmRiZWNlYThmNjA5MTJm`

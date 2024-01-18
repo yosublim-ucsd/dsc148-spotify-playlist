@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar ",
-  "num_followers": 71988,
+  "num_followers": 72007,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTQ4YWQwZjMwN2U3MWJiYTkzODkwMjA5Y2IzOTI0MTAyZjk0NGJk",
+  "snapshot_id": "MCxkZmUyOTY3NjQwYzMxZjkzZmJiY2Y4MTA5MjU0NWZlYzZiZDgxMWMx",
   "tracks": [
     {
       "added_at": "2024-01-12 05:26:06",
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
         }
       ],
-      "duration_ms": 213863,
-      "name": "Qui\u00e9n De Los Dos Ser\u00e1",
-      "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
         }
       ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+      "duration_ms": 213863,
+      "name": "Qui\u00e9n De Los Dos Ser\u00e1",
+      "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -643,22 +643,18 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+      "duration_ms": 185153,
+      "name": "Te Dejo",
+      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -779,18 +775,22 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 185153,
-      "name": "Te Dejo",
-      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
+        "name": "Peca de Bonita",
+        "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 147093,
+      "name": "Peca de Bonita",
+      "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
+    },
+    {
+      "added_at": "2024-01-12 05:26:06",
+      "album": {
         "name": "Ciega Por El",
         "url": "https://open.spotify.com/album/3DVWC67qQXYuxAC1zWGZg5"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 208461,
       "name": "Ciega Por El",
       "url": "https://open.spotify.com/track/0WRIitsjs8BB1klVE6T1R5"
-    },
-    {
-      "added_at": "2024-01-12 05:26:06",
-      "album": {
-        "name": "Peca de Bonita",
-        "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 147093,
-      "name": "Peca de Bonita",
-      "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1355,26 +1355,22 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ"
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
       "artists": [
         {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
         },
         {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 188826,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf"
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1399,22 +1395,26 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ"
       },
       "artists": [
         {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
         },
         {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+      "duration_ms": 188826,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
+        "name": "El Tenampa",
+        "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "duration_ms": 134954,
+      "name": "El Tenampa",
+      "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
+    },
+    {
+      "added_at": "2024-01-12 05:26:06",
+      "album": {
         "name": "X Personas Como T\u00fa",
         "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 173016,
       "name": "X Personas Como T\u00fa",
       "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
-    },
-    {
-      "added_at": "2024-01-12 05:26:06",
-      "album": {
-        "name": "El Tenampa",
-        "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        }
-      ],
-      "duration_ms": 134954,
-      "name": "El Tenampa",
-      "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Fumo Y Bebo",
-        "url": "https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Pablo Ocampo",
-          "url": "https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK"
-        }
-      ],
-      "duration_ms": 148911,
-      "name": "Fumo Y Bebo",
-      "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
-    },
-    {
-      "added_at": "2024-01-12 05:26:06",
-      "album": {
         "name": "Dej\u00e9moslo As\u00ed",
         "url": "https://open.spotify.com/album/3mNYNFOwyvPHyMTycASoO6"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 180059,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/2bku6uSoRemC75vR4JoePF"
+    },
+    {
+      "added_at": "2024-01-12 05:26:06",
+      "album": {
+        "name": "Fumo Y Bebo",
+        "url": "https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Pablo Ocampo",
+          "url": "https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK"
+        }
+      ],
+      "duration_ms": 148911,
+      "name": "Fumo Y Bebo",
+      "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
     },
     {
       "added_at": "2024-01-12 05:26:06",

@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-671 songs - 1 day 17 hr 14 min
+672 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Can't Help Falling in Love \- Live From Spotify London](https://open.spotify.com/track/00jpfzztJgSupflbzmH3T1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Spotify Sessions](https://open.spotify.com/album/0CL4Zsk4SKMXvLQKa41BOv) | 2:43 | 2021-10-20 | 2022-07-28 |
 | [Can't Help Falling In Love \- Recorded Live at Daytrotter](https://open.spotify.com/track/5GBWQszdw6PtAN0Negzut6) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/7o2VLivg95UduHjTMTIEIf) | 3:13 | 2021-10-20 | 2022-07-28 |
 | [Can't Nobody Love You](https://open.spotify.com/track/2o6sXX0llloUkaUm9DEbLY) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4) | 2:16 | 2022-06-10 | 2022-10-14 |
-| [Can't Nobody Love You](https://open.spotify.com/track/5Q08lzb2Uj4X9VVDGmUebR) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw) | 2:16 | 2022-06-10 |  |
+| [Can't Nobody Love You](https://open.spotify.com/track/5Q08lzb2Uj4X9VVDGmUebR) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw) | 2:16 | 2022-06-10 | 2024-01-18 |
 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 | 2021-10-20 |  |
 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 | 2021-10-20 | 2022-07-29 |
 | [Can’t Help Falling In Love \- Live At Daytrotter](https://open.spotify.com/track/2nOkNoBuQdo5HH0Ls1zXxS) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 3:13 | 2022-06-10 |  |
@@ -181,6 +181,7 @@
 | [Enjoy the Silence](https://open.spotify.com/track/3cWSQCg77wybXma5iuPnKe) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stripped](https://open.spotify.com/album/6X22pv4Svp3ScaCQy3DQCB) | 4:11 | 2021-10-20 | 2022-01-08 |
 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/3dnswoe0E6Rf1vKdKzNdKs) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7uFQTjB1C5Wa61owwtrYJ3) | 4:02 | 2021-10-20 | 2022-07-19 |
 | [Everlasting Light](https://open.spotify.com/track/4btqwzSNvAcOi2cryL3Not) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Everlasting Light](https://open.spotify.com/album/0DBdj53b2HJSfb66PQelX9) | 2:44 | 2021-10-20 | 2022-07-16 |
+| [Every Breath You Take](https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take](https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH) | 3:43 | 2023-10-23 |  |
 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 | 2021-10-20 | 2024-01-14 |
 | [Everybody Hurts](https://open.spotify.com/track/3F7BQYABqy3o5k7dhuReTe) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/5og5ncNgq9dH4JBauZyCBs) | 2:47 | 2021-10-20 | 2022-07-29 |
 | [Everybody Hurts](https://open.spotify.com/track/60DpmSyB1N1NfPrZnUSslG) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 2:47 | 2023-02-24 |  |

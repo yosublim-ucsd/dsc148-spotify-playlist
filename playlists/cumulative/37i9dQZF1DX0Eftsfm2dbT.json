@@ -8111,6 +8111,28 @@
     },
     {
       "album": {
+        "name": "Wasurenaide",
+        "url": "https://open.spotify.com/album/6hHfnpyuiYY1ZiP48U6HwI"
+      },
+      "artists": [
+        {
+          "name": "Shootz",
+          "url": "https://open.spotify.com/artist/0gSHX4GAlRtZJ1tJhBv0SD"
+        },
+        {
+          "name": "Dengaryu",
+          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253526,
+      "name": "Wasurenaide",
+      "url": "https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8"
+    },
+    {
+      "album": {
         "name": "Hit Different",
         "url": "https://open.spotify.com/album/4H5P7cJyGe0Sw0gSHtjuMm"
       },

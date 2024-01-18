@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Sukha
 
-287 songs - 13 hr 37 min
+288 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Tera Canada](https://open.spotify.com/track/7ghypi2mLGlUPzwbcfPTNe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Tera Canada](https://open.spotify.com/album/01bK2JE8QRNyNA6Tb79j3Z) | 3:20 | 2023-08-10 |  |
 | [Tere Yaar Ne](https://open.spotify.com/track/52W48mihhI2hsmlVkCsVGI) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Tere Yaar Ne](https://open.spotify.com/album/0QLNdHhsyM906pyniBfQTU) | 2:47 | 2023-10-17 |  |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-03-29 |  |
+| [The Jatts](https://open.spotify.com/track/6OBlaBatU62ohkau4G9vLr) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [The Jatts](https://open.spotify.com/album/64n0oSlEC8c7bgzFjuWqFv) | 2:41 | 2024-01-17 |  |
 | [The Remains](https://open.spotify.com/track/3TCUE8qX8FCLORzzvl3So4) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [The Blueprint](https://open.spotify.com/album/72dsaX2bPjbD1UuwSteXUx) | 2:47 | 2023-09-22 | 2023-10-07 |
 | [Tinted Windows](https://open.spotify.com/track/6KLca4Dxyf5ArZoyqgmwhr) | [Jimmy Wraich](https://open.spotify.com/artist/0ov4rQDHNfsZkRxsIZ6kzL), [Crispy Dondada](https://open.spotify.com/artist/03kKbaYoK0KB2xv7Q1FRKv), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [Tinted Windows](https://open.spotify.com/album/0gnxxwuDgP2gvVSXbSgY57) | 3:12 | 2023-08-22 | 2023-09-12 |
 | [Top Flame](https://open.spotify.com/track/3u6jK5KR1ijBCUs4CLzV9c) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Top Flame](https://open.spotify.com/album/2DcComXPapapQcGrNSuPkt) | 2:44 | 2023-09-20 |  |
@@ -269,7 +270,7 @@
 | [True Stories](https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [True Stories](https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl) | 1:57 | 2023-06-16 |  |
 | [Tu Te Sharaab](https://open.spotify.com/track/0oUfa6l7wLkVAdXpuZv1Es) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Tu Te Sharab](https://open.spotify.com/album/2WkHsdB7xX7Iogc6V3mMCc) | 3:15 | 2023-03-29 | 2023-05-28 |
 | [Tu Te Sharaab](https://open.spotify.com/track/1DdAnzhSw7HT4xMNDrGMcV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 3:15 | 2023-05-26 |  |
-| [Unanswerable](https://open.spotify.com/track/0nestoDLiYS47RsEiET5fC) | [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Unanswerable](https://open.spotify.com/album/3liOTxNCO9JIZnVB50hFUV) | 2:54 | 2024-01-02 |  |
+| [Unanswerable](https://open.spotify.com/track/0nestoDLiYS47RsEiET5fC) | [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Unanswerable](https://open.spotify.com/album/3liOTxNCO9JIZnVB50hFUV) | 2:54 | 2024-01-02 | 2024-01-18 |
 | [Unexpected](https://open.spotify.com/track/1sbwUh5TnxyIug3zfbGwhJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Billa Balero](https://open.spotify.com/artist/43wdO0MiAJylEiH6aoUh7f), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Unexpected](https://open.spotify.com/album/0KN5XdHYFCLoBqUu7DS4w2) | 2:59 | 2023-06-30 | 2023-11-16 |
 | [Vaardaat](https://open.spotify.com/track/2AxJy6T57H1eJnxZ2sb9Ir) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Dusk N Dawn](https://open.spotify.com/album/2GB5XPYMcM9ezM5g47mtKo) | 2:27 | 2023-05-22 |  |
 | [Vail](https://open.spotify.com/track/3wxvgNYnMJylOwZaX4JeiX) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Guri Singh](https://open.spotify.com/artist/5iE9QAIBbfKv22XiqGEhRM), [Rich](https://open.spotify.com/artist/02E5S0ecOieToq7uAZCL6H) | [I Don\`t Care](https://open.spotify.com/album/1rvrDK4HownPhGZ4S5VXtu) | 2:24 | 2023-06-08 | 2023-11-29 |

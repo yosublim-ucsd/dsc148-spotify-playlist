@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 227225,
       "name": "APEX",
       "url": "https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE"
@@ -3894,6 +3894,24 @@
       "duration_ms": 192506,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
       "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"
+    },
+    {
+      "album": {
+        "name": "GIANTSTAMP",
+        "url": "https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S"
+      },
+      "artists": [
+        {
+          "name": "Suspended 4th",
+          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL"
     },
     {
       "album": {

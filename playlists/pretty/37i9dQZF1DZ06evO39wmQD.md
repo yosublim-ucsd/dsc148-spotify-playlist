@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,420 likes - 25 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,426 likes - 25 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 24 | [You Fit Me Perfectly](https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Manny Jacinto](https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 1:28 |
 | 25 | [Those You've Known \- Rise Cast Version](https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I), [Ellie Desautels](https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe) | [Rise Season 1: The Album \(Music from the TV Series\)](https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1) | 1:51 |
 
-Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDA5Y2YyYmY4ZTEzMWE2NTJlMjAzOTI2NzAzZDBkMzJjNw==`
+Snapshot ID: `Mjg0MjQ4NzgsMDAwMDAwMDA1YTdhNjE1ZGNkZjAyZTIxNjU3MWNmYTUxZjRlY2RhNA==`

@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 759930,
+  "num_followers": 760056,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWZkMmRhODUzYmE1MzkzZTAwOTc0MDUzN2I2YzA5OTkxMGU2NmNh",
+  "snapshot_id": "MCw1YzUxZTk0NjEwZTcwOGQyNjZiM2JhNmM1ZmZhMjdmZjAyNDJjNjFj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Secrets Of The American Gods",
-        "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
+        "name": "Modern Primitive",
+        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
       },
       "artists": [
         {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+          "name": "Septicflesh",
+          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
         }
       ],
-      "duration_ms": 397026,
-      "name": "Secrets Of The American Gods - Single Edit",
-      "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
+      "duration_ms": 258838,
+      "name": "A Desert Throne",
+      "url": "https://open.spotify.com/track/3m3xlb2rdYGX5CZj0A8DBX"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Modern Primitive",
-        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
+        "name": "Secrets Of The American Gods",
+        "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
       },
       "artists": [
         {
-          "name": "Septicflesh",
-          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
         }
       ],
-      "duration_ms": 258838,
-      "name": "A Desert Throne",
-      "url": "https://open.spotify.com/track/3m3xlb2rdYGX5CZj0A8DBX"
+      "duration_ms": 397026,
+      "name": "Secrets Of The American Gods - Single Edit",
+      "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -513,6 +513,26 @@
       "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Wicked Rule The Night",
+        "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
+      },
+      "artists": [
+        {
+          "name": "Avantasia",
+          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+        },
+        {
+          "name": "Ralf Scheepers",
+          "url": "https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "The Wicked Rule The Night",
+      "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
+    },
+    {
       "added_at": "2023-07-17 22:14:26",
       "album": {
         "name": "Fight the Tide",
@@ -559,26 +579,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Wicked Rule The Night",
-        "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
-      },
-      "artists": [
-        {
-          "name": "Avantasia",
-          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
-        },
-        {
-          "name": "Ralf Scheepers",
-          "url": "https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV"
-        }
-      ],
-      "duration_ms": 264946,
-      "name": "The Wicked Rule The Night",
-      "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Glory for Salvation",
         "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "A Heartless Portrait (The Orph\u00e9an Testament)",
-        "url": "https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2"
-      },
-      "artists": [
-        {
-          "name": "Evergrey",
-          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
-        }
-      ],
-      "duration_ms": 263853,
-      "name": "Call out the Dark",
-      "url": "https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Power of Will",
         "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 233653,
       "name": "Power of Will",
       "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "A Heartless Portrait (The Orph\u00e9an Testament)",
+        "url": "https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2"
+      },
+      "artists": [
+        {
+          "name": "Evergrey",
+          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
+        }
+      ],
+      "duration_ms": 263853,
+      "name": "Call out the Dark",
+      "url": "https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
+        "name": "Animus",
+        "url": "https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ"
       },
       "artists": [
         {
-          "name": "Floor Jansen",
-          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
         }
       ],
-      "duration_ms": 208859,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
+      "duration_ms": 242320,
+      "name": "We'll Be Free",
+      "url": "https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Animus",
-        "url": "https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
       },
       "artists": [
         {
-          "name": "Moonlight Haze",
-          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
+          "name": "Floor Jansen",
+          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
         }
       ],
-      "duration_ms": 242320,
-      "name": "We'll Be Free",
-      "url": "https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1"
+      "duration_ms": 208859,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Summer Wine",
+        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 245444,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Vita Nova",
         "url": "https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 364029,
       "name": "Vita Nova",
       "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Summer Wine",
-        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 245444,
-      "name": "Summer Wine",
-      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 314414,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Dragonwings",
         "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
       },
@@ -983,6 +999,26 @@
       "duration_ms": 243529,
       "name": "Dragonwings",
       "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Queen of Shadow",
+        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Paolo Ribaldini",
+          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
+        }
+      ],
+      "duration_ms": 242146,
+      "name": "Queen of Shadow (feat. Paolo Ribaldini)",
+      "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1023,42 +1059,6 @@
       "duration_ms": 221720,
       "name": "We Are Legion",
       "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 314414,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Queen of Shadow",
-        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        },
-        {
-          "name": "Paolo Ribaldini",
-          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
-        }
-      ],
-      "duration_ms": 242146,
-      "name": "Queen of Shadow (feat. Paolo Ribaldini)",
-      "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "One More River to Cross",
-        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
-      },
-      "artists": [
-        {
-          "name": "The Ferrymen",
-          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
-        }
-      ],
-      "duration_ms": 294105,
-      "name": "Hunt Me to the End of the World",
-      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Juokse Sin\u00e4 Humma",
         "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
       },
@@ -1253,20 +1237,20 @@
       "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
     },
     {
-      "added_at": "2023-07-17 22:14:26",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Cicada",
-        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
+        "name": "One More River to Cross",
+        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
       },
       "artists": [
         {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+          "name": "The Ferrymen",
+          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
         }
       ],
-      "duration_ms": 271693,
-      "name": "Cicada",
-      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
+      "duration_ms": 294105,
+      "name": "Hunt Me to the End of the World",
+      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1283,6 +1267,22 @@
       "duration_ms": 259068,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
+    },
+    {
+      "added_at": "2023-07-17 22:14:26",
+      "album": {
+        "name": "Cicada",
+        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "Cicada",
+      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
     },
     {
       "added_at": "2023-05-19 04:00:00",

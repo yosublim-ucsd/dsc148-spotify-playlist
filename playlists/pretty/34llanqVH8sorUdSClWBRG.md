@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 
 > Mental illness
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 22 songs - 1 hr 13 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 23 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,5 +30,6 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 | 20 | [Double Vision](https://open.spotify.com/track/0fsj3HxzBHev6EJ7OLFE3r) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 3:44 |
 | 21 | [Self Esteem](https://open.spotify.com/track/3t4OeuZLxYUKjWgCaZMFDP) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Can't Maintain](https://open.spotify.com/album/0nm6MlBgiFUET6shfchd8l) | 1:36 |
 | 22 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
+| 23 | [Cigarette Ahegao](https://open.spotify.com/track/67VxWciiaYZYy3NTlyCtp7) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:03 |
 
-Snapshot ID: `MjUsYmI2MTk1YzZjNDBkNDM5NDVjM2IzMzA2ZjdiYzNkZTY4ZmU0NTk1Zg==`
+Snapshot ID: `MjYsN2JiYjU2ZTM4ODBkNzM1OTE4NWViN2QyM2Q5MTEyMGFhZWFjNzJlMA==`

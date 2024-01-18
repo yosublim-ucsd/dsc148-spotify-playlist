@@ -4,12 +4,13 @@
 
 > Dead dove, don&\#x27;t eat
 
-30 songs - 1 hr 53 min
+32 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [American Healthcare \(Glitzy\)](https://open.spotify.com/track/3GNTTTs9CVmr8RTrilIBOS) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 4:29 | 2023-03-21 |  |
 | [American Remains](https://open.spotify.com/track/4REjaHRPmVb7btssqChJSy) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 4:07 | 2023-04-02 |  |
+| [Born2Run](https://open.spotify.com/track/66Dvkzi4HyhKRJsBoOzQVa) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Born2Run](https://open.spotify.com/album/0zdCLnsn9pHHgxEMNEFjR7) | 2:34 | 2024-01-17 |  |
 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 | 2023-10-30 |  |
 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 | 2023-12-01 |  |
 | [Great King Rat \- Remastered 2011](https://open.spotify.com/track/57uAYnfX1UHDWn5tD1xbFf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Remastered Version\)](https://open.spotify.com/album/64axF9Amc2ExcZbFs8btdv) | 5:43 | 2023-03-21 |  |
@@ -24,6 +25,7 @@
 | [Put on Your Mask](https://open.spotify.com/track/40EFZlEsWDb12i3b9LLBRO) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk) | [Put on Your Mask](https://open.spotify.com/album/0v41LFcSjoy4MSBpiBSOrR) | 1:01 | 2023-07-07 |  |
 | [Reaganomics](https://open.spotify.com/track/6ForyBso37QPHoEM06IDwK) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 3:31 | 2023-03-21 |  |
 | [Role Models](https://open.spotify.com/track/2sDjsX3RCmWXSxRntg7LXz) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click \(Deluxe Edition\)](https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5) | 3:12 | 2023-03-21 |  |
+| [Rät](https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:14 | 2024-01-17 |  |
 | [Sixteen Tons](https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d) | [Geoff Castellucci](https://open.spotify.com/artist/1TIQZBUSqWPrBZuh80x6Rz) | [Sixteen Tons](https://open.spotify.com/album/1TYeSHzqyRK8gfn8I0drTr) | 2:50 | 2023-11-15 |  |
 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5qrBMEsCQPTsev7yAnMR2U) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [An Introduction to Led Zeppelin](https://open.spotify.com/album/2cqzFuaX52BSIPQT3w05Vm) | 8:02 | 2023-03-22 |  |
 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 | 2023-07-23 |  |

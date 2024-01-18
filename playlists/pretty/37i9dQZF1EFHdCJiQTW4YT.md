@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 140 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 309 likes - 140 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 9 | [Don't Go Breaking My Heart](https://open.spotify.com/track/1E3ghCAkxEdT5KHVBwArr3) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:35 |
 | 10 | [Run to You](https://open.spotify.com/track/2SOUTN8rzGAkBr001HqAXe) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:37 |
 | 11 | [Surround Me](https://open.spotify.com/track/4aai1PoVGPcspMhmzOzpZN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Surround Me \- EP](https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4) | 3:52 |
-| 12 | [Raising Hell \(feat\. Big Freedia\)](https://open.spotify.com/track/14wPnCr1Z8CIHBVpnpcTVt) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:49 |
+| 12 | [Raising Hell](https://open.spotify.com/track/4NVIkvGv6TDLKoiUWI1Ll9) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Raising Hell \(Official Video\)](https://open.spotify.com/album/3mjegKOfIfgTT0KwbrEBKD) | 3:32 |
 | 13 | [Wish On An Eyelash](https://open.spotify.com/track/2XrMjGhpgMZp5qzD4iThEp) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/4jeFaZ3TvNTgHAdTFzTKoF) | 0:58 |
 | 14 | [Don't Let It Break Your Heart](https://open.spotify.com/track/4nbQRLAPq202lsQsv9FNwK) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Walls](https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9) | 3:24 |
 | 15 | [True Feeling](https://open.spotify.com/track/6R1ArLLvqPvS3AHg9YgmrQ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:59 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 28 | [nothing but the love](https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:04 |
 | 29 | [Dream On Me](https://open.spotify.com/track/1dCpERd2GVVFbKuOpJjgPm) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 3:02 |
 | 30 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 |
-| 31 | [Baby](https://open.spotify.com/track/4BbVWoRHYM6xwfGyLyXfYa) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Baby](https://open.spotify.com/album/4VSa49ZHs3TmSlJnbdSB0o) | 3:15 |
+| 31 | [Baby](https://open.spotify.com/track/21vwWfS6qvxh8TN3lgHvZr) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Baby](https://open.spotify.com/album/2Mu6Sua4GrqPmchgUj4vZI) | 3:14 |
 | 32 | [Still Good](https://open.spotify.com/track/3snCUIDipfcnwhyIfeDe8f) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [People To People](https://open.spotify.com/album/18AYjsog9iGp1np3r1KqHJ) | 3:21 |
 | 33 | [Hold You 'Til We’re Old](https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Hold You 'Til We’re Old](https://open.spotify.com/album/3Uy0TTHUOKQYCvEU0gLVkd) | 3:02 |
 | 34 | [hurts like hell](https://open.spotify.com/track/1Cd4W9s1YoTKNzNrVkOjs2) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/1YqCPwqa29diDqCeB3Qahf) | 3:57 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 81 | [i want you](https://open.spotify.com/track/3k8s9SgL9HJvUbKKKOdtwy) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [i want you](https://open.spotify.com/album/1GkdIe9m5cwcXx8ophbqqD) | 3:21 |
 | 82 | [don't pick up the phone](https://open.spotify.com/track/5j610MhjMLhyT2pPNy9Zj9) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 2:34 |
 | 83 | [Side](https://open.spotify.com/track/4gs5Xv10fgdkSO9Jrjq0rk) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Lucky Ones](https://open.spotify.com/album/6doKrVnhuZB7ajkdvCDvyC) | 3:27 |
-| 84 | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/7x9BbeXnB9ehDjit1EVzwj) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 3:00 |
-| 85 | [we all could use some help](https://open.spotify.com/track/1soUBTe2GUzPzgPNOQH8aX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:23 |
+| 84 | [we all could use some help](https://open.spotify.com/track/1soUBTe2GUzPzgPNOQH8aX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:23 |
+| 85 | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/7x9BbeXnB9ehDjit1EVzwj) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 3:00 |
 | 86 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 |
 | 87 | [this christmas](https://open.spotify.com/track/114PuZ41gfx73mseDNeRTa) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Christmas Mistletunes](https://open.spotify.com/album/7hxw2kfP8PliEPbKzaDvoG) | 3:16 |
 | 88 | [Fabulous](https://open.spotify.com/track/1nLj9iiZr3Bb3e0zYiyDfm) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [DMK](https://open.spotify.com/artist/6Jzb9QsxR4wkdtNxg108Aj) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 2:53 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 139 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 140 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Mjg0MjQzMDAsMDAwMDAwMDBiNTQ0OGQ4OTFmY2VlNDJkNDUxMDM3NDQ4NGJkZjRkZQ==`
+Snapshot ID: `Mjg0MjU3NDAsMDAwMDAwMDA3ZjdlOWZjMjgxOWMxYzliYmRhZmMwZjFjZWRhMDllMQ==`

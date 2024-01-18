@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,618 likes - 148 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,665 likes - 148 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 147 | [You're Free Now \(feat\. Sarah Jarosz\)](https://open.spotify.com/track/271g7BFvo00WN1YN78m0JG) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa \(Deluxe\)](https://open.spotify.com/album/2VH2F0wlJCfm7wuUYYD87E) | 4:19 |
 | 148 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
 
-Snapshot ID: `MCxiNmZhZTAxYzE3NzJlOGJmNmEyZjM0NDk4YzQ0YWZkYmRkMzY4ZWY1`
+Snapshot ID: `MCxkMmQ0Yjc5Njc3NmI3OWQyNDY0Y2UxMTA0MTM1MWI0YzkwYTRmNmJm`

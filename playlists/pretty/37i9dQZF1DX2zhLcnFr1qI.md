@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,048 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,030 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 59 | [Christmas Rave](https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Basslovers United](https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu), [Dan Winter](https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz) | [Christmas Rave](https://open.spotify.com/album/0qWXWyan06KiYiMtYS2Q67) | 2:25 |
 | 60 | [Santa Tell Me](https://open.spotify.com/track/4AmUOomwGifLOR3lPiweuc) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Stephanie Schulte](https://open.spotify.com/artist/0lFLwxM5lPGtJVmCkjYTQ3) | [Santa Tell Me](https://open.spotify.com/album/4Ya1nBIiIKwE7bRyVw7Zx4) | 2:37 |
 
-Snapshot ID: `MCw3YTZhYmQ3MTI1ZTIxYzJkYzI0NWYxZWYyNGQzYTc5ZGVhMjlhMDA4`
+Snapshot ID: `MCw5ZDBmZTI3YTVmYzViZTYxMzRhNjdmY2Y1ZmQ0NzAwNDVhOWU4MzA5`

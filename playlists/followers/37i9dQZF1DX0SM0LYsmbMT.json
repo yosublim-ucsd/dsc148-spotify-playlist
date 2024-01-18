@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 2190775,
+  "2024-01-18": 2190967,
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
@@ -41288,6 +41288,24 @@
     },
     {
       "album": {
+        "name": "Matura",
+        "url": "https://open.spotify.com/album/3vbt8xcmCxiKm9NlHEzhMm"
+      },
+      "artists": [
+        {
+          "name": "ORSO",
+          "url": "https://open.spotify.com/artist/6CUtexEoHrRbt4Ro9V2leN"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108923,
+      "name": "Matura",
+      "url": "https://open.spotify.com/track/615dueLshTDN5G4Rkvdh8g"
+    },
+    {
+      "album": {
         "name": "Die Sendung mit der Maus",
         "url": "https://open.spotify.com/album/2fXOANKdHN24e65xCGv3pW"
       },
@@ -59703,7 +59721,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 148571,
       "name": "Shaq Attaq",
       "url": "https://open.spotify.com/track/2OABKO6E6XZG4ThPc8vKk4"

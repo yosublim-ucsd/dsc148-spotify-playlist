@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 456418,
+  "2024-01-18": 456389,
   "date_first_scraped": "2024-01-15",
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
   "name": "Sertanejo no Trabalho",
@@ -543,6 +543,24 @@
       "duration_ms": 158865,
       "name": "De Copo Em Copo - Ao Vivo",
       "url": "https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH"
+    },
+    {
+      "album": {
+        "name": "O Embaixador - The Legacy (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208383,
+      "name": "De Menina pra Mulher - Ao Vivo",
+      "url": "https://open.spotify.com/track/7snoDTJeoJ2oVMhf7eoF3t"
     },
     {
       "album": {
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 154183,
       "name": "Quem Traiu Levou - Ao Vivo",
       "url": "https://open.spotify.com/track/17Ryox5vWKp92IDW87C5PI"

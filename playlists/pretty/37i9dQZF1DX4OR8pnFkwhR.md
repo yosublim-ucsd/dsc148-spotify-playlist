@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ Cover: jo0ji
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,753 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,854 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 29 | [Irie](https://open.spotify.com/track/3sx006zaXSbCKkqIZJAB7I) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 3:00 |
 | 30 | [Nice na Girl](https://open.spotify.com/track/35BlorQ9VTclZQjJbsRon1) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:50 |
 
-Snapshot ID: `MCwzN2NmZDExOGVmNjVhZGEyZmMxNzdkOGVlOTFhMjYyMTJkZTg5ZjVm`
+Snapshot ID: `MCxmYjRkZjZmY2EwZmRhYmNlM2NjNTA2YmVkYjE1ZmY5MDNmNDk5N2Y3`

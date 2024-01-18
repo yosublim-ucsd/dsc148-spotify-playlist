@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:2PCl4hx9Qds8sjcnoWUdqp">Sondae</a>
 
-481 songs - 1 day 4 hr 36 min
+482 songs - 1 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,7 +478,7 @@
 | [Yes and Amen](https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX) | [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Everything Is Possible](https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX) | 4:29 | 2020-12-18 | 2023-02-19 |
 | [Yeshua](https://open.spotify.com/track/2XfiL5W2ZakGuKXuREcT3Q) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Yeshua](https://open.spotify.com/album/2B5iWGV0ji9uhIxmLGtwli) | 4:03 | 2023-04-07 |  |
 | [YOU](https://open.spotify.com/track/3ZMh5ZG2KPAyhfzR7C99vj) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [YOU](https://open.spotify.com/album/6VvEgJ1Ji4sTik5Kqdh7dL) | 2:13 | 2023-04-07 |  |
-| [You Always Find Me](https://open.spotify.com/track/3KH90A4Qy70yZX4syWt8yF) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [You Always Find Me](https://open.spotify.com/album/1sItHcpNhtJnipjsAlasgN) | 3:38 | 2023-08-04 |  |
+| [You Always Find Me](https://open.spotify.com/track/3KH90A4Qy70yZX4syWt8yF) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [You Always Find Me](https://open.spotify.com/album/1sItHcpNhtJnipjsAlasgN) | 3:38 | 2023-08-04 | 2024-01-18 |
 | [You Are My Country](https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [The Field](https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu) | 2:39 | 2023-02-19 | 2023-12-02 |
 | [You Are My Love](https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [You Are My Love](https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx) | 3:23 | 2023-04-21 |  |
 | [You Kept Me](https://open.spotify.com/track/0AZYXACuV2paDlQ0umLDZM) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX), [Oliver Trinidad](https://open.spotify.com/artist/365hr0ByB1a4rNYCCleBg4) | [You Kept Me](https://open.spotify.com/album/0HmFxGQtPH3qIGmmihRL9q) | 2:21 | 2023-02-19 | 2023-04-09 |
@@ -487,6 +487,7 @@
 | [You're Not Wrong](https://open.spotify.com/track/1p67eqYxci0yCOn4LquuRv) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [Bryan Joy](https://open.spotify.com/artist/1z5D53u4OQEPLSqFdi1O2c) | [Our Pride](https://open.spotify.com/album/6AjdwLLUI8wbodTklYfzEO) | 4:55 | 2023-08-11 | 2023-11-04 |
 | [You're Not Wrong](https://open.spotify.com/track/3PtlSUSAopJgJ3grOGC9Us) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [Bryan Joy](https://open.spotify.com/artist/1z5D53u4OQEPLSqFdi1O2c) | [Waiting](https://open.spotify.com/album/6bNt3czIOXWg6htbdnQ5pd) | 4:55 | 2023-08-11 | 2023-10-30 |
 | [You're Not Wrong](https://open.spotify.com/track/5GCwPUgd6FrFf8gMjoxc4r) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [Bryan Joy](https://open.spotify.com/artist/1z5D53u4OQEPLSqFdi1O2c) | [I Wonder](https://open.spotify.com/album/3yJL2ybKvMhxkQwq6YSc8M) | 4:55 | 2023-08-11 | 2023-09-18 |
+| [Your Arms](https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb) | [RORE](https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j) | [Your Arms](https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v) | 2:37 | 2023-12-15 |  |
 | [YOUR WILL](https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4) | [The Family Album](https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo) | 4:43 | 2023-02-19 | 2023-12-02 |
 | [YOUTH \(spring\)](https://open.spotify.com/track/6sBTvNmPpHMKWYyjCdNwKj) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [YOUTH \(spring\)](https://open.spotify.com/album/2h54XJmowWRNrjGWIF2lo3) | 3:16 | 2023-02-24 | 2023-10-04 |
 

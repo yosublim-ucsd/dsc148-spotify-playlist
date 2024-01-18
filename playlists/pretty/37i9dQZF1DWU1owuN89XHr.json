@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 270633,
+  "num_followers": 270675,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzZkZWIxNWFjNjg2OGUwOGNmZDFmYWExMzdkZDI1Njg3YjMyZjZh",
+  "snapshot_id": "MCw2NzJmYjUxOTJkOTcwNTUwZmY3OWY1MjY2NDEyMmZlYzZlM2U3Y2Rj",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -471,18 +471,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Nos Sobran Los Motivos",
-        "url": "https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+          "name": "Carlos Carreira",
+          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
         }
       ],
-      "duration_ms": 362906,
-      "name": "Y Sin Embargo - En Directo",
-      "url": "https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR"
+      "duration_ms": 216520,
+      "name": "Jur\u00e9",
+      "url": "https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX"
     },
     {
       "added_at": "2023-08-01 14:42:56",
@@ -503,18 +503,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
+        "name": "Nos Sobran Los Motivos",
+        "url": "https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv"
       },
       "artists": [
         {
-          "name": "Carlos Carreira",
-          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
         }
       ],
-      "duration_ms": 216520,
-      "name": "Jur\u00e9",
-      "url": "https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX"
+      "duration_ms": 362906,
+      "name": "Y Sin Embargo - En Directo",
+      "url": "https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -651,6 +651,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "1978/1988",
+        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "El Viejo Comunista",
         "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 297000,
       "name": "El Viejo Comunista",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "1978/1988",
-        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -787,6 +787,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Trova Azul",
+        "url": "https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 231156,
+      "name": "Trova Azul",
+      "url": "https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "No Lo Van a Impedir",
         "url": "https://open.spotify.com/album/4DLnrdFW1OClDq9OoOeYjh"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 234040,
       "name": "Tan Distintos (feat. Edgar Oceransky)",
       "url": "https://open.spotify.com/track/3unJniffgdKHCxTfUelqou"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Trova Azul",
-        "url": "https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 231156,
-      "name": "Trova Azul",
-      "url": "https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -907,22 +907,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
-        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
       },
       "artists": [
         {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        },
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
         }
       ],
-      "duration_ms": 219818,
-      "name": "El primer amor (feat. Francisco Cespedes)",
-      "url": "https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3"
+      "duration_ms": 170813,
+      "name": "Los Grillos",
+      "url": "https://open.spotify.com/track/4gey1hMb9gioAyqeCgzSxh"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -943,18 +939,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escucha a Gerardo Pablo",
-        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
+        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
+        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
       "artists": [
         {
-          "name": "Gerardo Pablo",
-          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 170813,
-      "name": "Los Grillos",
-      "url": "https://open.spotify.com/track/4gey1hMb9gioAyqeCgzSxh"
+      "duration_ms": 219818,
+      "name": "El primer amor (feat. Francisco Cespedes)",
+      "url": "https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3"
     },
     {
       "added_at": "2021-07-29 16:46:05",

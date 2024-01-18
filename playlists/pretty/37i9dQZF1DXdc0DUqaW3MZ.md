@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,813 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,921 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 7 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
 | 8 | [Happy Ending \- A.G Remix](https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A.G](https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM) | [Happy Ending \(A.G Remix\)](https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt) | 3:15 |
 | 9 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
-| 10 | [Pain & Pleasure \(feat\. Fédération Internationale du Bruit\)](https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe), [Fédération Internationale du Bruit](https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV) | [Pain & Pleasure \(feat\. Fédération Internationale du Bruit\)](https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo) | 4:03 |
+| 10 | [Pain & Pleasure \(feat\. VANYFOX & Fédération Internationale du Bruit\)](https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe), [Fédération Internationale du Bruit](https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV) | [Pain & Pleasure \(feat\. VANYFOX & Fédération Internationale du Bruit\)](https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo) | 4:03 |
 | 11 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 |
 | 12 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
 | 13 | [Impact \(feat\. Robyn & Channel Tres\)](https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:44 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 47 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 |
 | 48 | [Sweating](https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Sweating](https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ) | 3:24 |
 | 49 | [People](https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [People](https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV) | 2:54 |
-| 50 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
-| 51 | [We Are](https://open.spotify.com/track/1duCNrSCe2xVNYAT5H7G76) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [We Are](https://open.spotify.com/album/5d272VxHzFg8In4h3OzbGQ) | 4:15 |
+| 50 | [We Are](https://open.spotify.com/track/1duCNrSCe2xVNYAT5H7G76) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [We Are](https://open.spotify.com/album/5d272VxHzFg8In4h3OzbGQ) | 4:15 |
+| 51 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
 | 52 | [Unrequited Love](https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:14 |
 | 53 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 |
 | 54 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [Moving On](https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Liquid Portraits](https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS) | 4:09 |
 | 70 | [Brooklyn Ballers](https://open.spotify.com/track/6It85s3KMaxCxIppRGx5U8) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third \(Deluxe\)](https://open.spotify.com/album/6WIYPzBb2wVK5HOSN2oyDx) | 4:24 |
 
-Snapshot ID: `MCxmZDliZTE2NDc4MTIyYzViNWNmZjU4YTlmNzhlMzY3NzVkNjhiZDMw`
+Snapshot ID: `MCw2MDgzNzQwZGVkMjBjYjNhYzBjOTE3NzJjZTRiZGQ2NmMxNGI2ODNk`

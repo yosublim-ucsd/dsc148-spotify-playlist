@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Vale Lambo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,019 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,065 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Baby U Want Me \(feat\. Geolier & Michelangelo\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/7z29jwhaE82uACHM2Ovzgs) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
+| 1 | [Baby U Want Me \(feat\. Geolier & Michelangelo\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
 | 2 | [MAKAI](https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:38 |
 | 3 | [Campioni In Italia \(Red Bull 64 Bars\)](https://open.spotify.com/track/0lmmsw2Z7uN1e5q93AHXbd) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [Campioni In Italia \(Red Bull 64 Bars\)](https://open.spotify.com/album/4pZLLjPkLo3LXhkxlOU4OX) | 3:54 |
 | 4 | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/track/3FDmJlbAtx6u7m0REfhTxQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS) | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/album/2vwJ8mtsNwTYCZHxIKHTDl) | 2:56 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [ESAME DI COSCIENZA](https://open.spotify.com/track/43yj12NGdqBcizo5rGE71D) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX), [Sio](https://open.spotify.com/artist/5h1ppfMPwMGC0gT9vPUrI2) | [ESAME DI COSCIENZA](https://open.spotify.com/album/6x5LrOvqh7U92hLFUGc88z) | 2:41 |
 | 55 | [Soprano](https://open.spotify.com/track/6wtYcRaHvDsuOi4xXGGaSy) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN) | [Soprano](https://open.spotify.com/album/4Y08s8bqsT5lEPbquo3HhU) | 2:40 |
 
-Snapshot ID: `MCxhMjg1NjU0MDc3MTVhYThmYjExYTRkODBjZWEyNTIyM2NkYTMwZTIy`
+Snapshot ID: `MCw4ZWYxNzUyN2VjNGVmMTRmODk3NjczZmE3YTMxMmYzNTJiMDI4ODZm`

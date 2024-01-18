@@ -342,6 +342,24 @@
     {
       "album": {
         "name": "M\u00e1quina de Sangre",
+        "url": "https://open.spotify.com/album/5kCM1EfwsAr8VuV7OS5zLL"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Como Al\u00ed",
+      "url": "https://open.spotify.com/track/3yJKzKUDLo65qDDBDZm9im"
+    },
+    {
+      "album": {
+        "name": "M\u00e1quina de Sangre",
         "url": "https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx"
       },
       "artists": [
@@ -1602,7 +1620,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 250106,
       "name": "Nene de Antes",
       "url": "https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP"

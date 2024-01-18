@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 335,294 likes - 69 songs - 4 hr 45 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 335,272 likes - 69 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 62 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
 | 63 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/21ex8UoVZjOw0wAXWeln5h) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 5:36 |
 | 64 | [Hit Me With Your Best Shot \- 1999 Digital Remaster](https://open.spotify.com/track/7nrtHjt4Vk4Z5jMHOwaS8F) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Synchronistic Wanderings](https://open.spotify.com/album/4CcLtOTSlV2389khMapisZ) | 2:51 |
-| 65 | [Things Can Only Get Better \- 2018 Remaster](https://open.spotify.com/track/1RbOObDFn7GOseR1w529Zj) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [Dream Into Action](https://open.spotify.com/album/1V8qUSg1WAHf3dCrVYdJ5Z) | 3:55 |
+| 65 | [Things Can Only Get Better](https://open.spotify.com/track/1RbOObDFn7GOseR1w529Zj) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [Dream Into Action](https://open.spotify.com/album/1V8qUSg1WAHf3dCrVYdJ5Z) | 3:55 |
 | 66 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 67 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 |
 | 68 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 |

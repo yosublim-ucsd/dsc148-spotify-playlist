@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. El Malilla en portada.
 
-818 songs - 1 day 20 hr 23 min
+819 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Dejalo Ir](https://open.spotify.com/track/2f1u0yTIYN95nmScvQmZiQ) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed](https://open.spotify.com/album/1r0GC7OLM12sPncbIMWiUC) | 2:57 | 2022-04-23 | 2022-05-07 |
 | [Delivery](https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Delivery](https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9) | 3:29 | 2022-12-09 | 2023-03-18 |
 | [DEMBOW BÉLICO](https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DEMBOW BÉLICO](https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL) | 2:06 | 2023-06-09 |  |
+| [Derecho y Chueco](https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Derecho y Chueco](https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm) | 2:37 | 2024-01-12 |  |
 | [dEsANiMaO :\(](https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [dEsANiMaO :\(](https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ) | 3:07 | 2023-07-28 | 2023-11-11 |
 | [Deseo](https://open.spotify.com/track/6wCO32LfCHz8AwXRFBvZsi) | [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Efecto](https://open.spotify.com/album/2OF7tGEjqPHPeC4ua5TfBM) | 3:23 | 2023-01-27 | 2023-02-04 |
 | [Despues De Las 12](https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Despues De Las 12](https://open.spotify.com/album/16nZKNqRMKoxn5ukqBoaKW) | 3:14 | 2022-02-11 | 2022-04-26 |
@@ -257,7 +258,7 @@
 | [El Mero Mero](https://open.spotify.com/track/1kOzNZLM7Hmdfl7mm3IEpd) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [El Mero Mero](https://open.spotify.com/album/0ZYDVpUhNqMIXdqAv1lrEw) | 3:06 | 2022-07-29 | 2022-10-01 |
 | [El Mexicano Es Cabrón](https://open.spotify.com/track/53wmaavXQOJAsNO5AKjN6k) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Emmanuel Delgado](https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy) | [El Mexicano Es Cabrón](https://open.spotify.com/album/7a3aHh6afvNi5WeTCRatWS) | 2:53 | 2022-06-03 | 2022-06-18 |
 | [El Paso](https://open.spotify.com/track/3ZXYMVZVoT6xUplGpMNlCH) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Paso](https://open.spotify.com/album/5DgmRYNaI2aZk9s6ScwypE) | 2:34 | 2023-02-03 | 2023-02-11 |
-| [El Patrocinador](https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Patrocinador](https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne) | 3:26 | 2023-08-04 |  |
+| [El Patrocinador](https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Patrocinador](https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne) | 3:26 | 2023-08-04 | 2024-01-18 |
 | [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 | 2023-01-13 | 2023-03-04 |
 | [El Preso Y La Luna](https://open.spotify.com/track/5vSDruEF72vz5f8ULC6GSM) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Preso Y La Luna](https://open.spotify.com/album/3hnblc9MhXoQr5oAZe8S8p) | 3:15 | 2023-09-29 | 2023-10-07 |
 | [El Reemplazo](https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [El Reemplazo](https://open.spotify.com/album/0QaYqMY1nTvvKzUOf4F0tu) | 3:55 | 2022-06-03 | 2022-10-15 |

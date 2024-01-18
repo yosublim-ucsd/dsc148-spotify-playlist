@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 
 > The best and finest 80s Funk\. Cover: Bootsy Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,626 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,777 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 25 | [Fake](https://open.spotify.com/track/3wN45r0Lz73AQcuvY2pdVe) | [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Hearsay](https://open.spotify.com/album/5K4obZM7WvlNQ5B9CJ6KgA) | 3:55 |
 | 26 | [State of Shock](https://open.spotify.com/track/1sLTxLJzyoBJiPzv420KAx) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Victory](https://open.spotify.com/album/4nBMoo2lWA0tebq8iUWx1D) | 4:31 |
 | 27 | [Master Blaster \(Jammin'\)](https://open.spotify.com/track/5EAgXGJ8Kw5QAfhQkZXYqT) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh) | 5:07 |
-| 28 | [Let Me Go](https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap \(Deluxe Version\)](https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6) | 4:22 |
+| 28 | [Let Me Go \- Remastered 2006](https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap \(Deluxe Version\)](https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6) | 4:22 |
 | 29 | [I'm Real](https://open.spotify.com/track/6DzXw0IEY1ErHfiVagW33j) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [I'm Real \(Expanded\)](https://open.spotify.com/album/0nWs5H9EEUwvpyPlqaxfeD) | 5:34 |
 | 30 | [Happy Ever After](https://open.spotify.com/track/4V3KnUzd0Nj3pI0NW6W3oC) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Unlimited Touch](https://open.spotify.com/album/6IFLgKyEZnnGkwZculh9O8) | 6:08 |
 | 31 | [Peanut Butter](https://open.spotify.com/track/1avLYHHR0AEDmZVbicpWpu) | [Twennynine](https://open.spotify.com/artist/4lrBQQ6NR1pj1nSzsPs7sI), [Lenny White](https://open.spotify.com/artist/478WAnkTtQach00La2gvxR) | [Best Of Friends](https://open.spotify.com/album/53fNq8N0v5K2E7S789DqWi) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 99 | [Walkin' The Line](https://open.spotify.com/track/32ZRHR67bss5cpB7Dw2kYb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Best Of ..Movin' & Changin'](https://open.spotify.com/album/70mFuD9TrIvjUoZN45R4M0) | 5:45 |
 | 100 | [Baby Love](https://open.spotify.com/track/1S0U07ifPGgmXGvVmGzUWP) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/1caPDYrr1i3X12eYWh4UDl) | 5:53 |
 
-Snapshot ID: `MCxhNzc0YWQ5NTIyZmE3YWQ1ZmNhNGQ5OTU4NTAwMzYxM2ZjMDlkYTE1`
+Snapshot ID: `MCw5MTJiZjVkYmUyNDUwM2U0ZDUyODI5Y2Q4OTE3OGExMTliN2UyZDdk`

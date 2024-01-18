@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,849 songs - 4 day 3 hr 57 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,850 songs - 4 day 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1857,5 +1857,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1847 | [Foreign](https://open.spotify.com/track/0dhIREu2eVTBCbwLsJhgmJ) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 5:05 |
 | 1848 | [What Was Really Said](https://open.spotify.com/track/7dO1Pnoy2Evv4QyL1fimWc) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Demo](https://open.spotify.com/album/2yWdfejXTvMsUOafpKs4gI) | 2:33 |
 | 1849 | [Alto Saxophone Sonatina: III\. Allegretto](https://open.spotify.com/track/6UDByt65uoaq4HPtsRpzWp) | [Pierre Max Dubois](https://open.spotify.com/artist/6Jyj1F9xSqxa3ZiPdMiFAV), [Rigó Sándor](https://open.spotify.com/artist/2F9MKgJojWJE7BVpaFRs2G), [Christina Leeb\-Grill](https://open.spotify.com/artist/4mHpSu2etjk2gCfpyJfXFu) | [Dubois: Divertissement](https://open.spotify.com/album/0HSJdp7xvGgBNdLIrnXFir) | 2:21 |
+| 1850 | [PROTECTION CHARM \- SLOW & HARD VERSION](https://open.spotify.com/track/67d61xaEAHgejORdRW1Bxt) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [PROTECTION CHARM \(SLOW & HARD VERSION\)](https://open.spotify.com/album/5Y2ksEFO3x9uS88JKIhbGy) | 3:30 |
 
-Snapshot ID: `NzAwLGRkY2ZiNWI0OGU3NjQxODY5ZmI2MTkwNDAzNmQ1NzRhNzI1YmE3NmY=`
+Snapshot ID: `NzAxLGNhYmRjNjE2YzdkNDczMmM3OGEyM2VhMGU5MjllMzJlOTRkYmM5MGI=`

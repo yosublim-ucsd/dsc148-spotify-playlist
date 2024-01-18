@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 
 > This is Aidan Bissett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 19 | [Wish It Was Me](https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 2:33 |
 | 20 | [So High](https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [So High](https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb) | 2:49 |
 
-Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDBjZDZhNGRlZDJiYTA2NmNjMDk3NTkzZTc1Y2RmMTE2Yw==`
+Snapshot ID: `Mjg0MjQ4NzgsMDAwMDAwMDBmOTdlYThiMjQwZmYxMzI3Y2E5ZDI3MWFmM2E3NGQ1ZA==`

@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 4409,
+  "num_followers": 4413,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTBiNjk2MWQ3MmFmODFjMmNmMGU5YWExOTExNmI5NTJlYWU5YjQz",
+  "snapshot_id": "MCwzYzBlZDhmMTdjNDg3NDRkODQ0NDMxMTk1NDFkY2NkM2M2MDIyZWEw",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Oke Mmiri",
-        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 504000,
-      "name": "Oke Mmiri - Live",
-      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Uko Wapi Mungu",
         "url": "https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 212869,
       "name": "Another Miracle",
       "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Oke Mmiri",
+        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 504000,
+      "name": "Oke Mmiri - Live",
+      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Everything (Amen)",
+        "url": "https://open.spotify.com/album/2nF5JgRAYmjOPTsRVnHX9Q"
+      },
+      "artists": [
+        {
+          "name": "Timi Dakolo",
+          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
+        }
+      ],
+      "duration_ms": 237725,
+      "name": "Everything (Amen)",
+      "url": "https://open.spotify.com/track/0fMFygZkl6SxSgYbXNQZME"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Nimekutana Na Yesu",
         "url": "https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2"
       },
@@ -595,6 +611,22 @@
       "duration_ms": 295920,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Safari: The Journey",
+        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
+      },
+      "artists": [
+        {
+          "name": "Adawnage",
+          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
+        }
+      ],
+      "duration_ms": 281155,
+      "name": "Uwezo",
+      "url": "https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -619,22 +651,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Safari: The Journey",
-        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
-      },
-      "artists": [
-        {
-          "name": "Adawnage",
-          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
-        }
-      ],
-      "duration_ms": 281155,
-      "name": "Uwezo",
-      "url": "https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Mkono Wa Bwana",
         "url": "https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 349492,
       "name": "Mkono Wa Bwana",
       "url": "https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Everything (Amen)",
-        "url": "https://open.spotify.com/album/2nF5JgRAYmjOPTsRVnHX9Q"
-      },
-      "artists": [
-        {
-          "name": "Timi Dakolo",
-          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
-        }
-      ],
-      "duration_ms": 237725,
-      "name": "Everything (Amen)",
-      "url": "https://open.spotify.com/track/0fMFygZkl6SxSgYbXNQZME"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
     },
     {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Kirathimo",
-        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
-      },
-      "artists": [
-        {
-          "name": "Grace Mwai",
-          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Kirathimo",
-      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
-    },
-    {
       "added_at": "2024-01-05 00:01:00",
       "album": {
         "name": "after all these years",
@@ -815,6 +799,22 @@
       "duration_ms": 268365,
       "name": "After All These Years",
       "url": "https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Kirathimo",
+        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
+      },
+      "artists": [
+        {
+          "name": "Grace Mwai",
+          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Kirathimo",
+      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
     },
     {
       "added_at": "2023-11-17 00:01:00",

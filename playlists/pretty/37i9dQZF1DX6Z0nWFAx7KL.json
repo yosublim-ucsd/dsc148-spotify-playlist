@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47396,
+  "num_followers": 47405,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTBhNjBmZWNkMDM4YzkxMDA2MTczZjJlNTA5MTJjNzBmNThlYzdi",
+  "snapshot_id": "MCxhMDEzMzBiZTBlODk4M2U4ZGUzM2RlNDU4N2ZmMjM5M2E3MWJjZjc3",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "King",
+      "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Tell Me How",
         "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 132742,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "King",
-      "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Lost In The Sky",
+        "url": "https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "Lost In The Sky",
+      "url": "https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Lightning To Strike",
         "url": "https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 178721,
       "name": "Lightning To Strike",
       "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Lost In The Sky",
-        "url": "https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Lost In The Sky",
-      "url": "https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 162833,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "The Boys Of Summer",
         "url": "https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 137142,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Dancing With Your Ghost",
-        "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 162833,
-      "name": "Dancing With Your Ghost",
-      "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -487,6 +487,26 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 183460,
+      "name": "Lights Go Down",
+      "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Sweet Harmony",
         "url": "https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 162310,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 183460,
-      "name": "Lights Go Down",
-      "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Thousand Lullabies",
-        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        }
-      ],
-      "duration_ms": 129573,
-      "name": "Thousand Lullabies",
-      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Forever, Now",
         "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 274795,
       "name": "Elenore",
       "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Thousand Lullabies",
+        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 129573,
+      "name": "Thousand Lullabies",
+      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "That Kinda Love",
+        "url": "https://open.spotify.com/album/55CLCdTPdK4EhfeHqeZ5Zc"
+      },
+      "artists": [
+        {
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
+        },
+        {
+          "name": "JIMINI",
+          "url": "https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn"
+        }
+      ],
+      "duration_ms": 164125,
+      "name": "That Kinda Love",
+      "url": "https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Summer Jams",
         "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 137149,
       "name": "Summer Jams",
       "url": "https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "That Kinda Love",
-        "url": "https://open.spotify.com/album/55CLCdTPdK4EhfeHqeZ5Zc"
-      },
-      "artists": [
-        {
-          "name": "DJ Licious",
-          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
-        },
-        {
-          "name": "JIMINI",
-          "url": "https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn"
-        }
-      ],
-      "duration_ms": 164125,
-      "name": "That Kinda Love",
-      "url": "https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Escaping",
-        "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
-      },
-      "artists": [
-        {
-          "name": "Bellestar",
-          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
-        },
-        {
-          "name": "Urban Love",
-          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Escaping",
-      "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Hold on Tight",
         "url": "https://open.spotify.com/album/6UtbCHjl70Y4lfeBzpHCOS"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 206384,
       "name": "Hold on Tight",
       "url": "https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Escaping",
+        "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
+      },
+      "artists": [
+        {
+          "name": "Bellestar",
+          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
+        },
+        {
+          "name": "Urban Love",
+          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Escaping",
+      "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
     },
     {
       "added_at": "2024-01-11 23:00:00",

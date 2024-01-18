@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 16866,
+  "num_followers": 16870,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmQwMGRmODU5Mjk4MDA2MzE1YzgwOTMwOGY0OThkMjgyNTZjYWU0",
+  "snapshot_id": "MCwyYjJjNWNiZDg2NTJhZDcwYTIyMGE0ZjJjMzQ3MjdhN2RhOTUxOGY1",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -171,22 +171,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Imagine Dragons (Spotify Sessions)",
         "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 303433,
       "name": "Blank Space/Stand By Me - Live From Spotify London",
       "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -399,22 +399,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
-        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 198777,
-      "name": "Candle In The Wind - 2018 Version",
-      "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Old Tyme Religion",
         "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 137426,
       "name": "99 Problems",
       "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
+        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 198777,
+      "name": "Candle In The Wind - 2018 Version",
+      "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -467,18 +467,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+        "name": "You Don't Own Me (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
         }
       ],
-      "duration_ms": 157733,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
+      "duration_ms": 199314,
+      "name": "You Don't Own Me (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -503,38 +507,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "You Don't Own Me (feat. G-Eazy)",
-        "url": "https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO"
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
       },
       "artists": [
         {
-          "name": "SAYGRACE",
-          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 199314,
-      "name": "You Don't Own Me (feat. G-Eazy)",
-      "url": "https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Pink Strat",
-        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 155240,
-      "name": "Whole Wide World",
-      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
+      "duration_ms": 157733,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -551,6 +535,22 @@
       "duration_ms": 346373,
       "name": "Harvest Moon - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Pink Strat",
+        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 155240,
+      "name": "Whole Wide World",
+      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -823,18 +823,26 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj"
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT"
       },
       "artists": [
         {
-          "name": "The Wind and The Wave",
-          "url": "https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy"
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 268893,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO"
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
     }
   ],
   "unique_name": "Under the Covers",

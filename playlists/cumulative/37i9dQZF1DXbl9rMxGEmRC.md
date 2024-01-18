@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-578 songs - 2 day 1 hr 16 min
+579 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Fire, Walk With Me](https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy) | [Mors Subita](https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8) | [Origin of Fire](https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh) | 3:20 | 2023-10-12 |  |
 | [Flammen](https://open.spotify.com/track/2HOdj1tDEf5xfSiHAyUkMm) | [Vreid](https://open.spotify.com/artist/2KvwC4Kmp2U8XnKr5Yr1hm) | [Flammen](https://open.spotify.com/album/5DGGRAUfZFLGhKrZPVxtma) | 4:42 | 2023-06-23 |  |
 | [Flammen fra Nord](https://open.spotify.com/track/46rxOhOtgCAswKbvu34j5B) | [Kampfar](https://open.spotify.com/artist/35nZyw3d7OIbhGeqBEPIYQ) | [Flammen fra Nord](https://open.spotify.com/album/4S28ObdRnMRWtf2t888wLp) | 6:02 | 2022-08-26 | 2022-09-16 |
+| [Flayed The Swine](https://open.spotify.com/track/1SlxHs0qz3equ4ayf2R1kc) | [Cryptopsy](https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN) | [As Gomorrah Burns](https://open.spotify.com/album/2wUwwjIKeYhyDIHNhDPno9) | 4:25 | 2024-01-11 |  |
 | [Flayed The Swine](https://open.spotify.com/track/6smHihNCui7rnPrOkq854A) | [Cryptopsy](https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN) | [Flayed The Swine](https://open.spotify.com/album/0RuwUfhIMaMcvgqX7lpp3w) | 4:25 | 2023-08-04 | 2023-11-02 |
 | [Fly with Me](https://open.spotify.com/track/7bdMpp3VlobHOzuqSi0GWT) | [Brymir](https://open.spotify.com/artist/3YDtlBGmfvE2Xw0avhHeK5) | [Fly with Me](https://open.spotify.com/album/33VKMEjDVQiytCE8sTtkGA) | 4:51 | 2022-08-26 | 2022-10-21 |
 | [Fn .380 Acp\#19074](https://open.spotify.com/track/0iyLsH1W7jhnHQ0vcYaBBV) | [1914](https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz) | [Fn .380 Acp\#19074](https://open.spotify.com/album/0rR0YT4jwqwiqgrvabEAlf) | 5:54 | 2021-12-17 | 2022-07-29 |
@@ -576,7 +577,7 @@
 | [Withstand The Fall Of Time](https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [At The Heart Of Winter](https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma) | 8:29 | 2022-07-13 |  |
 | [Woe](https://open.spotify.com/track/04rBvQ3NfSW7UsUvak2Hb2) | [Ragana](https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt) | [Desolation's Flower](https://open.spotify.com/album/7D1dzLAWZOTumnRTvGZGau) | 6:35 | 2023-10-27 |  |
 | [Wolves](https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Those of the Unlight](https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA) | 5:50 | 2022-07-13 |  |
-| [World Bleak Nepotism](https://open.spotify.com/track/1lMghAPS4Ahu1kQSTMBuoY) | [Aeternus](https://open.spotify.com/artist/08pfvfaswGFhlXz4j50eOP) | [Philosopher](https://open.spotify.com/album/7x5WcqPqGP27WBCP0WnoBp) | 5:19 | 2023-11-17 |  |
+| [World Bleak Nepotism](https://open.spotify.com/track/1lMghAPS4Ahu1kQSTMBuoY) | [Aeternus](https://open.spotify.com/artist/08pfvfaswGFhlXz4j50eOP) | [Philosopher](https://open.spotify.com/album/7x5WcqPqGP27WBCP0WnoBp) | 5:19 | 2023-11-17 | 2024-01-18 |
 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 | 2021-12-17 | 2022-03-19 |
 | [Worship the Eternal Darkness](https://open.spotify.com/track/5FwQeW8Z8ky47RqqPk0hi1) | [Archgoat](https://open.spotify.com/artist/3n2bgWmlyHgwnd9aPmnTM4) | [Worship the Eternal Darkness](https://open.spotify.com/album/7kPe4J6zhne6R5lHmFU9iT) | 3:38 | 2021-12-17 | 2022-01-08 |
 | [Worthless](https://open.spotify.com/track/0P9Eascqqk3l4rqw6kYF2z) | [Progeny of Sun](https://open.spotify.com/artist/2IOwkQMglFyNgyhjnG2Bpl) | [Worthless](https://open.spotify.com/album/3E4ImGoMJqqEs3dRROZEMj) | 3:39 | 2022-02-11 | 2022-07-23 |

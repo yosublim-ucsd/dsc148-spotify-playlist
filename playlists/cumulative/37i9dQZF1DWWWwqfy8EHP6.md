@@ -4,7 +4,7 @@
 
 > LeeHi's here for you, Hice Creams!
 
-117 songs - 7 hr 16 min
+119 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1, 2, 3, 4](https://open.spotify.com/track/6sKRxuwxnbkMqJ2G78V8e1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [1,2,3,4](https://open.spotify.com/album/5F8r1o0nNmDTndEzGM7Tsh) | 3:34 | 2022-03-14 | 2022-07-29 |
 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 | 2022-03-14 |  |
 | [20MIN](https://open.spotify.com/track/4jKgaXcTdOX1tzv7z7Vno1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 2:56 | 2022-03-14 | 2022-07-29 |
+| [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 | 2024-01-17 |  |
 | [Am I Strange](https://open.spotify.com/track/4AOsDw6TMLr40JodVNnmdU) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 3:35 | 2022-03-14 | 2022-07-29 |
 | [Am I Strange](https://open.spotify.com/track/7zQ3WUdHHU7ORMo7oCrjei) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:35 | 2022-03-14 |  |
 | [Because](https://open.spotify.com/track/2G4VUxAvEvmJAS8aLdmTcb) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 4:17 | 2022-03-14 | 2022-07-29 |
@@ -70,6 +71,7 @@
 | [MISSING U](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 4:08 | 2022-03-14 |  |
 | [MISSING U](https://open.spotify.com/track/3ga39Pl8BtmEQOFLHHnSnb) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 4:08 | 2022-03-14 | 2022-07-29 |
 | [MORE THAN A TV STAR](https://open.spotify.com/track/1FAhF5KRXdgPSkfXTSzUln) | [InnoVator](https://open.spotify.com/artist/2MAVttb6d2Zgvjm0oAlDvn), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Show Me the Money 4 Episode 4](https://open.spotify.com/album/1yocxA6MOGK0NkxS0KXpMk) | 3:45 | 2022-03-14 |  |
+| [My Beloved](https://open.spotify.com/track/2o8qsTLDQ17QWeozcwKFoF) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [My Beloved](https://open.spotify.com/album/2EngEc311hXov3f6KQ6h8D) | 4:04 | 2024-01-17 |  |
 | [MY LOVE](https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 10](https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E) | 3:40 | 2022-03-14 |  |
 | [MY STAR](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 3:41 | 2022-03-14 |  |
 | [MY STAR](https://open.spotify.com/track/2MAoyFo5GnR6MlX6VZbTNI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 3:41 | 2022-03-14 | 2022-07-29 |

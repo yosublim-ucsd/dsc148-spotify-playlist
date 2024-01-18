@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 536428,
+  "num_followers": 537032,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTY5YmFlZWNlZDgxNWVlMGE3YWEyODJmYjM4OGYxZTM2ZDhhZjIz",
+  "snapshot_id": "MCwyZDNlN2Y2YzlkZjMwNWI4ZjE2YjkxMmM4ZWZkODAyMTBiYjk1MDhh",
   "tracks": [
     {
       "added_at": "2024-01-16 18:26:04",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-01-16 18:26:04",
       "album": {
-        "name": "Shingeki no Kiseki",
-        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
-      },
-      "artists": [
-        {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        }
-      ],
-      "duration_ms": 341413,
-      "name": "Shinzo wo Sasageyo!",
-      "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
-    },
-    {
-      "added_at": "2024-01-16 18:26:04",
-      "album": {
         "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
         "url": "https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 251933,
       "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
       "url": "https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB"
+    },
+    {
+      "added_at": "2024-01-16 18:26:04",
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 341413,
+      "name": "Shinzo wo Sasageyo!",
+      "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
     },
     {
       "added_at": "2024-01-16 18:26:04",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-01-16 18:26:04",
       "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/1NF6OvO7LcY8f7m5rVxU1T"
-      },
-      "artists": [
-        {
-          "name": "SEKAI NO OWARI",
-          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
-        }
-      ],
-      "duration_ms": 291346,
-      "name": "RPG",
-      "url": "https://open.spotify.com/track/7facNrW6VRW8s3ICZ8G1uW"
-    },
-    {
-      "added_at": "2024-01-16 18:26:04",
-      "album": {
         "name": "Chou Ikimonobakari Tennen Kinen Members Best Selection",
         "url": "https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 223613,
       "name": "\u71b1\u60c5\u306e\u30b9\u30da\u30af\u30c8\u30e9\u30e0",
       "url": "https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7"
+    },
+    {
+      "added_at": "2024-01-16 18:26:04",
+      "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/1NF6OvO7LcY8f7m5rVxU1T"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "duration_ms": 291346,
+      "name": "RPG",
+      "url": "https://open.spotify.com/track/7facNrW6VRW8s3ICZ8G1uW"
     },
     {
       "added_at": "2024-01-16 18:26:04",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-16 18:26:04",
       "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 254838,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk"
-    },
-    {
-      "added_at": "2024-01-16 18:26:04",
-      "album": {
         "name": "FLOW THE BEST \u301cSingle Collection\u301c",
         "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 218493,
       "name": "COLORS",
       "url": "https://open.spotify.com/track/6bPPyigCphBBQ9781j6eKM"
+    },
+    {
+      "added_at": "2024-01-16 18:26:04",
+      "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 254838,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk"
     },
     {
       "added_at": "2024-01-16 18:26:04",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-16 18:26:04",
       "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 231385,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
-    },
-    {
-      "added_at": "2024-01-16 18:26:04",
-      "album": {
         "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
         "url": "https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 162366,
       "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
       "url": "https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh"
+    },
+    {
+      "added_at": "2024-01-16 18:26:04",
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 231385,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
     },
     {
       "added_at": "2024-01-16 18:26:04",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-01-16 18:26:04",
       "album": {
-        "name": "\u30b9\u30ab\u30fc",
-        "url": "https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 259191,
-      "name": "\u30b9\u30ab\u30fc",
-      "url": "https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE"
-    },
-    {
-      "added_at": "2024-01-16 18:26:04",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 233893,
       "name": "D-tecnoLife",
       "url": "https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt"
+    },
+    {
+      "added_at": "2024-01-16 18:26:04",
+      "album": {
+        "name": "\u30b9\u30ab\u30fc",
+        "url": "https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "duration_ms": 259191,
+      "name": "\u30b9\u30ab\u30fc",
+      "url": "https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE"
     },
     {
       "added_at": "2024-01-16 18:26:04",

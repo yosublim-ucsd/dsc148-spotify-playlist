@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/33tldAlCD8P8ski9feKj3T.md) - [plain]
 
 > The best in new Modern Music\. Artist Image: <a href="https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph?si=J9U2u3f7QEeZS9qdsgartg">Mother Mother</a>
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 22,231 likes - 60 songs - 3 hr 13 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 22,227 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

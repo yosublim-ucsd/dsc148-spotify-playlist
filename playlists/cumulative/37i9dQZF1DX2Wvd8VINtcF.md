@@ -4,7 +4,7 @@
 
 > the pearls of an oyster\. Cover: boerd & Boko Yout
 
-1,033 songs - 2 day 9 hr 9 min
+1,035 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [drunk a\*\* honeymoon](https://open.spotify.com/track/2JQlWnRIOG5uoCjPDINYBe) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [drunk a\*\* honeymoon](https://open.spotify.com/album/6mrpbimhRcotxq15F9jdpj) | 3:03 | 2023-09-28 | 2023-12-15 |
 | [Dust On The Money](https://open.spotify.com/track/0HIgUErSJec4SGCmddPUOz) | [Jurdan Bryant](https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Underneath, Ova East](https://open.spotify.com/album/2QjqterCynXaYFoPmCWXdl) | 3:19 | 2023-11-30 | 2023-12-08 |
 | [East Side](https://open.spotify.com/track/0htEePE0HTVGp6Sj9ghjRx) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr) | [East Side](https://open.spotify.com/album/5H03DiLR1qnG5ZMvpBXJi5) | 3:29 | 2023-03-23 | 2023-04-07 |
+| [EASY](https://open.spotify.com/track/04Dko7XP8nPEMfwIJFVpES) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [EASY](https://open.spotify.com/album/4XSsqfGgX7wHPubb2l61DI) | 3:14 | 2024-01-11 |  |
 | [Easy](https://open.spotify.com/track/1U6NDSRMcLYdJIUzwPASni) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Easy](https://open.spotify.com/album/17Wr40mwfgaeUREqsKQNRt) | 5:44 | 2022-10-28 | 2022-11-11 |
 | [Easy](https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 2:08 | 2024-01-11 |  |
 | [Easy Go!](https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Easy Go!](https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk) | 2:30 | 2023-04-20 | 2023-10-06 |
@@ -427,6 +428,7 @@
 | [Holograms](https://open.spotify.com/track/4pVudhub5wGBFAGp8nxtXz) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [Holograms](https://open.spotify.com/album/6TkBfw7hE2NCyHHidoqK0M) | 2:23 | 2022-12-08 | 2023-01-27 |
 | [Holy Ghost](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 | 2023-11-09 |  |
 | [Holy Shit](https://open.spotify.com/track/2qTdZWYM0iG92C4aSMDT5I) | [Ros](https://open.spotify.com/artist/1WFDjXyyIHnYbSq8UmTD7X), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu) | [Holy Shit](https://open.spotify.com/album/028AHBglxW0vvE3yZ077aw) | 2:42 | 2023-10-05 | 2023-12-22 |
+| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-17 |  |
 | [Home](https://open.spotify.com/track/0qP4QTGEmlslzEWIqF5oNs) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Swedish Red Elephant](https://open.spotify.com/artist/6fT9phXpEYVm2zB0QzGqDJ) | [Home](https://open.spotify.com/album/78TnopwNnqynxZV3A7UJeB) | 2:25 | 2022-12-15 | 2023-03-10 |
 | [Homebody](https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Homebody](https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi) | 3:15 | 2023-06-29 | 2023-09-01 |
 | [Honey Filled Skies](https://open.spotify.com/track/7bz3qPnazPPEJMj2XtNVEd) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [BUD](https://open.spotify.com/album/3iHi5YiyGr5Q0ExbRWwWy1) | 3:10 | 2022-11-03 | 2022-11-18 |

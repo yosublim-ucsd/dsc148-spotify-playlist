@@ -1,12 +1,12 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 450764,
+  "num_followers": 450957,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzBhNDQxMmQ0ZWJjODIzYTk1OWZmYTVkMzQ1YmExNWFjOWNkYmJm",
+  "snapshot_id": "MCw1ZjA4Y2JmMWMxNWNiYWE5ODI5ZmExYjJmOTRlZWUzYmY3ZmJhYTcx",
   "tracks": [
     {
       "added_at": "2024-01-11 22:39:38",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
+        "name": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
+        "url": "https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Mil Horas - 1994 Remastered Version",
+      "url": "https://open.spotify.com/track/4pHdHimCLvD4nx8lh6uQyx"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
         "name": "Armando Camale\u00f3n",
         "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 237546,
       "name": "Campanas en la Noche",
       "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
-        "name": "Esperando el Milagro",
-        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -443,34 +443,18 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
-        "url": "https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h"
+        "name": "Esperando el Milagro",
+        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
       },
       "artists": [
         {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
         }
       ],
-      "duration_ms": 167213,
-      "name": "Mil Horas - 1994 Remastered Version",
-      "url": "https://open.spotify.com/track/4pHdHimCLvD4nx8lh6uQyx"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+      "duration_ms": 181826,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -503,6 +487,22 @@
       "duration_ms": 235560,
       "name": "Te quiero igual",
       "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "Arde la Ciudad",
-      "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
         "name": "Hijos Del Culo",
         "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 249933,
       "name": "Toco Y Me Voy",
       "url": "https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "Arde la Ciudad",
+      "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 252818,
-      "name": "Astros",
-      "url": "https://open.spotify.com/track/6iVP8SnhHnFNy7WYrIw1JB"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
         "name": "Barrilete",
         "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 252818,
+      "name": "Astros",
+      "url": "https://open.spotify.com/track/6iVP8SnhHnFNy7WYrIw1JB"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Un Poco de Amor Franc\u00e9s",
+      "url": "https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
         "name": "Detonador de Sue\u00f1os",
         "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 264838,
       "name": "La Raz\u00f3n Que Te Demora",
       "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
-        "name": "El Cielo Puede Esperar",
-        "url": "https://open.spotify.com/album/2Hq8YjDCJfynzmTgLGVkxJ"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 229506,
-      "name": "Hacelo por M\u00ed",
-      "url": "https://open.spotify.com/track/5zqXco5gN08t20hf5AO62z"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
+        "name": "El Cielo Puede Esperar",
+        "url": "https://open.spotify.com/album/2Hq8YjDCJfynzmTgLGVkxJ"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 229506,
+      "name": "Hacelo por M\u00ed",
+      "url": "https://open.spotify.com/track/5zqXco5gN08t20hf5AO62z"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Un Poco de Amor Franc\u00e9s",
-      "url": "https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "Algo mejor",
-        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Mi enfermedad",
-      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
         "name": "Lobo Suelto",
         "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "Espejos",
-        "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
+        "name": "Algo mejor",
+        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
         }
       ],
-      "duration_ms": 302788,
-      "name": "Antes y Despu\u00e9s",
-      "url": "https://open.spotify.com/track/3Awr8U97Q3vVR3vWdQv8Ts"
+      "duration_ms": 201773,
+      "name": "Mi enfermedad",
+      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -1215,6 +1199,22 @@
       "duration_ms": 248466,
       "name": "Decide T\u00fa",
       "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
+        "name": "Espejos",
+        "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 302788,
+      "name": "Antes y Despu\u00e9s",
+      "url": "https://open.spotify.com/track/3Awr8U97Q3vVR3vWdQv8Ts"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "Girando",
-        "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
-      },
-      "artists": [
-        {
-          "name": "Ratones Paranoicos",
-          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Sigue Girando",
-      "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
         "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
         "url": "https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 176173,
       "name": "Esa Estrella Era Mi Lujo",
       "url": "https://open.spotify.com/track/1buwr89mlvxbaqArqmvCYS"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
+        "name": "Girando",
+        "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
+      },
+      "artists": [
+        {
+          "name": "Ratones Paranoicos",
+          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Sigue Girando",
+      "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -1395,30 +1395,6 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "Tren de Fugitivos",
-        "url": "https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f"
-      },
-      "artists": [
-        {
-          "name": "El Soldado",
-          "url": "https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp"
-        },
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Sergio Dawi",
-          "url": "https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs"
-        }
-      ],
-      "duration_ms": 316626,
-      "name": "Angel de los Perdedores",
-      "url": "https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
@@ -1447,6 +1423,30 @@
       "duration_ms": 238666,
       "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
       "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
+        "name": "Tren de Fugitivos",
+        "url": "https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f"
+      },
+      "artists": [
+        {
+          "name": "El Soldado",
+          "url": "https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Sergio Dawi",
+          "url": "https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs"
+        }
+      ],
+      "duration_ms": 316626,
+      "name": "Angel de los Perdedores",
+      "url": "https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "La Sintesis O'Konor",
-        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 327739,
-      "name": "La Noche Eterna",
-      "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
         "name": "Civilizaci\u00f3n",
         "url": "https://open.spotify.com/album/0aPjWHFy8wvMwUBhWVq6TV"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 320760,
       "name": "Bicho de Ciudad",
       "url": "https://open.spotify.com/track/0oCiPqIEL5218yu2D996eP"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 327739,
+      "name": "La Noche Eterna",
+      "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
     },
     {
       "added_at": "2024-01-11 22:39:38",

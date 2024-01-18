@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 459020,
+  "num_followers": 459055,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzNjNjZmMjFhMjY2N2Q1MzgxM2E2NThlYWVhNTczYmE0YjE4NmQw",
+  "snapshot_id": "MCxlNzk3NDMzY2Y0OGQwNjk5MWRjMmI4OWVjNThjMjQ5MTE2MmFhYmE1",
   "tracks": [
     {
       "added_at": "2024-01-04 19:26:35",
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
     },
     {
-      "added_at": "2023-07-18 19:12:42",
-      "album": {
-        "name": "Pleiades",
-        "url": "https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi"
-      },
-      "artists": [
-        {
-          "name": "AINO",
-          "url": "https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu"
-        }
-      ],
-      "duration_ms": 508603,
-      "name": "Alcyone",
-      "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
-    },
-    {
       "added_at": "2022-03-30 04:42:42",
       "album": {
         "name": "Chamas Do Cerrado",
@@ -435,6 +419,22 @@
       "duration_ms": 213708,
       "name": "Vale Da Lua",
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+    },
+    {
+      "added_at": "2023-07-18 19:12:42",
+      "album": {
+        "name": "Pleiades",
+        "url": "https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi"
+      },
+      "artists": [
+        {
+          "name": "AINO",
+          "url": "https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu"
+        }
+      ],
+      "duration_ms": 508603,
+      "name": "Alcyone",
+      "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
     },
     {
       "added_at": "2023-06-27 23:11:49",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
+      "added_at": "2022-07-15 05:34:07",
+      "album": {
+        "name": "Grit.",
+        "url": "https://open.spotify.com/album/1t4OkFOkncJd3Bz2hXKK8w"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 331032,
+      "name": "Surrounded By Neighbours",
+      "url": "https://open.spotify.com/track/6yZhFRgrAPLMXkxOcD6Za7"
+    },
+    {
       "added_at": "2023-04-12 01:28:07",
       "album": {
         "name": "chronopolis",
@@ -521,20 +537,24 @@
       "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
     },
     {
-      "added_at": "2022-07-15 05:34:07",
+      "added_at": "2022-02-25 05:12:51",
       "album": {
-        "name": "Grit.",
-        "url": "https://open.spotify.com/album/1t4OkFOkncJd3Bz2hXKK8w"
+        "name": "April Dub",
+        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
       },
       "artists": [
         {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+          "name": "Sancho Meiso Chaya",
+          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
+        },
+        {
+          "name": "Koyas",
+          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
         }
       ],
-      "duration_ms": 331032,
-      "name": "Surrounded By Neighbours",
-      "url": "https://open.spotify.com/track/6yZhFRgrAPLMXkxOcD6Za7"
+      "duration_ms": 260006,
+      "name": "April Dub (Koyas Mix)",
+      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
       "added_at": "2022-05-06 03:38:46",
@@ -559,26 +579,6 @@
       "duration_ms": 359152,
       "name": "Blame Me - BAILE Remix",
       "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
-    },
-    {
-      "added_at": "2022-02-25 05:12:51",
-      "album": {
-        "name": "April Dub",
-        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
-      },
-      "artists": [
-        {
-          "name": "Sancho Meiso Chaya",
-          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
-        },
-        {
-          "name": "Koyas",
-          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "April Dub (Koyas Mix)",
-      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
-      "added_at": "2022-03-30 05:37:06",
-      "album": {
-        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
-        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
-    },
-    {
       "added_at": "2023-11-15 16:34:12",
       "album": {
         "name": "Time to Leave",
@@ -651,6 +635,22 @@
       "duration_ms": 292173,
       "name": "Time to Leave",
       "url": "https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu"
+    },
+    {
+      "added_at": "2022-03-30 05:37:06",
+      "album": {
+        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
+        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
     },
     {
       "added_at": "2022-03-30 05:10:26",
@@ -701,20 +701,20 @@
       "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
-      "added_at": "2023-03-28 06:23:11",
+      "added_at": "2021-10-15 03:56:52",
       "album": {
-        "name": "Extensions",
-        "url": "https://open.spotify.com/album/4NbNg6wkAtFk0Rv30UUvYN"
+        "name": "Transactional Relationship",
+        "url": "https://open.spotify.com/album/38XWYqdoqeMD1oYTCmaw67"
       },
       "artists": [
         {
-          "name": "Imp\u00e9rieux",
-          "url": "https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK"
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
         }
       ],
-      "duration_ms": 252601,
-      "name": "Desert Viper",
-      "url": "https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP"
+      "duration_ms": 193535,
+      "name": "Transactional Relationship",
+      "url": "https://open.spotify.com/track/3GAEFblFG0ZzSKx5ilOWeW"
     },
     {
       "added_at": "2022-12-20 19:12:56",
@@ -757,6 +757,22 @@
       "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
+      "added_at": "2023-03-28 06:23:11",
+      "album": {
+        "name": "Extensions",
+        "url": "https://open.spotify.com/album/4NbNg6wkAtFk0Rv30UUvYN"
+      },
+      "artists": [
+        {
+          "name": "Imp\u00e9rieux",
+          "url": "https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK"
+        }
+      ],
+      "duration_ms": 252601,
+      "name": "Desert Viper",
+      "url": "https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP"
+    },
+    {
       "added_at": "2022-07-08 04:48:31",
       "album": {
         "name": "Closer (Daniel Avery Edit)",
@@ -791,22 +807,6 @@
       "duration_ms": 399240,
       "name": "Pigeon Barron",
       "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Transactional Relationship",
-        "url": "https://open.spotify.com/album/38XWYqdoqeMD1oYTCmaw67"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 193535,
-      "name": "Transactional Relationship",
-      "url": "https://open.spotify.com/track/3GAEFblFG0ZzSKx5ilOWeW"
     },
     {
       "added_at": "2023-03-03 04:17:23",

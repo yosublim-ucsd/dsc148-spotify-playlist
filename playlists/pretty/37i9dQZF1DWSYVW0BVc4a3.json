@@ -1,12 +1,12 @@
 {
   "description": "The stomping ground. ",
-  "num_followers": 115483,
+  "num_followers": 115765,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzA2ZGUwYWY5MmM0MGJkMWZlY2Q2ZjI5OTkwNDljMGEyMjIxNzQy",
+  "snapshot_id": "MCxhNzdiMTAwNTFlYWYwMzlhOTUxOTI4NGEzZWY4MjIxMTRiZGU1OTY2",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "The Chant (For Club Play Only, Pt. 8)",
+        "url": "https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 190104,
+      "name": "The Chant - For Club Play Only, Pt. 8",
+      "url": "https://open.spotify.com/track/7xy9K0gpqzgUGGuxG5ZfuN"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "The Chant (For Club Play Only, Pt. 8)",
-        "url": "https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 190104,
-      "name": "The Chant - For Club Play Only, Pt. 8",
-      "url": "https://open.spotify.com/track/7xy9K0gpqzgUGGuxG5ZfuN"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Ethnica",
         "url": "https://open.spotify.com/album/6uUKyUOz3jYwiP3giwvzfT"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 174662,
       "name": "Ethnica",
       "url": "https://open.spotify.com/track/0m5oWTFhtRZwfArXOwckRm"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
-      },
-      "artists": [
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
+      },
+      "artists": [
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Dance of the Crab",
         "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
       },
@@ -1211,6 +1211,38 @@
       "duration_ms": 144479,
       "name": "Dance of the Crab - Edit",
       "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Dance With Me EP",
+        "url": "https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 391590,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 415748,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1239,34 +1271,26 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
+        "name": "Night After Night",
+        "url": "https://open.spotify.com/album/7hSPuiVmOvzEEm4rRr9N4o"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 415748,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Dance With Me EP",
-        "url": "https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS"
-      },
-      "artists": [
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
         {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
         }
       ],
-      "duration_ms": 391590,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
+      "duration_ms": 418528,
+      "name": "Night After Night (CamelPhat Remix)",
+      "url": "https://open.spotify.com/track/3fFDHJoKWph8PQwXq3aIoX"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1331,30 +1355,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Night After Night",
-        "url": "https://open.spotify.com/album/7hSPuiVmOvzEEm4rRr9N4o"
-      },
-      "artists": [
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Be No Rain",
-          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
-        }
-      ],
-      "duration_ms": 418528,
-      "name": "Night After Night (CamelPhat Remix)",
-      "url": "https://open.spotify.com/track/3fFDHJoKWph8PQwXq3aIoX"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Tudo Bem, Tudo Bom",
         "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
       },
@@ -1391,62 +1391,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 206410,
-      "name": "The Switch",
-      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Beyond Us (Hatshepsut Version)",
-        "url": "https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9"
-      },
-      "artists": [
-        {
-          "name": "Eynka",
-          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 234795,
-      "name": "Beyond Us - Hatshepsut Version",
-      "url": "https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Youth Is Wasted on the Young",
-        "url": "https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT"
-      },
-      "artists": [
-        {
-          "name": "Anden",
-          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 193623,
-      "name": "Grouplove",
-      "url": "https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Tontoron Tonton (Vlado & Rockywhereyoubeen Remix)",
         "url": "https://open.spotify.com/album/66mbvl4eeLvyvM7umCzsac"
       },
@@ -1471,6 +1415,42 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Beyond Us (Hatshepsut Version)",
+        "url": "https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9"
+      },
+      "artists": [
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 234795,
+      "name": "Beyond Us - Hatshepsut Version",
+      "url": "https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 206410,
+      "name": "The Switch",
+      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Dimension",
         "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 481920,
       "name": "Dimension",
       "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Youth Is Wasted on the Young",
+        "url": "https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT"
+      },
+      "artists": [
+        {
+          "name": "Anden",
+          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 193623,
+      "name": "Grouplove",
+      "url": "https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1503,6 +1503,30 @@
       "duration_ms": 211586,
       "name": "Better Recognize",
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Consciousness (Eric Prydz Remix)",
+        "url": "https://open.spotify.com/album/2jITDjGchk0LPGBXRqGiUQ"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 244130,
+      "name": "Consciousness (Eric Prydz Remix)",
+      "url": "https://open.spotify.com/track/5jf5tzTvyRWTHwiFiGYgsP"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1567,22 +1591,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/4jyoOefy8fepNSteb1z7MF"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Spring Girl (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/5b704SG8QwJJhRVDzDk4yv"
       },
@@ -1627,6 +1635,26 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 283902,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Where You Are (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
       },
@@ -1651,26 +1679,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Point Of No Return",
-        "url": "https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ"
-      },
-      "artists": [
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 283902,
-      "name": "Point Of No Return",
-      "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
       },
@@ -1691,26 +1699,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Consciousness (Eric Prydz Remix)",
-        "url": "https://open.spotify.com/album/2jITDjGchk0LPGBXRqGiUQ"
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
       "artists": [
         {
           "name": "Anyma",
           "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        },
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
         }
       ],
-      "duration_ms": 244130,
-      "name": "Consciousness (Eric Prydz Remix)",
-      "url": "https://open.spotify.com/track/5jf5tzTvyRWTHwiFiGYgsP"
+      "duration_ms": 245760,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/4jyoOefy8fepNSteb1z7MF"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1735,30 +1735,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Redfield",
-          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
-        },
-        {
-          "name": "DJ Rae",
-          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
-        }
-      ],
-      "duration_ms": 173601,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Dope Dance",
         "url": "https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k"
       },
@@ -1779,6 +1755,30 @@
       "duration_ms": 217280,
       "name": "Dope Dance",
       "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Redfield",
+          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
+        },
+        {
+          "name": "DJ Rae",
+          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
+        }
+      ],
+      "duration_ms": 173601,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Rhythm Machine",
+        "url": "https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Rhythm Machine",
+      "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Perfect Love (Biscits Remix)",
         "url": "https://open.spotify.com/album/1HVIOPdgDaSIdKy79G1Dbj"
       },
@@ -1967,26 +1987,6 @@
       "duration_ms": 291304,
       "name": "I Need You - Adriatique Remix",
       "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "The Little Mushroom That Got Away",
-        "url": "https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 335409,
-      "name": "The Little Mushroom That Got Away",
-      "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
     }
   ],
   "unique_name": "Open Air",

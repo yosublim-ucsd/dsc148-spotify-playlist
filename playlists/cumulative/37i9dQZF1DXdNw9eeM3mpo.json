@@ -5022,6 +5022,24 @@
     {
       "album": {
         "name": "Sonia",
+        "url": "https://open.spotify.com/album/6yr9McxiaHAvqDQcyaqdFt"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pucho",
+          "url": "https://open.spotify.com/artist/1UEvN2UU9EiUi4CVQ2eP0p"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170196,
+      "name": "Sonia",
+      "url": "https://open.spotify.com/track/2lyYhNY2NO7cHiL3BAQTNM"
+    },
+    {
+      "album": {
+        "name": "Sonia",
         "url": "https://open.spotify.com/album/6tu85sTYKVtl7fAOuQB2xB"
       },
       "artists": [
@@ -5032,7 +5050,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 170196,
       "name": "Sonia",
       "url": "https://open.spotify.com/track/7EV6gXmbN5bzsR7Z3s3LpD"

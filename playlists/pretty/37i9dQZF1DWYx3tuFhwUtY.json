@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 141321,
+  "num_followers": 141331,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzMxNjg4Y2VjODk2MWM2YTBmNjExZmY4ZjJjOGI2N2RjYjlhMjA1",
+  "snapshot_id": "MCwxYTU4YzkzZGM0MmU3OGMyNmEzOGE2NDY3MDY4M2RlMTFjZTMwN2Q0",
   "tracks": [
     {
       "added_at": "2023-10-23 19:19:23",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Halcyon Digest",
-        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
-      },
-      "artists": [
-        {
-          "name": "Deerhunter",
-          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
-        }
-      ],
-      "duration_ms": 133666,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -483,22 +467,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 185276,
-      "name": "After The Earthquake",
-      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Mushroom Death Sex Bummer Party",
         "url": "https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9"
       },
@@ -511,6 +479,38 @@
       "duration_ms": 90343,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Halcyon Digest",
+        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
+      },
+      "artists": [
+        {
+          "name": "Deerhunter",
+          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Marauder",
-        "url": "https://open.spotify.com/album/3h5FWXoJEw2MFmUOMfVke2"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "The Rover",
-      "url": "https://open.spotify.com/track/2VabHofHU2PBXX6fakAgaZ"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 195600,
       "name": "Lilacs",
       "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Marauder",
+        "url": "https://open.spotify.com/album/3h5FWXoJEw2MFmUOMfVke2"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "The Rover",
+      "url": "https://open.spotify.com/track/2VabHofHU2PBXX6fakAgaZ"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Layup IV",
         "url": "https://open.spotify.com/album/2iltpSD2W7R7xwveMqF5ti"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 201817,
       "name": "Every Mile",
       "url": "https://open.spotify.com/track/2tWWWNbPwoP6A3C1eIMeGh"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/4GD61YplOsyg4GV7tPH2KF"
-      },
-      "artists": [
-        {
-          "name": "Bnny",
-          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
-        }
-      ],
-      "duration_ms": 93470,
-      "name": "Time Walk",
-      "url": "https://open.spotify.com/track/2GmJzA4SwQityiYlFS7mCJ"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Wachito Rico",
         "url": "https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 214146,
       "name": "wachito rico",
       "url": "https://open.spotify.com/track/0OYf62rdwDouKohtCALD55"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4GD61YplOsyg4GV7tPH2KF"
+      },
+      "artists": [
+        {
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+        }
+      ],
+      "duration_ms": 93470,
+      "name": "Time Walk",
+      "url": "https://open.spotify.com/track/2GmJzA4SwQityiYlFS7mCJ"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 117850,
-      "name": "Veronica Mars",
-      "url": "https://open.spotify.com/track/4QLqCFAGqvHnjOWCtHTsQL"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 220106,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 117850,
+      "name": "Veronica Mars",
+      "url": "https://open.spotify.com/track/4QLqCFAGqvHnjOWCtHTsQL"
     },
     {
       "added_at": "2023-10-23 19:19:23",

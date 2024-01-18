@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30854,
+  "num_followers": 30862,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDEyZWRlODhiMmVhYjk2YzdhNzUxMjM1OGYyZDU3ODdjYmMzMmQ4",
+  "snapshot_id": "MCxkMzYzNjJhZDFjYTg0NjQxZWQyYzY2OGVjZmI3ZDY5ZmFiZTY1ZTVm",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Ond saga",
+        "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Sverigev\u00e4nner",
+      "url": "https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Ebba Gr\u00f6n 1978 - 1982",
         "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 199160,
       "name": "Psykopaten",
       "url": "https://open.spotify.com/track/2NXA45aJcDNJ8zdE9LB4YO"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Ond saga",
-        "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "Sverigev\u00e4nner",
-      "url": "https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Fr\u00e5n Fest Till Arrest",
-        "url": "https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a"
-      },
-      "artists": [
-        {
-          "name": "Gatans Lag",
-          "url": "https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Livet \u00c4r F\u00f6r Kort F\u00f6r Sorgliga S\u00e5nger",
-      "url": "https://open.spotify.com/track/6kbvbAKoFDtOjbxfTPTFGp"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "D\u00f6d Mark 4Evigt",
         "url": "https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 109120,
       "name": "I Din Sol",
       "url": "https://open.spotify.com/track/5gihLvviOhCQSs80u4tRiF"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Fr\u00e5n Fest Till Arrest",
+        "url": "https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a"
+      },
+      "artists": [
+        {
+          "name": "Gatans Lag",
+          "url": "https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Livet \u00c4r F\u00f6r Kort F\u00f6r Sorgliga S\u00e5nger",
+      "url": "https://open.spotify.com/track/6kbvbAKoFDtOjbxfTPTFGp"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Aktion",
+        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 109800,
+      "name": "En slemmig torsk",
+      "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Pengar Har Inga \u00d6gon",
         "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 167480,
       "name": "Psykist Instabil",
       "url": "https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "En slemmig torsk",
-      "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -803,38 +803,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
-      },
-      "artists": [
-        {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Mamma pappa barn",
-      "url": "https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "V\u00e4rdel\u00f6s",
-        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
-      },
-      "artists": [
-        {
-          "name": "Sten & Stalin",
-          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
-        }
-      ],
-      "duration_ms": 123560,
-      "name": "Feta Gubbar",
-      "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
         "url": "https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD"
       },
@@ -851,6 +819,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+      },
+      "artists": [
+        {
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Mamma pappa barn",
+      "url": "https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Gbg Noir",
         "url": "https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 182526,
       "name": "Svegregationen",
       "url": "https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "V\u00e4rdel\u00f6s",
+        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
+      },
+      "artists": [
+        {
+          "name": "Sten & Stalin",
+          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
+        }
+      ],
+      "duration_ms": 123560,
+      "name": "Feta Gubbar",
+      "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Pengar Har Inga \u00d6gon",
-        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
-      },
-      "artists": [
-        {
-          "name": "De Lyckliga Kompisarna",
-          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
-        }
-      ],
-      "duration_ms": 68638,
-      "name": "Boostade Egon",
-      "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Urs\u00e4kta r\u00f6ran - vi river allt",
         "url": "https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 156656,
       "name": "Masspsykos",
       "url": "https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Pengar Har Inga \u00d6gon",
+        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
+      },
+      "artists": [
+        {
+          "name": "De Lyckliga Kompisarna",
+          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
+        }
+      ],
+      "duration_ms": 68638,
+      "name": "Boostade Egon",
+      "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Mvh Grannen",
-        "url": "https://open.spotify.com/album/4fePJdRUECaFQ7D1UKq7FK"
+        "name": "Bakom ljuset",
+        "url": "https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM"
       },
       "artists": [
         {
-          "name": "Pastoratet",
-          "url": "https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI"
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
         }
       ],
-      "duration_ms": 204132,
-      "name": "St\u00e4ll dig upp",
-      "url": "https://open.spotify.com/track/05mOnCWhhStBlH3veQAKWX"
+      "duration_ms": 136944,
+      "name": "Kaos",
+      "url": "https://open.spotify.com/track/1JgMOH0eqEeFZLTdOrNUd9"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1216,9 +1216,9 @@
           "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
         }
       ],
-      "duration_ms": 78800,
-      "name": "Jag vill bli som far",
-      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
+      "duration_ms": 132800,
+      "name": "Tidens tempo",
+      "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Mvh Grannen",
+        "url": "https://open.spotify.com/album/4fePJdRUECaFQ7D1UKq7FK"
+      },
+      "artists": [
+        {
+          "name": "Pastoratet",
+          "url": "https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI"
+        }
+      ],
+      "duration_ms": 204132,
+      "name": "St\u00e4ll dig upp",
+      "url": "https://open.spotify.com/track/05mOnCWhhStBlH3veQAKWX"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Pengar Har Inga \u00d6gon",
         "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Bakom ljuset",
-        "url": "https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM"
-      },
-      "artists": [
-        {
-          "name": "Norra Hospitalet",
-          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
-        }
-      ],
-      "duration_ms": 136944,
-      "name": "Kaos",
-      "url": "https://open.spotify.com/track/1JgMOH0eqEeFZLTdOrNUd9"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Aktion",
         "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
       },
@@ -1296,9 +1296,9 @@
           "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
         }
       ],
-      "duration_ms": 132800,
-      "name": "Tidens tempo",
-      "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
+      "duration_ms": 78800,
+      "name": "Jag vill bli som far",
+      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Fina Flickor",
-        "url": "https://open.spotify.com/album/10zKkoCqYTmbhzvri9o4My"
-      },
-      "artists": [
-        {
-          "name": "R\u00e4serbajs",
-          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
-        }
-      ],
-      "duration_ms": 143026,
-      "name": "Kungar Och Knektar",
-      "url": "https://open.spotify.com/track/6wsYpZEtDnnuAnWlUZwti0"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "\u00c4nnu En G\u00e5ng",
         "url": "https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Rosita",
-        "url": "https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg"
+        "name": "Fina Flickor",
+        "url": "https://open.spotify.com/album/10zKkoCqYTmbhzvri9o4My"
       },
       "artists": [
         {
-          "name": "The Manikins",
-          "url": "https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu"
+          "name": "R\u00e4serbajs",
+          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
         }
       ],
-      "duration_ms": 190976,
-      "name": "Rosita",
-      "url": "https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53"
+      "duration_ms": 143026,
+      "name": "Kungar Och Knektar",
+      "url": "https://open.spotify.com/track/6wsYpZEtDnnuAnWlUZwti0"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Rosita",
+        "url": "https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg"
+      },
+      "artists": [
+        {
+          "name": "The Manikins",
+          "url": "https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu"
+        }
+      ],
+      "duration_ms": 190976,
+      "name": "Rosita",
+      "url": "https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Lyckliga Land",
         "url": "https://open.spotify.com/album/3jnqE1lvZi9o7ivHjc1YR7"
       },
@@ -1443,42 +1443,6 @@
       "duration_ms": 201093,
       "name": "Lyckliga Land",
       "url": "https://open.spotify.com/track/1NB4kKYHMHPdQl6Jx6xxns"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Vill Ha Mer",
-        "url": "https://open.spotify.com/album/2Ky2qldnoiQ1PyyRNEP2A4"
-      },
-      "artists": [
-        {
-          "name": "Varnagel",
-          "url": "https://open.spotify.com/artist/6YaAj5Os3Dm33h2Ks2ugpH"
-        }
-      ],
-      "duration_ms": 173406,
-      "name": "Trall Punkt Nu",
-      "url": "https://open.spotify.com/track/5PLq5eckMjueGe2wtsF3lC"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Grabbarna p\u00e5 Stan",
-        "url": "https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D"
-      },
-      "artists": [
-        {
-          "name": "Danny Cooltmoore",
-          "url": "https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF"
-        },
-        {
-          "name": "Grabbarna p\u00e5 Stan",
-          "url": "https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L"
-        }
-      ],
-      "duration_ms": 214592,
-      "name": "Grabbarna p\u00e5 stan",
-      "url": "https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1499,18 +1463,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "F\u00f6r alltid",
-        "url": "https://open.spotify.com/album/6b28GFe1v4onH8Gcr3wIJQ"
+        "name": "Vill Ha Mer",
+        "url": "https://open.spotify.com/album/2Ky2qldnoiQ1PyyRNEP2A4"
       },
       "artists": [
         {
-          "name": "SARDO NUMSPA",
-          "url": "https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq"
+          "name": "Varnagel",
+          "url": "https://open.spotify.com/artist/6YaAj5Os3Dm33h2Ks2ugpH"
         }
       ],
-      "duration_ms": 165466,
-      "name": "Vilse p\u00e5 \u00f6ppet hav",
-      "url": "https://open.spotify.com/track/1T3XEAFpxW1VIE71rbwQ7v"
+      "duration_ms": 173406,
+      "name": "Trall Punkt Nu",
+      "url": "https://open.spotify.com/track/5PLq5eckMjueGe2wtsF3lC"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1527,6 +1491,42 @@
       "duration_ms": 171572,
       "name": "Modets Klapptr\u00e4n",
       "url": "https://open.spotify.com/track/5LnLs4Zd79RQ5y7VdKHMXQ"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "F\u00f6r alltid",
+        "url": "https://open.spotify.com/album/6b28GFe1v4onH8Gcr3wIJQ"
+      },
+      "artists": [
+        {
+          "name": "SARDO NUMSPA",
+          "url": "https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Vilse p\u00e5 \u00f6ppet hav",
+      "url": "https://open.spotify.com/track/1T3XEAFpxW1VIE71rbwQ7v"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Grabbarna p\u00e5 Stan",
+        "url": "https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D"
+      },
+      "artists": [
+        {
+          "name": "Danny Cooltmoore",
+          "url": "https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF"
+        },
+        {
+          "name": "Grabbarna p\u00e5 Stan",
+          "url": "https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Grabbarna p\u00e5 stan",
+      "url": "https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Pyramiden",
-        "url": "https://open.spotify.com/album/1feSgkNqTaKXXAxgjy6vsK"
-      },
-      "artists": [
-        {
-          "name": "Borgerlig Begravning",
-          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Pyramiden",
-      "url": "https://open.spotify.com/track/7GbwZ7jTR2w4G4GekS9OHa"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Sl\u00e5ss som en tjej",
         "url": "https://open.spotify.com/album/0SIAtm0xtnqLdNipxYtRxZ"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 153053,
       "name": "Sla\u030ass som en tjej",
       "url": "https://open.spotify.com/track/3tfMZpt9jGnpq2ixAcwZPa"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Pyramiden",
+        "url": "https://open.spotify.com/album/1feSgkNqTaKXXAxgjy6vsK"
+      },
+      "artists": [
+        {
+          "name": "Borgerlig Begravning",
+          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Pyramiden",
+      "url": "https://open.spotify.com/track/7GbwZ7jTR2w4G4GekS9OHa"
     },
     {
       "added_at": "2024-01-04 23:00:00",

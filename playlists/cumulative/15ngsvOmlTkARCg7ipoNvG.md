@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,094 songs - 1 day 0 hr 6 min
+1,095 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,6 +615,7 @@
 | [Morning Calm](https://open.spotify.com/track/37WsMLQKWs6HNatOhCJLoN) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Morning Calm](https://open.spotify.com/album/1Pcrf4XQXZIKjTRn6HdcAN) | 1:02 | 2022-09-01 |  |
 | [Morning Comforts](https://open.spotify.com/track/65Wq2DcxRLal3DUZEeQfQj) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 | 2022-02-11 |  |
 | [Morning Echoes](https://open.spotify.com/track/3KW7l8MEXvbHhtdQdlpWXU) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Morning Echoes](https://open.spotify.com/album/3hF4GxOuhLL9ZT3u7lOFii) | 1:00 | 2024-01-15 |  |
+| [Morning Echoes \- Ambient Harp Version](https://open.spotify.com/track/3REp3HQr7c2lib47uHCLho) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Morning Echoes \(Ambient Harp Version\)](https://open.spotify.com/album/1fBxFvBYq93nInImsyMXco) | 1:00 | 2024-01-17 |  |
 | [Morning Echoes \- Cello Version](https://open.spotify.com/track/5J4cb3QyeQZHtTLfBY61lr) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Morning Echoes \(Cello Version\)](https://open.spotify.com/album/2FCkeSdNvDTYmCLvNINSPA) | 1:00 | 2024-01-15 |  |
 | [Morning Prayer](https://open.spotify.com/track/4imKugn0XXrrp7D04eJqpy) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Morning Prayer](https://open.spotify.com/album/3VAb43boYj5U6f4aCty13z) | 3:24 | 2022-01-12 |  |
 | [Morning Sky](https://open.spotify.com/track/62knhs63ci7hYkDpibz3JJ) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Morning Sky](https://open.spotify.com/album/1F9xNdcF0zVE2ZG3fYma6L) | 1:00 | 2023-10-02 |  |

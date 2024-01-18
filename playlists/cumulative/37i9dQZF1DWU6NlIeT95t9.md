@@ -2,9 +2,9 @@
 
 ### [RADAR PAKISTAN](https://open.spotify.com/playlist/37i9dQZF1DWU6NlIeT95t9)
 
-> Meet the future\.  Cover: Hassan & Roshaan
+> Meet the future\.  Cover: Annural Khalid
 
-70 songs - 3 hr 48 min
+74 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,8 @@
 | [Andaaz\-E\-Karam](https://open.spotify.com/track/7iI9CyxhmRqqk6u8odtvAq) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Andaaz\-E\-Karam](https://open.spotify.com/album/4mccCSngQlhDBLMROPx5Ip) | 3:06 | 2023-10-05 |  |
 | [Andheri Raat](https://open.spotify.com/track/2ojtfOXp5BR9Jxh3GIdZ6h) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Andheri Raat](https://open.spotify.com/album/6CksTNpieRuo6cwoDBU5nI) | 3:06 | 2023-10-27 |  |
 | [Bandhan](https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/65cIprQKiOBRh1fuKHM2B3) | 4:50 | 2023-07-31 |  |
+| [Bhaagoon](https://open.spotify.com/track/0XZNiP6VU0e9Orm1Lzc7cr) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX), [Sinnan Fazwani](https://open.spotify.com/artist/3gAgVxm4l9CwpWtTI0NF52) | [Bhaagoon](https://open.spotify.com/album/3vPIQjEt5lDTSgS6vRTFuV) | 3:06 | 2024-01-17 |  |
+| [Cham Cham](https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Kumail Abbas](https://open.spotify.com/artist/5DqU9TQ8QwgZBIkTU8nd2R) | [Cham Cham](https://open.spotify.com/album/5Cn9Qx5mPJjY0PKa756LCx) | 3:46 | 2024-01-17 |  |
 | [CHAMKEELA](https://open.spotify.com/track/7BRB830qcAMXktLRnH9Lle) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Chamkeela](https://open.spotify.com/album/0UBowUDsgsONLykfLOV824) | 3:08 | 2023-07-31 |  |
 | [Chashme Badoor](https://open.spotify.com/track/05dKfHUSODo2y9aF8QEltf) | [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok) | [Chashme Badoor](https://open.spotify.com/album/10s72shVzavpDIKRvgyreQ) | 2:27 | 2023-09-03 |  |
 | [Cold Hours](https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Cold Hours](https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck) | 3:26 | 2023-07-31 |  |
@@ -34,6 +36,7 @@
 | [JADU](https://open.spotify.com/track/5BFDwitXIlpGKPcLCZVcpA) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [JADU](https://open.spotify.com/album/1YsuVDWON04EsjwPloOWZS) | 3:10 | 2023-07-31 |  |
 | [Jia](https://open.spotify.com/track/1OldtKIXBu5lzLtW37UkqR) | [Omar Mukhtar](https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl) | [Ram Pam Para](https://open.spotify.com/album/6DiiOftBUslEpML79kbVNW) | 4:04 | 2023-07-31 |  |
 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 | 2023-07-31 |  |
+| [Jurmana](https://open.spotify.com/track/76pWGIqdI2d7X4MmoUT4L5) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Jurmana](https://open.spotify.com/album/1LaWqK7YRtxm9ecqEne6Fj) | 2:53 | 2024-01-17 |  |
 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2023-07-31 |  |
 | [Kali Raat](https://open.spotify.com/track/74UHCurjieq16JY1saeasF) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:58 | 2023-10-05 |  |
 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 | 2023-07-31 |  |
@@ -78,5 +81,6 @@
 | [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2023-07-31 | 2023-11-12 |
 | [Wife You](https://open.spotify.com/track/5A7uVk7orEzrR9NA8ppFus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 4:16 | 2023-09-15 |  |
 | [You don't know](https://open.spotify.com/track/36fXGJsQmHzsTJ69DUV0nE) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [You don't know \(Pack\)](https://open.spotify.com/album/153syyegkwTUwQGi58QNhP) | 2:03 | 2023-09-03 | 2023-09-16 |
+| [Zaalima](https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zaalima](https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5) | 3:02 | 2024-01-17 |  |
 
 \*This playlist was first scraped on 2023-08-22. Prior content cannot be recovered.

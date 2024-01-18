@@ -4,7 +4,7 @@
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: That Mexican OT
 
-365 songs - 17 hr 12 min
+366 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Need That](https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Need That](https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW) | 2:30 | 2023-09-15 | 2024-01-09 |
 | [Never Alone](https://open.spotify.com/track/7yMw74z3lX8HTpOl1V8HTV) | [Castro Escobar](https://open.spotify.com/artist/7mWJ5mcnwVm6FD5vRbaMoq) | [Never Alone](https://open.spotify.com/album/6GO3MIsZ1wVdolVnTIEDX0) | 3:09 | 2022-01-10 | 2022-07-01 |
 | [Never Be Me](https://open.spotify.com/track/1jMYEJwx814JStBVEl4fQC) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Never Be Me](https://open.spotify.com/album/6PjjVk5q3261c3fFzv0K9W) | 2:24 | 2022-01-10 | 2022-02-25 |
+| [Nissan](https://open.spotify.com/track/6tUjn8hO7k71djAuR0ZkhX) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj) | [Nissan](https://open.spotify.com/album/2GG3MHE2CEPZMuArEhyTss) | 2:18 | 2024-01-17 |  |
 | [No Chaser](https://open.spotify.com/track/0W2WjKSYqPVSeIcuQGdzEA) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [No Chaser](https://open.spotify.com/album/5yQQE5vCl9jre6OgS0WTv1) | 2:51 | 2022-07-06 | 2023-01-28 |
 | [No Cheap Hoes](https://open.spotify.com/track/6DGNzFioTQCQCU71rSJBqg) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Toolie Trips](https://open.spotify.com/artist/7xFP2LXir8eisbYVXocG6o), [JEW3LZ](https://open.spotify.com/artist/2TIxX1Qr1jiXwUeYImYNBq) | [No Cheap Hoes](https://open.spotify.com/album/0CoDFeoObyCMxAu735wuJw) | 3:06 | 2022-01-10 | 2022-02-24 |
 | [No Hook](https://open.spotify.com/track/74AclpvR2pe9C8cHfxnltW) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [No Hook](https://open.spotify.com/album/2zMPomRZ8A5An40OHAXHfQ) | 2:34 | 2022-01-10 | 2022-07-06 |

@@ -4,7 +4,7 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-232 songs - 19 hr 40 min
+233 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Nếu Đời Không Có Anh](https://open.spotify.com/track/2o16PyrSeQJTCH3yev9HVJ) | [Phan Ý Linh](https://open.spotify.com/artist/0vE2wICpoQ6jTn6zsUCjNi) | [Tuyển Tập Của Phan Ý Linh](https://open.spotify.com/album/7HqrxmFx8Ux2BmB5r6tcaI) | 4:59 | 2022-03-11 | 2022-06-02 |
 | [Nối Lại Tình Xưa](https://open.spotify.com/track/2h5creXsSvj9OqmEHVtNUA) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Có Khi](https://open.spotify.com/album/21DIsAgJIU7ft25qJwkQDE) | 4:13 | 2022-03-11 | 2022-07-29 |
 | [Nối Lại Tình Xưa](https://open.spotify.com/track/5zkV3BWbnfcODH72RC0Qxi) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Có Khi](https://open.spotify.com/album/5vhRUs2lrgVlf5dUJgjnTV) | 4:13 | 2023-01-19 | 2023-05-19 |
-| [Nối Lại Tình Xưa](https://open.spotify.com/track/1ujKrLvdQiLhgq2rUb3koa) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Cô Bé Ngày Xưa](https://open.spotify.com/album/43xJtGh0nNxV7ICzdRtAHS) | 4:15 | 2023-10-12 |  |
+| [Nối Lại Tình Xưa](https://open.spotify.com/track/1ujKrLvdQiLhgq2rUb3koa) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Cô Bé Ngày Xưa](https://open.spotify.com/album/43xJtGh0nNxV7ICzdRtAHS) | 4:15 | 2023-10-12 | 2024-01-18 |
 | [Nỗi Buồn Gác Trọ](https://open.spotify.com/track/48IfOqYiOgztYqaLk0ZUQA) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe) | [Người Phụ Tình Tôi](https://open.spotify.com/album/30NR2qhdstcERTNSbfH8P7) | 4:46 | 2022-03-11 | 2022-07-10 |
 | [Nỗi Buồn Gác Trọ](https://open.spotify.com/track/1iVRwXrTciOx1ah1rYHiV9) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad) | [Qua Cơn Mê](https://open.spotify.com/album/5e8L4OFh0PSEKzWYKY9uAK) | 3:52 | 2022-03-11 | 2022-07-17 |
 | [Nỗi Buồn Gác Trọ \(Version Lofi\)](https://open.spotify.com/track/0dnXeBSlnqLpHkJ5g5o2eY) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Nỗi Buồn Gác Trọ \(Version Lofi\)](https://open.spotify.com/album/5RiWfZNluUklLApntD9oRG) | 2:53 | 2022-03-11 | 2023-12-30 |
@@ -169,6 +169,7 @@
 | [Sầu Tím Thiệp Hồng](https://open.spotify.com/track/71ellkgNTMLTxPhIoTplQD) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Sầu Tím Thiệp Hồng](https://open.spotify.com/album/38QhJtxGadPTfPOBxVNPwU) | 4:46 | 2023-10-12 |  |
 | [Sầu Tím Thiệp Hồng](https://open.spotify.com/track/7L7UYxdL9yqBgZWjU1L0tW) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Chuyện Tình Không Dĩ Vãng](https://open.spotify.com/album/6cDs6BELcr9iAvNrjDKAug) | 4:46 | 2022-03-11 | 2023-11-12 |
 | [Thanh Pho Buon](https://open.spotify.com/track/3tPEPW6UyC3N8aqjFUIXBa) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Thoi Doi](https://open.spotify.com/album/49yr3PC62RhDanMpZdmAfc) | 5:04 | 2022-03-11 | 2022-07-07 |
+| [Thanh Pho Sau Lung](https://open.spotify.com/track/5xgYmoQpLz2IeavYzpDVtm) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Nho Me](https://open.spotify.com/album/6ravPGA3QglQrF3uSdLCpj) | 3:40 | 2024-01-05 |  |
 | [Thu Xuan Tren Rung Cao](https://open.spotify.com/track/7MbROy2VEfuC9FZG6Un7dF) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Xuan](https://open.spotify.com/album/1nSynBLPNX3TKcKFkWpAQl) | 4:55 | 2022-03-11 | 2022-07-27 |
 | [Thành Phố Buồn](https://open.spotify.com/track/3mAckDAkkd1U21obGu0zA9) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Thói Đời](https://open.spotify.com/album/2P4uN9x0YGoB5upe2QzH42) | 5:04 | 2023-05-24 |  |
 | [Thành phố buồn](https://open.spotify.com/track/2kpiGWlWgD6HJCG6VVSNpQ) | [Chế Thanh](https://open.spotify.com/artist/0yabY6VvvYy5b558Kn63zu) | [Thói đời](https://open.spotify.com/album/1l615bbvZ0DfDKUg2oJS2i) | 5:06 | 2022-03-11 | 2023-01-27 |

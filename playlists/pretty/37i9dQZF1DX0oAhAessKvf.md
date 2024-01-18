@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,828 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,892 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 6 | [Felina](https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [A La Reconquista](https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv) | 3:36 |
 | 7 | [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2XRqhe4lmCQVaUWawR5wRo) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Originales](https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ) | 4:21 |
 | 8 | [Me Acuerdo](https://open.spotify.com/track/5P67DwLI2wtCIIXD80o5zk) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [VICO\-C Digital Collection 1987\-2007](https://open.spotify.com/album/7aRR72pN3uae5Lb22Etxwi) | 5:59 |
-| 9 | [Vacilon](https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Boricua Reggaeton Clasicos de Barrio, Vol\. 1](https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl) | 2:30 |
-| 10 | [Go Pato](https://open.spotify.com/track/3aHjc7Ib2aXtfz23bCPz7j) | [Pato Banton](https://open.spotify.com/artist/0cpt0xebTXatYk3KvnrU9m) | [Universal Love](https://open.spotify.com/album/4poltWgc6sylGnlpgxEZ3c) | 4:37 |
+| 9 | [Go Pato](https://open.spotify.com/track/3aHjc7Ib2aXtfz23bCPz7j) | [Pato Banton](https://open.spotify.com/artist/0cpt0xebTXatYk3KvnrU9m) | [Universal Love](https://open.spotify.com/album/4poltWgc6sylGnlpgxEZ3c) | 4:37 |
+| 10 | [Vacilon](https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Boricua Reggaeton Clasicos de Barrio, Vol\. 1](https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl) | 2:30 |
 | 11 | [Me La Explota Feat\. Yankee](https://open.spotify.com/track/2cH8koRSDXBsvfEbeKcs9N) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [El Mundo De Plan B](https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT) | 3:18 |
 | 12 | [Pase Lo Que Pase](https://open.spotify.com/track/0ey8pKC4acPGI7pLEq4txU) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Jeanette](https://open.spotify.com/artist/2RR3ftPVbWXhmczgCr0kpX) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 3:43 |
 | 13 | [Quieren](https://open.spotify.com/track/43TErmq7idspaUOjRvaBDH) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Aquel Que Habia Muerto](https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G) | 3:42 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 30 | [Robi\-Rob's Boriqua Anthem](https://open.spotify.com/track/1rX13rLlHSzCoWh3inVchh) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF) | [Grandes Exitos](https://open.spotify.com/album/5XWD8nYr65TU50RooHKPrc) | 8:57 |
 | 31 | [Full Up a Class](https://open.spotify.com/track/6FFeBtCaawK4WqtKfWeoSX) | [Bunny General](https://open.spotify.com/artist/64N2jWrlxw6DSwWZ6BHCOI) | [Dancehall Reggae Connection...\. Top Ragga DJs From Fashion](https://open.spotify.com/album/4Uygzhu2CQ3UvZiaUbGKMW) | 3:40 |
 | 32 | [Playero Street Mix 2 Radio Version](https://open.spotify.com/track/1iyS2ur2NqtiwQTSWHZq5Q) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU), [Blanco](https://open.spotify.com/artist/2R2C8r0t9p98AnGzUnOLAe), [Chesina](https://open.spotify.com/artist/4drWsJ0fgeZ4fcMJ8MR8Zr), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Mexicano](https://open.spotify.com/artist/62U9TXZx2SxvIoxXHtHlzR), [Micol y Manuel](https://open.spotify.com/artist/7nuJDLQzYGL3L1OJiCw5qp), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [Underground Reggaeton "The Best Of Radio Version", Vol\. 1](https://open.spotify.com/album/0GHlZQPbwecsZ30EiAihMc) | 4:33 |
-| 33 | [Pegate](https://open.spotify.com/track/7908xQNM5logiaITbmCM9a) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [De Nuevos a Viejos](https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq) | 2:48 |
-| 34 | [Noche Enferma](https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Reggaechanga](https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G) | 3:47 |
+| 33 | [Noche Enferma](https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Reggaechanga](https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G) | 3:47 |
+| 34 | [Pegate](https://open.spotify.com/track/7908xQNM5logiaITbmCM9a) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [De Nuevos a Viejos](https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq) | 2:48 |
 | 35 | [Transformer](https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR) | [Planet Reggae](https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ) | 3:01 |
 | 36 | [La Danza Bella](https://open.spotify.com/track/68WGyc8Am3SpUOo9dMjRAY) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [El Mundo De Plan B](https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT) | 3:19 |
 | 37 | [La Química](https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza) | [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [Sin Parar](https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v) | 3:26 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 58 | [Donde Mi No Vengas](https://open.spotify.com/track/3PAKvNqqYklkKhg1xEieNB) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Homerun\-es](https://open.spotify.com/album/7uIGxnb0Th4Av0R5oui7A0) | 1:58 |
 | 59 | [Amor Con La Ropa](https://open.spotify.com/track/2djANHWiGt7BP8kCrYOnbo) | [Speedy](https://open.spotify.com/artist/1QC3ygAJezg4QWD5stwr0b) | [Nueva Generación](https://open.spotify.com/album/3lrhLlw55mjyUCaO0FBYwu) | 2:11 |
 | 60 | [Dem Bow](https://open.spotify.com/track/1BUBidO12VUKo44PaQvpt9) | [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG) | [Dancehall 101 Vol\. 5](https://open.spotify.com/album/6oU84HBu2wur3VP9tjEECu) | 3:36 |
-| 61 | [La Combinación Perfecta Old School](https://open.spotify.com/track/3kfIzNY57LOd9LAHkTsYwk) | [Chezina Y Pirin](https://open.spotify.com/artist/28wojMfAl5P9mJhbLJExac) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 6:56 |
-| 62 | [Quiere Ser Like Me](https://open.spotify.com/track/2E6L2RNkPtZTiNcCBO5Vqw) | [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:58 |
+| 61 | [Quiere Ser Like Me](https://open.spotify.com/track/2E6L2RNkPtZTiNcCBO5Vqw) | [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:58 |
+| 62 | [La Combinación Perfecta Old School](https://open.spotify.com/track/3kfIzNY57LOd9LAHkTsYwk) | [Chezina Y Pirin](https://open.spotify.com/artist/28wojMfAl5P9mJhbLJExac) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 6:56 |
 | 63 | [Muchos Quieren Tumbarnos \- Live](https://open.spotify.com/track/6W7kLstGdPKlAYp84HmMNk) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Live](https://open.spotify.com/album/1llS73lFiGdCx72C9xOCfQ) | 2:36 |
 | 64 | [Camion Lleno de Gun](https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N) | [Jam & Suppose](https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q) | [Ragga Heros, Vol\. 1](https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1) | 3:34 |
 | 65 | [El Lloron](https://open.spotify.com/track/4O5VaPssQGPKnPZiISNWgI) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [El Poder de la Música](https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p) | 3:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 74 | [Xplosion](https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 4:22 |
 | 75 | [La Chica de los Ojos Cafe](https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 4:57 |
 
-Snapshot ID: `MCxiNGNlNWE4ZWFmMzkxMzNmNGQyMDJjNmRlNDRlZDg5YzEwY2M1YzZj`
+Snapshot ID: `MCw5YWI0OWZlZTAxZjQ2YjEwZjFiN2I1YTRjZDlhMWNkOWM3MDBlMjEx`

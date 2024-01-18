@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 73482,
+  "num_followers": 73518,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzQ0MzhjNmViZmFkMTQzNDA3M2Y0ZGU2MTgxZGU1NjMwODU0Yjg5",
+  "snapshot_id": "MCw1NDg4MDZlNTE1M2U0ZmYwMzM1ZjYwODNkMzZmMTVkNjZjMjBmOTg3",
   "tracks": [
     {
       "added_at": "2024-01-03 12:46:04",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-01-03 12:46:04",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/1rWGsnrgkXJ8hc3DDGZL5l"
-      },
-      "artists": [
-        {
-          "name": "Froman",
-          "url": "https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/6JZj90z1LqUkSyhdT6PEKm"
-    },
-    {
-      "added_at": "2024-01-03 12:46:04",
-      "album": {
         "name": "Big & Bad Riddim",
         "url": "https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 175238,
       "name": "Big & Bad Riddim",
       "url": "https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts"
+    },
+    {
+      "added_at": "2024-01-03 12:46:04",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/1rWGsnrgkXJ8hc3DDGZL5l"
+      },
+      "artists": [
+        {
+          "name": "Froman",
+          "url": "https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/6JZj90z1LqUkSyhdT6PEKm"
     },
     {
       "added_at": "2024-01-03 12:46:04",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-01-03 12:46:04",
       "album": {
-        "name": "Lost City Archives, Vol. 7",
-        "url": "https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp"
-      },
-      "artists": [
-        {
-          "name": "Deadly Habitz",
-          "url": "https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Henney & Coke",
-      "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
-    },
-    {
-      "added_at": "2024-01-03 12:46:04",
-      "album": {
         "name": "Never Gonna Be",
         "url": "https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 225699,
       "name": "Never Gonna Be",
       "url": "https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p"
+    },
+    {
+      "added_at": "2024-01-03 12:46:04",
+      "album": {
+        "name": "Lost City Archives, Vol. 7",
+        "url": "https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp"
+      },
+      "artists": [
+        {
+          "name": "Deadly Habitz",
+          "url": "https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Henney & Coke",
+      "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
     },
     {
       "added_at": "2024-01-03 12:46:04",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-01-03 12:46:04",
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/61AStQYO30jVau93JxRtXP"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW"
+    },
+    {
+      "added_at": "2024-01-03 12:46:04",
+      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/439lrfWjzWWqkuokp5PevY"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2024-01-03 12:46:04",
       "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/61AStQYO30jVau93JxRtXP"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW"
-    },
-    {
-      "added_at": "2024-01-03 12:46:04",
-      "album": {
         "name": "Belly",
         "url": "https://open.spotify.com/album/3P0RwvqGI07Nxj7KnjVyku"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-01-03 12:46:04",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/6ZPXu26XC5sKCp1adu84uj"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/7EtMCF0mdAksJoPalQxhE8"
-    },
-    {
-      "added_at": "2024-01-03 12:46:04",
-      "album": {
         "name": "Num\u00e9ro LDN",
         "url": "https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 142763,
       "name": "Hypnotize Me Baby",
       "url": "https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3"
+    },
+    {
+      "added_at": "2024-01-03 12:46:04",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/6ZPXu26XC5sKCp1adu84uj"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/7EtMCF0mdAksJoPalQxhE8"
     },
     {
       "added_at": "2024-01-03 12:46:04",

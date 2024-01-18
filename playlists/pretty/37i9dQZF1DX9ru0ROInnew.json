@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 112460,
+  "num_followers": 112484,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDQ5MDUxNWYxNmUwYTU4M2JiNjU1NThjNDM4NjBhYmI3YjRjMjUx",
+  "snapshot_id": "MCxmNzk3MWNkZWVmMTQyOTIxOGM5Mjk3Y2YzMmE1N2ZjNTEyZWFiODEx",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -279,34 +279,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Ahora Dice",
-        "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 270493,
-      "name": "Ahora Dice",
-      "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/27Exjl2H0oI6X0WCzZd7Bk"
       },
@@ -339,6 +311,34 @@
       "duration_ms": 311726,
       "name": "Solita",
       "url": "https://open.spotify.com/track/7rwX0O3RlxqqIjQM8evm5E"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Ahora Dice",
+        "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 270493,
+      "name": "Ahora Dice",
+      "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 191164,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Chosen Few: New Generation",
         "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 335736,
       "name": "0 Sentimientos (Remix) [feat. Baby Rasta, Noriel, Darkiel, Messiah & Lyan]",
       "url": "https://open.spotify.com/track/3gYco8uoFBmpxqYlz3Zhs7"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 191164,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
     },
     {
       "added_at": "2023-05-25 17:50:01",

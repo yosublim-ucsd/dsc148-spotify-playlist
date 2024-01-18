@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,364 likes - 81 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,383 likes - 81 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 38 | [I Know](https://open.spotify.com/track/1uPN3HKarBMgLHefLFpFHZ) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [I Know](https://open.spotify.com/album/2QqbXlCNgIKon5xb3ghSfH) | 3:21 |
 | 39 | [Together Forever](https://open.spotify.com/track/4NvAaATU1bX5ITqGBIxB5b) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Together Forever](https://open.spotify.com/album/4DR3YxUK7YUuPuLBfYrQX7) | 4:37 |
 | 40 | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/track/601pOTGkiTqGFpAtphsZDx) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/album/3egxqN0wJ8CMeVbtRZYN3s) | 2:38 |
-| 41 | [Every Lil'](https://open.spotify.com/track/39bZPBoasEOCJXMR4TPqP5) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Every Lil'](https://open.spotify.com/album/2TogfhcATG56txTlEoExoE) | 3:00 |
+| 41 | [Every Lil'](https://open.spotify.com/track/39bZPBoasEOCJXMR4TPqP5) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Every Lil'](https://open.spotify.com/album/2TogfhcATG56txTlEoExoE) | 3:01 |
 | 42 | [My Way Home](https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Wonder, Won't You?](https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y) | 3:37 |
 | 43 | [You & I](https://open.spotify.com/track/6OSuUZ0XTYcmoasGUbPZ3x) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [You & I](https://open.spotify.com/album/4qLJUL6VNVCA9G4pK01Org) | 3:50 |
 | 44 | [WYA](https://open.spotify.com/track/3EMYNGpOBYNstnpJvUJdzp) | [Adrey](https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX) | [Make It All Better](https://open.spotify.com/album/5sk66M71toBpOhNFFZZcRx) | 2:51 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 80 | [More Love](https://open.spotify.com/track/3Btp2yoOci6l2XocvDkhTj) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5), [EDDY](https://open.spotify.com/artist/35EEWhSbFB6RRH5KoZermD) | [More Love](https://open.spotify.com/album/1yMyJ2HDO6RiTXvRHqT8eG) | 2:37 |
 | 81 | [MONSTER](https://open.spotify.com/track/2ZvI7tBb6kRs3MiNx9K2CA) | [HARLOW](https://open.spotify.com/artist/1aLrXcfXIrmgnkh3YmPzOd) | [MONSTER](https://open.spotify.com/album/2fhor5q8wmTFErYNvCrjrW) | 3:23 |
 
-Snapshot ID: `MCwxMWZiN2NlYWJmOTA4Y2Y4ZTAxMGZlNTUwODU1NWFiYjg3MTI1OTRi`
+Snapshot ID: `MCxjMTNiN2M2NWFkMWVmYTgzYmQzNjMxMzRjNjYwMDk2OGU5NDE5YzU4`

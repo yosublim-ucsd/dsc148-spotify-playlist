@@ -2097,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "Confirmation",
+        "url": "https://open.spotify.com/album/3DSrPW0S0FjoyzWjgP5RXS"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159362,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/4fjlynkBlFfxY8qvZ75Yn1"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n De Piedra",
         "url": "https://open.spotify.com/album/3jTZyRV27S9r7DpMd9WW69"
       },
@@ -6694,7 +6712,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 131728,
       "name": "Monteverde",
       "url": "https://open.spotify.com/track/7x04qsGEUv26a7gaOE2BsB"
@@ -6716,6 +6734,24 @@
       "duration_ms": 168000,
       "name": "Moon Hearts",
       "url": "https://open.spotify.com/track/6iC68UqmwcLfceDrhFdE69"
+    },
+    {
+      "album": {
+        "name": "More than this",
+        "url": "https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8"
+      },
+      "artists": [
+        {
+          "name": "Ciara Lowry",
+          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159450,
+      "name": "More than this",
+      "url": "https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj"
     },
     {
       "album": {
@@ -8458,7 +8494,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 143464,
       "name": "Sancy",
       "url": "https://open.spotify.com/track/7mBtZnqdWLJQbd2vIc3Urz"

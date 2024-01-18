@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Zélie
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,787 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,804 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Désert](https://open.spotify.com/track/1I9YflEKKOy6nLpdZ4PFIP) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Désert](https://open.spotify.com/album/6VkEAixeoVxvFT2otZ2JFb) | 3:22 |
 | 50 | [Albert](https://open.spotify.com/track/2cFoPkVgux9RqiqLV23yu2) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Albert](https://open.spotify.com/album/6Acj3MqHBGWSc9BtNgTGyN) | 2:50 |
 
-Snapshot ID: `MCw3ZmQ2MGRlZjY1ZWQwOTBiOTdjNWRiYmZmOTk0ODQ0MjdhMTNjYWE0`
+Snapshot ID: `MCw3N2FhNzFjYWJiMDIwZjcyNjc4MWUzZTg0NjBlY2I0MWU3ZjZiMjJj`

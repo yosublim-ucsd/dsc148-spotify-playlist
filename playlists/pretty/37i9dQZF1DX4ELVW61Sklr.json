@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 189903,
+  "num_followers": 189876,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2I0ZjhiYzM1ODU4NWE0ZTJhOTY1ZjcyNzZlNGI5MDE4MGM1Yzhl",
+  "snapshot_id": "MCw4ODZjYjNkOWVkMGNkOWUxMmUxZTdiMzEzMGNhOGI0MWVmMzg0ZGYx",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -309,26 +309,6 @@
       "url": "https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "One Wish / The Holiday Album",
-        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "The Georgia Mass Choir",
-          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "Joy to the World (with Georgia Mass Choir)",
-      "url": "https://open.spotify.com/track/2HwaTkbNED2nZfSijP9TLF"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "A Different Christmas",
@@ -347,6 +327,26 @@
       "duration_ms": 160981,
       "name": "presents (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4QyO5yNf3W534HK5gI1lMA"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "One Wish / The Holiday Album",
+        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
+        }
+      ],
+      "duration_ms": 281933,
+      "name": "Joy to the World (with Georgia Mass Choir)",
+      "url": "https://open.spotify.com/track/2HwaTkbNED2nZfSijP9TLF"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -643,26 +643,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "A Mary Christmas",
-        "url": "https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 264186,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Christmas with PJ Morton (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 203207,
       "name": "Have Yourself A Merry Little Christmas (feat. Shel\u00e9a)",
       "url": "https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "A Mary Christmas",
+        "url": "https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 264186,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -785,26 +785,6 @@
       "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas Soul 2020",
-        "url": "https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd"
-      },
-      "artists": [
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        },
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Peppermint Tea",
@@ -823,6 +803,26 @@
       "duration_ms": 189412,
       "name": "Peppermint Tea",
       "url": "https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas Soul 2020",
+        "url": "https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        },
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas in Baltimore",
-        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Favorite Time of Year",
-      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Christmas With Brandy",
@@ -1035,6 +1019,22 @@
       "duration_ms": 181720,
       "name": "Somebody's Waiting",
       "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas in Baltimore",
+        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Favorite Time of Year",
+      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "This Christmas",
@@ -1157,6 +1141,22 @@
       "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 212755,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Spend Christmas With You",
@@ -1187,22 +1187,6 @@
       "duration_ms": 194053,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/72yb1EUhIV5gBGx04UA5vV"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 190799,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1315,6 +1299,22 @@
       "duration_ms": 263920,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Happy Holidays to You",
+        "url": "https://open.spotify.com/album/4SXOy0zcKjGS3lBtwwj6Bl"
+      },
+      "artists": [
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+        }
+      ],
+      "duration_ms": 275266,
+      "name": "Happy Holidays to You",
+      "url": "https://open.spotify.com/track/1LWpPFDwdRkRdQo0nXYJ1Z"
     }
   ],
   "unique_name": "R&B Christmas",

@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: No Te Va Gustar & Zoe Gotusso",
-  "num_followers": 281282,
+  "num_followers": 281288,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjc2ZjY3ODlhNTAxMzE5N2ExMzY4YjM2ZTg0ODZmYzAwMDQ2YWQy",
+  "snapshot_id": "MCw3MGMzMjRkNDFkNGM5YTg4MmY3Nzg4NWQ1MmM0NTVjZmE5YjlmOTU5",
   "tracks": [
     {
       "added_at": "2024-01-12 16:26:57",
@@ -383,42 +383,6 @@
     {
       "added_at": "2024-01-12 16:26:57",
       "album": {
-        "name": "Tajada",
-        "url": "https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 206429,
-      "name": "Tajada",
-      "url": "https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf"
-    },
-    {
-      "added_at": "2024-01-12 16:26:57",
-      "album": {
-        "name": "Cama Vac\u00eda",
-        "url": "https://open.spotify.com/album/5KX799gIKfPUtvGJP9t3DW"
-      },
-      "artists": [
-        {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        },
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        }
-      ],
-      "duration_ms": 239974,
-      "name": "Cama Vac\u00eda",
-      "url": "https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q"
-    },
-    {
-      "added_at": "2024-01-12 16:26:57",
-      "album": {
         "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
         "url": "https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU"
       },
@@ -443,6 +407,42 @@
       "duration_ms": 215394,
       "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
       "url": "https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz"
+    },
+    {
+      "added_at": "2024-01-12 16:26:57",
+      "album": {
+        "name": "Cama Vac\u00eda",
+        "url": "https://open.spotify.com/album/5KX799gIKfPUtvGJP9t3DW"
+      },
+      "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        }
+      ],
+      "duration_ms": 239974,
+      "name": "Cama Vac\u00eda",
+      "url": "https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q"
+    },
+    {
+      "added_at": "2024-01-12 16:26:57",
+      "album": {
+        "name": "Tajada",
+        "url": "https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 206429,
+      "name": "Tajada",
+      "url": "https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf"
     },
     {
       "added_at": "2024-01-12 16:26:57",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-01-12 16:26:57",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
-    },
-    {
-      "added_at": "2024-01-12 16:26:57",
-      "album": {
         "name": "Mi Mejor Versi\u00f3n",
         "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 201833,
       "name": "Mi Mejor Versi\u00f3n",
       "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
+    },
+    {
+      "added_at": "2024-01-12 16:26:57",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
     },
     {
       "added_at": "2024-01-12 16:26:57",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-01-12 16:26:57",
       "album": {
-        "name": "Greta Garbo",
-        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Nuestros mundos no obedecen a tus mapas",
-      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
-    },
-    {
-      "added_at": "2024-01-12 16:26:57",
-      "album": {
         "name": "Echao\u2019 a perder",
         "url": "https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 168375,
       "name": "Echao\u2019 a perder",
       "url": "https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM"
+    },
+    {
+      "added_at": "2024-01-12 16:26:57",
+      "album": {
+        "name": "Greta Garbo",
+        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Nuestros mundos no obedecen a tus mapas",
+      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
     },
     {
       "added_at": "2024-01-12 16:26:57",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-01-12 16:26:57",
       "album": {
-        "name": "S\u00f3lo D\u2019Lira",
-        "url": "https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "Money In The Bank",
-      "url": "https://open.spotify.com/track/29ncRQANm0IUUOc5p60ECP"
-    },
-    {
-      "added_at": "2024-01-12 16:26:57",
-      "album": {
         "name": "T\u00fa Ya No Dices Nada",
         "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 215940,
       "name": "T\u00fa Ya No Dices Nada",
       "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
+    },
+    {
+      "added_at": "2024-01-12 16:26:57",
+      "album": {
+        "name": "S\u00f3lo D\u2019Lira",
+        "url": "https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "Money In The Bank",
+      "url": "https://open.spotify.com/track/29ncRQANm0IUUOc5p60ECP"
     },
     {
       "added_at": "2024-01-12 16:26:57",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-01-12 16:26:57",
       "album": {
-        "name": "ECLIPSE",
-        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
+        "name": "Lo Que Hay Dentro de M\u00ed",
+        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
         }
       ],
-      "duration_ms": 153837,
-      "name": "ECLIPSE",
-      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
+      "duration_ms": 190875,
+      "name": "Lo Que Hay Dentro de M\u00ed",
+      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
     },
     {
       "added_at": "2024-01-12 16:26:57",
@@ -931,34 +931,18 @@
     {
       "added_at": "2024-01-12 16:26:57",
       "album": {
-        "name": "Lo Que Hay Dentro de M\u00ed",
-        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
       },
       "artists": [
         {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 190875,
-      "name": "Lo Que Hay Dentro de M\u00ed",
-      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
-    },
-    {
-      "added_at": "2024-01-12 16:26:57",
-      "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
+      "duration_ms": 153837,
+      "name": "ECLIPSE",
+      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
     },
     {
       "added_at": "2024-01-12 16:26:57",
@@ -975,6 +959,22 @@
       "duration_ms": 177348,
       "name": "Dos",
       "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
+    },
+    {
+      "added_at": "2024-01-12 16:26:57",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
     },
     {
       "added_at": "2024-01-12 16:26:57",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-01-12 16:26:57",
       "album": {
-        "name": "San Saltar\u00edn",
-        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 258765,
-      "name": "San Saltar\u00edn",
-      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
-    },
-    {
-      "added_at": "2024-01-12 16:26:57",
-      "album": {
         "name": "El Puesto Es M\u00edo",
         "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 179585,
       "name": "El Puesto Es M\u00edo",
       "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
+    },
+    {
+      "added_at": "2024-01-12 16:26:57",
+      "album": {
+        "name": "San Saltar\u00edn",
+        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 258765,
+      "name": "San Saltar\u00edn",
+      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
     },
     {
       "added_at": "2024-01-12 16:26:57",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-01-12 16:26:57",
       "album": {
+        "name": "Desp\u00eddete Bien",
+        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Desp\u00eddete Bien",
+      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
+    },
+    {
+      "added_at": "2024-01-12 16:26:57",
+      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 262293,
       "name": "Celosa",
       "url": "https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7"
-    },
-    {
-      "added_at": "2024-01-12 16:26:57",
-      "album": {
-        "name": "Desp\u00eddete Bien",
-        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 192124,
-      "name": "Desp\u00eddete Bien",
-      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
     },
     {
       "added_at": "2024-01-12 16:26:57",

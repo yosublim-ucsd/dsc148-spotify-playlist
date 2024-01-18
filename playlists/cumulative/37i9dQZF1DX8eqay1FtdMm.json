@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kim Min Seok, Sam Ryder) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: 10cm) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "5.5 [Dear]",
+        "url": "https://open.spotify.com/album/5Xj2IIbt7LhiFppSWrLB6l"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221946,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9"
+    },
+    {
+      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/20YuFf31mUzKLlcKTAGEV5"
       },
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 238093,
       "name": "Don't forget me",
       "url": "https://open.spotify.com/track/0wvsRYNOtR3c2aPw38LJSR"
@@ -3766,6 +3784,24 @@
       "duration_ms": 221746,
       "name": "Just Look for you",
       "url": "https://open.spotify.com/track/1rP25u8w92R4rq1UttWSeq"
+    },
+    {
+      "album": {
+        "name": "Chocolate, Pt.5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/04B0uLq5aKWhjVmA8Vrj8I"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "Just Look for you",
+      "url": "https://open.spotify.com/track/21Kpv5vg4jtgfgIBgAqm2U"
     },
     {
       "album": {
@@ -6028,7 +6064,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 216146,
       "name": "Solo Christmas",
       "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"

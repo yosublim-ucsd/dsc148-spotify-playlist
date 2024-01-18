@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A blend of new songs and artists in the soul space. Cover: Full Crate",
+  "description": "A blend of new songs and artists in the soul space. Cover: Elmiene",
   "name": "Next Wave Soul",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 152233,
       "name": "Astrology Joint",
       "url": "https://open.spotify.com/track/1jcGbrSCZ32Q2vyvOpOZzg"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 198400,
       "name": "Beh Beh",
       "url": "https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie"
@@ -1245,6 +1245,28 @@
     },
     {
       "album": {
+        "name": "CHANTE'S GROOVE",
+        "url": "https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195038,
+      "name": "CHANTE'S GROOVE",
+      "url": "https://open.spotify.com/track/2qMKGSiQvgJAT7J94kloTB"
+    },
+    {
+      "album": {
         "name": "Chasing",
         "url": "https://open.spotify.com/album/3mNWyf9QBXfnuXJCYeImt1"
       },
@@ -1689,6 +1711,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Count Me In",
+        "url": "https://open.spotify.com/album/38nOb3gb5ohG3WtRMZ32ZW"
+      },
+      "artists": [
+        {
+          "name": ".multibeat",
+          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
+        },
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198140,
+      "name": "Don\u2019t Count Me In",
+      "url": "https://open.spotify.com/track/2k8tbt4jY1Nl5nY5CL7Heg"
+    },
+    {
+      "album": {
         "name": "Downright",
         "url": "https://open.spotify.com/album/5avhqr0GessrsdBSr82FIE"
       },
@@ -1740,7 +1784,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 199658,
       "name": "Ebbs and Flows",
       "url": "https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f"
@@ -2218,7 +2262,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 246680,
       "name": "Get it Got it",
       "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
@@ -3849,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Lover, You Should\u2019ve Come Over",
+        "url": "https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361175,
+      "name": "Lover, You Should\u2019ve Come Over",
+      "url": "https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe"
+    },
+    {
+      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/5ViCoszPDZqEOu2UVB34LQ"
       },
@@ -5300,7 +5362,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 168235,
       "name": "Scene 1",
       "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
@@ -5362,6 +5424,24 @@
       "duration_ms": 258979,
       "name": "sealand",
       "url": "https://open.spotify.com/track/5vyHC9KyYoXTUH2eLUwK8P"
+    },
+    {
+      "album": {
+        "name": "Seconds, Minutes, Hours",
+        "url": "https://open.spotify.com/album/4vqGSFdoW2vX2Umle1d2ml"
+      },
+      "artists": [
+        {
+          "name": "JA\u00cfNDA",
+          "url": "https://open.spotify.com/artist/66o7kKRzYuVjtmQo4acAkR"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186165,
+      "name": "Seconds, Minutes, Hours",
+      "url": "https://open.spotify.com/track/7dSu6dQ8dQikkGSq0ZEj3f"
     },
     {
       "album": {
@@ -6420,7 +6500,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 223633,
       "name": "Take Time (feat. Tobe Nwigwe)",
       "url": "https://open.spotify.com/track/57oPG7bNMxAPDzU1ImuzZM"
@@ -6774,6 +6854,32 @@
       "duration_ms": 204000,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
+    },
+    {
+      "album": {
+        "name": "The Way You Are",
+        "url": "https://open.spotify.com/album/0TbmxVK6pALyCJB75NhLwt"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        },
+        {
+          "name": "Showyou",
+          "url": "https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "The Way You Are",
+      "url": "https://open.spotify.com/track/0y63PuqT04J1EsUioyiQWp"
     },
     {
       "album": {
@@ -7352,7 +7458,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 190469,
       "name": "Way That We Feel",
       "url": "https://open.spotify.com/track/7AfeSdXYaEOttGjbssdDwp"
@@ -7440,7 +7546,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
@@ -7560,6 +7666,28 @@
       "duration_ms": 244783,
       "name": "Worldwide",
       "url": "https://open.spotify.com/track/29N2S4U4bHo36ylr4gihq3"
+    },
+    {
+      "album": {
+        "name": "Super-Sonic Family Vol. 2 - Part 4",
+        "url": "https://open.spotify.com/album/25khyIhDEFGXtBN00d9fVi"
+      },
+      "artists": [
+        {
+          "name": "Hatoon",
+          "url": "https://open.spotify.com/artist/1EpikLgslGBzjeSb48JaHs"
+        },
+        {
+          "name": "Timtimma",
+          "url": "https://open.spotify.com/artist/1jccyiau3xDQBglB7cduT6"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220137,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5PR0Bz0a1YwlwEuDdJxzvI"
     },
     {
       "album": {

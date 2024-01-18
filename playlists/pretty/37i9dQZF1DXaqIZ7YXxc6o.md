@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,745 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,741 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mwaki \- Major Lazer Remix](https://open.spotify.com/track/0c6dw8qe0mNA2sMETrDUl9) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Major Lazer Remix\)](https://open.spotify.com/album/7MAWQ0wUnEZiI7Y9qkqlhd) | 3:15 |
 | 2 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
-| 3 | [Every Lil'](https://open.spotify.com/track/39bZPBoasEOCJXMR4TPqP5) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Every Lil'](https://open.spotify.com/album/2TogfhcATG56txTlEoExoE) | 3:00 |
+| 3 | [Every Lil'](https://open.spotify.com/track/39bZPBoasEOCJXMR4TPqP5) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Every Lil'](https://open.spotify.com/album/2TogfhcATG56txTlEoExoE) | 3:01 |
 | 4 | [No Man's Land](https://open.spotify.com/track/1pzcBd8A2f2pnVCGWro0fo) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [No Man's Land](https://open.spotify.com/album/1FgHLHfin6Vvv1WrMWm6L4) | 2:18 |
 | 5 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
 | 6 | [Let It Go](https://open.spotify.com/track/524wbK27Ssf7fMuzOUmJ7U) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Let It Go](https://open.spotify.com/album/2mjKjhxmC3ZInWFSmtAy71) | 3:33 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [A Little Taste](https://open.spotify.com/track/6uMNW5hrhvv64soTwiwS52) | [Sonny Grin](https://open.spotify.com/artist/1Nymwcz4ybOrV0WjkFPsne), [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [A Little Taste](https://open.spotify.com/album/7K5f8QZI56ygmIDuLKkCmv) | 3:57 |
 | 99 | [Silly Banter](https://open.spotify.com/track/3jgEEKaw12kJgI3qrjpA0T) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [Silly Banter](https://open.spotify.com/album/4c6iutQGEeNdcMMYtRsa7M) | 3:10 |
 
-Snapshot ID: `MCw1N2UxYmMzYmQ1NWY5ODA5OGQxNTlhMTgzNjViNjIzYzhiNjRkZjk3`
+Snapshot ID: `MCw3NDcxNGQwZDA3ZWY3ZTViNTNlNWYzYTY0MmY4Mzk2NDQ0Y2YwMzJh`

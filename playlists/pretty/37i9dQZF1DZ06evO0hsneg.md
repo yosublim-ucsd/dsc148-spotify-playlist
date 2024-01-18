@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 41 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 456 likes - 41 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 20 | [bad minah \(feat\. Hullera\)](https://open.spotify.com/track/2XdPqdiH87qb1101BEbfGL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Hullera](https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:32 |
 | 21 | [I'm Da Man](https://open.spotify.com/track/6piZKhGU7YREW1hstDTTVm) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I'm Da Man](https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm) | 3:04 |
 | 22 | [Ain't Gonna Give Up](https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Ain't Gonna Give Up](https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3) | 3:53 |
-| 23 | [JUICY \- From "Joy Ride" Official Motion Picture Soundtrack](https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [JUICY \(From "Joy Ride" Official Motion Picture Soundtrack\)](https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6) | 2:30 |
-| 24 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 |
+| 23 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 |
+| 24 | [JUICY \- From "Joy Ride" Official Motion Picture Soundtrack](https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [JUICY \(From "Joy Ride" Official Motion Picture Soundtrack\)](https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6) | 2:30 |
 | 25 | [FASHION](https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [FASHION](https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH) | 3:13 |
 | 26 | [FACTS](https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [FACTS](https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO) | 2:27 |
 | 27 | [out of control \(feat\. Rayi Putra\)](https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:01 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 35 | [gippal](https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:25 |
 | 36 | [Go! \(I Can Be Your\)](https://open.spotify.com/track/5AlZgUEZwPcPkUXFTtkraM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Go! \(I Can Be Your\)](https://open.spotify.com/album/7GGvngihcEqrMm58EYZaYT) | 2:52 |
 | 37 | [Shine](https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:52 |
-| 38 | [Hyperballin](https://open.spotify.com/track/2CvvpLLO9UBvfvLRC23no4) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Hyperballin](https://open.spotify.com/album/1ykWQumm60Xg8jPAlZ2Hcq) | 2:30 |
+| 38 | [yellow fever \(feat\. Ramengvrl & YAYOI DAIMON\)](https://open.spotify.com/track/6mrHgesCVZEEDxiS6aovn6) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb) | [yellow fever \(feat\. Ramengvrl & YAYOI DAIMON\)](https://open.spotify.com/album/4mfzgLen8EtrAFZIrOKJEN) | 2:46 |
 | 39 | [whats ur problem](https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
-| 40 | [yellow fever \(feat\. Ramengvrl & YAYOI DAIMON\)](https://open.spotify.com/track/6mrHgesCVZEEDxiS6aovn6) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb) | [yellow fever \(feat\. Ramengvrl & YAYOI DAIMON\)](https://open.spotify.com/album/4mfzgLen8EtrAFZIrOKJEN) | 2:46 |
+| 40 | [Hyperballin](https://open.spotify.com/track/2CvvpLLO9UBvfvLRC23no4) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Hyperballin](https://open.spotify.com/album/1ykWQumm60Xg8jPAlZ2Hcq) | 2:30 |
 | 41 | [go commando](https://open.spotify.com/track/4mXjqQFVybIXWeKmLr1PGd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 
-Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDBkN2E3ZDJhNTRmOGNlODJiYmU4ZjhiOWYzMzI2NDUyMQ==`
+Snapshot ID: `Mjg0MjQ4NzgsMDAwMDAwMDA4MDA2MTU4YWUyNDI2MTUxYWRiMTg2NTVhMWRiNDQ1Ng==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Lukas Agustinho, Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,117 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,523 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 52 | [Clamo Jesus](https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7), [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB) | [Clamo Jesus](https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC) | 7:17 |
 | 53 | [Quero Voltar Pra Casa \- Ao Vivo](https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Quero Voltar Pra Casa \(Ao Vivo\)](https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4) | 6:05 |
 | 54 | [Quebro Meu Vaso](https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Quebro Meu Vaso](https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2) | 5:13 |
-| 55 | [Você Nasceu Pra Dar Certo](https://open.spotify.com/track/21oPwXcfY81BrGhrr105os) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Você Nasceu Pra Dar Certo](https://open.spotify.com/album/0yW9gXrE07qjNVwIVTWFww) | 4:16 |
-| 56 | [Deus de Milagres \- Ao Vivo](https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Deus de Milagres \(Ao Vivo\)](https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9) | 5:48 |
-| 57 | [Meu Filho, Descansa](https://open.spotify.com/track/7Gsc3mp3uZqjCWK6N0EvJv) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Meu Filho, Descansa](https://open.spotify.com/album/025sVZFpzszdBpyDespCnZ) | 4:03 |
-| 58 | [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC) | 5:50 |
+| 55 | [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC) | 5:50 |
+| 56 | [Meu Filho, Descansa](https://open.spotify.com/track/7Gsc3mp3uZqjCWK6N0EvJv) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Meu Filho, Descansa](https://open.spotify.com/album/025sVZFpzszdBpyDespCnZ) | 4:03 |
+| 57 | [Você Nasceu Pra Dar Certo](https://open.spotify.com/track/21oPwXcfY81BrGhrr105os) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Você Nasceu Pra Dar Certo](https://open.spotify.com/album/0yW9gXrE07qjNVwIVTWFww) | 4:16 |
+| 58 | [Deus de Milagres \- Ao Vivo](https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Deus de Milagres \(Ao Vivo\)](https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9) | 5:48 |
 | 59 | [Espírito, Enche a Minha Vida](https://open.spotify.com/track/5vui0rUNNhaYWzGKsYYq8H) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh), [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN) | [Deus Não Falhará](https://open.spotify.com/album/6WddTfFBjojKQZ7VMztSah) | 4:03 |
 | 60 | [Senhor dos Exércitos \- Ao Vivo](https://open.spotify.com/track/6zeA7gTkx0Cttexj4XOiHr) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Senhor dos Exércitos \(Ao Vivo\)](https://open.spotify.com/album/3A18e58JoJ0SItSd62SVoG) | 4:41 |
 | 61 | [Nem Um Segundo](https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nem Um Segundo](https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u) | 5:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 | 100 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 |
 
-Snapshot ID: `MCxmZDgwNWZlYmY4ZTQwZTczM2VjYzM1YzhkODllYmJhMmY3ZGQ3ZTk0`
+Snapshot ID: `MCw1ZDViOWZmYzBjYmUyNjBmOTc1NjgwYzg5YTk2ZTc2ZDBhMDMyNzBm`

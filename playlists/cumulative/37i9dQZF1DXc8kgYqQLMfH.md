@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,115 songs - 1 day 18 hr 12 min
+1,116 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -819,7 +819,7 @@
 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 | 2022-03-04 | 2023-03-02 |
 | [Rolling By](https://open.spotify.com/track/3LK0gJqUKVqTpBIogxjak7) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [Jam Session](https://open.spotify.com/album/0Udv2Q7r13MbZIAQ5vuMlu) | 2:36 | 2021-11-10 | 2022-06-10 |
 | [Rolling Like River Rocks](https://open.spotify.com/track/1mGvebQMqIXadbhHzUNdrD) | [Golden Frame](https://open.spotify.com/artist/1HlZzvl4HefwTdmj5W9uNo) | [Rolling Like River Rocks](https://open.spotify.com/album/4WDzXbXJJaTz8LhZH3K6Jf) | 2:12 | 2021-11-10 | 2022-07-22 |
-| [Room Service 24/7](https://open.spotify.com/track/1IXm9rvU1QIbP9xoSR9fRm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Room Service 24/7](https://open.spotify.com/album/7MgB6FT98HuA9uSDtPkNA2) | 3:32 | 2022-09-23 |  |
+| [Room Service 24/7](https://open.spotify.com/track/1IXm9rvU1QIbP9xoSR9fRm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Room Service 24/7](https://open.spotify.com/album/7MgB6FT98HuA9uSDtPkNA2) | 3:32 | 2022-09-23 | 2024-01-18 |
 | [rose crowns](https://open.spotify.com/track/2hkX7l9TqWTAMckdD9585v) | [bby knife](https://open.spotify.com/artist/3Tub4hRLiyd2Heoati75O4) | [rose crowns & wine country](https://open.spotify.com/album/6bJ0F2pQCLmulIhhViIh92) | 2:52 | 2022-12-09 |  |
 | [Roseship](https://open.spotify.com/track/6fkYSkZr3GAbPckhYXTA1Z) | [Fırat Durak](https://open.spotify.com/artist/478TYt4lme8W8GuK7kXZLe), [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Roseship](https://open.spotify.com/album/0vCUA9kfmR98zY4QyIwnLW) | 2:38 | 2022-10-07 | 2023-10-06 |
 | [Rosso](https://open.spotify.com/track/3pscNS95UxbGBl9JY0SsFP) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Rosso](https://open.spotify.com/album/0VBXpCv2RP6ekq7rtGpX7w) | 2:01 | 2023-02-07 | 2023-10-13 |
@@ -903,6 +903,7 @@
 | [solemn haze](https://open.spotify.com/track/1ILTCNQe6kMjRetweNHGFY) | [Vague & Moody](https://open.spotify.com/artist/3odGE9auGwTw3UhnCQvWNT) | [solemn haze](https://open.spotify.com/album/1Tw9bPCt3tNqKZDRafT8Su) | 2:22 | 2022-05-20 | 2023-09-16 |
 | [Solid Sunset](https://open.spotify.com/track/7ecgbwgxhWQ72R9tLXTgQ5) | [agn3tic](https://open.spotify.com/artist/22Jx8EtnRgBjw15Er37uUz) | [Solid Sunset](https://open.spotify.com/album/4Su18l8p1kQ3bgCVdAEWm5) | 2:43 | 2023-02-07 |  |
 | [Solstice](https://open.spotify.com/track/1EX3JUytiF7fAeUalcXYF3) | [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [yuci](https://open.spotify.com/artist/1cy1yUgQmLN4ycPmd72w7G) | [Solstice](https://open.spotify.com/album/3J5UYuCDeYW1vB3AzLKIIp) | 1:53 | 2022-09-02 | 2023-10-06 |
+| [Something Just Like This](https://open.spotify.com/track/7kUrFke3uXQj8aXrK31YMX) | [Vries](https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U) | [Something Just Like This](https://open.spotify.com/album/15UPDQW8lzzQCoA9lfK1wU) | 3:26 | 2024-01-12 |  |
 | [Somewhere Around Here](https://open.spotify.com/track/57a2PeuLm9V53lgurUzzMh) | [Fires In The Dark](https://open.spotify.com/artist/4gFdKcBLSzdrCQpp5XUbCY) | [Somewhere Around Here](https://open.spotify.com/album/4w59HpHcpRyKY0hlFutcps) | 2:59 | 2021-11-10 | 2022-06-03 |
 | [Sons & Daughters](https://open.spotify.com/track/6yq6dvbTKnPu7KFbchVrTm) | [OnurOHA](https://open.spotify.com/artist/59GI9tAkVAL2QjhOBRLPVZ) | [Sons & Daughters](https://open.spotify.com/album/2mhmmQr212vOWbi5XsFDMc) | 2:35 | 2022-10-07 | 2023-10-06 |
 | [Soul Kitchen](https://open.spotify.com/track/5rwkMQ0tfHdy7zIYDSoKAQ) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:24 | 2021-11-10 | 2022-05-27 |

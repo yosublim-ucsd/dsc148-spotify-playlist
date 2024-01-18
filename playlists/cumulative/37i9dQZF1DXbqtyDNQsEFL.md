@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-287 songs - 1 day 6 hr 59 min
+288 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2023-12-05 | 2023-12-11 |
 | [Nara Testimony](https://open.spotify.com/track/4XNERMODQosvkyZwRh0rNg) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 6:55 | 2022-06-09 | 2023-02-21 |
 | [Ndichatarisa](https://open.spotify.com/track/70ZBUNVFSHZSmZqLPDKAzx) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG) | [Ndichatarisa](https://open.spotify.com/album/10MaqFUzBYnSznaeJhkTDP) | 3:25 | 2023-09-29 | 2023-11-23 |
-| [Never Ending Love](https://open.spotify.com/track/6PTdosZg7sMabnr47NGdVE) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [The Excentric](https://open.spotify.com/artist/3XrrUDnJSH7bX0DEbSUCu3), [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Never Ending Love](https://open.spotify.com/album/6Pj4CUUtQXon0qZ7aFtQc1) | 2:54 | 2023-10-27 |  |
+| [Never Ending Love](https://open.spotify.com/track/6PTdosZg7sMabnr47NGdVE) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [The Excentric](https://open.spotify.com/artist/3XrrUDnJSH7bX0DEbSUCu3), [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Never Ending Love](https://open.spotify.com/album/6Pj4CUUtQXon0qZ7aFtQc1) | 2:54 | 2023-10-27 | 2024-01-18 |
 | [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 | 2022-09-09 | 2023-07-24 |
 | [New Dimension \- Live](https://open.spotify.com/track/1ZcM6L1cGFrDnWnZ4IWZmP) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [New Dimension](https://open.spotify.com/album/5F8AS4nbIJ1RRceKfrO7G8) | 12:38 | 2023-12-05 | 2023-12-11 |
 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 | 2022-06-09 | 2023-05-23 |
@@ -239,6 +239,7 @@
 | [The Only God](https://open.spotify.com/track/6jriZl0MvIiURIS64fSqfO) | [Mairo Ese](https://open.spotify.com/artist/78QoE7x1Wt8whxsUItnwm9) | [The Only God](https://open.spotify.com/album/0oCDl8tXWW4izMRgXnTzNf) | 7:23 | 2022-10-14 | 2022-11-05 |
 | [There's an Overflow](https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [There's an Overflow](https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm) | 8:10 | 2022-06-09 | 2023-10-06 |
 | [This Love](https://open.spotify.com/track/5RHUrCglxsMgs2xvo1wCh2) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [This Love](https://open.spotify.com/album/5jF6a0WvJ8zzO9a00lbP6I) | 5:00 | 2022-06-09 | 2023-01-26 |
+| [This New Year](https://open.spotify.com/track/5jhaDcY8Xbt2g4zj5Skj6N) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [This New Year](https://open.spotify.com/album/4KMbeo33myIfZ8Rp5rYxLh) | 4:11 | 2023-12-15 |  |
 | [THIS YEAR \(Blessings\) \(feat\. Ehis 'D' Greatest\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \(feat\. Ehis 'D' Greatest\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 | 2023-10-14 | 2023-10-23 |
 | [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/67NHjEvUTfqyKqNZF0tSMh) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 9:49 | 2023-11-24 | 2023-12-15 |
 | [To The One](https://open.spotify.com/track/63jFXcyV4O9hxNvguAhXfr) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [To The One](https://open.spotify.com/album/5qziBnjmCl8ZhpQNEGvLkG) | 9:54 | 2023-06-09 | 2023-07-19 |

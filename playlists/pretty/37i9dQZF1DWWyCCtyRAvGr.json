@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 166867,
+  "num_followers": 166947,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzkzMmI1YWY4MTViYWJlNjQ0NWM4ZTY2ZDMwMzYyZGYxZjUzZmMz",
+  "snapshot_id": "MCxhNDViZjA3MDBhODAwNzc5NGUzMTEzOGM4MDkwNGRkZTg5NWRiNGEx",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Somebody Loan Me A Dime (Remastered)",
+        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 176747,
+      "name": "Somebody Loan Me A Dime - Remastered",
+      "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Hoodoo",
         "url": "https://open.spotify.com/album/35Azg941BSNx3sGxo7C1yJ"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 176373,
       "name": "I Loved Another Woman",
       "url": "https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Somebody Loan Me A Dime (Remastered)",
-        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 176747,
-      "name": "Somebody Loan Me A Dime - Remastered",
-      "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Bluesmen Don't Use Umbrellas",
-        "url": "https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm"
-      },
-      "artists": [
-        {
-          "name": "Michigan Curve",
-          "url": "https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba"
-        }
-      ],
-      "duration_ms": 419600,
-      "name": "J.C's. Blues",
-      "url": "https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 210826,
       "name": "I Ain't Superstitious",
       "url": "https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Bluesmen Don't Use Umbrellas",
+        "url": "https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm"
+      },
+      "artists": [
+        {
+          "name": "Michigan Curve",
+          "url": "https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba"
+        }
+      ],
+      "duration_ms": 419600,
+      "name": "J.C's. Blues",
+      "url": "https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1092,8 +1092,8 @@
       },
       "artists": [
         {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+          "name": "Little",
+          "url": "https://open.spotify.com/artist/4ZuhebqwJKJ4Nn7tqp7zZZ"
         }
       ],
       "duration_ms": 208133,
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Fast Talking Woman Blues",
-      "url": "https://open.spotify.com/track/2fMyMnv8L2fqCoVAB97jj3"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Willie's Blues",
         "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Fast Talking Woman Blues",
+      "url": "https://open.spotify.com/track/2fMyMnv8L2fqCoVAB97jj3"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "From The Heart Of A Woman",
         "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 257093,
       "name": "Thanks, But No Thanks",
       "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Love on the Rocks",
-        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
-      },
-      "artists": [
-        {
-          "name": "Lauren Anderson",
-          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Love on the Rocks",
-      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "The Best Of Freddie King: The Shelter Years",
-        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+        "name": "Love on the Rocks",
+        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Lauren Anderson",
+          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
         }
       ],
-      "duration_ms": 240466,
-      "name": "Reconsider Baby - Remastered",
-      "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
+      "duration_ms": 222826,
+      "name": "Love on the Rocks",
+      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1363,6 +1347,22 @@
       "duration_ms": 186493,
       "name": "Drifting From Town To Town",
       "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Reconsider Baby - Remastered",
+      "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Brown",
-          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Got News For You",
-      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Outdated Emotion",
         "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 146397,
       "name": "Connecticut Blues",
       "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Brown",
+          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "I Got News For You",
+      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Midnight in Mississippi '22",
         "url": "https://open.spotify.com/album/78vmcDjMM4wIn6CppzngNt"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 238034,
       "name": "Midnight in Mississippi '22",
       "url": "https://open.spotify.com/track/31rHw7L2PnXw53oNzH1FgI"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
     },
     {
       "added_at": "2023-10-05 13:18:26",

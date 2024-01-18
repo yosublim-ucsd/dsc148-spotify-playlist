@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Fleeky Bang\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
 
-1,071 songs - 2 day 10 hr 45 min
+1,072 songs - 2 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Did It Myself](https://open.spotify.com/track/014UbcvltWdvq1h6oNL17Y) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Bitch X Rich \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/7tvF6pG0ePx0GFwmNPKpqX) | 2:51 | 2023-06-13 | 2023-07-18 |
 | [Different](https://open.spotify.com/track/2W38DSKgHiANRycFdzjzSC) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Flame Boy](https://open.spotify.com/album/1316vCmpzR8cmX1R1VJUAD) | 4:10 | 2023-01-03 | 2023-01-11 |
 | [Digits](https://open.spotify.com/track/2mpT3l7cH7fByfQIK9mXN4) | [JGP$](https://open.spotify.com/artist/49QaRlIIahPA6MQsL3usqW), [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR) | [Artificial Object](https://open.spotify.com/album/4aiYP97aOHtDt4bmEFk69H) | 3:07 | 2021-12-29 | 2022-04-16 |
+| [Dillis](https://open.spotify.com/track/1sEO3COhUlmYx3e4W6wnND) | [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ) | [Dillis](https://open.spotify.com/album/4kZCryJSstIHyI2dvud2q3) | 2:03 | 2024-01-17 |  |
 | [Dingo X SGBOYZ \- ? \(Prod\. GRAY\)](https://open.spotify.com/track/7cDeFoNeMJfp8ChAqaZUMC) | [SGBOYZ \(Jay Park, Don Mills, Loco, Nucksal\)](https://open.spotify.com/artist/66bwuJTs2P6ygJTTmW53Cw) | [Dingo X SGBOYZ \- ? \(Prod\. GRAY\)](https://open.spotify.com/album/1V1hbUJcmNISGcYyR6sHdL) | 4:16 | 2021-12-18 | 2022-07-08 |
 | [Dingo X SINCE, HAHOE, Bona Zoe – WE HERE](https://open.spotify.com/track/2zKqYXv00X9lVFPskFVngd) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Hahoe](https://open.spotify.com/artist/1kV3IZShJRYaW0w9rFwXzD), [Bona Zoe](https://open.spotify.com/artist/3O1CL9TAy6NbRX9xJv7Olh) | [Dingo X SINCE, HAHOE, Bona Zoe – WE HERE](https://open.spotify.com/album/1YJQCrr8vPEl3yCcL3yuxw) | 3:00 | 2022-04-28 | 2022-07-08 |
 | [Direction \(Feat\. GARY\)](https://open.spotify.com/track/5YoVoe2bz3x1Ls9ZiDEjL4) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi) | [Time Table \- The Trip](https://open.spotify.com/album/5XrdPk3JCyE2QVUNeHcfxg) | 3:24 | 2021-12-21 | 2022-07-08 |

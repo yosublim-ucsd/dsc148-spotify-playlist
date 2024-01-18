@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 126676,
+  "2024-01-18": 126681,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -6173,7 +6173,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 201000,
       "name": "Lastecostra",
       "url": "https://open.spotify.com/track/2bwAt55jyN5QGQhWFkwvez"
@@ -10813,6 +10813,28 @@
       "duration_ms": 162519,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/0rHT3KSdQn3JvGPwe5EH2Y"
+    },
+    {
+      "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/1TVA7epk6ZpEuqvTtdWfZb"
+      },
+      "artists": [
+        {
+          "name": "Angara",
+          "url": "https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3"
+        },
+        {
+          "name": "Gregory Esayan",
+          "url": "https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/0Oa3fJvhtLXc6RGkcRVHVT"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Haley Blais",
-  "num_followers": 356200,
+  "num_followers": 356306,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjY4OTdjYjYwNzAwNjI1NzRjZmQzMTNiZDlhM2MxYTlmMDMzYjEz",
+  "snapshot_id": "MCwxYTgzYmFlZTlkZjFmZmM0MDNiMWJkNTNmODdmZjVjMzNiMjY4MDJi",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -576,7 +576,7 @@
       },
       "artists": [
         {
-          "name": "Gretel H\u00e4nlyn",
+          "name": "Gretel",
           "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
         }
       ],
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 276826,
-      "name": "All The Good Times",
-      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 195600,
       "name": "Lilacs",
       "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 276826,
+      "name": "All The Good Times",
+      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -743,6 +743,22 @@
       "duration_ms": 252454,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -831,18 +847,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         }
       ],
-      "duration_ms": 217373,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
+      "duration_ms": 245843,
+      "name": "Idaho",
+      "url": "https://open.spotify.com/track/4FvqAI5GwPspJE3TkMGnEb"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -879,22 +895,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 245843,
-      "name": "Idaho",
-      "url": "https://open.spotify.com/track/4FvqAI5GwPspJE3TkMGnEb"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Thx",
         "url": "https://open.spotify.com/album/15nul3qLPn2FopI5zjdEg7"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 162379,
       "name": "Who Am I But Someone",
       "url": "https://open.spotify.com/track/2aIMQ8exqALB45htgOenLF"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Jupiter 4",
-      "url": "https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -991,6 +975,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Jupiter 4",
+      "url": "https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Walking Like We Do",
         "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 260355,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 253983,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 260355,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Digital Meadow",
-        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Polly",
-      "url": "https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Immune",
         "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Digital Meadow",
+        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
+        "name": "Vagabon",
+        "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
       },
       "artists": [
         {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
         }
       ],
-      "duration_ms": 131630,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5lVuIYjYS8Xh7tJ7UwWrmE"
+      "duration_ms": 272230,
+      "name": "Water Me Down",
+      "url": "https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Vagabon",
-        "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
       },
       "artists": [
         {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
         }
       ],
-      "duration_ms": 272230,
-      "name": "Water Me Down",
-      "url": "https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC"
+      "duration_ms": 131630,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5lVuIYjYS8Xh7tJ7UwWrmE"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG"
-      },
-      "artists": [
-        {
-          "name": "The Greeting Committee",
-          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Make Out",
-      "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "When You Walk A Long Distance You Are Tired",
         "url": "https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 333514,
       "name": "It Hurts Until It Doesn't",
       "url": "https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG"
+      },
+      "artists": [
+        {
+          "name": "The Greeting Committee",
+          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Make Out",
+      "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Rabbit Hole",
-        "url": "https://open.spotify.com/album/7dx74V0ACulX7f5cjbsdSx"
-      },
-      "artists": [
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 179146,
-      "name": "Rabbit Hole",
-      "url": "https://open.spotify.com/track/0BFGclich9JXVCAS79P793"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 195358,
       "name": "Bad Spell",
       "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/7dx74V0ACulX7f5cjbsdSx"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/0BFGclich9JXVCAS79P793"
     },
     {
       "added_at": "2023-10-27 04:00:00",

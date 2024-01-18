@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 435350,
+  "num_followers": 435562,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODNkMDNhYTY3MjUyYTM0MTQyMTBhMDFiNjkyM2YwYTZhMjdkZThh",
+  "snapshot_id": "MCxjZGIxOTc2NjgzYzY5NTc3NTVmMDUxNGVhMTI5OGZjY2VlMmI3Mzlm",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "multiverse",
-        "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
-      },
-      "artists": [
-        {
-          "name": "Maya Manuela",
-          "url": "https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw"
-        },
-        {
-          "name": "PEMBROKE",
-          "url": "https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE"
-        }
-      ],
-      "duration_ms": 179224,
-      "name": "multiverse",
-      "url": "https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 166138,
       "name": "Raining in June",
       "url": "https://open.spotify.com/track/72Q3BQhu0w6A81ouAUp7UL"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "multiverse",
+        "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
+      },
+      "artists": [
+        {
+          "name": "Maya Manuela",
+          "url": "https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw"
+        },
+        {
+          "name": "PEMBROKE",
+          "url": "https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE"
+        }
+      ],
+      "duration_ms": 179224,
+      "name": "multiverse",
+      "url": "https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
@@ -1095,34 +1111,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
+        "name": "Colder Heavens - EP",
+        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Nothing Else",
-      "url": "https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Colder Heavens - EP",
-        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Colder Heavens",
-      "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
+      "duration_ms": 305160,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 194320,
       "name": "Mind on Fire",
       "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Dust to Dust",
-      "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 224893,
       "name": "How (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Dust to Dust",
+      "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Shine On Rainy Day",
-        "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "Solving Problems",
-      "url": "https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Ledges",
         "url": "https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Shine On Rainy Day",
+        "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "Solving Problems",
+      "url": "https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "I'm Around",
         "url": "https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 271854,
       "name": "I'm Around",
       "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
+        "name": "Sleepless in Seattle",
+        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
       },
       "artists": [
         {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
         }
       ],
-      "duration_ms": 176551,
-      "name": "Summertime Mama",
-      "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Sleepless in Seattle",
-        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
       },
       "artists": [
         {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
         }
       ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+      "duration_ms": 176551,
+      "name": "Summertime Mama",
+      "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1943,6 +1943,42 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 265387,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Golden (Acoustic)",
         "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
       },
@@ -1975,22 +2011,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Helpless",
-        "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
+        "name": "Belly of the Beast / Paper Mountain",
+        "url": "https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 265387,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
+      "duration_ms": 195540,
+      "name": "Belly of the Beast",
+      "url": "https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2007,38 +2039,6 @@
       "duration_ms": 225866,
       "name": "Won't Be Long",
       "url": "https://open.spotify.com/track/2rw4cJKCCBYpZ57EFHE2Ih"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Dead & Born & Grown",
-        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Belly of the Beast / Paper Mountain",
-        "url": "https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 195540,
-      "name": "Belly of the Beast",
-      "url": "https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2075,18 +2075,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Steady Now",
-        "url": "https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY"
+        "name": "Young In All The Wrong Ways",
+        "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
       },
       "artists": [
         {
-          "name": "William Wild",
-          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
         }
       ],
-      "duration_ms": 262571,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ"
+      "duration_ms": 174546,
+      "name": "Tenderhearted",
+      "url": "https://open.spotify.com/track/4dvDPY5piE0KexzgjEtfef"
     }
   ],
   "unique_name": "Soft & Slow",

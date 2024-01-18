@@ -1,12 +1,12 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 110185,
+  "num_followers": 110263,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjljYTI5MmNhZTc5MzI3MmFkYTdiZWJjYzBhZDVhODliNmRkZmNj",
+  "snapshot_id": "MCw1NmE5N2Q2ZTA2NWY2YjgxYTVjMDJhMjIyZjBlNjhlMWM2MmNmYTg4",
   "tracks": [
     {
       "added_at": "2024-01-12 03:01:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Slow (feat. J Valentine)",
-        "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        },
-        {
-          "name": "J. Valentine",
-          "url": "https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg"
-        }
-      ],
-      "duration_ms": 200212,
-      "name": "Slow (feat. J Valentine)",
-      "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
         "name": "Drunken Wordz Sober Thoughtz",
         "url": "https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 185753,
       "name": "Wet Dreamz",
       "url": "https://open.spotify.com/track/2OhVsFUxkFIp8LuBTjH2Rs"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Slow (feat. J Valentine)",
+        "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "J. Valentine",
+          "url": "https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg"
+        }
+      ],
+      "duration_ms": 200212,
+      "name": "Slow (feat. J Valentine)",
+      "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 206304,
-      "name": "GLA",
-      "url": "https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
         "name": "Love and Be Loved",
         "url": "https://open.spotify.com/album/3ynGv03Sdz2FIWxsLPhVJ3"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 207203,
       "name": "Love and Be Loved",
       "url": "https://open.spotify.com/track/7DPXIv3DSRxRB7N75HMrH8"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 206304,
+      "name": "GLA",
+      "url": "https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Little Men (Deluxe)",
-        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
+        "name": "Midnight Snacks",
+        "url": "https://open.spotify.com/album/1EEE1VEoFi5y8lqe7NGfHM"
       },
       "artists": [
         {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
         }
       ],
-      "duration_ms": 240074,
-      "name": "Crash for a Couple",
-      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
+      "duration_ms": 195000,
+      "name": "Midnight Snacks",
+      "url": "https://open.spotify.com/track/7lampoWFogPIJZRxThSOBq"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
+        "name": "Little Men (Deluxe)",
+        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 240074,
+      "name": "Crash for a Couple",
+      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/6AcsZZ2w0lPCkdCXdeZsyh"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 199906,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/7qArBfIvf7EgFwqa2oUd66"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
-        "name": "Midnight Snacks",
-        "url": "https://open.spotify.com/album/1EEE1VEoFi5y8lqe7NGfHM"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Midnight Snacks",
-      "url": "https://open.spotify.com/track/7lampoWFogPIJZRxThSOBq"
     },
     {
       "added_at": "2024-01-12 03:01:00",

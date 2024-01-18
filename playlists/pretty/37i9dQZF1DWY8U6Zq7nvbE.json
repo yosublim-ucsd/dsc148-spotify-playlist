@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1132074,
+  "num_followers": 1132124,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjI0Yzk2N2E5OTYwZTBiYjcyODc5ODZjMjhlMDNiMDc5MDM1YTgw",
+  "snapshot_id": "MCw3OGUzMjc4ZGQ2ZTNhZmJmNDA3MzMyNGFmMTU3NzRmYWE1NWQyYWJi",
   "tracks": [
     {
       "added_at": "2024-01-12 00:01:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "BLACKBIRD",
-        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
-      },
-      "artists": [
-        {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
-        }
-      ],
-      "duration_ms": 128009,
-      "name": "BLACKBIRD",
-      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Still The One",
         "url": "https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 211257,
       "name": "Still The One",
       "url": "https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "BLACKBIRD",
+        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "duration_ms": 128009,
+      "name": "BLACKBIRD",
+      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 189650,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Make You Feel My Love",
         "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 189680,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 189650,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64"
-      },
-      "artists": [
-        {
-          "name": "Abbie Parker",
-          "url": "https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko"
-        }
-      ],
-      "duration_ms": 187830,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 178966,
       "name": "In The Meantime",
       "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64"
+      },
+      "artists": [
+        {
+          "name": "Abbie Parker",
+          "url": "https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko"
+        }
+      ],
+      "duration_ms": 187830,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Never Gonna Give You Up - Acoustic",
-        "url": "https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd"
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn"
       },
       "artists": [
         {
-          "name": "Nelly Hope",
-          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+          "name": "WestSouth",
+          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
         }
       ],
-      "duration_ms": 217848,
-      "name": "Never Gonna Give You Up - Acoustic",
-      "url": "https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD"
+      "duration_ms": 166019,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn"
+        "name": "Never Gonna Give You Up - Acoustic",
+        "url": "https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd"
       },
       "artists": [
         {
-          "name": "WestSouth",
-          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
         }
       ],
-      "duration_ms": 166019,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4"
+      "duration_ms": 217848,
+      "name": "Never Gonna Give You Up - Acoustic",
+      "url": "https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Kissing Other People (Acoustic)",
-        "url": "https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 192374,
-      "name": "Kissing Other People - Acoustic",
-      "url": "https://open.spotify.com/track/0Otf6MBWU5vOqlwCl1ZIZY"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Annie's Song",
         "url": "https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Arcade",
-        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
+        "name": "Kissing Other People (Acoustic)",
+        "url": "https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T"
       },
       "artists": [
         {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
         }
       ],
-      "duration_ms": 148015,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
+      "duration_ms": 192374,
+      "name": "Kissing Other People - Acoustic",
+      "url": "https://open.spotify.com/track/0Otf6MBWU5vOqlwCl1ZIZY"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1063,6 +1047,22 @@
       "duration_ms": 179000,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Barbie Girl",
-        "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
-      },
-      "artists": [
-        {
-          "name": "Jill & Jane",
-          "url": "https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG"
-        }
-      ],
-      "duration_ms": 170931,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 191971,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Barbie Girl",
+        "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
+      },
+      "artists": [
+        {
+          "name": "Jill & Jane",
+          "url": "https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG"
+        }
+      ],
+      "duration_ms": 170931,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Ransom",
-        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 166698,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 172732,
       "name": "People",
       "url": "https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Ransom",
+        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 166698,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo"
+        "name": "LULU, Vol. 1",
+        "url": "https://open.spotify.com/album/4WNPWn19iZOFvDwVbjEcZG"
       },
       "artists": [
         {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+          "name": "Hugo Helmig",
+          "url": "https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE"
         }
       ],
-      "duration_ms": 179745,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG"
+      "duration_ms": 225316,
+      "name": "All That I Need",
+      "url": "https://open.spotify.com/track/2htuDl6TWC2cxia8ZTdBSU"
     }
   ],
   "unique_name": "Chill Acoustic Covers",

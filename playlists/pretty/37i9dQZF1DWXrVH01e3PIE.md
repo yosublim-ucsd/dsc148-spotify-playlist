@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > ZARAMAY en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,671 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,705 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 5 | [Tamo En On](https://open.spotify.com/track/5oD5AjdSGiWNswzMYqBbK0) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Tamo En On](https://open.spotify.com/album/1O4bAUoHJd7Fjoy5KVDNOs) | 3:28 |
 | 6 | [Sin Berretín](https://open.spotify.com/track/2Lc0gZjqHoK3dWYdxExKoL) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Sin Berretín](https://open.spotify.com/album/1JCKngBmpkr0FJ1AJ8zHXf) | 2:22 |
 | 7 | [NO QUIERO HACERTE ESPERAR](https://open.spotify.com/track/0C5nMyoKtZhLLCj0hP4sb2) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [LA RECETA DEL FLOW](https://open.spotify.com/album/5JuAmZktmDauKMWAUpYR88) | 3:42 |
-| 8 | [LIBRE](https://open.spotify.com/track/4hCHvrNozvAGPJGeadXJML) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Orodembow](https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd) | [LIBRE](https://open.spotify.com/album/7Fli0EzDcjYjXZywh3gAsp) | 3:25 |
+| 8 | [LIBRE](https://open.spotify.com/track/4hCHvrNozvAGPJGeadXJML) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Orodembow](https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd) | [LIBRE](https://open.spotify.com/album/7Fli0EzDcjYjXZywh3gAsp) | 3:12 |
 | 9 | [OCASO](https://open.spotify.com/track/2KibbfI1tM4ofl4f3ojVBF) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [OCASO](https://open.spotify.com/album/4aGeeKBhCMXmnGerGbGGcI) | 3:53 |
 | 10 | [De las Shox a las Scorch](https://open.spotify.com/track/2i6PWZFkF8gnz668hT4sVX) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [PPP](https://open.spotify.com/album/1lsa2UwevjmI1Ud8JxvYPa) | 3:26 |
 | 11 | [LuXxX](https://open.spotify.com/track/1tgWvt78QUQrghdsbiteyZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [LuXxX](https://open.spotify.com/album/3GmPKpcpxysC0XQ9AJFeky) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 99 | [DUDADE](https://open.spotify.com/track/1K6Zq0N56asviW5jdUehg0) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DUDADE](https://open.spotify.com/album/4iAnukID7GT1dclIsrnyxx) | 2:03 |
 | 100 | [Perdoname Si Llego Tarde](https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Nivel](https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS) | 3:12 |
 
-Snapshot ID: `MCw4ODdjMzFiYjc0OTE4Njk4MWY5YjJhNWRhNWJlZmI4YjYzNGM3N2Nk`
+Snapshot ID: `MCw2NWQzYmNiY2RlYWM0ZDc3NWEwYzZmNzA3ZjFhZDFhYjhiMDE0OTRh`

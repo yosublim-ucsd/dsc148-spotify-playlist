@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,448 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,568 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 44 | [Jerkin' Crocus](https://open.spotify.com/track/1xKF80cHD0H6VydMJqK4st) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [All The Young Dudes \(Expanded Edition\)](https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa) | 4:00 |
 | 45 | [It's All Over Now](https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Gasoline Alley](https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf) | 6:26 |
 | 46 | [Bourbon](https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Jinx \(Remastered 2017\)](https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS) | 3:54 |
-| 47 | [Rockout, Whatever You Feel Like](https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj) | [One Way...Or Another](https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly) | 4:00 |
+| 47 | [7 O'Clock \- 30th Anniversary Version](https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY) | [The Quireboys](https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI) | [7 O'Clock \(30th Anniversary Version\)](https://open.spotify.com/album/4U4Y79UjbLeePgMRIpNKAt) | 3:43 |
 | 48 | [Worry No More](https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [Gimme Some Neck](https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9) | 2:33 |
-| 49 | [7 O'Clock \- 30th Anniversary Version](https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY) | [The Quireboys](https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI) | [7 O'Clock \(30th Anniversary Version\)](https://open.spotify.com/album/4U4Y79UjbLeePgMRIpNKAt) | 3:43 |
+| 49 | [Rockout, Whatever You Feel Like](https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj) | [One Way...Or Another](https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly) | 4:00 |
 | 50 | [Keep Playin' That Rock 'n' Roll](https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1) | [Edgar Winter's White Trash](https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL) | [The Essential Edgar Winter](https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW) | 3:44 |
 
-Snapshot ID: `MCwwYTY5ZWYzODVhZThjYzcxYjdiYzhkMTk4Njc2MDkzYTE3ZmU1Yzlj`
+Snapshot ID: `MCwwODAwNTI4N2Y5MjIwOTViN2RmMTkyZDBiMjRkMTgwNjc0NWVkM2Ni`

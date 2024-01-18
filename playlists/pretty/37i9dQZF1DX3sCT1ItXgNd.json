@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Myke Towers",
-  "num_followers": 979100,
+  "num_followers": 979096,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTllMmZiZjc3NTI3ZDNmNzUyOTVmYWZhYmYzYzljZGQ1NWQ3ZTQ0",
+  "snapshot_id": "MCw2MDJiYmU4MmI3OTc0ZmRkYjQ3MzYxOTlkYTg2M2U0MWVlYjMxOTdi",
   "tracks": [
     {
       "added_at": "2024-01-15 17:16:14",
@@ -611,6 +611,26 @@
     {
       "added_at": "2024-01-15 17:16:14",
       "album": {
+        "name": "SEROTONINA (DELUXE)",
+        "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 211127,
+      "name": "COMO YO TE QUIERO (DELUXE)",
+      "url": "https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx"
+    },
+    {
+      "added_at": "2024-01-15 17:16:14",
+      "album": {
         "name": "S\u00e9 lo Que Hicisteis",
         "url": "https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL"
       },
@@ -671,26 +691,6 @@
     {
       "added_at": "2024-01-15 17:16:14",
       "album": {
-        "name": "SEROTONINA (DELUXE)",
-        "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 211127,
-      "name": "COMO YO TE QUIERO (DELUXE)",
-      "url": "https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx"
-    },
-    {
-      "added_at": "2024-01-15 17:16:14",
-      "album": {
         "name": "amor de verano",
         "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-01-15 17:16:14",
       "album": {
-        "name": "Derecho a No Declarar",
-        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 146763,
-      "name": "Derecho a No Declarar",
-      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
-    },
-    {
-      "added_at": "2024-01-15 17:16:14",
-      "album": {
         "name": "Como Ves, No Siempre He Sido M\u00eda...",
         "url": "https://open.spotify.com/album/6xRDlcSpp3keEbXgRtFiPa"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 207173,
       "name": "M\u00eda",
       "url": "https://open.spotify.com/track/4iVvZOJiBmQXZHKTdLTh7C"
+    },
+    {
+      "added_at": "2024-01-15 17:16:14",
+      "album": {
+        "name": "Derecho a No Declarar",
+        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 146763,
+      "name": "Derecho a No Declarar",
+      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
     },
     {
       "added_at": "2024-01-15 17:16:14",
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-01-15 17:16:14",
       "album": {
+        "name": "Ahora Que No Te Tengo",
+        "url": "https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 155843,
+      "name": "Ahora Que No Te Tengo",
+      "url": "https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49"
+    },
+    {
+      "added_at": "2024-01-15 17:16:14",
+      "album": {
         "name": "Te echo de -",
         "url": "https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN"
       },
@@ -887,46 +907,6 @@
     {
       "added_at": "2024-01-15 17:16:14",
       "album": {
-        "name": "Ahora Que No Te Tengo",
-        "url": "https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        },
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 155843,
-      "name": "Ahora Que No Te Tengo",
-      "url": "https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49"
-    },
-    {
-      "added_at": "2024-01-15 17:16:14",
-      "album": {
-        "name": "Copita Champagne",
-        "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
-      },
-      "artists": [
-        {
-          "name": "Mireya Rivas",
-          "url": "https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps"
-        },
-        {
-          "name": "Chema Rivas",
-          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Copita Champagne",
-      "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
-    },
-    {
-      "added_at": "2024-01-15 17:16:14",
-      "album": {
         "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
         "url": "https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU"
       },
@@ -955,26 +935,38 @@
     {
       "added_at": "2024-01-15 17:16:14",
       "album": {
-        "name": "En el mismo bar",
-        "url": "https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF"
+        "name": "Copita Champagne",
+        "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
       },
       "artists": [
         {
-          "name": "De Rancho",
-          "url": "https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k"
+          "name": "Mireya Rivas",
+          "url": "https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps"
         },
         {
-          "name": "H Roto",
-          "url": "https://open.spotify.com/artist/5Q7VQ40wSh0GOm1CaNOIHL"
-        },
-        {
-          "name": "GARZI",
-          "url": "https://open.spotify.com/artist/0sAHZQtvqLdcBvIrEAYo4m"
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
         }
       ],
-      "duration_ms": 162500,
-      "name": "En el mismo bar",
-      "url": "https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9"
+      "duration_ms": 163000,
+      "name": "Copita Champagne",
+      "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
+    },
+    {
+      "added_at": "2024-01-15 17:16:14",
+      "album": {
+        "name": "PELO RIZAO",
+        "url": "https://open.spotify.com/album/22Lhso3TmfMscoIY23MT07"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 194136,
+      "name": "PELO RIZAO",
+      "url": "https://open.spotify.com/track/47csYgBczYT8ZmX7nkOsWo"
     },
     {
       "added_at": "2024-01-15 17:16:14",
@@ -999,26 +991,26 @@
     {
       "added_at": "2024-01-15 17:16:14",
       "album": {
-        "name": "Frenes\u00ed",
-        "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
+        "name": "En el mismo bar",
+        "url": "https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF"
       },
       "artists": [
         {
-          "name": "Danny Romero",
-          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
+          "name": "De Rancho",
+          "url": "https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k"
         },
         {
-          "name": "Fabbio",
-          "url": "https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4"
+          "name": "H Roto",
+          "url": "https://open.spotify.com/artist/5Q7VQ40wSh0GOm1CaNOIHL"
         },
         {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+          "name": "GARZI",
+          "url": "https://open.spotify.com/artist/0sAHZQtvqLdcBvIrEAYo4m"
         }
       ],
-      "duration_ms": 204492,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
+      "duration_ms": 162500,
+      "name": "En el mismo bar",
+      "url": "https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9"
     },
     {
       "added_at": "2024-01-15 17:16:14",
@@ -1039,18 +1031,26 @@
     {
       "added_at": "2024-01-15 17:16:14",
       "album": {
-        "name": "PELO RIZAO",
-        "url": "https://open.spotify.com/album/22Lhso3TmfMscoIY23MT07"
+        "name": "Frenes\u00ed",
+        "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
       },
       "artists": [
         {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+          "name": "Danny Romero",
+          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
+        },
+        {
+          "name": "Fabbio",
+          "url": "https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
         }
       ],
-      "duration_ms": 194136,
-      "name": "PELO RIZAO",
-      "url": "https://open.spotify.com/track/47csYgBczYT8ZmX7nkOsWo"
+      "duration_ms": 204492,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
     },
     {
       "added_at": "2024-01-15 17:16:14",

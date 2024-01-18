@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,762 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,776 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Wait a minute](https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am) | [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Wait a minute](https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw) | 3:18 |
 | 75 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 |
 
-Snapshot ID: `MCwyODVhZTQyOGI2NWI1ZWE3NTFjNWIzYjY3MWVmMjFkYzE4MGMyMDdi`
+Snapshot ID: `MCw2ZTU2NDRjYzc1MDk2MWQ0MzBkNDUwZjU3N2I5MTU5YTRkNTU5ODc4`

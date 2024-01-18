@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,214 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,219 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,17 +22,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 12 | [Je dois m'en aller](https://open.spotify.com/track/7fxvGz4A606ADmsAGT5r4Q) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:26 |
 | 13 | [Calvaire](https://open.spotify.com/track/74c8FhugaKufekAOeh2dcO) | [La Chicane](https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI) | [\[en\] catimini](https://open.spotify.com/album/6oQ2Xld7fc3gYT4IRX3xC5) | 4:10 |
 | 14 | [La neige au Sahara](https://open.spotify.com/track/4r9u9QK7KOEXgOmt3hs57g) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Au Nom De La Lune](https://open.spotify.com/album/3V6bGCv4wGLpbUsVn4kfMC) | 4:18 |
-| 15 | [Tu ne sauras jamais](https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [3](https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j) | 4:06 |
+| 15 | [Tout](https://open.spotify.com/track/59qPfUOkd0sboUlhQfR5Rd) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:16 |
 | 16 | [En chantant](https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [En Chantant](https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC) | 3:54 |
-| 17 | [Tout](https://open.spotify.com/track/59qPfUOkd0sboUlhQfR5Rd) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:16 |
+| 17 | [Tu ne sauras jamais](https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [3](https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j) | 4:06 |
 | 18 | [Et si tu n'existais pas](https://open.spotify.com/track/3vIl0TRgS1UpxSTL8a19WF) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 3:27 |
 | 19 | [Un beau grand bateau](https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 3:55 |
 | 20 | [Je n'ai que mon âme](https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [A Chacun Son Histoire](https://open.spotify.com/album/38CgBQufkUucyi195crt9D) | 2:50 |
 | 21 | [Aime moi](https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6) | [Claude Barzotti](https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb) | [Aime\-moi](https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT) | 4:10 |
 | 22 | [Faire la paix avec l'amour](https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b) | [Dany Bédar](https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm) | [Fruit de ma récente nuit blanche](https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5) | 3:45 |
-| 23 | [Donne\-moi ma chance](https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 4:13 |
-| 24 | [Les yeux du coeur](https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv), [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 4:16 |
-| 25 | [C'est zéro](https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 4:02 |
+| 23 | [C'est zéro](https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 4:02 |
+| 24 | [Donne\-moi ma chance](https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 4:13 |
+| 25 | [Les yeux du coeur](https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv), [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 4:16 |
 | 26 | [La bartendresse](https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW) | [Éric Lapointe](https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc) | [Lapointe 1994\-2006 N'importe qui](https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk) | 4:06 |
 | 27 | [Chats sauvages](https://open.spotify.com/track/0clO0QOJszhztY2jKzT1k3) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Celle qui va](https://open.spotify.com/album/5A8miUxbmrkHnXpbCkWKr2) | 4:28 |
 | 28 | [Parlez\-moi de lui](https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Parlez\-moi de lui \- Single](https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Repartir à zéro](https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV) | [Joe Bocan](https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW) | [Joe Bocan](https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb) | 3:21 |
 | 75 | [Tu t'en vas](https://open.spotify.com/track/5SVzFoP3aaTXEW4NkhvWbc) | [Aucun Regret](https://open.spotify.com/artist/7uPhAd69hpKEPkQ72IVCQ6) | [Mixmania](https://open.spotify.com/album/5A7aFa2NYD5V6l0wzY7fpl) | 3:26 |
 
-Snapshot ID: `MCxlODU5MGVlMWI3NDY3NTgwODE0MzYyOTg4NmQyYTNlYjI3YTE1ZTIx`
+Snapshot ID: `MCxiMTAxMTY1Y2I5NWNmYTQxYzNmZmI4NWEyMmUzZDQ4YzA3ODJhNDc2`

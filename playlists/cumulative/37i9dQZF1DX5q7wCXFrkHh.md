@@ -4,7 +4,7 @@
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-211 songs - 18 hr 38 min
+212 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Days Of Wine And Roses](https://open.spotify.com/track/521qezMfJ71NGibQanQvvN) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 2:40 | 2022-05-13 | 2022-10-01 |
 | [Days Of Wine And Roses](https://open.spotify.com/track/35OwBJaBTm1PwvzijDVlNs) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Legendary Recordings](https://open.spotify.com/album/2UR3YTGu7pUAvoLSdikGne) | 2:42 | 2023-08-16 | 2023-09-10 |
 | [Days Of Wine And Roses](https://open.spotify.com/track/3pJVi6t0Afe4JGzgR7Q2xJ) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz Volume: Oscar Peterson](https://open.spotify.com/album/5aAKiw6kJDNT2K5eXOW0WJ) | 2:42 | 2022-10-07 | 2023-01-09 |
+| [Days Of Wine And Roses](https://open.spotify.com/track/455HWBnQ7jWA0Q1Zku7P8d) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [A Night with Oscar Peterson](https://open.spotify.com/album/3b1rFYBBbQkdi6a4IoNUe6) | 2:42 | 2023-12-20 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/4g8ERVLYfNz4U4hSofSbmK) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz in Autumn: Oscar Peterson](https://open.spotify.com/album/4ciNFo3mAg97yUGQwPRe5y) | 2:42 | 2023-09-22 | 2023-12-17 |
 | [Days Of Wine And Roses](https://open.spotify.com/track/4gsNHQt1OiVlGHDarFocYP) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 2:42 | 2022-09-21 | 2024-01-13 |
 | [Days Of Wine And Roses](https://open.spotify.com/track/37x5B9xv1QVF4WAY6vtKV0) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt) | 2:43 | 2022-05-13 | 2022-07-29 |
@@ -169,7 +170,7 @@
 | [Sometime Ago \- Remastered](https://open.spotify.com/track/7fmhH8sQPLwiGPMOkFr7eU) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 4:33 | 2022-08-12 |  |
 | [Song For My Father](https://open.spotify.com/track/1CDBaGlisZlOJzvx88lL8A) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:18 | 2022-05-13 |  |
 | [Sophisticated Lady](https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 3:15 | 2022-08-19 |  |
-| [Speak Low](https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My) | [McCoy Tyner Trio](https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p) | [Inception](https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK) | 6:15 | 2022-05-13 |  |
+| [Speak Low](https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My) | [McCoy Tyner Trio](https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p) | [Inception](https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK) | 6:15 | 2022-05-13 | 2024-01-18 |
 | [Speak Low](https://open.spotify.com/track/70c8FBBsIU1CT0uHF38QfU) | [McCoy Tyner Trio](https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p) | [Inception](https://open.spotify.com/album/0us1XxIPFyPsRhVZlSgeDM) | 6:15 | 2022-05-13 | 2022-07-29 |
 | [St\. James Infirmary Blues](https://open.spotify.com/track/50q2XoQmoHNt6imrugVV90) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Fatha](https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw) | 4:08 | 2022-05-13 | 2023-06-04 |
 | [Stepp, Min Stepp](https://open.spotify.com/track/27644CIf71ELYPmxzSz1W9) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Piano](https://open.spotify.com/album/1uw3ISK6Khq5xVWF1GWTjt) | 3:44 | 2022-05-13 | 2022-10-08 |

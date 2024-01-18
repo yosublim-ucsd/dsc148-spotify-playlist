@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 189404,
+  "num_followers": 189543,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGU5MDEwODlmYzQ0ZmUwNTYwNzg3YzJmMGI4OWQ5ZTQ1OGM2ZjI5",
+  "snapshot_id": "MCwxYmVjYjMxYzA2MjZmZTUxMTU2ZjdkZWFjNzMyMjRjNjE1ZmFhODFm",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Horizontal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "How Sweet It Is To Be Loved By You",
         "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 177773,
       "name": "How Sweet It Is (To Be Loved By You)",
       "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Horizontal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're All I Need To Get By",
-      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "For Your Sweet Love",
         "url": "https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox"
       },
@@ -643,22 +623,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -671,6 +635,42 @@
       "duration_ms": 171773,
       "name": "I Never Loved a Man (The Way I Love You)",
       "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -707,26 +707,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Kim Weston",
-          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "It Might As Well Be Swing",
         "url": "https://open.spotify.com/album/5lXF6AFeXG8UsIUfBJNsNH"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 157266,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Kim Weston",
+          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "No Place To Hide",
-        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
-      },
-      "artists": [
-        {
-          "name": "Betty Everett",
-          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
-        }
-      ],
-      "duration_ms": 129758,
-      "name": "It's In The Kiss (The Shoop Shoop Song)",
-      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Complete United Artists Singles",
         "url": "https://open.spotify.com/album/4hwFFfpDp28EYWbVZoZ9pi"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 177093,
       "name": "This Magic Moment",
       "url": "https://open.spotify.com/track/74i6ZrnR1WzZsuc3qrJg7I"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "No Place To Hide",
+        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
+      },
+      "artists": [
+        {
+          "name": "Betty Everett",
+          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+        }
+      ],
+      "duration_ms": 129758,
+      "name": "It's In The Kiss (The Shoop Shoop Song)",
+      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
     },
     {
       "added_at": "2022-05-30 13:02:24",

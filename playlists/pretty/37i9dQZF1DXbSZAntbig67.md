@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,569 likes - 108 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,555 likes - 108 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 19 | [Navidad Sin Ti](https://open.spotify.com/track/6JvXDavDKocEvJXRKLDuIm) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Navidad Sin Ti](https://open.spotify.com/album/0xJijA9NXeLfb13qavbFS2) | 3:19 |
 | 20 | [Mi Diseo De Navidad \(Spirit Cabalgando libre: Una Navidad con Spirit\)](https://open.spotify.com/track/2hqwZ1DoPuM2IGHjheXwC9) | [Cecy Leos](https://open.spotify.com/artist/7Isargq7sZZ8hTbIx9yNsi) | [Mi Diseo De Navidad \(Spirit Cabalgando libre: Una Navidad con Spirit\)](https://open.spotify.com/album/32ePKrYcLs1eDnm21Rgms6) | 2:39 |
 | 21 | [Arbolito de Navidad](https://open.spotify.com/track/0kQBvMyyn6WV3Gh3H1tBxz) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 2:52 |
-| 22 | [Que Tu Navidad Sea Incomparable](https://open.spotify.com/track/37v1NJA31wR0vVL0LGhKnG) | [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Que Tu Navidad Sea Incomparable](https://open.spotify.com/album/5BRZ2GOlKwCiaWTQ6rUZHf) | 2:41 |
+| 22 | [Que Tu Navidad Sea Incomparable](https://open.spotify.com/track/1cKexkAZHYI459lBgpTlUh) | [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Una Navidad Especial](https://open.spotify.com/album/4MnRUUn9wOhDyI5WBKIhfR) | 2:41 |
 | 23 | [Llegó Navidad](https://open.spotify.com/track/2jLTyiQc2feKpFu3Ts325e) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Llegó Navidad](https://open.spotify.com/album/1U9KMlWgZVAghi8rk64qMd) | 4:00 |
 | 24 | [Christmas Wrapping \- Single Edit](https://open.spotify.com/track/3WLX1Cs8PHIWJFAyUwDuhk) | [The Waitresses](https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8) | [Deluxe Special](https://open.spotify.com/album/23tDoFtY91BNu8laE4I1Sy) | 4:34 |
 | 25 | [Hoy Es Navidad](https://open.spotify.com/track/36PERMiqNKURD1vaTwziTF) | [Los Meñiques De La Casa](https://open.spotify.com/artist/4NKHtkR5qcCUoVnhlALcJR), [Germán Otero](https://open.spotify.com/artist/41SHZSLKFjhPvVWAkRCnUc), [Ara Saldivar](https://open.spotify.com/artist/23M5h8W4bVS5AqUQQZ5ykR) | [Hoy Es Navidad](https://open.spotify.com/album/6rJVtz6qTT8haF5dofQRHz) | 2:05 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 107 | [Farolito \(Little Star\)](https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 4:39 |
 | 108 | [Aires De Navidad](https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:43 |
 
-Snapshot ID: `MCxmODI0OGFjZTkxM2Q2ODk4OWJjMmJiMjBjZjRhY2NkZGZjMDgzNzBl`
+Snapshot ID: `MCwzYjcxMDVhNzcyZjMxZTc0ZDBmNTY1MGVlMGUwOTA3MGRlOGRkZjZm`

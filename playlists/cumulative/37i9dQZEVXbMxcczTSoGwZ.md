@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,794 songs - 4 day 0 hr 13 min
+1,795 songs - 4 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-19 |
 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 | 2022-05-15 | 2022-05-22 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 | 2022-08-12 |
+| [Glow](https://open.spotify.com/track/0YpLcVh6Wuq7XUu3s0VRN1) | [Jesse Markin](https://open.spotify.com/artist/3mxJuHRn2ZWD5OofvJtDZY) | [Glow](https://open.spotify.com/album/2kHsf0WVsde3cNmeVJY1H2) | 3:02 | 2024-01-17 |  |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-03 |
 | [GOD'S COUNTRY](https://open.spotify.com/track/04WxWo7XeVyx22xEsrWRUb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:07 | 2023-07-29 | 2023-07-31 |
 | [GoDdAmN](https://open.spotify.com/track/27KdLYj7Alpe6y3UxC87ga) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [TÄYTYY YMMÄRTÄÄ](https://open.spotify.com/album/0z7fO2qk3chpSwcktMZ1Ba) | 3:53 | 2022-09-17 | 2022-12-10 |
@@ -1182,7 +1183,7 @@
 | [Paratiisi](https://open.spotify.com/track/5QFDqIgiyNkCiUVLM40CkD) | [Rauli Badding Somerjoki](https://open.spotify.com/artist/41pdyfGuyQnEudG0jseanl) | [Näin käy rock & roll](https://open.spotify.com/album/5fwbHpXstuT9wYFSTC2ESV) | 2:38 | 2022-06-25 | 2023-06-27 |
 | [Parempaa \(feat\. JVG & william\)](https://open.spotify.com/track/7jBuT0vzeaCtRetMczX4EM) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Parempaa \(feat\. JVG & william\)](https://open.spotify.com/album/5QhbE5iIAZK0UYONAgDW7x) | 3:31 | 2021-11-14 | 2022-02-13 |
 | [Pari Muuttujaa](https://open.spotify.com/track/4L9bDVYGYCYIC8J0A0kYZn) | [Petri Nygård](https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto), [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k) | [Pari Muuttujaa](https://open.spotify.com/album/5UKnlGRcQWOFhKabEQ7jq3) | 2:39 | 2023-11-25 | 2023-12-01 |
-| [Pariisin kevät](https://open.spotify.com/track/4NbcnW0v1yoeq2IAuWFriv) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [TÄYDELLINEN AJOITUS](https://open.spotify.com/album/3v4Vgetpzn7no8entBuDEo) | 2:34 | 2023-05-06 |  |
+| [Pariisin kevät](https://open.spotify.com/track/4NbcnW0v1yoeq2IAuWFriv) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [TÄYDELLINEN AJOITUS](https://open.spotify.com/album/3v4Vgetpzn7no8entBuDEo) | 2:34 | 2023-05-06 | 2024-01-18 |
 | [Parisuhdehautausmaa](https://open.spotify.com/track/3pQzhjQKES7qGfAW1ROT4a) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Parisuhdehautausmaa](https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE) | 4:03 | 2022-03-12 | 2022-03-21 |
 | [PARTYBOY](https://open.spotify.com/track/2ZJ50ZqUlqFnva0hCvmWkh) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [PARTYBOY](https://open.spotify.com/album/0IFu8OkgmQOVWM0yXu2X0h) | 2:41 | 2023-05-06 | 2023-09-03 |
 | [PAS2](https://open.spotify.com/track/2JBlPO294sgv2CfFgaCWbZ) | [Arttu Lindeman](https://open.spotify.com/artist/0AK0qOs8ykb6CsaYks1xwK) | [Anomalia \- EP](https://open.spotify.com/album/4ezFkUO9cCiaIHlhb3seDi) | 2:32 | 2022-09-24 | 2022-09-26 |

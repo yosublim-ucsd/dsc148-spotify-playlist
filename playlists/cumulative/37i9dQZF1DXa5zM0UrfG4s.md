@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-338 songs - 15 hr 36 min
+339 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Fylla](https://open.spotify.com/track/4Z3bunErRzsxqLpSjDJHVB) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Fylla](https://open.spotify.com/album/6esBn6xhL1lVMukCtScch5) | 2:33 | 2021-12-16 | 2022-07-24 |
 | [Fylla på fjället](https://open.spotify.com/track/3jkMUudtktfS8uEXZWpdll) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Fylla på fjället](https://open.spotify.com/album/66OVGhMeiP7JPwkygu3PVg) | 2:00 | 2022-02-24 | 2022-07-14 |
 | [Fylleangst](https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Fylleangst](https://open.spotify.com/album/5qBlO7VFJFPzDet3AZ1Q74) | 1:58 | 2022-07-21 | 2022-09-23 |
-| [FYRA SMÅ RAGGERS](https://open.spotify.com/track/4Q88dvSHO9YPcWPEl8zT7G) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [FYRA SMÅ RAGGERS](https://open.spotify.com/album/7rIDWlpobZ7ocbtHVSYGJg) | 1:41 | 2023-12-12 |  |
+| [FYRA SMÅ RAGGERS](https://open.spotify.com/track/4Q88dvSHO9YPcWPEl8zT7G) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [FYRA SMÅ RAGGERS](https://open.spotify.com/album/7rIDWlpobZ7ocbtHVSYGJg) | 1:41 | 2023-12-12 | 2024-01-18 |
 | [Första Gången I En EPA](https://open.spotify.com/track/7I2nD5Z74Ein0fa1P20Zfz) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Första Gången I En EPA](https://open.spotify.com/album/0DjX2jGILQdifC55byMol6) | 2:35 | 2023-01-26 |  |
 | [Født til å ragge](https://open.spotify.com/track/45GmUDEid9EZ6YA4nFjY0f) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Født til å ragge](https://open.spotify.com/album/3hHG7LGyNe2lgEsKhbFk9m) | 2:27 | 2021-12-16 | 2022-04-20 |
 | [Gamle helter](https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Gamle helter](https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl) | 3:28 | 2022-03-03 | 2022-07-29 |
@@ -216,6 +216,7 @@
 | [MASSE BASS](https://open.spotify.com/track/0cf57fei5SIXNXNpm4J2lo) | [HÆNRIK](https://open.spotify.com/artist/0Cbloj3JVaNSDP5VrxyEik) | [MASSE BASS](https://open.spotify.com/album/4hYsFbbfnlTavEWV62JIAL) | 2:09 | 2023-09-14 |  |
 | [Mawbys](https://open.spotify.com/track/0afgcFu473Mm5dyKQgNQGq) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Thomskalle](https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn), [Ginger Joe](https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS) | [Mawbys](https://open.spotify.com/album/43BorH9aWDTNcbCWGreg0I) | 3:04 | 2023-06-22 |  |
 | [Mawbys](https://open.spotify.com/track/6R20ReFHCSjtK3vMUZI3Yv) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Thomskalle](https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn), [Ginger Joe](https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS) | [Mawbys](https://open.spotify.com/album/55wTUqbJh1I6jhmNZKexO8) | 3:04 | 2022-10-15 | 2023-06-17 |
+| [Mcdonalds](https://open.spotify.com/track/4Uv5nzyKWBAnfiV1WbVFYz) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC) | 2:07 | 2024-01-11 |  |
 | [Mcdonalds](https://open.spotify.com/track/4cFsatzEJO0qROt1Dj5z8u) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e) | 2:07 | 2022-12-01 | 2023-05-10 |
 | [Mcdonalds](https://open.spotify.com/track/4um6ufqR4iLTP11FnrrXfJ) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Mcdonalds](https://open.spotify.com/album/4oLEUIj1vMpVxFbJ1j7Nb8) | 2:07 | 2021-12-16 | 2022-10-16 |
 | [MDG \(Jada, jada, jada\)](https://open.spotify.com/track/1BjSGxczJ2e4uwvAJstkKe) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [MDG \(Jada, jada, jada\)](https://open.spotify.com/album/79cMNOvhoUDp7JvyndUw3r) | 1:02 | 2021-12-16 | 2022-06-29 |

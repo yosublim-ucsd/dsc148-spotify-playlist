@@ -4007,6 +4007,24 @@
     },
     {
       "album": {
+        "name": "Talk About Us",
+        "url": "https://open.spotify.com/album/1kAQMLfTYcIJbbuq2MMMc7"
+      },
+      "artists": [
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137694,
+      "name": "Talk About Us",
+      "url": "https://open.spotify.com/track/2aGi8MHh1WR0le7LEqzEga"
+    },
+    {
+      "album": {
         "name": "Tell Me You Love Me",
         "url": "https://open.spotify.com/album/4Kt5Ph2XYQTBjqP9988Vqo"
       },

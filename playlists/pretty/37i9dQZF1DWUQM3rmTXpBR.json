@@ -1,12 +1,12 @@
 {
   "description": "Alternative Arabic songs. Cover: Mohammed Saeed",
-  "num_followers": 68382,
+  "num_followers": 68421,
   "original_name": "Arab Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDMxNzA4OTQzMzNlNmE5MjYyYzM1YzY5YmZhNTgzM2JhOGYyYzAx",
+  "snapshot_id": "MCxkMDA4MmM3YzcyM2QzMTYyYjRmNzdmYjYxNWYyM2ZkMzJiYWUwZGYy",
   "tracks": [
     {
       "added_at": "2023-12-28 08:39:26",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Min Elyoam",
-        "url": "https://open.spotify.com/album/07IBFHDuoWJAhLLmrW1CZO"
-      },
-      "artists": [
-        {
-          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
-          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
-        }
-      ],
-      "duration_ms": 176042,
-      "name": "Min Elyoam",
-      "url": "https://open.spotify.com/track/7s2MoziQ8ohwoXmt6gL0IV"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "Ountha",
         "url": "https://open.spotify.com/album/3QfnsKo5JJ3mCJTyv47crg"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 207888,
       "name": "Ountha",
       "url": "https://open.spotify.com/track/4M6QHCcum2OOvxF5sblvYN"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "Min Elyoam",
+        "url": "https://open.spotify.com/album/07IBFHDuoWJAhLLmrW1CZO"
+      },
+      "artists": [
+        {
+          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+        }
+      ],
+      "duration_ms": 176042,
+      "name": "Min Elyoam",
+      "url": "https://open.spotify.com/track/7s2MoziQ8ohwoXmt6gL0IV"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -295,18 +295,22 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Badareek (\u0628\u062f\u0627\u0631\u064a\u0643)",
-        "url": "https://open.spotify.com/album/34dPhKMYFcyEThP7eMbXqg"
+        "name": "Kol Shi",
+        "url": "https://open.spotify.com/album/4VoxoPiFIsYOQyBN93Vin2"
       },
       "artists": [
         {
-          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
-          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        },
+        {
+          "name": "Ayham",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
         }
       ],
-      "duration_ms": 173445,
-      "name": "Badareek - \u0628\u062f\u0627\u0631\u064a\u0643",
-      "url": "https://open.spotify.com/track/1Iw0LkV3VNc9KhwkTzPaku"
+      "duration_ms": 229539,
+      "name": "Kol Shi",
+      "url": "https://open.spotify.com/track/5mMdUcYJpQHEFiqdV2ECOU"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -327,22 +331,18 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Kol Shi",
-        "url": "https://open.spotify.com/album/4VoxoPiFIsYOQyBN93Vin2"
+        "name": "Badareek (\u0628\u062f\u0627\u0631\u064a\u0643)",
+        "url": "https://open.spotify.com/album/34dPhKMYFcyEThP7eMbXqg"
       },
       "artists": [
         {
-          "name": "Bigsam",
-          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
-        },
-        {
-          "name": "Ayham",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
         }
       ],
-      "duration_ms": 229539,
-      "name": "Kol Shi",
-      "url": "https://open.spotify.com/track/5mMdUcYJpQHEFiqdV2ECOU"
+      "duration_ms": 173445,
+      "name": "Badareek - \u0628\u062f\u0627\u0631\u064a\u0643",
+      "url": "https://open.spotify.com/track/1Iw0LkV3VNc9KhwkTzPaku"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Autostrad 2011",
-        "url": "https://open.spotify.com/album/3EhV2TWOdiWK2XHuvVmoKd"
-      },
-      "artists": [
-        {
-          "name": "Autostrad",
-          "url": "https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ"
-        }
-      ],
-      "duration_ms": 512966,
-      "name": "Rahat Ya Khal",
-      "url": "https://open.spotify.com/track/2KZ9jZ5L1sqIgD9mNUvuNf"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "Lahali",
         "url": "https://open.spotify.com/album/095MAhIauuggkJGXuHhb2p"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 212214,
       "name": "Lahali",
       "url": "https://open.spotify.com/track/6GDzePGixhJPzQzIkFOeZx"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "Autostrad 2011",
+        "url": "https://open.spotify.com/album/3EhV2TWOdiWK2XHuvVmoKd"
+      },
+      "artists": [
+        {
+          "name": "Autostrad",
+          "url": "https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ"
+        }
+      ],
+      "duration_ms": 512966,
+      "name": "Rahat Ya Khal",
+      "url": "https://open.spotify.com/track/2KZ9jZ5L1sqIgD9mNUvuNf"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Enti El Asas",
-        "url": "https://open.spotify.com/album/3lvvDWDr8o3Jexg1NgqdG9"
-      },
-      "artists": [
-        {
-          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
-          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
-        }
-      ],
-      "duration_ms": 243559,
-      "name": "Enti El Asas",
-      "url": "https://open.spotify.com/track/0TTl1pEex2tFSFGvaVbu8t"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "Al-Furat",
         "url": "https://open.spotify.com/album/34fg5aZvCqPS5tMcGCwfGl"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 234217,
       "name": "Al-Furat",
       "url": "https://open.spotify.com/track/2OnVKpbC4WDedzVcoHjGBx"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "Enti El Asas",
+        "url": "https://open.spotify.com/album/3lvvDWDr8o3Jexg1NgqdG9"
+      },
+      "artists": [
+        {
+          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+        }
+      ],
+      "duration_ms": 243559,
+      "name": "Enti El Asas",
+      "url": "https://open.spotify.com/track/0TTl1pEex2tFSFGvaVbu8t"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "\u0644\u0627 \u062a\u0632\u0639\u0644 \u0645\u0646\u064a",
-        "url": "https://open.spotify.com/album/1mZy0tmloE0ReUGWyHcSxe"
+        "name": "\u0628\u0631\u0643\u0627\u0646",
+        "url": "https://open.spotify.com/album/5RKRUPGQoldDKWdDOykvZv"
       },
       "artists": [
         {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
         }
       ],
-      "duration_ms": 203625,
-      "name": "\u0644\u0627 \u062a\u0632\u0639\u0644 \u0645\u0646\u064a",
-      "url": "https://open.spotify.com/track/2OXIsflZ6QACOXefjU2XtX"
+      "duration_ms": 260527,
+      "name": "\u062e\u0627\u0637\u064a",
+      "url": "https://open.spotify.com/track/4uHMUW4pvuHKDxxFBnBg4b"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
+        "name": "\u0644\u0627 \u062a\u0632\u0639\u0644 \u0645\u0646\u064a",
+        "url": "https://open.spotify.com/album/1mZy0tmloE0ReUGWyHcSxe"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "\u0644\u0627 \u062a\u0632\u0639\u0644 \u0645\u0646\u064a",
+      "url": "https://open.spotify.com/track/2OXIsflZ6QACOXefjU2XtX"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
         "name": "El Hal Romancy",
         "url": "https://open.spotify.com/album/0WV17sD6xRIcndI9o20HqP"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 203133,
       "name": "Inni Mneeh",
       "url": "https://open.spotify.com/track/5DZqSd5MS5ubyXnc7PIMtR"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
-        "name": "\u0628\u0631\u0643\u0627\u0646",
-        "url": "https://open.spotify.com/album/5RKRUPGQoldDKWdDOykvZv"
-      },
-      "artists": [
-        {
-          "name": "Bigsam",
-          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
-        }
-      ],
-      "duration_ms": 260527,
-      "name": "\u062e\u0627\u0637\u064a",
-      "url": "https://open.spotify.com/track/4uHMUW4pvuHKDxxFBnBg4b"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Nasini",
-        "url": "https://open.spotify.com/album/0s0y988ercm3WdehQy2Rv7"
-      },
-      "artists": [
-        {
-          "name": "Autostrad",
-          "url": "https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ"
-        }
-      ],
-      "duration_ms": 213503,
-      "name": "Nasini",
-      "url": "https://open.spotify.com/track/0uWR7uZwcW614lRvj49dCh"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "Tho3ban",
         "url": "https://open.spotify.com/album/62MsaGCeJAjmyIMT6A4mRl"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 296498,
       "name": "Shakhsi El Da'em",
       "url": "https://open.spotify.com/track/2dOzN3zYW2rqVAXQC7oQ1d"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "Nasini",
+        "url": "https://open.spotify.com/album/0s0y988ercm3WdehQy2Rv7"
+      },
+      "artists": [
+        {
+          "name": "Autostrad",
+          "url": "https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ"
+        }
+      ],
+      "duration_ms": 213503,
+      "name": "Nasini",
+      "url": "https://open.spotify.com/track/0uWR7uZwcW614lRvj49dCh"
     },
     {
       "added_at": "2023-12-28 08:39:26",

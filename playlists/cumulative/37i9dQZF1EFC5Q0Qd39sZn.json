@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 256810,
       "name": "Can't Take That Away (Mariah's Theme)",
       "url": "https://open.spotify.com/track/0gwI5LE3kHY4xeauRCQe6R"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 272293,
       "name": "Can't Take That Away (Mariah's Theme)",
       "url": "https://open.spotify.com/track/2Epqce6wM48J6Wnlmhn42c"
@@ -1758,6 +1758,24 @@
       "duration_ms": 230186,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO"
+    },
+    {
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208608,
+      "name": "Don\u2019t You (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4uuEGH5SVuzkkSFjo2DEiY"
     },
     {
       "album": {
@@ -6208,7 +6226,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 200566,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/3pJVN3mFHTpNgmOHR7je3p"
@@ -6226,7 +6244,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 212480,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/437P36748raU6f8jCkcFXZ"
@@ -7540,6 +7558,24 @@
       "duration_ms": 200099,
       "name": "The Fire Inside (From The Original Motion Picture \"Flamin' Hot\")",
       "url": "https://open.spotify.com/track/0tIhGHziGqxR3UurT5V3gy"
+    },
+    {
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262062,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI"
     },
     {
       "album": {

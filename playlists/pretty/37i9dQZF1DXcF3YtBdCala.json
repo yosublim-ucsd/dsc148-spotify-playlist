@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Fatima Campo en portada. ",
-  "num_followers": 131552,
+  "num_followers": 131558,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWQwZjhhZDgyMjYwMTkyNjYxYTI3NzdhZjNiZWZlYmFjN2YwMDcw",
+  "snapshot_id": "MCxmZTY5ZTAzYzkzYjBlYjI4NWZjOGQ3MDQ3YTU4M2NkOTRlMzFhOWFi",
   "tracks": [
     {
       "added_at": "2023-12-08 07:58:31",
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+      "duration_ms": 185153,
+      "name": "Te Dejo",
+      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
     },
     {
       "added_at": "2023-12-08 07:58:31",
@@ -583,22 +579,6 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
-        "name": "El Pobre",
-        "url": "https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 185406,
-      "name": "El Pobre",
-      "url": "https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx"
-    },
-    {
-      "added_at": "2023-12-08 07:58:31",
-      "album": {
         "name": "El Karma",
         "url": "https://open.spotify.com/album/6C9xQuTD01lOujdRjYYwqx"
       },
@@ -611,6 +591,22 @@
       "duration_ms": 176632,
       "name": "El Karma",
       "url": "https://open.spotify.com/track/6mKQ6QdpAMc7cFrMVCqexx"
+    },
+    {
+      "added_at": "2023-12-08 07:58:31",
+      "album": {
+        "name": "El Pobre",
+        "url": "https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 185406,
+      "name": "El Pobre",
+      "url": "https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx"
     },
     {
       "added_at": "2023-12-08 07:58:31",
@@ -647,18 +643,22 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 185153,
-      "name": "Te Dejo",
-      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2023-12-08 07:58:31",

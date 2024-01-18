@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 65960,
+  "num_followers": 65976,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzA4YWVjN2Q0ZDYzNzc4Yzk5NDhjMzU5NDY3MjcwMGNmZDcyODdi",
+  "snapshot_id": "MCwzOGY1NjQ2YjljZjIxMjc0NzkxZmVkNjQyZmM3MTQ3YTExMjdiNWQx",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "The Only Way Out Is Through",
+        "url": "https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 494109,
+      "name": "The Only Way Out Is Through",
+      "url": "https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 272346,
       "name": "The Right Place (feat. Teira)",
       "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "The Only Way Out Is Through",
-        "url": "https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 494109,
-      "name": "The Only Way Out Is Through",
-      "url": "https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T"
     },
     {
       "added_at": "2023-06-09 18:05:35",

@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno  & Migrantes.",
-  "num_followers": 670895,
+  "num_followers": 671171,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjAyZTBkMjVhZmJkMzNmY2I1ZTJmZjZlOGExNzJhMTY1ZmYyN2Rl",
+  "snapshot_id": "MCwyZTgzNmY3ZGJmN2Q2Y2MyZDI0ZjYxMDEzYjcxYjkyNjQyYjQzYmQ2",
   "tracks": [
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
       },
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Aguardiente",
-        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 152432,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Libre al Fin",
         "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 246600,
       "name": "Esperando",
       "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Con Toda la Fuerza",
+        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 187220,
+      "name": "Ma\u00f1ana sin vos",
+      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 213920,
       "name": "No Dire Que Si",
       "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Con Toda la Fuerza",
-        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 187220,
-      "name": "Ma\u00f1ana sin vos",
-      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Voy A Olvidarme De Mi",
-        "url": "https://open.spotify.com/album/4FEH9l7ARowZhR1kL9X4WF"
-      },
-      "artists": [
-        {
-          "name": "Flor Vigna",
-          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
-        },
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Voy A Olvidarme De Mi",
-      "url": "https://open.spotify.com/track/7At4ts4UEcrRJSP0rR3Q0B"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Aguardiente",
         "url": "https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 199445,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Voy A Olvidarme De Mi",
+        "url": "https://open.spotify.com/album/4FEH9l7ARowZhR1kL9X4WF"
+      },
+      "artists": [
+        {
+          "name": "Flor Vigna",
+          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
+        },
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Voy A Olvidarme De Mi",
+      "url": "https://open.spotify.com/track/7At4ts4UEcrRJSP0rR3Q0B"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 169589,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Espectacular Monada",
         "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 227866,
       "name": "Dame un Poco Mas",
       "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 169589,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Sigan Bailando",
-        "url": "https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 387552,
-      "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
-      "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Eran dos locos de amor",
         "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 169496,
       "name": "Eran dos locos de amor",
       "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Sigan Bailando",
+        "url": "https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 387552,
+      "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
+      "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
     },
     {
       "added_at": "2024-01-05 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,289 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,325 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [値千金](https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [値千金](https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2) | 4:46 |
 | 50 | [Ikki](https://open.spotify.com/track/0qvJGTLxTcwKAODkm3k6k0) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Ikki](https://open.spotify.com/album/57QYSkgg5gqybUe1ZyKFlv) | 3:13 |
 
-Snapshot ID: `MCxhYWI1YTgxZmQ0N2ZiZTk5ODBlMzhmOWRkODg2ZDdkMWM4YTYzNzgy`
+Snapshot ID: `MCxiMjc1OTBmZDc1N2MwMTkzZDY1NTViYjMyMGNiZDJjZTE4ODY5YTU2`

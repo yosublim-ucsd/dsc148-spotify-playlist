@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Subsonica
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,440 likes - 72 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,439 likes - 72 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 71 | [Vera](https://open.spotify.com/track/61iQdnOwXVvI7QuALy5ZLV) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [LANGUORE](https://open.spotify.com/album/0zE57SWOx61FS3wjdY1UXL) | 3:58 |
 | 72 | [Eye of the Day](https://open.spotify.com/track/3M5zmqmD9yjsi9QuDNIWGk) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:11 |
 
-Snapshot ID: `MCxiMDhhMDdhYTlkOGU2OGQ0ZmFjZGY1ODhmNDJhYTk3ZjgwZjJhZTRl`
+Snapshot ID: `MCwwOWRhNThjNTU4YjkwYzk4NWVmMzc0MGU0MDljNzRkZGQ5NGU3MDRj`

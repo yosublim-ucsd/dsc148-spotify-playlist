@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,249 songs - 3 day 4 hr 52 min
+1,250 songs - 3 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,8 @@
 | [ENJOY THE RIDE](https://open.spotify.com/track/68yPKpoph3amKSGRZLXlkf) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy), [Neil and Iraiza](https://open.spotify.com/artist/6rAA6xJe1O2ubeZj6xIB2y), [ALL STARS](https://open.spotify.com/artist/1bNTB1MJpFa6LauIlZCInr) | [ENJOY THE RIDE](https://open.spotify.com/album/7IbyAfAKOMdzWQXLMTkMFP) | 3:21 | 2024-01-09 | 2024-01-17 |
 | [Epiphany](https://open.spotify.com/track/1ccVm2eDAQdHB2HYN0vVyh) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Epiphany](https://open.spotify.com/album/7FG8YlRonpJV9JahGdObsx) | 4:12 | 2023-11-14 | 2023-11-22 |
 | [Escape](https://open.spotify.com/track/0xS0nj61N0NUdct1BHNapV) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Time Won't Stop](https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w) | 3:24 | 2023-01-22 | 2023-01-25 |
-| [Escape](https://open.spotify.com/track/01UIlniiu2KwrVVpnMNE4s) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Escape](https://open.spotify.com/album/3vIZOBWXZHV4qJpez22gUl) | 2:30 | 2024-01-16 |  |
+| [Escape](https://open.spotify.com/track/01UIlniiu2KwrVVpnMNE4s) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Escape](https://open.spotify.com/album/3vIZOBWXZHV4qJpez22gUl) | 2:30 | 2024-01-16 | 2024-01-18 |
+| [Escape](https://open.spotify.com/track/2AS6XcuB50SpAp8QO11sEL) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Escape](https://open.spotify.com/album/3782jQ1QBXOs4hQnnR2fkL) | 2:30 | 2024-01-16 |  |
 | [Every Second \- Japanese Version](https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days \(Japanese Edition\)](https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc) | 3:02 | 2023-09-05 |  |
 | [everyone likes](https://open.spotify.com/track/6iNg9CQ1O2PGfjBRsgFu9s) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [HMN</3](https://open.spotify.com/album/6PIB7gC1CweteFuVFjbpro) | 3:06 | 2023-03-14 | 2023-04-18 |
 | [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 | 2022-11-22 | 2023-01-20 |

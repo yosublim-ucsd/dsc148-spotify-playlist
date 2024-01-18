@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 58034,
+  "num_followers": 58043,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjU3NGNmZWRjNTIwYzU5MmYxMzA0OGQzMGU5MGQ2MWFlZjI4ODg1",
+  "snapshot_id": "MCwwYmVjYmVjMjFjNDU2N2RkZDgyYWUwM2Y0ZDkzMDY4ZWRkMThiNWZl",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 177314,
+      "name": "Heatin Up (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
         "url": "https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 296011,
       "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 177314,
-      "name": "Heatin Up (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -2015,26 +2015,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "NFL",
-        "url": "https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA"
+        "name": "THE HUSTLE CONTINUES",
+        "url": "https://open.spotify.com/album/3FiSjH9NsmlpgUrR9J1ayW"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
         },
         {
-          "name": "Gudda Gudda",
-          "url": "https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa"
-        },
-        {
-          "name": "Hoodybaby",
-          "url": "https://open.spotify.com/artist/13lxs5lLGCBMyGLfmtfLEK"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 210327,
-      "name": "NFL (feat. Gudda Gudda & HoodyBaby)",
-      "url": "https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI"
+      "duration_ms": 177000,
+      "name": "LOAD IT UP",
+      "url": "https://open.spotify.com/track/4oTZUmzUpbQHMOLiGxAw1D"
     }
   ],
   "unique_name": "808.",

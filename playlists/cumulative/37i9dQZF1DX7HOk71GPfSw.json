@@ -7883,6 +7883,24 @@
     },
     {
       "album": {
+        "name": "Cyberia",
+        "url": "https://open.spotify.com/album/2XOAKEIdwyPdnFgX3rL53T"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Cyberia",
+      "url": "https://open.spotify.com/track/2j9Xt4l2ISs2acdrv19uJr"
+    },
+    {
+      "album": {
         "name": "CYBERKISS 2 U*",
         "url": "https://open.spotify.com/album/49GiU05EkgbbgeEORDQ3IZ"
       },
@@ -8526,6 +8544,28 @@
       "duration_ms": 118930,
       "name": "detest me",
       "url": "https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon"
+    },
+    {
+      "album": {
+        "name": "deus ex",
+        "url": "https://open.spotify.com/album/6F6jD8QHnMhFE9pq89zpFz"
+      },
+      "artists": [
+        {
+          "name": "fyoum",
+          "url": "https://open.spotify.com/artist/4GUYZi2qvx5zrugU0yAEHM"
+        },
+        {
+          "name": "Drux",
+          "url": "https://open.spotify.com/artist/2LxQPqF82HofIRIvEnJPLu"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200787,
+      "name": "deus ex",
+      "url": "https://open.spotify.com/track/1Bcfs1WSc2e6xLfRqzxai6"
     },
     {
       "album": {
@@ -29482,6 +29522,24 @@
       "duration_ms": 145598,
       "name": "sellout",
       "url": "https://open.spotify.com/track/082x0jRDbx8Zsme0enu32B"
+    },
+    {
+      "album": {
+        "name": "Semester In Japan",
+        "url": "https://open.spotify.com/album/1ffn6xYEjJ7xAFw3dVDbgh"
+      },
+      "artists": [
+        {
+          "name": "Tommy Fleece",
+          "url": "https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135384,
+      "name": "Semester In Japan",
+      "url": "https://open.spotify.com/track/0WdAsBn5wA3ptbWDCfQZ7q"
     },
     {
       "album": {

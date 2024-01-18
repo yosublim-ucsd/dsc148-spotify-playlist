@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90371,
+  "num_followers": 90364,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDA5MTdkZGVhNDIzOWU5YWVlYjgwMDU5YjlkNmE1ZTM1ZGEwZGUz",
+  "snapshot_id": "MCxiODk5ODA1YWVjZjY2MTkzZGJiMWVhMjA5YTlmNGM3NjI4ZmNhZjY1",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love & Attention",
-        "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1"
       },
       "artists": [
         {
-          "name": "SamRecks",
-          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+          "name": "Mboogz",
+          "url": "https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB"
         }
       ],
-      "duration_ms": 157808,
-      "name": "Love & Attention",
-      "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
+      "duration_ms": 213790,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1"
+        "name": "Love & Attention",
+        "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
       },
       "artists": [
         {
-          "name": "Mboogz",
-          "url": "https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB"
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
         }
       ],
-      "duration_ms": 213790,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt"
+      "duration_ms": 157808,
+      "name": "Love & Attention",
+      "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        },
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 160490,
+      "name": "Venting",
+      "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/6yAjcw3OQin9aBXTDI0k0A"
       },
@@ -1071,22 +1091,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/5dovlyUr9PQKLzUMPTErNS"
       },
       "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        },
         {
           "name": "MiSTah Kye",
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 160490,
-      "name": "Venting",
-      "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1103,22 +1119,6 @@
       "duration_ms": 203964,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/5dovlyUr9PQKLzUMPTErNS"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs"
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
       "artists": [
         {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
         }
       ],
-      "duration_ms": 167172,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp"
+      "duration_ms": 169411,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs"
       },
       "artists": [
         {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
+      "duration_ms": 167172,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Hearts Get Numb",
-        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Hearts Get Numb",
-      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 169714,
       "name": "More",
       "url": "https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Hearts Get Numb",
+        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Hearts Get Numb",
+      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
     },
     {
       "added_at": "2023-08-01 17:14:44",

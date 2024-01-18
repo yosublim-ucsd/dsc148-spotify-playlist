@@ -1,12 +1,12 @@
 {
   "description": "Celebra con saz\u00f3n. A holiday playlist with tropical flavor. ",
-  "num_followers": 34041,
+  "num_followers": 34036,
   "original_name": "Navidad Con Sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTM5YTc3MDliZDIyNzRmZjdjMTZhMzI1ZTU2OGE5YjdhYjg0ODQ1",
+  "snapshot_id": "MCw5MjljYjYzZTY4NWMyNzc0ZjZmY2JjMGI5YWQ5NjE0MmQ4YjU4OGRk",
   "tracks": [
     {
       "added_at": "2023-12-19 14:35:20",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Latin Vallenatos",
-        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
-      },
-      "artists": [
-        {
-          "name": "Vallenatos Nativos",
-          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
-        }
-      ],
-      "duration_ms": 214840,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "Nuestra Musica",
         "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 268106,
       "name": "No Hay Cama Pa' Tanta Gente",
       "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Latin Vallenatos",
+        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
+      },
+      "artists": [
+        {
+          "name": "Vallenatos Nativos",
+          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
+        }
+      ],
+      "duration_ms": 214840,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Lo Mejor De Gilberto En La Navidad",
-        "url": "https://open.spotify.com/album/4lc37RNbpnoKrhBY0EKOjB"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 271213,
-      "name": "Me Gustan las Navidades",
-      "url": "https://open.spotify.com/track/6QhNqzWx1iXZoKB8Ww2wEy"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "17 \u00c9xitos",
         "url": "https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 286693,
       "name": "Baracunatana",
       "url": "https://open.spotify.com/track/54Mmo8YOqrr6A53QVO14il"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Lo Mejor De Gilberto En La Navidad",
+        "url": "https://open.spotify.com/album/4lc37RNbpnoKrhBY0EKOjB"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 271213,
+      "name": "Me Gustan las Navidades",
+      "url": "https://open.spotify.com/track/6QhNqzWx1iXZoKB8Ww2wEy"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Navidad - Canta Gallo, Canta",
-        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
+        "name": "Al Ni\u00f1o Dios",
+        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
       },
       "artists": [
         {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
         }
       ],
-      "duration_ms": 257693,
-      "name": "Cantemos Todos Cantemos",
-      "url": "https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu"
+      "duration_ms": 153182,
+      "name": "Al Ni\u00f1o Dios",
+      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Al Ni\u00f1o Dios",
-        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+        "name": "Navidad - Canta Gallo, Canta",
+        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
         }
       ],
-      "duration_ms": 153182,
-      "name": "Al Ni\u00f1o Dios",
-      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
+      "duration_ms": 257693,
+      "name": "Cantemos Todos Cantemos",
+      "url": "https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Diciembre Colombiano",
-        "url": "https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa"
-      },
-      "artists": [
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 306760,
-      "name": "Bomba en Navidad",
-      "url": "https://open.spotify.com/track/1mqTAwIQFWR6JCrAMFiE8Y"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "Tradici\u00f3n Urbana",
         "url": "https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 183367,
       "name": "T\u00fa No Bailas Mas Que Yo",
       "url": "https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Diciembre Colombiano",
+        "url": "https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa"
+      },
+      "artists": [
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 306760,
+      "name": "Bomba en Navidad",
+      "url": "https://open.spotify.com/track/1mqTAwIQFWR6JCrAMFiE8Y"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
+        "name": "Mistletoe",
+        "url": "https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
         "name": "Adornemos los Salones",
         "url": "https://open.spotify.com/album/2mKwTr6J2IKyioMh2vNlfE"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 190205,
       "name": "Adornemos los Salones",
       "url": "https://open.spotify.com/track/2nvVj2x4cwZBY8c6b2KYP1"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
-        "name": "Mistletoe",
-        "url": "https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv"
-      },
-      "artists": [
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r"
     },
     {
       "added_at": "2023-12-19 14:35:20",

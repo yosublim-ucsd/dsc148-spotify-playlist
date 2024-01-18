@@ -1,13 +1,29 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 89361,
+  "num_followers": 89471,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjExZjFiMWNlNWI3MjM0MjYxODU4ZGVkMGM2MjczYjkwNzBhNThl",
+  "snapshot_id": "MCxkYzUwMGFhNTAxODJkOGRmZjUxNDNiMjU4OWVlYTYwYTViN2NjNjMy",
   "tracks": [
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "Blues Walk",
+        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Autumn Nocturne",
+      "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
+    },
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 419626,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
-        "name": "Blues Walk",
-        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Autumn Nocturne",
-      "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Wrapped Tight",
-        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Wrapped Tight",
-      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
         "name": "New Time, New 'Tet",
         "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 453133,
       "name": "From Dream to Dream",
       "url": "https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "Wrapped Tight",
+        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Wrapped Tight",
+      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
         "name": "Cliff Craft",
         "url": "https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 406066,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Pepper Steak",
-      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 454720,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Pepper Steak",
+      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Out There (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/2GTMwdiWPXKD6wvKgbolIp"
-      },
-      "artists": [
-        {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
-        }
-      ],
-      "duration_ms": 412720,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/7xe7XwmN5t2lF4yULpVYug"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
         "name": "A Stranger In Town",
         "url": "https://open.spotify.com/album/7bzD7vIdt5nxTEJe8F6Y2k"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 582133,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/2BDZCdN2zLYjfbZ3WdqZBC"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "Out There (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/2GTMwdiWPXKD6wvKgbolIp"
+      },
+      "artists": [
+        {
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+        }
+      ],
+      "duration_ms": 412720,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/7xe7XwmN5t2lF4yULpVYug"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
-        }
-      ],
-      "duration_ms": 370693,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/3TdCZEoDwRP7UwcsHyzyjU"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
         "name": "The Cool Sounds Of Pepper Adams",
         "url": "https://open.spotify.com/album/7pTUQRvzI4d9BDledmEmPF"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 617173,
       "name": "Bloos, Booze, Blues",
       "url": "https://open.spotify.com/track/73hj1t2tGYe5uZS8XHUiqC"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 370693,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/3TdCZEoDwRP7UwcsHyzyjU"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Pushing the World Away",
-        "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 223960,
-      "name": "A Side Order of Hijiki",
-      "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
         "name": "Moving In",
         "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
       },
@@ -2403,6 +2387,22 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
+        "name": "Pushing the World Away",
+        "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "A Side Order of Hijiki",
+      "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
         "name": "Back East",
         "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
       },
@@ -2415,6 +2415,22 @@
       "duration_ms": 400853,
       "name": "Back East",
       "url": "https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "Lenox Avenue Breakdown",
+        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
+      },
+      "artists": [
+        {
+          "name": "Arthur Blythe",
+          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
+        }
+      ],
+      "duration_ms": 578880,
+      "name": "Slidin' Through",
+      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -2439,22 +2455,6 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "Lenox Avenue Breakdown",
-        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
-      },
-      "artists": [
-        {
-          "name": "Arthur Blythe",
-          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
-        }
-      ],
-      "duration_ms": 578880,
-      "name": "Slidin' Through",
-      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
         "name": "Triptykon",
         "url": "https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb"
       },
@@ -2475,22 +2475,6 @@
       "duration_ms": 447600,
       "name": "J.E.V.",
       "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
-        "name": "The Sirens",
-        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 504266,
-      "name": "Kalypso",
-      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
     },
     {
       "added_at": "2023-12-20 08:40:33",
@@ -2527,22 +2511,6 @@
     {
       "added_at": "2023-12-20 08:40:33",
       "album": {
-        "name": "On This Night",
-        "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
-      },
-      "artists": [
-        {
-          "name": "Archie Shepp",
-          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
-        }
-      ],
-      "duration_ms": 447466,
-      "name": "The Mac Man",
-      "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
-    },
-    {
-      "added_at": "2023-12-20 08:40:33",
-      "album": {
         "name": "Twio",
         "url": "https://open.spotify.com/album/2ekSSgd5FCCjgkMwT3qVXb"
       },
@@ -2567,6 +2535,38 @@
       "duration_ms": 367773,
       "name": "On the Trail",
       "url": "https://open.spotify.com/track/5MKKKVSZZalOWxwTfIDxkO"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "On This Night",
+        "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
+      },
+      "artists": [
+        {
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
+        }
+      ],
+      "duration_ms": 447466,
+      "name": "The Mac Man",
+      "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
+    },
+    {
+      "added_at": "2023-12-20 08:40:33",
+      "album": {
+        "name": "The Sirens",
+        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 504266,
+      "name": "Kalypso",
+      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
     }
   ],
   "unique_name": "Saxophone Classics",

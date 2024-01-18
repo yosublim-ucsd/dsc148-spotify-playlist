@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,833 likes - 58 songs - 3 hr 42 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,838 likes - 58 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 36 | [Entre Las Manos Y El Colmillo](https://open.spotify.com/track/2Kd6NuJXG6p412oBhibvrL) | [Quiet Fear](https://open.spotify.com/artist/7f9rUMEhQtAGij5enAodnf) | [Quatro Vientos Cinco Soles](https://open.spotify.com/album/1bnAcSYa5NjJVgtlULAVNV) | 2:53 |
 | 37 | [Resurrected](https://open.spotify.com/track/68XdsXMEEhP6SOkpj4FNrG) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Resurrected](https://open.spotify.com/album/2hnXIMJc9CNCdTsVyTO3d7) | 2:11 |
 | 38 | [Intrinsic Depravity](https://open.spotify.com/track/2vt4sChGSD7A7bZjnKjKnA) | [Tomb Sentinel](https://open.spotify.com/artist/0VVNfT99zkyncd3gBabHkU) | [Endless Anguish](https://open.spotify.com/album/1B6Wl8R4JHxmEogEeDjViS) | 5:19 |
-| 39 | [The Colour Purple](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 |
+| 39 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 |
 | 40 | [Leb Off](https://open.spotify.com/track/7Aimv4tXK01bAOW9K7gJQj) | [The Bevis Frond](https://open.spotify.com/artist/2UWJVpm81yeOuzFWmaYEAF) | [Leb Off](https://open.spotify.com/album/1RHKBrerxNCe2iC5v4Uv3c) | 4:11 |
 | 41 | [Live That Way Forever \- From The Iron Claw Original Soundtrack](https://open.spotify.com/track/54UKhjVcYsny6L1cS3y6dP) | [Richard Reed Parry](https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY), [Little Scream](https://open.spotify.com/artist/2U7njwghtRR6ofLobG32Lk), [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Live That Way Forever \(From The Iron Claw Original Soundtrack\)](https://open.spotify.com/album/4yL7ThBr8W4pLR5dP5c8sG) | 4:50 |
 | 42 | [Mock the Hours](https://open.spotify.com/track/0n3KCOASK42PeAscN0q2d7) | [David Nance](https://open.spotify.com/artist/7p4c2nwJAhBa8pV0tvBRr9) | [Mock the Hours](https://open.spotify.com/album/2BnCnfGmsTvJ2aNmnwuBeB) | 3:59 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 48 | [Train Full of Gasoline](https://open.spotify.com/track/59DfLCbFpKbgwb7X3wFGDD) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Train Full of Gasoline](https://open.spotify.com/album/7eWG2KYKFaGaGD17wbK22O) | 2:50 |
 | 49 | [Model Village](https://open.spotify.com/track/6qyRIlG2gBJW2h9jJR7mce) | [Pete Astor](https://open.spotify.com/artist/3hOyXm00iqGbv7BvoPyGbn), [The Loft](https://open.spotify.com/artist/28D4CxE3IfTcY2M4TDWNV8) | [Model Village](https://open.spotify.com/album/6eO7DnMaTLAi9eL0YItaxQ) | 3:58 |
 | 50 | [Bad Friend](https://open.spotify.com/track/3O0F7giEqhGpvjUpGc9M7q) | [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6) | [Bad Friend](https://open.spotify.com/album/1mfh7fuPrCER7Z0TftN3WU) | 2:54 |
-| 51 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [Dottie](https://open.spotify.com/artist/0RjSIF8OgSCEcz0iYPDZaI) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 |
+| 51 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 |
 | 52 | [Tarkovski](https://open.spotify.com/track/1nTcPCnLgAbg5Ax0hi53ID) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Tarkovski](https://open.spotify.com/album/4eN54b5e3RBtoJF7K8gF4b) | 4:33 |
 | 53 | [Local Jerk](https://open.spotify.com/track/6vUZUeiKYtaQnBCsNaMp5k) | [Jayson Green & The Jerk](https://open.spotify.com/artist/0rg3QFu87jzciqi8HBNzSW) | [Local Jerk / I Need Love](https://open.spotify.com/album/1ZLV1EvkTAGK7xH2czw48a) | 5:05 |
 | 54 | [Starting and Staring](https://open.spotify.com/track/2XsyUC0ufwTPbJR1xZsJez) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Starting and Staring](https://open.spotify.com/album/7ItYXwOKuLOCINQfl7t2lG) | 3:00 |

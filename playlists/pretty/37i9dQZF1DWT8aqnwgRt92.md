@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,156 likes - 85 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,969 likes - 85 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 22 | [烈火](https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [烈火](https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7) | 4:10 |
 | 23 | [未完成](https://open.spotify.com/track/1qNjiTuVvUrdbOzvfH3yzM) | [ざきのすけ。](https://open.spotify.com/artist/2QydRp0HEq0iP0W3XPHZKm) | [未完成](https://open.spotify.com/album/6w8g1J2foak2DLjRQe2Ax5) | 3:25 |
 | 24 | [Eye's Sentry\(Anime ver.\)](https://open.spotify.com/track/2mpkh5uQygtv1nY0q3Qlps) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry\(Anime ver.\)](https://open.spotify.com/album/5wqx65H0ar3eZiI3jU93Op) | 1:29 |
-| 25 | [ニタリ](https://open.spotify.com/track/0G8ErkrQkzU6usCXnly1Ge) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [ニタリ](https://open.spotify.com/album/2jKlF8Ilvqr4fAAm1mShrI) | 2:43 |
+| 25 | [nitari](https://open.spotify.com/track/1ZKoFnft58Ak3jujRlUGJQ) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [nitari](https://open.spotify.com/album/17ecQayWxTwcz9o25u8HHE) | 2:43 |
 | 26 | [ユートピア](https://open.spotify.com/track/2dTqP0VXe0G6cbVagyeJ8a) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ユートピア](https://open.spotify.com/album/7ANloblGKzLe7AlCIrJGL1) | 2:55 |
 | 27 | [unravel](https://open.spotify.com/track/3uyiyeKrVPjbMdFGe9sGas) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [unravel](https://open.spotify.com/album/3EvVwxsQkXYSuItQMbTshK) | 3:59 |
 | 28 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 79 | [Shekira](https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Shekira](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 4:22 |
 | 80 | [遊歩](https://open.spotify.com/track/642mV6IqqtzGZ2SmIv5Jtt) | [いゔどっと](https://open.spotify.com/artist/1IgcHRzXg2POh5QKM1p7mj) | [遊歩](https://open.spotify.com/album/5cC2wqULeAw93vRHUh5mtk) | 3:09 |
 | 81 | [Ura Omote Aquarium](https://open.spotify.com/track/3o7VAschPtdpAEbOnzrRfX) | [otonari](https://open.spotify.com/artist/1PVlHWMrl8nmwEq4HfWHZd), [RIRIKO](https://open.spotify.com/artist/7Ag3A1k5zkpwMeB3S9DrCm), [佐高陵平](https://open.spotify.com/artist/4dSoW05s3zX3tA20IMqgcY) | [Ura Omote Aquarium](https://open.spotify.com/album/7CYVV7qr4jwSz4mw8psXSP) | 3:02 |
-| 82 | [好きがレベチ](https://open.spotify.com/track/2fqjYciVSgP06JQK14bT6v) | [エレノーラ・ヒルローズ（CV:日高里菜）](https://open.spotify.com/artist/6MJocx3PKQylQPpnzDCjpI), [ユミエラ・ドルクネス（CV:ファイルーズあい）](https://open.spotify.com/artist/2qMDA1zWEYIMA6Y0U8gJDp) | [TVアニメ「悪役令嬢レベル99　～私は裏ボスですが魔王ではありません～」エンディングテーマ「好きがレベチ」](https://open.spotify.com/album/4LmI58biN3f5lNqEFR8z3b) | 3:54 |
+| 82 | [SUKIGA LEVECHI](https://open.spotify.com/track/0J12Ou3SAblEYLhG4y4t93) | [エレノーラ・ヒルローズ（CV:日高里菜）](https://open.spotify.com/artist/6MJocx3PKQylQPpnzDCjpI), [ユミエラ・ドルクネス（CV:ファイルーズあい）](https://open.spotify.com/artist/2qMDA1zWEYIMA6Y0U8gJDp) | [SUKIGA LEVECHI ENDING THEME FROM TV SERIES ”VILLAINESS LEVEL 99”](https://open.spotify.com/album/4QEEudQNmzg2OKasfWL2Gx) | 3:54 |
 | 83 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
 | 84 | [Otowa](https://open.spotify.com/track/1zSDvAdbpQoSuVJ9jLHGJD) | [太陽と踊れ月夜に唄え](https://open.spotify.com/artist/6FD9cAv3nEw3sK6mSmIAjV) | [Otowa](https://open.spotify.com/album/2nYVX9H4mPqz2a8A9efxzW) | 3:56 |
 | 85 | [Another Birthday](https://open.spotify.com/track/5ElYyMymv1nNdV2hWTide0) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Another Birthday](https://open.spotify.com/album/7BhHbk0kKbBAqHtPuTmhY8) | 3:37 |
 
-Snapshot ID: `MCwxYzc4ODI4MTcyNjJkNGIxY2ZlNmRkN2RmZDFkNWQ1YzVlNmIzZTMw`
+Snapshot ID: `MCxlMzRjZjNkMzE2OTM3MTJiZjc5ZTkzMDBkMzY4YzEwMjRmYTdiZGZm`

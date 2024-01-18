@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con El Chacal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,857 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,871 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 31 | [Abrázame Muy Fuerte \- Prod\. by Dj Cham](https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Abrázame Muy Fuerte](https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu) | 3:39 |
 | 32 | [Todo Está Ok](https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV), [Fixty Ordara](https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E) | [Todo Está Ok](https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK) | 3:34 |
 | 33 | [Otro Trago](https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tamoarriba](https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V) | 3:30 |
-| 34 | [Que Locura](https://open.spotify.com/track/2DKyYH0AV19kMOjhqSqsgF) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Que Locura](https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8) | 3:17 |
-| 35 | [Guachineo](https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb) | [GUACHINEO \(Cubaton \- Cuban Reggaeton 2015 \- Lo Que Mas Suena En Cuba\)](https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc) | 3:41 |
+| 34 | [Guachineo](https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb) | [GUACHINEO \(Cubaton \- Cuban Reggaeton 2015 \- Lo Que Mas Suena En Cuba\)](https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc) | 3:41 |
+| 35 | [Que Locura](https://open.spotify.com/track/2DKyYH0AV19kMOjhqSqsgF) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Que Locura](https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8) | 3:17 |
 | 36 | [Después que Bailamos](https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ) | [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Después que Bailamos](https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU) | 3:45 |
 | 37 | [Toxica](https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf) | [Toxica](https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO) | 3:51 |
 | 38 | [Habla Matador](https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Happy](https://open.spotify.com/artist/2cEDvM2O93CC2TxsgJczos) | [Habla Matador](https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 49 | [El Gavilan](https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [El Gavilan](https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E) | 3:27 |
 | 50 | [Secuestro](https://open.spotify.com/track/5sK0UjjnF5STHk2wct5U9G) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV), [Fixty Ordara](https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E) | [Secuestro](https://open.spotify.com/album/14f6CGPw4pb4r5Las2cPM7) | 2:53 |
 
-Snapshot ID: `MCxkZDQyYWUyNTYzMTI1ZmJlMjFiNWM4ZTA4ZjczODRmNDQ5MTA5ZjY2`
+Snapshot ID: `MCwzZmZiNjYxMGRiNWE1MDZkMDczZTM2NjNhMzk2M2Y5NGRjNTU5NDJj`

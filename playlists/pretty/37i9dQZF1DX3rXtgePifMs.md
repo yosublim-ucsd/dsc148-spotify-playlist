@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,510 likes - 109 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,690 likes - 109 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 57 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
 | 58 | [Assumptions \- Jengi Remix](https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Assumptions \(Jengi Remix\)](https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ) | 3:06 |
 | 59 | [denver luna \(acappella\)](https://open.spotify.com/track/4hGgIWJLCzQpEyWvdbsf8q) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [denver luna \(acappella\)](https://open.spotify.com/album/5jayItxgtL0rwZzJKwcr2G) | 2:27 |
-| 60 | [Gan Ainm](https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Paragon Songs](https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA) | 4:07 |
-| 61 | [Shut It Down](https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut It Down](https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB) | 2:42 |
+| 60 | [Shut It Down](https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut It Down](https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB) | 2:42 |
+| 61 | [Gan Ainm](https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Paragon Songs](https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA) | 4:07 |
 | 62 | [We Can Be Anything](https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp) | 3:21 |
 | 63 | [O Que Se Leva \(Dói\)](https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz) | [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [O Que Se Leva \(Dói\)](https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE) | 2:50 |
 | 64 | [FLATLINE](https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [FLATLINE](https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf) | 3:45 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 108 | [Sekkle In](https://open.spotify.com/track/7DzIYGJCzK1meLmAWK7DbZ) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW), [Sparkz](https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf) | [Earache / Sekkle In](https://open.spotify.com/album/4ZG7ya2WiZZVQErG4vUHgM) | 3:45 |
 | 109 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 |
 
-Snapshot ID: `MCwwNGEzZDI2MTc2MjFkOTc0MTJjN2NlODBiNzNmNzEzNDhlMWQwZThj`
+Snapshot ID: `MCw4YzIzODNkMDZmMTYyZTBkMjJlNDc5NjY1ZWRhYmJhZGJhODVmNjMz`

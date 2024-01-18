@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: kwes e
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,948 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,061 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 2 | [Icarus](https://open.spotify.com/track/3ce3sMJej1oV7TeSjlxvJK) | [Low Girl](https://open.spotify.com/artist/2NieKujN76b0pYPpxo79qE) | [Icarus](https://open.spotify.com/album/2p0rKLNVRJ3DspsjBK8SWf) | 3:19 |
 | 3 | [Fred Perry Girl](https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog) | [Andy Goodwin](https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB) | [Fred Perry Girl](https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d) | 2:59 |
 | 4 | [Mum Says](https://open.spotify.com/track/0Xr8Oaw3wRhN9NPiNmaduD) | [Betty](https://open.spotify.com/artist/45Ndw1FM9epvaUXQXYGbST) | [Mum Says](https://open.spotify.com/album/3TKGgij0C2pQH7tuFIFGUQ) | 2:39 |
-| 5 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [Dottie](https://open.spotify.com/artist/0RjSIF8OgSCEcz0iYPDZaI) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 |
+| 5 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 |
 | 6 | [bad idea.](https://open.spotify.com/track/5ZPVs8aNVZKYwVMXz9LOLx) | [tøm hughes](https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf) | [bad idea.](https://open.spotify.com/album/4Nan4OZVVyozIKfQbkiTBr) | 2:55 |
 | 7 | [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 |
 | 8 | [Send Your Loving](https://open.spotify.com/track/78hvRuG5aqaFd6YDNNYLuN) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Send Your Loving](https://open.spotify.com/album/6mosxW2MvsBVCa8dpxDhyB) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [The Chase](https://open.spotify.com/track/0hX1Sc2QkcVHzvgy1kMaAD) | [Tamara Dos Santos](https://open.spotify.com/artist/1GhWD01U6kf5djUGOD523H) | [The Chase](https://open.spotify.com/album/17F03Nv5crXD0S8grbmNYB) | 3:05 |
 | 80 | [“gaslighting isn’t real, you’re just mental”](https://open.spotify.com/track/7DyGyXWXKbr2yeSc5JNr6k) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [“gaslighting isn’t real, you’re just mental”](https://open.spotify.com/album/7ttWuNfN7myZ4tT5Kwxx34) | 2:26 |
 
-Snapshot ID: `MCw5Nzk2OTk2ZDUyODFmMWQ0OWIwMWMyYzBiZDhmMGQ1YTQwMDgyMGE4`
+Snapshot ID: `MCwwNWZlYjk2MDQ1MDMyMjM2ZTY5MThmZWE0NTM2MTMwYjNlZTNhODhh`

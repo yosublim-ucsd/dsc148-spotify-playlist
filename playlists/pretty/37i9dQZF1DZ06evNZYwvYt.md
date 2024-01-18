@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,497 likes - 44 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,503 likes - 44 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 34 | [Delicada violencia](https://open.spotify.com/track/0WqFZiJlm264gE6zgJIyQQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:55 |
 | 35 | [Brigida](https://open.spotify.com/track/3xlHWb5TsdrN0BTb0h2aM5) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:33 |
 | 36 | [No me atrevo a preguntar](https://open.spotify.com/track/1ASsOEm4V9yWkgJ573Uf8q) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:39 |
-| 37 | [Látigo de fuego](https://open.spotify.com/track/4a7n3hqqlgcpqzfBOcfLTQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Látigo de fuego](https://open.spotify.com/album/43zuensuw729kZhtB1emiI) | 3:51 |
-| 38 | [Axfixiar](https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:36 |
+| 37 | [Axfixiar](https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:36 |
+| 38 | [Látigo de fuego](https://open.spotify.com/track/4a7n3hqqlgcpqzfBOcfLTQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Látigo de fuego](https://open.spotify.com/album/43zuensuw729kZhtB1emiI) | 3:51 |
 | 39 | [Resiste Más Que Yo](https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo](https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv) | 5:59 |
 | 40 | [Miel](https://open.spotify.com/track/2IbiZBpJuvY8pMzKhDtWLP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 4:55 |
 | 41 | [Lo Bueno De Morir De Amor](https://open.spotify.com/track/6JOCmBTgT16HhWTMQheAPF) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Lo Bueno De Morir De Amor](https://open.spotify.com/album/5fhVKI6cdwPMic00HDME23) | 4:00 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 43 | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/track/2X7Mzcr24Zk7LyHE0JQBs9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/album/3WfMKEzc06cGLrqfyDAQ5c) | 4:04 |
 | 44 | [El Aparecido](https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Inti\-Illimani, Tributo A Su Música \- A La Salud de la Música Chilena](https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo) | 4:10 |
 
-Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDAyN2JiODAyMDI0N2FiOWEzOTY2OTRkNDg2NTYwYzAyNw==`
+Snapshot ID: `Mjg0MjQ4NzcsMDAwMDAwMDAyNjVjOGVmNWUwYTY1OWIwMzliYzIyNTU1NWJjNWQ3NA==`

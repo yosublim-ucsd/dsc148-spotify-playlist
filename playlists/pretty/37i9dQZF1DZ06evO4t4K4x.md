@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,877 likes - 36 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,878 likes - 36 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 25 | [I Decoded You \(Moogies Bloogies, Pt\. 2\)](https://open.spotify.com/track/3WEuSqvJ8kjyZhhnlC7CHw) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Anthony Newley](https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI) | [Moogies Bloogies](https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6) | 1:34 |
 | 26 | [Way Out](https://open.spotify.com/track/0aoAksB3m0uQxKWreBH0zx) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 1:51 |
 | 27 | [Hannett and Delia synth exchanges track 5](https://open.spotify.com/track/70uqGMtFCdPxNxRQQfjMWf) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 3:40 |
-| 28 | [Falling, From the Dreams \- Radio Version 1964](https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol\. 1](https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v) | 8:46 |
-| 29 | [Lure of the Space Goddess \(Full Broadcast Version\)](https://open.spotify.com/track/2799P6BYTMwnrYPqKuVLxr) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Workshop](https://open.spotify.com/album/2KEElgsJpDoi4BiEUMXoy8) | 2:30 |
+| 28 | [Lure of the Space Goddess \(Full Broadcast Version\)](https://open.spotify.com/track/2799P6BYTMwnrYPqKuVLxr) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Workshop](https://open.spotify.com/album/2KEElgsJpDoi4BiEUMXoy8) | 2:30 |
+| 29 | [Falling, From the Dreams \- Radio Version 1964](https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol\. 1](https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v) | 8:46 |
 | 30 | [Delia's Dream](https://open.spotify.com/track/4kcdAGV3GNVeWnv4gWJVWn) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 0:40 |
 | 31 | [Hannett and Delia synth exchanges track 18](https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 1:29 |
-| 32 | [The Afterlife, Pt\. 1](https://open.spotify.com/track/34N10CgvlD72zNU0WP5ygC) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife](https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI) | 1:48 |
-| 33 | [Science and Health](https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:57 |
+| 32 | [Know Your Car \(Get out and Get Under\)](https://open.spotify.com/track/4xh5xk7FN0XAnox1n9DDtt) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:59 |
+| 33 | [The Afterlife, Pt\. 1](https://open.spotify.com/track/34N10CgvlD72zNU0WP5ygC) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife](https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI) | 1:48 |
 | 34 | [Hannett and Delia synth exchanges track 14](https://open.spotify.com/track/4HdrI3r3t0t4VwikGGhovW) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:01 |
-| 35 | [The Afterlife, Pt\. 2](https://open.spotify.com/track/5GQmLF1yvOo9B5e3T78DbG) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife](https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI) | 5:52 |
-| 36 | [Know Your Car \(Get out and Get Under\)](https://open.spotify.com/track/4xh5xk7FN0XAnox1n9DDtt) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:59 |
+| 35 | [Science and Health](https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:57 |
+| 36 | [The Afterlife, Pt\. 2](https://open.spotify.com/track/5GQmLF1yvOo9B5e3T78DbG) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife](https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI) | 5:52 |
 
-Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDA4MzU2ODg2Y2U3MjA4MmQ0MTQ0NmI3NDRiNWM4NDgxOA==`
+Snapshot ID: `Mjg0MjQ4NzgsMDAwMDAwMDBjNzhmNDM2ZTI3ZjJiNWY2MGYzMjE1MDJhMWZlODIxZA==`

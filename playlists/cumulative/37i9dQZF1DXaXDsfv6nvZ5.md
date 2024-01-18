@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-414 songs - 1 day 1 hr 1 min
+415 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2022-03-11 |  |
 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 | 2021-12-03 | 2022-10-13 |
 | [Growth](https://open.spotify.com/track/5cyQOgAlJrY2idaIoC4Dzp) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Under the Sun](https://open.spotify.com/album/6pX51CcNApLFwXeyMKrRXO) | 3:21 | 2022-09-09 | 2023-10-27 |
-| [H.I.](https://open.spotify.com/track/0mGuqhdpKtKv6KajTmCLFI) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Wanderlust](https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z) | 3:59 | 2022-09-23 |  |
+| [H.I.](https://open.spotify.com/track/0mGuqhdpKtKv6KajTmCLFI) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Wanderlust](https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z) | 3:59 | 2022-09-23 | 2024-01-18 |
 | [Half Time](https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 3:50 | 2022-03-11 | 2023-04-01 |
 | [Have You Ever Been \(To Electric Ladyland\)](https://open.spotify.com/track/7mgWCXPKOWgOexqeYLGjeu) | [Nai Palm](https://open.spotify.com/artist/5X0dCi2aVnYEV27S8wgQdF) | [Needle Paw](https://open.spotify.com/album/4b6uW0x09FkRSqadcioB1u) | 4:19 | 2022-10-03 | 2023-10-07 |
 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 | 2023-09-16 |  |
@@ -400,6 +400,7 @@
 | [Wake Up Everybody \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/0SXc07eEULCarnpq6pSrPD) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Wake Up Everybody \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/7tOdvzx7uCAsjdrKvkEZZL) | 3:47 | 2021-12-03 | 2022-07-29 |
 | [Waterfall \(I Adore You\)](https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Waterfall \(I Adore You\)](https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9) | 4:52 | 2023-10-27 |  |
 | [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 | 2023-10-27 |  |
+| [We Found Love](https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [We Found Love](https://open.spotify.com/album/0jJKXcVgzIPMkbw0uYBW0p) | 3:09 | 2023-09-08 |  |
 | [Weightless](https://open.spotify.com/track/1DtKIGt2v637DaiBSu5vv9) | [J\. Brown](https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb), [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Weightless](https://open.spotify.com/album/6QFd5hVu9jc69TXwaxxFdU) | 2:28 | 2023-07-21 | 2023-09-02 |
 | [WELCOME TO SOUL,PRESENT](https://open.spotify.com/track/0us7zsn3fg0xjJ4nzNeEHu) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:09 | 2023-05-05 | 2023-10-07 |
 | [What A Difference She Made](https://open.spotify.com/track/4kOdKWtst1d1PwERMtOWlX) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 2:55 | 2022-10-14 |  |

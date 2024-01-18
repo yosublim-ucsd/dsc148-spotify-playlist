@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 148076,
+  "2024-01-18": 148084,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Costa Rica.",
   "name": "Top 50 - Costa Rica",
@@ -4461,7 +4461,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
@@ -4745,7 +4745,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
       "url": "https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G"

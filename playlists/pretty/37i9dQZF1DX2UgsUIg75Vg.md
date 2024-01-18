@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Destin Conrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,353,910 likes - 151 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,354,033 likes - 151 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 150 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 |
 | 151 | [Blue](https://open.spotify.com/track/0PfurdlOZRYJ6pkrvHOkUh) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:12 |
 
-Snapshot ID: `MCw1OWQ4YmViYTY5OTYyYjA4NTQ1ZDllMDEzZTFmMjlhYmY0NWFmNjFm`
+Snapshot ID: `MCw0MWRiZmQwMTQ4YjcwMmMxYmY4MjQ2NzhiOTVkZmIwYzM0MmQ4Yjdl`

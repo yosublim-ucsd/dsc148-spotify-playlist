@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,500 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,524 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [TONDEMO\-WONDERZ](https://open.spotify.com/track/4hrhv3LGlhO0qK21zWeHgW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [TONDEMO\-WONDERZ](https://open.spotify.com/album/0E3hZEBiEMetjMHCo93BKk) | 3:15 |
 | 50 | [Bocca della Verità](https://open.spotify.com/track/7k7gLfNpXx0ZdaJtLOixnk) | [HiiragiKirai](https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK) | [Hateful](https://open.spotify.com/album/5KQEDITT9hD7p6gxbBAfz5) | 3:21 |
 
-Snapshot ID: `MCwwZDdiZDI4YTQzYjEyNWRlODZjZDVhZjg3MjcwODQwNTA2NmNjY2Q1`
+Snapshot ID: `MCwwNGIyZmZjNGM4YjJlY2IwYjUzZDE0ZmUxYzcwNTc2ZjJmOTZiOGZh`

@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 72276,
+  "num_followers": 72324,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTRiNmUxOTNlNGJmNGU0YTdhMmMxODg0OGZkM2JhMzBmOTNjNjA4",
+  "snapshot_id": "MCwxNmNmMmNhODU0ZmQ4MzRiYTM4MmI1ZGI0MTcwOTdjMzU0YmI4MmFh",
   "tracks": [
     {
       "added_at": "2023-12-20 12:21:43",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-12-20 12:21:43",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "My Ideal",
-      "url": "https://open.spotify.com/track/6akL58jOFRUs3DdoF1tUP0"
-    },
-    {
-      "added_at": "2023-12-20 12:21:43",
-      "album": {
         "name": "Everybody Digs Bill Evans",
         "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 354666,
       "name": "Young And Foolish",
       "url": "https://open.spotify.com/track/1WygPWqmNs4s2fxtjmtI3O"
+    },
+    {
+      "added_at": "2023-12-20 12:21:43",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 262626,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/6akL58jOFRUs3DdoF1tUP0"
     },
     {
       "added_at": "2023-12-20 12:21:43",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-12-20 12:21:43",
       "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 290160,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/3oGqQ3Ly4wzilxFo4puTn9"
+    },
+    {
+      "added_at": "2023-12-20 12:21:43",
+      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 222866,
       "name": "I Got It Bad (And That Ain't Good)",
       "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
-    },
-    {
-      "added_at": "2023-12-20 12:21:43",
-      "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 290160,
-      "name": "I Wish I Knew",
-      "url": "https://open.spotify.com/track/3oGqQ3Ly4wzilxFo4puTn9"
     },
     {
       "added_at": "2023-12-20 12:21:43",
@@ -439,6 +439,38 @@
     {
       "added_at": "2023-12-20 12:21:43",
       "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        }
+      ],
+      "duration_ms": 292106,
+      "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
+    },
+    {
+      "added_at": "2023-12-20 12:21:43",
+      "album": {
         "name": "Good Morning Heartache",
         "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
       },
@@ -483,38 +515,6 @@
       "duration_ms": 244080,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/5CxkNGZFfG7eiWNWhvUC9A"
-    },
-    {
-      "added_at": "2023-12-20 12:21:43",
-      "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
-        }
-      ],
-      "duration_ms": 292106,
-      "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
-      "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
     },
     {
       "added_at": "2023-12-20 12:21:43",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-12-20 12:21:43",
       "album": {
-        "name": "Dippin'",
-        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 329533,
-      "name": "I See Your Face Before Me - Remastered",
-      "url": "https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG"
-    },
-    {
-      "added_at": "2023-12-20 12:21:43",
-      "album": {
         "name": "Standard Time Vol. 2: Intimacy Calling",
         "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 191840,
       "name": "The End Of A Love Affair",
       "url": "https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn"
+    },
+    {
+      "added_at": "2023-12-20 12:21:43",
+      "album": {
+        "name": "Dippin'",
+        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 329533,
+      "name": "I See Your Face Before Me - Remastered",
+      "url": "https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG"
     },
     {
       "added_at": "2023-12-20 12:21:43",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-12-20 12:21:43",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "But Not for Me",
-      "url": "https://open.spotify.com/track/6nem7uYGz6srJVXRB0L93R"
-    },
-    {
-      "added_at": "2023-12-20 12:21:43",
-      "album": {
         "name": "Time To Swing",
         "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 154760,
       "name": "Baby, Don't You Cry",
       "url": "https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX"
+    },
+    {
+      "added_at": "2023-12-20 12:21:43",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "But Not for Me",
+      "url": "https://open.spotify.com/track/6nem7uYGz6srJVXRB0L93R"
     },
     {
       "added_at": "2023-12-20 12:21:43",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-12-20 12:21:43",
       "album": {
-        "name": "At The End Of The Day",
-        "url": "https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs"
-      },
-      "artists": [
-        {
-          "name": "Till Br\u00f6nner",
-          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU"
-    },
-    {
-      "added_at": "2023-12-20 12:21:43",
-      "album": {
         "name": "Scott Hamilton Plays Ballads",
         "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 297426,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/26BECFXVYWMwjDgxHLj5BI"
+    },
+    {
+      "added_at": "2023-12-20 12:21:43",
+      "album": {
+        "name": "At The End Of The Day",
+        "url": "https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs"
+      },
+      "artists": [
+        {
+          "name": "Till Br\u00f6nner",
+          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU"
     },
     {
       "added_at": "2023-12-20 12:21:43",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-12-20 12:21:43",
       "album": {
-        "name": "She's Got It",
-        "url": "https://open.spotify.com/album/5UKPWnmzf6F2UlBhp1dIRi"
-      },
-      "artists": [
-        {
-          "name": "Annette Hanshaw",
-          "url": "https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "Wasting My Love on You",
-      "url": "https://open.spotify.com/track/5Dp0YfR5ygkhdoB0rmLlFZ"
-    },
-    {
-      "added_at": "2023-12-20 12:21:43",
-      "album": {
         "name": "The War Years (1941-1947)",
         "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 165266,
       "name": "Cry You Out Of My Heart",
       "url": "https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk"
+    },
+    {
+      "added_at": "2023-12-20 12:21:43",
+      "album": {
+        "name": "She's Got It",
+        "url": "https://open.spotify.com/album/5UKPWnmzf6F2UlBhp1dIRi"
+      },
+      "artists": [
+        {
+          "name": "Annette Hanshaw",
+          "url": "https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "Wasting My Love on You",
+      "url": "https://open.spotify.com/track/5Dp0YfR5ygkhdoB0rmLlFZ"
     },
     {
       "added_at": "2023-12-20 12:21:43",

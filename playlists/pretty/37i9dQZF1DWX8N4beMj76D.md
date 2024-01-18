@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,370 likes - 40 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,373 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 39 | [Everybody Knows](https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX), [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Everybody Knows](https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo) | 5:26 |
 | 40 | [Coming Back To You](https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV) | [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:32 |
 
-Snapshot ID: `MCw1NTUyNDc3ZDkzYTZmOGJlYzhlNDg5ZGNiYTdiMmUxNDFiODI3MjFh`
+Snapshot ID: `MCw3MWI3NGRmOTUzOGQ1MjM4YzNlNjkxN2JjMzY4NWExMWM5ODEzYzVk`

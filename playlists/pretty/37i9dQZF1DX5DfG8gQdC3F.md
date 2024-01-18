@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ariana Grande, 21 Savage, Josh Ross, Lil Nas X, Preme and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,259 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,262 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 75 | [HIGH STAKES](https://open.spotify.com/track/6sMuiuVIpCf9xiHRQ9l5zm) | [clear eyes](https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [HIGH STAKES](https://open.spotify.com/album/4oZLpR2QVDQNPJyZvn2Plb) | 2:30 |
 | 76 | [Perdón](https://open.spotify.com/track/32MALJmE6RilqujuMXlbJz) | [MOI99](https://open.spotify.com/artist/0qOXVY4Mk1F9YvqTq6FegW), [The LJ](https://open.spotify.com/artist/59iMrqhx3qr6U7343wM1Fc), [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Perdón](https://open.spotify.com/album/5sOVldle0BESuJy1xKB0pi) | 3:23 |
 | 77 | [take yr time](https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [take yr time](https://open.spotify.com/album/1VH9FaS0iG8QiB5cE475b0) | 3:56 |
-| 78 | [Temps en temps \(feat\. Kore\)](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N) | [Temps en temps \(feat\. Kore\)](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 |
+| 78 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 |
 | 79 | [Trapstar](https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [BRAZY](https://open.spotify.com/artist/7HytOPAbrG6oy21znAXXzM), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Trapstar](https://open.spotify.com/album/6w0MKX4W3Q8m80ZRWWg2ya) | 2:54 |
 | 80 | [STEPPIN' WIT 2](https://open.spotify.com/track/3eqhqoMSCA21JiwP6luXs8) | [Pvrx](https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ) | [STEPPIN' WIT 2](https://open.spotify.com/album/56XUYwpPL2imMq40ClsFl7) | 2:18 |
 | 81 | [Cutlery](https://open.spotify.com/track/3agVaetMwVUmDOE8PGCYpz) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Cutlery](https://open.spotify.com/album/7HcMzrKxx10G3J1sEB0Tuv) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Field Of Ruins](https://open.spotify.com/track/2BXzFWbrIzc7TYfs3z8Igv) | [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [Field Of Ruins](https://open.spotify.com/album/5ic3ni2tPnm9mrK6DfvfJg) | 3:42 |
 | 100 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 |
 
-Snapshot ID: `MCw2NTI2M2Y5ZjFiMzVmNTMyYTgxNDI3MTU5ZGM3OGM1NGM2YTA2NDMz`
+Snapshot ID: `MCwyODg0ZjU0MjVkN2VhZGUwMzNmYzUyZTM3YTg4OWM3MjFlODgwOTk4`

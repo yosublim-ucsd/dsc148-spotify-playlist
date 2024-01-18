@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 460568,
+  "num_followers": 460689,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTVjYWJlMTA0ZjIxYzUzYTkwYjdiYjdlNDhhODcxZDJhY2M4ZjQ1",
+  "snapshot_id": "MCw1ODdhYTRhNDYxNWRkYzE5ODhlY2FlNWQ0MDhiZGI3NzRhY2E4ZGI4",
   "tracks": [
     {
       "added_at": "2024-01-05 03:01:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "V\u00e1rias Queixas (Remix)",
-        "url": "https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs"
-      },
-      "artists": [
-        {
-          "name": "Brunetta",
-          "url": "https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 123142,
-      "name": "V\u00e1rias Queixas - Remix",
-      "url": "https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Pumped up Kicks (feat. Joy Corporation)",
         "url": "https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 342360,
       "name": "Pumped up Kicks (feat. Joy Corporation)",
       "url": "https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "V\u00e1rias Queixas (Remix)",
+        "url": "https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs"
+      },
+      "artists": [
+        {
+          "name": "Brunetta",
+          "url": "https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 123142,
+      "name": "V\u00e1rias Queixas - Remix",
+      "url": "https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/2PSz5TRIXyGCsHRW3sYsQR"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 134571,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/00FuFY2DemyowcHwMabQ11"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
+        "name": "Z\u00e9 do caro\u00e7o",
+        "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Z\u00e9 do caro\u00e7o",
+      "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
         "name": "Halfway (feat. Twan Ray)",
         "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 158416,
       "name": "Halfway (feat. Twan Ray)",
       "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
-        "name": "Z\u00e9 do caro\u00e7o",
-        "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Z\u00e9 do caro\u00e7o",
-      "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Low (feat. Victor Perry)",
         "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 145952,
       "name": "Low (feat. Victor Perry)",
       "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1343,22 +1343,26 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "PQP A Vida \u00c9 Boa Demais",
-        "url": "https://open.spotify.com/album/2JmmMClnqqzOqlT0uJOT3C"
+        "name": "Se Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
       "artists": [
         {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
         },
         {
-          "name": "Ralk",
-          "url": "https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC"
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
         }
       ],
-      "duration_ms": 194285,
-      "name": "PQP A Vida \u00c9 Boa Demais",
-      "url": "https://open.spotify.com/track/3ArUQ2uOknm7t3xIKu4zFb"
+      "duration_ms": 174219,
+      "name": "Se Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1383,26 +1387,62 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Se Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
+        "name": "PQP A Vida \u00c9 Boa Demais",
+        "url": "https://open.spotify.com/album/2JmmMClnqqzOqlT0uJOT3C"
       },
       "artists": [
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
         },
         {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+          "name": "Ralk",
+          "url": "https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC"
         }
       ],
-      "duration_ms": 174219,
-      "name": "Se Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
+      "duration_ms": 194285,
+      "name": "PQP A Vida \u00c9 Boa Demais",
+      "url": "https://open.spotify.com/track/3ArUQ2uOknm7t3xIKu4zFb"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Que Dia",
+        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
+      },
+      "artists": [
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        },
+        {
+          "name": "Serginho Moah",
+          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
+        }
+      ],
+      "duration_ms": 175546,
+      "name": "Que Dia",
+      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Presente do Mar",
+        "url": "https://open.spotify.com/album/15b5t3lIZxQLe1wzdhMl3p"
+      },
+      "artists": [
+        {
+          "name": "Bolth",
+          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
+        },
+        {
+          "name": "Reis",
+          "url": "https://open.spotify.com/artist/1FPeNJhA9trW4zwYZOjvwL"
+        }
+      ],
+      "duration_ms": 177516,
+      "name": "Presente do Mar",
+      "url": "https://open.spotify.com/track/0U2DfsFkO2G2KzwlVjPVmv"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1447,46 +1487,6 @@
       "duration_ms": 150000,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
-        "name": "Que Dia",
-        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
-      },
-      "artists": [
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        },
-        {
-          "name": "Serginho Moah",
-          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
-        }
-      ],
-      "duration_ms": 175546,
-      "name": "Que Dia",
-      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
-        "name": "Presente do Mar",
-        "url": "https://open.spotify.com/album/15b5t3lIZxQLe1wzdhMl3p"
-      },
-      "artists": [
-        {
-          "name": "Bolth",
-          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
-        },
-        {
-          "name": "Reis",
-          "url": "https://open.spotify.com/artist/1FPeNJhA9trW4zwYZOjvwL"
-        }
-      ],
-      "duration_ms": 177516,
-      "name": "Presente do Mar",
-      "url": "https://open.spotify.com/track/0U2DfsFkO2G2KzwlVjPVmv"
     },
     {
       "added_at": "2024-01-05 03:01:00",

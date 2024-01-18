@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTQwODhlYTU5YzMyOTY5ZTI3YTg4ZTBlN2QyNzQ3YzhkYTU5M2M3",
+  "snapshot_id": "MCwwOTYyNzIwMGE0Nzg4NDQ2YTQ3MTU2ODdhMjM2MzdlYjM0MGRiYjk1",
   "tracks": [
     {
       "added_at": "2023-12-08 09:05:06",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Renee Olstead",
-        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
-      },
-      "artists": [
-        {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Taking a Chance on Love",
-      "url": "https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "Desmond Blue",
         "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 279146,
       "name": "I've Got You Under My Skin - 2011 Remaster",
       "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "Renee Olstead",
+        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Taking a Chance on Love",
+      "url": "https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "Familiar Places",
         "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 287323,
       "name": "It's Beginning To Rain Again",
       "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
+        "name": "Cloudy (With a Chance of Rain)",
+        "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Cloudy (With a Chance of Rain)",
+      "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
         "name": "Body and Soul",
         "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Cloudy (With a Chance of Rain)",
-        "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
       "artists": [
         {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
         }
       ],
-      "duration_ms": 283422,
-      "name": "Cloudy (With a Chance of Rain)",
-      "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
+      "duration_ms": 247149,
+      "name": "When the Sun Comes Out",
+      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -679,22 +695,6 @@
       "duration_ms": 220440,
       "name": "There'll Be Another Spring",
       "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 247149,
-      "name": "When the Sun Comes Out",
-      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Here I'll Stay",
+      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "Here I'll Stay",
-      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 384360,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "Let's Face the Music",
         "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 257148,
       "name": "Beatrice",
       "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 384360,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 141266,
-      "name": "Melancholy March",
-      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "Backlash",
         "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 401226,
       "name": "Up Jumped Spring",
       "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 141266,
+      "name": "Melancholy March",
+      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "They Say It's Swing",
-        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
-      },
-      "artists": [
-        {
-          "name": "Clare Teal",
-          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
-        }
-      ],
-      "duration_ms": 249997,
-      "name": "They Say It's Spring",
-      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
+        "name": "They Say It's Swing",
+        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
+      },
+      "artists": [
+        {
+          "name": "Clare Teal",
+          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
+        }
+      ],
+      "duration_ms": 249997,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
         "name": "The Cole Porter Mix",
         "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 219653,
       "name": "You're The Top",
       "url": "https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 179906,
+      "name": "I Can't Be Bothered Now",
+      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -1391,22 +1407,6 @@
       "duration_ms": 194173,
       "name": "April Come She Will",
       "url": "https://open.spotify.com/track/3onycGcXENXzRke49yNQvI"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 179906,
-      "name": "I Can't Be Bothered Now",
-      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "Where Do You Start",
-        "url": "https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 526613,
-      "name": "Holland",
-      "url": "https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "Let's Sail Away",
         "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 283826,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "Where Do You Start",
+        "url": "https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 526613,
+      "name": "Holland",
+      "url": "https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE"
     },
     {
       "added_at": "2023-12-08 09:05:06",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2023-12-08 09:05:06",
       "album": {
-        "name": "We've Just Begun",
-        "url": "https://open.spotify.com/album/0IDhy8JGpoMH9xw4gnMHZh"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "The Danish Radio Big Band",
-          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
-        }
-      ],
-      "duration_ms": 401233,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/6KPzkbirCRJJdgRHFM9ozt"
-    },
-    {
-      "added_at": "2023-12-08 09:05:06",
-      "album": {
         "name": "Triple Play",
         "url": "https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 466973,
       "name": "Shallow Waters",
       "url": "https://open.spotify.com/track/0Q3LZbJerwYufO4DfOfZ56"
+    },
+    {
+      "added_at": "2023-12-08 09:05:06",
+      "album": {
+        "name": "We've Just Begun",
+        "url": "https://open.spotify.com/album/0IDhy8JGpoMH9xw4gnMHZh"
+      },
+      "artists": [
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "The Danish Radio Big Band",
+          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
+        }
+      ],
+      "duration_ms": 401233,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/6KPzkbirCRJJdgRHFM9ozt"
     }
   ],
   "unique_name": "Spring Jazz",

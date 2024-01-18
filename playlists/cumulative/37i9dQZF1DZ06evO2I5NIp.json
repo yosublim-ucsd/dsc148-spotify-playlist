@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 210800,
       "name": "Should Have Come Home",
       "url": "https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE"
@@ -1194,6 +1194,24 @@
       "duration_ms": 318173,
       "name": "The Other Woman",
       "url": "https://open.spotify.com/track/08iJoM0fYwdZJ86Ts3KJCH"
+    },
+    {
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228066,
+      "name": "The Push I Need",
+      "url": "https://open.spotify.com/track/3Ym4ECxUj4HKDBkhflmKFe"
     },
     {
       "album": {

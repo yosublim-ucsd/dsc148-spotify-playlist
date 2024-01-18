@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,232 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,262 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 25 | [Jamaica Farewell](https://open.spotify.com/track/5cYxD1ChuvEUlIIQBlv42J) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [House Party](https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O) | 3:14 |
 | 26 | [Cha Cha Slide](https://open.spotify.com/track/146IdUhpqJAKpfGPegGtd1) | [Freeze Dance DJ's](https://open.spotify.com/artist/2vnlIUooL0M6u8zJaJImU9) | [FREEZE DANCE PARTY](https://open.spotify.com/album/5IsGdDTrqIPHPumGqtWRL0) | 3:42 |
 | 27 | [We Outside](https://open.spotify.com/track/2Jm5GHTsbMXbDvhIoyUikW) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [We Outside](https://open.spotify.com/album/5ojvCpVkbL7VQXK3RYdMen) | 2:44 |
-| 28 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 |
+| 28 | [Man Stop](https://open.spotify.com/track/7IZNULeligccS1z83Bzjt8) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/3OXqNJkrQGW0CYVM7tZGHL) | 1:59 |
 | 29 | [I'm Healthy](https://open.spotify.com/track/7ECdYi17tlPuGg9YVblRPU) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 2:33 |
 | 30 | [In My Feelings](https://open.spotify.com/track/5GJkaptoXzXzZ3NUw8MJy9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:03 |
-| 31 | [Man Stop](https://open.spotify.com/track/7IZNULeligccS1z83Bzjt8) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/3OXqNJkrQGW0CYVM7tZGHL) | 1:59 |
+| 31 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 |
 | 32 | [Walk Tall \(feat\. Paul Simon\)](https://open.spotify.com/track/2n5jNXpu7XrDpsNeU2BZk0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:16 |
 | 33 | [Rise](https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Tower to Tower 2](https://open.spotify.com/album/0FT8XvXuscoSlxZb5138Fq) | 3:03 |
 | 34 | [Safari](https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Mouse\-A\-Mania](https://open.spotify.com/album/1XHsqic4Jn9koJxkRYwVNw) | 3:25 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 39 | [Bored is a Bad Word](https://open.spotify.com/track/6l8PVMHkToebBTlJacW6Fa) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Underground Playground](https://open.spotify.com/album/41kgd9xgfuYAmKasunl4Sa) | 3:43 |
 | 40 | [Jumping Jacks \- Feat\. Jabari & Baby Power](https://open.spotify.com/track/4WMe7Vxf5Mf6HoE0p28nYR) | [Mee Wee](https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp) | [Mee Wee: Hip Hop For Kids](https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU) | 2:10 |
 | 41 | [This Old Man](https://open.spotify.com/track/33brRRHTjeMZVXzt4tDOzp) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae for Kids](https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi) | 3:13 |
-| 42 | [Kids That Rock](https://open.spotify.com/track/3MZmpfcmRK73emDMcqNpbe) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 3:30 |
-| 43 | [Joy to the World](https://open.spotify.com/track/08d59tHb8uQvvWGVEnYsLl) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi) | 2:37 |
+| 42 | [Joy to the World](https://open.spotify.com/track/08d59tHb8uQvvWGVEnYsLl) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi) | 2:37 |
+| 43 | [Kids That Rock](https://open.spotify.com/track/3MZmpfcmRK73emDMcqNpbe) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 3:30 |
 | 44 | [2 Times Tables \(Biggie Style\)](https://open.spotify.com/track/6pFoYMv2aU4aBORxa4UrIz) | [Multiplication Hip Hop For Kids](https://open.spotify.com/artist/661nGSGFdpxESwfUkaaLEL) | [Multiplication Times Tables \- 2 Pac, Biggie, & TI Style](https://open.spotify.com/album/7J2JwQSMGuY513Bo3lDGjc) | 4:49 |
 | 45 | [Just When You Think \- Kidz Version](https://open.spotify.com/track/1KDmjtkUAtTKomtKnGEp9j) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:16 |
 | 46 | [Have Fun](https://open.spotify.com/track/2SRrXQG5zBbd2VUZFu38iL) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [Apple of My Eye](https://open.spotify.com/track/7nzvfB4c708km3Y69qKj5k) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 4:15 |
 | 50 | [Kool Kids](https://open.spotify.com/track/2b9sTGqIWVTFVu7AUMQn7h) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 4 \(Kids on Da Track\)](https://open.spotify.com/album/1LbNXfKTY8F2FpfdUXw60g) | 2:09 |
 
-Snapshot ID: `MCw3ZDdhNzE0ZjYwMDlmMzk4YzJkZWE3ZGVmMmQ4MjZjMTlkYjVhMzgz`
+Snapshot ID: `MCxjY2Y4OGVhMmI2MmZmZjc0MzkyODEyODYxNWY1NzhiZjNiYzk1OTZj`

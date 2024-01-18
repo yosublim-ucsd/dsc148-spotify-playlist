@@ -16229,6 +16229,24 @@
     },
     {
       "album": {
+        "name": "Selfie",
+        "url": "https://open.spotify.com/album/6UzCljuxVu7CPfjgqKcGa6"
+      },
+      "artists": [
+        {
+          "name": "iScream",
+          "url": "https://open.spotify.com/artist/0e5pQ7WhkRfa6kEhzjQ9Bx"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169853,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/07IeFotTMs414fi6cOojUG"
+    },
+    {
+      "album": {
         "name": "Heart of Gold",
         "url": "https://open.spotify.com/album/2fUkY3mmOcDDdDmZiF6Oot"
       },
@@ -16240,7 +16258,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 169853,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/5ECY6ioMnM7qcZ3Fpeztep"
@@ -39214,7 +39232,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163226,
-      "name": "The Colour Purple",
+      "name": "The Colour Purple - Live From Malibu",
       "url": "https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI"
     },
     {

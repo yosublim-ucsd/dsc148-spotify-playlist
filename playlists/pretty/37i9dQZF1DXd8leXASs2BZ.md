@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Flat Line Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,642 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,655 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Yap Yap](https://open.spotify.com/track/5XbunWE0rvjeiMmtc2v5Pa) | [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Deech Got Yukichi 2](https://open.spotify.com/album/0EiGGW2OaqBb2NeM8qJ1xJ) | 2:27 |
 | 100 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 |
 
-Snapshot ID: `MCw0ZWVkMGViYjNmYWFhOGQ0YmViYWIyNjdiNWMzNzMzNzE2MjNjZWFl`
+Snapshot ID: `MCw5ZmFhMzJkYjlkN2U5M2RkZjQ5ZWRmNWVmYjdjYjJkZWE0NzFlMWE3`

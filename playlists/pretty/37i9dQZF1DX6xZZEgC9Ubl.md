@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554,915 likes - 150 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,555,100 likes - 150 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 57 | [Hate Me!](https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 2:34 |
 | 58 | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK) | 2:29 |
 | 59 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 |
-| 60 | [World's a Fuck](https://open.spotify.com/track/204e7FPwiedVDmjKIgnnkP) | [Sematarik](https://open.spotify.com/artist/31o8VFTitHtHTqY7a64iSG) | [Laughing Through the Pain](https://open.spotify.com/album/5sbyv8AtRLssEzg5M6J80f) | 2:58 |
+| 60 | [Worlds a Fuck](https://open.spotify.com/track/0cZrfkTmWH9jCR8CRYl4LV) | [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK) | [Emperor Road](https://open.spotify.com/album/6Gu2V3lKh7njXbN5JvYJJI) | 3:00 |
 | 61 | [WOULDN'T IT BE NICE](https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [WOULDN'T IT BE NICE](https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP) | 3:02 |
 | 62 | [Cherry Blossoms](https://open.spotify.com/track/0i55G9XxEPCxYwzozhQun5) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/7JXeLOZu3B2iArq61xATwX) | 2:17 |
 | 63 | [VACANT](https://open.spotify.com/track/2CxTUwmFIMzGfkxVLVQiFJ) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [THE WALLS HAVE EYES](https://open.spotify.com/album/4dFW8b4h1IIKr5Un1NaNSI) | 2:41 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 149 | [North Star](https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY) | [Mackned](https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ) | [God Mom](https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB) | 2:03 |
 | 150 | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 |
 
-Snapshot ID: `MCw2MTQxZTU5YmVkNGI0NDY3ZmExNDBmOWNjNjhlNDY5OTQ5M2I2NWI3`
+Snapshot ID: `MCxiOGE2NTFhYjQ1YjRiN2U4ZjIyM2RmOWI4MDVmYmU0NDUyYzEwNjdi`

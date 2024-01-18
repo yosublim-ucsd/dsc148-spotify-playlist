@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Szpaku
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,806 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,922 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [JEREMY SOCHAN](https://open.spotify.com/track/2WBejVahXeC1gjCXVOlgbq) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [JEREMY SOCHAN](https://open.spotify.com/album/1joqopmcT1uPuuXoQLvzVw) | 2:25 |
 | 50 | [noWy baTmAN](https://open.spotify.com/track/0YLPs2DX0TUhLZBlWtV6oQ) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [noWy baTmAN](https://open.spotify.com/album/5IjxyKPttlngllJPFmfSeE) | 2:49 |
 
-Snapshot ID: `MCw1YjhkYTQzMWFhZmFkNTQ4NjQ3ODg4ZTU4YjUyMTJiYmFiYTMzMWNm`
+Snapshot ID: `MCwwMmU3NzhkNjBkODhmMTdmYmFkNjQ0NTMxODdlNGU2NWI5NDk1MGY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > y kn m quida no duerme viejo de los korridones q traemos totalment n vivo y markele kmpa tolo watata watata
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,234 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,271 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 44 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 |
 | 45 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 |
 | 46 | [ALV](https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ) | [Manuelvezz](https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB) | [ALV](https://open.spotify.com/album/4AU32F3DgVEo2azUpLlNjM) | 2:54 |
-| 47 | [classical phonk](https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl) | [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g), [madeinnline](https://open.spotify.com/artist/5Uf6QGQDs3EqsxgiGR4O4f) | [classical phonk](https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok) | 1:26 |
-| 48 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 |
+| 47 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 |
+| 48 | [classical phonk](https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl) | [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g), [madeinnline](https://open.spotify.com/artist/5Uf6QGQDs3EqsxgiGR4O4f) | [classical phonk](https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok) | 1:26 |
 | 49 | [\|BONKERS\|](https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS) | [staplegun](https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI) | [\|BONKERS\|](https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr) | 3:32 |
 | 50 | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 |
 | 51 | [Ya No Me Preocupo](https://open.spotify.com/track/0rfNRGojD9WukEeeL54Hct) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:15 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 56 | [Tu Si Eres Real](https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 3:30 |
 | 57 | [FATAL FANTASSY](https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [FATAL FANTASSY](https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn) | 2:29 |
 | 58 | [Que Se Yo](https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Que Se Yo](https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK) | 3:25 |
-| 59 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 |
-| 60 | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://open.spotify.com/track/3qV8bXiqsR35JEMOy0tpJv) | [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b), [Mc Larissa](https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX) | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://open.spotify.com/album/5nCc44klDwX9Oy8udBepD4) | 3:02 |
+| 59 | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://open.spotify.com/track/3qV8bXiqsR35JEMOy0tpJv) | [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b), [Mc Larissa](https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX) | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://open.spotify.com/album/5nCc44klDwX9Oy8udBepD4) | 3:02 |
+| 60 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 |
 
-Snapshot ID: `MCxmOWU3ZTEyODEyZjJlOWRhMjg1NmRkNzI4N2U0OTAxZjFkMmE0YmEx`
+Snapshot ID: `MCw5MDRhMWUyZjAwNTE3MzY1MjBiMWU3MTRkZGY2Yjc5NDRhY2I2ZjQ3`

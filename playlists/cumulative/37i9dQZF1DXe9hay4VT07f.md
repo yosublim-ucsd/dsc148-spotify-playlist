@@ -4,7 +4,7 @@
 
 > We outside\. Cover: Valiant
 
-277 songs - 14 hr 43 min
+278 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Breaking News](https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 3:27 | 2022-08-18 |  |
 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 | 2023-05-14 |  |
 | [BRRP](https://open.spotify.com/track/3O0xkqcrOd6OQDGrLW8gtB) | [Steamaz](https://open.spotify.com/artist/5Drlafn66uDpEPuDQQgHiv) | [BRRP](https://open.spotify.com/album/6qnv92duzsBe4c4uuzQZc8) | 2:23 | 2022-08-18 | 2022-09-10 |
+| [Bruk off Yuh Back](https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk off Yuh Back](https://open.spotify.com/album/1yDKRNLbUWFF68muRwElC0) | 2:53 | 2023-11-17 |  |
 | [Bruk Off Yuh Back](https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk Off Yuh Back](https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U) | 2:53 | 2021-07-19 | 2024-01-11 |
 | [Bun Fi Bun](https://open.spotify.com/track/0qVHePWosXdYsXQyPfwsPM) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun](https://open.spotify.com/album/2RL83zJh0gADlYn4nLMbHd) | 3:17 | 2022-03-21 | 2023-08-04 |
 | [Bun Fi Bun](https://open.spotify.com/track/3UR8PpPKfnLlCxbpyPAsVq) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun](https://open.spotify.com/album/3j74olOZtNcUCoQ9ZNFZdN) | 3:17 | 2022-03-21 | 2022-08-06 |
@@ -253,7 +254,7 @@
 | [Too Many Man](https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [BBK](https://open.spotify.com/artist/24H5fZrUsczeOXjMQufShz) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 3:35 | 2022-03-21 |  |
 | [Top Prize](https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on) | 3:12 | 2022-09-09 | 2023-05-15 |
 | [Top Prize](https://open.spotify.com/track/4Ku4NfHQafSvZXW0kme5KJ) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/0ilTzFiPldFMIxfRNDFOxq) | 3:12 | 2022-03-21 | 2022-11-12 |
-| [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 | 2023-08-03 |  |
+| [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 | 2023-08-03 | 2024-01-18 |
 | [Turn Me On](https://open.spotify.com/track/0BBOLOV5JntPL3341swIre) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Kevin Lyttle \(US Domestic Release\)](https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw) | 3:12 | 2023-11-17 |  |
 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 | 2023-05-14 |  |
 | [Tyrant](https://open.spotify.com/track/7IZFzhwYUxUVhCsrnEReqi) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Tyrant](https://open.spotify.com/album/3EwcJh0H2zzd0dONi7YkgG) | 3:37 | 2023-11-17 |  |

@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Born2Run",
+        "url": "https://open.spotify.com/album/0zdCLnsn9pHHgxEMNEFjR7"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154128,
+      "name": "Born2Run",
+      "url": "https://open.spotify.com/track/66Dvkzi4HyhKRJsBoOzQVa"
+    },
+    {
+      "album": {
         "name": "Providence",
         "url": "https://open.spotify.com/album/0mV9xVaTWHbakQC10LKtgL"
       },

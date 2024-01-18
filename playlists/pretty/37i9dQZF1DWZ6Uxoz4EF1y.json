@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 169213,
+  "num_followers": 169384,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2FmYzZjOWM3MzI3ZWRiYjMyMmVhNGJlZDI3ZmFmZTU5ZmM3NzRk",
+  "snapshot_id": "MCwyZjM3MDliOWFiMDY1YTA3NzdhYTNkOTU2YzFkMTYxZGZlYjIxNzFj",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -728,6 +728,10 @@
           "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
         },
         {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/3260itd54aSFXY3wAhsH4W"
+        },
+        {
           "name": "Lowsan Melgar",
           "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
         },
@@ -783,6 +787,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "S\u00f3lo Tu Gracia",
+        "url": "https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 282106,
+      "name": "Jes\u00fas, Has Mi Car\u00e1cter",
+      "url": "https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Cuan Gran Amor",
         "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
       },
@@ -799,18 +819,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "S\u00f3lo Tu Gracia",
-        "url": "https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi"
+        "name": "Ven Y Llena Esta Casa",
+        "url": "https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN"
       },
       "artists": [
         {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+          "name": "Vino Nuevo",
+          "url": "https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX"
         }
       ],
-      "duration_ms": 282106,
-      "name": "Jes\u00fas, Has Mi Car\u00e1cter",
-      "url": "https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP"
+      "duration_ms": 300040,
+      "name": "Por Las Llagas",
+      "url": "https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -831,22 +851,6 @@
       "duration_ms": 263731,
       "name": "Rey de Reyes",
       "url": "https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Ven Y Llena Esta Casa",
-        "url": "https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN"
-      },
-      "artists": [
-        {
-          "name": "Vino Nuevo",
-          "url": "https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX"
-        }
-      ],
-      "duration_ms": 300040,
-      "name": "Por Las Llagas",
-      "url": "https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -931,22 +935,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Mi Refugio",
-        "url": "https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 286906,
-      "name": "Mi Refugio",
-      "url": "https://open.spotify.com/track/59ThysQrym292KleIzgqci"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Santo R\u00edo de Dios",
         "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
       },
@@ -959,6 +947,22 @@
       "duration_ms": 301958,
       "name": "Santo R\u00edo de Dios",
       "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Mi Refugio",
+        "url": "https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 286906,
+      "name": "Mi Refugio",
+      "url": "https://open.spotify.com/track/59ThysQrym292KleIzgqci"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1047,22 +1051,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 410827,
-      "name": "Jes\u00fas Eres Mi Buen Pastor",
-      "url": "https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Rojo 24.7",
         "url": "https://open.spotify.com/album/0QZLXtvwIdSulLNEAXWuYR"
       },
@@ -1107,6 +1095,22 @@
       "duration_ms": 391316,
       "name": "No Hay Otro Dios",
       "url": "https://open.spotify.com/track/2kmRF1rM0ZQfZZ4RmkVIs4"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 410827,
+      "name": "Jes\u00fas Eres Mi Buen Pastor",
+      "url": "https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1199,22 +1203,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "En adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 299429,
-      "name": "Enciende una luz",
-      "url": "https://open.spotify.com/track/1UEwI2FyRaowh1kUWCzNLg"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Colecci\u00f3n Ac\u00fastica I",
         "url": "https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS"
       },
@@ -1283,18 +1271,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Gloria al Rey",
-        "url": "https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz"
+        "name": "En adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD"
       },
       "artists": [
         {
-          "name": "Jaci Velasquez",
-          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 264626,
-      "name": "Gloria al Rey",
-      "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
+      "duration_ms": 299429,
+      "name": "Enciende una luz",
+      "url": "https://open.spotify.com/track/1UEwI2FyRaowh1kUWCzNLg"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1315,6 +1303,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Gloria al Rey",
+        "url": "https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz"
+      },
+      "artists": [
+        {
+          "name": "Jaci Velasquez",
+          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
+        }
+      ],
+      "duration_ms": 264626,
+      "name": "Gloria al Rey",
+      "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Hasta Poder Ver",
         "url": "https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz"
       },
@@ -1331,18 +1335,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Colecci\u00f3n Ac\u00fastica I",
-        "url": "https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS"
+        "name": "Gloria sea a ti",
+        "url": "https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg"
       },
       "artists": [
         {
-          "name": "Majo Sol\u00eds",
-          "url": "https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS"
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
         }
       ],
-      "duration_ms": 282345,
-      "name": "Fija Tus Ojos En Cristo",
-      "url": "https://open.spotify.com/track/0h8xH56h5XD7BeHPWYqDC4"
+      "duration_ms": 233965,
+      "name": "Al que es digno",
+      "url": "https://open.spotify.com/track/7bueiNmYqB7CJzuo52wGP9"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1367,18 +1371,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Gloria sea a ti",
-        "url": "https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg"
+        "name": "Colecci\u00f3n Ac\u00fastica I",
+        "url": "https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS"
       },
       "artists": [
         {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+          "name": "Majo Sol\u00eds",
+          "url": "https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS"
         }
       ],
-      "duration_ms": 233965,
-      "name": "Al que es digno",
-      "url": "https://open.spotify.com/track/7bueiNmYqB7CJzuo52wGP9"
+      "duration_ms": 282345,
+      "name": "Fija Tus Ojos En Cristo",
+      "url": "https://open.spotify.com/track/0h8xH56h5XD7BeHPWYqDC4"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1399,22 +1403,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Esto Es Jesus Culture",
-        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
+        "name": "ORO",
+        "url": "https://open.spotify.com/album/7m7fDq7zg6DuHnGXSwJwSx"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
         }
       ],
-      "duration_ms": 264906,
-      "name": "Glorioso Eres T\u00fa",
-      "url": "https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC"
+      "duration_ms": 320533,
+      "name": "Cristo Yo Creo en Ti",
+      "url": "https://open.spotify.com/track/5Z2l6WlbgKLAdZBMDQTwNc"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1439,18 +1439,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "ORO",
-        "url": "https://open.spotify.com/album/7m7fDq7zg6DuHnGXSwJwSx"
+        "name": "Esto Es Jesus Culture",
+        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
       "artists": [
         {
-          "name": "Crystal Lewis",
-          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 320533,
-      "name": "Cristo Yo Creo en Ti",
-      "url": "https://open.spotify.com/track/5Z2l6WlbgKLAdZBMDQTwNc"
+      "duration_ms": 264906,
+      "name": "Glorioso Eres T\u00fa",
+      "url": "https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1635,22 +1639,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "No Hay Otro Dios",
-        "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
-      },
-      "artists": [
-        {
-          "name": "Banda Horizonte",
-          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
-        }
-      ],
-      "duration_ms": 320200,
-      "name": "Nos Levantaremos",
-      "url": "https://open.spotify.com/track/2bWTrJ83AEekPcsBQb8X2x"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "El Eco De Su Voz",
         "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
@@ -1663,6 +1651,22 @@
       "duration_ms": 327146,
       "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
       "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "No Hay Otro Dios",
+        "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Horizonte",
+          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
+        }
+      ],
+      "duration_ms": 320200,
+      "name": "Nos Levantaremos",
+      "url": "https://open.spotify.com/track/2bWTrJ83AEekPcsBQb8X2x"
     },
     {
       "added_at": "2023-10-13 04:59:00",

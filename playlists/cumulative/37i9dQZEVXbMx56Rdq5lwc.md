@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,441 songs - 3 day 6 hr 57 min
+1,442 songs - 3 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-07 |  |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-03-22 | 2022-03-26 |
 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2022-06-18 | 2022-06-20 |
+| [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2024-01-17 |  |
 | [Iki Aušros](https://open.spotify.com/track/4iClTrpYr3WSwOJCITKXGN) | [Remis Retro](https://open.spotify.com/artist/14DnMswKGQIr7vgwyiiLKI) | [Iki Aušros](https://open.spotify.com/album/60uIww4Kv9rpVzs4o0YRvy) | 2:49 | 2022-07-16 | 2023-02-01 |
 | [Ilgėtis Mėnulio](https://open.spotify.com/track/6NosPWTOAO3UOF7WenjTCT) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu), [Nombeko Auguste](https://open.spotify.com/artist/1a1qmSRllFcdwBxl2gkc2N) | [Apkabinti Prisiminimus](https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz) | 2:21 | 2022-01-26 | 2022-02-03 |
 | [Imsiu](https://open.spotify.com/track/79AQS8a2cWaa6ITX6GBbLi) | [FC Baseball](https://open.spotify.com/artist/0C2U98NkIkyePhoocejsCD) | [ŽVĖRYNĖ](https://open.spotify.com/album/0HQUjiRWR7bIQIEiBRYIfr) | 4:44 | 2022-02-02 | 2022-02-07 |
@@ -1137,7 +1138,7 @@
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2023-06-09 | 2023-06-23 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-05-12 | 2022-07-31 |
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-07-30 | 2022-11-06 |
-| [sneaky](https://open.spotify.com/track/2K7sv1mno9PvbXVBpqvSKn) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:21 | 2024-01-13 |  |
+| [sneaky](https://open.spotify.com/track/2K7sv1mno9PvbXVBpqvSKn) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:21 | 2024-01-13 | 2024-01-18 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-22 | 2022-11-06 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-11-25 | 2024-01-02 |
 | [So Low](https://open.spotify.com/track/1lTojUQcDfI4nBkc80Xc8q) | [Ruta MUR](https://open.spotify.com/artist/2QfgVqH2rFOPF8dLsyXRWW) | [Prime Time](https://open.spotify.com/album/3TuXCb29LrLVxiAuz5iqLH) | 3:22 | 2023-01-23 | 2023-02-28 |

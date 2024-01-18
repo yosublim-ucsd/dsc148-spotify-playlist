@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > Lams og Kundo holder det 100 🥶
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,392 likes - 68 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,410 likes - 68 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 67 | [Draco](https://open.spotify.com/track/5G02IArmAsqcU3yTdLxZRN) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Draco](https://open.spotify.com/album/10FjouEsDArE1pce1q6j7v) | 2:13 |
 | 68 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 |
 
-Snapshot ID: `MCwyYzUzMDM1ZDQwOWZkNDUxOWFlOGEwYmJmZTE2ZTZlZGNjNDQ2NmMw`
+Snapshot ID: `MCw3MzRhYWU2ZjEwMWFmZTc1OGNiZjFkYjhmOTJhZmI4MGQ0MTRmMTcy`

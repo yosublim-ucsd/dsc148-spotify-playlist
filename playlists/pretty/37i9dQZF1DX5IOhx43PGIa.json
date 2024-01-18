@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 282748,
+  "num_followers": 282805,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmQ5ZmExNGQwOWU5NTIwNDdiOWUzZDEwN2U3NzU1MDg1ZGU1NGY1",
+  "snapshot_id": "MCxiMmUwODBmZTZhNjhiY2RhOWFlZmQ2NDliMzU3YTEwYzI5NjRkOGE5",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
+        "name": "Glue Song",
+        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
       "artists": [
         {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 154554,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
+      "duration_ms": 135066,
+      "name": "Glue Song",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Glue Song",
-        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
         }
       ],
-      "duration_ms": 135066,
-      "name": "Glue Song",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+      "duration_ms": 154554,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "GAME PLAN",
         "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 160578,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9"
+      },
+      "artists": [
+        {
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "duration_ms": 162020,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "van gogh",
         "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 187850,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9"
-      },
-      "artists": [
-        {
-          "name": "Jesse Barrera",
-          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
-        },
-        {
-          "name": "Patrick Hizon",
-          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
-        }
-      ],
-      "duration_ms": 162020,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "mad's world",
-        "url": "https://open.spotify.com/album/0tR2hMv1kGNWZpqbk7a3D5"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "mad's world",
-      "url": "https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Sandhills",
         "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 205546,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "mad's world",
+        "url": "https://open.spotify.com/album/0tR2hMv1kGNWZpqbk7a3D5"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "mad's world",
+      "url": "https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1767,18 +1767,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "treat your friends",
-        "url": "https://open.spotify.com/album/2Rdk812Zcmfaec9zCfdGnt"
+        "name": "CHIVALRY IS DEAD",
+        "url": "https://open.spotify.com/album/7L4qkkUL8dr979LA7hzV9W"
       },
       "artists": [
         {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        },
+        {
+          "name": "Albert Posis",
+          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
         }
       ],
-      "duration_ms": 173624,
-      "name": "treat your friends",
-      "url": "https://open.spotify.com/track/0lyxM7QX5gEIn600SxaS7i"
+      "duration_ms": 183977,
+      "name": "CHIVALRY IS DEAD",
+      "url": "https://open.spotify.com/track/48KAjFkydsuZHkG7ftt8GW"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1803,38 +1807,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "CHIVALRY IS DEAD",
-        "url": "https://open.spotify.com/album/7L4qkkUL8dr979LA7hzV9W"
+        "name": "treat your friends",
+        "url": "https://open.spotify.com/album/2Rdk812Zcmfaec9zCfdGnt"
       },
       "artists": [
         {
-          "name": "Jesse Barrera",
-          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
-        },
-        {
-          "name": "Albert Posis",
-          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
         }
       ],
-      "duration_ms": 183977,
-      "name": "CHIVALRY IS DEAD",
-      "url": "https://open.spotify.com/track/48KAjFkydsuZHkG7ftt8GW"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "see you in hell",
-        "url": "https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM"
-      },
-      "artists": [
-        {
-          "name": "Tyson Yoshi",
-          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
-        }
-      ],
-      "duration_ms": 172430,
-      "name": "see you in hell",
-      "url": "https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU"
+      "duration_ms": 173624,
+      "name": "treat your friends",
+      "url": "https://open.spotify.com/track/0lyxM7QX5gEIn600SxaS7i"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1851,6 +1835,22 @@
       "duration_ms": 190624,
       "name": "Hopelessly Devoted To You - Spotify Single",
       "url": "https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "see you in hell",
+        "url": "https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "duration_ms": 172430,
+      "name": "see you in hell",
+      "url": "https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "duration_ms": 166941,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Cellulite",
         "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
       },
@@ -2219,38 +2235,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "APESHIT",
-        "url": "https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "APESHIT",
-      "url": "https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
-      },
-      "artists": [
-        {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
-        }
-      ],
-      "duration_ms": 166941,
-      "name": "2.0",
-      "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "KLEPTO",
         "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 133285,
       "name": "feti\u0161h",
       "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "APESHIT",
+        "url": "https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 151400,
+      "name": "APESHIT",
+      "url": "https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Where'd The Time Go?",
-        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
-      },
-      "artists": [
-        {
-          "name": "Kaleah Lee",
-          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
-        }
-      ],
-      "duration_ms": 105266,
-      "name": "Where'd The Time Go?",
-      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "WHO TF IS 8RAE?",
         "url": "https://open.spotify.com/album/26SLXiwVzDoRGEgiWEwlWh"
       },
@@ -2347,18 +2331,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/7eMJSkTBdRuiiImOehXDG4"
+        "name": "Where'd The Time Go?",
+        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
       },
       "artists": [
         {
-          "name": "Simu Liu",
-          "url": "https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP"
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
         }
       ],
-      "duration_ms": 224305,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/5TuwpS3bMTEq2KPc8xrdxO"
+      "duration_ms": 105266,
+      "name": "Where'd The Time Go?",
+      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2383,6 +2367,22 @@
       "duration_ms": 205094,
       "name": "let's run away",
       "url": "https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/7eMJSkTBdRuiiImOehXDG4"
+      },
+      "artists": [
+        {
+          "name": "Simu Liu",
+          "url": "https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP"
+        }
+      ],
+      "duration_ms": 224305,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/5TuwpS3bMTEq2KPc8xrdxO"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Summer went and came around",
-        "url": "https://open.spotify.com/album/0PLmsTuFzMLdP2bnUygGhl"
-      },
-      "artists": [
-        {
-          "name": "Kaz Moon",
-          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Summer went and came around",
-      "url": "https://open.spotify.com/track/1j0KXEo3vffAUQEnF7EcPG"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "sole outlet",
         "url": "https://open.spotify.com/album/0Xmtrxgeg2ivd3874Nn9fL"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 227538,
       "name": "sole outlet",
       "url": "https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Summer went and came around",
+        "url": "https://open.spotify.com/album/0PLmsTuFzMLdP2bnUygGhl"
+      },
+      "artists": [
+        {
+          "name": "Kaz Moon",
+          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Summer went and came around",
+      "url": "https://open.spotify.com/track/1j0KXEo3vffAUQEnF7EcPG"
     },
     {
       "added_at": "2024-01-05 05:00:00",

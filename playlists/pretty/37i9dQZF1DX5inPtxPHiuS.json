@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85662,
+  "num_followers": 85676,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjMxM2QyZTQyMDdkMzI2NGJmOWRjN2Q3YmI0OTliYTVhMGRkZmM3",
+  "snapshot_id": "MCxhN2EzMmZmZDQ0ZTIzYWYxMTM1MmUwYmY1NTQ1ODk4MzE0MGY2OGRi",
   "tracks": [
     {
       "added_at": "2023-10-07 00:35:47",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Yumbotop\u00eda",
+        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
+      },
+      "artists": [
+        {
+          "name": "Las Yumbe\u00f1as",
+          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
+        }
+      ],
+      "duration_ms": 173621,
+      "name": "El Tema de Amor Que Esperabas",
+      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Perro Come Perro",
         "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Yumbotop\u00eda",
-        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
+        "name": "Antiamor",
+        "url": "https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu"
       },
       "artists": [
         {
-          "name": "Las Yumbe\u00f1as",
-          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
         }
       ],
-      "duration_ms": 173621,
-      "name": "El Tema de Amor Que Esperabas",
-      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
+      "duration_ms": 223654,
+      "name": "Antiamor",
+      "url": "https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -887,22 +903,6 @@
       "duration_ms": 249965,
       "name": "B\u00fahoz",
       "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Antiamor",
-        "url": "https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu"
-      },
-      "artists": [
-        {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
-        }
-      ],
-      "duration_ms": 223654,
-      "name": "Antiamor",
-      "url": "https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Analog\u00eda de una Laguna",
-        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
       },
       "artists": [
         {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
         }
       ],
-      "duration_ms": 210217,
-      "name": "Analog\u00eda de una Laguna",
-      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
+      "duration_ms": 179239,
+      "name": "Lejos De Aqui",
+      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
+        "name": "Analog\u00eda de una Laguna",
+        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
       },
       "artists": [
         {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
         }
       ],
-      "duration_ms": 179239,
-      "name": "Lejos De Aqui",
-      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
+      "duration_ms": 210217,
+      "name": "Analog\u00eda de una Laguna",
+      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
     }
   ],
   "unique_name": "Rock Colombia",

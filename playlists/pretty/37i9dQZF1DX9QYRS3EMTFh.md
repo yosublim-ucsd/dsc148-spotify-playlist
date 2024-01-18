@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,761 likes - 40 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,786 likes - 40 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 9 | [PROTOCOLE \- A COLORS SHOW](https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [PROTOCOLE \- A COLORS SHOW](https://open.spotify.com/album/67fxAS0referLXN4dJlKr3) | 2:57 |
 | 10 | [Toxic](https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:35 |
 | 11 | [Chupa Chups](https://open.spotify.com/track/1yPvo0vccRNMEc8xDIFsqi) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Chupa Chups](https://open.spotify.com/album/4evQmLlRFvmjGbbLfrVnO4) | 2:10 |
-| 12 | [Shatta De Minuit](https://open.spotify.com/track/0WEbrz4AXEUYklBdFEr3I3) | [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Gamix](https://open.spotify.com/artist/3aOHw8ZqmQaNG5MbRumUaI) | [Shatta De Minuit](https://open.spotify.com/album/5PjGgiteQqGwBZ6AohWflV) | 2:23 |
+| 12 | [Shatta De Minuit](https://open.spotify.com/track/0WEbrz4AXEUYklBdFEr3I3) | [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s), [Gamix](https://open.spotify.com/artist/3aOHw8ZqmQaNG5MbRumUaI) | [Shatta De Minuit](https://open.spotify.com/album/5PjGgiteQqGwBZ6AohWflV) | 2:23 |
 | 13 | [Pum Fat](https://open.spotify.com/track/22woBfokG4WRalwDO5wlKh) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Pum Fat](https://open.spotify.com/album/2op5l53glUAbULyN4YulfW) | 2:23 |
 | 14 | [Beleck](https://open.spotify.com/track/5bf3qVyRtIpk4Ym3JHalWk) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:19 |
 | 15 | [Pon Di Ting](https://open.spotify.com/track/6FmvDclq7Ka4xPlxi28g45) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Pon Di Ting](https://open.spotify.com/album/6dxDwrTZCIfNsGCKYCbA8y) | 2:20 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Bouclier](https://open.spotify.com/track/3fX4PrdvLsr3uatsElEOE3) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I), [VAN'S](https://open.spotify.com/artist/38JkgtEuITG8pctyD9r0LE) | [Bouclier](https://open.spotify.com/album/7ampzSKM4JamAiI9fo5ksd) | 2:27 |
 | 40 | [Bi](https://open.spotify.com/track/4RUfwj2WJtQ0G7Lp6mOPGy) | [Olivyah](https://open.spotify.com/artist/1RWFgAXpkRkDhovaib8Bt5) | [Bi](https://open.spotify.com/album/3wIRgjXeN15DvUkmcS9qzV) | 2:16 |
 
-Snapshot ID: `MCxlOWNkYjk5NjgxZjhjNTY2NjZkYzU5Y2UyMzY0MTU5ZDA5YjgzNWRi`
+Snapshot ID: `MCxmYmFkMWUzN2FiMzVhNWQ1NzdjM2Q1MTE5MWI0MTMwNDcyMDIwNGY4`

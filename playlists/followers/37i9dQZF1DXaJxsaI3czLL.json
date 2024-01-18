@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 129178,
+  "2024-01-18": 129204,
   "date_first_scraped": "2022-10-24",
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
   "name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 172800,
       "name": "heaven",
       "url": "https://open.spotify.com/track/5wQw90mSxZimqjVOdYLytx"
@@ -1953,7 +1953,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 301266,
       "name": "Kimi to Watashi no Uta (featuring LIBERA)",
       "url": "https://open.spotify.com/track/4lyt57nzowtyz4NvQ3Dhq5"
@@ -4091,7 +4091,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 232013,
       "name": "untitled#2",
       "url": "https://open.spotify.com/track/5auq8vwft1NZNjrakIkpMO"
@@ -4131,6 +4131,24 @@
       "duration_ms": 282680,
       "name": "Weight",
       "url": "https://open.spotify.com/track/3J3bxrFCscf5KgNgBpQUo7"
+    },
+    {
+      "album": {
+        "name": "Whaleland",
+        "url": "https://open.spotify.com/album/2s1h6j9l3AZJ8yEXAbCy4W"
+      },
+      "artists": [
+        {
+          "name": "\u3068\u307e\u3068\u304f\u3089\u3076",
+          "url": "https://open.spotify.com/artist/6gvHiE41hsCPrljYaSoQ0P"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234517,
+      "name": "Whaleland",
+      "url": "https://open.spotify.com/track/7j5HLMGvve9kfOfWAtCkpB"
     },
     {
       "album": {
@@ -4391,6 +4409,24 @@
       "duration_ms": 280786,
       "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
       "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/1ULlmg6Rrn4NksaPXdjskn"
+      },
+      "artists": [
+        {
+          "name": "ERWIT",
+          "url": "https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291825,
+      "name": "\u3044\u3064\u304b\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/1CB33eDpheg02oMgLSTu7j"
     },
     {
       "album": {
@@ -5925,6 +5961,32 @@
       "duration_ms": 274168,
       "name": "\u5929\u8c61",
       "url": "https://open.spotify.com/track/5Nd4GwyfOtJygyr5VxjmI3"
+    },
+    {
+      "album": {
+        "name": "\u5b63\u7bc0\u306e\u97f3",
+        "url": "https://open.spotify.com/album/1zy47HoZLcCq9NmkKwyFrG"
+      },
+      "artists": [
+        {
+          "name": "Jane Jade",
+          "url": "https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm"
+        },
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        },
+        {
+          "name": "SAKURA FUJIWARA",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242432,
+      "name": "\u5b63\u7bc0\u306e\u97f3",
+      "url": "https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5"
     },
     {
       "album": {

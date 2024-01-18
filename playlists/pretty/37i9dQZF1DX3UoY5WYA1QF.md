@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,770 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,862 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 44 | [La Seven](https://open.spotify.com/track/0H7ECz8veQKTVvi0fctPgs) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:16 |
 | 45 | [Buena Amiga](https://open.spotify.com/track/2QvxxH2qKdMdXGBr0blz1s) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:44 |
 | 46 | [Manuel Juarez](https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:30 |
-| 47 | [Melodia Para Dos](https://open.spotify.com/track/3sLRC3lwcKEn6tdGc0xoWI) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 2:43 |
+| 47 | [Homenaje A Joan Sebastian](https://open.spotify.com/track/0jMLgmeFwWmxLn1pzj4JuG) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Homenaje A Joan Sebastian](https://open.spotify.com/album/5i8ZaKNJm6gJWQ7ejnzEqH) | 3:46 |
 | 48 | [Prisionero De La Ciudad](https://open.spotify.com/track/65nHDfhLe607gawYa1m1Dx) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Alberto Vázquez Interpreta A Joan Sebastian](https://open.spotify.com/album/0Zyjce2YUDw3TG9ex2EblK) | 3:22 |
 | 49 | [Maldita Suerte](https://open.spotify.com/track/0HLOXA1miR7Wb1ZqBSFsVa) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 2:40 |
 | 50 | [Corrido de Manuel Juárez](https://open.spotify.com/track/0OrSSO2y8XouFaL66KZGxD) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 4:49 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 52 | [Un Carino Como Tu](https://open.spotify.com/track/3Jgpbe7rXleRDdOJzsWCzJ) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:18 |
 | 53 | [En Un Jaripeo](https://open.spotify.com/track/368PvQ3FRthUJLTHp11JP2) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:41 |
 | 54 | [Hasta Que Amanezca](https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Las Románticas de Cuisillos, Vol\. 2](https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd) | 2:56 |
-| 55 | [Homenaje A Joan Sebastian](https://open.spotify.com/track/0jMLgmeFwWmxLn1pzj4JuG) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Homenaje A Joan Sebastian](https://open.spotify.com/album/5i8ZaKNJm6gJWQ7ejnzEqH) | 3:46 |
+| 55 | [Melodia Para Dos](https://open.spotify.com/track/3sLRC3lwcKEn6tdGc0xoWI) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 2:43 |
 | 56 | [Quiereme](https://open.spotify.com/track/33viYM3K3VAhasx8OPRtUZ) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 2:24 |
 | 57 | [A Quién Vas A Amar Más Que A Mí](https://open.spotify.com/track/5s6D3aH0ZJPVW2BmQBPpaJ) | [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf), [La Abuela Irma Silva](https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq) | [Para Siempre Los Nietos De Terán](https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt) | 2:51 |
 | 58 | [Nada De Ti](https://open.spotify.com/track/1iIIyMbWDfMLyufjX3N80U) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 99 | [El Último en la Fila](https://open.spotify.com/track/5JuDG2yTRCXNQiwAyNuav5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:21 |
 | 100 | [Los Cazahuates](https://open.spotify.com/track/4e40PB59A0nlbBDX5w3ku6) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:25 |
 
-Snapshot ID: `MCw5ZGYyOTE3MjE0ZDQ0MWY1ODU1MjZhNTFiOWY5ZTAxYTY0OGJlNWQ0`
+Snapshot ID: `MCwxNWJkMTQ3YzVkZmFhZDE3ZTUyYjk4MGEzMjZkYWI4OWFlMjY4OTMz`

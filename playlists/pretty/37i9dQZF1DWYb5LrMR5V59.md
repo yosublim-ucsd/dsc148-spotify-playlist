@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYb5LrMR5V59.md) - [plain]
 
 > Guitarras relajantes para descansar y recuperar fuerzas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,973 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,978 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYb5LrMR5V59.md) - [plain]
 | 79 | [Adelita](https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy) | 1:48 |
 | 80 | [Friends for Life](https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E) | [Les Cieu](https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB) | [Friends for Life](https://open.spotify.com/album/2HOadp8AnTx64UnV8GVZW0) | 2:16 |
 
-Snapshot ID: `MCxiYmRhOWJlOWQzYTkzNmIzYThhODhlYzZjZWMxMGQ4ZDVjNGY2ZmZh`
+Snapshot ID: `MCxmZDY1NTMyNjgzZWRkZWY5NTM0NDg4ODljMzFjOTRkZjdjZmNjMWNj`

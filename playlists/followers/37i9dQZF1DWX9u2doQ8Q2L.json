@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 383531,
+  "2024-01-18": 384030,
   "date_first_scraped": "2022-05-27",
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
   "name": "Tokyo Rising",
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 130220,
       "name": "Assaji",
       "url": "https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc"
@@ -4535,7 +4535,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 201187,
       "name": "ENJOY THE RIDE",
       "url": "https://open.spotify.com/track/68yPKpoph3amKSGRZLXlkf"
@@ -4579,6 +4579,24 @@
       "duration_ms": 204343,
       "name": "Escape",
       "url": "https://open.spotify.com/track/0xS0nj61N0NUdct1BHNapV"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3vIZOBWXZHV4qJpez22gUl"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150376,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/01UIlniiu2KwrVVpnMNE4s"
     },
     {
       "album": {
@@ -4905,10 +4923,32 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 151015,
       "name": "fake face dance music",
       "url": "https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313"
+    },
+    {
+      "album": {
+        "name": "fake face dance music (night drive remix)",
+        "url": "https://open.spotify.com/album/4z1ACaaeLSMwfQClzKW3YA"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+        },
+        {
+          "name": "ESME MORI",
+          "url": "https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152066,
+      "name": "fake face dance music - night drive remix",
+      "url": "https://open.spotify.com/track/4PZoa61PqX7neqlNnc4lf1"
     },
     {
       "album": {
@@ -4941,7 +4981,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 153000,
       "name": "Family",
       "url": "https://open.spotify.com/track/6siwPNfUD301D36FEgOQKJ"
@@ -5341,6 +5381,24 @@
       "duration_ms": 210313,
       "name": "Futari",
       "url": "https://open.spotify.com/track/5ULKxARl3sQRa9FjkPn9ey"
+    },
+    {
+      "album": {
+        "name": "Gacha Gacha",
+        "url": "https://open.spotify.com/album/2ad11ILhJNc7LKjEbOwzBu"
+      },
+      "artists": [
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144188,
+      "name": "Gacha Gacha",
+      "url": "https://open.spotify.com/track/6dpzlQqI1Ngp4zsO3aw3Fr"
     },
     {
       "album": {
@@ -8195,7 +8253,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 208333,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/4Dmz6KqXiNdYYv8tcTyNdU"
@@ -8538,6 +8596,24 @@
     },
     {
       "album": {
+        "name": "Lazy",
+        "url": "https://open.spotify.com/album/3pAueoomvTwfDObLNimgOL"
+      },
+      "artists": [
+        {
+          "name": "AVOCADO BOYS",
+          "url": "https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/2kZo01ECeedfL95z4zpVKf"
+    },
+    {
+      "album": {
         "name": "lean forward",
         "url": "https://open.spotify.com/album/22QvSMhfacTzmNNmvVkIOO"
       },
@@ -8553,6 +8629,24 @@
       "duration_ms": 270108,
       "name": "lean forward",
       "url": "https://open.spotify.com/track/6YXm0b3TVVGOz1K82ye05R"
+    },
+    {
+      "album": {
+        "name": "Lee Un Vile",
+        "url": "https://open.spotify.com/album/02yXEG4Pjz67C3pufDY2p7"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218769,
+      "name": "Lee Un Vile",
+      "url": "https://open.spotify.com/track/1W6OsVcIwmrfU8BQsiCDn2"
     },
     {
       "album": {
@@ -11073,7 +11167,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 231638,
       "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
       "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
@@ -11193,7 +11287,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 262786,
       "name": "Noize",
       "url": "https://open.spotify.com/track/0vcqwHfIOUeBZfz0GgEWvX"
@@ -11979,7 +12073,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 262523,
       "name": "Our Place",
       "url": "https://open.spotify.com/track/5NP138SXXvwjJUN9yhS1V1"
@@ -12941,7 +13035,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 226456,
       "name": "Railway",
       "url": "https://open.spotify.com/track/3fVcu9RJB3XyMxzDypFIJe"
@@ -15024,6 +15118,28 @@
     },
     {
       "album": {
+        "name": "Sometimes (Japanese Version)",
+        "url": "https://open.spotify.com/album/1IVZonSHa5osQ8hexgUrZH"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        },
+        {
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148727,
+      "name": "Sometimes - Japanese Version",
+      "url": "https://open.spotify.com/track/2eidpEU0z0adLL3l0cxWsh"
+    },
+    {
+      "album": {
         "name": "BAD\u30e2\u30fc\u30c9",
         "url": "https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij"
       },
@@ -16946,6 +17062,28 @@
     },
     {
       "album": {
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/4xTdNoSXzygD6vzyHw5Tlu"
+      },
+      "artists": [
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        },
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192700,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d"
+    },
+    {
+      "album": {
         "name": "Thinking",
         "url": "https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt"
       },
@@ -18610,6 +18748,24 @@
     },
     {
       "album": {
+        "name": "Whaleland",
+        "url": "https://open.spotify.com/album/2s1h6j9l3AZJ8yEXAbCy4W"
+      },
+      "artists": [
+        {
+          "name": "\u3068\u307e\u3068\u304f\u3089\u3076",
+          "url": "https://open.spotify.com/artist/6gvHiE41hsCPrljYaSoQ0P"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234517,
+      "name": "Whaleland",
+      "url": "https://open.spotify.com/track/7j5HLMGvve9kfOfWAtCkpB"
+    },
+    {
+      "album": {
         "name": "What the Hell",
         "url": "https://open.spotify.com/album/1qfBbSPj9GQjS8xNGyJqoN"
       },
@@ -18753,7 +18909,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 176810,
       "name": "Who are you ?",
       "url": "https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs"
@@ -20339,7 +20495,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 146931,
       "name": "\u30a2\u30f3\u30c0\u30fc\u30b6\u30b5\u30f3",
       "url": "https://open.spotify.com/track/2DvpmT2AdkIYMzjLJtDE5N"
@@ -20807,6 +20963,24 @@
       "duration_ms": 231895,
       "name": "\u30bf\u30a4\u30df\u30f3\u30b0\u3067\u3057\u3087 (feat. Awich)",
       "url": "https://open.spotify.com/track/5TsBHbTbAUNQmUtvpS4kDI"
+    },
+    {
+      "album": {
+        "name": "\u30bf\u30a4\u30e0\u30b9\u30ea\u30c3\u30d7\u3067\u304d\u306a\u3044",
+        "url": "https://open.spotify.com/album/3YKxhyBvBneyNLtDKdUWdK"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30e9\u30b3\u30eb\u30e0\u306e\u5c71\u3005",
+          "url": "https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262230,
+      "name": "\u30bf\u30a4\u30e0\u30b9\u30ea\u30c3\u30d7\u3067\u304d\u306a\u3044",
+      "url": "https://open.spotify.com/track/76Tz5SxVVaRSvduZZQj8lG"
     },
     {
       "album": {
@@ -21457,6 +21631,24 @@
       "duration_ms": 235814,
       "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
     },
     {
       "album": {
@@ -22449,7 +22641,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
@@ -23133,7 +23325,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 215853,
       "name": "\u6669\u9910\u6b4c",
       "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
@@ -23697,7 +23889,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 241920,
       "name": "\u7121\u9650\u3055",
       "url": "https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O"

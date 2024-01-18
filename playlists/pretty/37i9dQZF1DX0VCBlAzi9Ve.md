@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 
 > Let it simmer with some smooth R&amp;B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,022 likes - 25 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,038 likes - 25 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 | 24 | [Fiona Coyne](https://open.spotify.com/track/0dvS6gcGGKvXPWo0mC6UVP) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7) | 4:09 |
 | 25 | [Go Bang](https://open.spotify.com/track/7sPKwl78bZIhXuBZvOykFD) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang](https://open.spotify.com/album/6FhmsyMDKvnpHx8JgefrvC) | 11:04 |
 
-Snapshot ID: `MCw2ZWI2ZDlkNTg4MWQ0NzhjMGFiZjU4ODcyODk5YmQ4ZmVlYWYyNzA0`
+Snapshot ID: `MCxiOTg4MzFiOTc2ZjgwZGIxY2EyZjdhZjI4NDJkN2Y1MjdlODY2YTMz`

@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-304 songs - 1 day 2 hr 10 min
+305 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Biyogantok](https://open.spotify.com/track/7e4tE0wyLzVuzUPbUMCqR6) | [Tahsan](https://open.spotify.com/artist/69Tu9c0t0IOf0ipXnE74sQ) | [Biyogantok](https://open.spotify.com/album/4Zyvcf7CpmYATwEhAXGo3h) | 5:31 | 2022-06-16 | 2023-01-21 |
 | [Bohemian](https://open.spotify.com/track/5NpMLCD0QyN7k2N2iRyTjM) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Perfume](https://open.spotify.com/album/6CL5dmZep8ThOIisw1vWR7) | 4:00 | 2023-11-21 |  |
 | [Boka pakhi](https://open.spotify.com/track/5QFHN5g6tUuQGIsGFQyMjF) | [Shohojia](https://open.spotify.com/artist/7ImlbtGXKIeyQWQWOZuDtx) | [Rongmistree](https://open.spotify.com/album/6EBc74qFiapuYasuHvIL7k) | 5:51 | 2023-02-28 |  |
-| [Bondho Janala](https://open.spotify.com/track/5BJBaI4bpWHmiXqFadEpkM) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Bondho Janala](https://open.spotify.com/album/0ajkgxObOuVNXMzVEcvinC) | 4:03 | 2023-02-17 |  |
+| [Bondho Janala](https://open.spotify.com/track/5e6jBOUv3HLIpK0OLAFz3q) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Bondho Janala](https://open.spotify.com/album/0zhCDEUwpXeGDI7ukyRVH7) | 4:02 | 2023-11-21 |  |
+| [Bondho Janala](https://open.spotify.com/track/5BJBaI4bpWHmiXqFadEpkM) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Bondho Janala](https://open.spotify.com/album/0ajkgxObOuVNXMzVEcvinC) | 4:03 | 2023-02-17 | 2024-01-18 |
 | [Bonobibi](https://open.spotify.com/track/46pfDFfuuRkeSKsNMKtZO9) | [Meghdol](https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC), [Jahura Baul](https://open.spotify.com/artist/39od5TdWqtNPjiBaafbo00) | [Bonobibi](https://open.spotify.com/album/7CEYIYT7y1CaqMlPABZ2Be) | 7:08 | 2023-03-07 | 2023-08-01 |
 | [Bose Aachhi \(Bose Aachhi Eka\)](https://open.spotify.com/track/4PIrHcNo9aVhKrlk9hPOLG) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 6:39 | 2022-06-16 | 2023-07-14 |
 | [Brishti Bishad](https://open.spotify.com/track/7Ht9OcgLEX554nmCTPmBY4) | [Apekkhik](https://open.spotify.com/artist/6hKcote4x1CqI3zKSwSoBr) | [Brishti Bishad](https://open.spotify.com/album/6YhpOuXTXEukunKoENF3nb) | 5:44 | 2023-09-06 | 2023-11-22 |
@@ -128,8 +129,8 @@
 | [Haay Bhalobashi](https://open.spotify.com/track/3FyG3XJD5cUj4OfuyvYAgX) | [Moheen Ekhon O Bandhura](https://open.spotify.com/artist/2SsfiqiBkhdlHOrVI1ODT4) | [Haay Bhalobashi](https://open.spotify.com/album/5aMs2oQT8D5n4K8RsIu7Rr) | 6:39 | 2023-07-20 | 2023-08-24 |
 | [Hariye Jao](https://open.spotify.com/track/6yMqALZcV8hTlcM3ahWizp) | [Arbovirus](https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle) | [Montobbo Nishproyojon](https://open.spotify.com/album/1zUU2VDyuRFqyQEryaKnPi) | 5:51 | 2023-04-03 |  |
 | [Harmony \- TV Size](https://open.spotify.com/track/6SizagOQEpjnLYXI5UuQuB) | [Naveed and the Navlets](https://open.spotify.com/artist/2EFzFMXMmHCeIBq9JBxoqv) | [Harmony \(TV Size\)](https://open.spotify.com/album/2aafnsBObPenvOBKMAcWA4) | 2:12 | 2022-07-29 | 2022-09-24 |
-| [Hashimukh](https://open.spotify.com/track/08h86Mk3ypkQ9WxOPlOCLw) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Jahaji](https://open.spotify.com/album/3yYXr8O949PV7ZvDzhYaWJ) | 4:13 | 2023-04-03 | 2024-01-01 |
-| [Hashimukh](https://open.spotify.com/track/1cuKcsizpn8AQqbGejQRIy) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Jahaji](https://open.spotify.com/album/227lPdnap5pCquVunckF3R) | 4:14 | 2023-11-21 |  |
+| [Hashimukh](https://open.spotify.com/track/08h86Mk3ypkQ9WxOPlOCLw) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Jahaji](https://open.spotify.com/album/3yYXr8O949PV7ZvDzhYaWJ) | 4:13 | 2023-04-03 |  |
+| [Hashimukh](https://open.spotify.com/track/1cuKcsizpn8AQqbGejQRIy) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Jahaji](https://open.spotify.com/album/227lPdnap5pCquVunckF3R) | 4:14 | 2023-11-21 | 2024-01-18 |
 | [ISD](https://open.spotify.com/track/5NHklX2aJag4YCJndtjjci) | [Indalo](https://open.spotify.com/artist/37LGjqM0je1KNrLRD3MZ47) | [Kokhon Kibhabe Ekhane Ke Jane](https://open.spotify.com/album/7atnOE38HHe2eIHud4VvHP) | 3:59 | 2022-06-16 | 2023-08-08 |
 | [Jaatra](https://open.spotify.com/track/2RjwDQkqVgV58C8qVNCpiE) | [Minerva](https://open.spotify.com/artist/3phSuSjTMPcF9Tr02vbCnj) | [Biday Shongbidhan](https://open.spotify.com/album/7y5ZPwNhKHIvJ1n1JQa4lC) | 8:19 | 2023-04-03 | 2023-08-01 |
 | [Jadukar](https://open.spotify.com/track/6O8n8QgQwT7GobevUzeks7) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Perfume](https://open.spotify.com/album/6CL5dmZep8ThOIisw1vWR7) | 4:44 | 2023-04-28 |  |

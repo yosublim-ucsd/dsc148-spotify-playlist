@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 6129,
+  "2024-01-18": 6131,
   "date_first_scraped": "2022-05-30",
   "description": "Nh\u1eefng kh\u00fac nh\u1ea1c qu\u00ea h\u01b0\u01a1ng ng\u1ee3i ca v\u1ebb \u0111\u1eb9p Vi\u1ec7t Nam.",
   "name": "V\u1ec1 Qu\u00ea",
@@ -1541,10 +1541,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 235933,
       "name": "Qu\u00ea H\u01b0\u01a1ng M\u00f9a Xu\u00e2n",
       "url": "https://open.spotify.com/track/64gYBT1eCNEZMmmAoqSDMF"
+    },
+    {
+      "album": {
+        "name": "Qu\u00ea H\u01b0\u01a1ng M\u00f9a Xu\u00e2n",
+        "url": "https://open.spotify.com/album/1hXTY0mNUIHhJuSkMmYYmo"
+      },
+      "artists": [
+        {
+          "name": "Phi Nhung",
+          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236173,
+      "name": "Qu\u00ea H\u01b0\u01a1ng M\u00f9a Xu\u00e2n",
+      "url": "https://open.spotify.com/track/2nO4YY62Al4BYSMgL23W0x"
     },
     {
       "album": {

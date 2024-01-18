@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Zartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,885 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,969 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Offline](https://open.spotify.com/track/7Jpjui3BOS3fYqKYzddHm4) | [MOA](https://open.spotify.com/artist/1E7MNGR2FctfNRyFwWLcCY), [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Offline](https://open.spotify.com/album/2tZZnHcwcJsJ7NbSLKLaAd) | 3:30 |
 | 75 | [Kein Bock](https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Kein Bock](https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc) | 2:44 |
 
-Snapshot ID: `MCw3YjRiYTQ5NjkxYTFjYzcwNWFkZTE2MzBjMmU1ZDM5ZGNkNDRhNmY2`
+Snapshot ID: `MCw5NTY5MDIyMjY2NmZjYjA5NGI3ZjRlM2M1ZGMzNTA2ZWJmNTFlZmY1`

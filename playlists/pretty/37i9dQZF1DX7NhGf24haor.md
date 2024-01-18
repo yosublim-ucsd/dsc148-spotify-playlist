@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Warface
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,423 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,617 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 57 | [I Want It All](https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [I Want It All](https://open.spotify.com/album/5VqugzmPIecQ6AD9ld0hfe) | 3:02 |
 | 58 | [Turn Back Time](https://open.spotify.com/track/0WOCiT0nUUyoZh9WkTGlcI) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [Turn Back Time](https://open.spotify.com/album/4vOLCstrSL80j6yPFKJGhE) | 1:30 |
 | 59 | [Adrenaline Overload](https://open.spotify.com/track/1iD09eMQvJIxlT3ZaomPpx) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Adrenaline Overload](https://open.spotify.com/album/4Mfm6EyEDSRwVy2gFd5jr2) | 3:17 |
-| 60 | [Mr\. Navigator \- Ran\-D Remix](https://open.spotify.com/track/0rNwzVRzZezE1Gvm5t4yOF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Illuminate](https://open.spotify.com/album/0siiNG4cOdb59qGn0nbYSV) | 3:14 |
+| 60 | [Mr\. Navigator \- Ran\-D Remix](https://open.spotify.com/track/38pcNACe3G6rISaAJhZLaF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Mr\. Navigator \(Ran\-D Remix\)](https://open.spotify.com/album/5Osj39WDeIZo5QYkJBEZ3w) | 3:14 |
 | 61 | [Showtime](https://open.spotify.com/track/5ApSQ2eOhh7eOFTp5Mw2De) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Showtime](https://open.spotify.com/album/239bgutSkoo5MUDJfiYEzZ) | 2:53 |
 | 62 | [Doom](https://open.spotify.com/track/0qB75YRyYUpPFGw7SE6hvj) | [Xense](https://open.spotify.com/artist/4WBnZbV6k0m7JUs7TPjY2N) | [Doom](https://open.spotify.com/album/0Vy2y29ndcPbZsC9F2VLy0) | 3:36 |
 | 63 | [I Need You](https://open.spotify.com/track/6PbduKa4eIF4bOaDtQ11KO) | [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09) | [I Need You](https://open.spotify.com/album/4a4uWUzdRwbNThBT4X8Jt3) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [XTC](https://open.spotify.com/track/7yeMfRQjzbyUn3c9TV3KGh) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa), [Verox](https://open.spotify.com/artist/1YxEjbsVeq02klNTE7PFFD) | [XTC](https://open.spotify.com/album/1tWFh0S0BpKy0Ozpm2fBj4) | 2:42 |
 | 100 | [The Fallout](https://open.spotify.com/track/6gQN8T6FQdzXOnHMNRSOwT) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [The Fallout](https://open.spotify.com/album/73xvvycqNUu0WBmVF0AlEz) | 3:29 |
 
-Snapshot ID: `MCxmM2Y0MWU3MDY3MzVhMTI3Zjk2YzU5NDg4NWQ5YzRhNDM0ZDg2YmFh`
+Snapshot ID: `MCw2ZDczZmRiOTBkOTUwZTNkZjMyOGIxYWM5NDIxNzhiNGI5MTZiYzM2`

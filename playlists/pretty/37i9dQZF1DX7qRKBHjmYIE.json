@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Jesse Baez.",
-  "num_followers": 755498,
+  "num_followers": 755482,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjgwMWMxYTczNmMwODRkY2FjM2QwMzUwMjBlMmZjMmJhOWY1MTBi",
+  "snapshot_id": "MCxhMzUxYTAwNjBlYWY4ZGZjODNmMWQ3MDU3ODA0YTI0NzA0NDNiMGYz",
   "tracks": [
     {
       "added_at": "2024-01-12 16:29:20",
@@ -119,6 +119,30 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 175192,
+      "name": "ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1BT8gWiMLQvN7oPQHS8RSR"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
@@ -155,30 +179,6 @@
       "duration_ms": 276904,
       "name": "ME TENGO QUE IR",
       "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 175192,
-      "name": "ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1BT8gWiMLQvN7oPQHS8RSR"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
-        "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
-        "url": "https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 192922,
-      "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
-      "url": "https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
         "name": "Palabra Prohibida",
         "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 176881,
       "name": "Palabra Prohibida",
       "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
+        "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
+        "url": "https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 192922,
+      "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
+      "url": "https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
+        "name": "Ron En El Piso",
+        "url": "https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "duration_ms": 335111,
+      "name": "Ron En El Piso",
+      "url": "https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
         "name": "Lluvia: Rain City Vol.2",
         "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 205027,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/1RexoAXAuSgstu2LRsLuh8"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
-        "name": "Ron En El Piso",
-        "url": "https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        }
-      ],
-      "duration_ms": 335111,
-      "name": "Ron En El Piso",
-      "url": "https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
-        "name": "Live For Me",
-        "url": "https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Live For Me",
-      "url": "https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
         "name": "Coastin' (with Alem\u00e1n)",
         "url": "https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 244992,
       "name": "Coastin' (with Alem\u00e1n)",
       "url": "https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
+        "name": "Live For Me",
+        "url": "https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Live For Me",
+      "url": "https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
-        "name": "Me Quieres Mal",
-        "url": "https://open.spotify.com/album/0QDjsCyrCA0Imvb1HziKd9"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Me Quieres Mal",
-      "url": "https://open.spotify.com/track/6FgjyWp67Z4p3VMtR18cod"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
         "name": "Gualero REFF12.31",
         "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 201626,
       "name": "Gualero REFF12.31",
       "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
+        "name": "Me Quieres Mal",
+        "url": "https://open.spotify.com/album/0QDjsCyrCA0Imvb1HziKd9"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Me Quieres Mal",
+      "url": "https://open.spotify.com/track/6FgjyWp67Z4p3VMtR18cod"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 204067,
-      "name": "Habla Con Ella",
-      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
         "name": "de mi pa ti",
         "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
       },
@@ -555,22 +539,18 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
-        "name": "Pure Intentions",
-        "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
       },
       "artists": [
         {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        },
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 176879,
-      "name": "Pure Intentions (feat. Gabriella)",
-      "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
+      "duration_ms": 204067,
+      "name": "Habla Con Ella",
+      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -591,6 +571,26 @@
       "duration_ms": 145174,
       "name": "escribiendo TKM",
       "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
+        "name": "Pure Intentions",
+        "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7"
+        }
+      ],
+      "duration_ms": 176879,
+      "name": "Pure Intentions (feat. Gabriella)",
+      "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
-        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
-        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 130602,
-      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
-      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 222806,
       "name": "NOS SOLTAMOS chiliado",
       "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
+        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 130602,
+      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
-        "name": "GITANA",
-        "url": "https://open.spotify.com/album/1UTkauY9kjvbCZYWGe6NI6"
-      },
-      "artists": [
-        {
-          "name": "ENEZ 4R",
-          "url": "https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE"
-        },
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 173456,
-      "name": "GITANA",
-      "url": "https://open.spotify.com/track/2CNfYe3Kzyw2IDGTIssbXb"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 203999,
       "name": "WCID?",
       "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
+        "name": "GITANA",
+        "url": "https://open.spotify.com/album/1UTkauY9kjvbCZYWGe6NI6"
+      },
+      "artists": [
+        {
+          "name": "ENEZ 4R",
+          "url": "https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 173456,
+      "name": "GITANA",
+      "url": "https://open.spotify.com/track/2CNfYe3Kzyw2IDGTIssbXb"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
-        "name": "Nervios de Acero",
-        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Nervios de Acero",
-      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
         "name": "EN EL ESPACIO",
         "url": "https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 195750,
       "name": "Im\u00e1n",
       "url": "https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
+        "name": "Nervios de Acero",
+        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Nervios de Acero",
+      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -931,8 +931,8 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+        "name": "NO ME QUIERO PEGAR",
+        "url": "https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
         }
       ],
-      "duration_ms": 87296,
-      "name": "qu\u00e9 pas\u00f3? ya te olvidaste de mi?",
-      "url": "https://open.spotify.com/track/1uOr88IDFYAA3HR20LTBwW"
+      "duration_ms": 142349,
+      "name": "NO ME QUIERO PEGAR",
+      "url": "https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
-        "name": "NO ME QUIERO PEGAR",
-        "url": "https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0"
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
       },
       "artists": [
         {
@@ -1104,29 +1104,9 @@
           "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
         }
       ],
-      "duration_ms": 142349,
-      "name": "NO ME QUIERO PEGAR",
-      "url": "https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/0lIZplY0HUvE3jbBu8ZOQj"
-      },
-      "artists": [
-        {
-          "name": "Liana Malva",
-          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 160824,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/008S9w7s1NF1O3GmtUR6PX"
+      "duration_ms": 87296,
+      "name": "qu\u00e9 pas\u00f3? ya te olvidaste de mi?",
+      "url": "https://open.spotify.com/track/1uOr88IDFYAA3HR20LTBwW"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -1147,6 +1127,26 @@
       "duration_ms": 194545,
       "name": "egodeath",
       "url": "https://open.spotify.com/track/6NL6uKfXQRx4FlY7DCBPJn"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/0lIZplY0HUvE3jbBu8ZOQj"
+      },
+      "artists": [
+        {
+          "name": "Liana Malva",
+          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 160824,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/008S9w7s1NF1O3GmtUR6PX"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
-        "name": "GRANDE",
-        "url": "https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L"
-      },
-      "artists": [
-        {
-          "name": "Maria Blaya",
-          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
-        }
-      ],
-      "duration_ms": 148790,
-      "name": "DEMONIO",
-      "url": "https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
         "name": "No me siento vivo",
         "url": "https://open.spotify.com/album/1oUFkdvSYY3IJfoPS18Fpo"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2024-01-12 16:29:20",
       "album": {
+        "name": "GRANDE",
+        "url": "https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L"
+      },
+      "artists": [
+        {
+          "name": "Maria Blaya",
+          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
+        }
+      ],
+      "duration_ms": 148790,
+      "name": "DEMONIO",
+      "url": "https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
         "name": "luchador ep",
         "url": "https://open.spotify.com/album/3oaIJcAqtbu6NMzcpFgLk0"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 142153,
       "name": "luchador",
       "url": "https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ"
+    },
+    {
+      "added_at": "2024-01-12 16:29:20",
+      "album": {
+        "name": "D15BLO",
+        "url": "https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 169046,
+      "name": "D15BLO",
+      "url": "https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go"
     },
     {
       "added_at": "2024-01-12 16:29:20",
@@ -1311,22 +1327,6 @@
       "duration_ms": 202359,
       "name": "Barbed Wire",
       "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
-    },
-    {
-      "added_at": "2024-01-12 16:29:20",
-      "album": {
-        "name": "D15BLO",
-        "url": "https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 169046,
-      "name": "D15BLO",
-      "url": "https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go"
     },
     {
       "added_at": "2024-01-12 16:29:20",

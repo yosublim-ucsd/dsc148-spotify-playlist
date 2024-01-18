@@ -2,9 +2,9 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Solo artistas independientes, actualizada todos los miércoles\. Foto: ANADIE.
+> Solo artistas independientes, actualizada todos los miércoles\. Foto: Caro Raro.
 
-3,381 songs - 7 day 8 hr 22 min
+3,382 songs - 7 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1622,6 +1622,7 @@
 | [Llorando por ti](https://open.spotify.com/track/1qqR4Aw4DFFtxvswXGxAFA) | [Rayotaser](https://open.spotify.com/artist/3RsgNEOhNLBPaFb2kJ3jmL) | [Incendio](https://open.spotify.com/album/0ZPD20T5wyLzs6RE4rBJFD) | 3:36 | 2023-01-03 | 2023-01-11 |
 | [Llorando por Toda la Ciudad \- BSO La Amiga De Mi Amiga](https://open.spotify.com/track/4olDeTx5QvbU67r3GtvfpT) | [Masoniería](https://open.spotify.com/artist/1UbMj4wG1Mu9Aow0jxclpU) | [Llorando por Toda la Ciudad \(BSO La Amiga De Mi Amiga\)](https://open.spotify.com/album/5ej1ZTlc0SUBQTtb4kLlyN) | 2:09 | 2022-05-03 | 2022-05-18 |
 | [Llorar](https://open.spotify.com/track/5fY2LoTX0Kmr1Ev1uAATh6) | [Berta Garrido](https://open.spotify.com/artist/0b3CJB7N1FLeDhGil2jFYs), [Carzé](https://open.spotify.com/artist/3M3Ddgo6m1nm1YYcRfg58k) | [Llorar](https://open.spotify.com/album/0ZfojYajdx1wM9iipXz2E6) | 3:01 | 2023-05-30 | 2024-01-03 |
+| [llorar un milagro](https://open.spotify.com/track/7H8feeTCDCYejZDcjCGLF1) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [llorar un milagro](https://open.spotify.com/album/51MCcZSVFSgM8cqQcDmpON) | 3:23 | 2024-01-16 |  |
 | [llorá de casa](https://open.spotify.com/track/4wKjVCsrUPkK7OpDCs03VW) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [llorá de casa](https://open.spotify.com/album/6is0bLI11QvCbJfW6D5GiW) | 2:31 | 2024-01-02 | 2024-01-10 |
 | [Llover](https://open.spotify.com/track/7oBrOZXKV77QoXB93OJyEC) | [LucA](https://open.spotify.com/artist/7JfePUMHm5Tz3TYMDNL1IJ) | [Llover](https://open.spotify.com/album/7q7Xk6baSNbCH6MooARjUb) | 3:35 | 2022-01-26 | 2022-02-09 |
 | [Llueve](https://open.spotify.com/track/0k1MYaKJFvChRAm3dx8Ce5) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Llueve](https://open.spotify.com/album/5twgYHYuQrtXvOzrcTBKJ3) | 3:00 | 2023-01-10 | 2024-01-03 |

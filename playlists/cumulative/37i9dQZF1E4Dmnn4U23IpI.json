@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "'85 Again (feat. Miss K)",
       "url": "https://open.spotify.com/track/55ACS6JsMV0OXSaLswoIEw"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 266669,
       "name": "3am",
       "url": "https://open.spotify.com/track/6gAdfBqTb8sSYJWFaTz8Xr"
@@ -316,6 +316,24 @@
       "duration_ms": 229743,
       "name": "86'",
       "url": "https://open.spotify.com/track/1p1h49PKwqp2xNL5ytG61j"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/2giD891CtfBXRWjOnebbrt"
+      },
+      "artists": [
+        {
+          "name": "Coastal",
+          "url": "https://open.spotify.com/artist/7umjsMPsEt1MD3xXIVzZYw"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230992,
+      "name": "92",
+      "url": "https://open.spotify.com/track/7a5qWNyg1oRfayRUXX8QGW"
     },
     {
       "album": {
@@ -514,7 +532,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 246275,
       "name": "A Race Against Time",
       "url": "https://open.spotify.com/track/4J82fYpTaNU1G4kmtws3pw"
@@ -580,7 +598,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 273750,
       "name": "A Thousand Lives",
       "url": "https://open.spotify.com/track/2nY7wKet493bO7VNdeppXi"
@@ -2447,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Believer 'Deluxe'",
+        "url": "https://open.spotify.com/album/7Bl3XpCoNKwBXgftYaOMyN"
+      },
+      "artists": [
+        {
+          "name": "LAU",
+          "url": "https://open.spotify.com/artist/3i1ZPTMkrfR7cAHBY77Bz4"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198629,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0oQ5hJDlVS3PnmdNbffq3h"
+    },
+    {
+      "album": {
         "name": "Bend & Break",
         "url": "https://open.spotify.com/album/1ce4M8suREfo8SIZDkE1PY"
       },
@@ -2586,7 +2622,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 216774,
       "name": "Beta Girl Lost in Forever",
       "url": "https://open.spotify.com/track/0UnklwphmoX6I0kZJK8Gg7"
@@ -3724,7 +3760,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 211809,
       "name": "Change Your Heart or Die",
       "url": "https://open.spotify.com/track/7cP0fGIedXbesOFHF6mYQK"
@@ -3796,7 +3832,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 173901,
       "name": "City Life",
       "url": "https://open.spotify.com/track/7fwFqwOoj94VqixbEX2IGk"
@@ -4188,7 +4224,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 317109,
       "name": "Comet (Bonus Track)",
       "url": "https://open.spotify.com/track/4HHOLKcCb52sm5FCJWGU6u"
@@ -4318,6 +4354,24 @@
       "duration_ms": 256000,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/4AmgIcL9F0QcT4vw3h3mmO"
+    },
+    {
+      "album": {
+        "name": "Heartbeats",
+        "url": "https://open.spotify.com/album/4gZ3tAbJxq0dr0tGoGNXAD"
+      },
+      "artists": [
+        {
+          "name": "Coastal",
+          "url": "https://open.spotify.com/artist/7umjsMPsEt1MD3xXIVzZYw"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186034,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/0YPvsFexFb4OeS5uBiAyNS"
     },
     {
       "album": {
@@ -4898,7 +4952,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 257893,
       "name": "Dance With Somebody",
       "url": "https://open.spotify.com/track/5KTPybHCIBg51n52WpPAOn"
@@ -5214,7 +5268,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 251203,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/4ymsxpFvqFeYdNTxE0kHb4"
@@ -5383,6 +5437,28 @@
     },
     {
       "album": {
+        "name": "Deathtouch",
+        "url": "https://open.spotify.com/album/3zGwsVp2UZjM5O27Az5ZiQ"
+      },
+      "artists": [
+        {
+          "name": "Shadowrunner",
+          "url": "https://open.spotify.com/artist/1OYk49hKlmIoIdyr6WegVw"
+        },
+        {
+          "name": "jacket.",
+          "url": "https://open.spotify.com/artist/1WRSKgBDoWpIPJnDQvwPAt"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Deathtouch",
+      "url": "https://open.spotify.com/track/4Iagk9Ljp1dxNf1DGYdAz2"
+    },
+    {
+      "album": {
         "name": "Decades",
         "url": "https://open.spotify.com/album/3UkCZTzKKqJFzcpSt6eXLN"
       },
@@ -5434,7 +5510,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 237680,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/5gQ13Ix8QCTagOPUKPfDPn"
@@ -6750,7 +6826,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 220134,
       "name": "Echo",
       "url": "https://open.spotify.com/track/0JkiNoRYiGQBrK8W6LGH71"
@@ -7036,7 +7112,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 236311,
       "name": "End of the Night (feat. Doubleboy)",
       "url": "https://open.spotify.com/track/59q31baYiGMndSq261KEkq"
@@ -7538,7 +7614,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 235164,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/3Vit46aYIz4uq4HlfCoiX1"
@@ -8248,7 +8324,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 251120,
       "name": "Firewall",
       "url": "https://open.spotify.com/track/1U3AKD3FJ8xaeW69zjQVOW"
@@ -9220,7 +9296,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 289897,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/2R3v2gnBITuIi5yfuEHMnQ"
@@ -9238,7 +9314,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 253363,
       "name": "Glow",
       "url": "https://open.spotify.com/track/2W2r1y9k0NLA1GmzxHBBSM"
@@ -9274,7 +9350,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 237829,
       "name": "Glow With Me",
       "url": "https://open.spotify.com/track/5E6inss35EBnKUGuVqMVLo"
@@ -9620,7 +9696,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 191124,
       "name": "Halo",
       "url": "https://open.spotify.com/track/0ZWIL7Zodd33Zlp4MBnqDD"
@@ -10198,7 +10274,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 190960,
       "name": "Home",
       "url": "https://open.spotify.com/track/1RDX72amttjGAl62mEU293"
@@ -10702,7 +10778,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 283218,
       "name": "I Recall (feat. Preston Knight)",
       "url": "https://open.spotify.com/track/7twMy6xI9y6KeQAuYTtDYt"
@@ -11740,7 +11816,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 64864,
       "name": "Introspect",
       "url": "https://open.spotify.com/track/7oKUxSqOBSqzJwy4sRRS7o"
@@ -12096,7 +12172,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 251329,
       "name": "Juliette",
       "url": "https://open.spotify.com/track/3Qaq3lUUawG3MEWvRcNBcx"
@@ -12612,6 +12688,24 @@
       "duration_ms": 242842,
       "name": "Last Path",
       "url": "https://open.spotify.com/track/6g8EEkAjIuJ56RLKKgHpKT"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/2giD891CtfBXRWjOnebbrt"
+      },
+      "artists": [
+        {
+          "name": "Coastal",
+          "url": "https://open.spotify.com/artist/7umjsMPsEt1MD3xXIVzZYw"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Last Sundown",
+      "url": "https://open.spotify.com/track/5lQnoKbZgUtf9ai87GlGgY"
     },
     {
       "album": {
@@ -13430,7 +13524,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 314047,
       "name": "Lonely City",
       "url": "https://open.spotify.com/track/0ZUwlo0moIZ9FsRHJMA4g1"
@@ -13560,7 +13654,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 389094,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh"
@@ -13614,7 +13708,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 223899,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/1pZvdgGtNGE15WaR9OFAfo"
@@ -13726,7 +13820,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 210293,
       "name": "Lost in the Desert Sky",
       "url": "https://open.spotify.com/track/58GQfb283AC35toUvifQK2"
@@ -14584,7 +14678,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 272196,
       "name": "Midnight Sky",
       "url": "https://open.spotify.com/track/2f9zFwFw9Cckaz1IPp8w3u"
@@ -15044,7 +15138,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 197933,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/7t1fRN6WbAmFY0YtuiuX7a"
@@ -15084,7 +15178,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 132991,
       "name": "Moon Kiss",
       "url": "https://open.spotify.com/track/0cTAWy8cAzSDFM4BueQfht"
@@ -15232,7 +15326,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 150810,
       "name": "Muscle Beach",
       "url": "https://open.spotify.com/track/5UhUc0uhz2TJdwG4XTVwGD"
@@ -15432,7 +15526,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 148285,
       "name": "Negotiation's Over",
       "url": "https://open.spotify.com/track/19Oy2pBYfpz7OhraQQgUn8"
@@ -15494,7 +15588,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 212307,
       "name": "Neon Artery",
       "url": "https://open.spotify.com/track/4IqLCkdTQUl4tYb389pcSy"
@@ -15606,7 +15700,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 253220,
       "name": "Neon Medusa - Edit",
       "url": "https://open.spotify.com/track/7y1WaVLlJHSpkn3Libyq7r"
@@ -16062,7 +16156,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 211435,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/5uqnPy6biJaQFZwdwYfvhH"
@@ -16138,7 +16232,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 184573,
       "name": "Night Skies",
       "url": "https://open.spotify.com/track/2NKPXLNPfa7jHQHl250iPz"
@@ -16236,7 +16330,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 248640,
       "name": "Nightdrive",
       "url": "https://open.spotify.com/track/4F00BHvoYuKwWjBMOEqX3L"
@@ -16294,7 +16388,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 228630,
       "name": "Nighthawks",
       "url": "https://open.spotify.com/track/45B3i2YN4kvLAcVhc0BOIR"
@@ -16568,7 +16662,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 221250,
       "name": "Northern",
       "url": "https://open.spotify.com/track/5B3QrOs5AyNbLDxcocXZxR"
@@ -16912,7 +17006,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 228386,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/2JNg5UUZoPV3oJM2C7Xudd"
@@ -16966,7 +17060,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 147428,
       "name": "Ocean Overdrive",
       "url": "https://open.spotify.com/track/2RGSulTMkq10uHynDDDFXb"
@@ -17810,6 +17904,32 @@
       "duration_ms": 168196,
       "name": "Pacific",
       "url": "https://open.spotify.com/track/7GquhXbN1S2Av7L3GnmwVK"
+    },
+    {
+      "album": {
+        "name": "Pacific Coast Heartbreak (Sunglasses Kid 90's Remix)",
+        "url": "https://open.spotify.com/album/2TPMwznQZtJ7DWA6TyFLbd"
+      },
+      "artists": [
+        {
+          "name": "All The Damn Vampires",
+          "url": "https://open.spotify.com/artist/2U0OKMms9WuTVQztib78cH"
+        },
+        {
+          "name": "Mint Simon",
+          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
+        },
+        {
+          "name": "Sunglasses Kid",
+          "url": "https://open.spotify.com/artist/0jn6ofLtVkXpuH2mmV8J82"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261125,
+      "name": "Pacific Coast Heartbreak (Sunglasses Kid 90's Remix)",
+      "url": "https://open.spotify.com/track/7I9JjeqRLFSH1dB2708LEZ"
     },
     {
       "album": {
@@ -18882,7 +19002,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "Recognise",
       "url": "https://open.spotify.com/track/2Q8Mjv7sGqOwwG5lJVwE9N"
@@ -20312,7 +20432,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 261230,
       "name": "Sensual",
       "url": "https://open.spotify.com/track/1iQAU5rssr0ogNzPbL8af9"
@@ -20395,6 +20515,24 @@
     },
     {
       "album": {
+        "name": "Modern Life",
+        "url": "https://open.spotify.com/album/2YiYC2VjjfvdREOWvJqQpU"
+      },
+      "artists": [
+        {
+          "name": "The New Division",
+          "url": "https://open.spotify.com/artist/1Cb9Edoxp02mgY0VWVlwQo"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199056,
+      "name": "Sequence",
+      "url": "https://open.spotify.com/track/3bV9Oboi0viDEV5S39z22l"
+    },
+    {
+      "album": {
         "name": "Ser\u00e1",
         "url": "https://open.spotify.com/album/2MdAd8UJ1IalxlkcqGVFWo"
       },
@@ -20460,7 +20598,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 230807,
       "name": "Sex in a Dream",
       "url": "https://open.spotify.com/track/3bVCyM5RtJ2MSDB6XHdWOF"
@@ -21076,7 +21214,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 202758,
       "name": "Skylights (Efence Remix)",
       "url": "https://open.spotify.com/track/4IrCbKdrdJFhYFuJRZ3LDu"
@@ -22448,7 +22586,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 199058,
       "name": "Stunning",
       "url": "https://open.spotify.com/track/4Er3sEJvGFGUhkLHG74qXQ"
@@ -22574,7 +22712,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 251400,
       "name": "Summer Drive",
       "url": "https://open.spotify.com/track/449p16OlbFYMvPQNrp1hFW"
@@ -22671,6 +22809,28 @@
     },
     {
       "album": {
+        "name": "The Stranger",
+        "url": "https://open.spotify.com/album/3NdsgKf6ppDXPF6wSfm3KK"
+      },
+      "artists": [
+        {
+          "name": "Shadowrunner",
+          "url": "https://open.spotify.com/artist/1OYk49hKlmIoIdyr6WegVw"
+        },
+        {
+          "name": "Primo the Alien",
+          "url": "https://open.spotify.com/artist/7o6eNB8kc6HQbWbtOqrCfO"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285967,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/0PNrWmqihfyaSvXQ9lolUB"
+    },
+    {
+      "album": {
         "name": "Alleged Piranha",
         "url": "https://open.spotify.com/album/1ondBuF3pda3myMRaa6San"
       },
@@ -22736,7 +22896,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 201606,
       "name": "Sunset Boulevard",
       "url": "https://open.spotify.com/track/7uOZo8sNyjMJXsz718jhra"
@@ -22986,7 +23146,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 199669,
       "name": "Synthetic",
       "url": "https://open.spotify.com/track/5y72MBQ0z2YszChIGxx4gc"
@@ -23696,7 +23856,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 214956,
       "name": "The Cards",
       "url": "https://open.spotify.com/track/1yhvDqUtn7yWEx5aLq6o0Y"
@@ -23822,7 +23982,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 220758,
       "name": "The Deepest Blue (Dance with the Dead Remix)",
       "url": "https://open.spotify.com/track/56C4hFDqiaQgpBMXeh2Z4C"
@@ -23916,7 +24076,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 229014,
       "name": "The Equaliser (Not Alone)",
       "url": "https://open.spotify.com/track/0hy26hhVBNp0X87ENwuhfX"
@@ -25696,7 +25856,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 317228,
       "name": "Vampires",
       "url": "https://open.spotify.com/track/1K0urJwRWgKsdufGEdkXP7"
@@ -26708,7 +26868,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 217537,
       "name": "When Summer Ends",
       "url": "https://open.spotify.com/track/5TeIIIiALv9m2bkn9UlEfA"
@@ -26838,7 +26998,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 274219,
       "name": "Who You Run To",
       "url": "https://open.spotify.com/track/7gJyqHkm6sCcagFvyat3zC"
@@ -27296,6 +27456,24 @@
       "duration_ms": 269999,
       "name": "You're the One for Me - Digital Farm Animals Remix",
       "url": "https://open.spotify.com/track/5T2iobXGYEI9TdrJ4Du6QN"
+    },
+    {
+      "album": {
+        "name": "Beyond Stars",
+        "url": "https://open.spotify.com/album/6I52BK8DHS8PjWUC56pHRX"
+      },
+      "artists": [
+        {
+          "name": "Syst3m Glitch",
+          "url": "https://open.spotify.com/artist/3YR4n0Nb9NI0kgh2HqfuBh"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Young and Wild and Free",
+      "url": "https://open.spotify.com/track/5xNd9bxLnuYkrBUsomTivK"
     },
     {
       "album": {

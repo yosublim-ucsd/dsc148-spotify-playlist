@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 82519,
+  "2024-01-18": 82600,
   "date_first_scraped": "2022-06-20",
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
   "name": "Jazz Guitar Classics",
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 354373,
       "name": "Never Will I Marry",
       "url": "https://open.spotify.com/track/5U5dQkH5I16AkPx0OrR9JQ"
@@ -1773,6 +1773,32 @@
       "duration_ms": 448413,
       "name": "Rumspringa",
       "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
+    },
+    {
+      "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/5Kkxnyzd7BJ1MGCx0itIH4"
+      },
+      "artists": [
+        {
+          "name": "Ben Street",
+          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        },
+        {
+          "name": "Lage Lund",
+          "url": "https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448413,
+      "name": "Rumspringa",
+      "url": "https://open.spotify.com/track/7moyBSRfjuR0sKUver4dIq"
     },
     {
       "album": {

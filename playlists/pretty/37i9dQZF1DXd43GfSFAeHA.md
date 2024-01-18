@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Lege\-Cy
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,504 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,535 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 38 | [Lamouni](https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Lamouni](https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf) | 3:22 |
 | 39 | [Klashat](https://open.spotify.com/track/1gk3xYnAX39GZp6pKJYCgb) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Doppler](https://open.spotify.com/album/04m1uvsNNz7rofzN2SE37N) | 2:25 |
 | 40 | [KALBI](https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95) | [KALBI](https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt) | 2:45 |
-| 41 | [Algham](https://open.spotify.com/track/2omOoA2OZT6WknldqlJIJj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Algham](https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb) | 2:47 |
-| 42 | [Talkie](https://open.spotify.com/track/0HZIFkazJb3MzdJ2G7FSIB) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Talkie](https://open.spotify.com/album/3pBrKbB4kPkqRfut3NY44Z) | 3:29 |
+| 41 | [Talkie](https://open.spotify.com/track/0HZIFkazJb3MzdJ2G7FSIB) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Talkie](https://open.spotify.com/album/3pBrKbB4kPkqRfut3NY44Z) | 3:29 |
+| 42 | [Algham](https://open.spotify.com/track/2omOoA2OZT6WknldqlJIJj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Algham](https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb) | 2:47 |
 | 43 | [Seven Bullets](https://open.spotify.com/track/5dU7mZmnQyaUxHlEQwtWM9) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Seven Bullets](https://open.spotify.com/album/4OErllJqRh7wBvsIzqQmjg) | 8:04 |
 | 44 | [De Bruyne](https://open.spotify.com/track/6qK6hM0N1zVfdoUMc1xJnx) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Manchester City](https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt) | 2:29 |
 | 45 | [Leh Nehzar](https://open.spotify.com/track/0vE3QsIZEyespCVUntPOa9) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Leila](https://open.spotify.com/album/0apSvBI2Dw5KWkIKdBPFSJ) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 49 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 |
 | 50 | [Influenza](https://open.spotify.com/track/2UMihK8hP5rBZjw4iXDrvi) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Influenza](https://open.spotify.com/album/0cfaz8h3V5bYOFcvFYaY7M) | 3:34 |
 
-Snapshot ID: `MCxkNTA4OGFmYjk5MWNhNDc1NWE1MzVkMWFhNjk2Y2I5ODhkMzE5M2Fj`
+Snapshot ID: `MCxmNDFkMWQ1YWM2YWQyNmNmOTk2MGZmMzE2OTk1ZDI0MzU3ZjAxZGY1`

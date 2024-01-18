@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 184156,
+  "num_followers": 184098,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGJiZGVhNDE2MzUwMTA2M2EyY2EzZGU2ODFhOWMyNjQwZmFhODNj",
+  "snapshot_id": "MCxhZmJhMTM3M2QwNzBmNzY0MWE3NzQ5NGNhZDg3YTFjYjhiYTA5ZjFl",
   "tracks": [
     {
       "added_at": "2023-11-27 15:49:49",
@@ -311,8 +311,8 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "If We Make It Through December",
-        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
+        "name": "So Much Wine",
+        "url": "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 179074,
-      "name": "If We Make It Through December",
-      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
+      "duration_ms": 243600,
+      "name": "So Much Wine",
+      "url": "https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Waiting to Spill",
         "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
       },
@@ -423,8 +407,24 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "So Much Wine",
-        "url": "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "If We Make It Through December",
+        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 243600,
-      "name": "So Much Wine",
-      "url": "https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF"
+      "duration_ms": 179074,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Phrazes For The Young",
-        "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
-      },
-      "artists": [
-        {
-          "name": "Julian Casablancas",
-          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Christmas Treat",
-      "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Transatlanticism (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 246373,
       "name": "The New Year",
       "url": "https://open.spotify.com/track/4nPNsnv4QEiIzihzCU5zHH"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Phrazes For The Young",
+        "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
+      },
+      "artists": [
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "Christmas Treat",
+      "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "That Was the Worst Christmas Ever!",
-      "url": "https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "New Moon",
         "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 157360,
       "name": "Angel In The Snow",
       "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "That Was the Worst Christmas Ever!",
+      "url": "https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "A Very Lonely Solstice",
+        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "I'm Not My Season - Solstice Version",
+      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
         "url": "https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 297973,
       "name": "Christmas in Prison (feat. John Prine)",
       "url": "https://open.spotify.com/track/4rTSdrqqsxbS3E6rU6tUQl"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "A Very Lonely Solstice",
-        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "I'm Not My Season - Solstice Version",
-      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 139600,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -911,22 +911,6 @@
       "duration_ms": 296673,
       "name": "Mama It's Christmas",
       "url": "https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Snow Song",
-      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -979,6 +963,22 @@
       "duration_ms": 176583,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 139600,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
     },
     {
       "added_at": "2023-10-16 19:34:42",

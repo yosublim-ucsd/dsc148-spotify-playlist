@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,636 likes - 46 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,742 likes - 46 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 23 | [I Don't Know](https://open.spotify.com/track/59K4PhnglJahRrNs6lu83D) | [Born Free](https://open.spotify.com/artist/3EcPBdr1pRn1jc3ePUL7qO) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 4:30 |
 | 24 | [Heavy Heavy Heavy](https://open.spotify.com/track/5PD8YhpV4a0BhMjwo0QVsx) | [Geraldo Pino](https://open.spotify.com/artist/6aUmoNP3dS6an1wvsfK7vg), [The Heartbeats](https://open.spotify.com/artist/4MxxWlqPodeCP8CqrT6Jps) | [Afro\-Rock Vol\. 1](https://open.spotify.com/album/46ZQZkK27RoM56LLt8xkSY) | 6:33 |
 | 25 | [Meritlhoana](https://open.spotify.com/track/2f3GwbaQBMbSrFFx0XzCfq) | [Morena Leraba](https://open.spotify.com/artist/2aUErDeR4aoZDvy9ZYMhzO) | [Meritlhoana](https://open.spotify.com/album/2BzAIEggWAPQPn6sZm2b7q) | 7:11 |
-| 26 | [Free My People](https://open.spotify.com/track/4ZFYxhJFIxKjqW1YPRcsdW) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/5cAnTtPDJreMWuuUlmQQuz) | 4:52 |
+| 26 | [Free My People](https://open.spotify.com/track/3nl8DKWk06tn3aC7McNxth) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/65VRkb7Fx6EYccDop2dT2z) | 4:52 |
 | 27 | [Spoons](https://open.spotify.com/track/4XEQqy7GlKVKKoC34yE0RU) | [Malian Musicians](https://open.spotify.com/artist/4enlUH42adijJsJemKLIrz), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Mali Music](https://open.spotify.com/album/40ncJvz2FvF1Z4EvpE3vU9) | 5:19 |
 | 28 | [Ya Habibti \- Tommy T Remix](https://open.spotify.com/track/1hYgxWzno6oAs0wJMie83h) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94), [Tommy T](https://open.spotify.com/artist/7neF7fwkFK8Sz9Zp8iDwLE) | [Afrique Refait](https://open.spotify.com/album/60uhkJ0Jj8yrnk6YRpCJKl) | 5:26 |
 | 29 | [You Better Know](https://open.spotify.com/track/3eDKAKSjpTFVESPkMlfNXa) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:30 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 45 | [In The Jungle \(Instrumental\)](https://open.spotify.com/track/4Maj54gxqVxtDkV7NVhuGA) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [Keep On Moving](https://open.spotify.com/album/5FdJf2mAyJnQ6h7eoC8alN) | 3:08 |
 | 46 | [You Are My Heart](https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 3:13 |
 
-Snapshot ID: `MCwzN2Y3YzdhZTg3MGZlNzVlYjMzZmQ3MTEyNzM1MTE3ZGRjNjhlMzAz`
+Snapshot ID: `MCxkMTg2NDdjYWZhMzY3YWU4NzAzNGU5MmNjM2NhZDVjZDY1ZmRjYzZh`

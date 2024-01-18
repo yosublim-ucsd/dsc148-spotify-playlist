@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 131427,
+  "num_followers": 131429,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzY0NWY3YzJkOTNlNDgxODkwYWUwYzNkZDE4MjY5YjRlNmUzZDQ3",
+  "snapshot_id": "MCxkYjZmNTVmMzMyMjlmNmYxNWRhNzIxNmUxNGU1NmI0MmJhNTk3M2Uw",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -131,26 +131,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Box Natiruts",
-        "url": "https://open.spotify.com/album/6H7aEzVGlXJlMXfcZml7vP"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        },
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
-        }
-      ],
-      "duration_ms": 332653,
-      "name": "Sorri, Sou Rei (feat. Claudia Leitte)",
-      "url": "https://open.spotify.com/track/4UChhDCTtneR0QXN0btEmz"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Brazilian Soul (feat. Sofi Tukker) [Remixes]",
         "url": "https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 250934,
       "name": "Brazilian Soul (feat. Sofi Tukker) - Acoustic Bossa Version",
       "url": "https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Box Natiruts",
+        "url": "https://open.spotify.com/album/6H7aEzVGlXJlMXfcZml7vP"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "duration_ms": 332653,
+      "name": "Sorri, Sou Rei (feat. Claudia Leitte)",
+      "url": "https://open.spotify.com/track/4UChhDCTtneR0QXN0btEmz"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -281,7 +281,7 @@
         }
       ],
       "duration_ms": 294049,
-      "name": "Mantra (feat. Emicida)",
+      "name": "Mantra",
       "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
     },
     {
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Te Amo L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Decis\u00e3o de Te Amar",
-      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Sujeito Homem 2",
         "url": "https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 435141,
       "name": "Rap du Bom Parte II - M\u00fas. Incid.: Odara",
       "url": "https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Te Amo L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Decis\u00e3o de Te Amar",
+      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Bonita y Triste",
-        "url": "https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 216745,
-      "name": "Bonita y Triste",
-      "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Bossatrap",
         "url": "https://open.spotify.com/album/1mQRelSZ2JllBKN7esf5hR"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 186653,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/6MxAvGQdLQEsGQ4ZqxKW7Q"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Bonita y Triste",
+        "url": "https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 216745,
+      "name": "Bonita y Triste",
+      "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
     },
     {
       "added_at": "2023-06-23 03:00:00",

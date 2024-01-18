@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2023\. See you on the dancefloor.
 
-214 songs - 13 hr 20 min
+215 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Plastic Smiling](https://open.spotify.com/track/2Ns6oTwpUGA9zdcS6BEwU7) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Plastic Smiling](https://open.spotify.com/album/4bEqr1qELvLFgTUm1LIQFP) | 2:57 | 2022-08-26 | 2023-04-05 |
 | [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 | 2023-04-04 | 2024-01-05 |
 | [Poison](https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Poison](https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6) | 3:26 | 2022-08-26 | 2023-04-05 |
-| [Pump](https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Pump](https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI) | 3:45 | 2023-07-12 |  |
+| [Pump](https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Pump](https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI) | 3:45 | 2023-07-12 | 2024-01-18 |
 | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb) | 3:01 | 2023-04-04 |  |
 | [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 | 2023-04-04 | 2023-07-13 |
 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 | 2022-08-26 |  |
@@ -183,6 +183,7 @@
 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 | 2022-08-26 | 2023-05-20 |
 | [Sinner](https://open.spotify.com/track/3LqnR4dZYdZoaVivSIidKH) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/3GTekC6u6cCRqbJtSzsqdT) | 3:58 | 2023-06-02 | 2023-06-14 |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-05-19 |  |
+| [Somebody That I Used To Know](https://open.spotify.com/track/6h49997adA3XWCX9zMQKbX) | [James Cole](https://open.spotify.com/artist/4uRl0LZUcciuN8tfRQ3LRM), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Darcey](https://open.spotify.com/artist/1IyvLQeDemCIamKknyLlqM), [Simon Ellis](https://open.spotify.com/artist/1DAMauM73heAOiZnKAYVrn) | [Somebody That I Used To Know](https://open.spotify.com/album/39NzRuUBQwITknLiseKkXN) | 3:52 | 2023-10-19 |  |
 | [Somebody To Love \- Gorgon City Remix](https://open.spotify.com/track/4gJMsAYnnwNBsrhqjLWbWi) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Somebody To Love \(Gorgon City Remix\)](https://open.spotify.com/album/2Nt3fFGjvlgERESi1QtPjW) | 4:42 | 2022-08-26 | 2023-04-05 |
 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-06-30 |  |
 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 | 2022-08-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 49731,
+  "num_followers": 49753,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODNhMzJiZDdhNzkyMzE0YTMyN2Q4NjRlNTFmNDg3ZTRiYzFkN2Y1",
+  "snapshot_id": "MCwzNmVjZDFjYWJkMDU3MGI3MDM4YmQ1NmY5MzQ5OGMzZDJmNDk1NTMx",
   "tracks": [
     {
       "added_at": "2023-11-24 17:03:40",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Ms. Fat Booty",
+      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 182532,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
-        "name": "Black On Both Sides",
-        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
-      },
-      "artists": [
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Ms. Fat Booty",
-      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
+        "name": "BLAME IT ON BABY (DELUXE)",
+        "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "BLIND (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/2T5NBwKRySiCR78vVk08vr"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 174862,
       "name": "Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)",
       "url": "https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
-        "name": "BLAME IT ON BABY (DELUXE)",
-        "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "BLIND (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/2T5NBwKRySiCR78vVk08vr"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -2351,22 +2351,18 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "No Distractions",
-        "url": "https://open.spotify.com/album/3axNoaSEpTM4Wr4TQt7Ut6"
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
       },
       "artists": [
         {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         }
       ],
-      "duration_ms": 179377,
-      "name": "No Distractions",
-      "url": "https://open.spotify.com/track/7tmlt7mrxRcss23czKZTMF"
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     }
   ],
   "unique_name": "No corre",

@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 600265,
+  "num_followers": 600359,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmU1N2ZkZTQyNzYwYWQ2MTFmOTI4MWY4NjE4YmI1NGZlZTQyNzc1",
+  "snapshot_id": "MCxiYzJiZGFlOGU2YjMyNmY3OGRlYWRiMDY2M2QyMzI0MjhmYzc2MmJi",
   "tracks": [
     {
       "added_at": "2023-02-18 03:29:19",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Just Be Held",
-      "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Changed",
         "url": "https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 181733,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6sToW2vF0y8ZEXuHoMQob9"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Just Be Held",
+      "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -659,22 +659,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Lead Us Back: Songs of Worship",
-        "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
       "artists": [
         {
-          "name": "Third Day",
-          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
-        },
-        {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
         }
       ],
-      "duration_ms": 197706,
-      "name": "Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters)",
-      "url": "https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B"
+      "duration_ms": 236200,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -699,18 +695,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Love Remains",
-        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+        "name": "Lead Us Back: Songs of Worship",
+        "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
       },
       "artists": [
         {
-          "name": "Hillary Scott & The Scott Family",
-          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+          "name": "Third Day",
+          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
+        },
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Thy Will",
-      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+      "duration_ms": 197706,
+      "name": "Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters)",
+      "url": "https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -883,6 +883,30 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Shout to the Lord (Live)",
+        "url": "https://open.spotify.com/album/1oAH2mzkbV5UY9FvloQVHa"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Integrity's Hosanna! Music",
+          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+        },
+        {
+          "name": "Darlene Zschech",
+          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Shout to the Lord - Live",
+      "url": "https://open.spotify.com/track/52mdbM1tueoC8UnYvZ9uTX"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Hope In Front of Me",
         "url": "https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M"
       },
@@ -911,30 +935,6 @@
       "duration_ms": 250626,
       "name": "At The Cross (Love Ran Red)",
       "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Shout to the Lord (Live)",
-        "url": "https://open.spotify.com/album/1oAH2mzkbV5UY9FvloQVHa"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Integrity's Hosanna! Music",
-          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
-        },
-        {
-          "name": "Darlene Zschech",
-          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Shout to the Lord - Live",
-      "url": "https://open.spotify.com/track/52mdbM1tueoC8UnYvZ9uTX"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Christ In Me",
-      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Passion: Let The Future Begin",
         "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 339493,
       "name": "In Christ Alone - Live",
       "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Christ In Me",
+      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
       "artists": [
         {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
         }
       ],
-      "duration_ms": 183706,
-      "name": "My Feet Are on the Rock",
-      "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
+      "duration_ms": 226293,
+      "name": "You",
+      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
         }
       ],
-      "duration_ms": 226293,
-      "name": "You",
-      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
+      "duration_ms": 183706,
+      "name": "My Feet Are on the Rock",
+      "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "These Simple Truths",
-        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
-      },
-      "artists": [
-        {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "The Words I Would Say",
-      "url": "https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Adoration",
         "url": "https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 295400,
       "name": "He Reigns",
       "url": "https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "These Simple Truths",
+        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "The Words I Would Say",
+      "url": "https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS"
     },
     {
       "added_at": "2023-02-18 03:29:19",

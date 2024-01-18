@@ -1,47 +1,31 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 717579,
+  "num_followers": 717740,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODBjM2E4ZDVjNmVmYTY2YjA5NWE5MDk1NDlkMTYzZjNiZjRmN2M1",
+  "snapshot_id": "MCwzMmQ0M2YyMDc3MjVmNGM0M2I3MGY4ZWRkMDUyMWFjNmJkYWZjYTIw",
   "tracks": [
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
-        "name": "L'aventurier",
-        "url": "https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6"
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
       },
       "artists": [
         {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+          "name": "Jean Schultheis",
+          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
         }
       ],
-      "duration_ms": 231960,
-      "name": "L'aventurier",
-      "url": "https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9"
+      "duration_ms": 286533,
+      "name": "Confidence pour confidence - Version originale 1981",
+      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 HITS",
-        "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
-      },
-      "artists": [
-        {
-          "name": "Michael Sembello",
-          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Maniac - From \"Flashdance\"",
-      "url": "https://open.spotify.com/track/4owSXetN7Yeq8h3ppIPdkF"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
@@ -65,39 +49,7 @@
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
-      },
-      "artists": [
-        {
-          "name": "Jean Schultheis",
-          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "Confidence pour confidence - Version originale 1981",
-      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "80s 100 Hits",
-        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "I'm So Excited",
-      "url": "https://open.spotify.com/track/53NWOfQXdEmbHqg5FGeXlG"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Le son des ann\u00e9es 80",
         "url": "https://open.spotify.com/album/4cQIJjzFnwSFIQjz3MFkol"
@@ -113,71 +65,7 @@
       "url": "https://open.spotify.com/track/0S4dVpqBLnBFj4wdB4UDMd"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Hunting High and Low",
-        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Femme Lib\u00e9r\u00e9e",
-        "url": "https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi"
-      },
-      "artists": [
-        {
-          "name": "Cookie Dingler",
-          "url": "https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Femme lib\u00e9r\u00e9e",
-      "url": "https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Le coup de folie",
-        "url": "https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K"
-      },
-      "artists": [
-        {
-          "name": "Thierry Pastor",
-          "url": "https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH"
-        }
-      ],
-      "duration_ms": 217135,
-      "name": "Le coup de folie",
-      "url": "https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb"
@@ -193,55 +81,23 @@
       "url": "https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+        "name": "Femme Lib\u00e9r\u00e9e",
+        "url": "https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Cookie Dingler",
+          "url": "https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG"
         }
       ],
-      "duration_ms": 252560,
-      "name": "Part-Time Lover",
-      "url": "https://open.spotify.com/track/7fjcn8o8kZuPBW2WvFxXVQ"
+      "duration_ms": 221440,
+      "name": "Femme lib\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Le Train De Mes Souvenirs",
-        "url": "https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9"
-      },
-      "artists": [
-        {
-          "name": "Gold",
-          "url": "https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Plus pr\u00e8s des \u00e9toiles",
-      "url": "https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -257,55 +113,151 @@
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
-        "name": "CD STory",
-        "url": "https://open.spotify.com/album/5dEIRCOVxzcofxlQ7jF8EZ"
+        "name": "Le coup de folie",
+        "url": "https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K"
       },
       "artists": [
         {
-          "name": "Gilbert Montagn\u00e9",
-          "url": "https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu"
+          "name": "Thierry Pastor",
+          "url": "https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH"
         }
       ],
-      "duration_ms": 244333,
-      "name": "On va s'aimer",
-      "url": "https://open.spotify.com/track/7bVOm16UuDoDGg3LqnywlH"
+      "duration_ms": 217135,
+      "name": "Le coup de folie",
+      "url": "https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 242733,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 HITS",
+        "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+      "duration_ms": 246000,
+      "name": "Maniac - From \"Flashdance\"",
+      "url": "https://open.spotify.com/track/4owSXetN7Yeq8h3ppIPdkF"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "80s 100 Hits",
+        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/53NWOfQXdEmbHqg5FGeXlG"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "L'aventurier",
+        "url": "https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 231960,
+      "name": "L'aventurier",
+      "url": "https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "Hunting High and Low",
+        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252560,
+      "name": "Part-Time Lover",
+      "url": "https://open.spotify.com/track/7fjcn8o8kZuPBW2WvFxXVQ"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "Le Train De Mes Souvenirs",
+        "url": "https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9"
+      },
+      "artists": [
+        {
+          "name": "Gold",
+          "url": "https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Plus pr\u00e8s des \u00e9toiles",
+      "url": "https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Organisation",
         "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
@@ -321,23 +273,7 @@
       "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
-        "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
-      },
-      "artists": [
-        {
-          "name": "Bandolero",
-          "url": "https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Paris Latino - Original Version 1983",
-      "url": "https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
@@ -353,23 +289,71 @@
       "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
-        "name": "80er Best of",
-        "url": "https://open.spotify.com/album/11FRfbgVP2GMx94lh6UoHc"
+        "name": "CD STory",
+        "url": "https://open.spotify.com/album/5dEIRCOVxzcofxlQ7jF8EZ"
       },
       "artists": [
         {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+          "name": "Gilbert Montagn\u00e9",
+          "url": "https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu"
         }
       ],
-      "duration_ms": 281746,
-      "name": "In The Army Now",
-      "url": "https://open.spotify.com/track/72SI0yGB3CkxVkR5eIKMYd"
+      "duration_ms": 244333,
+      "name": "On va s'aimer",
+      "url": "https://open.spotify.com/track/7bVOm16UuDoDGg3LqnywlH"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
+        "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
+      },
+      "artists": [
+        {
+          "name": "Bandolero",
+          "url": "https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Paris Latino - Original Version 1983",
+      "url": "https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Jermaine Jackson (Expanded Edition)",
         "url": "https://open.spotify.com/album/1v5pm51ep8nTVpKPkhsvIR"
@@ -389,7 +373,23 @@
       "url": "https://open.spotify.com/track/4BNgHaHriMcnpeR7qdkojU"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "80er Best of",
+        "url": "https://open.spotify.com/album/11FRfbgVP2GMx94lh6UoHc"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "In The Army Now",
+      "url": "https://open.spotify.com/track/72SI0yGB3CkxVkR5eIKMYd"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
@@ -405,23 +405,23 @@
       "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
-        "name": "Somebody's Watching Me",
-        "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
+        "name": "Bananarama (Collector's Edition)",
+        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
       },
       "artists": [
         {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
         }
       ],
-      "duration_ms": 298866,
-      "name": "Somebody's Watching Me",
-      "url": "https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"
+      "duration_ms": 215326,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Chacun fait (C'qui lui plait)",
         "url": "https://open.spotify.com/album/0I18V9PWrPOG3JmOkLyysm"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/5TpIQ1tVlPnm4SHObswUU6"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
@@ -453,7 +453,23 @@
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "Sabrina",
+        "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
+      },
+      "artists": [
+        {
+          "name": "Sabrina",
+          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
+        }
+      ],
+      "duration_ms": 234812,
+      "name": "Boys - Summertime Love",
+      "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Dure limite (Remasteris\u00e9 en 2015)",
         "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
@@ -469,7 +485,7 @@
       "url": "https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Non homologu\u00e9",
         "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
@@ -505,10 +521,10 @@
       "url": "https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
       },
       "artists": [
         {
@@ -516,28 +532,12 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+      "duration_ms": 199226,
+      "name": "Babooshka - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
@@ -553,7 +553,23 @@
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Macumba",
         "url": "https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
         "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Jeanne Mas",
         "url": "https://open.spotify.com/album/6TPcySRXzqREzKh3LaGzxn"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/4SHIlbYaTolnXdAFAcHGY7"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Comeblack",
         "url": "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd"
@@ -633,7 +649,23 @@
       "url": "https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/6wLr2oR8eqUG5Beleh2Crm"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "The Age of Consent",
         "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
@@ -665,7 +697,7 @@
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "L'Autre",
         "url": "https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM"
@@ -681,7 +713,7 @@
       "url": "https://open.spotify.com/track/15XYdD283tK9iyJzL738bn"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Fran\u00e7ois",
         "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "The Works (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/7h2yhVxcZOGyQdOwD4Hu8J"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "In the Heat of the Night",
         "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
@@ -745,23 +777,7 @@
       "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Private Dancer (30th Anniversary Issue)",
-        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 255186,
-      "name": "We Don't Need Another Hero (Thunderdome)",
-      "url": "https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "La Bamba / Charlena",
         "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Evidemment",
         "url": "https://open.spotify.com/album/4zvdx4wNv0IZiQmVKIODRN"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/3XM3TD08DSAzl84yasWP1x"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Disco Party 2021",
         "url": "https://open.spotify.com/album/0Df0Yg49yhTw7RX1oXemFZ"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/1MvIzSyxQjMIIBKrkGpN3K"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Rita Mitsouko",
         "url": "https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Welcome To The Pleasuredome",
         "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Quand la musique est bonne",
         "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
@@ -905,7 +921,7 @@
       "url": "https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "80s 100 Hits",
         "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
@@ -921,7 +937,7 @@
       "url": "https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
@@ -937,7 +953,7 @@
       "url": "https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "What a Feelin'",
         "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
@@ -953,7 +969,7 @@
       "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
@@ -969,7 +985,7 @@
       "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Words",
         "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
@@ -985,7 +1001,7 @@
       "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Primitive Love",
         "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
@@ -1001,7 +1017,7 @@
       "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Upstairs At Eric's",
         "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
@@ -1017,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "War (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/4Saua162eaEOksYc8TrB74"
@@ -1033,7 +1049,7 @@
       "url": "https://open.spotify.com/track/4nuUssdgKFy2QyYHHNkZQW"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Encore un dernier baiser",
         "url": "https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN"
@@ -1049,7 +1065,7 @@
       "url": "https://open.spotify.com/track/4mII9EfvzMukROnehYgqG3"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Chinese Wall (Expanded Edition)",
         "url": "https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX"
@@ -1069,7 +1085,7 @@
       "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
@@ -1085,7 +1101,7 @@
       "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
@@ -1101,7 +1117,7 @@
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Sans contrefa\u00e7on",
         "url": "https://open.spotify.com/album/1ichBfVTwtEOht3paCDuPT"
@@ -1117,7 +1133,7 @@
       "url": "https://open.spotify.com/track/4lKQlYJdzLPKBc0XEDBdrq"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
@@ -1133,7 +1149,7 @@
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Best of Rose Laurens",
         "url": "https://open.spotify.com/album/6pUqfX67nw1tfhexViqAjF"
@@ -1149,7 +1165,7 @@
       "url": "https://open.spotify.com/track/57MunCijhIhsiwxaWMPskb"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Emergency (Reissue)",
         "url": "https://open.spotify.com/album/1lLHdYAPp0kZdBiMrLbsJV"
@@ -1165,7 +1181,7 @@
       "url": "https://open.spotify.com/track/1mMYaXpT65iZDtvfRA9EkE"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
@@ -1181,23 +1197,7 @@
       "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Hello, I Must Be Going! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
@@ -1213,7 +1213,39 @@
       "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "No Protection",
+        "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 270333,
+      "name": "Nothing's Gonna Stop Us Now",
+      "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Au coeur de Telephone - Best Of Super Deluxe (Remasteris\u00e9 en 2015)",
         "url": "https://open.spotify.com/album/21y58feer6WBukhXJXRQvO"
@@ -1229,39 +1261,7 @@
       "url": "https://open.spotify.com/track/2CYhWKhQMMYM1mspEoYEqI"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 295893,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Le Banana Split (Remix Album)",
-        "url": "https://open.spotify.com/album/2TWpZJtf594ULVavUvzD2J"
-      },
-      "artists": [
-        {
-          "name": "Lio",
-          "url": "https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI"
-        }
-      ],
-      "duration_ms": 153706,
-      "name": "Le Banana Split",
-      "url": "https://open.spotify.com/track/2cxYHwnueAkc9G6K8Ve0Wn"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "First Harvest 1984-1992",
         "url": "https://open.spotify.com/album/0d60Pri6GuV9E8jeJrSB33"
@@ -1277,23 +1277,7 @@
       "url": "https://open.spotify.com/track/3F8aTQzmKovktFcR7MCGFW"
     },
     {
-      "added_at": "2023-12-19 13:28:18",
-      "album": {
-        "name": "Cock Robin (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3rGS1WQSfZA9ES458g9gP4"
-      },
-      "artists": [
-        {
-          "name": "Cock Robin",
-          "url": "https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "The Promise You Made",
-      "url": "https://open.spotify.com/track/1bWrJnsvHCo8vsXWaatWIs"
-    },
-    {
-      "added_at": "2023-12-19 13:28:18",
+      "added_at": "2024-01-17 15:59:36",
       "album": {
         "name": "Evidemment",
         "url": "https://open.spotify.com/album/4zvdx4wNv0IZiQmVKIODRN"
@@ -1307,6 +1291,26 @@
       "duration_ms": 272546,
       "name": "R\u00e9siste",
       "url": "https://open.spotify.com/track/2IAq7NOjlLVe6bnu0YwdOV"
+    },
+    {
+      "added_at": "2024-01-17 15:59:36",
+      "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Charles May",
+          "url": "https://open.spotify.com/artist/4IyqKACrQ4rsRa3M9KpZaB"
+        }
+      ],
+      "duration_ms": 386360,
+      "name": "Ai No Corrida",
+      "url": "https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N"
     }
   ],
   "unique_name": "Ann\u00e9es 80",

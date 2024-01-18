@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Hansika Pareek
 
-162 songs - 8 hr 57 min
+163 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Door Kahin](https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Door Kahin](https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs) | 3:24 | 2023-05-26 | 2023-06-02 |
 | [Doorie](https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Doorie](https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd) | 3:53 | 2023-05-02 |  |
 | [Enna Sona](https://open.spotify.com/track/3FZBGD1Dosgw8hsTtrDmTn) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Arooh](https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7) | [Enna Sona](https://open.spotify.com/album/3EScBmh7oNVeBFJwgc3QBp) | 2:36 | 2023-05-02 |  |
-| [Feel You Now](https://open.spotify.com/track/1qvG2HriblOKz5d6lMT81E) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Feel You Now](https://open.spotify.com/album/1QjVRLJLQ3wM1RY9AznBlC) | 2:14 | 2023-05-02 |  |
+| [Feel You Now](https://open.spotify.com/track/1qvG2HriblOKz5d6lMT81E) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Feel You Now](https://open.spotify.com/album/1QjVRLJLQ3wM1RY9AznBlC) | 2:14 | 2023-05-02 | 2024-01-18 |
 | [Fida](https://open.spotify.com/track/1RnGyOqCbgpfmSh423M4t1) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Fida](https://open.spotify.com/album/0JQ7xpuT2g8TlnT8r7hamD) | 2:52 | 2023-07-20 | 2023-12-30 |
 | [Ghoome](https://open.spotify.com/track/2S8g6nlwCih4u4GAn14GqE) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Ghoome](https://open.spotify.com/album/4u73oMykwBdkhBuJ9ufJjT) | 2:49 | 2023-07-21 | 2023-10-16 |
 | [Goodbye](https://open.spotify.com/track/5JdeSgIBqpdoC3RudqPkCu) | [lekhak](https://open.spotify.com/artist/7EzXvSTOIXrtaL87k7aoBG) | [Goodbye](https://open.spotify.com/album/3IXc2Y2hrRoa8gFA87lfw7) | 2:58 | 2023-11-10 |  |
@@ -83,6 +83,7 @@
 | [KHU](https://open.spotify.com/track/08SW2nDqYzv6UOOtaoJdTE) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [KHU](https://open.spotify.com/album/3BOrCKOWf5DZklELAV6fnc) | 3:54 | 2023-08-11 | 2023-11-11 |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2023-05-02 |  |
 | [Khwaab \- Reprise](https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab \(Reprise\)](https://open.spotify.com/album/3IR88A9h4jPwNnSqHt0q25) | 3:22 | 2023-05-02 | 2024-01-09 |
+| [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 | 2024-01-17 |  |
 | [Kitaab](https://open.spotify.com/track/0p19g7rqRwqzhgy1dlMuTJ) | [Gravero](https://open.spotify.com/artist/0g4FyrO2K2vs07oAwWraAj), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR), [Happy Pills](https://open.spotify.com/artist/4rgPItfFsz5c623LYz1OMA) | [Kitaab](https://open.spotify.com/album/5YKULtvq2MvRfFJdy6kDMd) | 2:28 | 2023-12-15 |  |
 | [Kitaab](https://open.spotify.com/track/2xfvb6Y9GBxiFRhd0smDH7) | [Gravero](https://open.spotify.com/artist/0g4FyrO2K2vs07oAwWraAj), [Happy Pills](https://open.spotify.com/artist/4rgPItfFsz5c623LYz1OMA), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Kitaab](https://open.spotify.com/album/3ZWSMzAi8BROc92s2GEGKH) | 2:28 | 2023-05-02 | 2023-08-09 |
 | [Kona Kona](https://open.spotify.com/track/5sgwwNnLMWsGFmRVN0Z9hK) | [SidB](https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG) | [Kona Kona](https://open.spotify.com/album/1AxuG5kuXIOd4StNRvlp5g) | 2:49 | 2023-11-29 | 2023-12-16 |

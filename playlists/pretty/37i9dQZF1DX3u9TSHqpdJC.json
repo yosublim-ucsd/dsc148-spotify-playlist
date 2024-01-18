@@ -1,13 +1,173 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: TATYANA. Artwork by Paola Saliby",
-  "num_followers": 203206,
+  "description": "The best new pop music by independent artists and labels. Cover: Nxdia. Artwork by Paola Saliby",
+  "num_followers": 203427,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGQ4ZGE4MDZlNDczZTI3NmVkOGQyZjk2MmQ3NzEwNTc0YjU0ODQz",
+  "snapshot_id": "MCwzZjI1YWRhZDBkYmVlOTFmOWIxZDc3ZGZlZmVlMzA5Njk4OTNjYThh",
   "tracks": [
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "She Likes a Boy",
+        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 129056,
+      "name": "She Likes a Boy",
+      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Lose Her",
+        "url": "https://open.spotify.com/album/316orttce8f1LBwKgJCOou"
+      },
+      "artists": [
+        {
+          "name": "Sadie Fine",
+          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
+        }
+      ],
+      "duration_ms": 170515,
+      "name": "Lose Her",
+      "url": "https://open.spotify.com/track/3I4QH84TrFPE7Z53He9rg0"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "THAT SPECIAL",
+        "url": "https://open.spotify.com/album/5aDR7vuZ9D4dyNB2ZcyMO4"
+      },
+      "artists": [
+        {
+          "name": "Joe Serafini",
+          "url": "https://open.spotify.com/artist/6fu9TecMw6TInkRRyXObeu"
+        }
+      ],
+      "duration_ms": 189248,
+      "name": "THAT SPECIAL",
+      "url": "https://open.spotify.com/track/4TXwvLk1pBzh5yPeeGprvX"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Tulips",
+        "url": "https://open.spotify.com/album/6EXK2krpifmLZZhJVlEgbv"
+      },
+      "artists": [
+        {
+          "name": "Kai Bosch",
+          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Tulips",
+      "url": "https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Why Should I?",
+        "url": "https://open.spotify.com/album/17iRGnHZKFr5ASEjrz0ApQ"
+      },
+      "artists": [
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "duration_ms": 149404,
+      "name": "Why Should I?",
+      "url": "https://open.spotify.com/track/223aYFqV1AHgSq4cKCkrkc"
+    },
+    {
+      "added_at": "2024-01-10 05:00:00",
+      "album": {
+        "name": "Moon Girl",
+        "url": "https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ"
+      },
+      "artists": [
+        {
+          "name": "Ha Vay",
+          "url": "https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt"
+        }
+      ],
+      "duration_ms": 206042,
+      "name": "Moon Girl",
+      "url": "https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "on purpose",
+        "url": "https://open.spotify.com/album/7y9YayZGU4VOZesQ5Nw5hy"
+      },
+      "artists": [
+        {
+          "name": "Ni/Co",
+          "url": "https://open.spotify.com/artist/2IR0GSCHsTo7gSw8HHLBnr"
+        }
+      ],
+      "duration_ms": 164558,
+      "name": "on purpose",
+      "url": "https://open.spotify.com/track/0ZNoYbBSN2d2PPUEGSfSid"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/6RhMCr9w9IjeGcrx5Yyg3Z"
+      },
+      "artists": [
+        {
+          "name": "Lauren Presley",
+          "url": "https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN"
+        }
+      ],
+      "duration_ms": 166012,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/7xfqWNMdzDdllLB0rkjIY3"
+    },
+    {
+      "added_at": "2024-01-10 05:00:00",
+      "album": {
+        "name": "Mean Girls",
+        "url": "https://open.spotify.com/album/65njqIK7i22Nx4ltLuJG9D"
+      },
+      "artists": [
+        {
+          "name": "Caleigh",
+          "url": "https://open.spotify.com/artist/3aJyXhAdbU62nZ63hnJiE1"
+        }
+      ],
+      "duration_ms": 182244,
+      "name": "Mean Girls",
+      "url": "https://open.spotify.com/track/2ZpBIOupyST17KoZB3A2FX"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "I'm Not A Boy",
+        "url": "https://open.spotify.com/album/6jrqRAx4Ojvr6xGd3bjxlh"
+      },
+      "artists": [
+        {
+          "name": "Tommi Aura",
+          "url": "https://open.spotify.com/artist/0RPos3j6vQijjlI0X17k88"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "I'm Not A Boy",
+      "url": "https://open.spotify.com/track/7GXkoQOJkiWngZMxEVb2pN"
+    },
     {
       "added_at": "2024-01-10 05:00:00",
       "album": {
@@ -23,6 +183,54 @@
       "duration_ms": 178540,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/54Y9wy1xU15thURSq12kHl"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/0vNZoAG5hlc9wWLnWnk57M"
+      },
+      "artists": [
+        {
+          "name": "Noah Malcolm",
+          "url": "https://open.spotify.com/artist/7GGTQaTSEbVV5in5GvcP9q"
+        }
+      ],
+      "duration_ms": 185110,
+      "name": "January",
+      "url": "https://open.spotify.com/track/2HIck8Nnc4SONgz5vb0tge"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "dead to me",
+        "url": "https://open.spotify.com/album/0oZYgcrHbMQ3V0Ge9SowII"
+      },
+      "artists": [
+        {
+          "name": "Eva Snyder",
+          "url": "https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l"
+        }
+      ],
+      "duration_ms": 158920,
+      "name": "dead to me",
+      "url": "https://open.spotify.com/track/081O4UBlyJI74TlA4G75oM"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1dbZb7zqwRo5DfwN4FMnM1"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Hass",
+          "url": "https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC"
+        }
+      ],
+      "duration_ms": 187360,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/66eI6rLF6effvC5JDNy3OL"
     },
     {
       "added_at": "2024-01-10 05:00:00",
@@ -71,38 +279,6 @@
       "duration_ms": 324447,
       "name": "Locked Up Never Fade",
       "url": "https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Mean Girls",
-        "url": "https://open.spotify.com/album/65njqIK7i22Nx4ltLuJG9D"
-      },
-      "artists": [
-        {
-          "name": "Caleigh",
-          "url": "https://open.spotify.com/artist/3aJyXhAdbU62nZ63hnJiE1"
-        }
-      ],
-      "duration_ms": 182244,
-      "name": "Mean Girls",
-      "url": "https://open.spotify.com/track/2ZpBIOupyST17KoZB3A2FX"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Moon Girl",
-        "url": "https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ"
-      },
-      "artists": [
-        {
-          "name": "Ha Vay",
-          "url": "https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt"
-        }
-      ],
-      "duration_ms": 206042,
-      "name": "Moon Girl",
-      "url": "https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9"
     },
     {
       "added_at": "2024-01-10 05:00:00",

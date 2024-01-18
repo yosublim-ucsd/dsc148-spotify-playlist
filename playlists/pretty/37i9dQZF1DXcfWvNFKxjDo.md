@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Leony, Felix Jaehn
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,619 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,789 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 11 | [Erinner mich](https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Erinner mich](https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl) | 2:31 |
 | 12 | [Je Veux](https://open.spotify.com/track/2uiRmsK5cVqYBzHH8Hc15i) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Je Veux](https://open.spotify.com/album/5B9dopFddKeZ0gQv1SVpJc) | 2:16 |
 | 13 | [life gets hard \- Edit](https://open.spotify.com/track/1vQTyLGbpA2zXejuDC9b9t) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [life gets hard \(Edit\)](https://open.spotify.com/album/6PuhXI5QuoTTgQNP88XCcs) | 2:35 |
-| 14 | [Wish I Didn't Love You](https://open.spotify.com/track/5UvpdlLfvuaBd4jvmgUa5N) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Maike](https://open.spotify.com/artist/1CVoPwlZCLiNxVqLMJlR9G) | [Wish I Didn't Love You](https://open.spotify.com/album/7JlJOVJ4E2xW5KTgNHvASQ) | 2:25 |
+| 14 | [Wish I Didn't Love You](https://open.spotify.com/track/3mIjD2PrB9cPnWPG4F77MQ) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Maike](https://open.spotify.com/artist/1CVoPwlZCLiNxVqLMJlR9G) | [Wish I Didn't Love You](https://open.spotify.com/album/4BKVp8Bt21w9keQInMqnhd) | 2:25 |
 | 15 | [No Man's Land](https://open.spotify.com/track/1pzcBd8A2f2pnVCGWro0fo) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [No Man's Land](https://open.spotify.com/album/1FgHLHfin6Vvv1WrMWm6L4) | 2:18 |
 | 16 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 |
 | 17 | [All My Life](https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [All My Life](https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp) | 2:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Someone Else's Love](https://open.spotify.com/track/0Fa7WvZrpURz8LhCKI4DX9) | [David Burster](https://open.spotify.com/artist/2LXs8PJ2e70UHUlBEZ6IxH) | [Someone Else's Love](https://open.spotify.com/album/0V16cIoilAeFLomSlzvJQF) | 2:29 |
 | 75 | [Get Back](https://open.spotify.com/track/1Az8Mbj2rv2un031Qxltx8) | [Stupid Goldfish](https://open.spotify.com/artist/0JqP06xsTN1rmZVgV7cEm8) | [Get Back](https://open.spotify.com/album/2BoBboQrZL896ksxoal2aT) | 2:07 |
 
-Snapshot ID: `MCw5MDhjM2EyMGJkNmRlZTVlOGRmNDc3NmM5ODBmZDk1MmUwMTZhZTI2`
+Snapshot ID: `MCw1NTcwMmNkOTY1OWNmZDkyZGU3MTg3MzI0MWQ5MjZjMGNiM2Q2NDU0`

@@ -4,7 +4,7 @@
 
 > New music from Waxahatchee x MJ Lenderman, Faye Webster x Lil Yachty, Youth Lagoon and more..\.  Cover: Faye Webster
 
-1,952 songs - 4 day 21 hr 21 min
+1,954 songs - 4 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [A Lingering Love](https://open.spotify.com/track/6Edccn5z5RF4fb0nzFfpzH) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4yyxKPCiD1A7kQkfidacBu) | 3:36 | 2019-06-29 | 2019-09-06 |
 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 | 2023-08-11 | 2023-08-26 |
 | [a long december](https://open.spotify.com/track/6AJUq174xQvhXvRLbLvFml) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [a long december](https://open.spotify.com/album/4BEcYq7POg39BXzScVb4qE) | 4:11 | 2022-02-04 | 2022-05-20 |
+| [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 | 2024-01-17 |  |
 | [A Lucid Dream](https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [A Hero's Death](https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd) | 3:53 | 2020-08-07 | 2021-03-06 |
 | [A Man Will Do Wrong](https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 4:17 | 2023-02-10 | 2023-02-18 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-20 |  |
@@ -1742,6 +1743,7 @@
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-01-14 | 2022-04-08 |
 | [Time \(You and I\)](https://open.spotify.com/track/2QoiyjegLQ3DWKBfFX9ihX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Time \(You and I\)](https://open.spotify.com/album/5shSFh5g5Vh2QYkpBPChx2) | 5:42 | 2020-05-15 | 2021-03-23 |
 | [Time Machine](https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Time Machine](https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv) | 3:39 | 2022-07-15 | 2022-08-05 |
+| [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-17 |  |
 | [Tiptoeing](https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Tiptoeing](https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv) | 2:35 | 2021-11-10 | 2022-04-05 |
 | [To be honest](https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [To be honest](https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X) | 3:41 | 2023-03-08 | 2023-07-13 |
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-03-10 | 2023-10-07 |

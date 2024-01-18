@@ -4,7 +4,7 @@
 
 > Updated weekly \| Hardstyle \| Cover: Warface
 
-728 songs - 1 day 15 hr 43 min
+729 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,8 @@
 | [Momentum](https://open.spotify.com/track/4AXO0nCqvp82u9Iwl8IQO1) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Momentum](https://open.spotify.com/album/2KEVJqNUsmOxMiXzfMvJOe) | 3:18 | 2023-10-06 | 2023-12-02 |
 | [Morgenlicht](https://open.spotify.com/track/7dWbcOsfWgjjM4PIsCBl1D) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Teknoclash](https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb), [Lost Identity](https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h) | [Morgenlicht](https://open.spotify.com/album/2z4DqDWBwV9DE4wCG45Cax) | 2:53 | 2023-04-06 | 2023-04-28 |
 | [Mr Brightside](https://open.spotify.com/track/6x19X5cibbIjsCtlzsgZEY) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Mr Brightside](https://open.spotify.com/album/2bgIA2bqZ61g9VLf1sOSCR) | 3:50 | 2022-12-08 | 2023-02-10 |
-| [Mr\. Navigator \- Ran\-D Remix](https://open.spotify.com/track/0rNwzVRzZezE1Gvm5t4yOF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Illuminate](https://open.spotify.com/album/0siiNG4cOdb59qGn0nbYSV) | 3:14 | 2023-11-09 |  |
+| [Mr\. Navigator \- Ran\-D Remix](https://open.spotify.com/track/0rNwzVRzZezE1Gvm5t4yOF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Illuminate](https://open.spotify.com/album/0siiNG4cOdb59qGn0nbYSV) | 3:14 | 2023-11-09 | 2024-01-18 |
+| [Mr\. Navigator \- Ran\-D Remix](https://open.spotify.com/track/38pcNACe3G6rISaAJhZLaF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Mr\. Navigator \(Ran\-D Remix\)](https://open.spotify.com/album/5Osj39WDeIZo5QYkJBEZ3w) | 3:14 | 2024-01-11 |  |
 | [My Heart Will Go On \(Titanic\)](https://open.spotify.com/track/6xW8JLQGyCIDUvQU6KplAQ) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [My Heart Will Go On \(Titanic\)](https://open.spotify.com/album/6N1zvlTXbxnA80TzeuaSfb) | 3:27 | 2023-06-18 | 2023-06-26 |
 | [My Pain](https://open.spotify.com/track/0Iuu9xzvZPtqLUkpeMT78L) | [Insurgent](https://open.spotify.com/artist/2SyZmJfQgELdyr4sbiqZS6) | [Cognitive Chaos](https://open.spotify.com/album/6KFBWXbscOOgRsufAipATw) | 3:39 | 2023-09-28 | 2023-12-02 |
 | [My Radio 2k23 \- Earsquaker Remix](https://open.spotify.com/track/1HGMfxfCV6PHx7F1rAl7Xu) | [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22), [Enerdizer](https://open.spotify.com/artist/0i9lZhnRq7hBiK9FQRqrUC), [Earsquaker](https://open.spotify.com/artist/76bxY8Zg5tjHCWkuRAbOFT) | [My Radio 2k23 \(Earsquaker Remix\)](https://open.spotify.com/album/2BvU5bp5ox0XcMPGvdJDuL) | 2:41 | 2023-03-16 | 2023-06-19 |

@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 31206,
+  "num_followers": 31244,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWUyOWI4NjNhNGVmYWY4NGQzYmJiZGY5YTY1YzMzN2Y3NTYyOTM2",
+  "snapshot_id": "MCxlZmEyMDJlOWNjYjMyZmNkMzgyMGVlOTA1NmIyYWVlZTkyMWUwOGE4",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:34",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 297373,
-      "name": "Un Verano en NY",
-      "url": "https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "El Salsero De Ahora",
         "url": "https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 275853,
       "name": "Amor Perfecto",
       "url": "https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 297373,
+      "name": "Un Verano en NY",
+      "url": "https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "35th Anniversary- 35 Years Around the World",
-        "url": "https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301600,
-      "name": "Carbonerito",
-      "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Descargando",
         "url": "https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z"
       },
@@ -1091,6 +1075,42 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "35th Anniversary- 35 Years Around the World",
+        "url": "https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301600,
+      "name": "Carbonerito",
+      "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Guaguamambo",
+        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
+      },
+      "artists": [
+        {
+          "name": "El Timba",
+          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
+        },
+        {
+          "name": "Fabio Gianni",
+          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
+        }
+      ],
+      "duration_ms": 278091,
+      "name": "Esta Pegao",
+      "url": "https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "Dos Imagenes",
         "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 250009,
       "name": "Deja de Criticar",
       "url": "https://open.spotify.com/track/1TNBaVWcOnNIiPCJaNV0rz"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "Guaguamambo",
-        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
-      },
-      "artists": [
-        {
-          "name": "El Timba",
-          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
-        },
-        {
-          "name": "Fabio Gianni",
-          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
-        }
-      ],
-      "duration_ms": 278091,
-      "name": "Esta Pegao",
-      "url": "https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Esenciales Vol\u00famen I",
-        "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "A El",
-      "url": "https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
         "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 279333,
       "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
       "url": "https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Esenciales Vol\u00famen I",
+        "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "A El",
+      "url": "https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Con Bajo Y Todo",
-        "url": "https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx"
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
         }
       ],
-      "duration_ms": 215214,
-      "name": "Para Chango",
-      "url": "https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1"
+      "duration_ms": 280266,
+      "name": "Por Eso Est\u00e1 Conmigo",
+      "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
+        "name": "Con Bajo Y Todo",
+        "url": "https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx"
       },
       "artists": [
         {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 280266,
-      "name": "Por Eso Est\u00e1 Conmigo",
-      "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
+      "duration_ms": 215214,
+      "name": "Para Chango",
+      "url": "https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "A Dos Tiempos de un Tiempo",
-        "url": "https://open.spotify.com/album/0d8wAwygZBtYPE8R21JSy9"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "El Que Se Fue - Tributo A Tito Rodriguez",
-      "url": "https://open.spotify.com/track/4Fy9sNCxSGGc8jxU8eAp3O"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Hecho Y Derecho",
         "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Mambo Mania Vol. 3",
-        "url": "https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m"
+        "name": "A Dos Tiempos de un Tiempo",
+        "url": "https://open.spotify.com/album/0d8wAwygZBtYPE8R21JSy9"
       },
       "artists": [
         {
-          "name": "The Mambo Express",
-          "url": "https://open.spotify.com/artist/6MnbaNwCECXZ66BEGXlTkl"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 179880,
-      "name": "Ran Kan Kan",
-      "url": "https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE"
+      "duration_ms": 292000,
+      "name": "El Que Se Fue - Tributo A Tito Rodriguez",
+      "url": "https://open.spotify.com/track/4Fy9sNCxSGGc8jxU8eAp3O"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1639,6 +1623,22 @@
       "duration_ms": 275040,
       "name": "Salsa Na' Ma'",
       "url": "https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Mambo Mania Vol. 3",
+        "url": "https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m"
+      },
+      "artists": [
+        {
+          "name": "The Mambo Express",
+          "url": "https://open.spotify.com/artist/6MnbaNwCECXZ66BEGXlTkl"
+        }
+      ],
+      "duration_ms": 179880,
+      "name": "Ran Kan Kan",
+      "url": "https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE"
     },
     {
       "added_at": "2023-10-19 19:33:34",

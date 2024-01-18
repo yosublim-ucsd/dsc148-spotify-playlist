@@ -70,10 +70,32 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 295893,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Charles May",
+          "url": "https://open.spotify.com/artist/4IyqKACrQ4rsRa3M9KpZaB"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386360,
+      "name": "Ai No Corrida",
+      "url": "https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N"
     },
     {
       "album": {
@@ -110,6 +132,24 @@
       "duration_ms": 234986,
       "name": "Au bout de mes r\u00eaves",
       "url": "https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb"
+    },
+    {
+      "album": {
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199226,
+      "name": "Babooshka - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl"
     },
     {
       "album": {
@@ -182,6 +222,24 @@
       "duration_ms": 294226,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
+    },
+    {
+      "album": {
+        "name": "Sabrina",
+        "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
+      },
+      "artists": [
+        {
+          "name": "Sabrina",
+          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234812,
+      "name": "Boys - Summertime Love",
+      "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
     },
     {
       "album": {
@@ -272,6 +330,24 @@
       "duration_ms": 254000,
       "name": "Conga!",
       "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
+    },
+    {
+      "album": {
+        "name": "Bananarama (Collector's Edition)",
+        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215326,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
       "album": {
@@ -834,7 +910,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 153706,
       "name": "Le Banana Split",
       "url": "https://open.spotify.com/track/2cxYHwnueAkc9G6K8Ve0Wn"
@@ -1021,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "No Protection",
+        "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270333,
+      "name": "Nothing's Gonna Stop Us Now",
+      "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "album": {
         "name": "CD STory",
         "url": "https://open.spotify.com/album/5dEIRCOVxzcofxlQ7jF8EZ"
       },
@@ -1140,7 +1234,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
@@ -1248,7 +1342,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 298866,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"
@@ -1382,7 +1476,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 235373,
       "name": "The Promise You Made",
       "url": "https://open.spotify.com/track/1bWrJnsvHCo8vsXWaatWIs"
@@ -1490,7 +1584,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 255186,
       "name": "We Don't Need Another Hero (Thunderdome)",
       "url": "https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X"
@@ -1534,6 +1628,24 @@
       "duration_ms": 209013,
       "name": "Words - Original Version 1983",
       "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
+    },
+    {
+      "album": {
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276360,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/6wLr2oR8eqUG5Beleh2Crm"
     },
     {
       "album": {

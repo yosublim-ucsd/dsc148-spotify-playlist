@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> turn it up ⬆️ Cover: Shinedown
+> Rock at its loudest ⬆️ Cover: Shinedown
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,904 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,929 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [Black Wedding](https://open.spotify.com/track/2gDH0NV4k6ZSTUhBH7Y4RH) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Ghost Of LA](https://open.spotify.com/album/7so0Nj5THAkyZ7wGmigU0E) | 2:29 |
 | 75 | [CULT CLASSIC](https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Cult Classic](https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr) | 3:18 |
 
-Snapshot ID: `MCwyMTI4ZGFlZGE3ODU1ZDA0NDdhY2ZhYzBiMDUxMjQzYjA3MDI3NWU2`
+Snapshot ID: `MCw0MTY4ZDZhMWI3YmQzOWQ4MzI1ZmU1NTg4YzJkMWUyNTliYTAwZGUx`

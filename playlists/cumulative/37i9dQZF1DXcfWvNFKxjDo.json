@@ -14460,7 +14460,7 @@
     {
       "album": {
         "name": "Wish I Didn't Love You",
-        "url": "https://open.spotify.com/album/7JlJOVJ4E2xW5KTgNHvASQ"
+        "url": "https://open.spotify.com/album/4BKVp8Bt21w9keQInMqnhd"
       },
       "artists": [
         {
@@ -14479,6 +14479,32 @@
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 145846,
+      "name": "Wish I Didn't Love You",
+      "url": "https://open.spotify.com/track/3mIjD2PrB9cPnWPG4F77MQ"
+    },
+    {
+      "album": {
+        "name": "Wish I Didn't Love You",
+        "url": "https://open.spotify.com/album/7JlJOVJ4E2xW5KTgNHvASQ"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Maike",
+          "url": "https://open.spotify.com/artist/1CVoPwlZCLiNxVqLMJlR9G"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-18",
       "duration_ms": 145846,
       "name": "Wish I Didn't Love You",
       "url": "https://open.spotify.com/track/5UvpdlLfvuaBd4jvmgUa5N"

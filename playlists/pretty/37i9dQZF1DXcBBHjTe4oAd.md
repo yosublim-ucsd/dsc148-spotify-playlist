@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 
 > ¿Qué le parece esa rola? 🎶 2023: el año en que la Música Mexicana conquistó al mundo 🇲🇽🫡 Foto: Eslabón Armado, Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,598 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,585 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 | 49 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 |
 | 50 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 |
 
-Snapshot ID: `MCw2YTlkYWJlOGQyZDEzOWMwODA0NTQ0ZGRjNThlYjg2MDRiMzIyMDdh`
+Snapshot ID: `MCxjMGZhYjU1MDVkYWY3N2FiOWEyNjIwMmI2ZmY1MTAwNmIzZWNjZDlm`

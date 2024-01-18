@@ -4,7 +4,7 @@
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-158 songs - 8 hr 27 min
+159 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,8 +132,9 @@
 | [She's a Lover](https://open.spotify.com/track/6rUBccLmsYGK4qe0s6s0Ea) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Parachute](https://open.spotify.com/album/3HcQSHCRgL9t5LNNy62u8I) | 3:32 | 2021-10-06 | 2022-07-29 |
 | [She's Not There](https://open.spotify.com/track/2ghkvWvqASoogzq4Y9zeF0) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [She's Not There](https://open.spotify.com/album/68SWrX2k2GAXHJgeiWsV9c) | 2:24 | 2021-10-06 | 2022-11-13 |
 | [She's Not There](https://open.spotify.com/track/3dzW0SoVNyJTWWJimX8stj) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4) | 2:25 | 2021-10-06 | 2022-10-14 |
-| [She's Not There](https://open.spotify.com/track/4Wzt8Dm4xpO3LjWDecP4bA) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw) | 2:25 | 2021-10-06 |  |
+| [She's Not There](https://open.spotify.com/track/4Wzt8Dm4xpO3LjWDecP4bA) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw) | 2:25 | 2021-10-06 | 2024-01-18 |
 | [She's Not There](https://open.spotify.com/track/1fibb2CBsQPBrSePsMcmPe) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [The Zombies](https://open.spotify.com/album/6hYm5Z3B3wRzu8QZhESIPJ) | 2:25 | 2021-10-06 | 2022-07-29 |
+| [She's Not There](https://open.spotify.com/track/6s6jmTumtDJGOB725jMJ8z) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ) | 2:26 | 2021-10-06 |  |
 | [Shifting Sands](https://open.spotify.com/track/3jBCwLVmmfKUH8321N4bdd) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [Part One](https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV) | 3:54 | 2021-10-06 |  |
 | [So Long, Marianne](https://open.spotify.com/track/14CsqOaDkOkrZ49UJLtuOJ) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 5:40 | 2021-10-06 |  |
 | [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 | 2021-10-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 105040,
+  "num_followers": 105048,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWY3MjZkMjQ3OTY4MTU3MTJjMWZkOGE2ODY0OTRkMjcyZDBkODY5",
+  "snapshot_id": "MCxmOTdmMjliMTQxMGY5MzgzMzExNzZhYjY4MDA4ZDY2YTE0Y2Q2NmI4",
   "tracks": [
     {
       "added_at": "2024-01-12 16:09:12",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
+        "name": "La Cantera",
+        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 191846,
+      "name": "Ya mi mama me dec\u00eda",
+      "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
         "name": "Best Seller",
         "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
-        "name": "La Cantera",
-        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 191846,
-      "name": "Ya mi mama me dec\u00eda",
-      "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
+        "name": "D\u00e9jame Dejarte Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 204775,
+      "name": "D\u00e9jame Dejarte Atr\u00e1s",
+      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
         "name": "Un Vaso de Agua",
         "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 88957,
       "name": "Si No Es As\u00ed",
       "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
-        "name": "D\u00e9jame Dejarte Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 204775,
-      "name": "D\u00e9jame Dejarte Atr\u00e1s",
-      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -791,6 +791,42 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
+        "name": "Estamos Bajo el Agua",
+        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
+      },
+      "artists": [
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 151619,
+      "name": "Estamos Bajo el Agua",
+      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "Conexi\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
+      },
+      "artists": [
+        {
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Conexi\u00f3n de Almas",
+      "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
         "name": "Louvre",
         "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
       },
@@ -819,42 +855,6 @@
       "duration_ms": 213105,
       "name": "Fuimos",
       "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
-        "name": "Conexi\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
-      },
-      "artists": [
-        {
-          "name": "Flor Amargo",
-          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Conexi\u00f3n de Almas",
-      "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
-        "name": "Estamos Bajo el Agua",
-        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
-      },
-      "artists": [
-        {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 151619,
-      "name": "Estamos Bajo el Agua",
-      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
-      },
-      "artists": [
-        {
-          "name": "Yamila Ruiz",
-          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
-        }
-      ],
-      "duration_ms": 193517,
-      "name": "Cursi",
-      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "Pediste flores (con Loli Molina)",
         "url": "https://open.spotify.com/album/5UtVQ6f3Xh2ZWU9t6nngu5"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 193643,
       "name": "Pediste flores (con Loli Molina)",
       "url": "https://open.spotify.com/track/0gJlv1xPvkktOoWlnjnQ3b"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
+      },
+      "artists": [
+        {
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
+        }
+      ],
+      "duration_ms": 193517,
+      "name": "Cursi",
+      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "Amor de Instagramer",
-        "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Amor de Instagramer",
-      "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "Amor de Instagramer",
+        "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Amor de Instagramer",
+      "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "17 Canciones para Autopista",
-        "url": "https://open.spotify.com/album/3WFYSQRWwDzbJxs8HR3RhC"
-      },
-      "artists": [
-        {
-          "name": "Perez",
-          "url": "https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Ahinoa",
-      "url": "https://open.spotify.com/track/7ezFSRjTh80pqJ4xYN59yr"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "nu love",
         "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 209513,
       "name": "nu love",
       "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "17 Canciones para Autopista",
+        "url": "https://open.spotify.com/album/3WFYSQRWwDzbJxs8HR3RhC"
+      },
+      "artists": [
+        {
+          "name": "Perez",
+          "url": "https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "Ahinoa",
+      "url": "https://open.spotify.com/track/7ezFSRjTh80pqJ4xYN59yr"
     },
     {
       "added_at": "2024-01-12 16:09:12",

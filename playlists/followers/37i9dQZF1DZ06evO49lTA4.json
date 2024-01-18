@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 735585,
+  "2024-01-18": 735781,
   "date_first_scraped": "2023-09-22",
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
   "name": "This Is Luke Combs",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 180906,
       "name": "1, 2 Many",
       "url": "https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 186733,
       "name": "Beer Never Broke My Heart",
       "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 223320,
       "name": "Does To Me (feat. Eric Church)",
       "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
@@ -578,6 +578,24 @@
     },
     {
       "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Memories Are Made Of",
+      "url": "https://open.spotify.com/track/4ZNslVn7r8oRb60a8hYCYk"
+    },
+    {
+      "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
@@ -669,7 +687,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 204240,
       "name": "Refrigerator Door",
       "url": "https://open.spotify.com/track/3bfuN2UbSYYqCLG3cdweGf"

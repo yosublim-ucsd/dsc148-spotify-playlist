@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 22960,
+  "num_followers": 22966,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzMwY2ZmNGUzMDNlNDgzY2VkMGIyODQ4MGUwNTYxYmUzMmY4YzVk",
+  "snapshot_id": "MCw2ODA1YTU1NGYxZTVkNjMxMmI1MTIxOWZiMTViODE2ZGU0NDg1NjU2",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -359,18 +359,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "El Rey Bravo",
-        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
         }
       ],
-      "duration_ms": 274018,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
+      "duration_ms": 187746,
+      "name": "Tous les gar\u00e7ons et les filles - Slow",
+      "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -391,18 +391,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
-        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+        "name": "El Rey Bravo",
+        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
       },
       "artists": [
         {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 187746,
-      "name": "Tous les gar\u00e7ons et les filles - Slow",
-      "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -957,7 +957,7 @@
         }
       ],
       "duration_ms": 294049,
-      "name": "Mantra (feat. Emicida)",
+      "name": "Mantra",
       "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
     },
     {
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "The Loser / Now We Know",
+        "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
+      },
+      "artists": [
+        {
+          "name": "Derrick Harriott",
+          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "The Loser",
+      "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Muy Tropical y Bailable - 16 Exitos",
         "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 221440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "The Loser / Now We Know",
-        "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
-      },
-      "artists": [
-        {
-          "name": "Derrick Harriott",
-          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
-        }
-      ],
-      "duration_ms": 218653,
-      "name": "The Loser",
-      "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Historia M\u00fasical - 30 \u00c9xitos",
-        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        },
-        {
-          "name": "Piper Pimienta Diaz",
-          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "Las Cale\u00f1as Son Como las Flores",
-      "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Qu\u00e9 Ch\u00e9vere, Vol. 2",
         "url": "https://open.spotify.com/album/7kwDYvYAr3mh2HjR00DCDU"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 219426,
       "name": "Que No Quede Huella",
       "url": "https://open.spotify.com/track/28EWM0qJ09oupIAhNEeLlK"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Historia M\u00fasical - 30 \u00c9xitos",
+        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Piper Pimienta Diaz",
+          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "Las Cale\u00f1as Son Como las Flores",
+      "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
     },
     {
       "added_at": "2020-11-10 18:47:22",

@@ -1,12 +1,12 @@
 {
   "description": "The sound of Summer 2024! ",
-  "num_followers": 93625,
+  "num_followers": 93731,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzAzZWE1ZjBmYTc3MGMzNDU3Yzc3Nzc3MThkZmQyMGMwZjc5OTVh",
+  "snapshot_id": "MCwxOGUyMDUwYjM1ZDg3NjhmYzIxOTliZGJhNGZkMjRjN2Q1MWZiMTVj",
   "tracks": [
     {
       "added_at": "2024-01-04 02:49:10",
@@ -759,22 +759,18 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "Water (Remix)",
-        "url": "https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
       },
       "artists": [
         {
           "name": "Tyla",
           "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water - Remix",
-      "url": "https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY"
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "added_at": "2024-01-04 02:49:10",
@@ -927,18 +923,22 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+        "name": "Water (Remix)",
+        "url": "https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z"
       },
       "artists": [
         {
           "name": "Tyla",
           "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+      "duration_ms": 200255,
+      "name": "Water - Remix",
+      "url": "https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY"
     },
     {
       "added_at": "2024-01-04 02:49:10",

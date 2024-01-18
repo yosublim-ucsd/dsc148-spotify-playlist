@@ -1,12 +1,12 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 118403,
+  "num_followers": 118520,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjBlNWJmZmNjYzc0ODc4MjFlYjMwZjdlZDlmMGM1MTk3MzQ5NWMy",
+  "snapshot_id": "MCwwMTUyNjlmNjRmYTEwOTM4M2U3ZmM1MjIwZjMzY2FjNmFlZThjNmMw",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1155,18 +1155,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK"
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO"
       },
       "artists": [
         {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
         }
       ],
-      "duration_ms": 166856,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2"
+      "duration_ms": 185620,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV"
     }
   ],
   "unique_name": "Gym Beats",

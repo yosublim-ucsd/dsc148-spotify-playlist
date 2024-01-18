@@ -4,7 +4,7 @@
 
 > 
 
-1,852 songs - 4 day 4 hr 8 min
+1,853 songs - 4 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1286,6 +1286,7 @@
 | [Prognosis](https://open.spotify.com/track/2K6idekZrz1H2okt4gJTO8) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Obsidian](https://open.spotify.com/album/5qCrhczH7vQdb5823kDHgK) | 3:55 | 2021-08-05 |  |
 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 | 2021-08-05 |  |
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2021-08-05 |  |
+| [PROTECTION CHARM \- SLOW & HARD VERSION](https://open.spotify.com/track/67d61xaEAHgejORdRW1Bxt) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [PROTECTION CHARM \(SLOW & HARD VERSION\)](https://open.spotify.com/album/5Y2ksEFO3x9uS88JKIhbGy) | 3:30 | 2024-01-17 |  |
 | [Prélude in C\-Sharp Minor, Op\. 3, No\. 2](https://open.spotify.com/track/3rd1Chqzxr95fcyBaJl0JZ) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) | [Rachmaninoff plays Rachmaninoff \- The Ampico Piano Recordings](https://open.spotify.com/album/39O5Qp8wG4P32ebUqqLGv7) | 3:43 | 2022-10-31 |  |
 | [PSYCHO](https://open.spotify.com/track/5ndQfV7CYyOp6l6xW3BJQe) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [PSYCHO](https://open.spotify.com/album/3TU6kCCSKbu3NCWmeoIbzI) | 3:34 | 2021-08-05 |  |
 | [Psychosis](https://open.spotify.com/track/0V36ohSgy0Fq4MyqNORyFO) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [The World Is Fvcked](https://open.spotify.com/album/4n4bolCBHA2HzbXyf64uI3) | 3:49 | 2022-02-04 |  |

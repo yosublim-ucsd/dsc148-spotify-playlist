@@ -4,7 +4,7 @@
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-34 songs - 2 hr 41 min
+35 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Te Daré Mi Vida](https://open.spotify.com/track/6Z9tcXNPG9iDkDmn1BYntB) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños De Colombia](https://open.spotify.com/album/1vuMn7RizfL3iML7zpD81q) | 4:49 | 2022-12-16 |  |
 | [Te Pierdo Y Te Pienso](https://open.spotify.com/track/0WNAzUD7bWABK4ZFui9r4k) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 4:56 | 2022-12-16 |  |
 | [Te Quiero Asi](https://open.spotify.com/track/3avvOq4Nziye4oNcHeruKu) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente Y Futuro](https://open.spotify.com/album/3oeBPJdALfu8Ou124ezdxt) | 4:46 | 2022-12-16 |  |
-| [Te Quiero Mas](https://open.spotify.com/track/63txzgrUTqOb6yWJQfUpKF) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos Por El Mundo](https://open.spotify.com/album/4ZfQmJiIAjQyOivNcmprP1) | 3:52 | 2023-03-30 |  |
+| [Te Quiero Mas](https://open.spotify.com/track/63txzgrUTqOb6yWJQfUpKF) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos Por El Mundo](https://open.spotify.com/album/4ZfQmJiIAjQyOivNcmprP1) | 3:52 | 2023-03-30 | 2024-01-18 |
+| [Te Quiero Más](https://open.spotify.com/track/2U6HQg4wZGcrhijlcmFOcP) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Te Quiero Más](https://open.spotify.com/album/7c7ze2wBynBwHbKEzPVvlk) | 3:53 | 2024-01-17 |  |
 | [Toma Tú Recuerdo](https://open.spotify.com/track/6Ow8ycrYyPdeV5YJK5hOwH) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH) | 5:09 | 2022-12-16 |  |
 | [Un Millón De Besos](https://open.spotify.com/track/4wN0Yti0gkHq7hQ10r0EOU) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH) | 4:35 | 2023-05-27 |  |
 | [Ven A Mí](https://open.spotify.com/track/3FbY8IsVYAnchlr4wQfH2e) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente Y Futuro](https://open.spotify.com/album/3oeBPJdALfu8Ou124ezdxt) | 4:44 | 2022-12-16 |  |

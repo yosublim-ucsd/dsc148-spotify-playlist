@@ -121,6 +121,28 @@
     },
     {
       "album": {
+        "name": "Alley",
+        "url": "https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285426,
+      "name": "Alley (with SUNG SI KYUNG)",
+      "url": "https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC"
+    },
+    {
+      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S"
       },
@@ -1186,6 +1208,24 @@
       "duration_ms": 225016,
       "name": "MORE THAN A TV STAR",
       "url": "https://open.spotify.com/track/1FAhF5KRXdgPSkfXTSzUln"
+    },
+    {
+      "album": {
+        "name": "My Beloved",
+        "url": "https://open.spotify.com/album/2EngEc311hXov3f6KQ6h8D"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244692,
+      "name": "My Beloved",
+      "url": "https://open.spotify.com/track/2o8qsTLDQ17QWeozcwKFoF"
     },
     {
       "album": {

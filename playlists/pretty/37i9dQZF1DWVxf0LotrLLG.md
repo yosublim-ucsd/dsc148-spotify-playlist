@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,807 likes - 202 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,819 likes - 202 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 201 | [Música De Fondo \- En Vivo](https://open.spotify.com/track/2k3LkhgXozsZwHxbJpsbbS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz) | 3:45 |
 | 202 | [Love Like This \- En Vivo](https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz) | 3:38 |
 
-Snapshot ID: `MCw0NzA4ZDdjMjc3Yzk4ZWE4NDMyOWQyY2MzNWUyZDcyOTA4Yzk1NTlj`
+Snapshot ID: `MCxlZDI3MTM3ZTBjZjhhMTUyOTI1Y2QyYzgzYjJmZWRmZmE1YmU1NDE2`

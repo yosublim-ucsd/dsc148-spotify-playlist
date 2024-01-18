@@ -1,12 +1,12 @@
 {
   "description": "El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.",
-  "num_followers": 130047,
+  "num_followers": 130101,
   "original_name": "Cancionero Espinoza Paz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjVhMDgwY2RkZmI5NTMyOGNjMWE1OThiYTMxZDdhYTkwNDBjZjhl",
+  "snapshot_id": "MCw2ZmE3ODE1ZWYwYjgxYzY4OTY2YjU3NzliN2I2YzFiMDNkM2UzOWI1",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Hablemos",
-        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
+        "name": "Yo No Canto Pero Lo Intentamos",
+        "url": "https://open.spotify.com/album/4IBO8BpS6FnMrud4jtMRnL"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 282885,
-      "name": "Yo Quisiera Entrar",
-      "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
+      "duration_ms": 197173,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/2vj3BAmA5hHlqLwofWN0aV"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Hablemos",
+        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 282885,
+      "name": "Yo Quisiera Entrar",
+      "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Disfrut\u00e9 Enga\u00f1arte",
         "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 234480,
       "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
       "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Yo No Canto Pero Lo Intentamos",
-        "url": "https://open.spotify.com/album/4IBO8BpS6FnMrud4jtMRnL"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/2vj3BAmA5hHlqLwofWN0aV"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
+        "name": "Mi Raz\u00f3n De Ser",
+        "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
         }
       ],
-      "duration_ms": 141560,
-      "name": "Disfrut\u00e9 Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/2yHmyqLvinMYOiOsJagAYK"
+      "duration_ms": 207946,
+      "name": "P\u00eddeme Perd\u00f3n",
+      "url": "https://open.spotify.com/track/0WcdEM7jdkl33XsQtm0RW9"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Mi Raz\u00f3n De Ser",
-        "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
+        "name": "El Cantautor del Pueblo",
+        "url": "https://open.spotify.com/album/2mqVKf4l1zeWVTu5fV82pu"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 207946,
-      "name": "P\u00eddeme Perd\u00f3n",
-      "url": "https://open.spotify.com/track/0WcdEM7jdkl33XsQtm0RW9"
+      "duration_ms": 250600,
+      "name": "El Pr\u00f3ximo Viernes",
+      "url": "https://open.spotify.com/track/70F4EfjFcXuqdf2nN51P0P"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Disfrut\u00e9 Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/2yHmyqLvinMYOiOsJagAYK"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "M\u00e1s Adelante",
         "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 225666,
       "name": "Si Yo Te Contara",
       "url": "https://open.spotify.com/track/1uziiqdJSWCbAINo8s68CX"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "El Cantautor del Pueblo",
-        "url": "https://open.spotify.com/album/2mqVKf4l1zeWVTu5fV82pu"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "El Pr\u00f3ximo Viernes",
-      "url": "https://open.spotify.com/track/70F4EfjFcXuqdf2nN51P0P"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "Esa Muchacha Me Gusta",
-      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Recordando A El Shaka",
         "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 204346,
       "name": "Mu\u00f1equita - Balada Version",
       "url": "https://open.spotify.com/track/36csppf4oC76qA6vbMWDSo"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "Esa Muchacha Me Gusta",
+      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "La Mejor Opci\u00f3n",
-        "url": "https://open.spotify.com/album/7we22mTDfrYLTrtpCfXKgU"
-      },
-      "artists": [
-        {
-          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
-          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "La Mejor Opci\u00f3n",
-      "url": "https://open.spotify.com/track/7A9x7OMm06SBjYHAalICS8"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Me Gustan Las Viejas Buenas",
         "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 155546,
       "name": "Disc\u00falpeme Amigo",
       "url": "https://open.spotify.com/track/6EUVkX1k1dpxb0uHqFA4NB"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "La Mejor Opci\u00f3n",
+        "url": "https://open.spotify.com/album/7we22mTDfrYLTrtpCfXKgU"
+      },
+      "artists": [
+        {
+          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
+          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "La Mejor Opci\u00f3n",
+      "url": "https://open.spotify.com/track/7A9x7OMm06SBjYHAalICS8"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "A Partir De Cero",
+        "url": "https://open.spotify.com/album/5woXyeG8vsUGsA6T0gH5oY"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/6UY7NGQBMV8TLVxr9oMOvE"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Sin Mirar Atr\u00e1s (24 Horas + Edition)",
         "url": "https://open.spotify.com/album/5Ktg0zomp2GOFQMWaRcWEJ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 190217,
       "name": "Como Tortilla al Comal - Estudio",
       "url": "https://open.spotify.com/track/0jfQ1QVYeMCbXvpg8rwqMh"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "A Partir De Cero",
-        "url": "https://open.spotify.com/album/5woXyeG8vsUGsA6T0gH5oY"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/6UY7NGQBMV8TLVxr9oMOvE"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Literalmente",
-        "url": "https://open.spotify.com/album/3yfJPovIvlchEsO7tbgPky"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "Si Me Dieras un Minuto",
-      "url": "https://open.spotify.com/track/13hdQ6af8q1jzaz7y91yVF"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "La Joya",
         "url": "https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 198392,
       "name": "Tomando Ando",
       "url": "https://open.spotify.com/track/00cPZxfcPWW97LKhn8YYU7"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Literalmente",
+        "url": "https://open.spotify.com/album/3yfJPovIvlchEsO7tbgPky"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "Si Me Dieras un Minuto",
+      "url": "https://open.spotify.com/track/13hdQ6af8q1jzaz7y91yVF"
     },
     {
       "added_at": "2023-10-06 06:00:00",

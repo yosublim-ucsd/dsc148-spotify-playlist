@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 324,
+  "2024-01-18": 324,
   "date_first_scraped": "2023-06-18",
   "description": "This is Felicity Urquhart. The essential tracks, all in one playlist.",
   "name": "This Is Felicity Urquhart",
@@ -97,7 +97,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 207824,
       "name": "At Least Once A Year",
       "url": "https://open.spotify.com/track/3ytTfUh19oeYeEi8aP2ff5"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 202546,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NdszK9eLxfrFCEitAz3Fd"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 212420,
       "name": "Softer Side",
       "url": "https://open.spotify.com/track/5qz43mUFzrB1W7SsKmp1mV"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 145026,
       "name": "Swingtown",
       "url": "https://open.spotify.com/track/1kt9OqfXbusOxeAwTEA1nJ"
@@ -1643,7 +1643,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 228066,
       "name": "We'll Never Get Along",
       "url": "https://open.spotify.com/track/1opYx6TlryW6ve95rc1RS6"
@@ -1661,7 +1661,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 259706,
       "name": "Western Lullaby",
       "url": "https://open.spotify.com/track/3bQ61KuOqk5SWV8zxLazey"

@@ -1,12 +1,12 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Matisse",
-  "num_followers": 283917,
+  "num_followers": 283884,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTVkNjAxYTEyYzQ3NDUxMjhjMWM1NGQ3YmMxNjNlM2NlYmIzOTQ2",
+  "snapshot_id": "MCxlMWQyMTQwN2Q4YzljZjI3ZGM3NzQwNWMxZWVjOWUyNGY0MGZlN2U3",
   "tracks": [
     {
       "added_at": "2023-12-20 18:00:15",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "El Mix-Tape De Santa",
-        "url": "https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 145876,
-      "name": "Lleg\u00f3 La Navidad",
-      "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Santa Claus Lleg\u00f3 A La Ciudad",
         "url": "https://open.spotify.com/album/07xPl363lb9z67lLCtjuNS"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 158629,
       "name": "Santa Claus Lleg\u00f3 A La Ciudad",
       "url": "https://open.spotify.com/track/4mpwuLCkeVzmzYFYjNrwMr"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "El Mix-Tape De Santa",
+        "url": "https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 145876,
+      "name": "Lleg\u00f3 La Navidad",
+      "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Noel Es Navidad",
-        "url": "https://open.spotify.com/album/3npLN8rO2sxZb2jbzEWmFI"
-      },
-      "artists": [
-        {
-          "name": "Noel Schajris",
-          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
-        },
-        {
-          "name": "Jesus Molina",
-          "url": "https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/71Eb9RfYpKqmUB5kUkjfHt"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
         "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 195842,
       "name": "Last Christmas (Spanish Version)",
       "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Noel Es Navidad",
+        "url": "https://open.spotify.com/album/3npLN8rO2sxZb2jbzEWmFI"
+      },
+      "artists": [
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        },
+        {
+          "name": "Jesus Molina",
+          "url": "https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/71Eb9RfYpKqmUB5kUkjfHt"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
+        "name": "Amor Navide\u00f1o",
+        "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 225125,
+      "name": "Santa Quiero",
+      "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
         "name": "Love & Christmas",
         "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Amor Navide\u00f1o",
-        "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi"
       },
       "artists": [
         {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
         }
       ],
-      "duration_ms": 225125,
-      "name": "Santa Quiero",
-      "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
+      "duration_ms": 160312,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
-        "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 237869,
-      "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Llegu\u00e9 a Navidad",
         "url": "https://open.spotify.com/album/0IHUZrmVQfFWNkZUnWF4c6"
       },
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/1mPFY6AcWGENIc1mxPn3Lq"
+        "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
+        "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 175100,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/3ahTtn2xIy34RYlwTOxqW1"
+      "duration_ms": 237869,
+      "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
     }
   ],
   "unique_name": "Feliz Navidad",

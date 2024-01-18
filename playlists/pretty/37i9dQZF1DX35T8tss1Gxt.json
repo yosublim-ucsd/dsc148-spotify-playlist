@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 227362,
+  "num_followers": 227516,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjM3NWJiZTFkNzE3ODQ2YjFjMmEzYmFhZmQ4OWIwNjFiMTYzM2Ri",
+  "snapshot_id": "MCxmMWJhNWI4OTIyNzNhOGNjYzFhNTA0MGQwNWJjYWY1OTQ1NmJjMWRj",
   "tracks": [
     {
       "added_at": "2024-01-12 07:49:20",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Your Love Will Never Change",
-        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Your Love Will Never Change",
-      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Hands",
         "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 223639,
       "name": "Hands - Radio Version",
       "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Your Love Will Never Change",
+        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Your Love Will Never Change",
+      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Freedom Dance",
-        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "NITE-N-DAY - EP",
         "url": "https://open.spotify.com/album/0elwGmWUMo8oDksWnvqyoC"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 149765,
       "name": "NITE-N-DAY",
       "url": "https://open.spotify.com/track/5ckB1ZYZLmuqGDu8faGi2d"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Freedom Dance",
+        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Satisfy",
-        "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
-      },
-      "artists": [
-        {
-          "name": "Glochi",
-          "url": "https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Valley (CalledOut Music Remix)",
         "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
       },
@@ -791,6 +771,26 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
+      },
+      "artists": [
+        {
+          "name": "Glochi",
+          "url": "https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "pillow soft",
         "url": "https://open.spotify.com/album/27ToXf5vltBPO8rnssYEUp"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 143439,
       "name": "pillow soft",
       "url": "https://open.spotify.com/track/0t8fKvRdEPoDf7995BN5gX"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6SkRXBtGo21ClW0TXIE5FD"
+      },
+      "artists": [
+        {
+          "name": "Franchesca",
+          "url": "https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/0Yv88gXq362a9oTSeC7J67"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -823,22 +839,6 @@
       "duration_ms": 250684,
       "name": "Wind Me Up",
       "url": "https://open.spotify.com/track/3RbDT829dbhxXwm66khCSb"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6SkRXBtGo21ClW0TXIE5FD"
-      },
-      "artists": [
-        {
-          "name": "Franchesca",
-          "url": "https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/0Yv88gXq362a9oTSeC7J67"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Work It Out",
-        "url": "https://open.spotify.com/album/4V9Uxlaq2YpXjTNmTsa7vB"
-      },
-      "artists": [
-        {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/5QkHs6c3bwJUqTSKjunArU"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "GOOD TO ME",
         "url": "https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 207840,
       "name": "GOOD TO ME",
       "url": "https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/4V9Uxlaq2YpXjTNmTsa7vB"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/5QkHs6c3bwJUqTSKjunArU"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "JUST BE US",
-        "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 142889,
-      "name": "JUST BE US",
-      "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Pull My Heart Away",
         "url": "https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 150638,
       "name": "Pull My Heart Away",
       "url": "https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "JUST BE US",
+        "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "duration_ms": 142889,
+      "name": "JUST BE US",
+      "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Bad To The Bone",
-        "url": "https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH"
-      },
-      "artists": [
-        {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
-        }
-      ],
-      "duration_ms": 161584,
-      "name": "Bad To The Bone",
-      "url": "https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Wilder Wonderland",
         "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 192968,
       "name": "I Surrender All (Allt till Jesus)",
       "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Bad To The Bone",
+        "url": "https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        }
+      ],
+      "duration_ms": 161584,
+      "name": "Bad To The Bone",
+      "url": "https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Provider",
         "url": "https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 212687,
       "name": "Provider",
       "url": "https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Surrender The Will",
+        "url": "https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 168834,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Give Myself Away",
         "url": "https://open.spotify.com/album/3Sjbg2zl6AaCWxhqhQG0u6"
       },
@@ -1471,34 +1487,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Surrender The Will",
-        "url": "https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ"
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
       },
       "artists": [
         {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+          "name": "Keyondra Lockett",
+          "url": "https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7"
         }
       ],
-      "duration_ms": 168834,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Like Yours",
-        "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "Like Yours",
-      "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
+      "duration_ms": 214736,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/4kKP41Wo6UVb2rZpKZEgyg"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1515,6 +1515,22 @@
       "duration_ms": 174409,
       "name": "SURREAL",
       "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Like Yours",
+        "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "Like Yours",
+      "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
-      },
-      "artists": [
-        {
-          "name": "Keyondra Lockett",
-          "url": "https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/4kKP41Wo6UVb2rZpKZEgyg"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "LESS OF ME",
         "url": "https://open.spotify.com/album/0U34KFIWHZpyHAGOgULglF"
       },
@@ -1571,22 +1571,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd"
+        "name": "More In Seconds",
+        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
       },
       "artists": [
         {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        },
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
         }
       ],
-      "duration_ms": 201829,
-      "name": "Perfect Love",
-      "url": "https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u"
+      "duration_ms": 244493,
+      "name": "More In Seconds",
+      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1615,22 +1611,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/6TJwvt9HrcnOLQXx8OOq7X"
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd"
       },
       "artists": [
         {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
         },
         {
-          "name": "Wes Harris",
-          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/3brUbKvNipUN7T6Nl8Wbbj"
+      "duration_ms": 201829,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1707,6 +1703,26 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/6TJwvt9HrcnOLQXx8OOq7X"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        },
+        {
+          "name": "Wes Harris",
+          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/3brUbKvNipUN7T6Nl8Wbbj"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Armor",
         "url": "https://open.spotify.com/album/5gxV2jkgNgFpKKOmG65jk5"
       },
@@ -1723,34 +1739,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "More In Seconds",
-        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
+        "name": "By Your Stripes",
+        "url": "https://open.spotify.com/album/7B9oQRNfp82bgUsINsaNpL"
       },
       "artists": [
         {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+          "name": "MARV",
+          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
         }
       ],
-      "duration_ms": 244493,
-      "name": "More In Seconds",
-      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/4r7HAPoBJPvNNQo7zZzmAw"
-      },
-      "artists": [
-        {
-          "name": "Jordan May",
-          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/4vO4V0CcvJZSK87zqJnvks"
+      "duration_ms": 266579,
+      "name": "By Your Stripes",
+      "url": "https://open.spotify.com/track/4wSv15ySAkejSbUmpWI8Nt"
     }
   ],
   "unique_name": "Rhythm & Praise",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Roze Oficial & Lauty Gram.",
-  "num_followers": 1199908,
+  "num_followers": 1200010,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzQ5YTI1N2U1YTBiNjA3ODM0MmY4ZDA4YjllMTE3ZDg0ODg0M2Y1",
+  "snapshot_id": "MCxmYWJkMTIyODk3N2RmNDI4NTEwYmRmMzBmMzYxY2U2ZmU4Mzc4NjJm",
   "tracks": [
     {
       "added_at": "2024-01-12 03:00:00",
@@ -402,6 +402,10 @@
         {
           "name": "La Joaqui",
           "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
       "duration_ms": 173548,
@@ -879,6 +883,42 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "#Tocoparavos",
+        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
+      },
+      "artists": [
+        {
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+        },
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Hasta la luna",
+      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
@@ -903,58 +943,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "#Tocoparavos",
-        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
-      },
-      "artists": [
-        {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
-        },
-        {
-          "name": "Meri Deal",
-          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Hasta la luna",
-      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "No Se",
-        "url": "https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 160689,
-      "name": "No Se",
-      "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Aunque Te Enamores",
         "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
       },
@@ -971,6 +959,22 @@
       "duration_ms": 130212,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "No Se",
+        "url": "https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 160689,
+      "name": "No Se",
+      "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1591,26 +1595,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "LOKITA",
-        "url": "https://open.spotify.com/album/4HcuTZU8zMdNHKfwWp9NMR"
-      },
-      "artists": [
-        {
-          "name": "RYH",
-          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
-        },
-        {
-          "name": "El Villano",
-          "url": "https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100"
-        }
-      ],
-      "duration_ms": 151623,
-      "name": "LOKITA",
-      "url": "https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Noche de Party",
         "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
       },
@@ -1627,6 +1611,26 @@
       "duration_ms": 152942,
       "name": "Noche de Party",
       "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "LOKITA",
+        "url": "https://open.spotify.com/album/4HcuTZU8zMdNHKfwWp9NMR"
+      },
+      "artists": [
+        {
+          "name": "RYH",
+          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
+        },
+        {
+          "name": "El Villano",
+          "url": "https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100"
+        }
+      ],
+      "duration_ms": 151623,
+      "name": "LOKITA",
+      "url": "https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1731,6 +1735,30 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "Terer\u00e9",
+        "url": "https://open.spotify.com/album/0rym8NaYG0cPQiiZUSa6kY"
+      },
+      "artists": [
+        {
+          "name": "frankotirador",
+          "url": "https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w"
+        },
+        {
+          "name": "Las Culisueltas",
+          "url": "https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np"
+        },
+        {
+          "name": "LaKittyCs",
+          "url": "https://open.spotify.com/artist/2TVl7XNWbgsLWqJP5eQUFp"
+        }
+      ],
+      "duration_ms": 159587,
+      "name": "Terer\u00e9",
+      "url": "https://open.spotify.com/track/2oO5vunT8dcjevXXLTlWcW"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1SnDAxojz0thet0EtNwP7e"
       },
@@ -1767,42 +1795,18 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Terer\u00e9",
-        "url": "https://open.spotify.com/album/0rym8NaYG0cPQiiZUSa6kY"
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
       },
       "artists": [
         {
-          "name": "frankotirador",
-          "url": "https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w"
-        },
-        {
-          "name": "Las Culisueltas",
-          "url": "https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np"
-        },
-        {
-          "name": "LaKittyCs",
-          "url": "https://open.spotify.com/artist/2TVl7XNWbgsLWqJP5eQUFp"
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
         }
       ],
-      "duration_ms": 159587,
-      "name": "Terer\u00e9",
-      "url": "https://open.spotify.com/track/2oO5vunT8dcjevXXLTlWcW"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "Cachorro",
-        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 175909,
-      "name": "Cachorro",
-      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
+      "duration_ms": 164333,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1819,6 +1823,22 @@
       "duration_ms": 177786,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Cachorro",
+        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Cachorro",
+      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1859,18 +1879,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Ya Fue",
-        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/2Oc4Ryp8QouliKlvFOiu9T"
       },
       "artists": [
         {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
         }
       ],
-      "duration_ms": 164333,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
+      "duration_ms": 123600,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/1TQ97PNnqsgVPnt6tjY46L"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1919,26 +1943,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/2Oc4Ryp8QouliKlvFOiu9T"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
-        }
-      ],
-      "duration_ms": 123600,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/1TQ97PNnqsgVPnt6tjY46L"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "KARINA | DJ TAO Turreo Sessions #18",
         "url": "https://open.spotify.com/album/5XoexbXXlmolgFgXszagNE"
       },
@@ -1959,26 +1963,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
-        "url": "https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 326437,
-      "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
-      "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Lejos",
         "url": "https://open.spotify.com/album/7v9qHkapXVdxsjp9F2DKo8"
       },
@@ -1995,6 +1979,26 @@
       "duration_ms": 170653,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
+        "url": "https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 326437,
+      "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
+      "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

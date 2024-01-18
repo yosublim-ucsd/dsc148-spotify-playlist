@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 192726,
+  "num_followers": 192732,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTYxN2ZmMmI1OTcyMDRiYjg4N2M1NjhhNjg3MDM2MmE0ZWQ1MTYw",
+  "snapshot_id": "MCw1NDI1ZDY5M2YyODZkZWM0MjI5ZTU5YWJkM2I5ZDM1YzlhM2JiMDA3",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Whatcha See Is Whatcha Get [Stax Remasters]",
+        "url": "https://open.spotify.com/album/1kuAkkhsye50w4et6k4vOT"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Whatcha See Is Whatcha Get",
+      "url": "https://open.spotify.com/track/70eine3FCFbBVmX3HZhto4"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Tell Her b/w The Dance Got Old",
         "url": "https://open.spotify.com/album/4EOK4w9FYlrqWQvK3rpIww"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 145240,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/6EFxFbF6ZNCuE01gAd0xsN"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Whatcha See Is Whatcha Get [Stax Remasters]",
-        "url": "https://open.spotify.com/album/1kuAkkhsye50w4et6k4vOT"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Whatcha See Is Whatcha Get",
-      "url": "https://open.spotify.com/track/70eine3FCFbBVmX3HZhto4"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Million to One",
-        "url": "https://open.spotify.com/album/0gceDfD8ET1hnhUyLU3i1d"
-      },
-      "artists": [
-        {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/4tsJKKiJ4OWdMiMzFZEjvD"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Love is a Hurtin' Thing",
         "url": "https://open.spotify.com/album/690m6ee1hi30Rx9iK1kbVV"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 172973,
       "name": "How Can You Say It",
       "url": "https://open.spotify.com/track/0HlFUfeYx81U8LwaxanS82"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "A Million to One",
+        "url": "https://open.spotify.com/album/0gceDfD8ET1hnhUyLU3i1d"
+      },
+      "artists": [
+        {
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/4tsJKKiJ4OWdMiMzFZEjvD"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Cellarful Of Motown!",
-        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "If You Ever Get Your Hands On Love",
-      "url": "https://open.spotify.com/track/1BoUVp2lFv1Dx1TJWNbMut"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Eccentric Soul: The Saadia Label",
         "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 212133,
       "name": "Somebody Done Took My Baby and Gone",
       "url": "https://open.spotify.com/track/3K7yV1QR1KdbMfJZNplbZG"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "A Cellarful Of Motown!",
+        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "If You Ever Get Your Hands On Love",
+      "url": "https://open.spotify.com/track/1BoUVp2lFv1Dx1TJWNbMut"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "My Wife Can't Cook b/w Something Old Something New",
+        "url": "https://open.spotify.com/album/0FUtfjgpMYHElf6Y8nYkj9"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Russ",
+          "url": "https://open.spotify.com/artist/2aM7izVFCeKxS9MvpOGUt1"
+        }
+      ],
+      "duration_ms": 147778,
+      "name": "Something Old Something New",
+      "url": "https://open.spotify.com/track/3J1ANxU5sLJM2CGg9A6U6S"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "A Cellarful Of Motown! (Vol. 2)",
         "url": "https://open.spotify.com/album/4DvJfXChxxWBseHVBfVPfI"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 161800,
       "name": "Lift This Hurt",
       "url": "https://open.spotify.com/track/3LSgGjq8enMTmioZlouR5Q"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "My Wife Can't Cook b/w Something Old Something New",
-        "url": "https://open.spotify.com/album/0FUtfjgpMYHElf6Y8nYkj9"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Russ",
-          "url": "https://open.spotify.com/artist/2aM7izVFCeKxS9MvpOGUt1"
-        }
-      ],
-      "duration_ms": 147778,
-      "name": "Something Old Something New",
-      "url": "https://open.spotify.com/track/3J1ANxU5sLJM2CGg9A6U6S"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "There'll Come A Time",
-        "url": "https://open.spotify.com/album/4FWN4oxMk7t536R96mS6rp"
-      },
-      "artists": [
-        {
-          "name": "Betty Everett",
-          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
-        }
-      ],
-      "duration_ms": 155866,
-      "name": "Better Tomorrow Than Today",
-      "url": "https://open.spotify.com/track/1F9EDKGRTOTZwQ3xje2n55"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Dave Hamilton's Detroit Dancers",
         "url": "https://open.spotify.com/album/4afaQ6KsmsZOFNEygrGmLW"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 183360,
       "name": "Heavenly Thing",
       "url": "https://open.spotify.com/track/3rhCVdKPTJVVuM9XBGI40p"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "There'll Come A Time",
+        "url": "https://open.spotify.com/album/4FWN4oxMk7t536R96mS6rp"
+      },
+      "artists": [
+        {
+          "name": "Betty Everett",
+          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+        }
+      ],
+      "duration_ms": 155866,
+      "name": "Better Tomorrow Than Today",
+      "url": "https://open.spotify.com/track/1F9EDKGRTOTZwQ3xje2n55"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Motown Singles, Vol. 2: 1962",
-        "url": "https://open.spotify.com/album/4PoyMn8WOciLwpMGFDYfXo"
-      },
-      "artists": [
-        {
-          "name": "Gino Parks",
-          "url": "https://open.spotify.com/artist/3Gxx2SzTn8pHaju9LTXpnz"
-        }
-      ],
-      "duration_ms": 166133,
-      "name": "Fire - Mono Single",
-      "url": "https://open.spotify.com/track/4U682v3KXCkAer9bKHHPgr"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Could It Be Magic",
         "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
       },
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Motown Singles, Vol. 6: 1966",
-        "url": "https://open.spotify.com/album/3mQO3RmWVxI7U4y0HxUeh1"
+        "name": "The Complete Motown Singles, Vol. 2: 1962",
+        "url": "https://open.spotify.com/album/4PoyMn8WOciLwpMGFDYfXo"
       },
       "artists": [
         {
-          "name": "The LaSalles",
-          "url": "https://open.spotify.com/artist/2Z5QMowZC067XABO7HNwIY"
+          "name": "Gino Parks",
+          "url": "https://open.spotify.com/artist/3Gxx2SzTn8pHaju9LTXpnz"
         }
       ],
-      "duration_ms": 134626,
-      "name": "This Is True",
-      "url": "https://open.spotify.com/track/7cOUt1Q4HaYVpg9WB7B2Gn"
+      "duration_ms": 166133,
+      "name": "Fire - Mono Single",
+      "url": "https://open.spotify.com/track/4U682v3KXCkAer9bKHHPgr"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1711,6 +1695,22 @@
       "duration_ms": 159186,
       "name": "Tammie",
       "url": "https://open.spotify.com/track/2aEdVr9B5YU4elMxzaNbFr"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Complete Motown Singles, Vol. 6: 1966",
+        "url": "https://open.spotify.com/album/3mQO3RmWVxI7U4y0HxUeh1"
+      },
+      "artists": [
+        {
+          "name": "The LaSalles",
+          "url": "https://open.spotify.com/artist/2Z5QMowZC067XABO7HNwIY"
+        }
+      ],
+      "duration_ms": 134626,
+      "name": "This Is True",
+      "url": "https://open.spotify.com/track/7cOUt1Q4HaYVpg9WB7B2Gn"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Best of Ace: Soul Harmony",
-        "url": "https://open.spotify.com/album/6aOmn5BSEmTyLbcJcoOc6a"
-      },
-      "artists": [
-        {
-          "name": "The Performers",
-          "url": "https://open.spotify.com/artist/33OknnhKvWiDNmCy9aGVfI"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "That Day When She Needed Me",
-      "url": "https://open.spotify.com/track/44qsTuT39YB95fvHdQsbyS"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Could It Be Magic",
         "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 142628,
       "name": "With My Love and What You've Got (We Could Turn This World Around)",
       "url": "https://open.spotify.com/track/0Kumf47kWgjaHmfXhyGRz8"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Best of Ace: Soul Harmony",
+        "url": "https://open.spotify.com/album/6aOmn5BSEmTyLbcJcoOc6a"
+      },
+      "artists": [
+        {
+          "name": "The Performers",
+          "url": "https://open.spotify.com/artist/33OknnhKvWiDNmCy9aGVfI"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "That Day When She Needed Me",
+      "url": "https://open.spotify.com/track/44qsTuT39YB95fvHdQsbyS"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Could It Be Magic",
-        "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
-      },
-      "artists": [
-        {
-          "name": "Anthony White",
-          "url": "https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o"
-        }
-      ],
-      "duration_ms": 262773,
-      "name": "Stop & Think It Over",
-      "url": "https://open.spotify.com/track/12y8RDhXX9Z2pPdcbWrjxd"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Northern Soul - The Soundtrack to Your Life",
         "url": "https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 324746,
       "name": "That's a Good One",
       "url": "https://open.spotify.com/track/53p7FlkTpXQ3yu47QrlkLX"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Could It Be Magic",
+        "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
+      },
+      "artists": [
+        {
+          "name": "Anthony White",
+          "url": "https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o"
+        }
+      ],
+      "duration_ms": 262773,
+      "name": "Stop & Think It Over",
+      "url": "https://open.spotify.com/track/12y8RDhXX9Z2pPdcbWrjxd"
     },
     {
       "added_at": "2022-05-11 12:29:38",

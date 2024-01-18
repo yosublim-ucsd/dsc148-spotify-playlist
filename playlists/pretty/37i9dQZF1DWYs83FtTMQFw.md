@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today ft\. Nicki Minaj, Jack Harlow, Drake and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,267,731 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,268,077 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 2 | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:23 |
 | 3 | [TOO DAMN HIGH \(with Lil Yachty\)](https://open.spotify.com/track/5DZHW9R4WldaenHCUtM8KC) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 2:18 |
 | 4 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 |
-| 5 | [red sky](https://open.spotify.com/track/4yLyVdEqV790aIXyGif85v) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V), [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:56 |
+| 5 | [red sky](https://open.spotify.com/track/4yLyVdEqV790aIXyGif85v) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:56 |
 | 6 | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE) | 3:15 |
 | 7 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
 | 8 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 74 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 | 75 | [Pull Up \(feat\. 21 Savage\)](https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NAUJOUR](https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V) | 2:13 |
 
-Snapshot ID: `MCw3MDM5MDdhZGRiOWYyMDYwODFkZWM0YWUzMjdhMjFiMWIwMzNmYTg0`
+Snapshot ID: `MCwzM2RkNmE0MTRkMjU3ZmY3YzRlYTMxMGFlZWNiYjUxMTY1M2Q1Mzhm`

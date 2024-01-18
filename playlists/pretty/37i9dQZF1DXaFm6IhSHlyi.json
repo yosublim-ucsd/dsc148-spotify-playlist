@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 142918,
+  "num_followers": 142941,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2JiZDBlYzQ2ZGI2NDE1ZTRmMDExMzQ0YzRlYTQyMzFmOGZmNGE5",
+  "snapshot_id": "MCxiZmViZjdjNWU1NGE0MmNmMDI5MDJiOWRmZWI4OTdkNjY1ODQ4YmM1",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "A Little Bit Yours",
-        "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "A Little Bit Yours",
-      "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Maula",
         "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 238000,
       "name": "Maula",
       "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "A Little Bit Yours",
+        "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "A Little Bit Yours",
+      "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Tutto questo sei tu",
-        "url": "https://open.spotify.com/album/5UvTtLCCL6GIHn7Ewh6pQB"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Tutto questo sei tu",
-      "url": "https://open.spotify.com/track/2JbPEAf12Ju2CxSIoZC89d"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 223546,
       "name": "Your Song (My One and Only You)",
       "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Tutto questo sei tu",
+        "url": "https://open.spotify.com/album/5UvTtLCCL6GIHn7Ewh6pQB"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Tutto questo sei tu",
+      "url": "https://open.spotify.com/track/2JbPEAf12Ju2CxSIoZC89d"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
-        "url": "https://open.spotify.com/album/3WTrVz82sYtWNhY5QWdOAf"
-      },
-      "artists": [
-        {
-          "name": "HammAli & Navai",
-          "url": "https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE"
-        }
-      ],
-      "duration_ms": 240971,
-      "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
-      "url": "https://open.spotify.com/track/5Un71eDlbiGDEzZJzACuNp"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Learning To Live Without You",
         "url": "https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Con La Miel En Los Labios",
-        "url": "https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD"
+        "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
+        "url": "https://open.spotify.com/album/3WTrVz82sYtWNhY5QWdOAf"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "HammAli & Navai",
+          "url": "https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE"
         }
       ],
-      "duration_ms": 202446,
-      "name": "Con La Miel En Los Labios",
-      "url": "https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5"
+      "duration_ms": 240971,
+      "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
+      "url": "https://open.spotify.com/track/5Un71eDlbiGDEzZJzACuNp"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 234986,
       "name": "The Hill of Yearning",
       "url": "https://open.spotify.com/track/7wx0FTZNpicjRvEQwYzxZm"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Con La Miel En Los Labios",
+        "url": "https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 202446,
+      "name": "Con La Miel En Los Labios",
+      "url": "https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "LOVE IN THE DARK",
-        "url": "https://open.spotify.com/album/1cotXPn0CcR0ZCQWcTtZe0"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "LOVE IN THE DARK",
-      "url": "https://open.spotify.com/track/6WrHKidpEVkYKX3vSQhBgL"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Langit Mong Bughaw",
         "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 236516,
       "name": "Sa Paghimig Mo",
       "url": "https://open.spotify.com/track/5VIXkOeKsZDYye15Xhr5sT"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "LOVE IN THE DARK",
+        "url": "https://open.spotify.com/album/1cotXPn0CcR0ZCQWcTtZe0"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "LOVE IN THE DARK",
+      "url": "https://open.spotify.com/track/6WrHKidpEVkYKX3vSQhBgL"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Media Tinta",
+        "url": "https://open.spotify.com/album/76AGXqcL7vYqzkxn7lwfkx"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Media Tinta",
+      "url": "https://open.spotify.com/track/28dvkrXcMae3QMOp4UgfrC"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Benar Cinta",
         "url": "https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 239330,
       "name": "Benar Cinta",
       "url": "https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Media Tinta",
-        "url": "https://open.spotify.com/album/76AGXqcL7vYqzkxn7lwfkx"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Media Tinta",
-      "url": "https://open.spotify.com/track/28dvkrXcMae3QMOp4UgfrC"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Yumemiru Kodomo",
+        "url": "https://open.spotify.com/album/3txMmUiBxYmkF81B1g8bqt"
+      },
+      "artists": [
+        {
+          "name": "Yoh kamiyama",
+          "url": "https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv"
+        }
+      ],
+      "duration_ms": 223410,
+      "name": "Oyasumi Kamisama",
+      "url": "https://open.spotify.com/track/2z0Ui7sLju5TXHiaUTTUpO"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
         "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 163366,
       "name": "I See The Dream (Badna Salam) (feat. Ali Gatie) - Acoustic",
       "url": "https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Yumemiru Kodomo",
-        "url": "https://open.spotify.com/album/3txMmUiBxYmkF81B1g8bqt"
-      },
-      "artists": [
-        {
-          "name": "Yoh kamiyama",
-          "url": "https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv"
-        }
-      ],
-      "duration_ms": 223410,
-      "name": "Oyasumi Kamisama",
-      "url": "https://open.spotify.com/track/2z0Ui7sLju5TXHiaUTTUpO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Don't forget me (Prod. ROCOBERRY)",
-        "url": "https://open.spotify.com/album/2PE9zF0g4LWpmxkpYzBsZg"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 193047,
-      "name": "Don't forget me (Prod. ROCOBERRY)",
-      "url": "https://open.spotify.com/track/3Plg6ZQZeVSBUSp11zBXL5"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Maghihintay",
         "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 275913,
       "name": "Maghihintay",
       "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Don't forget me (Prod. ROCOBERRY)",
+        "url": "https://open.spotify.com/album/2PE9zF0g4LWpmxkpYzBsZg"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 193047,
+      "name": "Don't forget me (Prod. ROCOBERRY)",
+      "url": "https://open.spotify.com/track/3Plg6ZQZeVSBUSp11zBXL5"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2523,18 +2523,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Forever And Ever",
-        "url": "https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o"
+        "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 (Ice Lyrical Version)",
+        "url": "https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y"
       },
       "artists": [
         {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+          "name": "Nyusha",
+          "url": "https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza"
+        },
+        {
+          "name": "Artem Kacher",
+          "url": "https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY"
         }
       ],
-      "duration_ms": 191171,
-      "name": "Forever And Ever",
-      "url": "https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe"
+      "duration_ms": 223200,
+      "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 - Ice Lyrical Version",
+      "url": "https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9"
     }
   ],
   "unique_name": "Ballads International",

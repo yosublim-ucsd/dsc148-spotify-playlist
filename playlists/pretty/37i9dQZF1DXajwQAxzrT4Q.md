@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,954 likes - 75 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,054 likes - 75 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 34 | [Girls Just Wanna](https://open.spotify.com/track/3jlxGtWO91pqDHD3Nb00ku) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Girls Just Wanna](https://open.spotify.com/album/5nxQak3UtJ8UARd6u3v0SX) | 2:10 |
 | 35 | [the Rake \(can’t complain\)](https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF) | 3:01 |
 | 36 | [miles \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [miles](https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO) | 2:42 |
-| 37 | [BULLET](https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [BULLET](https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv) | 1:38 |
-| 38 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 2:38 |
-| 39 | [WHO YOU TOUCH](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 |
-| 40 | [Vibe \(If I Back It Up\)](https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Vibe \(If I Back It Up\)](https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0) | 1:23 |
+| 37 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 2:38 |
+| 38 | [BULLET](https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [BULLET](https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv) | 1:38 |
+| 39 | [Vibe \(If I Back It Up\)](https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Vibe \(If I Back It Up\)](https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0) | 1:23 |
+| 40 | [WHO YOU TOUCH](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 |
 | 41 | [Break From Jersey](https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Break From Jersey](https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi) | 2:31 |
 | 42 | [Honesty \- Jersey Club Remix](https://open.spotify.com/track/1vBluRXN20JZBMA4G7oe7w) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [JIDDY](https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA) | [Honesty \(Jersey Club Remix\)](https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe) | 2:10 |
 | 43 | [\#miles \(OMG edit\)](https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles \(OMG edit\)](https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [Drowning \(feat\. Kodak Black\) \- Jersey Club Remix](https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Remixes\)](https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7) | 2:08 |
 | 75 | [My Back \(Jersey Club\)](https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [My Back \(Jersey Club\)](https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy) | 2:07 |
 
-Snapshot ID: `MCw3MTIzYTkyNjBiZTAwNWY2NmViODczYTc5NWI2ZjdhYTA4ZGNmMDRj`
+Snapshot ID: `MCw0OWYxZTljZDA0MjlhZmFiNzJmNzg1NzBiM2ZmMTE2YzViNzgwMThl`

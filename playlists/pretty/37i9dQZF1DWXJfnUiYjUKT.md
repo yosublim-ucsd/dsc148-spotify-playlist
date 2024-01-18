@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,408 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,439 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 98 | [What's Luv?](https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [What's Luv?](https://open.spotify.com/album/6C2yR407il1fwIhy3P5iPp) | 2:46 |
 | 99 | [All My Friends](https://open.spotify.com/track/61hdNqdXph9AAjX1ZG9PVC) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [The Knights](https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm), [The Westerlies](https://open.spotify.com/artist/7pQXfjCzKMCrcQnp9TAn3z), [San Francisco Girls Choir](https://open.spotify.com/artist/5Fgud2eR2l1WfZzMrRJ0Wn) | [All My Friends](https://open.spotify.com/album/3hqu0HT9ZY3JWkjYMilMzc) | 4:23 |
 
-Snapshot ID: `MCw2NmEzYjhjMGEwNmM3Nzc5OGYwMWZjNWI2N2NjM2NkZjgyNjNmZTVj`
+Snapshot ID: `MCxmMGRhNzA1YTYxYmJhNzJlZTI5MmEwOTUyMWM0ODNmYTEzYTNmYTlm`

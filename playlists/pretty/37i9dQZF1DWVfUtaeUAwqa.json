@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7673,
+  "num_followers": 7674,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTdiODcyODY5MDVmY2ZjMjBlMzYzMmQwYWIwNjlkNTIxN2QwYWIy",
+  "snapshot_id": "MCwwMGYxNTAxNDZhOTEyMWZiYWFjNmU2ZWRkNTczNzA2ZjJhMjBjNjEw",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Kid Ory New Orleans Jazz Man",
-        "url": "https://open.spotify.com/album/4WDAhCf6ihX5PBZwpadK9Z"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory's Creole Jazz Band",
-          "url": "https://open.spotify.com/artist/2BHUVGNVyL4P9boK9roEZZ"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Savoy Blues",
-      "url": "https://open.spotify.com/track/5LmttN1s1QbpLBVVCInT1N"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "I Must Have It",
         "url": "https://open.spotify.com/album/6ZdBK9AQtlbIFhf2tszKY8"
       },
@@ -91,8 +75,24 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Best Of Sidney Bechet",
-        "url": "https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1"
+        "name": "Kid Ory New Orleans Jazz Man",
+        "url": "https://open.spotify.com/album/4WDAhCf6ihX5PBZwpadK9Z"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory's Creole Jazz Band",
+          "url": "https://open.spotify.com/artist/2BHUVGNVyL4P9boK9roEZZ"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Savoy Blues",
+      "url": "https://open.spotify.com/track/5LmttN1s1QbpLBVVCInT1N"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Runnin' Wild",
+        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
         }
       ],
-      "duration_ms": 188640,
-      "name": "I Found A New Baby",
-      "url": "https://open.spotify.com/track/666dKdmoRCRcBNY6BwB98J"
+      "duration_ms": 178960,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -291,8 +291,8 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Runnin' Wild",
-        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
+        "name": "The Best Of Sidney Bechet",
+        "url": "https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
         }
       ],
-      "duration_ms": 178960,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
+      "duration_ms": 188640,
+      "name": "I Found A New Baby",
+      "url": "https://open.spotify.com/track/666dKdmoRCRcBNY6BwB98J"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -439,22 +439,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "South Rampart Street Parade",
-        "url": "https://open.spotify.com/album/6ZlaNBrehRvuDtOb9mXVG1"
-      },
-      "artists": [
-        {
-          "name": "Bob Crosby & His Orchestra",
-          "url": "https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4"
-        }
-      ],
-      "duration_ms": 213906,
-      "name": "South Rampart Street Parade",
-      "url": "https://open.spotify.com/track/1iz1K5LJL5FpXAUGXNAIQE"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "The Best Of The Dukes Of Dixieland (Formerly Titled : The Dukes Of Disneyland)",
         "url": "https://open.spotify.com/album/22YuEc5U4KScFU7RiXDuCg"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 389960,
       "name": "Wolverine Blues",
       "url": "https://open.spotify.com/track/37VAo2JMwa5ZC1S8ePWt76"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "South Rampart Street Parade",
+        "url": "https://open.spotify.com/album/6ZlaNBrehRvuDtOb9mXVG1"
+      },
+      "artists": [
+        {
+          "name": "Bob Crosby & His Orchestra",
+          "url": "https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4"
+        }
+      ],
+      "duration_ms": 213906,
+      "name": "South Rampart Street Parade",
+      "url": "https://open.spotify.com/track/1iz1K5LJL5FpXAUGXNAIQE"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Kings Of Dixieland",
-        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
-      },
-      "artists": [
-        {
-          "name": "Dixieland Band",
-          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
-        }
-      ],
-      "duration_ms": 139558,
-      "name": "Ring On Her Fingers",
-      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Presenting Eddie Condon",
         "url": "https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 217520,
       "name": "I'm Gonna Stomp, Mr Henry Lee",
       "url": "https://open.spotify.com/track/7bKWw5CgBrV8mkkjJ23Fxf"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Kings Of Dixieland",
+        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
+      },
+      "artists": [
+        {
+          "name": "Dixieland Band",
+          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
+        }
+      ],
+      "duration_ms": 139558,
+      "name": "Ring On Her Fingers",
+      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -827,42 +827,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Roaring' 20's",
-        "url": "https://open.spotify.com/album/6yGyFKhtYmeatToldl421e"
-      },
-      "artists": [
-        {
-          "name": "Billy Randolph",
-          "url": "https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF"
-        },
-        {
-          "name": "The High Hatters",
-          "url": "https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Dixie",
-      "url": "https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Dukes At Disneyland",
-        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 362973,
-      "name": "Royal Garden Blues",
-      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
         "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
       },
@@ -883,6 +847,42 @@
       "duration_ms": 182906,
       "name": "Nobody's Sweetheart",
       "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Dukes At Disneyland",
+        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 362973,
+      "name": "Royal Garden Blues",
+      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Roaring' 20's",
+        "url": "https://open.spotify.com/album/6yGyFKhtYmeatToldl421e"
+      },
+      "artists": [
+        {
+          "name": "Billy Randolph",
+          "url": "https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF"
+        },
+        {
+          "name": "The High Hatters",
+          "url": "https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Dixie",
+      "url": "https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -975,8 +975,8 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "30 Classics: Dixieland Jazz for Mardi Gras",
-        "url": "https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE"
+        "name": "Pete Fountain Presents The Best Of Dixieland: Al Hirt",
+        "url": "https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE"
       },
       "artists": [
         {
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
         }
       ],
-      "duration_ms": 232489,
-      "name": "Carry Me Back to Old Virginia",
-      "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
+      "duration_ms": 213626,
+      "name": "Jazz Me Blues",
+      "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
     },
     {
       "added_at": "2020-08-19 17:19:14",

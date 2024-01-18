@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,755 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,757 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 50 | [I'm Only Here To Disappoint](https://open.spotify.com/track/0QXKhyc7lfizn5IzeKk2fV) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 2:46 |
 | 51 | [Madam Me](https://open.spotify.com/track/7AEBa0RkzFSebX4HLSBskJ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 2:59 |
 
-Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDBmMmM2MTA5OTUzNTc0ZjM0YTAyNDA0ZmU3ZTAyYzkyNg==`
+Snapshot ID: `Mjg0MjQ4NzgsMDAwMDAwMDAwNTI5ZWM3MDA1MjgyN2NiZDVjMmI0ODkwZDNlMjc5Yg==`

@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 68698,
+  "2024-01-18": 68708,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
   "name": "Top 50 - Czech Republic",
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 208695,
       "name": "A\u017e na m\u011bs\u00edc",
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
@@ -2203,7 +2203,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 173141,
       "name": "Bars",
       "url": "https://open.spotify.com/track/3RwfY1HV2GFcsMKZSeJtwb"
@@ -5981,7 +5981,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 151578,
       "name": "DTB for Life",
       "url": "https://open.spotify.com/track/0uqziJ0jXgIl13movC27ut"
@@ -9493,7 +9493,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -16693,7 +16693,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
@@ -17751,6 +17751,28 @@
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/7aGS901TtaEwj4PzRQxeGy"
+      },
+      "artists": [
+        {
+          "name": "Totally Nothin",
+          "url": "https://open.spotify.com/artist/4esOzxPLunJ597xOtRt0A1"
+        },
+        {
+          "name": "DJ Kadr",
+          "url": "https://open.spotify.com/artist/1GFQTS0zSjX2tLhV37rFkU"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207752,
+      "name": "Pond\u011bl\u00ed a\u017e ned\u011ble - Sped Up",
+      "url": "https://open.spotify.com/track/3lcCxnxPqh0Rp7vsrD7KD6"
     },
     {
       "album": {
@@ -22239,7 +22261,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 174666,
       "name": "S\u00edla Starejch V\u00edn",
       "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
@@ -24595,7 +24617,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"

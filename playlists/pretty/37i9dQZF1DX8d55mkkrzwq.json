@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGVlNmRhOTE0NmM1YzViMDU1OTZhY2I2N2Q2MGVmZTU2NjFiODEz",
+  "snapshot_id": "MCw0Mjk4OGMxYzVjNzQ2MzE1Yzk3Mjk3Zjc5M2ZmZjRiOTBkZDRkODdi",
   "tracks": [
     {
       "added_at": "2023-09-14 08:57:47",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "The Slide Album",
-        "url": "https://open.spotify.com/album/3KoYKWvKJrI6T0n5D5PTCS"
-      },
-      "artists": [
-        {
-          "name": "Casper & Col'ta",
-          "url": "https://open.spotify.com/artist/3mWhHh5X42WmVx7Hku1zc3"
-        }
-      ],
-      "duration_ms": 387500,
-      "name": "Casper Cha-Cha Slide (Live Platinum Band)",
-      "url": "https://open.spotify.com/track/0AaEbPXWdeiW6MbW80Eibj"
-    },
-    {
-      "added_at": "2023-09-14 08:57:47",
-      "album": {
         "name": "Nursery Rhymes",
         "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 90277,
       "name": "Head, Shoulders, Knees and Toes",
       "url": "https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu"
+    },
+    {
+      "added_at": "2023-09-14 08:57:47",
+      "album": {
+        "name": "The Slide Album",
+        "url": "https://open.spotify.com/album/3KoYKWvKJrI6T0n5D5PTCS"
+      },
+      "artists": [
+        {
+          "name": "Casper & Col'ta",
+          "url": "https://open.spotify.com/artist/3mWhHh5X42WmVx7Hku1zc3"
+        }
+      ],
+      "duration_ms": 387500,
+      "name": "Casper Cha-Cha Slide (Live Platinum Band)",
+      "url": "https://open.spotify.com/track/0AaEbPXWdeiW6MbW80Eibj"
     },
     {
       "added_at": "2023-09-14 08:57:47",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "Laurie Berkner's Movement Songs",
-        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
-      },
-      "artists": [
-        {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
-        }
-      ],
-      "duration_ms": 186427,
-      "name": "Shake Your Body Down",
-      "url": "https://open.spotify.com/track/41YMpUOoIl9pjM2Hd6kNwr"
-    },
-    {
-      "added_at": "2023-09-14 08:57:47",
-      "album": {
         "name": "Kids Dance Party",
         "url": "https://open.spotify.com/album/7JiXOAemvmJARf7w9WvbsT"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "Chickie Chickie Beat",
-        "url": "https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d"
+        "name": "Laurie Berkner's Movement Songs",
+        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
       },
       "artists": [
         {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
         }
       ],
-      "duration_ms": 99914,
-      "name": "Chickie Chickie Beat",
-      "url": "https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8"
+      "duration_ms": 186427,
+      "name": "Shake Your Body Down",
+      "url": "https://open.spotify.com/track/41YMpUOoIl9pjM2Hd6kNwr"
     },
     {
       "added_at": "2023-09-14 08:57:47",
@@ -571,6 +555,22 @@
       "duration_ms": 130588,
       "name": "Dance, Dance, Freeze",
       "url": "https://open.spotify.com/track/6C5XRlRzxkW4KKionxl8j6"
+    },
+    {
+      "added_at": "2023-09-14 08:57:47",
+      "album": {
+        "name": "Chickie Chickie Beat",
+        "url": "https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 99914,
+      "name": "Chickie Chickie Beat",
+      "url": "https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8"
     },
     {
       "added_at": "2023-09-14 08:57:47",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "Laurie Berkner's Movement Songs",
-        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
-      },
-      "artists": [
-        {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Let's Samba",
-      "url": "https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm"
-    },
-    {
-      "added_at": "2023-09-14 08:57:47",
-      "album": {
         "name": "Preschool Songs Volume 2",
         "url": "https://open.spotify.com/album/2KJEDC7n10EJ9gXETFQbsJ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 126930,
       "name": "Bounce! Bounce!",
       "url": "https://open.spotify.com/track/0rfMVNm8MAXyqBzW7YWV4t"
+    },
+    {
+      "added_at": "2023-09-14 08:57:47",
+      "album": {
+        "name": "Laurie Berkner's Movement Songs",
+        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Let's Samba",
+      "url": "https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm"
     },
     {
       "added_at": "2023-09-14 08:57:47",

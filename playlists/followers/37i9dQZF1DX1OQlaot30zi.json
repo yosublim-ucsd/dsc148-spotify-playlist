@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 39842,
+  "2024-01-18": 39879,
   "date_first_scraped": "2022-05-12",
   "description": "Sempre aggiornata. Con nuovi brani di Club Dogo, Vale Lambo e tanti altri.",
   "name": "Novit\u00e0 Rap Italiano",
@@ -12089,6 +12089,24 @@
       "duration_ms": 130153,
       "name": "CHILLZONE",
       "url": "https://open.spotify.com/track/4PEfHhSWf1kwjQ5SrEl4s6"
+    },
+    {
+      "album": {
+        "name": "Chilometri",
+        "url": "https://open.spotify.com/album/6DO6FMW1osAxPc6dmSIeWb"
+      },
+      "artists": [
+        {
+          "name": "Quentin40",
+          "url": "https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Chilometri",
+      "url": "https://open.spotify.com/track/2fMzIzFExDeabwWsWWNpkY"
     },
     {
       "album": {
@@ -56373,7 +56391,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 106666,
       "name": "Time",
       "url": "https://open.spotify.com/track/5hEKTk2E2ILp9MDrZmC5UY"

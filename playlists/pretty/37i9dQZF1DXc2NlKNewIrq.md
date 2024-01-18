@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 
 > Dive in to the Ambient of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,759 likes - 74 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,790 likes - 74 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 73 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 |
 | 74 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 |
 
-Snapshot ID: `MCw3OTNhMjNhN2M3ZjVjYTIzZWZjMTI0YWI3NjdhNDU3NWYwNGM2ZTQ2`
+Snapshot ID: `MCxkOWEzNzZlNTUzMmRmYWI0MWM0YmRmNmQ4MDk0YTU3YWEwYWM5YjBl`

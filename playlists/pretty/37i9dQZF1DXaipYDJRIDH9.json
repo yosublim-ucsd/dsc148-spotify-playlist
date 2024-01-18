@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 217694,
+  "num_followers": 217695,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTU5MDM5ZDcyMTRmYzY3OTU0MTQ4YTkzMTIwNGI5ODVlOTVlNDIz",
+  "snapshot_id": "MCxmYzM0YjE1Mzc4YzljMTc0NzU0MGM5NjQ2NDdlNGZjNzZiOWQ2MjQw",
   "tracks": [
     {
       "added_at": "2024-01-09 09:49:14",
@@ -331,38 +331,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Garden Of Dreams",
-        "url": "https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00f3ki",
-          "url": "https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Garden Of Dreams",
-      "url": "https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Zephyr",
-        "url": "https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4"
-      },
-      "artists": [
-        {
-          "name": "Con Alma",
-          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Sapphire Tears",
         "url": "https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc"
       },
@@ -379,18 +347,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Sogni di Positano",
-        "url": "https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x"
+        "name": "Garden Of Dreams",
+        "url": "https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B"
       },
       "artists": [
         {
-          "name": "Nascondiglio",
-          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+          "name": "Fl\u00f3ki",
+          "url": "https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT"
         }
       ],
-      "duration_ms": 207111,
-      "name": "Sogni di Positano",
-      "url": "https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY"
+      "duration_ms": 169000,
+      "name": "Garden Of Dreams",
+      "url": "https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -411,18 +379,34 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/3uOzcnthiPwrYCrCyb4Txy"
+        "name": "Sogni di Positano",
+        "url": "https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x"
       },
       "artists": [
         {
-          "name": "Vivian Roost",
-          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
         }
       ],
-      "duration_ms": 214675,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK"
+      "duration_ms": 207111,
+      "name": "Sogni di Positano",
+      "url": "https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4"
+      },
+      "artists": [
+        {
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -439,6 +423,22 @@
       "duration_ms": 162925,
       "name": "Unexpected Journey",
       "url": "https://open.spotify.com/track/6HgXeN1ZnCxTJshHSK73z9"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/3uOzcnthiPwrYCrCyb4Txy"
+      },
+      "artists": [
+        {
+          "name": "Vivian Roost",
+          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
+        }
+      ],
+      "duration_ms": 214675,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -683,6 +683,38 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Daffodils",
+        "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Daffodils",
+      "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Forbidden Chords",
+        "url": "https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A"
+      },
+      "artists": [
+        {
+          "name": "Eugenius R. Malmgren",
+          "url": "https://open.spotify.com/artist/2uODFqBJo1WlHbFBSuyLW9"
+        }
+      ],
+      "duration_ms": 139263,
+      "name": "Forbidden Chords",
+      "url": "https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Sorgl\u00f8s",
         "url": "https://open.spotify.com/album/1rZTPCZzEuYn9uzChNGdTw"
       },
@@ -715,22 +747,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Forbidden Chords",
-        "url": "https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A"
-      },
-      "artists": [
-        {
-          "name": "Eugenius R. Malmgren",
-          "url": "https://open.spotify.com/artist/2uODFqBJo1WlHbFBSuyLW9"
-        }
-      ],
-      "duration_ms": 139263,
-      "name": "Forbidden Chords",
-      "url": "https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "The Lights Around the Shore",
         "url": "https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Daffodils",
-        "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Daffodils",
-      "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Incision In The Silence",
         "url": "https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 129563,
       "name": "Incision In The Silence",
       "url": "https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/50QPaMBUUiOcn9MgsYryG3"
+      },
+      "artists": [
+        {
+          "name": "Allard Sidonia",
+          "url": "https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY"
+        }
+      ],
+      "duration_ms": 131106,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5FR4qwfIZJu9sUBjR77l99"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/50QPaMBUUiOcn9MgsYryG3"
-      },
-      "artists": [
-        {
-          "name": "Allard Sidonia",
-          "url": "https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY"
-        }
-      ],
-      "duration_ms": 131106,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5FR4qwfIZJu9sUBjR77l99"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Peaceful Rebellion",
         "url": "https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI"
       },
@@ -935,6 +935,26 @@
       "duration_ms": 157250,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG"
+      },
+      "artists": [
+        {
+          "name": "Jacopo Croci",
+          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
+        },
+        {
+          "name": "Luca Mazzillo",
+          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
+        }
+      ],
+      "duration_ms": 162921,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1019,26 +1039,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG"
-      },
-      "artists": [
-        {
-          "name": "Jacopo Croci",
-          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
-        },
-        {
-          "name": "Luca Mazzillo",
-          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
-        }
-      ],
-      "duration_ms": 162921,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Warm",
         "url": "https://open.spotify.com/album/0qfYgChE45s9trkjNJT5Iq"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Chiral",
-        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
-      },
-      "artists": [
-        {
-          "name": "Sven Grimm",
-          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Chiral",
-      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/1jB2I6tTdCtzwOa6wmq1lE"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 156000,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/6dfDHPTRAVzPRlpB299l24"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Chiral",
+        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
+      },
+      "artists": [
+        {
+          "name": "Sven Grimm",
+          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Chiral",
+      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1215,6 +1215,38 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Fallen Leaves",
+        "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
+      },
+      "artists": [
+        {
+          "name": "V\u00edgi Seaghdh",
+          "url": "https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Fallen Leaves",
+      "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
+      },
+      "artists": [
+        {
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Pyramidale",
         "url": "https://open.spotify.com/album/2ZXnb9NFeJnwzW0wQ4jY8A"
       },
@@ -1247,18 +1279,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Fallen Leaves",
-        "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
+        "name": "Thirst",
+        "url": "https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk"
       },
       "artists": [
         {
-          "name": "V\u00edgi Seaghdh",
-          "url": "https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm"
+          "name": "Tales of Vibrations",
+          "url": "https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG"
         }
       ],
-      "duration_ms": 157626,
-      "name": "Fallen Leaves",
-      "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
+      "duration_ms": 157159,
+      "name": "Thirst",
+      "url": "https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1275,22 +1307,6 @@
       "duration_ms": 161469,
       "name": "Night Solace",
       "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Thirst",
-        "url": "https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk"
-      },
-      "artists": [
-        {
-          "name": "Tales of Vibrations",
-          "url": "https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG"
-        }
-      ],
-      "duration_ms": 157159,
-      "name": "Thirst",
-      "url": "https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Just One More Time",
-        "url": "https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0"
-      },
-      "artists": [
-        {
-          "name": "Keane Wang",
-          "url": "https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA"
-        }
-      ],
-      "duration_ms": 196312,
-      "name": "Just One More Time",
-      "url": "https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Danse avec moi",
         "url": "https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
+        "name": "Just One More Time",
+        "url": "https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0"
       },
       "artists": [
         {
-          "name": "Lexi Bradley",
-          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+          "name": "Keane Wang",
+          "url": "https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA"
         }
       ],
-      "duration_ms": 124500,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3"
+      "duration_ms": 196312,
+      "name": "Just One More Time",
+      "url": "https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1387,6 +1387,22 @@
       "duration_ms": 139250,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Au matin du magicien",
+        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "duration_ms": 122560,
+      "name": "Au matin du magicien",
+      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Feuille",
-        "url": "https://open.spotify.com/album/5k7Np39Dg8TY4fU2ogaPjX"
-      },
-      "artists": [
-        {
-          "name": "Elijah Reeves",
-          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "Feuille",
-      "url": "https://open.spotify.com/track/5n3wnLgfqGMMCAvx4dxZxO"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Melancholy",
         "url": "https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 214630,
       "name": "Melancholy",
       "url": "https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Feuille",
+        "url": "https://open.spotify.com/album/5k7Np39Dg8TY4fU2ogaPjX"
+      },
+      "artists": [
+        {
+          "name": "Elijah Reeves",
+          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "Feuille",
+      "url": "https://open.spotify.com/track/5n3wnLgfqGMMCAvx4dxZxO"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1483,22 +1499,6 @@
       "duration_ms": 138187,
       "name": "Lugn",
       "url": "https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Au matin du magicien",
-        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
-        }
-      ],
-      "duration_ms": 122560,
-      "name": "Au matin du magicien",
-      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
     },
     {
       "added_at": "2024-01-09 09:49:14",

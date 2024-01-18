@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on. Cover: Saltburn",
-  "num_followers": 303341,
+  "num_followers": 303516,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2M0MDlkZjU0MDQ0OTJlNzU0ZGZmZDdjOGI1Y2UxNDczZjFkYzdk",
+  "snapshot_id": "MCw0MWE0NTdkYTBmOWI3MWYxMjdiMWMzZTQyNTkwNTg2MTIwNmY4ZGI5",
   "tracks": [
     {
       "added_at": "2023-12-27 20:39:24",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        }
-      ],
-      "duration_ms": 225181,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        }
+      ],
+      "duration_ms": 225181,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "\u00bfT\u00e9o?",
-        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        },
-        {
-          "name": "Jaden Smith",
-          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
-        }
-      ],
-      "duration_ms": 170125,
-      "name": "Uno Dos",
-      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Foreign Language (10 Year Anniversary)",
         "url": "https://open.spotify.com/album/2gTe12kWJnouYrPC5m72FC"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 244080,
       "name": "Foreign Language",
       "url": "https://open.spotify.com/track/5JFDFNp3jzckTyB0QwHuwp"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "\u00bfT\u00e9o?",
+        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        },
+        {
+          "name": "Jaden Smith",
+          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
+        }
+      ],
+      "duration_ms": 170125,
+      "name": "Uno Dos",
+      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
     },
     {
       "added_at": "2023-09-29 19:53:20",

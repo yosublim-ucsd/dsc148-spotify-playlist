@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8314026,
+  "num_followers": 8316344,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjQyOGM4N2EzMjdkOGZkYmZhOTZiYjBjOGQ3OWM1MjlmODBkY2Nk",
+  "snapshot_id": "MCw0NmJjOThlZTkwMjhlMDg3OGJhOTE2MzM5NGRjYTQyYjQ2NzJjNjg0",
   "tracks": [
     {
       "added_at": "2023-12-07 13:46:52",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "Doggystyle",
         "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 246200,
       "name": "Who Am I (What\u2019s My Name)?",
       "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "Very Necessary",
-        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 248573,
-      "name": "Shoop",
-      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 224533,
       "name": "Survival of the Fittest",
       "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "Very Necessary",
+        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 248573,
+      "name": "Shoop",
+      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "19NaughtyIII",
-        "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
-      },
-      "artists": [
-        {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Hip Hop Hooray",
-      "url": "https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "Ready to Die (The Remaster)",
         "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 319360,
       "name": "Who Shot Ya? - 2005 Remaster",
       "url": "https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "19NaughtyIII",
+        "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Hip Hop Hooray",
+      "url": "https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -1323,22 +1323,18 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "Harlem World",
-        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
+        "name": "Labcabincalifornia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g"
       },
       "artists": [
         {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        },
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
         }
       ],
-      "duration_ms": 242946,
-      "name": "What You Want (feat. Total)",
-      "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
+      "duration_ms": 296266,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -1371,18 +1367,22 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "Labcabincalifornia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g"
+        "name": "Harlem World",
+        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
       },
       "artists": [
         {
-          "name": "The Pharcyde",
-          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        },
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
         }
       ],
-      "duration_ms": 296266,
-      "name": "Runnin'",
-      "url": "https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5"
+      "duration_ms": 242946,
+      "name": "What You Want (feat. Total)",
+      "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
-      },
-      "artists": [
-        {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
-        }
-      ],
-      "duration_ms": 249293,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "The Slim Shady LP",
         "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 199333,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/6da04YB906XonC6IQNC44u"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
+      },
+      "artists": [
+        {
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "Liquid Swords",
-        "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
-      },
-      "artists": [
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Shadowboxin'",
-      "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 289866,
       "name": "N 2 Gether Now",
       "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "Liquid Swords",
+        "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
+      },
+      "artists": [
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Shadowboxin'",
+      "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
+        "name": "Internal Affairs",
+        "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
+      },
+      "artists": [
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
         "name": "Conspiracy (PA)",
         "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 252240,
       "name": "How I Could Just Kill a Man",
       "url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
-        "name": "Internal Affairs",
-        "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
-      },
-      "artists": [
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Simon Says",
-      "url": "https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6"
     },
     {
       "added_at": "2023-12-07 13:46:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,617 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,622 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 35 | [Do the Milkshake](https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 5:19 |
 | 36 | [Swampland](https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM) | [Scientists](https://open.spotify.com/artist/6LTqstd1cGvRfEXaSkqoy1) | [Sedition](https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv) | 5:19 |
 | 37 | [Hard Time Blues](https://open.spotify.com/track/1fvnhqEfj6ZH5qD6GFCkSZ) | [Laughing Hyenas](https://open.spotify.com/artist/6QGUx7mmJsow2JsuDbsFLq) | [Hard Times](https://open.spotify.com/album/0RcQ3VgenJTgydpoiWJMFm) | 7:19 |
-| 38 | [Just One More](https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G) | [Gallon Drunk](https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b) | [You, The Night… and The Music](https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP) | 3:55 |
+| 38 | [Ida Honey \(Tell Me You'll Be Mine\)](https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Nothing Can Stop These Men](https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7) | 2:15 |
 | 39 | [\(Sometimes You Got to Be\) Gentle](https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 3:27 |
-| 40 | [Ida Honey \(Tell Me You'll Be Mine\)](https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Nothing Can Stop These Men](https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7) | 2:15 |
+| 40 | [Just One More](https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G) | [Gallon Drunk](https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b) | [You, The Night… and The Music](https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP) | 3:55 |
 | 41 | [Round Every Corner](https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna) | [Thee Headcoatees](https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif) | [The Kids Are All Square \- This Is Hip & Girlsville](https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ) | 2:25 |
 | 42 | [Summer Sun Blues](https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn) | [The Go](https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8) | [Whatcha Doin'](https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX) | 3:37 |
 | 43 | [Get It!](https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 49 | [Hanky\-Joe Digger](https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4) | [Speedball Baby](https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA) | [The Blackout](https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE) | 2:06 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MCwzYjhhNmFjODA1NjRkZjNjMDE5NTFkNTIxNWNkN2Y5OWZkYjZkNzQ4`
+Snapshot ID: `MCxjZTE0NDgxNjY2NDdmYjU4MDVkYWY0YTBmMWU2YmUzNmJjNzJhMTAx`

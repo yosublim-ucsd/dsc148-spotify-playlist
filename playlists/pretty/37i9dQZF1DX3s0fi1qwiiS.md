@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 
 > Who order Azul?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,545 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,587 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 | 9 | [GWAGWALADA](https://open.spotify.com/track/0YeUYYOh25Cn57DKTC8uS4) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:08 |
 | 10 | [Soco \(feat\. Wizkid, Ceeza Milli, Spotless & Terri\)](https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Spotless](https://open.spotify.com/artist/7zd8O0lGS5sHftyvnhtWD1), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Soco \(feat\. Wizkid, Ceeza Milli, Spotless & Terri\)](https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo) | 4:15 |
 | 11 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
-| 12 | [Sgudi Snyc](https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Sgudi Snyc](https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe) | 5:31 |
-| 13 | [Iskaba](https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Iskaba](https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu) | 3:44 |
+| 12 | [Iskaba](https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Iskaba](https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu) | 3:44 |
+| 13 | [Sgudi Snyc](https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Sgudi Snyc](https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe) | 5:31 |
 | 14 | [Sensima](https://open.spotify.com/track/2tsuHoDRjMTPkibpOkRuq4) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Sensima](https://open.spotify.com/album/4zpIOgKbJU2MdA0PK6hoeI) | 3:07 |
 | 15 | [Adiwele \(feat\. Kabza De Small & DJ Maphorisa\)](https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS) | [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Notumato](https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge) | 7:51 |
 | 16 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 | 59 | [Grind](https://open.spotify.com/track/2wN5MOqC1C9UeUjw4Z4DPo) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Grind](https://open.spotify.com/album/59IqtbSMonpFQaM1WngQig) | 3:47 |
 | 60 | [Dangote](https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:45 |
 
-Snapshot ID: `MCxjZjc1ZGE3NzQwNjM0OGI1MjFiNWQ5NTc4NDA2YjgyNjhmZjIyNzdh`
+Snapshot ID: `MCw4OWYxNzlhMGI0YWMwY2Q0Y2IzOGViNTIzMTFmZTAzZTg3ZTUyZDBl`

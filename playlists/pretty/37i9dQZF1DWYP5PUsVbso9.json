@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 291150,
+  "num_followers": 291208,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzQ3MjU4NGI1YTVmYThiN2U5OGVhZjNjZGY2MzE5ZGI5ZTQ4ZTYz",
+  "snapshot_id": "MCxkNzZmNTIzMjE1YzBkMThkMjEyOWE2ZWI1MDY2Y2VhMmNmMGM5MWZm",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+        "name": "Night Things",
+        "url": "https://open.spotify.com/album/6SKcfybHqgbi425YFczgUH"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
         }
       ],
-      "duration_ms": 171653,
-      "name": "Every Which Way but Loose - 2009 Remaster",
-      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
+      "duration_ms": 142773,
+      "name": "Daydreams About Night Things",
+      "url": "https://open.spotify.com/track/1PTngmREtR0P0YMLdqVWBj"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -651,34 +651,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Night Things",
-        "url": "https://open.spotify.com/album/6SKcfybHqgbi425YFczgUH"
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
       "artists": [
         {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 142773,
-      "name": "Daydreams About Night Things",
-      "url": "https://open.spotify.com/track/1PTngmREtR0P0YMLdqVWBj"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "This Way Is My Way",
-        "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 134226,
-      "name": "Snowbird",
-      "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
+      "duration_ms": 171653,
+      "name": "Every Which Way but Loose - 2009 Remaster",
+      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -695,6 +679,22 @@
       "duration_ms": 164720,
       "name": "The Year That Clayton Delaney Died",
       "url": "https://open.spotify.com/track/1sfXFEpGVK5s5i8eHEtNPj"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "This Way Is My Way",
+        "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 134226,
+      "name": "Snowbird",
+      "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -999,18 +999,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
+        "name": "Honky Tonk Girl: The Loretta Lynn Collection",
+        "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
       },
       "artists": [
         {
-          "name": "Donna Fargo",
-          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 151306,
-      "name": "The Happiest Girl In The Whole U.S.A.",
-      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
+      "duration_ms": 154560,
+      "name": "You're The Reason Our Kids Are Ugly",
+      "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Honky Tonk Girl: The Loretta Lynn Collection",
-        "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Donna Fargo",
+          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
         }
       ],
-      "duration_ms": 154560,
-      "name": "You're The Reason Our Kids Are Ugly",
-      "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
+      "duration_ms": 151306,
+      "name": "The Happiest Girl In The Whole U.S.A.",
+      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
+        "name": "The Freddy Fender Collection",
+        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
         }
       ],
-      "duration_ms": 186333,
-      "name": "Two More Bottles of Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
+      "duration_ms": 158306,
+      "name": "Before the Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Freddy Fender Collection",
-        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
       "artists": [
         {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Before the Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
+      "duration_ms": 192800,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+        "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
+      "duration_ms": 186333,
+      "name": "Two More Bottles of Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
     },
     {
       "added_at": "2023-08-21 19:26:53",

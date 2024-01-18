@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,779 likes - 92 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,778 likes - 92 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 91 | [Deep End \(Paul’s in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 |
 | 92 | [Two Generations of Excess](https://open.spotify.com/track/3yNBnPv3JbGxGvTiIhndvx) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3) | 7:26 |
 
-Snapshot ID: `MCwzOGViMTdiMDA4OWZmZDViOTFiZWZhNWJkMTZmNmRhOWVkODJhNWVm`
+Snapshot ID: `MCxiMjkyNzc2YjI5NzZkYjRhYzgzN2E5ZTQ3MTYzNWViZjY2MWY3ZGRh`

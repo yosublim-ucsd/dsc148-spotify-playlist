@@ -2,9 +2,9 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-246 songs - 13 hr 20 min
+247 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Chitte \(Tulu Song\)](https://open.spotify.com/track/2Y2taD5g0t8aXsw7LWA3J7) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte \(Tulu Song\)](https://open.spotify.com/album/0regMNfCSK2yR0aqjdvwGQ) | 3:29 | 2023-05-25 | 2023-06-01 |
 | [Daari \- The Way of Life](https://open.spotify.com/track/0upvnzpFrtV9TqTA7cfJhC) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Daari \- The Way of Life](https://open.spotify.com/album/5LzEpngZmmTKQ228rk64Ln) | 4:15 | 2023-12-07 |  |
 | [Dinavella](https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo) | 3:12 | 2023-11-24 |  |
-| [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 | 2023-03-23 |  |
+| [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 | 2023-03-23 | 2024-01-18 |
 | [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 | 2023-03-31 | 2023-12-12 |
 | [Dosthi](https://open.spotify.com/track/6kikzlcHn876UkFBtdYrai) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Dosthi](https://open.spotify.com/album/4d4tz7uQcWFs5H9G38FiG8) | 2:50 | 2023-09-20 |  |
 | [E Preeti](https://open.spotify.com/track/01ivpm8n90rIrUQUAKtvon) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [E Preeti](https://open.spotify.com/album/65sytc26MQaDBrib5Dc4ml) | 2:48 | 2023-05-29 | 2024-01-09 |
@@ -221,6 +221,7 @@
 | [Sahavaasa](https://open.spotify.com/track/3rv2dzhrrimcWrEAqb6yMc) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Sahavaasa](https://open.spotify.com/album/33AjV8NCgBekha704N5DC8) | 1:31 | 2023-09-20 | 2024-01-07 |
 | [Sajana Re](https://open.spotify.com/track/2J9fnmKHJcOKmIgt8IXqe5) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Armaan Sharif](https://open.spotify.com/artist/0JsfsNRsH8pgGtTe1uqWgD) | [Sajana Re](https://open.spotify.com/album/3ZZDTeKo5dDnwr8tBE6HOD) | 3:38 | 2023-05-08 | 2023-08-24 |
 | [Samaya](https://open.spotify.com/track/20BJuCXShibTVncYK69A65) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Samaya](https://open.spotify.com/album/1rS1YaKDlPKGJhWZZK7kv1) | 3:43 | 2022-09-16 | 2023-07-04 |
+| [Sanchike](https://open.spotify.com/track/5P0MbwYlfgK2PtQD8McpLm) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Mitakshar Ainkai](https://open.spotify.com/artist/2cWf8aFRGME7EIAHkfydrR) | [Sanchike](https://open.spotify.com/album/33QrVswoypxLlJZPexFWw2) | 2:48 | 2024-01-17 |  |
 | [Sangaathiye](https://open.spotify.com/track/5iwlfP4A73IdPrkiia6lFk) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Sangaathiye](https://open.spotify.com/album/2Tb1uLand5DvEzkj5PUpdM) | 3:37 | 2023-07-17 | 2023-07-29 |
 | [Saviyada](https://open.spotify.com/track/7H8zRoRXxz0syKMxrLTLl7) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Saviyada](https://open.spotify.com/album/64pKI9E3rbwBsdeVIZ4NCr) | 2:32 | 2023-10-04 |  |
 | [She is my X](https://open.spotify.com/track/6hp2rHqAVujBCKmd2ndC0X) | [Pride](https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf) | [She is my X](https://open.spotify.com/album/3vIgGybLPdGqbwsJu2bOcX) | 2:51 | 2023-07-08 | 2023-07-18 |

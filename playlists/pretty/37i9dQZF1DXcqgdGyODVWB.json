@@ -1,12 +1,12 @@
 {
   "description": "Cumbia Norte\u00f1a y Norte\u00f1o Sax para las vibras de verano.",
-  "num_followers": 15540,
+  "num_followers": 15595,
   "original_name": "Norte\u00f1o Pa' La Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDBjNTRjMmRjZjI5ZTY5MmQyZjIwYWM5YTAyOThjM2FlMzllMjYz",
+  "snapshot_id": "MCw4NGU4MmJmNGJjN2M3ZTJjZmRiYzc2NDczNWIwMGRkN2JhM2MyMTQy",
   "tracks": [
     {
       "added_at": "2023-12-07 01:18:03",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Jugo A La Vida",
-        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "La Chica Sexy",
-      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "P\u00eddeme",
         "url": "https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 207679,
       "name": "P\u00eddeme",
       "url": "https://open.spotify.com/track/1diebTiolD8N22iuOfmvSy"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Jugo A La Vida",
+        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "La Chica Sexy",
+      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "El Fen\u00f3meno",
-        "url": "https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "As\u00ed Ya No",
-      "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Esper\u00e1ndote",
         "url": "https://open.spotify.com/album/1hRk2jBvzatrEbqFtZmUVo"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 169041,
       "name": "Y Me Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "El Fen\u00f3meno",
+        "url": "https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "As\u00ed Ya No",
+      "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
     },
     {
       "added_at": "2023-12-07 01:18:03",

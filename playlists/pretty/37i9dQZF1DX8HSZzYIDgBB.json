@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Jarina De Marco en portada.",
-  "num_followers": 36147,
+  "num_followers": 36174,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDU1YzYxOTFmODYxMWM0YmZlNjgzMDA5ODJjYTViMzBjZDQ3ZTQy",
+  "snapshot_id": "MCw1YmU2YzYwNjJiMDdjMzE5MWQ2NGM2MjE4ZGFjNmNmYTMxMGRjNDk2",
   "tracks": [
     {
       "added_at": "2023-12-07 01:08:32",
@@ -775,38 +775,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/6AvC278qiJnaF5jj7ariso"
-    },
-    {
-      "added_at": "2023-10-12 02:18:45",
-      "album": {
-        "name": "Switched-On",
-        "url": "https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Trago Coqueto",
-      "url": "https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Sal de Mar",
         "url": "https://open.spotify.com/album/21NRPLtRhSOKiBXbPM3yRU"
       },
@@ -829,6 +797,38 @@
       "url": "https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX"
     },
     {
+      "added_at": "2023-10-12 02:18:45",
+      "album": {
+        "name": "Switched-On",
+        "url": "https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Trago Coqueto",
+      "url": "https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/6AvC278qiJnaF5jj7ariso"
+    },
+    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Alma Carnavalera",
@@ -843,6 +843,54 @@
       "duration_ms": 234655,
       "name": "Alma Carnavalera",
       "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "la noche de ayer",
+        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 255591,
+      "name": "la noche de ayer",
+      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "Isla Disco",
+        "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 214363,
+      "name": "Mayag\u00fcez",
+      "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Te Olvidaste",
+        "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 182470,
+      "name": "Te Olvidaste",
+      "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
     },
     {
       "added_at": "2023-09-25 00:03:53",
@@ -867,54 +915,6 @@
       "duration_ms": 182001,
       "name": "Masa",
       "url": "https://open.spotify.com/track/3f1sD5hO3N1loYO79wX27L"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "la noche de ayer",
-        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 255591,
-      "name": "la noche de ayer",
-      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Te Olvidaste",
-        "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 182470,
-      "name": "Te Olvidaste",
-      "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "Isla Disco",
-        "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 214363,
-      "name": "Mayag\u00fcez",
-      "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -969,26 +969,6 @@
       "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
       "added_at": "2023-06-01 16:51:17",
       "album": {
         "name": "RAMA",
@@ -1007,6 +987,26 @@
       "duration_ms": 307882,
       "name": "Rama",
       "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1137,6 +1137,26 @@
       "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
     },
     {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/0caakYqzmMN6U2kOsdBugO"
+      },
+      "artists": [
+        {
+          "name": "Mila La Morena",
+          "url": "https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P"
+        },
+        {
+          "name": "C\u2206IRNS",
+          "url": "https://open.spotify.com/artist/0VWzC7LRAtMuSYC5wndrPb"
+        }
+      ],
+      "duration_ms": 265187,
+      "name": "Sagitario",
+      "url": "https://open.spotify.com/track/47o3EFBMHF6d7HgKbmA0oo"
+    },
+    {
       "added_at": "2023-12-07 01:08:32",
       "album": {
         "name": "La N\u00famero Uno",
@@ -1151,26 +1171,6 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Levante la Mano (Remixes)",
-        "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        },
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Levante la Mano (Tonga Conga Remix)",
-      "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/0caakYqzmMN6U2kOsdBugO"
+        "name": "Levante la Mano (Remixes)",
+        "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
       },
       "artists": [
         {
-          "name": "Mila La Morena",
-          "url": "https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P"
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
         },
         {
-          "name": "C\u2206IRNS",
-          "url": "https://open.spotify.com/artist/0VWzC7LRAtMuSYC5wndrPb"
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
         }
       ],
-      "duration_ms": 265187,
-      "name": "Sagitario",
-      "url": "https://open.spotify.com/track/47o3EFBMHF6d7HgKbmA0oo"
+      "duration_ms": 243000,
+      "name": "Levante la Mano (Tonga Conga Remix)",
+      "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198048,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Manifest Tone EP",
         "url": "https://open.spotify.com/album/0rzUB5TzTLGYryGbry7YAE"
       },
@@ -1265,20 +1281,20 @@
       "url": "https://open.spotify.com/track/4wJF4rXSEidU6ZlZKp8Nre"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
+      "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
       },
       "artists": [
         {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
         }
       ],
-      "duration_ms": 198048,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
+      "duration_ms": 157267,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
     },
     {
       "added_at": "2023-08-15 18:22:19",
@@ -1301,20 +1317,20 @@
       "url": "https://open.spotify.com/track/7pI7M7SsSAV8TgKNdwVPKV"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
+        "name": "So\u00f1ando",
+        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
       },
       "artists": [
         {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
         }
       ],
-      "duration_ms": 157267,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
+      "duration_ms": 242215,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1335,22 +1351,6 @@
       "duration_ms": 181280,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/3ta4JlvWcD4hL86TXu8YWa"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "So\u00f1ando",
-        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 242215,
-      "name": "So\u00f1ando",
-      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
     },
     {
       "added_at": "2023-05-05 23:46:53",

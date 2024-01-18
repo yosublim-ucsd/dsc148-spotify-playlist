@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,374 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,416 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 41 | [Can I Be Him \- Acoustic Live Version](https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Can I Be Him \(Acoustic Live Version\)](https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah) | 5:05 |
 | 42 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 |
 | 43 | [Let It Be](https://open.spotify.com/track/4FqhM1hv7pQ0UbemW90HZL) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Yesterday](https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye) | 2:28 |
-| 44 | [More & More](https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [More & More](https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD) | 3:31 |
-| 45 | [Anti\-Hero](https://open.spotify.com/track/4BwDXIHlk3bLJYZFnysm3b) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Anti\-Hero](https://open.spotify.com/album/5r43uFC78gwhlk54OUekf9) | 3:19 |
+| 44 | [Anti\-Hero](https://open.spotify.com/track/4BwDXIHlk3bLJYZFnysm3b) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Anti\-Hero](https://open.spotify.com/album/5r43uFC78gwhlk54OUekf9) | 3:19 |
+| 45 | [More & More](https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [More & More](https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD) | 3:31 |
 | 46 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 |
 | 47 | [IT'S YOU \(feat\. keshi\) \- Stripped Version](https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\) \[Stripped Version\]](https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP) | 2:38 |
 | 48 | [Please Keep Loving Me \- Acoustic](https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me \(Acoustic\)](https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX) | 3:17 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 54 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 |
 | 55 | [Fill Me Up](https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Fill Me Up](https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14) | 2:34 |
 | 56 | [Rosie](https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sometimes It's Something, Sometimes It's Nothing at All](https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR) | 1:58 |
-| 57 | [see u tomorrow \- stripped](https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [see u tomorrow \(stripped\)](https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH) | 3:17 |
-| 58 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 |
+| 57 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 |
+| 58 | [see u tomorrow \- stripped](https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [see u tomorrow \(stripped\)](https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH) | 3:17 |
 | 59 | [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 |
 | 60 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 |
 | 61 | [This Is What It Takes](https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:50 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 88 | [One Life \- Acoustic](https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap \(Deluxe Edition\)](https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN) | 3:19 |
 | 89 | [Nervous \- Acoustic](https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous](https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf) | 4:10 |
 | 90 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |
-| 91 | [I'm Sure He Loves You](https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [I'm Sure He Loves You](https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w) | 3:03 |
-| 92 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 |
+| 91 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 |
+| 92 | [I'm Sure He Loves You](https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [I'm Sure He Loves You](https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w) | 3:03 |
 | 93 | [Hold On To Happiness](https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Hold On To Happiness](https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ) | 3:37 |
 | 94 | [Find You \- Acoustic](https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You \(Acoustic\)](https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ) | 3:15 |
 | 95 | [Paradise \(with Olivia Holt\) \- Acoustic](https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Paradise \(with Olivia Holt\) \[Acoustic\]](https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [Better Than Today](https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 3:49 |
 | 100 | [Fine On Your Own](https://open.spotify.com/track/5GieMXCbY0rFATTrwyMqS2) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [God Save The Dream](https://open.spotify.com/album/4OX4R0SPj4MkfLcQqsMcY5) | 3:42 |
 
-Snapshot ID: `MCxhNTI3OWUzNjE0MDg1YTk1ZTZjZjZiODcwOTkyNTg3MzUzZTIzOGU0`
+Snapshot ID: `MCw2MzQzYWQ0NDQ0ODEwMDA1YThhNDkwNzQ5ZDM0NzY1NDQxNTA3NzM3`

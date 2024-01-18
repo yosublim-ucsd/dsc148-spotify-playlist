@@ -5589,6 +5589,24 @@
     },
     {
       "album": {
+        "name": "Chipi Chipi Chapa Chapa (Hardstyle)",
+        "url": "https://open.spotify.com/album/2xXIw6DP3enFgzZsV3dfZO"
+      },
+      "artists": [
+        {
+          "name": "Xen Hardstyle",
+          "url": "https://open.spotify.com/artist/7E6vGROS2Nz2lmexz1dtgo"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173060,
+      "name": "Chipi Chipi Chapa Chapa - Hardstyle",
+      "url": "https://open.spotify.com/track/5h4Zs4b1qzuAOaHc5PpGku"
+    },
+    {
+      "album": {
         "name": "Christell",
         "url": "https://open.spotify.com/album/37hWotp4LwiFxD9hPOe8tC"
       },
@@ -5600,7 +5618,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 226069,
       "name": "Chipi Chipi Chapa Chapa Dubidubidu",
       "url": "https://open.spotify.com/track/0tdtQptse7jupJyrkIIFiA"
@@ -5854,6 +5872,24 @@
       "duration_ms": 86160,
       "name": "classical phonk",
       "url": "https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl"
+    },
+    {
+      "album": {
+        "name": "Meet The Lilithz",
+        "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
+      },
+      "artists": [
+        {
+          "name": "Lilithzplug",
+          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126481,
+      "name": "CLEARED - Remix",
+      "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
     },
     {
       "album": {
@@ -8177,6 +8213,24 @@
     },
     {
       "album": {
+        "name": "Christell",
+        "url": "https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz"
+      },
+      "artists": [
+        {
+          "name": "Christell",
+          "url": "https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226103,
+      "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
+      "url": "https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ"
+    },
+    {
+      "album": {
         "name": "MATERIA (PELLE)",
         "url": "https://open.spotify.com/album/6tgLnr7amiuRBK9LjO0pWG"
       },
@@ -10496,10 +10550,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 192208,
       "name": "Gangsta Track",
       "url": "https://open.spotify.com/track/5phRQFJo5kBndQ7ahZBm3S"
+    },
+    {
+      "album": {
+        "name": "Gangsta Track",
+        "url": "https://open.spotify.com/album/50gu99rEdG0cz3beoviXpz"
+      },
+      "artists": [
+        {
+          "name": "lovehurts",
+          "url": "https://open.spotify.com/artist/7jjfGm38c4wfP2JpqAZgCY"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192312,
+      "name": "Gangsta Track",
+      "url": "https://open.spotify.com/track/0SBatkjHnyl27PyVgBY39q"
     },
     {
       "album": {
@@ -13862,7 +13934,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
@@ -15506,6 +15578,24 @@
       "duration_ms": 324000,
       "name": "Know You Miss Me",
       "url": "https://open.spotify.com/track/3AhTANwPh05IairsIXltRi"
+    },
+    {
+      "album": {
+        "name": "Kobra Rap",
+        "url": "https://open.spotify.com/album/4Z9QcT5SG14sqqjp0zcQkq"
+      },
+      "artists": [
+        {
+          "name": "Peter Kutka",
+          "url": "https://open.spotify.com/artist/3K5JZWFqGc2LoFjh5E3Uo1"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224835,
+      "name": "Kobra Rap",
+      "url": "https://open.spotify.com/track/1j626DYy4L0wH5RzpgdIwp"
     },
     {
       "album": {
@@ -17506,7 +17596,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 207910,
       "name": "mamaididit",
       "url": "https://open.spotify.com/track/1bE7Xr3y4C817TAWunZlFm"
@@ -18899,6 +18989,24 @@
     },
     {
       "album": {
+        "name": "Molto Allegro",
+        "url": "https://open.spotify.com/album/6LtuUagNwof5jLK7IO7r1g"
+      },
+      "artists": [
+        {
+          "name": "G&J",
+          "url": "https://open.spotify.com/artist/70DyeGC3ucG1pMEWCcjFUU"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Molto Allegro",
+      "url": "https://open.spotify.com/track/2tbf8Kg7mmr6wliHGFJrjw"
+    },
+    {
+      "album": {
         "name": "Stra\u0161ideln\u00fd dom",
         "url": "https://open.spotify.com/album/0PQ7MZ1ifWDSfAmNQNFno4"
       },
@@ -19224,6 +19332,24 @@
       "duration_ms": 151690,
       "name": "Mood",
       "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
+    },
+    {
+      "album": {
+        "name": "Mood (Melodic Drill Type Beat)",
+        "url": "https://open.spotify.com/album/1WYmie6CFP8MCAmGLSiiru"
+      },
+      "artists": [
+        {
+          "name": "Drilland",
+          "url": "https://open.spotify.com/artist/1qYNVX9vVfTR5orzCtzaSz"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208285,
+      "name": "Mood - Melodic Drill Type Beat",
+      "url": "https://open.spotify.com/track/6TPPliWfts1e9RJ7s7nXjm"
     },
     {
       "album": {
@@ -20288,7 +20414,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 157521,
       "name": "NARKOTYKI",
       "url": "https://open.spotify.com/track/4K1ormdnD2nybK87uKyo9n"
@@ -22048,7 +22174,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 64834,
       "name": "Oompa Loompa",
       "url": "https://open.spotify.com/track/17bN37TI0A1ZqTB5XGvQj7"
@@ -23810,7 +23936,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 237733,
       "name": "Practice",
       "url": "https://open.spotify.com/track/0jF2AdhsalO1L7KkhK4LE5"
@@ -29140,7 +29266,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 133935,
       "name": "Swagged to Death",
       "url": "https://open.spotify.com/track/7Czz5Jyrsz3O5UjDmE3Wez"
@@ -32091,6 +32217,24 @@
     },
     {
       "album": {
+        "name": "On n\u2019enferme pas les oiseaux",
+        "url": "https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177426,
+      "name": "Voil\u00e0",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
+    },
+    {
+      "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
       },
@@ -32791,6 +32935,28 @@
     },
     {
       "album": {
+        "name": "We Fell Apart - Slowed",
+        "url": "https://open.spotify.com/album/3V1sblKA6FxagHCEupdkAw"
+      },
+      "artists": [
+        {
+          "name": "overrated",
+          "url": "https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV"
+        },
+        {
+          "name": "Akucum",
+          "url": "https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155480,
+      "name": "We Fell Apart - Slowed",
+      "url": "https://open.spotify.com/track/6quitQPG3Gr3GMHC6L5CCG"
+    },
+    {
+      "album": {
         "name": "we fell in love in october / forget her",
         "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
       },
@@ -32986,7 +33152,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 122414,
       "name": "WHAT YOU WANT!",
       "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"

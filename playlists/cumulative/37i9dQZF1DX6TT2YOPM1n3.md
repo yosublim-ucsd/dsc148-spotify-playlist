@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Current Pakistani hits under one roof\. Cover: Atif Aslam
+> Current Pakistani hits under one roof\. Cover: Hasan Raheem, Abdul Hannan
 
-119 songs - 7 hr 41 min
+120 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Woh Lamhe \- Remix](https://open.spotify.com/track/723pP4FLUQv1qSAnQtgl78) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Zeher \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PsWxlYQv7GXgaoIJOFL13) | 5:20 | 2023-05-04 | 2023-05-23 |
 | [Yaadein Teri](https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri) | [Mubeen Butt](https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF) | [Yaadein Teri](https://open.spotify.com/album/1HFEZH0LEZnjjfatiYUvb8) | 4:04 | 2023-12-21 |  |
 | [Yeh Jism](https://open.spotify.com/track/4sRcdrQrFilYpMIybCwgKU) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Jism 2](https://open.spotify.com/album/0jnPWcGep7AperEjb23Ors) | 3:50 | 2023-05-04 | 2023-06-27 |
+| [Zaalima](https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zaalima](https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5) | 3:02 | 2024-01-17 |  |
 | [Zindagi](https://open.spotify.com/track/2DaPCl392tphoi2TqslBdG) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Leo Twins](https://open.spotify.com/artist/6pFaaeIt3kbdx8Xrgk0fUP) | [Zindagi](https://open.spotify.com/album/7JE3yjCRu0Uxs1eSVstvu7) | 4:09 | 2023-12-29 |  |
 
 \*This playlist was first scraped on 2023-05-05. Prior content cannot be recovered.

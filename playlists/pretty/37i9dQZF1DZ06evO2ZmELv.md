@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZmELv.md) - [plain]
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZmELv.md) - [plain]
 | 36 | [Haré de Cuenta](https://open.spotify.com/track/28JoiRZEHQRpYC1ofiOYpO) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:29 |
 | 37 | [Extraña Manera \- En Vivo](https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:20 |
 | 38 | [Amor Ranchero](https://open.spotify.com/track/1trn4GJEVc1fUJ6QPt47Q8) | [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Herencia de Reyes](https://open.spotify.com/album/41jebnJTjXLJUPccmutiXa) | 3:18 |
-| 39 | [Con Rumbo Al Sur \- En Vivo](https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:55 |
-| 40 | [Dos Amores En Mi Vida \- En Vivo](https://open.spotify.com/track/7jp4rYlZ2cBEpRVZxeBoQe) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 1:50 |
+| 39 | [Chuchuluqueando \- En Vivo](https://open.spotify.com/track/2gAupLmtufI2V605ottAuV) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:06 |
+| 40 | [Con Rumbo Al Sur \- En Vivo](https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:55 |
 
-Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDA3MTdiZDE3MmYzZGU4ZDFiMWMwZjUxNThmY2RhNGRlMQ==`
+Snapshot ID: `Mjg0MjQ4NzgsMDAwMDAwMDA1ODVlNjQzMjQ3NWJlNzU3NzM2NjNhYTZjODIxMmI2Mw==`

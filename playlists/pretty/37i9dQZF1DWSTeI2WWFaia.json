@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjQ1NWUyMzc3YWQ1ZWQzMWQzZWIzMTMxZThlOWI1YTQxMDk2Y2Jl",
+  "snapshot_id": "MCwwZjFmYmI1NDczMTNiMjc2YzY2ZDA2OGMxOTRiZmZmYzcwMmIwYWE2",
   "tracks": [
     {
       "added_at": "2024-01-12 04:00:00",
@@ -131,26 +131,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "VOIR DIRE",
-        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 113186,
-      "name": "Vin Skully",
-      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "MiNt cHoCoLaTe (feat. Conway The Machine)",
         "url": "https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 213640,
       "name": "MiNt cHoCoLaTe (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "VOIR DIRE",
+        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 113186,
+      "name": "Vin Skully",
+      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Magic 3",
-        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 190067,
-      "name": "Never Die (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 161506,
       "name": "Mancala (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 190067,
+      "name": "Never Die (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
+        "name": "Max Julien",
+        "url": "https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Max Julien",
+      "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
         "name": "Magic 2",
         "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 232017,
       "name": "Office Hours (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
-        "name": "Max Julien",
-        "url": "https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Max Julien",
-      "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -583,18 +583,30 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "Magic 3",
-        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+        "name": "No Yeast (Remix) [feat. Boldy James & Westside Gunn]",
+        "url": "https://open.spotify.com/album/1cTjjDQu00jgCLmSQLNF4G"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         }
       ],
-      "duration_ms": 197519,
-      "name": "I Love This Feeling",
-      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
+      "duration_ms": 227240,
+      "name": "No Yeast (feat. Boldy James & Westside Gunn) - Remix",
+      "url": "https://open.spotify.com/track/3g94P2bRVtVe1GqJnYOoV1"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -651,34 +663,6 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
-        "name": "No Yeast (Remix) [feat. Boldy James & Westside Gunn]",
-        "url": "https://open.spotify.com/album/1cTjjDQu00jgCLmSQLNF4G"
-      },
-      "artists": [
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "No Yeast (feat. Boldy James & Westside Gunn) - Remix",
-      "url": "https://open.spotify.com/track/3g94P2bRVtVe1GqJnYOoV1"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
         "name": "Burning Desire",
         "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 260000,
       "name": "Show & Tell (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 197519,
+      "name": "I Love This Feeling",
+      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 213940,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 144140,
-      "name": "Guapanese",
-      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
     },
     {
       "added_at": "2024-01-12 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-01-12 04:00:00",
       "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+    },
+    {
+      "added_at": "2024-01-12 04:00:00",
+      "album": {
         "name": "Flying High, Part 2",
         "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 176026,
       "name": "Phil Drummond (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/0MZPezONUuxbQZGsWeFWra"
-    },
-    {
-      "added_at": "2024-01-12 04:00:00",
-      "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     }
   ],
   "unique_name": "Spilled Ink",

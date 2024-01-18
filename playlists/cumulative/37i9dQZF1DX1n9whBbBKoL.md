@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-210 songs - 10 hr 40 min
+213 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Alpha Meditation](https://open.spotify.com/track/2UITlqXM467haohWgPffAT) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Meditation](https://open.spotify.com/album/1bPVJAq7CbCRx8pOA16H0y) | 2:36 | 2021-11-10 |  |
 | [Ambient Air](https://open.spotify.com/track/4XHaA4QqMFvVtXIBWnG2oo) | [Hania Norman](https://open.spotify.com/artist/3xN9C3YIF6wMBViCxLTVIZ) | [Ambient Air](https://open.spotify.com/album/0EF9y5hb4YtG17AEQeVzj5) | 2:30 | 2023-02-25 |  |
 | [an actual dream](https://open.spotify.com/track/1cyujCsAN9h8y4JEwzVpLz) | [Ai Bolako](https://open.spotify.com/artist/1uPqipOxJdAWqWaoVGywSV) | [an actual dream](https://open.spotify.com/album/298EFiuSDE4jQzEZLdOrAV) | 2:24 | 2023-11-10 |  |
+| [Angelic Spaces](https://open.spotify.com/track/54neOde1RbPnHN0jvhc3Bb) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Angelic Spaces](https://open.spotify.com/album/0Na5e10kAhbEWpStQ1wmPB) | 2:18 | 2024-01-18 |  |
 | [Annashuwa](https://open.spotify.com/track/10ZtwOdYSWqKgiYgOg36N5) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Annashuwa](https://open.spotify.com/album/0nJZwim2ChJLwgnr6xo4PR) | 3:35 | 2021-11-10 |  |
 | [Another Galaxy](https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Another Galaxy](https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl) | 2:26 | 2022-08-15 |  |
 | [Anti\-Clockwise Spiral Staircase](https://open.spotify.com/track/3XddzxSe1cKTCIDQis3NaO) | [Alexander Brinkman](https://open.spotify.com/artist/00PBaUiEJHzToevJcWXv4M) | [Anti\-Clockwise Spiral Staircase](https://open.spotify.com/album/14wlLHVPkCezE2gwGu2v6f) | 3:52 | 2021-11-10 | 2022-04-22 |
@@ -38,6 +39,7 @@
 | [Beta Zone](https://open.spotify.com/track/4tng20Ebg02qGs4z5r1dji) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Binaural](https://open.spotify.com/album/4nDz7dL6A1JJ2q5QWdpY5p) | 3:20 | 2021-11-10 | 2023-03-18 |
 | [Beyond & Back](https://open.spotify.com/track/1Fl9ptJFxhir0pC9jNpwKx) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Beyond & Back](https://open.spotify.com/album/6UjOraeSaCwZrZnjuQTw8F) | 2:46 | 2022-06-16 |  |
 | [Binaural Beta Sinus 300 Hz \- 330 Hz](https://open.spotify.com/track/36IfppbuhVOH1pSRQucbts) | [Sisu Syndrome](https://open.spotify.com/artist/0oLpUOxIR7CnkgQggfksI9) | [Binaural Beta Sinus 300 Hz \- 330 Hz](https://open.spotify.com/album/5ERjTB1ysvHRuZxFpVGuQO) | 2:28 | 2021-11-10 |  |
+| [Binaural Theta Sleep 80Hz \- 86Hz](https://open.spotify.com/track/5dfd9LRSjGs4oLTWb7z12A) | [Zeta Loxi](https://open.spotify.com/artist/7BvP1SJxIHUPDY2b35JgPL) | [Binaural Theta Sleep 80Hz \- 86Hz](https://open.spotify.com/album/7uiagaBEo11mYqQq7fc9oL) | 2:08 | 2024-01-18 |  |
 | [Black Hole](https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Black Hole](https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW) | 2:45 | 2021-11-10 | 2022-04-22 |
 | [Blood Moon](https://open.spotify.com/track/65ip2ya2ftUbZHZrfCWuVt) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Blood Moon](https://open.spotify.com/album/32hQvZj9wovY9TOsH29TQn) | 3:53 | 2021-11-10 | 2022-04-22 |
 | [Bothain](https://open.spotify.com/track/01dutwUQJ4Yc79OKfejVuQ) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Bothain](https://open.spotify.com/album/4zxWNIQwykrTOJ7cPVPosB) | 2:22 | 2022-10-21 |  |
@@ -77,6 +79,7 @@
 | [Dromen](https://open.spotify.com/track/7vIew2ZVzo2XVNXHxLHWkV) | [Bedtijd](https://open.spotify.com/artist/3zgXwIxfRrDAWL8QYsZcih) | [Dromen](https://open.spotify.com/album/04XQLv9HUY1KtLVLuMD06c) | 1:46 | 2021-11-10 | 2023-07-29 |
 | [Dronelands](https://open.spotify.com/track/0VrHyuyaQFAUFBAarlTZtx) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Dronelands](https://open.spotify.com/album/4y65hxMYGwQdKSXi1hqfno) | 2:15 | 2023-04-21 |  |
 | [Dust](https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G) | [En Orbita](https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o) | [Dust](https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1) | 3:17 | 2022-01-21 |  |
+| [Eden](https://open.spotify.com/track/1DFn1WHnPSr80WSKNJcdWG) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Eden](https://open.spotify.com/album/103Ei0O61EuLk5cnadIT0t) | 3:04 | 2024-01-18 |  |
 | [Emerald Isles](https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Emerald Isles](https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd) | 3:53 | 2021-11-10 | 2023-11-11 |
 | [Endless Hope](https://open.spotify.com/track/76ph3BPshzbP1Ph4BLTSHU) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Legacy](https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr) | 2:41 | 2023-02-25 |  |
 | [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-01-21 | 2022-08-13 |

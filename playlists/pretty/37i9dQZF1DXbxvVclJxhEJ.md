@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,543 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,583 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 7 | [Dust My Broom](https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 3:35 |
 | 8 | [That's A Pretty Good Love](https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [Blues, Candy & Big Maybelle](https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh) | 2:35 |
 | 9 | [Nursery Rhyme Rock](https://open.spotify.com/track/1CZ4Wzu1EHqyGT2AsIeDlG) | [Wynona Carr](https://open.spotify.com/artist/0v6JkAzkEJ6lCw6hAVs5VP) | [Jump Jack Jump!](https://open.spotify.com/album/7xAQpANaShSbcAUfPs39ci) | 1:56 |
-| 10 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
-| 11 | [Runaway Blues](https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:26 |
+| 10 | [Runaway Blues](https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:26 |
+| 11 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
 | 12 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
 | 13 | [Shout Sister Shout](https://open.spotify.com/track/7hpI4eFBXUYk3ZtsztFmWc) | [Lucky Millinder](https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23) | [Big Band Bounce & Boogie](https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk) | 2:46 |
 | 14 | [As Long as I'm Moving](https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:45 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 24 | [Evil Gal Blues](https://open.spotify.com/track/32Rewuvfprf0VC5PX3ax3P) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Best In Blues](https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap) | 2:54 |
 | 25 | [Don't Mess With My Man](https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron](https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM) | 2:19 |
 | 26 | [Billie's Blues \- Take 1](https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:37 |
-| 27 | [Didn't It Rain](https://open.spotify.com/track/41UXxCtdRFYQMVbMi40Fi8) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Gospels, Spirituals, & Hymns](https://open.spotify.com/album/3HLro5JgcU0df3rnJ4FXlV) | 2:38 |
-| 28 | [When The Levee Breaks](https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb) | [Memphis Minnie & Kansas Joe](https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl) | [Queen Of The Blues](https://open.spotify.com/album/6DgLR9u6il9EhtkKEx4AiY) | 3:08 |
+| 27 | [When The Levee Breaks](https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb) | [Memphis Minnie & Kansas Joe](https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl) | [Queen Of The Blues](https://open.spotify.com/album/6DgLR9u6il9EhtkKEx4AiY) | 3:08 |
+| 28 | [Didn't It Rain](https://open.spotify.com/track/41UXxCtdRFYQMVbMi40Fi8) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Gospels, Spirituals, & Hymns](https://open.spotify.com/album/3HLro5JgcU0df3rnJ4FXlV) | 2:38 |
 | 29 | [A Little Bird Told Me](https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j) | [Blue Lu Barker](https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ) | [Capitol Records From The Vaults: "Vine Street Divas"](https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw) | 2:14 |
 | 30 | [I Used to Be Your Sweet Mama](https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 3](https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY) | 2:48 |
 | 31 | [I'm Feeling Alright](https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 74 | [A Jealous Woman Like Me](https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [Presenting Sippie Wallace](https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR) | 3:17 |
 | 75 | [Country Boy Blues](https://open.spotify.com/track/3aidj13SWwc9o63JMdFyva) | [Lilgreen](https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7) | [Lil's Big Hits](https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08) | 2:56 |
 
-Snapshot ID: `MCxmNGRjMzdhOWNkMTQ2YzQ0ZTYzOTU0ZWQ0YWFlOTA2M2VhZmY2NTMx`
+Snapshot ID: `MCw0YWJiMzRmZTliNWE2ZDEzMzY0OGZmMjlkYWIyMGExMjA5ZjY4Y2Fh`

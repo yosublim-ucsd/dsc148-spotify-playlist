@@ -1,12 +1,12 @@
 {
   "description": "Songs, die von innen w\u00e4rmen.",
-  "num_followers": 1038848,
+  "num_followers": 1038864,
   "original_name": "Winter Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjdhMjkwYjIwY2FiMTAxZWJlYjI5MGJlYzE1ODE0NGM5NDA2OTU2",
+  "snapshot_id": "MCxiYWUxMTBiMGVlNTcwNGMwM2QxZGM4MzY1MTZhYWY5YTk3N2Q5NDM4",
   "tracks": [
     {
       "added_at": "2023-12-21 23:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Jessie (i miss you)",
-        "url": "https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 197748,
-      "name": "Jessie (i miss you)",
-      "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
         "name": "Violence in a Quiet Mind",
         "url": "https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 231000,
       "name": "Calico",
       "url": "https://open.spotify.com/track/7CCjLo2MrzvWXOepY9PGnA"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "Jessie (i miss you)",
+        "url": "https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 197748,
+      "name": "Jessie (i miss you)",
+      "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "tonight",
-        "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
-      },
-      "artists": [
-        {
-          "name": "BEACHPEOPLE",
-          "url": "https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba"
-        }
-      ],
-      "duration_ms": 164477,
-      "name": "tonight",
-      "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "tonight",
+        "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
+      },
+      "artists": [
+        {
+          "name": "BEACHPEOPLE",
+          "url": "https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba"
+        }
+      ],
+      "duration_ms": 164477,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Trade it for the Night",
-        "url": "https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 290986,
-      "name": "Trade it for the Night",
-      "url": "https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
         "name": "Eugene",
         "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 221804,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "Trade it for the Night",
+        "url": "https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 290986,
+      "name": "Trade it for the Night",
+      "url": "https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
         "name": "Kahan (last year)",
         "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 216000,
       "name": "Kahan (last year)",
       "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Prolog I",
-        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
-      },
-      "artists": [
-        {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
-        }
-      ],
-      "duration_ms": 258505,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
         "name": "Am Ende des Tages",
         "url": "https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 195000,
       "name": "Bisschen wach",
       "url": "https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "Prolog I",
+        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "duration_ms": 258505,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 124080,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
         "name": "Oceanside",
         "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. d4vd)",
       "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Coffee Shop",
-        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 124080,
-      "name": "Coffee Shop",
-      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj"
-      },
-      "artists": [
-        {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
         "name": "Back In Love",
         "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 281253,
       "name": "Back In Love",
       "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj"
+      },
+      "artists": [
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv"
     }
   ],
   "unique_name": "Winter Chillout",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,843 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,824 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 36 | [Blue Christmas](https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR) | 1:42 |
 | 37 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 1:32 |
 | 38 | [Xmas Has Been X'ed](https://open.spotify.com/track/40GMBdqqTwa2A1pGZEfOxO) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 2:43 |
-| 39 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
-| 40 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:02 |
+| 39 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:02 |
+| 40 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
 | 41 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Goldfinger Christmas EP](https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a) | 1:26 |
 | 42 | [Deadbeat Holiday](https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:35 |
 | 43 | [Christmas Song](https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Christmas Song](https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9) | 2:54 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 68 | [West Coast Christmas](https://open.spotify.com/track/0tk0q4170soGn03XGksWfn) | [Anarbor](https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21) | [Hopeless For The Holidays](https://open.spotify.com/album/6qL1j7QsfiESiZqLbMtMvN) | 3:14 |
 | 69 | [Christmas by the Phone](https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N) | 3:01 |
 | 70 | [December's Here](https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [December's Here](https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN) | 2:59 |
-| 71 | [Merry Christmas \(I Don't Wanna Fight Tonight\) \- 2002 Remaster](https://open.spotify.com/track/2T3tEaSThdC9J9mnvxJWoZ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Weird Tales of The Ramones \(1976 \- 1996\)](https://open.spotify.com/album/5A1GAiPFd6U608KCDjacpk) | 2:04 |
-| 72 | [Merry Spidey Christmas \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Merry Spidey Christmas \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB) | 2:06 |
+| 71 | [Merry Spidey Christmas \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Merry Spidey Christmas \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB) | 2:06 |
+| 72 | [Merry Christmas \(I Don't Wanna Fight Tonight\) \- 2002 Remaster](https://open.spotify.com/track/2T3tEaSThdC9J9mnvxJWoZ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Weird Tales of The Ramones \(1976 \- 1996\)](https://open.spotify.com/album/5A1GAiPFd6U608KCDjacpk) | 2:04 |
 | 73 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/2d65U4zlkEqMCOduxMK0dH) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Christmas Spirit...In My House](https://open.spotify.com/album/3F7Tn1J8gVEHBKX1mbhJ20) | 3:26 |
 | 74 | [Lieder und Lametta](https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Lieder und Lametta](https://open.spotify.com/album/5DFtzIkaqjWgFlLoxAjltY) | 3:05 |
 | 75 | [Auld Lang Syne](https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:09 |
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 77 | [Things I Want](https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Christmas Calling](https://open.spotify.com/album/3dxUAJGxReRRdWdDGze7EL) | 3:54 |
 | 78 | [It's Christmas And I Fucking Miss You](https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh), [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [It's Christmas And I Fucking Miss You](https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn) | 2:41 |
 | 79 | [Little Drummer Boy](https://open.spotify.com/track/22rBktERctuWCLmnV51Td5) | [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 3:08 |
-| 80 | [Father Christmas](https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Father Christmas](https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG) | 3:19 |
-| 81 | [Christmas Vacation](https://open.spotify.com/track/4RYoD9TS5gUbYsTTsHZuZx) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:39 |
-| 82 | [Christmas With You](https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y) | [Artist Vs Poet](https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe) | [Tis The Season To Be Fearless](https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a) | 3:58 |
-| 83 | [Jack Skellington](https://open.spotify.com/track/3n6jtHaCd5Jf06akv6B8Ue) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [Jack Skellington](https://open.spotify.com/album/3F0gEqWQO2FXYcSSmSPcZp) | 2:53 |
+| 80 | [Christmas Vacation](https://open.spotify.com/track/4RYoD9TS5gUbYsTTsHZuZx) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:39 |
+| 81 | [Jack Skellington](https://open.spotify.com/track/3n6jtHaCd5Jf06akv6B8Ue) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [Jack Skellington](https://open.spotify.com/album/3F0gEqWQO2FXYcSSmSPcZp) | 2:53 |
+| 82 | [Father Christmas](https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Father Christmas](https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG) | 3:19 |
+| 83 | [Christmas With You](https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y) | [Artist Vs Poet](https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe) | [Tis The Season To Be Fearless](https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a) | 3:58 |
 | 84 | [Carol Of The Beers](https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 1:47 |
 | 85 | [Snow](https://open.spotify.com/track/4hbBgVnirgzG4TggZhkL4U) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Snow](https://open.spotify.com/album/29BjO5ddpVEfIn9vtlNXi2) | 3:36 |
 | 86 | [X'Mas Time \(It Sure Doesn't Feel Like It\)](https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 99 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
 | 100 | [Christmas, Baby Please Come Home](https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Happy Christmas: A Tooth And Nail Christmas](https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An) | 2:51 |
 
-Snapshot ID: `MCxkMTRmYWYyM2I0MjgzOGZkZDk1YTg4Y2JhMzQ4YmUxOTUyMTk1MTg2`
+Snapshot ID: `MCw4Mzg4ZTgxODQ3YWYyZGViYWUzNmY2YTYzNDMzYmJmNmQ2ZGMyMzYz`

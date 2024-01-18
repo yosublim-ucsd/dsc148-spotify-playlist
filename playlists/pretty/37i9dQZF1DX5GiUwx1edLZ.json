@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276621,
+  "num_followers": 276617,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjMwYzA3NGFkMjY2ODEzYjA5NjRlMGE4MDFiY2YzZWQwMWVjN2Fj",
+  "snapshot_id": "MCwwZDI1N2RmNTA5MDc3ZDAyNjJiNDVjYmZjNWJkMzhlODQwNjJmOWMy",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -831,22 +831,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "You for Me (Acoustic)",
-        "url": "https://open.spotify.com/album/3TpZw4gbS2sRuFKNg8DyOt"
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
         }
       ],
-      "duration_ms": 185381,
-      "name": "You for Me - Acoustic",
-      "url": "https://open.spotify.com/track/2STdeJ27mvJ8wBrnvc2ZwS"
+      "duration_ms": 293946,
+      "name": "Looking For Your Name",
+      "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -867,22 +867,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
+        "name": "You for Me (Acoustic)",
+        "url": "https://open.spotify.com/album/3TpZw4gbS2sRuFKNg8DyOt"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 293946,
-      "name": "Looking For Your Name",
-      "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
+      "duration_ms": 185381,
+      "name": "You for Me - Acoustic",
+      "url": "https://open.spotify.com/track/2STdeJ27mvJ8wBrnvc2ZwS"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "King - Acoustic",
+      "url": "https://open.spotify.com/track/46iMzIoVmlfuorWb6ixZKm"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Crazy What Love Can Do (Acoustic)",
         "url": "https://open.spotify.com/album/3iRtMz9n1e2yd2TBiuT83x"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 239453,
       "name": "Never Let You Go (feat. John Newman) - Acoustic Version",
       "url": "https://open.spotify.com/track/0hsEwB7RvpWOJYZnAF4j4E"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "King - Acoustic",
-      "url": "https://open.spotify.com/track/46iMzIoVmlfuorWb6ixZKm"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1471,18 +1471,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Grabbitz - Friends EP",
-        "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
+        "name": "Real Life (Acoustic)",
+        "url": "https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "NAATIONS",
+          "url": "https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f"
         }
       ],
-      "duration_ms": 61711,
-      "name": "7.6.14 (Intro)",
-      "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
+      "duration_ms": 222275,
+      "name": "Real Life - Acoustic",
+      "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1507,26 +1515,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Real Life (Acoustic)",
-        "url": "https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ"
+        "name": "Grabbitz - Friends EP",
+        "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
       },
       "artists": [
         {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "NAATIONS",
-          "url": "https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 222275,
-      "name": "Real Life - Acoustic",
-      "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
+      "duration_ms": 61711,
+      "name": "7.6.14 (Intro)",
+      "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "No Time For Tears (Acoustic)",
-        "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 205305,
-      "name": "No Time For Tears - Acoustic",
-      "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Watch the World",
         "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
       },
@@ -1867,26 +1847,42 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Living Without You (Acoustic)",
-        "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
+        "name": "No Time For Tears (Acoustic)",
+        "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
         }
       ],
-      "duration_ms": 187333,
-      "name": "Living Without You - Acoustic",
-      "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
+      "duration_ms": 205305,
+      "name": "No Time For Tears - Acoustic",
+      "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Moon Faces",
+        "url": "https://open.spotify.com/album/3OWD8bRfIM1uY2AyijHaEV"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Lost - Acoustic",
+      "url": "https://open.spotify.com/track/64rwYWim5lPgFRzn2DBOEa"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1911,22 +1907,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Moon Faces",
-        "url": "https://open.spotify.com/album/3OWD8bRfIM1uY2AyijHaEV"
+        "name": "Living Without You (Acoustic)",
+        "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
       },
       "artists": [
         {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Lost - Acoustic",
-      "url": "https://open.spotify.com/track/64rwYWim5lPgFRzn2DBOEa"
+      "duration_ms": 187333,
+      "name": "Living Without You - Acoustic",
+      "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
     },
     {
       "added_at": "2023-10-06 04:01:00",

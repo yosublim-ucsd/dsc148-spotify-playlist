@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,036 songs - 2 day 8 hr 2 min
+1,037 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Dance and Chant](https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq) | 3:09 | 2020-05-22\* | 2022-04-12 |
 | [Dance Around It](https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Dance Around It](https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt) | 2:24 | 2023-05-26 | 2023-11-23 |
 | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA) | 3:22 | 2023-09-22 | 2023-12-13 |
+| [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL) | 3:22 | 2024-01-02 |  |
 | [Dance With Somebody](https://open.spotify.com/track/0Jmh09aQdMyzpIwnwNwiLS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Benny Bridges](https://open.spotify.com/artist/4lP1lKWYqNLYWYtnuTh8OF) | [Dance With Somebody](https://open.spotify.com/album/5P3b13kbX6kSjcURHPyqxv) | 3:24 | 2023-05-19 | 2023-09-07 |
 | [Dancing](https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Dancing](https://open.spotify.com/album/3iPsWPoPZgELmUp9karTTe) | 4:00 | 2021-11-20 | 2022-08-13 |
 | [Dancing Alone](https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dancing Alone](https://open.spotify.com/album/2KlV3JdXb7XIlj78Rdo53i) | 2:52 | 2022-01-21 | 2022-07-29 |
@@ -387,7 +388,7 @@
 | [Good Morning \(feat\. YOU\)](https://open.spotify.com/track/2ODIVQXwaezpchs1LGE4CV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Good Morning \(feat\. YOU\)](https://open.spotify.com/album/1t4MBrJVFvOEPYt6fXf6r0) | 2:55 | 2023-06-23 | 2023-07-21 |
 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 | 2021-10-16 | 2022-07-29 |
 | [Goodbye](https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Goodbye](https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs) | 2:24 | 2020-12-29 | 2021-01-07 |
-| [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 | 2022-09-16 |  |
+| [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 | 2022-09-16 | 2024-01-18 |
 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 | 2020-12-27 | 2022-12-15 |
 | [Gotta Get Thru This \- D'N'D Radio Edit](https://open.spotify.com/track/267sk93o3IxlZzYnfTfKuZ) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Lost & Found: Noughties Pop Volume 1](https://open.spotify.com/album/6pHCHKNM0hRDgKRR52tW7X) | 2:42 | 2022-07-14 | 2022-07-29 |
 | [Gotta Get Thru This \- D'N'D Radio Edit](https://open.spotify.com/track/747tpec1a0Hfqvj2za1pBs) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX), [D'N'D Productions](https://open.spotify.com/artist/7cp62T0Av3mTgy0imKzat7) | [Gotta Get Thru This](https://open.spotify.com/album/2EdZjwEgBXjtdkwkZ73fFA) | 2:41 | 2022-07-14 | 2022-07-30 |

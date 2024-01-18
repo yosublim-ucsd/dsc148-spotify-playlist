@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,833 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,857 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 9 | [鲜花](https://open.spotify.com/track/35XxW360SO3puJQDfuaY4r) | [回春丹](https://open.spotify.com/artist/49x8WCVjNPZNepo3NmeMEi) | [鲜花](https://open.spotify.com/album/38Uvc9iDIDXru2BvKa1S8R) | 5:41 |
 | 10 | [喜歡你](https://open.spotify.com/track/3492WnE9Bt9Ek20mpe60o2) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [喜歡你](https://open.spotify.com/album/28K6BO4fYxKi3xD6sgQWWb) | 2:22 |
 | 11 | [アイドル](https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:31 |
-| 12 | [我期待的不是雪（Điều Anh Mong Đợi Không Phải Là Tuyết）](https://open.spotify.com/track/2deIA64Gfsm50VTsKwrxnQ) | [张妙格](https://open.spotify.com/artist/7q6xird8xFNzgqQi60dwmj) | [我期待的不是雪（Điều Anh Mong Đợi Không Phải Là Tuyết）](https://open.spotify.com/album/1oPwq4HtDm98CCZD8vrtZd) | 2:46 |
+| 12 | [我期待的不是雪](https://open.spotify.com/track/2deIA64Gfsm50VTsKwrxnQ) | [张妙格](https://open.spotify.com/artist/7q6xird8xFNzgqQi60dwmj) | [我期待的不是雪](https://open.spotify.com/album/1oPwq4HtDm98CCZD8vrtZd) | 2:46 |
 | 13 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 14 | [是你.](https://open.spotify.com/track/3fiXwwPL7cUvD7BqkHdN0J) | [政学Zed\-X](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB) | [是你.](https://open.spotify.com/album/46mCiXY4QlWCV2q34BQlG9) | 1:35 |
 | 15 | [Without You](https://open.spotify.com/track/0KWnRv3wxjltYVB3MqjNd2) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#osnrap](https://open.spotify.com/album/4b65l6XzLp2Eg6lDTMmO1k) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 |
 | 50 | [真心話](https://open.spotify.com/track/06Hci8wC8NSf2r5OHqhivw) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Fly Machine](https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV) | 4:03 |
 
-Snapshot ID: `NzU4NzcwMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzU4ODU2MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

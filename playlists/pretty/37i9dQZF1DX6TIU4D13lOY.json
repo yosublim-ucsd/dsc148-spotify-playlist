@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 245929,
+  "num_followers": 246006,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzBiNjk2MmFkZDBjNWJkNDc0ZDM1NzZhNGY4MmQ0MTAxMTA3MjZi",
+  "snapshot_id": "MCxiY2Q2NWQzNWQwM2UwNmQ2MzA4OTZkNGRjYzBjOGFhM2RiMzcxMjU1",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/08o75xMKmGrKny6GsXrNJW"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Back to Front (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 221373,
       "name": "Alone Again (Naturally)",
       "url": "https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/08o75xMKmGrKny6GsXrNJW"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Big Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Silk Degrees (2023 Remaster)",
         "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/6Wgst4P9SOnc6WGLtfTb1z"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223733,
+      "name": "Big Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "He Got You",
-      "url": "https://open.spotify.com/track/2Up5Gs5EJeAPeR3Ce5Aspi"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Tumbleweed Connection",
         "url": "https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 382933,
       "name": "Burn Down The Mission",
       "url": "https://open.spotify.com/track/3ggTCH9i9dJ0sRdAxFGzcr"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "He Got You",
+      "url": "https://open.spotify.com/track/2Up5Gs5EJeAPeR3Ce5Aspi"
     },
     {
       "added_at": "2022-07-05 19:24:17",

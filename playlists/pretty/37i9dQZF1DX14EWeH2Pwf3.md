@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Club Dogo
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,347 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,650 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 27 | [NULLA ACCADE \(feat\. Capo Plaza\)](https://open.spotify.com/track/7aE74PfRukjvuBqte3f0hs) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:54 |
 | 28 | [Paura E Delirio A Milano \(feat\. Tony Effe, Dylan, Side Baby\)](https://open.spotify.com/track/44hjRBoW648rQndFHKlgXQ) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:04 |
 | 29 | [Insta Lova](https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Santeria](https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV) | 3:26 |
-| 30 | [Baby U Want Me \(feat\. Geolier & Michelangelo\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/7z29jwhaE82uACHM2Ovzgs) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
+| 30 | [Baby U Want Me \(feat\. Geolier & Michelangelo\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
 | 31 | [Baby Mama](https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Baby Mama](https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO) | 2:31 |
 | 32 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 |
 | 33 | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [E.T.A\. \(feat\. J Balvin & Geolier\)](https://open.spotify.com/track/5MM97FmbSq9I2azOWBvXAY) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Ultimo piano](https://open.spotify.com/album/18frnKzFZcE7T8NqELRzOr) | 2:55 |
 | 50 | [Giorgia \(feat\. Ernia\)](https://open.spotify.com/track/1cL7CwiRexam7rkd8nHZEr) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Giorgia \(feat\. Ernia\)](https://open.spotify.com/album/3w2x6OtrsJ65EBilNXUlIi) | 2:32 |
 
-Snapshot ID: `MCwwM2MzNTcyNGEwYzM5ZWNkNGYyNWU5YWYyOTkxOTE4NDdjNDM1MTlj`
+Snapshot ID: `MCw0NzdlZmZhZTZjMzRmNDNiZTU4ZmM0MWU3N2U5NWU3MTVmNjRkMGM1`

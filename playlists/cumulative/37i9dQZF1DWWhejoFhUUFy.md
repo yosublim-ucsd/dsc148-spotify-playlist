@@ -4,7 +4,7 @@
 
 > Soft chill for the dreamy  ✨
 
-126 songs - 7 hr 36 min
+127 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 | 2023-04-17 |  |
 | [Aziyat 2.0 \- Reprise Version](https://open.spotify.com/track/3fwyItGexa88kR8j76dIqv) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat 2.0 \(Reprise Version\)](https://open.spotify.com/album/6Pe9mPc7ynVPgtBWwLVXgL) | 3:14 | 2023-04-17 |  |
 | [Baaki](https://open.spotify.com/track/4xOUx15uKcn2583G3Kd1CO) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Baaki](https://open.spotify.com/album/4M4AZLajLYMgSFg1m4dgpY) | 3:51 | 2023-11-16 | 2023-12-14 |
-| [Baarish Aa Jaave](https://open.spotify.com/track/7pZPY9x0GDmTyJDD4tzahy) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Baarish Aa Jaave](https://open.spotify.com/album/1W8INhKzTvHZ62LPUq31Rv) | 2:38 | 2023-04-17 |  |
+| [Baarish Aa Jaave](https://open.spotify.com/track/7pZPY9x0GDmTyJDD4tzahy) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Baarish Aa Jaave](https://open.spotify.com/album/1W8INhKzTvHZ62LPUq31Rv) | 2:38 | 2023-04-17 | 2024-01-18 |
 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 | 2023-04-17 |  |
 | [Baarishein](https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/4ysOhipyMXKstywus51VXS) | 3:27 | 2023-04-17 | 2023-10-14 |
 | [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 | 2023-09-12 |  |
@@ -117,6 +117,7 @@
 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 | 2023-04-17 | 2023-07-08 |
 | [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 | 2023-04-17 |  |
 | [Tere Jaisa](https://open.spotify.com/track/5se0sLcaUymYKRUm0lCBgt) | [Vaibhav Bundhoo](https://open.spotify.com/artist/2qV4ArHDzLVSdX6GWy5R1z), [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Kota Factory: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/4Zp0BZ2ttqNsB92BjMJddM) | 5:12 | 2023-04-17 | 2023-06-28 |
+| [Timro Pratiksa](https://open.spotify.com/track/5nQA7m7xypeL7dFaGRwJO5) | [Shallum Lama](https://open.spotify.com/artist/4ufyGQgkJxP92QPasJAmMv) | [Timro Pratiksa](https://open.spotify.com/album/1aWGF7IgGYgc9Hmf857WmZ) | 4:01 | 2024-01-17 |  |
 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu/You \- Spotify Singles](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 | 2023-04-17 |  |
 | [Tu Aazma](https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tu Aazma](https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6) | 3:18 | 2023-10-16 |  |
 | [Tu Aisa Kaise Hai?](https://open.spotify.com/track/7eadaD2SBArRbebB9CP70X) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Tu Aisa Kaise Hai?](https://open.spotify.com/album/27QAFD3cwZHqU6tVe9fA7T) | 3:34 | 2023-04-17 |  |

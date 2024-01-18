@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: Ride
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,782 likes - 115 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,913 likes - 115 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 19 | [drown](https://open.spotify.com/track/6kf8AGQdxUmEx2mwJESQPN) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [drown](https://open.spotify.com/album/1jJAYDO1JbuJvlnhAl8jW8) | 2:55 |
 | 20 | [Bong World](https://open.spotify.com/track/3rwbJQFlqjMoNpwhU0gESR) | [Buff Ginger](https://open.spotify.com/artist/51ZnoZJmnms7hdHKJrRLtL) | [New Jokes](https://open.spotify.com/album/05we1XCetqkE0s740C5rdn) | 3:26 |
 | 21 | [Waltz](https://open.spotify.com/track/1fik0uRvfAUxrkcgpJrMF1) | [Schelper](https://open.spotify.com/artist/0jPrAqvMqQJPwCnZsCdDL7) | [Waltz](https://open.spotify.com/album/73FCf4ZimE8vU421YH3rqQ) | 3:44 |
-| 22 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [Dottie](https://open.spotify.com/artist/0RjSIF8OgSCEcz0iYPDZaI) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 |
+| 22 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 |
 | 23 | [Be My Best](https://open.spotify.com/track/4lOzsIKfOxu4yLwwoeDqEE) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [Be My Best](https://open.spotify.com/album/1M5lIx2zlIDbkRYtT2XUNB) | 4:11 |
 | 24 | [it's all the same to me .](https://open.spotify.com/track/5esujHO7ikzfP1mPJXJRJK) | [a blue room](https://open.spotify.com/artist/2KF05MsTBXijR690vZ3Gk0), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [it's all the same to me .](https://open.spotify.com/album/6DJhAmfJo9LgXE5pjoHXc1) | 3:45 |
 | 25 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 114 | [iwantuall4me](https://open.spotify.com/track/6ygPBBgzTqxppds9IO0gOF) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [iwantuall4me](https://open.spotify.com/album/4KZ5IYrCfL2R2vNX3wga8F) | 3:58 |
 | 115 | [Bloom](https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Bloom](https://open.spotify.com/album/76LGx54WGptsGBHL497A3k) | 2:19 |
 
-Snapshot ID: `MCxiZmZlYmRlNGM2ZThlOGIwYTA0ZWQ5Y2JmZjUzZWE2ZjBiMzA5YzRm`
+Snapshot ID: `MCxiN2JhMmVhNGRhMGE2YTQ4NTgxODM2ZGJjOTAwNjE4NjliNTY0MWJk`

@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: 21 Savage
 
-2,825 songs - 6 day 21 hr 6 min
+2,826 songs - 6 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,7 +820,8 @@
 | [he never will](https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [he never will](https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI) | 2:51 | 2023-12-10 | 2023-12-18 |
 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2023-12-31 | 2024-01-15 |
 | [Headliner](https://open.spotify.com/track/5wYXXFzzelTMEbVOGoZ3Q0) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Headliner](https://open.spotify.com/album/209bUB4Yw8SiUB5F3t252c) | 3:54 | 2023-08-20 | 2023-09-04 |
-| [Heart of Gold](https://open.spotify.com/track/5ECY6ioMnM7qcZ3Fpeztep) | [iScream](https://open.spotify.com/artist/0e5pQ7WhkRfa6kEhzjQ9Bx) | [Heart of Gold](https://open.spotify.com/album/2fUkY3mmOcDDdDmZiF6Oot) | 2:49 | 2024-01-07 |  |
+| [Heart of Gold](https://open.spotify.com/track/07IeFotTMs414fi6cOojUG) | [iScream](https://open.spotify.com/artist/0e5pQ7WhkRfa6kEhzjQ9Bx) | [Selfie](https://open.spotify.com/album/6UzCljuxVu7CPfjgqKcGa6) | 2:49 | 2024-01-18 |  |
+| [Heart of Gold](https://open.spotify.com/track/5ECY6ioMnM7qcZ3Fpeztep) | [iScream](https://open.spotify.com/artist/0e5pQ7WhkRfa6kEhzjQ9Bx) | [Heart of Gold](https://open.spotify.com/album/2fUkY3mmOcDDdDmZiF6Oot) | 2:49 | 2024-01-07 | 2024-01-18 |
 | [Heart over Mind](https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 3:09 | 2023-11-12 | 2023-11-27 |
 | [Heart Wants What It Wants](https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Wants What It Wants](https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG) | 3:02 | 2023-02-19 | 2023-02-27 |
 | [Heartbreak Feels So Good](https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Heartbreak Feels So Good](https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS) | 3:37 | 2023-01-29 | 2023-02-06 |
@@ -1992,7 +1993,7 @@
 | [The Best Kid \(feat\. Bonbero\)](https://open.spotify.com/track/3goNXpx5TmTxoRvAOs4c0n) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [The Best Kid \(feat\. Bonbero\)](https://open.spotify.com/album/6K7kk71gw5SPuSJtD62Dm7) | 3:04 | 2023-06-04 | 2023-06-12 |
 | [The Brave](https://open.spotify.com/track/2C0zR1j4Xd5JVSrMABMFSG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [The Brave](https://open.spotify.com/album/1LIrHjmcINgiNpzx1NvbhB) | 3:14 | 2023-11-26 | 2023-12-04 |
 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 | 2023-05-28 | 2023-06-12 |
-| [The Colour Purple](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 | 2024-01-14 |  |
+| [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 | 2024-01-14 |  |
 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 | 2023-08-20 | 2023-08-28 |
 | [The Edge](https://open.spotify.com/track/1YQ6997r5wOIYmYBkDer2i) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [The Edge](https://open.spotify.com/album/38tSiz1dWutOylg4K0b1WF) | 2:43 | 2023-02-26 | 2023-03-06 |
 | [The End \(feat\. BABYMETAL\)](https://open.spotify.com/track/07TSrx1BDK6twM9avkYzbe) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:07 | 2023-07-02 | 2023-07-24 |

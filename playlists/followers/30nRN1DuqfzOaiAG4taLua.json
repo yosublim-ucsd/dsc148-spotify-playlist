@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 11,
+  "2024-01-18": 12,
   "date_first_scraped": "2024-01-03",
   "description": "",
   "name": "Work From House",
@@ -438,6 +438,24 @@
     },
     {
       "album": {
+        "name": "Hook Or Crook",
+        "url": "https://open.spotify.com/album/0wN03tpWcsbTbb4eK5XETQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Kennedy",
+          "url": "https://open.spotify.com/artist/31dw7SuERzZnTvIMo98GOq"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166623,
+      "name": "Hook Or Crook",
+      "url": "https://open.spotify.com/track/1PAP14ZkxJGdyFR2KpxORT"
+    },
+    {
+      "album": {
         "name": "I'm Lost",
         "url": "https://open.spotify.com/album/2FBPuKPAmuv1wJHZok2ugw"
       },
@@ -453,6 +471,24 @@
       "duration_ms": 156666,
       "name": "I'm Lost",
       "url": "https://open.spotify.com/track/4LhZ61CeMpOHnGr7rl03Au"
+    },
+    {
+      "album": {
+        "name": "If U Need It",
+        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "If U Need It",
+      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
     },
     {
       "album": {

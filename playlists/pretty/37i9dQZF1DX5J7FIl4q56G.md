@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Fit For A King
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,793 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,841 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 50 | [Winter Breeze](https://open.spotify.com/track/1WssazA5GLH1X4eIrB5NaN) | [Sujin](https://open.spotify.com/artist/0ndqFUZfL7QpwinschJjke) | [Winter Breeze](https://open.spotify.com/album/78OZzhJrvPK7wXPwvfAJ2E) | 4:36 |
 | 51 | [My Own Private Vendetta](https://open.spotify.com/track/1sQZ1m018EpA0k33Oj6tPV) | [Drop Your Pants](https://open.spotify.com/artist/259cjSmF4i7ed79L1YewpK) | [Nine Tails](https://open.spotify.com/album/4J7V6wujH5lXVF5BIApkqo) | 3:53 |
 
-Snapshot ID: `MCxjZGIzYjMxOGZkYTY5MmRiNTFkNTY3MTBhZmFkZTI1ZWEyZjI0NTg1`
+Snapshot ID: `MCxiM2MzNzkwOTk1MTY2OTUwYzIyMGVkMTM1NDQwYWI5MGYyZmVhZGU0`

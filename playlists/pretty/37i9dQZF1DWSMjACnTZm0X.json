@@ -1,13 +1,33 @@
 {
   "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ?si=BuRQnFJQTfme77IrVmdr7w\">JZyNo</a>",
-  "num_followers": 8620,
+  "num_followers": 8663,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDdkYWU2NTJkYjlkMTVkOThhYzVjN2ZiMTdmNzNkN2M0OWJjYzlm",
+  "snapshot_id": "MCw4Yzc3ZDFiODg4NTFkZWVkMmFjMDZhOGRiOWQ0NDk2ZmVmZGUzMzhi",
   "tracks": [
+    {
+      "added_at": "2024-01-17 13:58:19",
+      "album": {
+        "name": "Egwu",
+        "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 136132,
+      "name": "Egwu",
+      "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
+    },
     {
       "added_at": "2023-12-22 04:28:35",
       "album": {

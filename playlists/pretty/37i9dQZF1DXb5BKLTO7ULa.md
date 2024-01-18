@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Froukje
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,064 likes - 83 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,062 likes - 83 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 59 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 |
 | 60 | [Safe Word](https://open.spotify.com/track/4i3h8s1fqTDYfSfd86T5It) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Safe Word](https://open.spotify.com/album/5JRVoGHRmvZbcajnXfZTHp) | 2:46 |
 | 61 | [What's Luv?](https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [What's Luv?](https://open.spotify.com/album/6C2yR407il1fwIhy3P5iPp) | 2:46 |
-| 62 | [Hot Like Summer AGP](https://open.spotify.com/track/09DifLBp8dX9BOVZnIm9zT) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Hot Like Summer](https://open.spotify.com/album/1dqMqzTsHQKmBLERRe7cPp) | 2:56 |
+| 62 | [Hot Like Summer AGP \(ENG\)](https://open.spotify.com/track/09DifLBp8dX9BOVZnIm9zT) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Hot Like Summer](https://open.spotify.com/album/1dqMqzTsHQKmBLERRe7cPp) | 2:56 |
 | 63 | [Best Thing](https://open.spotify.com/track/3ZDpJbRqKXrk3tL4kHBHpT) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Best Thing](https://open.spotify.com/album/2iM4du2HvU2hmHzdn7s0Ys) | 2:16 |
 | 64 | [Adios](https://open.spotify.com/track/1hKbnXEH8nAJlVpG9mtadI) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy), [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Adios](https://open.spotify.com/album/68HnsbMad7vqV3qg7a9NPY) | 3:20 |
 | 65 | [Queen of Bees](https://open.spotify.com/track/0nZAvcDXleeBGaRhND3MUP) | [Kafka](https://open.spotify.com/artist/4jDwckX5APMXI8oCH60Jqa) | [Blueprint](https://open.spotify.com/album/4T6HhkmXCLBAU43SwkAwBu) | 2:24 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 82 | [DALIA](https://open.spotify.com/track/1cvaWa3yUprEFJE7LHSwYs) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [DALIA](https://open.spotify.com/album/3R2jNXD3phm411Luzlz1DJ) | 3:32 |
 | 83 | [Let Go](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Let Go](https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE) | 2:04 |
 
-Snapshot ID: `MCw1ZWM0M2U3ZTQxNjdiYjc1YjVlOTEzY2Q4ZGI4ZTU5MDFjMzVkNTI1`
+Snapshot ID: `MCw5NzlkM2Q0NjA0YjA4NWE5YjdhYjgyMjFjMzlhNTA2ZTI3ZTI5YjIy`

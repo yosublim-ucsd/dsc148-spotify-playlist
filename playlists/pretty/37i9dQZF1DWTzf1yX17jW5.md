@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,005 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,055 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 74 | [Real Hips 2](https://open.spotify.com/track/740rzQXrAE1qwhQ7UqZPzN) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65) | [Real Hips 2](https://open.spotify.com/album/25MTp5gwjXq9Y1iVzpWUth) | 2:11 |
 | 75 | [Need \(Bonus Track\)](https://open.spotify.com/track/01aojvlRe3mwlEwTnLVUbs) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [B2B](https://open.spotify.com/album/51Esh2ddbUkN2u9P00PFR8) | 2:37 |
 
-Snapshot ID: `MCw3ZDBkMTU5MzE0OGJkNWJiM2Q5YzQ3NzkwOTM3Nzc5M2E5YWQ1YmY1`
+Snapshot ID: `MCw1MTgwNjlhOTgyOTU4MmJiZjk4YTgxNDM2YTBmZWRjYmJlMzhjMDJk`

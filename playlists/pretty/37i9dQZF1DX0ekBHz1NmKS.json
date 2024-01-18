@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 195988,
+  "num_followers": 195982,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzM5YmJlNTYzNjFmYTc0YzYyMTg4NDJhMGE3NDk3MWJhM2QyMGNi",
+  "snapshot_id": "MCwyZjE4MzQ0Mzk1MjY1ZTAwYjBmYmE2MGUyNjk3N2UxNjY1YTIxODEy",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "FEMININE ENERGY",
-        "url": "https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 171265,
-      "name": "FEMININE ENERGY",
-      "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "FEMININE ENERGY",
+        "url": "https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 171265,
+      "name": "FEMININE ENERGY",
+      "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "F\u00d6RS\u00d6KER LE",
-        "url": "https://open.spotify.com/album/5bcB7h6aFU9mQj3hUjLmre"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 229658,
-      "name": "F\u00d6RS\u00d6KER LE",
-      "url": "https://open.spotify.com/track/3Jr1fTt0S8JZSVok1LwMR9"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Hey mom, don\u2019t worry I\u2019m fine",
         "url": "https://open.spotify.com/album/4xfrjscotnULSQSFfjamgr"
       },
@@ -327,18 +311,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/3PwH45P3rTlpCJL6ArAyKC"
+        "name": "F\u00d6RS\u00d6KER LE",
+        "url": "https://open.spotify.com/album/5bcB7h6aFU9mQj3hUjLmre"
       },
       "artists": [
         {
-          "name": "Anders Robert",
-          "url": "https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte"
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
         }
       ],
-      "duration_ms": 183375,
-      "name": "December",
-      "url": "https://open.spotify.com/track/25ttMdXx0DuAR2p6myYlF9"
+      "duration_ms": 229658,
+      "name": "F\u00d6RS\u00d6KER LE",
+      "url": "https://open.spotify.com/track/3Jr1fTt0S8JZSVok1LwMR9"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -363,6 +347,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/3PwH45P3rTlpCJL6ArAyKC"
+      },
+      "artists": [
+        {
+          "name": "Anders Robert",
+          "url": "https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte"
+        }
+      ],
+      "duration_ms": 183375,
+      "name": "December",
+      "url": "https://open.spotify.com/track/25ttMdXx0DuAR2p6myYlF9"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Dirt",
         "url": "https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 218719,
       "name": "Dirt",
       "url": "https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Springer",
-        "url": "https://open.spotify.com/album/4Umy4dQySiy0DqRufmUroe"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 203504,
-      "name": "Springer",
-      "url": "https://open.spotify.com/track/7Hq0AAorMD6oxJoqL7qZS0"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -423,6 +407,22 @@
       "duration_ms": 160058,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Springer",
+        "url": "https://open.spotify.com/album/4Umy4dQySiy0DqRufmUroe"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 203504,
+      "name": "Springer",
+      "url": "https://open.spotify.com/track/7Hq0AAorMD6oxJoqL7qZS0"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -623,6 +623,26 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Vakna (Wake Me Up)",
+        "url": "https://open.spotify.com/album/5PSqlOEp3NoiHCGExXg963"
+      },
+      "artists": [
+        {
+          "name": "Daniela Rathana",
+          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
+        },
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 230608,
+      "name": "Vakna (Wake Me Up)",
+      "url": "https://open.spotify.com/track/1tv2VdXemEiW1wmQmS8lOZ"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
       },
@@ -639,6 +659,38 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 225728,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/2tXILArq64JkwKB1G2wstD"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -675,38 +727,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Ciao",
-        "url": "https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 225728,
-      "name": "Ciao",
-      "url": "https://open.spotify.com/track/2tXILArq64JkwKB1G2wstD"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Tagit \u00f6ver himlen",
         "url": "https://open.spotify.com/album/1RlI6eLWlON8W9EOUJS1qT"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 147596,
       "name": "Tagit \u00f6ver himlen",
       "url": "https://open.spotify.com/track/2faoTKw5aY77tacZthwcCd"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Vakna (Wake Me Up)",
-        "url": "https://open.spotify.com/album/5PSqlOEp3NoiHCGExXg963"
-      },
-      "artists": [
-        {
-          "name": "Daniela Rathana",
-          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
-        },
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 230608,
-      "name": "Vakna (Wake Me Up)",
-      "url": "https://open.spotify.com/track/1tv2VdXemEiW1wmQmS8lOZ"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Nitty Gritty",
+        "url": "https://open.spotify.com/album/5DsezeVQVXH142aHUnA7r0"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Nitty Gritty",
+      "url": "https://open.spotify.com/track/6YMzc4iQPZnfZmsKdHOFqG"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Pistol - Spotify Singles",
         "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Nitty Gritty",
-        "url": "https://open.spotify.com/album/5DsezeVQVXH142aHUnA7r0"
+        "name": "Frenemy",
+        "url": "https://open.spotify.com/album/4nnLQ5qxI10HWd6cYuIBbt"
       },
       "artists": [
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+          "name": "ANJI",
+          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
         }
       ],
-      "duration_ms": 218693,
-      "name": "Nitty Gritty",
-      "url": "https://open.spotify.com/track/6YMzc4iQPZnfZmsKdHOFqG"
+      "duration_ms": 155411,
+      "name": "Frenemy",
+      "url": "https://open.spotify.com/track/38fGD18era2pGm0GO82sSn"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -911,22 +927,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Frenemy",
-        "url": "https://open.spotify.com/album/4nnLQ5qxI10HWd6cYuIBbt"
-      },
-      "artists": [
-        {
-          "name": "ANJI",
-          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
-        }
-      ],
-      "duration_ms": 155411,
-      "name": "Frenemy",
-      "url": "https://open.spotify.com/track/38fGD18era2pGm0GO82sSn"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Halvfullt sprucket glas",
         "url": "https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 187250,
       "name": "Ingen sorg utan k\u00e4rlek",
       "url": "https://open.spotify.com/track/6Z1JPK51S9kPWM3K1NF0zI"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "S\u00e4ger att andra \u00e4r d\u00e5rar",
+        "url": "https://open.spotify.com/album/61puoNqBbNWh1CMGePdFZd"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "S\u00e4ger att andra \u00e4r d\u00e5rar",
+      "url": "https://open.spotify.com/track/5eqV3qSaCJPqQ7zUtyOYAN"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "S\u00e4ger att andra \u00e4r d\u00e5rar",
-        "url": "https://open.spotify.com/album/61puoNqBbNWh1CMGePdFZd"
-      },
-      "artists": [
-        {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "S\u00e4ger att andra \u00e4r d\u00e5rar",
-      "url": "https://open.spotify.com/track/5eqV3qSaCJPqQ7zUtyOYAN"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Stockholm l\u00e4mnar s\u00e5r (REMAZE Remix)",
         "url": "https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 179111,
       "name": "Together",
       "url": "https://open.spotify.com/track/1Z5LUX0cHKI6V3aAQ9AfNQ"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Vad \u00e4r det f\u00f6r fel p\u00e5 Felicia?",
+        "url": "https://open.spotify.com/album/6tXvfkYROWTQMEogumpH6l"
+      },
+      "artists": [
+        {
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+        }
+      ],
+      "duration_ms": 195665,
+      "name": "Vad \u00e4r det f\u00f6r fel p\u00e5 Felicia?",
+      "url": "https://open.spotify.com/track/2g8XBeoofozyEskURWikFb"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1183,38 +1199,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab"
-      },
-      "artists": [
-        {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
-        }
-      ],
-      "duration_ms": 196747,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Historier och liv",
-        "url": "https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Historier och liv",
-      "url": "https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "En av ungarna",
         "url": "https://open.spotify.com/album/6ekSfXbb6ry0JE0hhq5VMI"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Vad \u00e4r det f\u00f6r fel p\u00e5 Felicia?",
-        "url": "https://open.spotify.com/album/6tXvfkYROWTQMEogumpH6l"
+        "name": "Historier och liv",
+        "url": "https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH"
       },
       "artists": [
         {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
         }
       ],
-      "duration_ms": 195665,
-      "name": "Vad \u00e4r det f\u00f6r fel p\u00e5 Felicia?",
-      "url": "https://open.spotify.com/track/2g8XBeoofozyEskURWikFb"
+      "duration_ms": 200625,
+      "name": "Historier och liv",
+      "url": "https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1291,6 +1275,22 @@
       "duration_ms": 177053,
       "name": "V\u00e4ck mig",
       "url": "https://open.spotify.com/track/1TnsKoURsEMCOTwITqSHg5"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "duration_ms": 196747,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "A Bowl of Unripe Fruit",
-        "url": "https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 139429,
-      "name": "Tennis",
-      "url": "https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Ruta Noll",
         "url": "https://open.spotify.com/album/543XPoKgO1q8T2Yj1Rsmk7"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 166289,
       "name": "Ruta Noll",
       "url": "https://open.spotify.com/track/6sl4osOhY4Phx4tCsdj9Yn"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "A Bowl of Unripe Fruit",
+        "url": "https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 139429,
+      "name": "Tennis",
+      "url": "https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Hey mom, don\u2019t worry I\u2019m fine",
+        "url": "https://open.spotify.com/album/4xfrjscotnULSQSFfjamgr"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 153176,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/0jIDBEwh9keW6w9IXnJLIf"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "When You're Not Mine",
         "url": "https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Hey mom, don\u2019t worry I\u2019m fine",
-        "url": "https://open.spotify.com/album/4xfrjscotnULSQSFfjamgr"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 153176,
-      "name": "Awkward",
-      "url": "https://open.spotify.com/track/0jIDBEwh9keW6w9IXnJLIf"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Maria Magdalena",
         "url": "https://open.spotify.com/album/0oipNzN6TMnk2JLydkSw3e"
       },
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Konsten att fly",
+        "url": "https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "M\u00f6rkret \u00e4r min b\u00e4sta v\u00e4n",
+      "url": "https://open.spotify.com/track/2AWSgJKK0gthr6PtDltE9M"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Hj\u00e4rtan i sanden",
         "url": "https://open.spotify.com/album/4MT1Q26z105pJdEd82MtHC"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 179213,
       "name": "Tracksuit Pants",
       "url": "https://open.spotify.com/track/7HeuUU0RhWiBDslwL8Py6z"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Konsten att fly",
-        "url": "https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "M\u00f6rkret \u00e4r min b\u00e4sta v\u00e4n",
-      "url": "https://open.spotify.com/track/2AWSgJKK0gthr6PtDltE9M"
     },
     {
       "added_at": "2024-01-11 23:00:00",

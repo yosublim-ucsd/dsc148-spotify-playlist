@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-266 songs - 16 hr 17 min
+268 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [I am here](https://open.spotify.com/track/3oY94FnUoK5sSVyExSFZDa) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [I am here](https://open.spotify.com/album/2T7x92ijvQLOaK7IUeP6Ar) | 3:23 | 2023-05-31 | 2023-09-01 |
 | [idoshiyo](https://open.spotify.com/track/4HXOB4iLo2O86YNzp7ksH1) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [SARA\-J](https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL) | [idoshiyo](https://open.spotify.com/album/4SW8buxuzDa9pc1Pv3fGfk) | 2:18 | 2022-10-20 | 2022-11-11 |
 | [kani](https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [kani](https://open.spotify.com/album/45Y1Qc7rbtc6dYevjRTg28) | 1:49 | 2023-12-19 | 2024-01-10 |
+| [karakara](https://open.spotify.com/track/7e4omddqowij2xnoY7k6E0) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [karakara](https://open.spotify.com/album/0At5gcOBR68qZAMin5jINu) | 3:10 | 2024-01-17 |  |
 | [kid feat\. Yuga](https://open.spotify.com/track/4Br3h8cIKVoXrm7EXqXv27) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [優河](https://open.spotify.com/artist/4Oy3S7MObkSt60p6D1qrua) | [kid feat\. Yuga](https://open.spotify.com/album/7uuWGVNmdf8O9FhnKW9XF4) | 4:13 | 2022-11-10 | 2022-11-14 |
 | [kid feat\. Yuga](https://open.spotify.com/track/7GMbDO1vB3nbUrPXnYeqkA) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [優河](https://open.spotify.com/artist/4Oy3S7MObkSt60p6D1qrua) | [from here to there](https://open.spotify.com/album/17kSaiO4qU3vigvTKPUJWU) | 4:13 | 2022-10-20 | 2022-11-16 |
 | [kid\(Ryu Solo\)](https://open.spotify.com/track/5dYfy7fcDq4p5i9ZwtMAZo) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [kid\(Ryu Solo\)](https://open.spotify.com/album/7nRmisV0C7V5MsE1Mq2VBX) | 4:13 | 2023-03-21 | 2023-05-10 |
@@ -148,6 +149,7 @@
 | [Umbrella](https://open.spotify.com/track/7okiGeaZtMAjH5YnYY5CIf) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Umbrella](https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C) | 4:32 | 2022-10-20 | 2023-01-27 |
 | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/track/3aTJkLLdzHMq0hbEHYABvG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/album/3QNugQ0SvwweeBsb7ih4gb) | 3:28 | 2022-10-20 | 2022-11-30 |
 | [W / X / Y](https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/1aYWdnbKO3asqDUruOl2cY) | 4:38 | 2023-04-04 |  |
+| [Wasurenaide](https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8) | [Shootz](https://open.spotify.com/artist/0gSHX4GAlRtZJ1tJhBv0SD), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Wasurenaide](https://open.spotify.com/album/6hHfnpyuiYY1ZiP48U6HwI) | 4:13 | 2024-01-17 |  |
 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 | 2023-07-04 | 2024-01-11 |
 | [Wear Dark Blue](https://open.spotify.com/track/6YJUZolcyToJXDJ7ypwoOD) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Wear Dark Blue](https://open.spotify.com/album/6RtPIk1oeH22Q89C0Zl1Ed) | 3:45 | 2023-03-21 | 2023-08-30 |
 | [Whales](https://open.spotify.com/track/4kPrGI5LIy7YV4juPMu43r) | [DinoJr.](https://open.spotify.com/artist/2Tjsjqtiz24545VekPM72J), [ayafuya](https://open.spotify.com/artist/42kH3WCXyXz38FvwjvloKN), [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP) | [Whales](https://open.spotify.com/album/09J50aZoqtJJ6JhAcgLpqY) | 4:43 | 2022-10-20 | 2022-12-14 |
@@ -170,7 +172,7 @@
 | [あめ](https://open.spotify.com/track/4VHXcXKWES6vfhohsfpnnu) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [あめ](https://open.spotify.com/album/6Ei7G3UVp3acGkrTt4IZJG) | 2:46 | 2023-05-31 | 2023-08-02 |
 | [いのり](https://open.spotify.com/track/5Ghfkd9z1Mq4CHY5wJCP77) | [yr](https://open.spotify.com/artist/3iyYNppMxdrMaND8VaXdxO) | [いのり](https://open.spotify.com/album/1o5xWVczspUHRS1F8bE6dm) | 2:38 | 2022-10-20 | 2022-11-09 |
 | [おめかし](https://open.spotify.com/track/2kwqvhBbVHjDatHM9sMFWD) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [おめかし](https://open.spotify.com/album/5AMeHgFVp1H9iv2e7xYH48) | 3:31 | 2023-06-01 | 2023-09-27 |
-| [からから](https://open.spotify.com/track/6oO5DvOrulZ1RehWQ3jPqG) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [からから](https://open.spotify.com/album/3xUQCyFYU8pMv0U9oh9Q2P) | 3:10 | 2024-01-16 |  |
+| [からから](https://open.spotify.com/track/6oO5DvOrulZ1RehWQ3jPqG) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [からから](https://open.spotify.com/album/3xUQCyFYU8pMv0U9oh9Q2P) | 3:10 | 2024-01-16 | 2024-01-18 |
 | [きもち](https://open.spotify.com/track/5qTJ5H5Lzyr3x0ZYtnl1dr) | [カルロスまーちゃん](https://open.spotify.com/artist/2E9kXGdygdyQYPY9b24uRc), [FANCY](https://open.spotify.com/artist/4Oe4otAIIYhl48TwtKQ0l9) | [きもち](https://open.spotify.com/album/6uwVI771DDgLyb7EUiICjU) | 3:45 | 2022-12-22 | 2023-02-15 |
 | [ここにいよう](https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [ここにいよう](https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK) | 3:43 | 2023-03-14 | 2024-01-16 |
 | [この寒い夜だけ](https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この寒い夜だけ](https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld) | 2:58 | 2024-01-16 |  |
@@ -223,7 +225,7 @@
 | [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 | 2023-05-23 | 2023-06-07 |
 | [咲まう](https://open.spotify.com/track/07kglGIdrAd9p2NdtCLEaD) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 4:08 | 2023-04-04 | 2023-06-28 |
 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 | 2024-01-10 |  |
-| [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 | 2023-06-06 |  |
+| [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 | 2023-06-06 | 2024-01-18 |
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-10-20 | 2023-04-05 |
 | [夢で逢えたら](https://open.spotify.com/track/3dTszgeHELrjirdYr5cjr1) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [夢で逢えたら](https://open.spotify.com/album/1ULNF5G2B4FJFqPuOJiaCy) | 4:05 | 2023-01-17 | 2023-03-25 |
 | [夢にならないように](https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢にならないように](https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV) | 4:28 | 2022-11-23 | 2022-12-14 |

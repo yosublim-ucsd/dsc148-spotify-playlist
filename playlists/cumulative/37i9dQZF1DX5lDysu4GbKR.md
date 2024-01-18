@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-212 songs - 12 hr 52 min
+213 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Love Is A Losing Game \- Live at Stebbing Studio](https://open.spotify.com/track/36m5Fi9MUE98AtYnOjsYJp) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Love Is A Losing Game \(Live at Stebbing Studio\)](https://open.spotify.com/album/2jN0f3GV5cy6FONlqFkv6O) | 3:18 | 2022-10-27 |  |
 | [Love No Limit \(For Lisa\)](https://open.spotify.com/track/3cHaDV8U7srUIF4MeBubXf) | [Ernie Halter](https://open.spotify.com/artist/5B8M0EkuUFr6fGN66BO8H8) | [Acoustic Throwback \- Nineties Rhythm and Blues](https://open.spotify.com/album/1fvArybR5Lu1ShVdZKq3VX) | 3:05 | 2021-12-09 | 2022-01-26 |
 | [Lover, You Should've Come Over \(Exclusive Cover Version\)](https://open.spotify.com/track/4Pzim4c56ntyReaKmjcIIL) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Lover, You Should've Come Over](https://open.spotify.com/album/5VellzrJuIcQsc2JjB0hrv) | 3:00 | 2021-12-09 |  |
+| [Lover, You Should’ve Come Over](https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Lover, You Should’ve Come Over](https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm) | 6:01 | 2024-01-17 |  |
 | [Loyalty \- Acoustic](https://open.spotify.com/track/6FTpo3Ji9LOFC5Iv3MFxuF) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Loyalty \(Acoustic\)](https://open.spotify.com/album/0bsda3ccZoEUpiRW4zwMud) | 4:23 | 2021-12-09 | 2022-01-14 |
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2023-12-11 |  |
 | [Magic](https://open.spotify.com/track/0hNa2G3CxcEFD1iG0GM2rY) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Julia Zahra](https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 4:42 | 2022-10-27 |  |

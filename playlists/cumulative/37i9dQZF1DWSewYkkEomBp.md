@@ -4,7 +4,7 @@
 
 > The perfect tunes to accompany your lazy day in the garden.
 
-167 songs - 10 hr 28 min
+168 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,8 +159,9 @@
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2020-05-18 |  |
 | [Three Little Birds](https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Hopeful Music](https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4) | 3:00 | 2020-05-18 | 2022-11-13 |
 | [Time of the Season \- Mono Version](https://open.spotify.com/track/2iUyvvPhSYN68f67c7xeVo) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Time of the Season / She's Not There](https://open.spotify.com/album/3U7gkGSzvOl0QqCe0dnOdW) | 3:34 | 2020-05-18 | 2022-10-15 |
-| [Time of the Season \- Mono Version](https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp) | 3:34 | 2020-05-18 |  |
+| [Time of the Season \- Mono Version](https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp) | 3:34 | 2020-05-18 | 2024-01-18 |
 | [Time of the Season \- Mono Version](https://open.spotify.com/track/7Cs1pwjAhDtUms7QfBrwJR) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [The Original Studio Recordings, Vol\. 4](https://open.spotify.com/album/0s2PMsWqj8BUaPr5PyhcCu) | 3:34 | 2020-05-18 | 2022-11-13 |
+| [Time of the Season \- Mono Version](https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5) | 3:34 | 2020-05-18 |  |
 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 | 2020-05-18 |  |
 | [Walking In Rhythm](https://open.spotify.com/track/65vssm44ghOVf4tBZMY2AE) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [The Blackbyrds](https://open.spotify.com/album/25cjuydCsuQUOiMvEsnsVj) | 4:13 | 2020-05-18 | 2022-07-29 |
 | [Walking In Rhythm](https://open.spotify.com/track/6lBOzYGkoPJz4tte6J4g0N) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Flying Start](https://open.spotify.com/album/6idrZJZqD3UZ4o1WuhvBhp) | 4:14 | 2020-05-18 |  |

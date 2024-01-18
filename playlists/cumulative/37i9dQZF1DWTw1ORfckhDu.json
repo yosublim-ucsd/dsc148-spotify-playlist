@@ -2335,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "Kuori mua",
+        "url": "https://open.spotify.com/album/64FEvZvuyPxg3y4tzcMi7e"
+      },
+      "artists": [
+        {
+          "name": "Sini Sabotage",
+          "url": "https://open.spotify.com/artist/6zOyQHK37vQX62CFowxvWc"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175680,
+      "name": "Kuori mua",
+      "url": "https://open.spotify.com/track/4PHX33QcAtlyaPSvOJsV22"
+    },
+    {
+      "album": {
         "name": "Kuuhullu",
         "url": "https://open.spotify.com/album/0FmNlFMwAFetJrnvUsxJ1l"
       },

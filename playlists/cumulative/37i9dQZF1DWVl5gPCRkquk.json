@@ -2748,7 +2748,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 198001,
       "name": "I Won't",
       "url": "https://open.spotify.com/track/57RjBtEPLGPacFQRs4N9Ca"
@@ -5748,6 +5748,24 @@
       "duration_ms": 160821,
       "name": "Witness Trees",
       "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
+    },
+    {
+      "album": {
+        "name": "The Years",
+        "url": "https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160822,
+      "name": "Witness Trees",
+      "url": "https://open.spotify.com/track/0TE3gM7LQPiiYsNFv7crzl"
     },
     {
       "album": {

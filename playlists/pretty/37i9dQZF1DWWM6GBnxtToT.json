@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 581415,
+  "num_followers": 581483,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjAxNmRmZWNlN2VjZTgzZDJjZGY2OGE5YzliMjI5NTM4OTY0YjEz",
+  "snapshot_id": "MCwxNzc1N2JkYWNhNTc1NzdlZmI2OTZhZGQzNDNjZGM0MzU1NjA1ZDk5",
   "tracks": [
     {
       "added_at": "2023-10-19 09:54:20",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 173630,
-      "name": "Left Hand Free",
-      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Seventeen Going Under (Deluxe)",
         "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 297933,
       "name": "Seventeen Going Under",
       "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 173630,
+      "name": "Left Hand Free",
+      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 222242,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Why You Lacking Energy?",
         "url": "https://open.spotify.com/album/5Oky6qpyguBJj42ajNfxEu"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 182480,
       "name": "Right There",
       "url": "https://open.spotify.com/track/3Y9CkOkl5eotKgClQMZvdw"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 222242,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Heavy Objects",
         "url": "https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Complex Happenings Reduced To A Simple Design",
-        "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
-      },
-      "artists": [
-        {
-          "name": "Leoniden",
-          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Dice",
-      "url": "https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "beautiful day",
         "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 183836,
       "name": "beautiful day",
       "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Complex Happenings Reduced To A Simple Design",
+        "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Dice",
+      "url": "https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Go Out",
-        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 154452,
-      "name": "Go Out",
-      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Mirage Morning",
         "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 162755,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1195,6 +1179,22 @@
       "duration_ms": 228092,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Go Out",
+        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 154452,
+      "name": "Go Out",
+      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Kalif Onya",
-        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
-      },
-      "artists": [
-        {
-          "name": "Al Pride",
-          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
-        }
-      ],
-      "duration_ms": 238936,
-      "name": "Kalif Onya",
-      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "More Than Happiness",
         "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 238186,
       "name": "More Than Happiness",
       "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Kalif Onya",
+        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
+      },
+      "artists": [
+        {
+          "name": "Al Pride",
+          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
+        }
+      ],
+      "duration_ms": 238936,
+      "name": "Kalif Onya",
+      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "To Feel Something At All",
-        "url": "https://open.spotify.com/album/46vIcaJA2Si8q22eFQkGEH"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/2WPhVFDTP6OyrfT2Hwg75K"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Adult Movies",
         "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 195982,
       "name": "Adult Movies",
       "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "To Feel Something At All",
+        "url": "https://open.spotify.com/album/46vIcaJA2Si8q22eFQkGEH"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/2WPhVFDTP6OyrfT2Hwg75K"
     },
     {
       "added_at": "2023-10-19 09:54:20",

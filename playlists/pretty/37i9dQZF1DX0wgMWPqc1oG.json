@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 26816,
+  "num_followers": 26849,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODQxMmVlZDM0ZGFmZGRmMTVkZWRiYjgwMTc0MGE2ZmE5MzczYThk",
+  "snapshot_id": "MCwwMDExOTJmNDIyYTc2M2ZkNzY4OTZhNTExOTA3ZDJlNzE4ODllNjQy",
   "tracks": [
     {
       "added_at": "2023-12-21 10:33:10",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
-      },
-      "artists": [
-        {
-          "name": "The Blue Mitchell Quintet",
-          "url": "https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "Perception - Remastered 2005/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB"
-    },
-    {
-      "added_at": "2023-12-21 10:33:10",
-      "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 318400,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5"
+    },
+    {
+      "added_at": "2023-12-21 10:33:10",
+      "album": {
+        "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+      },
+      "artists": [
+        {
+          "name": "The Blue Mitchell Quintet",
+          "url": "https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "Perception - Remastered 2005/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "Components",
-        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 385933,
-      "name": "Components - Remastered 1994",
-      "url": "https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y"
-    },
-    {
-      "added_at": "2023-12-21 10:33:10",
-      "album": {
         "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
         "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
       },
@@ -1079,34 +1063,18 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "Time For Tyner (2005 Remastered/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p"
+        "name": "Components",
+        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
         }
       ],
-      "duration_ms": 512373,
-      "name": "Little Madimba - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0"
-    },
-    {
-      "added_at": "2023-12-21 10:33:10",
-      "album": {
-        "name": "Black Fire",
-        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
-        }
-      ],
-      "duration_ms": 323962,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
+      "duration_ms": 385933,
+      "name": "Components - Remastered 1994",
+      "url": "https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1127,6 +1095,38 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
+        "name": "Black Fire",
+        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 323962,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
+    },
+    {
+      "added_at": "2023-12-21 10:33:10",
+      "album": {
+        "name": "Time For Tyner (2005 Remastered/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 512373,
+      "name": "Little Madimba - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0"
+    },
+    {
+      "added_at": "2023-12-21 10:33:10",
+      "album": {
         "name": "Contours",
         "url": "https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y"
       },
@@ -1139,6 +1139,38 @@
       "duration_ms": 563920,
       "name": "Point Of Many Returns",
       "url": "https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY"
+    },
+    {
+      "added_at": "2023-12-21 10:33:10",
+      "album": {
+        "name": "Happenings",
+        "url": "https://open.spotify.com/album/4TbWPn2fJUrQc924iTylFi"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 314026,
+      "name": "Head Start - Rudy Van Gelder Edition / 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0knaLLhdMU69U4byKTIeim"
+    },
+    {
+      "added_at": "2023-12-21 10:33:10",
+      "album": {
+        "name": "The Best Of Lee Morgan",
+        "url": "https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 332373,
+      "name": "Speedball",
+      "url": "https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1171,22 +1203,6 @@
       "duration_ms": 482186,
       "name": "French Spice - Remaster 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk"
-    },
-    {
-      "added_at": "2023-12-21 10:33:10",
-      "album": {
-        "name": "Happenings",
-        "url": "https://open.spotify.com/album/4TbWPn2fJUrQc924iTylFi"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "Head Start - Rudy Van Gelder Edition / 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0knaLLhdMU69U4byKTIeim"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1255,38 +1271,6 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "The Best Of Lee Morgan",
-        "url": "https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 332373,
-      "name": "Speedball",
-      "url": "https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F"
-    },
-    {
-      "added_at": "2023-12-21 10:33:10",
-      "album": {
-        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
-        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
-      },
-      "artists": [
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 313733,
-      "name": "Off My Back Jack",
-      "url": "https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU"
-    },
-    {
-      "added_at": "2023-12-21 10:33:10",
-      "album": {
         "name": "Dialogue",
         "url": "https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "Trompeta Toccata (Remastered 2014)",
-        "url": "https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl"
+        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
+        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
       },
       "artists": [
         {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 480053,
-      "name": "The Fox - Remastered 2014",
-      "url": "https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5"
+      "duration_ms": 313733,
+      "name": "Off My Back Jack",
+      "url": "https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1351,34 +1335,18 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+        "name": "Trompeta Toccata (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl"
       },
       "artists": [
         {
-          "name": "The Blue Mitchell Quintet",
-          "url": "https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj"
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
         }
       ],
-      "duration_ms": 450400,
-      "name": "One Shirt - Remastered 2005/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk"
-    },
-    {
-      "added_at": "2023-12-21 10:33:10",
-      "album": {
-        "name": "Dialogue",
-        "url": "https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 509453,
-      "name": "Jasper - Rudy Van Gelder/24Bit Digital Remaster/2002",
-      "url": "https://open.spotify.com/track/0bkhgAfg6QJn1oYbxIHhSo"
+      "duration_ms": 480053,
+      "name": "The Fox - Remastered 2014",
+      "url": "https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1399,6 +1367,22 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
+        "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+      },
+      "artists": [
+        {
+          "name": "The Blue Mitchell Quintet",
+          "url": "https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj"
+        }
+      ],
+      "duration_ms": 450400,
+      "name": "One Shirt - Remastered 2005/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk"
+    },
+    {
+      "added_at": "2023-12-21 10:33:10",
+      "album": {
         "name": "Black Fire",
         "url": "https://open.spotify.com/album/2XOQztLkohDDWZH8DEECkQ"
       },
@@ -1415,22 +1399,6 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "Let Freedom Ring (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 510973,
-      "name": "Omega - Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering",
-      "url": "https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l"
-    },
-    {
-      "added_at": "2023-12-21 10:33:10",
-      "album": {
         "name": "The Ultimate",
         "url": "https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp"
       },
@@ -1443,6 +1411,38 @@
       "duration_ms": 302842,
       "name": "In The Truth",
       "url": "https://open.spotify.com/track/2QdzdWDxxwG1XJdL4iAX4U"
+    },
+    {
+      "added_at": "2023-12-21 10:33:10",
+      "album": {
+        "name": "Total Eclipse",
+        "url": "https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 396360,
+      "name": "Herzog",
+      "url": "https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy"
+    },
+    {
+      "added_at": "2023-12-21 10:33:10",
+      "album": {
+        "name": "Let Freedom Ring (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 510973,
+      "name": "Omega - Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering",
+      "url": "https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1591,8 +1591,8 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "Total Eclipse",
-        "url": "https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM"
+        "name": "Dialogue",
+        "url": "https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2"
       },
       "artists": [
         {
@@ -1600,9 +1600,9 @@
           "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
         }
       ],
-      "duration_ms": 396360,
-      "name": "Herzog",
-      "url": "https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy"
+      "duration_ms": 509453,
+      "name": "Jasper - Rudy Van Gelder/24Bit Digital Remaster/2002",
+      "url": "https://open.spotify.com/track/0bkhgAfg6QJn1oYbxIHhSo"
     },
     {
       "added_at": "2023-12-21 10:33:10",

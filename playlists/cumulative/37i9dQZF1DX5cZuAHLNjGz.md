@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Shubh
 
-292 songs - 15 hr 8 min
+293 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Chauffeur JBEE Remix \(feat\. Tory Lanez\)](https://open.spotify.com/track/44g0ftxbp0OAgAXK28ltHj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Chauffeur JBEE Remix \(feat\. Tory Lanez\)](https://open.spotify.com/album/4mF6BF98nJlozyGZPLbfCk) | 3:25 | 2022-09-30 | 2023-02-01 |
 | [Check It Out](https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Check It Out](https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV) | 3:15 | 2023-08-11 |  |
 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 | 2023-07-07 |  |
-| [Chill Mode](https://open.spotify.com/track/5YVUPrQIX3dGn5mf5eXyaB) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [G Thing](https://open.spotify.com/album/5PFlkcno9qStTmxIF7TXTN) | 3:00 | 2023-12-12 |  |
+| [Chill Mode](https://open.spotify.com/track/5YVUPrQIX3dGn5mf5eXyaB) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [G Thing](https://open.spotify.com/album/5PFlkcno9qStTmxIF7TXTN) | 3:00 | 2023-12-12 | 2024-01-18 |
 | [Chithiyaan](https://open.spotify.com/track/36T47GIlXspprLND3cJKqT) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Chithiyaan](https://open.spotify.com/album/5XDyPkPyOSt6ahOZ3CP1vi) | 3:18 | 2022-07-28 | 2022-11-26 |
 | [Chithiyaan](https://open.spotify.com/track/7HRvfjNicVkQnohrpOvjjL) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Chithiyaan](https://open.spotify.com/album/0q5ukWwsWsMiAX18I6D3zK) | 3:18 | 2022-05-29 | 2022-07-29 |
 | [Chorni](https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Chorni](https://open.spotify.com/album/5zGHPCBVVX3L7UADaS2AQ8) | 3:01 | 2023-07-07 |  |
@@ -105,6 +105,7 @@
 | [Gutt Ch Paranda](https://open.spotify.com/track/4NyKTeLnNmWuwrYYUkak6d) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq), [Sobha](https://open.spotify.com/artist/6Bc0kRRn7KUriyBrtzSV6z), [Deep Sandhu](https://open.spotify.com/artist/3zBJTgsnovcVTircnCf9tr) | [Gutt Ch Paranda](https://open.spotify.com/album/6Ef3ZkklKfluDkj1mBv6Li) | 3:49 | 2022-07-21 | 2022-07-23 |
 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 | 2023-10-27 |  |
 | [Heart Attack](https://open.spotify.com/track/2Ycj9XXWp6cASuSA5UJ2Wo) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Heart Attack](https://open.spotify.com/album/7tM1PlNCbtd1a24fiNPH9y) | 2:42 | 2022-05-29 | 2022-06-01 |
+| [Heel](https://open.spotify.com/track/3RjYCv0aBmCzZyLRIHH4o8) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Billo Kehndi](https://open.spotify.com/album/0zufKiU1f4TQOmcpTDpnpW) | 3:22 | 2024-01-17 |  |
 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 | 2022-11-02 | 2022-11-19 |
 | [Her](https://open.spotify.com/track/6biqkuWq069vByAEeGxZlr) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Her](https://open.spotify.com/album/17kCYpIx9cO6WEt3B7795R) | 2:34 | 2022-11-30 |  |
 | [Here & There](https://open.spotify.com/track/1TLNrPm7U8V8kRF17SlsAe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:05 | 2022-05-29 | 2022-07-29 |

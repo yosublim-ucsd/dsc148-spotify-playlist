@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Subtronics and Rezz
 
-734 songs - 1 day 18 hr 11 min
+734 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Gladiator](https://open.spotify.com/track/6ecgqoYRp0sAu0WoWhctQb) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Def3](https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG) | [Gladiator](https://open.spotify.com/album/1syBtYI0asFIInNYjw7bNI) | 2:16 | 2023-12-08 |  |
 | [Glow In The Dark](https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Microworlds](https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C) | 3:29 | 2023-07-21 | 2024-01-06 |
 | [Go \- goddard\. Remix](https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Go \(goddard\. Remix\)](https://open.spotify.com/album/7K8W66c9ZMtVVYDLGOlffv) | 3:12 | 2022-04-15 | 2022-05-14 |
-| [GOATED](https://open.spotify.com/track/2tPiJ3Rp20TsiG0nrvEyEp) | [Rickyxsan](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ), [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0) | [GOATED](https://open.spotify.com/album/7vhMu8cSg5nx9CQgXQTdjG) | 3:01 | 2024-01-12 |  |
+| [GOATED](https://open.spotify.com/track/2tPiJ3Rp20TsiG0nrvEyEp) | [Rickyxsan](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ), [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0) | [GOATED](https://open.spotify.com/album/7vhMu8cSg5nx9CQgXQTdjG) | 3:00 | 2024-01-12 |  |
 | [Godless](https://open.spotify.com/track/1LLQXqalVEKNTkga1WHrx9) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [Godless](https://open.spotify.com/album/3JbJ3sGuHEl4EY4Q3EhB6w) | 3:25 | 2023-12-01 | 2024-01-06 |
 | [Going Insane](https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Eyes Wide Open](https://open.spotify.com/album/3zgSMDDYMuWQJihpF9SFQX) | 3:51 | 2023-11-03 |  |
 | [Going Insane](https://open.spotify.com/track/3kqfov5qf3VfQMsnq35su1) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Going Insane](https://open.spotify.com/album/57ucHWJmOjrC7PgBzHMiUP) | 3:46 | 2021-12-17 | 2022-02-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 387036,
+  "num_followers": 387054,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDhiN2FjNTliYzMzMTFjMDI1ZjlkZmYwZmRjMDkzYWUwZDhkMGRj",
+  "snapshot_id": "MCxkODgzNDlhYzQxZThjOGU4NTFiZDdmOThkNjEyN2RiOGQ1OGIwNmYy",
   "tracks": [
     {
       "added_at": "2023-12-21 15:23:45",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-12-21 15:23:45",
       "album": {
+        "name": "Tidal Waves",
+        "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
+      },
+      "artists": [
+        {
+          "name": "Isaak Young",
+          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Tidal Waves",
+      "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
+    },
+    {
+      "added_at": "2023-12-21 15:23:45",
+      "album": {
         "name": "What a Wonderful World (Krister Remix)",
         "url": "https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 95023,
       "name": "What a Wonderful World - Krister Remix",
       "url": "https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII"
-    },
-    {
-      "added_at": "2023-12-21 15:23:45",
-      "album": {
-        "name": "Tidal Waves",
-        "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
-      },
-      "artists": [
-        {
-          "name": "Isaak Young",
-          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
-        }
-      ],
-      "duration_ms": 190820,
-      "name": "Tidal Waves",
-      "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
     },
     {
       "added_at": "2023-12-21 15:23:45",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-12-21 15:23:45",
       "album": {
+        "name": "Oceanside Girl",
+        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "duration_ms": 319551,
+      "name": "Oceanside Girl",
+      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
+    },
+    {
+      "added_at": "2023-12-21 15:23:45",
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/13R5GMY8KhoR2HNyYblrhU"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 254608,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/0QWfkVxD0iy0a8vRhQWm3s"
-    },
-    {
-      "added_at": "2023-12-21 15:23:45",
-      "album": {
-        "name": "Oceanside Girl",
-        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
-      },
-      "artists": [
-        {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
-        }
-      ],
-      "duration_ms": 319551,
-      "name": "Oceanside Girl",
-      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
     },
     {
       "added_at": "2023-12-21 15:23:45",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-12-21 15:23:45",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
-      },
-      "artists": [
-        {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
-        }
-      ],
-      "duration_ms": 242376,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
-    },
-    {
-      "added_at": "2023-12-21 15:23:45",
-      "album": {
         "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
@@ -1083,6 +1067,38 @@
       "duration_ms": 309000,
       "name": "Faisal (London Bridge Station)",
       "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+    },
+    {
+      "added_at": "2023-12-21 15:23:45",
+      "album": {
+        "name": "can you see me?",
+        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 197994,
+      "name": "can you see me?",
+      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
+    },
+    {
+      "added_at": "2023-12-21 15:23:45",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 242376,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
     },
     {
       "added_at": "2023-12-21 15:23:45",
@@ -1103,22 +1119,6 @@
       "duration_ms": 197739,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
-    },
-    {
-      "added_at": "2023-12-21 15:23:45",
-      "album": {
-        "name": "can you see me?",
-        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 197994,
-      "name": "can you see me?",
-      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
     },
     {
       "added_at": "2023-12-21 15:23:45",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-12-21 15:23:45",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
-        }
-      ],
-      "duration_ms": 230163,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
-    },
-    {
-      "added_at": "2023-12-21 15:23:45",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -1203,6 +1183,26 @@
     {
       "added_at": "2023-12-21 15:23:45",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+        }
+      ],
+      "duration_ms": 230163,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
+    },
+    {
+      "added_at": "2023-12-21 15:23:45",
+      "album": {
         "name": "Three Drums",
         "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
       },
@@ -1219,22 +1219,18 @@
     {
       "added_at": "2023-12-21 15:23:45",
       "album": {
-        "name": "Inhale / Exhale (with Sabrina Claudio)",
-        "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
       },
       "artists": [
         {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 168888,
-      "name": "Inhale / Exhale (with Sabrina Claudio)",
-      "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
+      "duration_ms": 287645,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
     },
     {
       "added_at": "2023-12-21 15:23:45",
@@ -1255,18 +1251,22 @@
     {
       "added_at": "2023-12-21 15:23:45",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+        "name": "Inhale / Exhale (with Sabrina Claudio)",
+        "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 287645,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
+      "duration_ms": 168888,
+      "name": "Inhale / Exhale (with Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
     },
     {
       "added_at": "2023-12-21 15:23:45",

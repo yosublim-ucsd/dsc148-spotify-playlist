@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 144864,
+  "num_followers": 144936,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmE0NGUwZTMyODg3OWM1MDRiNzgxMDJmN2M3YzVmZjRkODA3YzQz",
+  "snapshot_id": "MCwxZWY1ZTMxNTkzMjQ0OGE3YzkzMDNmOWY5NjBiNDkwNzJhMGNlZGNl",
   "tracks": [
     {
       "added_at": "2024-01-05 14:21:14",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ne partons pas f\u00e2ch\u00e9s",
-      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Louane",
         "url": "https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 205586,
       "name": "On \u00e9tait beau",
       "url": "https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Montagnes Russes",
+        "url": "https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN"
+      },
+      "artists": [
+        {
+          "name": "Lujipeka",
+          "url": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
+        }
+      ],
+      "duration_ms": 159173,
+      "name": "Poup\u00e9e Russe",
+      "url": "https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Montagnes Russes",
-        "url": "https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN"
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
       "artists": [
         {
-          "name": "Lujipeka",
-          "url": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
         }
       ],
-      "duration_ms": 159173,
-      "name": "Poup\u00e9e Russe",
-      "url": "https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM"
+      "duration_ms": 193000,
+      "name": "Ne partons pas f\u00e2ch\u00e9s",
+      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Sacha Distel: Crooner",
         "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 123053,
       "name": "La belle vie",
       "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "la derniere annee",
-        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
-      },
-      "artists": [
-        {
-          "name": "De Palmas",
-          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Ailleurs Land",
         "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Cach\u00e9 derri\u00e8re",
-        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
+        "name": "la derniere annee",
+        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
       },
       "artists": [
         {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
         }
       ],
-      "duration_ms": 215160,
-      "name": "Le pouvoir des fleurs",
-      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
+      "duration_ms": 221666,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
+        "name": "Cach\u00e9 derri\u00e8re",
+        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Le pouvoir des fleurs",
+      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -719,30 +719,6 @@
       "duration_ms": 218133,
       "name": "Le reste",
       "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
-        "name": "\u00c9ph\u00e9m\u00e8re",
-        "url": "https://open.spotify.com/album/3THI8m0WtBsYrdxKsRuS3w"
-      },
-      "artists": [
-        {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        },
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        },
-        {
-          "name": "Ga\u00ebl Faye",
-          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Tailler la route",
-      "url": "https://open.spotify.com/track/3G6gPn5Ux19JYSXkrK34A3"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -775,6 +751,30 @@
       "duration_ms": 219333,
       "name": "Ulysse",
       "url": "https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "\u00c9ph\u00e9m\u00e8re",
+        "url": "https://open.spotify.com/album/3THI8m0WtBsYrdxKsRuS3w"
+      },
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        },
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        },
+        {
+          "name": "Ga\u00ebl Faye",
+          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Tailler la route",
+      "url": "https://open.spotify.com/track/3G6gPn5Ux19JYSXkrK34A3"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "La vitesse",
-        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
-      },
-      "artists": [
-        {
-          "name": "Iz\u00efa",
-          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Mon c\u0153ur",
-      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Les feux d'artifice",
         "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Amoureuse (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+        "name": "La vitesse",
+        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
       },
       "artists": [
         {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+          "name": "Iz\u00efa",
+          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Amoureuse - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+      "duration_ms": 198973,
+      "name": "Mon c\u0153ur",
+      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -915,6 +899,22 @@
       "duration_ms": 232440,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Amoureuse (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Amoureuse - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Les Annees Barclay",
-        "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
-      },
-      "artists": [
-        {
-          "name": "Les Poppys",
-          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Non non rien n'a chang\u00e9",
-      "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Je sais pas si \u00e7a va",
         "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 166293,
       "name": "Mal barr\u00e9",
       "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Les Annees Barclay",
+        "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
+      },
+      "artists": [
+        {
+          "name": "Les Poppys",
+          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Non non rien n'a chang\u00e9",
+      "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+        "name": "Repenti",
+        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
       },
       "artists": [
         {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
         }
       ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
+      "duration_ms": 215813,
+      "name": "Les voisines",
+      "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Repenti",
-        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
       },
       "artists": [
         {
-          "name": "Renan Luce",
-          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Les voisines",
-      "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
     },
     {
       "added_at": "2024-01-05 14:21:14",

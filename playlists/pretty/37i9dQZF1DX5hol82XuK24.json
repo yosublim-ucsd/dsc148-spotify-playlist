@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 423915,
+  "num_followers": 424020,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmNjOTI3NzA4ZTRmZDI5OWM5ZDY2MWIxZTI2MGEyMWUyMzRjZmE2",
+  "snapshot_id": "MCw5NDRlMzZkNTAxNDU2ODhmNWNjNGU5ZWY1MmM0M2MwMmJjN2ZlZWJm",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Funny",
-        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 302578,
-      "name": "Funny",
-      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Famous Last Words (An Ode to Eaters)",
         "url": "https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 202867,
       "name": "Famous Last Words (An Ode to Eaters)",
       "url": "https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 302578,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Eye On The Bat",
-        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 144404,
-      "name": "My Evil",
-      "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "My Cosmos Is Mine",
         "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 316899,
       "name": "My Cosmos Is Mine",
       "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Eye On The Bat",
+        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 144404,
+      "name": "My Evil",
+      "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Heart Under",
-        "url": "https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb"
-      },
-      "artists": [
-        {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "I Am You",
-      "url": "https://open.spotify.com/track/1hH8iCAI7si2uM6JGn7Pdl"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Sleeping In Your Garden",
         "url": "https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 204029,
       "name": "Sleeping In Your Garden",
       "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Heart Under",
+        "url": "https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb"
+      },
+      "artists": [
+        {
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "I Am You",
+      "url": "https://open.spotify.com/track/1hH8iCAI7si2uM6JGn7Pdl"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Used To It",
         "url": "https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 182002,
       "name": "Used To It",
       "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
       "added_at": "2023-11-03 23:08:22",

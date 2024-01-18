@@ -1,12 +1,12 @@
 {
   "description": "New music from Ariana Grande, 21 Savage, Josh Ross, Lil Nas X, Preme and more. ",
-  "num_followers": 352259,
+  "num_followers": 352262,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTI2M2Y5ZjFiMzVmNTMyYTgxNDI3MTU5ZGM3OGM1NGM2YTA2NDMz",
+  "snapshot_id": "MCwyODg0ZjU0MjVkN2VhZGUwMzNmYzUyZTM3YTg4OWM3MjFlODgwOTk4",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:19",
@@ -1435,7 +1435,7 @@
     {
       "added_at": "2024-01-12 05:00:19",
       "album": {
-        "name": "Temps en temps (feat. Kore)",
+        "name": "Temps en temps",
         "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
       },
       "artists": [
@@ -1446,14 +1446,10 @@
         {
           "name": "Koba LaD",
           "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        },
-        {
-          "name": "Kore",
-          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
         }
       ],
       "duration_ms": 153649,
-      "name": "Temps en temps (feat. Kore)",
+      "name": "Temps en temps",
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
     },
     {

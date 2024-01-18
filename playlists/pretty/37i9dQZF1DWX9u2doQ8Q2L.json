@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 383531,
+  "num_followers": 384030,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjhhZDMzMDM3YTQ4OWI1ODE3YzBhNWY3NmY0YjVjYjYxNDFjMGFj",
+  "snapshot_id": "MCw4MWYwM2I1NmNkZjNhNjNlM2UzZTM3YzRhYWE1NjAzNWIwMmRhZmEw",
   "tracks": [
     {
       "added_at": "2024-01-16 15:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
-        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
+        "name": "I say bye",
+        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
       },
       "artists": [
         {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 254291,
-      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
+      "duration_ms": 180596,
+      "name": "I say bye",
+      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
     },
     {
       "added_at": "2024-01-16 15:00:00",
@@ -863,24 +863,24 @@
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
-        "name": "I say bye",
-        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
+        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
-      "duration_ms": 180596,
-      "name": "I say bye",
-      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
+      "duration_ms": 254291,
+      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
     },
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
         "name": "Escape",
-        "url": "https://open.spotify.com/album/3vIZOBWXZHV4qJpez22gUl"
+        "url": "https://open.spotify.com/album/3782jQ1QBXOs4hQnnR2fkL"
       },
       "artists": [
         {
@@ -890,7 +890,7 @@
       ],
       "duration_ms": 150376,
       "name": "Escape",
-      "url": "https://open.spotify.com/track/01UIlniiu2KwrVVpnMNE4s"
+      "url": "https://open.spotify.com/track/2AS6XcuB50SpAp8QO11sEL"
     },
     {
       "added_at": "2024-01-16 15:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
-        "name": "Question",
-        "url": "https://open.spotify.com/album/3ianuamQ5HkgsPLaFGB4H6"
-      },
-      "artists": [
-        {
-          "name": "chelmico",
-          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
-        }
-      ],
-      "duration_ms": 171695,
-      "name": "Question",
-      "url": "https://open.spotify.com/track/4ueD865i4d25gzz3UoDSus"
-    },
-    {
-      "added_at": "2024-01-16 15:00:00",
-      "album": {
         "name": "\u4e71\u75f4\u6c17",
         "url": "https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 221428,
       "name": "\u4e71\u75f4\u6c17",
       "url": "https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx"
+    },
+    {
+      "added_at": "2024-01-16 15:00:00",
+      "album": {
+        "name": "Question",
+        "url": "https://open.spotify.com/album/3ianuamQ5HkgsPLaFGB4H6"
+      },
+      "artists": [
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "duration_ms": 171695,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/4ueD865i4d25gzz3UoDSus"
     },
     {
       "added_at": "2024-01-16 15:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
+        "name": "OKACHIMACHI FRIDAY NIGHT",
+        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 198088,
+      "name": "OKACHIMACHI FRIDAY NIGHT",
+      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
+    },
+    {
+      "added_at": "2024-01-16 15:00:00",
+      "album": {
         "name": "Miss You feat. Vernon of SEVENTEEN",
         "url": "https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 184760,
       "name": "Miss You feat. Vernon of SEVENTEEN",
       "url": "https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi"
-    },
-    {
-      "added_at": "2024-01-16 15:00:00",
-      "album": {
-        "name": "OKACHIMACHI FRIDAY NIGHT",
-        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 198088,
-      "name": "OKACHIMACHI FRIDAY NIGHT",
-      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
     },
     {
       "added_at": "2024-01-16 15:00:00",
@@ -1719,22 +1719,18 @@
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
-        "name": "Snowy Road",
-        "url": "https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8"
+        "name": "Hyper",
+        "url": "https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N"
       },
       "artists": [
         {
-          "name": "WONK",
-          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
-        },
-        {
-          "name": "9m88",
-          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
         }
       ],
-      "duration_ms": 292249,
-      "name": "Snowy Road",
-      "url": "https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4"
+      "duration_ms": 257000,
+      "name": "Hyper",
+      "url": "https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW"
     },
     {
       "added_at": "2024-01-16 15:00:00",
@@ -1763,18 +1759,22 @@
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
-        "name": "Hyper",
-        "url": "https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N"
+        "name": "Snowy Road",
+        "url": "https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8"
       },
       "artists": [
         {
-          "name": "Kroi",
-          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+          "name": "WONK",
+          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
+        },
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
         }
       ],
-      "duration_ms": 257000,
-      "name": "Hyper",
-      "url": "https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW"
+      "duration_ms": 292249,
+      "name": "Snowy Road",
+      "url": "https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4"
     },
     {
       "added_at": "2024-01-16 15:00:00",

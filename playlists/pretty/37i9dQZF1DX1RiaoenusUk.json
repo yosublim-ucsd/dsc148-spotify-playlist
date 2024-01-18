@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 25770,
+  "num_followers": 25786,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDljYzRkYjA2MDM4ZDg5ZTNmOTJkZGVhOGRkOTVmY2RlNTc5NDc5",
+  "snapshot_id": "MCxmN2E4MWVjYTc5ZDhjZjFjMjdlNmI3ZDI4YzNkNWM1NjBmZDY0NzU2",
   "tracks": [
     {
       "added_at": "2024-01-12 16:14:58",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Xavier",
-        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Negra Monamour",
-      "url": "https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
         "name": "Croupier Funk",
         "url": "https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 342857,
       "name": "Fornicazzione",
       "url": "https://open.spotify.com/track/3TsyBes13Sv5NSHT731ERU"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Negra Monamour",
+      "url": "https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Pangea",
-        "url": "https://open.spotify.com/album/4UjEy9hqJdmG31HCaV1Lr4"
-      },
-      "artists": [
-        {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/3CfFt0xZrWJSBT0Ki46Eou"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
         "name": "RE$FRIADO",
         "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/4UjEy9hqJdmG31HCaV1Lr4"
+      },
+      "artists": [
+        {
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/3CfFt0xZrWJSBT0Ki46Eou"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
         "name": "Sinestesia",
         "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 267705,
       "name": "Sinestesia",
       "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
-        "name": "Prescription For Soul",
-        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
-      },
-      "artists": [
-        {
-          "name": "Doctorfunk",
-          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Can't Fight The Funk",
-      "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -847,6 +831,22 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
+        "name": "Prescription For Soul",
+        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
+      },
+      "artists": [
+        {
+          "name": "Doctorfunk",
+          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Can't Fight The Funk",
+      "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Groovin' Bohemia",
-        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
-      },
-      "artists": [
-        {
-          "name": "Groovin' Bohemia",
-          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
-        }
-      ],
-      "duration_ms": 445089,
-      "name": "Ameba",
-      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
         "name": "Guacamole",
         "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 279399,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Groovin' Bohemia",
+        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
+      },
+      "artists": [
+        {
+          "name": "Groovin' Bohemia",
+          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
+        }
+      ],
+      "duration_ms": 445089,
+      "name": "Ameba",
+      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -927,22 +927,18 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Flecha Verde",
-        "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
+        "name": "Sr. A",
+        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
       },
       "artists": [
         {
           "name": "Tapones de Punta",
           "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
         }
       ],
-      "duration_ms": 183215,
-      "name": "Flecha Verde",
-      "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
+      "duration_ms": 213267,
+      "name": "Sr. A",
+      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Sr. A",
-        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
+        "name": "Flecha Verde",
+        "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
       },
       "artists": [
         {
           "name": "Tapones de Punta",
           "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
         }
       ],
-      "duration_ms": 213267,
-      "name": "Sr. A",
-      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
+      "duration_ms": 183215,
+      "name": "Flecha Verde",
+      "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Kaos & Armon\u00eda",
-        "url": "https://open.spotify.com/album/7sqQCuwceUleWHIo5BXPKb"
+        "name": "7",
+        "url": "https://open.spotify.com/album/12D6I9cf0ThU8AO9jf3LfX"
       },
       "artists": [
         {
-          "name": "Orion XL",
-          "url": "https://open.spotify.com/artist/5M9UirTedNlelMd00Rv1PP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+          "name": "Papanegro",
+          "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
         }
       ],
-      "duration_ms": 221506,
-      "name": "Eco en el Silencio",
-      "url": "https://open.spotify.com/track/0Uxk4YeBgyqwWSQag0g8LS"
+      "duration_ms": 183312,
+      "name": "Nocaut",
+      "url": "https://open.spotify.com/track/0rZ21PT9MDXup9hwbzcLsT"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1143,18 +1139,22 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/12D6I9cf0ThU8AO9jf3LfX"
+        "name": "Kaos & Armon\u00eda",
+        "url": "https://open.spotify.com/album/7sqQCuwceUleWHIo5BXPKb"
       },
       "artists": [
         {
-          "name": "Papanegro",
-          "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
+          "name": "Orion XL",
+          "url": "https://open.spotify.com/artist/5M9UirTedNlelMd00Rv1PP"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
         }
       ],
-      "duration_ms": 183312,
-      "name": "Nocaut",
-      "url": "https://open.spotify.com/track/0rZ21PT9MDXup9hwbzcLsT"
+      "duration_ms": 221506,
+      "name": "Eco en el Silencio",
+      "url": "https://open.spotify.com/track/0Uxk4YeBgyqwWSQag0g8LS"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "El Reino",
-        "url": "https://open.spotify.com/album/6n1MzVCGv5bsBOYl3HH02m"
-      },
-      "artists": [
-        {
-          "name": "Halks",
-          "url": "https://open.spotify.com/artist/1ppSnWLPr4wR5aPoMh1aTo"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Agitando",
-      "url": "https://open.spotify.com/track/6cZ0HOx7jElFdcfARajfnd"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
         "name": "A Pesar de la Tormenta",
         "url": "https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 252120,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "El Reino",
+        "url": "https://open.spotify.com/album/6n1MzVCGv5bsBOYl3HH02m"
+      },
+      "artists": [
+        {
+          "name": "Halks",
+          "url": "https://open.spotify.com/artist/1ppSnWLPr4wR5aPoMh1aTo"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Agitando",
+      "url": "https://open.spotify.com/track/6cZ0HOx7jElFdcfARajfnd"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
         "name": "Tangible",
         "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Melod\u00edas",
-        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
       },
       "artists": [
         {
-          "name": "Monoson",
-          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
         }
       ],
-      "duration_ms": 185312,
-      "name": "Melod\u00edas",
-      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
+        "name": "Melod\u00edas",
+        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
+      },
+      "artists": [
+        {
+          "name": "Monoson",
+          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
+        }
+      ],
+      "duration_ms": 185312,
+      "name": "Melod\u00edas",
+      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/19SYYIX0zzZvm3zZjuncT3"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 230991,
       "name": "Silver Mule",
       "url": "https://open.spotify.com/track/3PJmsTebOq650PohvoAOny"
-    },
-    {
-      "added_at": "2024-01-12 16:14:58",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
-      },
-      "artists": [
-        {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
     },
     {
       "added_at": "2024-01-12 16:14:58",
@@ -1591,18 +1575,38 @@
     {
       "added_at": "2024-01-12 16:14:58",
       "album": {
-        "name": "Inmunidad",
-        "url": "https://open.spotify.com/album/3SJ7gTxtIxHXZ1e2xnJ6TG"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
       },
       "artists": [
         {
-          "name": "Milhojas",
-          "url": "https://open.spotify.com/artist/5SYSiqQnMA3kKiIe1BzQdb"
+          "name": "Croupier Funk",
+          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
         }
       ],
-      "duration_ms": 211654,
-      "name": "Al Otro Lado",
-      "url": "https://open.spotify.com/track/3z4qhzZR43nyO2iyJvr8ZR"
+      "duration_ms": 230250,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
+    },
+    {
+      "added_at": "2024-01-12 16:14:58",
+      "album": {
+        "name": "Twice",
+        "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
+      },
+      "artists": [
+        {
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+        },
+        {
+          "name": "Funky Torinos",
+          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
     }
   ],
   "unique_name": "Nota Funk",

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-870 songs - 1 day 9 hr 45 min
+872 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,7 +677,7 @@
 | [solstice](https://open.spotify.com/track/0nSchxt6Ucc5gSX5n8HnLV) | [owlh](https://open.spotify.com/artist/0kCNNJfXF8AOSqRIC4aoza) | [in the clouds](https://open.spotify.com/album/3MxySDz5dvG7BxCttkLEue) | 3:43 | 2022-09-23 | 2023-10-20 |
 | [Sometime](https://open.spotify.com/track/5wlLF3893tOtvLR6pSkodi) | [Natural Yoghurt](https://open.spotify.com/artist/4TeR99t1Oz0dXu0xTFAt5J) | [Can't make it without U](https://open.spotify.com/album/6oGnAtyHgkZdXYfHl6LzDf) | 1:58 | 2022-04-15 | 2022-09-09 |
 | [Sorry, Jorge](https://open.spotify.com/track/5b0Opn1XtWaqN70sXm8uJk) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Flakes](https://open.spotify.com/album/45WTdqbH4bvvR8yZm5ykWL) | 2:06 | 2022-04-15 | 2022-07-01 |
-| [Soul Calibre](https://open.spotify.com/track/6hagXr40I8q0fHJ1uwWnj0) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Soul Calibre](https://open.spotify.com/album/3IJdOutsIz9NSd1cfHOJys) | 2:33 | 2023-01-06 |  |
+| [Soul Calibre](https://open.spotify.com/track/6hagXr40I8q0fHJ1uwWnj0) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Soul Calibre](https://open.spotify.com/album/3IJdOutsIz9NSd1cfHOJys) | 2:33 | 2023-01-06 | 2024-01-18 |
 | [Sounds From The Park](https://open.spotify.com/track/55uqa2dZDFoy45LNi2c0Da) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Sounds From The Park](https://open.spotify.com/album/1hZjugixYJQrlemnJEwnLE) | 1:54 | 2022-10-14 |  |
 | [Space Fern](https://open.spotify.com/track/1Rh6LJdVGmt2A3GKGT1KFN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Midnight Glow, Vol\. 2](https://open.spotify.com/album/5OY4f2lUocQL384e0qV8ow) | 1:49 | 2022-04-15 | 2022-07-22 |
 | [Space Ride](https://open.spotify.com/track/39fJNs8HZ93gIW5wVzGdP3) | [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI), [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Space Ride](https://open.spotify.com/album/31QdWn6mzEFvbNKLsHxbF7) | 2:42 | 2022-10-14 | 2022-11-24 |
@@ -722,7 +722,7 @@
 | [Sunglasses at Night](https://open.spotify.com/track/7bprxmvPWGSdYIyjcXKVSV) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunglasses at Night](https://open.spotify.com/album/7gmLOUJFVnq4SNAKOdpstk) | 2:05 | 2022-12-09 |  |
 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 | 2022-10-14 |  |
 | [Sunny Side](https://open.spotify.com/track/2J8gE4IMrJhOpKad0UgM25) | [Hawk Town](https://open.spotify.com/artist/4kr96RAgKYYkht9GMqFKY1) | [Sunny Side](https://open.spotify.com/album/0JjSuWZ8awn89gBUKP4urE) | 2:37 | 2022-04-15 |  |
-| [Sunrise Over Seattle](https://open.spotify.com/track/3athjQzCfwoqj5xv8Qd8hy) | [Anthony Smith](https://open.spotify.com/artist/67dt5GuTNqsdlSfaTDky4S) | [Sunrise Over Seattle](https://open.spotify.com/album/4i7PFRW6S4g44lgqL0Qk8c) | 2:31 | 2024-01-12 |  |
+| [Sunrise Over Seattle](https://open.spotify.com/track/3athjQzCfwoqj5xv8Qd8hy) | [Anthony Smith](https://open.spotify.com/artist/67dt5GuTNqsdlSfaTDky4S) | [Sunrise Over Seattle](https://open.spotify.com/album/4i7PFRW6S4g44lgqL0Qk8c) | 2:31 | 2024-01-12 | 2024-01-18 |
 | [Sunset](https://open.spotify.com/track/3ct0r8yR5ORqdmY9d55nZF) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Sunset](https://open.spotify.com/album/5jAOZGhUvxBYeiK8uUxn4c) | 2:14 | 2022-11-11 | 2023-10-13 |
 | [Sunset](https://open.spotify.com/track/7siB5xHLbfjGBJsbIqrc5G) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Sunset](https://open.spotify.com/album/5xLZfXJa4Zp1hQ7Immqcl6) | 2:14 | 2022-04-15 | 2022-11-20 |
 | [sunset chat](https://open.spotify.com/track/6bmTICS9eCs5o0uYEW0wrH) | [sonolon](https://open.spotify.com/artist/1y3NpCoVmVh5gLL0uGKv5t) | [city skyline](https://open.spotify.com/album/3R8pEXyYGpi1I28nNyj50r) | 2:04 | 2022-04-15 | 2022-05-20 |
@@ -848,6 +848,7 @@
 | [Who You Are](https://open.spotify.com/track/3uJCI9hrlUdjgmPh2yuv3W) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Who You Are](https://open.spotify.com/album/17SOzJd9UJnDQzDZpOWyqF) | 4:09 | 2022-08-12 | 2023-09-22 |
 | [Who You Are](https://open.spotify.com/track/4k1o4RLLU5Qp8Qc3iWwCnp) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Who You Are](https://open.spotify.com/album/5lOG2MHQezQxpHV7HVlC2Z) | 4:09 | 2022-04-15 | 2022-08-13 |
 | [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 | 2023-10-06 |  |
+| [who's the boss?](https://open.spotify.com/track/4y1dRudyvMyqkq56Ummb3R) | [Cotton Candy Boulevard](https://open.spotify.com/artist/0y8PqsGy2nL9LqwL709086) | [who's the boss?](https://open.spotify.com/album/1rfJTW8R2u6yiyjVmVz1so) | 2:04 | 2024-01-12 |  |
 | [Who's World Is This?](https://open.spotify.com/track/6dL7z10QINju4SHT3O3cxC) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Who's World Is This](https://open.spotify.com/album/19Hp7di22vmwP4DrX1y6ex) | 2:36 | 2022-05-13 | 2023-09-29 |
 | [whoops i'm napping](https://open.spotify.com/track/5Wxany1ffEA1DxkRBvnLJ0) | [Pistachio](https://open.spotify.com/artist/1zj6sjoit7AFmmBfozJX1H) | [whoops i'm napping](https://open.spotify.com/album/7rqTIV0hWHwjxCchxWWlg6) | 2:54 | 2023-07-19 | 2023-09-29 |
 | [Wild poetry](https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Wild poetry](https://open.spotify.com/album/4TEKZ8XR8LUO3oXsbShFgx) | 3:48 | 2023-01-06 |  |
@@ -861,6 +862,7 @@
 | [Wonderland](https://open.spotify.com/track/6qeMnGssbQmFZQ4NA9NPT2) | [So\_nny](https://open.spotify.com/artist/1sHQ9ZkPcQPs3TIG3EJFd4) | [Wonderland](https://open.spotify.com/album/1FXPEiafiBIQoBL2FnoWGl) | 2:30 | 2022-04-15 | 2022-09-17 |
 | [Woodlander](https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [Woodlander](https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG) | 2:29 | 2022-09-09 | 2023-10-06 |
 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 | 2022-04-15 | 2022-06-03 |
+| [Woula](https://open.spotify.com/track/6PIWM7JvAifZM8aunm73NA) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Woula](https://open.spotify.com/album/1Qt5xDPOZT8keXpZ7qRMYb) | 2:49 | 2024-01-12 |  |
 | [written for you](https://open.spotify.com/track/3Wuyp3U5WhAoUrK07YhWyE) | [Terce S.](https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9), [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [written for you](https://open.spotify.com/album/0Fx4PimV6xoaZYf3gVCAnM) | 2:28 | 2023-04-03 | 2023-10-20 |
 | [wrong room?](https://open.spotify.com/track/6zvGDFWAM91P1huvcUgPo3) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [wrong room?](https://open.spotify.com/album/7uTtXbBmXvfr227RczFqtt) | 2:29 | 2022-04-15 |  |
 | [Wun](https://open.spotify.com/track/1gE2YJrgu8jRfLENtC9Bjf) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Wun](https://open.spotify.com/album/6oqzhDL5OBYl86OIMKWeKd) | 4:00 | 2022-04-15 | 2022-07-08 |

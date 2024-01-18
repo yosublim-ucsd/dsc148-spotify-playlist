@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2586503,
+  "num_followers": 2586584,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODM4MGQ1MzRkM2U5NzVlYzUwNGMyZGIyMzA2NmNiODI3ZjIyYzAz",
+  "snapshot_id": "MCw1NmI0MDVmMTAyODI4ODczYWZjOWVlMjdmZDE4MzBiYTBiZTJhYTg3",
   "tracks": [
     {
       "added_at": "2024-01-12 05:29:15",
@@ -795,6 +795,26 @@
     {
       "added_at": "2024-01-12 05:29:15",
       "album": {
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
+    },
+    {
+      "added_at": "2024-01-12 05:29:15",
+      "album": {
         "name": "BANG YOUR HEAD",
         "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 204798,
       "name": "BANG YOUR HEAD",
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
-    },
-    {
-      "added_at": "2024-01-12 05:29:15",
-      "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2024-01-12 05:29:15",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-01-12 05:29:15",
       "album": {
+        "name": "Forgive Forget",
+        "url": "https://open.spotify.com/album/6yoKpY3SB8swU6VtwRq8Zs"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Forgive Forget",
+      "url": "https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q"
+    },
+    {
+      "added_at": "2024-01-12 05:29:15",
+      "album": {
         "name": "Cheatcode",
         "url": "https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 169714,
       "name": "Trenches",
       "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
-    },
-    {
-      "added_at": "2024-01-12 05:29:15",
-      "album": {
-        "name": "Forgive Forget",
-        "url": "https://open.spotify.com/album/6yoKpY3SB8swU6VtwRq8Zs"
-      },
-      "artists": [
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Forgive Forget",
-      "url": "https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q"
     },
     {
       "added_at": "2024-01-12 05:29:15",

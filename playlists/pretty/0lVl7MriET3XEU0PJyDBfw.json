@@ -6,7 +6,7 @@
     "name": "Houseium Playlists",
     "url": "https://open.spotify.com/user/jayke0108"
   },
-  "snapshot_id": "NjA1MSw3MTNjODBhMDliYWM2ZTNiYzhlY2U4YTkwY2Y4ZTY1ZGFlMjFmOTBi",
+  "snapshot_id": "NjA1Miw4ZmFmN2MwMDA3ZDFlNDE1NTZlNjM5ZDg2MWY0NjRlMDgyNTEyNzQ3",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:38",
@@ -51,6 +51,22 @@
       "duration_ms": 202857,
       "name": "Rouge",
       "url": "https://open.spotify.com/track/6Qfg9Eg8eybJptydQEMeF1"
+    },
+    {
+      "added_at": "2024-01-17 20:25:27",
+      "album": {
+        "name": "Wooo",
+        "url": "https://open.spotify.com/album/4NsSZaxAIMuSaFPzu8BrIk"
+      },
+      "artists": [
+        {
+          "name": "Jan Orozco",
+          "url": "https://open.spotify.com/artist/7vVH3zLirKAwQ1N1uMdb1x"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "Wooo",
+      "url": "https://open.spotify.com/track/1siRzsZXjvNBvebxJRMeQB"
     },
     {
       "added_at": "2024-01-15 03:09:54",

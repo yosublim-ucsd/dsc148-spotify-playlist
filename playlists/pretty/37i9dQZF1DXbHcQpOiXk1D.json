@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Sophie Faith",
-  "num_followers": 305117,
+  "num_followers": 305199,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTU1NDA4YTVhODkxYWI4ZmQ1YjlhZTcxNmNiYjNhZGQ5NzJhNjZl",
+  "snapshot_id": "MCxhYzRlN2RjMzczY2QzN2VmNDE4Y2NmODliMDM5ZjJiOGY1NzgzN2Y2",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -232,7 +232,7 @@
           "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
         }
       ],
-      "duration_ms": 260226,
+      "duration_ms": 263160,
       "name": "So Mi Stay",
       "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
     },
@@ -511,30 +511,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
-      },
-      "artists": [
-        {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "It's All Good",
-      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "edbl & friends \u2013 Jackson Mathod",
         "url": "https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 172732,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -715,8 +715,8 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
+        "name": "The Yussef Dayes Experience Live at Joshua Tree (Presented by Soulection)",
+        "url": "https://open.spotify.com/album/2LrvbyF11d4ZlI1UAnLbEC"
       },
       "artists": [
         {
@@ -724,13 +724,13 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         },
         {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 271826,
-      "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
-      "url": "https://open.spotify.com/track/24ZA5a59iToToWe7pPT0A7"
+      "duration_ms": 227435,
+      "name": "Mystics (feat. Venna) - Live at Joshua Tree",
+      "url": "https://open.spotify.com/track/1pemIyUJIPDQ2fWciNrh6z"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "FIELDNOTES PT III",
+        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 191707,
+      "name": "Take It Easy (Miles' Song)",
+      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Temperature High",
         "url": "https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD"
       },
@@ -859,34 +875,6 @@
       "duration_ms": 190259,
       "name": "Temperature High",
       "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor)",
-        "url": "https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN"
-      },
-      "artists": [
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Jean Baylor",
-          "url": "https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa"
-        }
-      ],
-      "duration_ms": 270602,
-      "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor) - Single Edit",
-      "url": "https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -927,34 +915,30 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "FIELDNOTES PT III",
-        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
+        "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor)",
+        "url": "https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN"
       },
       "artists": [
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 191707,
-      "name": "Take It Easy (Miles' Song)",
-      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
-      },
-      "artists": [
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
         {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Jean Baylor",
+          "url": "https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa"
         }
       ],
-      "duration_ms": 400800,
-      "name": "Words Left Unspoken",
-      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
+      "duration_ms": 270602,
+      "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor) - Single Edit",
+      "url": "https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -971,6 +955,22 @@
       "duration_ms": 176611,
       "name": "High",
       "url": "https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 400800,
+      "name": "Words Left Unspoken",
+      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Annie's Tune",
-        "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "Charlie Stacey",
-          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
-        }
-      ],
-      "duration_ms": 263333,
-      "name": "Annie's Tune",
-      "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Astronaut",
         "url": "https://open.spotify.com/album/7q8Z5fhvYBhVLFGvv9kif5"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 161283,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Annie's Tune",
+        "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "Annie's Tune",
+      "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
+      },
+      "artists": [
+        {
+          "name": "TIANNA",
+          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
+        }
+      ],
+      "duration_ms": 162307,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/7yw4bZ9kbrQapS8V0Z32Ww"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 424960,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/1Rd9TkiuqfUXMYNgguXpKY"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
-      },
-      "artists": [
-        {
-          "name": "TIANNA",
-          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
-        }
-      ],
-      "duration_ms": 162307,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Lovestruck in London",
-        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
+        "name": "Freie Interpreten",
+        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
       },
       "artists": [
         {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+          "name": "Vincent J\u00e4ger",
+          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
         }
       ],
-      "duration_ms": 174764,
-      "name": "If You Love The Moon",
-      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
+      "duration_ms": 229262,
+      "name": "State of Blue",
+      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1219,6 +1219,22 @@
       "duration_ms": 172042,
       "name": "Listen To The Sky",
       "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Lovestruck in London",
+        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
+      },
+      "artists": [
+        {
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+        }
+      ],
+      "duration_ms": 174764,
+      "name": "If You Love The Moon",
+      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1267,22 +1283,6 @@
       "duration_ms": 233120,
       "name": "The Morning Side of Love",
       "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Freie Interpreten",
-        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
-      },
-      "artists": [
-        {
-          "name": "Vincent J\u00e4ger",
-          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
-        }
-      ],
-      "duration_ms": 229262,
-      "name": "State of Blue",
-      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Powerful Lady",
+        "url": "https://open.spotify.com/album/5ij9621I1TcRmDvA89336G"
+      },
+      "artists": [
+        {
+          "name": "Alice Markham",
+          "url": "https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o"
+        }
+      ],
+      "duration_ms": 260594,
+      "name": "Powerful Lady",
+      "url": "https://open.spotify.com/track/2O4rnCK71CUylfIGhN5cua"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Calling",
         "url": "https://open.spotify.com/album/2Duy6YtXSEmkUCW9mLby8V"
       },
@@ -1375,6 +1391,22 @@
       "duration_ms": 213851,
       "name": "Calling",
       "url": "https://open.spotify.com/track/0SlsuBILHxJwfzboGXIufK"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Mother Tongue",
+        "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
+      },
+      "artists": [
+        {
+          "name": "Maya Law",
+          "url": "https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6"
+        }
+      ],
+      "duration_ms": 204217,
+      "name": "Mother Tongue",
+      "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1395,46 +1427,6 @@
       "duration_ms": 322812,
       "name": "Chasing Days - Sam Redmore Remix",
       "url": "https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Powerful Lady",
-        "url": "https://open.spotify.com/album/5ij9621I1TcRmDvA89336G"
-      },
-      "artists": [
-        {
-          "name": "Alice Markham",
-          "url": "https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o"
-        }
-      ],
-      "duration_ms": 260594,
-      "name": "Powerful Lady",
-      "url": "https://open.spotify.com/track/2O4rnCK71CUylfIGhN5cua"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Champagne Kisses",
-        "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
-      },
-      "artists": [
-        {
-          "name": "Reuben James",
-          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
-        },
-        {
-          "name": "Tom Ford",
-          "url": "https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE"
-        },
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
-        }
-      ],
-      "duration_ms": 235433,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/2n1tmBwwgF0dP0kU9CELhL"
     }
   ],
   "unique_name": "Jazz UK",

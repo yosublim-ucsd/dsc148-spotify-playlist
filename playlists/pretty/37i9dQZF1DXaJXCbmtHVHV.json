@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Megan Moroney",
-  "num_followers": 524536,
+  "num_followers": 524619,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzg1YWIwNTg2NGU4Yjg2ZmI2ZTBjODc5NTFmN2I2YzdhZTE0MTRj",
+  "snapshot_id": "MCw3MGVkZDBlZjkyOTkzZDZiYzE1Y2Y1MDFkNTMxYjMwNTRkYzA2NzM5",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1039,22 +1039,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Drunk (And I Don't Wanna Go Home)",
-        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
+        "name": "MACON",
+        "url": "https://open.spotify.com/album/4MJPulC5XmELvmbrs1XHC9"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         },
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 245625,
-      "name": "Drunk (And I Don't Wanna Go Home)",
-      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
+      "duration_ms": 212893,
+      "name": "If I Didn\u2019t Love You",
+      "url": "https://open.spotify.com/track/7IYoh1u7dFM1xIWSEYd5B8"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "MACON",
-        "url": "https://open.spotify.com/album/4MJPulC5XmELvmbrs1XHC9"
+        "name": "Drunk (And I Don't Wanna Go Home)",
+        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         },
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 212893,
-      "name": "If I Didn\u2019t Love You",
-      "url": "https://open.spotify.com/track/7IYoh1u7dFM1xIWSEYd5B8"
+      "duration_ms": 245625,
+      "name": "Drunk (And I Don't Wanna Go Home)",
+      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Everything She Ain\u2019t",
-        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Brown Eyes Baby",
         "url": "https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 224333,
       "name": "Brown Eyes Baby",
       "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
     }
   ],
   "unique_name": "Big Country",

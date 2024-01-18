@@ -1,13 +1,97 @@
 {
-  "description": "Best performed tracks of Mollywood Gold in 2023 #SpotifyWrapped Cover : King Of Kotha",
-  "num_followers": 86521,
-  "original_name": " Best of Mollywood Gold in 2023",
+  "description": "The finest set of Malayalam music from the past 10 years.\nCover : Minnal Murali",
+  "num_followers": 86609,
+  "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDM0MWRhNjI5YzA0ZjQ1OTk5OTVmMGU0Yjk3Y2NmOWViNDc3NWRl",
+  "snapshot_id": "MCxkNDljNGVhM2RhZDJiNzEyODc2NTJhZDA4YjY3OTQ3YmJiYTc3NzBj",
   "tracks": [
+    {
+      "added_at": "2023-09-15 11:12:56",
+      "album": {
+        "name": "Minnal Murali",
+        "url": "https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x"
+      },
+      "artists": [
+        {
+          "name": "Marthyan",
+          "url": "https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T"
+        },
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        }
+      ],
+      "duration_ms": 132755,
+      "name": "Thee Minnal",
+      "url": "https://open.spotify.com/track/0MazZtniHdlLigR01rpKEI"
+    },
+    {
+      "added_at": "2023-11-24 10:18:25",
+      "album": {
+        "name": "Nenjakame (From \"Ambili\")",
+        "url": "https://open.spotify.com/album/7fX0vtbLsCV5JivpKUcZ2N"
+      },
+      "artists": [
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "duration_ms": 325650,
+      "name": "Nenjakame - From \"Ambili\"",
+      "url": "https://open.spotify.com/track/4HYiaTXtQLiASRD3H87e7L"
+    },
+    {
+      "added_at": "2023-09-15 11:12:56",
+      "album": {
+        "name": "Devadoothar Paadi (From \"Nna Thaan Case Kodu\")",
+        "url": "https://open.spotify.com/album/7ycVSsCV5hOlMQstQqeZeA"
+      },
+      "artists": [
+        {
+          "name": "Biju Narayanan",
+          "url": "https://open.spotify.com/artist/039dmmH0fdQTlvXC0zGlQx"
+        },
+        {
+          "name": "Ouseppachan",
+          "url": "https://open.spotify.com/artist/5wq0asvXF4jyJs8ydPPFzR"
+        }
+      ],
+      "duration_ms": 344791,
+      "name": "Devadoothar Paadi - From \"Nna Thaan Case Kodu\"",
+      "url": "https://open.spotify.com/track/4Zi74O1mr960YTHwcTVOej"
+    },
+    {
+      "added_at": "2023-09-18 05:21:56",
+      "album": {
+        "name": "Neela Nilave (From \"Rdx\")",
+        "url": "https://open.spotify.com/album/5LXBbKAhhMqgj3rGOBWOah"
+      },
+      "artists": [
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Manu Manjith",
+          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Neela Nilave (From \"RDX\")",
+      "url": "https://open.spotify.com/track/73rMD23ocpYxwQXJQJyRDv"
+    },
     {
       "added_at": "2023-09-15 11:12:56",
       "album": {
@@ -151,30 +235,6 @@
       "duration_ms": 216976,
       "name": "Athmave Poo (From \"Romancham\")",
       "url": "https://open.spotify.com/track/4AT2lYbyTiXIDc09bIN0V7"
-    },
-    {
-      "added_at": "2023-09-18 05:21:56",
-      "album": {
-        "name": "Neela Nilave (From \"Rdx\")",
-        "url": "https://open.spotify.com/album/5LXBbKAhhMqgj3rGOBWOah"
-      },
-      "artists": [
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Manu Manjith",
-          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Neela Nilave (From \"RDX\")",
-      "url": "https://open.spotify.com/track/73rMD23ocpYxwQXJQJyRDv"
     },
     {
       "added_at": "2023-09-15 11:12:56",
@@ -1263,26 +1323,6 @@
     {
       "added_at": "2023-11-24 10:18:25",
       "album": {
-        "name": "Nenjakame (From \"Ambili\")",
-        "url": "https://open.spotify.com/album/7fX0vtbLsCV5JivpKUcZ2N"
-      },
-      "artists": [
-        {
-          "name": "Vishnu Vijay",
-          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
-        },
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 325650,
-      "name": "Nenjakame - From \"Ambili\"",
-      "url": "https://open.spotify.com/track/4HYiaTXtQLiASRD3H87e7L"
-    },
-    {
-      "added_at": "2023-11-24 10:18:25",
-      "album": {
         "name": "Ollulleru (From \"Ajagajantharam\")",
         "url": "https://open.spotify.com/album/5n1xOPRMaAkLnvnkocIa1L"
       },
@@ -1383,26 +1423,6 @@
       "duration_ms": 238173,
       "name": "Rasathi",
       "url": "https://open.spotify.com/track/6DCWVyJ3uE3xxTg2Wp60Aj"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Minnal Murali",
-        "url": "https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x"
-      },
-      "artists": [
-        {
-          "name": "Marthyan",
-          "url": "https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T"
-        },
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        }
-      ],
-      "duration_ms": 132755,
-      "name": "Thee Minnal",
-      "url": "https://open.spotify.com/track/0MazZtniHdlLigR01rpKEI"
     },
     {
       "added_at": "2023-09-15 11:12:56",
@@ -1567,26 +1587,6 @@
     {
       "added_at": "2023-09-15 11:12:56",
       "album": {
-        "name": "Devadoothar Paadi (From \"Nna Thaan Case Kodu\")",
-        "url": "https://open.spotify.com/album/7ycVSsCV5hOlMQstQqeZeA"
-      },
-      "artists": [
-        {
-          "name": "Biju Narayanan",
-          "url": "https://open.spotify.com/artist/039dmmH0fdQTlvXC0zGlQx"
-        },
-        {
-          "name": "Ouseppachan",
-          "url": "https://open.spotify.com/artist/5wq0asvXF4jyJs8ydPPFzR"
-        }
-      ],
-      "duration_ms": 344791,
-      "name": "Devadoothar Paadi - From \"Nna Thaan Case Kodu\"",
-      "url": "https://open.spotify.com/track/4Zi74O1mr960YTHwcTVOej"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
         "name": "Ashubha Mangalakaari (From \"Super Sharanya\") - Single",
         "url": "https://open.spotify.com/album/5qu34FTnnbGjfSjJYCxXzG"
       },
@@ -1685,6 +1685,6 @@
       "url": "https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp"
     }
   ],
-  "unique_name": " Best of Mollywood Gold in 2023",
+  "unique_name": "Mollywood Gold",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD"
 }

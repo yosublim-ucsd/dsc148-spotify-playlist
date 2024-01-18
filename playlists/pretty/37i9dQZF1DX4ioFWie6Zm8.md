@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,711 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,849 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 33 | [Kolokani](https://open.spotify.com/track/2Sg0ITLH5edMAsklGSpAvP) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Né So](https://open.spotify.com/album/4cC1RPqmRyQTTFaV5bHRhd) | 4:06 |
 | 34 | [Jairaby Lé](https://open.spotify.com/track/1hqJGbTYFNVxlJYQnGH9Y6) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Heritage](https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk) | 5:31 |
 | 35 | [Koth Chwe](https://open.spotify.com/track/1ZUpqe0Sq2ljqiGEUbEyIn) | [Udulele](https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY) | [Ololokwe](https://open.spotify.com/album/6rQYuXskUNsOMsMg1A1Cu8) | 4:00 |
-| 36 | [Rwangaguhunga](https://open.spotify.com/track/7vpqMS7jm4j7IoRpTd5wWf) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK) | [Rwangaguhunga](https://open.spotify.com/album/7HF4HBqqUlGGKYqrE04CNE) | 2:45 |
+| 36 | [Rwangaguhunga](https://open.spotify.com/track/7vpqMS7jm4j7IoRpTd5wWf) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK), [Nzaramba Jean Thierry \(ras magic\)](https://open.spotify.com/artist/3zwWyzXGp0AUsL8iGosRgt) | [Rwangaguhunga](https://open.spotify.com/album/7HF4HBqqUlGGKYqrE04CNE) | 2:45 |
 | 37 | [Kontondiro](https://open.spotify.com/track/6E3QHEbMhoD6HlDPQOZ8db) | [Kadialy Kouyate](https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS) | [Aado: Senegalese Kora](https://open.spotify.com/album/2V00IKstbKgZaXLHVKRwmM) | 5:30 |
 | 38 | [Baara](https://open.spotify.com/track/64Sg9NoG09CiIAOxpGhb8l) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sou Ni Tile](https://open.spotify.com/album/3YkgbENywpHkRQlzT2y3aR) | 4:33 |
 | 39 | [Vi Gnin](https://open.spotify.com/track/5FV1Kewlc6bUNcPUxzRMzJ) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Christi Joza Orisha](https://open.spotify.com/artist/3CPmm77nMufyLCi02EHSd2), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 5:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Sohlangana khona \(We Will Meet There\)](https://open.spotify.com/track/5R53of9PqwA6RyDwht0Sun) | [Vusa Mkhaya](https://open.spotify.com/artist/1Zcfa6xRf2ZShaD9lcVR8E), [Brian Bangura](https://open.spotify.com/artist/1DzpwojcAYW8Pu3e90sJls), [Ramadu](https://open.spotify.com/artist/1xChafGbiQpAoWuyxFLWkY), [Handsome Mabhiza](https://open.spotify.com/artist/6AZhQmpoUMvqdA8b4r3q9b), [Othnell Mangoma Moyo](https://open.spotify.com/artist/2BTkglCPvt9QTqWZUWFxTn) | [Vusa Mkhaya: Vocalism](https://open.spotify.com/album/6YkNFMEvza2qgoyLKKYvfY) | 5:09 |
 | 100 | [Folly Cagni](https://open.spotify.com/track/37sZL7KtUzNhQdAL11ofet) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/2ovTeDR1IQRjZNRwPNuTAZ) | 3:08 |
 
-Snapshot ID: `MCxiYWM0MDQyYTM2ZjIxMWUwZjgxNTYzY2I4MDJkZmYwNWI1YTExOTVh`
+Snapshot ID: `MCwwMzNkMmY1MzIyNTQ5NWFmODBhYTNiMDIwN2JkNDU2NDg1YmEyZDEw`

@@ -4,7 +4,7 @@
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-104 songs - 6 hr 37 min
+105 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 | 2023-11-09 |  |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk) | [Sonora Siguaray](https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv) | [De Mil Maneras](https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8) | 4:06 | 2023-11-09 |  |
 | [Que No Quede Huella](https://open.spotify.com/track/28EWM0qJ09oupIAhNEeLlK) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Qué Chévere, Vol\. 2](https://open.spotify.com/album/7kwDYvYAr3mh2HjR00DCDU) | 3:39 | 2023-11-09 | 2023-11-18 |
+| [Que No Quede Huella \(Live\)](https://open.spotify.com/track/5wU0gGloYzBoy0kqHOfJMt) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 3:39 | 2023-12-20 |  |
 | [Qué Sera de Mí](https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Internacional](https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0) | 4:37 | 2023-11-09 | 2023-12-14 |
 | [Rebelión](https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 6:18 | 2023-11-09 |  |
 | [Repítela](https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítela](https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29) | 3:29 | 2023-11-09 |  |
@@ -104,7 +105,7 @@
 | [Sorbito De Champagne](https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:31 | 2023-11-09 |  |
 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 | 2023-11-09 | 2023-12-14 |
 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 | 2023-11-09 |  |
-| [Tan bella y tan presumida](https://open.spotify.com/track/1iD7PGq7tgAg2SBPDj1E53) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Los Mejores, Los Hispanos, Los Graduados](https://open.spotify.com/album/1IBR0Tmgw4urAXuE32Sd0z) | 2:34 | 2023-12-05 |  |
+| [Tan bella y tan presumida](https://open.spotify.com/track/1iD7PGq7tgAg2SBPDj1E53) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Los Mejores, Los Hispanos, Los Graduados](https://open.spotify.com/album/1IBR0Tmgw4urAXuE32Sd0z) | 2:34 | 2023-12-05 | 2024-01-18 |
 | [Te Necesito](https://open.spotify.com/track/5hgzN4qFBsZzTMj4hnaBbg) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Cantando](https://open.spotify.com/album/4Quphj8pT97jUc6T1A03Op) | 4:37 | 2023-11-09 |  |
 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 | 2023-11-09 |  |
 | [Traicionera](https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 3:34 | 2023-11-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Susie Arioli
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,693 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,713 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 12 | [1979](https://open.spotify.com/track/03LJjsuJViyRV0HQhDf9Ar) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [1979](https://open.spotify.com/album/4qDX05teYObQQntCs13mkz) | 4:48 |
 | 13 | [Great Wind \- Radio Edit](https://open.spotify.com/track/7k620TJe42bIg16RE51EZ4) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Great Wind \(Radio Edit\)](https://open.spotify.com/album/7zPhaeFUk57yoU5cdTCfHg) | 2:49 |
 | 14 | [Back to You](https://open.spotify.com/track/63Y4vFXdUtrnpbGd3UiuOq) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Back to You](https://open.spotify.com/album/2nuPtS1GvMyNlzuUNMb8VG) | 4:34 |
-| 15 | [The Colour Purple](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 |
+| 15 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 |
 | 16 | [Day In Day Out \- Florian Pellissier Extended Version](https://open.spotify.com/track/2HCLYRJnXDMQ9yfjHIiL60) | [Cotonete](https://open.spotify.com/artist/7vRJDtEvLW2MZ4ISs1Zddy), [Leron Thomas](https://open.spotify.com/artist/0lVzm0fYj4BredTD0LMdSY), [Florian Pellissier](https://open.spotify.com/artist/0xiIT6hCcH1oLeoOZjHo0s) | [Day In Day Out \(Florian Pellissier Extended Version\)](https://open.spotify.com/album/7urOxAlRsgKpA64cKZ6jWw) | 7:23 |
 | 17 | [You're the Top](https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [You're the Top](https://open.spotify.com/album/57XMvt6aiMjWpJHWTyBo29) | 4:08 |
 | 18 | [Ain't Misbehavin'](https://open.spotify.com/track/1d0P00e6Esi37XOWiDlvG9) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Ain't Misbehavin'](https://open.spotify.com/album/5mWDJe2FHrLyGSNVux1nw0) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Sunseekers](https://open.spotify.com/track/2hD250ixyqBjvYHpsOOEqG) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [Discotheques 001](https://open.spotify.com/album/3v11OGRfUdnN6IGp2tdcAm) | 3:32 |
 | 50 | [Home Cookin'](https://open.spotify.com/track/63geyyZS7EBU3opmvQK4Tw) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Home Cookin'](https://open.spotify.com/album/7CAToGy0bWVmXolIK9EVlx) | 5:35 |
 
-Snapshot ID: `MCwxZDA2MjZlMWU1Y2U2YTVlNmNkOGFkNjIyYjYyZGE0YzlhNjNhOGY2`
+Snapshot ID: `MCw5ODMxNWEyNjJjODE3ZjcyMTFjMjY1ZGNmMDMzMjQyMDJhODZlZTJh`

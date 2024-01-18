@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 22695,
+  "num_followers": 22718,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTgxZmNlYWZkM2JlNDQzODE5NTFmODI5YmY2YTA1YTY2MDQ4Mjhl",
+  "snapshot_id": "MCw4ZmM1ZjExODlmMjkyOWY2N2Y5YjE3OWY1MDViYTlmYjFmZjAxMzQ4",
   "tracks": [
     {
       "added_at": "2023-12-22 23:46:17",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Retrato de Familia",
-        "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        }
-      ],
-      "duration_ms": 208487,
-      "name": "Paisaje",
-      "url": "https://open.spotify.com/track/23EpodCa3x4eB5tlaqf9vd"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Confesion del Viento",
         "url": "https://open.spotify.com/album/0TgYYZdef8PHVqbaB8FLKe"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 268538,
       "name": "Oraci\u00f3n Del Remanso",
       "url": "https://open.spotify.com/track/7qzvssyQLOwo1fycCSEQCK"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Retrato de Familia",
+        "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 208487,
+      "name": "Paisaje",
+      "url": "https://open.spotify.com/track/23EpodCa3x4eB5tlaqf9vd"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Tu Respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+        "name": "Wi\u00f1ay",
+        "url": "https://open.spotify.com/album/0vKMwOpwogmFq8GZNOLzfl"
       },
       "artists": [
         {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
         }
       ],
-      "duration_ms": 222908,
-      "name": "Tu Respuesta",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
+      "duration_ms": 177142,
+      "name": "Wi\u00f1ay",
+      "url": "https://open.spotify.com/track/6SYH8a7ZpLXiPKAPRbNsGE"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Tu Respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "Tu Respuesta",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Coplas de Sangre, Vol. 5",
         "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
       },
@@ -743,18 +759,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Wi\u00f1ay",
-        "url": "https://open.spotify.com/album/0vKMwOpwogmFq8GZNOLzfl"
+        "name": "Cr\u00eda",
+        "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
       },
       "artists": [
         {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+          "name": "Duratierra",
+          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
         }
       ],
-      "duration_ms": 177142,
-      "name": "Wi\u00f1ay",
-      "url": "https://open.spotify.com/track/6SYH8a7ZpLXiPKAPRbNsGE"
+      "duration_ms": 340040,
+      "name": "En el Fresco de la Noche",
+      "url": "https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -771,22 +787,6 @@
       "duration_ms": 154977,
       "name": "La Olvidada",
       "url": "https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Cr\u00eda",
-        "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
-      },
-      "artists": [
-        {
-          "name": "Duratierra",
-          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
-        }
-      ],
-      "duration_ms": 340040,
-      "name": "En el Fresco de la Noche",
-      "url": "https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ"
-      },
-      "artists": [
-        {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "La Flor del Jazm\u00edn",
-      "url": "https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Entre Algarroba y Durazno",
         "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 250329,
       "name": "Entre Algarroba y Durazno",
       "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ"
+      },
+      "artists": [
+        {
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "La Flor del Jazm\u00edn",
+      "url": "https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD"
+      },
+      "artists": [
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        }
+      ],
+      "duration_ms": 176615,
+      "name": "Carnavaleando de Sol a Sol",
+      "url": "https://open.spotify.com/track/5kUFLZUia9HJtmA4EOllic"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Ysyry",
         "url": "https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn"
       },
@@ -1031,58 +1047,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD"
-      },
-      "artists": [
-        {
-          "name": "Nati Pastorutti",
-          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
-        }
-      ],
-      "duration_ms": 176615,
-      "name": "Carnavaleando de Sol a Sol",
-      "url": "https://open.spotify.com/track/5kUFLZUia9HJtmA4EOllic"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "La Madrugada",
-        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
-      },
-      "artists": [
-        {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
-        }
-      ],
-      "duration_ms": 245804,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Coraz\u00f3n de Agua",
-        "url": "https://open.spotify.com/album/5RkElYnP2R01LHMGlNtnu6"
-      },
-      "artists": [
-        {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        },
-        {
-          "name": "Micaela Chauque",
-          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
-        }
-      ],
-      "duration_ms": 263428,
-      "name": "Coraz\u00f3n de Agua",
-      "url": "https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Formose\u00f1a",
         "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
       },
@@ -1103,6 +1067,22 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "La Madrugada",
+        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
+      },
+      "artists": [
+        {
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+        }
+      ],
+      "duration_ms": 245804,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Rosa de los Vientos",
         "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 286627,
       "name": "El Seclante\u00f1o",
       "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Coraz\u00f3n de Agua",
+        "url": "https://open.spotify.com/album/5RkElYnP2R01LHMGlNtnu6"
+      },
+      "artists": [
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        },
+        {
+          "name": "Micaela Chauque",
+          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+        }
+      ],
+      "duration_ms": 263428,
+      "name": "Coraz\u00f3n de Agua",
+      "url": "https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1163,6 +1163,62 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Tierra, Tan S\u00f3lo",
+        "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        },
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Tierra, Tan S\u00f3lo",
+      "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Ambas - Maria Paula Godoy",
+        "url": "https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH"
+      },
+      "artists": [
+        {
+          "name": "Maria Paula Godoy",
+          "url": "https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 110291,
+      "name": "El T\u00edmido (feat. Nahuel Pennisi)",
+      "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "La Noche Sin Ti",
+        "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
+      },
+      "artists": [
+        {
+          "name": "Mariel Trimaglio",
+          "url": "https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu"
+        }
+      ],
+      "duration_ms": 284605,
+      "name": "La Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Aleteo",
         "url": "https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2"
       },
@@ -1191,78 +1247,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Ambas - Maria Paula Godoy",
-        "url": "https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH"
-      },
-      "artists": [
-        {
-          "name": "Maria Paula Godoy",
-          "url": "https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 110291,
-      "name": "El T\u00edmido (feat. Nahuel Pennisi)",
-      "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Tierra, Tan S\u00f3lo",
-        "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        },
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Tierra, Tan S\u00f3lo",
-      "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "La Noche Sin Ti",
-        "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
-      },
-      "artists": [
-        {
-          "name": "Mariel Trimaglio",
-          "url": "https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu"
-        }
-      ],
-      "duration_ms": 284605,
-      "name": "La Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Las Flores Buenas",
-        "url": "https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q"
-      },
-      "artists": [
-        {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        }
-      ],
-      "duration_ms": 184064,
-      "name": "El Surco",
-      "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Pasionarias",
         "url": "https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m"
       },
@@ -1283,8 +1267,24 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Vuelve a Sonar",
-        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
+        "name": "Las Flores Buenas",
+        "url": "https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        }
+      ],
+      "duration_ms": 184064,
+      "name": "El Surco",
+      "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Soy Semilla",
+        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
       },
       "artists": [
         {
@@ -1292,9 +1292,9 @@
           "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
         }
       ],
-      "duration_ms": 164394,
-      "name": "Vuelve a Sonar",
-      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
+      "duration_ms": 220941,
+      "name": "Algo de M\u00ed",
+      "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1367,8 +1367,8 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Soy Semilla",
-        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
+        "name": "Vuelve a Sonar",
+        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
       },
       "artists": [
         {
@@ -1376,9 +1376,9 @@
           "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
         }
       ],
-      "duration_ms": 220941,
-      "name": "Algo de M\u00ed",
-      "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
+      "duration_ms": 164394,
+      "name": "Vuelve a Sonar",
+      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29"
+      },
+      "artists": [
+        {
+          "name": "Julia Elena D\u00e1valos",
+          "url": "https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "La Maimare\u00f1a",
+      "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Tarareando, Con los Pies Descalzos",
         "url": "https://open.spotify.com/album/0svY4zLKY4AAmAY6ZgwvUk"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 267613,
       "name": "Tarareando",
       "url": "https://open.spotify.com/track/57xg7b2ktHnzQv3l5Vo2Oc"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Cantora",
-        "url": "https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29"
-      },
-      "artists": [
-        {
-          "name": "Julia Elena D\u00e1valos",
-          "url": "https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "La Maimare\u00f1a",
-      "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Cuando Vuelva a encontrarte",
+        "url": "https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp"
+      },
+      "artists": [
+        {
+          "name": "Mili Escudero y Agus Sol\u00e1",
+          "url": "https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "Sue\u00f1ero",
+      "url": "https://open.spotify.com/track/3iJCbESRoT3JX1WC918Uqr"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Memoria del Viento",
         "url": "https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 243066,
       "name": "Por el R\u00edo Volver\u00e9",
       "url": "https://open.spotify.com/track/1AqvmegBd4YsOw3YNSu0xl"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Cuando Vuelva a encontrarte",
-        "url": "https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp"
-      },
-      "artists": [
-        {
-          "name": "Mili Escudero y Agus Sol\u00e1",
-          "url": "https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "Sue\u00f1ero",
-      "url": "https://open.spotify.com/track/3iJCbESRoT3JX1WC918Uqr"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "La Negra Ulogia",
+        "url": "https://open.spotify.com/album/33VEeoUslSo8SUziYAW8GZ"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 271640,
+      "name": "La Negra Ulogia",
+      "url": "https://open.spotify.com/track/6hqPLgA3474q9IlIQ2ni7U"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Verdeado Dulzor",
         "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 151771,
       "name": "A la Ma\u00f1anita",
       "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "La Negra Ulogia",
-        "url": "https://open.spotify.com/album/33VEeoUslSo8SUziYAW8GZ"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        }
-      ],
-      "duration_ms": 271640,
-      "name": "La Negra Ulogia",
-      "url": "https://open.spotify.com/track/6hqPLgA3474q9IlIQ2ni7U"
     },
     {
       "added_at": "2023-12-22 23:46:17",

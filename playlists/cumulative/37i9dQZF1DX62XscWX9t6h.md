@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-142 songs - 10 hr 7 min
+143 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h) | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T) | 2:38 | 2021-10-20 |  |
 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 | 2021-10-20 |  |
 | [Dance of Maria](https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:47 | 2021-10-20 |  |
+| [Deli Deli](https://open.spotify.com/track/2cghTeF3VBx6aDDrFZO3si) | [Şatellites](https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi) | [Big Baglama](https://open.spotify.com/album/0VOhk1oTgTNnmHkjPFq1uL) | 3:03 | 2021-10-20 |  |
 | [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 | 2023-02-23 |  |
 | [Dividual Individual](https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 5:00 | 2023-06-05 | 2024-01-09 |
 | [Dois Palitos Fofinhos](https://open.spotify.com/track/6S8AJxUdc95lI4CNiVdKMu) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Dois Palitos Fofinhos](https://open.spotify.com/album/20HJ1KS55VbcT6tomohpxq) | 2:47 | 2024-01-03 |  |
@@ -112,7 +113,7 @@
 | [Sr\. Tigre \- French Braids Rework](https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Sr\. Tigre \(French Braids Rework\)](https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp) | 3:32 | 2021-10-20 | 2023-11-24 |
 | [Su Sızıyor](https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:04 | 2023-03-29 |  |
 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52) | 4:13 | 2023-07-19 | 2023-10-11 |
-| [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 | 2023-06-07 |  |
+| [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 | 2023-06-07 | 2024-01-18 |
 | [Tala Tannam](https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 5:38 | 2021-10-20 |  |
 | [Tarhatazed](https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w) | 7:27 | 2021-10-20 | 2023-10-05 |
 | [Tarhatazed](https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH) | 7:27 | 2021-10-20 |  |

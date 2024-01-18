@@ -1,12 +1,12 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 72406,
+  "num_followers": 72494,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGFkODFhYmE1NTAzZDMzMDRlNDk2ZTJkYTAzZDhiNGVlZjgwZGU4",
+  "snapshot_id": "MCwwNzYwMTk3MGQ2NTk5NDczMWQzNDI1YzNmODgwZDg4NGJhNDIyZTJm",
   "tracks": [
     {
       "added_at": "2023-08-21 17:43:47",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 177423,
+      "name": "Corrido De Lucio V\u00e1zquez (Los Pavo Reales)",
+      "url": "https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 199333,
       "name": "Macario Leyva",
       "url": "https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 177423,
-      "name": "Corrido De Lucio V\u00e1zquez (Los Pavo Reales)",
-      "url": "https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL"
+        "name": "Quince Madrazos Con Sus Compas",
+        "url": "https://open.spotify.com/album/5avrr5irqBn8LlbMlagxz2"
       },
       "artists": [
         {
-          "name": "Beto Quintanilla",
-          "url": "https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J"
+          "name": "Los Razos",
+          "url": "https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ"
         }
       ],
-      "duration_ms": 194653,
-      "name": "El Ultimo Contrabando",
-      "url": "https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU"
+      "duration_ms": 209773,
+      "name": "Chingon De Chingones",
+      "url": "https://open.spotify.com/track/5lduUBDO2K74wlWcReMTJ8"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "Quince Madrazos Con Sus Compas",
-        "url": "https://open.spotify.com/album/5avrr5irqBn8LlbMlagxz2"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL"
       },
       "artists": [
         {
-          "name": "Los Razos",
-          "url": "https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ"
+          "name": "Beto Quintanilla",
+          "url": "https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J"
         }
       ],
-      "duration_ms": 209773,
-      "name": "Chingon De Chingones",
-      "url": "https://open.spotify.com/track/5lduUBDO2K74wlWcReMTJ8"
+      "duration_ms": 194653,
+      "name": "El Ultimo Contrabando",
+      "url": "https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "Corridos Famosos",
-        "url": "https://open.spotify.com/album/4ATvggsNK4AaZNpare9Tjd"
-      },
-      "artists": [
-        {
-          "name": "Los Viejones De Linares",
-          "url": "https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW"
-        }
-      ],
-      "duration_ms": 238887,
-      "name": "Corrido de los P\u00e9rez",
-      "url": "https://open.spotify.com/track/7rCFnAMjSx3NHJRTR4PijK"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
         "name": "El Mero Chaka",
         "url": "https://open.spotify.com/album/3mFKkfROmn7VUiZq3y7f5Q"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 144200,
       "name": "Pakas De A Kilo",
       "url": "https://open.spotify.com/track/3qCcaEfYemFDg1T1qCGUUD"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/4ATvggsNK4AaZNpare9Tjd"
+      },
+      "artists": [
+        {
+          "name": "Los Viejones De Linares",
+          "url": "https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW"
+        }
+      ],
+      "duration_ms": 238887,
+      "name": "Corrido de los P\u00e9rez",
+      "url": "https://open.spotify.com/track/7rCFnAMjSx3NHJRTR4PijK"
     },
     {
       "added_at": "2023-08-21 17:43:47",

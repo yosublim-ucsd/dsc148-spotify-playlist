@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Slugeye",
+        "url": "https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH"
+      },
+      "artists": [
+        {
+          "name": "Gretel",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Apple Juice",
+      "url": "https://open.spotify.com/track/3A5aS28dQBFswox9AefLSX"
+    },
+    {
+      "album": {
         "name": "Apple Juice",
         "url": "https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO"
       },
@@ -440,24 +458,6 @@
       "duration_ms": 182500,
       "name": "Apple Juice",
       "url": "https://open.spotify.com/track/15cNyPj2P1ohuM2rMJiMUb"
-    },
-    {
-      "album": {
-        "name": "Slugeye",
-        "url": "https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH"
-      },
-      "artists": [
-        {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "date_added": "2022-10-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182500,
-      "name": "Apple Juice",
-      "url": "https://open.spotify.com/track/3A5aS28dQBFswox9AefLSX"
     },
     {
       "album": {

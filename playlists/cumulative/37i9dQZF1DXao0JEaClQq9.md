@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: Youth Lagoon
 
-556 songs - 1 day 10 hr 53 min
+557 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [Orange Juice](https://open.spotify.com/track/3s4QIE9CMkTRCufw1q0evm) | [Rozie Ramati](https://open.spotify.com/artist/3GzbAOojSz4h2yUjljyg3H), [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Orange Juice](https://open.spotify.com/album/3A4lKPEUMRhl9D2sYFP3Gi) | 2:55 | 2022-04-08 | 2022-04-23 |
 | [Ossature](https://open.spotify.com/track/6wKBs0H45e7YZqXxgYizqv) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Ossature](https://open.spotify.com/album/67pHzx4hDdALeMnatGIowU) | 3:45 | 2021-10-08 | 2022-04-23 |
 | [p i x e l a t e d](https://open.spotify.com/track/1vJcfFEpGBI1l2LNWnTUPJ) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [Digital Pacific](https://open.spotify.com/album/6kVa8HTm59PW9Kk60RM7hc) | 0:58 | 2021-06-03 | 2022-07-22 |
-| [Paprika](https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:40 | 2022-06-03 |  |
+| [Paprika](https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:40 | 2022-06-03 | 2024-01-18 |
 | [Paradise Circus](https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 4:57 | 2021-06-03 |  |
 | [Party's Over](https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Party's Over](https://open.spotify.com/album/6f0ynebrefkTEiM8S4akrs) | 3:23 | 2021-06-03 | 2022-07-24 |
 | [Patience Etc..\. \(George Clanton Remix\)](https://open.spotify.com/track/35UpVtlZ5nbxH2nw0of9ST) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Patience Etc..\. \(George Clanton Remix\)](https://open.spotify.com/album/47vZuuUWplGpIYvBZGUj4s) | 4:18 | 2021-08-27 | 2022-04-22 |
@@ -485,6 +485,7 @@
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:42 | 2022-10-21 | 2023-04-02 |
 | [SUNSHiiNE \(feat\. Shamir, Nick Valensi\)](https://open.spotify.com/track/3H3AINDfOplfuXi83Z5aQH) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj), [Nick Valensi](https://open.spotify.com/artist/1wicL5Ziz5pOtxWiBZDqFt) | [SUNSHiiNE \(feat\. Shamir, Nick Valensi\)](https://open.spotify.com/album/5xNvuAyT853nUVbSG75FEa) | 2:55 | 2021-10-08 | 2022-04-21 |
 | [Sunshine](https://open.spotify.com/track/08WoFlGwyAB7ckXoJPDoqY) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Sunshine](https://open.spotify.com/album/4doBcrW3hq3ulGSlqLJtSR) | 3:00 | 2022-04-22 | 2022-07-29 |
+| [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 | 2024-01-17 |  |
 | [Swing \- Mahmut Orhan Remix](https://open.spotify.com/track/53UPLafka6xWNDyDmOnNqy) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Swing \(Mahmut Orhan Remix\)](https://open.spotify.com/album/60UDYHQJprwayFDIjhfcaV) | 4:29 | 2021-06-03 | 2022-04-20 |
 | [Sword](https://open.spotify.com/track/1JD7KawV8TrUPz0aDUrTwA) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Sword](https://open.spotify.com/album/3Rp4BZIa3FPB1KV8bpinZm) | 3:02 | 2021-06-03 | 2022-07-29 |
 | [Take Me Down](https://open.spotify.com/track/0bMYQjhqOV3CoqE7OcRIBv) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [A Little Disaster](https://open.spotify.com/album/2qioFepYwtRRzdP91fGsj5) | 4:03 | 2023-04-14 | 2023-05-20 |

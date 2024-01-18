@@ -655,6 +655,28 @@
     },
     {
       "album": {
+        "name": "Bota Ni\u00f1a",
+        "url": "https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209693,
+      "name": "Bota Ni\u00f1a",
+      "url": "https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB"
+    },
+    {
+      "album": {
         "name": "Buenas",
         "url": "https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag"
       },
@@ -794,7 +816,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 207626,
       "name": "Candy",
       "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
@@ -816,6 +838,24 @@
       "duration_ms": 217240,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/5Jm4w8jmPEBTLjI9vH4fXo"
+    },
+    {
+      "album": {
+        "name": "Demon Time",
+        "url": "https://open.spotify.com/album/0WDYRRTzhqXxrA6b01LJMX"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "Chichi Partner",
+      "url": "https://open.spotify.com/track/1Bkq7kGzkVwFMpzaOsTA2I"
     },
     {
       "album": {
@@ -937,6 +977,28 @@
     },
     {
       "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/2b7NyXYaxu3V1ktJWmfcFd"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6"
+    },
+    {
+      "album": {
         "name": "Columbia",
         "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
@@ -952,6 +1014,54 @@
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "album": {
+        "name": "Complicado",
+        "url": "https://open.spotify.com/album/4MyHfAPhaeb4AwPU2XHvTU"
+      },
+      "artists": [
+        {
+          "name": "VICE MENTA",
+          "url": "https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Complicado",
+      "url": "https://open.spotify.com/track/0odJehbwynq5ywdEnnWywx"
+    },
+    {
+      "album": {
+        "name": "Con To (feat. Flow Nasty)",
+        "url": "https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Andre Noriega",
+          "url": "https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        },
+        {
+          "name": "Flow Nasty",
+          "url": "https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132539,
+      "name": "Con To (feat. Flow Nasty)",
+      "url": "https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q"
     },
     {
       "album": {
@@ -1066,7 +1176,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 141862,
       "name": "COSMETICOS",
       "url": "https://open.spotify.com/track/139mO3ryLnLwrO5hQMgWqM"
@@ -1985,6 +2095,28 @@
     },
     {
       "album": {
+        "name": "Ese Guille",
+        "url": "https://open.spotify.com/album/6Il031Qrsr1CNq32gPxr0W"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154462,
+      "name": "Ese Guille",
+      "url": "https://open.spotify.com/track/6EKqBV3VqOjQEGNnSS0hzt"
+    },
+    {
+      "album": {
         "name": "Music From The Motion Picture \"Feel The Noise\"",
         "url": "https://open.spotify.com/album/7BTv6hHajV2TqACQNHcNUj"
       },
@@ -2258,7 +2390,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 215470,
       "name": "GANGSTER (PQFNEDG)",
       "url": "https://open.spotify.com/track/3Yw6KJjm8ycybvl6UdW9dq"
@@ -2530,7 +2662,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 162400,
       "name": "Guatauba",
       "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
@@ -2988,7 +3120,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 269591,
       "name": "La Pregunta",
       "url": "https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX"
@@ -3446,7 +3578,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 220600,
       "name": "Mami Chula",
       "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
@@ -3682,7 +3814,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 195657,
       "name": "Me Prefieres A Mi",
       "url": "https://open.spotify.com/track/3GhmL9fuM8jwGcHCFbeo3v"
@@ -3840,7 +3972,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 225573,
       "name": "Mi Cama Huele a Ti (feat. Zion & Lennox)",
       "url": "https://open.spotify.com/track/1nAk42YH4kmPxaoFcLgiSe"
@@ -4264,7 +4396,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 216786,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
@@ -4430,6 +4562,32 @@
       "duration_ms": 195816,
       "name": "No Quiere Novio (remix) [feat. Nejo & Tego Calderon]",
       "url": "https://open.spotify.com/track/5XxOOXTiDicBrQXv0PAAH6"
+    },
+    {
+      "album": {
+        "name": "No Te Quieren Conmigo",
+        "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
+      },
+      "artists": [
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252040,
+      "name": "No Te Quieren Conmigo",
+      "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
     },
     {
       "album": {
@@ -4902,6 +5060,36 @@
       "duration_ms": 197383,
       "name": "PANTIES Y BRASIERES",
       "url": "https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY"
+    },
+    {
+      "album": {
+        "name": "Party Nice",
+        "url": "https://open.spotify.com/album/5FVpig8lHGMmY6B8u0HHSS"
+      },
+      "artists": [
+        {
+          "name": "MEL GRANDA",
+          "url": "https://open.spotify.com/artist/6h9lS66Ib3dOiz3Gg6PpI1"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Maycol Riddim",
+          "url": "https://open.spotify.com/artist/7eonAAygwW2IyWSjjOxrmr"
+        },
+        {
+          "name": "Crawba Genius",
+          "url": "https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175389,
+      "name": "Party Nice",
+      "url": "https://open.spotify.com/track/6FxdBhDsFr5LT7xEdXMh3U"
     },
     {
       "album": {
@@ -5420,6 +5608,24 @@
       "duration_ms": 238564,
       "name": "Prrrum",
       "url": "https://open.spotify.com/track/774Vy9sPhpePjj0B7WHaG2"
+    },
+    {
+      "album": {
+        "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
+        "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Psic\u00f3pata",
+      "url": "https://open.spotify.com/track/2SYXcZlBdWQNsFsgO0Ff24"
     },
     {
       "album": {
@@ -6210,7 +6416,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 209680,
       "name": "Sexy Movimiento",
       "url": "https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu"
@@ -6700,6 +6906,24 @@
       "duration_ms": 204180,
       "name": "Travesuras",
       "url": "https://open.spotify.com/track/2etJ67Egf7woMgOikVrlJM"
+    },
+    {
+      "album": {
+        "name": "NASTY SINGLES",
+        "url": "https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154866,
+      "name": "TU PERROTA",
+      "url": "https://open.spotify.com/track/5JBsFddVLWFNE4WfXo9ZDw"
     },
     {
       "album": {

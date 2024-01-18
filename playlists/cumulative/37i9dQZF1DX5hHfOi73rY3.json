@@ -264,7 +264,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 351605,
       "name": "Best Be Believing - Shadow Child Remix",
       "url": "https://open.spotify.com/track/4ZOuB9nVbvyeEIYKbm55O4"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 233666,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 275806,
       "name": "Buggin' - Edit",
       "url": "https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 190750,
       "name": "Burns - Edit",
       "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 228969,
       "name": "Control",
       "url": "https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 190476,
       "name": "Deep Down Low",
       "url": "https://open.spotify.com/track/48zgbsLhb3MirBgXt44nlH"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 349090,
       "name": "Finder",
       "url": "https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN"
@@ -744,6 +744,24 @@
       "duration_ms": 349090,
       "name": "Finder - Original",
       "url": "https://open.spotify.com/track/2urGLvUk2UxfGZ7oFxQmuN"
+    },
+    {
+      "album": {
+        "name": "Finder",
+        "url": "https://open.spotify.com/album/11fQed1lTippkC0Emeah41"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206368,
+      "name": "Finder - Radio-Edit",
+      "url": "https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c"
     },
     {
       "album": {
@@ -841,6 +859,28 @@
     },
     {
       "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "MC Moose",
+          "url": "https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291018,
+      "name": "Gosh",
+      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
+    },
+    {
+      "album": {
         "name": "25 Best Dance Hits Ever",
         "url": "https://open.spotify.com/album/7iP17fYlk7NCmGFCG7rDEy"
       },
@@ -870,7 +910,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 293578,
       "name": "Grey",
       "url": "https://open.spotify.com/track/1tNxprI7wf87blRuXUyEvC"
@@ -924,7 +964,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190053,
       "name": "Hey Hey",
       "url": "https://open.spotify.com/track/6o4KTcGUoN8Xse2SNHorGU"
@@ -1164,7 +1204,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 195960,
       "name": "I Need A Painkiller",
       "url": "https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5"
@@ -1208,7 +1248,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 301600,
       "name": "In For The Kill - Skream's Let's Get Ravey Remix",
       "url": "https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD"
@@ -1284,7 +1324,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 236160,
       "name": "It Makes You Forget (Itgehane) - Edit",
       "url": "https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex"
@@ -1392,7 +1432,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 372555,
       "name": "Just",
       "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
@@ -1530,7 +1570,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 248035,
       "name": "Losing It",
       "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
@@ -1653,6 +1693,32 @@
     },
     {
       "album": {
+        "name": "My Head is A Jungle - MK Remix / Radio Edit",
+        "url": "https://open.spotify.com/album/1V2K4IdlYAMC73lZyNTE7W"
+      },
+      "artists": [
+        {
+          "name": "lusttqwe",
+          "url": "https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR"
+        },
+        {
+          "name": "rufflws",
+          "url": "https://open.spotify.com/artist/6XeLF1KiaS5aBmp2d1fghp"
+        },
+        {
+          "name": "Lythx",
+          "url": "https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206007,
+      "name": "My Head is A Jungle - MK Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/1AUdrHbGmrPgWkda6JjylP"
+    },
+    {
+      "album": {
         "name": "My Head Is A Jungle (MK Remix / Radio Edit)",
         "url": "https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn"
       },
@@ -1672,7 +1738,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 205161,
       "name": "My Head Is A Jungle - MK Remix / Radio Edit",
       "url": "https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB"
@@ -1720,7 +1786,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 259933,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU"
@@ -1855,6 +1921,28 @@
     },
     {
       "album": {
+        "name": "Nothing Better",
+        "url": "https://open.spotify.com/album/6Ry6CCA0LD7gTqIf4xIX0e"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218639,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/6qMHCyhQPPVQaadEHAsoJW"
+    },
+    {
+      "album": {
         "name": "OKAY",
         "url": "https://open.spotify.com/album/5dGUCdPKARMirLPY52MnLM"
       },
@@ -1884,7 +1972,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 359297,
       "name": "Okay",
       "url": "https://open.spotify.com/track/5VS7aJFWhrm5U4gO7wHbVB"
@@ -1924,7 +2012,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 371533,
       "name": "On Hold - Jamie xx Remix",
       "url": "https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj"
@@ -1946,7 +2034,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 214482,
       "name": "Panic Room",
       "url": "https://open.spotify.com/track/3MkuFR7t25mu7Iscp6GGiV"
@@ -2172,7 +2260,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 200005,
       "name": "Rhymes",
       "url": "https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p"
@@ -2369,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
+    },
+    {
+      "album": {
         "name": "Take Me Away (feat. Rae) [Extended Radio Edit]",
         "url": "https://open.spotify.com/album/4gHiuDhBrW5EwhPJOLFgOF"
       },
@@ -2528,7 +2634,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 150703,
       "name": "The Renegade",
       "url": "https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK"
@@ -2550,7 +2656,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 228826,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W"
@@ -2674,7 +2780,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 304106,
       "name": "Watercolour - Full Version; Single",
       "url": "https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5"

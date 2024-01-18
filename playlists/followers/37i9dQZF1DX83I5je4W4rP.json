@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 1060856,
+  "2024-01-18": 1060858,
   "date_first_scraped": "2021-12-21",
   "description": "Soak up these laid-back jams. ",
   "name": "Beach Vibes",
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 229381,
       "name": "Every Road I'm On",
       "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
@@ -3061,7 +3061,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 224807,
       "name": "Message to the World",
       "url": "https://open.spotify.com/track/3ks1SPDe8U2c6Yh5zLxXHt"

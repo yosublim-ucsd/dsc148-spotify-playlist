@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4FGuhMc7yWmxgyIZNGSKN7">Christ For The Nations Worship</a> y <a href="spotify:artist:6C0t2XuoPExvGxcVfo7aHc">Waleska Morales</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,926 likes - 100 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,110 likes - 100 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 10 | [dIOS](https://open.spotify.com/track/6HcHD2UTjXUKrVT9oynGKj) | [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Mi Religión](https://open.spotify.com/album/3B51aJVMc4N4wUoYzC1JRb) | 3:30 |
 | 11 | [Abre Mis Ojos](https://open.spotify.com/track/1vffYobX9nOwphjEI7n1xB) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Efecto EMC](https://open.spotify.com/album/2ePQmfIRBYKi31EPsYRIg0) | 3:30 |
 | 12 | [Detras De Mi](https://open.spotify.com/track/1h4vdbJlwTksTjcY55KpVf) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Buzón de Voz](https://open.spotify.com/album/5RyQDplYD8TDxYJPP6oVOl) | 3:30 |
-| 13 | [Obra de Tu Amor \- \(Alfarero\)](https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 10:05 |
+| 13 | [Obra de Tu Amor \- \(Alfarero\)](https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Mission](https://open.spotify.com/artist/3260itd54aSFXY3wAhsH4W), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 10:05 |
 | 14 | [Tan Solo Cree](https://open.spotify.com/track/019riTfHIfZVlgLhYsLtnl) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Mis Favoritas, Éxitos de Jose Luis Reyes](https://open.spotify.com/album/6MDICk3UvUd1UHaaBoiOj4) | 4:35 |
 | 15 | [Tantas Historias](https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr) | 4:00 |
 | 16 | [Yo Sé Quien Soy](https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Yo Sé Quien Soy](https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Mi Alma Clama \(feat\. Laila Olivera\)](https://open.spotify.com/track/47ZJ19AEiODy34xxg8wFmr) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Mi Alma Clama](https://open.spotify.com/album/5z2pRMl0mN3tQvJsZ1hbrI) | 8:18 |
 | 100 | [Cordero y León](https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza) | [FLUIR 2](https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ) | 5:13 |
 
-Snapshot ID: `MCw1ODBmZWZhMDRmMTUwYzNiOWNmMjBiZGQ4MmJlMDNjYjQ3MjhjNzYy`
+Snapshot ID: `MCwxYTI5ZDY5ZjM3OGU1Y2MzZDVjMzQ3Yzg2ZjhiNWJjMDBlNzI1Y2U0`

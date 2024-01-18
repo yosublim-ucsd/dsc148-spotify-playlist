@@ -1,12 +1,12 @@
 {
   "description": "Spotify country fan favorites. Cover: Eric Church",
-  "num_followers": 2163527,
+  "num_followers": 2163556,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmEyZjRjNmJkNTAyYzgxYmM4MTEzYWZiZDI1NjEwN2U0Yjk4NzYz",
+  "snapshot_id": "MCxhZDdkOTM3NjJkODc5YzIzY2QwNTZlY2ExNjZkMWU0Yzk4NTY3NDUz",
   "tracks": [
     {
       "added_at": "2024-01-03 22:27:34",
@@ -1175,18 +1175,22 @@
     {
       "added_at": "2024-01-03 22:27:34",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 262280,
-      "name": "Talladega",
-      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
+      "duration_ms": 231832,
+      "name": "half of my hometown (feat. Kenny Chesney)",
+      "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
     },
     {
       "added_at": "2024-01-03 22:27:34",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2024-01-03 22:27:34",
       "album": {
-        "name": "kelsea",
-        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 231832,
-      "name": "half of my hometown (feat. Kenny Chesney)",
-      "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
+      "duration_ms": 262280,
+      "name": "Talladega",
+      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
     },
     {
       "added_at": "2024-01-03 22:27:34",

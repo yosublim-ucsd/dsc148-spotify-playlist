@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 423024,
+  "num_followers": 423159,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzUyNzRmNDNlOTQ3NWJkMzFlZDJkY2I4NDAxNmM5M2M0MjY4Nzdm",
+  "snapshot_id": "MCw4YmU4ZGMxMDRlNWExN2NhNWI1MzI3ZWRkOTM1YmUzZmZiMmI0ZDZl",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -303,34 +303,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Ahora Dice",
-        "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 270493,
-      "name": "Ahora Dice",
-      "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/27Exjl2H0oI6X0WCzZd7Bk"
       },
@@ -363,6 +335,34 @@
       "duration_ms": 311726,
       "name": "Solita",
       "url": "https://open.spotify.com/track/7rwX0O3RlxqqIjQM8evm5E"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Ahora Dice",
+        "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 270493,
+      "name": "Ahora Dice",
+      "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Flakk Daniel's Lp",
+        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 194851,
+      "name": "Lejos de T\u00ed",
+      "url": "https://open.spotify.com/track/30pCOQE19RvNmHq78Svlkm"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Bubalu",
         "url": "https://open.spotify.com/album/6JEvViJkAj8GjJbTeU5I7q"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 228493,
       "name": "Bubalu",
       "url": "https://open.spotify.com/track/7dNwJbsT0sg1le5kVugGJb"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Flakk Daniel's Lp",
-        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 194851,
-      "name": "Lejos de T\u00ed",
-      "url": "https://open.spotify.com/track/30pCOQE19RvNmHq78Svlkm"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 174642,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "#Ysya2020 Vol. 5 - Silbando",
         "url": "https://open.spotify.com/album/7cQuRxvG0SivoV6YCyrJY5"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 119438,
       "name": "#Ysya2020 Vol. 5 - Silbando",
       "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 174642,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1299,6 +1299,46 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Chosen Few: New Generation",
+        "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        },
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        },
+        {
+          "name": "LYAN",
+          "url": "https://open.spotify.com/artist/5XxL3trG0x8T7rJeYHyEbQ"
+        }
+      ],
+      "duration_ms": 335736,
+      "name": "0 Sentimientos (Remix) [feat. Baby Rasta, Noriel, Darkiel, Messiah & Lyan]",
+      "url": "https://open.spotify.com/track/3gYco8uoFBmpxqYlz3Zhs7"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "The Greatest Hits, Vol. I",
         "url": "https://open.spotify.com/album/3oDUZCH3VNFKYNBCZbrFkM"
       },
@@ -1331,30 +1371,6 @@
       "duration_ms": 446098,
       "name": "Punto G - (Remix)",
       "url": "https://open.spotify.com/track/2AoKiaQylcQaUwsJNKdJOo"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Chosen Few: New Generation",
-        "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
-      },
-      "artists": [
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 199641,
-      "name": "Nunca Me Amo",
-      "url": "https://open.spotify.com/track/60PBNJm2fk3TnhZU3Ltida"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1542,27 +1558,11 @@
         {
           "name": "Baby Rasta",
           "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Darkiel",
-          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
-        },
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        },
-        {
-          "name": "LYAN",
-          "url": "https://open.spotify.com/artist/5XxL3trG0x8T7rJeYHyEbQ"
         }
       ],
-      "duration_ms": 335736,
-      "name": "0 Sentimientos (Remix) [feat. Baby Rasta, Noriel, Darkiel, Messiah & Lyan]",
-      "url": "https://open.spotify.com/track/3gYco8uoFBmpxqYlz3Zhs7"
+      "duration_ms": 199641,
+      "name": "Nunca Me Amo",
+      "url": "https://open.spotify.com/track/60PBNJm2fk3TnhZU3Ltida"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Tres Rosas",
-        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Tres Rosas",
-      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 99724,
       "name": "2.0.1.9",
       "url": "https://open.spotify.com/track/2FPE3JcSvRoCNSC96KAyvB"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Tres Rosas",
+        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 163080,
+      "name": "Tres Rosas",
+      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Dillom: Bzrp Music Sessions, Vol. 9",
-        "url": "https://open.spotify.com/album/7EpZ3YjIPfaeB5MAzI5HnB"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        }
-      ],
-      "duration_ms": 151843,
-      "name": "Dillom: Bzrp Music Sessions, Vol. 9",
-      "url": "https://open.spotify.com/track/6Vwfjz5LsHKTYY5IzhKW2A"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "La Oscuridad",
         "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 304733,
       "name": "Ojala",
       "url": "https://open.spotify.com/track/63EJDEfcZwwRlPt5qEWPjV"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Dillom: Bzrp Music Sessions, Vol. 9",
+        "url": "https://open.spotify.com/album/7EpZ3YjIPfaeB5MAzI5HnB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "duration_ms": 151843,
+      "name": "Dillom: Bzrp Music Sessions, Vol. 9",
+      "url": "https://open.spotify.com/track/6Vwfjz5LsHKTYY5IzhKW2A"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2011,6 +2011,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
+        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
+      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Coronamos",
         "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
       },
@@ -2107,26 +2127,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
-        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
-      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Kobe En LA",
         "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
       },
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Dubai",
-        "url": "https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 157732,
-      "name": "Dubai",
-      "url": "https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Gan-Ga (Remix)",
         "url": "https://open.spotify.com/album/18gdcJyZklZ0iuvVTc5QRj"
       },
@@ -2227,22 +2211,18 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Nivel",
-        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
+        "name": "Dubai",
+        "url": "https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm"
       },
       "artists": [
         {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Perdoname Si Llego Tarde",
-      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
+      "duration_ms": 157732,
+      "name": "Dubai",
+      "url": "https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2259,6 +2239,26 @@
       "duration_ms": 265355,
       "name": "N\u00e3o Me Sinto Mal Mais",
       "url": "https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Nivel",
+        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Perdoname Si Llego Tarde",
+      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
     },
     {
       "added_at": "2022-06-08 18:27:09",

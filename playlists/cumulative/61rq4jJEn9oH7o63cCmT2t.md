@@ -4,7 +4,7 @@
 
 > Holy fuck I&\#x27;m so tired
 
-43 songs - 2 hr 27 min
+46 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Another One Rides the Bus](https://open.spotify.com/track/7iAnfpIHu1cDsxovakGoCq) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [The Essential "Weird Al" Yankovic](https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4) | 2:35 | 2023-04-25 |  |
 | [Broom People](https://open.spotify.com/track/0C25wSjkvMK5n0MLz1x3bv) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:44 | 2023-01-07 |  |
 | [Bugbear](https://open.spotify.com/track/7Ichlrj4l5uV549sD6I4tN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:53 | 2022-05-07 |  |
+| [Cigarette Ahegao](https://open.spotify.com/track/67VxWciiaYZYy3NTlyCtp7) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:03 | 2024-01-17 |  |
 | [Color in Your Cheeks](https://open.spotify.com/track/5NfLknyes6L0h5dDB6ZPck) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/0SSMTJHDokOaKuaLaeSAYd) | 2:40 | 2023-03-23 |  |
 | [Disenchanted](https://open.spotify.com/track/75tLo0qRQ5v24jkRa1kgPX) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 4:55 | 2023-01-11 |  |
 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2023-03-21 |  |
@@ -29,6 +30,7 @@
 | [In My Apartment](https://open.spotify.com/track/2MtAUH5s7oPwlSXPfFga8N) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Summer](https://open.spotify.com/album/5vtiz4itXlqgCA3kMbdV78) | 3:34 | 2023-07-09 |  |
 | [In the Craters on the Moon \- The Jordan Lake Sessions Volume 3](https://open.spotify.com/track/1dvU7wUiWHA0ZfQx05FCKG) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volumes 3 and 4](https://open.spotify.com/album/2oQ3dQki5q8qGmJdM9lAxu) | 3:56 | 2023-03-03 |  |
 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 | 2023-06-03 |  |
+| [Moonsickness](https://open.spotify.com/track/4lOEGaLwY4yN2WFfGIq2Tr) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 5:14 | 2024-01-17 |  |
 | [My Prius](https://open.spotify.com/track/6hAtV3tR7ywSPDGGkHgEBg) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk), [A.Rob](https://open.spotify.com/artist/7FjmAIhzIo6jd274dZlMZ1) | [My Prius](https://open.spotify.com/album/3bPLq8BVMLo5y3oYec00nz) | 1:58 | 2022-05-07 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light](https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq) | 4:19 | 2023-08-06 |  |
 | [Reaganomics](https://open.spotify.com/track/6ForyBso37QPHoEM06IDwK) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 3:31 | 2022-08-01 |  |
@@ -37,6 +39,7 @@
 | [Rivers Is A Vampire](https://open.spotify.com/track/5Ej4QdOFpwulV2GPWbfp6T) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp), [Dan E.T.](https://open.spotify.com/artist/5h1O6B6ycnrerdsrJKd5EV) | [Rivers Is A Vampire](https://open.spotify.com/album/17gIgdbmLodIJ970KnPJeS) | 3:05 | 2023-08-10 |  |
 | [Role Models](https://open.spotify.com/track/2sDjsX3RCmWXSxRntg7LXz) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click \(Deluxe Edition\)](https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5) | 3:12 | 2022-05-07 |  |
 | [Rule \#3 \- Paperwork](https://open.spotify.com/track/7zIQ0E2DKYagBxrKbvR5CB) | [Fish in a Birdcage](https://open.spotify.com/artist/3AFsnAC0H9hes71BeRypbq) | [Fish in a Birdcage](https://open.spotify.com/album/3JT5Riw2oTx8W6ZnLim5i2) | 5:08 | 2022-06-27 |  |
+| [Shuffle](https://open.spotify.com/track/7FKkJ0NDrMobvDw1jD8w58) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Mysteries for Rats](https://open.spotify.com/album/2lLqbdwvNw8zWDYwk1nsED) | 2:43 | 2024-01-17 |  |
 | [Sixteen Tons](https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d) | [Geoff Castellucci](https://open.spotify.com/artist/1TIQZBUSqWPrBZuh80x6Rz) | [Sixteen Tons](https://open.spotify.com/album/1TYeSHzqyRK8gfn8I0drTr) | 2:50 | 2023-11-15 |  |
 | [Sober Up \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC) | 3:38 | 2022-05-07 |  |
 | [Spent Gladiator 2](https://open.spotify.com/track/0oy1kHKfKbUZUAyWVXBAhL) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 2:52 | 2023-01-07 |  |

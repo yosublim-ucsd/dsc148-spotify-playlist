@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 393929,
+  "num_followers": 394167,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDY4OGVhZWZiNDE5Zjk5MDU0NzBmZDdjZGEzNTliZjc2YTNiMmNh",
+  "snapshot_id": "MCxmMjE4YzMwYmQ5MjE1YzAzMDk4MzJhZWQ2Yjk4NDk1MjVhYjhiZmFm",
   "tracks": [
     {
       "added_at": "2023-09-05 19:24:08",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
         "name": "Por El Amor",
         "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 229653,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Tu Amor Secreto",
-        "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
+        "name": "Hasta La Eternidad (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN"
       },
       "artists": [
         {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
         }
       ],
-      "duration_ms": 214293,
-      "name": "Tu Traici\u00f3n",
-      "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
+      "duration_ms": 239693,
+      "name": "Deja Una Rosa En Tu Balc\u00f3n",
+      "url": "https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "Tu Amor Secreto",
+        "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Tu Traici\u00f3n",
+      "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "Directo Al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 280120,
       "name": "Ese Loco Soy Yo",
       "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Hasta La Eternidad (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Deja Una Rosa En Tu Balc\u00f3n",
-      "url": "https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Toppaz De Reynaldo Flores",
-          "url": "https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
         "name": "Los Yonic's",
         "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 192440,
       "name": "Un Dolor",
       "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Toppaz De Reynaldo Flores",
+          "url": "https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "16 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "Preg\u00fantame A Mi",
         "url": "https://open.spotify.com/album/0HHGcxzBZPPXvS58Jnyc8k"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 190013,
       "name": "C\u00f3mo Me Duele Amor",
       "url": "https://open.spotify.com/track/0yrIXInoV5XQU3k7BFEZSQ"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "16 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "Siempre Te Amar\u00e9",
+        "url": "https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Perd\u00f3n Por Tus L\u00e1grimas",
+      "url": "https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "Desde El Corazon",
         "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 192029,
       "name": "P\u00eddeme La Luna",
       "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Siempre Te Amar\u00e9",
-        "url": "https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Perd\u00f3n Por Tus L\u00e1grimas",
-      "url": "https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Solo Lo Nuestro",
-        "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
-      },
-      "artists": [
-        {
-          "name": "Los Humildes",
-          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
         "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
         "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
+        "name": "Solo Lo Nuestro",
+        "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
       },
       "artists": [
         {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+          "name": "Los Humildes",
+          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
         }
       ],
-      "duration_ms": 159306,
-      "name": "Dulcemente Enamorada",
-      "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
+      "duration_ms": 171826,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -1059,6 +1043,22 @@
       "duration_ms": 205346,
       "name": "Me Quede Llorando",
       "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Dulcemente Enamorada",
+      "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "Bronco Amigo",
         "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 231720,
       "name": "Por Muchas Razones Te Quiero",
       "url": "https://open.spotify.com/track/4y1mBgVKdjWODLPjHtaAqq"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Que No Quede Huella",
-        "url": "https://open.spotify.com/album/7wKNGBwWNMq7pb0bNFOaed"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/0gHwAu8QyzRDzbQ540RTRg"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
         "name": "El Regalo",
         "url": "https://open.spotify.com/album/6mvI4EfiwhQ4tG1HUNZfo0"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 207792,
       "name": "El Regalo",
       "url": "https://open.spotify.com/track/5D0fWMxBbdyIq9zT9whqrD"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "Que No Quede Huella",
+        "url": "https://open.spotify.com/album/7wKNGBwWNMq7pb0bNFOaed"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/0gHwAu8QyzRDzbQ540RTRg"
     },
     {
       "added_at": "2023-09-05 19:24:08",

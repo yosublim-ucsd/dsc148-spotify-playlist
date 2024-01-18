@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Raghav Kaushik, Nikhita Gandhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,950 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,025 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Tere Ishq Ne](https://open.spotify.com/track/21VrC3LcsXjjkhnP0xkliY) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Ashish Khandal](https://open.spotify.com/artist/65XZEmEVa5U52jYJRQzuSF) | [Tere Ishq Ne](https://open.spotify.com/album/6sKEe2XgqH46u9ShRWCW7J) | 3:07 |
 | 50 | [Meri Ho Ja](https://open.spotify.com/track/7z3e5trtKbiILn2bcxqKpr) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Meri Ho Ja](https://open.spotify.com/album/4zy8E2oRVyGJseIcHk2hAQ) | 2:59 |
 
-Snapshot ID: `MCxkOTIzYWM3N2JlOTc3MTFhMjZjMTdhM2MwNjNhOTc2MTdiYzE0NDg2`
+Snapshot ID: `MCw3ZWFjNzQ0NWM3MzI5NWEzNWQ2ZmQwNDNmOWI0MjViOGFiODA1YzZi`

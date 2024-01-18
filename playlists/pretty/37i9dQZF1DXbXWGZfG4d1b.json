@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 21441,
+  "num_followers": 21457,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTgzODljNTc5MGNiZjc0NTUyODBhZDgyMjI1YmIyZGJlZWQ3MDcz",
+  "snapshot_id": "MCw0Y2Y5ZmQyMTBkNzU2ZTc0ZGMzZGQ4MDkyMmFiZTQ5ZWY2ODNiYThh",
   "tracks": [
     {
       "added_at": "2024-01-04 23:17:01",
@@ -339,7 +339,7 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "MALA INFLUENCIA",
+        "name": "Mala Influencia",
         "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
       },
       "artists": [
@@ -353,7 +353,7 @@
         }
       ],
       "duration_ms": 133775,
-      "name": "MALA INFLUENCIA",
+      "name": "Mala Influencia",
       "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
     },
     {
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "SUELO",
-        "url": "https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 169387,
-      "name": "SUELO",
-      "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
         "name": "Vamos a destruir",
         "url": "https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 221560,
       "name": "Vamos a destruir",
       "url": "https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "SUELO",
+        "url": "https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 169387,
+      "name": "SUELO",
+      "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -631,30 +631,6 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "Gracias Por Nada",
-        "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        },
-        {
-          "name": "Mora S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 225833,
-      "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
-      "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
         "name": "Amor Express",
         "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 145407,
       "name": "5A",
       "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "Gracias Por Nada",
+        "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        },
+        {
+          "name": "Mora S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 225833,
+      "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
+      "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
-        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 220473,
-      "name": "Haku - Bonus Track",
-      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
         "name": "Corriendo",
         "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
       },
@@ -751,6 +735,42 @@
       "duration_ms": 159576,
       "name": "Corriendo",
       "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "mutar la piel",
+        "url": "https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        },
+        {
+          "name": "Aluh\u00e9",
+          "url": "https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge"
+        }
+      ],
+      "duration_ms": 173875,
+      "name": "mutar la piel",
+      "url": "https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
+        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 220473,
+      "name": "Haku - Bonus Track",
+      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -787,26 +807,6 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "mutar la piel",
-        "url": "https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd"
-      },
-      "artists": [
-        {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
-        },
-        {
-          "name": "Aluh\u00e9",
-          "url": "https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge"
-        }
-      ],
-      "duration_ms": 173875,
-      "name": "mutar la piel",
-      "url": "https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
         "name": "Una Comedia Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
+        "name": "Romance Con la Luna",
+        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 171882,
+      "name": "Romance Con la Luna",
+      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
         "name": "Pajarito",
         "url": "https://open.spotify.com/album/1CMxNtkxsF3JS5KmOBVGrU"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 222435,
       "name": "Pajarito",
       "url": "https://open.spotify.com/track/1ZmIvjlrjPBFJnWd8y0iTo"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
-        "name": "Romance Con la Luna",
-        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 171882,
-      "name": "Romance Con la Luna",
-      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "El Verano",
-        "url": "https://open.spotify.com/album/2d5Aw2Cfe1s7MdJbPgw0w2"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        }
-      ],
-      "duration_ms": 320300,
-      "name": "El verano",
-      "url": "https://open.spotify.com/track/37fjzTuEuHnwmsZFTOFQEo"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
         "name": "Mejor Sin Miedo",
         "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 188632,
       "name": "Mejor Sin Miedo",
       "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "El Verano",
+        "url": "https://open.spotify.com/album/2d5Aw2Cfe1s7MdJbPgw0w2"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "duration_ms": 320300,
+      "name": "El verano",
+      "url": "https://open.spotify.com/track/37fjzTuEuHnwmsZFTOFQEo"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "Congelado",
-        "url": "https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 147053,
-      "name": "Congelado",
-      "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
         "name": "Habladur\u00edas",
         "url": "https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 189231,
       "name": "Habladur\u00edas",
       "url": "https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "Congelado",
+        "url": "https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 147053,
+      "name": "Congelado",
+      "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "atr\u00e1s de los \u00e1rboles",
-        "url": "https://open.spotify.com/album/0fE54ymBPPEsazXo81Q6Hh"
+        "name": "14:14",
+        "url": "https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk"
       },
       "artists": [
         {
-          "name": "Salvador Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT"
+          "name": "MOY",
+          "url": "https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V"
         }
       ],
-      "duration_ms": 146734,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy"
+      "duration_ms": 191078,
+      "name": "14:14",
+      "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "14:14",
-        "url": "https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk"
+        "name": "atr\u00e1s de los \u00e1rboles",
+        "url": "https://open.spotify.com/album/0fE54ymBPPEsazXo81Q6Hh"
       },
       "artists": [
         {
-          "name": "MOY",
-          "url": "https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V"
+          "name": "Salvador Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT"
         }
       ],
-      "duration_ms": 191078,
-      "name": "14:14",
-      "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
+      "duration_ms": 146734,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy"
     },
     {
       "added_at": "2024-01-04 23:17:01",

@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: Jey One y Donaty",
-  "num_followers": 422832,
+  "num_followers": 423317,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWRmYjRkNzBhNjk2MjI3ZmFjZTE2NzkzMThjMDE1YTE1MjZiMDZj",
+  "snapshot_id": "MCw1N2JmMDZiY2ZmNzk2MDgwMjBmMzJkYjlhYmVjMjI1YzhhNWIwYjk1",
   "tracks": [
     {
       "added_at": "2024-01-04 17:55:03",
@@ -469,6 +469,26 @@
       "url": "https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY"
     },
     {
+      "added_at": "2024-01-17 23:22:40",
+      "album": {
+        "name": "LA TRANZA",
+        "url": "https://open.spotify.com/album/2yNuom5MHbL91gmFLoFfIC"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 127946,
+      "name": "LA TRANZA",
+      "url": "https://open.spotify.com/track/77J96UnWCLiltC7AvwvL8A"
+    },
+    {
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Oh Oh Oh (Veo Veo)",
@@ -491,26 +511,6 @@
       "duration_ms": 133968,
       "name": "Oh Oh Oh (Veo Veo)",
       "url": "https://open.spotify.com/track/3BZqmfDUW11Gkj0UQeLFQa"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Po Po Po",
-        "url": "https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "Po Po Po",
-      "url": "https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies"
     },
     {
       "added_at": "2023-10-13 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 205214,
+  "num_followers": 205338,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDhkNTQyMDgwZGZmYmE1MjQ0MzU0NzI1YzU4NDEzMzEzNDI3OTZk",
+  "snapshot_id": "MCxiYjU5MTcyZTg3MTk1ODE1YmJlYTQ4M2YzNTBkZThmMDI5NTY3YTE5",
   "tracks": [
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Reality Testing",
-        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
-      },
-      "artists": [
-        {
-          "name": "Lone",
-          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
-        }
-      ],
-      "duration_ms": 289082,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Ultravisitor",
         "url": "https://open.spotify.com/album/3ZsW2VSx5OxHpV3Kno59O2"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Sabresonic",
-        "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
+        "name": "Reality Testing",
+        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
       },
       "artists": [
         {
-          "name": "The Sabres Of Paradise",
-          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
+          "name": "Lone",
+          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Smokebelch II - Beatless Mix",
-      "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
+      "duration_ms": 289082,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 262813,
       "name": "Trade Winds, White Heat",
       "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Sabresonic",
+        "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
+      },
+      "artists": [
+        {
+          "name": "The Sabres Of Paradise",
+          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Smokebelch II - Beatless Mix",
+      "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Crooks & Lovers",
-        "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 250338,
-      "name": "Before I Move Off",
-      "url": "https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "ANTH01",
         "url": "https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 403080,
       "name": "Another Girl",
       "url": "https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Crooks & Lovers",
+        "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "duration_ms": 250338,
+      "name": "Before I Move Off",
+      "url": "https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Appeayl 2 U",
-        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
-      },
-      "artists": [
-        {
-          "name": "Gayngs",
-          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
-        }
-      ],
-      "duration_ms": 236703,
-      "name": "Appeayl 2 U part 1",
-      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 246706,
       "name": "Kodomotachi",
       "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Appeayl 2 U",
+        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
+      },
+      "artists": [
+        {
+          "name": "Gayngs",
+          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
+        }
+      ],
+      "duration_ms": 236703,
+      "name": "Appeayl 2 U part 1",
+      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
+        "name": "Short And Sweet",
+        "url": "https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq"
+      },
+      "artists": [
+        {
+          "name": "Little annie",
+          "url": "https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "I Think Of You",
+      "url": "https://open.spotify.com/track/36D5zut2til58ggxAbTFy7"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
         "name": "Love In The Time Of Lexapro",
         "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 177024,
       "name": "Thru U (feat. Bklava)",
       "url": "https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "Short And Sweet",
-        "url": "https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq"
-      },
-      "artists": [
-        {
-          "name": "Little annie",
-          "url": "https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "I Think Of You",
-      "url": "https://open.spotify.com/track/36D5zut2til58ggxAbTFy7"
     },
     {
       "added_at": "2023-11-13 21:00:00",

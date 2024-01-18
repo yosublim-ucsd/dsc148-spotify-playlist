@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 106731,
+  "num_followers": 106733,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmY5NDRiMjhjZWFiZDU0YjdjMmE3ODFmOWZhZjIzNzNlZTE4ZTg2",
+  "snapshot_id": "MCwyYmQwZGU2NjZiNDM1ZDk1OTM2ZWQxNzQ1ZDY4MWFjYzdmMGZhNDk1",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -99,6 +99,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "TIOLI",
+        "url": "https://open.spotify.com/album/0LHWXE2N0oByFLjTqcfrkb"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "duration_ms": 278561,
+      "name": "TIOLI",
+      "url": "https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
       },
@@ -119,24 +135,8 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "TIOLI",
-        "url": "https://open.spotify.com/album/0LHWXE2N0oByFLjTqcfrkb"
-      },
-      "artists": [
-        {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        }
-      ],
-      "duration_ms": 278561,
-      "name": "TIOLI",
-      "url": "https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "meserole",
-        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 213760,
-      "name": "meserole",
-      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -219,8 +219,8 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "breath tapes",
-        "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
+        "name": "meserole",
+        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 215222,
-      "name": "suddenly",
-      "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
+      "duration_ms": 213760,
+      "name": "meserole",
+      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+        "name": "I Want an Earth",
+        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
       },
       "artists": [
         {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
         }
       ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+      "duration_ms": 362626,
+      "name": "I Want an Earth",
+      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "I Want an Earth",
-        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
       },
       "artists": [
         {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
         }
       ],
-      "duration_ms": 362626,
-      "name": "I Want an Earth",
-      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "From The Ashes EP",
-        "url": "https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856"
+        "name": "Poly 61",
+        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
       },
       "artists": [
         {
-          "name": "Oliver Henry",
-          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
         }
       ],
-      "duration_ms": 138337,
-      "name": "Moving Still - Reprise",
-      "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
+      "duration_ms": 273300,
+      "name": "Poly 61",
+      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Poly 61",
-        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
+        "name": "From The Ashes EP",
+        "url": "https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856"
       },
       "artists": [
         {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+          "name": "Oliver Henry",
+          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
         }
       ],
-      "duration_ms": 273300,
-      "name": "Poly 61",
-      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
+      "duration_ms": 138337,
+      "name": "Moving Still - Reprise",
+      "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Justine",
         "url": "https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 219000,
       "name": "Justine",
       "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -827,18 +827,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "CIRCLES",
-        "url": "https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD"
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
       },
       "artists": [
         {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         }
       ],
-      "duration_ms": 274053,
-      "name": "CIRCLES",
-      "url": "https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l"
+      "duration_ms": 287198,
+      "name": "Wall of Sleep",
+      "url": "https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV"
     }
   ],
   "unique_name": "Night Shift",

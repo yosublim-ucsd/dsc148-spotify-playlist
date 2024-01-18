@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
-  "num_followers": 56853,
+  "num_followers": 56861,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTNmMmMyODAwNGIxZTQxYWI1Mjk4MWE4OWI2YjMxNWQ2NjRhMDFi",
+  "snapshot_id": "MCxlNzJhNDhkZDZlMDYzZWQyMmI3NGRmYTM3MjE4N2QxZmYzZTkwNjYw",
   "tracks": [
     {
       "added_at": "2024-01-04 06:14:40",
@@ -79,6 +79,34 @@
       "duration_ms": 249931,
       "name": "Maleyanthe Nee Baa (from \"Sanju Weds Geetha 2\")",
       "url": "https://open.spotify.com/track/2N4RKXVjv7mG4YLfXsYjxC"
+    },
+    {
+      "added_at": "2024-01-17 04:59:59",
+      "album": {
+        "name": "Sougandhika (From \"Shakhahaari\")",
+        "url": "https://open.spotify.com/album/7r1armhYA1CzzUGrtz6wBJ"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha Belmannu",
+          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Mayur Ambekallu",
+          "url": "https://open.spotify.com/artist/05lNen7Es5lxun2atLHOMY"
+        },
+        {
+          "name": "Sandeep Sunkad",
+          "url": "https://open.spotify.com/artist/2ZOSB2cAresvKYabgVHcjL"
+        }
+      ],
+      "duration_ms": 292056,
+      "name": "Sougandhika - From \"Shakhahaari\"",
+      "url": "https://open.spotify.com/track/2vnn8NrRytHGVKmPQraEtR"
     },
     {
       "added_at": "2024-01-15 07:13:20",
@@ -1671,30 +1699,6 @@
       "duration_ms": 321675,
       "name": "Nanna Ravi Neene (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/2yL2P8gYU326hVSL92x7XM"
-    },
-    {
-      "added_at": "2023-11-09 11:55:07",
-      "album": {
-        "name": "Huli Nayaka (From \"Huli Nayaka\")",
-        "url": "https://open.spotify.com/album/2o9VoZrrxmMt1sD2PKfUQl"
-      },
-      "artists": [
-        {
-          "name": "Karibasava Tadkal",
-          "url": "https://open.spotify.com/artist/5XbgT8dGfDxZpmvP5nkMKO"
-        },
-        {
-          "name": "Kadri Manikanth",
-          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
-        },
-        {
-          "name": "Chakravarthy Chandrachud",
-          "url": "https://open.spotify.com/artist/1Ry8tcb7NZ4jpThKEGfsCa"
-        }
-      ],
-      "duration_ms": 87633,
-      "name": "Huli Nayaka - From \"Huli Nayaka\"",
-      "url": "https://open.spotify.com/track/3t8egF8E8cLn1TQj5SxavR"
     }
   ],
   "unique_name": "Latest Kannada",

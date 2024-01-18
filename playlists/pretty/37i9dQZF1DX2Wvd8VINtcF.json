@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWIyZGZhZGQ2NDk0MzY1ZDRjNGM3YmZhNzQzYWYyNTljNjJjZGU2",
+  "snapshot_id": "MCxjODk2NTZlMTY2OTBiZGZjNDc0MTQ1MjQ1ZjVmM2M0ZWY1M2RjZGYx",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -229,6 +229,22 @@
       "url": "https://open.spotify.com/track/1QCRcAOltXgDMpMIzg6o78"
     },
     {
+      "added_at": "2024-01-17 18:16:53",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
       "added_at": "2024-01-11 23:00:00",
       "album": {
         "name": "Kick Off",
@@ -347,6 +363,26 @@
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/4XSsqfGgX7wHPubb2l61DI"
+      },
+      "artists": [
+        {
+          "name": "charlieeeee",
+          "url": "https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/04Dko7XP8nPEMfwIJFVpES"
     },
     {
       "added_at": "2024-01-11 23:00:00",

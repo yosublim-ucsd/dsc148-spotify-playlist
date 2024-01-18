@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 106971,
+  "num_followers": 106980,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjdlYmU4ZjM5MDk1OGE0NDQ3NmUyNGYyOTc4YTBjNGQ3ZDQ1ODc2",
+  "snapshot_id": "MCxkNGQ5ZjkwZTg2YWQ0Y2VjN2Q2YTAxN2Q1ZjQ3MTNkNjFmYmZjMmM0",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Fyll & Faenskap",
-        "url": "https://open.spotify.com/album/4fOwJRo15Uc22mks6PsxVE"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Sofie Svensson & Dom D\u00e4r",
-          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
-        }
-      ],
-      "duration_ms": 175075,
-      "name": "Fyll & Faenskap",
-      "url": "https://open.spotify.com/track/3r0aM0M0toxEPbkYtXhNAZ"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "DJ M\u00f8M\u00f8 presenterer: Bukkene Bruse p\u00e5 badeland",
         "url": "https://open.spotify.com/album/6HaCd9C4gfNGWNsOc7fvIH"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 116197,
       "name": "H\u00e6ljetur (feat. Hagle)",
       "url": "https://open.spotify.com/track/2lKpjq5umtW2Z6ZVeJA1FR"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "Fyll & Faenskap",
+        "url": "https://open.spotify.com/album/4fOwJRo15Uc22mks6PsxVE"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        }
+      ],
+      "duration_ms": 175075,
+      "name": "Fyll & Faenskap",
+      "url": "https://open.spotify.com/track/3r0aM0M0toxEPbkYtXhNAZ"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "F*CKED UP!",
-        "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
+        "name": "Ungkar med dobbelseng",
+        "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
       },
       "artists": [
         {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
         }
       ],
-      "duration_ms": 167760,
-      "name": "F*CKED UP!",
-      "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
+      "duration_ms": 190466,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Ungkar med dobbelseng",
-        "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
+        "name": "F*CKED UP!",
+        "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
       },
       "artists": [
         {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
         }
       ],
-      "duration_ms": 190466,
-      "name": "Granada",
-      "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
+      "duration_ms": 167760,
+      "name": "F*CKED UP!",
+      "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
-        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 186692,
-      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
-      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "Du kan inte f\u00e5 min \u00f6l",
         "url": "https://open.spotify.com/album/7DPVUlgOqQlKS9DKaT9ATm"
       },
@@ -735,6 +715,42 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Ja likav\u00e4l",
+        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 161917,
+      "name": "Ja likav\u00e4l",
+      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
+        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
+        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 186692,
+      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
+      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Danse p\u00e5 panseret",
         "url": "https://open.spotify.com/album/3oKQTXaW1WRLsWcf3LH57F"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 144000,
       "name": "Danse p\u00e5 panseret",
       "url": "https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "Ja likav\u00e4l",
-        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 161917,
-      "name": "Ja likav\u00e4l",
-      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "En j\u00e4vel p\u00e5 att ragga bil",
+        "url": "https://open.spotify.com/album/5tsqsn7LIbz7dNsdrhs82C"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 166624,
+      "name": "En j\u00e4vel p\u00e5 att ragga bil",
+      "url": "https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
         "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 118461,
       "name": "Shakira",
       "url": "https://open.spotify.com/track/6kGas3qqqBNAoDdgwvuuxT"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "En j\u00e4vel p\u00e5 att ragga bil",
-        "url": "https://open.spotify.com/album/5tsqsn7LIbz7dNsdrhs82C"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 166624,
-      "name": "En j\u00e4vel p\u00e5 att ragga bil",
-      "url": "https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1239,26 +1239,18 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "FYRA SM\u00c5 RAGGERS",
-        "url": "https://open.spotify.com/album/7rIDWlpobZ7ocbtHVSYGJg"
+        "name": "ALBUMTRAOZ",
+        "url": "https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC"
       },
       "artists": [
         {
-          "name": "Studavig\u00e5",
-          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
-        },
-        {
-          "name": "Maximus",
-          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
-        },
-        {
-          "name": "RIK1",
-          "url": "https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz"
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
         }
       ],
-      "duration_ms": 101304,
-      "name": "FYRA SM\u00c5 RAGGERS",
-      "url": "https://open.spotify.com/track/4Q88dvSHO9YPcWPEl8zT7G"
+      "duration_ms": 127058,
+      "name": "Mcdonalds",
+      "url": "https://open.spotify.com/track/4Uv5nzyKWBAnfiV1WbVFYz"
     },
     {
       "added_at": "2024-01-11 23:00:00",

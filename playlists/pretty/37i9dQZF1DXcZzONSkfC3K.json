@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 146690,
+  "num_followers": 146728,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTY2ZTU3ZDU2OWIyZjVjZjBkMTcyZDUyYWI4ZjBkYTljZjUzYWNk",
+  "snapshot_id": "MCwzOWQ0NjA2YTQ2ODU1OWY0OGZmYzZmZjY2YjVjNjYzNWNjMDQzNmEx",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Calle Linda (Golden Edition)",
-        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
-      },
-      "artists": [
-        {
-          "name": "Pirulo y la Tribu",
-          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
-        }
-      ],
-      "duration_ms": 383040,
-      "name": "Loco Pero Feliz",
-      "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Serie Sensacional: Marvin Santiago",
         "url": "https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 201426,
       "name": "Fuego A La Jicotea",
       "url": "https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Calle Linda (Golden Edition)",
+        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
+      },
+      "artists": [
+        {
+          "name": "Pirulo y la Tribu",
+          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
+        }
+      ],
+      "duration_ms": 383040,
+      "name": "Loco Pero Feliz",
+      "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Arroz Con Habichuela",
-        "url": "https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 356640,
-      "name": "Arroz Con Habichuela",
-      "url": "https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 280333,
       "name": "Payaso",
       "url": "https://open.spotify.com/track/0EvqtUYBpFOtAGrfWI2DtL"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Arroz Con Habichuela",
+        "url": "https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 356640,
+      "name": "Arroz Con Habichuela",
+      "url": "https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS"
     },
     {
       "added_at": "2023-08-11 04:00:00",

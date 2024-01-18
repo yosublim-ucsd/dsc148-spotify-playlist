@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: asiris
 
-336 songs - 19 hr 19 min
+337 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Lottery](https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:33 | 2022-08-19 | 2023-09-23 |
 | [Love in Vain](https://open.spotify.com/track/5MarctIzuTHNE914cieIlz) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Love in Vain](https://open.spotify.com/album/3xdQaXYUwTrTuBjMy4hWco) | 3:25 | 2021-11-12 | 2022-07-29 |
 | [Lover, I](https://open.spotify.com/track/01mIMINaQNlKX8m02pj1ti) | [Garden Gloves](https://open.spotify.com/artist/7LvkKnhytQkJg72KAu49sF), [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz), [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Outside the Chateau Apartments](https://open.spotify.com/album/6IeuhpS6DhsKHD8vdVGyqo) | 2:41 | 2021-11-12 | 2022-06-29 |
-| [Made Up My Mind](https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Made Up My Mind](https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI) | 2:50 | 2023-11-10 |  |
+| [Made Up My Mind](https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Made Up My Mind](https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI) | 2:50 | 2023-11-10 | 2024-01-18 |
 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 | 2021-11-12 | 2023-07-05 |
 | [Midnight Man](https://open.spotify.com/track/5HyUsFzJ06qWYKW54KGw97) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Midnight Man](https://open.spotify.com/album/5Xhlkgcl7indPnmlVpQR12) | 3:09 | 2022-03-12 | 2022-07-21 |
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-03-12 |  |
@@ -325,6 +325,7 @@
 | [Where Did It All Go Wrong?](https://open.spotify.com/track/6Y9BWmwnCMUrWc5JIKiaH8) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub) | [Where Did It All Go Wrong?](https://open.spotify.com/album/32bltuj5LwBVSJvUpzanqX) | 3:39 | 2021-11-12 | 2022-07-29 |
 | [Where You Wanna Go \(feat\. Emily Hearn\)](https://open.spotify.com/track/515piq1R1TK9U8j4JUbFXH) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA), [Emily Hearn](https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1) | [Where You Wanna Go \(feat\. Emily Hearn\)](https://open.spotify.com/album/6fZ8MA8RC4wu1BbGeYKgox) | 3:24 | 2022-02-21 | 2022-06-14 |
 | [White Flag](https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:19 | 2022-03-12 | 2023-09-30 |
+| [Who Took You Away \(Mu Áhkku\)](https://open.spotify.com/track/3vvktrTDQASIpOsn2oiS63) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7), [Ella Marie](https://open.spotify.com/artist/6rYrNxnxJEZlhVnxR1c6C7), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Who Took You Away \(Mu Áhkku\)](https://open.spotify.com/album/3fQEjpwfe0ceIGVk8DjCe3) | 3:20 | 2024-01-12 |  |
 | [Why Don't We Start from Here](https://open.spotify.com/track/6dHsDYVp8xo6HLlIVbiBZ2) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N), [The Dunwells](https://open.spotify.com/artist/7D0V1JYNXvhpxHDoP3zu0x) | [Why Don't We Start from Here](https://open.spotify.com/album/1JE0U3utK9qzO5jYghHJRb) | 3:32 | 2021-11-12 | 2022-07-29 |
 | [Wilburn Street](https://open.spotify.com/track/693HvoKDYgN9uZpzI7xRTK) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 2:50 | 2022-03-12 | 2023-03-18 |
 | [Wilburn Street](https://open.spotify.com/track/6IRxdL4Mhe52S8Iz2BPchz) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note To Self](https://open.spotify.com/album/5nvf3juHez844dgOnwiSjY) | 2:50 | 2021-11-12 | 2022-07-29 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: NewDad
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,407 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,426 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Missy](https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm), [tormentatropica](https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc) | [Missy](https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj) | 2:02 |
 | 2 | [Wake to flowers](https://open.spotify.com/track/5rA5NU8FxazgSkXNmMN3KT) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Wake to flowers](https://open.spotify.com/album/76z55NJfoHhOLNSr2kpF8M) | 2:58 |
 | 3 | [White Ribbons](https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [White Ribbons](https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06) | 4:24 |
-| 4 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [Dottie](https://open.spotify.com/artist/0RjSIF8OgSCEcz0iYPDZaI) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 |
+| 4 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 |
 | 5 | [Mercy](https://open.spotify.com/track/0uiWvlPR43hF0OkBuPY6om) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/19K8YQiKWRQ2QNGbA0dDdr) | 3:07 |
 | 6 | [Row, Row](https://open.spotify.com/track/6pluR4e5cY2nUgp1aCNIhl) | [Catskill Mountain Rescue Club](https://open.spotify.com/artist/0D4EUlL2tcrfa8PDYb279b), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [Barely Trev](https://open.spotify.com/artist/01mUEpopaowW47Ra1nz55w), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Molly McPhaul](https://open.spotify.com/artist/2C6ewTAa9ZJKn6cltA1OnL) | [Row, Row](https://open.spotify.com/album/3SvxOiQQqWMbgbzEXRflvV) | 2:54 |
 | 7 | [it's all the same to me .](https://open.spotify.com/track/5esujHO7ikzfP1mPJXJRJK) | [a blue room](https://open.spotify.com/artist/2KF05MsTBXijR690vZ3Gk0), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [it's all the same to me .](https://open.spotify.com/album/6DJhAmfJo9LgXE5pjoHXc1) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [High School Gym](https://open.spotify.com/track/087RIqgZWehk36IdWeAmxe) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [The Rainbow Wheel of Death](https://open.spotify.com/album/5HSwTNvgYwVtmma4mnTRXL) | 4:10 |
 | 100 | [Adderall](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 |
 
-Snapshot ID: `MCwyMWVmNmNkOGI5MzgwZjMzOTM5ZDI1MDNjYzY3ZTM5MmFkZmE0MTQ4`
+Snapshot ID: `MCxlNTQ3M2NjNWUxMTFjMDRjZTE5OTU4MDk2ZmZjMjJiOGU5MDFjNzll`

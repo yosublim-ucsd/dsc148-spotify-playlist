@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 84044,
+  "num_followers": 84106,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGNiYTliNjBhMTNhNTQxYWFjOWExNDA1ZjkzYWM1OTI1ZDkxNTc0",
+  "snapshot_id": "MCw1OTE1YTQ2NDkwMGE5NzE2NjBjZjQ5NmExZjBjMDBiNDEzYzBjYTIw",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "How Will You Know If You Never Try",
-        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 212183,
       "name": "Your Best American Girl",
       "url": "https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "How Will You Know If You Never Try",
+        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -727,22 +727,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Sunlit Youth",
-        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Light Upon the Lake",
         "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 136000,
       "name": "A Song About Being Sad",
       "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Sunlit Youth",
+        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Home of the Strange",
-        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "Silvertongue",
-      "url": "https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Future Present Past",
         "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 264724,
       "name": "Threat of Joy",
       "url": "https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Home of the Strange",
+        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "Silvertongue",
+      "url": "https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "MY WOMAN",
-        "url": "https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm"
+        "name": "saintmotelevision",
+        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
       },
       "artists": [
         {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
         }
       ],
-      "duration_ms": 202200,
-      "name": "Shut Up Kiss Me",
-      "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
+      "duration_ms": 187893,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "saintmotelevision",
-        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
+        "name": "MY WOMAN",
+        "url": "https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
         }
       ],
-      "duration_ms": 187893,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV"
+      "duration_ms": 202200,
+      "name": "Shut Up Kiss Me",
+      "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+        "name": "Gameshow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cd9LMi56uw4lu5FqCTMqb"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
+      "duration_ms": 230853,
+      "name": "Are We Ready? (Wreck)",
+      "url": "https://open.spotify.com/track/6JVavFFMw8Cy6Q9xGd2HIX"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Gameshow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cd9LMi56uw4lu5FqCTMqb"
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 230853,
-      "name": "Are We Ready? (Wreck)",
-      "url": "https://open.spotify.com/track/6JVavFFMw8Cy6Q9xGd2HIX"
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
     },
     {
       "added_at": "2021-09-22 14:36:46",

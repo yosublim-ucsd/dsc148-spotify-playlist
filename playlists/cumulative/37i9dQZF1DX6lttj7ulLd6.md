@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-174 songs - 13 hr 11 min
+175 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cause We've Ended As Lovers](https://open.spotify.com/track/51VBEDfm60C2PyCtwLGIDG) | [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Renaissance](https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU) | 5:01 | 2022-05-06 | 2023-03-25 |
 | [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 | 2022-05-06 | 2023-12-25 |
 | [citynights](https://open.spotify.com/track/4a5ydZOgONWaxaFMN4bmyx) | [Ny Cic](https://open.spotify.com/artist/3xmRTk6mD5NZTBGI05KIZ9) | [citynights](https://open.spotify.com/album/4uYrJhj8oQGKm2UoocoMGF) | 2:14 | 2023-03-16 |  |
+| [Costa del Soul](https://open.spotify.com/track/0pfYPKBNCIu7WPq293pRqG) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3wQ4KYqdrJHqPq2yuuYVC9) | 5:18 | 2024-01-09 |  |
 | [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 | 2022-05-06 | 2023-12-24 |
 | [Days Of Soul](https://open.spotify.com/track/5d55M6BUwHsxXPneoiXb84) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Seven Large](https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR) | 6:13 | 2022-05-06 | 2023-05-12 |
 | [Deep Touch](https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:36 | 2022-05-06 |  |
@@ -89,7 +90,7 @@
 | [Let's Get It Started](https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Creations the Album, Pt\. 1](https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI) | 6:16 | 2022-09-08 |  |
 | [Lights Down Low](https://open.spotify.com/track/7uHtZIoR7GnrvKrupnSICf) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Seduction](https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D) | 4:32 | 2022-05-06 | 2023-08-19 |
 | [Liquid Soul](https://open.spotify.com/track/36TH6l0hRy22WrYiQXXR8q) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 6:07 | 2022-08-12 |  |
-| [London Chimes](https://open.spotify.com/track/4TjX5UTdTrdmnMCi5bcTwf) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters: The Greatest Hits](https://open.spotify.com/album/265KYdkbI8k2CMPqeOAJoZ) | 4:11 | 2022-09-08 |  |
+| [London Chimes](https://open.spotify.com/track/4TjX5UTdTrdmnMCi5bcTwf) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters: The Greatest Hits](https://open.spotify.com/album/265KYdkbI8k2CMPqeOAJoZ) | 4:11 | 2022-09-08 | 2024-01-18 |
 | [Lost and Found](https://open.spotify.com/track/58bVhACMXuFvNVfojvvDKC) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 4:22 | 2022-05-06 | 2022-07-29 |
 | [Lost and Found](https://open.spotify.com/track/71cTTSVVkCmbIJ04Kl5jgg) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 4:22 | 2022-06-28 |  |
 | [Love To All](https://open.spotify.com/track/3JixMzROP010wvqclHnxr2) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Listen](https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL) | 5:08 | 2022-05-06 |  |

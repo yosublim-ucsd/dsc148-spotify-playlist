@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,215 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,285 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 14 | [Do U?](https://open.spotify.com/track/0KnMV02q60Kkq05xp5ljlS) | [Ownglow](https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj) | [Do U?](https://open.spotify.com/album/4G5Z1F5ktgxy9HsokUjd5G) | 4:42 |
 | 15 | [Afterthought](https://open.spotify.com/track/1SMORwVIMmVDIFXfgUSmsE) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Afterthought](https://open.spotify.com/album/5yBSqRAxEt5eRFzPSQDxVh) | 4:22 |
 | 16 | [Malkia](https://open.spotify.com/track/45n3JtqEm1v2j6bmG77ywg) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Malkia](https://open.spotify.com/album/1MEdQSsJgrmaVsiNQcQCoU) | 3:01 |
-| 17 | [Falling In Love](https://open.spotify.com/track/1Qyzdb5fhdZOQLJ3hH7kIq) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Falling In Love](https://open.spotify.com/album/1d7ORhsWDJmFP2skkYFwTX) | 4:24 |
+| 17 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
 | 18 | [Overthinking](https://open.spotify.com/track/7K7ZOgAQ6DaW5764wIzNsB) | [Fullalove](https://open.spotify.com/artist/11yEK822VdsSbd2JgnrLKh) | [Overthinking](https://open.spotify.com/album/6B6MUnF4XUazXHUgZu4Hu2) | 3:58 |
-| 19 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
+| 19 | [Falling In Love](https://open.spotify.com/track/1Qyzdb5fhdZOQLJ3hH7kIq) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Falling In Love](https://open.spotify.com/album/1d7ORhsWDJmFP2skkYFwTX) | 4:24 |
 | 20 | [Sugar](https://open.spotify.com/track/6OPZYgkL3w7R0ndqRiOmUm) | [Zar](https://open.spotify.com/artist/3JQUhdIaezcwwJ6SqRPNY2), [Motiv](https://open.spotify.com/artist/1hpBWbyRpkKGeNF5W3a7vp), [Anya Asia](https://open.spotify.com/artist/3e3CvN6gZzgDSMTmdicIde) | [Sugar](https://open.spotify.com/album/5vbBGdOMXNrtPG3gzjGHD1) | 4:53 |
 | 21 | [Before You](https://open.spotify.com/track/4SY259DM3lcZjPSdcfeqTM) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You](https://open.spotify.com/album/6YKavj8qVTzxsG8aU8xJwV) | 2:59 |
 | 22 | [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 41 | [Steam Clean](https://open.spotify.com/track/0uEv3rAwyvO10PbVkFLnys) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ) | [Steam Clean](https://open.spotify.com/album/3ryRLRMNUstnIZp09RsKs9) | 4:31 |
 | 42 | [Something Good](https://open.spotify.com/track/6baWEskdN5ZKy6TyA2fm5Z) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [Something Good](https://open.spotify.com/album/2xRGteG3RlpT2IGXTHZF0h) | 3:32 |
 | 43 | [CRISIS QUEEN](https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [TROUBLESHOOTER](https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t) | 2:20 |
-| 44 | [The Ticket](https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Silhouettes \- Part Three](https://open.spotify.com/album/4q4PTlt8sDTIEAuZo46LQu) | 4:34 |
-| 45 | [I Got Your Love \- Low:R & Blooom](https://open.spotify.com/track/0WPnG75MPX5X0uuvBkE8mp) | [Low:r](https://open.spotify.com/artist/2PR9nGANZUfxMEfRBoJfYI), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [I Got Your Love \(Low:R & Blooom\)](https://open.spotify.com/album/2iCGxaSho2vO0muXMEcm69) | 4:11 |
-| 46 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
+| 44 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
+| 45 | [The Ticket](https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Silhouettes \- Part Three](https://open.spotify.com/album/4q4PTlt8sDTIEAuZo46LQu) | 4:34 |
+| 46 | [I Got Your Love \- Low:R & Blooom](https://open.spotify.com/track/0WPnG75MPX5X0uuvBkE8mp) | [Low:r](https://open.spotify.com/artist/2PR9nGANZUfxMEfRBoJfYI), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [I Got Your Love \(Low:R & Blooom\)](https://open.spotify.com/album/2iCGxaSho2vO0muXMEcm69) | 4:11 |
 | 47 | [Diamonds](https://open.spotify.com/track/4Rarf4MYN0YdFhNKuAMfTp) | [Seba](https://open.spotify.com/artist/3ac1UBV3aHTPZ94T0PhfvS), [Samuel Lancine](https://open.spotify.com/artist/2R1Th5MYsqcss3rJXVyJmN), [Björn Berglund](https://open.spotify.com/artist/3TDlbePC2ZlRn1OcCWnnfi) | [Ingaro](https://open.spotify.com/album/5PdipBlyX6oMt1UrjbQi9u) | 4:36 |
 | 48 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
 | 49 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 |
 | 50 | [Gifted Lover](https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Better Place EP](https://open.spotify.com/album/0HtD2johjX3h3AgONmmiU0) | 6:01 |
 
-Snapshot ID: `MCwzYTk5NTU3ZThjYzlkN2RmNjhjMzg2ODViYzgyNDZlMmJjOTZkMzQ5`
+Snapshot ID: `MCxjOTk3NzY2NjQyMTM2NGM4ZDI3ODViOGIzYWZkMzEwMGZhZjVlY2Jj`

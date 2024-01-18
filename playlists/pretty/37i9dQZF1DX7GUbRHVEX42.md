@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,722 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,763 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 44 | [Refund](https://open.spotify.com/track/6s872MNfACS2J05Q1MEIuq) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Refund](https://open.spotify.com/album/1ypi1cqSZXVQvC0emvumqp) | 3:24 |
 | 45 | [Smugglaren](https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [One](https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI) | 4:20 |
 | 46 | [Woii](https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:28 |
-| 47 | [Cold & Clear](https://open.spotify.com/track/6gCx19TvXTF39mQ6VLCKvm) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Ekundayo](https://open.spotify.com/album/1DHs1TPC3rOV2Y9lFpjZxY) | 3:16 |
-| 48 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
-| 49 | [This World \(with Kabaka Pyramid\)](https://open.spotify.com/track/5RPFPpOJP3OlTQk2mUPYxA) | [Nattali Rize](https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Stu Brooks](https://open.spotify.com/artist/7lRFeVa0GvTB0hm28TKT9M) | [This World \(with Kabaka Pyramid\)](https://open.spotify.com/album/4w2URLpOZQovFHM9SBWtzo) | 3:27 |
-| 50 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 |
+| 47 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
+| 48 | [Cold & Clear](https://open.spotify.com/track/6gCx19TvXTF39mQ6VLCKvm) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Ekundayo](https://open.spotify.com/album/1DHs1TPC3rOV2Y9lFpjZxY) | 3:16 |
+| 49 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 |
+| 50 | [This World \(with Kabaka Pyramid\)](https://open.spotify.com/track/5RPFPpOJP3OlTQk2mUPYxA) | [Nattali Rize](https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Stu Brooks](https://open.spotify.com/artist/7lRFeVa0GvTB0hm28TKT9M) | [This World \(with Kabaka Pyramid\)](https://open.spotify.com/album/4w2URLpOZQovFHM9SBWtzo) | 3:27 |
 | 51 | [Ready](https://open.spotify.com/track/6VDgMJdCeStxNkwBr6AQB3) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Ready](https://open.spotify.com/album/4vDMTgy7svuDfJK5nXHPtu) | 2:50 |
 | 52 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 |
 | 53 | [Undeniable \(feat\. Kaylan Arnold\)](https://open.spotify.com/track/3FXA9dJbftFcgOoMiGYH0u) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Kaylan Arnold](https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC) | [Undeniable \(feat\. Kaylan Arnold\)](https://open.spotify.com/album/3n932rLi5cM8YNejLeCcf7) | 4:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 69 | [One Day Soon \(feat\. Josey Wales\)](https://open.spotify.com/track/2QMRbLnOeCfuGXRZcdJ9if) | [F.Y.A.H.](https://open.spotify.com/artist/4mRKEfgXtRtIWeidQ1JSWV), [Josey Wales](https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC) | [One Day Soon \(feat\. Josey Wales\)](https://open.spotify.com/album/1MUV7xH6xhqAFuVzOuuBNG) | 4:18 |
 | 70 | [Message Of Love](https://open.spotify.com/track/3Vr6JTctfPeDOVAEc6TJbj) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5), [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Message Of Love](https://open.spotify.com/album/1lLiwJF55HL5rfIZLD09Ve) | 3:08 |
 
-Snapshot ID: `MCwzMTAyNjZmOTYwNzYzMWE2NjIzMWJlOWU5YzZiZjZmZWE0ZmU1YmM4`
+Snapshot ID: `MCw0ZGYwZWRhY2E2ODdmMjc5MzZjYTkyYjkzODFjZjVhZmQwMzUwOWFm`

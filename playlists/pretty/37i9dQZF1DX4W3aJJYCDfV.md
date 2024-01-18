@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ariana Grande \(pictured\), D\-Block Europe, The Vaccines and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,890 likes - 119 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,943 likes - 119 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 30 | [HITA](https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [HITA](https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM) | 2:35 |
 | 31 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
 | 32 | [I Want You To Know Me](https://open.spotify.com/track/2lIl1LDlcnAoYnDOE6Xngi) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [I Want You To Know Me](https://open.spotify.com/album/4ybZv7O8powGQPEhTK9cD0) | 3:37 |
-| 33 | [Every Lil'](https://open.spotify.com/track/39bZPBoasEOCJXMR4TPqP5) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Every Lil'](https://open.spotify.com/album/2TogfhcATG56txTlEoExoE) | 3:00 |
+| 33 | [Every Lil'](https://open.spotify.com/track/39bZPBoasEOCJXMR4TPqP5) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Every Lil'](https://open.spotify.com/album/2TogfhcATG56txTlEoExoE) | 3:01 |
 | 34 | [Wish You Were Dead](https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Wish You Were Dead](https://open.spotify.com/album/2hjnP74xPNWyC2PoS7eqJF) | 3:14 |
 | 35 | [Someone To Hold On To](https://open.spotify.com/track/2rlol3Yeg3tMuxvnCYgVOW) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Someone To Hold On To](https://open.spotify.com/album/4Ff8ghVmvMz2mXHtk6Iamg) | 3:34 |
 | 36 | [What You Know About That \(feat\. Jme and D Double E\)](https://open.spotify.com/track/58rWfNj08WrCfjd2wOW2uQ) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [What You Know About That \(feat\. Jme and D Double E\)](https://open.spotify.com/album/50fGesOJ2eEDN9KtgdJkDR) | 3:55 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 42 | [Big Collide](https://open.spotify.com/track/0OApGA4gD4HZP5blgkLha4) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [Weslee World 1](https://open.spotify.com/album/0sIY0aZtq6kG6QJW6rL4Sg) | 3:14 |
 | 43 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
 | 44 | [Fallout \(with Gus Dapperton, Lil Yachty & Joey Bada$$\)](https://open.spotify.com/track/0QHwnxk3ZQikx0yL7IFlIF) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallout](https://open.spotify.com/album/0bCLCtHJ799TiNi396cyrv) | 3:37 |
-| 45 | [The Colour Purple](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 |
+| 45 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 |
 | 46 | [Ecstasy](https://open.spotify.com/track/7cSIPXSNgMTZ8XKD1YHd7c) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Ecstasy](https://open.spotify.com/album/1s18YEqZLke7AR9pZRjL6p) | 3:24 |
 | 47 | [Sing Your Tears](https://open.spotify.com/track/0LJNRMFV9GAH08o7MORcwj) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Sing Your Tears](https://open.spotify.com/album/0bIkliVnbWeJlb3GP0u8dl) | 3:07 |
 | 48 | [Fake Friends](https://open.spotify.com/track/0EmRpbJRA31htpY92zd8uA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Fake Friends](https://open.spotify.com/album/73svpOwVvDjEnSXAaL6U3G) | 2:12 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 118 | [Derby's Dose](https://open.spotify.com/track/3XWtrpRAyfF6ZoHAsdlao1) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Derby's Dose](https://open.spotify.com/album/62s4yMS26LGe6DFcWyWAdW) | 3:06 |
 | 119 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
 
-Snapshot ID: `MCw2NzQ1ZTNlZTU0YWIxZTNlNDdiYWY4MWQ2MDcwYjYwNTU4MGY0NWE4`
+Snapshot ID: `MCw1Y2Y0MDc1MmRmYjRiZWIxOTMxMTFiYjYzYzAxMjQwYWM4YWZhNDRl`

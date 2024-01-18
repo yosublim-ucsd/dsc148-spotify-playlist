@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 3090,
+  "num_followers": 3092,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWIwNjhjNzc4NjNhZGUyNTU1MTQ1YTA4YTVmZmU1MGMxN2UxMWNm",
+  "snapshot_id": "MCw4NWJiMDdiN2QzZjE2NzIyODI4MWY4YzNlYjFkMjk3ZTM4NmU0Y2Nh",
   "tracks": [
     {
       "added_at": "2024-01-11 23:59:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-01-11 23:59:00",
       "album": {
+        "name": "High School",
+        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        }
+      ],
+      "duration_ms": 308654,
+      "name": "Kamaliza (feat. Sholo Mwamba)",
+      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
+    },
+    {
+      "added_at": "2024-01-11 23:59:00",
+      "album": {
         "name": "Singeli Jungles",
         "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
       },
@@ -571,22 +591,6 @@
       "duration_ms": 280393,
       "name": "Singeli Jungles",
       "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
-    },
-    {
-      "added_at": "2024-01-11 23:59:00",
-      "album": {
-        "name": "Hujanikomoa",
-        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 359026,
-      "name": "Hujanikomoa",
-      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
     },
     {
       "added_at": "2024-01-11 23:59:00",
@@ -655,26 +659,6 @@
     {
       "added_at": "2024-01-11 23:59:00",
       "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        },
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        }
-      ],
-      "duration_ms": 308654,
-      "name": "Kamaliza (feat. Sholo Mwamba)",
-      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
-    },
-    {
-      "added_at": "2024-01-11 23:59:00",
-      "album": {
         "name": "Sina",
         "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
       },
@@ -691,6 +675,26 @@
       "duration_ms": 298358,
       "name": "Sina",
       "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
+    },
+    {
+      "added_at": "2024-01-11 23:59:00",
+      "album": {
+        "name": "Penzi Jipya",
+        "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
+      },
+      "artists": [
+        {
+          "name": "Gigy Money",
+          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
+        },
+        {
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+        }
+      ],
+      "duration_ms": 314493,
+      "name": "Penzi Jipya",
+      "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
     },
     {
       "added_at": "2024-01-11 23:59:00",
@@ -731,22 +735,18 @@
     {
       "added_at": "2024-01-11 23:59:00",
       "album": {
-        "name": "Penzi Jipya",
-        "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
+        "name": "Hujanikomoa",
+        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
       },
       "artists": [
         {
-          "name": "Gigy Money",
-          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
-        },
-        {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 314493,
-      "name": "Penzi Jipya",
-      "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
+      "duration_ms": 359026,
+      "name": "Hujanikomoa",
+      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
     },
     {
       "added_at": "2024-01-11 23:59:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2024-01-11 23:59:00",
       "album": {
+        "name": "Siyo Shida Zangu",
+        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+        }
+      ],
+      "duration_ms": 239612,
+      "name": "Siyo Shida Zangu",
+      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
+    },
+    {
+      "added_at": "2024-01-11 23:59:00",
+      "album": {
         "name": "Wapo",
         "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 187895,
       "name": "Chura Wangu",
       "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
-    },
-    {
-      "added_at": "2024-01-11 23:59:00",
-      "album": {
-        "name": "Siyo Shida Zangu",
-        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        },
-        {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
-        }
-      ],
-      "duration_ms": 239612,
-      "name": "Siyo Shida Zangu",
-      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
     },
     {
       "added_at": "2024-01-11 23:59:00",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2024-01-11 23:59:00",
       "album": {
-        "name": "Viburi",
-        "url": "https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk"
+        "name": "Kupendwa Raha",
+        "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
       },
       "artists": [
         {
@@ -1020,13 +1020,13 @@
           "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         },
         {
-          "name": "Chief Becka",
-          "url": "https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6"
+          "name": "Dogo Jully",
+          "url": "https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ"
         }
       ],
-      "duration_ms": 201967,
-      "name": "Viburi",
-      "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
+      "duration_ms": 304986,
+      "name": "Kupendwa Raha",
+      "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
     },
     {
       "added_at": "2024-01-11 23:59:00",
@@ -1139,8 +1139,8 @@
     {
       "added_at": "2024-01-11 23:59:00",
       "album": {
-        "name": "Kupendwa Raha",
-        "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
+        "name": "Viburi",
+        "url": "https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk"
       },
       "artists": [
         {
@@ -1148,13 +1148,13 @@
           "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         },
         {
-          "name": "Dogo Jully",
-          "url": "https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ"
+          "name": "Chief Becka",
+          "url": "https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6"
         }
       ],
-      "duration_ms": 304986,
-      "name": "Kupendwa Raha",
-      "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
+      "duration_ms": 201967,
+      "name": "Viburi",
+      "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
     },
     {
       "added_at": "2024-01-11 23:59:00",

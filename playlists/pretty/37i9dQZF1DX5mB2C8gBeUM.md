@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Niko Moon
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,890 likes - 153 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,884 likes - 153 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 152 | [Superpower](https://open.spotify.com/track/2CZKg7bfs1gIw4pg7WQwMy) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Blood Harmony](https://open.spotify.com/album/1qWvMwDIbDa9Qt5cuHFLRy) | 3:38 |
 | 153 | [Country Love Song](https://open.spotify.com/track/5vELSiqWSrJTOLuj4lTiPS) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Country Love Song](https://open.spotify.com/album/56zZX11mnTd4gJwcHR2aQl) | 3:12 |
 
-Snapshot ID: `MCw4ZGYwYzk0MWE2MjlhYzFhZjNhODhlOTY0MTBkOTFkZDU1MzYyMmQ1`
+Snapshot ID: `MCxhYzU3YWU0N2VlY2IwYjQ4N2UzOWQwYTBjNDg0ZDE4YzAxM2VmMzE5`

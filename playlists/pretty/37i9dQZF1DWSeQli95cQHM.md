@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,838 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,843 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 39 | [Kin Sharuba](https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Kin Sharuba](https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi) | 7:49 |
 | 40 | [Flame of the Pine Cone \- Spaniol's Blue Note Remix](https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r) | [ITAI](https://open.spotify.com/artist/1J1zcThVxqIOB7XdjqKsmq), [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Flame of the Pine Cone](https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW) | 6:49 |
 | 41 | [Fixity \- Original Mix](https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [VA IFN 001 \- Techno Concept](https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6) | 5:11 |
-| 42 | [Passa a Lata de Lólo](https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq) | [Diaz](https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 4:07 |
-| 43 | [Dance n' Casa](https://open.spotify.com/track/1HNPk849XJsAgXx6JrQRVu) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP), [Kauan Marco](https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo) | [V.Acina, Vol.1](https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54) | 5:57 |
-| 44 | [Maelström](https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC) | [Wielki](https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB) | [Maelström](https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT) | 8:07 |
-| 45 | [Baile do Tai Tai](https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh) | [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD), [holandês](https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL) | [Conexao Riocife](https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp) | 5:04 |
+| 42 | [Dance n' Casa](https://open.spotify.com/track/1HNPk849XJsAgXx6JrQRVu) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP), [Kauan Marco](https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo) | [V.Acina, Vol.1](https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54) | 5:57 |
+| 43 | [Passa a Lata de Lólo](https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq) | [Diaz](https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 4:07 |
+| 44 | [Baile do Tai Tai](https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh) | [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD), [holandês](https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL) | [Conexao Riocife](https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp) | 5:04 |
+| 45 | [Maelström](https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC) | [Wielki](https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB) | [Maelström](https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT) | 8:07 |
 | 46 | [Sem Sono](https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx) | [Martinelli](https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L) | [Sem Sono](https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t) | 5:37 |
 | 47 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 |
 | 48 | [Sobre Tum Tum Ta](https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e) | [Nódulo](https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb) | 7:33 |
 | 49 | [Vou Pra Longe \(Floatin'\)](https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Bajolo Vol\. I](https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx) | 6:24 |
-| 50 | [Eu Vou Surfar Na Pista](https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL) | [Brisa Busters](https://open.spotify.com/artist/1aljmjX3dsFm1MGihqcxoP) | [V.Acina, Vol.1](https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54) | 6:36 |
+| 50 | [Madame Kabukicho](https://open.spotify.com/track/5wdbMg0l4UIig9nnkRVQOz) | [Agrabah](https://open.spotify.com/artist/24lbhcjEJEOInrDEAGZfE6) | [Ghetto Hong Kong](https://open.spotify.com/album/6D1PHgImMxDMtKCSznl6L8) | 6:05 |
 
-Snapshot ID: `MCxjMzViODdjOGQ3M2IzMzk0MjRlYjQzM2Q3NGVjYzJjMDJiNGZlYjc5`
+Snapshot ID: `MCw1Njk1NDRmODdlNzBkYmVmOTA0MWM1ZTQ0MGJlMjg0MDU0MjViNmYw`

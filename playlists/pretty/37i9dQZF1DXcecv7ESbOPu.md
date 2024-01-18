@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,326 likes - 119 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,357 likes - 119 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 67 | [Best Thing](https://open.spotify.com/track/3ZDpJbRqKXrk3tL4kHBHpT) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Best Thing](https://open.spotify.com/album/2iM4du2HvU2hmHzdn7s0Ys) | 2:16 |
 | 68 | [compromise](https://open.spotify.com/track/6pYvLHhyZT5yxV8fDoOVxM) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH) | [compromise](https://open.spotify.com/album/3cE79s3mmf02dM4BqOEQKF) | 3:11 |
 | 69 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 |
-| 70 | [RICK & MORTY](https://open.spotify.com/track/5gWYiI3B6wdLQ7Gtp3fWRz) | [ILIACO](https://open.spotify.com/artist/1WzH7gkbxTeqS5cgNvB7o8) | [RICK & MORTY](https://open.spotify.com/album/0fPje9bE1TPo52hnJNY0xb) | 2:49 |
+| 70 | [RICK & MORTY](https://open.spotify.com/track/5gWYiI3B6wdLQ7Gtp3fWRz) | [ILIACO](https://open.spotify.com/artist/1WzH7gkbxTeqS5cgNvB7o8), [MM](https://open.spotify.com/artist/5eFqWWb4qNXmyd48FPVEff) | [RICK & MORTY](https://open.spotify.com/album/0fPje9bE1TPo52hnJNY0xb) | 2:49 |
 | 71 | [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 |
 | 72 | [KÄRLEK VID FÖRSTA ÖGONKASTET](https://open.spotify.com/track/6uVMrQXYtufR9zPs32yrLh) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [GARAGET](https://open.spotify.com/artist/0zvAhiqP4eWTks0BsVBvgL), [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [KÄRLEK VID FÖRSTA ÖGONKASTET](https://open.spotify.com/album/24kvaECpXB8hKx8d9S0BED) | 2:28 |
 | 73 | [digital crush](https://open.spotify.com/track/4hYbCohbCENEkrnLih5s55) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [digital crush](https://open.spotify.com/album/4MEzMHYcPOkGiKBQ0mOjKd) | 2:39 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 118 | [Waste Your Time](https://open.spotify.com/track/5xVgd0RijaqQYjDtZKuIvU) | [Cardinal Bloom](https://open.spotify.com/artist/1kL35cnfsVSfKJ6xLk0K9f) | [Waste Your Time](https://open.spotify.com/album/2DSodCRz6uiJCx1TmXSibD) | 2:58 |
 | 119 | [Achilles](https://open.spotify.com/track/4IGwI1G5ZYe1oMYYLoQFPN) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Achilles](https://open.spotify.com/album/7cP9X0WVECnCcHRBRRLlps) | 2:36 |
 
-Snapshot ID: `MCw4M2Q5ZDZiNzRjYTM3NGRkYmIyN2QwMjc3N2RjNTUwYWQzNDkyMjQx`
+Snapshot ID: `MCxlMWM2NjI5MmY0ZDhjODYzMjU5ZWI3YzgxNzYzMTI0M2IxZWU0OWIw`

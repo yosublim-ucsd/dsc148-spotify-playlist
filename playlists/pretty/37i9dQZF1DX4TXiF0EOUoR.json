@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 166037,
+  "num_followers": 166255,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjg1MzNjNDdkNzEzOWY2ZDZmYjUzMjUyYjE4ZGU4MWRiNjhmNDRi",
+  "snapshot_id": "MCwxOGI2NWU2MGE2ZmYwODg2ZTVkMTI2ZjczM2ZhZGMxZjczYjM2NGI0",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -503,22 +503,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "De Nueva Cuenta",
-        "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
       },
       "artists": [
         {
-          "name": "Marcos Flores",
-          "url": "https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D"
-        },
-        {
-          "name": "Banda Jerez",
-          "url": "https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 178933,
-      "name": "Por Una Lagrima",
-      "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
+      "duration_ms": 199813,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -539,18 +535,22 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
+        "name": "De Nueva Cuenta",
+        "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "Marcos Flores",
+          "url": "https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D"
+        },
+        {
+          "name": "Banda Jerez",
+          "url": "https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn"
         }
       ],
-      "duration_ms": 199813,
-      "name": "El Muchacho Alegre",
-      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
+      "duration_ms": 178933,
+      "name": "Por Una Lagrima",
+      "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
     },
     {
       "added_at": "2022-12-30 18:59:47",

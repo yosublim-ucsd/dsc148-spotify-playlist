@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,383 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,465 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Ça'a te dégoûter](https://open.spotify.com/track/02DUGJxrCBUh7fUNBPad59) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Ça'a te dégoûter](https://open.spotify.com/album/2lRHcHdMLLaGeKjVx8HFcI) | 3:25 |
 | 40 | [DIGBA MOTEUR](https://open.spotify.com/track/2AN0Bqm35eknKxWlcxa5l0) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [DIGBA MOTEUR](https://open.spotify.com/album/1snNUbVaxsY1ZBFzwljihr) | 3:16 |
 
-Snapshot ID: `MCw3ODg4ZTA5MzE1ZTg4OTE4MjY5N2RiMzY2MTJmNTIzZjE1YjIyZDJh`
+Snapshot ID: `MCwxOWRhMDNjM2QzZTMzODU4M2RmNDcwZDAwMDgyYWU3ZDk0ODUxZDBi`

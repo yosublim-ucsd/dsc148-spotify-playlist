@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuzLLgcHfkk.md) - [plain]
 
 > Summer breeze, makes me feel fine...
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,711 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,751 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuzLLgcHfkk.md) - [plain]
 | 23 | [Summer Love](https://open.spotify.com/track/4sRI9flGFXzpA8YvzFllFM) | [Sherbet](https://open.spotify.com/artist/45NevEaV0GyRopWoADDPr2) | [Anthology](https://open.spotify.com/album/7b8vBwWtR8P1VEJ0YMGPfx) | 3:36 |
 | 24 | [Sounds Of Then \(This Is Australia\)](https://open.spotify.com/track/4yLvWkiGacPp3BAOSxiiHf) | [GANGgajang](https://open.spotify.com/artist/3CDzOX9D1buMRHeTNFHXMm) | [GANGgajang](https://open.spotify.com/album/1CnWPTs4PtojKci9nIZpAR) | 3:51 |
 | 25 | [Twisting By the Pool](https://open.spotify.com/track/3LvReQ0qT9l7TeoXOLX50V) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [ExtendeDancEPlay](https://open.spotify.com/album/4sJQMHauWghtA75q6E3BRL) | 3:36 |
-| 26 | [Summertime](https://open.spotify.com/track/49TIT8O6KR9rdfgVBwdbac) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw) | 2:17 |
+| 26 | [Summertime](https://open.spotify.com/track/3TFyvBYEHq7cfdmIYD6RMG) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ) | 2:17 |
 | 27 | [Sun Is Shining](https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:58 |
 | 28 | [On the Beach](https://open.spotify.com/track/5QrNXvTQEuBb5iLoIAAuvk) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [New Light Through Old Windows](https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH) | 3:41 |
 | 29 | [Hot Hot Hot](https://open.spotify.com/track/2BeFYfKuc0AZGhbeVY78ep) | [Buster Poindexter And His Banshees Of Blue](https://open.spotify.com/artist/77GFTVwA0F6Ag1xtlYr0UA) | [Buster Poindexter](https://open.spotify.com/album/4lFx9yBIZmyiBXmw0nFUQf) | 4:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuzLLgcHfkk.md) - [plain]
 | 59 | [Long Hot Summer \- Single Version](https://open.spotify.com/track/62bUqzJCBwQekVyC3k6z2J) | [The Style Council](https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN) | [Greatest Hits](https://open.spotify.com/album/5BdcX71kcnhTj4wGbGyw4B) | 3:49 |
 | 60 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
 
-Snapshot ID: `MCxlZmVlZTVlMGJiMzUzMDBkMDJhMmJhZmU3OThkNjFiOWM2YjdjZTE1`
+Snapshot ID: `MCxhNWJiNjZhOTNiYmEwMGEzZmMzYTI4NTRlMTIzYTVkMDk0NDkwYjQ3`

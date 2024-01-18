@@ -4,7 +4,7 @@
 
 > A dose of high\-energy rock & alt songs for your workout.
 
-283 songs - 15 hr 40 min
+284 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Don't Look At Me](https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 3:08 | 2020-08-20 | 2022-01-27 |
 | [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 | 2022-06-17 | 2022-12-03 |
 | [Don't Miss](https://open.spotify.com/track/4xhJtbV0LEPCHKcDfHnlP5) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P) | 3:06 | 2023-12-15 | 2023-12-24 |
+| [Don't Miss](https://open.spotify.com/track/1ggbqc7jhg454UpFfSmdam) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6) | 3:07 | 2023-12-15 |  |
 | [Down Here Waiting](https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Down Here Waiting](https://open.spotify.com/album/7JqkfkMLQj4HWrrqhh2CUz) | 3:35 | 2023-09-29 |  |
 | [Drones](https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Drones](https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb) | 2:30 | 2023-04-19 | 2023-05-20 |
 | [Drown](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:42 | 2020-08-20 | 2022-04-21 |
@@ -133,7 +134,7 @@
 | [how will i rest in peace if i'm buried by a highway?//](https://open.spotify.com/track/0eENgTgNVheMpLiQO5aveL) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [how will i rest in peace if i'm buried by a highway?//](https://open.spotify.com/album/29Y1osFDEo8WoCUYRt7f7d) | 3:38 | 2020-08-20 | 2022-04-09 |
 | [Howlin' For You](https://open.spotify.com/track/5jdvRj8zXHJ7XpKsBKT9CZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Edition\)](https://open.spotify.com/album/0gVxPZ2tcMgyzLxyw8k1z7) | 3:11 | 2020-08-20 | 2022-03-12 |
 | [HTIS \(feat\. Luna Shadows & Carmen Vandenberg\)](https://open.spotify.com/track/3gbagPtR7WT8reMyyGXPl0) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ), [Carmen Vandenberg](https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS), [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [HTIS \(feat\. Luna Shadows & Carmen Vandenberg\)](https://open.spotify.com/album/5XnTBxVlabGBGoMxw9b1PA) | 3:15 | 2022-04-01 | 2022-07-29 |
-| [Human \(feat\. Barns Courtney\)](https://open.spotify.com/track/5jPWuLGRcVDU50pyTCEjQL) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Atlas Underground Flood](https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6) | 3:04 | 2022-02-04 |  |
+| [Human \(feat\. Barns Courtney\)](https://open.spotify.com/track/5jPWuLGRcVDU50pyTCEjQL) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Atlas Underground Flood](https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6) | 3:04 | 2022-02-04 | 2024-01-18 |
 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 | 2020-08-20 |  |
 | [I Hate You](https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [I Hate You](https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX) | 2:42 | 2022-06-17 | 2022-12-03 |
 | [I Hope You Choke!](https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:19 | 2023-12-15 | 2024-01-12 |

@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=RV7MGB1MS6GEW1xf66EzPA\"> Black Sherif </a>  ",
-  "num_followers": 539544,
+  "num_followers": 539756,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTE1M2VmMzI2OTQyNmQ2NDk3MDNhZTI1OWY0YWIwZDQ1YWUxYTM3",
+  "snapshot_id": "MCxhZTkwNDk1Yjk0Zjg2MTY0NTljYjBhYjdlNjJkMzAwNTU0MTFmMmI1",
   "tracks": [
     {
       "added_at": "2024-01-12 00:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Ma Cherie",
-        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ma Cherie",
-      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 200869,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Ma Cherie",
+        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ma Cherie",
+      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
     },
     {
       "added_at": "2024-01-12 00:01:00",

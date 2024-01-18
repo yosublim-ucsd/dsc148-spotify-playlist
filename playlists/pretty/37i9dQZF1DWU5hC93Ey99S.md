@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,980 likes - 138 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,120 likes - 138 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 137 | [Meant To Be](https://open.spotify.com/track/3qYjAxjvzzlGinGsOV8RWu) | [Leondis](https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8) | [Meant To Be](https://open.spotify.com/album/2EYjefWs2a5hdQqrr0rE9E) | 2:50 |
 | 138 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 |
 
-Snapshot ID: `MCxkYWNhOTU2YzUwNDRmYjhjODI2Y2YxNmM0ODEzYmRkN2IwMDFkODVk`
+Snapshot ID: `MCw3YmIxODdlYWFkODEzZjk3NjMwMDY2ZjE3OTJjNmM3MjQxM2JmODBi`

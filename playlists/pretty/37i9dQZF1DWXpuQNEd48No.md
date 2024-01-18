@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Addy Nagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,967 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,002 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gurjari](https://open.spotify.com/track/2G6xSLWVj94AwzwdsbLJ29) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Alan Sampson](https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96), [ADP](https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i) | [Gurjari](https://open.spotify.com/album/6zG42VggnsjGC7mJhiq7SZ) | 2:37 |
-| 2 | [Beat Pe Haley](https://open.spotify.com/track/1zKCjvOntyHye2uo9yStm7) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [Spoiler](https://open.spotify.com/artist/7f2hihjgE7E86I9NTDf88V) | [Beat Pe Haley](https://open.spotify.com/album/0rYNzF3IEoaJZpsmWIDwUW) | 2:34 |
+| 2 | [Beat Pe Haley](https://open.spotify.com/track/1zKCjvOntyHye2uo9yStm7) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [SPOILER](https://open.spotify.com/artist/0sUr4Ao1sdL4xjebJJHQoY) | [Beat Pe Haley](https://open.spotify.com/album/0rYNzF3IEoaJZpsmWIDwUW) | 2:34 |
 | 3 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
 | 4 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 |
 | 5 | [KALESHI CHORI](https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [DARK HORSE](https://open.spotify.com/artist/4v9G79IPGEpwTbgB6TUUaY) | [KALESHI CHORI](https://open.spotify.com/album/0Hgw8x1UFcmeReCtxDW24U) | 3:31 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 71 | [Ruthless Jaat](https://open.spotify.com/track/4sgWquR4oC7v1Tm211qSMq) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Ruthless Jaat](https://open.spotify.com/album/1OjIJ541qftk8kZFazYAT2) | 2:48 |
 | 72 | [Cigarette](https://open.spotify.com/track/5eUpBQYXRIyNfLFqRW5nwQ) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Cigarette](https://open.spotify.com/album/2wVwJZiXVsQ9tIm2mum83F) | 2:40 |
 | 73 | [No Tension](https://open.spotify.com/track/4F3ksXYJZm3ul80riHyKsR) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Tension \- Single](https://open.spotify.com/album/1N7yR1QOcwioXADCzjGL5L) | 3:45 |
-| 74 | [Rapgod](https://open.spotify.com/track/1qETjoaPp0O2eVqYPQ9PQc) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Rapgod](https://open.spotify.com/album/4AnkiReAouD2pfq7GtkeE7) | 4:05 |
+| 74 | [Bliss \- From "Jimmy"](https://open.spotify.com/track/4tDDf9R7ceyXlNezo0fudB) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Dada Sadhu](https://open.spotify.com/artist/3P3buIpCGVMGlPrKKgurVy) | [Bliss \(From "Jimmy"\)](https://open.spotify.com/album/6sy7CsO6mRH7Elj7Gwu5hh) | 2:33 |
 | 75 | [No Fake](https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [No Fake](https://open.spotify.com/album/54xTuRGq24Av5cqavO8jmE) | 3:14 |
 
-Snapshot ID: `MCwzZGFkYTFhOTc5Y2IxNWUwNDU5NDE2ZTcyYzI0NzI0MGIwMWI3MTk2`
+Snapshot ID: `MCw5OTM1NWIzZDg2NDM5OTdmY2FkZjhiZGUwZjEzYzgwZGVjZDYwZWEx`

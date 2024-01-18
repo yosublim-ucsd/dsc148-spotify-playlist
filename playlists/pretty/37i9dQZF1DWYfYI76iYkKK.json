@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 123720,
+  "num_followers": 123730,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzFlOTBiMjU2ZDBiMDQ2YWNjYzIwM2JmOThmYzkyYTI3ZTBjMGMw",
+  "snapshot_id": "MCw4MDI5YzYzZmJkYTg3Y2E1NmEzMGQ0Yzg3NTU0NGE5NmJiNTM5NTU3",
   "tracks": [
     {
       "added_at": "2024-01-11 16:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-01-11 16:00:00",
       "album": {
-        "name": "\u6697\u6d41",
-        "url": "https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW"
-      },
-      "artists": [
-        {
-          "name": "deca joins",
-          "url": "https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77"
-        }
-      ],
-      "duration_ms": 234750,
-      "name": "\u5929\u5802\u8207\u6ce5\u571f",
-      "url": "https://open.spotify.com/track/0I1YidoarFCsbkHu8ZkfrN"
-    },
-    {
-      "added_at": "2024-01-11 16:00:00",
-      "album": {
         "name": "\u84cb\u4e16\u82f1\u96c4",
         "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 286733,
       "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
       "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
+    },
+    {
+      "added_at": "2024-01-11 16:00:00",
+      "album": {
+        "name": "\u6697\u6d41",
+        "url": "https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW"
+      },
+      "artists": [
+        {
+          "name": "deca joins",
+          "url": "https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77"
+        }
+      ],
+      "duration_ms": 234750,
+      "name": "\u5929\u5802\u8207\u6ce5\u571f",
+      "url": "https://open.spotify.com/track/0I1YidoarFCsbkHu8ZkfrN"
     },
     {
       "added_at": "2024-01-11 16:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-01-11 16:00:00",
       "album": {
-        "name": "\u611b\u6c92\u6709\u932f",
-        "url": "https://open.spotify.com/album/6kK5eFuVJR8URoXYIFP2t8"
+        "name": "\u9752\u7a7a\u672a\u4f86",
+        "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
       },
       "artists": [
         {
-          "name": "Elva Hsiao",
-          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
         }
       ],
-      "duration_ms": 281237,
-      "name": "\u611b\u6c92\u6709\u932f",
-      "url": "https://open.spotify.com/track/4wK1EPnweq89yCUZismV5r"
+      "duration_ms": 255438,
+      "name": "\u9752\u7a7a\u672a\u4f86",
+      "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"
     },
     {
       "added_at": "2024-01-11 16:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-01-11 16:00:00",
       "album": {
-        "name": "\u9752\u7a7a\u672a\u4f86",
-        "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
+        "name": "\u611b\u6c92\u6709\u932f",
+        "url": "https://open.spotify.com/album/6kK5eFuVJR8URoXYIFP2t8"
       },
       "artists": [
         {
-          "name": "Ashin Chen",
-          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+          "name": "Elva Hsiao",
+          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
         }
       ],
-      "duration_ms": 255438,
-      "name": "\u9752\u7a7a\u672a\u4f86",
-      "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"
+      "duration_ms": 281237,
+      "name": "\u611b\u6c92\u6709\u932f",
+      "url": "https://open.spotify.com/track/4wK1EPnweq89yCUZismV5r"
     },
     {
       "added_at": "2024-01-11 16:00:00",

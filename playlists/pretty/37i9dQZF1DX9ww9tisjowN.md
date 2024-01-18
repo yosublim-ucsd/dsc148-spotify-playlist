@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Rokudenashi\(ロクデナシ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,956 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,525 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [ラビリンス](https://open.spotify.com/track/3K2zyJhcnMMA6yOdR6hOW7) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [ラビリンス](https://open.spotify.com/album/1pHD8AFu4z1CvuTPjZFOFi) | 4:54 |
 | 75 | [Magic sword](https://open.spotify.com/track/2SDG8TEEBGX3tPwSjqX5xG) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Magic sword](https://open.spotify.com/album/4CZuzm3N2YLi8m7RM4Ek0A) | 2:56 |
 
-Snapshot ID: `MCxiOTJkMTYzN2I2ZWUxMTZiNTQ3NTM1MmZiMGQwZjRmMDUyZWUyMzlm`
+Snapshot ID: `MCw5NzRjOWQ0NjVlNjE5YzQ4OTk1YzIzYzI2Y2RhZmNmZDk1NmIxOTgy`

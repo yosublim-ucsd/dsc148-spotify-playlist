@@ -2,9 +2,9 @@
 
 ### [Bambai Bantai](https://open.spotify.com/playlist/37i9dQZF1DXbSaMQIHweTw)
 
-> Rapping into your hearts from the alleys of Mumbai\. Cover\- Loka
+> Rapping into your hearts from the alleys of Mumbai\. Cover\- Emiway Bantai
 
-120 songs - 6 hr 26 min
+121 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blessings](https://open.spotify.com/track/7J0CxEcl1dUxX9IG6R5Xfb) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:44 | 2023-04-24 |  |
 | [Blew up](https://open.spotify.com/track/3QP9yuBbDgy9tmTeG6aIaz) | [GAUSH](https://open.spotify.com/artist/5UPhqOBfNq83B0vOaLocFM), [Placidchills](https://open.spotify.com/artist/4DOiFiwOoLhBQOniziQ7V6) | [Blew up](https://open.spotify.com/album/5yyAPCWjdJmJxI3HVLbPdb) | 3:05 | 2023-03-17 | 2023-04-25 |
 | [Bol Bala](https://open.spotify.com/track/7FgTOompOyqXdjsKwkg9ol) | [100RBH](https://open.spotify.com/artist/767XlRPKZyZdDnBgTL6pcc), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bol Bala](https://open.spotify.com/album/1rUO5Qjm64YnqqtOAUtTUl) | 3:36 | 2023-03-17 | 2023-04-25 |
+| [Bolna Tu Bantai \- From "Whole Heartedly"](https://open.spotify.com/track/0Glg2gUCE9QydbTm0zjEkN) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Bolna Tu Bantai \(From "Whole Heartedly"\)](https://open.spotify.com/album/5O2fxXZT0fLfOVU6vG1eyf) | 2:30 | 2024-01-17 |  |
 | [Bombay Coast](https://open.spotify.com/track/1RNW6JS1eZhvO2LzodiX3B) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [MLHVR](https://open.spotify.com/artist/1HZOuRhXA49pAZEdZbvKTn), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [Bombay Coast](https://open.spotify.com/album/1h90h4U91NLlMP57WZxtBK) | 3:08 | 2023-04-28 | 2023-10-23 |
 | [Bombay Coast](https://open.spotify.com/track/6UPH8T6KYQUWmH2521KkKQ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [MLHVR](https://open.spotify.com/artist/1HZOuRhXA49pAZEdZbvKTn), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [Bombay Coast](https://open.spotify.com/album/1v4uIAnF4jJ5ez7tnwLRBK) | 3:08 | 2023-10-19 |  |
 | [Bombay Ke Don](https://open.spotify.com/track/499tKmOFPlTHY91jx68WVN) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Bombay Ke Don](https://open.spotify.com/album/7s0QOGNHppvKS3J4IUsZb7) | 3:16 | 2023-03-17 |  |
@@ -77,7 +78,7 @@
 | [Kya Bolte Bro](https://open.spotify.com/track/2i5IXraFHeZE3ObclMKRPI) | [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu), [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [MEMAX](https://open.spotify.com/album/4ipQDuUPOgxgihg0ZgLqfv) | 3:48 | 2023-03-17 | 2023-12-14 |
 | [LA to Bombay](https://open.spotify.com/track/4dLvGPxXlDi9YdwIH11WOq) | [Dee MC](https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [LA to Bombay](https://open.spotify.com/album/3TBz51RQKTu16bT3VIY2uz) | 2:56 | 2023-03-17 | 2023-04-25 |
 | [Legends](https://open.spotify.com/track/3ff1F1oyKL8FPYJ7cyyefn) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Legends](https://open.spotify.com/album/2lSxd5dINxP236AoTy7pFB) | 2:49 | 2023-03-17 |  |
-| [Level Up](https://open.spotify.com/track/5PJtYb15Li1uo6EWNFWif6) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Level Up](https://open.spotify.com/album/2nCWTEDqE4wUyDPPoSL1p5) | 3:54 | 2023-03-17 |  |
+| [Level Up](https://open.spotify.com/track/5PJtYb15Li1uo6EWNFWif6) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Level Up](https://open.spotify.com/album/2nCWTEDqE4wUyDPPoSL1p5) | 3:54 | 2023-03-17 | 2024-01-18 |
 | [Lonely](https://open.spotify.com/track/1LYB3WsXbT6pYrlEyFEQ0d) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Prznt](https://open.spotify.com/artist/57kVlVXJYheaFNXA91qP4w) | [Lonely](https://open.spotify.com/album/6k8yBB7gP23Bj9lGGJB0Et) | 3:34 | 2023-03-17 | 2023-04-25 |
 | [Maante Naahi Haar](https://open.spotify.com/track/6vXNKXDTkT2QDf6RtJqmWL) | [Minta](https://open.spotify.com/artist/7tda05HSCJgxnQLLqzfSNL), [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [MAANTE NAAHI HAAR](https://open.spotify.com/album/1KOyVm4Ej43o4mZTuW6Tlr) | 3:15 | 2023-03-17 | 2023-04-25 |
 | [MACHAYENGE 4](https://open.spotify.com/track/0TeH0rRFmef6eqk86MPyUA) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [MACHAYENGE 4](https://open.spotify.com/album/0ceqAnBLEDesQ0leQZjDwz) | 10:05 | 2023-03-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: YOVNGCHIMI",
-  "num_followers": 1504237,
+  "num_followers": 1504238,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2JiZGRhNjVlOGMxMTQ0NDM1MzQ5NDJkMGZiMmU4NDhhOWE4MWU2",
+  "snapshot_id": "MCwyMmMwZTlkMzE3MjY5MGQ5YWFiOGFiZWQzOGRlZTM1ZDRmODMwZmI3",
   "tracks": [
     {
       "added_at": "2024-01-12 05:25:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 162447,
-      "name": "OBVIO",
-      "url": "https://open.spotify.com/track/5el1yANyqhFWsjLWGYpcTZ"
-    },
-    {
-      "added_at": "2024-01-12 05:25:00",
-      "album": {
         "name": "Glizzy Walk 2.5",
         "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 224248,
       "name": "Glizzy Walk 2.5",
       "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
+    },
+    {
+      "added_at": "2024-01-12 05:25:00",
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 162447,
+      "name": "OBVIO",
+      "url": "https://open.spotify.com/track/5el1yANyqhFWsjLWGYpcTZ"
     },
     {
       "added_at": "2024-01-12 05:25:00",
@@ -799,18 +799,34 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
-        "name": "LYKE MIKE",
-        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
+        "name": "Baby Father 2.0 (with Myke Towers, Arc\u00e1ngel, \u00d1engo Flow & Yeruza)",
+        "url": "https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8"
       },
       "artists": [
         {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
         }
       ],
-      "duration_ms": 187897,
-      "name": "M\u00cdRENME AHORA",
-      "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
+      "duration_ms": 405473,
+      "name": "Baby Father 2.0 (with Myke Towers, Arc\u00e1ngel, \u00d1engo Flow & Yeruza)",
+      "url": "https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F"
     },
     {
       "added_at": "2024-01-12 05:25:00",
@@ -883,34 +899,18 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
-        "name": "Baby Father 2.0 (with Myke Towers, Arc\u00e1ngel, \u00d1engo Flow & Yeruza)",
-        "url": "https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8"
+        "name": "LYKE MIKE",
+        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
       },
       "artists": [
         {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Yeruza",
-          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
         }
       ],
-      "duration_ms": 405473,
-      "name": "Baby Father 2.0 (with Myke Towers, Arc\u00e1ngel, \u00d1engo Flow & Yeruza)",
-      "url": "https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F"
+      "duration_ms": 187897,
+      "name": "M\u00cdRENME AHORA",
+      "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
     },
     {
       "added_at": "2024-01-12 05:25:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
-        "name": "Las Leyendas Nunca Mueren",
-        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
+        "name": "El Rey De La Rapidas",
+        "url": "https://open.spotify.com/album/50bcMYI7pmJHrhlaD1LnDa"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
         }
       ],
-      "duration_ms": 220341,
-      "name": "Leyenda",
-      "url": "https://open.spotify.com/track/3BIOxohEjTEcRRg0VVlNI6"
+      "duration_ms": 149424,
+      "name": "El Rey De La Rapidas",
+      "url": "https://open.spotify.com/track/06K5Vl4Ui4QhMEHD6IW9U2"
     },
     {
       "added_at": "2024-01-12 05:25:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
+        "name": "Las Leyendas Nunca Mueren",
+        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 220341,
+      "name": "Leyenda",
+      "url": "https://open.spotify.com/track/3BIOxohEjTEcRRg0VVlNI6"
+    },
+    {
+      "added_at": "2024-01-12 05:25:00",
+      "album": {
         "name": "WLGS",
         "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 301874,
       "name": "Glizzy Walk 3",
       "url": "https://open.spotify.com/track/4GlyvnFvQ3wFiq1ot3xJBY"
-    },
-    {
-      "added_at": "2024-01-12 05:25:00",
-      "album": {
-        "name": "El Rey De La Rapidas",
-        "url": "https://open.spotify.com/album/50bcMYI7pmJHrhlaD1LnDa"
-      },
-      "artists": [
-        {
-          "name": "Pressure 9X19",
-          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
-        }
-      ],
-      "duration_ms": 149424,
-      "name": "El Rey De La Rapidas",
-      "url": "https://open.spotify.com/track/06K5Vl4Ui4QhMEHD6IW9U2"
     },
     {
       "added_at": "2024-01-12 05:25:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
-        "name": "WLGS",
-        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        }
-      ],
-      "duration_ms": 182083,
-      "name": "Grave Digger (with Southside)",
-      "url": "https://open.spotify.com/track/6aXGt8YQ0zcfagTeWLLTen"
-    },
-    {
-      "added_at": "2024-01-12 05:25:00",
-      "album": {
         "name": "MILWAUKEE 2",
         "url": "https://open.spotify.com/album/2dSp6CWL2wGk5wuDddVRRe"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 147593,
       "name": "Estikei",
       "url": "https://open.spotify.com/track/7LjWg30pfLnp31pXulL8z1"
+    },
+    {
+      "added_at": "2024-01-12 05:25:00",
+      "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        }
+      ],
+      "duration_ms": 182083,
+      "name": "Grave Digger (with Southside)",
+      "url": "https://open.spotify.com/track/6aXGt8YQ0zcfagTeWLLTen"
     },
     {
       "added_at": "2024-01-12 05:25:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
+        "name": "BBY BOO",
+        "url": "https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "BBY BOO",
+      "url": "https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh"
+    },
+    {
+      "added_at": "2024-01-12 05:25:00",
+      "album": {
         "name": "TRAP KITTY",
         "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 284285,
       "name": "Mi Vicio - Remix",
       "url": "https://open.spotify.com/track/7tpeqecMwVxj1iQHDQt2TI"
-    },
-    {
-      "added_at": "2024-01-12 05:25:00",
-      "album": {
-        "name": "BBY BOO",
-        "url": "https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "BBY BOO",
-      "url": "https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh"
     },
     {
       "added_at": "2024-01-12 05:25:00",
@@ -1479,22 +1479,22 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
-        "name": "TRAPPii",
-        "url": "https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v"
+        "name": "Mu\u00e9velo Lento",
+        "url": "https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
         }
       ],
-      "duration_ms": 177514,
-      "name": "TRAPPii",
-      "url": "https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8"
+      "duration_ms": 182903,
+      "name": "Mu\u00e9velo Lento",
+      "url": "https://open.spotify.com/track/7nxcnlwklosgjwpVSl5Bty"
     },
     {
       "added_at": "2024-01-12 05:25:00",
@@ -1515,22 +1515,22 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
-        "name": "Mu\u00e9velo Lento",
-        "url": "https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m"
+        "name": "TRAPPii",
+        "url": "https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v"
       },
       "artists": [
         {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         },
         {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 182903,
-      "name": "Mu\u00e9velo Lento",
-      "url": "https://open.spotify.com/track/7nxcnlwklosgjwpVSl5Bty"
+      "duration_ms": 177514,
+      "name": "TRAPPii",
+      "url": "https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8"
     },
     {
       "added_at": "2024-01-12 05:25:00",
@@ -1639,6 +1639,42 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
+        "name": "L3tra 2",
+        "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Mention",
+      "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
+    },
+    {
+      "added_at": "2024-01-12 05:25:00",
+      "album": {
+        "name": "Diamantes En Mis Dientes",
+        "url": "https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 344602,
+      "name": "Diamantes en Mis Dientes",
+      "url": "https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN"
+    },
+    {
+      "added_at": "2024-01-12 05:25:00",
+      "album": {
         "name": "Quien Va a Frontiar (Remix)",
         "url": "https://open.spotify.com/album/7BEWbSJ0k1CCHTXcH4KxZ8"
       },
@@ -1671,42 +1707,6 @@
       "duration_ms": 317000,
       "name": "Quien Va a Frontiar - Remix",
       "url": "https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk"
-    },
-    {
-      "added_at": "2024-01-12 05:25:00",
-      "album": {
-        "name": "Diamantes En Mis Dientes",
-        "url": "https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 344602,
-      "name": "Diamantes en Mis Dientes",
-      "url": "https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN"
-    },
-    {
-      "added_at": "2024-01-12 05:25:00",
-      "album": {
-        "name": "L3tra 2",
-        "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Mention",
-      "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
     },
     {
       "added_at": "2024-01-12 05:25:00",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
-        "name": "CODA",
-        "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
+        "name": "7D",
+        "url": "https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS"
       },
       "artists": [
         {
-          "name": "Yeruza",
-          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
         }
       ],
-      "duration_ms": 141889,
-      "name": "Estilo de Vida",
-      "url": "https://open.spotify.com/track/1muTEUeGKeiS6PlVHFBIWq"
+      "duration_ms": 236124,
+      "name": "7D",
+      "url": "https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I"
     },
     {
       "added_at": "2024-01-12 05:25:00",
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
-        "name": "7D",
-        "url": "https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS"
+        "name": "CODA",
+        "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
       },
       "artists": [
         {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
         }
       ],
-      "duration_ms": 236124,
-      "name": "7D",
-      "url": "https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I"
+      "duration_ms": 141889,
+      "name": "Estilo de Vida",
+      "url": "https://open.spotify.com/track/1muTEUeGKeiS6PlVHFBIWq"
     },
     {
       "added_at": "2024-01-12 05:25:00",
@@ -2051,30 +2051,26 @@
     {
       "added_at": "2024-01-12 05:25:00",
       "album": {
-        "name": "Salsero",
-        "url": "https://open.spotify.com/album/6hgWDZZV6Nz5x34yps6HkD"
+        "name": "Gang Affiliated",
+        "url": "https://open.spotify.com/album/2G2ee9kBGHYeydVSKFMAUY"
       },
       "artists": [
         {
-          "name": "Oplus",
-          "url": "https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0"
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
         },
         {
-          "name": "Dayme Beats",
-          "url": "https://open.spotify.com/artist/0cARZSRkYfYAk37T5yFTHW"
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
         },
         {
-          "name": "Leykan",
-          "url": "https://open.spotify.com/artist/0RiYU88aiUZxDSs4CYA5XK"
-        },
-        {
-          "name": "Dyanko",
-          "url": "https://open.spotify.com/artist/59kazNVxBCjwUig0vKDX9R"
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
         }
       ],
-      "duration_ms": 225671,
-      "name": "Salsero",
-      "url": "https://open.spotify.com/track/2oAlelTgCCe6wIgUHOWM6E"
+      "duration_ms": 180128,
+      "name": "Gang Affiliated",
+      "url": "https://open.spotify.com/track/6CowfoUU9CHy8oikWW0FYa"
     }
   ],
   "unique_name": "Trap Land",

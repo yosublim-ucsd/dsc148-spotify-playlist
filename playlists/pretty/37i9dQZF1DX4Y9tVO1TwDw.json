@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 6785,
+  "num_followers": 6802,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmNkYTE1MDk0OGE5NDE3YzNmODVkZmIxMWRhZTAyNzFhYmYwN2I0",
+  "snapshot_id": "MCxkOTU4YzRiZDcyZDVlMWUzNGQyZWNkZWRmYzZmMTQyNmIyODVkNmNh",
   "tracks": [
     {
       "added_at": "2023-12-06 20:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
+        "name": "Esperando",
+        "url": "https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 176508,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
-        "name": "Esperando",
-        "url": "https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
+        "name": "Is It Me?",
+        "url": "https://open.spotify.com/album/1sTKsI00jcbVj6yF6RlzqB"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 161064,
+      "name": "Is It Me?",
+      "url": "https://open.spotify.com/track/2filuHvc1yFC1zBkejvn5k"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
         "name": "Ra\u00edces (As\u00ed Se Hace)",
         "url": "https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 189760,
       "name": "Luces De La Calle",
       "url": "https://open.spotify.com/track/0FpLsbGzRlspvM1Hr0sxCj"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
-        "name": "Mil Pedazos",
-        "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
-      },
-      "artists": [
-        {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Coraz\u00f3n Da\u00f1ado",
-      "url": "https://open.spotify.com/track/0ft4G7aJUXgPQ0i3UFKu29"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Is It Me?",
-        "url": "https://open.spotify.com/album/1sTKsI00jcbVj6yF6RlzqB"
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
       },
       "artists": [
         {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
         }
       ],
-      "duration_ms": 161064,
-      "name": "Is It Me?",
-      "url": "https://open.spotify.com/track/2filuHvc1yFC1zBkejvn5k"
+      "duration_ms": 184615,
+      "name": "Coraz\u00f3n Da\u00f1ado",
+      "url": "https://open.spotify.com/track/0ft4G7aJUXgPQ0i3UFKu29"
     },
     {
       "added_at": "2023-12-06 20:00:00",

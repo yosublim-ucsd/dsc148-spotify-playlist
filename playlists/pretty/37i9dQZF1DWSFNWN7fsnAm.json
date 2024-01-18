@@ -1,12 +1,12 @@
 {
   "description": "Listen to <a href=\"spotify:artist:1yqxFtPHKcGcv6SXZNdyT9\">MK</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 46944,
+  "num_followers": 46966,
   "original_name": "MK's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTllYzBlMzIzMWQxNmY0OTBlYzEwYzgyNGIwOWZmZjIyYTg3NGVi",
+  "snapshot_id": "MCw2ODlmNmEzYjM4ODQzNDhiOGNmZTJiOGE2NDAwNzg5ZGZiMzU1N2E4",
   "tracks": [
     {
       "added_at": "2023-11-02 16:40:53",
@@ -891,13 +891,13 @@
     {
       "added_at": "2023-11-02 16:40:53",
       "album": {
-        "name": "WRONG (Francis Mercier Sunrise Mix)",
+        "name": "Wrong (Francis Mercier Sunrise Mix)",
         "url": "https://open.spotify.com/album/2wOpEAZ4ihEQ5Kdpdjqbuk"
       },
       "artists": [
         {
-          "name": "Hank K",
-          "url": "https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW"
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/1I5hLsy14ppaxxq2nqeVxk"
         },
         {
           "name": "Francis Mercier",
@@ -905,7 +905,7 @@
         }
       ],
       "duration_ms": 222786,
-      "name": "WRONG - Francis Mercier Sunrise Mix",
+      "name": "Wrong - Francis Mercier Sunrise Mix",
       "url": "https://open.spotify.com/track/5cWTsnpNUv45y2jPg2eUF4"
     },
     {
@@ -1160,8 +1160,8 @@
       },
       "artists": [
         {
-          "name": "Hank K",
-          "url": "https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW"
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/1I5hLsy14ppaxxq2nqeVxk"
         }
       ],
       "duration_ms": 197230,

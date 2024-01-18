@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,937 likes - 360 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,021 likes - 360 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -272,7 +272,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 262 | [Bam](https://open.spotify.com/track/2J4QbaDPRSAC9IH5hr6MF1) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [KDDK](https://open.spotify.com/artist/1793RNBnWXkl6iRbT196Nk), [Ya Rick](https://open.spotify.com/artist/3ucRvRCMMwK4Y21glebmee) | [Bam](https://open.spotify.com/album/1tht4Tfzn0dsVQoEoOg87d) | 2:19 |
 | 263 | [Pompeii](https://open.spotify.com/track/6o5bXOAaufbxc3xVfYLjWb) | [Faruk Orman](https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq), [Yusuf Alev](https://open.spotify.com/artist/14E6R9xyo9QwdEvMgIsihe), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Pompeii](https://open.spotify.com/album/1ZL4DBLcDPnyv6Qyen2Y2V) | 2:05 |
 | 264 | [3 Nights](https://open.spotify.com/track/78cZv3WbFsEs216E92Kjj1) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [3 Nights](https://open.spotify.com/album/7DNSiB3Edhmbek6ms63FFS) | 2:34 |
-| 265 | [Toxic](https://open.spotify.com/track/3naFIh0MSAIL16JR7lgnSF) | [SI US PLAU](https://open.spotify.com/artist/3szeAsRT1wifzsYNMlnw4O), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Toxic](https://open.spotify.com/album/41npeOQumL5mHMs7NHwLhZ) | 2:57 |
+| 265 | [Toxic](https://open.spotify.com/track/3naFIh0MSAIL16JR7lgnSF) | [PLUS2](https://open.spotify.com/artist/3szeAsRT1wifzsYNMlnw4O), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Toxic](https://open.spotify.com/album/41npeOQumL5mHMs7NHwLhZ) | 2:57 |
 | 266 | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/track/3vF1Bk53lUz287NAu5RCpS) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/album/2HPdZOq2RU7j158mu4jmdy) | 2:14 |
 | 267 | [Put Your Records On](https://open.spotify.com/track/0fmxDbgbennJUWv8VTdJ5Z) | [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ) | [Put Your Records On](https://open.spotify.com/album/7I03UvMqvPGhpdHUmmXN1S) | 2:43 |
 | 268 | [Every Breath You Take](https://open.spotify.com/track/5pO2v6kaQwh8aeVISo7NYG) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Every Breath You Take](https://open.spotify.com/album/0VlhtM0WNt1WXRJXFz3Ovk) | 2:00 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 359 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 360 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCxhNGUxNmMzMTc4OTA0MGM4ZWJhZmJhMGRjODY1OTE5MWZmZTIzMjYw`
+Snapshot ID: `MCxlYjIzNzU2NjBkNWQ2MjIzMjM2OTc3MTZhODIwNWI1MTZkZjRlMmYx`

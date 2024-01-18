@@ -4,7 +4,7 @@
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-129 songs - 7 hr 53 min
+130 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Fragile](https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:01 | 2022-08-31 |  |
 | [Grass is Grass](https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh) | [Bowes Road Band](https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu) | [Grass is Grass](https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw) | 4:10 | 2023-09-13 |  |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2021-10-15 |  |
-| [Harlem River](https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/3YCZyxDxBnFt4x3eYGYHFv) | 4:37 | 2021-10-15 |  |
+| [Harlem River](https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/3YCZyxDxBnFt4x3eYGYHFv) | 4:37 | 2021-10-15 | 2024-01-18 |
 | [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 | 2021-10-15 | 2023-10-27 |
 | [head down](https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [head down](https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ) | 2:28 | 2022-12-07 |  |
 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-06-30 |  |
@@ -62,6 +62,7 @@
 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 | 2021-10-15 |  |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2021-10-15 |  |
 | [I'll Come Too](https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:42 | 2021-10-15 |  |
+| [If It Goes](https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [Aliso](https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U) | 3:44 | 2021-10-15 |  |
 | [If It Goes](https://open.spotify.com/track/1u0qpHAwzNshb1XU2EUclz) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [Aliso](https://open.spotify.com/album/2uwvIfaBxfFyyk8RvKQj4c) | 3:44 | 2021-10-15 | 2024-01-06 |
 | [If You Could See Me Now](https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [If You Could See Me Now](https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0) | 2:41 | 2023-12-20 |  |
 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 | 2023-03-31 | 2023-07-31 |

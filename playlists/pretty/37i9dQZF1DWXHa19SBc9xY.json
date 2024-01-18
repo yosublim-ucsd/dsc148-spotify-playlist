@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 87109,
+  "num_followers": 87179,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWUzZTIyYmQ1Y2IzZmZhOGJjZTE4YjE1NWI4ODU2NDM4NDc4ZTIw",
+  "snapshot_id": "MCwwZDY1ZWFmNjBlY2MxOTc0ZTJkN2VmOTEyMzQ3MzQyYTczYjhlZDUz",
   "tracks": [
     {
       "added_at": "2023-11-24 08:42:40",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "samba do mo\u00e7o bonito",
         "url": "https://open.spotify.com/album/79yWNPUh9pzwttJ4dTtlVQ"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 197090,
       "name": "samba do mo\u00e7o bonito",
       "url": "https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/2aoZn4WaR7tmFKHb40p7Xw"
-      },
-      "artists": [
-        {
-          "name": "Fino Coletivo",
-          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Minha Menina Bonita",
-      "url": "https://open.spotify.com/track/1f2WAWsmxx6JKrKTBO46UU"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Banho de Mar",
         "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 169531,
       "name": "Banho de Mar",
       "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/2aoZn4WaR7tmFKHb40p7Xw"
+      },
+      "artists": [
+        {
+          "name": "Fino Coletivo",
+          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "Minha Menina Bonita",
+      "url": "https://open.spotify.com/track/1f2WAWsmxx6JKrKTBO46UU"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -615,22 +615,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Aroeira",
-        "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
+        "name": "Simples Assim",
+        "url": "https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa"
       },
       "artists": [
         {
-          "name": "Murilo Chester",
-          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
-        },
-        {
-          "name": "Casa Amarela",
-          "url": "https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs"
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
         }
       ],
-      "duration_ms": 173354,
-      "name": "Aroeira",
-      "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
+      "duration_ms": 217241,
+      "name": "Em Outro Lugar",
+      "url": "https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -655,18 +651,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Simples Assim",
-        "url": "https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa"
+        "name": "Aroeira",
+        "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
       },
       "artists": [
         {
-          "name": "Pedro Pond\u00e9",
-          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+        },
+        {
+          "name": "Casa Amarela",
+          "url": "https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs"
         }
       ],
-      "duration_ms": 217241,
-      "name": "Em Outro Lugar",
-      "url": "https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf"
+      "duration_ms": 173354,
+      "name": "Aroeira",
+      "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "DAVI",
-        "url": "https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA"
-      },
-      "artists": [
-        {
-          "name": "Davi Cartaxo",
-          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
-        }
-      ],
-      "duration_ms": 179327,
-      "name": "Estrela do Mar",
-      "url": "https://open.spotify.com/track/30DNaVhr36t9aUOGK4m2KV"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Rara",
         "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 197883,
       "name": "Rara",
       "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "DAVI",
+        "url": "https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA"
+      },
+      "artists": [
+        {
+          "name": "Davi Cartaxo",
+          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
+        }
+      ],
+      "duration_ms": 179327,
+      "name": "Estrela do Mar",
+      "url": "https://open.spotify.com/track/30DNaVhr36t9aUOGK4m2KV"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1219,6 +1219,26 @@
       "duration_ms": 175350,
       "name": "Minha Preta",
       "url": "https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Rainha da Minha Bateria",
+        "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Juliano Moreira",
+          "url": "https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL"
+        }
+      ],
+      "duration_ms": 243850,
+      "name": "Rainha da Minha Bateria",
+      "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1307,26 +1327,6 @@
       "duration_ms": 171911,
       "name": "Louco de Amor - Ac\u00fastica",
       "url": "https://open.spotify.com/track/5hGqmSotpJmMcZkyNYplZ6"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Rainha da Minha Bateria",
-        "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Juliano Moreira",
-          "url": "https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL"
-        }
-      ],
-      "duration_ms": 243850,
-      "name": "Rainha da Minha Bateria",
-      "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Sala De Estar",
-        "url": "https://open.spotify.com/album/4s4HfTHQpIsZDrNYhDjF8A"
-      },
-      "artists": [
-        {
-          "name": "LOFRAN",
-          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
-        },
-        {
-          "name": "Jadeco",
-          "url": "https://open.spotify.com/artist/2xR72gXLvfx1hi8OcADmAY"
-        }
-      ],
-      "duration_ms": 245676,
-      "name": "Sala De Estar",
-      "url": "https://open.spotify.com/track/22kzz5JUNNdKLKChbUjjx6"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Sala De Estar",
+        "url": "https://open.spotify.com/album/4s4HfTHQpIsZDrNYhDjF8A"
+      },
+      "artists": [
+        {
+          "name": "LOFRAN",
+          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
+        },
+        {
+          "name": "Jadeco",
+          "url": "https://open.spotify.com/artist/2xR72gXLvfx1hi8OcADmAY"
+        }
+      ],
+      "duration_ms": 245676,
+      "name": "Sala De Estar",
+      "url": "https://open.spotify.com/track/22kzz5JUNNdKLKChbUjjx6"
     },
     {
       "added_at": "2023-11-24 08:42:40",

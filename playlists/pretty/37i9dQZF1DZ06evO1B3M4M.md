@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,876 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,888 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 44 | [Main Title](https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [All the Light We Cannot See \(Soundtrack from the Netflix Limited Series\)](https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR) | 1:23 |
 | 45 | [Just Friends](https://open.spotify.com/track/6GBTGVUSVIvvgWbm17kIGB) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Catching Fire \(Original Motion Picture Score\)](https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow) | 1:29 |
 | 46 | [Flying](https://open.spotify.com/track/2DS7nXQfAFmLzTicXi3riM) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Peter Pan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zGkIyUeYV5NVS8z3MUGE8) | 3:32 |
-| 47 | [Saving Snow](https://open.spotify.com/track/21bFbd4xXyPqC82S9ufS1Z) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: The Ballad of Songbirds and Snakes \(Original Motion Picture Score\)](https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et) | 1:23 |
+| 47 | [And I Thought My Jokes Were Bad](https://open.spotify.com/track/3QRK9jOyP2qQ9ZaYdO3QCn) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 2:28 |
 | 48 | [Reason to Hope](https://open.spotify.com/track/4C9FFV0E0BSyNZRwNEzdCz) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [All the Light We Cannot See \(Soundtrack from the Netflix Limited Series\)](https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR) | 0:51 |
 | 49 | [I Need You](https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Catching Fire \(Original Motion Picture Score\)](https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow) | 3:57 |
-| 50 | [Why so Serious?](https://open.spotify.com/track/1wdoaja3ueHHvzobn2jE2n) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 9:14 |
+| 50 | [Saving Snow](https://open.spotify.com/track/21bFbd4xXyPqC82S9ufS1Z) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: The Ballad of Songbirds and Snakes \(Original Motion Picture Score\)](https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et) | 1:23 |
 
-Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDA1MDA1YWM5MTBmNWRlMjk2NjYzZDQzOTQzZDIyMmYxNg==`
+Snapshot ID: `Mjg0MjQ4NzgsMDAwMDAwMDBhMTEyYzc0MGUxOTQ0MzBlZGRiZTc3YjU5MzY2NWUxMg==`

@@ -5396,7 +5396,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 185840,
       "name": "Jeans",
       "url": "https://open.spotify.com/track/78dzBjk47wuaraNVpVJ9QB"
@@ -6454,6 +6454,10 @@
         {
           "name": "HDR",
           "url": "https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M"
+        },
+        {
+          "name": "DJ Alan Daniel",
+          "url": "https://open.spotify.com/artist/130Ev2tVgui6WjsrUFr6q5"
         }
       ],
       "date_added": "2024-01-12",
@@ -12160,6 +12164,24 @@
       "duration_ms": 249463,
       "name": "TU DIABLO",
       "url": "https://open.spotify.com/track/3cubuvfYq2yHijwV7eCHwL"
+    },
+    {
+      "album": {
+        "name": "NASTY SINGLES",
+        "url": "https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154866,
+      "name": "TU PERROTA",
+      "url": "https://open.spotify.com/track/5JBsFddVLWFNE4WfXo9ZDw"
     },
     {
       "album": {

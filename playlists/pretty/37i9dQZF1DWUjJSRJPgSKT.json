@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics. Cover: McCoy Tyner",
-  "num_followers": 25772,
+  "num_followers": 25874,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjE2ZjUyNDYxOTU1ZmRkMDcxYWNlYzdlYWFkYzUxNTEzNmI1MjEy",
+  "snapshot_id": "MCw2ZjcwZDc2NjFlMGNhZGU5ZjI4NTVhOGI2YTlkMzdlY2NiY2E2ODJh",
   "tracks": [
     {
       "added_at": "2023-12-20 10:53:55",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 399466,
-      "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 344293,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/0BNrLm5na6f7witHj8769E"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 399466,
+      "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -251,6 +251,26 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
+        "name": "Clifford Brown And Max Roach",
+        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Daahoud",
+      "url": "https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
         "name": "Seven Steps To Heaven (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 427266,
       "name": "Lazy Bird - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0V3K5h6d8Epqg4k60O1IBB"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
-        "name": "Clifford Brown And Max Roach",
-        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach Quintet",
-          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Daahoud",
-      "url": "https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -347,18 +347,22 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
+        "name": "Clifford Brown And Max Roach",
+        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
       "artists": [
         {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
         }
       ],
-      "duration_ms": 267773,
-      "name": "Minors Holiday - Rudy Van Gelder Edition/2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x"
+      "duration_ms": 414266,
+      "name": "The Blues Walk",
+      "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -379,6 +383,22 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
+        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Minors Holiday - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
         "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu"
       },
@@ -391,22 +411,6 @@
       "duration_ms": 239533,
       "name": "Au Privave",
       "url": "https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
-        "name": "Art Blakey & The Jazz Messengers",
-        "url": "https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 410866,
-      "name": "Alamode",
-      "url": "https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -427,22 +431,18 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Clifford Brown And Max Roach",
-        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
+        "name": "Art Blakey & The Jazz Messengers",
+        "url": "https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU"
       },
       "artists": [
         {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach Quintet",
-          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 414266,
-      "name": "The Blues Walk",
-      "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
+      "duration_ms": 410866,
+      "name": "Alamode",
+      "url": "https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 401560,
+      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
         "name": "Know What I Mean?",
         "url": "https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS"
       },
@@ -699,38 +715,6 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
-        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 401560,
-      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
-        "name": "Stitt Plays Bird (Remastered Version)",
-        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Now's the Time - Remastered Version",
-      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
         "name": "Mating Call [RVG Remaster]",
         "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 353826,
       "name": "Super Jet",
       "url": "https://open.spotify.com/track/0n9toZOivQbcwGuwNsPywM"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
+        "name": "Stitt Plays Bird (Remastered Version)",
+        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Now's the Time - Remastered Version",
+      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 431733,
-      "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
         "name": "Ken Burns Jazz: The Definitive Dizzy Gillespie",
         "url": "https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 853266,
       "name": "The Eternal Triangle",
       "url": "https://open.spotify.com/track/68cLT7rcwLt6dW3qBxJUlD"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 431733,
+      "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
     },
     {
       "added_at": "2023-12-20 10:53:55",

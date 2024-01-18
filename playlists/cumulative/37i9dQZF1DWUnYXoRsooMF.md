@@ -4,7 +4,7 @@
 
 > Get the perfect 8 hours in with gentle Ambient and piano.
 
-166 songs - 8 hr 9 min
+168 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Chia](https://open.spotify.com/track/7kW7FXKmMzmbGvhe0FECQl) | [Marcus Rivero](https://open.spotify.com/artist/29vNrxA7CEM2eKlANyo9Yy) | [The Sudden Change](https://open.spotify.com/album/4zd9ex795plyotGggtA8w3) | 3:04 | 2023-10-02 |  |
 | [Chimaera](https://open.spotify.com/track/1zgPNzEnadYfnpkFnRYlvF) | [Obie Moody](https://open.spotify.com/artist/0hUb5NGZsfOekZxvBvySRS) | [Chimaera](https://open.spotify.com/album/5c0CFUAJszNFo5PrwXnQB3) | 2:54 | 2023-10-02 |  |
 | [Cloud Gazing](https://open.spotify.com/track/5RA07TPFsjrAR9iDR0OiHC) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Floating Free](https://open.spotify.com/album/30KgVtVeomGLqbrmwF28kn) | 2:47 | 2023-10-02 |  |
-| [Cloudless](https://open.spotify.com/track/0tE8RGc0ctX2YjN5sOIiDS) | [Devi Rubio](https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG) | [Cloudless](https://open.spotify.com/album/6VN9f0B6nSqzvulxsupGWV) | 3:44 | 2023-10-02 |  |
+| [Cloudless](https://open.spotify.com/track/0tE8RGc0ctX2YjN5sOIiDS) | [Devi Rubio](https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG) | [Cloudless](https://open.spotify.com/album/6VN9f0B6nSqzvulxsupGWV) | 3:44 | 2023-10-02 | 2024-01-18 |
 | [Codladh](https://open.spotify.com/track/06HOVRn6sWa9AhEb8vxXG9) | [Cadhla Byrne](https://open.spotify.com/artist/73717wA5LNgbEDtJ2lqSW1) | [Codladh](https://open.spotify.com/album/36QahyTumjWQ4BbUqyztrS) | 2:44 | 2023-10-02 |  |
 | [Collectively](https://open.spotify.com/track/5sUoXvIj0QKfsGRAtU8NAk) | [Haraldur Bergljót](https://open.spotify.com/artist/5lIaD8O0ZoUIS3aybgfyeO) | [Collectively](https://open.spotify.com/album/4AYdn5PDrvAi9E4Qe3HIij) | 3:17 | 2023-10-02 |  |
 | [Colors Of Tomorrow](https://open.spotify.com/track/5UkYo3mcGKkkkp9aZmPW5b) | [Camilento](https://open.spotify.com/artist/4BekYfsPtsGwVk7Jda3NqR) | [Tranquilidad](https://open.spotify.com/album/06JP68CfOlaRpwdAoSpTXG) | 3:30 | 2023-10-02 |  |
@@ -56,13 +56,14 @@
 | [Deseo](https://open.spotify.com/track/26hCpTBuCM2Irs5GW5kA9n) | [Lidia Peralta](https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80) | [Deseo](https://open.spotify.com/album/5cN5EvRniK9U7j6mooE9xf) | 2:25 | 2023-10-02 |  |
 | [Dimmed Lights](https://open.spotify.com/track/06Uu0bQNx2WMFIWY09nTxN) | [Nicolaj Stavrenko](https://open.spotify.com/artist/30C9fRGfoh7b2dg9g7coHv) | [Dimmed Lights](https://open.spotify.com/album/7ppUzYgJFMAyJDg4NgvXm8) | 2:46 | 2023-10-02 |  |
 | [Distant Dreams](https://open.spotify.com/track/05XqOIQ7J4mO4ZyOFIoz5L) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Distant Dreams](https://open.spotify.com/album/6M5JYrM1JhzIXe5vIDWZcB) | 3:59 | 2023-10-02 |  |
+| [Divine Whispers](https://open.spotify.com/track/2IsqXoqjvpSP7C9hWPXeB5) | [Mages of Chronos](https://open.spotify.com/artist/5lzhk8HAFzzDegDSBMVkxe) | [Divine Whispers](https://open.spotify.com/album/5Mdurk34BwuUmBydmCwa0E) | 2:54 | 2024-01-18 |  |
 | [Down by the Ocean](https://open.spotify.com/track/3RYqhN2wn4Qg5fwLRbCinW) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Down by the Ocean](https://open.spotify.com/album/0bTZu5D0Z4u6q6h1Rpz91b) | 2:57 | 2023-10-02 |  |
 | [Dream Reflection](https://open.spotify.com/track/7iCh93sK4It7gBOBgs8gml) | [Fabio Secci](https://open.spotify.com/artist/1hYkH9ClWy5ZfmmTTntt2K) | [Dream Reflection](https://open.spotify.com/album/2smhGM1NVKdGDEdqzMj1zT) | 3:20 | 2023-10-02 |  |
 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2023-10-02 |  |
 | [Drone](https://open.spotify.com/track/6ZRIH4QEe0sAkUCup8OmZM) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Drone](https://open.spotify.com/album/0eb5cxLBxQ6oYqT9VDwjo4) | 3:11 | 2023-10-02 |  |
 | [Droplet of Grace](https://open.spotify.com/track/3W2UlaHx93we9YqM1BvjFZ) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Droplet of Grace](https://open.spotify.com/album/2Fp93WU1JUHpRmtEknRne7) | 3:06 | 2023-10-02 |  |
 | [Eleven](https://open.spotify.com/track/2VS5gBeWwMYhrGOJAs1aYc) | [Muh Re](https://open.spotify.com/artist/4FimVNSfsYDIj9JdNq1gXe) | [11](https://open.spotify.com/album/0oAnFMLX1yGvFXAQP7Uewx) | 2:50 | 2023-10-02 |  |
-| [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2023-10-02 |  |
+| [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2023-10-02 | 2024-01-18 |
 | [Especial](https://open.spotify.com/track/6l7WoPzesqiAO6MV4s1Xsc) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Especial](https://open.spotify.com/album/0CEmX2gNW0VYv6gjgC11kD) | 2:37 | 2023-10-02 |  |
 | [Evermore](https://open.spotify.com/track/5S2fFnqCM8jYc4GL6k8dWK) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Evermore](https://open.spotify.com/album/0GqhgQEET7SJTiFydo3Svp) | 2:53 | 2023-10-02 |  |
 | [Evolving Dreams](https://open.spotify.com/track/6uFpwigsKJ1gDTaDjeabIN) | [Ty Davies](https://open.spotify.com/artist/49dSIJwjDHzmOfx4io0R49) | [Evolving Dreams](https://open.spotify.com/album/0LaiKUH0fPko6Rg84ZMAbt) | 3:07 | 2023-10-02 |  |
@@ -77,7 +78,7 @@
 | [Forms](https://open.spotify.com/track/6MePLoqcI97WjWyx5Sq2JV) | [Zonara](https://open.spotify.com/artist/66vglaSm3akRPCCPcc86mm) | [Forms](https://open.spotify.com/album/3RxxsAszW6YwW9YdPvWn8z) | 2:40 | 2023-10-02 |  |
 | [Forward Momentum](https://open.spotify.com/track/5YLpYxzjxq3lxdDGBWiGrN) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Forward Momentum](https://open.spotify.com/album/5WPJHZNoDFPsiOPNtP0F4V) | 2:47 | 2023-10-02 |  |
 | [Geteilt](https://open.spotify.com/track/2PRfOo8S4BVIw0o97yqzg2) | [Celine Brandt](https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR) | [Geteilt](https://open.spotify.com/album/5EcfZzIRB84cTt1ona18vY) | 2:36 | 2023-10-02 |  |
-| [Goa Nova](https://open.spotify.com/track/5wOcMlOLztxvP8EtoUIgqj) | [magic air\_](https://open.spotify.com/artist/4RgUVFZKgZjBTLoEr4nVhC) | [Time To See](https://open.spotify.com/album/23NMoQoPwXeQlGpB1q2zM2) | 3:18 | 2023-10-02 |  |
+| [Goa Nova](https://open.spotify.com/track/5wOcMlOLztxvP8EtoUIgqj) | [magic air\_](https://open.spotify.com/artist/4RgUVFZKgZjBTLoEr4nVhC) | [Time To See](https://open.spotify.com/album/23NMoQoPwXeQlGpB1q2zM2) | 3:18 | 2023-10-02 | 2024-01-18 |
 | [Haverzh](https://open.spotify.com/track/0GocVBngN9RHyWlfQnS4Th) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Haverzh](https://open.spotify.com/album/6Ecv6UjUXqs3fTQ5kPqGM3) | 3:07 | 2023-10-02 |  |
 | [I Believe I Can Fly](https://open.spotify.com/track/6BLpFHyW0XELB7qh45o6cI) | [Cosmic Cloak](https://open.spotify.com/artist/2oQleEdjzH9yC8cfsR8e8j) | [Floating On Clouds](https://open.spotify.com/album/5blLnf493gd6RQGPreukch) | 3:14 | 2023-10-02 |  |
 | [Imaginar](https://open.spotify.com/track/0mYZDzhKs8sa0oDsS6HSZ5) | [Chiara Nieves](https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc) | [Imaginar](https://open.spotify.com/album/5pvykd31AywUWTa9q6ktA5) | 2:24 | 2023-10-02 |  |
@@ -156,6 +157,7 @@
 | [The Light](https://open.spotify.com/track/0cJOITxJRoFwuMkP4H6v4O) | [Felix Vidal](https://open.spotify.com/artist/4VyiaHiDw8tZ2RB8gLW51A) | [The Light](https://open.spotify.com/album/4N3mQcawYnSYJPRl1LFPFV) | 2:53 | 2023-10-02 |  |
 | [The New World](https://open.spotify.com/track/0N5NNIaNs3YVhiyt22ZYhG) | [Cardi Mist](https://open.spotify.com/artist/3ddw8VOjGZrR2G6dFCjamb) | [Need Alone TIm](https://open.spotify.com/album/7aSNf0iZiUDbYUs552dVkm) | 3:14 | 2023-10-02 |  |
 | [Times of Balance](https://open.spotify.com/track/6V5tAhkj0iaXam3mPWZXHH) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Times of Balance](https://open.spotify.com/album/1GyirIxudz92CUQAp92sw0) | 2:52 | 2023-10-02 |  |
+| [Twinkle](https://open.spotify.com/track/2ycdMVR5v21EEkfm08U9Of) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Twinkle](https://open.spotify.com/album/2RpPkM7oYQ2Zt0TEW7Hs1W) | 2:33 | 2024-01-18 |  |
 | [Unavene](https://open.spotify.com/track/4dZYpUveESOpInSlQLCXVQ) | [Nova Kral](https://open.spotify.com/artist/7uawp9f3qhlML7nNn4vB4B) | [Unavene](https://open.spotify.com/album/6WBxC6LzfLMAZameTe9X6T) | 2:16 | 2023-10-02 |  |
 | [Undulating](https://open.spotify.com/track/77X5JEYLRwx9G3DCJ3PVsn) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Undulating](https://open.spotify.com/album/3I5IxqeLnS2yNYZD4z8l00) | 3:07 | 2023-10-02 |  |
 | [Unistades](https://open.spotify.com/track/5x7KQWWwQDcqvMN0HbfjfM) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Unistades](https://open.spotify.com/album/3zzLmx3Gmgis01wXxcMi9H) | 2:45 | 2023-10-02 |  |
@@ -167,7 +169,7 @@
 | [Vakna](https://open.spotify.com/track/6GFBrLr4HbsKqra7MSiluq) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Andrum](https://open.spotify.com/album/3DEAYz5dCigP164kUJU53M) | 2:24 | 2023-10-02 |  |
 | [Valour](https://open.spotify.com/track/0CWQ7BSvB1LRY1CGZGQahh) | [Amara Issawi](https://open.spotify.com/artist/2P9RNRqGbPoYGrT7wQTt8r) | [Valour](https://open.spotify.com/album/39jXvyGezU2tSWgQc6VTao) | 3:03 | 2023-10-02 |  |
 | [Virtigo](https://open.spotify.com/track/2aBV08ttf3ku43AQ2KWsgO) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [Virtigos](https://open.spotify.com/album/2UYwyV3DjoyWFguscBHtTa) | 3:10 | 2023-10-02 |  |
-| [Wandering Sadhu](https://open.spotify.com/track/2BfcCsrfgB9wH1dvdno9CY) | [Salen](https://open.spotify.com/artist/5KNC8OGbrY5TThciLb1ZpN) | [Wandering Sadhu](https://open.spotify.com/album/4KSNlLTbrSVEbPzwvd5lTM) | 3:20 | 2023-10-02 |  |
+| [Wandering Sadhu](https://open.spotify.com/track/2BfcCsrfgB9wH1dvdno9CY) | [Salen](https://open.spotify.com/artist/5KNC8OGbrY5TThciLb1ZpN) | [Wandering Sadhu](https://open.spotify.com/album/4KSNlLTbrSVEbPzwvd5lTM) | 3:20 | 2023-10-02 | 2024-01-18 |
 | [Wholeness](https://open.spotify.com/track/7hTThtkyA0rnNSgOQgoVQp) | [Monet Benitez](https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz) | [Wholeness](https://open.spotify.com/album/0raj9xIEqrKg1sRolyRuyf) | 2:38 | 2023-10-02 |  |
 | [Winter](https://open.spotify.com/track/26aVqLHRrWVeWkeDF7BcnS) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [Seasons](https://open.spotify.com/album/4q9CspBJjcPmfewtSY5tAg) | 3:20 | 2023-10-02 |  |
 | [Within Reach](https://open.spotify.com/track/3exsS4AVm9MhF7iW7R0WqT) | [Unwritten Skies](https://open.spotify.com/artist/19f60nUZGFKTsf9mhvQbtl) | [Within Reach](https://open.spotify.com/album/3wMJEOI1QZm6yFxjrXWbPR) | 2:15 | 2023-10-02 |  |

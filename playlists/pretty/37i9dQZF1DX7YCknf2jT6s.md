@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Charles Lloyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,073 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,173 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 13 | [MiNt cHoCoLaTe \(feat\. Conway the Machine\)](https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [MiNt cHoCoLaTe \(feat\. Conway The Machine\)](https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA) | 3:33 |
 | 14 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 |
 | 15 | [Stomping Gamay](https://open.spotify.com/track/3ZV8bAhDtf8zfIktp6oF6B) | [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Jahari Massamba Unit](https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj) | [Stomping Gamay](https://open.spotify.com/album/2sEcFb3cjKz2tUacORfyUg) | 4:53 |
-| 16 | [So Mi Stay](https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [So Mi Stay](https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n) | 4:20 |
+| 16 | [So Mi Stay](https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [So Mi Stay](https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n) | 4:23 |
 | 17 | [Não Ao Marco Temporal](https://open.spotify.com/track/242sgtNAjMw47sqowRPJ7s) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Não Ao Marco Temporal](https://open.spotify.com/album/4OhAAD1R2PQkCZnETwkkoz) | 3:09 |
 | 18 | [Soul Bossa Nova \(feat\. Sean Jones\)](https://open.spotify.com/track/32u3Jjd93Hkv8WBCHZlGUe) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn), [Sean Jones](https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6) | [Soul Bossa Nova \(feat\. Sean Jones\)](https://open.spotify.com/album/7guf1smuSK28a1Qt8507UT) | 4:48 |
 | 19 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [STOP CALLING ME](https://open.spotify.com/track/314r69preySjrl67vpaEI8) | [Blaque Dynamite](https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2) | [Stop Calling Me](https://open.spotify.com/album/2ku6Q6qXy6gjUSYZnXuk6B) | 5:27 |
 | 100 | [Pressure on the Pulse](https://open.spotify.com/track/40MBOllKyanYQZ8vuexEXI) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd) | 3:26 |
 
-Snapshot ID: `MCwwYmNiYWMwZWJmYjA5ZGIzNTk4MWE5M2M0MmI4ZTgzMTE2Nzc4OTk1`
+Snapshot ID: `MCxiNWI1MThiOWNjNGU4YjhhNDIxZDgyOWRhZDUwMjI2NzllOGFlZGQz`

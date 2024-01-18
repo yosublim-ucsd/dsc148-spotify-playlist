@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,262 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,295 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 30 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 |
 | 31 | [Never Be Alone \(feat\. Aloe Blacc\)](https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Never Be Alone \(feat\. Aloe Blacc\)](https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK) | 2:58 |
 | 32 | [Devotion \- 2020 Remix](https://open.spotify.com/track/039VxfSo5FErqE65169VZL) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Devotion \(2020 Remix\)](https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk) | 2:32 |
-| 33 | [Alive \(It Feels Like\)](https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Alive \(It Feels Like\)](https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk) | 2:22 |
-| 34 | [Dynamite](https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dynamite](https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW) | 2:05 |
+| 33 | [Dynamite](https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dynamite](https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW) | 2:05 |
+| 34 | [Alive \(It Feels Like\)](https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Alive \(It Feels Like\)](https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk) | 2:22 |
 | 35 | [The Age of Love 2022](https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [The Age of Love 2022](https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE) | 3:09 |
 | 36 | [Warrior](https://open.spotify.com/track/6cDVw32EV7JgKc4bJMvE5f) | [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Warrior](https://open.spotify.com/album/2Us1IQT6CnhjHuZlRUuNYF) | 2:52 |
 | 37 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 49 | [Lambada](https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Lambada](https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV) | 3:31 |
 | 50 | [Feels Like Love](https://open.spotify.com/track/5lsCfINkhQtzDgtHZfVxpP) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Club Zero Cool, Vol\. 2](https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1) | 2:22 |
 
-Snapshot ID: `MCxlN2MwZWI5NGM3NDZlODMwZWMzZmJhZmFkNzBhY2RmOGQwMzZhYWFl`
+Snapshot ID: `MCw3MjM3YmE3NjIyMjBiNmFlOTk1MDA5ZGUwMzVmYzZmMGRiYWI4YzEw`

@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-149 songs - 9 hr 45 min
+150 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [The Show Must Go On!\(Four Seasons Medley\)](https://open.spotify.com/track/2lzQ4cVAPJn7A47ZmPg0Tx) | [Mankai Company](https://open.spotify.com/artist/3iobaafFTMXhL9oAR13dFw) | [MANKAI STAGE『A3!』MANKAI Selection Vol\. 1](https://open.spotify.com/album/1DCkWDYCBus0MONVEHkNDi) | 4:06 | 2022-04-26 | 2022-07-29 |
 | [Union](https://open.spotify.com/track/5lWjB3gZdGSMNOY1AA7MDv) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Reunion](https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS) | 3:44 | 2022-07-26 |  |
 | [UNION](https://open.spotify.com/track/2Op7ZaXB0Kt5zDhetTL0ZQ) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [SSSS.GRIDMANオープニング主題歌「UNION」](https://open.spotify.com/album/3dHQ6Kdva0TkCfydkLKpoh) | 3:46 | 2022-04-26 | 2022-07-29 |
+| [WaYaWaYaWa−!](https://open.spotify.com/track/6DW1uNeINd5TFMtxx2PgKe) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [WaYaWaYaWa−!](https://open.spotify.com/album/0fdtF0qCkWuwumB8dJZh32) | 3:09 | 2024-01-16 |  |
 | [Wonder Land a Go Go!!](https://open.spotify.com/track/0y2P6ZLt3ewhDgBD8Ybemx) | [Alice \[Usui Masumi \(CV: Yuusuke Shirai\)\]](https://open.spotify.com/artist/5Rflo3TJMjUmXjgYt1ExYM), [Boushiya \[Chigasaki Itaru \(CV: Shintarou Asanuma\)\]](https://open.spotify.com/artist/4ibg0tlV3SZWdshOXet6nM) | [A3! Blooming Spring EP](https://open.spotify.com/album/4xiddRPsc2gbrNEkJaQ68H) | 3:53 | 2022-07-26 |  |
 | [あしたてんきになあれ](https://open.spotify.com/track/2EeAmGk0Q9LzCZQvm8Xeoj) | [Daisy×Daisy](https://open.spotify.com/artist/5wYga8lT3TNapDC8ciqarN) | [Dangerous×Dizzy×Daisy](https://open.spotify.com/album/4uAfCBodhPiHjU4Sd6bNYS) | 4:51 | 2022-04-26 | 2022-07-29 |
 | [おばけずかんのうた](https://open.spotify.com/track/1TgvXxbnXszwGROJiqODZO) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [おばけずかんのうた](https://open.spotify.com/album/6lCRhA93rO04PNEXL6W9AN) | 3:13 | 2022-04-26 |  |
@@ -96,7 +97,7 @@
 | [ようこそジャパリパークへ](https://open.spotify.com/track/7z0HnNeAREuJmRvQtpQIz0) | [Doubutsu Biscuits](https://open.spotify.com/artist/5S7SMGimbPWuPh2F0urDgE), [PPP](https://open.spotify.com/artist/2V17fC0iAXQ2MpOw4DPvBV) | [ようこそジャパリパークへ](https://open.spotify.com/album/2ySoProatKQk7URAGuMuQf) | 3:24 | 2022-04-26 |  |
 | [ようこそジャパリパークへ](https://open.spotify.com/track/0RZiBrdTiCVCCnFCyr68Nr) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [カバーアルバム「仮歌」](https://open.spotify.com/album/0302LeRxu3lj5CMsuyNv7o) | 3:23 | 2022-07-26 |  |
 | [ようこそジャパリパークへ](https://open.spotify.com/track/3vk351NLllggTIW4oPUQhA) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [カバーアルバム「仮歌」](https://open.spotify.com/album/0bj4Hweje0nBU1b8Abnc1H) | 3:23 | 2022-04-26 | 2022-07-29 |
-| [わやわやわー！](https://open.spotify.com/track/1Cfq2MGVnhT4ovbSRRmYab) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [わやわやわー！](https://open.spotify.com/album/4s3rWZNrEFZ3OdZrK6fTVQ) | 3:09 | 2024-01-16 |  |
+| [わやわやわー！](https://open.spotify.com/track/1Cfq2MGVnhT4ovbSRRmYab) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [わやわやわー！](https://open.spotify.com/album/4s3rWZNrEFZ3OdZrK6fTVQ) | 3:09 | 2024-01-16 | 2024-01-18 |
 | [アンサー](https://open.spotify.com/track/0h77eDK5doDdvFKRP9GgRG) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/5ZKL7tnZPYK9by71TBIOXq) | 6:26 | 2022-07-26 |  |
 | [アンサー](https://open.spotify.com/track/5m1zdht1btC8rezRu2qQ1T) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/2Cl3zwN0Bfzgzw1662zIXa) | 6:26 | 2022-04-26 | 2022-07-29 |
 | [インパーフェクト](https://open.spotify.com/track/5mqvPARzMkKIO06ZBvq0wu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [インパーフェクト](https://open.spotify.com/album/458ubOzK10el0DaV1Ud7Qp) | 3:47 | 2022-04-26 | 2022-07-29 |

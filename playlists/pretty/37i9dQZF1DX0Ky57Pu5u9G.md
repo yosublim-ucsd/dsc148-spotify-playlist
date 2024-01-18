@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 
 > Listen to all of the music from the Sing movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,198 likes - 67 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,355 likes - 67 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 | 29 | [Listen To The Music \- Spanish / English Version / From"Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1vXErsG0Xljbr6P0xvk4lg) | [Tiki Pasillas](https://open.spotify.com/artist/71CwQ1bVQaUFTuAHafa7TE) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:15 |
 | 30 | [Break Free \(with Nick Kroll\)](https://open.spotify.com/track/68GivR8VOfoNadF5qynqxa) | [Reese Witherspoon](https://open.spotify.com/artist/5V8q61RswIFvxhIfzYVew9), [Nick Kroll](https://open.spotify.com/artist/54wmKAtAAWcMLCJYzmU5ih) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 1:34 |
 | 31 | [The Wind \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/5qD9xGtes8gtSrPRF6qW48) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 1:43 |
-| 32 | [The Way I Feel Inside](https://open.spotify.com/track/69GPTeIbtyU1Vd1NPYX95k) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw) | 1:48 |
+| 32 | [The Way I Feel Inside](https://open.spotify.com/track/4LxeKPgKy1l37g2vTM77Mu) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ) | 1:51 |
 | 33 | [My Way \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/0vbAosWswEidRk9OIgcje4) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 4:16 |
 | 34 | [Sing 2 Audition Medley](https://open.spotify.com/track/63hsC2SThBPalMWwShDq2Q) | [Sing 2 Cast](https://open.spotify.com/artist/3UX8alMeNzw4otaIf0tOcc) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 1:47 |
 | 35 | [OH.MY.GOSH \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/7G2ngpelFIxPCsEodpA8uP) | [Bunnies](https://open.spotify.com/artist/4ayPzUcc5o5R0kpzcofJHV) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:11 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 | 66 | [Out to Lunch \(End Titles\)](https://open.spotify.com/track/1XqKJRvvmU8xrNYkzMSITv) | [Joby Talbot](https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5) | [Sing \(Original Motion Picture Score\)](https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa) | 4:24 |
 | 67 | [Visiting Nana \(Eddie's Tune\)](https://open.spotify.com/track/2bgzgTD3qybYR2FPirkkH8) | [Joby Talbot](https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5) | [Sing \(Original Motion Picture Score\)](https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa) | 1:06 |
 
-Snapshot ID: `MCxmZTE1ZTQ4MjQ3YzRjMDk4MWFhMTczYTJkODc3ZmEzYmE5YWFiM2Jk`
+Snapshot ID: `MCw0NWIwZWRkMGMyOThjMDhkZjk5NzI4MDhjN2E3MDExMTAwNzAzNTJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,611 likes - 49 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,642 likes - 49 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 11 | [Big Time Sensuality](https://open.spotify.com/track/6K0g7J6sKHwvDF6b2KGN3t) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa) | 3:56 |
 | 12 | [Hunter](https://open.spotify.com/track/0zQnCy0NCcBmQcsl2PBNE3) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 4:15 |
 | 13 | [Frosti](https://open.spotify.com/track/7pLQIIweYDsmfwgf5xaGrq) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 1:41 |
-| 14 | [Isobel](https://open.spotify.com/track/1qyD5xpCI53VtITnxwB5Xn) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 5:47 |
+| 14 | [Possibly Maybe](https://open.spotify.com/track/1F4JhiiFTGgga9tC5UuN5v) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 5:06 |
 | 15 | [Come To Me](https://open.spotify.com/track/0bHpsorTpt9wX6Dkr2LEfg) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa) | 4:55 |
 | 16 | [Unravel](https://open.spotify.com/track/7l3AN8XtVIdfc0yxmoQ1Xg) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 3:21 |
 | 17 | [Hidden Place](https://open.spotify.com/track/4c6LgotpKGB791EsNeu9gr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 5:29 |
-| 18 | [Possibly Maybe](https://open.spotify.com/track/1F4JhiiFTGgga9tC5UuN5v) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 5:06 |
+| 18 | [Isobel](https://open.spotify.com/track/1qyD5xpCI53VtITnxwB5Xn) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 5:47 |
 | 19 | [Play Dead \- Tim Simenon 7" Remix](https://open.spotify.com/track/0Yf5QZuSwH3LUlzEWGdP1x) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE), [Tim Simenon](https://open.spotify.com/artist/2yzxPcfb8JjrKKCIiLGWQW) | [Debut](https://open.spotify.com/album/4ORsCg1x8p80RfW0vXA35N) | 3:56 |
 | 20 | [Pluto](https://open.spotify.com/track/6aJIbT3rh6jF9xqM2hBLel) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 3:19 |
 | 21 | [Cocoon](https://open.spotify.com/track/46qr02ktTNzOwJAqiQg8gv) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 4:28 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 27 | [Atopos](https://open.spotify.com/track/6CHhrFW3XkOy3UfZnLck2g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 4:46 |
 | 28 | [Oceania](https://open.spotify.com/track/4aQGlcbxrtsDRo8JvMUDC5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 3:24 |
 | 29 | [Sun In My Mouth](https://open.spotify.com/track/3EjTqXJF3xuaEYplpcPQYw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 2:40 |
-| 30 | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/track/6wfnKqy0C9xUrxZVgzHz8C) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/1ljK6QlQ1cFgK46R5QIMVV) | 3:44 |
-| 31 | [I’ve Seen It All](https://open.spotify.com/track/4jF3THVe40jCfgMXOWS5C0) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/7r2Viryrm2jIyfb7XcFe20) | 5:29 |
+| 30 | [I’ve Seen It All](https://open.spotify.com/track/4jF3THVe40jCfgMXOWS5C0) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/7r2Viryrm2jIyfb7XcFe20) | 5:29 |
+| 31 | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/track/6wfnKqy0C9xUrxZVgzHz8C) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/1ljK6QlQ1cFgK46R5QIMVV) | 3:44 |
 | 32 | [Fagurt Er í Fjörðum](https://open.spotify.com/track/7sxmybK8Eo24k9uOWttqWS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 0:44 |
 | 33 | [I Remember You](https://open.spotify.com/track/1F3BNDJwq2q0yWHH0a3YV9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Venus As A Boy](https://open.spotify.com/album/5qSFDaRhhU16dPjwqONHjL) | 4:13 |
 | 34 | [Crystalline](https://open.spotify.com/track/4a26gjktpS0Yoh8bLiwkUT) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia](https://open.spotify.com/album/5GV4CBWPqU7P05KUaKyDZ1) | 5:08 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 48 | [When the World Comes to an End](https://open.spotify.com/track/09TNNle5fDBPUtLpO6a7BK) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 3:08 |
 | 49 | [Black Lake](https://open.spotify.com/track/7McqTkJc3laznwCoQXKxFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 10:08 |
 
-Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDA1OGY4ZTNjZTM5M2VlMzJiYjg4MWRmOTZhOWNjYjRmNQ==`
+Snapshot ID: `Mjg0MjQ4NzgsMDAwMDAwMDBmMTA2ZmU4MzliNWEwNGMwOGY1YzZjNThiZmE1MDA2Yw==`

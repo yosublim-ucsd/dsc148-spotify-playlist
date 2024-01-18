@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,608 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,549 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 8 | [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 |
 | 9 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 10 | [Kimosabè](https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC) | 4:36 |
-| 11 | [Treasure](https://open.spotify.com/track/0R81IMaZQhGFFvAmAQFRUG) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [Treasure](https://open.spotify.com/album/389KWBHLq0wKHnACVK52cQ) | 7:43 |
+| 11 | [Treasure](https://open.spotify.com/track/0R81IMaZQhGFFvAmAQFRUG) | [JJ Scheff](https://open.spotify.com/artist/141tcOWMyJ0Lt7M5AclQPh) | [Treasure](https://open.spotify.com/album/389KWBHLq0wKHnACVK52cQ) | 7:43 |
 | 12 | [Two Generations of Excess](https://open.spotify.com/track/3yNBnPv3JbGxGvTiIhndvx) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3) | 7:26 |
 | 13 | [All I Have](https://open.spotify.com/track/0vEcgIXyjgWCLTYiu01G3p) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [We Can Go Anywhere From Here](https://open.spotify.com/album/1ndEe4zbpgT4br8JgV6Az7) | 4:18 |
 | 14 | [Dime \(with Conexión Divina\)](https://open.spotify.com/track/0RUEaNVgRbaj8Mm1qPaHri) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Dime \(with Conexión Divina\)](https://open.spotify.com/album/62LsTv9SDFBUihRPwVUsLr) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Petroglyph](https://open.spotify.com/track/2bzAmBp07YEFIxoc202Ug9) | [Vinyl Williams](https://open.spotify.com/artist/7GJ7lI9jmrNOuxBEcNQHPT) | [Petroglyph](https://open.spotify.com/album/1FUdKikHCOSBLxpSlR11nO) | 4:33 |
 | 100 | [Crushxd](https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crushxd](https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo) | 3:06 |
 
-Snapshot ID: `MCxmMzBkYTI1ZDg1ODc4N2IzZjM5YzVhZGJmZjllNmYyYTE5MmQwYWYx`
+Snapshot ID: `MCw2MDU3NDllNDVlNjhlZDkwOGY3MDJlNzMzODg4M2I4NjJiYmU5ODI4`

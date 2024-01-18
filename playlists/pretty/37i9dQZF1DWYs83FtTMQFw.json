@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks of today ft. Nicki Minaj, Jack Harlow, Drake and more.",
-  "num_followers": 2267731,
+  "num_followers": 2268077,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDM5MDdhZGRiOWYyMDYwODFkZWM0YWUzMjdhMjFiMWIwMzNmYTg0",
+  "snapshot_id": "MCwzM2RkNmE0MTRkMjU3ZmY3YzRlYTMxMGFlZWNiYjUxMTY1M2Q1Mzhm",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -96,12 +96,12 @@
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         },
         {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
-        },
-        {
           "name": "Tommy Newport",
           "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
         }
       ],
       "duration_ms": 176835,

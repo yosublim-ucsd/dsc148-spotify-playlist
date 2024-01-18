@@ -7863,6 +7863,24 @@
     },
     {
       "album": {
+        "name": "nitari",
+        "url": "https://open.spotify.com/album/17ecQayWxTwcz9o25u8HHE"
+      },
+      "artists": [
+        {
+          "name": "Singer's High",
+          "url": "https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163285,
+      "name": "nitari",
+      "url": "https://open.spotify.com/track/1ZKoFnft58Ak3jujRlUGJQ"
+    },
+    {
+      "album": {
         "name": "No Frontier",
         "url": "https://open.spotify.com/album/5zYmpnx6MQc9OuV5qGcb8u"
       },
@@ -10856,6 +10874,28 @@
       "duration_ms": 217609,
       "name": "Suki ni Naccha Dame na Hito",
       "url": "https://open.spotify.com/track/4qnO8leJ0xIAvEkEnYB4nu"
+    },
+    {
+      "album": {
+        "name": "SUKIGA LEVECHI ENDING THEME FROM TV SERIES \u201dVILLAINESS LEVEL 99\u201d",
+        "url": "https://open.spotify.com/album/4QEEudQNmzg2OKasfWL2Gx"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30ec\u30ce\u30fc\u30e9\u30fb\u30d2\u30eb\u30ed\u30fc\u30ba\uff08CV:\u65e5\u9ad8\u91cc\u83dc\uff09",
+          "url": "https://open.spotify.com/artist/6MJocx3PKQylQPpnzDCjpI"
+        },
+        {
+          "name": "\u30e6\u30df\u30a8\u30e9\u30fb\u30c9\u30eb\u30af\u30cd\u30b9\uff08CV:\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044\uff09",
+          "url": "https://open.spotify.com/artist/2qMDA1zWEYIMA6Y0U8gJDp"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "SUKIGA LEVECHI",
+      "url": "https://open.spotify.com/track/0J12Ou3SAblEYLhG4y4t93"
     },
     {
       "album": {
@@ -16052,7 +16092,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 163285,
       "name": "\u30cb\u30bf\u30ea",
       "url": "https://open.spotify.com/track/0G8ErkrQkzU6usCXnly1Ge"
@@ -18648,7 +18688,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 234000,
       "name": "\u597d\u304d\u304c\u30ec\u30d9\u30c1",
       "url": "https://open.spotify.com/track/2fqjYciVSgP06JQK14bT6v"

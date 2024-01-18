@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,853 likes - 74 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,843 likes - 74 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2) | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE) | 3:55 |
 
-Snapshot ID: `MCw3NWI5ZTFjZWI2NjlkY2M2ZDc0YmZjZGZlYzUyODNhOTI2OTk1YzZm`
+Snapshot ID: `MCxmOTdlNjdmNzllYWJjZTNiM2M0NjVmMWRhMDIwMTkzMzgwZGQyZTYx`

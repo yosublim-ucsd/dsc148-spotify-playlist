@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-584 songs - 1 day 6 hr 28 min
+585 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Best Thing](https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [S.O.L.A.R.](https://open.spotify.com/album/0oIztouqTB4rZYosZ8zh87) | 3:08 | 2021-12-15 | 2022-03-26 |
 | [Bestie](https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Bestie](https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE) | 2:54 | 2023-09-08 |  |
 | [Better Than Him](https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP) | 3:49 | 2023-01-06 | 2024-01-12 |
+| [Better Than Him](https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/2c8uHecoqDsOG1Exs7W9TC) | 3:49 | 2023-01-06 |  |
 | [Big Vibez](https://open.spotify.com/track/7a1ICdYKiQPHYmxH740gfM) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Big Vibez](https://open.spotify.com/album/7xO5Ggc0dlOfWwxy0a1kZB) | 2:46 | 2023-03-24 | 2023-08-26 |
 | [BILL$](https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:23 | 2022-08-05 | 2023-03-18 |
 | [Birthday Girl](https://open.spotify.com/track/4AmxBBozDJDeNcsPMcLrTq) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Birthday Girl](https://open.spotify.com/album/1KfH7Htcq4ck6JNVZrozUa) | 2:23 | 2022-11-11 | 2022-12-03 |
@@ -578,7 +579,7 @@
 | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/album/7qSxPZiS8uO3QTELEUvFKB) | 2:27 | 2023-01-27 | 2023-03-18 |
 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 | 2023-04-21 |  |
 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 | 2021-12-15 | 2022-10-29 |
-| [Worked Up](https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Forgotten Flowers](https://open.spotify.com/album/1fqJVOKRj2A4nBmVAoDFLK) | 3:10 | 2023-03-17 |  |
+| [Worked Up](https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Forgotten Flowers](https://open.spotify.com/album/1fqJVOKRj2A4nBmVAoDFLK) | 3:10 | 2023-03-17 | 2024-01-18 |
 | [World In My Hands](https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [World In My Hands](https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT) | 3:14 | 2023-02-24 | 2023-10-07 |
 | [Worst \(I Assume\)](https://open.spotify.com/track/6LUHCk4qqqupsz0yF48Opr) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Worst \(I Assume\)](https://open.spotify.com/album/0bHH4umiElJUvPIvqrQVfA) | 3:07 | 2021-12-15 | 2022-07-28 |
 | [Worth It](https://open.spotify.com/track/7yeAu4xPWoTOGwQlQpgNZA) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Worth It](https://open.spotify.com/album/4gA30BEiTEYzHesXLSBbJc) | 4:18 | 2021-12-15 | 2022-06-11 |

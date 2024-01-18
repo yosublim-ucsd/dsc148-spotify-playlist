@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Céline Dion
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,243 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,244 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 42 | [BODY CAN'T LIE](https://open.spotify.com/track/5VUU5lyaTnxLbJqSZ4BKiS) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [BODY CAN'T LIE](https://open.spotify.com/album/68BwvNBTHqF495u9xfBJkG) | 2:36 |
 | 43 | [Laundromat](https://open.spotify.com/track/1MpiwzFEhTSJWmwRSGmJLm) | [Tianda](https://open.spotify.com/artist/7eGlkTSrit8XlsDZkE2BmP) | [Welcome To Tiandaland](https://open.spotify.com/album/5GLSYFIWr5b0HZFImGE7TE) | 2:29 |
 | 44 | [James](https://open.spotify.com/track/2GrfoVdCzkpPx9lRQeyqxV) | [Kibra](https://open.spotify.com/artist/1azZAzHXRb5ZFaA9Z2fULP) | [James](https://open.spotify.com/album/6OveOY7IW1yjLy92WrPgSh) | 3:10 |
-| 45 | [Affinity](https://open.spotify.com/track/4Y34P7ZotrjriguKE72lGy) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Affinity](https://open.spotify.com/album/2fBVGKUGraX7O3ieTk0BoV) | 2:46 |
-| 46 | [VIAUVILLE](https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [VIAUVILLE](https://open.spotify.com/album/6sKwsxSZk7W17bbYE7jwf6) | 4:28 |
-| 47 | [Out Of Mine](https://open.spotify.com/track/6HxbpPfwzMNU4Cewe4z6wI) | [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov) | [Out Of Mine](https://open.spotify.com/album/3GpvgbLFcEXNKFAOzOQ5yS) | 3:19 |
-| 48 | [cry baby](https://open.spotify.com/track/37lCmiRvR1tnyLDLc51vDy) | [nicole amoroso](https://open.spotify.com/artist/1YJQ6X2HtbL1xNTfPm0Ft7) | [cry baby](https://open.spotify.com/album/00ipBVb0eJJUtLj5aBf0y7) | 2:55 |
-| 49 | [Luv Myself](https://open.spotify.com/track/47bBi3ZhCoj3KzwBcimVJi) | [RICHIE ALLYIAH](https://open.spotify.com/artist/0E2stfGedQUtahECN29XA4) | [Luv Myself](https://open.spotify.com/album/5nYKZ2yIF5LQIpfENDELyn) | 3:26 |
-| 50 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
+| 45 | [VIAUVILLE](https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [VIAUVILLE](https://open.spotify.com/album/6sKwsxSZk7W17bbYE7jwf6) | 4:28 |
+| 46 | [Out Of Mine](https://open.spotify.com/track/6HxbpPfwzMNU4Cewe4z6wI) | [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov) | [Out Of Mine](https://open.spotify.com/album/3GpvgbLFcEXNKFAOzOQ5yS) | 3:19 |
+| 47 | [cry baby](https://open.spotify.com/track/37lCmiRvR1tnyLDLc51vDy) | [nicole amoroso](https://open.spotify.com/artist/1YJQ6X2HtbL1xNTfPm0Ft7) | [cry baby](https://open.spotify.com/album/00ipBVb0eJJUtLj5aBf0y7) | 2:55 |
+| 48 | [Luv Myself](https://open.spotify.com/track/47bBi3ZhCoj3KzwBcimVJi) | [RICHIE ALLYIAH](https://open.spotify.com/artist/0E2stfGedQUtahECN29XA4) | [Luv Myself](https://open.spotify.com/album/5nYKZ2yIF5LQIpfENDELyn) | 3:26 |
+| 49 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
 
-Snapshot ID: `MCxkOGQzZGRhMTZmNjRiMGVlYmE1ZDY1NWNjMmQ4MmVhNzM0YjhiMWE2`
+Snapshot ID: `MCw1MTA3MzE0YTJhNGVkZmQ3YTllMDM5NWUyZjQwNGRjNzY5MzQ2Y2Y3`

@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 545,
+  "2024-01-18": 545,
   "date_first_scraped": "2023-05-06",
   "description": "This is Germaine Franco. The essential tracks, all in one playlist.",
   "name": "This Is Germaine Franco",
@@ -227,7 +227,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 83933,
       "name": "Bathtime For George",
       "url": "https://open.spotify.com/track/5gC6iFS2NwrnVDL5L6rToz"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 79426,
       "name": "Cowboys Don't Quit",
       "url": "https://open.spotify.com/track/4jKqRwLiOCpxQqRpp7uwf0"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 58280,
       "name": "Mothers And Cubs",
       "url": "https://open.spotify.com/track/5XQeNQZghhyQYku8I7asKd"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 40973,
       "name": "Riding Into the Sunset",
       "url": "https://open.spotify.com/track/1E9wL6Fko0s380amDh51T0"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 121346,
       "name": "Summer Passes Into Autumn",
       "url": "https://open.spotify.com/track/4XuC1b3xLK3O2zmFppHRwc"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 140160,
       "name": "Ted's Stuck In A Tree",
       "url": "https://open.spotify.com/track/4D7Pmj4rFZi90cXYTcrnun"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 64986,
       "name": "Toughen Up Jordan",
       "url": "https://open.spotify.com/track/1BwHJRlwTES1XqLYUm42gf"
@@ -1879,7 +1879,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 68800,
       "name": "Who's Your Birth Mother?",
       "url": "https://open.spotify.com/track/3FaAsdxaiJZVQy72trr8ka"
@@ -1897,7 +1897,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 175466,
       "name": "Win And Still Be Me",
       "url": "https://open.spotify.com/track/5pGZTHvOc8gs1bN8xdYrmW"
@@ -1919,6 +1919,24 @@
       "duration_ms": 124306,
       "name": "Winter Passes Into Spring",
       "url": "https://open.spotify.com/track/7E0rakzFoaTjGlVGqmfPBQ"
+    },
+    {
+      "album": {
+        "name": "Little (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100706,
+      "name": "Wish You Were Little",
+      "url": "https://open.spotify.com/track/7EqHX50uUoegBKRFBbGepr"
     },
     {
       "album": {

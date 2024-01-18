@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 > Its pop punk, its the best
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 44,129 likes - 77 songs - 4 hr 23 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 44,126 likes - 78 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,6 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 | 75 | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv) | 3:20 |
 | 76 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/6l70xzvmZdAJnM41s0iPDD) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:27 |
 | 77 | [Choke](https://open.spotify.com/track/4oOXPnAj2sSmybT9aaYsHC) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Mend, Move On](https://open.spotify.com/album/4bFdLj8gRfj2BnAtVuGGbc) | 1:01 |
+| 78 | [Over 'N' Over](https://open.spotify.com/track/5SyYMNUvjzdAGMzKgdyCx8) | [Spirit Weak](https://open.spotify.com/artist/1KHc3JjAjl9czNUb8mHRX3) | [Over 'N' Over](https://open.spotify.com/album/3lmZq5IQ3OyAL5cDcsoa2p) | 3:03 |
 
-Snapshot ID: `Njc5NCwwMjI0ZTdiZTkxZjNkZjBjMTJhZTVhMzM0NjcyNTI5NThkZGQ5YWNk`
+Snapshot ID: `Njc5NSw0Nzk3NDhlZWEzZjQ2ZTVjYmM0ZGViNWM2YWQ2Nzg5ZDJjMGMyNTE5`

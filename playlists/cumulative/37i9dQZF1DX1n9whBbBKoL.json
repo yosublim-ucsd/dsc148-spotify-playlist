@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Angelic Spaces",
+        "url": "https://open.spotify.com/album/0Na5e10kAhbEWpStQ1wmPB"
+      },
+      "artists": [
+        {
+          "name": "unvrsl frqncy",
+          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138250,
+      "name": "Angelic Spaces",
+      "url": "https://open.spotify.com/track/54neOde1RbPnHN0jvhc3Bb"
+    },
+    {
+      "album": {
         "name": "Annashuwa",
         "url": "https://open.spotify.com/album/0nJZwim2ChJLwgnr6xo4PR"
       },
@@ -546,6 +564,24 @@
       "duration_ms": 148607,
       "name": "Binaural Beta Sinus 300 Hz - 330 Hz",
       "url": "https://open.spotify.com/track/36IfppbuhVOH1pSRQucbts"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Sleep 80Hz - 86Hz",
+        "url": "https://open.spotify.com/album/7uiagaBEo11mYqQq7fc9oL"
+      },
+      "artists": [
+        {
+          "name": "Zeta Loxi",
+          "url": "https://open.spotify.com/artist/7BvP1SJxIHUPDY2b35JgPL"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128580,
+      "name": "Binaural Theta Sleep 80Hz - 86Hz",
+      "url": "https://open.spotify.com/track/5dfd9LRSjGs4oLTWb7z12A"
     },
     {
       "album": {
@@ -1248,6 +1284,24 @@
       "duration_ms": 197333,
       "name": "Dust",
       "url": "https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G"
+    },
+    {
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/103Ei0O61EuLk5cnadIT0t"
+      },
+      "artists": [
+        {
+          "name": "Crystallinum",
+          "url": "https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184250,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/1DFn1WHnPSr80WSKNJcdWG"
     },
     {
       "album": {

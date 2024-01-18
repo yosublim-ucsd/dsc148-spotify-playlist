@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 30715,
+  "num_followers": 30819,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2JkYTZhYjU1OTdhMjJmNThjYmRiOTMxNWUyMWQzYmJhYzk2NGY1",
+  "snapshot_id": "MCxmYjM1MTI4MzMwYTI2MWFhMTFiYmI2YjM5NDQ0NzhhZmY0ODVhNmY0",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Justo a Tiempo",
-        "url": "https://open.spotify.com/album/5gWA8WBPHPbuQKzndxnFSc"
-      },
-      "artists": [
-        {
-          "name": "Banda Estrellas De Sinaloa De German Lizarraga",
-          "url": "https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Pavido Navido",
-      "url": "https://open.spotify.com/track/4TCyAMh1wveeFD1lFVAvIY"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 208875,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Justo a Tiempo",
+        "url": "https://open.spotify.com/album/5gWA8WBPHPbuQKzndxnFSc"
+      },
+      "artists": [
+        {
+          "name": "Banda Estrellas De Sinaloa De German Lizarraga",
+          "url": "https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Pavido Navido",
+      "url": "https://open.spotify.com/track/4TCyAMh1wveeFD1lFVAvIY"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -543,8 +543,8 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+        "name": "El Novillo Despuntado / Toro Pinto",
+        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
         }
       ],
-      "duration_ms": 199307,
-      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
-      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
+      "duration_ms": 277796,
+      "name": "El Novillo Despuntado / Toro Pinto",
+      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -675,8 +675,8 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "El Novillo Despuntado / Toro Pinto",
-        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
         }
       ],
-      "duration_ms": 277796,
-      "name": "El Novillo Despuntado / Toro Pinto",
-      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
+      "duration_ms": 199307,
+      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
+      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Se Les Pel\u00f3 Baltazar",
-        "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Romero",
-          "url": "https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Peque\u00f1a de Ojos Brujos",
-      "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Estabas T\u00fa",
         "url": "https://open.spotify.com/album/7Hs7cWNemcy8goTydz5pW0"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 153066,
       "name": "El Cable",
       "url": "https://open.spotify.com/track/5DTyBCIE6H6exUdve72eZh"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Se Les Pel\u00f3 Baltazar",
+        "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Romero",
+          "url": "https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Peque\u00f1a de Ojos Brujos",
+      "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -951,18 +951,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Mas Zacatecano Que Nunca",
-        "url": "https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH"
+        "name": "La Mariquita",
+        "url": "https://open.spotify.com/album/0GOqWn6wVT5MgFJtuPMOKZ"
       },
       "artists": [
         {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        },
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
         }
       ],
-      "duration_ms": 154266,
-      "name": "Zapateando Con La Banda",
-      "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
+      "duration_ms": 198665,
+      "name": "La Mariquita",
+      "url": "https://open.spotify.com/track/1YIYdQ8yVTH2ER7Dko6n1j"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -983,22 +987,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "La Mariquita",
-        "url": "https://open.spotify.com/album/0GOqWn6wVT5MgFJtuPMOKZ"
+        "name": "Mas Zacatecano Que Nunca",
+        "url": "https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        },
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
         }
       ],
-      "duration_ms": 198665,
-      "name": "La Mariquita",
-      "url": "https://open.spotify.com/track/1YIYdQ8yVTH2ER7Dko6n1j"
+      "duration_ms": 154266,
+      "name": "Zapateando Con La Banda",
+      "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
     },
     {
       "added_at": "2022-08-02 22:31:47",

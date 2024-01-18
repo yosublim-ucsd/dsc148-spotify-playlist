@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: JINBO, Hersh, PoPoMo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,324 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,356 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [DAY N NIGHT](https://open.spotify.com/track/7mf5QqTBynvYLk3bASLVJh) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [DAY N NIGHT](https://open.spotify.com/album/7eovAYPFqZattIUZ1vsNkh) | 3:07 |
 | 50 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 |
 
-Snapshot ID: `MCwxYjhiMGMyNGIwMWNlZWYwODgyYzNmMTNkMDBiMWE2MGJlNzNkYjdl`
+Snapshot ID: `MCwxODI3YjU4M2ZiMTkwZjAwOTg1ZTk3NWVmZDEyZTYyYzJmMThmYjA2`

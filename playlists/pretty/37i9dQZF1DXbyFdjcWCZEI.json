@@ -1,12 +1,12 @@
 {
   "description": "Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.",
-  "num_followers": 19528,
+  "num_followers": 19580,
   "original_name": "Caminata playera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTg5MjQxNmQ2MzMyMmQ4ZDljMzg4OWNiOTZmOWUxZjgzOTA0MjM2",
+  "snapshot_id": "MCwwNGM2Nzc0NWUyNDU1MjNjYmE3MmU0MzA4MjhmNTgzOTIyODQxZTEy",
   "tracks": [
     {
       "added_at": "2024-01-12 16:15:40",
@@ -23,6 +23,26 @@
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "added_at": "2024-01-12 16:15:40",
+      "album": {
+        "name": "Caja de M\u00fasica",
+        "url": "https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 260079,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk"
     },
     {
       "added_at": "2024-01-12 16:15:40",
@@ -47,26 +67,6 @@
       "duration_ms": 226082,
       "name": "TOCO Y ME VOY",
       "url": "https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV"
-    },
-    {
-      "added_at": "2024-01-12 16:15:40",
-      "album": {
-        "name": "Caja de M\u00fasica",
-        "url": "https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 260079,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk"
     },
     {
       "added_at": "2024-01-12 16:15:40",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-01-12 16:15:40",
       "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 302731,
-      "name": "El Farolito (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy"
-    },
-    {
-      "added_at": "2024-01-12 16:15:40",
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 188742,
       "name": "DOM1NGO",
       "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
+    },
+    {
+      "added_at": "2024-01-12 16:15:40",
+      "album": {
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 302731,
+      "name": "El Farolito (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy"
     },
     {
       "added_at": "2024-01-12 16:15:40",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-01-12 16:15:40",
       "album": {
+        "name": "Mundo Debajo del Mundo",
+        "url": "https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 176270,
+      "name": "Desaprender",
+      "url": "https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ"
+    },
+    {
+      "added_at": "2024-01-12 16:15:40",
+      "album": {
         "name": "Pa La Playita",
         "url": "https://open.spotify.com/album/1bDDpIDQCKSB9J46d5fpcP"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2024-01-12 16:15:40",
       "album": {
-        "name": "Mundo Debajo del Mundo",
-        "url": "https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 176270,
-      "name": "Desaprender",
-      "url": "https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ"
-    },
-    {
-      "added_at": "2024-01-12 16:15:40",
-      "album": {
         "name": "La Posada",
         "url": "https://open.spotify.com/album/2E2xpaPWc5UCegjbrwai8h"
       },
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-01-12 16:15:40",
       "album": {
-        "name": "Nuez",
-        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 212698,
-      "name": "Nuez",
-      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
-    },
-    {
-      "added_at": "2024-01-12 16:15:40",
-      "album": {
         "name": "ESTO NO TIENE NADA QUE VER CON eduardo",
         "url": "https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 204506,
       "name": "HOY SOMOS NUEVOS SERES (MASTER 2)",
       "url": "https://open.spotify.com/track/4xvItApfGEtsIs8zY8BrEX"
+    },
+    {
+      "added_at": "2024-01-12 16:15:40",
+      "album": {
+        "name": "Nuez",
+        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
     },
     {
       "added_at": "2024-01-12 16:15:40",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-01-12 16:15:40",
       "album": {
-        "name": "Pu\u00f1al",
-        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Soltar",
-      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
-    },
-    {
-      "added_at": "2024-01-12 16:15:40",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 156738,
       "name": "Nena, dime algo.",
       "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
+    },
+    {
+      "added_at": "2024-01-12 16:15:40",
+      "album": {
+        "name": "Pu\u00f1al",
+        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Soltar",
+      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
     },
     {
       "added_at": "2024-01-12 16:15:40",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-01-12 16:15:40",
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
+    },
+    {
+      "added_at": "2024-01-12 16:15:40",
+      "album": {
         "name": "Besos, Lim\u00f3n y Miel",
         "url": "https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 152471,
       "name": "Pinta Nom\u00e1'",
       "url": "https://open.spotify.com/track/7hKeOkbGPGwek3SNY4NOZu"
-    },
-    {
-      "added_at": "2024-01-12 16:15:40",
-      "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2024-01-12 16:15:40",

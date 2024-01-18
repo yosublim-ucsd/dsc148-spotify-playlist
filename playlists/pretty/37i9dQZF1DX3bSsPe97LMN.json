@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. 3 Caleb en portada.",
-  "num_followers": 59465,
+  "num_followers": 59490,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGEyODcxZGI1NDI5MTZlZThjOWNlNTc4MzIxODNlNDdkZTM4ODhh",
+  "snapshot_id": "MCxhMjliZjZjZDM2MjRkNGQwOGRiZTY4ZGRhNGNhNzY3OGVlNzc1ZWQ4",
   "tracks": [
     {
       "added_at": "2023-12-15 06:00:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Alucin-ando",
-        "url": "https://open.spotify.com/album/02bJTDJPcfyUH53QxqWfVo"
-      },
-      "artists": [
-        {
-          "name": "Alain Manases",
-          "url": "https://open.spotify.com/artist/32QFBnDMzuyPeMAYpTSyLb"
-        }
-      ],
-      "duration_ms": 163317,
-      "name": "Alucin-ando",
-      "url": "https://open.spotify.com/track/2Uv2x4gbt51VV4eS6b1Cxm"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Humo Trankilizante",
         "url": "https://open.spotify.com/album/7aHluAmtObnVhmbEyjYeqs"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 152380,
       "name": "Humo Trankilizante",
       "url": "https://open.spotify.com/track/3JYtGA0di1b9DHvG6j7fcJ"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Alucin-ando",
+        "url": "https://open.spotify.com/album/02bJTDJPcfyUH53QxqWfVo"
+      },
+      "artists": [
+        {
+          "name": "Alain Manases",
+          "url": "https://open.spotify.com/artist/32QFBnDMzuyPeMAYpTSyLb"
+        }
+      ],
+      "duration_ms": 163317,
+      "name": "Alucin-ando",
+      "url": "https://open.spotify.com/track/2Uv2x4gbt51VV4eS6b1Cxm"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "La Ni\u00f1a Del Instagram",
-        "url": "https://open.spotify.com/album/393GPWJ8CE4UjBLMXEhSZr"
-      },
-      "artists": [
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
-        }
-      ],
-      "duration_ms": 228893,
-      "name": "La Ni\u00f1a Del Instagram",
-      "url": "https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Sin Rencor Ni Mal De Amores",
         "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 198591,
       "name": "Sin Rencor Ni Mal De Amores",
       "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "La Ni\u00f1a Del Instagram",
+        "url": "https://open.spotify.com/album/393GPWJ8CE4UjBLMXEhSZr"
+      },
+      "artists": [
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        }
+      ],
+      "duration_ms": 228893,
+      "name": "La Ni\u00f1a Del Instagram",
+      "url": "https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "C\u00f3mo Poder Olvidarte",
-        "url": "https://open.spotify.com/album/273EJtAWuOPIOYmEnXyZN9"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "Como Poder Olvidarte",
-      "url": "https://open.spotify.com/track/0XTJeOTpUs02t0786QsUXz"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "A 150",
         "url": "https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC"
       },
@@ -539,6 +523,42 @@
       "duration_ms": 148317,
       "name": "A 150",
       "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "C\u00f3mo Poder Olvidarte",
+        "url": "https://open.spotify.com/album/273EJtAWuOPIOYmEnXyZN9"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "Como Poder Olvidarte",
+      "url": "https://open.spotify.com/track/0XTJeOTpUs02t0786QsUXz"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "No He Parado",
+        "url": "https://open.spotify.com/album/0fTbXfGHSfS0Aq8JCqysdZ"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        },
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 143172,
+      "name": "No He Parado",
+      "url": "https://open.spotify.com/track/5JiK07lh0kf80tyy1d9j9S"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -575,26 +595,6 @@
       "duration_ms": 190466,
       "name": "T\u00fa Te Mereces",
       "url": "https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "No He Parado",
-        "url": "https://open.spotify.com/album/0fTbXfGHSfS0Aq8JCqysdZ"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        },
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 143172,
-      "name": "No He Parado",
-      "url": "https://open.spotify.com/track/5JiK07lh0kf80tyy1d9j9S"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Gallo y Mi Cuerno",
-        "url": "https://open.spotify.com/album/76uSaPvd5aVD1TBzrQG39S"
-      },
-      "artists": [
-        {
-          "name": "Angel Tumbado",
-          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
-        }
-      ],
-      "duration_ms": 152950,
-      "name": "Gallo y Mi Cuerno",
-      "url": "https://open.spotify.com/track/5spGDsdSSflFVnhSzIRAnS"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Billeticos",
         "url": "https://open.spotify.com/album/2o0I3Q6L0uuweDHF6cgvYn"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 168756,
       "name": "Billeticos",
       "url": "https://open.spotify.com/track/1kCoBGKhlOqf364YOytQNl"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Gallo y Mi Cuerno",
+        "url": "https://open.spotify.com/album/76uSaPvd5aVD1TBzrQG39S"
+      },
+      "artists": [
+        {
+          "name": "Angel Tumbado",
+          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+        }
+      ],
+      "duration_ms": 152950,
+      "name": "Gallo y Mi Cuerno",
+      "url": "https://open.spotify.com/track/5spGDsdSSflFVnhSzIRAnS"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/4X4pNm2ByzuQrE6N0eGUEH"
-      },
-      "artists": [
-        {
-          "name": "Los Del Momento",
-          "url": "https://open.spotify.com/artist/0JEQwqiLH4duEyXPCldsfS"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/6Y7N2iPTtfTy5WMJivwYdX"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Qui\u00e9n Quiere Otro Bote?",
         "url": "https://open.spotify.com/album/4qxOY9Fwf1jprPIhAJmc5V"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 181400,
       "name": "Qui\u00e9n Quiere Otro Bote?",
       "url": "https://open.spotify.com/track/6sTzLNPWCIPY7qzfnP6pE4"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/4X4pNm2ByzuQrE6N0eGUEH"
+      },
+      "artists": [
+        {
+          "name": "Los Del Momento",
+          "url": "https://open.spotify.com/artist/0JEQwqiLH4duEyXPCldsfS"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/6Y7N2iPTtfTy5WMJivwYdX"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Dej\u00e9moslo As\u00ed",
+        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "Tranquilo Y Sencillo",
         "url": "https://open.spotify.com/album/1Qxk4L0BCfokCm1k3HYMeJ"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 187263,
       "name": "Tranquilo Y Sencillo",
       "url": "https://open.spotify.com/track/0ON5YTUgh0gMtSzIThCsR2"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Dej\u00e9moslo As\u00ed",
-        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Te Volvi a Mirar",
+        "url": "https://open.spotify.com/album/3X76mWqhlM83nYFc30iR8t"
+      },
+      "artists": [
+        {
+          "name": "Pastrana",
+          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Te Volvi a Mirar",
+      "url": "https://open.spotify.com/track/4tFpyXYKcBRQgCyAi4Phh9"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "Mi Clave Eres T\u00fa",
         "url": "https://open.spotify.com/album/39xXaw5d6nJHNcMISNJNuI"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 214377,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/2Hu0fh3w7egXqK2M1KkLbU"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Te Volvi a Mirar",
-        "url": "https://open.spotify.com/album/3X76mWqhlM83nYFc30iR8t"
-      },
-      "artists": [
-        {
-          "name": "Pastrana",
-          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Te Volvi a Mirar",
-      "url": "https://open.spotify.com/track/4tFpyXYKcBRQgCyAi4Phh9"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Malditas Ganas",
-        "url": "https://open.spotify.com/album/3N9wgCOFhkKkQ0KMfBdhjX"
-      },
-      "artists": [
-        {
-          "name": "Hendry El Mero Mero",
-          "url": "https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP"
-        }
-      ],
-      "duration_ms": 196554,
-      "name": "Malditas Ganas",
-      "url": "https://open.spotify.com/track/3vVz8W2SZaMTS1DOunlDen"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Quien De Los Dos Sera",
         "url": "https://open.spotify.com/album/34wYZ3VC8yVv3IfF6FFa2I"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 186369,
       "name": "Quien De Los Dos Sera",
       "url": "https://open.spotify.com/track/0bz5jHrcNCuXPatEaSHINq"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Malditas Ganas",
+        "url": "https://open.spotify.com/album/3N9wgCOFhkKkQ0KMfBdhjX"
+      },
+      "artists": [
+        {
+          "name": "Hendry El Mero Mero",
+          "url": "https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP"
+        }
+      ],
+      "duration_ms": 196554,
+      "name": "Malditas Ganas",
+      "url": "https://open.spotify.com/track/3vVz8W2SZaMTS1DOunlDen"
     },
     {
       "added_at": "2023-12-15 06:00:00",

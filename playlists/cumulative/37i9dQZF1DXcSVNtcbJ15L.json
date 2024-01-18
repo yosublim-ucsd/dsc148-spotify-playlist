@@ -134,6 +134,24 @@
     {
       "album": {
         "name": "BECKSTAR",
+        "url": "https://open.spotify.com/album/6n0XmJcip7d3NMO2F0n1Gc"
+      },
+      "artists": [
+        {
+          "name": "Magyn",
+          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "BECKSTAR",
+      "url": "https://open.spotify.com/track/2lnaPc7oXsP9eFPMq0n5k7"
+    },
+    {
+      "album": {
+        "name": "BECKSTAR",
         "url": "https://open.spotify.com/album/38m3QTMDvnfTMz12tAZmBa"
       },
       "artists": [
@@ -144,7 +162,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 141818,
       "name": "BECKSTAR",
       "url": "https://open.spotify.com/track/7yqLFVLpu9i41mQvMkQNUv"

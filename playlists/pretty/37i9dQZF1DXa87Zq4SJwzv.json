@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf08 AMOR ES AMOR \ud83c\udf08",
-  "num_followers": 51811,
+  "num_followers": 51892,
   "original_name": "Amor Libre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjFiN2U4YzFhMjZjNGQ2NmMwODllMzIwNjdlNjUwMTNhZWY3MGVm",
+  "snapshot_id": "MCw0MjAwOWFjNzkzYzhmNGI1Y2YxNzdkMTNmM2E1NGY3ZjJhMjdlZjli",
   "tracks": [
     {
       "added_at": "2023-09-01 15:14:04",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "Antologia",
-      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
         "name": "Prometo",
         "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 253760,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "Antologia",
+      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "Laura Pausini: 25 Aniversario (Spanish Version)",
-        "url": "https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 255266,
-      "name": "Amores extra\u00f1os",
-      "url": "https://open.spotify.com/track/2vT5bweFphLcVvpmZR5PEv"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
         "name": "Mi Primer D\u00eda Triste",
         "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 254224,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "Laura Pausini: 25 Aniversario (Spanish Version)",
+        "url": "https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Amores extra\u00f1os",
+      "url": "https://open.spotify.com/track/2vT5bweFphLcVvpmZR5PEv"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
+        "name": "Monoambiente en Capital",
+        "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        },
+        {
+          "name": "Nico Cotton",
+          "url": "https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc"
+        }
+      ],
+      "duration_ms": 181087,
+      "name": "Monoambiente en Capital",
+      "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
         "name": "SMS",
         "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 219040,
       "name": "Toda la Noche Oliendo a Ti",
       "url": "https://open.spotify.com/track/361ePlL30dZ240c84R06AG"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "Monoambiente en Capital",
-        "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        },
-        {
-          "name": "Nico Cotton",
-          "url": "https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc"
-        }
-      ],
-      "duration_ms": 181087,
-      "name": "Monoambiente en Capital",
-      "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "AYER",
-        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 235909,
-      "name": "AYER",
-      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
         "name": "SMS",
         "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 170447,
       "name": "El Mirador",
       "url": "https://open.spotify.com/track/0PIUMPLmzEAKBp3AHU5wzK"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 235909,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
     },
     {
       "added_at": "2023-09-01 15:14:04",

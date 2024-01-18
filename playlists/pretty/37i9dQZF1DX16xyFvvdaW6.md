@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,712 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,730 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 25 | [Libre Soy](https://open.spotify.com/track/4yblg7xlfOCz6OhHkx9P1L) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [Volver a Respirar](https://open.spotify.com/album/2F4N4AFpV85vooRD19ZInX) | 4:18 |
 | 26 | [Quisiera](https://open.spotify.com/track/4x6vIZfQBuYnVw8zjZEZ72) | [Metamorffosis](https://open.spotify.com/artist/7616QQ7F8yuDKMztFdAe35) | [Escrito En Las Estrellas](https://open.spotify.com/album/4VnK8zGduksGF2LDyDnYRT) | 5:13 |
 | 27 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
-| 28 | [Mi Amado Dios](https://open.spotify.com/track/10W7Axif6t46vv0n6xaS17) | [Cristo Para Las Naciones](https://open.spotify.com/artist/1CWzeOhNAKqu5f4ZacmifA) | [Supergod](https://open.spotify.com/album/045iUbZvHZXX462mpo10H1) | 4:33 |
+| 28 | [Mi Amado Dios](https://open.spotify.com/track/6HBo4ivgAuCOC3AWsVLl8Y) | [Cristo Para Las Naciones](https://open.spotify.com/artist/1CWzeOhNAKqu5f4ZacmifA) | [Supergod](https://open.spotify.com/album/2wApItzX2q6aTUlfaPMbAt) | 4:33 |
 | 29 | [Fe](https://open.spotify.com/track/2HlSpAMXFABYqYTOdT7C8m) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [Santo Remedio](https://open.spotify.com/album/1gtCpknow1BRL3VG4bVaIB) | 3:10 |
 | 30 | [Todo para Mi](https://open.spotify.com/track/3x3ajfjfMqRVcht85ZG89W) | [Blest](https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw) | [Lo Mejor de la Música Cristiana](https://open.spotify.com/album/739VThS5Uq7FlQTCe9IAhN) | 4:26 |
 | 31 | [Tu Historia](https://open.spotify.com/track/2Edzf0McD1MOWTwI5GbF1b) | [Renacer](https://open.spotify.com/artist/23Yee5PRZs6MB8tR3Jynxe) | [Consumenos](https://open.spotify.com/album/1bIA3sfkrfFkHAU0KJFj9x) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 49 | [Otra Oportunidad](https://open.spotify.com/track/0g1dQ5Wafzv5umVhjNcEle) | [Revoluzion Estereo](https://open.spotify.com/artist/07y7DBTR7GwPS7sapmxrtG) | [Revoluzion Estereo](https://open.spotify.com/album/6LpcHauCrtKT0UJuXG8YI8) | 4:15 |
 | 50 | [Porque Fingir](https://open.spotify.com/track/7v13JBeYnHzgB4enyvcOcP) | [180 Grados](https://open.spotify.com/artist/5EFB2QpDOSYieHayE27uZ8) | [Cambio](https://open.spotify.com/album/59V6jFpLnTeVajCNjVKlyM) | 4:04 |
 
-Snapshot ID: `MCw5NTA3YzE0MTE5Y2FkM2FhNjE0NTIwODdhMzM1ZGIzZjRlNGI1NmFk`
+Snapshot ID: `MCw3N2I2ZDBjZDI5YTI5OTViZWY1MmVkYTMyY2ZhYTQzMDkyZTFhNWQz`

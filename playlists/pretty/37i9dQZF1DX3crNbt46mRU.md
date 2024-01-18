@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,053 likes - 95 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,055 likes - 95 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 6 | [Rufe dich an](https://open.spotify.com/track/7hkfqkUZO2Q4xtVapgjlB2) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [NINETYNINE](https://open.spotify.com/album/6j4H7Z52aDxJMjaog31UDE) | 2:40 |
 | 7 | [Waking Up](https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Waking Up](https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H) | 2:34 |
 | 8 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 |
-| 9 | [Temps en temps \(feat\. Kore\)](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N) | [Temps en temps \(feat\. Kore\)](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 |
+| 9 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 |
 | 10 | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/track/601pOTGkiTqGFpAtphsZDx) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/album/3egxqN0wJ8CMeVbtRZYN3s) | 2:38 |
 | 11 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 |
 | 12 | [IN & OUT](https://open.spotify.com/track/1VgoFzUT9iofLfn3rHOI3z) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [IN & OUT](https://open.spotify.com/album/2IcOiv7iBqo6P5nL8qtLHu) | 2:28 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 21 | [Wellness im Palace](https://open.spotify.com/track/4m4zFKowTph6GVr8LM00ZL) | [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [Wellness im Palace](https://open.spotify.com/album/7ysdArSEJDam4har1qmm94) | 2:30 |
 | 22 | [Bitter Sweet Love](https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF) | 2:45 |
 | 23 | [Forever \(Stay Like This\)](https://open.spotify.com/track/7pUtuvFh9SMtFozqwsPHnl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Forever \(Stay Like This\)](https://open.spotify.com/album/1HyxYCoQk0T8iIHKE5fkEm) | 2:32 |
-| 24 | [Hot Like Summer AGP](https://open.spotify.com/track/09DifLBp8dX9BOVZnIm9zT) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Hot Like Summer](https://open.spotify.com/album/1dqMqzTsHQKmBLERRe7cPp) | 2:56 |
+| 24 | [Hot Like Summer AGP \(ENG\)](https://open.spotify.com/track/09DifLBp8dX9BOVZnIm9zT) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Hot Like Summer](https://open.spotify.com/album/1dqMqzTsHQKmBLERRe7cPp) | 2:56 |
 | 25 | [Mafia Del Boom Bap](https://open.spotify.com/track/5aCfe1vmMzmCc916WKWar3) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 |
 | 26 | [Frieden](https://open.spotify.com/track/3owQNPhIzH9VS9dvAI1Kta) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Frieden](https://open.spotify.com/album/7AxeIfzWzEzuGfkyMgQKQh) | 5:04 |
 | 27 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 94 | [deplatziert](https://open.spotify.com/track/3RydWx9dRmRJmvrEBoCAJK) | [ameliy](https://open.spotify.com/artist/3T4fIhGxnUtCJ84Us8H8Gj) | [deplatziert](https://open.spotify.com/album/7dHyTpo3DhRwRnX3O98Mti) | 2:50 |
 | 95 | [Nur noch einmal](https://open.spotify.com/track/47LRy3nalzTBvb2ksqhcka) | [Angela Asiana](https://open.spotify.com/artist/25vgYguyPkprd0hE2IRnZT) | [Nur noch einmal](https://open.spotify.com/album/3xi9i0hZNkvWEZ2PPC7qx5) | 2:04 |
 
-Snapshot ID: `MCwxODExMDRjMjkyNzliYjEwNTg2ODVmZmI4OTQ4NDEyMTk4MjkyOTI5`
+Snapshot ID: `MCw5ZmRlNzJlOTMzOGU4NDdlNDg1NmM2ZTFmOWYwN2FkODJhNmExMzJm`

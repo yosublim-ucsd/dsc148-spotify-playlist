@@ -634,24 +634,6 @@
     {
       "album": {
         "name": "Random Album Title (Unmixed Extended Versions)",
-        "url": "https://open.spotify.com/album/78djcfLlGna8lO1XwgdSIg"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "date_added": "2020-04-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 593613,
-      "name": "I Remember - Vocal Mix",
-      "url": "https://open.spotify.com/track/5pMX0wUtcxFudpIeWlFQNM"
-    },
-    {
-      "album": {
-        "name": "Random Album Title (Unmixed Extended Versions)",
         "url": "https://open.spotify.com/album/4SQc1Al4ilF0vCqtnjXEDk"
       },
       "artists": [
@@ -666,6 +648,28 @@
       "duration_ms": 593613,
       "name": "I Remember - Vocal Mix",
       "url": "https://open.spotify.com/track/6R3bajI4ZCrUfrPUhLakO1"
+    },
+    {
+      "album": {
+        "name": "Random Album Title (Unmixed Extended Versions)",
+        "url": "https://open.spotify.com/album/78djcfLlGna8lO1XwgdSIg"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593613,
+      "name": "I Remember - Vocal Mix",
+      "url": "https://open.spotify.com/track/5pMX0wUtcxFudpIeWlFQNM"
     },
     {
       "album": {

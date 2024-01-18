@@ -4,7 +4,7 @@
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-112 songs - 5 hr 36 min
+113 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Paseo en Trineo](https://open.spotify.com/track/5ItdwQk3SqGcnyJkShiz3X) | [Las Ardillitas](https://open.spotify.com/artist/6GthntuQGvG7F72j9850Td) | [Las Ardillitas: Paseo en Trineo, Vol\. 1](https://open.spotify.com/album/4SRHTrhoMQlcDKupWrY0Mp) | 2:40 | 2021-09-30 |  |
 | [Paseo en Trineo](https://open.spotify.com/track/7A9lcwkCPrbsrWHeAPv9dG) | [Las Ardillitas](https://open.spotify.com/artist/6GthntuQGvG7F72j9850Td) | [Las Ardillitas: Paseo en Trineo, Vol\. 1](https://open.spotify.com/album/1rPVI2q16wVDSYnUGYPIQm) | 2:40 | 2021-09-30 | 2024-01-14 |
 | [Popurrí Navidad Navidad: Campana sobre campana / 25 de diciembre / Alegría, alegría, alegría](https://open.spotify.com/track/1nfVZlCXedFCGDOgbvarsS) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Navidad Navidad](https://open.spotify.com/album/1IWZv2eiVbzCkOpmujRJUL) | 3:57 | 2021-09-30 |  |
-| [Que Tu Navidad Sea Incomparable](https://open.spotify.com/track/37v1NJA31wR0vVL0LGhKnG) | [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Que Tu Navidad Sea Incomparable](https://open.spotify.com/album/5BRZ2GOlKwCiaWTQ6rUZHf) | 2:41 | 2021-09-30 |  |
+| [Que Tu Navidad Sea Incomparable](https://open.spotify.com/track/1cKexkAZHYI459lBgpTlUh) | [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Una Navidad Especial](https://open.spotify.com/album/4MnRUUn9wOhDyI5WBKIhfR) | 2:41 | 2021-09-30 |  |
+| [Que Tu Navidad Sea Incomparable](https://open.spotify.com/track/37v1NJA31wR0vVL0LGhKnG) | [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Que Tu Navidad Sea Incomparable](https://open.spotify.com/album/5BRZ2GOlKwCiaWTQ6rUZHf) | 2:41 | 2021-09-30 | 2024-01-18 |
 | [Regalo de Navidad](https://open.spotify.com/track/30o450nKpNYOj7zraCkkIg) | [Ana Emilia](https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG) | [Regalo de Navidad](https://open.spotify.com/album/4IBxAgP6UU3aIgQkGV2s9V) | 3:26 | 2021-09-30 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 | 2021-09-30 |  |
 | [Rockin' Around the Christmas Tree \- Rerecorded Version](https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [A Brenda Lee Christmas](https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F) | 2:06 | 2021-09-30 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 117249,
+  "2024-01-18": 117279,
   "date_first_scraped": "2022-10-24",
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
   "name": "Midnight Chill",
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 153226,
       "name": "Christmas Dreaming",
       "url": "https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS"
@@ -3293,7 +3293,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
@@ -4493,6 +4493,28 @@
       "duration_ms": 319480,
       "name": "Sea Lions",
       "url": "https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj"
+    },
+    {
+      "album": {
+        "name": "See, Saw",
+        "url": "https://open.spotify.com/album/7bx3h1AxJ7yfXiIFi0SfQy"
+      },
+      "artists": [
+        {
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        },
+        {
+          "name": "Gagle",
+          "url": "https://open.spotify.com/artist/7EEGSEHvuzEc2x4dhZPb50"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "See, Saw",
+      "url": "https://open.spotify.com/track/0QUniQsyXZwtkaEBLw29Qg"
     },
     {
       "album": {
@@ -6383,6 +6405,32 @@
       "duration_ms": 215625,
       "name": "\u30df\u30a2\u30cd",
       "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
+    },
+    {
+      "album": {
+        "name": "\u5b63\u7bc0\u306e\u97f3",
+        "url": "https://open.spotify.com/album/1zy47HoZLcCq9NmkKwyFrG"
+      },
+      "artists": [
+        {
+          "name": "Jane Jade",
+          "url": "https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm"
+        },
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        },
+        {
+          "name": "SAKURA FUJIWARA",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242432,
+      "name": "\u5b63\u7bc0\u306e\u97f3",
+      "url": "https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: Alice Merton",
-  "num_followers": 32996,
+  "num_followers": 32987,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGRmNjY5MzBmYjcyYTBmOWExZGRjNmU1YTVlMjM4MDQ2YTdmYWM0",
+  "snapshot_id": "MCw0NzUxMzEzNzM1Mjg5ZmZlMGRmNGE1ZDdhN2U5N2YwZjdiZGU5Mjlh",
   "tracks": [
     {
       "added_at": "2024-01-09 23:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Kingsize",
-        "url": "https://open.spotify.com/album/5lGa1OGvTY2FUExryomOok"
-      },
-      "artists": [
-        {
-          "name": "DONNA SAVAGE",
-          "url": "https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw"
-        }
-      ],
-      "duration_ms": 153974,
-      "name": "Kingsize",
-      "url": "https://open.spotify.com/track/7pHI2qUHTT1w1C78lfWxiY"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "BLa*_*",
         "url": "https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 147692,
       "name": "BLa*_*",
       "url": "https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Kingsize",
+        "url": "https://open.spotify.com/album/5lGa1OGvTY2FUExryomOok"
+      },
+      "artists": [
+        {
+          "name": "DONNA SAVAGE",
+          "url": "https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw"
+        }
+      ],
+      "duration_ms": 153974,
+      "name": "Kingsize",
+      "url": "https://open.spotify.com/track/7pHI2qUHTT1w1C78lfWxiY"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Golf Coup\u00e9",
-        "url": "https://open.spotify.com/album/5WPi1LUinz4TBLT1oSOIxw"
-      },
-      "artists": [
-        {
-          "name": "Mathea",
-          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
-        }
-      ],
-      "duration_ms": 167819,
-      "name": "Golf Coup\u00e9",
-      "url": "https://open.spotify.com/track/2tRpnq9Wvl4jPiO4mUgAPk"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/1EVoP9HiCAtz1f8aIGyjJ3"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 176976,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/37KFF19iUOsht1gc9qyrH5"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Golf Coup\u00e9",
+        "url": "https://open.spotify.com/album/5WPi1LUinz4TBLT1oSOIxw"
+      },
+      "artists": [
+        {
+          "name": "Mathea",
+          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
+        }
+      ],
+      "duration_ms": 167819,
+      "name": "Golf Coup\u00e9",
+      "url": "https://open.spotify.com/track/2tRpnq9Wvl4jPiO4mUgAPk"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Beissgirls",
-        "url": "https://open.spotify.com/album/3a9omO9IvUCY8yWS9Cd2aM"
-      },
-      "artists": [
-        {
-          "name": "SHARI",
-          "url": "https://open.spotify.com/artist/3zPLWKxB7XvaA9ezRwhkW8"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "Beissgirls",
-      "url": "https://open.spotify.com/track/3CKijp3ojfoXWep6bxDFaV"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Paralysed",
         "url": "https://open.spotify.com/album/4rCLKINqXlt4NslY3VaK3U"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 161954,
       "name": "Paralysed",
       "url": "https://open.spotify.com/track/0Sv5VWVjHM8cHob6mvafI1"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Beissgirls",
+        "url": "https://open.spotify.com/album/3a9omO9IvUCY8yWS9Cd2aM"
+      },
+      "artists": [
+        {
+          "name": "SHARI",
+          "url": "https://open.spotify.com/artist/3zPLWKxB7XvaA9ezRwhkW8"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "Beissgirls",
+      "url": "https://open.spotify.com/track/3CKijp3ojfoXWep6bxDFaV"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Nothing's Set In Stone",
-        "url": "https://open.spotify.com/album/3XMG68ynUfyh6P3FftvIDc"
-      },
-      "artists": [
-        {
-          "name": "Krak\u00f3w Loves Adana",
-          "url": "https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN"
-        }
-      ],
-      "duration_ms": 199844,
-      "name": "Nothing's Set In Stone",
-      "url": "https://open.spotify.com/track/6s76u76W9kFp87XdvOXRsd"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "bitte nicht in blicken / zum tag des barsches",
         "url": "https://open.spotify.com/album/62y6GQAZe3bPXEM3BuEH7V"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 179483,
       "name": "bitte nicht in blicken",
       "url": "https://open.spotify.com/track/7eCbfOP0Oic7nWjEqEvMR9"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Nothing's Set In Stone",
+        "url": "https://open.spotify.com/album/3XMG68ynUfyh6P3FftvIDc"
+      },
+      "artists": [
+        {
+          "name": "Krak\u00f3w Loves Adana",
+          "url": "https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN"
+        }
+      ],
+      "duration_ms": 199844,
+      "name": "Nothing's Set In Stone",
+      "url": "https://open.spotify.com/track/6s76u76W9kFp87XdvOXRsd"
     },
     {
       "added_at": "2024-01-09 23:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-01-09 23:00:00",
       "album": {
-        "name": "Tattoos",
-        "url": "https://open.spotify.com/album/2oXFCU5JqvO9cRZz5eyVhG"
-      },
-      "artists": [
-        {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
-        }
-      ],
-      "duration_ms": 123866,
-      "name": "Tattoos",
-      "url": "https://open.spotify.com/track/6Ug1T5SL6Eou3nD5Iuzbaj"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
         "name": "Last Goodbye",
         "url": "https://open.spotify.com/album/512flr0suH3At9PKk2ztGN"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 159378,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/4ABQB35Gb0lI21hjOLTD8f"
+    },
+    {
+      "added_at": "2024-01-09 23:00:00",
+      "album": {
+        "name": "Tattoos",
+        "url": "https://open.spotify.com/album/2oXFCU5JqvO9cRZz5eyVhG"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
+        }
+      ],
+      "duration_ms": 123866,
+      "name": "Tattoos",
+      "url": "https://open.spotify.com/track/6Ug1T5SL6Eou3nD5Iuzbaj"
     },
     {
       "added_at": "2024-01-09 23:00:00",

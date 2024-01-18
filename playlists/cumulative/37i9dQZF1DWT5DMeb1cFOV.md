@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT5DMeb1cFOV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT5DMeb1cFOV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT5DMeb1cFOV)
 
-### [Lavora col Sorriso](https://open.spotify.com/playlist/37i9dQZF1DWT5DMeb1cFOV)
+### [Smart Working](https://open.spotify.com/playlist/37i9dQZF1DWT5DMeb1cFOV)
 
-> Per trovare il buonumore, anche a lavoro!
+> La colonna sonora perfetta per le giornate di lavoro da casa, alla scrivania o sul divano! 💪
 
 158 songs - 8 hr 45 min
 

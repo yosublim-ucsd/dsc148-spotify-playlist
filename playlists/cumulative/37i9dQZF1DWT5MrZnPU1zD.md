@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-888 songs - 1 day 18 hr 31 min
+889 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,6 +754,7 @@
 | [Storyteller](https://open.spotify.com/track/3P14DrMQLh1CqKBki4e98s) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Storyteller](https://open.spotify.com/album/28Y1Tj8nZRro47bwhKnOiV) | 2:46 | 2022-06-17 | 2022-07-28 |
 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-04-07 | 2023-11-25 |
 | [Striker Music](https://open.spotify.com/track/19opOryJskLabSLp0WLAei) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Controversy](https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9) | 3:05 | 2023-04-28 | 2023-11-25 |
+| [Stuck](https://open.spotify.com/track/2Yye2e8djUTiaSL33regqV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Stuck](https://open.spotify.com/album/2mEAQvsqwjJmeaeQdKRB2C) | 2:41 | 2024-01-12 |  |
 | [STUCK](https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [STUCK](https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065) | 3:37 | 2022-05-06 | 2022-07-29 |
 | [Stupid Again](https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:54 | 2022-03-25 | 2022-04-25 |
 | [Sucka Or Sum](https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sucka Or Sum](https://open.spotify.com/album/5gaVPtt0TIRuPeRfQeJ63P) | 3:09 | 2023-01-27 | 2023-08-19 |
@@ -811,7 +812,7 @@
 | [True Indeed](https://open.spotify.com/track/60VgKrIVA9iyq27h7PQw8H) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Extinction Level Event 2: The Wrath of God](https://open.spotify.com/album/7IO9UObUD76ZCLVu3ND7tz) | 1:53 | 2022-03-25 | 2022-04-21 |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-27 | 2023-03-04 |
 | [Truffles](https://open.spotify.com/track/6YasuOZcSrwQvHNbsxuPPW) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Truffles](https://open.spotify.com/album/5UwoNjOPVBSOlAQU8AfvGE) | 3:15 | 2022-03-25 | 2022-04-21 |
-| [TRY & SEE \(feat\. Future, G Herbo & Roddy Ricch\)](https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:07 | 2023-06-09 |  |
+| [TRY & SEE \(feat\. Future, G Herbo & Roddy Ricch\)](https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:07 | 2023-06-09 | 2024-01-18 |
 | [Trynna Link](https://open.spotify.com/track/7jEhMTxpIH7Duw6AQsDztS) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Trynna Link](https://open.spotify.com/album/58n7meJEMSNZ35LxhgKPZK) | 2:57 | 2023-07-07 | 2023-09-16 |
 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/2IHdMccpnU0PGHGltqM2Sq) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:50 | 2023-08-25 |  |
 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 | 2022-11-18 | 2023-10-21 |

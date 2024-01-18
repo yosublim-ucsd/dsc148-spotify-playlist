@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,166 songs - 3 day 1 hr 29 min
+1,168 songs - 3 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [New Drama Paradise](https://open.spotify.com/track/6Ty1IRc5sun7YQMUqXealq) | [Jun Fukuyama](https://open.spotify.com/artist/3bC4NPA8Vfw2FXjiuY8Tzx) | [New Drama Paradise](https://open.spotify.com/album/3H5VIFVEyDBmfPLe9aKzlq) | 4:09 | 2023-01-10 | 2023-02-01 |
 | [New Genesis \- From CrosSing](https://open.spotify.com/track/0KYn6GOrzbUemMMOuGcJsk) | [Natsuyoshi Yuko](https://open.spotify.com/artist/0O5jlFShsrrHIwj3sdnbWq), [Matsuoka Misato](https://open.spotify.com/artist/6BFKpJfchNBofHmTd1h0bL) | [New Genesis \- From CrosSing](https://open.spotify.com/album/6t7sKaTUmq3HhvPhYWDRmc) | 3:47 | 2023-06-13 | 2023-06-28 |
 | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/track/4KYO2hnz2vWH0JHJuWypAf) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/album/1jx7pZycE5duql9z0qJNDv) | 4:44 | 2023-11-05 | 2024-01-12 |
+| [nitari](https://open.spotify.com/track/1ZKoFnft58Ak3jujRlUGJQ) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [nitari](https://open.spotify.com/album/17ecQayWxTwcz9o25u8HHE) | 2:43 | 2024-01-16 |  |
 | [No Frontier](https://open.spotify.com/track/2zvNBZs38WZuQ1SgKdeKFk) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [No Frontier](https://open.spotify.com/album/5zYmpnx6MQc9OuV5qGcb8u) | 3:06 | 2023-07-04 | 2023-09-01 |
 | [No Man's Dawn](https://open.spotify.com/track/5XvmEVOlh8S0FvZQyaYnzo) | [criminal](https://open.spotify.com/artist/01x2ElR5LGoZ3HTwn0u4eH) | [No Man's Dawn](https://open.spotify.com/album/5emNQodJSciI2Ib281UrG3) | 3:53 | 2022-09-06 | 2022-10-19 |
 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2022-07-28 | 2022-09-07 |
@@ -591,6 +592,7 @@
 | [sugar](https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [sugar](https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5) | 3:47 | 2023-07-27 | 2023-09-08 |
 | [Sugar Doughnuts](https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Sugar Doughnuts](https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O) | 3:26 | 2023-10-03 | 2023-10-18 |
 | [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/4qnO8leJ0xIAvEkEnYB4nu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Suki ni Naccha Dame na Hito](https://open.spotify.com/album/2VnYRRWGs3kat0GeFjwzwl) | 3:37 | 2023-09-28 | 2024-01-10 |
+| [SUKIGA LEVECHI](https://open.spotify.com/track/0J12Ou3SAblEYLhG4y4t93) | [エレノーラ・ヒルローズ（CV:日高里菜）](https://open.spotify.com/artist/6MJocx3PKQylQPpnzDCjpI), [ユミエラ・ドルクネス（CV:ファイルーズあい）](https://open.spotify.com/artist/2qMDA1zWEYIMA6Y0U8gJDp) | [SUKIGA LEVECHI ENDING THEME FROM TV SERIES ”VILLAINESS LEVEL 99”](https://open.spotify.com/album/4QEEudQNmzg2OKasfWL2Gx) | 3:54 | 2024-01-16 |  |
 | [Sukini Nattewa Ikenai Riyuu](https://open.spotify.com/track/6Hns4ZGJBGnqQtNBKg5QvI) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Sukini Nattewa Ikenai Riyuu](https://open.spotify.com/album/3l9BFzZXjw05UJa0BcfVxC) | 4:40 | 2023-10-03 | 2023-11-11 |
 | [Sukini Nattewa Ikenai Riyuu](https://open.spotify.com/track/1Rd3Rg6Ad7Lxv5TeWLWy5d) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Naino Zouga Guchiwo Kobosumonode](https://open.spotify.com/album/2fHkGXswIaHWRU0Y3KOIVw) | 4:40 | 2023-11-07 | 2024-01-10 |
 | [Sun Is Coming Up](https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp) | 4:15 | 2022-07-05 | 2022-07-29 |
@@ -864,7 +866,7 @@
 | [ドラマチックに恋したい](https://open.spotify.com/track/7p2htrKBL2mipLPAjBoSct) | [小玉ひかり](https://open.spotify.com/artist/6jRbqM1pnTraoN4Z122jza) | [ドラマチックに恋したい](https://open.spotify.com/album/01FwPLELlqqRlgHnPcc5j5) | 3:18 | 2023-10-07 | 2024-01-07 |
 | [ドラム式探査機](https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [ドラム式探査機](https://open.spotify.com/album/1hmjufGe7sXt8LfQifBJZs) | 3:52 | 2023-01-10 | 2023-04-02 |
 | [ドロー](https://open.spotify.com/track/3a0eIE0dd509tKxCdkIYLW) | [XAAXAA](https://open.spotify.com/artist/0VcWUiBe3sJ7tqkZejkQvd) | [ドロー](https://open.spotify.com/album/6uxv5F9KC7sKwFcEu8c3dH) | 3:31 | 2023-10-10 | 2023-10-12 |
-| [ニタリ](https://open.spotify.com/track/0G8ErkrQkzU6usCXnly1Ge) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [ニタリ](https://open.spotify.com/album/2jKlF8Ilvqr4fAAm1mShrI) | 2:43 | 2024-01-16 |  |
+| [ニタリ](https://open.spotify.com/track/0G8ErkrQkzU6usCXnly1Ge) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [ニタリ](https://open.spotify.com/album/2jKlF8Ilvqr4fAAm1mShrI) | 2:43 | 2024-01-16 | 2024-01-18 |
 | [ニューサンス](https://open.spotify.com/track/72xSsgDcaQgd1FBUwOM8rw) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「スパイ教室」2nd season エンディングテーマ「ニューサンス」](https://open.spotify.com/album/2HC1dbBWNHB5IsvczQRsvu) | 2:56 | 2023-08-01 | 2023-08-03 |
 | [ノミック](https://open.spotify.com/track/0gxbwxvxTBW1Z3ihlJbq6H) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [ノミック](https://open.spotify.com/album/0Y6dEaa80Jfq6GTQ04fLnK) | 3:00 | 2022-10-06 | 2022-10-08 |
 | [ハイライト・ハイライト](https://open.spotify.com/track/4n9ZDnOKEFlOUvQvLZqUJ3) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ハイライト・ハイライト](https://open.spotify.com/album/6lD4x7WoKuq5qgupcHqEP0) | 3:56 | 2022-05-28 | 2022-06-14 |
@@ -1002,7 +1004,7 @@
 | [天灯](https://open.spotify.com/track/0bfsRP5VUaseeZypS4uZ1j) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇」オープニングテーマ「天灯」](https://open.spotify.com/album/3r04pAxWWkkH8lhG4pX7PF) | 3:40 | 2022-08-23 | 2022-08-25 |
 | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/track/6UEudr7wL1kWoEzWTWOjL9) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/album/5ANkUMQeCcz1yLFKGwIamt) | 4:58 | 2022-07-07 | 2022-10-05 |
 | [奇縁ロマンス](https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [奇縁ロマンス](https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT) | 3:41 | 2023-04-11 | 2023-07-12 |
-| [好きがレベチ](https://open.spotify.com/track/2fqjYciVSgP06JQK14bT6v) | [エレノーラ・ヒルローズ（CV:日高里菜）](https://open.spotify.com/artist/6MJocx3PKQylQPpnzDCjpI), [ユミエラ・ドルクネス（CV:ファイルーズあい）](https://open.spotify.com/artist/2qMDA1zWEYIMA6Y0U8gJDp) | [TVアニメ「悪役令嬢レベル99　～私は裏ボスですが魔王ではありません～」エンディングテーマ「好きがレベチ」](https://open.spotify.com/album/4LmI58biN3f5lNqEFR8z3b) | 3:54 | 2024-01-16 |  |
+| [好きがレベチ](https://open.spotify.com/track/2fqjYciVSgP06JQK14bT6v) | [エレノーラ・ヒルローズ（CV:日高里菜）](https://open.spotify.com/artist/6MJocx3PKQylQPpnzDCjpI), [ユミエラ・ドルクネス（CV:ファイルーズあい）](https://open.spotify.com/artist/2qMDA1zWEYIMA6Y0U8gJDp) | [TVアニメ「悪役令嬢レベル99　～私は裏ボスですが魔王ではありません～」エンディングテーマ「好きがレベチ」](https://open.spotify.com/album/4LmI58biN3f5lNqEFR8z3b) | 3:54 | 2024-01-16 | 2024-01-18 |
 | [好きにしなよ](https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [好きにしなよ](https://open.spotify.com/album/0himSAZSz3XxBPhX5JWs6p) | 4:26 | 2023-10-17 | 2024-01-12 |
 | [好きになっちゃダメな人](https://open.spotify.com/track/7dahojrN9JHJS4rmyfsYJI) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [好きになっちゃダメな人](https://open.spotify.com/album/6vE3rwCWwPzyCcV3Lz0Yoh) | 3:37 | 2023-09-28 | 2023-09-30 |
 | [好きになってはいけない理由](https://open.spotify.com/track/2wjIQfeVIJs2NKqtPE79nq) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [好きになってはいけない理由](https://open.spotify.com/album/0HusXRFOf7XeaD7kPxr8ry) | 4:40 | 2023-10-03 | 2023-10-05 |

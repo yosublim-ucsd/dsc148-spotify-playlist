@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,647,334 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,647,402 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 44 | [Catch Me If You Can](https://open.spotify.com/track/1NLATwwXcg0ff8PDY7xkYM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:31 |
 | 45 | [Heading Home](https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Heading Home](https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD) | 3:04 |
 | 46 | [Land Of The Heroes](https://open.spotify.com/track/3bS1gINcg6wc0y0oo44ErT) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X) | [Land Of The Heroes](https://open.spotify.com/album/1GIulTqUySS1jzQSb1Nqhn) | 2:56 |
-| 47 | [Welcome to Walkerworld](https://open.spotify.com/track/2evs7Wv5Cwom9ziyyrrmC9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 2:46 |
+| 47 | [Believers](https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Believers](https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB) | 2:39 |
 | 48 | [Blue](https://open.spotify.com/track/2DwNvCKsQLtLILczk3I9bA) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:37 |
-| 49 | [Believers](https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Believers](https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB) | 2:39 |
+| 49 | [Welcome to Walkerworld](https://open.spotify.com/track/2evs7Wv5Cwom9ziyyrrmC9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 2:46 |
 | 50 | [World We Used To Know](https://open.spotify.com/track/5I9Qa1LfGcQGCIC32lh9Ka) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:41 |
 | 51 | [Born to Ride](https://open.spotify.com/track/0lHqYOYYtJ00Q5b8sBiZ1T) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 2:43 |
 
-Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDA5YzA2OTlhMWM3ZjI4MGUyMTcyZWJhYTExNzk1NmM3NQ==`
+Snapshot ID: `Mjg0MjQ4NzgsMDAwMDAwMDA3ZTBkMWI1YWIxZDhiZDlhNTM0ZGZhNWI5ZWY4NmRmNw==`

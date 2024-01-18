@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-503 songs - 19 hr 14 min
+504 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [it will be fine](https://open.spotify.com/track/4NLCbAGUF1SP8MEE1z51S0) | [next without for](https://open.spotify.com/artist/6fJ41pCfWP0xVKvxfQcjbU) | [it will be fine](https://open.spotify.com/album/0D1UbvmcsT5pSZ8thasK7h) | 2:04 | 2024-01-05 |  |
 | [It's Cloudy](https://open.spotify.com/track/269vLZpnY21sgaa8i70k99) | [Synkop](https://open.spotify.com/artist/6BZBpezhFNyPBC0xE0mBE2) | [In The Loop](https://open.spotify.com/album/5RjmqV62EhYe5fgwDU7Ihi) | 2:30 | 2024-01-05 |  |
 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 | 2024-01-05 |  |
-| [Jungle](https://open.spotify.com/track/7m1tBjVEK1JQarLmrOvkic) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Jungle](https://open.spotify.com/album/52qgVVnp2H1WOoLpzddl4e) | 2:18 | 2024-01-05 |  |
+| [Jungle](https://open.spotify.com/track/7m1tBjVEK1JQarLmrOvkic) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Jungle](https://open.spotify.com/album/52qgVVnp2H1WOoLpzddl4e) | 2:18 | 2024-01-05 | 2024-01-18 |
 | [Keeps Me Wondering Why](https://open.spotify.com/track/0xcp6v3yOWE3gsILVElDEI) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Keeps Me Wondering Why](https://open.spotify.com/album/0nHwQFKQri8077vTVZrwHR) | 1:57 | 2024-01-05 |  |
 | [kick it back, kid](https://open.spotify.com/track/2I9KLecFGk6rKauCvN6eME) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [kick it back, kid & unwind to shine](https://open.spotify.com/album/3kRfqs6Qw9A9zorGmQJOUR) | 3:05 | 2024-01-05 |  |
 | [Kite](https://open.spotify.com/track/0Uyq0exEznwuyPHtUoItQG) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Kite](https://open.spotify.com/album/5S40ObOUh50xGjbuOCsilS) | 3:08 | 2024-01-05 |  |
@@ -429,6 +429,7 @@
 | [Spring in winter](https://open.spotify.com/track/737FxPwt7KEzSIvE9XzCY3) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Spring in winter](https://open.spotify.com/album/733nDLWMrS0koInGhIzE12) | 2:12 | 2024-01-05 |  |
 | [Spring Showers](https://open.spotify.com/track/3tSkN6hZZyMYIditARTLb6) | [Momentology](https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr) | [Spring Showers](https://open.spotify.com/album/2m4NdkVWuL7jN0a7iDWqNA) | 2:44 | 2024-01-05 |  |
 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 | 2024-01-05 |  |
+| [starry eyes](https://open.spotify.com/track/6HX2fTjb1lItGhMPjrcF0p) | [Cat Dreams](https://open.spotify.com/artist/5FcssevMYhJmgxxVmIUkH1) | [starry eyes](https://open.spotify.com/album/2ivknlaDl9aLesFWbhqgSz) | 1:55 | 2024-01-15 |  |
 | [starry night](https://open.spotify.com/track/4EpMnMxqGXNfmDmEV4Uq6E) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [starry night](https://open.spotify.com/album/3Izct1glTX9dzY3SMbodJO) | 2:23 | 2024-01-05 |  |
 | [stomp around](https://open.spotify.com/track/7ccSh1AqYoH8UMvWU43HQZ) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [stomp around](https://open.spotify.com/album/1pt2F8Ch6rYUGFMirLfo0f) | 2:07 | 2024-01-05 |  |
 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 | 2024-01-05 |  |

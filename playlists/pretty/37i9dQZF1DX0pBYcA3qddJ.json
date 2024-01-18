@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 52029,
+  "num_followers": 52040,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzRhNWExMzFiYWU1ZGE3OTA2YjkxNjljMzEyZDkwOTQyZjRjNmFm",
+  "snapshot_id": "MCxjZTU4ZTczMzJhNjRjYjFkMjg4NWY4NzI1NjJmYjM5NTA1OWFjMThj",
   "tracks": [
     {
       "added_at": "2024-01-16 15:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
-        "name": "NOCHE",
-        "url": "https://open.spotify.com/album/4miUxGfTsngMRsrVKwB2D4"
+        "name": "Nocturnes op.3",
+        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
       },
       "artists": [
         {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
         }
       ],
-      "duration_ms": 136881,
-      "name": "Vera",
-      "url": "https://open.spotify.com/track/5Lu0PGLEEPGNtj1YOREOCe"
+      "duration_ms": 154714,
+      "name": "Nocturnes op.3",
+      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
     },
     {
       "added_at": "2024-01-16 15:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
-        "name": "Nocturnes op.3",
-        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
+        "name": "NOCHE",
+        "url": "https://open.spotify.com/album/4miUxGfTsngMRsrVKwB2D4"
       },
       "artists": [
         {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
         }
       ],
-      "duration_ms": 154714,
-      "name": "Nocturnes op.3",
-      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
+      "duration_ms": 136881,
+      "name": "Vera",
+      "url": "https://open.spotify.com/track/5Lu0PGLEEPGNtj1YOREOCe"
     },
     {
       "added_at": "2024-01-16 15:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
-        "name": "How I Got Home",
-        "url": "https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3"
+        "name": "Streets Of Heaven",
+        "url": "https://open.spotify.com/album/6mDhDu6IcH3irMtTu3ExXD"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 219247,
-      "name": "How I Got Home",
-      "url": "https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ"
+      "duration_ms": 188854,
+      "name": "Streets Of Heaven",
+      "url": "https://open.spotify.com/track/1cnmxp3Na8HxQFLArjTwRI"
     },
     {
       "added_at": "2024-01-16 15:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
-        "name": "Streets Of Heaven",
-        "url": "https://open.spotify.com/album/6mDhDu6IcH3irMtTu3ExXD"
+        "name": "How I Got Home",
+        "url": "https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 188854,
-      "name": "Streets Of Heaven",
-      "url": "https://open.spotify.com/track/1cnmxp3Na8HxQFLArjTwRI"
+      "duration_ms": 219247,
+      "name": "How I Got Home",
+      "url": "https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ"
     },
     {
       "added_at": "2024-01-16 15:00:00",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
-        "name": "Lanterns",
-        "url": "https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3"
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
       },
       "artists": [
         {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 184773,
-      "name": "The Longest Goodbye",
-      "url": "https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea"
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
     },
     {
       "added_at": "2024-01-16 15:00:00",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2024-01-16 15:00:00",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
+        "name": "Lanterns",
+        "url": "https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
         }
       ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
+      "duration_ms": 184773,
+      "name": "The Longest Goodbye",
+      "url": "https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

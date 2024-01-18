@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Leony, Felix Jaehn
 
-659 songs - 1 day 6 hr 22 min
+660 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,7 +653,8 @@
 | [Winter Air](https://open.spotify.com/track/6R7VK5yDXjvYObzOGLRqBZ) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Winter Air](https://open.spotify.com/album/4awTH0QM0TFKmwRQK4P9XL) | 2:38 | 2023-12-08 | 2024-01-05 |
 | [Winter Wonderland](https://open.spotify.com/track/4kIEyU0Jnp4lNUibWJ7teg) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Winter Wonderland](https://open.spotify.com/album/1iRgpbqUkSsntQR3GV76H4) | 2:46 | 2023-12-08 | 2023-12-22 |
 | [Wish I Didn't Love You](https://open.spotify.com/track/0F0g54APMIhQnbDPoStu88) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Maike](https://open.spotify.com/artist/1CVoPwlZCLiNxVqLMJlR9G) | [Wish I Didn't Love You](https://open.spotify.com/album/51oYD7TRNye1ceQZzuEHEF) | 2:25 | 2024-01-11 | 2024-01-13 |
-| [Wish I Didn't Love You](https://open.spotify.com/track/5UvpdlLfvuaBd4jvmgUa5N) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Maike](https://open.spotify.com/artist/1CVoPwlZCLiNxVqLMJlR9G) | [Wish I Didn't Love You](https://open.spotify.com/album/7JlJOVJ4E2xW5KTgNHvASQ) | 2:25 | 2024-01-12 |  |
+| [Wish I Didn't Love You](https://open.spotify.com/track/3mIjD2PrB9cPnWPG4F77MQ) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Maike](https://open.spotify.com/artist/1CVoPwlZCLiNxVqLMJlR9G) | [Wish I Didn't Love You](https://open.spotify.com/album/4BKVp8Bt21w9keQInMqnhd) | 2:25 | 2024-01-12 |  |
+| [Wish I Didn't Love You](https://open.spotify.com/track/5UvpdlLfvuaBd4jvmgUa5N) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Maike](https://open.spotify.com/artist/1CVoPwlZCLiNxVqLMJlR9G) | [Wish I Didn't Love You](https://open.spotify.com/album/7JlJOVJ4E2xW5KTgNHvASQ) | 2:25 | 2024-01-12 | 2024-01-18 |
 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 | 2023-09-28 | 2023-10-24 |
 | [Wrecking Ball](https://open.spotify.com/track/5V54aYc3OkeNygXmRiPuSS) | [Basslovers United](https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu), [Dan Winter](https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz) | [Wrecking Ball](https://open.spotify.com/album/1yWsJQeD3B4KTTDm74vDKj) | 2:33 | 2023-08-31 | 2023-09-08 |
 | [Wünsch dir was](https://open.spotify.com/track/6Quqy3JY071g2d56w5VZEL) | [Jojee](https://open.spotify.com/artist/2azLzTxCm662tbpPwPwQwI), [DIRECTA](https://open.spotify.com/artist/2v4YJINKwkBY3DajPcmWm3) | [Wünsch dir was](https://open.spotify.com/album/6CLYKj7zD3Y9l4bq8NviBM) | 2:26 | 2023-12-08 | 2023-12-30 |

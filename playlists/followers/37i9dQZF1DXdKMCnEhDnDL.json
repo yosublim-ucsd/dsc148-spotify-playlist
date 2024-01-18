@@ -1,5 +1,5 @@
 {
-  "2024-01-17": 478806,
+  "2024-01-18": 478812,
   "date_first_scraped": "2023-02-25",
   "description": "De beste Nederlandse hits van vroeger en nu. Cover: Donnie & Marco Schuitmaker",
   "name": "Beste van NL",
@@ -631,6 +631,24 @@
       "duration_ms": 225019,
       "name": "Blijf Nog Even",
       "url": "https://open.spotify.com/track/1HjMwU04KY9TEeNG4MRC3S"
+    },
+    {
+      "album": {
+        "name": "Twintig (Deluxe)",
+        "url": "https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177690,
+      "name": "Blijf Zo",
+      "url": "https://open.spotify.com/track/3bHhbGAnKXlD3SIoRZr8oj"
     },
     {
       "album": {
@@ -3013,7 +3031,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 212471,
       "name": "Troostzoekers (met Froukje)",
       "url": "https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J"

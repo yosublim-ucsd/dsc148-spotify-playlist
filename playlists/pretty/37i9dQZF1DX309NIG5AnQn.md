@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Isla Mujeres ft Mora y los Metegoles
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,165 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,169 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MALA INFLUENCIA](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [MALA INFLUENCIA](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 |
+| 1 | [Mala Influencia](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mala Influencia](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 |
 | 2 | [Salir del Confort](https://open.spotify.com/track/4ObAtoz13OZ8uN2g5ADVyX) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Salir del Confort](https://open.spotify.com/album/2uk2MSf9s40VYEMD3C3CM5) | 3:16 |
 | 3 | [Promesas](https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Promesas](https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB) | 4:31 |
 | 4 | [Casa](https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Casa](https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9) | 2:49 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 89 | [Catedral](https://open.spotify.com/track/67aui76AVhF2XwGNvRcK1N) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Mariano Esain](https://open.spotify.com/artist/4bUov6Vu3oOOC1GFLYJ2u8) | [Una Línea Muy Fina Parecida a la Curva de un Corazón](https://open.spotify.com/album/2YisE6MYvZownFAhHqnGX8) | 2:53 |
 | 90 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 |
 
-Snapshot ID: `MCw2MzQyMTYyYjVkMTQ5NDJiNWRhZmFlNTgyNTUzZjQ4ZGFjY2I3YjVm`
+Snapshot ID: `MCw5OWI5YjUwODA3NGY5YThkNzMwYmFjYmY5NTkwMDY5M2Q3YjA1Yzg1`

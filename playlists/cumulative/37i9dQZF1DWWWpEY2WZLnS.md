@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Jey One y Donaty
 
-327 songs - 16 hr 29 min
+328 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [La Piedra](https://open.spotify.com/track/1iwkENJTFtLZ0kWKVKtcRb) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [La Piedra](https://open.spotify.com/album/4oJF52yFg8o1qMb5LEaMHf) | 2:38 | 2023-05-26 |  |
 | [La Romana](https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 5:00 | 2023-02-09 | 2023-08-04 |
 | [La Torta](https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La Torta](https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA) | 2:50 | 2022-11-11 | 2023-05-27 |
+| [LA TRANZA](https://open.spotify.com/track/77J96UnWCLiltC7AvwvL8A) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA TRANZA](https://open.spotify.com/album/2yNuom5MHbL91gmFLoFfIC) | 2:07 | 2024-01-17 |  |
 | [LA VIDA](https://open.spotify.com/track/3mqviLZGmvcW9cIXAPwUBG) | [La Duraca](https://open.spotify.com/artist/51qafD5MEuLHv8NeDiAupX) | [LA VIDA](https://open.spotify.com/album/5gyZsMfwa3bDarJLayommS) | 4:02 | 2022-04-15 | 2023-03-11 |
 | [LE DOY 20 MIL](https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [LE DOY 20 MIL](https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y) | 3:02 | 2023-02-18 | 2023-05-27 |
 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 | 2021-11-19 | 2023-08-04 |
@@ -230,7 +231,7 @@
 | [Piri Bambam](https://open.spotify.com/track/2ig60OGpxzFz9qHpXCAsNY) | [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Piri Bambam](https://open.spotify.com/album/5Km2nse90GAiZWWrv8zzAh) | 2:54 | 2023-02-09 | 2023-05-27 |
 | [Piropi](https://open.spotify.com/track/4l0fkozUiEQV7IX28CHEtu) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Piropi](https://open.spotify.com/album/5eWUYj0NneZYDw0VOO5Gcc) | 3:10 | 2023-02-09 | 2023-08-04 |
 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 | 2023-06-12 |  |
-| [Po Po Po](https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Po Po Po](https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1) | 2:50 | 2023-02-09 |  |
+| [Po Po Po](https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Po Po Po](https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1) | 2:50 | 2023-02-09 | 2024-01-18 |
 | [Po Po Po Pon](https://open.spotify.com/track/3bg2rT9IYLIWtecPADugBJ) | [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Alam W](https://open.spotify.com/artist/2nE1YychOhzciV00BxGIl4), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Brazil21](https://open.spotify.com/artist/1AVZxsgWEtXAGauXkPEHwm) | [Po Po Po Pon](https://open.spotify.com/album/2UdKzx5V4UK00kaJoUQHCI) | 2:51 | 2023-02-09 | 2023-03-11 |
 | [Popi \- Remix](https://open.spotify.com/track/7E5Auner2DXPjnIyJELlyJ) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Popi \(Remix\)](https://open.spotify.com/album/4tdLPkvMhz3lvCVRaGjPfA) | 3:47 | 2023-02-09 | 2023-06-28 |
 | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n) | 2:50 | 2021-11-19 | 2022-03-18 |

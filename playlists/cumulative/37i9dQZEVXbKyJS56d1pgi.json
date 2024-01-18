@@ -1249,6 +1249,28 @@
     },
     {
       "album": {
+        "name": "Antes Que Eu Morra",
+        "url": "https://open.spotify.com/album/4z6HXIvxTRp8CBRWKt48wp"
+      },
+      "artists": [
+        {
+          "name": "K410 Kid",
+          "url": "https://open.spotify.com/artist/397PXnfUp6ftdJ0ACOfl7b"
+        },
+        {
+          "name": "FariTune",
+          "url": "https://open.spotify.com/artist/01T8UainIO2mK1uH5iAuM6"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144128,
+      "name": "Antes Que Eu Morra",
+      "url": "https://open.spotify.com/track/4P6E9akmv1wg5v7mkuXRWT"
+    },
+    {
+      "album": {
         "name": "ANTI$$OCIAL",
         "url": "https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI"
       },
@@ -4928,7 +4950,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 158894,
       "name": "Depois de Ontem",
       "url": "https://open.spotify.com/track/7e2KYOwOLktfhNUk4MepmH"
@@ -13600,7 +13622,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 120014,
       "name": "Novidade na \u00c1rea",
       "url": "https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5"
@@ -16260,6 +16282,24 @@
       "duration_ms": 193200,
       "name": "Ride (feat. B\u00e1rbara Bandeira)",
       "url": "https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF"
+    },
+    {
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "album": {

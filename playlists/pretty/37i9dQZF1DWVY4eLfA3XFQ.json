@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Gorgon City and Bbyafricka",
-  "num_followers": 604449,
+  "num_followers": 604554,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDJiM2IxYTdhNzRkZjcyOTRiNzBmNzM5ZDQxNWU0YWNhZmMwYWY4",
+  "snapshot_id": "MCw5NTFiNTg0N2Y3ZTI4OWM2ZTc1OTdlMjI5NmYxMjg0MmU3ZjUzMTFh",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1049,6 +1049,22 @@
       "url": "https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Levitate",
@@ -1067,22 +1083,6 @@
       "duration_ms": 165000,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "LOVE DESIRE",
-        "url": "https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3"
-      },
-      "artists": [
-        {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "LOVE DESIRE",
-      "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "The Function",
         "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 192848,
       "name": "The Function",
       "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "LOVE DESIRE",
+        "url": "https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "LOVE DESIRE",
+      "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1837,22 +1837,6 @@
       "url": "https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV"
-      },
-      "artists": [
-        {
-          "name": "Jenn Getz & Alfie",
-          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "I Want Your Soul (Mau P Remix)",
@@ -1871,6 +1855,22 @@
       "duration_ms": 210826,
       "name": "I Want Your Soul - Mau P Remix",
       "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV"
+      },
+      "artists": [
+        {
+          "name": "Jenn Getz & Alfie",
+          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2049,22 +2049,6 @@
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Jack The House 4",
-        "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 176692,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
-    },
-    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Serena (Sllash & Doppe Remix)",
@@ -2091,6 +2075,22 @@
       "duration_ms": 173333,
       "name": "Serena - Sllash & Doppe Remix",
       "url": "https://open.spotify.com/track/2DXQY8exHvsjmvOx3jnXkt"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Jack The House 4",
+        "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 176692,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2137,6 +2137,22 @@
       "url": "https://open.spotify.com/track/02iUOsajHXDI4ncxVT6u27"
     },
     {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "What I'm Sayin",
+        "url": "https://open.spotify.com/album/3eTZQ42Toe7G2ze1rs5fgu"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 200343,
+      "name": "What I'm Sayin",
+      "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "The Rhythm",
@@ -2173,38 +2189,6 @@
       "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "What I'm Sayin",
-        "url": "https://open.spotify.com/album/3eTZQ42Toe7G2ze1rs5fgu"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 200343,
-      "name": "What I'm Sayin",
-      "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Are You Feeling This? / Stay Focused",
-        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
-      },
-      "artists": [
-        {
-          "name": "Shiba San",
-          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
-        }
-      ],
-      "duration_ms": 166380,
-      "name": "Are You Feeling This?",
-      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Ooh LALA",
@@ -2223,6 +2207,22 @@
       "duration_ms": 163048,
       "name": "Ohh LALA",
       "url": "https://open.spotify.com/track/41LNU3imoWigrWUGkHKzLH"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Are You Feeling This? / Stay Focused",
+        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        }
+      ],
+      "duration_ms": 166380,
+      "name": "Are You Feeling This?",
+      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2283,18 +2283,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
       },
       "artists": [
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
         }
       ],
-      "duration_ms": 225116,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2319,6 +2319,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 225116,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Club Rompas",
         "url": "https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF"
       },
@@ -2335,22 +2351,6 @@
       "duration_ms": 176000,
       "name": "Blisters on My Feet",
       "url": "https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2023-11-17 05:00:00",

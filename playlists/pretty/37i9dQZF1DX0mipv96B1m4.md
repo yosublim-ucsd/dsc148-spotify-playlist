@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 966 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 970 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 16 | [Bango](https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Bango](https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR) | 3:28 |
 | 17 | [Bwogana](https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Bwogana](https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY) | 3:01 |
 | 18 | [Know God](https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Know God](https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg) | 3:22 |
-| 19 | [Nkutuse](https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkutuse](https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg) | 3:09 |
-| 20 | [Wakikuba](https://open.spotify.com/track/5IOi5igNjfgKPDkwYTUJXZ) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Tupaate](https://open.spotify.com/album/620WTwKmwqIKJkIIVlqsyg) | 2:45 |
+| 19 | [Wakikuba](https://open.spotify.com/track/5IOi5igNjfgKPDkwYTUJXZ) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Tupaate](https://open.spotify.com/album/620WTwKmwqIKJkIIVlqsyg) | 2:45 |
+| 20 | [Nkutuse](https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkutuse](https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg) | 3:09 |
 | 21 | [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 |
 | 22 | [Semi Final](https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Dush](https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ) | [Semi Final](https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0) | 2:52 |
 | 23 | [Izulu](https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Geosteady1](https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu) | [King Kong](https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R) | 3:37 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 31 | [Sunset](https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Kisses at Midnight](https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye) | 3:16 |
 | 32 | [Gemazima](https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Gemazima](https://open.spotify.com/album/02QbNNia59RV4jwu00khDg) | 3:01 |
 | 33 | [Banger](https://open.spotify.com/track/6s50uTx8qzel7HwNuz0xZW) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Suspekt Leizor](https://open.spotify.com/artist/2JPOWH88plI7HcSWZugaip) | [Banger](https://open.spotify.com/album/4o2MON66Cp04sCMhbJAa7U) | 3:15 |
-| 34 | [Wulira Omuziki](https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O) | [Eezzy](https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL) | [Wulira Omuziki](https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM) | 3:16 |
+| 34 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
 | 35 | [Tick Talk](https://open.spotify.com/track/363p4oaCiyyPKWOkouJwYK) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81), [DJ LITO](https://open.spotify.com/artist/5RCEUVWtUJd79uYpz4buHT), [Sheilah Gashumba](https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2), [Slick Stuart & DJ Roja](https://open.spotify.com/artist/7ySGRkXppoKtu2fI3H3NVb) | [Tick Talk](https://open.spotify.com/album/2XwaGscvD5onaAsMxOkrvT) | 3:40 |
 | 36 | [The One](https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [The One](https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU) | 3:28 |
-| 37 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
+| 37 | [Wulira Omuziki](https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O) | [Eezzy](https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL) | [Wulira Omuziki](https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM) | 3:16 |
 | 38 | [Kyabazinga \- PALLASO Remix](https://open.spotify.com/track/6BeNjZev4leBwTOoMuMytw) | [SHON WYZ](https://open.spotify.com/artist/5AsknIWNC3wtvpLKZts9WU), [PALLASO](https://open.spotify.com/artist/0P9wmw5Iu0HSJc2Qsnmpiz) | [Kyabazinga](https://open.spotify.com/album/4r9Hp0mKo45qZiDgao3NPK) | 3:12 |
 | 39 | [Pull Up On Mi Bumpa](https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Pull Up On Mi Bumpa](https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc) | 3:47 |
 | 40 | [Hot Like Dat](https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE), [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Hot Like Dat](https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 49 | [Sibyakukayana](https://open.spotify.com/track/4kDHniS1iVtxCJEBYyZRIt) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Sibyakukayana](https://open.spotify.com/album/0MOxqo1SCkpJFfV8oqSX9I) | 3:05 |
 | 50 | [Bikole](https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [Oma Afrikana](https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf) | [Bikole](https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw) | 3:04 |
 
-Snapshot ID: `MCw3M2E4ODc1YzYzY2NhMDNkZDY3ZDJiM2Q3NDIyZWNmZTAzZjYwYjRl`
+Snapshot ID: `MCwzZjNmNTNhZmRhMmMyMDAwNzgwYmI2NjA5YjY0OTlmYzlhMWY2MjBi`

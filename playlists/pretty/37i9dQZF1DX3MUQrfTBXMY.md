@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,231 likes - 95 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,275 likes - 95 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 22 | [Amar Dehokhan \(Official\)](https://open.spotify.com/track/78EbJAZcUdahv84ZF2FyS1) | [Odd Signature](https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC) | [Amar Dehokhan \(Official\)](https://open.spotify.com/album/0hvuNELjDIOjZvzooplf4C) | 7:10 |
 | 23 | [Dukkho Bilash](https://open.spotify.com/track/6GzLQngdGBmiB4nFJQBOH3) | [The Platform Live](https://open.spotify.com/artist/5RtEfGFLlH2mZj2y0WHVKM), [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [The Platform Live: Artcell \(Season 1, Vol.1\)](https://open.spotify.com/album/1oTJGIScTr9BfHAte7kakI) | 7:11 |
 | 24 | [GhorGari](https://open.spotify.com/track/5wJLi8d6bJjPsIBZkkU3fI) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [GhorGari](https://open.spotify.com/album/3J4wRMRFiIk2b3d9iYHnL9) | 6:22 |
-| 25 | [Hashimukh](https://open.spotify.com/track/1cuKcsizpn8AQqbGejQRIy) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Jahaji](https://open.spotify.com/album/227lPdnap5pCquVunckF3R) | 4:14 |
+| 25 | [Hashimukh](https://open.spotify.com/track/08h86Mk3ypkQ9WxOPlOCLw) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Jahaji](https://open.spotify.com/album/3yYXr8O949PV7ZvDzhYaWJ) | 4:13 |
 | 26 | [Anmone 2](https://open.spotify.com/track/4bDg8Sj2q5Y8R5uJEZGkXm) | [Aurthohin](https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A) | [Aushomapto II](https://open.spotify.com/album/2qL0SdDlqkQMyc8F2aP07w) | 5:05 |
 | 27 | [Khoye Jawa Chaad](https://open.spotify.com/track/7drgfsb1o3LPQQc5tHZW8O) | [Level Five](https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8) | [Khoye Jawa Chaad](https://open.spotify.com/album/0FwGhAmAhssWTEzv9P0VYX) | 4:13 |
 | 28 | [Tamakpata](https://open.spotify.com/track/54rbC8m2E1ghnwJyTHTPM8) | [Ashes Bangladesh](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Rockoholic 3](https://open.spotify.com/album/0sUGhA7xMLiaxkTyo2aXdp) | 5:03 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 50 | [Utshorgo](https://open.spotify.com/track/0a2cxKc5iJJZ8qFEPYg2yr) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Jed](https://open.spotify.com/album/18JuuxQCdUw2L7sCUpoblH) | 5:52 |
 | 51 | [Kobe](https://open.spotify.com/track/3VlLajFwBm2D3mqWheyeOT) | [Nemesis](https://open.spotify.com/artist/694bRUlAdfIh4BpiMWI3FF) | [Tritio Jatra](https://open.spotify.com/album/2srbMkNd2F8FbQLjGCOcmo) | 4:13 |
 | 52 | [Opare](https://open.spotify.com/track/4fKZKmUXJTL3e3qzq6LFGe) | [Bay of Bengal](https://open.spotify.com/artist/6dXgxvd22ojzmwry1cXSP6) | [Nirob Durvikkho](https://open.spotify.com/album/6CqQxAKa6d8ibYyiGGSZZc) | 4:16 |
-| 53 | [Bondho Janala](https://open.spotify.com/track/5BJBaI4bpWHmiXqFadEpkM) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Bondho Janala](https://open.spotify.com/album/0ajkgxObOuVNXMzVEcvinC) | 4:03 |
+| 53 | [Bondho Janala](https://open.spotify.com/track/5e6jBOUv3HLIpK0OLAFz3q) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Bondho Janala](https://open.spotify.com/album/0zhCDEUwpXeGDI7ukyRVH7) | 4:02 |
 | 54 | [Obak Bhalobasha](https://open.spotify.com/track/2aj4w2bivH9PfIcjToMfYb) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pothchola](https://open.spotify.com/album/00r7NhiTZHBe78IvgLdxyA) | 7:19 |
 | 55 | [Aushomapto](https://open.spotify.com/track/1S10omnF4NT8QhcLNSxRse) | [Aurthohin](https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A) | [Aushomapto 1](https://open.spotify.com/album/7whmpn7eMWOJjZUaYd2AIS) | 4:59 |
 | 56 | [Godhulir Opare](https://open.spotify.com/track/0RA0vnBIXFtoC83Za1Cfoh) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Shoto Asha](https://open.spotify.com/album/0rvy3iL4b5Ckb6dGLTQD1A) | 3:48 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 94 | [Ondho Deyal](https://open.spotify.com/track/3t5RiZ8gNRK41NJucuL3ju) | [Shonar Bangla Circus](https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh) | [Hyena Express](https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq) | 5:37 |
 | 95 | [Chaya](https://open.spotify.com/track/6YdezeXuIAkGaLRgbC08Ny) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Chaya](https://open.spotify.com/album/5DHclWpAoKJglHp93WrQ2F) | 6:25 |
 
-Snapshot ID: `MCwxZGI5YzU0Y2Y5NDI1ODk0MjdiMDE1MDQ5YTg1Y2I0ODc5YTliNDk0`
+Snapshot ID: `MCxiZWJhNzYxYTY2NTQ4MGE2YThlNTQxZjUzNDNlN2FjODM4MzYwMTUw`

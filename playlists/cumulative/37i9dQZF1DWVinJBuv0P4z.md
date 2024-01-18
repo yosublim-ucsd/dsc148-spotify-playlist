@@ -4,7 +4,7 @@
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-347 songs - 19 hr 36 min
+348 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Little Bitty Pretty One](https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [Little Bitty Pretty One](https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG) | 2:23 | 2021-04-29 | 2022-07-29 |
 | [Little Willy](https://open.spotify.com/track/5yGYWR0ZTgaQbjQVq1FFbW) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Rare Studio Tracks](https://open.spotify.com/album/19d5xY27aVqLQU94dYFYdS) | 3:12 | 2021-04-29 | 2022-07-28 |
 | [Lollipop](https://open.spotify.com/track/4A6Wc861ATCUC9tZe5S52X) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Hits](https://open.spotify.com/album/4F4lUBkTplYHYYCKFW9kZf) | 2:09 | 2021-04-29 | 2022-04-20 |
+| [Lollipop](https://open.spotify.com/track/0ZOuues7b9AgBOJ0YRZMLR) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN) | 2:10 | 2023-01-03 |  |
 | [Lollipop](https://open.spotify.com/track/1hFB1obL3dCyIDigkojSTm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl) | 2:10 | 2022-05-11 | 2022-11-14 |
 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:47 | 2021-04-29 | 2023-10-20 |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2021-04-29 |  |
@@ -309,7 +310,7 @@
 | [The Stairway Of Love](https://open.spotify.com/track/74g6fBNXehjKdVFNlswnSk) | [Terry Dene](https://open.spotify.com/artist/67hWqsLUH3NHcnxHXqH3qu) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 1:58 | 2021-04-29 | 2022-07-06 |
 | [The Twist](https://open.spotify.com/track/5GVhFvXo4Q3LfM1gZi46F5) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Twist](https://open.spotify.com/album/2weCSeNXba4E04VrgOoVO3) | 2:34 | 2021-04-29 | 2022-07-29 |
 | [The Twist](https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Dancin' Party: The Chubby Checker Collection \(1960\-1966\)](https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY) | 2:35 | 2022-05-11 |  |
-| [The Wanderer](https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion](https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N) | 2:47 | 2021-04-29 |  |
+| [The Wanderer](https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion](https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N) | 2:47 | 2021-04-29 | 2024-01-18 |
 | [The Way You Do The Things You Do](https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:45 | 2021-04-29 | 2024-01-03 |
 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 | 2021-04-29 |  |
 | [There´s A Whole Lot Of Loving](https://open.spotify.com/track/5ZYrnQZRxAQZW28pJtIDO2) | [Guys 'n' Dolls](https://open.spotify.com/artist/4HsXQK2GlotKLQtOD1DLzG) | [Guys 'N Dolls, The Greatest Hits](https://open.spotify.com/album/6RAhvTgnJCLyleANO5Sgci) | 3:13 | 2021-04-29 | 2022-07-27 |

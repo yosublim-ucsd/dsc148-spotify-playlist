@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 27156,
+  "num_followers": 27179,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzg4ZGExY2I1Y2Q1MjkxYzA4MzE5NWM0ZGIxNGNjNTJhY2I0NzU3",
+  "snapshot_id": "MCwxZjU3YTkyOGJiY2ZlNWYyOGU4NDJjZTkxMmE3OTE4OTRlMjQ2ZDBh",
   "tracks": [
     {
       "added_at": "2024-01-12 05:52:00",
@@ -427,22 +427,18 @@
     {
       "added_at": "2024-01-12 05:52:00",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
+        "name": "Toxic Love Story",
+        "url": "https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY"
       },
       "artists": [
         {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Jontae",
+          "url": "https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8"
         }
       ],
-      "duration_ms": 186382,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+      "duration_ms": 140160,
+      "name": "Toxic Love Story",
+      "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
     },
     {
       "added_at": "2024-01-12 05:52:00",
@@ -463,18 +459,22 @@
     {
       "added_at": "2024-01-12 05:52:00",
       "album": {
-        "name": "Toxic Love Story",
-        "url": "https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
       "artists": [
         {
-          "name": "Jontae",
-          "url": "https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8"
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 140160,
-      "name": "Toxic Love Story",
-      "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
+      "duration_ms": 186382,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
     },
     {
       "added_at": "2024-01-12 05:52:00",

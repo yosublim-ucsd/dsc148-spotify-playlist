@@ -1,15 +1,15 @@
 {
   "description": "Fresh country music by independent artists every Wednesday. Cover: Kelsey Hart, Artwork: Fan\u00e9lie Muselier\n",
-  "num_followers": 80176,
+  "num_followers": 80378,
   "original_name": "Fresh Finds Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2RiNTI4YTFlMzVkNDQ4NjJjZGEwM2JkYjRmOWM2MWUwZDhjYmZh",
+  "snapshot_id": "MCw4YzBlYTk1ZTk1MzU3NjdlZDk5ZmRhNzQ0Y2ZkNDgyZGY4YjMyNzZl",
   "tracks": [
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Life With You",
         "url": "https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z"
@@ -25,7 +25,295 @@
       "url": "https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Honeymoonin'",
+        "url": "https://open.spotify.com/album/1VeeFISNwNcDq2H5IZC6YJ"
+      },
+      "artists": [
+        {
+          "name": "Melanie Dyer",
+          "url": "https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL"
+        }
+      ],
+      "duration_ms": 170757,
+      "name": "Honeymoonin'",
+      "url": "https://open.spotify.com/track/5OtWE5bBb6Hukk0XKalNos"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "RIP",
+        "url": "https://open.spotify.com/album/5XfGPoHtk22IuKP3Rjz5cF"
+      },
+      "artists": [
+        {
+          "name": "Stephen Carey",
+          "url": "https://open.spotify.com/artist/5R4aCM4MHu9UvbvfDgW6N1"
+        }
+      ],
+      "duration_ms": 123088,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/7lgga6Zfj8gWhrkHlScRJr"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Lasso The Moon",
+        "url": "https://open.spotify.com/album/6i0yllilua31yVEQBrf5N2"
+      },
+      "artists": [
+        {
+          "name": "DINER",
+          "url": "https://open.spotify.com/artist/7dvHlnKgD5EWy243QylvvC"
+        }
+      ],
+      "duration_ms": 175476,
+      "name": "Lasso The Moon",
+      "url": "https://open.spotify.com/track/5hyHTO27LElrlEUVXTfTxB"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "What People Think",
+        "url": "https://open.spotify.com/album/05exZlx6W37h7utyR9Go4R"
+      },
+      "artists": [
+        {
+          "name": "Styles Haury",
+          "url": "https://open.spotify.com/artist/57sVUbHm2z4eBvAnexnZEG"
+        }
+      ],
+      "duration_ms": 194434,
+      "name": "What People Think",
+      "url": "https://open.spotify.com/track/5cg3IowA0gLUdjrxYLsv3K"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/4fbxWCCKVGtGZQezQwUMzH"
+      },
+      "artists": [
+        {
+          "name": "Peytan Porter",
+          "url": "https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT"
+        }
+      ],
+      "duration_ms": 232931,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/7p8zjvhz5MYE87RHKIII88"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Where We Lie",
+        "url": "https://open.spotify.com/album/6sLuiByrgqEJ7OlKjynGrB"
+      },
+      "artists": [
+        {
+          "name": "Caleb Lathrop",
+          "url": "https://open.spotify.com/artist/40bsTqQeta2NZ0KHrRqN7w"
+        }
+      ],
+      "duration_ms": 165197,
+      "name": "Where We Lie",
+      "url": "https://open.spotify.com/track/4kwMq8fICTi4yEMmM4o9Ea"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/6x2jqKZEzTKkwU3LmXkbrJ"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "42",
+      "url": "https://open.spotify.com/track/7blnDzPBBXD5EJsY6swT36"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "sink",
+        "url": "https://open.spotify.com/album/5QhFBX4sC6UKtQZOeGBGFq"
+      },
+      "artists": [
+        {
+          "name": "Bri Fletcher",
+          "url": "https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "sink",
+      "url": "https://open.spotify.com/track/0hm9HGP4p2iWg9wvIRtECC"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/3hZX7glgDrNbO1y52uzJ87"
+      },
+      "artists": [
+        {
+          "name": "Christine Bauer",
+          "url": "https://open.spotify.com/artist/46kaVSTsHzfzYpyEEOlxyJ"
+        }
+      ],
+      "duration_ms": 224980,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/1isy2ovAX2MkaJGAf6CdBe"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Beer For That",
+        "url": "https://open.spotify.com/album/3I78nw2KWkRVc3jxGFPVNa"
+      },
+      "artists": [
+        {
+          "name": "Josh Kiser",
+          "url": "https://open.spotify.com/artist/0f3VHWozHxr2u1VcsOVWnV"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Beer For That",
+      "url": "https://open.spotify.com/track/5yVlPunFchyYRnxnWvYRTc"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Double-Wide World",
+        "url": "https://open.spotify.com/album/0cnpH1cOwCrZLhcsSDmHxC"
+      },
+      "artists": [
+        {
+          "name": "Walker County",
+          "url": "https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg"
+        }
+      ],
+      "duration_ms": 176303,
+      "name": "Double-Wide World",
+      "url": "https://open.spotify.com/track/3m34ITDHvZru65HKWFSbdV"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "A Cowboy Who Would",
+        "url": "https://open.spotify.com/album/4eh5jwKtkW95XNSslXLc1q"
+      },
+      "artists": [
+        {
+          "name": "Chancey Williams",
+          "url": "https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98"
+        }
+      ],
+      "duration_ms": 213422,
+      "name": "A Cowboy Who Would",
+      "url": "https://open.spotify.com/track/0JIMr2UNWjUDiNMxWsuKgU"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "hell i shouldn't",
+        "url": "https://open.spotify.com/album/1bB1HKRssyT5TDhGABv2fs"
+      },
+      "artists": [
+        {
+          "name": "Rob Mayes",
+          "url": "https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt"
+        }
+      ],
+      "duration_ms": 175904,
+      "name": "hell i shouldn't",
+      "url": "https://open.spotify.com/track/3xLtGnb1b8986WByonjZd9"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "'24",
+        "url": "https://open.spotify.com/album/1V6Hcxku4zaxZqUkUspX8N"
+      },
+      "artists": [
+        {
+          "name": "Maggie Baugh",
+          "url": "https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW"
+        }
+      ],
+      "duration_ms": 199858,
+      "name": "'24",
+      "url": "https://open.spotify.com/track/4zKSZ9Ym6oRJvThCXFmAwT"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "One Man Job",
+        "url": "https://open.spotify.com/album/7fCy5T5TR5qqTPWP8U7eUi"
+      },
+      "artists": [
+        {
+          "name": "Noah West",
+          "url": "https://open.spotify.com/artist/1Lh1fsAZIPhk4bbFgL1LZl"
+        }
+      ],
+      "duration_ms": 184176,
+      "name": "One Man Job",
+      "url": "https://open.spotify.com/track/74ATo8FcgiPGeYRd0dHKyN"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Favorite Dress",
+        "url": "https://open.spotify.com/album/5zF1FrN4VYwsSx5LQEhSoZ"
+      },
+      "artists": [
+        {
+          "name": "Brooks Hoffman",
+          "url": "https://open.spotify.com/artist/211ei7mBKVPTmpm023Em6Q"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "Favorite Dress",
+      "url": "https://open.spotify.com/track/0VEcsPyO4X6PumB8Iy79Sv"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "This House",
+        "url": "https://open.spotify.com/album/3xKQkMbKJwza2BaJzD9c0s"
+      },
+      "artists": [
+        {
+          "name": "Dayna Reid",
+          "url": "https://open.spotify.com/artist/5Mn3u9vT9FcjY9Wpv7nVfR"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "This House",
+      "url": "https://open.spotify.com/track/5y5y3dqpbofMmJiukO35Bh"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Missing You Lately",
+        "url": "https://open.spotify.com/album/1IWBNqGGmkAGHOgzyDwSbJ"
+      },
+      "artists": [
+        {
+          "name": "Jon Stork",
+          "url": "https://open.spotify.com/artist/4VkkpneXeQniEBuARGhF5X"
+        }
+      ],
+      "duration_ms": 240373,
+      "name": "Missing You Lately",
+      "url": "https://open.spotify.com/track/1n1oqSgflTU2bhj6D1cW2o"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Whiskey In Colorado",
         "url": "https://open.spotify.com/album/59Sb1Bj4NXFueQE8s743nG"
@@ -41,7 +329,7 @@
       "url": "https://open.spotify.com/track/0k8Y2eteuwJwwpwsltovPs"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "What Good Am I",
         "url": "https://open.spotify.com/album/6nmXPhwgbvh24DzEyNwbDa"
@@ -57,7 +345,7 @@
       "url": "https://open.spotify.com/track/3deBlWezHSXvdYJP3zPYKH"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Bad For Me",
         "url": "https://open.spotify.com/album/5DrOd0ia3DEeRYN8qBQwrz"
@@ -73,7 +361,7 @@
       "url": "https://open.spotify.com/track/5XAnb8uMIFDLNy8R4hr6m4"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Marlboros",
         "url": "https://open.spotify.com/album/6goYUOqily3a99wWA02fVO"
@@ -89,7 +377,7 @@
       "url": "https://open.spotify.com/track/15XHOyygvmfWPDNQ9Ee0D2"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "King of California",
         "url": "https://open.spotify.com/album/3Z4MNgtZzNxfMxO5WyQujo"
@@ -105,7 +393,7 @@
       "url": "https://open.spotify.com/track/1OjwkAModHwIktNf5JE6tm"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Pain of It",
         "url": "https://open.spotify.com/album/4gNNYmmoKyl5mrQNTQGnVl"
@@ -121,7 +409,7 @@
       "url": "https://open.spotify.com/track/4Utu4SO0gZZg28UTrCFEcK"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Unsingle",
         "url": "https://open.spotify.com/album/3SfDr0G5ssyZ2ChQQFfQRY"
@@ -137,7 +425,7 @@
       "url": "https://open.spotify.com/track/3KTKAEIDClZcHc1IXNqqnE"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Hung Up",
         "url": "https://open.spotify.com/album/0KiGb5Nhmdm27eb88BZHnn"
@@ -153,7 +441,7 @@
       "url": "https://open.spotify.com/track/0EVn7OMlYXkjFqnJLJnqXm"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/41x6j7jROb2v1heAsuR2bZ"
@@ -169,7 +457,7 @@
       "url": "https://open.spotify.com/track/0UjKHm78zqd802cfMAboFf"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "May Be",
         "url": "https://open.spotify.com/album/6rVMMcyRuJCwdQw0x1kr1v"
@@ -185,7 +473,7 @@
       "url": "https://open.spotify.com/track/2ETyMtIX52XJWMgbwxWfhJ"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Had To Be Wrote",
         "url": "https://open.spotify.com/album/5wKlNknqRlcQzkCpJi0UnY"
@@ -201,7 +489,7 @@
       "url": "https://open.spotify.com/track/2nWWKG5Ehmq5txbc5vJUtO"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Annie Bosko",
         "url": "https://open.spotify.com/album/4S6lo7o1wqFJSoroj535uA"
@@ -217,7 +505,7 @@
       "url": "https://open.spotify.com/track/7yfpq3klp4u0Dnq050Bqpa"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Jack",
         "url": "https://open.spotify.com/album/2Ezis6OCFUie1No89kGuRA"
@@ -233,7 +521,7 @@
       "url": "https://open.spotify.com/track/27TRbvBYhaTbuuqGiwKW5j"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "prayed harder",
         "url": "https://open.spotify.com/album/3pLAOKiDYysSO5xVwEms5F"
@@ -249,7 +537,7 @@
       "url": "https://open.spotify.com/track/0bo2f25d9EiwWJER7oMLrG"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Cold in Amarillo",
         "url": "https://open.spotify.com/album/6lttcBewYggLrjfupRTvOq"
@@ -265,7 +553,7 @@
       "url": "https://open.spotify.com/track/0dX3z3unBedzLrNbNpIwZa"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Light of Day",
         "url": "https://open.spotify.com/album/39eYjNdVxmxoCX4tvjIl5K"
@@ -281,151 +569,7 @@
       "url": "https://open.spotify.com/track/5ptaewKJSljHPLaR91tU7c"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Drinks With the Boys",
-        "url": "https://open.spotify.com/album/3aTeOxMIjKyHI0BVC8znaI"
-      },
-      "artists": [
-        {
-          "name": "Jess and Tay",
-          "url": "https://open.spotify.com/artist/6KtwQmb0IJYn2FYlE0eFCZ"
-        }
-      ],
-      "duration_ms": 184052,
-      "name": "Drinks With the Boys",
-      "url": "https://open.spotify.com/track/4H4O3hecO77pDBqSBaPuS9"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Lyin'",
-        "url": "https://open.spotify.com/album/3n3d56VHUwP85gKYNGjwab"
-      },
-      "artists": [
-        {
-          "name": "Caden McGuire",
-          "url": "https://open.spotify.com/artist/79Cot79b9cI39ptysT7Aix"
-        }
-      ],
-      "duration_ms": 167172,
-      "name": "Lyin'",
-      "url": "https://open.spotify.com/track/0CWqgK0EZrdVsIABSPq4Gb"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "My Country Mixtape, Vol. 1",
-        "url": "https://open.spotify.com/album/0kwzL03sUhsyW97rzq4U9Q"
-      },
-      "artists": [
-        {
-          "name": "Alex Angelo",
-          "url": "https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J"
-        }
-      ],
-      "duration_ms": 175687,
-      "name": "Morning Person",
-      "url": "https://open.spotify.com/track/5AhbRsZG6IqQTTomHcbupC"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Aint Gunna Drink Itself",
-        "url": "https://open.spotify.com/album/45LlqQMprhHFZSs5dstbg4"
-      },
-      "artists": [
-        {
-          "name": "Montana Taylor",
-          "url": "https://open.spotify.com/artist/7v2sdIZnQbq0V9tB9xfefz"
-        }
-      ],
-      "duration_ms": 182833,
-      "name": "Aint Gunna Drink Itself",
-      "url": "https://open.spotify.com/track/5CFnfRay7Ogb84XYJzXlkU"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "This Apartment",
-        "url": "https://open.spotify.com/album/1hrvVin2STHmODZ8NmLDBe"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe"
-        }
-      ],
-      "duration_ms": 188849,
-      "name": "This Apartment",
-      "url": "https://open.spotify.com/track/1jP52ywIbFAp2ColvChMVT"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Front Row Seat The EP",
-        "url": "https://open.spotify.com/album/7ktEhTYtzz45YHs0HWKYO4"
-      },
-      "artists": [
-        {
-          "name": "David Unlayao",
-          "url": "https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk"
-        }
-      ],
-      "duration_ms": 181588,
-      "name": "He Would",
-      "url": "https://open.spotify.com/track/7jmY6aLK1LKugWvukQANlS"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Need A Reminder",
-        "url": "https://open.spotify.com/album/3QgtapnxexBguWWdeCpnxj"
-      },
-      "artists": [
-        {
-          "name": "Todd Cameron",
-          "url": "https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL"
-        }
-      ],
-      "duration_ms": 190524,
-      "name": "Need A Reminder",
-      "url": "https://open.spotify.com/track/5U0cDocf5OPF0ErE2uW0nR"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Poor Man's Anthem",
-        "url": "https://open.spotify.com/album/6txiJuwq4g4B67jyOJc0p3"
-      },
-      "artists": [
-        {
-          "name": "Brendan Walter",
-          "url": "https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat"
-        }
-      ],
-      "duration_ms": 240486,
-      "name": "Poor Man's Anthem",
-      "url": "https://open.spotify.com/track/6ROFOm1vbjCXzdjPV8waEN"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Symptoms of You",
-        "url": "https://open.spotify.com/album/0EJlfJapjyu60TGwX87phr"
-      },
-      "artists": [
-        {
-          "name": "Gracie Carol",
-          "url": "https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO"
-        }
-      ],
-      "duration_ms": 157682,
-      "name": "Symptoms of You",
-      "url": "https://open.spotify.com/track/4OwhJglha3HQ8zSJGsXjIm"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Late",
         "url": "https://open.spotify.com/album/45tddrgl43M0LR3jLB2htc"
@@ -441,7 +585,7 @@
       "url": "https://open.spotify.com/track/31EsY9FZ4tOhN1SxzPgupn"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Ran Out of Road",
         "url": "https://open.spotify.com/album/0F1fLw1ijIADfT8jd0Belc"
@@ -457,7 +601,7 @@
       "url": "https://open.spotify.com/track/3lRXyRwGTL3FnaYCNGYjAm"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Boots in a Bar",
         "url": "https://open.spotify.com/album/3q45XJgtkEbJDUGb6bP0tl"
@@ -473,7 +617,7 @@
       "url": "https://open.spotify.com/track/4xJLaoaxdR3cUkp9tpvAuK"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Tellin' On You",
         "url": "https://open.spotify.com/album/2OqHnuLLii5wrbzuOeefkT"
@@ -489,7 +633,7 @@
       "url": "https://open.spotify.com/track/1J0APEDa6gfjPnGmFqwZzK"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/4sZ9rEQzBAmCOa1JYPJ8I1"
@@ -505,7 +649,7 @@
       "url": "https://open.spotify.com/track/1WWmno6YAAj4H6DsRDvqZ1"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/23mdUcRpEqbX7nCvOcaUtc"
@@ -521,7 +665,7 @@
       "url": "https://open.spotify.com/track/41uS75lnqpIfyYA9haYNsc"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Rainin' in Dallas",
         "url": "https://open.spotify.com/album/7vkRag6sGvwVHeNiRihqQs"
@@ -537,7 +681,7 @@
       "url": "https://open.spotify.com/track/5R1VLQaMBkfw9Hc1AANOEw"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Lay It All On Me",
         "url": "https://open.spotify.com/album/6x9Bg511ppKcoJFWPjP9r5"
@@ -553,7 +697,7 @@
       "url": "https://open.spotify.com/track/3d3c8quA4YWqwTe940UdCc"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Drunk, Stoned, or Sober",
         "url": "https://open.spotify.com/album/2l5vi8KM2igaDFI5tupyGa"
@@ -569,7 +713,7 @@
       "url": "https://open.spotify.com/track/7rmWdcMuBiqlVvSZga6pUM"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Every Boy's Girl",
         "url": "https://open.spotify.com/album/5rVr44whWhl5vQP096mjiY"
@@ -585,7 +729,7 @@
       "url": "https://open.spotify.com/track/2OjCphtFcgMncFiRZFyuZ0"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Good On You",
         "url": "https://open.spotify.com/album/5Zcxg4zmO2UoWPYnceUknq"
@@ -601,7 +745,7 @@
       "url": "https://open.spotify.com/track/5EY8kdEyyGf9Lx0bBGUGZa"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Lonesome Road",
         "url": "https://open.spotify.com/album/7LTYYc95z5cAiHi20CnGrE"
@@ -617,7 +761,7 @@
       "url": "https://open.spotify.com/track/1TDBzKLBoJqEpoZLtqwp8f"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Like It's Your Last",
         "url": "https://open.spotify.com/album/3BMgZpyxYTGrYkV6VnqnaS"
@@ -633,7 +777,7 @@
       "url": "https://open.spotify.com/track/7acQ4alyNqegxDdclnncX4"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Hold On (Dear Life)",
         "url": "https://open.spotify.com/album/418bU6QtokGr1J2LD4BC2e"
@@ -649,7 +793,7 @@
       "url": "https://open.spotify.com/track/0PCVhCiASOHu1Tmt2KdpF4"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "Lightning In A Bottle",
         "url": "https://open.spotify.com/album/1XvkvVgxyM9MeI7A6MoZeW"
@@ -665,7 +809,7 @@
       "url": "https://open.spotify.com/track/4GShWDhg0Owxov6D3e3y3l"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
+      "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "All Night Longer",
         "url": "https://open.spotify.com/album/5jKe6XfmMaepzDQlJMwRTN"
@@ -679,6 +823,150 @@
       "duration_ms": 175973,
       "name": "All Night Longer",
       "url": "https://open.spotify.com/track/2ZyUI5u4aeGZKhOl8cqehj"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Drinks With the Boys",
+        "url": "https://open.spotify.com/album/3aTeOxMIjKyHI0BVC8znaI"
+      },
+      "artists": [
+        {
+          "name": "Jess and Tay",
+          "url": "https://open.spotify.com/artist/6KtwQmb0IJYn2FYlE0eFCZ"
+        }
+      ],
+      "duration_ms": 184052,
+      "name": "Drinks With the Boys",
+      "url": "https://open.spotify.com/track/4H4O3hecO77pDBqSBaPuS9"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Lyin'",
+        "url": "https://open.spotify.com/album/3n3d56VHUwP85gKYNGjwab"
+      },
+      "artists": [
+        {
+          "name": "Caden McGuire",
+          "url": "https://open.spotify.com/artist/79Cot79b9cI39ptysT7Aix"
+        }
+      ],
+      "duration_ms": 167172,
+      "name": "Lyin'",
+      "url": "https://open.spotify.com/track/0CWqgK0EZrdVsIABSPq4Gb"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "My Country Mixtape, Vol. 1",
+        "url": "https://open.spotify.com/album/0kwzL03sUhsyW97rzq4U9Q"
+      },
+      "artists": [
+        {
+          "name": "Alex Angelo",
+          "url": "https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J"
+        }
+      ],
+      "duration_ms": 175687,
+      "name": "Morning Person",
+      "url": "https://open.spotify.com/track/5AhbRsZG6IqQTTomHcbupC"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Aint Gunna Drink Itself",
+        "url": "https://open.spotify.com/album/45LlqQMprhHFZSs5dstbg4"
+      },
+      "artists": [
+        {
+          "name": "Montana Taylor",
+          "url": "https://open.spotify.com/artist/7v2sdIZnQbq0V9tB9xfefz"
+        }
+      ],
+      "duration_ms": 182833,
+      "name": "Aint Gunna Drink Itself",
+      "url": "https://open.spotify.com/track/5CFnfRay7Ogb84XYJzXlkU"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "This Apartment",
+        "url": "https://open.spotify.com/album/1hrvVin2STHmODZ8NmLDBe"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe"
+        }
+      ],
+      "duration_ms": 188849,
+      "name": "This Apartment",
+      "url": "https://open.spotify.com/track/1jP52ywIbFAp2ColvChMVT"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Front Row Seat The EP",
+        "url": "https://open.spotify.com/album/7ktEhTYtzz45YHs0HWKYO4"
+      },
+      "artists": [
+        {
+          "name": "David Unlayao",
+          "url": "https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk"
+        }
+      ],
+      "duration_ms": 181588,
+      "name": "He Would",
+      "url": "https://open.spotify.com/track/7jmY6aLK1LKugWvukQANlS"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Need A Reminder",
+        "url": "https://open.spotify.com/album/3QgtapnxexBguWWdeCpnxj"
+      },
+      "artists": [
+        {
+          "name": "Todd Cameron",
+          "url": "https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL"
+        }
+      ],
+      "duration_ms": 190524,
+      "name": "Need A Reminder",
+      "url": "https://open.spotify.com/track/5U0cDocf5OPF0ErE2uW0nR"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Poor Man's Anthem",
+        "url": "https://open.spotify.com/album/6txiJuwq4g4B67jyOJc0p3"
+      },
+      "artists": [
+        {
+          "name": "Brendan Walter",
+          "url": "https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat"
+        }
+      ],
+      "duration_ms": 240486,
+      "name": "Poor Man's Anthem",
+      "url": "https://open.spotify.com/track/6ROFOm1vbjCXzdjPV8waEN"
+    },
+    {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "Symptoms of You",
+        "url": "https://open.spotify.com/album/0EJlfJapjyu60TGwX87phr"
+      },
+      "artists": [
+        {
+          "name": "Gracie Carol",
+          "url": "https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO"
+        }
+      ],
+      "duration_ms": 157682,
+      "name": "Symptoms of You",
+      "url": "https://open.spotify.com/track/4OwhJglha3HQ8zSJGsXjIm"
     }
   ],
   "unique_name": "Fresh Finds Country",

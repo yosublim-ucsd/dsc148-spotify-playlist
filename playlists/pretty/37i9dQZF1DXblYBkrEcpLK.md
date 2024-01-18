@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒグチアイ \(Ai Higuchi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,065 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,146 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 |
 | 50 | [JUNGLE FIRE \- feat\. MOTSU](https://open.spotify.com/track/2D8QxudJ7fEAijANn3UkQA) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [JUNGLE FIRE \(feat\. MOTSU\)](https://open.spotify.com/album/6xVTtIs5JaZnv6hMV1kuz8) | 4:10 |
 
-Snapshot ID: `MCxjZTQ0YjJlMjk0YTA2NDRkZGRhZjUxMTFhMGU2ZjBiMWFjZTE5Zjc5`
+Snapshot ID: `MCwxYWRmYTVjMWEyZjk3MTgwYTZiZmQ3NGM3ZTdhZjc4MThiYzA0M2Uw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con No Te Va Gustar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,465 likes - 49 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,482 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 48 | [Promesa Feliz](https://open.spotify.com/track/7zHBqEWopKaap99FSYtxT7) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [Promesa Feliz](https://open.spotify.com/album/0yCDfUXwys2BwnE1gMjt0C) | 2:13 |
 | 49 | [Saludos Desde Cdmx](https://open.spotify.com/track/41zCP38LBz7NoBINN3oImg) | [Moy García](https://open.spotify.com/artist/52dodX6iPkm6461k9VsK2r) | [Aún Sirvo, Trátame Bien: \(](https://open.spotify.com/album/22f6ZS2LbSzh3RQBRgGrG4) | 2:16 |
 
-Snapshot ID: `MCxlNWM4ZmVmYjcyZjI3ZWYwODkzYTUwOWFhMTY5MGFkMTA4MWE3MDZj`
+Snapshot ID: `MCw2Y2VjMDdmN2JiYzNjZDViNDAzZGIzNDhkNmM3ZmNhZmE3NTRhNTVl`

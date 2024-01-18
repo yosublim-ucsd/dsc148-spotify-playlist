@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 70 | [Vanhatie](https://open.spotify.com/track/2CKL9mnBSVyp25XD262LMM) | [OK:KO](https://open.spotify.com/artist/4IKmn7iXDZUlmXShSemrrW) | [Liesu](https://open.spotify.com/album/5n86VY1BoK0gQB8YZw21Pp) | 6:44 |
 | 71 | [Coast](https://open.spotify.com/track/3ELSoIARBzDrqpbTav5DAD) | [Sämpi Ensemble](https://open.spotify.com/artist/0ayqLgmmLwjwaf5JQaoXzi) | [Scenes](https://open.spotify.com/album/4SgIdBAzCLmLCm9il7eWZj) | 4:47 |
 
-Snapshot ID: `MCxiOGFlYzE1MzIwZDRmN2ZmYjYxY2MwZjU4N2I0YzUzYmRmYzQwODVm`
+Snapshot ID: `MCxkN2QzNjM2MDZiYTJlNTQ0NTA4Y2NkYWQ0YjhkODc4MmM5YTgxNTFi`

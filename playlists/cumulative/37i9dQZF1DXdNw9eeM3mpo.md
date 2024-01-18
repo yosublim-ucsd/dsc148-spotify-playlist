@@ -4,7 +4,7 @@
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-310 songs - 18 hr 54 min
+311 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,8 @@
 | [Somos de Aquí y de Allá](https://open.spotify.com/track/3rr9eyzXc0M8NuqvYZ67y8) | [MEZ\-K](https://open.spotify.com/artist/2ax2F8KW5sK9yMJEEpivqP) | [Somos de Aquí y de Allá](https://open.spotify.com/album/37U305QpECv1h7yNo6t941) | 2:35 | 2023-07-07 | 2023-10-08 |
 | [Somos los Dos](https://open.spotify.com/track/5HIJNSEjvHeQZmFsHv2J8L) | [Percance](https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY), [Big Javy](https://open.spotify.com/artist/2ZOu3MoZXWcJjQLedo40Xp) | [Somos los Dos](https://open.spotify.com/album/6lwqlLrOUXDZEeC7CHMYy3) | 3:22 | 2021-12-21 | 2022-07-09 |
 | [Song Bomb](https://open.spotify.com/track/112dsuBzOAVvDbY7qvkhDD) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Super Riddim Internacional Volumen 1](https://open.spotify.com/album/7xZ3YEl1nX77akD4rOaw2r) | 3:42 | 2021-12-21 | 2023-04-22 |
-| [Sonia](https://open.spotify.com/track/7EV6gXmbN5bzsR7Z3s3LpD) | [Mr\. Pucho](https://open.spotify.com/artist/1UEvN2UU9EiUi4CVQ2eP0p) | [Sonia](https://open.spotify.com/album/6tu85sTYKVtl7fAOuQB2xB) | 2:50 | 2023-09-29 |  |
+| [Sonia](https://open.spotify.com/track/2lyYhNY2NO7cHiL3BAQTNM) | [Mr\. Pucho](https://open.spotify.com/artist/1UEvN2UU9EiUi4CVQ2eP0p) | [Sonia](https://open.spotify.com/album/6yr9McxiaHAvqDQcyaqdFt) | 2:50 | 2023-11-24 |  |
+| [Sonia](https://open.spotify.com/track/7EV6gXmbN5bzsR7Z3s3LpD) | [Mr\. Pucho](https://open.spotify.com/artist/1UEvN2UU9EiUi4CVQ2eP0p) | [Sonia](https://open.spotify.com/album/6tu85sTYKVtl7fAOuQB2xB) | 2:50 | 2023-09-29 | 2024-01-18 |
 | [Sound System](https://open.spotify.com/track/14al8x5l2Xb2Z53vOo8RSd) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Sound System](https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N) | 1:45 | 2021-12-21 | 2022-03-07 |
 | [Soy Soledad](https://open.spotify.com/track/50QvMSeHtzMjDGhgtWJDsi) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Soy Soledad](https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8) | 3:28 | 2022-03-25 | 2022-07-28 |
 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 | 2021-12-21 | 2023-04-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 19,013 likes - 542 songs - 1 day 8 hr 33 min
+[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 19,007 likes - 542 songs - 1 day 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

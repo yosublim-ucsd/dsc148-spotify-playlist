@@ -4,14 +4,14 @@
 
 > \#SadCuhHour gems 🥀🥹
 
-379 songs - 21 hr 38 min
+380 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$ad Boyz 4 Life](https://open.spotify.com/track/6KqKgqMSLcRAXxOjoQpTIa) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:46 | 2022-01-01 | 2023-05-02 |
 | [$AD BOYZ II](https://open.spotify.com/track/68cUJFq7aAbgeurngTmngL) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:28 | 2023-10-06 |  |
 | [1942](https://open.spotify.com/track/4HNeDJOEoTQqQKUPy88rCL) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF) | [1942](https://open.spotify.com/album/1u6tT1pGTGqdJXmBIagCT9) | 3:57 | 2022-01-01 | 2022-07-23 |
-| [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 | 2022-09-23 |  |
+| [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 | 2022-09-23 | 2024-01-18 |
 | [24 Horas](https://open.spotify.com/track/0T8lt51Lvj1OAj750PH6X9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 5:17 | 2022-02-11 | 2022-07-29 |
 | [2:26am](https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [2:26am](https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF) | 3:21 | 2022-07-22 | 2023-01-26 |
 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 | 2023-01-27 | 2023-02-25 |
@@ -279,6 +279,7 @@
 | [Recordando](https://open.spotify.com/track/4kDe3NzNqfQwkr7VEgbfwh) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Recordando](https://open.spotify.com/album/5bTnGQJ9YS1Rat4ksg09by) | 3:18 | 2023-10-06 | 2024-01-06 |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2022-02-11 |  |
 | [Recuerdos](https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Recuerdos](https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws) | 3:11 | 2022-01-01 | 2023-10-01 |
+| [Recuerdos](https://open.spotify.com/track/4VYIjka3jU37abseXFmiDE) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Recuerdos](https://open.spotify.com/album/4QSSpz2Vsd8A9K7AI0O3sK) | 3:11 | 2024-01-05 |  |
 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 | 2022-01-01 |  |
 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 | 2022-01-01 |  |
 | [Sabes](https://open.spotify.com/track/5t611UH604oEYrYUm6SVd1) | [Uliseesssss](https://open.spotify.com/artist/6IuHLYVEFYdAyXJ95RU66t) | [Sabes](https://open.spotify.com/album/4e9NkTft117gtD535Kj2xl) | 3:38 | 2022-01-01 | 2023-01-26 |

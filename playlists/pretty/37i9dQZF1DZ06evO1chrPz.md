@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,007 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,020 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 22 | [You're Gonna Be Ok](https://open.spotify.com/track/35sVDinWrh5nYjpzPXe4qz) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 4:21 |
 | 23 | [You Make Me Brave \- Live](https://open.spotify.com/track/14I9CpiA1CMTdLga8SKAjJ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:06 |
 | 24 | [Reckless Love](https://open.spotify.com/track/2uKwH2Wc0vtVXrRieOMxlu) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 5:41 |
-| 25 | [Fall Afresh](https://open.spotify.com/track/42TAP4olyZONFmNT48O10D) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:24 |
-| 26 | [We Praise You \- Live](https://open.spotify.com/track/4ECDvXMDVz3nUXfZOqF9j2) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 6:56 |
-| 27 | [Tremble](https://open.spotify.com/track/4cMLthbMtEEghWm4C6jkfO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2) | 3:21 |
+| 25 | [Tremble](https://open.spotify.com/track/4cMLthbMtEEghWm4C6jkfO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2) | 3:21 |
+| 26 | [Fall Afresh](https://open.spotify.com/track/42TAP4olyZONFmNT48O10D) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:24 |
+| 27 | [We Praise You \- Live](https://open.spotify.com/track/4ECDvXMDVz3nUXfZOqF9j2) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 6:56 |
 | 28 | [Pieces \- Live](https://open.spotify.com/track/56ECskEyc7XqOCyRPruZ37) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Have It All \(Live\)](https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2) | 5:39 |
 | 29 | [By the Grace of God](https://open.spotify.com/track/2NLGDqOvvIU1ZNzAFHeVcO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 5:19 |
 | 30 | [Nothing Else \- Live](https://open.spotify.com/track/74uc1GXUF00V6jLTGS2iNF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Nothing Else \(Live\)](https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP) | 8:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [I Belong To Jesus \- Live](https://open.spotify.com/track/0mhKPUIHNEz4tuWNxNEqCS) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 8:39 |
 | 50 | [Mi Esperanza Está en Jesús \(Live\)](https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Bethel Music en Español](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 4:51 |
 
-Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDBhMjQ2MWYxZTY0ZDY0ZTMxYzM5ZWUwNGU2Yzk3NWMwZg==`
+Snapshot ID: `Mjg0MjQ4NzgsMDAwMDAwMDBhNTE4MTBhN2RlNmEyNmVkOTk5OWI1MmY0YTQxYTE3YQ==`

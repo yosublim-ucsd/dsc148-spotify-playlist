@@ -4,7 +4,7 @@
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: Wednesday
 
-64 songs - 2 hr 51 min
+65 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [The Shower / The Dark](https://open.spotify.com/track/10x4iora8uw38Q2wzn7R1W) | [Mark Korven](https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8) | [No One Gets Out Alive \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/7yWKI7rz3Yz7JkyDSz8Woy) | 2:04 | 2022-07-15 |  |
 | [The Shower / The Dark](https://open.spotify.com/track/4hW8XfJxFUGeWXFhUPNz5S) | [Mark Korven](https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8) | [No One Gets Out Alive \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1FQ0xeAThHmRWGTxzBBgVK) | 2:04 | 2021-10-25 | 2022-11-17 |
 | [Time of the Season](https://open.spotify.com/track/6im4Ks6SWUqwTGp7Cft1e7) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Time of the Season](https://open.spotify.com/album/3xhlrGx740Jp150YJMD40I) | 3:34 | 2021-10-25 | 2023-07-28 |
-| [Time of the Season \- Mono Version](https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp) | 3:34 | 2022-07-15 |  |
+| [Time of the Season \- Mono Version](https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp) | 3:34 | 2022-07-15 | 2024-01-18 |
+| [Time of the Season \- Mono Version](https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5) | 3:34 | 2023-09-08 |  |
 | [Time Warp \(feat\. Ross Lynch, Jaz Sinclair, Lachlan Watson & Jonathan Whitesell\)](https://open.spotify.com/track/6en12s2Ocdq3djFzddKnWT) | [Cast of Chilling Adventures of Sabrina](https://open.spotify.com/artist/4Y43D0ynLoyZ3HxOPGxxFq), [Jaz Sinclair](https://open.spotify.com/artist/1r1KZELI7St1vW7NAgdojS), [Jonathan Whitesell](https://open.spotify.com/artist/4WyNg49cyglYzuxQDQDPxr), [Lachlan Watson](https://open.spotify.com/artist/480ajAJgy6thXBJ3u9GPSC), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH) | [Chilling Adventures of Sabrina: Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3ig71BXB7CSFeaM3nYbIAX) | 2:45 | 2021-10-25 |  |
 | [Undercurrents](https://open.spotify.com/track/2YsL81CORA2J71h4Gh50Ow) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Bird Box \(Abridged\) \[Original Score\]](https://open.spotify.com/album/7i42GDZyq7HKW0kzW0djCW) | 4:03 | 2021-10-25 |  |
 | [Underneath](https://open.spotify.com/track/2c6aqx1qoJYIy6jycbdQ9f) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [Liebes Kind \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4D1pxDnypVfBMkBlz2rb9y) | 2:03 | 2023-09-08 |  |

@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: AUR
 
-262 songs - 14 hr 45 min
+263 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Yaari](https://open.spotify.com/track/2a2k6Ny2nMhwEvCoa8nnnU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Yaari](https://open.spotify.com/album/4l1LuBBpG0vEI6VqbPHcxG) | 2:55 | 2022-05-20 | 2023-01-13 |
 | [Yaqeen](https://open.spotify.com/track/4hgBwvVJqdCDxgULc926qf) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Yaqeen](https://open.spotify.com/album/3r5cMfjMehfJPCVRdrlwmt) | 3:54 | 2022-05-20 | 2022-07-16 |
 | [Ye Teri Meri Kahani](https://open.spotify.com/track/1IsMTMT8ASvZqApzGKkAG9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Ye Teri Meri Kahani](https://open.spotify.com/album/0iW00NWqfNMXBxfAfJ9TDg) | 3:21 | 2022-09-01 | 2023-07-25 |
+| [Zaalima](https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zaalima](https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5) | 3:02 | 2024-01-17 |  |
 | [Zakir](https://open.spotify.com/track/1ZGLauVoD74BU8y8O5btcO) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Hindi Gaane](https://open.spotify.com/album/5fOzwws4qbE6ZPKQU3BSHI) | 3:41 | 2024-01-05 |  |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2022-05-20 | 2022-09-02 |
 | [Zamanay](https://open.spotify.com/track/1KD6tWKf9z3mx8n8E9eYle) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/6P0skMRTD2kXyJstKa6v6G) | 2:42 | 2024-01-05 |  |

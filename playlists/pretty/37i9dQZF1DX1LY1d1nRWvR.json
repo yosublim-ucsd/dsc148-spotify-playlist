@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 33267,
+  "num_followers": 33279,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjlhYmEzNDBkODc2MWY4NTU2M2YzNDU1MzYzZTRmZjk0NjFlY2Yy",
+  "snapshot_id": "MCw0NzJkNGJlYjRmNjk3ZDdhOWExMTA2MTc1Y2FjNjdmZTkxNzBiNmM3",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -699,6 +699,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Umama - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/31UdsiaxpCNVTndrA75zDw"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "duration_ms": 244928,
+      "name": "Umama - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Xover",
         "url": "https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp"
       },
@@ -723,38 +739,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Umama - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/31UdsiaxpCNVTndrA75zDw"
-      },
-      "artists": [
-        {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
-        }
-      ],
-      "duration_ms": 244928,
-      "name": "Umama - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Moodymann",
-        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 708706,
-      "name": "Sloppy Cosmic",
-      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "New Tab",
         "url": "https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP"
       },
@@ -771,22 +755,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Sankofa Season",
-        "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
+        "name": "Moodymann",
+        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
       },
       "artists": [
         {
-          "name": "Andrew Ashong",
-          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
-        },
-        {
-          "name": "Kaidi Tatham",
-          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
         }
       ],
-      "duration_ms": 342591,
-      "name": "Eye Mo K",
-      "url": "https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO"
+      "duration_ms": 708706,
+      "name": "Sloppy Cosmic",
+      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -811,6 +791,26 @@
       "duration_ms": 295606,
       "name": "Tanto Tiempo - Village Cuts Remix",
       "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Sankofa Season",
+        "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ashong",
+          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
+        },
+        {
+          "name": "Kaidi Tatham",
+          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
+        }
+      ],
+      "duration_ms": 342591,
+      "name": "Eye Mo K",
+      "url": "https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO"
     },
     {
       "added_at": "2021-10-08 17:36:35",

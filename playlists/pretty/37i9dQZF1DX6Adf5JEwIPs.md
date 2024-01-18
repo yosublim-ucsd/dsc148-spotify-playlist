@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,243 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,277 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 17 | [Besito Con Humo](https://open.spotify.com/track/463TMJNU67VDASLEHRGZmU) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Besito Con Humo](https://open.spotify.com/album/6RLEUN4DBKqaKJiti4TP0H) | 2:25 |
 | 18 | [Kalashnikov](https://open.spotify.com/track/3XoulLjDwUr15dxttX9G5X) | [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Kalashnikov](https://open.spotify.com/album/2xKPvHGkn4lEXbU1GHezoe) | 2:37 |
 | 19 | [Ya No Me Dueles](https://open.spotify.com/track/0MDYYptUiQEqB7srakmdXh) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Ya No Me Dueles](https://open.spotify.com/album/1tjCoF8LJF1K5bABaPFsR6) | 2:23 |
-| 20 | [Solo Lo Logré](https://open.spotify.com/track/6p22iJdSMaMxtorl9foiQW) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [El Primo](https://open.spotify.com/artist/6Se57Y0JTwcAJQeNXLmjwr) | [Solo Lo Logré](https://open.spotify.com/album/4nZSTOOxHBRCCHvFQuGGCx) | 2:49 |
+| 20 | [Solo Lo Logré](https://open.spotify.com/track/6p22iJdSMaMxtorl9foiQW) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [El Primo](https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8) | [Solo Lo Logré](https://open.spotify.com/album/4nZSTOOxHBRCCHvFQuGGCx) | 2:49 |
 | 21 | [Poquito a Poco](https://open.spotify.com/track/3AX1CDm9em6LzYW0bDhCKe) | [Los Pikadientes De Caborca](https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P), [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Poquito a Poco](https://open.spotify.com/album/70oAC2CoX0WLTVWpT1wCC3) | 2:41 |
 | 22 | [Tu Condena](https://open.spotify.com/track/2xwxwdqSq4imA0WDYuT70Z) | [Adolfo Urias y Su Lobo Norteño](https://open.spotify.com/artist/65g3CsZVaukwdqu6n5S09K) | [Tu Condena](https://open.spotify.com/album/1hyKTu7sPWpsZjWCdeTKCY) | 2:54 |
 | 23 | [Zero Miedo](https://open.spotify.com/track/20FlfAVPC5gjuPDdzhvX9t) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Zero Miedo](https://open.spotify.com/album/3gqgPjk4hr7lMdSqiNThaD) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R) | 3:01 |
 | 50 | [956](https://open.spotify.com/track/1wM5VDXeR8o0ueQIvAaJib) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [956](https://open.spotify.com/album/5GfFyWL5lWT3JQ5WsUE0kz) | 2:22 |
 
-Snapshot ID: `MCwxNDAzOTE5NjhlZjc4ZTk0MTE5ZGM3MDdlMTYyZTk4ZjcyNWFjNzU2`
+Snapshot ID: `MCw2YjQxNTU3NWM5MTBmYmVjNjY4Y2QyNWQ4NmZjOTU5ZGExODc4Nzlk`

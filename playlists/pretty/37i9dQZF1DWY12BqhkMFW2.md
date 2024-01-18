@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,280 likes - 35 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,411 likes - 35 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,6 +42,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 32 | [Right And A Wrong Way](https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 5:11 |
 | 33 | [As](https://open.spotify.com/track/750vuAyjSZGt53r570s8ML) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 5:31 |
 | 34 | [Love Me in a Special Way](https://open.spotify.com/track/4tQXXFad6eReU2jDjE9UuP) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [A Nu Day](https://open.spotify.com/album/4cYOUdfGAj9E2IOCWTo3ZM) | 4:50 |
-| 35 | [Stop, Look, Listen To Your Heart](https://open.spotify.com/track/1IDqjd1izHqfglec625jgJ) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [The Best Of Will Downing: The Millennium Collection \- 20th Century Masters](https://open.spotify.com/album/25s9D0Llmg6ZSvFCK9MDAM) | 3:41 |
+| 35 | [Open Your Eyes](https://open.spotify.com/track/4l1CuxaEzk15o3g6bn7lZU) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Sketches Of A Man](https://open.spotify.com/album/5ExjqihhscTpMJa6Cj51E9) | 3:21 |
 
-Snapshot ID: `MCw4ODc0ZWViNzUzNzM3YjAwNWU0ZjdkMGY0NWIwMDc4NDM0MzJmMzRl`
+Snapshot ID: `MCw2NzkyZjJjMmYwNjQxZTQwMzAyZThkMDI3OTMyMGM0MmRjNzZiNDVj`

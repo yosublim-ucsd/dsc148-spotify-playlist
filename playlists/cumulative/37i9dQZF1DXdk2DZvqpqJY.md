@@ -4,14 +4,14 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-413 songs - 1 day 1 hr 36 min
+414 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2021](https://open.spotify.com/track/2dgbGjFtZzUMq6iyDC39a6) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [2021](https://open.spotify.com/album/6m2Lew9fzZPIXJfjsHKsQG) | 2:08 | 2022-02-17 | 2022-05-04 |
 | [713](https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [713](https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf) | 5:21 | 2022-02-17 | 2023-03-21 |
 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2023-03-20 |  |
-| [A Simple Book](https://open.spotify.com/track/2djXr7LTah8IBtXTviKLA7) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:35 | 2023-05-04 |  |
+| [A Simple Book](https://open.spotify.com/track/2djXr7LTah8IBtXTviKLA7) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:35 | 2023-05-04 | 2024-01-18 |
 | [A Slice Of The Top](https://open.spotify.com/track/6FYkE7YkOeTXc4m6tc2em6) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:11 | 2022-02-17 | 2022-04-22 |
 | [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 | 2023-03-20 |  |
 | [A Window to Your Soul](https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 3:40 | 2023-04-20 |  |
@@ -304,6 +304,7 @@
 | [SMiLE](https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [SMiLE](https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk) | 3:11 | 2022-04-28 | 2022-05-25 |
 | [So What](https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Cool Cats Lofi](https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3) | [So What](https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C) | 2:09 | 2022-03-11 | 2022-06-03 |
 | [Soft Lad](https://open.spotify.com/track/2D5WUT4UAYqceSBUmwstDf) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Soft Lad](https://open.spotify.com/album/4y9M38huG2kr1sOGZnqzYw) | 2:54 | 2023-08-31 |  |
+| [Soft Moments](https://open.spotify.com/track/0cGUiaeg4Ty9MxXIttAnQB) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Soft Moments](https://open.spotify.com/album/2jqAwZGJu7ymVMmo3qYTKD) | 3:22 | 2024-01-12 |  |
 | [Soliloquy](https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Soliloquy](https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34) | 2:23 | 2023-05-04 |  |
 | [Solitaire](https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Solitaire](https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw) | 3:31 | 2023-03-20 |  |
 | [Someone Elses Love](https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love](https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv) | 3:43 | 2023-03-20 |  |

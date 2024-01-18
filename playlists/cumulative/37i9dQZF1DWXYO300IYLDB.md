@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-357 songs - 21 hr 20 min
+359 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [14 Windows \(Single Version\)](https://open.spotify.com/track/3Cd48NPkNlc8wt5F1H3b0F) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [14 Windows](https://open.spotify.com/album/6L5oIAk7XeJY9FDuAYi8Tg) | 3:31 | 2023-11-16 | 2024-01-17 |
 | [14 Windows \- Single Version](https://open.spotify.com/track/6S06lEquRQ0IzwiGK6eVwy) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [14 Windows](https://open.spotify.com/album/2SMXUG1JGAXyb6jabVYV5F) | 3:31 | 2023-09-07 | 2023-11-18 |
 | [A Long December](https://open.spotify.com/track/222nik7fgyrYjfKrhy6Fvi) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [A Long December](https://open.spotify.com/album/7nbSQaNFFBVPQI1GIaRZex) | 5:53 | 2022-11-15 | 2022-12-14 |
+| [A melody that flies beyond time](https://open.spotify.com/track/3LYgqJcS9EVUht3PUuknU8) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [A melody that flies beyond time](https://open.spotify.com/album/5jxccF7FKF9shTKQAd5MdI) | 3:11 | 2024-01-16 |  |
 | [A Running Start](https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:21 | 2023-10-13 | 2023-11-08 |
 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 | 2023-10-05 |  |
 | [A Thousand Years](https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Thousand Years](https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi) | 4:14 | 2023-03-23 |  |
@@ -244,6 +245,7 @@
 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 | 2023-11-14 |  |
 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 | 2024-01-13 |  |
 | [RUNAWAY \- Acoustic](https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY \(Acoustic\)](https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3) | 2:22 | 2023-08-17 | 2023-09-08 |
+| [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-01-16 |  |
 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 | 2022-12-14 |  |
 | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L) | 3:06 | 2023-05-02 | 2023-06-30 |
 | [Send My Love / Sit Still, Look Pretty \(Acoustic Mashup\)](https://open.spotify.com/track/55qNvU28lXUg71TKMqiXmM) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [Send My Love / Sit Still, Look Pretty \(Acoustic Mashup\)](https://open.spotify.com/album/4uhgDqDUjv9mm4CmCYnmpl) | 3:22 | 2022-12-13 | 2023-02-10 |
@@ -357,7 +359,7 @@
 | [恋をして \- Acoustic Version](https://open.spotify.com/track/0fS8cXptl4Y2uWtkMEGBee) | [Ai Ninomiya](https://open.spotify.com/artist/0OOnu30xEhyLoBZ3pPPVu8) | [恋をして \(Acoustic Version\)](https://open.spotify.com/album/0HP0RkqQbEKWvQO1rjbet8) | 2:52 | 2023-11-30 |  |
 | [愛言葉 \- From THE FIRST TAKE](https://open.spotify.com/track/1rX1n7VAfXBy4dKFuGSGkM) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [愛言葉 \- From THE FIRST TAKE](https://open.spotify.com/album/5YJQqM7A7pfeDjxZ7DB6hi) | 5:05 | 2023-02-14 | 2023-02-16 |
 | [春を待たず君を離れ](https://open.spotify.com/track/5yx5BVGyOZSpEkHSS7Nh8S) | [グレープ](https://open.spotify.com/artist/1dFHgb3Goqf159LHj4ukx6) | [グレープセンセーション](https://open.spotify.com/album/1KS6WPslrwkL1hUSkoR87W) | 3:46 | 2023-02-14 | 2023-02-16 |
-| [時をかけるメロディー](https://open.spotify.com/track/1jkHnHBHG7OHnEeYhKpeS0) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [時をかけるメロディー](https://open.spotify.com/album/4CsR3SQRh4lksap6DVIbnA) | 3:11 | 2024-01-16 |  |
+| [時をかけるメロディー](https://open.spotify.com/track/1jkHnHBHG7OHnEeYhKpeS0) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [時をかけるメロディー](https://open.spotify.com/album/4CsR3SQRh4lksap6DVIbnA) | 3:11 | 2024-01-16 | 2024-01-18 |
 | [晩餐歌 \(弾き語りver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 | 2024-01-10 |  |
 | [柔らかい影](https://open.spotify.com/track/4JseUox8CQxSsjdvfsrez9) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [THE MAGICAL TOUCH](https://open.spotify.com/album/6NbFZ5FRVocK8Re3pSJu4t) | 3:17 | 2023-11-28 |  |
 | [生きていくだけで \(feat\. Ruri\)](https://open.spotify.com/track/35RU9s9Oytg6N8k0xxtKtG) | [FUKUSHIGE MARI](https://open.spotify.com/artist/74ldwS36YOZpiNSBf2XYBs), [Ruri](https://open.spotify.com/artist/0y2buXFUJCd2dnhkVCkRDg) | [月の満ち欠け オリジナルサウンドトラック](https://open.spotify.com/album/6YbRXC2Yrs1UkEtAGJ7Ne7) | 4:03 | 2022-12-01 | 2022-12-14 |
