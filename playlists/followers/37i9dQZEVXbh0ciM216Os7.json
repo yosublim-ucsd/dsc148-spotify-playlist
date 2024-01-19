@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 0,
+  "2024-01-19": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -4205,7 +4205,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 216082,
       "name": "Decapitation Chamber",
       "url": "https://open.spotify.com/track/7hkx7WJoBglksDJXL0ujoD"
@@ -10643,7 +10643,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "Lace It (with Eminem & benny blanco)",
       "url": "https://open.spotify.com/track/0hitTdEb4YohfxjOhdcIMi"
@@ -13813,7 +13813,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 135418,
       "name": "One (Slowed)",
       "url": "https://open.spotify.com/track/3uKR1sGpR7FfmW2AWrqLMU"
@@ -14165,7 +14165,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 190142,
       "name": "Out the Dark into the Light",
       "url": "https://open.spotify.com/track/4OwUqVqlgRTvgTvQjLVLwE"
@@ -16347,6 +16347,28 @@
       "duration_ms": 125225,
       "name": "Set In Stone",
       "url": "https://open.spotify.com/track/3i7xst5okV5Jowh4RAJNxe"
+    },
+    {
+      "album": {
+        "name": "INSANO",
+        "url": "https://open.spotify.com/album/5koNuqZAONxJgt6aWjlc1u"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151933,
+      "name": "SEVEN (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/0l5Hh5W4VybexZ0hXEj2jD"
     },
     {
       "album": {
@@ -20941,7 +20963,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 209665,
       "name": "We sell weed",
       "url": "https://open.spotify.com/track/62c82cEDfgwjXUSGsJ8qjj"

@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,694 songs - 2 day 17 hr 28 min
+1,699 songs - 2 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [autumn nights](https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [autumn nights](https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao) | 1:35 | 2023-10-13 | 2023-11-24 |
 | [Autumnal](https://open.spotify.com/track/6yzQKC1L9iwf2dCYUReZOW) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [Autumnal](https://open.spotify.com/album/3O0t86julI9PhKkXUEdWCe) | 2:25 | 2022-11-11 | 2023-07-14 |
 | [Aviary](https://open.spotify.com/track/2giDcUZGybbvJljKtgxgnY) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Aviary](https://open.spotify.com/album/3lk5iCsLEyEHEiNypGMmwF) | 2:14 | 2022-08-12 | 2022-11-26 |
+| [Avocades](https://open.spotify.com/track/72VPz6obgR5JjPCv8uRotp) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Avocades](https://open.spotify.com/album/2gBKkx8mHrbY9pZxsjwjYJ) | 2:11 | 2024-01-19 |  |
 | [Awake](https://open.spotify.com/track/3QPWAZOWUW66GQq7wDfjNI) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Awake](https://open.spotify.com/album/4HHch0dspTBouzlM9yn4SL) | 2:29 | 2022-12-23 | 2023-11-11 |
 | [Awakening](https://open.spotify.com/track/28TFSOJsr6zUIujZ9vvpOK) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Awakening](https://open.spotify.com/album/2LlvQDAl15bYhNSij713zO) | 1:48 | 2021-12-07 | 2022-04-08 |
 | [awesomelicious](https://open.spotify.com/track/4QXQkfCHSFuWtjhQ2ueNRf) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [awesomelicious](https://open.spotify.com/album/5lXolPanfgJtNxXDVP5NEl) | 2:30 | 2022-10-14 | 2023-04-12 |
@@ -220,6 +221,7 @@
 | [calm motion](https://open.spotify.com/track/1GhOOUD5750SG2ffvxn5c9) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [calm motion](https://open.spotify.com/album/4gzkAbeCLneCPzfwCqwaRr) | 2:40 | 2021-12-07 | 2023-02-18 |
 | [Cambium](https://open.spotify.com/track/5tnXF1b2aUauF2qE32ZvCJ) | [Tottsea](https://open.spotify.com/artist/4IuWxYaftz1MFgkWF59cvY) | [Cambium](https://open.spotify.com/album/6ZX2I6PIvAOBMZqpAVsINg) | 2:29 | 2022-12-16 | 2023-04-21 |
 | [Cameleon](https://open.spotify.com/track/2z9CyOsKP6VkZAh32ERYSz) | [JIMI O’HARA](https://open.spotify.com/artist/4ZjTiyXDnLJmJRmaxg5sFQ) | [CAMOUFLAGE](https://open.spotify.com/album/4QGUYHCw96ZtEKTWOlDj1i) | 1:55 | 2021-12-07 | 2022-07-01 |
+| [camping trip](https://open.spotify.com/track/1SadNNfKugUYlaXTZO9g7c) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [camping trip](https://open.spotify.com/album/3lnVeBLRm0cAmHwiAZt5yI) | 2:39 | 2024-01-19 |  |
 | [can you call me back](https://open.spotify.com/track/5MspgG8KBCGjZEri91ZR1t) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [can you call me back](https://open.spotify.com/album/081bq3A8UNs9vJIDdTtAjd) | 3:09 | 2023-04-03 |  |
 | [candlelight](https://open.spotify.com/track/2X6DKsYGYiPYCn0iezQja7) | [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg), [abovus](https://open.spotify.com/artist/5DXweVRKKbzWHYb4jgIafb) | [candlelight](https://open.spotify.com/album/0L2V7JeAv4OCbB1XG3Sij7) | 2:01 | 2023-08-21 |  |
 | [Candor](https://open.spotify.com/track/1nTCeX3GsGLyh9TQtQpbOl) | [Sileon](https://open.spotify.com/artist/0wmKKwWn8zNrBnRpOkvcSH) | [Zone](https://open.spotify.com/album/2XiYnl7gqdERJbJcMR8bl9) | 1:58 | 2021-12-07 | 2022-04-22 |
@@ -529,6 +531,7 @@
 | [Finally](https://open.spotify.com/track/3MweXrfM7EEVfdvXlQK0vd) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Finally](https://open.spotify.com/album/69VMEfQSyVctcBFNDayNE4) | 2:45 | 2021-12-07 | 2022-07-01 |
 | [Find a Moment](https://open.spotify.com/track/2gFRtVaDkG1nU46z8ckVK3) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Find a Moment](https://open.spotify.com/album/42rWLxngEQ8RcEvfO2egWA) | 1:58 | 2022-07-01 | 2022-11-20 |
 | [Find a Moment](https://open.spotify.com/track/2jILrbAedZ20ZcCNHb2vk3) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Find a Moment](https://open.spotify.com/album/48b5JfszFSjkU1nd4ybFKg) | 1:58 | 2022-11-11 | 2022-11-26 |
+| [Findings](https://open.spotify.com/track/46dzk7cORXnFdegl7aNK3I) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Findings](https://open.spotify.com/album/5am6AqmZgScCkMkjWfoGs2) | 2:17 | 2024-01-19 |  |
 | [finesse](https://open.spotify.com/track/4vHR6RgtHgcv2BvHmBMEED) | [Papillon](https://open.spotify.com/artist/5iwgB05OKM42R6wQSMeChU), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [finesse](https://open.spotify.com/album/3nDmwcQbQLrc3zCxAMFtXZ) | 2:08 | 2023-04-03 | 2023-10-06 |
 | [Firefly](https://open.spotify.com/track/4sY1ri9amyG88d6pt4ao9C) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Beats In The Streets](https://open.spotify.com/album/3k2KcTV0MVcdSBRirdK4HU) | 1:12 | 2021-12-07 | 2022-07-01 |
 | [Fireplace](https://open.spotify.com/track/4G6LvFbZthvRaYjsNMUEDi) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [Fireplace](https://open.spotify.com/album/4xmBteg8ZM4xKxHBT0oMq5) | 1:48 | 2022-04-08 | 2022-07-15 |
@@ -1097,6 +1100,7 @@
 | [Olympus](https://open.spotify.com/track/0cuLlDBs3IqN8RbE0RhApH) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [bugzug](https://open.spotify.com/artist/51RjceiwmeWYUP3NSTzRNH) | [Olympus](https://open.spotify.com/album/4DIqEaV0vDGfelvjbl3jJA) | 2:07 | 2022-12-23 | 2023-11-11 |
 | [On My Mind](https://open.spotify.com/track/5m6upeSIawnN1iVGUaXcPX) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI) | [Day Glow](https://open.spotify.com/album/2QwhcO0LoJTYCbIylhao78) | 2:04 | 2022-05-27 | 2022-11-12 |
 | [On Point](https://open.spotify.com/track/7fD4YvhV7OCQdHfW55Pp8U) | [Venti](https://open.spotify.com/artist/1g1rRWEsI2Wy2xVALwaeaL) | [Amsterdam Avenue](https://open.spotify.com/album/5pUlEx3qaGp4cqlb6nI4QE) | 2:03 | 2023-03-08 | 2023-11-24 |
+| [on the horizon](https://open.spotify.com/track/6zLbYaT9kw4uChKU9q1seG) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [on the horizon](https://open.spotify.com/album/5prWcKTBqdEkY1kSmRDe41) | 3:31 | 2024-01-19 |  |
 | [On the Move](https://open.spotify.com/track/2KIe2dj8bvSoXnDzSZv0B8) | [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [On the Move](https://open.spotify.com/album/2JqMNWb0TSxZFMkpl3cuDV) | 2:44 | 2022-07-29 | 2022-08-05 |
 | [On the Move](https://open.spotify.com/track/4BXzeBAfxdEuzN4WB3jzrZ) | [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [On the Move](https://open.spotify.com/album/6mzjiZ8wvkpoEaxJOiPfzB) | 2:44 | 2021-12-07 | 2022-07-29 |
 | [Once Upon A Time](https://open.spotify.com/track/5xnRYlgjP2eUNkGqusGytQ) | [Too Lamb](https://open.spotify.com/artist/49B2agZFE9BySVXPshGCqC) | [Once Upon A Time](https://open.spotify.com/album/3lmq7930x9ksc0Foz7Egzx) | 2:30 | 2021-12-07 | 2022-06-03 |
@@ -1393,6 +1397,7 @@
 | [Strawberry Mimosa](https://open.spotify.com/track/0FST9iMS6Q3rGDHNWPU0gd) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS) | [Strawberry Mimosa](https://open.spotify.com/album/0ZHY6wUt1eEERFZSQAq2Tx) | 2:30 | 2023-09-29 | 2023-11-11 |
 | [strawberry wine](https://open.spotify.com/track/7sshQUmPbEbp1ENaKm6Q3l) | [Monzzune](https://open.spotify.com/artist/1RWZV3rPwdheATWccxhAbp) | [strawberry wine](https://open.spotify.com/album/6oGxV1Hu7S3d86AvJCWdX1) | 2:28 | 2022-09-09 | 2023-08-22 |
 | [Street Light](https://open.spotify.com/track/7jDnKToNs76wyPpZWI40s9) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Street Light](https://open.spotify.com/album/6eEXU50lfZDYvNSL8QMLuP) | 2:08 | 2023-09-29 |  |
+| [Strong Desires](https://open.spotify.com/track/1HjWCjS7DVNqJlfRrmU1oF) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [Strong Desires](https://open.spotify.com/album/6bG2FKpaqcUQmBn6CqThx3) | 2:17 | 2024-01-19 |  |
 | [Stuck At The Office](https://open.spotify.com/track/30cEw6hfS5KHcdSSPF9goH) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Stuck At The Office](https://open.spotify.com/album/4R6V9rSYDulNrPupOSM3vl) | 2:26 | 2021-12-07 | 2023-03-09 |
 | [Study Buddy](https://open.spotify.com/track/0MU3ceLzNHemxgS5HiOPNY) | [UniqeCorn](https://open.spotify.com/artist/6TTcb6j1m5qnVjdSvpEHcC) | [Study Buddy](https://open.spotify.com/album/3sOCnVfTISO2Z0vI3HzrdT) | 2:25 | 2021-12-07 | 2022-09-03 |
 | [Stutter](https://open.spotify.com/track/6JikGZ9a80lLgEi3tXzSX0) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Reactor](https://open.spotify.com/album/3l3ehOEXCHbmZrOVvA5tKU) | 2:07 | 2021-12-07 | 2022-04-08 |

@@ -4,7 +4,7 @@
 
 > torturing ourselves by watching them over and over this halloween season
 
-41 songs - 2 hr 37 min
+42 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Reborn](https://open.spotify.com/track/6pDzUazSIrRhViOqiMMraX) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Hereditary \(Original Soundtrack Album\)](https://open.spotify.com/album/1D2pqmGuOBFjqtThwcWHXS) | 3:51 | 2023-10-12 |  |
 | [Seeing Is Believing](https://open.spotify.com/track/4i7313WGb0hezrvoQwYtQD) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Nathan Matthew David](https://open.spotify.com/artist/306pekW0ihKJVqobzcmBC4) | [Slice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fc361oxMCoemYqjyQN6A3) | 1:17 | 2023-10-12 |  |
 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 | 2023-10-12 |  |
-| [Spot the Difference](https://open.spotify.com/track/587Cj6WZ9NTCfYhpmVkGID) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Spot the Difference](https://open.spotify.com/album/3SOqUhUWPeDKQq3nLdnhil) | 3:37 | 2023-10-12 |  |
+| [Spot the Difference](https://open.spotify.com/track/7dsQoMtQ1eWbKGGnoQHI8n) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Spot the Difference](https://open.spotify.com/album/4WtI2Vg1kLHM2HcvdOeB47) | 3:37 | 2023-10-12 |  |
+| [Spot the Difference](https://open.spotify.com/track/587Cj6WZ9NTCfYhpmVkGID) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Spot the Difference](https://open.spotify.com/album/3SOqUhUWPeDKQq3nLdnhil) | 3:37 | 2023-10-12 | 2024-01-19 |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2023-10-12 |  |
 | [Supernature \(Instrumental CLIMAX edit\)](https://open.spotify.com/track/7nIsxHK8t1p215mXLpZgbh) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [Supernature \(instrumental\)](https://open.spotify.com/album/70iVGzaCLarRM06znisUPi) | 3:30 | 2023-10-12 |  |
 | [Tainted Love / Where Did Our Love Go \- Extended Version / Medley](https://open.spotify.com/track/2atm0QTTcVXsN47XSdIY7b) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 8:59 | 2023-10-12 |  |

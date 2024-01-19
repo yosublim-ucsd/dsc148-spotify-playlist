@@ -2,7 +2,7 @@
 
 ### [RADAR: Early Noise 2024](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ Cover: jo0ji
+> Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ Cover: 音田雅則
 
 1,354 songs - 3 day 10 hr 31 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 122482,
+  "num_followers": 122485,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTJmMDY0MjQ0ZmRjOTc2YzRjMGVlMGI2MGJkMjkxZGU1ZDQzY2Nh",
+  "snapshot_id": "MCxkYzg3ZWE1N2Y5YzU5MjhkNzVhMTM4MGJmZTE3MzYxZGYwNjZmZTE3",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Individuality Riddim",
+        "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 398629,
+      "name": "Individuality Riddim",
+      "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 300000,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Individuality Riddim",
-        "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 398629,
-      "name": "Individuality Riddim",
-      "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Mexican Superstar",
+        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Mexican Superstar",
+      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Koro Kemboro",
         "url": "https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 303197,
       "name": "Koro Kemboro",
       "url": "https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Mexican Superstar",
-        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Mexican Superstar",
-      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Give It To The Music",
+        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Give It To The Music",
+      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 206815,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Give It To The Music",
-        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 294250,
-      "name": "Give It To The Music",
-      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "La Nueva Mortalidad (Remaster 2021)",
-        "url": "https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 351157,
-      "name": "La Nueva Mortalidad",
-      "url": "https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb"
       },
@@ -875,22 +859,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Desire Path",
-        "url": "https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V"
+        "name": "La Nueva Mortalidad (Remaster 2021)",
+        "url": "https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO"
       },
       "artists": [
         {
-          "name": "Lila Tirando a Violeta",
-          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
-        },
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 215462,
-      "name": "Cuerpo Que Flota",
-      "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
+      "duration_ms": 351157,
+      "name": "La Nueva Mortalidad",
+      "url": "https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -907,6 +887,26 @@
       "duration_ms": 506612,
       "name": "Love is Dancing",
       "url": "https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Desire Path",
+        "url": "https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V"
+      },
+      "artists": [
+        {
+          "name": "Lila Tirando a Violeta",
+          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
+        },
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 215462,
+      "name": "Cuerpo Que Flota",
+      "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
     },
     {
       "added_at": "2022-08-18 23:29:09",

@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-585 songs - 1 day 6 hr 32 min
+586 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [Riptide](https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Riptide](https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u) | 3:14 | 2023-03-31 |  |
 | [Risky](https://open.spotify.com/track/2ZSLDwHIXr5yWI9d3iZr7R) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Risky](https://open.spotify.com/album/0tskRa5YB9FfD0z9K6JvWF) | 2:39 | 2023-02-17 | 2023-03-25 |
 | [ROLE MODEL](https://open.spotify.com/track/1wGpEisE7VmhhSazD8hZ5l) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:14 | 2022-07-08 | 2022-08-06 |
-| [RollBack](https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9) | [FIFTEENAFTER](https://open.spotify.com/artist/3c6du62jWz8v0jfv24Eye3), [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [RollBack](https://open.spotify.com/album/298ehDYTKeUklRTxCBjgdc) | 2:19 | 2023-08-25 |  |
+| [RollBack](https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9) | [FIFTEENAFTER](https://open.spotify.com/artist/3c6du62jWz8v0jfv24Eye3), [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [RollBack](https://open.spotify.com/album/298ehDYTKeUklRTxCBjgdc) | 2:19 | 2023-08-25 | 2024-01-19 |
 | [ROLLING STONE](https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:42 | 2022-08-05 |  |
 | [Runaway](https://open.spotify.com/track/4IQqF0UvqlzWaLcG22sOBG) | [Cheyenne Lavene](https://open.spotify.com/artist/6QTh5CJex4f7euCPUavWg0) | [Runaway](https://open.spotify.com/album/4kBzRDlKvKYD7zsWr9MVIR) | 2:25 | 2021-12-15 | 2022-07-20 |
 | [Runner Up](https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62) | [Tejy](https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk) | [Runner Up](https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg) | 2:52 | 2023-06-02 | 2023-09-29 |
@@ -504,6 +504,7 @@
 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 | 2021-12-15 | 2022-07-29 |
 | [Summer Too Hot](https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Summer Too Hot](https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN) | 3:08 | 2023-06-23 | 2023-10-07 |
 | [Sunset Eyes](https://open.spotify.com/track/43JDDAnJu7fyNToaRUsjGH) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:26 | 2022-05-06 | 2022-07-27 |
+| [Swerve](https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | ['95 Civic](https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T) | 3:19 | 2023-03-03 |  |
 | [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 | 2023-03-03 | 2024-01-12 |
 | [T.B.D.](https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0) | [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv) | [T.B.D.](https://open.spotify.com/album/18Xm1iSbMb5srLntraenBP) | 3:03 | 2023-10-06 |  |
 | [Take It Back](https://open.spotify.com/track/3UJ8XNSmK5MKkIVsZPMMh7) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Take It Back](https://open.spotify.com/album/41lbIMunApS8mpyLtUW81W) | 3:18 | 2022-03-25 | 2022-07-15 |

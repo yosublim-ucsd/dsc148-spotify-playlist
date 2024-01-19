@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : KSHMR, Dabzee, Vedan
 
-131 songs - 7 hr 4 min
+132 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [POGALLEY](https://open.spotify.com/track/2sBVokjCyOYJSbiJaeq3Ni) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 2:55 | 2023-07-23 |  |
 | [Polika Polika \- From "Chaaver"](https://open.spotify.com/track/7gpVfeBCNGiSBeLenyzNqz) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Santhosh Varma](https://open.spotify.com/artist/57muzX4Ow2NbBL4nOa5bvp), [Hareesh Mohanan](https://open.spotify.com/artist/6fdwZleGxZSd7v8A3SNoci) | [Polika Polika \(From "Chaaver"\)](https://open.spotify.com/album/2FxP9wgxKBS9TubbPpTtJx) | 4:44 | 2023-10-09 |  |
 | [Poralikal](https://open.spotify.com/track/4Yi3Z3kmaQIqG00EZ5XEyv) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Poralikal](https://open.spotify.com/album/0JsO6jG4H4NOHyDZ21grXa) | 2:51 | 2023-07-23 |  |
+| [Porinayi Njan Varunneda](https://open.spotify.com/track/4EI1CHrdS8Nj7NzYULDKQG) | [Exter](https://open.spotify.com/artist/6NL7luAMkgZwQi75Uxusyv) | [Dudu's Love](https://open.spotify.com/album/3AQeAlMXzfZAoiiM4m8U81) | 1:22 | 2024-01-18 |  |
 | [Pradhaman](https://open.spotify.com/track/2FREvswB3QKcz86mvndXY6) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [STIC](https://open.spotify.com/artist/32ruOa5gdWStRHmLau9zL5) | [Pradhaman](https://open.spotify.com/album/1PUesjSuRmSCrLI4njwW75) | 2:27 | 2023-11-10 |  |
 | [Psycho](https://open.spotify.com/track/4DNno7YwgVANoQLNKcTgQi) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Psycho](https://open.spotify.com/album/2e6W34AqB2NhldDdzzdj9i) | 3:04 | 2022-06-23 | 2023-07-24 |
 | [RAP MONEY](https://open.spotify.com/track/2GX5RJ173nRHB7duLl8qTC) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [RAP MONEY](https://open.spotify.com/album/3J9idTC9bFaMOIhxZvWGgB) | 2:50 | 2023-07-23 |  |

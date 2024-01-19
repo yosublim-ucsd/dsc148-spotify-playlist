@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9kThPpg1lIF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9kThPpg1lIF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9kThPpg1lIF)
 
-### [Boots Off](https://open.spotify.com/playlist/37i9dQZF1DX9kThPpg1lIF)
+### [Sexy Country](https://open.spotify.com/playlist/37i9dQZF1DX9kThPpg1lIF)
 
 > baby lock the door and turn the lights down low
 

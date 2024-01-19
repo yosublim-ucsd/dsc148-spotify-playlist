@@ -4,7 +4,7 @@
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>別假裝 在絕望的盡頭就是希望。
 
-154 songs - 11 hr 36 min
+155 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [我不知道愛是什麼](https://open.spotify.com/track/5YAiIE4ZGVFdK3LexsFej6) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [大人情歌](https://open.spotify.com/album/4E1Crsnlt8CMlbSd0BoEBh) | 4:54 | 2022-06-01 | 2022-07-29 |
 | [我不難過](https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [未完成](https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry) | 5:20 | 2022-06-01 |  |
 | [我以為](https://open.spotify.com/track/03m5ynXvoV7XkMKQUvtYgy) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [愛到無可救藥](https://open.spotify.com/album/16u00yPbBrZslW0br7ICvR) | 4:58 | 2022-06-01 | 2022-07-28 |
-| [我以為](https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [愛到無可救藥](https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m) | 4:58 | 2022-06-01 |  |
+| [我以為](https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [愛到無可救藥](https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m) | 4:58 | 2022-06-01 | 2024-01-19 |
 | [我们三](https://open.spotify.com/track/0dr4DaJb4bf2EjgBcDsumR) | [朱浩仁](https://open.spotify.com/artist/1Y2za0XzyluvtDTYtkFwJ7), [淑敏](https://open.spotify.com/artist/6Pg1FbAoJJDpdX6ettFZx9) | [我们三](https://open.spotify.com/album/2ZKpm2pcLRZlk58UvDuKG6) | 4:12 | 2022-06-01 | 2022-07-01 |
 | [我們 \- 《後來的我們》電影主題曲](https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [我們 \(《後來的我們》電影主題曲\)](https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r) | 4:20 | 2022-06-01 |  |
 | [我們盡力了](https://open.spotify.com/track/7o1TK2v9JvUHo47LIYjWTd) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [我們盡力了](https://open.spotify.com/album/0pcqjPwBloZXi7PW8KC8Uq) | 5:11 | 2022-06-01 | 2022-07-22 |
@@ -136,6 +136,7 @@
 | [誤解](https://open.spotify.com/track/0QZ0jknc0bVPCPpX7WDAld) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [误解](https://open.spotify.com/album/16PJhCnEFw1ZX3ANVuQX7S) | 4:16 | 2022-06-01 | 2022-07-28 |
 | [說了再見](https://open.spotify.com/track/2jlT98PnJTq5uwo8AdTpa7) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:40 | 2022-06-01 | 2022-07-26 |
 | [說好的幸福呢](https://open.spotify.com/track/6W2tmkeuHKaedHhdTPnyVs) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/6pmapc89HjY4f16ARzrmBB) | 4:14 | 2022-06-01 | 2024-01-09 |
+| [說好的幸福呢](https://open.spotify.com/track/4OoExItZJ0jePoCZDbHx4t) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/5akBJuVQvCggD0hCzjfeR3) | 4:16 | 2023-12-06 |  |
 | [說散就散](https://open.spotify.com/track/2XFrRuy9Gpu4GuYHTNeHiC) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [Album 1](https://open.spotify.com/album/2AjWUJJJekECU7JAezYTIV) | 3:50 | 2022-06-01 |  |
 | [變廢為寶](https://open.spotify.com/track/2XkFoLQSE7zVpVQNNsOhEn) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [變廢為寶](https://open.spotify.com/album/5Bq0pyne4UuCPCkoHWLR0C) | 4:39 | 2022-06-01 | 2022-07-28 |
 | [趁早](https://open.spotify.com/track/5HWiTu6zgcALuSgdqTZRJm) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [不顧一切](https://open.spotify.com/album/3MokYdeopJkDZKCY4sOW8Y) | 5:24 | 2022-06-01 | 2022-08-07 |

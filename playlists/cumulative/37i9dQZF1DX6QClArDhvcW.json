@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "camping trip",
+        "url": "https://open.spotify.com/album/3lnVeBLRm0cAmHwiAZt5yI"
+      },
+      "artists": [
+        {
+          "name": "Collinsworthy",
+          "url": "https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "camping trip",
+      "url": "https://open.spotify.com/track/1SadNNfKugUYlaXTZO9g7c"
+    },
+    {
+      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N"
       },
@@ -4479,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "Meatloafi",
+        "url": "https://open.spotify.com/album/1QJ4oGiRvJQODGVoVIqQgS"
+      },
+      "artists": [
+        {
+          "name": "Parcs",
+          "url": "https://open.spotify.com/artist/50hSRQpZmGKS1551TkEYKH"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "Meatloafi",
+      "url": "https://open.spotify.com/track/6TQc4MINqlN0aHCn1YrnJN"
+    },
+    {
+      "album": {
         "name": "Meditative State",
         "url": "https://open.spotify.com/album/3nSx2XYH36538HeHh8X0SR"
       },
@@ -5290,6 +5326,24 @@
       "duration_ms": 143090,
       "name": "oh coast glory",
       "url": "https://open.spotify.com/track/5QBqbDn4YBUQoxrKonrEhM"
+    },
+    {
+      "album": {
+        "name": "on and off",
+        "url": "https://open.spotify.com/album/3JwndlcwuI3X2eZFWHOC0r"
+      },
+      "artists": [
+        {
+          "name": "fly_by_wire",
+          "url": "https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126206,
+      "name": "on and off",
+      "url": "https://open.spotify.com/track/0im5PdKDz2raraDknVtn8F"
     },
     {
       "album": {

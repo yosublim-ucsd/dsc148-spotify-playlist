@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-698 songs - 1 day 3 hr 18 min
+699 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [my boo](https://open.spotify.com/track/0RpChaozqmTFfKbOSXoDtc) | [phonadium](https://open.spotify.com/artist/1EbUbtNohBB2nDSZVdb0P8) | [my boo](https://open.spotify.com/album/2EA8AyJVBzxszkhuDhlqsm) | 2:27 | 2023-01-13 | 2023-11-17 |
 | [Natural Midst](https://open.spotify.com/track/0T0Qw9dfYjTf6umYfjC5zf) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Natural Midst](https://open.spotify.com/album/3VqDQlMLsc0mBCqc4s9XWL) | 2:41 | 2023-09-08 |  |
 | [Nature's Love](https://open.spotify.com/track/55ZUuMlOTxhJiLs3LkIqZH) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Spacemoons](https://open.spotify.com/album/48MaOWMleT2N9nmVfZ95BR) | 2:30 | 2023-01-13 |  |
+| [Need Some Space](https://open.spotify.com/track/0TBWvdscZJCLXyOUGbun4p) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Need Some Space](https://open.spotify.com/album/1O8Wsw4w0GQPrU8cDSZHig) | 3:00 | 2024-01-19 |  |
 | [need u here](https://open.spotify.com/track/5cjQZMyflzSe0mugsb18yz) | [BLUZ](https://open.spotify.com/artist/1igCIk3QsoMTuUjlCeLntT) | [need u here](https://open.spotify.com/album/4ZcZAVQ5lcVVV0GKQ4fGl4) | 2:06 | 2023-01-13 |  |
 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 | 2023-10-27 |  |
 | [New Again](https://open.spotify.com/track/3QIdkRPF1SuPuCM6PCoKMd) | [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [New Again](https://open.spotify.com/album/4cryWEdu93RmzevCmVg8y0) | 1:24 | 2023-04-11 |  |

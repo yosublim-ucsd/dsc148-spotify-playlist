@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633000,
+  "num_followers": 633056,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGU4NzZiNTcxZGY0Yjg3NTE3YjJiZTMzOWIxZTU0MzlkNWU2YjE0",
+  "snapshot_id": "MCw2NzUyM2M1N2MxZTk0YjA5YmYwYzg2NmQ0NDVjYjJlOThlZmU4OTBh",
   "tracks": [
     {
       "added_at": "2023-12-01 18:12:17",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
-      },
-      "artists": [
-        {
-          "name": "They Dream By Day",
-          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
-        }
-      ],
-      "duration_ms": 134210,
-      "name": "We Are Forever",
-      "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Jubran's Lake (432hz)",
         "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 240000,
       "name": "Jubran's Lake (432hz) - No Ambience",
       "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
+      },
+      "artists": [
+        {
+          "name": "They Dream By Day",
+          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
+        }
+      ],
+      "duration_ms": 134210,
+      "name": "We Are Forever",
+      "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Sweven",
-        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
-      },
-      "artists": [
-        {
-          "name": "Andy Kamman",
-          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Sweven",
-      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Deep Thoughts",
         "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 192000,
       "name": "Deep Thoughts",
       "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Sweven",
+        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
+      },
+      "artists": [
+        {
+          "name": "Andy Kamman",
+          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Sweven",
+      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Dramatique Musique Classique",
-        "url": "https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4"
-      },
-      "artists": [
-        {
-          "name": "Marcel Depuis",
-          "url": "https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa"
-        }
-      ],
-      "duration_ms": 170344,
-      "name": "Sonata Path\u00e9tique",
-      "url": "https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Somi",
         "url": "https://open.spotify.com/album/1RPe8vnWTQCXJhmfwFOJDU"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 227093,
       "name": "Minism",
       "url": "https://open.spotify.com/track/6bJVQy8VspBFEWHlaoxbY5"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Dramatique Musique Classique",
+        "url": "https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4"
+      },
+      "artists": [
+        {
+          "name": "Marcel Depuis",
+          "url": "https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa"
+        }
+      ],
+      "duration_ms": 170344,
+      "name": "Sonata Path\u00e9tique",
+      "url": "https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "The Acoustic Mind - Vol. 1",
-        "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
-      },
-      "artists": [
-        {
-          "name": "Aur\u00e9lien Trigo",
-          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
-        }
-      ],
-      "duration_ms": 172589,
-      "name": "Headroom",
-      "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Inch Of You",
         "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 147299,
       "name": "Backwaters",
       "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "The Acoustic Mind - Vol. 1",
+        "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
+      },
+      "artists": [
+        {
+          "name": "Aur\u00e9lien Trigo",
+          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
+        }
+      ],
+      "duration_ms": 172589,
+      "name": "Headroom",
+      "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Lumineux",
-        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
-      },
-      "artists": [
-        {
-          "name": "Alice Rolande",
-          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
-        }
-      ],
-      "duration_ms": 217893,
-      "name": "Lumineux",
-      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Elementaries",
         "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 182783,
       "name": "Raising Life",
       "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Lumineux",
+        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
+      },
+      "artists": [
+        {
+          "name": "Alice Rolande",
+          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
+        }
+      ],
+      "duration_ms": 217893,
+      "name": "Lumineux",
+      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
+        "name": "Hope And Glory",
+        "url": "https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE"
+      },
+      "artists": [
+        {
+          "name": "Figgy Malone",
+          "url": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+        }
+      ],
+      "duration_ms": 204870,
+      "name": "Hope And Glory",
+      "url": "https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
         "name": "Winter Night Mist",
         "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Hope And Glory",
-        "url": "https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE"
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
       },
       "artists": [
         {
-          "name": "Figgy Malone",
-          "url": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+          "name": "FANAR",
+          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
         }
       ],
-      "duration_ms": 204870,
-      "name": "Hope And Glory",
-      "url": "https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp"
+      "duration_ms": 172000,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1599,22 +1615,6 @@
       "duration_ms": 150550,
       "name": "Gotham (acoustic)",
       "url": "https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
-        "name": "Affinity",
-        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
-      },
-      "artists": [
-        {
-          "name": "FANAR",
-          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Affinity",
-      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
     }
   ],
   "unique_name": "DayDreamer",

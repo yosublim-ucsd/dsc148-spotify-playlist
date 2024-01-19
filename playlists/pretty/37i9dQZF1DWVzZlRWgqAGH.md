@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Avenoir
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,683 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,851 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Glad I Found You](https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 2:15 |
 | 100 | [Flow State](https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Flow State](https://open.spotify.com/album/3sAqbZXReqypT0ZMsxOgeE) | 2:32 |
 
-Snapshot ID: `MCw5NTI4MjMyYzU0YWU5NjIwMmMwYjUyNDYxYWU4ODBhYzk4OGM4NTAw`
+Snapshot ID: `MCw0MjZlMzFjYWNhYTk1MTk5Zjg0YjhmNzY3NTNiZmIyZWMwNzdiZDI1`

@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 58506,
+  "2024-01-19": 58528,
   "date_first_scraped": "2022-02-06",
   "description": "Meet the future. New artists on the horizon. Cover: Yam\u00ea.",
   "name": "RADAR Global ",
@@ -4161,7 +4161,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 203702,
       "name": "daughter",
       "url": "https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ"
@@ -11785,6 +11785,24 @@
       "duration_ms": 158920,
       "name": "Mutuo Acuerdo",
       "url": "https://open.spotify.com/track/20wlK9lI8cq4tE5wJPK2WW"
+    },
+    {
+      "album": {
+        "name": "My best love!",
+        "url": "https://open.spotify.com/album/3yfwQt9HuQunyMnozW7Sim"
+      },
+      "artists": [
+        {
+          "name": "saba sister",
+          "url": "https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "My best love!",
+      "url": "https://open.spotify.com/track/4F7HpyZBYY2NU4YxKaKn3m"
     },
     {
       "album": {

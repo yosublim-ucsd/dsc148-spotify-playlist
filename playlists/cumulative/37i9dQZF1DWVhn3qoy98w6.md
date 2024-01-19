@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Solo artistas independientes, actualizada todos los miércoles\. Foto: Caro Raro.
+> Solo artistas independientes, actualizada todos los miércoles\. Foto: ANADIE.
 
 3,382 songs - 7 day 8 hr 25 min
 

@@ -4,7 +4,7 @@
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-128 songs - 7 hr 11 min
+129 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [400 Mil Veinte Años](https://open.spotify.com/track/4VGUCIgdO6i6oYE6NyefYT) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [Evolucion](https://open.spotify.com/album/779LWwiN1DzQslUNywZvaZ) | 3:28 | 2023-10-12 |  |
 | [5 Minutos](https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Por Qué Me Gustas](https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP) | 3:41 | 2023-10-12 |  |
 | [A Toda Ley](https://open.spotify.com/track/1oKVaMt36y9ExZYXbNIRMV) | [Isma Ortiz & Sierreños M.O.](https://open.spotify.com/artist/3LzI4xUdzCw0OkdWT1phSa), [Dueto Los Armadillos](https://open.spotify.com/artist/7bpwAaudm06jhepHxDifV4) | [Conquistando](https://open.spotify.com/album/3Kpbz6Oa0pvG5E2IZAFjjX) | 2:31 | 2023-10-12 |  |
-| [Alta y Delgadita](https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune) | [HNOS\. SANTAMARIA DE TIERRA CALIENTE](https://open.spotify.com/artist/0sn5awme5aIW1SefU6ziCW) | [Nadie Sabe Lo Que Tiene](https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y) | 3:23 | 2023-10-12 | 2024-01-18 |
+| [Alta y Delgadita](https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune) | [HNOS\. SANTAMARIA DE TIERRA CALIENTE](https://open.spotify.com/artist/0sn5awme5aIW1SefU6ziCW) | [Nadie Sabe Lo Que Tiene](https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y) | 3:23 | 2023-10-12 |  |
 | [Aléjate](https://open.spotify.com/track/2EnsWGWtOUonOxo1DKdO9a) | [Freddy Cárdenas y su Grupo Brebaje](https://open.spotify.com/artist/0MZxSUM0Xqv7xipDHmvUlm) | [Aléjate](https://open.spotify.com/album/0j5CtCEF5m3SI6rzkHVRvZ) | 3:45 | 2023-10-12 |  |
 | [Amor a la Ligera](https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 2:29 | 2023-10-12 |  |
 | [Amor Limosnero](https://open.spotify.com/track/0SLdgfVlFaf0vv9HUFAXgx) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [De Parranda Con Jorge Garcia](https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa) | 3:39 | 2023-10-12 |  |
@@ -106,13 +106,14 @@
 | [No Se Vivir](https://open.spotify.com/track/2juNjmS81xsJUOFJFop3QX) | [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [Aceptalo Ya !](https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf) | 3:01 | 2023-10-12 |  |
 | [No Te Olvidare](https://open.spotify.com/track/0g8IOSkOPv8JUxbTojv6vI) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Guiados por el Cielo](https://open.spotify.com/album/5se7VnLff9owqtOW1usbhN) | 4:01 | 2023-10-12 |  |
 | [No Traigo 45](https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [No Traigo 45](https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut) | 3:01 | 2023-10-12 |  |
-| [Ojos Negros Nunca Engañan](https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Ojos Negros Nunca Enganan](https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ) | 3:12 | 2023-10-12 |  |
+| [Ojos Negros Nunca Engañan](https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Ojos Negros Nunca Enganan](https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ) | 3:12 | 2023-10-12 | 2024-01-19 |
 | [Palomita De Alas Blancas](https://open.spotify.com/track/0Vx8j4stjp6Mycjqyc7eRO) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Mi Despedida](https://open.spotify.com/album/14iB8WCfhOBf2QrHaxN5jt) | 2:49 | 2023-10-12 |  |
-| [Para El Amor de Mi Vida](https://open.spotify.com/track/75q5N3S2tQX4A2hzQwIst2) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Para el Amor de Mi Vida](https://open.spotify.com/album/7nH83Kx8uM3trA7hALSMOa) | 4:00 | 2023-10-12 |  |
+| [Para El Amor de Mi Vida](https://open.spotify.com/track/75q5N3S2tQX4A2hzQwIst2) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Para el Amor de Mi Vida](https://open.spotify.com/album/7nH83Kx8uM3trA7hALSMOa) | 4:00 | 2023-10-12 | 2024-01-19 |
 | [Pena Clavada](https://open.spotify.com/track/1OD4MgwfniF8fl8VAhomS7) | [Many Perez “El Canario”](https://open.spotify.com/artist/0mZnvhqA0m86pg2DfIMhtq) | [Pena Clavada](https://open.spotify.com/album/6G5vT77S7CVspowXXQEetG) | 2:49 | 2023-10-12 |  |
 | [Preso Me Llevan](https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [20 Exitos de Ley \(Serie de Colección\)](https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA) | 3:28 | 2023-10-12 |  |
 | [Puras Pa' bailar \(Primera Tanda\)](https://open.spotify.com/track/5R0gDUS6ODYNgfLS4n6ujr) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ) | [Puras Pa' bailar \(Primera Tanda\)](https://open.spotify.com/album/4ZFZZDIKWdrTYA2dn7Z94j) | 12:12 | 2023-10-12 |  |
 | [Puño de Tierra](https://open.spotify.com/track/0AHoNKqYZdcvffUWkmwPcR) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [De Parranda Con Jorge Garcia](https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa) | 2:35 | 2023-10-12 |  |
+| [Que Viva Tierra Caliente](https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k) | [Los Centinelas de Michoacan](https://open.spotify.com/artist/6zdHx6bFbxumSBTlyDvXzP) | [Viva Tierra Caliente](https://open.spotify.com/album/1YkjA1dE7DsIlbmA46mCfx) | 3:15 | 2023-10-12 |  |
 | [Que Viva Tierra Caliente](https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:26 | 2023-10-12 |  |
 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 3:19 | 2023-10-12 |  |
 | [Se Termino Lo Nuestro](https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Somos Mas Americanos](https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT) | 3:30 | 2023-10-12 |  |

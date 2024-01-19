@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 2342,
+  "2024-01-19": 2343,
   "date_first_scraped": "2023-04-03",
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
   "name": "This Is JJ Hairston",
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 725699,
       "name": "Leah\u2019s Praise Break - Live",
       "url": "https://open.spotify.com/track/1uY3m4qvaD2OyApN9ynvDF"
@@ -1726,6 +1726,28 @@
     },
     {
       "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Nicole Mincey",
+          "url": "https://open.spotify.com/artist/2ZEGVvlpmv9LfVdycybZCg"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359265,
+      "name": "Opening Prayer - Live",
+      "url": "https://open.spotify.com/track/6hllevFR5wOo1uuMRDbLiZ"
+    },
+    {
+      "album": {
         "name": "Believe Again, Vol. II",
         "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
       },
@@ -2061,7 +2083,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 502678,
       "name": "The Newborn King - Live",
       "url": "https://open.spotify.com/track/68480PLDDMeu3MYkQiU2FM"
@@ -2223,7 +2245,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 398080,
       "name": "We Worship Christ - Live",
       "url": "https://open.spotify.com/track/5MZ9Z2LoVksgrXV4zsVoxA"

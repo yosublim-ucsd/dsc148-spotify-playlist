@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! | Updated weekly on Friday Cover: Armin van Buuren and Goodboys",
+  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! | Updated weekly on Friday Cover: D.O.D and Hannah Boleyn",
   "name": "Armada Today",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 199513,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/2JnUGeKV54JNXRZYVZQxz8"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 202113,
       "name": "Azteca",
       "url": "https://open.spotify.com/track/5p6uVksbhRYPYoay4Dl5Bv"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 175357,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3Hq1sl11H1mFTkrou8c7q2"
@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 248283,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/4bkHJAWyOkR15GCbMDLGry"
@@ -2810,6 +2810,32 @@
       "duration_ms": 290778,
       "name": "Cosby Sweater - Extended Version",
       "url": "https://open.spotify.com/track/3qkfREQh9srAqykto6evHF"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1PHgp5khN2QZ5HJhdogDXj"
+      },
+      "artists": [
+        {
+          "name": "Badbox",
+          "url": "https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf"
+        },
+        {
+          "name": "Leo Gira",
+          "url": "https://open.spotify.com/artist/18FnUahuqpZRX5xQj4ZwnP"
+        },
+        {
+          "name": "DTale",
+          "url": "https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201630,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7ooduq5GMnT9fCpUswCkzT"
     },
     {
       "album": {
@@ -3136,7 +3162,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 202633,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl"
@@ -3165,6 +3191,28 @@
     },
     {
       "album": {
+        "name": "Deep Inside (Eelke Kleijn Deep Inside The '90s Remix)",
+        "url": "https://open.spotify.com/album/11qWeyYF1jlqdde6XEpSiy"
+      },
+      "artists": [
+        {
+          "name": "Amirali",
+          "url": "https://open.spotify.com/artist/5HbNxuQxsJRdjqfJ6wNh17"
+        },
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "Deep Inside - Eelke Kleijn Deep Inside The '90s Remix",
+      "url": "https://open.spotify.com/track/5HQjq1Qr89Yr54UDV77iL7"
+    },
+    {
+      "album": {
         "name": "Destination",
         "url": "https://open.spotify.com/album/6XI1OjhyceEToQJfDRpLEC"
       },
@@ -3184,6 +3232,36 @@
       "duration_ms": 185364,
       "name": "Destination",
       "url": "https://open.spotify.com/track/4CiWLaMrGQ9CR5j604HyoW"
+    },
+    {
+      "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+        },
+        {
+          "name": "Ruben de Ronde",
+          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193790,
+      "name": "Destination (A State of Trance 2024 Anthem)",
+      "url": "https://open.spotify.com/track/19PFTbAdVN1Y1KP5YXplkD"
     },
     {
       "album": {
@@ -3210,7 +3288,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 193790,
       "name": "Destination (A State of Trance 2024 Anthem)",
       "url": "https://open.spotify.com/track/5LoRqa8PUNO3tJJr3hQWm8"
@@ -3228,7 +3306,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 240001,
       "name": "DFCW",
       "url": "https://open.spotify.com/track/3BbAVLfkhtY237ORPUj3wX"
@@ -3586,6 +3664,28 @@
       "duration_ms": 142101,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/1ANiI74xQ3bcd8VJ9WHf8q"
+    },
+    {
+      "album": {
+        "name": "Dominos",
+        "url": "https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150691,
+      "name": "Dominos",
+      "url": "https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax"
     },
     {
       "album": {
@@ -3976,7 +4076,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 161433,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/78PLPhLQjRiX3SSjYBiASc"
@@ -4497,6 +4597,24 @@
     },
     {
       "album": {
+        "name": "Favorite Sound",
+        "url": "https://open.spotify.com/album/1wYxzbz645Vh5k0GNINcmV"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Favorite Sound",
+      "url": "https://open.spotify.com/track/3OflIzsYlyYFKgb4VvEyVj"
+    },
+    {
+      "album": {
         "name": "Feel Again",
         "url": "https://open.spotify.com/album/0TTJ1Qk8jND6NF4TlSAJNA"
       },
@@ -4971,6 +5089,28 @@
     },
     {
       "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152535,
+      "name": "Forever (Stay Like This)",
+      "url": "https://open.spotify.com/track/08yyvtQ8CNRH6Ogpj60p0n"
+    },
+    {
+      "album": {
         "name": "Forever (Stay Like This)",
         "url": "https://open.spotify.com/album/1HyxYCoQk0T8iIHKE5fkEm"
       },
@@ -4986,7 +5126,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 152535,
       "name": "Forever (Stay Like This)",
       "url": "https://open.spotify.com/track/7pUtuvFh9SMtFozqwsPHnl"
@@ -5118,7 +5258,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 172523,
       "name": "Fourth Dimension",
       "url": "https://open.spotify.com/track/2ojoNqheLtUVW8yTIaxND0"
@@ -5399,6 +5539,32 @@
     },
     {
       "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Xoro",
+          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
+        },
+        {
+          "name": "Yola Recoba",
+          "url": "https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163510,
+      "name": "God Is In The Soundwaves",
+      "url": "https://open.spotify.com/track/4ma5F23p1jHkuEalMNulv7"
+    },
+    {
+      "album": {
         "name": "God Is In The Soundwaves",
         "url": "https://open.spotify.com/album/20ssXnN1FKqAfIE6zSM8gQ"
       },
@@ -5418,7 +5584,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 163510,
       "name": "God Is In The Soundwaves",
       "url": "https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB"
@@ -6267,6 +6433,28 @@
     },
     {
       "album": {
+        "name": "Hated On (Funkatron)",
+        "url": "https://open.spotify.com/album/65z5rSxOEzyMFdu6FbGCOO"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187625,
+      "name": "Hated On (Funkatron)",
+      "url": "https://open.spotify.com/track/0BGMkKTFjUrznBsbpnqsQt"
+    },
+    {
+      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/6pm3ViyHxpKHhxovNIyVF1"
       },
@@ -6810,7 +6998,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 228571,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/5KGn7C4GflN0EFMNqDmUY9"
@@ -7108,6 +7296,24 @@
       "duration_ms": 129375,
       "name": "Hungry (For Love)",
       "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
+    },
+    {
+      "album": {
+        "name": "Hypnotic Tango",
+        "url": "https://open.spotify.com/album/7eQRQ9PmkGfcn6NMLYepNJ"
+      },
+      "artists": [
+        {
+          "name": "Les Bisous",
+          "url": "https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Hypnotic Tango",
+      "url": "https://open.spotify.com/track/0mJqNxYW6xAjsKOaXFifaW"
     },
     {
       "album": {
@@ -7634,7 +7840,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 205516,
       "name": "If Summer Was A Sound",
       "url": "https://open.spotify.com/track/42QHm0sFCqbIh5JtxG9deQ"
@@ -8428,7 +8634,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 180821,
       "name": "Konje",
       "url": "https://open.spotify.com/track/6k1S6jARx5BYb0uAH7Fn6m"
@@ -8880,7 +9086,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 184761,
       "name": "Let the Music",
       "url": "https://open.spotify.com/track/6yCYApj7rUypmMY5tVevx0"
@@ -9498,10 +9704,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 146996,
       "name": "Lose This Feeling",
       "url": "https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF"
+    },
+    {
+      "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146996,
+      "name": "Lose This Feeling",
+      "url": "https://open.spotify.com/track/4tV6C36fjDmz0kzlFIdx3o"
     },
     {
       "album": {
@@ -9680,10 +9904,32 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 200625,
       "name": "Love Is A Drug",
       "url": "https://open.spotify.com/track/4Yyho5h1ABXsvFyuEvyoke"
+    },
+    {
+      "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "Love Is A Drug",
+      "url": "https://open.spotify.com/track/5BYO2o4tpB4rzzVesxtUuT"
     },
     {
       "album": {
@@ -9882,7 +10128,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 223128,
       "name": "Love Seeking",
       "url": "https://open.spotify.com/track/0taOpWhjPof90UrY0V3HUp"
@@ -10025,6 +10271,28 @@
     },
     {
       "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Just_us",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213327,
+      "name": "Make It Count",
+      "url": "https://open.spotify.com/track/6jI7wig2lXmCXPRVwNkjIy"
+    },
+    {
+      "album": {
         "name": "Make It Count",
         "url": "https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi"
       },
@@ -10040,7 +10308,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 213327,
       "name": "Make It Count",
       "url": "https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b"
@@ -10252,7 +10520,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 154702,
       "name": "Mind Talking",
       "url": "https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94"
@@ -10318,7 +10586,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 180447,
       "name": "Missing - Cedric Gervais Version",
       "url": "https://open.spotify.com/track/0Q4eorj8O0MzUm3VMkbBs8"
@@ -10388,7 +10656,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 195850,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/0eWuEjXeEfqmdfgQcVxEZX"
@@ -10658,6 +10926,32 @@
       "duration_ms": 228011,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY"
+    },
+    {
+      "album": {
+        "name": "My Love (Day Mix)",
+        "url": "https://open.spotify.com/album/6lNKbjPEddn47eTTwpGxAQ"
+      },
+      "artists": [
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        },
+        {
+          "name": "Deeperlove",
+          "url": "https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm"
+        },
+        {
+          "name": "LE\u00d8N",
+          "url": "https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146271,
+      "name": "My Love - Day Mix",
+      "url": "https://open.spotify.com/track/0JnKAxW7fp1ssH1RGqMRPG"
     },
     {
       "album": {
@@ -12378,7 +12672,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 166007,
       "name": "Pterodactyl",
       "url": "https://open.spotify.com/track/261SUIkLUbVA1IgdJ0KcjO"
@@ -12982,7 +13276,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 213339,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/6OFJOpzi9xZrm3eEJE1SIG"
@@ -13882,7 +14176,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 186000,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/39lV6uhbSBCiHnhQL9cVzy"
@@ -14034,7 +14328,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 156000,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/06sV7v0pvyvTbssfNCUWR7"
@@ -14180,7 +14474,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 196416,
       "name": "Shatterproof - Infinity Ink Remix",
       "url": "https://open.spotify.com/track/3Ix6jTrfQfGx8BdzJEmZvu"
@@ -14672,7 +14966,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 235885,
       "name": "So Much In Love - Sub Focus Remix",
       "url": "https://open.spotify.com/track/7umV8hDGUBIYV3kxoNz1Vb"
@@ -16404,7 +16698,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 156923,
       "name": "The Master",
       "url": "https://open.spotify.com/track/7lFrPi52k2FgW2C5DbmTvk"
@@ -16466,7 +16760,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 208406,
       "name": "The Records",
       "url": "https://open.spotify.com/track/3yeJpI0m4HAbMVbZspMFgo"
@@ -16664,7 +16958,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 187808,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/7axdUvn03RFWqD7mnJGoir"
@@ -18016,7 +18310,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 212308,
       "name": "Wait No More",
       "url": "https://open.spotify.com/track/0ibtwb15E873ttruqHpRx7"
@@ -18034,7 +18328,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 180451,
       "name": "Waiting for a Night",
       "url": "https://open.spotify.com/track/3nHLqAfJ2wWaBVsd8GdiAS"

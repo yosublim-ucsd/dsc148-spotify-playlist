@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 161027,
+  "num_followers": 161161,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTA0YWEyMTQ3NWY2NWRkZjgxZDAyY2FmMGVmNGYxZmYxNTBkNzQz",
+  "snapshot_id": "MCwwNWU2YmYyNTBmYTNiODU0YmM4Yzc4NGU5YjVhOTYyYTMzMTU2YWNi",
   "tracks": [
     {
       "added_at": "2024-01-03 18:31:37",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+        "name": "Verde Paisaje del Infierno",
+        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 188586,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
+      "duration_ms": 278386,
+      "name": "Vine Hasta Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7LOkbiMpnZYbybdWuv7S4U"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Verde Paisaje del Infierno",
-        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 278386,
-      "name": "Vine Hasta Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7LOkbiMpnZYbybdWuv7S4U"
+      "duration_ms": 188586,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Gladiadores del rock",
-        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 269331,
-      "name": "Sacrificio y Rock N' Roll",
-      "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 244066,
       "name": "El Balneario de los Doctores Crotos",
       "url": "https://open.spotify.com/track/1SmH3Jv3V73B8vPb3p0N3M"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Gladiadores del rock",
+        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 269331,
+      "name": "Sacrificio y Rock N' Roll",
+      "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1179,18 +1179,34 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Solo Canciones",
-        "url": "https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY"
+        "name": "Gardeliando",
+        "url": "https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3"
       },
       "artists": [
         {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+          "name": "Los Gardelitos",
+          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
         }
       ],
-      "duration_ms": 244426,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX"
+      "duration_ms": 357586,
+      "name": "Amor de Contramano",
+      "url": "https://open.spotify.com/track/7JgwIV9KCu0CdpfBxPmjjV"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Alma en Pe\u00f1a",
+        "url": "https://open.spotify.com/album/4bkPnI5gKmETlDyZe5BKEH"
+      },
+      "artists": [
+        {
+          "name": "Salamandra",
+          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
+        }
+      ],
+      "duration_ms": 236605,
+      "name": "Solito",
+      "url": "https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Alma en Pe\u00f1a",
-        "url": "https://open.spotify.com/album/4bkPnI5gKmETlDyZe5BKEH"
+        "name": "Solo Canciones",
+        "url": "https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY"
       },
       "artists": [
         {
-          "name": "Salamandra",
-          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
         }
       ],
-      "duration_ms": 236605,
-      "name": "Solito",
-      "url": "https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn"
+      "duration_ms": 244426,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Gardeliando",
-        "url": "https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3"
+        "name": "P\u00e1nico",
+        "url": "https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy"
       },
       "artists": [
         {
-          "name": "Los Gardelitos",
-          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
         }
       ],
-      "duration_ms": 357586,
-      "name": "Amor de Contramano",
-      "url": "https://open.spotify.com/track/7JgwIV9KCu0CdpfBxPmjjV"
+      "duration_ms": 162360,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1287,22 +1303,6 @@
       "duration_ms": 195900,
       "name": "Sutil",
       "url": "https://open.spotify.com/track/3hkMZFo9dwI3mTM1I6eGu3"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "P\u00e1nico",
-        "url": "https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3venes Pordioseros",
-          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Mundo Imperfecto",
-        "url": "https://open.spotify.com/album/1a8ZNsUD375wEwTdzE2F8F"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 246893,
-      "name": "Andrajoso",
-      "url": "https://open.spotify.com/track/3ibB1bUbvgHheGYlnSa9b9"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Sangre en Tus Luces",
         "url": "https://open.spotify.com/album/19A9YHtIzbhB9oZlvzKOKi"
       },
@@ -1371,22 +1355,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Buen Recuerdo",
-        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 251843,
-      "name": "Buen Recuerdo",
-      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Probame (Demo)",
         "url": "https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv"
       },
@@ -1399,6 +1367,38 @@
       "duration_ms": 126426,
       "name": "Cuando Me Muera",
       "url": "https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Mundo Imperfecto",
+        "url": "https://open.spotify.com/album/1a8ZNsUD375wEwTdzE2F8F"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 246893,
+      "name": "Andrajoso",
+      "url": "https://open.spotify.com/track/3ibB1bUbvgHheGYlnSa9b9"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Buen Recuerdo",
+        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 251843,
+      "name": "Buen Recuerdo",
+      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
     },
     {
       "added_at": "2024-01-03 18:31:37",

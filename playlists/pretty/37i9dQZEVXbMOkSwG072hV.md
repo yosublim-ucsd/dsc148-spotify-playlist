@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,265 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,311 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 49 | [Treta do Dj Lorran](https://open.spotify.com/track/1Kw8Z6tri1YKG1t98FhlFJ) | [DJ Lorran](https://open.spotify.com/artist/0dxNyNS9ddNxtPFpws4xDj), [Mc Alef](https://open.spotify.com/artist/7Lcc9jeOePGaK8Km0PMxwx), [MC Rose](https://open.spotify.com/artist/5Vlnf4THwHOvW2NN8NIceM) | [Treta do Dj Lorran](https://open.spotify.com/album/2hDCgz0eQTdFl8FUGTxrRD) | 2:37 |
 | 50 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
 
-Snapshot ID: `NzU4ODU2MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzU4OTQyNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

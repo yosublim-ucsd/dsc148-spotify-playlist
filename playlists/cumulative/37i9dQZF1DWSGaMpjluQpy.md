@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-114 songs - 6 hr 37 min
+115 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Train to Cannes](https://open.spotify.com/track/4v0D6JR6PcHoahyrV9RtIf) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Jazz in the Rain](https://open.spotify.com/album/5HnUNhdvVTF9T6QV5ThVGs) | 2:37 | 2023-04-27 |  |
 | [Abisko](https://open.spotify.com/track/6O82Wor9j2PUIm98Q8Ra8L) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Regnig Jazz](https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp) | 2:50 | 2023-04-27 |  |
 | [Absence](https://open.spotify.com/track/7BDaveBFLZDZKWH6uwlFXD) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Jazz in the Rain](https://open.spotify.com/album/5HnUNhdvVTF9T6QV5ThVGs) | 3:12 | 2023-04-27 |  |
+| [Aeromine](https://open.spotify.com/track/7L8BCeH9zPooWszjqnCJSa) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Aeromine](https://open.spotify.com/album/6rvdDeXagBj7x6KFoBByRa) | 3:28 | 2024-01-19 |  |
 | [After Rain](https://open.spotify.com/track/4UHKXKM0MFPED9V05lgC8C) | [Morgan Coleman Quintet](https://open.spotify.com/artist/2Ntcz3nIhmiM2R6LWNsjAZ) | [Jazz in the Rain](https://open.spotify.com/album/5HnUNhdvVTF9T6QV5ThVGs) | 2:52 | 2023-04-27 |  |
 | [Ain't Misbehavin' \- With Rain](https://open.spotify.com/track/3CLqFFKx3u8sYRfjcw5YKg) | [David Jenau](https://open.spotify.com/artist/5gmiFRkogpc9krRQuJsjlN) | [Ain't Misbehavin'](https://open.spotify.com/album/2PVnJTZBmjYKxzazZAwhxr) | 2:29 | 2023-04-27 |  |
 | [Almost Being in Love](https://open.spotify.com/track/2omqysIJo9PIwSMcMCz3cu) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Almost Being in Love](https://open.spotify.com/album/3MVho0RdwGmZa3Nr3efad5) | 3:29 | 2023-04-27 |  |
@@ -30,7 +31,7 @@
 | [Carpet Ride](https://open.spotify.com/track/0U7kzZCo3AukhMvJAXy9NY) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 2:28 | 2023-04-27 |  |
 | [Central Park West \(Rain\)](https://open.spotify.com/track/4otpI8Q3ofe7O0BNuRs3Ta) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [Central Park West \(Rain\)](https://open.spotify.com/album/19gKjLugTg8IrZDc7iLZed) | 3:40 | 2023-08-03 |  |
 | [Cloudburst](https://open.spotify.com/track/7tvV4pQbpWPcOaeZ0WNAag) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Cloudburst](https://open.spotify.com/album/0nNb04hpA17KvoJC3Rx2Ud) | 3:26 | 2023-08-17 |  |
-| [Cold Night in New York](https://open.spotify.com/track/2bxQ1MNNJxAjdtjiJ6MJx3) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf), [Jazz Liberatorz](https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Cold Night in New York](https://open.spotify.com/album/0ZlsULVG0io8URAPXjXmm0) | 5:17 | 2023-12-01 |  |
+| [Cold Night in New York](https://open.spotify.com/track/2bxQ1MNNJxAjdtjiJ6MJx3) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf), [Jazz Liberatorz](https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Cold Night in New York](https://open.spotify.com/album/0ZlsULVG0io8URAPXjXmm0) | 5:17 | 2023-12-01 | 2024-01-19 |
 | [Come Away With Me](https://open.spotify.com/track/6W36Hqqh0VueDlZMT5iyjn) | [Maurice Windham](https://open.spotify.com/artist/1BqkyvviBNHzqXWxfCOYtL) | [Come Away With Me](https://open.spotify.com/album/4LnkT3vGIc1iifgGnblsc2) | 2:12 | 2023-04-27 |  |
 | [Danny´s Dream \- Rain](https://open.spotify.com/track/1vEImeGWLWDYCxRPQJeDhy) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Danny´s Dream \- Rain](https://open.spotify.com/album/6V4FZFYpLpfLCk1qJWatur) | 3:34 | 2023-04-27 |  |
 | [Desire](https://open.spotify.com/track/09ppY0JbUbFgaNkU7YgVmD) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Rainy Days Jazz](https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV) | 4:01 | 2023-04-27 |  |

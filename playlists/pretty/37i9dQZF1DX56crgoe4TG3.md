@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Béla Fleck
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,093 likes - 140 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,131 likes - 140 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 76 | [Be My Baby](https://open.spotify.com/track/0GTxA5Q5hNNStJ2OzRmMDI) | [Theo & Brenna](https://open.spotify.com/artist/3rCHqVq980Szd1JwmfK4uq) | [Be My Baby](https://open.spotify.com/album/70kx0fGbIMhdP1Y8bY58oK) | 2:37 |
 | 77 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/3V0vJXkBDGEZsG2mMzm32S) | [Fireside Collective](https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/1XtucozRRB6IZq6m8vj8nm) | 4:29 |
 | 78 | [Counting Stars](https://open.spotify.com/track/0QRywzlUdSlC8qtayAEpkD) | [Mountain Faith](https://open.spotify.com/artist/0AOY0FBz2frjClgCdTWOlD) | [Mountain Faith Pop Series](https://open.spotify.com/album/6jn2ods9b838kQ5oQh7WtF) | 1:36 |
-| 79 | [I Believe in a Thing Called Love](https://open.spotify.com/track/7kcAK7HvIuHHDHJoGXlSPv) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:04 |
+| 79 | [I Believe in a Thing Called Love](https://open.spotify.com/track/4LlSNQDU5UZgBMlrOrRhxx) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/5I3nXZZSfM5d9SII8aZgIV) | 3:04 |
 | 80 | [Big Iron](https://open.spotify.com/track/7ykYzVrLJzL3TgWvLGHrnD) | [Southern Raised](https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH) | [Big Iron](https://open.spotify.com/album/47plHNfuDrN3zubm8Iy2MM) | 4:49 |
 | 81 | [You Are My Sunshine](https://open.spotify.com/track/2VTUz4vnpsKwR9wluFNP59) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 1](https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW) | 3:20 |
 | 82 | [You’ll Never Leave Harlan Alive](https://open.spotify.com/track/6L2HXRIVKkMbpzqjE8oYnW) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:55 |
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 122 | [The Way You Make Me Feel](https://open.spotify.com/track/11q3nuWgsWqcrlyiJHUanA) | [Honeywagon](https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx) | [Songs From Neverland](https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61) | 3:13 |
 | 123 | [Lord I Hope this Day is Good](https://open.spotify.com/track/4CTuygl7hPgqMBzBJVbVeF) | [Jr\. Williams](https://open.spotify.com/artist/7gbMaxGvHM6QoxQ4qAAolE) | [Lord I Hope this Day is Good](https://open.spotify.com/album/2pyRpAC7Hws68qo393hkp2) | 3:50 |
 | 124 | [Senor \(Tales Of Yankee Power\)](https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43) | [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Red On Blonde](https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj) | 4:02 |
-| 125 | [Somebody to Love](https://open.spotify.com/track/2tJesD4R8yf7G5JRzgE05y) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:42 |
+| 125 | [Somebody to Love](https://open.spotify.com/track/2oxMa9gOociOuL8Dl3ba90) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/5I3nXZZSfM5d9SII8aZgIV) | 3:42 |
 | 126 | [Pursuit of Happiness](https://open.spotify.com/track/1geAoz2QzafYdcLYTTlCzB) | [Honeybucket](https://open.spotify.com/artist/1ZBAifL7sUBjEf6d2hzx0e) | [Stompin' Grounds](https://open.spotify.com/album/0PwVhOH4LzW48zVN6bisFz) | 3:33 |
 | 127 | [Billie Jean](https://open.spotify.com/track/5B4aDOvZnl4A9JYBYAksIl) | [Honeywagon](https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx) | [Songs From Neverland](https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61) | 4:45 |
 | 128 | [Rocket Man](https://open.spotify.com/track/72dagJWCsNeAmHYBdQdksq) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Rocket Man](https://open.spotify.com/album/2OmgpU3fI3fmUvbl69QqB8) | 3:23 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 139 | [No Diggity](https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 5:51 |
 | 140 | [On The Road Again](https://open.spotify.com/track/3xkY21Y37cXIHrWTQBAKNZ) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Country Mountain Tributes: The Songs of Willie Nelson](https://open.spotify.com/album/5hVPIFkN55JJWu2iM6CW5D) | 3:22 |
 
-Snapshot ID: `MCw5NzE0M2UzYWI0ZmZkYTBlMTE0MGRlZGYwODM3Y2I2NWQxZGI2MzVl`
+Snapshot ID: `MCwyMTNhZTQwYzRkYjIwNDgyOTA4NjA1MGNkNWUzODRjMTNmMzYzYjg5`

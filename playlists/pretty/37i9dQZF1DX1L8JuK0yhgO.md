@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,354 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,359 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [90s \- Butcher Brown Remix](https://open.spotify.com/track/7fyFC72pjitDo4cmL0gX4W) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [90s \(Butcher Brown Remix\)](https://open.spotify.com/album/1F8dwsU59wfhViHu6HYv27) | 4:24 |
 | 60 | [Hocus Pocus](https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Blood Diamond](https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY) | 3:22 |
 
-Snapshot ID: `MCxiNDEyMmRiYmExZTA1YWY4ZjY3NTc5MjU0OWI3YjkxODQ0NjA2OWI1`
+Snapshot ID: `MCw3YWZiNWJjZmQzMDc5MmJjYmI3NDc5NTczYjRlOGEyMzI5N2JmMDZm`

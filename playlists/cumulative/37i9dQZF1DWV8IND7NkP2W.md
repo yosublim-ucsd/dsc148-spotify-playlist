@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-702 songs - 1 day 7 hr 30 min
+703 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,9 +333,9 @@
 | [Lamp2](https://open.spotify.com/track/5cT5aaRfRRkF9xPk7LcBt2) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/5qFp5leDuFDeTNplGB7I9L) | 3:18 | 2022-02-03 | 2022-07-29 |
 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-06 | 2023-11-24 |
 | [Late Night Walk](https://open.spotify.com/track/3G3WYux2jy8Yp0ICjcKpwb) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [Late Night Walk](https://open.spotify.com/album/5CQFzGrUqgVH2M37vTx39t) | 2:50 | 2023-11-14 |  |
-| [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 | 2021-12-23 | 2024-01-10 |
+| [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 | 2021-12-23 |  |
 | [Latitude](https://open.spotify.com/track/5V7ZYaPJlhaVsby0Qev1Kl) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Latitude](https://open.spotify.com/album/4Fj24NC7ybJiVQw7jh4by1) | 2:46 | 2021-12-23 | 2022-07-25 |
-| [Lazy Days](https://open.spotify.com/track/4YHYqslCkAXAe0a8AfEBUc) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Lazy Days](https://open.spotify.com/album/0xVnErhgvvQcM49B27Gccc) | 2:12 | 2023-10-26 |  |
+| [Lazy Days](https://open.spotify.com/track/4YHYqslCkAXAe0a8AfEBUc) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Lazy Days](https://open.spotify.com/album/0xVnErhgvvQcM49B27Gccc) | 2:12 | 2023-10-26 | 2024-01-19 |
 | [Le Penseur](https://open.spotify.com/track/6EW6GMbrCX3xG2XwpYhKJz) | [Gardentones](https://open.spotify.com/artist/3ZssErKV7JalICINouJ5CE), [Avantaro](https://open.spotify.com/artist/0jjmDIXXndzUooW1KogNEx), [Taikutsu](https://open.spotify.com/artist/4C8imA7ub7SiyiwApuSqc6) | [Le Penseur](https://open.spotify.com/album/4Ojh3CfSmJIg79xvBuSKix) | 1:12 | 2022-03-24 | 2022-04-18 |
 | [Legacy code](https://open.spotify.com/track/2taTxKL54zteMqWgApkCwt) | [Mikihito Sano](https://open.spotify.com/artist/0uWubgMZqCNsxMRDF5lN9m) | [Legacy code](https://open.spotify.com/album/3JAMfTw7BpOXr5B7kfEswI) | 4:57 | 2023-06-22 | 2023-08-18 |
 | [Legend \- Instrumental](https://open.spotify.com/track/4D6ODloEcphnoSF33TF9L3) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/4ChW17PKiVa3twCaWcimzA) | 3:38 | 2022-01-27 | 2022-07-28 |
@@ -444,6 +444,7 @@
 | [Night Lighter](https://open.spotify.com/track/2o926ylJ6b9NAgs7GxeJlA) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Night Lighter](https://open.spotify.com/album/4hj26tah8NTrWsjyN4GOZt) | 2:19 | 2023-06-22 | 2023-06-24 |
 | [Night Lights](https://open.spotify.com/track/6lD4z9pp562jUf3mJx1xSl) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Night Lights](https://open.spotify.com/album/0zfibDEedhD4zQiJFEk0SC) | 2:37 | 2022-01-06 | 2022-07-17 |
 | [Night Lights 2020](https://open.spotify.com/track/4EJIzAOBenyU7kQ6D7AvFe) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf) | [Night Lights 2020](https://open.spotify.com/album/5rqqrponuFtxKYusVGzSl2) | 4:01 | 2021-12-23 | 2023-04-02 |
+| [NIGHT RIDER](https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [sophisticated silence](https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z) | 2:35 | 2024-01-18 |  |
 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 | 2023-08-10 |  |
 | [Night View](https://open.spotify.com/track/5fDXtT8xiVNZ0tAe8wYXPJ) | [NOBB\-D](https://open.spotify.com/artist/0oaDlNGcoCNlw4gCqWFYz2), [交響都市](https://open.spotify.com/artist/3RzWlu98pODmrYSMwhMNeX) | [Night View](https://open.spotify.com/album/4bOSB7ra5IOKvqyJC2qbtT) | 3:01 | 2021-12-23 | 2022-01-28 |
 | [niji](https://open.spotify.com/track/14c5FlYFBYCGvzuJtyVFRb) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [niji](https://open.spotify.com/album/7HHgLuRWofzzhKDiyKHCPj) | 2:24 | 2023-06-22 | 2023-09-27 |
@@ -494,7 +495,7 @@
 | [probably](https://open.spotify.com/track/4KOsQOfzWxNGvVUliLLUzg) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [probably](https://open.spotify.com/album/3MaaGg4f16MR5qJp6bGaul) | 2:18 | 2021-12-23 | 2022-07-24 |
 | [PROUD](https://open.spotify.com/track/3zfFPrJS1wQjq323ip0SIs) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [PROUD](https://open.spotify.com/album/0OWEM09S7f09mPmYx4dCXj) | 1:58 | 2023-05-25 | 2023-11-22 |
 | [Railroad](https://open.spotify.com/track/7EK6RTprVGNtPYaMfKsTiP) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Railroad](https://open.spotify.com/album/2eg6kie4NqCYI69REmQKc6) | 2:01 | 2021-12-23 | 2022-07-27 |
-| [Rainbowtime Boy](https://open.spotify.com/track/5sA0YSGNDKCV6rf4WLMCwD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Tiny Griffi](https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0) | [Rainbowtime Boy](https://open.spotify.com/album/5xrmWCCYOJnDQgBB2dRqF8) | 2:29 | 2023-08-31 |  |
+| [Rainbowtime Boy](https://open.spotify.com/track/5sA0YSGNDKCV6rf4WLMCwD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Tiny Griffi](https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0) | [Rainbowtime Boy](https://open.spotify.com/album/5xrmWCCYOJnDQgBB2dRqF8) | 2:29 | 2023-08-31 | 2024-01-19 |
 | [Rainbowtime の少年](https://open.spotify.com/track/0xenlRTiDOY6tXRRwQYCcF) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Rainbowtime の少年](https://open.spotify.com/album/5xDJyL2yCMHRnIYtkmHLws) | 2:29 | 2023-08-31 | 2023-09-02 |
 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 | 2022-10-13 |  |
 | [Raining](https://open.spotify.com/track/2COYh59wnIaHLKjth7pM19) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Raining](https://open.spotify.com/album/1e4TMOBtDEiKHSLe0JtZFS) | 1:45 | 2022-01-13 | 2022-07-10 |

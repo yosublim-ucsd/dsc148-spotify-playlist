@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-292 songs - 1 day 2 hr 25 min
+293 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bye Bye Blackbird](https://open.spotify.com/track/3eCqeHM0bDAu5JRz1Zrlew) | [Enzo Orefice Trio](https://open.spotify.com/artist/10fF7C0hOnj8V3lDxH6PQH) | [Bye Bye Blackbird](https://open.spotify.com/album/5USF8sfRWdOU5tsCBG5cWh) | 7:00 | 2022-09-16 |  |
 | [C U](https://open.spotify.com/track/1OHKLMrJfMRsavzmCf3cOg) | [Morten Schantz](https://open.spotify.com/artist/0areODweNzGZZvnKlQjQw6) | [C U](https://open.spotify.com/album/5ASPt0TPSbEvMg4yqrMK7G) | 5:20 | 2023-06-08 | 2023-09-23 |
 | [Cabin in the Sky](https://open.spotify.com/track/1OCmPNCqZH3PGoO0tbEWZ7) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6) | [The Time is Now](https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd) | 6:45 | 2022-02-18 | 2023-02-15 |
+| [Cambridge Place](https://open.spotify.com/track/6DJHsbB3v9aPzPQVeE59es) | [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [Promise](https://open.spotify.com/album/4sleGYABucNUIs3AeAxiRy) | 7:03 | 2024-01-19 |  |
 | [Cambridge Place](https://open.spotify.com/track/6geba7EiMvkWk7h2XWzjb8) | [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [Promise](https://open.spotify.com/album/3fovoZLSTt2B0UuGcmARs6) | 7:03 | 2020-03-31 | 2024-01-14 |
 | [Captain’s Song](https://open.spotify.com/track/3djYspll15Mm2azjKSV55Y) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Captain's Song](https://open.spotify.com/album/4lBMwEwdX3BnjM74nbyRme) | 5:22 | 2020-04-17 | 2022-07-29 |
 | [Captain’s Song](https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Iron Starlet](https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN) | 5:22 | 2022-07-28 |  |
@@ -277,7 +278,7 @@
 | [There Will Never Be Another You](https://open.spotify.com/track/3Jj4zXCs23YMLcEFODQsfY) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [There Will Never Be Another You](https://open.spotify.com/album/7B3cO9ADwtUAV1vV3vCawT) | 3:55 | 2023-05-11 |  |
 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2020-03-31 | 2023-09-01 |
 | [There's Always A Way](https://open.spotify.com/track/1kILTrdSQFgpOSAeycMPAe) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [There's Always A Way](https://open.spotify.com/album/6i64NI6yiadQVZpDcljiqU) | 2:54 | 2023-05-25 |  |
-| [This Morning](https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [This Morning](https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs) | 5:04 | 2022-02-18 |  |
+| [This Morning](https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [This Morning](https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs) | 5:04 | 2022-02-18 | 2024-01-19 |
 | [Three Views Of A Secret](https://open.spotify.com/track/1AjplssYs6wbBE3NcKBsQ9) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Three Views Of A Secret](https://open.spotify.com/album/59iZJ2RyW9pzRO12nD4ah2) | 3:49 | 2023-12-08 |  |
 | [Tidal Breeze](https://open.spotify.com/track/4TRyfSh9IzlprJbTlMrWxl) | [Passport Quartet](https://open.spotify.com/artist/1sKCem3MqxDHeM5F5zAKfy), [Raphaël Imbert](https://open.spotify.com/artist/2FLekZm435IfyjMhb0JCIg) | [Invitation](https://open.spotify.com/album/6D6xpmmZhAg25csbBX8leD) | 1:13 | 2020-03-31 | 2022-04-21 |
 | [Time After Time](https://open.spotify.com/track/0ZciyueIR3Jl1gh4lbiLsk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 7:43 | 2020-03-31 | 2022-05-18 |

@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Dread MC",
-  "num_followers": 201609,
+  "num_followers": 201665,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzA2NTU1ZDFhYmJmOWZlMjJjYzVlNGE2MGYwMWU4YWU4YjgxMDg0",
+  "snapshot_id": "MCxiMjQxNGUwNmNhYTFhMDdkOTI5MTE3ZDU0ZDgyNjBiMzcwMzUyNjAx",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "This Sound",
         "url": "https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
       },
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa"
+      },
+      "artists": [
+        {
+          "name": "Slick Don",
+          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Check Yourself",
         "url": "https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 207619,
       "name": "Check Yourself",
       "url": "https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa"
-      },
-      "artists": [
-        {
-          "name": "Slick Don",
-          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
+      },
+      "artists": [
+        {
+          "name": "Jacko",
+          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
+        }
+      ],
+      "duration_ms": 232888,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "nice and close",
         "url": "https://open.spotify.com/album/0mfvIVWcbPPlusJhjIvaq1"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 196500,
       "name": "nice and close",
       "url": "https://open.spotify.com/track/1gXbEybfs68aNJsd9gX3Uc"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
-      },
-      "artists": [
-        {
-          "name": "Jacko",
-          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
-        }
-      ],
-      "duration_ms": 232888,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
     },
     {
       "added_at": "2023-12-22 00:01:00",

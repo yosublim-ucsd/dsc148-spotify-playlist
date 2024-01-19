@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Vortxz
 
-1,262 songs - 2 day 21 hr 2 min
+1,263 songs - 2 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,8 @@
 | [Droopee](https://open.spotify.com/track/0WzSC0OB8nel3PFOog0iU2) | [Bread Pilot](https://open.spotify.com/artist/6WX9FRYQIYRRTNPZaPFQ74) | [Droopee](https://open.spotify.com/album/0X1WMxlci9fqDqTE9OsmTf) | 2:44 | 2022-05-11 | 2022-06-09 |
 | [Drop Out](https://open.spotify.com/track/63iRqDqgeJbKalRKRvFw4C) | [Nervus](https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv) | [Drop Out](https://open.spotify.com/album/54FNTMiSlgXtMMKnGzstoW) | 3:22 | 2022-04-27 | 2022-05-19 |
 | [Drown Out the World](https://open.spotify.com/track/397bbBQ4grzXqyWLuFk8iM) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Drown Out the World](https://open.spotify.com/album/2c31KcrBsECElK5kRYFH08) | 3:02 | 2022-05-25 | 2022-07-07 |
-| [Dry](https://open.spotify.com/track/0OlqmnxmcAsguGfUkpZn9G) | [Drauve](https://open.spotify.com/artist/3amCA9U9lgity9TZs1MENn) | [Dry](https://open.spotify.com/album/1kzBI3su7CwsBdFPftkMvc) | 3:07 | 2023-10-18 |  |
+| [Dry](https://open.spotify.com/track/0OlqmnxmcAsguGfUkpZn9G) | [Drauve](https://open.spotify.com/artist/3amCA9U9lgity9TZs1MENn) | [Dry](https://open.spotify.com/album/1kzBI3su7CwsBdFPftkMvc) | 3:07 | 2023-10-18 | 2024-01-19 |
+| [Dry](https://open.spotify.com/track/2pje58AMnj2ZsP0VzVfGF9) | [Drauve](https://open.spotify.com/artist/3amCA9U9lgity9TZs1MENn) | [Dry](https://open.spotify.com/album/0D1wJzNM4l6xtkNKZchVsN) | 3:07 | 2024-01-17 |  |
 | [Dying Leaves](https://open.spotify.com/track/2hPmCTFXIgDHoPv3bJejwx) | [Spite House](https://open.spotify.com/artist/3ORse2pnaM7OvXoqIgS1pN) | [Dying Leaves](https://open.spotify.com/album/5D8r4RyUOX4tJsy9qMI5XF) | 2:18 | 2022-08-10 | 2022-10-20 |
 | [EARTHBOUND](https://open.spotify.com/track/0DK606ruJP7aHne1OY0qOa) | [weyside](https://open.spotify.com/artist/7HySxef0Jg7yvv02PMkjsn) | [EARTHBOUND](https://open.spotify.com/album/41zoaCpdBGgqcaoHvAKlTZ) | 2:37 | 2022-10-05 | 2022-12-01 |
 | [Easy](https://open.spotify.com/track/2Iq1RlidvXgu9fdOCEr2w3) | [Ellevator](https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt) | [Easy](https://open.spotify.com/album/3Cq2k5fPbC5ESA9JNzNU4d) | 3:11 | 2021-12-01 | 2022-05-19 |

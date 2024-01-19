@@ -441,6 +441,28 @@
     },
     {
       "album": {
+        "name": "ALDRIG G\u00c5 TOM",
+        "url": "https://open.spotify.com/album/3mGJNsU0zjF09QtoVsXpgq"
+      },
+      "artists": [
+        {
+          "name": "Greta Tuborg",
+          "url": "https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ"
+        },
+        {
+          "name": "Betty Becks",
+          "url": "https://open.spotify.com/artist/53tc97BjjvJ7MJT0GzLQsg"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161766,
+      "name": "ALDRIG G\u00c5 TOM",
+      "url": "https://open.spotify.com/track/4UvcHiLedxzJvziFyijahP"
+    },
+    {
+      "album": {
         "name": "ALDRIG LIGGA MED DIG NYKTER",
         "url": "https://open.spotify.com/album/6piTXn1MHOQOUapNuDsRMc"
       },
@@ -562,7 +584,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 165517,
       "name": "ALKOHOL",
       "url": "https://open.spotify.com/track/1VozMxhW4wB8Xhe29w6FTa"
@@ -1304,7 +1326,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 127274,
       "name": "BLI S\u00c5 BRA",
       "url": "https://open.spotify.com/track/5PaSER5n7V9tBTYO0QH4aK"
@@ -1578,6 +1600,24 @@
       "duration_ms": 159960,
       "name": "Bra vibbar (Bra vibrationer)",
       "url": "https://open.spotify.com/track/3lyMZcBpWuTYyxh8h3w5HL"
+    },
+    {
+      "album": {
+        "name": "Bra vibrationer (Du ger mig bra vibrationer)",
+        "url": "https://open.spotify.com/album/7MftN1s52kgvGJQpfeak53"
+      },
+      "artists": [
+        {
+          "name": "Dolores",
+          "url": "https://open.spotify.com/artist/4qyhURA0g9oibogcNPMZaP"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Bra vibrationer (Du ger mig bra vibrationer)",
+      "url": "https://open.spotify.com/track/0NG4MkcDRdtq3YuttON5W7"
     },
     {
       "album": {
@@ -2772,7 +2812,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 173793,
       "name": "DET \u00c4R JU DEJ JAG G\u00c5R OCH V\u00c4NTAR P\u00c5",
       "url": "https://open.spotify.com/track/4lkJBloFZ3aXhsezo8BgO1"
@@ -4589,6 +4629,24 @@
     },
     {
       "album": {
+        "name": "Fakk dig \u00e4lskling",
+        "url": "https://open.spotify.com/album/6LuncoRMdrLvDPAbzD5KW3"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147214,
+      "name": "Fakk dig \u00e4lskling",
+      "url": "https://open.spotify.com/track/5aTc2p4FjhVpKcMDIIBtLN"
+    },
+    {
+      "album": {
         "name": "Fakk Min X",
         "url": "https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ"
       },
@@ -5956,7 +6014,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 121454,
       "name": "FULLAST (Dunk Edit)",
       "url": "https://open.spotify.com/track/49Cy0CTHBxVZDdtfunXcPw"
@@ -6290,7 +6348,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 229658,
       "name": "F\u00d6RS\u00d6KER LE",
       "url": "https://open.spotify.com/track/3Jr1fTt0S8JZSVok1LwMR9"
@@ -8849,6 +8907,28 @@
     },
     {
       "album": {
+        "name": "INKASSO",
+        "url": "https://open.spotify.com/album/4IYXieF3IcosIOzwUwFlzh"
+      },
+      "artists": [
+        {
+          "name": "FL\u00c4DERPOJKARNA",
+          "url": "https://open.spotify.com/artist/6kVG7vRsL7U7UuATIAyPtd"
+        },
+        {
+          "name": "Lirare",
+          "url": "https://open.spotify.com/artist/29fjkix5tB2c3s7Vfdn2wh"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145124,
+      "name": "INKASSO",
+      "url": "https://open.spotify.com/track/4U7lSJZBfQcbERhChyNxxy"
+    },
+    {
+      "album": {
         "name": "Invisible Friend (feat. Paradigm & Sarah De Warren) [Da Tweekaz Remix]",
         "url": "https://open.spotify.com/album/15OzE1VcJVTq4KF48nbIuQ"
       },
@@ -10525,6 +10605,24 @@
     },
     {
       "album": {
+        "name": "LITA ALDRIG P\u00c5 DITT X",
+        "url": "https://open.spotify.com/album/17OwjcAKUbsTRCltFbFeJg"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130539,
+      "name": "LITA ALDRIG P\u00c5 DITT X",
+      "url": "https://open.spotify.com/track/40GrQLQ1RucJB3J7kXsCQe"
+    },
+    {
+      "album": {
         "name": "LIVET P\u00c5 EN PINNE",
         "url": "https://open.spotify.com/album/59KYpP2odCYJuBnQBGDmTO"
       },
@@ -11271,6 +11369,28 @@
     },
     {
       "album": {
+        "name": "MINTU OCH J\u00c4GER",
+        "url": "https://open.spotify.com/album/7xeariL9MzWJ5f7vhSsmEi"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147562,
+      "name": "MINTU OCH J\u00c4GER",
+      "url": "https://open.spotify.com/track/4dUHzCOwV4QZHVto7cYp1O"
+    },
+    {
+      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/098FaVNDWnOYMluE1uEFA8"
       },
@@ -11312,6 +11432,24 @@
       "duration_ms": 114400,
       "name": "MISSF\u00d6RST\u00c5TT - Roc Boyz Remix",
       "url": "https://open.spotify.com/track/5PnY5zibauLwrMFIBfmwM3"
+    },
+    {
+      "album": {
+        "name": "Mitt lilla fejs & jag",
+        "url": "https://open.spotify.com/album/3qSR0uHyOG1mJRj5mjLYIS"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152173,
+      "name": "Mitt lilla fejs & jag",
+      "url": "https://open.spotify.com/track/7rMOiHCtibUC2qBhCPHCHy"
     },
     {
       "album": {
@@ -11472,7 +11610,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 154960,
       "name": "MULTIVITAMIN",
       "url": "https://open.spotify.com/track/5LLY0yvNGk6FxADFydtpVW"
@@ -11508,7 +11646,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 113200,
       "name": "MUSTASCH",
       "url": "https://open.spotify.com/track/7HlKwS6sHRuSzQ9zef9Wul"
@@ -12098,7 +12236,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 133161,
       "name": "N\u00e4r vi tv\u00e5 blir en",
       "url": "https://open.spotify.com/track/5wyAXCPg6uCYG4XKaIY1rr"
@@ -18656,6 +18794,24 @@
       "duration_ms": 113164,
       "name": "VARJE DAG",
       "url": "https://open.spotify.com/track/6XOFvySycwkbmqxWfACN9D"
+    },
+    {
+      "album": {
+        "name": "VARJE G\u00c5NG",
+        "url": "https://open.spotify.com/album/4Oc0N04Q8HciLqWd83rpRC"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130404,
+      "name": "VARJE G\u00c5NG",
+      "url": "https://open.spotify.com/track/1vyVW1rjJQGCJigEsZzi4L"
     },
     {
       "album": {

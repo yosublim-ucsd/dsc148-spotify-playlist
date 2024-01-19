@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-683 songs - 1 day 23 hr 46 min
+684 songs - 1 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [How High the Moon](https://open.spotify.com/track/3C3VHurxO0DQibbmDs9tvD) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [How High the Moon](https://open.spotify.com/album/0OJBWjLYBjfYpp5tWqbStP) | 2:50 | 2023-03-24 | 2023-04-29 |
 | [How Long](https://open.spotify.com/track/426gkB9mdqZMgC0z0SQAKl) | [Ksenia Parkhatskaya](https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy) | [How Long](https://open.spotify.com/album/5Crdch0juI2YvrOqZ1MZqk) | 4:35 | 2021-02-19 | 2022-07-29 |
 | [Humans](https://open.spotify.com/track/7HOdJvWGbrMycsVvQQ1qFW) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Overtones for the Omniverse](https://open.spotify.com/album/2RFYuZnJfS6JbkAD15KhKk) | 3:04 | 2021-07-30 | 2022-02-10 |
-| [I Always Fall for You](https://open.spotify.com/track/5LQmaC0A1qnm4ad8MuONcG) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [I Always Fall for You](https://open.spotify.com/album/1QhEzI387TGvwZH1UIjDOh) | 3:20 | 2023-10-20 |  |
+| [I Always Fall For You](https://open.spotify.com/track/0NzIxQZjn7iaHMVVbwwFKR) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...FALL](https://open.spotify.com/album/7laOkKYaNpecWsqlsThiVg) | 3:20 | 2023-10-20 |  |
+| [I Always Fall for You](https://open.spotify.com/track/5LQmaC0A1qnm4ad8MuONcG) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [I Always Fall for You](https://open.spotify.com/album/1QhEzI387TGvwZH1UIjDOh) | 3:20 | 2023-10-20 | 2024-01-19 |
 | [I Am What I Am](https://open.spotify.com/track/2yNAX7gJ7d8jInRnXtINEE) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Veronica Swift](https://open.spotify.com/album/053XeiFx1CVMD0sU3gZ8f8) | 5:32 | 2023-07-14 |  |
 | [I Am What I Am](https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [I Am What I Am](https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv) | 5:32 | 2023-07-14 | 2023-10-29 |
 | [I Can't Give You Anything But Love](https://open.spotify.com/track/5AdRursK0T21JEBHcZ92Vh) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:45 | 2021-01-22 | 2022-07-28 |

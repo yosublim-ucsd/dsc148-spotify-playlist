@@ -4727,6 +4727,24 @@
     },
     {
       "album": {
+        "name": "A Seasonal Thing...FALL",
+        "url": "https://open.spotify.com/album/7laOkKYaNpecWsqlsThiVg"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200618,
+      "name": "I Always Fall For You",
+      "url": "https://open.spotify.com/track/0NzIxQZjn7iaHMVVbwwFKR"
+    },
+    {
+      "album": {
         "name": "I Always Fall for You",
         "url": "https://open.spotify.com/album/1QhEzI387TGvwZH1UIjDOh"
       },
@@ -4738,7 +4756,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 200618,
       "name": "I Always Fall for You",
       "url": "https://open.spotify.com/track/5LQmaC0A1qnm4ad8MuONcG"

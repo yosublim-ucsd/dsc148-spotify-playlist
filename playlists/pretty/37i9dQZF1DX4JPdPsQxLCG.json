@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 80636,
+  "num_followers": 80649,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGE5ODA2ODNkYjFhNjUxNzkzMzBkOTMyNDUwMzAzYWFmYmY1ZjY2",
+  "snapshot_id": "MCxlMWE3NjNiY2I4MzU0ZTA3ZmNjZjdmMDZkNTJlNGU4OGYzOWNmM2U0",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Cuts Like A Knife",
-        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+        "name": "A Tribe Called Red",
+        "url": "https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "The Halluci Nation",
+          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
         }
       ],
-      "duration_ms": 319800,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
+      "duration_ms": 219853,
+      "name": "Electric Pow Wow Drum",
+      "url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "A Tribe Called Red",
-        "url": "https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ"
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
       },
       "artists": [
         {
-          "name": "The Halluci Nation",
-          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 219853,
-      "name": "Electric Pow Wow Drum",
-      "url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ"
+      "duration_ms": 319800,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Born on a Pirate Ship (Enhanced Edition)",
-        "url": "https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ"
-      },
-      "artists": [
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "The Old Apartment",
-      "url": "https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "In Loving Memory Of - 20th Anniversary Special Edition",
         "url": "https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 304906,
       "name": "That Song",
       "url": "https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Born on a Pirate Ship (Enhanced Edition)",
+        "url": "https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "The Old Apartment",
+      "url": "https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23"
     },
     {
       "added_at": "2024-01-12 05:01:00",

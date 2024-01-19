@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 21935,
+  "2024-01-19": 21936,
   "date_first_scraped": "2023-07-10",
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
   "name": "This Is Ludmila Ferber",
@@ -219,7 +219,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 319400,
       "name": "D\u00e1-me Ouvidos",
       "url": "https://open.spotify.com/track/23o46vvYcaJLGQomYj24c0"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 166295,
       "name": "Hosana",
       "url": "https://open.spotify.com/track/230D5FncrRu4KggaMrlpqQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,337 likes - 77 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,342 likes - 77 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 76 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 |
 | 77 | [Perfumes e Balão](https://open.spotify.com/track/79xUCr1UTOigTmCtRCvAea) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [L30](https://open.spotify.com/artist/1BxVqY0zR8ymT4bLg6abA3) | [Perfumes e Balão](https://open.spotify.com/album/2bSZIwIoaRPtMoLk7RUKG0) | 2:52 |
 
-Snapshot ID: `MCw5NTJiMDc2NWU1NzAwNDU2YjhiNThjNDRmOTFmMjk3MmJmN2ViNWRk`
+Snapshot ID: `MCwwOGY4MDcxNzc3ZDdhYTRlMjFiN2U5NTNlMjBhYzA0MDRiZDlmN2Qw`

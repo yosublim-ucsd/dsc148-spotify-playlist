@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61?si=sl-cqVdKSPmAltwj63V2jA\">IZINGANE ZOMA<a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3?si=1iVpqPqtQAKevpSmA_QLXg\">Mzukulu<a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -950,6 +950,28 @@
       "duration_ms": 269189,
       "name": "Ijele",
       "url": "https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F"
+    },
+    {
+      "album": {
+        "name": "Ijuba",
+        "url": "https://open.spotify.com/album/0vfOenK6KA9EexqpixRjMF"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        },
+        {
+          "name": "Shenge wasehlalankosi",
+          "url": "https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312685,
+      "name": "Ijuba",
+      "url": "https://open.spotify.com/track/5jsO87ShnH2lEXhIfjMAUj"
     },
     {
       "album": {
@@ -2045,6 +2067,28 @@
     },
     {
       "album": {
+        "name": "Ey'nqeni Zamadoda",
+        "url": "https://open.spotify.com/album/1sf9F7Xa2giH0GuV2JpaZ2"
+      },
+      "artists": [
+        {
+          "name": "Imfezemnyama",
+          "url": "https://open.spotify.com/artist/7vBfzLi5LmZNPTV8VXYNd5"
+        },
+        {
+          "name": "Inkosi Yamagcokama",
+          "url": "https://open.spotify.com/artist/0oE4CjIgIjVd6t4OkZiEZ4"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305382,
+      "name": "Ngashela Kabi",
+      "url": "https://open.spotify.com/track/7weVaok0qn6SH7KiEk1awy"
+    },
+    {
+      "album": {
         "name": "Ngeke Ungiphathe",
         "url": "https://open.spotify.com/album/0G0VUPHu7fDuvVrCWlGJTM"
       },
@@ -2198,6 +2242,24 @@
       "duration_ms": 281240,
       "name": "Ngiyeza",
       "url": "https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu"
+    },
+    {
+      "album": {
+        "name": "Imizwa",
+        "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
+      },
+      "artists": [
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281240,
+      "name": "Ngiyeza",
+      "url": "https://open.spotify.com/track/7ATU7xI4ffZgPGm3QCKX4K"
     },
     {
       "album": {
@@ -2434,7 +2496,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 243693,
       "name": "S'kushaya Isdakwa",
       "url": "https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx"

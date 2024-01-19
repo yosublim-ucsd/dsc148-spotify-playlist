@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,192 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,325 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 27 | [True Belonging](https://open.spotify.com/track/1T3gjAMgJ4bj0NioxyRBzE) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp), [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Daybreak: Psalms of Action](https://open.spotify.com/album/7F6q2U4zsOLtnHuViWZ4NL) | 3:44 |
 | 28 | [Standing Strong \- Live](https://open.spotify.com/track/5Twd5y4BMNC1FUVPrqa44h) | [Lydia Ingegneri](https://open.spotify.com/artist/5zXH2BUYq9vVQQxPDU8fL8) | [Standing Strong \(Live\)](https://open.spotify.com/album/3gtfJNJq7LFRyHjpGQmK8f) | 5:15 |
 | 29 | [Holy](https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG) | [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x), [Jonathan Clarke](https://open.spotify.com/artist/5HTyP5XAnJHFgHNGEOa5p1) | [Holy](https://open.spotify.com/album/4ocg1C1hfz5nmZV3Wg8XUQ) | 7:08 |
-| 30 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/3DHCxITonYPI1gNzdewEfI) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 |
+| 30 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 |
 | 31 | [Jesus Jesus Jesus \- Live](https://open.spotify.com/track/6OOqZLZzCkbXfkXrJgR7pV) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Lisa Knowles\-Smith](https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo) | [Jesus, Jesus, Jesus \(Live\)](https://open.spotify.com/album/4vzNAaxddqpjNIOzByrMQd) | 6:50 |
 | 32 | [We Need Your Presence Now \(feat\. Eryka Edmund\)](https://open.spotify.com/track/3CqPj0BBWXmU3uCezP2iOF) | [Charles Butler & Trinity](https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU), [Eryka Edmund](https://open.spotify.com/artist/1VitpzYVY9vaDnqSl0wir9) | [We Need Your Presence Now \(feat\. Eryka Edmund\)](https://open.spotify.com/album/5UjMHrd8ndwHGVrGQ1lHwR) | 2:35 |
 | 33 | [Cure](https://open.spotify.com/track/02pi6y1Dm2r5fposfmvXRP) | [Bishop Freddy Washington](https://open.spotify.com/artist/30aLIsoIciJY3VRhtfGFWg) | [Cure](https://open.spotify.com/album/2MayBOFQKT4UbWTOK7uafZ) | 3:38 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 50 | [Not Too Far](https://open.spotify.com/track/7iDV1puRB9TWxeeeUfXzSm) | [JWOODZ](https://open.spotify.com/artist/1euV2O9oyOrwbwOoakx45f), [Coastside](https://open.spotify.com/artist/2R0sIj9VFyZhqxEN6vF5RE) | [Not Too Far](https://open.spotify.com/album/72NSBUbCVR0OjIlgAIeGaE) | 2:15 |
 | 51 | [All Love](https://open.spotify.com/track/0CXIQUEmhPJvyZIbe1qiJg) | [E.i\. the King](https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO) | [All Love](https://open.spotify.com/album/5FEezaA5LJujf8tXKkkUO6) | 3:45 |
 | 52 | [Poetic Pain](https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq) | [Coop](https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP), [Swaizy](https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL) | [WE MISSED YOU](https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8) | 2:15 |
-| 53 | [HAPPY](https://open.spotify.com/track/1pAkVoknb9Mlk7bYO2ZCJP) | [Eric Champlin](https://open.spotify.com/artist/00sjYUgXKrnRL9EajnFQTa), [Haylie Allcott](https://open.spotify.com/artist/2ObCDgARP2XjpJ04wFWjOg) | [HAPPY](https://open.spotify.com/album/1rA3RF48jvzdYtQuiJDeWt) | 4:02 |
+| 53 | [HAPPY](https://open.spotify.com/track/1pAkVoknb9Mlk7bYO2ZCJP) | [Eric Champlin](https://open.spotify.com/artist/00sjYUgXKrnRL9EajnFQTa), [Haylie Allcott](https://open.spotify.com/artist/7JhR8iHc1tpV79FCvWFl6I) | [HAPPY](https://open.spotify.com/album/1rA3RF48jvzdYtQuiJDeWt) | 4:02 |
 | 54 | [i need you](https://open.spotify.com/track/52j9n10GWQv2XbeSVe4thB) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [SSTEDI](https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK) | [hidden](https://open.spotify.com/album/18PVn899EOwkogvMJLMKkK) | 2:22 |
 | 55 | [I've Changed a Lot](https://open.spotify.com/track/24nOWJI4FCRuAtMSGcDQxU) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [I've Changed a Lot](https://open.spotify.com/album/1mnDUOBwlCuibZOhb6lfs2) | 2:46 |
 | 56 | [Quiet Joy \- live by the pool](https://open.spotify.com/track/1MT2qf7Pd25gbKzB3YZlRu) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [JOY JOY JOY JOY JOY](https://open.spotify.com/album/0tTqu9cPdHSUkHuWblk9vl) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Favorite Trapper](https://open.spotify.com/track/6ELsXVHVwBNS81g4CXiXle) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2) | [Favorite Trapper](https://open.spotify.com/album/0OOX0GDbvpMpAYZEyqM1RJ) | 2:26 |
 | 100 | [Bands](https://open.spotify.com/track/1jutX4tpnkTBu94RsGKDX3) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Bands](https://open.spotify.com/album/5veg02OZ3szLtOtf4D5eHB) | 3:17 |
 
-Snapshot ID: `MCw1ZjM3NjkxMzFkM2NkMzMwNDBhZjA5MDQ3ZmRlZDcwNGRjMDgxN2Uz`
+Snapshot ID: `MCxiMTY0OTVhNzUwOGJkNjgxZWQ5ZjZjN2I1ZWZhN2FlMzIwOTBmMzVk`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Arches",
+  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: PetPetShawn",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -3008,6 +3008,44 @@
       "duration_ms": 257194,
       "name": "\u907a\u5fd8\u4e86\u521d\u5fc3\u7684\u6211\u5011",
       "url": "https://open.spotify.com/track/46Ntxwf4zWxhWHjtqWul6h"
+    },
+    {
+      "album": {
+        "name": "\u91d1\u699c\u984c\u540d",
+        "url": "https://open.spotify.com/album/7cZsfS5lOPux956zjAlSjA"
+      },
+      "artists": [
+        {
+          "name": "Juno Mak",
+          "url": "https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62"
+        },
+        {
+          "name": "SOPHY",
+          "url": "https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq"
+        },
+        {
+          "name": "Mr. scanner",
+          "url": "https://open.spotify.com/artist/4x6hxzjBEIRbQ58VVZ1yYR"
+        },
+        {
+          "name": "Novel Fergus",
+          "url": "https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR"
+        },
+        {
+          "name": "PetPetShawn",
+          "url": "https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM"
+        },
+        {
+          "name": "24Herbs",
+          "url": "https://open.spotify.com/artist/529oXjexAyYU0ApmR7jpMM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485807,
+      "name": "\u91d1\u699c\u984c\u540d",
+      "url": "https://open.spotify.com/track/4F65yFSP9lxFf2LKzg3Eis"
     },
     {
       "album": {

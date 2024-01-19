@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/1un07dxoqPPqCiAl8PQN4N"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184559,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6JVUlhLabHaY33tTNNgefD"
+    },
+    {
+      "album": {
         "name": "Dancing With Tears In My Eyes (Bossa Nova Remix)",
         "url": "https://open.spotify.com/album/10XzBSx1xOySdki0IKQk1a"
       },

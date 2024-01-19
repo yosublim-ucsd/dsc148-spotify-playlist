@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 389 songs - 1 day 1 hr 8 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 417 songs - 1 day 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -397,5 +397,33 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 387 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 |
 | 388 | [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 |
 | 389 | [My Friend Goo](https://open.spotify.com/track/3BbPWMc572VSVDC7okGwJx) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Goo](https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr) | 2:18 |
+| 390 | [★](https://open.spotify.com/track/1Xb5UAKg5OdTHkg48FdQou) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Blackstar](https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi) | 9:57 |
+| 391 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 |
+| 392 | [Respect the Eye](https://open.spotify.com/track/4KE01sjsnBhGKZri1752hS) | [Anarchist Republic of Bzzz](https://open.spotify.com/artist/1I7aEA3Ri18tqHAm0YhkHc) | [United Diktatürs of Europe](https://open.spotify.com/album/7rB5gL9lHHJeOgZ6BRnLIz) | 4:01 |
+| 393 | [Pleasant Street Bossa](https://open.spotify.com/track/6qtkkHYgd5HcQepVTksKQp) | [Falling](https://open.spotify.com/artist/0o7xj8ZxvJJqUTgodQa9nW) | [Out of Sight](https://open.spotify.com/album/6SmxgbgTOJJfi7rfXE4vOy) | 1:10 |
+| 394 | [The Dinosaur Where We Fell In Love](https://open.spotify.com/track/12GpylddMkhfIdrzGbCeNN) | [RM Hubbert](https://open.spotify.com/artist/6CTfJQCh41MSUkUDjBhol8) | [Telling The Trees](https://open.spotify.com/album/4NSsIjh6S7nvcpo5s2QQRe) | 3:38 |
+| 395 | [If This Tour Doesn't Kill You, I Will](https://open.spotify.com/track/273GJ8gvmeGI4LXKlcbBGJ) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:18 |
+| 396 | [Describe You](https://open.spotify.com/track/5QX8sjpXdXRqlvRKZHR2HW) | [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Confessions](https://open.spotify.com/album/523NK9KpUMDov85Flrn1kf) | 3:19 |
+| 397 | [I](https://open.spotify.com/track/67eZrCOBvnQtURCkICXySb) | [Rocks and Waves Song Circle](https://open.spotify.com/artist/3IGl0j2I9KKjiOgtiBFmv7) | [Songs I\-V](https://open.spotify.com/album/6hHKEiQIKkcelLnUPjpy71) | 5:40 |
+| 398 | [Disastrous Looks](https://open.spotify.com/track/3OqRxj7C6hgMjn8L6qvXZ7) | [The I.L.Y's](https://open.spotify.com/artist/0dUllYYPbOLgiWDYZ27dKm) | [Scum With Boundaries](https://open.spotify.com/album/4m4XvMoSnZsF9V4EGyBKd8) | 3:32 |
+| 399 | [Fire](https://open.spotify.com/track/7qisEHSTKvbq6ruMbvemwb) | [Mal Devisa](https://open.spotify.com/artist/3YMOzNArPJIyR5Y5iIxOpi) | [Kiid](https://open.spotify.com/album/2X9yCAdOM19MwZQquN6Fir) | 2:21 |
+| 400 | [Caterpillar](https://open.spotify.com/track/6ePUtuTprNgkWzN6G5JQ5p) | [The Colorist Orchestra](https://open.spotify.com/artist/1AQqTYQoz0RHAEUz75nE2D), [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [The Colorist & Emiliana Torrini](https://open.spotify.com/album/308EQ717rquoukYqREg2uC) | 4:41 |
+| 401 | [Prologue \(feat\. Jordon Ellis\)](https://open.spotify.com/track/3pu7cPzTVatpVAyUdvPhtX) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Jordon Ellis](https://open.spotify.com/artist/2vGS5VgfM3eDDlFtVTTD28) | [Infowars \(feat\. Jordon Ellis\)](https://open.spotify.com/album/1z5RTkAi1kwbV0WN8t24K3) | 1:00 |
+| 402 | [Woolf and Plath](https://open.spotify.com/track/1pm4JOgUyHFcnWNrNTUkEW) | [Foonyap](https://open.spotify.com/artist/37cFjzZQ7aSlexb2IoNJgO) | [Palimpsest](https://open.spotify.com/album/10qM36T7cTV0YHRfQ6m0Wx) | 2:30 |
+| 403 | [Laamb](https://open.spotify.com/track/4SVk1NlNgd7yziIoJyG7k9) | [Steve Lehman](https://open.spotify.com/artist/5Al3ktlrPkN2fhMRQzSYXP), [Sélébéyone](https://open.spotify.com/artist/1n6k1bY33QxFzgffetVZpK) | [Sélébéyone](https://open.spotify.com/album/21rWcVbmvaRyLl7faw0sVm) | 6:07 |
+| 404 | [Stranded](https://open.spotify.com/track/4b6hzaWi80OeJtUwZ84ErD) | [Airplay](https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw) | [Airplay](https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n) | 4:28 |
+| 405 | [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 |
+| 406 | [Dark Light](https://open.spotify.com/track/1o7oOkRLN3ORajw71WC0mx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [The Birds Outside Sang](https://open.spotify.com/album/336M91KDT5FewEOZI5SUJd) | 1:31 |
+| 407 | [The Journey](https://open.spotify.com/track/50yW6FIY9isI5GmK1MNWfj) | [BE](https://open.spotify.com/artist/06kHjoBIuDUNyFBNBMoAC2) | [One](https://open.spotify.com/album/6I7J5zPGIdOGKl5jtCGzdh) | 18:52 |
+| 408 | [Lift](https://open.spotify.com/track/7imDM0mCmxkNgt9ROwijiU) | [Katie Gately](https://open.spotify.com/artist/6FP6ynzSPeBFX46vkI1OsW) | [Color](https://open.spotify.com/album/5pVeEzOuaLQDIoJxOwyWDj) | 4:17 |
+| 409 | [Kim Cattrall](https://open.spotify.com/track/2JPh5kSNgX79mgaMmUQPFN) | [Speedy Ortiz](https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob) | [Rabbit Rabbit](https://open.spotify.com/album/5RWNHToyEel7qS5CZmYOms) | 3:18 |
+| 410 | [<2](https://open.spotify.com/track/6b7UmVZAUEdc7cwF52tuBd) | [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg) | [Slugger](https://open.spotify.com/album/4pIfQJoWkRlqdPG4geudEf) | 3:23 |
+| 411 | [Mo Move](https://open.spotify.com/track/5dGClop5hvOr0vXADmAYw8) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Hundred Days Off](https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg) | 6:54 |
+| 412 | [Who I Am](https://open.spotify.com/track/2ak64lN0RARj28Vpj074Zm) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [The Dreaming Room \(Special Edition\)](https://open.spotify.com/album/3zbxHIsyjD7NmglV6cYb4D) | 1:18 |
+| 413 | [Main Titles](https://open.spotify.com/track/5TTPUpjBOycZtQYyxjOshu) | [Wes Borland](https://open.spotify.com/artist/3Uzo5Y5sjGlwxNjfZDtGLF) | [Crystal Machete](https://open.spotify.com/album/6RrfC1hxrS4ANiOQPTtCs3) | 6:29 |
+| 414 | [Body of Work](https://open.spotify.com/track/2ZaM1JRPn73pqq5cqOz7WZ) | [Cave Story](https://open.spotify.com/artist/1VJmUKy8XJ1gecAv2KRUDx) | [West](https://open.spotify.com/album/0Up7fNL6ZFNMx3sGdYNTOS) | 4:02 |
+| 415 | [Bed Case](https://open.spotify.com/track/2PO7jULh5zITUydxMJSTzv) | [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS) | [Out of the Garden](https://open.spotify.com/album/53sM38B5s8UptdvmAYJwWk) | 2:50 |
+| 416 | [Natural Vaudou](https://open.spotify.com/track/7F5taDAEzGYIcKA6mYNlCs) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz) | [Kidayu](https://open.spotify.com/album/76PW5sf4kKQR5jCZ05gilM) | 3:41 |
+| 417 | [Hyacinth](https://open.spotify.com/track/2EirKrb1mZS0Wmk7Wt3dHV) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:19 |
 
-Snapshot ID: `MTI3MSwwZTUwNmYyY2M5YTIxMDQxYjA2NGUzYTM4MDJiNDY1YWM5M2Y0ZjAw`
+Snapshot ID: `MTMwNCxhMWRlZDg4MzBjMDE2MzU0ZDIyNGUzNmVlZjE0YTI3MjI0YmE3MTM3`

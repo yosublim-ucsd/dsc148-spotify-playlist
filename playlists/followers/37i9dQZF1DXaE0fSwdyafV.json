@@ -1,9 +1,27 @@
 {
-  "2024-01-18": 131998,
+  "2024-01-19": 132023,
   "date_first_scraped": "2023-09-27",
   "description": "It's the witching hours. ",
   "name": "Protect Your Energy",
   "tracks": [
+    {
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE"
+      },
+      "artists": [
+        {
+          "name": "Theo Bleak",
+          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "A Sickness",
+      "url": "https://open.spotify.com/track/3DZP8Zr6edwwY2TBW7z2QF"
+    },
     {
       "album": {
         "name": "Power Corruption and Lies",
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 177260,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"

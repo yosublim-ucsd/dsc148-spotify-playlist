@@ -5106,6 +5106,10 @@
         {
           "name": "BINA.",
           "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        },
+        {
+          "name": "Subculture",
+          "url": "https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx"
         }
       ],
       "date_added": "2023-12-08",
@@ -8184,7 +8188,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 212848,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM"
@@ -19366,7 +19370,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 161739,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/5YIvTBvKjz229Gw3FW13Nu"

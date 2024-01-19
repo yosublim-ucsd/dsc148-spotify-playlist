@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 1068091,
+  "2024-01-19": 1068159,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
@@ -10524,6 +10524,28 @@
     },
     {
       "album": {
+        "name": "Farsi male",
+        "url": "https://open.spotify.com/album/4B91wCLxk15YTphth6FQet"
+      },
+      "artists": [
+        {
+          "name": "FRE",
+          "url": "https://open.spotify.com/artist/3BQO4GCUPYanuJ12wV1kNn"
+        },
+        {
+          "name": "Caneda",
+          "url": "https://open.spotify.com/artist/0sFpREh3MXhfRxOFZVStVG"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174193,
+      "name": "Farsi male",
+      "url": "https://open.spotify.com/track/3Of775gOxdgQaJq4sVZnjq"
+    },
+    {
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a"
       },
@@ -13877,7 +13899,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 167339,
       "name": "IL MALE CHE MI FAI (feat. Marracash)",
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"

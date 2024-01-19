@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 149747,
+  "num_followers": 150125,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2JiYmZkYjU2MTQyMWM4NzFhNWU2OGU4MGY1ZTk0NTQzOTE4NjM4",
+  "snapshot_id": "MCxlMGU4MzgwY2U0NWZjNDdjMDY3ZTc0ODJlYjMzNjRiNGE5ZmI3Yjc1",
   "tracks": [
     {
       "added_at": "2023-08-11 13:33:49",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 362320,
+      "name": "Mi Credo (En Vivo)",
+      "url": "https://open.spotify.com/track/2K5XrnXHgV7r71gbQjxoUo"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 282733,
       "name": "Eres para M\u00ed (with La Mala Rodr\u00edguez) - Unplugged (En Vivo)",
       "url": "https://open.spotify.com/track/1gL4YEW5qp6mv2aku06a06"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
-        "name": "MTV Unplugged (En Vivo)",
-        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 362320,
-      "name": "Mi Credo (En Vivo)",
-      "url": "https://open.spotify.com/track/2K5XrnXHgV7r71gbQjxoUo"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "Alejandra Guzm\u00e1n 20 A\u00f1os De \u00c9xitos En Vivo Con Moderatto",
-        "url": "https://open.spotify.com/album/5Ew8Kk0D4LuZFKTBh9ckDn"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 212638,
-      "name": "D\u00eda De Suerte",
-      "url": "https://open.spotify.com/track/3rvCwVlf4cXcXeNLb8QIsB"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 226373,
       "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
       "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "Alejandra Guzm\u00e1n 20 A\u00f1os De \u00c9xitos En Vivo Con Moderatto",
+        "url": "https://open.spotify.com/album/5Ew8Kk0D4LuZFKTBh9ckDn"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 212638,
+      "name": "D\u00eda De Suerte",
+      "url": "https://open.spotify.com/track/3rvCwVlf4cXcXeNLb8QIsB"
     },
     {
       "added_at": "2023-08-11 13:33:49",

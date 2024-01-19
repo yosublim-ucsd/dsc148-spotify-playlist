@@ -876,7 +876,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 179033,
       "name": "Dholida",
       "url": "https://open.spotify.com/track/4QKp78XQvd4Sr8Qj0vEXYv"
@@ -1056,6 +1056,32 @@
       "duration_ms": 189183,
       "name": "Dil Khanjar",
       "url": "https://open.spotify.com/track/4EP0ThaLieQ06qEpPWSUe6"
+    },
+    {
+      "album": {
+        "name": "Dil Ki Mez (From \"Merry Christmas\")",
+        "url": "https://open.spotify.com/album/3XuSvFfx2KeLhFsirvZ3at"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Varun Grover",
+          "url": "https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217090,
+      "name": "Dil Ki Mez (From \"Merry Christmas\")",
+      "url": "https://open.spotify.com/track/4mmUGp8RH4WZ8wtjVJwSQi"
     },
     {
       "album": {

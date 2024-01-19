@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 85281,
+  "2024-01-19": 85398,
   "date_first_scraped": "2022-06-20",
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
   "name": "Jazz Piano Classics",
@@ -967,6 +967,24 @@
       "duration_ms": 162717,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/3pJVi6t0Afe4JGzgR7Q2xJ"
+    },
+    {
+      "album": {
+        "name": "A Night with Oscar Peterson",
+        "url": "https://open.spotify.com/album/3b1rFYBBbQkdi6a4IoNUe6"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162717,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/455HWBnQ7jWA0Q1Zku7P8d"
     },
     {
       "album": {
@@ -3123,7 +3141,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 375426,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My"

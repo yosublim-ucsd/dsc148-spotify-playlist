@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,275 likes - 95 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,432 likes - 95 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 68 | [1996](https://open.spotify.com/track/13jmbPV8jLenzP0lz2o6Di) | [Indalo](https://open.spotify.com/artist/37LGjqM0je1KNrLRD3MZ47) | [Notun Khaame Purono Chithi](https://open.spotify.com/album/61ddVojd4Jh119rekRgp7z) | 6:16 |
 | 69 | [Shotto Mithey](https://open.spotify.com/track/47qNROGtcjIyHOaVbeNXCB) | [Level Five](https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8) | [Obosheshey](https://open.spotify.com/album/0aR6U7GqhgmTvhhRZhlGDR) | 5:05 |
 | 70 | [Odyssey](https://open.spotify.com/track/4D7uYtaf2tUMJQU764Tuqs) | [Conclusion](https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp) | [Odyssey](https://open.spotify.com/album/1E86gHTDuuyIqUxbtGwefu) | 4:57 |
-| 71 | [Shomoy Gele](https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6iBQKsbl0ouZbbpaZha8MS) | 4:37 |
+| 71 | [Somoy Gele](https://open.spotify.com/track/5BQvyVaERi70ObzlpkRkHS) | [Band Lalon](https://open.spotify.com/artist/2hZDcJeZyFHNR0AGdun56h) | [Khepa](https://open.spotify.com/album/14VdchKdyb57lH5TVr3zGZ) | 4:41 |
 | 72 | [Esho Amar Shohore](https://open.spotify.com/track/5CM1vkHKmfjGk5Akzd6An1) | [Meghdol](https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC) | [Esho Amar Shohore](https://open.spotify.com/album/0GaKAf0jqP3TLdY0Ju3IXe) | 5:18 |
 | 73 | [Sheishob Din Raatri](https://open.spotify.com/track/0lrXNv7c4pZ44KJjtyXlDb) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Mohomukti](https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv) | 5:30 |
 | 74 | [Odhora](https://open.spotify.com/track/6VAXwno04nsvHT65KbuxQu) | [Vibe](https://open.spotify.com/artist/1UHTxsYsUI0GZJauVJzg9j) | [Chena Jogot](https://open.spotify.com/album/3KCkMexT4RWfYZAOWMqPHP) | 4:43 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 94 | [Ondho Deyal](https://open.spotify.com/track/3t5RiZ8gNRK41NJucuL3ju) | [Shonar Bangla Circus](https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh) | [Hyena Express](https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq) | 5:37 |
 | 95 | [Chaya](https://open.spotify.com/track/6YdezeXuIAkGaLRgbC08Ny) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Chaya](https://open.spotify.com/album/5DHclWpAoKJglHp93WrQ2F) | 6:25 |
 
-Snapshot ID: `MCxiZWJhNzYxYTY2NTQ4MGE2YThlNTQxZjUzNDNlN2FjODM4MzYwMTUw`
+Snapshot ID: `MCwxZGI5YzU0Y2Y5NDI1ODk0MjdiMDE1MDQ5YTg1Y2I0ODc5YTliNDk0`

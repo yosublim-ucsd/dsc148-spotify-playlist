@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 205543,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/76UpEg41caDocHgeJKVBFw"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 234469,
       "name": "As Long As You Love Me",
       "url": "https://open.spotify.com/track/2RJi3pWg858aWyv0h9WFIC"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 203124,
       "name": "Love Is All Around",
       "url": "https://open.spotify.com/track/1wQ07OlblAtBNxWGNun2vw"
@@ -1370,6 +1370,24 @@
       "duration_ms": 236870,
       "name": "My Love",
       "url": "https://open.spotify.com/track/6Gxmi0xjKRJ1bMH64a8Z3S"
+    },
+    {
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/2zHVJqtr8i8Tp6qaknqZYR"
+      },
+      "artists": [
+        {
+          "name": "April Ball",
+          "url": "https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210624,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/4uJbyfXdhYv0rFlCD8A7OP"
     },
     {
       "album": {
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 176428,
       "name": "Samson",
       "url": "https://open.spotify.com/track/2YehhUUNcwZCW9CcTpAYU9"
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 122657,
       "name": "Sweet Child Of Mine",
       "url": "https://open.spotify.com/track/1pHdcp6JpMyk1V5BO41C9r"

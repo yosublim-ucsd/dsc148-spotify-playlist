@@ -3199,6 +3199,24 @@
     },
     {
       "album": {
+        "name": "Emotion (Deluxe Expanded Edition)",
+        "url": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199720,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/3UciYz88qyl3ZBW5c5TBMV"
+    },
+    {
+      "album": {
         "name": "Emotion",
         "url": "https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV"
       },
@@ -3210,7 +3228,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 199720,
       "name": "Your Type",
       "url": "https://open.spotify.com/track/6X9bzNEsiGl82OkEs0xR6X"

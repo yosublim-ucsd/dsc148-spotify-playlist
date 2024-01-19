@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 11454,
+  "2024-01-19": 11473,
   "date_first_scraped": "2022-02-25",
   "description": "Midwest music breaking waves. Cover: <a href=\"spotify:artist:6AUl0ykLLpvTktob97x9hO\">Tee Grizzley</a>",
   "name": "Ripple Effect:  Midwest",
@@ -3559,10 +3559,32 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 185502,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/3a1uRM5VgmXHumHhkEBKEZ"
+    },
+    {
+      "album": {
+        "name": "SkuBop",
+        "url": "https://open.spotify.com/album/1GEdhAQryrbe9jU6m9Rjx4"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185502,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/6SwlfxiAygslNqmAMDb02H"
     },
     {
       "album": {

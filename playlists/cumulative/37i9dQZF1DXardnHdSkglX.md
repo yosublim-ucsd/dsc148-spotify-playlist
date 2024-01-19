@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-234 songs - 13 hr 54 min
+235 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cruel Summer](https://open.spotify.com/track/2lJVlO1UwZdTYRSHQoSpGj) | [Esqapades](https://open.spotify.com/artist/2C2tv6F19vAPlgpvih613k) | [Cruel Summer](https://open.spotify.com/album/17yiKBHLT2LBbHGMaCxfsY) | 3:23 | 2021-12-09 | 2023-05-13 |
 | [Dance Monkey \- Bossa Nova Remix](https://open.spotify.com/track/3xuSelqcHuvS1NWquuSKnh) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Dance Monkey \(Bossa Nova Remix\)](https://open.spotify.com/album/3qGEwfgSvUD1lV7qWmoy81) | 3:18 | 2021-12-09 |  |
 | [Dancing In the Moonlight](https://open.spotify.com/track/42jBmDWtXI0dEhAcGubGvi) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Dancing In the Moonlight](https://open.spotify.com/album/17rpmPzW0sUNMgMfwMpoXL) | 3:32 | 2021-12-09 | 2023-05-13 |
+| [Dancing Queen](https://open.spotify.com/track/6JVUlhLabHaY33tTNNgefD) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Dancing Queen](https://open.spotify.com/album/1un07dxoqPPqCiAl8PQN4N) | 3:04 | 2024-01-19 |  |
 | [Dancing With Tears In My Eyes \- Bossa Nova Remix](https://open.spotify.com/track/62dfYSQBwa7XOXkLzpBmf0) | [Blended Colors](https://open.spotify.com/artist/3Z8VvhRYsd2jzm1KTHeMyM) | [Dancing With Tears In My Eyes \(Bossa Nova Remix\)](https://open.spotify.com/album/10XzBSx1xOySdki0IKQk1a) | 3:36 | 2021-12-09 |  |
 | [deja vu \- Bossa Nova](https://open.spotify.com/track/1xKrcdhhlNQXImSFEpi8Vo) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [deja vu \- Bossa Nova](https://open.spotify.com/album/7aBYanh7J5fh3ZoKmZoid0) | 4:00 | 2021-12-09 |  |
 | [Desaparecido](https://open.spotify.com/track/4vy4VpbZA0nPd6seQfADhI) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Desaparecido](https://open.spotify.com/album/06eINx79WI2dm9D78cyn04) | 3:00 | 2021-12-09 |  |

@@ -8947,6 +8947,24 @@
     },
     {
       "album": {
+        "name": "winter creek",
+        "url": "https://open.spotify.com/album/2qr0uFcB5ilNdYQtvsFJOQ"
+      },
+      "artists": [
+        {
+          "name": "sozin",
+          "url": "https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164157,
+      "name": "winter creek",
+      "url": "https://open.spotify.com/track/0zUhH7k0CrDhRSFiaxtF0D"
+    },
+    {
+      "album": {
         "name": "Winter Keys",
         "url": "https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 169588,
+  "2024-01-19": 169776,
   "date_first_scraped": "2023-08-09",
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
   "name": "Folk Fabrique",
@@ -559,6 +559,24 @@
       "duration_ms": 167293,
       "name": "Dance of Maria",
       "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC"
+    },
+    {
+      "album": {
+        "name": "Big Baglama",
+        "url": "https://open.spotify.com/album/0VOhk1oTgTNnmHkjPFq1uL"
+      },
+      "artists": [
+        {
+          "name": "\u015eatellites",
+          "url": "https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183134,
+      "name": "Deli Deli",
+      "url": "https://open.spotify.com/track/2cghTeF3VBx6aDDrFZO3si"
     },
     {
       "album": {
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 187166,
       "name": "Taivshral",
       "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"

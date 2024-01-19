@@ -4,7 +4,7 @@
 
 > Check out BLACKPINK's best songs while celebrating the finale concert of BLACKPINK's world tour!
 
-149 songs - 8 hr 52 min
+150 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Tally](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:04 | 2023-09-01 |  |
 | [Tatu Bom de Bola \(The Official 2014 FIFA World Cup Mascot Song\)](https://open.spotify.com/track/4ZrPTE0IOnCeT9MXjESVdP) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Tatu Bom de Bola \(The Official 2014 FIFA World Cup Mascot Song\)](https://open.spotify.com/album/4f35WxC3fgS2N6IWrfStkm) | 3:21 | 2022-11-07 | 2023-03-18 |
 | [The Cup of Life \(La Copa De La Vida\) \[The Official Song of the World Cup, France '98\]\[English\]](https://open.spotify.com/track/7aUCLXZ4D4UD5sCgIgxqjl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [The Greatest Hits](https://open.spotify.com/album/3k0gbDJ1p2nbqFNHeKVwi4) | 4:31 | 2022-11-07 | 2023-03-18 |
-| [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-09-01 |  |
+| [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/track/2FI28SeyrsLmor4TaNmjEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/0slmdIwTsoubwL5Sy5E1Vj) | 2:42 | 2023-09-01 |  |
+| [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-09-01 | 2024-01-19 |
 | [The Happiest Girl](https://open.spotify.com/track/7AdGloF1UHKe1vAZPbqIXH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:42 | 2023-09-01 |  |
 | [The Official FIFA World Cup Qatar 2022™ Theme](https://open.spotify.com/track/5aKcJDDiDTzrmVi6putOnq) | [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [The Official FIFA World Cup Qatar 2022™ Theme](https://open.spotify.com/album/6dr49Z0zo5oA4mUbgkyYWm) | 1:52 | 2022-11-07 | 2023-03-18 |
 | [The Reds and Korea](https://open.spotify.com/track/1VruHDum120zCG67vVi26O) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [The Reds and Korea](https://open.spotify.com/album/1LvMILXSjr6tf5zjopAMPZ) | 3:14 | 2022-11-15 | 2023-03-18 |

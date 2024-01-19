@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,832 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,871 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 11 | [Look to the sky](https://open.spotify.com/track/4AjRWlUyFY64H9B6Onfayz) | [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI) | [Look to the sky](https://open.spotify.com/album/2GEdsH8sBS89u9jgjMx2BR) | 3:15 |
 | 12 | [It Never Entered My Mind](https://open.spotify.com/track/7sB8c1y2VLN92mw6q3gWGu) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [It Never Entered My Mind](https://open.spotify.com/album/6jT03zRg4WfbOjYGYVoXl5) | 3:21 |
 | 13 | [Crazy he calls me](https://open.spotify.com/track/0HReCEWkXg1NYwJq9bHULE) | [Mila Ogliastro](https://open.spotify.com/artist/6Rsg9ZGqFqpNm7JtDgv4N4), [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [Crazy he calls me](https://open.spotify.com/album/6cmVWvUvxBhNPPSb6CtWDe) | 2:16 |
-| 14 | [I Always Fall for You](https://open.spotify.com/track/5LQmaC0A1qnm4ad8MuONcG) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [I Always Fall for You](https://open.spotify.com/album/1QhEzI387TGvwZH1UIjDOh) | 3:20 |
+| 14 | [I Always Fall For You](https://open.spotify.com/track/0NzIxQZjn7iaHMVVbwwFKR) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...FALL](https://open.spotify.com/album/7laOkKYaNpecWsqlsThiVg) | 3:20 |
 | 15 | [Without You](https://open.spotify.com/track/09lKeklaxa3p5MXkYYTyH0) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2inxTSjVztLDsnumbpY9Bv) | 4:20 |
 | 16 | [What Gives You The Right](https://open.spotify.com/track/7weVhPDPHC8H1nOQJMalw9) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Champagne & Declarations](https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7) | 4:42 |
 | 17 | [Dream Life](https://open.spotify.com/track/2dSXV3BOMaw9aB8SrRmOiH) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Dream Life](https://open.spotify.com/album/1sqJUG8S7F9cmEe7mxyNVZ) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [But Not for Me](https://open.spotify.com/track/1RFcW32md4A4JxrSLzSBjK) | [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I), [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH) | [But Not for Me](https://open.spotify.com/album/2vkGc6locFx5ukMogc8u5r) | 2:57 |
 | 100 | [Waiting for the Sun to Rise](https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Waiting For The Sun To Rise](https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f) | 4:38 |
 
-Snapshot ID: `MCxlNjg0YWIxMmE5MmJlY2ZjNGMwYzJhYzg4MjZkYjQwNTEzZmJkMmQw`
+Snapshot ID: `MCw5MTFmYzdiZjUyZjFkZWYxNjk2ZDYyNGRlZGRjMTc4OTBkMjg4ZjBm`

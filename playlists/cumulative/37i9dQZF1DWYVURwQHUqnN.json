@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo: Morad x GIMS",
+  "description": "Photo: Jul",
   "name": "Best Life",
   "tracks": [
     {
@@ -349,6 +349,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9ter (feat. Soolking)",
+        "url": "https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG"
+      },
+      "artists": [
+        {
+          "name": "Doria",
+          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206880,
+      "name": "D\u00e9ter (feat. Soolking)",
+      "url": "https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN"
+    },
+    {
+      "album": {
         "name": "Eh toi",
         "url": "https://open.spotify.com/album/6Bt2qMEBgt0qbmtsOeEeL9"
       },
@@ -619,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Love de toi",
+        "url": "https://open.spotify.com/album/1fmUSDhdmHZ9islnw4c4iD"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Love de toi",
+      "url": "https://open.spotify.com/track/1M6vlcBT3uAh1fk5BcYDZm"
+    },
+    {
+      "album": {
         "name": "N'A STRAGIA",
         "url": "https://open.spotify.com/album/4PxIHIjXAGQz2bYqy0CLtX"
       },
@@ -864,7 +904,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 210623,
       "name": "Pas les mots",
       "url": "https://open.spotify.com/track/5EvhoSHeimcPmYB9f4DhND"
@@ -1328,7 +1368,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 218344,
       "name": "VNTR",
       "url": "https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd"

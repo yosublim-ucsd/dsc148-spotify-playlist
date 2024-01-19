@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 188271,
+  "2024-01-19": 188218,
   "date_first_scraped": "2023-12-19",
   "description": "El Top 50 de canciones en Instagram Reels, actualizado cada semana. ",
   "name": "Top Canciones Reels M\u00e9xico",
@@ -347,6 +347,28 @@
     {
       "album": {
         "name": "Just Give Me One More Day",
+        "url": "https://open.spotify.com/album/5dbVpJLzc3EXR1EAyssGHi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Vargas",
+          "url": "https://open.spotify.com/artist/5W3RSrWvPhepqBwT3I31xm"
+        },
+        {
+          "name": "Alej",
+          "url": "https://open.spotify.com/artist/40eGm9rEP3uJPZpEbVim80"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131204,
+      "name": "Just Give Me One More Day",
+      "url": "https://open.spotify.com/track/3Ff9jwYpH6x85gRVuj2ymX"
+    },
+    {
+      "album": {
+        "name": "Just Give Me One More Day",
         "url": "https://open.spotify.com/album/01DKp7TiqoXTvVdAoJDajj"
       },
       "artists": [
@@ -361,7 +383,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 131204,
       "name": "Just Give Me One More Day",
       "url": "https://open.spotify.com/track/41siqUgvwtIPBnNWJB98Ro"

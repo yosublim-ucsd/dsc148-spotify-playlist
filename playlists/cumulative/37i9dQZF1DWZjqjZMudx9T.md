@@ -2,7 +2,7 @@
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la CALLE a la CIMA con Gaby Music, Lunay y Luar La L.
+> De la CALLE a la CIMA con Jere Klein.
 
 365 songs - 20 hr 37 min
 

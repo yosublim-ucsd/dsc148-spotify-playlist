@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,863 likes - 150 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,884 likes - 150 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 88 | [Small Town](https://open.spotify.com/track/6YbPQJkQVSNiXy0b1O49W6) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Electro Swing Sound System](https://open.spotify.com/album/0RRXuqJLde0suW2gLiBOtw) | 3:20 |
 | 89 | [Code Red](https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Code Red](https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9) | 3:48 |
 | 90 | [Headless Horseman](https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu) | [Kid Kasino](https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD), [Shea](https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0) | [Slaughter In the Suburbs](https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ) | 3:33 |
-| 91 | [Superhero](https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn), [\(feat\. MC Little Tree\)](https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI) | [Doorsteps](https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w) | 5:28 |
+| 91 | [Superhero](https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn), [Mc Little Tree](https://open.spotify.com/artist/1WTWYBTjdHuCLJK9YXRbZb) | [Doorsteps](https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w) | 5:28 |
 | 92 | [Swing in Spring \- Betty Booom Remix](https://open.spotify.com/track/1BT5sygKwiAPBs3kmrzgeT) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Offbeat](https://open.spotify.com/artist/1Vuw7wuxpiK5W9pzGL86X8), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Nina Zeitlin](https://open.spotify.com/artist/4YRO8W8k2IdbUMNOgIfCSL) | [Swing in Spring \(Betty Booom Remix\)](https://open.spotify.com/album/6eM6JMksAkekVE8Nk8Cuao) | 2:54 |
 | 93 | [Scruffy](https://open.spotify.com/track/7yG0SwtX3oxC9NiFuiCN13) | [Dutty Moonshine](https://open.spotify.com/artist/6suC1lu4yyFjKekdrdYvQQ), [Charlie D](https://open.spotify.com/artist/2XeFMwO0MinTqakpkaLrcY), [Fiona Hamilton](https://open.spotify.com/artist/6s1rrIhnIhlLyoUyYxHERv) | [Scruffy EP](https://open.spotify.com/album/4Ed0qIhTwMJ5pbajXiT652) | 3:31 |
 | 94 | [Day & Night](https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Day & Night](https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE) | 4:07 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 149 | [Topsy at the Top](https://open.spotify.com/track/4nJ2EMvjNqxBDrT0s6AK47) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Topsy at the Top](https://open.spotify.com/album/1n9Z8PcktdiG2ccx7CRnCm) | 4:20 |
 | 150 | [Light](https://open.spotify.com/track/6XMLzR52m0SAZfM8WxzQ0w) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Light](https://open.spotify.com/album/1QDrLXAZrhuye2dHxB2fzn) | 3:08 |
 
-Snapshot ID: `MCw4NzNlN2E4Y2JhMzRhMzU3ZWIwNmM3YTFhMTA1MjViNWNjNjIzZWRm`
+Snapshot ID: `MCwzZDY0MGFlMDM1NjUyMDA4Njg4NTgyMmZjMWM5YTRhYjBhNDIxNGEx`

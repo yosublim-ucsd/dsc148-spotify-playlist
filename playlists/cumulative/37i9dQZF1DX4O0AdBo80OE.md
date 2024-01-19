@@ -4,7 +4,7 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Santa Fe Klan en portada.
 
-137 songs - 7 hr 40 min
+138 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [JetLag](https://open.spotify.com/track/3Gily4qMvAOytQ07gpHDVD) | [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS) | [JetLag](https://open.spotify.com/album/1mRE5D3tfO0IcMimnUOxbu) | 4:29 | 2023-05-26 | 2023-10-07 |
 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 | 2023-05-26 |  |
 | [King Size](https://open.spotify.com/track/5cuhYEoFtVbSU9K8x1UMOT) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD), [Lasser](https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj), [GXNZX](https://open.spotify.com/artist/4wUmJjIAbCAlaWoE63EI5c) | [King Size](https://open.spotify.com/album/2nHsUbAEHjO6rtn30ObJ32) | 3:00 | 2023-10-20 |  |
-| [La Maga](https://open.spotify.com/track/0o5qM2f6QPZXTKSVtc4Oq0) | [Ice Boxxx](https://open.spotify.com/artist/3SJlzyiXomOGjYv5QZ6tyG) | [Heart](https://open.spotify.com/album/2pGHEsQxNUHpDrevP7G8ji) | 3:54 | 2023-05-26 |  |
+| [La Maga](https://open.spotify.com/track/0o5qM2f6QPZXTKSVtc4Oq0) | [Ice Boxxx](https://open.spotify.com/artist/3SJlzyiXomOGjYv5QZ6tyG) | [Heart](https://open.spotify.com/album/2pGHEsQxNUHpDrevP7G8ji) | 3:54 | 2023-05-26 | 2024-01-19 |
 | [La Marcha De Los Tristes](https://open.spotify.com/track/5ZXPV5uBNUC7itJrVXoyUw) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [IV.\- Buenos Adultos](https://open.spotify.com/album/1qkCpcYwTdl4OWpdZLc1ZN) | 3:42 | 2023-05-26 |  |
 | [La Vida en Cholas](https://open.spotify.com/track/1aNE07vqk6DcT4kG76qGUi) | [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Mabreezee](https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac) | [La Vida en Cholas](https://open.spotify.com/album/5iOoQVQ9QxMtiYO3YVVeeu) | 2:57 | 2023-09-01 |  |
 | [Ladrillo Y Cemento](https://open.spotify.com/track/5wtHUpXijyXyaeND3HMfF6) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ladrillo Y Cemento](https://open.spotify.com/album/7KIMyaLAOtuJeONkhnK3zm) | 4:10 | 2023-05-26 |  |
@@ -114,6 +114,7 @@
 | [Que Te Vaya Bien](https://open.spotify.com/track/13r9dCONzcfyRkw3IPPMnf) | [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Que Te Vaya Bien](https://open.spotify.com/album/6FcXPSUHNtXUaP4PY9PDg6) | 3:44 | 2023-11-17 |  |
 | [Quiero Volar](https://open.spotify.com/track/2bM6FYZ98SZovujg3p3XtP) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [Quiero Volar](https://open.spotify.com/album/3WVvtrgeUU3WUC6sbA0MlQ) | 3:16 | 2023-12-15 |  |
 | [Rikitin](https://open.spotify.com/track/2tEVjCM7AurSDmVpF4XZza) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Rikitin](https://open.spotify.com/album/0yASxzesC77OQz98E0A1Yp) | 3:47 | 2023-05-26 | 2023-07-01 |
+| [Ron En El Piso](https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Ron En El Piso](https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z) | 5:35 | 2024-01-19 |  |
 | [Sagrado Presente](https://open.spotify.com/track/7ERb3WWsBgGsSGrmmsCjPq) | [Santi Mostaffa](https://open.spotify.com/artist/3oVa1dCIWhoJ4cTFgrEgWG), [Agustin Casulo](https://open.spotify.com/artist/1MIfUzoY2n15mLL9NAfcUR) | [Sagrado Presente](https://open.spotify.com/album/5CEHVQFPJwjgps4zd8GRfq) | 2:55 | 2023-05-26 | 2023-10-07 |
 | [Sashimis y Chelas](https://open.spotify.com/track/4Zm2eTG9TZcnoeRFF6sgXh) | [Mariano Dev](https://open.spotify.com/artist/44CooLJCJseA9KVNICUzf8), [Roy RG](https://open.spotify.com/artist/5BSkiN3IQbLT6yr7fLnPEo) | [Sashimis y Chelas](https://open.spotify.com/album/7c84s0w9h4tyGpT5P60ARa) | 3:37 | 2023-05-26 |  |
 | [Scream 8](https://open.spotify.com/track/6xnNeEmCVbrxaNxwZHWMyv) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Scream 8](https://open.spotify.com/album/7MPzaMAmQe9G1PhfAbMSCE) | 3:10 | 2023-10-20 |  |

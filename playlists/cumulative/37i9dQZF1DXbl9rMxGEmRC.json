@@ -2200,6 +2200,24 @@
     {
       "album": {
         "name": "Death Is But A Door",
+        "url": "https://open.spotify.com/album/2tSgJjr6WiuRTx4EJsGkRq"
+      },
+      "artists": [
+        {
+          "name": "Alluvial",
+          "url": "https://open.spotify.com/artist/7z2P2nNjtnAVnUavHIXZWQ"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292601,
+      "name": "Death Is But A Door",
+      "url": "https://open.spotify.com/track/6TRaRDjoV0sFKoLR0KSDev"
+    },
+    {
+      "album": {
+        "name": "Death Is But A Door",
         "url": "https://open.spotify.com/album/3QiSF99jB2PtK4dcSNF6ti"
       },
       "artists": [
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 292601,
       "name": "Death Is But A Door",
       "url": "https://open.spotify.com/track/6wl1XfdSd1VMlI3sBm0UAZ"

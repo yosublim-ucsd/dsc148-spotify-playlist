@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-552 songs - 1 day 4 hr 5 min
+556 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [About a girl](https://open.spotify.com/track/0FZ1UyCM42tEduMDozioVD) | [June Hall](https://open.spotify.com/artist/13rPht9NVTTbIU7w4YNKGN) | [About a girl](https://open.spotify.com/album/6EIhyvYZ0Qgx2gtDIZXUCf) | 2:44 | 2023-05-12 |  |
 | [Africa](https://open.spotify.com/track/1ko7QoBfx4XmL3bUKd9XJo) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Africa](https://open.spotify.com/album/5uVX3JYC37YvqUiQ7RGXDF) | 3:28 | 2023-05-12 | 2023-06-09 |
 | [Africa](https://open.spotify.com/track/4uMvGP2jcSXLPvNZf5umsU) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Africa](https://open.spotify.com/album/0dbFSSNCY13oNajXMZARfj) | 2:23 | 2022-09-30 | 2023-02-10 |
+| [After the Love Has Gone](https://open.spotify.com/track/6u19p8qAQY2ECIDl18MSei) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [After the Love Has Gone](https://open.spotify.com/album/7rJrw7UXIWchJrP99yc8zJ) | 3:34 | 2024-01-19 |  |
 | [Again](https://open.spotify.com/track/6SIvvPRlPqidyGaCwQZuVE) | [Regina Scallí](https://open.spotify.com/artist/6z4uxWlsx9rzh24RYxntWy) | [Again](https://open.spotify.com/album/3OAhdqxBWtmLJGEUheN5Pj) | 3:02 | 2023-01-06 |  |
 | [Against All Odds](https://open.spotify.com/track/35BLTLHdlD60LAk90bTUmE) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [Against All Odds](https://open.spotify.com/album/4LeHYuZNVhTHaV9VzoDos4) | 3:48 | 2022-01-21 |  |
 | [All of Me](https://open.spotify.com/track/56ICwlcXIKFoLg2CzbKwKF) | [Lasse Ivonen](https://open.spotify.com/artist/4FLrO7HeEPdqMGIzKZwl5f) | [All of Me](https://open.spotify.com/album/29a3wLZ2Wl1YH4uWKcjtw5) | 3:01 | 2022-05-02 | 2023-05-12 |
@@ -64,7 +65,7 @@
 | [Bad Habits](https://open.spotify.com/track/5NNwshgwlk2hv22aj1e1mn) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Heat Waves](https://open.spotify.com/album/35CwbLjLIbN9jq1Mi369w7) | 3:13 | 2022-12-02 |  |
 | [Bad Habits](https://open.spotify.com/track/35MPKqnvJFDaXYmvJJ7DoZ) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [Bad Habits](https://open.spotify.com/album/2YoyX9aEHljpw3trCnyHQA) | 3:20 | 2022-01-21 | 2022-12-02 |
 | [Bad Romance](https://open.spotify.com/track/4AJOciBT4O5PZAETXFoVIe) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Bad Romance](https://open.spotify.com/album/22Lme10YWdkIq1JRWEqUgP) | 2:51 | 2023-09-22 |  |
-| [Barbie girl](https://open.spotify.com/track/4cCwQTUXylUNxlPrt9Bn4a) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Barbie girl](https://open.spotify.com/album/49lv1zoHa89Hu0Y5lAncdt) | 2:02 | 2023-09-22 |  |
+| [Barbie girl](https://open.spotify.com/track/4cCwQTUXylUNxlPrt9Bn4a) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Barbie girl](https://open.spotify.com/album/49lv1zoHa89Hu0Y5lAncdt) | 2:02 | 2023-09-22 | 2024-01-19 |
 | [Beautiful day](https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Beautiful day](https://open.spotify.com/album/0RlsiytRwYEp3gu4R7AgzN) | 3:02 | 2023-08-10 |  |
 | [Beauty And The Beast](https://open.spotify.com/track/64Ld2wt8Mta8Bsx6AHfUqj) | [Donovan Lakeberg](https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8) | [Beauty And The Beast](https://open.spotify.com/album/3P5y0GZyb6kp6GCJDqjtLm) | 3:13 | 2023-03-17 |  |
 | [Beauty And The Beast](https://open.spotify.com/track/4cuhDcdaWgkvoSaj016y6T) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [My Own Home](https://open.spotify.com/album/74ICfDwM2hSzPh7q5dFshz) | 4:33 | 2022-01-21 | 2023-02-10 |
@@ -338,6 +339,7 @@
 | [My Girl](https://open.spotify.com/track/47roQazXWhrHvl61NVGTF2) | [Playing To Pitch In](https://open.spotify.com/artist/6TRj5grL3SgjzITEJyMOx5) | [My Girl](https://open.spotify.com/album/17VtHnIsNBJYn9Ym8hOzyG) | 3:23 | 2022-09-30 | 2022-10-29 |
 | [My Girl](https://open.spotify.com/track/4wye421ZuzNnDkriGPzp8j) | [River May](https://open.spotify.com/artist/6oTUPROiaMgKm92kbxRXyR) | [My Girl](https://open.spotify.com/album/6dNpdBtcDpYkF3rjMe3fx6) | 1:59 | 2022-10-28 | 2023-02-10 |
 | [My Love](https://open.spotify.com/track/6Gxmi0xjKRJ1bMH64a8Z3S) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [My Love](https://open.spotify.com/album/6ogaIuwMfmufA8QopOSD8X) | 3:56 | 2023-04-14 |  |
+| [My Love Is Your Love](https://open.spotify.com/track/4uJbyfXdhYv0rFlCD8A7OP) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [My Love Is Your Love](https://open.spotify.com/album/2zHVJqtr8i8Tp6qaknqZYR) | 3:30 | 2024-01-19 |  |
 | [My Romance](https://open.spotify.com/track/2rWqBm1Hs2rbw8rzJpDD71) | [Marina Aden](https://open.spotify.com/artist/0sSwEGrgOOrG2RVtPF5weI) | [My Romance](https://open.spotify.com/album/1Q8e34UABF8CKhX8sZSIe7) | 2:43 | 2022-12-02 |  |
 | [Mystery Of Love](https://open.spotify.com/track/5iAtsXItE1NUh8SbDaEzSQ) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Mystery Of Love](https://open.spotify.com/album/4tmM2JSI4iIYn7r1Kdse8M) | 3:44 | 2023-02-24 |  |
 | [Night Changes](https://open.spotify.com/track/5PgHmtuPjhreShfiZXK6mH) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Night Changes](https://open.spotify.com/album/0XScF6kh4dPuFX757xUyZF) | 3:23 | 2023-11-17 |  |
@@ -449,6 +451,7 @@
 | [That's The Way It Is](https://open.spotify.com/track/4xMDyCESzvK2wNxeslM8M5) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Céline Piano Covers](https://open.spotify.com/album/7nJe5fPZkiHCxQ4OPGuj8k) | 2:44 | 2023-03-24 |  |
 | [That's What Friends Are For](https://open.spotify.com/track/33XiutcUojrArf3R2GWCfO) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [That's What Friends Are For](https://open.spotify.com/album/51pZa7LkBM5SopdpL4LlXi) | 3:04 | 2023-05-12 | 2023-06-09 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/2291OZxZ4Ra3FNKDhljgBr) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [CUFF IT](https://open.spotify.com/album/4yU9HvloC2VTTKnTqlNT4P) | 3:19 | 2023-03-17 | 2023-06-03 |
+| [That´s What Friends Are for](https://open.spotify.com/track/3K5wMP74gzoCQn5xx9BAxa) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [That´s What Friends Are for](https://open.spotify.com/album/6LOkGX8WkFRpC1wkBxoNUy) | 3:33 | 2024-01-19 |  |
 | [The Bones](https://open.spotify.com/track/1VxxM2CjF0982zpGHeMrxu) | [Caitlin Owens](https://open.spotify.com/artist/4bwu4i5ewOhlguYr195Wjj) | [The Bones](https://open.spotify.com/album/1Xk4W4ggHkNl4MwJehSQMr) | 3:11 | 2022-01-21 |  |
 | [The Boxer](https://open.spotify.com/track/1FcM70fl2rKgfwL8DSSrHv) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [The Boxer](https://open.spotify.com/album/7MHviX6oQ9TzPp1bviBQsl) | 2:36 | 2023-04-14 |  |
 | [The Glory of Love](https://open.spotify.com/track/7yLXq8o6prmHoxyuzxUaYd) | [Olly Chesterman](https://open.spotify.com/artist/7cbFx59dQGKkWoNCAW8xFR) | [The Glory of Love](https://open.spotify.com/album/0QVDbJfyWarKbkARpvIHKC) | 3:17 | 2023-04-14 |  |
@@ -486,6 +489,7 @@
 | [Top Gun Anthem](https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Top Gun Anthem](https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY) | 2:59 | 2022-09-30 | 2023-02-10 |
 | [Top Gun Anthem](https://open.spotify.com/track/4b8s8t43DOjfR4kTttvQ21) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Top Gun Anthem](https://open.spotify.com/album/6MHmSIIGEWdoTTuQRyyCZf) | 2:40 | 2023-04-14 | 2023-06-16 |
 | [Torn](https://open.spotify.com/track/1Lr1cw5eLWcX7pcVu0WUfR) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Torn](https://open.spotify.com/album/5xmSaUNIPXxsjg8hZLyPPj) | 2:55 | 2023-04-14 | 2023-06-09 |
+| [Torn](https://open.spotify.com/track/143bOKQxImHTVao5V6DFmh) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [Torn](https://open.spotify.com/album/3C0Wi2dNF12aWxp3mOf1T4) | 3:25 | 2024-01-19 |  |
 | [Total Eclipse of the Heart](https://open.spotify.com/track/0LW4aSbvelf7hxSrWyPWKp) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Total Eclipse of the Heart](https://open.spotify.com/album/7C1Ml2tE0e4AdxokNnv6RH) | 1:46 | 2022-10-14 | 2023-08-18 |
 | [True Colors](https://open.spotify.com/track/60Ui8TTYyTGkHpCeJk9qJo) | [Kay Willard](https://open.spotify.com/artist/0eRVLsUS9Oe9eVlfr3X9ig) | [True Colors](https://open.spotify.com/album/1UPNr3hUcLkbkvaMZqJ5I6) | 2:52 | 2022-01-21 | 2022-05-19 |
 | [True Colors \- Piano Version](https://open.spotify.com/track/047B5xypjW3iozKNgJgHMK) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part I](https://open.spotify.com/album/1oAIunhTkzflIbFknRJKaO) | 2:55 | 2022-05-18 | 2023-08-11 |

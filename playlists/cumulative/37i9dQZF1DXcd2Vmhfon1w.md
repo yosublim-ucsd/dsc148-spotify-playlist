@@ -2,9 +2,9 @@
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. Ayax y Prok
+> Lo mejor del hip hop español\. Feat\. FERNANDOCOSTA
 
-238 songs - 13 hr 10 min
+239 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Barquito de Vela](https://open.spotify.com/track/1OzXgYzPRco0NvqcDEnCRG) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [Barquito de Vela](https://open.spotify.com/album/5JuD1pjNSmDMyQIDktuQNL) | 3:40 | 2022-05-05 | 2023-11-11 |
 | [Bee\-Bé](https://open.spotify.com/track/2PiiXU8wrUQrIu34gGzPew) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Bee\-Bé](https://open.spotify.com/album/5FCS4T2dL2U61yvMLe2Lkm) | 3:58 | 2022-02-22 | 2022-03-17 |
 | [BENDECIDO](https://open.spotify.com/track/11YNuTEC2neoHVWvgp9pqX) | [Laskaar](https://open.spotify.com/artist/2dR0oV49jNebqozvLZ8wci) | [777](https://open.spotify.com/album/7eXbWmYu335tRJYHgZSweJ) | 3:50 | 2022-04-01 | 2022-04-22 |
+| [Bendición](https://open.spotify.com/track/5blhEfe4Ac3nxKsO8HQ6wN) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Bendición](https://open.spotify.com/album/5cjKtvHw4gxHeBDiYj7F8I) | 3:25 | 2024-01-18 |  |
 | [Bengala](https://open.spotify.com/track/49FHrJRo7LTlNI2KPwpMVd) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6), [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y) | [Bengala](https://open.spotify.com/album/6nLTPZ7E0eZtUW472gZP4P) | 4:12 | 2022-01-21 | 2023-01-18 |
 | [Bicho raro](https://open.spotify.com/track/0wa6vnWunlgJ23vMCVDM3p) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/3DtogKlZPCChofGSlc7DUu) | 3:57 | 2022-08-04 | 2023-03-01 |
 | [Bicho raro](https://open.spotify.com/track/4MonThJItfsXWPFIvAT5EX) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/1lASvFkra4rNUh4QNZS0u1) | 3:57 | 2022-01-21 | 2022-08-11 |
@@ -156,7 +157,7 @@
 | [Más X Menos](https://open.spotify.com/track/0xGUIUpbQlGUfZeYRDl5U3) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Más X Menos](https://open.spotify.com/album/0tqoxrOOgv2WJsZhz6ArfG) | 3:22 | 2022-01-21 | 2022-02-05 |
 | [Mírame Ma](https://open.spotify.com/track/6F4Q1QRbspGB4MrJHT1H1i) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:01 | 2022-01-21 | 2022-09-17 |
 | [Nada Bien](https://open.spotify.com/track/3knWywgaRgkfd1AzxtGDMj) | [Luisaker](https://open.spotify.com/artist/6qHDnHoUlA5AhDNg7AHRS9) | [Nada Bien](https://open.spotify.com/album/53MDOFF5iQo8bW3oEYtS34) | 3:07 | 2022-05-05 | 2022-07-20 |
-| [Nadie Regala Nada](https://open.spotify.com/track/718k7I8qhfZq8deQUqO7PM) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Nadie Regala Nada](https://open.spotify.com/album/0MfgosQNL9rIr8cP1xv6Px) | 3:11 | 2023-11-30 |  |
+| [Nadie Regala Nada](https://open.spotify.com/track/718k7I8qhfZq8deQUqO7PM) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Nadie Regala Nada](https://open.spotify.com/album/0MfgosQNL9rIr8cP1xv6Px) | 3:11 | 2023-11-30 | 2024-01-19 |
 | [Nana](https://open.spotify.com/track/2kZ1CuF4YhcxZfoHyCq6JM) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Nana](https://open.spotify.com/album/78CkLda43EMXmQ20Brjb9D) | 4:56 | 2022-05-27 |  |
 | [Nanai](https://open.spotify.com/track/67IUEsbUdToIjiUl1H3QWN) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [SOTAN](https://open.spotify.com/artist/0j5FI8l1hd3jag2yRmZV8O) | [Nanai](https://open.spotify.com/album/73HBLirEmtxzVgwdkNjgVD) | 2:52 | 2023-01-17 | 2023-03-01 |
 | [Navajas y Percebes 2](https://open.spotify.com/track/2rFTeKTGDMiDMpxGorjBY5) | [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7), [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4) | [Navajas y Percebes 2](https://open.spotify.com/album/4jTQKJXlc8Koin33gYIxCA) | 3:56 | 2023-06-07 | 2023-06-27 |

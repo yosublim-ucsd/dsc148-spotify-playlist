@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9?si=A3f78gMpTTemvNkHgx0\_6w"> Nali </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,414 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,614 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 26 | [Feel Your Love](https://open.spotify.com/track/4JUkJLpwMpqv6ZXdQf0O4H) | [The Code](https://open.spotify.com/artist/21eeOqX01yzH3M9nSyYJ1S) | [Feel Your Love](https://open.spotify.com/album/76JEnC2avKDF8JkdkRvjqu) | 5:58 |
 | 27 | [Gemini Guy](https://open.spotify.com/track/4FrHTjt1GcPcsxv0TD73OA) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Gemini Guy](https://open.spotify.com/album/4ZGvKDHg9bmlNTVqmQhyJR) | 3:23 |
 | 28 | [Celebration](https://open.spotify.com/track/3t8ErAgRG38PAOqRZhBV3X) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Celebration](https://open.spotify.com/album/2RWDcoLGFdl2Es1qv5nbFW) | 2:55 |
-| 29 | [Dopamine](https://open.spotify.com/track/3ynnGOYFsSPb0aUmWYZ6T3) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Dopamine](https://open.spotify.com/album/37UvvLpEtCEfHZTRVK2KEn) | 3:00 |
+| 29 | [Dopamine](https://open.spotify.com/track/3ynnGOYFsSPb0aUmWYZ6T3) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Subculture](https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx) | [Dopamine](https://open.spotify.com/album/37UvvLpEtCEfHZTRVK2KEn) | 3:00 |
 | 30 | [Shooting Stars](https://open.spotify.com/track/0nkUTVotSHYDjEUU352RIG) | [Nemchel](https://open.spotify.com/artist/7g0FhvYZY0xU9wklCVheEZ) | [Shooting Stars](https://open.spotify.com/album/5vHB3vGLUdakx8UElKfmvb) | 3:03 |
 | 31 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
 | 32 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 49 | [Pros and Cons](https://open.spotify.com/track/2szn1ATpTPRsCswbQ24XWp) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Pros and Cons](https://open.spotify.com/album/7kUdJRYvPttmaMJ1lKCA9p) | 2:44 |
 | 50 | [Closure \(feat\. Jane Handcock\)](https://open.spotify.com/track/6Li90fECyiwWCx7OfqbxyL) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jane Handcock](https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD) | [Yam Grier](https://open.spotify.com/album/4yRSYMAzTAg4HEUjVVwfhU) | 3:29 |
 
-Snapshot ID: `MCw1OGQ5YmU1MWU4ODRiN2Q2YmEwZGUwOTAwNzFjYzA0ZTZjNDY3YWMz`
+Snapshot ID: `MCw1ZDg1ZGQ3NmI3NjEwMDRkZjY0ODQxYzI1YzMyYWY4MDYwZjM3YzY0`

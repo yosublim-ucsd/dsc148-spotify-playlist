@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Fredz",
-  "num_followers": 39431,
+  "num_followers": 39437,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTQwMTZjMzk2NTM4NjE4Y2E3YWY3OGU5ZDI2YjkwNzVhMTNmYzk1",
+  "snapshot_id": "MCxlMjdmMzVlM2JmMzA4YmUzNzI3MjFhNjRiNjMxNDc1MGZiYTRmMjY2",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -303,6 +303,26 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Temps en temps",
+        "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "duration_ms": 153649,
+      "name": "Temps en temps",
+      "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Il y a",
         "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 205365,
       "name": "Il y a",
       "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "TRAP$TAR 3",
-        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 160858,
-      "name": "Dans le noir",
-      "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -363,22 +363,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Temps en temps",
-        "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
       },
       "artists": [
         {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         },
         {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 153649,
-      "name": "Temps en temps",
-      "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
+      "duration_ms": 160858,
+      "name": "Dans le noir",
+      "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -583,78 +583,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "I Got U (feat. Niska)",
-        "url": "https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "I Got U (feat. Niska)",
-      "url": "https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "HOOD VOLUME.1",
-        "url": "https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu"
-      },
-      "artists": [
-        {
-          "name": "HOUDI",
-          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
-        },
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "MODE HARDCORE",
-      "url": "https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Life Is Life (C'est la vie)",
-        "url": "https://open.spotify.com/album/0wGjk4xe1uiNbW3DxehqNy"
-      },
-      "artists": [
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 145525,
-      "name": "Life Is Life (C'est la vie)",
-      "url": "https://open.spotify.com/track/1ds4c5ehLBwn8PEghUMbTl"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Yemma",
-        "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
-      },
-      "artists": [
-        {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        }
-      ],
-      "duration_ms": 157625,
-      "name": "Yemma",
-      "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Saison 2",
         "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
       },
@@ -675,22 +603,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Terminus",
-        "url": "https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT"
+        "name": "I Got U (feat. Niska)",
+        "url": "https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR"
       },
       "artists": [
         {
-          "name": "Sidiki Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
         },
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 158449,
-      "name": "Terminus",
-      "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"
+      "duration_ms": 202886,
+      "name": "I Got U (feat. Niska)",
+      "url": "https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -715,6 +643,58 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Life Is Life (C'est la vie)",
+        "url": "https://open.spotify.com/album/0wGjk4xe1uiNbW3DxehqNy"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 145525,
+      "name": "Life Is Life (C'est la vie)",
+      "url": "https://open.spotify.com/track/1ds4c5ehLBwn8PEghUMbTl"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "HOOD VOLUME.1",
+        "url": "https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        },
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "MODE HARDCORE",
+      "url": "https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Yemma",
+        "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
+      },
+      "artists": [
+        {
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        }
+      ],
+      "duration_ms": 157625,
+      "name": "Yemma",
+      "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Une bonne sant\u00e9 et grave des lards",
         "url": "https://open.spotify.com/album/53VqpYsft2TQFjWg1eqo9f"
       },
@@ -731,18 +711,58 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "CONNEXION",
-        "url": "https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog"
+        "name": "Terminus",
+        "url": "https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT"
+      },
+      "artists": [
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 158449,
+      "name": "Terminus",
+      "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "HEARTBREAK LIFE II",
+        "url": "https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o"
       },
       "artists": [
         {
           "name": "Kaza",
           "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 175800,
-      "name": "CONNEXION",
-      "url": "https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4"
+      "duration_ms": 149133,
+      "name": "CALMANT",
+      "url": "https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "CIT\u00c9S DE FRANCE",
+        "url": "https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "CIT\u00c9S DE FRANCE",
+      "url": "https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -799,42 +819,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Yoski 2",
-        "url": "https://open.spotify.com/album/5KdkD8T6GXikv2YgM2ssqd"
-      },
-      "artists": [
-        {
-          "name": "Mayo",
-          "url": "https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "Bectance",
-      "url": "https://open.spotify.com/track/6ZELMmjtFzkqNHdY8VIQBc"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "CIT\u00c9S DE FRANCE",
-        "url": "https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "CIT\u00c9S DE FRANCE",
-      "url": "https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "POISON",
         "url": "https://open.spotify.com/album/619vWtlvr2x1MopmkxmMvQ"
       },
@@ -855,22 +839,38 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "HEARTBREAK LIFE II",
-        "url": "https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o"
+        "name": "Yoski 2",
+        "url": "https://open.spotify.com/album/5KdkD8T6GXikv2YgM2ssqd"
+      },
+      "artists": [
+        {
+          "name": "Mayo",
+          "url": "https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "Bectance",
+      "url": "https://open.spotify.com/track/6ZELMmjtFzkqNHdY8VIQBc"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "CONNEXION",
+        "url": "https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog"
       },
       "artists": [
         {
           "name": "Kaza",
           "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 149133,
-      "name": "CALMANT",
-      "url": "https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq"
+      "duration_ms": 175800,
+      "name": "CONNEXION",
+      "url": "https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4"
     },
     {
       "added_at": "2024-01-12 05:00:00",

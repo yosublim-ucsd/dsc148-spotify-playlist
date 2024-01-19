@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Meth Math\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,704 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,733 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Flores Ardientes](https://open.spotify.com/track/5mqj7IIp28OzoyxKgSf5Ie) | [SUA](https://open.spotify.com/artist/0OZqJ1PE4eMJ5rqz5TPMaJ) | [Flores Ardientes](https://open.spotify.com/album/27FpGzVfanxcadOLFiSgMA) | 3:16 |
 | 50 | [El cuarto espejo](https://open.spotify.com/track/4S0HEH6LquxEG1oUIMPTOn) | [AnagramA](https://open.spotify.com/artist/1gGrMnLqaLGprrw2CEGxVu), [Julia](https://open.spotify.com/artist/5Jcfh2ctTxgAI8OxmlSRhS) | [El cuarto espejo](https://open.spotify.com/album/3AtvqFofk7OKfeGaHDDxzk) | 4:08 |
 
-Snapshot ID: `MCxhYmRlMDk2YTg3MTYxYzE1MDMyMmFhNmY2NzMyNTM4MjU5MTQ0NGIz`
+Snapshot ID: `MCw5MThmOWY3NjdkNzAzZDkyZDMwZTZiNjc1ZTYyZDY2Y2IwNzI1Yzll`

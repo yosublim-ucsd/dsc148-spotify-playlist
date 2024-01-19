@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,943 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,952 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -412,9 +412,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 402 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 403 | [Ten Girls](https://open.spotify.com/track/74XDe6nEQtExQUvrWcs1cW) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [She's Made Of Saints](https://open.spotify.com/album/7dQQoDm0OsVTktVbIqF0W4) | 3:13 |
 | 404 | [Until We're Done](https://open.spotify.com/track/6igNA9XcnbkL0Ru6KOcHL7) | [Jonathan Bree](https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh) | [After The Curtains Close](https://open.spotify.com/album/3VnGOl31DtQki02sLjfEVU) | 4:12 |
-| 405 | [Best Life](https://open.spotify.com/track/1np1otMZ9768P4xFzOKytG) | [KOYOTIE](https://open.spotify.com/artist/1MBXMFPj3IwgmUkHJATWm8) | [Best Life](https://open.spotify.com/album/63HDcZ5lNZttuD9Pp7MHA5) | 2:59 |
+| 405 | [Best Life](https://open.spotify.com/track/2j8JFWwOG749dYeQ1vUNhZ) | [KOYOTIE](https://open.spotify.com/artist/1MBXMFPj3IwgmUkHJATWm8) | [Best Life](https://open.spotify.com/album/66F3CguBUFSfNQejlB1T2I) | 2:59 |
 | 406 | [I Hid In Him](https://open.spotify.com/track/5pWOK5bEv5TDkBpPv9cEHu) | [vōx](https://open.spotify.com/artist/4epdWRtuY7tFHyV7mIW7pE) | [I Hid In Him](https://open.spotify.com/album/39A0a8LBVTiM4k85PRkCox) | 3:05 |
 | 407 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival Vol.01](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 408 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 
-Snapshot ID: `MCxlNjY5MWFiNDgyODA0NTZhODY4MGYxYjgxMGYyZDUwNzFlMzEyYmZi`
+Snapshot ID: `MCxjODA5ODI1ODI1OTIyOGM5MTk0ODMyMmVlYWRiOWQ5NGEwY2NhZDFk`

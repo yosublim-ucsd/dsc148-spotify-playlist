@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: KIRE",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: \u7504\u6fdf\u5982 (Jasmine Yen)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 246513,
       "name": "CACTUS",
       "url": "https://open.spotify.com/track/5XEanyXMTmJwi6C3ECSc2j"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 210000,
       "name": "cos idk how",
       "url": "https://open.spotify.com/track/1DozwzMwdx5ovfQfRs6dtb"
@@ -948,6 +948,24 @@
       "duration_ms": 206842,
       "name": "for all this savin\u2019",
       "url": "https://open.spotify.com/track/7LVsxInZbRLYucWpNCgx7A"
+    },
+    {
+      "album": {
+        "name": "Forever 19",
+        "url": "https://open.spotify.com/album/4xeQ2XBZfMG7znRk8NpfTp"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Yen",
+          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213518,
+      "name": "Forever 19",
+      "url": "https://open.spotify.com/track/3NVCNdefsFDzI5t6h1naVO"
     },
     {
       "album": {
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 237782,
       "name": "OH HEY",
       "url": "https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU"
@@ -2930,7 +2948,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 177008,
       "name": "what the ! (\u4e2d\u6587\u7248\uff09",
       "url": "https://open.spotify.com/track/4bfLk8mlTTgHWE3Z3DOzRZ"
@@ -3570,7 +3588,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 108453,
       "name": "\u4f60\u54ea\u4f4d?",
       "url": "https://open.spotify.com/track/0xi0ZWfJ60gG6QBccnziSc"
@@ -3686,7 +3704,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 231432,
       "name": "\u4f60\u60f3\u8981\u7684 \u6211\u7d66\u4e0d\u8d77",
       "url": "https://open.spotify.com/track/2vZtrRNqfnQ6sbDo6OE1TE"
@@ -4204,7 +4222,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 179081,
       "name": "\u53e5\u53f7\u60f3\u5ff5\u95ee\u53f7",
       "url": "https://open.spotify.com/track/7ka7lf2RSsKpBncHGrxE3A"
@@ -5291,6 +5309,28 @@
     },
     {
       "album": {
+        "name": "\u60c5\u52d2",
+        "url": "https://open.spotify.com/album/4R24nFxGHvAj4yTv3Q3wt9"
+      },
+      "artists": [
+        {
+          "name": "Marz23",
+          "url": "https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9"
+        },
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226925,
+      "name": "\u60c5\u52d2",
+      "url": "https://open.spotify.com/track/5stKp2COHUza2lUl17xXRj"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u9060\u8655",
         "url": "https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA"
       },
@@ -5310,28 +5350,6 @@
       "duration_ms": 227907,
       "name": "\u60c5\u52d2",
       "url": "https://open.spotify.com/track/7jhNUTHoYXFuoeL353Wr3w"
-    },
-    {
-      "album": {
-        "name": "\u60c5\u52d2 GASLIGHT (feat. \u00d8ZI)",
-        "url": "https://open.spotify.com/album/4R24nFxGHvAj4yTv3Q3wt9"
-      },
-      "artists": [
-        {
-          "name": "Marz23",
-          "url": "https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9"
-        },
-        {
-          "name": "\u00d8ZI",
-          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
-        }
-      ],
-      "date_added": "2023-02-23",
-      "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
-      "duration_ms": 226925,
-      "name": "\u60c5\u52d2 GASLIGHT (feat. \u00d8ZI)",
-      "url": "https://open.spotify.com/track/5stKp2COHUza2lUl17xXRj"
     },
     {
       "album": {
@@ -6006,7 +6024,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 195483,
       "name": "\u64c1\u6709\u4f46\u4e0d\u5c6c\u65bc",
       "url": "https://open.spotify.com/track/5t9UX4x1aujbr6moOh88KM"
@@ -6064,7 +6082,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 252121,
       "name": "\u65e5\u5e38\u7684\u93e1\u982d",
       "url": "https://open.spotify.com/track/1eV8d10G3S0YbK5Zn0Q20I"
@@ -8150,7 +8168,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 165168,
       "name": "\u9032\u5165\u4e0b\u4e00\u5c64\u65b0\u7684\u5922\u4e4b\u524d",
       "url": "https://open.spotify.com/track/2LmNW7kMeYp2wUqMpIAge6"

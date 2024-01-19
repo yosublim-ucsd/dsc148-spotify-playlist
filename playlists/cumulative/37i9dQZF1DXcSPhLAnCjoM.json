@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Jeck au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
+  "description": "Kyo & Nuit Incolore au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 199906,
       "name": "Chez toi",
       "url": "https://open.spotify.com/track/4RFMijduXiJ13hHuYwPMoG"
@@ -1411,6 +1411,24 @@
     },
     {
       "album": {
+        "name": "Elo\u00efz",
+        "url": "https://open.spotify.com/album/4zZpibujGFVsI6foiaWJhj"
+      },
+      "artists": [
+        {
+          "name": "Elo\u00efz",
+          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152453,
+      "name": "Plus de place pour ta peine",
+      "url": "https://open.spotify.com/track/5mKlpOIgCnIQpiTLsgXPUF"
+    },
+    {
+      "album": {
         "name": "Nonante-Cinq",
         "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
       },
@@ -1458,10 +1476,28 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 201973,
       "name": "Populaire",
       "url": "https://open.spotify.com/track/49kXz61GcX62tPkwmz4oM5"
+    },
+    {
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188093,
+      "name": "Promets-moi",
+      "url": "https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit"
     },
     {
       "album": {
@@ -1494,7 +1530,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 177049,
       "name": "Respire",
       "url": "https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz"
@@ -1578,6 +1614,24 @@
       "duration_ms": 207338,
       "name": "SI TE LLAMO",
       "url": "https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s"
+    },
+    {
+      "album": {
+        "name": "Comme je suis",
+        "url": "https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW"
+      },
+      "artists": [
+        {
+          "name": "DAYSY",
+          "url": "https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152373,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh"
     },
     {
       "album": {

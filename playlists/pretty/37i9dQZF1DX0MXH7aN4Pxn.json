@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 679321,
+  "num_followers": 679314,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGU3N2E2ZGE2ZjAwNzYwZDQ5ZDNlZjRiMjkzMzRkNjVlOGY2OTEz",
+  "snapshot_id": "MCwzZWU1OGNmMmE4ZTM3MjI5NjFjMzU5NDAxMWFiNGFlMTQyYzFlNTA2",
   "tracks": [
     {
       "added_at": "2024-01-17 12:13:06",
@@ -963,18 +963,22 @@
     {
       "added_at": "2024-01-17 12:13:06",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
+        "name": "Hella Good",
+        "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Niko The Kid",
+          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
+        },
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
         }
       ],
-      "duration_ms": 198508,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
+      "duration_ms": 175757,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
     },
     {
       "added_at": "2024-01-17 12:13:06",
@@ -995,22 +999,18 @@
     {
       "added_at": "2024-01-17 12:13:06",
       "album": {
-        "name": "Hella Good",
-        "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
       },
       "artists": [
         {
-          "name": "Niko The Kid",
-          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
-        },
-        {
-          "name": "Benson",
-          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 175757,
-      "name": "Hella Good",
-      "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
+      "duration_ms": 198508,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
     },
     {
       "added_at": "2024-01-17 12:13:06",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-01-17 12:13:06",
       "album": {
-        "name": "Just Let Go",
-        "url": "https://open.spotify.com/album/06XNm5rEIqsbFVkLwkZP84"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Just Let Go",
-      "url": "https://open.spotify.com/track/1J9ImnWMtxpx1XfwCzKpkj"
-    },
-    {
-      "added_at": "2024-01-17 12:13:06",
-      "album": {
         "name": "Work It",
         "url": "https://open.spotify.com/album/02IMasJFCOFTShuLMfkuns"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 167829,
       "name": "Work It",
       "url": "https://open.spotify.com/track/6Fq0HPaq1viwpG5DshEsgs"
+    },
+    {
+      "added_at": "2024-01-17 12:13:06",
+      "album": {
+        "name": "Just Let Go",
+        "url": "https://open.spotify.com/album/06XNm5rEIqsbFVkLwkZP84"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Just Let Go",
+      "url": "https://open.spotify.com/track/1J9ImnWMtxpx1XfwCzKpkj"
     },
     {
       "added_at": "2024-01-17 12:13:06",

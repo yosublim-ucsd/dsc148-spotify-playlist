@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 1210688,
+  "2024-01-19": 1212010,
   "date_first_scraped": "2023-03-26",
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Salma Salsabil",
   "name": "Lagi Viral",
@@ -1056,6 +1056,24 @@
     },
     {
       "album": {
+        "name": "Langkah Baru",
+        "url": "https://open.spotify.com/album/6wms9n1gWJVTXIzXL0SzIR"
+      },
+      "artists": [
+        {
+          "name": "Radja",
+          "url": "https://open.spotify.com/artist/2f1AZeW1r6TUVLagZaRXO5"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212137,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/3nWlfhNCcDhAxlsHmcggEG"
+    },
+    {
+      "album": {
         "name": "Cinta Tak Dibalas Cinta",
         "url": "https://open.spotify.com/album/2hCvXNwO6pfbzM0tkYeR57"
       },
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 267272,
       "name": "Dialog Hati",
       "url": "https://open.spotify.com/track/43qcHWa8RI9vhC2k1tUOJR"
@@ -5173,7 +5191,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 226926,
       "name": "Still",
       "url": "https://open.spotify.com/track/6sv7ZmasB6qSiF8hWJNpDG"
@@ -5289,7 +5307,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
@@ -5955,7 +5973,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 246000,
       "name": "Tukar Lalu",
       "url": "https://open.spotify.com/track/6iVQIRPVzCUZwWI0Z3BJXp"

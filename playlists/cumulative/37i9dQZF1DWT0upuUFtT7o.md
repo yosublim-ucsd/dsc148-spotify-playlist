@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Henry Morris
 
-2,127 songs - 4 day 20 hr 19 min
+2,128 songs - 4 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -835,6 +835,7 @@
 | [Hole in my Head](https://open.spotify.com/track/55E6j6Wcn9XsZCCUcj1sTg) | [The Mad Ones](https://open.spotify.com/artist/4CYm8KfdRQXmljSRl8lJAO) | [Hole in my Head](https://open.spotify.com/album/7p9gNaDnGYy5ebJO0uIhrF) | 3:21 | 2023-03-22 | 2023-04-13 |
 | [Hole in my Pocket](https://open.spotify.com/track/383r1RSzWJDpGoNHgUf5lj) | [Fai Laci](https://open.spotify.com/artist/6ilTnouFQzuDsvGY1jamfF) | [Hole in my Pocket](https://open.spotify.com/album/5YVpCp0XPREtyXopl2wLT7) | 3:23 | 2023-03-01 | 2023-03-23 |
 | [Hollywood Rodeo](https://open.spotify.com/track/0jaRqE3786Q2leLfNemzOg) | [Gabrielle Grace](https://open.spotify.com/artist/04I7vAN53FF1W4I3c0kdnS) | [Hollywood Rodeo](https://open.spotify.com/album/1P9YwCcXU1CSGM1jROcd6x) | 3:47 | 2023-03-22 | 2023-04-06 |
+| [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-18 |  |
 | [Home, to you?](https://open.spotify.com/track/4UDlY0NA0V29fqp1g076k0) | [Will Chant](https://open.spotify.com/artist/1B41QlcuROVRfuEmgXI0AG) | [Home, to you?](https://open.spotify.com/album/6CYN25issRFR7h5NOumDHP) | 3:53 | 2023-05-03 | 2023-06-08 |
 | [Homecoming](https://open.spotify.com/track/3z4NPELouK3sqqMp7f5yfW) | [Soft Velvet Lounge](https://open.spotify.com/artist/2EzJhywsiLbs9W1bu0o9uu) | [Life of the Party](https://open.spotify.com/album/2xHvV9zxczSxykVms69wZJ) | 3:24 | 2022-07-06 | 2022-09-07 |
 | [Homemaker](https://open.spotify.com/track/38R4JCmuR3bxnRcHqRhOun) | [FONTINE](https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy) | [Homemaker](https://open.spotify.com/album/2SLatd6p3fGt6Jt5X5XI2p) | 3:00 | 2023-01-11 | 2023-02-02 |

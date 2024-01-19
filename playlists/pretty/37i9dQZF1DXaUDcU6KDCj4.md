@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Katie Pruitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,916 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,964 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Angel](https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 5:05 |
 | 150 | [The Tern](https://open.spotify.com/track/7EcVoZPkdxpnTCCt8pblwK) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Tern](https://open.spotify.com/album/0jHJZUI0HYFHEVRiSnO5Sq) | 4:14 |
 
-Snapshot ID: `MCxlYTI2ZTc1ZDIwYWRhMjU3Mzg3ZDdhY2MwMDhjNzFhMzllYmI1Mzdm`
+Snapshot ID: `MCxlNTU1Mzg3Y2RiOWZmNjNiNDc5ZGM3OGVlYjAwOTMwMDcxOWI4OWNi`

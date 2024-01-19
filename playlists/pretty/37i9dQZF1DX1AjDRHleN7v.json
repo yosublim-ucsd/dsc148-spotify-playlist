@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 296905,
+  "num_followers": 297122,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTQ5OGQyZjg1NjBkOTU4ZWQwMDFkOWM5Mjk2ZDU3N2IwOTYzNWQ0",
+  "snapshot_id": "MCxjYzVkNmFiOTQ5Y2I5ZWZmZjI4YThkNWE0MTM5NmU2ZjdhNjU2N2M5",
   "tracks": [
     {
       "added_at": "2024-01-12 03:01:00",
@@ -287,22 +287,22 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Refletir (Resista)",
-        "url": "https://open.spotify.com/album/4q8jyiEtpecQblVyRUASht"
+        "name": "Andei S\u00f3",
+        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
       },
       "artists": [
         {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
         },
         {
-          "name": "Toni Garrido",
-          "url": "https://open.spotify.com/artist/6102bVgHhOwz9NGawJPJOL"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Refletir (Resista)",
-      "url": "https://open.spotify.com/track/0MI5P7TQYEjyTnQVQisbZB"
+      "duration_ms": 357533,
+      "name": "Andei S\u00f3",
+      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -323,6 +323,26 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
+        "name": "Refletir (Resista)",
+        "url": "https://open.spotify.com/album/4q8jyiEtpecQblVyRUASht"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "Toni Garrido",
+          "url": "https://open.spotify.com/artist/6102bVgHhOwz9NGawJPJOL"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Refletir (Resista)",
+      "url": "https://open.spotify.com/track/0MI5P7TQYEjyTnQVQisbZB"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
         "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
         "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 185295,
       "name": "Liberdade",
       "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
-        "name": "Andei S\u00f3",
-        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 357533,
-      "name": "Andei S\u00f3",
-      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 209719,
-      "name": "Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
         "name": "T\u00f4 Falando S\u00e9rio",
         "url": "https://open.spotify.com/album/3K8vP1P69XZSzHRnqRhdLG"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 204224,
       "name": "Brisa Positiva",
       "url": "https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 209719,
+      "name": "Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Um banda um",
-        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
-      "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
         "name": "Avenida da Paix\u00e3o",
         "url": "https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 152934,
       "name": "Avenida da Paix\u00e3o",
       "url": "https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Um banda um",
+        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
+      "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+        "name": "Lua Crescente",
+        "url": "https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu"
       },
       "artists": [
         {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+          "name": "Calbertini",
+          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
         }
       ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+      "duration_ms": 201538,
+      "name": "Lua Crescente",
+      "url": "https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "Lua Crescente",
-        "url": "https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu"
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
       },
       "artists": [
         {
-          "name": "Calbertini",
-          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 201538,
-      "name": "Lua Crescente",
-      "url": "https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt"
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -1007,26 +1007,6 @@
       "duration_ms": 178470,
       "name": "Corri Demais",
       "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
-    },
-    {
-      "added_at": "2024-01-12 03:01:00",
-      "album": {
-        "name": "Enquanto Houver",
-        "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
-      },
-      "artists": [
-        {
-          "name": "Walace Fonseca",
-          "url": "https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW"
-        },
-        {
-          "name": "Bruno Harry",
-          "url": "https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF"
-        }
-      ],
-      "duration_ms": 180481,
-      "name": "Enquanto Houver",
-      "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
     },
     {
       "added_at": "2024-01-12 03:01:00",
@@ -1051,18 +1031,38 @@
     {
       "added_at": "2024-01-12 03:01:00",
       "album": {
-        "name": "O Amor Venceu",
-        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
+        "name": "Filho do Mar",
+        "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
       },
       "artists": [
         {
-          "name": "Luc DubWise",
-          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
+          "name": "Banda Nossa Praia",
+          "url": "https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv"
         }
       ],
-      "duration_ms": 187884,
-      "name": "O Amor Venceu",
-      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
+      "duration_ms": 215172,
+      "name": "Filho do Mar",
+      "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
+    },
+    {
+      "added_at": "2024-01-12 03:01:00",
+      "album": {
+        "name": "Enquanto Houver",
+        "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
+      },
+      "artists": [
+        {
+          "name": "Walace Fonseca",
+          "url": "https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW"
+        },
+        {
+          "name": "Bruno Harry",
+          "url": "https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF"
+        }
+      ],
+      "duration_ms": 180481,
+      "name": "Enquanto Houver",
+      "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
     }
   ],
   "unique_name": "Praiana",

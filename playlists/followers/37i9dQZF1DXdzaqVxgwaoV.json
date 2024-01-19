@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 110602,
+  "2024-01-19": 110589,
   "date_first_scraped": "2023-11-11",
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
   "name": "M\u00fasica Decembrina",
@@ -1662,6 +1662,24 @@
     },
     {
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
+      },
+      "artists": [
+        {
+          "name": "El Rey de los Diciembres",
+          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "Que No Quede Huella (Live)",
+      "url": "https://open.spotify.com/track/5wU0gGloYzBoy0kqHOfJMt"
+    },
+    {
+      "album": {
         "name": "Internacional",
         "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
       },
@@ -1865,7 +1883,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 154506,
       "name": "Tan bella y tan presumida",
       "url": "https://open.spotify.com/track/1iD7PGq7tgAg2SBPDj1E53"

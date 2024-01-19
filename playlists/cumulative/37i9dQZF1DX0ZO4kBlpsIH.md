@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-194 songs - 9 hr 26 min
+195 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Cris](https://open.spotify.com/track/4Ndlor6i2ikO2tOzB8LVZH) | [Roberto Lucanero](https://open.spotify.com/artist/5OVJFCX7ri0EaYLqz58NQp) | [Cris](https://open.spotify.com/album/5x3cqAMsUcM9YvAG1Xeo6N) | 3:44 | 2022-02-18 | 2022-11-26 |
 | [Cumbia Cantina](https://open.spotify.com/track/78R2ykINPnIYzQqCg5Kbys) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [La Zingara](https://open.spotify.com/album/7A2CsrEpQ657PuoTxV9iy3) | 3:52 | 2022-02-18 | 2023-04-28 |
 | [c’est pas une valse](https://open.spotify.com/track/2M7pnVEq94WK8GY4VVVHnL) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [c’est pas une valse](https://open.spotify.com/album/502Abcnvy3uNgBV9H34IZq) | 3:14 | 2023-12-08 |  |
+| [c’est quoi ton p’tit nom](https://open.spotify.com/track/0e72GovSMMBz6tPEHpsLJC) | [Bateau Mouche](https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf) | [c’est quoi ton p’tit nom](https://open.spotify.com/album/0fIKxC0O1BzdLfaVYrmHHc) | 3:30 | 2024-01-19 |  |
 | [Die Prinzessin des Akkordeons](https://open.spotify.com/track/7bkF2XCl41sxITMEVfamKq) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 2:58 | 2022-02-18 |  |
 | [Die Prinzessin des Akkordeons](https://open.spotify.com/track/7fQBdAmIIcaK0xYfn8vjRl) | [Roger Dufas](https://open.spotify.com/artist/5ZA9UYzX5J1uxXspRhJJDg), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 2:58 | 2022-02-18 | 2022-07-29 |
 | [Djangology](https://open.spotify.com/track/3dIl8SxXJTggnKIMozYRqi) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 2:37 | 2023-03-21 |  |

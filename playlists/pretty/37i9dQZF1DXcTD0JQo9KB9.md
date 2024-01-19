@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,074 likes - 106 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,079 likes - 106 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 105 | [水花四濺](https://open.spotify.com/track/42DleX9v5bbIzWJDvkiYRo) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [廣東勵志歌集](https://open.spotify.com/album/0E59wmj03ppImPuzwE2onD) | 4:17 |
 | 106 | [哲學家](https://open.spotify.com/track/1wdPW3bn0ysQVdRhWET6XL) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [哲學家](https://open.spotify.com/album/3bI27pOCKevhTpBHTDPTdW) | 4:34 |
 
-Snapshot ID: `MCxlNGRmMjhjM2JkYzViM2I5YjhkODM5NzI3OTU0Y2NhMDEzMmI2OTU3`
+Snapshot ID: `MCw3MjkwZTFkODZlMGQ2NTkwMGQ3YTI3Y2Y5YzAwN2UxZDcxM2FjYTlj`

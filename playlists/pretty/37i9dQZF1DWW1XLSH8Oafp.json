@@ -1,12 +1,12 @@
 {
-  "description": "ur on the list bb \ud83e\ude90 featuring Shygirl",
-  "num_followers": 244768,
+  "description": "ur on the list bb \ud83e\ude90 featuring charlieeeee",
+  "num_followers": 244826,
   "original_name": "planet rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGZhYzk0M2RiNDMzYTg0NTQ5YWMzMThkM2NhYjFmNDU2OGE1MDE5",
+  "snapshot_id": "MCxiNWYxMjE2NjNjOWY4NGRmZDMxM2U0YmVmYzUwODIwNjMxNTI1OGZi",
   "tracks": [
     {
       "added_at": "2024-01-12 10:57:48",
@@ -59,6 +59,26 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/4XSsqfGgX7wHPubb2l61DI"
+      },
+      "artists": [
+        {
+          "name": "charlieeeee",
+          "url": "https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/04Dko7XP8nPEMfwIJFVpES"
     },
     {
       "added_at": "2024-01-12 10:57:48",
@@ -323,38 +343,18 @@
     {
       "added_at": "2024-01-12 10:57:48",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr"
+        "name": "ur love",
+        "url": "https://open.spotify.com/album/2xAFwmKEKu38oXQVBFlJyP"
       },
       "artists": [
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "Ordley",
+          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
         }
       ],
-      "duration_ms": 206014,
-      "name": "Wild Ones",
-      "url": "https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8"
-    },
-    {
-      "added_at": "2024-01-12 10:57:48",
-      "album": {
-        "name": "My Barn My Rules",
-        "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
-      },
-      "artists": [
-        {
-          "name": "MCR-T",
-          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
-        },
-        {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-        }
-      ],
-      "duration_ms": 126530,
-      "name": "My Barn My Rules - Edit",
-      "url": "https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW"
+      "duration_ms": 154236,
+      "name": "ur love",
+      "url": "https://open.spotify.com/track/6hU9i9sAy9MLYmkpnTqrhi"
     },
     {
       "added_at": "2024-01-12 10:57:48",
@@ -403,6 +403,42 @@
     {
       "added_at": "2024-01-12 10:57:48",
       "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206014,
+      "name": "Wild Ones",
+      "url": "https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/7p0OAMkrvyhbv0z7wVdBQm"
+      },
+      "artists": [
+        {
+          "name": "Remedy Club",
+          "url": "https://open.spotify.com/artist/1MuDSnGT0IosRnJbulWvQn"
+        },
+        {
+          "name": "sim0ne",
+          "url": "https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV"
+        }
+      ],
+      "duration_ms": 142362,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5Ee0r9PetOsxgEG5h9IyqL"
+    },
+    {
+      "added_at": "2024-01-12 10:57:48",
+      "album": {
         "name": "c u never",
         "url": "https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A"
       },
@@ -423,22 +459,6 @@
     {
       "added_at": "2024-01-12 10:57:48",
       "album": {
-        "name": "ur love",
-        "url": "https://open.spotify.com/album/2xAFwmKEKu38oXQVBFlJyP"
-      },
-      "artists": [
-        {
-          "name": "Ordley",
-          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
-        }
-      ],
-      "duration_ms": 154236,
-      "name": "ur love",
-      "url": "https://open.spotify.com/track/6hU9i9sAy9MLYmkpnTqrhi"
-    },
-    {
-      "added_at": "2024-01-12 10:57:48",
-      "album": {
         "name": "agony",
         "url": "https://open.spotify.com/album/1Om3YkaTqCgjVsFrvyYW2V"
       },
@@ -455,6 +475,26 @@
       "duration_ms": 179090,
       "name": "agony",
       "url": "https://open.spotify.com/track/6KzU3opKYx4dTqnhkSUG2U"
+    },
+    {
+      "added_at": "2024-01-12 10:57:48",
+      "album": {
+        "name": "My Barn My Rules",
+        "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
+      },
+      "artists": [
+        {
+          "name": "MCR-T",
+          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
+        },
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "duration_ms": 126530,
+      "name": "My Barn My Rules - Edit",
+      "url": "https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW"
     },
     {
       "added_at": "2024-01-12 10:57:48",
@@ -531,6 +571,26 @@
       "duration_ms": 223680,
       "name": "Capable of love",
       "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Wasting Time With You",
+        "url": "https://open.spotify.com/album/1nADZ50z704vj7HtopGgXC"
+      },
+      "artists": [
+        {
+          "name": "Denham Audio",
+          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+        },
+        {
+          "name": "Triple Point",
+          "url": "https://open.spotify.com/artist/45XSGhE6nqslKivrIYaAz5"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Wasting Time with You",
+      "url": "https://open.spotify.com/track/1LRw2qwjFCwntxtUp2QPqi"
     },
     {
       "added_at": "2024-01-12 10:57:48",
@@ -745,6 +805,30 @@
       "url": "https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty"
     },
     {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Need Somebody",
+        "url": "https://open.spotify.com/album/4zhjAZyG1fFbdPFdfo9tkv"
+      },
+      "artists": [
+        {
+          "name": "GESES",
+          "url": "https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR"
+        },
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        },
+        {
+          "name": "Jethro Heston",
+          "url": "https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj"
+        }
+      ],
+      "duration_ms": 141398,
+      "name": "Need Somebody",
+      "url": "https://open.spotify.com/track/0wdJefRAVWCkhlQXFCi8kx"
+    },
+    {
       "added_at": "2024-01-12 10:57:48",
       "album": {
         "name": "Reach Out (feat. Lauren L'aimant)",
@@ -819,6 +903,26 @@
       "duration_ms": 148965,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/7tI027S6KnKQmnjN2uwDfP"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/5aQuFD0k2AvweTvB4NWsL7"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        },
+        {
+          "name": "Convexity",
+          "url": "https://open.spotify.com/artist/5yyqKaR2sQiuMm2gC83f31"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "Liminal",
+      "url": "https://open.spotify.com/track/10tif34C0hcgqdDgsvQLQG"
     },
     {
       "added_at": "2024-01-12 10:57:48",
@@ -1863,22 +1967,6 @@
     {
       "added_at": "2024-01-12 10:57:48",
       "album": {
-        "name": "BABYLON IX",
-        "url": "https://open.spotify.com/album/18RD7fs0sVlhy13O8VwN7J"
-      },
-      "artists": [
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 232696,
-      "name": "Blush Cut",
-      "url": "https://open.spotify.com/track/3HaUAMFIw5iZfpO5yOpw2P"
-    },
-    {
-      "added_at": "2024-01-12 10:57:48",
-      "album": {
         "name": "it's not about u",
         "url": "https://open.spotify.com/album/27eBFT50n6XdoOhNE7dpU4"
       },
@@ -2095,22 +2183,6 @@
       "duration_ms": 256519,
       "name": "So Far So Good",
       "url": "https://open.spotify.com/track/7evLcrrniiw3S0LA8F3P1v"
-    },
-    {
-      "added_at": "2024-01-12 10:57:48",
-      "album": {
-        "name": "slash 004 - Leave it to the vibe",
-        "url": "https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 418003,
-      "name": "Leave it to the vibe",
-      "url": "https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P"
     },
     {
       "added_at": "2024-01-12 10:57:48",
@@ -2407,22 +2479,6 @@
     {
       "added_at": "2024-01-12 10:57:48",
       "album": {
-        "name": "GET ME OUT OF THIS CLUB",
-        "url": "https://open.spotify.com/album/0orRa5HzQrY8wBrcWaU5J3"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "GET ME OUT OF THIS CLUB",
-      "url": "https://open.spotify.com/track/1K1LA6XbeCDYFXuKyZAYIE"
-    },
-    {
-      "added_at": "2024-01-12 10:57:48",
-      "album": {
         "name": "1-800-GHETTOLICIOUS",
         "url": "https://open.spotify.com/album/2tEztrGiQcQSz0xwWm8t1S"
       },
@@ -2599,22 +2655,6 @@
     {
       "added_at": "2024-01-12 10:57:48",
       "album": {
-        "name": "Confessions of a Fangirl",
-        "url": "https://open.spotify.com/album/3yjU0i0Fb57O3PwsTXtRvV"
-      },
-      "artists": [
-        {
-          "name": "Cydnee with a C",
-          "url": "https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU"
-        }
-      ],
-      "duration_ms": 165022,
-      "name": "Don't We Always",
-      "url": "https://open.spotify.com/track/5wGUVrYzmEp9yP24YTSt0z"
-    },
-    {
-      "added_at": "2024-01-12 10:57:48",
-      "album": {
         "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
         "url": "https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi"
       },
@@ -2627,26 +2667,6 @@
       "duration_ms": 206626,
       "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
       "url": "https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc"
-    },
-    {
-      "added_at": "2024-01-12 10:57:48",
-      "album": {
-        "name": "fumble (feat. piri)",
-        "url": "https://open.spotify.com/album/5hscifRFV9IXLm2mZ27fSH"
-      },
-      "artists": [
-        {
-          "name": "Sudley",
-          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        }
-      ],
-      "duration_ms": 174069,
-      "name": "fumble (feat. piri)",
-      "url": "https://open.spotify.com/track/1vyzpZ8td4h4QNpuATl3ZX"
     },
     {
       "added_at": "2024-01-12 10:57:48",

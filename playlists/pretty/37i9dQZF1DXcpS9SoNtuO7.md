@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,817 likes - 130 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,838 likes - 130 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 100 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
 | 101 | [Knock Out](https://open.spotify.com/track/5ktgImJ7uP5gR2Pv85R9Qy) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Knock Out](https://open.spotify.com/album/3pHuTLk66QGfAd4KRq4ErX) | 3:45 |
 | 102 | [Dear](https://open.spotify.com/track/6S0iISRQW7TK8OM3gN3NyE) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 5:01 |
-| 103 | [Shining stars bless☆](https://open.spotify.com/track/0fIMkhGURGjJDrUExfeeu2) | [Kaori Utatsuki](https://open.spotify.com/artist/05rQduN9R080VjzIiUOX2b) | [Shining stars bless☆](https://open.spotify.com/album/6W4HmkRFSJWO3GNBQ9PWqs) | 4:35 |
+| 103 | [Shining stars bless☆](https://open.spotify.com/track/2Un0itRDZ586UcPSXr7Fy2) | [Kaori Utatsuki](https://open.spotify.com/artist/05rQduN9R080VjzIiUOX2b) | [Shining stars bless](https://open.spotify.com/album/7aRgfGyWFLmZapGsrrIUoZ) | 4:35 |
 | 104 | [Rumbling hearts](https://open.spotify.com/track/1EU4qljfL1lZbV1ff9tik8) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [10th Anniversary Best Album「stories」](https://open.spotify.com/album/0c97w5Guoaf8BPCTf6B12O) | 4:45 |
 | 105 | [Precious Memories](https://open.spotify.com/track/66xiA0OsEuX22NbZTZmChO) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [10th Anniversary Best Album「stories」](https://open.spotify.com/album/0c97w5Guoaf8BPCTf6B12O) | 3:51 |
 | 106 | [巫女みこナース･愛のテーマ \(こっとんちゃれんじばーじょん\)](https://open.spotify.com/track/4LeZUpl1ilNV87OcZBXi3B) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [すぅぃ～とさいくろん\-☆いぇいっ☆\-](https://open.spotify.com/album/40UFF2n3AOPoYiogy1Nvi3) | 4:09 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 129 | [なにが悪い](https://open.spotify.com/track/2Ifn0MXm7x9ddBQPUabV9a) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:47 |
 | 130 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 |
 
-Snapshot ID: `MCxlOTRiZTk4M2QxNzY0N2U1YzhkYTEyN2Q5MzlmMGIyYjQ3M2E0NDY4`
+Snapshot ID: `MCw0NzIwM2I2YmZjYmFjYWUwMDUyYmJkZmM0N2ZjNjlmYTFhZDNhNTNk`

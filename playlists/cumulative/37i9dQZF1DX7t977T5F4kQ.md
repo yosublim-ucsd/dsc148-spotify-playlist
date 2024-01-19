@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1?si=TOzAEf6yTvWEDysOJWHqPA"> Olivetheboy </a>
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   Amerado
 
-287 songs - 15 hr 16 min
+288 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A B C D](https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [PHOTO ALBUM](https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH) | 2:52 | 2023-03-17 | 2023-05-05 |
 | [Abena](https://open.spotify.com/track/416lJBohBXn07iQe3lf0JI) | [Yaw Dyro](https://open.spotify.com/artist/0KCWVye8eFEyOu2fpwfMHr), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Abena](https://open.spotify.com/album/5KZGcpVTuXFTzedSE0gCe4) | 2:40 | 2023-11-03 | 2023-12-02 |
 | [Abofra](https://open.spotify.com/track/77gnkds6DeIlK8wZ96tyUY) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Abofra](https://open.spotify.com/album/0t7PPoLJESwhAoG48GfrXc) | 2:46 | 2023-04-27 | 2023-05-13 |
+| [Abronoma](https://open.spotify.com/track/6ilwDSiCw5N9108ykDjvf1) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Abronoma](https://open.spotify.com/album/5wkgLP3g2t87ag2ZcNolpO) | 3:23 | 2024-01-19 |  |
 | [Adidede](https://open.spotify.com/track/3Sm296EhmvG9AjlkUCWXdw) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Adidede](https://open.spotify.com/album/6ZK7DECfuQLrw7VryCxQJU) | 2:35 | 2022-11-04 | 2023-02-04 |
 | [Adoley](https://open.spotify.com/track/2IxaCE3hoNMs8k5wtCOK22) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [G.D.S](https://open.spotify.com/artist/1JJxXFiM6xyoaJecfqdgfx) | [A Lifetime Is Not Enough](https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH) | 2:17 | 2023-01-20 |  |
 | [Adomaa](https://open.spotify.com/track/3S4chGK4MIzbk65aWFdipz) | [Genna](https://open.spotify.com/artist/2ML4G2egB1izEQeNDbP24d) | [Adomaa](https://open.spotify.com/album/4HkLKbDS0CjcyyJnrDpKR5) | 3:22 | 2023-06-02 | 2023-06-10 |
@@ -220,14 +221,14 @@
 | [Pull Up](https://open.spotify.com/track/2wK5qJVUTOkWzjfeTnQI2d) | [Yaw Darling](https://open.spotify.com/artist/5Evs57zwRolR6QHb2qeYwv) | [Pull Up](https://open.spotify.com/album/5fnMktzHv3fIEM5iGNt4w5) | 2:13 | 2023-02-03 | 2023-02-10 |
 | [Questions](https://open.spotify.com/track/2UyyeyrMMa6xeLTahzJ3WY) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Questions](https://open.spotify.com/album/09qtruWBuFM1j91UfI7xHz) | 3:25 | 2023-02-23 | 2023-03-18 |
 | [Ride](https://open.spotify.com/track/60oKfOdsaHDve38dnEKTpA) | [NYA](https://open.spotify.com/artist/3cS8BydyVh7TR09iyKXhZH) | [Euphoria \- Vol\. 3 : Noir Tales](https://open.spotify.com/album/1oPj4fcTkKIb0ypftYNXIw) | 3:01 | 2023-07-14 | 2023-07-29 |
-| [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/album/4kQjfos3CoetMeTYxZoGxe) | 3:23 | 2022-11-04 |  |
+| [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/album/4kQjfos3CoetMeTYxZoGxe) | 3:23 | 2022-11-04 | 2024-01-19 |
 | [Road Clear](https://open.spotify.com/track/0XIhHYGnjN8wOlxsNbB0T2) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Road Clear](https://open.spotify.com/album/1FQD4Ak6bzqg0chwBIWQEM) | 3:08 | 2023-05-12 | 2023-08-11 |
 | [Roma](https://open.spotify.com/track/5HTcQgNskY36EEtdB4zMfr) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [For the Kulture](https://open.spotify.com/album/4nrewczBwXf6d8PBs3fDV6) | 2:34 | 2023-08-24 |  |
 | [Run AM](https://open.spotify.com/track/2lByANPWtcbcJJR9fETLNW) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 3:18 | 2023-04-27 | 2023-08-12 |
 | [Running](https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Running](https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd) | 2:56 | 2022-12-18 |  |
 | [S3k3](https://open.spotify.com/track/29FGO8Iej8cr7R6WdoPDG7) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [S3k3](https://open.spotify.com/album/7JjgRBz9e6A2wLPTcjQVYn) | 2:32 | 2022-11-04 | 2023-09-15 |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-02 | 2023-03-18 |
-| [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 | 2022-11-04 |  |
+| [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 | 2022-11-04 | 2024-01-19 |
 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2022-11-04 | 2023-02-24 |
 | [Sex](https://open.spotify.com/track/3tyMlwxHwEE5TAb2ecUqQU) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Sex](https://open.spotify.com/album/7rgMsOvr1GZHI84teicBfE) | 3:24 | 2023-07-07 | 2023-08-11 |
 | [Sexy Sexy](https://open.spotify.com/track/6hC0PQL1Kr3Qgmjhs3csZF) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Reggie Rockstone](https://open.spotify.com/artist/5Q73WzWI1MkAbAwi2ZhG8K) | [Her Vibe Is Right Vol\. 2](https://open.spotify.com/album/2fart2DIpvQa4mvk9ecxfy) | 3:37 | 2023-07-28 | 2023-09-22 |

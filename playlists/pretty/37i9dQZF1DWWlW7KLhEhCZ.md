@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Feek
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,393 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,430 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [GLORD](https://open.spotify.com/track/7bwDy9YugqXLSkhpTB4MB1) | [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [SHH](https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3) | 1:18 |
 | 75 | [Toca Na Corrente](https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Bem Vindo Natal Mixtape 2](https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr) | 2:09 |
 
-Snapshot ID: `MCw5ZDVlZjM2YmQ2YmJiMjJiNjM4NjVlZDJkODdiMzNmMjYzNDI4MzNj`
+Snapshot ID: `MCw5MmVlODFjNzM1MTk0OGFhNmUyMTY5YzA0ZTk0NTZhODAxYzJiOWFj`

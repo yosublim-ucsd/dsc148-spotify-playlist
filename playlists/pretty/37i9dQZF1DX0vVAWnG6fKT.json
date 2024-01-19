@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 143184,
+  "num_followers": 143201,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWYxNGQzNTI1YTM0YjBiN2ZiNjk5ZmVhMDUzMDc5ZDkyMjNkMjRm",
+  "snapshot_id": "MCwzZDhlNTUzMmVjYzk1OTRhMGExOGJmYmYxMzQ0MWU4N2M3MDRkNmFl",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "So, Round, So Firm, So Fully Packed",
-      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Copasetic",
         "url": "https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 166813,
       "name": "Filipino Baby",
       "url": "https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "So, Round, So Firm, So Fully Packed",
+      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+        "name": "Presenting Al Dexter",
+        "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
         }
       ],
-      "duration_ms": 173693,
-      "name": "Cherokee Maiden",
-      "url": "https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG"
+      "duration_ms": 163053,
+      "name": "Too Late to Worry, Too Blue to Cry",
+      "url": "https://open.spotify.com/track/39oDv2nFjiDVRpj0DLBXIl"
     },
     {
       "added_at": "2023-01-02 21:50:32",

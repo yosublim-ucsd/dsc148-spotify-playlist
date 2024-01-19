@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,642 songs - 3 day 17 hr 4 min
+1,644 songs - 3 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -819,7 +819,8 @@
 | [Luxuria Jere Klein](https://open.spotify.com/track/3VGcO4eL2kYDBUuP2ADpA7) | [Filtragod](https://open.spotify.com/artist/5zhfRLZLE6L85QZOSjOn9Z) | [Luxuria Jere Klein](https://open.spotify.com/album/4Mn8rh2Ypp584MBAY21B3a) | 2:15 | 2022-10-04 | 2022-11-13 |
 | [M.A \(Mejores Amigos\)](https://open.spotify.com/track/1eIDsKCLwZF6CJK8pOgHX5) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [M.A \(Mejores Amigos\)](https://open.spotify.com/album/2ESUDQUE3ku1wEBCO5RKG6) | 2:38 | 2023-01-21 | 2023-05-03 |
 | [M.A \- Remix](https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [M.A \(Remix\)](https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR) | 4:32 | 2023-05-02 | 2023-05-17 |
-| [M.A.I](https://open.spotify.com/track/6ERI20r4GlgPI6ZDVLcGMO) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:04 | 2023-12-19 |  |
+| [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-01-17 |  |
+| [M.A.I](https://open.spotify.com/track/6ERI20r4GlgPI6ZDVLcGMO) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:04 | 2023-12-19 | 2024-01-19 |
 | [Made in Italy](https://open.spotify.com/track/1T8x0zaLmRCVAKjhwLYSvh) | [¥ EleK\-47 ¥](https://open.spotify.com/artist/1dR3aEUbT5raoyLcOl7Oo1), [YyGty47](https://open.spotify.com/artist/4DMS5VoKMPXSf6RcyHPCwd) | [Made in Italy](https://open.spotify.com/album/7oMhAuKAzq5vLqmZUQnEKN) | 2:19 | 2023-01-17 | 2023-02-05 |
 | [MADRID](https://open.spotify.com/track/2fXKhkTskJr2zi7iZJmDOq) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [MADRID](https://open.spotify.com/album/4uv3gpD1EVnI2NtDsCIL0D) | 3:15 | 2023-05-24 | 2023-06-14 |
 | [Madrid](https://open.spotify.com/track/4qa0GxbPdzhH0BVCKmMoMi) | [JocaBegge](https://open.spotify.com/artist/0DicwL5r1PUqGe9vVaaXhO) | [Madrid](https://open.spotify.com/album/3HN4YC7niYSVhVQWmgagOI) | 3:20 | 2023-04-20 | 2023-05-04 |
@@ -1520,7 +1521,8 @@
 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 | 2022-06-01 | 2022-06-15 |
 | [Un Viaje](https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Un Viaje](https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36) | 4:45 | 2022-05-03 | 2022-05-18 |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-05-09 | 2023-07-05 |
-| [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 | 2023-12-19 |  |
+| [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 | 2023-12-19 | 2024-01-19 |
+| [UNA BALA](https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:03 | 2024-01-17 |  |
 | [Una Cunumi \- Remix](https://open.spotify.com/track/07sQOuFnAKkgT81abNu1m9) | [Qmayb](https://open.spotify.com/artist/6u5q0dSiIW3pSx4YcpgZro), [J.Gonzo](https://open.spotify.com/artist/4KtAbxuDjz4zt0UydnQB9h), [Faraón Love Shady](https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn), [Xvideo Token](https://open.spotify.com/artist/5Ug0mwuVTPzJU3tguFv6ZA) | [Una Cunumi \(Remix\)](https://open.spotify.com/album/3uZZPln5pd94l7A9ToAgqf) | 4:30 | 2022-04-15 | 2022-04-27 |
 | [Una en un Millón](https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Una en un Millón](https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC) | 2:35 | 2023-06-13 | 2023-07-11 |
 | [Una Lágrima En La Garganta](https://open.spotify.com/track/4KJM2D7Jix5BDkkXQd36AV) | [Zalo Reyes](https://open.spotify.com/artist/0EShyzemaVRTIukphkQZBZ) | [Canto Por Amor](https://open.spotify.com/album/22cN2EKsSASNKE1N944gPJ) | 3:34 | 2022-08-23 | 2022-09-01 |

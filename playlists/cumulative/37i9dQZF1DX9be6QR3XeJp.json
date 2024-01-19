@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Essosa",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Kingfishr",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2072,6 +2072,24 @@
       "duration_ms": 177077,
       "name": "Leave",
       "url": "https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50"
+    },
+    {
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/4oI3CE0TNkmbQQqZdHR2zh"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj"
     },
     {
       "album": {

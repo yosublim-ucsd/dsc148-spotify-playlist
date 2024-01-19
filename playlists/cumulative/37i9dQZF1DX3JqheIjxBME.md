@@ -4,7 +4,7 @@
 
 > El cancionero que retrata las batalles y personajes que dejaron huella en México.
 
-101 songs - 6 hr 14 min
+102 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Doña Elena y el Francés](https://open.spotify.com/track/1CICqdWVmN397awrL2JRBR) | [Ignacio López Tarso](https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d) | [Mexicanisimo](https://open.spotify.com/album/6Z0P2h7puJvbOXD8WMUbY0) | 5:26 | 2022-08-02 |  |
 | [El Abandonado](https://open.spotify.com/track/4EDKAMs8sg9fk93cyiV2jL) | [Mariachi Popular América](https://open.spotify.com/artist/4hwG49Y5uFlnoIrIAePe9Z) | [Cantares de la Revolución Mexicana y Canciones Norteñas](https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur) | 2:45 | 2022-08-02 |  |
 | [El Adiós del Soldado](https://open.spotify.com/track/3CIa2qaDA7hMtSfSvTVhow) | [Hermanos Charros](https://open.spotify.com/artist/1S9WitJMDXetgg7BDAeLug) | [Cantares de la Revolución Mexicana y Canciones Norteñas](https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur) | 4:03 | 2022-08-02 |  |
-| [El Barzon](https://open.spotify.com/track/7i1XfrUlcECvLngS2TOrXt) | [Luis Perez Meza](https://open.spotify.com/artist/7ma3GVmh9WTTRbTIy5JwVu) | [19 Éxitos Con Banda](https://open.spotify.com/album/5LMMjN3k96FiaApsKfDWie) | 2:46 | 2022-08-02 |  |
+| [El Barzon](https://open.spotify.com/track/7i1XfrUlcECvLngS2TOrXt) | [Luis Perez Meza](https://open.spotify.com/artist/7ma3GVmh9WTTRbTIy5JwVu) | [19 Éxitos Con Banda](https://open.spotify.com/album/5LMMjN3k96FiaApsKfDWie) | 2:46 | 2022-08-02 | 2024-01-19 |
+| [El Barzon](https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Sus Mas Grandes Exitos](https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS) | 2:44 | 2022-08-02 |  |
 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 | 2022-08-02 | 2024-01-13 |
 | [El Centauro De Oro](https://open.spotify.com/track/3QuujadEZ52El7vMb4t6SH) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos De La Revolucion](https://open.spotify.com/album/3ZhQxx4Ls2u4XSci0KgHGH) | 2:38 | 2022-08-02 |  |
 | [El Cerro de la Silla](https://open.spotify.com/track/06OALIBJvuZsCh7pBknXD2) | [Dueto Los Pajareros](https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo) | [Cantares de la Revolución Mexicana y Canciones Norteñas](https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur) | 2:17 | 2022-08-02 |  |

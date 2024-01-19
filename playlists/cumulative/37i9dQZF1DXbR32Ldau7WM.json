@@ -2217,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Endless Etude (BEST WISHES TO ALL ver.)",
+        "url": "https://open.spotify.com/album/5FE6XRVjwqvXE4tQqiW5gx"
+      },
+      "artists": [
+        {
+          "name": "Base Ball Bear",
+          "url": "https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157871,
+      "name": "Endless Etude (BEST WISHES TO ALL ver.)",
+      "url": "https://open.spotify.com/track/6u5POngpCtZfnIyLU2izjg"
+    },
+    {
+      "album": {
         "name": "Entertain",
         "url": "https://open.spotify.com/album/2bnZXiHyF1C2F1cMZWn2zX"
       },
@@ -6817,6 +6835,24 @@
     },
     {
       "album": {
+        "name": "Ramble In The Rainbow",
+        "url": "https://open.spotify.com/album/21XAQLhqdawyfWcf4iC6Sq"
+      },
+      "artists": [
+        {
+          "name": "TAMTAM",
+          "url": "https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243161,
+      "name": "Ramble In The Rainbow",
+      "url": "https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW"
+    },
+    {
+      "album": {
         "name": "Re-monolith",
         "url": "https://open.spotify.com/album/7AJtqR3thUCneHnGKgHAAa"
       },
@@ -8446,7 +8482,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 120200,
       "name": "STAY GOLD",
       "url": "https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6"
@@ -12618,7 +12654,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 214213,
       "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
       "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"

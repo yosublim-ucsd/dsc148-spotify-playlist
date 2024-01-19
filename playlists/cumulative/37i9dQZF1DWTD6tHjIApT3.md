@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Sala
 
-2,107 songs - 5 day 15 hr 48 min
+2,109 songs - 5 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1023,6 +1023,7 @@
 | [sun shade \- Acoustic Guitar Ver.](https://open.spotify.com/track/4FFPkjsdJZhyHxZrzrsgb3) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [SUMMER TUNE / sun shade / スパイスガール / 会いたいな今夜 \(Acoustic Guitar Ver.\)](https://open.spotify.com/album/7eQwl6EQiv0LUP9I8I9URq) | 4:37 | 2023-08-29 | 2023-08-31 |
 | [Sunday Cruisin'](https://open.spotify.com/track/6PqeczYy3ZEvRwYPUK3tk6) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Sunday Cruisin'](https://open.spotify.com/album/1yhQHrMfcwUcblVzmsTqAR) | 4:00 | 2023-05-04 | 2023-05-10 |
 | [Sunflower](https://open.spotify.com/track/3K0AahH3MARcGs72ifbdM1) | [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr) | [Sunflower](https://open.spotify.com/album/6dTt2FOD7lA7MJKlzp4iCR) | 3:32 | 2023-10-17 | 2023-10-25 |
+| [sunshine](https://open.spotify.com/track/1ekTOhefDvMDd0pfeBzePe) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [sunshine](https://open.spotify.com/album/4lL6BEOObcD162mpuaegOD) | 3:41 | 2024-01-18 |  |
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-09-27 | 2023-11-16 |
 | [Super Ball](https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 3:23 | 2023-09-26 | 2023-09-28 |
 | [Super Girl](https://open.spotify.com/track/1C6uVJG9FNtVSp46JjPpnu) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:07 | 2022-08-18 | 2022-08-24 |
@@ -1570,7 +1571,7 @@
 | [マグマ](https://open.spotify.com/track/0Uy6aZsX0Q2nwNmP6Z5gNZ) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [マグマ I](https://open.spotify.com/album/5NsaiVz6Zszy7J2pwvNapg) | 3:25 | 2022-05-31 | 2022-06-08 |
 | [マーメイド](https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [マーメイド](https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq) | 3:55 | 2023-07-04 | 2024-01-11 |
 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 | 2022-05-29 | 2023-09-13 |
-| [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 | 2022-11-03 |  |
+| [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 | 2022-11-03 | 2024-01-19 |
 | [ミナミノシマ\(架空\)](https://open.spotify.com/track/7f5PBGyrpm9Ud75Hdpn8qg) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [あおい12 さい](https://open.spotify.com/artist/45NFBA81HM95r4kloukQOZ) | [ミナミノシマ\(架空\)](https://open.spotify.com/album/7eCpcPVSUXuWESh50o306d) | 3:22 | 2022-08-30 | 2022-09-01 |
 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 | 2022-05-31 |  |
 | [メモリーちゃん](https://open.spotify.com/track/2b8r3wa4OQLaPfExue0BMz) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [メモリーちゃん](https://open.spotify.com/album/7hWey2FkbnocGUpGrT8AcE) | 4:05 | 2023-09-05 | 2023-09-13 |
@@ -1834,6 +1835,7 @@
 | [愛をありがとう](https://open.spotify.com/track/5oDEAsNWeomAjcplALgqdw) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [愛をありがとう](https://open.spotify.com/album/5eaaXphQ2C5rwgoOKTbOp1) | 5:14 | 2023-08-31 | 2024-01-17 |
 | [愛をつかまえて](https://open.spotify.com/track/0NF5k4GYaJrr7hOJVzaVqD) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [愛をつかまえて](https://open.spotify.com/album/0yI2oGI2X12FrTCHxOBtr7) | 4:23 | 2022-12-13 | 2023-01-04 |
 | [愛をやめない](https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [愛をやめない](https://open.spotify.com/album/4G9hhOddozDYiI0ZAFbJv5) | 3:26 | 2023-06-13 | 2023-06-28 |
+| [愛哀](https://open.spotify.com/track/1jNX9JdSdlhqkmiIPBUii4) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まだらもよう](https://open.spotify.com/album/0bamCeA6hehUk8NqStBL7k) | 3:47 | 2024-01-18 |  |
 | [愛愛だな](https://open.spotify.com/track/0R8iqGwB3Pqm8B682EdFNo) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [愛愛だな](https://open.spotify.com/album/4nPK1HiNhDZnLL9XEGzZFJ) | 3:29 | 2022-10-11 | 2022-10-19 |
 | [愛浴びる](https://open.spotify.com/track/1pMWifOvrQ5DVqnIHCBUh3) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29) | [愛浴びる](https://open.spotify.com/album/07OwU3Hy6GsnrkUgTkP3JA) | 3:16 | 2023-10-31 | 2023-11-08 |
 | [慟哭 \- Self Cover](https://open.spotify.com/track/0s3yfzHrDPX5SEIDdsJaaU) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [慟哭 \(Self Cover\)](https://open.spotify.com/album/0vkmeavv5B7HjXJKQBS2t7) | 5:12 | 2022-06-21 | 2022-07-19 |
@@ -2029,7 +2031,7 @@
 | [花束](https://open.spotify.com/track/1m7OwPrxJ7JwMg13KHs5QG) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [10th Anniversary Best](https://open.spotify.com/album/0QiLutk3Pscww7wJ6valwh) | 3:49 | 2022-05-31 | 2022-07-08 |
 | [花火](https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [花火](https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9) | 4:31 | 2022-05-31 | 2023-02-18 |
 | [花雨](https://open.spotify.com/track/1LER8HqjV97yTkwE319KCJ) | [THE SxPLAY](https://open.spotify.com/artist/3buTqojSELwUcO2apjmpVi) | [花雨](https://open.spotify.com/album/45nxRDg99QvBzeNn0BWg0S) | 3:46 | 2022-05-31 | 2022-07-22 |
-| [華奢な心](https://open.spotify.com/track/4I2zu5SjESe8F8AyZLtOVC) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [華奢な心](https://open.spotify.com/album/2MCrgO6b1EiTlkNY76i4Mw) | 4:21 | 2023-11-28 |  |
+| [華奢な心](https://open.spotify.com/track/4I2zu5SjESe8F8AyZLtOVC) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [華奢な心](https://open.spotify.com/album/2MCrgO6b1EiTlkNY76i4Mw) | 4:21 | 2023-11-28 | 2024-01-19 |
 | [蒲公英](https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [蒲公英](https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs) | 3:11 | 2023-01-17 | 2023-08-31 |
 | [虎視眈々](https://open.spotify.com/track/4Azzy23yDYsOlg99UdF68S) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [虎視眈々](https://open.spotify.com/album/69qwLxxOJyMyO04rfRk8Ur) | 3:16 | 2023-02-14 | 2023-02-22 |
 | [虹の麓](https://open.spotify.com/track/4M3MFeJmY0FhLWsRiwgsBw) | [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [虹の麓](https://open.spotify.com/album/00MYld6psNwJ63Q1ThfGg6) | 4:36 | 2022-06-07 | 2022-06-14 |

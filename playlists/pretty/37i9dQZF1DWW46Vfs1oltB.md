@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Fleeky Bang\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,161 likes - 110 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,132 likes - 110 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 109 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 |
 | 110 | [KrOWN\_lIlBOI](https://open.spotify.com/track/3Qdm41qaQkvYqL4SBP41fj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [KrOWN audio liner](https://open.spotify.com/album/7C0wLTmWoth1H3ZCTAVxDf) | 0:04 |
 
-Snapshot ID: `MCxhNmQ3ZjM3NDMzOWVlY2M1NTk0Nzk3NDg1NmMyOTE4MWFiZjcwOWIw`
+Snapshot ID: `MCw0MjYxODJiZTczYmQ3NDFiNTgyYTBlNzEwMzBjYjRjZDg4M2RjNjRk`

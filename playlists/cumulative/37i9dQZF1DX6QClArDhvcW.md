@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-479 songs - 18 hr 5 min
+482 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2022-05-20 | 2023-09-08 |
 | [BUREAU](https://open.spotify.com/track/1G2S9S4zkyjWZ4o7UFxKEN) | [C L A E S](https://open.spotify.com/artist/7l7padJSxJNVmAgHnrvo7E) | [BUREAU](https://open.spotify.com/album/3wm25SygTk8pNHDEcW5zF2) | 1:16 | 2023-01-06 |  |
 | [Calm Place](https://open.spotify.com/track/5jMaiafNplK9eO77RGlGeF) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Calm Place](https://open.spotify.com/album/1teYIUuYhKfTE2i3GiWUZb) | 2:40 | 2023-04-20 | 2023-11-24 |
+| [camping trip](https://open.spotify.com/track/1SadNNfKugUYlaXTZO9g7c) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [camping trip](https://open.spotify.com/album/3lnVeBLRm0cAmHwiAZt5yI) | 2:39 | 2024-01-19 |  |
 | [Candy](https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq) | [Ada Vula](https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv) | [Candy](https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N) | 1:46 | 2022-09-02 |  |
 | [Candy Clouds](https://open.spotify.com/track/0Z4O3yTtmqdLXzCxSX9XPt) | [Airship River](https://open.spotify.com/artist/6v5wK0vEKyLP05vV9dvly6) | [Lemo](https://open.spotify.com/album/0rA6rd8ashXD1xaAQkbZRI) | 3:12 | 2022-05-20 | 2023-12-22 |
 | [canopy](https://open.spotify.com/track/5XXF8WBjixXWOCG2VpfTOS) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [canopy](https://open.spotify.com/album/4xqvic8Lp0EQ56nIpl4GQm) | 3:06 | 2023-11-24 |  |
@@ -247,6 +248,7 @@
 | [maskros](https://open.spotify.com/track/6UFRV34euOz5X7sCfJgGyV) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [maskros](https://open.spotify.com/album/6Zhxs4RLuvK3kZ5iNOwKaM) | 3:03 | 2023-09-08 |  |
 | [matcha latte morning](https://open.spotify.com/track/6Y3x4QPZnE2oIOXnrkbkaD) | [Re\-Lax & Re\-Why'nd](https://open.spotify.com/artist/1rMywJQt6BtOpjN9E1qKxt) | [matcha latte morning](https://open.spotify.com/album/6h6l5ezRCtPqcodHMCrDI3) | 2:06 | 2023-03-24 |  |
 | [Meadows](https://open.spotify.com/track/1JfFZNt2JY3hslCny4Nlnv) | [Groovetide](https://open.spotify.com/artist/1WPcKTIAEsxAnyAsfFWZE7) | [Meadows](https://open.spotify.com/album/2SsXBo5fCM1mpBrJfw1oWO) | 2:43 | 2023-01-13 |  |
+| [Meatloafi](https://open.spotify.com/track/6TQc4MINqlN0aHCn1YrnJN) | [Parcs](https://open.spotify.com/artist/50hSRQpZmGKS1551TkEYKH) | [Meatloafi](https://open.spotify.com/album/1QJ4oGiRvJQODGVoVIqQgS) | 2:34 | 2024-01-19 |  |
 | [Meditative State](https://open.spotify.com/track/0YXyIpdq9ZFvCH6ZsaGfwE) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Meditative State](https://open.spotify.com/album/3nSx2XYH36538HeHh8X0SR) | 1:56 | 2023-03-16 | 2023-08-30 |
 | [memories](https://open.spotify.com/track/14kGhyabTHGMtbNhraoe0p) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:39 | 2022-05-20 | 2022-09-09 |
 | [Mentor](https://open.spotify.com/track/11tfbPbvwBnDeiB0coMi4G) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Mentor](https://open.spotify.com/album/0XRicJ10jdVBKieWYBZSbY) | 1:51 | 2023-05-03 |  |
@@ -290,6 +292,7 @@
 | [Ocean Drive](https://open.spotify.com/track/35ocNO8HJOYg9DUTxHY3CI) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh) | [Ocean Drive](https://open.spotify.com/album/7rSGnjAtzEK0aeI3oCi5az) | 2:58 | 2022-10-14 | 2023-10-27 |
 | [OCEANS](https://open.spotify.com/track/3RPNs1wcYZD5yKgHCK16ch) | [Ambians](https://open.spotify.com/artist/6OBPJ5nCAxX0NWqDUfzJYg) | [OCEANS](https://open.spotify.com/album/6MH6fWQQUoD3jBjFxXINu0) | 2:48 | 2023-03-16 |  |
 | [oh coast glory](https://open.spotify.com/track/5QBqbDn4YBUQoxrKonrEhM) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [oh coast glory](https://open.spotify.com/album/3wwQZG9kCZM46Gg5RFMRAv) | 2:23 | 2023-04-20 |  |
+| [on and off](https://open.spotify.com/track/0im5PdKDz2raraDknVtn8F) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [on and off](https://open.spotify.com/album/3JwndlcwuI3X2eZFWHOC0r) | 2:06 | 2024-01-19 |  |
 | [One for Louie](https://open.spotify.com/track/4ygVMLIEswj7bH8xr4a8bv) | [Lab Progression](https://open.spotify.com/artist/1KWvzy2ks6bKSBD3rMj5yk), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Jammin Berries](https://open.spotify.com/artist/46TWlcFSSZbWiB9k9n0P8o) | [Outside / One For Louie](https://open.spotify.com/album/0RIbacCprcmEOd4Gmgsg8s) | 2:08 | 2023-08-18 | 2023-12-22 |
 | [One more for the road](https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [One more for the road](https://open.spotify.com/album/55wpECO2frgXtb6JsDtrCO) | 2:29 | 2023-10-20 |  |
 | [Oonga Boonga](https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Oonga Boonga](https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk) | 2:05 | 2023-10-13 |  |

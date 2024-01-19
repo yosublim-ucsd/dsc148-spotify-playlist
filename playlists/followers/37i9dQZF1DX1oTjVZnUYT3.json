@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 455111,
+  "2024-01-19": 455195,
   "date_first_scraped": "2023-12-31",
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
   "name": "Festa Brasileira",
@@ -249,7 +249,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 260133,
       "name": "Divino Maravilhoso",
       "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 284160,
       "name": "Vaca Profana",
       "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"

@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 31722,
+  "num_followers": 31724,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTRkNDg5ZmZiZTNhNzNmOTIwMDkxYmFkMjNmMmMzYTJkYTBiNDg1",
+  "snapshot_id": "MCxhZDcxNmJlZTI2OTg5YzZmMWM4ZTU2MTllNmI5YjdlNjBhNjA0OGYy",
   "tracks": [
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "El Bosque Brillante",
-        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
-      },
-      "artists": [
-        {
-          "name": "Lucio Balduini",
-          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
-        }
-      ],
-      "duration_ms": 319386,
-      "name": "Superestrella",
-      "url": "https://open.spotify.com/track/4jB6brPwacdWQsRVBHMZGO"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Onyx",
         "url": "https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 364453,
       "name": "Full Glasses",
       "url": "https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "El Bosque Brillante",
+        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
+      },
+      "artists": [
+        {
+          "name": "Lucio Balduini",
+          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
+        }
+      ],
+      "duration_ms": 319386,
+      "name": "Superestrella",
+      "url": "https://open.spotify.com/track/4jB6brPwacdWQsRVBHMZGO"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Polacos",
-        "url": "https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "Polacos",
-      "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Enero",
         "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 412693,
       "name": "Cero",
       "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Polacos",
+        "url": "https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Polacos",
+      "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
     },
     {
       "added_at": "2023-12-08 00:22:41",

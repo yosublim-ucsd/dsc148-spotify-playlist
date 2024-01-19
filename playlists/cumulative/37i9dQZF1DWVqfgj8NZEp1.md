@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-307 songs - 1 day 4 hr 21 min
+308 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,9 +182,9 @@
 | [My Little Brown Book](https://open.spotify.com/track/0T6uiezTUBBMHTHVkMS6Jp) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [cosy autumn jazz](https://open.spotify.com/album/1N8ifrvGovGJ063efZvpBR) | 5:21 | 2022-11-10 | 2022-11-13 |
 | [My Little Brown Book](https://open.spotify.com/track/0WPHL9IRv1Nm4xu21qxgnw) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1rZ3fUUggXNiZ0UczEgHEq) | 5:23 | 2020-10-09 | 2022-07-29 |
 | [My Reverie](https://open.spotify.com/track/0qPQYLhCwZlVQ0yyTYUSTe) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD), [Kristian Leth](https://open.spotify.com/artist/1CIFDAKpTPZH16rWPZMRf5) | [Classics](https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM) | 6:12 | 2022-05-19 |  |
+| [My Romance](https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 4:14 | 2022-06-30 |  |
 | [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/5GnogY3GFKXdaYHiTrrIbJ) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Jazz For Study](https://open.spotify.com/album/1eGF9aSPUS5RGi1J5DFeZr) | 4:12 | 2022-11-10 | 2022-11-14 |
 | [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6rK27cC9hX0e1Chrnxo9Vn) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj) | 4:12 | 2020-10-09 | 2022-07-29 |
-| [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 4:14 | 2022-06-30 |  |
 | [Mystique No\. 12](https://open.spotify.com/track/5V66ktMtWl2d1hmr9mspKw) | [Örjan Hultén Orion](https://open.spotify.com/artist/3AFXTkGYYzu4TcOTVRpd0K), [Örjan Hultén](https://open.spotify.com/artist/7mN9uLkwc857ZRZVSxAY6R), [Torbjörn Gulz](https://open.spotify.com/artist/4dFMnksV445NMDiYjurHPz), [Filip Augustson](https://open.spotify.com/artist/12WGIS6hNRIywU3FJSGOiB), [Peter Danemo](https://open.spotify.com/artist/1slCkSS7B9eyPOzgG5lLE7) | [Shifting Ground](https://open.spotify.com/album/5pGjNfdASiPjFltomAP3h6) | 2:42 | 2022-11-10 |  |
 | [Naima](https://open.spotify.com/track/53QNo32MLknNMvfO5u87DR) | [Lo Greco Bros Quartet](https://open.spotify.com/artist/3y3000WyBJpDtIGHI5y4FG) | [Naima](https://open.spotify.com/album/1MkJ9Cw7FOgkzsbfJ9uRM6) | 4:39 | 2021-07-30 | 2023-02-23 |
 | [Naima](https://open.spotify.com/track/0D5PNTs1HSYe2nHlHulJQw) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Giant Steps](https://open.spotify.com/album/1mws5azyWvnyPkaNZEDGa4) | 5:02 | 2020-10-09 | 2022-08-30 |
@@ -300,6 +300,7 @@
 | [We Three](https://open.spotify.com/track/5jkJkA8Dpu9a60s0LYfW2I) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Just Coolin'](https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx) | 11:01 | 2022-04-14 |  |
 | [We Will Never Meet Again](https://open.spotify.com/track/01bwGowuoCT9klYUIJwuBl) | [John Rae](https://open.spotify.com/artist/09SVpoNxeMVRHY48xjqS0c) | [Where the Wild Clematis Grow](https://open.spotify.com/album/0kJMTBOqVB9PNFHK0FeotP) | 4:17 | 2022-06-30 |  |
 | [We Will Never Meet Again](https://open.spotify.com/track/6zYDzFqWrXG2rMWZA1I7tZ) | [John Rae](https://open.spotify.com/artist/09SVpoNxeMVRHY48xjqS0c) | [We Will Never Meet Again](https://open.spotify.com/album/4FrHFBCtchCE0qfhEcXdqF) | 4:17 | 2020-10-09 | 2022-07-29 |
+| [We'll Be Together Again](https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [We'll Be Together Again](https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7) | 5:08 | 2024-01-19 |  |
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 | 2020-10-09 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2020-10-09 |  |
 | [When You Are Near](https://open.spotify.com/track/7dWzkzCjOVVkJDTEeWrCZ0) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/2n12HqIagVlEPeXY4hhWUs) | 8:22 | 2020-10-09 | 2022-05-03 |

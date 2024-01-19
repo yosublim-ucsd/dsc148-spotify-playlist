@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-184 songs - 14 hr 29 min
+185 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Chelsea Morning](https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1) | [Sara Colman](https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa) | [Ink on a Pin \- A Celebration of Joni Mitchell](https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk) | 3:52 | 2022-09-13 |  |
 | [Circle Game](https://open.spotify.com/track/1nznIr3ZHzQFYoQZ6s98ri) | [Lauren Bush](https://open.spotify.com/artist/0voLSXF4pGAKwcDXctLdLD) | [Circle Game](https://open.spotify.com/album/1zI5sP4mAW9p0eQsEMQSNi) | 5:49 | 2023-09-15 | 2023-11-14 |
 | [Comfortably Numb](https://open.spotify.com/track/0aQZxKrtx2JhXQfT4TD23E) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 6:41 | 2022-09-13 | 2022-10-08 |
+| [Conversation](https://open.spotify.com/track/06gNa1Rs8ivtJ3V9vSVNWB) | [Aubrey Johnson](https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi), [Randy Ingram](https://open.spotify.com/artist/1I1RsZSV9pEW8Zpz7feqpG) | [Play Favorites](https://open.spotify.com/album/4DHI03EwOkdyy4bXnGQnDj) | 4:23 | 2024-01-19 |  |
 | [Conversation](https://open.spotify.com/track/2OsL9OwffBpmb4YlrEpxxB) | [Aubrey Johnson](https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi), [Randy Ingram](https://open.spotify.com/artist/1I1RsZSV9pEW8Zpz7feqpG) | [Play Favorites](https://open.spotify.com/album/18PqcQgK9HM9N3NaLnPc9H) | 4:23 | 2022-11-24 | 2023-12-24 |
 | [Creep](https://open.spotify.com/track/32SkNdTcuxvUGjtv0ObOgu) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:31 | 2022-09-13 |  |
 | [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 | 2022-09-13 |  |
@@ -101,7 +102,7 @@
 | [Immigrant Song](https://open.spotify.com/track/6dx1sQaWu3Yul87HfddFeA) | [Obed Calvaire](https://open.spotify.com/artist/6LbNXRQZMLpMJ4E1S1d1Dm), [Bob Franceshini](https://open.spotify.com/artist/0gj84Qpcn2TU0vS4C1dqs9), [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J) | [Whole Lotta Love: The Music of Led Zeppelin](https://open.spotify.com/album/1v691IFSm1faUW5cTIhVfu) | 6:51 | 2022-10-11 | 2023-08-21 |
 | [In My Life](https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [What's It All About?](https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh) | 4:22 | 2022-09-27 |  |
 | [In My Life](https://open.spotify.com/track/0vHHA2NGykToUDhiKyB7wF) | [Vincent Meissner](https://open.spotify.com/artist/7ox1pso1ax4HtLO22VU0YL), [Josef Zeimetz](https://open.spotify.com/artist/1hAUxw9mJUSkRpJuEDrsca), [Henri Reichmann](https://open.spotify.com/artist/6jrUiDeiXgBgUFPjvOQSi7) | [Wille](https://open.spotify.com/album/31NhLTsgSc8U0vWuIv6hFK) | 3:51 | 2023-05-30 | 2023-09-02 |
-| [It's Alright Ma \(I'm Only Bleeding\)](https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu) | [Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat](https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP) | [Ships With Tattooed Sails](https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9) | 6:30 | 2022-10-11 |  |
+| [It's Alright Ma \(I'm Only Bleeding\)](https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu) | [Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat](https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP) | [Ships With Tattooed Sails](https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9) | 6:30 | 2022-10-11 | 2024-01-19 |
 | [Julia](https://open.spotify.com/track/1RTmc5oW1VmWUaUh80IZzo) | [The David Liebman Trio](https://open.spotify.com/artist/7ntUblw92fCVpMIjkM1TXh), [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn), [John Ruocco](https://open.spotify.com/artist/6tyFjAhvbV2tt8urz1THok), [Eric Ineke](https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx), [Marius Beets](https://open.spotify.com/artist/5OdTxtGUOXe9h3UhPti9pK) | [Lieb Plays the Beatles](https://open.spotify.com/album/2jSCnq7vrAR0DO3qLdKjEr) | 4:21 | 2022-10-11 |  |
 | [Jump](https://open.spotify.com/track/6YdHo9aVSZ0bnkm9gMKDYz) | [Cassandra Beck](https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2) | [The Sexy EP](https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ) | 3:29 | 2022-09-13 |  |
 | [Just a Girl](https://open.spotify.com/track/3Ss9u1AeSvIh3X3jQqFmOF) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [Just a Girl](https://open.spotify.com/album/5Z6LPuC2WaYrNlIao72zH2) | 3:09 | 2022-09-13 |  |

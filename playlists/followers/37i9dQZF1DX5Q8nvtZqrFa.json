@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 17454,
+  "2024-01-19": 17472,
   "date_first_scraped": "2023-11-24",
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u305b\u304d\u3089\u3089",
@@ -96,6 +96,24 @@
     },
     {
       "album": {
+        "name": "Dame Sengen",
+        "url": "https://open.spotify.com/album/364xT6oAdsUCr5KXOg2ZYI"
+      },
+      "artists": [
+        {
+          "name": "TRACK15",
+          "url": "https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160203,
+      "name": "Dame Sengen",
+      "url": "https://open.spotify.com/track/6jSRiSqC4enItld9Atti6h"
+    },
+    {
+      "album": {
         "name": "INSAINT",
         "url": "https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s"
       },
@@ -187,6 +205,24 @@
       "duration_ms": 201411,
       "name": "doudemoii hanashiga shitai",
       "url": "https://open.spotify.com/track/7pbMb6wgeowLSl2ZoN5X31"
+    },
+    {
+      "album": {
+        "name": "doudemoii hanashiga shitai (Acoustic Version)",
+        "url": "https://open.spotify.com/album/7nmVKMb9L1yrzghWhPDhsA"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217924,
+      "name": "doudemoii hanashiga shitai - Acoustic Version",
+      "url": "https://open.spotify.com/track/2GDYJ3nvJf6QXTWN7d60yc"
     },
     {
       "album": {
@@ -915,7 +951,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 217924,
       "name": "\u3069\u3046\u3067\u3082\u3044\u3044\u8a71\u304c\u3057\u305f\u3044 - Acoustic Version",
       "url": "https://open.spotify.com/track/3UiLsCu8AbAeQJ3nFrNOhY"
@@ -1143,7 +1179,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 160203,
       "name": "\u30c0\u30e1\u5ba3\u8a00",
       "url": "https://open.spotify.com/track/2bvN47RRkwDDYIWcpwLtPR"

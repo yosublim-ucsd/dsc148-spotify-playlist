@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Zamdane
+> Le meilleur du rap français version cloud\. Photo : So La Lune
 
-331 songs - 16 hr 27 min
+333 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Dr\. Surprise](https://open.spotify.com/track/0lL5qRP6yOTkaCl9Hy48ZB) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [Dr\. Surprise](https://open.spotify.com/album/1EZFmNCKU4wn8tNk6sRsJg) | 1:54 | 2023-11-30 | 2023-12-30 |
 | [Drapeau Blanc](https://open.spotify.com/track/4Q5hHlFSI6fkidddMx3SfC) | [Kahra](https://open.spotify.com/artist/31mTzsWIoE7mjpIQCzyBVi) | [Drapeau Blanc](https://open.spotify.com/album/1dKUfKOZ0RxPt5lRKdU42X) | 2:58 | 2023-11-09 | 2023-12-15 |
 | [EAU DE ROSE](https://open.spotify.com/track/1Ko8VSowhXSS6jUMvckDB3) | [Solal](https://open.spotify.com/artist/40hwssvpT91rZpFofKyKLz) | [EAU DE ROSE](https://open.spotify.com/album/6KLapdI76CDnRYUwpwwwrY) | 2:22 | 2023-01-19 | 2023-04-07 |
+| [ELEMENT](https://open.spotify.com/track/6e82ytBlz3s2RRnPzXgg9D) | [zaky](https://open.spotify.com/artist/1OGnylVl0ivlAICNOVaJQp) | [ELEMENT](https://open.spotify.com/album/53izZ5ctHfOq87JPDKglhj) | 2:20 | 2024-01-18 |  |
 | [En bas](https://open.spotify.com/track/3vdu2mV11LcnesdeJTRjZu) | [Djiggy](https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa) | [En bas](https://open.spotify.com/album/1M69vczIjdtS7r5ffXe0eo) | 2:19 | 2023-04-27 | 2023-06-02 |
 | [En bas de chez moi](https://open.spotify.com/track/3OzkuO27kVWHxiQESqVvmw) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Sous l'averse](https://open.spotify.com/album/4XXVV9QRUogm1ZU9oYHcwy) | 2:42 | 2023-03-23 | 2023-05-19 |
 | [Encre noire](https://open.spotify.com/track/0bk75qIrxgJ0FEGbgOzJUg) | [Seventiine](https://open.spotify.com/artist/6e8flkZ70WOzklwhYol7qA) | [Encre noire](https://open.spotify.com/album/3RVlLLK6BbaGeNZBCAaGjO) | 2:49 | 2022-07-21 | 2022-10-14 |
@@ -160,7 +161,7 @@
 | [JET & SCOOTER](https://open.spotify.com/track/00oe1I3awDM2HjAF9Efz68) | [GEAVN](https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru) | [JET & SCOOTER](https://open.spotify.com/album/1C4HIM7Szj2NOgyUIGVmOQ) | 3:20 | 2023-02-16 | 2023-04-07 |
 | [Jour de pluie](https://open.spotify.com/track/7Cuca28lbRnHCWlpgEwxCu) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Jour de pluie](https://open.spotify.com/album/55HrsnQR83ZjEiaSYnXdRO) | 3:17 | 2023-11-09 |  |
 | [JOUR DE PLUIE](https://open.spotify.com/track/6nxLFvMeQySR4wKFPRh1tC) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA) | [JOUR DE PLUIE](https://open.spotify.com/album/2yWX4MlBDNXu3xtscHFi3O) | 2:47 | 2023-09-07 | 2023-10-20 |
-| [kerosene](https://open.spotify.com/track/1DU4iqHjKYdPt4iXo1vAsp) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 | 2023-12-21 |  |
+| [kerosene](https://open.spotify.com/track/1DU4iqHjKYdPt4iXo1vAsp) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 | 2023-12-21 | 2024-01-19 |
 | [L'APPEL](https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [ERRR](https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7) | 2:11 | 2022-07-14 | 2022-12-02 |
 | [L'Audacieuse](https://open.spotify.com/track/0qoimFw2hfFPt7G9X3dpdg) | [Eline](https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF) | [L'Audacieuse](https://open.spotify.com/album/4I5drbQZp5uBSaMkzf6Ma6) | 2:34 | 2023-10-26 | 2023-12-01 |
 | [L'AVANCE](https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L'AVANCE](https://open.spotify.com/album/7tQWxEGjCkipqMkNMQRJTd) | 2:05 | 2022-10-13 | 2022-12-09 |
@@ -235,12 +236,13 @@
 | [Paradis Bleu](https://open.spotify.com/track/6d2q14a2wY6HUeLApYLdoo) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [Paradis Bleu](https://open.spotify.com/album/2KDfg8dRxwo3Y6506NqCtZ) | 3:17 | 2022-12-08 | 2023-04-07 |
 | [PARADOXE](https://open.spotify.com/track/1xLddYF8AeGunDqEXr4YIO) | [L’As](https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [PARADOXE](https://open.spotify.com/album/44ax71MweuP0tuXzV9mgfh) | 3:35 | 2022-07-14 | 2022-12-16 |
 | [Paraît\-il](https://open.spotify.com/track/5VJerGXFJYqUsV63tvUYlb) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma](https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF) | 2:50 | 2023-02-09 | 2023-05-19 |
+| [PARLE EN WSH](https://open.spotify.com/track/2lP7XUYGrfDGkeweHioos5) | [Chat noir](https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8) | [PARLE EN WSH](https://open.spotify.com/album/50bmjYU7Z5BlZiZxvYXbzE) | 3:01 | 2024-01-18 |  |
 | [PAS DE CE MONDE](https://open.spotify.com/track/3zGuHTIdqFnrNVkyE2YR1d) | [NAOHS](https://open.spotify.com/artist/6Te81qcP1wIVOh1v6mJAFb) | [PAS DE CE MONDE](https://open.spotify.com/album/3oYNnQnjfucofFcjlPoNJL) | 2:28 | 2023-06-29 | 2023-08-25 |
 | [Perdu](https://open.spotify.com/track/2YPxuRn3QTh4vQ6Qfh2EpG) | [GOYA](https://open.spotify.com/artist/2qq8zPVsSnIZqvmG09oFRr) | [Perdu](https://open.spotify.com/album/0TPzjKqIXdyoxIeSlmXA1y) | 3:32 | 2022-07-14 | 2022-07-22 |
 | [PERDU](https://open.spotify.com/track/43bfTCUSTBAJNWCourc7Mb) | [Vadek](https://open.spotify.com/artist/40m5FHZCGhyfN6eMi1oJPv), [Demas](https://open.spotify.com/artist/6jgxd1BrkpYObThse9uhfG) | [PERDU](https://open.spotify.com/album/1W1QqDVrF4rMqE2O7OnVYg) | 3:15 | 2023-05-04 | 2023-05-26 |
 | [PERDU D'AVANCE](https://open.spotify.com/track/32CtvOn0vsV5VlGk5JeZpg) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [PERDU D'AVANCE](https://open.spotify.com/album/1FsjyKZzdKLKfRW3qjSykW) | 3:00 | 2023-05-04 | 2023-06-09 |
 | [Perdu d'avance](https://open.spotify.com/track/1kXMucU97he5tcBgCR5o4v) | [Ramses](https://open.spotify.com/artist/5v2PdLR4Jcs31CC1GJIA78) | [Perdu d'avance](https://open.spotify.com/album/5gQLcjIumwemTPdbTv79ik) | 2:54 | 2022-09-08 | 2022-11-18 |
-| [PERDU SANS TOI](https://open.spotify.com/track/5Aeb85aDLZH4DuMGnMikAZ) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [TOUT VA BIEN](https://open.spotify.com/album/22CKc4qEluGxJ5Rq7XscZS) | 3:36 | 2023-12-08 |  |
+| [PERDU SANS TOI](https://open.spotify.com/track/5Aeb85aDLZH4DuMGnMikAZ) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [TOUT VA BIEN](https://open.spotify.com/album/22CKc4qEluGxJ5Rq7XscZS) | 3:36 | 2023-12-08 | 2024-01-19 |
 | [Personally](https://open.spotify.com/track/2Tb1mxu6uMSRp0dEg4bRXq) | [Yams](https://open.spotify.com/artist/0wEDL8w6Yy6ti1IGW2Yy40) | [Personally](https://open.spotify.com/album/7mPSdLufQXnjcH3PjqYs47) | 3:13 | 2023-02-09 | 2023-02-24 |
 | [Perte de temps](https://open.spotify.com/track/6OtC63b0k3p5PADayP1hkV) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 3:09 | 2023-12-14 |  |
 | [Piano Black](https://open.spotify.com/track/0MRPmZVCxKAf5HSaglBoDV) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 4:04 | 2022-07-14 | 2022-07-29 |

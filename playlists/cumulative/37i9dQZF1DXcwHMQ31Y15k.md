@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Guyon Waton
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Denny Caknan
 
-268 songs - 22 hr 8 min
+272 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2022-05-26 | 2023-02-10 |
 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 | 2022-05-26 | 2023-12-09 |
 | [Apik](https://open.spotify.com/track/4wKs47lXYzgdkhEfU2X1L6) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Apik](https://open.spotify.com/album/0U63NlQb7uOyrEMEv4TCRK) | 5:42 | 2023-11-17 |  |
+| [Apik](https://open.spotify.com/track/0pKMPmXE9W7jQnKsjbEn0p) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY), [Ajeng Febria](https://open.spotify.com/artist/5qxASy1kvetpJ6N9Utx0mN) | [Apik](https://open.spotify.com/album/349eZo14h3OUaX4V5EzmxV) | 5:45 | 2024-01-18 |  |
 | [Babar Pisan](https://open.spotify.com/track/6fKTvXz9OWB5v7n09d7gHC) | [Ajeng Febria](https://open.spotify.com/artist/5HS265pLgn1JndZjOYDlWh) | [Babar Pisan](https://open.spotify.com/album/7xdp0sRO1CuJbmeb4C9STI) | 4:53 | 2024-01-11 |  |
 | [Balik Kanan Wae](https://open.spotify.com/track/3r55XFoo88uz9e084F2RFU) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Balik Kanan Wae](https://open.spotify.com/album/73xxVGK2GFvA8yxTBvDjGz) | 4:06 | 2022-05-26 | 2023-05-20 |
 | [Banyu Moto](https://open.spotify.com/track/1UqXKWMR9HXUSabmXxxUiB) | [Sleman Receh](https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP) | [Banyu Moto](https://open.spotify.com/album/4aeI54j6CouhfK7LqwJpCV) | 4:09 | 2022-05-26 | 2023-12-09 |
@@ -67,6 +68,7 @@
 | [Full Senyum Sayang](https://open.spotify.com/track/6Vhst432fSvsduUkqFruiq) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/6qYd6W2PyMVSjDCs5VEh6g) | 4:06 | 2023-12-08 |  |
 | [Full Senyum Sayang](https://open.spotify.com/track/7k2TwP9u83aABMkNoQuBnn) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3wy9IbCarGhOSaY3WY731C) | 4:06 | 2023-02-16 | 2023-12-09 |
 | [Gali Prapatan](https://open.spotify.com/track/5a0RI1DJDKqLhGyTRyVIa8) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Gali Prapatan](https://open.spotify.com/album/3pkrZtfEYuCfIOWQMV0Y10) | 2:57 | 2023-08-03 | 2023-10-08 |
+| [Gampil](https://open.spotify.com/track/7KET9JHpqakmnfmP1xSQuD) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Gampil](https://open.spotify.com/album/1CDoARMdq5GXJvEX8xSkIe) | 5:02 | 2024-01-18 |  |
 | [Gampil](https://open.spotify.com/track/6T03CN5UVnCGPz3muqvpOz) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Gampil](https://open.spotify.com/album/0UjiKUCJA3xHzSfhjlqqVk) | 4:51 | 2024-01-11 |  |
 | [Gampil](https://open.spotify.com/track/7yCRYkJJfyRrOswvni0P6U) | [NGATMOMBILUNG](https://open.spotify.com/artist/2QTbC45lx9ANi4Cm2hx09c) | [Gampil](https://open.spotify.com/album/2wftoe7LLLRQbWhC5PnkOp) | 4:35 | 2024-01-11 |  |
 | [ganti ayang](https://open.spotify.com/track/1VvExYaGt1IaycmrJPR0ZO) | [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [ganti ayang](https://open.spotify.com/album/5lgxKOsUiNGYHhRqY6VgJQ) | 4:36 | 2022-07-01 | 2023-04-14 |
@@ -132,6 +134,7 @@
 | [MANGSA OBAH](https://open.spotify.com/track/29wLB4HBboFcB4AtS0VqKf) | [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [MANGSA OBAH](https://open.spotify.com/album/1KgJqmdZ78QwkWvZj7VRuH) | 4:50 | 2023-10-06 | 2023-12-09 |
 | [Manot](https://open.spotify.com/track/15HmzLQkPN4S6j1lvXYUJp) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [Manot](https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E) | 5:48 | 2023-09-15 |  |
 | [Mbok Sarijem](https://open.spotify.com/track/0oUW3yW2eADBRGTOpUGe1H) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Mbok Sarijem](https://open.spotify.com/album/0mLRi97B3aVyS9aTkcyUIR) | 6:35 | 2023-09-15 |  |
+| [Melas](https://open.spotify.com/track/1QtDIr6rKYTbK0aJ02BQi2) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Melas](https://open.spotify.com/album/7w6VPtAY5BAzaw4YvjrSPD) | 4:59 | 2024-01-18 |  |
 | [Mending Golek Timbang Balen\(MGTB\)](https://open.spotify.com/track/6LKFSmhIt0htvIWjAgjr8R) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Mending Golek Timbang Balen\(MGTB\)](https://open.spotify.com/album/6ui8Tm4QJu7qhf2bCgd3ZI) | 4:36 | 2022-05-26 | 2023-01-06 |
 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 | 2022-05-26 |  |
 | [Mergawe](https://open.spotify.com/track/5N2z1MNzKTszoXTZmPnwgG) | [Didik Budi](https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ) | [Mergawe](https://open.spotify.com/album/3msYUmQcFQO1D01tcyNmn5) | 3:50 | 2023-04-27 | 2023-09-22 |
@@ -222,6 +225,7 @@
 | [Sak Dheg Sak Nyet](https://open.spotify.com/track/4nfyju9QoSwzwEZsyn7Tgs) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx), [Bravesboy](https://open.spotify.com/artist/2PUWReihDs70AzwDeGEoG1) | [Sak Dheg Sak Nyet](https://open.spotify.com/album/6ygcZGjr38bKFWJt2XaQam) | 4:30 | 2023-11-09 |  |
 | [Salam Tresno](https://open.spotify.com/track/1vwIQKsGlO41jnKjTGF8qp) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Salam Tresno](https://open.spotify.com/album/0eAI9lcLsSjqB8tw89hUdW) | 5:13 | 2023-12-08 |  |
 | [SAMAR](https://open.spotify.com/track/7kInuBn9J1a0tXn4hbGJRZ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [SAMAR](https://open.spotify.com/album/3VWHaPhQyKU90o1YGS65Nk) | 4:24 | 2023-12-15 |  |
+| [SAMAR \- Versi Akustik](https://open.spotify.com/track/5QBr8tq760ApYwE4I5ZxDg) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Indah Meghaa](https://open.spotify.com/artist/4XK4lbqOW01VPgvOfLp9rD) | [SAMAR \(Versi Akustik\)](https://open.spotify.com/album/54Ls8koKZtyqqC7cWw1WtD) | 4:37 | 2024-01-18 |  |
 | [Sambat](https://open.spotify.com/track/6beU0Phq5vUGvzYF4EtplM) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Sambat](https://open.spotify.com/album/51FhShmdp9AHOVwTd4rNT4) | 3:40 | 2023-02-02 | 2023-08-11 |
 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 | 2022-05-26 | 2022-08-26 |
 | [Sanes](https://open.spotify.com/track/6xbi77Vq9RALnKc59kSXIS) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sanes](https://open.spotify.com/album/0EhdH1xsrPR1YjSMCjr4Wf) | 5:01 | 2023-04-12 |  |

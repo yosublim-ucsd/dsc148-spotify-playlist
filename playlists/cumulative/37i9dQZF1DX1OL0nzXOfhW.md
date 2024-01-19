@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲！Cover: Arches
+> 持續發掘世一超新聲！Cover: PetPetShawn
 
-159 songs - 9 hr 12 min
+160 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [跌嘢唔好搵](https://open.spotify.com/track/4i1RCwJXyCM8ay5sXJTK2s) | [MC $oHo & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/1qjK50aArwff8NhitLm8KT) | 3:11 | 2022-07-28 | 2023-05-12 |
 | [距離](https://open.spotify.com/track/4jxVPx9LaVbEtJlWTUcqQ1) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [距離](https://open.spotify.com/album/2LzTqzNDP0u9Fh84oF6dE8) | 4:22 | 2022-05-26 | 2022-11-25 |
 | [遺忘了初心的我們](https://open.spotify.com/track/46Ntxwf4zWxhWHjtqWul6h) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [遺忘了初心的我們](https://open.spotify.com/album/1QLNBeaZlehK6srJjVg7VN) | 4:17 | 2023-09-15 |  |
+| [金榜題名](https://open.spotify.com/track/4F65yFSP9lxFf2LKzg3Eis) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq), [Mr\. scanner](https://open.spotify.com/artist/4x6hxzjBEIRbQ58VVZ1yYR), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM), [24Herbs](https://open.spotify.com/artist/529oXjexAyYU0ApmR7jpMM) | [金榜題名](https://open.spotify.com/album/7cZsfS5lOPux956zjAlSjA) | 8:05 | 2024-01-18 |  |
 | [長命斜 \(feat\. PetPetShawn & Polar G\)](https://open.spotify.com/track/28tAShSWb3LVHkmjIG2Jbi) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM), [Polar G](https://open.spotify.com/artist/3uALJGaW8zzDcfuzKftTYL) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:34 | 2022-12-29 | 2023-04-14 |
 | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/track/3TewUoxPgSIvXOT0IgPf1i) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [Geniuz F the FUTURE](https://open.spotify.com/artist/447RvE0QN6IQgxWbllfL2g) | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/album/084SZr4OQdAn7MH2GS3X5G) | 3:27 | 2022-05-26 | 2023-04-14 |
 

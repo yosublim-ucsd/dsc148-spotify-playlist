@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-570 songs - 21 hr 32 min
+572 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [goodnight paris](https://open.spotify.com/track/4ml3CC6HTNaGnFgiRnAiFH) | [Clocktown Stars](https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns) | [goodnight paris](https://open.spotify.com/album/1FXQ6DYZWVY6FLf0zvPDwy) | 2:51 | 2023-10-27 |  |
 | [Goodwitch](https://open.spotify.com/track/6ZlVto4etUDW4TkERVP37O) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 2](https://open.spotify.com/album/4ohPIllqmhvDQ8EKBQeFou) | 2:26 | 2022-05-20 | 2023-01-18 |
 | [gots to chill](https://open.spotify.com/track/2N0EsmVXjS2Fc3FFR2BouU) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [gots to chill](https://open.spotify.com/album/7IVMjmiejiglBlUzBugk5K) | 2:08 | 2022-11-11 |  |
+| [gradual](https://open.spotify.com/track/2BsIIaj2hJ7rw8yFWMiL0A) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [gradual](https://open.spotify.com/album/22KxorNZHmgpoS6XOBgme2) | 2:37 | 2024-01-19 |  |
 | [graffiti tape](https://open.spotify.com/track/0XArs5k4n9iHyNMwAsqpEX) | [sonolon](https://open.spotify.com/artist/1y3NpCoVmVh5gLL0uGKv5t) | [graffiti tape](https://open.spotify.com/album/0KIocgWQakNy8op2OkUz2V) | 2:13 | 2022-05-20 | 2022-07-01 |
 | [Granites](https://open.spotify.com/track/4DE0NmLlFzhVZPnvkhaHDl) | [Claude Diar](https://open.spotify.com/artist/6tGdJRFOFqO3SCsMphgYIw) | [Granites](https://open.spotify.com/album/1nfxMDHGjSK2yRFukOYSkr) | 2:07 | 2022-10-28 |  |
 | [grass](https://open.spotify.com/track/05jr4WyUZrhAjzIpL7k4e5) | [don C](https://open.spotify.com/artist/1ueK3bCiPFFvYV3v06jvYU) | [grass](https://open.spotify.com/album/5urfegX8bm3vFcaWm4959T) | 1:12 | 2023-09-04 | 2023-11-11 |
@@ -240,6 +241,7 @@
 | [Illuminate](https://open.spotify.com/track/5GdiOxC8z6J7xA9khchqDS) | [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Illuminate](https://open.spotify.com/album/5zH9YpZ4tUqIaNotnO7MLQ) | 2:44 | 2022-05-20 | 2023-09-16 |
 | [in her feelings](https://open.spotify.com/track/0ZPHgREDGiqBHEMymgrCvy) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [in her feelings](https://open.spotify.com/album/4vN1yohGz6ViUIz6iTHhun) | 1:38 | 2022-10-28 |  |
 | [In The Park](https://open.spotify.com/track/3Fin9OMyhCex6HB3ZHQRow) | [TAKARAZI](https://open.spotify.com/artist/07d4tXU9TiNIvlPLQBiA4H) | [In The Park](https://open.spotify.com/album/3sdYISfLZuUz8HWHh4UETT) | 1:39 | 2022-05-20 |  |
+| [in too deep](https://open.spotify.com/track/0KbBe4XeOkWuPSr287AHnb) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [in too deep](https://open.spotify.com/album/43yg43a1K5ssEj8EXHSLXN) | 3:11 | 2024-01-19 |  |
 | [in writing](https://open.spotify.com/track/5hoFX6v9C65g919yd99QHn) | [pemil](https://open.spotify.com/artist/3b2vVfB2bA0PXXwlbNA7hg) | [in wriring](https://open.spotify.com/album/1YPiwsGnuaAyfqM93A6Fce) | 3:04 | 2023-10-13 |  |
 | [in your head](https://open.spotify.com/track/6IiIc3hgcNOoMtjhb1fs2N) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [in your head](https://open.spotify.com/album/3ruQJYLbvnQqft6ugRw6GU) | 2:18 | 2022-05-20 | 2023-01-18 |
 | [Inertia](https://open.spotify.com/track/3nWzbQhOInPTSx6Soo4hNP) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Inertia](https://open.spotify.com/album/5gGLiaRluvAw9zMma6HbAr) | 2:43 | 2022-05-20 | 2023-01-18 |

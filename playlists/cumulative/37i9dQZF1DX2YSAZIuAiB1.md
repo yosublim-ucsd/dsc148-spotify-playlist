@@ -4,13 +4,14 @@
 
 > Good Vibes only mit Latin, Afrobeats, Hip\-Hop und mehr 🔥🔥🔥
 
-195 songs - 9 hr 37 min
+196 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-07-26 | 2023-11-11 |
 | [2003](https://open.spotify.com/track/4yNWhBYneGn8Gvr7Y3ciqf) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1), [equal](https://open.spotify.com/artist/3HkeiQiokrKJhhjZ9skb23) | [2003](https://open.spotify.com/album/62DdNibFffaelV25WBUjtT) | 2:16 | 2023-12-11 |  |
-| [3 Uhr Nachts](https://open.spotify.com/track/23N0plXKY7ggKXj1AH71Ia) | [ANDIJOLA JULI](https://open.spotify.com/artist/3qp3Rd31EDGEitYZKIRpMB) | [3 Uhr Nachts](https://open.spotify.com/album/5CDSZ8HKvO10B7iEXQ84s5) | 2:38 | 2023-12-11 |  |
+| [3 Uhr Nachts](https://open.spotify.com/track/23N0plXKY7ggKXj1AH71Ia) | [ANDIJOLA JULI](https://open.spotify.com/artist/3qp3Rd31EDGEitYZKIRpMB) | [3 Uhr Nachts](https://open.spotify.com/album/5CDSZ8HKvO10B7iEXQ84s5) | 2:38 | 2023-12-11 | 2024-01-19 |
+| [3 Uhr Nachts](https://open.spotify.com/track/56Awy0TOnD6PUHoRcqApXQ) | [ANDIJOLA JULI](https://open.spotify.com/artist/3qp3Rd31EDGEitYZKIRpMB) | [3 Uhr Nachts](https://open.spotify.com/album/5XxpVT8U1rWLKHeXZtlCqg) | 2:38 | 2024-01-17 |  |
 | [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 | 2023-10-18 | 2023-11-09 |
 | [9 bis 9](https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [9 bis 9](https://open.spotify.com/album/00MoqsGjkjG0PS4GtYkSdb) | 2:11 | 2023-07-26 | 2023-08-31 |
 | [A N X I E T Y \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2023-09-20 |  |

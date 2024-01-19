@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 【全セットリスト公開！特別インタビューも】国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>。2023年5月27日\(土\)、5月28日\(日\)に幕張メッセで二日間開催！
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,234 likes - 268 songs - 14 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,238 likes - 268 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 267 | [洗脳 \(feat\. DOGMA & 鎮座DOPENESS\)](https://open.spotify.com/track/5U3cw41HA9bABafevfgwOU) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [DOGMA](https://open.spotify.com/artist/05h7GRDnd4aXm0u6OB5VdV), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [孔雀](https://open.spotify.com/album/4A9MCW9aZ5ps7uGHhXGFPY) | 3:58 |
 | 268 | [GILA GILA](https://open.spotify.com/track/7AsWduh1mkB8uKOox5NH0X) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 4:13 |
 
-Snapshot ID: `MCw4YjdiZjVmYmEwYjUxYzFjMmNlMzMyNzc0NzkxMDkxODdlMDk0ODkz`
+Snapshot ID: `MCxjNGY0NzY2OWM3MmNjNDhhYjMyM2M5NDY2NzIzNmI2NzBkZDJmNDNm`

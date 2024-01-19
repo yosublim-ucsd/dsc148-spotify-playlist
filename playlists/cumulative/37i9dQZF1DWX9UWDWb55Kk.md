@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-444 songs - 1 day 4 hr 7 min
+445 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Be With You](https://open.spotify.com/track/23vqeZOzbnyx1xpkPV1Z2F) | [Minitel Rose](https://open.spotify.com/artist/21hUFtGFoP6EzUU2LYRY0h) | [The French Machine](https://open.spotify.com/album/4ShaJTm9WBuNfjjMXAeMVs) | 3:09 | 2022-11-24 |  |
 | [Bebo \(De Bar en Peor\)](https://open.spotify.com/track/3d7YE8dVXMRCk5wU2qzpWf) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [Bebo \(De Bar en Peor\)](https://open.spotify.com/album/3tLvMMWc8GfwQqgaE1wBls) | 2:43 | 2021-09-01 |  |
 | [Beginning \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 | 2022-11-24 |  |
-| [Best Life](https://open.spotify.com/track/1np1otMZ9768P4xFzOKytG) | [KOYOTIE](https://open.spotify.com/artist/1MBXMFPj3IwgmUkHJATWm8) | [Best Life](https://open.spotify.com/album/63HDcZ5lNZttuD9Pp7MHA5) | 2:59 | 2022-11-24 |  |
+| [Best Life](https://open.spotify.com/track/1np1otMZ9768P4xFzOKytG) | [KOYOTIE](https://open.spotify.com/artist/1MBXMFPj3IwgmUkHJATWm8) | [Best Life](https://open.spotify.com/album/63HDcZ5lNZttuD9Pp7MHA5) | 2:59 | 2022-11-24 | 2024-01-19 |
+| [Best Life](https://open.spotify.com/track/2j8JFWwOG749dYeQ1vUNhZ) | [KOYOTIE](https://open.spotify.com/artist/1MBXMFPj3IwgmUkHJATWm8) | [Best Life](https://open.spotify.com/album/66F3CguBUFSfNQejlB1T2I) | 2:59 | 2022-11-24 |  |
 | [Best Life](https://open.spotify.com/track/6FKodVQGj43UymtKhml3Tk) | [KOYOTIE](https://open.spotify.com/artist/1MBXMFPj3IwgmUkHJATWm8) | [Land of the Living](https://open.spotify.com/album/0eS3zYTyo8xGkVW3iM8fRJ) | 2:59 | 2022-11-29 |  |
 | [Big Future](https://open.spotify.com/track/28TdbFjX6047oZ5ADLTs2r) | [Obliques](https://open.spotify.com/artist/4EGAoQoOZvUSXt0uzxAGWG) | [Big Future](https://open.spotify.com/album/6SASFuxKdxTIHtkfjBV2Na) | 2:35 | 2022-04-08 |  |
 | [Bills](https://open.spotify.com/track/7rlCeTnjn0plPZkVAcctPZ) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills](https://open.spotify.com/album/6ItEjseW8RWuVTDLd1vcnp) | 3:24 | 2021-09-01 |  |

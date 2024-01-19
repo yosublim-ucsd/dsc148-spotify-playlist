@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "6 Feet Down",
+        "url": "https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/702iObycXld7AL2LQpTpUc"
+    },
+    {
+      "album": {
         "name": "95 Project (Reprise)",
         "url": "https://open.spotify.com/album/6V8BnI070YFCoWX0T8A60r"
       },
@@ -1068,7 +1090,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 153226,
       "name": "Christmas Dreaming",
       "url": "https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS"

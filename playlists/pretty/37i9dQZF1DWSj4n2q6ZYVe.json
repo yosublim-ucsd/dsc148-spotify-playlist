@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 445159,
+  "num_followers": 445506,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGMzYWRkYTVmNTNiNmIyNTllNzRlODgxZGI4ZjFjZWI2MWRhNzgy",
+  "snapshot_id": "MCxmODQ1MDk1N2Q1ZjVhMTQ5ODFkZjZmYzBhYzliNjgzM2Q4ZTg2NTdj",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -531,6 +531,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Push The Beat For This Jam (The Second Chapter)",
+        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Evacuate The Dancefloor",
         "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 199600,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Push The Beat For This Jam (The Second Chapter)",
-        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "The Logical Song",
-      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -667,38 +667,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 240173,
-      "name": "Face to Face",
-      "url": "https://open.spotify.com/track/7v9Q0dAb9t7h8gJOkcJHay"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 197124,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Network - taken from Superstar",
         "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 208933,
       "name": "Nessaja",
       "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 240173,
+      "name": "Face to Face",
+      "url": "https://open.spotify.com/track/7v9Q0dAb9t7h8gJOkcJHay"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 197124,
+      "name": "Everytime We Touch",
+      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "From Paris to Berlin",
-        "url": "https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx"
-      },
-      "artists": [
-        {
-          "name": "Infernal",
-          "url": "https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "From Paris to Berlin",
-      "url": "https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Jumping All Over The World",
         "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 231093,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "From Paris to Berlin",
+        "url": "https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx"
+      },
+      "artists": [
+        {
+          "name": "Infernal",
+          "url": "https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "From Paris to Berlin",
+      "url": "https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Voyage voyage",
-      "url": "https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Ready For The Weekend",
         "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 227880,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9"
+      },
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Voyage voyage",
+      "url": "https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Call On Me (Remixes)",
-        "url": "https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/25F37dHEAbzandtlTRIcV2"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "God Is a Girl",
         "url": "https://open.spotify.com/album/1yvLJHtq56YTPHbBRhcyd0"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 223560,
       "name": "God Is a Girl",
       "url": "https://open.spotify.com/track/5LArYFxcsMkArh2RFC5dyn"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Call On Me (Remixes)",
+        "url": "https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/25F37dHEAbzandtlTRIcV2"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1783,18 +1783,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Vicious Delicious",
-        "url": "https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART"
+        "name": "ROMBORAMA",
+        "url": "https://open.spotify.com/album/0trChN5eN92UYTUqOIMQRe"
       },
       "artists": [
         {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 440266,
-      "name": "Becoming Insane",
-      "url": "https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3"
+      "duration_ms": 203730,
+      "name": "Warp 1.9 (feat. Steve Aoki)",
+      "url": "https://open.spotify.com/track/0HIruANJzlQkYwlpvh8cn6"
     }
   ],
   "unique_name": "Dance Hits 2000s",

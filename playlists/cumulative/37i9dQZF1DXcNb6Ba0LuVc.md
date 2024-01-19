@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-479 songs - 18 hr 39 min
+480 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Whiskey Jazz](https://open.spotify.com/track/2sig8mxmjeVn3MUPn6NeAC) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Whiskey Jazz](https://open.spotify.com/album/3gU8psGILcqNzKqDUEZx0m) | 2:10 | 2021-11-11 | 2022-05-27 |
 | [Winding Heart Strings](https://open.spotify.com/track/4gEpB17YYmSOiSzqlkrMRW) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Winding Heart Strings](https://open.spotify.com/album/2axNdMLjeB0xgTxu6WAOaS) | 3:44 | 2023-10-27 |  |
 | [Wine & You](https://open.spotify.com/track/4VlopfgRJ11tEPbSTM7XoC) | [Masuyu](https://open.spotify.com/artist/6m6GTttiO1qLImlyNeXoz0) | [Wine & You](https://open.spotify.com/album/5d5zS9upUeTAFV6GghOtr4) | 2:09 | 2023-07-19 |  |
+| [winter creek](https://open.spotify.com/track/0zUhH7k0CrDhRSFiaxtF0D) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [winter creek](https://open.spotify.com/album/2qr0uFcB5ilNdYQtvsFJOQ) | 2:44 | 2024-01-19 |  |
 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 | 2021-11-11 |  |
 | [Witching Hour](https://open.spotify.com/track/17uRVL0hDUqWwbF4KYSr48) | [Tin Ghosts](https://open.spotify.com/artist/5SkZxzEJm6ScRc4G4SAkwI) | [Witching Hour](https://open.spotify.com/album/1Nz6t4KOf741GhyFIKHAeF) | 2:31 | 2021-11-11 | 2022-09-03 |
 | [wolfram wonders](https://open.spotify.com/track/2SEnMRBzVNrfraOxbFKI2Q) | [ideal form](https://open.spotify.com/artist/2YhLgIJkYQpdzQqUoLE79a) | [lightbulb](https://open.spotify.com/album/7tlUo25yvN8n0JErn7ytSw) | 1:48 | 2021-11-11 | 2023-09-22 |

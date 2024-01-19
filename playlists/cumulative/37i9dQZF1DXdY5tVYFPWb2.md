@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-758 songs - 2 day 2 hr 6 min
+759 songs - 2 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Danceless Island](https://open.spotify.com/track/72BFb5OajhZEkmzoHssXLN) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/575eZHzWuiFFuUQ4sDF4G4) | 3:45 | 2022-09-20 | 2022-09-22 |
 | [Dancing Womer](https://open.spotify.com/track/1gnwP3EsVfF9ZNB9ILG5Bq) | [MPC GIRL USAGI](https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien), [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Dancing Womer](https://open.spotify.com/album/5ZPkVkgnqXl4XOYyKe1q3w) | 4:03 | 2022-09-27 | 2022-12-01 |
 | [Darling Dear](https://open.spotify.com/track/5S2eRGQVvX8DgcZJWr6szm) | [The Lamb](https://open.spotify.com/artist/6Df2pJCe7Ud1Q7kWvf68cx) | [Darling Dear](https://open.spotify.com/album/3uq3EylPq0MO2AURJsPuyR) | 3:51 | 2022-12-13 | 2023-01-11 |
+| [Day Drip](https://open.spotify.com/track/3HTtrnobapfLCJ3qghNOyH) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Day Drip](https://open.spotify.com/album/0r5TiVxBor3inpg5yxL6z4) | 2:53 | 2024-01-18 |  |
 | [Day In Day Out](https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Day In Day Out](https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5) | 2:58 | 2022-06-14 | 2022-06-29 |
 | [Deep Inside](https://open.spotify.com/track/50i1WB0sZuvrAwr7pTW3MB) | [Nelko](https://open.spotify.com/artist/3Glq3QEL1BjWbCjIokyytB) | [Deep Inside](https://open.spotify.com/album/7BjRZ6At37jn1wLuAxlhn6) | 4:22 | 2023-03-28 | 2023-04-05 |
 | [DISCONNECT](https://open.spotify.com/track/5xm3g16LLPV5kKtMa6u2kM) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [DISCONNECT](https://open.spotify.com/album/4IMSWtZdzt4PoUoi3Y4avI) | 2:49 | 2023-10-03 | 2023-11-11 |
@@ -125,7 +126,7 @@
 | [Down Town](https://open.spotify.com/track/1t1yQipJaCJccbPlmUWjjW) | [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW) | [INTERMISSION](https://open.spotify.com/album/6JseI9dzTfHwtYFC9FQ0AH) | 3:39 | 2023-05-02 | 2023-05-10 |
 | [DOWN TOWN](https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [DOWN TOWN](https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i) | 4:50 | 2023-03-14 | 2023-06-30 |
 | [Draw Me \(feat\. VivaOla\)](https://open.spotify.com/track/7kuuBMGV8Y4BLmjF5LLAV1) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Draw Me \(feat\. VivaOla\)](https://open.spotify.com/album/1D5JPBryEXZFilbWtSbnS8) | 2:33 | 2022-07-14 | 2022-07-23 |
-| [Dreamland](https://open.spotify.com/track/7hdObItNdWFJ4WgrhajbKj) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Dreamland](https://open.spotify.com/album/5DYiTzrmHuucKmcRnyj6nn) | 3:12 | 2023-12-19 |  |
+| [Dreamland](https://open.spotify.com/track/7hdObItNdWFJ4WgrhajbKj) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Dreamland](https://open.spotify.com/album/5DYiTzrmHuucKmcRnyj6nn) | 3:12 | 2023-12-19 | 2024-01-19 |
 | [Dress Down](https://open.spotify.com/track/0RZahqBJeNTVaUnV4CjDjW) | [minan](https://open.spotify.com/artist/7JYvme1EZU4RbxTjqVGkwh) | [ttyl](https://open.spotify.com/album/4CUtS7t6IKCjzoOkgRMtxb) | 4:39 | 2022-11-08 | 2022-11-16 |
 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 | 2023-04-27 |  |
 | [DRIP DRY](https://open.spotify.com/track/6NWT3AGvf6lBP9rH1W1d7o) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [HANGOUT](https://open.spotify.com/album/0dF4y8MHNsCyU6vJarDKCf) | 3:38 | 2022-05-24 | 2022-07-28 |
@@ -527,7 +528,7 @@
 | [your room](https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/3JijWekYCz4gBkWB1jFeX6) | 3:35 | 2022-10-25 | 2023-04-30 |
 | [your room](https://open.spotify.com/track/1SQyaGfArVFSknUxwXzn80) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/7khBUxZhpj2K9019INmwGe) | 3:35 | 2022-10-25 | 2022-10-27 |
 | [Your Song On The Radio](https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Your Song On The Radio](https://open.spotify.com/album/03Epz45tqENNY3BS4uP1V3) | 3:01 | 2023-04-20 | 2023-05-16 |
-| [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-07-07 |  |
+| [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-07-07 | 2024-01-19 |
 | [Yume de Aetara](https://open.spotify.com/track/3NWzlQGyXmsVeGkY7OHFDy) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [Yume de Aetara](https://open.spotify.com/album/3FMoztMSsW5rYtyWEPq82q) | 3:31 | 2023-05-16 | 2023-05-31 |
 | [YUNAGI TSUSHIN \- 2023 Remix](https://open.spotify.com/track/65BCJwQDPJad1ujeB6o8cz) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [YUNAGI TSUSHIN \(2023 Remix\)](https://open.spotify.com/album/4WJNklO9X7jm0vZD8HxtNg) | 4:39 | 2023-09-19 | 2023-09-28 |
 | [Zurukunai?](https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Zurukunai?](https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA) | 3:28 | 2022-08-02 |  |
@@ -614,7 +615,7 @@
 | [バックミラー](https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [バックミラー](https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc) | 3:29 | 2023-11-10 |  |
 | [バッド・ラヴ](https://open.spotify.com/track/3snRYYwhtCnB73oyAB9PDM) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [バッド・ラヴ](https://open.spotify.com/album/0DjAPzvefBWotibQ5nWABf) | 3:41 | 2023-02-28 | 2023-03-23 |
 | [パラドックス](https://open.spotify.com/track/1hgVGz9OOckTZSWLBECAHx) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/53VEqiQkkbIbRXr6JfLGW9) | 3:24 | 2022-05-31 | 2022-07-29 |
-| [ファジーサマー](https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [ファジーサマー](https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd) | 2:56 | 2022-07-12 | 2024-01-14 |
+| [ファジーサマー](https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [ファジーサマー](https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd) | 2:56 | 2022-07-12 |  |
 | [ファミリイ・コンテンツ](https://open.spotify.com/track/67V5axrqkSQF6azx2GNAIj) | [ayU tokiO](https://open.spotify.com/artist/3hu4NDbJsdOALVe4K61lHE) | [ファミリイ・コンテンツ](https://open.spotify.com/album/7DWzRqtaOkiryJLcfVBo2m) | 3:17 | 2022-12-27 | 2023-01-27 |
 | [フライディ・チャイナタウン \- English Version](https://open.spotify.com/track/72xlrzaRJzNqI8OBV7HkDe) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [フライディ・チャイナタウン \(English Version\)](https://open.spotify.com/album/5wvR2xuWc4pzDcjH9MXGFF) | 3:31 | 2022-10-25 | 2023-11-11 |
 | [フライディ・チャイナタウン feat\. 脇田もなり](https://open.spotify.com/track/2jHerS92LBYqbDKN4gavtT) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [脇田もなり](https://open.spotify.com/artist/4W2lk9BJKRloR8dk16Y5PX) | [フライディ・チャイナタウン feat\. 脇田もなり](https://open.spotify.com/album/2OZNZQRpyITfcN0mKLkhik) | 3:29 | 2023-05-09 | 2023-06-18 |

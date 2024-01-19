@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-463 songs - 18 hr 1 min
+467 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,9 @@
 | [Gentle](https://open.spotify.com/track/6SCNLaxZas2Hqalh4zeAGr) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Gentle](https://open.spotify.com/album/5lx736CiAjCBRgrqgqF5dt) | 3:30 | 2022-09-16 |  |
 | [Gifts](https://open.spotify.com/track/5A4HO3cB7QFH1pJio7eJPN) | [zakori](https://open.spotify.com/artist/1yw7x5O6btobGfIvuNiXms) | [Lofi Lullaby](https://open.spotify.com/album/6KOidWLkTlLSUQXI0hu9iq) | 2:07 | 2023-03-20 | 2023-09-22 |
 | [Giveaway](https://open.spotify.com/track/1MQ29OwKSvVJ5zyCYvHkLX) | [Matt Louda](https://open.spotify.com/artist/6xEvlu9Brgxw4oW1u6Vwxw) | [Giveaway](https://open.spotify.com/album/3TRZ9vnRxP3TIeqOUJXjc3) | 2:44 | 2022-09-09 | 2023-08-30 |
+| [Gloom](https://open.spotify.com/track/2JRn07cPxiOqz1AQqeJ3U5) | [Mumblo](https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z) | [Gloom](https://open.spotify.com/album/2ZBpfVQ6ML1drkMltgRQTN) | 2:32 | 2024-01-19 |  |
 | [Golden Light](https://open.spotify.com/track/5Qr0Pq6LUTtfkza2BwfiTN) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Golden Light](https://open.spotify.com/album/4CGLmkjxqTobXHVSiBjmBw) | 2:17 | 2022-09-09 | 2023-08-30 |
+| [gradual](https://open.spotify.com/track/2BsIIaj2hJ7rw8yFWMiL0A) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [gradual](https://open.spotify.com/album/22KxorNZHmgpoS6XOBgme2) | 2:37 | 2024-01-19 |  |
 | [green velvet](https://open.spotify.com/track/6v5wgMNhYbZk92SPY88lNm) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [green velvet](https://open.spotify.com/album/2B893F73aIVF7MJ36y9evq) | 2:11 | 2023-11-24 |  |
 | [Grounding](https://open.spotify.com/track/5wMvw6fFXoeINA8v4Ru13n) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Grounding](https://open.spotify.com/album/2KqN3WUFFfQmRhRtVacP4N) | 2:42 | 2022-09-09 |  |
 | [Growth](https://open.spotify.com/track/0D7dE0DaV9oBljFvJ0vL2T) | [no one's perfect](https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Growth](https://open.spotify.com/album/6UPjbdHGub2IPbaSNjg54J) | 2:17 | 2022-09-09 | 2023-09-22 |
@@ -284,6 +286,7 @@
 | [Oasis](https://open.spotify.com/track/2hqtUQ5bKtADF9uxPvfknx) | [Ted Mandy](https://open.spotify.com/artist/6zuQeHBicF8rBO33EAf5TI) | [Oasis](https://open.spotify.com/album/2vZEcK4ZjC8O7qe1Rw38Zn) | 2:05 | 2022-11-18 | 2023-01-20 |
 | [Old Sanctuary](https://open.spotify.com/track/34fGFqOqWfxIdvh0P58A8Z) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Old Sanctuary](https://open.spotify.com/album/24JvSiX01UlotwrYpZQVVQ) | 2:34 | 2023-04-20 | 2023-08-30 |
 | [On The Flow](https://open.spotify.com/track/288ILdvgIiqRQ0DqSAIvJd) | [Qommodity](https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P) | [On The Flow \- Ambience](https://open.spotify.com/album/2NHwXT0HUu29z1gTaNYurA) | 2:35 | 2022-09-09 |  |
+| [on the horizon](https://open.spotify.com/track/6zLbYaT9kw4uChKU9q1seG) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [on the horizon](https://open.spotify.com/album/5prWcKTBqdEkY1kSmRDe41) | 3:31 | 2024-01-19 |  |
 | [Once in a while](https://open.spotify.com/track/0B3jBS3ZGi3q5367fD9NiO) | [VAL](https://open.spotify.com/artist/2kd96OmUnYMBGn6dEuV9iP), [Zuriel](https://open.spotify.com/artist/42QZPdKlw6tVWTR080CA6o) | [Once in a while](https://open.spotify.com/album/72uW2NVC8rLqPGcHeMW2me) | 1:43 | 2022-09-09 | 2022-12-09 |
 | [One Last Time](https://open.spotify.com/track/0FRgXeGLC5k0kOqEpnBUWn) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [One Last Time](https://open.spotify.com/album/0LRN7uZKp3N1QRhIwTnl5C) | 2:34 | 2022-12-09 |  |
 | [Orchard Swing](https://open.spotify.com/track/70UrlQAcz7mXvcwI2HoQ9Z) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [Orchard Swing](https://open.spotify.com/album/1BxFSpxIcTFYqaEdYthEc0) | 2:23 | 2023-10-13 |  |
@@ -406,6 +409,7 @@
 | [Tape Feed](https://open.spotify.com/track/0vHiBx1Nt1N4G9iVBTbQHP) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Tape Feed](https://open.spotify.com/album/41J77JADlyDv3l5SD5A77L) | 2:14 | 2022-09-09 | 2022-12-09 |
 | [Tender Solitude](https://open.spotify.com/track/0NfSBcYslavuBvzcCgSMaD) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Tender Solitude](https://open.spotify.com/album/45yHNWdf4HC4zP5WmCQOw1) | 2:16 | 2022-11-11 | 2022-11-19 |
 | [Tender Touch](https://open.spotify.com/track/76rMrTkMQSvI9YJf4vo3U0) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Tender Touch](https://open.spotify.com/album/3CNmAfSi6YouoZKvPMkFY3) | 2:57 | 2023-04-11 | 2023-11-24 |
+| [Tension In The Stars](https://open.spotify.com/track/02v6hr1iytOcwlE4QiT0oN) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Tension In The Stars](https://open.spotify.com/album/68JW59XB1tKlBYetid14Ns) | 2:08 | 2024-01-19 |  |
 | [The crooner](https://open.spotify.com/track/1X9FCLkVY6S0a9s5NLbvK0) | [Jazzamass](https://open.spotify.com/artist/3gMOdlsYdkbCobRA1i8Bwb) | [The crooner](https://open.spotify.com/album/7B2Ig08MbTColCgxXC9F48) | 2:00 | 2023-08-29 | 2023-09-29 |
 | [the day before yesterday](https://open.spotify.com/track/34sygkJSBdYrLfe8GWYDFm) | [Fool Parsley](https://open.spotify.com/artist/53YSV4G2czMnVwx5s6bmIZ) | [the day before yesterday](https://open.spotify.com/album/1biIfLil6eY0B7qvo6hYUD) | 1:52 | 2022-12-09 |  |
 | [The Great Creature](https://open.spotify.com/track/2Y2CCdd30BKUiycTa9b1JE) | [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH), [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh) | [The Great Creature](https://open.spotify.com/album/0QyKADRAgI3W1DxGpcu00d) | 2:35 | 2022-12-02 |  |

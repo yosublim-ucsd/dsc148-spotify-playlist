@@ -1,12 +1,12 @@
 {
   "description": "El cancionero que retrata las batalles y personajes que dejaron huella en M\u00e9xico.",
-  "num_followers": 21472,
+  "num_followers": 21485,
   "original_name": "Corridos de la Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTllNDVhODU4NjQzMzE4YzFkM2UwZWJiZDA1ZjQ3NDJlOWU2N2Rj",
+  "snapshot_id": "MCw1NzBiNmY5NDIwNzgxMjUxMTg2YjM1MjZhZDFhZWIyMjBkMWE0ODgy",
   "tracks": [
     {
       "added_at": "2022-08-02 23:07:07",
@@ -63,22 +63,6 @@
       "duration_ms": 231550,
       "name": "La Venganza de Pancho Villa",
       "url": "https://open.spotify.com/track/67GbchXJhrzZbWfT1m0NjI"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "19 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/5LMMjN3k96FiaApsKfDWie"
-      },
-      "artists": [
-        {
-          "name": "Luis Perez Meza",
-          "url": "https://open.spotify.com/artist/7ma3GVmh9WTTRbTIy5JwVu"
-        }
-      ],
-      "duration_ms": 166125,
-      "name": "El Barzon",
-      "url": "https://open.spotify.com/track/7i1XfrUlcECvLngS2TOrXt"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -167,6 +151,22 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
+        "name": "Corridos De La Revolucion",
+        "url": "https://open.spotify.com/album/3ZhQxx4Ls2u4XSci0KgHGH"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188244,
+      "name": "Corrido Del General Zapata",
+      "url": "https://open.spotify.com/track/7mlQ7oImprbdBJrk5NP6nL"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
         "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
         "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
       },
@@ -179,6 +179,22 @@
       "duration_ms": 165066,
       "name": "Las Coronelas",
       "url": "https://open.spotify.com/track/0Mvh3mXeGp4rztdrLUo2wT"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Cantares de la Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/7o6LjTdRyzrvnfrTEe8nPp"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Zaizar",
+          "url": "https://open.spotify.com/artist/5KbyfDCBeFU2FrZy5yVvyo"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Corrido a Pancho Villa",
+      "url": "https://open.spotify.com/track/1kjZZQvKnxNQpsqcJiB0g7"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -231,34 +247,18 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Corridos De La Revolucion",
-        "url": "https://open.spotify.com/album/3ZhQxx4Ls2u4XSci0KgHGH"
+        "name": "Corridos de Caballos",
+        "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
         }
       ],
-      "duration_ms": 188244,
-      "name": "Corrido Del General Zapata",
-      "url": "https://open.spotify.com/track/7mlQ7oImprbdBJrk5NP6nL"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "Corridos Y Canciones De La Revolucion Mexicana",
-        "url": "https://open.spotify.com/album/0lgsoBQJGx6ocygLdh2zPq"
-      },
-      "artists": [
-        {
-          "name": "Amparo Ochoa",
-          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Corrido De Pancho Villa",
-      "url": "https://open.spotify.com/track/20CxXb1t8gfpUtvkUdonFK"
+      "duration_ms": 174419,
+      "name": "El Siete Leguas",
+      "url": "https://open.spotify.com/track/0ZGnuzgrk0Z5JAcOwC6Oi4"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -279,50 +279,18 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Cantares de la Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/7o6LjTdRyzrvnfrTEe8nPp"
+        "name": "Corridos Y Canciones De La Revolucion Mexicana",
+        "url": "https://open.spotify.com/album/0lgsoBQJGx6ocygLdh2zPq"
       },
       "artists": [
         {
-          "name": "Hermanos Zaizar",
-          "url": "https://open.spotify.com/artist/5KbyfDCBeFU2FrZy5yVvyo"
+          "name": "Amparo Ochoa",
+          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Corrido a Pancho Villa",
-      "url": "https://open.spotify.com/track/1kjZZQvKnxNQpsqcJiB0g7"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Popular Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/4hwG49Y5uFlnoIrIAePe9Z"
-        }
-      ],
-      "duration_ms": 165880,
-      "name": "El Abandonado",
-      "url": "https://open.spotify.com/track/4EDKAMs8sg9fk93cyiV2jL"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "Corridos de Caballos",
-        "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 174419,
-      "name": "El Siete Leguas",
-      "url": "https://open.spotify.com/track/0ZGnuzgrk0Z5JAcOwC6Oi4"
+      "duration_ms": 141066,
+      "name": "Corrido De Pancho Villa",
+      "url": "https://open.spotify.com/track/20CxXb1t8gfpUtvkUdonFK"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -363,6 +331,22 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
+        "name": "Cantares de la Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/7o6LjTdRyzrvnfrTEe8nPp"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Zaizar",
+          "url": "https://open.spotify.com/artist/5KbyfDCBeFU2FrZy5yVvyo"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "La rielera",
+      "url": "https://open.spotify.com/track/1MeLJhkiQyKwgT3QyRoBWV"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
         "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
         "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
       },
@@ -375,6 +359,38 @@
       "duration_ms": 176000,
       "name": "Toma de Torre\u00f3n",
       "url": "https://open.spotify.com/track/1JjnL63tZZmH2u01N2V1ni"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Popular Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/4hwG49Y5uFlnoIrIAePe9Z"
+        }
+      ],
+      "duration_ms": 165880,
+      "name": "El Abandonado",
+      "url": "https://open.spotify.com/track/4EDKAMs8sg9fk93cyiV2jL"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Mexicanisimo",
+        "url": "https://open.spotify.com/album/6Z0P2h7puJvbOXD8WMUbY0"
+      },
+      "artists": [
+        {
+          "name": "Ignacio L\u00f3pez Tarso",
+          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
+        }
+      ],
+      "duration_ms": 600773,
+      "name": "Muerte de Emiliano Zapata - Remasterizado",
+      "url": "https://open.spotify.com/track/3vYfYC3WG1CeRnQT70fMOX"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -395,34 +411,18 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Cantares de la Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/7o6LjTdRyzrvnfrTEe8nPp"
+        "name": "Corridos De La Revolucion",
+        "url": "https://open.spotify.com/album/3ZhQxx4Ls2u4XSci0KgHGH"
       },
       "artists": [
         {
-          "name": "Hermanos Zaizar",
-          "url": "https://open.spotify.com/artist/5KbyfDCBeFU2FrZy5yVvyo"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 187306,
-      "name": "La rielera",
-      "url": "https://open.spotify.com/track/1MeLJhkiQyKwgT3QyRoBWV"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "Mexicanisimo",
-        "url": "https://open.spotify.com/album/6Z0P2h7puJvbOXD8WMUbY0"
-      },
-      "artists": [
-        {
-          "name": "Ignacio L\u00f3pez Tarso",
-          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
-        }
-      ],
-      "duration_ms": 600773,
-      "name": "Muerte de Emiliano Zapata - Remasterizado",
-      "url": "https://open.spotify.com/track/3vYfYC3WG1CeRnQT70fMOX"
+      "duration_ms": 146192,
+      "name": "Persecuci\u00f3n De Villa",
+      "url": "https://open.spotify.com/track/1CJm4K2AwbnIxLC5yvD1x5"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
+        "name": "Corridos Y Canciones De La Revolucion Mexicana",
+        "url": "https://open.spotify.com/album/0lgsoBQJGx6ocygLdh2zPq"
+      },
+      "artists": [
+        {
+          "name": "Amparo Ochoa",
+          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "El Soldado",
+      "url": "https://open.spotify.com/track/22nLcoFZb8IQ7wTIBA3y2R"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
         "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
         "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
       },
@@ -504,25 +520,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 146192,
-      "name": "Persecuci\u00f3n De Villa",
-      "url": "https://open.spotify.com/track/1CJm4K2AwbnIxLC5yvD1x5"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "Mexicanisimo",
-        "url": "https://open.spotify.com/album/6Z0P2h7puJvbOXD8WMUbY0"
-      },
-      "artists": [
-        {
-          "name": "Ignacio L\u00f3pez Tarso",
-          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
-        }
-      ],
-      "duration_ms": 304506,
-      "name": "Valente Quintero - Remasterizado",
-      "url": "https://open.spotify.com/track/3VRsthK5Ddh35sWJLBRTbf"
+      "duration_ms": 181730,
+      "name": "Corrido De Chihuahua",
+      "url": "https://open.spotify.com/track/2EWQwZp3PvBKFeX4uNmqjQ"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
+        "name": "Mexicanisimo",
+        "url": "https://open.spotify.com/album/6Z0P2h7puJvbOXD8WMUbY0"
+      },
+      "artists": [
+        {
+          "name": "Ignacio L\u00f3pez Tarso",
+          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
+        }
+      ],
+      "duration_ms": 304506,
+      "name": "Valente Quintero - Remasterizado",
+      "url": "https://open.spotify.com/track/3VRsthK5Ddh35sWJLBRTbf"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
         "name": "Corridos Y Canciones De La Revolucion Mexicana",
         "url": "https://open.spotify.com/album/0lgsoBQJGx6ocygLdh2zPq"
       },
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
         }
       ],
-      "duration_ms": 227200,
-      "name": "El Soldado",
-      "url": "https://open.spotify.com/track/22nLcoFZb8IQ7wTIBA3y2R"
+      "duration_ms": 247360,
+      "name": "Heraclio Bernal",
+      "url": "https://open.spotify.com/track/6DVzTR29873M8sS24PMASu"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -607,38 +623,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ignacio L\u00f3pez Tarso",
-        "url": "https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp"
-      },
-      "artists": [
-        {
-          "name": "Ignacio L\u00f3pez Tarso",
-          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Despierten Ya Mexicanos",
-      "url": "https://open.spotify.com/track/6IsaGX5wUWwPP9w7VlNmTQ"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "Corridos De La Revolucion",
-        "url": "https://open.spotify.com/album/3ZhQxx4Ls2u4XSci0KgHGH"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 181730,
-      "name": "Corrido De Chihuahua",
-      "url": "https://open.spotify.com/track/2EWQwZp3PvBKFeX4uNmqjQ"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
         "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
       },
@@ -671,18 +655,34 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Corridos Y Canciones De La Revolucion Mexicana",
-        "url": "https://open.spotify.com/album/0lgsoBQJGx6ocygLdh2zPq"
+        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
       },
       "artists": [
         {
-          "name": "Amparo Ochoa",
-          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 247360,
-      "name": "Heraclio Bernal",
-      "url": "https://open.spotify.com/track/6DVzTR29873M8sS24PMASu"
+      "duration_ms": 160746,
+      "name": "Juana Gallo",
+      "url": "https://open.spotify.com/track/0utmh8J6vDBYUIAxrohqg2"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ignacio L\u00f3pez Tarso",
+        "url": "https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp"
+      },
+      "artists": [
+        {
+          "name": "Ignacio L\u00f3pez Tarso",
+          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Despierten Ya Mexicanos",
+      "url": "https://open.spotify.com/track/6IsaGX5wUWwPP9w7VlNmTQ"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -699,38 +699,6 @@
       "duration_ms": 203182,
       "name": "El Grano De Oro",
       "url": "https://open.spotify.com/track/4j3fJ8xlaEduaMwGcWRWrB"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ignacio L\u00f3pez Tarso",
-        "url": "https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp"
-      },
-      "artists": [
-        {
-          "name": "Ignacio L\u00f3pez Tarso",
-          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
-        }
-      ],
-      "duration_ms": 52360,
-      "name": "Yo Soy el Corrido",
-      "url": "https://open.spotify.com/track/72pO5ynabIQgdvhLHDX1HS"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 160746,
-      "name": "Juana Gallo",
-      "url": "https://open.spotify.com/track/0utmh8J6vDBYUIAxrohqg2"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -847,6 +815,22 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ignacio L\u00f3pez Tarso",
+        "url": "https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp"
+      },
+      "artists": [
+        {
+          "name": "Ignacio L\u00f3pez Tarso",
+          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
+        }
+      ],
+      "duration_ms": 52360,
+      "name": "Yo Soy el Corrido",
+      "url": "https://open.spotify.com/track/72pO5ynabIQgdvhLHDX1HS"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
         "name": "El Dicharachero",
         "url": "https://open.spotify.com/album/2zz9NbDpc6NE8E4jkF1PuI"
       },
@@ -863,22 +847,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
-      },
-      "artists": [
-        {
-          "name": "Dueto Los Pajareros",
-          "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
-        }
-      ],
-      "duration_ms": 231946,
-      "name": "Una Noche Serena y Oscura",
-      "url": "https://open.spotify.com/track/06YHIY2OOd1IFlnk5SApty"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Corridos Revolucionarios",
         "url": "https://open.spotify.com/album/3S0CeB9t9ddrbCLbRQHSGn"
       },
@@ -891,6 +859,22 @@
       "duration_ms": 210000,
       "name": "Tumba Abandonada",
       "url": "https://open.spotify.com/track/4JbfyqL4Ogt0gU4jQrxS6l"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
+      },
+      "artists": [
+        {
+          "name": "Dueto Los Pajareros",
+          "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
+        }
+      ],
+      "duration_ms": 231946,
+      "name": "Una Noche Serena y Oscura",
+      "url": "https://open.spotify.com/track/06YHIY2OOd1IFlnk5SApty"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -943,6 +927,38 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
+        "name": "Canciones de la Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5AIynt1Sq2vs6tw8Y21jYb"
+      },
+      "artists": [
+        {
+          "name": "Voces del Pueblo",
+          "url": "https://open.spotify.com/artist/2QY4NmI7vuthYSPxZHHfC8"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "El Mayor de los Dorados",
+      "url": "https://open.spotify.com/track/6NJVsy7jJUcSuzdEIWwP64"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Sus Mas Grandes Exitos",
+        "url": "https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS"
+      },
+      "artists": [
+        {
+          "name": "Luis P\u00e9rez Meza",
+          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "El Barzon",
+      "url": "https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
         "name": "Canciones de la Revoluci\u00f3n Mexicana",
         "url": "https://open.spotify.com/album/1MB9BxG32VA63pJooqsIFh"
       },
@@ -964,29 +980,13 @@
       },
       "artists": [
         {
-          "name": "Dueto Los Pajareros",
-          "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
+          "name": "Ixia Herrera y Mariachi",
+          "url": "https://open.spotify.com/artist/4iopiSuPqcy8HRGRa5blo6"
         }
       ],
-      "duration_ms": 147906,
-      "name": "El Tocayito",
-      "url": "https://open.spotify.com/track/4CF3dfvOiKYedA1jGcXqX7"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/5mdCvRUqo8v54XVIKDEe9A"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Corrido de la Revolucion",
-      "url": "https://open.spotify.com/track/6vXPM6psKjmN5LhIkWpvTD"
+      "duration_ms": 201320,
+      "name": "Albur de Amor",
+      "url": "https://open.spotify.com/track/4Eum7QBqd2feuuMu6AZapg"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1007,18 +1007,34 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Canciones de la Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5AIynt1Sq2vs6tw8Y21jYb"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/5mdCvRUqo8v54XVIKDEe9A"
       },
       "artists": [
         {
-          "name": "Voces del Pueblo",
-          "url": "https://open.spotify.com/artist/2QY4NmI7vuthYSPxZHHfC8"
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 209733,
-      "name": "El Mayor de los Dorados",
-      "url": "https://open.spotify.com/track/6NJVsy7jJUcSuzdEIWwP64"
+      "duration_ms": 189840,
+      "name": "Corrido de la Revolucion",
+      "url": "https://open.spotify.com/track/6vXPM6psKjmN5LhIkWpvTD"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
+      },
+      "artists": [
+        {
+          "name": "Dueto Los Pajareros",
+          "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "El Tocayito",
+      "url": "https://open.spotify.com/track/4CF3dfvOiKYedA1jGcXqX7"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1039,38 +1055,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Duo Gala y Su Mariachi: Grandes Exitos",
-        "url": "https://open.spotify.com/album/22jlLQmIuekf77WAoAwj30"
-      },
-      "artists": [
-        {
-          "name": "Duo Gala y su Mariachi",
-          "url": "https://open.spotify.com/artist/0lAzxrZ0KdomK0kYT1aENj"
-        }
-      ],
-      "duration_ms": 233932,
-      "name": "El Preso N\u00ba9",
-      "url": "https://open.spotify.com/track/4OAWewFxtk6HpQ4xs1DaBu"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
-      },
-      "artists": [
-        {
-          "name": "Ixia Herrera y Mariachi",
-          "url": "https://open.spotify.com/artist/4iopiSuPqcy8HRGRa5blo6"
-        }
-      ],
-      "duration_ms": 201320,
-      "name": "Albur de Amor",
-      "url": "https://open.spotify.com/track/4Eum7QBqd2feuuMu6AZapg"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Los Corridos de la Revolucion",
         "url": "https://open.spotify.com/album/3MH3L1ihhbIbseblDpqIaP"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 173897,
       "name": "Benjamin Argumedo",
       "url": "https://open.spotify.com/track/4zg05LaN2NYsabryLrDgql"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Duo Gala y Su Mariachi: Grandes Exitos",
+        "url": "https://open.spotify.com/album/22jlLQmIuekf77WAoAwj30"
+      },
+      "artists": [
+        {
+          "name": "Duo Gala y su Mariachi",
+          "url": "https://open.spotify.com/artist/0lAzxrZ0KdomK0kYT1aENj"
+        }
+      ],
+      "duration_ms": 233932,
+      "name": "El Preso N\u00ba9",
+      "url": "https://open.spotify.com/track/4OAWewFxtk6HpQ4xs1DaBu"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
-      },
-      "artists": [
-        {
-          "name": "Dueto Los Pajareros",
-          "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
-        }
-      ],
-      "duration_ms": 152773,
-      "name": "La C\u00e1psula",
-      "url": "https://open.spotify.com/track/1eGaj46iUZ5xJdH9kMqg6U"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Corridos Revolucionarios",
         "url": "https://open.spotify.com/album/3uKYAQXapAdIMkXXw79wZs"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 284213,
       "name": "Descansa General",
       "url": "https://open.spotify.com/track/5W1FrhzhPxwErCy7b7lhiY"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
+      },
+      "artists": [
+        {
+          "name": "Dueto Los Pajareros",
+          "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
+        }
+      ],
+      "duration_ms": 152773,
+      "name": "La C\u00e1psula",
+      "url": "https://open.spotify.com/track/1eGaj46iUZ5xJdH9kMqg6U"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ignacio L\u00f3pez Tarso",
-        "url": "https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp"
-      },
-      "artists": [
-        {
-          "name": "Ignacio L\u00f3pez Tarso",
-          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
-        }
-      ],
-      "duration_ms": 430440,
-      "name": "Valent\u00edn Mancera",
-      "url": "https://open.spotify.com/track/6C5XfWjWUH8oY5ZxICJT8G"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "16 Corridos De La Revolucion Mexicana",
         "url": "https://open.spotify.com/album/31EVfcK2KQq4ZmycwCAwml"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 277518,
       "name": "La Tumba De Villa",
       "url": "https://open.spotify.com/track/3GftrOUYyPGazocHENZUiE"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ignacio L\u00f3pez Tarso",
+        "url": "https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp"
+      },
+      "artists": [
+        {
+          "name": "Ignacio L\u00f3pez Tarso",
+          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
+        }
+      ],
+      "duration_ms": 430440,
+      "name": "Valent\u00edn Mancera",
+      "url": "https://open.spotify.com/track/6C5XfWjWUH8oY5ZxICJT8G"
     },
     {
       "added_at": "2022-08-02 23:07:07",

@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 542189,
+  "2024-01-19": 542203,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Norway.",
   "name": "Top 50 - Norway",
@@ -2051,6 +2051,24 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
+    },
+    {
+      "album": {
+        "name": "BankRoll",
+        "url": "https://open.spotify.com/album/7H2VxY7T2qih7wlAIqCT5N"
+      },
+      "artists": [
+        {
+          "name": "LP Lproducer",
+          "url": "https://open.spotify.com/artist/07O3fpzRxfCPWIaFVIjSN1"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182595,
+      "name": "BankRoll",
+      "url": "https://open.spotify.com/track/1zC0AcFPth3Kskt3hqW07W"
     },
     {
       "album": {
@@ -5489,7 +5507,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 158101,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/4DXxwYUmOfpVk0RU8oZw1M"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,525 songs - 3 day 6 hr 20 min
+1,526 songs - 3 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 |  |
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2022-05-22 | 2022-05-28 |
 | [dddd](https://open.spotify.com/track/5Ci4cvMBSaCbrn5N531Ubz) | [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Hample](https://open.spotify.com/album/4EVJNFb0HA1qRH9SBqvZX1) | 2:55 | 2022-02-04 | 2022-05-23 |
+| [Death note](https://open.spotify.com/track/7dgt6RI3o5QCB7xuXMVMxS) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Death note](https://open.spotify.com/album/16WmqXFFozCJCzANtKYWQj) | 2:42 | 2024-01-18 |  |
 | [Deck The Hall](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 | 2022-12-18 | 2023-12-27 |
 | [Deja Vu](https://open.spotify.com/track/3L1gvedBIsYak42Plm5vOv) | [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt) | [Guten Tag](https://open.spotify.com/album/5H44pdFOL98OX9IMDJiW3U) | 3:05 | 2023-04-15 | 2023-04-18 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-06-04 |
@@ -932,7 +933,7 @@
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-10-28 | 2023-11-01 |
 | [noWy baTmAN](https://open.spotify.com/track/0YLPs2DX0TUhLZBlWtV6oQ) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [noWy baTmAN](https://open.spotify.com/album/5IjxyKPttlngllJPFmfSeE) | 2:49 | 2023-11-01 | 2023-12-02 |
 | [Numer o spodenkach krótkich](https://open.spotify.com/track/2lCq8c3uKMxbX6GwUNVXij) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [Numer o spodenkach krótkich](https://open.spotify.com/album/1xVdmtInnRptFSb2lcKtA1) | 2:37 | 2022-05-28 | 2022-05-30 |
-| [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 | 2024-01-13 |  |
+| [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 | 2024-01-13 | 2024-01-19 |
 | [NÓŻ](https://open.spotify.com/track/08rZCN2J2ELhooLqm9wB6i) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy) | [NÓŻ](https://open.spotify.com/album/5WxKqpmvTX0NDV3Xb35xPr) | 2:33 | 2023-07-30 | 2023-10-16 |
 | [nóż motylkowy](https://open.spotify.com/track/2xCSrx8a1gZllp0jSFzsP2) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [nóż motylkowy](https://open.spotify.com/album/2rAT9XqHZFhEWgLfQeN50j) | 2:54 | 2023-07-05 | 2023-07-30 |
 | [O czym śnisz?](https://open.spotify.com/track/3DT74w83RPPACZ2TvqX5PY) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Lata Dwudzieste](https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj) | 3:25 | 2022-10-22 | 2022-12-02 |

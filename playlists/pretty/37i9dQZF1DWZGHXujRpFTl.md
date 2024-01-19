@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 
 > torturing ourselves by watching them over and over this halloween season
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,439 likes - 40 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,483 likes - 40 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 | 18 | [Pearl Main Titles](https://open.spotify.com/track/3AwaBsoKStGB3OFv2Us2mY) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Timothy Williams](https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee) | [Pearl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eRc9XoL4j0giJHpdRHSRJ) | 2:22 |
 | 19 | [who are you?](https://open.spotify.com/track/3mMiJVjcJueitzoGzS51NR) | [Takara](https://open.spotify.com/artist/0s4pACwkFS6Zo2zKs0YpYx) | [kinda messy](https://open.spotify.com/album/0Y2HBUOsYBRWYOLY38Luiv) | 3:01 |
 | 20 | [What Went We](https://open.spotify.com/track/0NDJRRnv7K7uQXC0QV5sHI) | [Mark Korven](https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8) | [The Witch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2dyltpFsOAe35xQ2iOZ7a1) | 1:58 |
-| 21 | [Spot the Difference](https://open.spotify.com/track/587Cj6WZ9NTCfYhpmVkGID) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Spot the Difference](https://open.spotify.com/album/3SOqUhUWPeDKQq3nLdnhil) | 3:37 |
+| 21 | [Spot the Difference](https://open.spotify.com/track/7dsQoMtQ1eWbKGGnoQHI8n) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Spot the Difference](https://open.spotify.com/album/4WtI2Vg1kLHM2HcvdOeB47) | 3:37 |
 | 22 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
 | 23 | [Keep Your Hands to Yourself](https://open.spotify.com/track/5tORtBzHUAnNrIw5Ql3kHZ) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Georgia Satellites](https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel) | 3:25 |
 | 24 | [Arrival](https://open.spotify.com/track/0dMRx5UHau9FTlPW76NWk0) | [Mark Korven](https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8) | [The Lighthouse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BhIDZrVtzZ5v9xY6KblYJ) | 1:49 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 | 39 | [Mannequin Metric](https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a) | 4:14 |
 | 40 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 |
 
-Snapshot ID: `MCxhZmZmMjk4Y2JlM2IzN2MwMDgyZTNjZTdjNzJlMTE2OTQwM2I1NzEy`
+Snapshot ID: `MCwwMjRiMDZmOGZjZjM4OWQ0NmIzNmM2YzQ1ZGE0MmVhNjRiYTQ3ZWYz`

@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 745883,
+  "2024-01-19": 745892,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -1207,6 +1207,10 @@
         {
           "name": "Cartoon",
           "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "J\u00e9ja",
+          "url": "https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh"
         },
         {
           "name": "Futuristik",
@@ -4285,6 +4289,10 @@
           "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
         },
         {
+          "name": "J\u00e9ja",
+          "url": "https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh"
+        },
+        {
           "name": "Asena",
           "url": "https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd"
         }
@@ -6383,6 +6391,10 @@
           "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
         },
         {
+          "name": "J\u00e9ja",
+          "url": "https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh"
+        },
+        {
           "name": "Time To Talk",
           "url": "https://open.spotify.com/artist/1HbXE6X9zZ7qZTiZDgEpvh"
         },
@@ -6397,28 +6409,6 @@
       "duration_ms": 177781,
       "name": "Omen",
       "url": "https://open.spotify.com/track/2bjtlNmO8Rf5Bl4rxNl3GJ"
-    },
-    {
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/6Unm4KKxYtjR08J1wEOnkc"
-      },
-      "artists": [
-        {
-          "name": "Cartoon",
-          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
-        },
-        {
-          "name": "Daniel Levi",
-          "url": "https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y"
-        }
-      ],
-      "date_added": "2023-08-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207068,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/2uZWffKoemZDI0gHcBEcDc"
     },
     {
       "album": {
@@ -6441,6 +6431,32 @@
       "duration_ms": 207068,
       "name": "On & On",
       "url": "https://open.spotify.com/track/4B2kkxg3wKSTZw5JPaUtzQ"
+    },
+    {
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/6Unm4KKxYtjR08J1wEOnkc"
+      },
+      "artists": [
+        {
+          "name": "Cartoon",
+          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "J\u00e9ja",
+          "url": "https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh"
+        },
+        {
+          "name": "Daniel Levi",
+          "url": "https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207068,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/2uZWffKoemZDI0gHcBEcDc"
     },
     {
       "album": {

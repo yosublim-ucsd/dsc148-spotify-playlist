@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 76106,
+  "num_followers": 76137,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWIzMjhkMzZhMmVhODk1ZGNiNjczMDJjZmFkMTNhYjgyMDZhY2Fk",
+  "snapshot_id": "MCw3ZTcwMzk0MTBjZmMwMWRlOGE2OTZkZDgzN2NiNmZlZmVjMDM0MDIw",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
+        "url": "https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        },
+        {
+          "name": "Dj Kiko Da Vila",
+          "url": "https://open.spotify.com/artist/3U63q6lmdoAJeS5LlgjS1Z"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
+      "url": "https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Manda \u00c1udio (Sped Funk)",
         "url": "https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 99759,
       "name": "Manda \u00c1udio (Sped Funk)",
       "url": "https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
-        "url": "https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        },
-        {
-          "name": "Dj Kiko Da Vila",
-          "url": "https://open.spotify.com/artist/3U63q6lmdoAJeS5LlgjS1Z"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
-      "url": "https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Semblante de Criminoso Speed",
         "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Nunca Duvide de um Mano",
-        "url": "https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9"
+        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
       },
       "artists": [
         {
-          "name": "Brand\u00e3o85",
-          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
         }
       ],
-      "duration_ms": 84124,
-      "name": "Nunca Duvide de um Mano (Speed Up)",
-      "url": "https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D"
+      "duration_ms": 202666,
+      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -807,6 +791,22 @@
       "duration_ms": 149170,
       "name": "Palha\u00e7ada Speed",
       "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Nunca Duvide de um Mano",
+        "url": "https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "duration_ms": 84124,
+      "name": "Nunca Duvide de um Mano (Speed Up)",
+      "url": "https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
         "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
       },
@@ -963,22 +947,18 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Ametista (Speed Up)",
-        "url": "https://open.spotify.com/album/1HcOE3ol5qAHGmldOsgMbd"
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
       },
       "artists": [
         {
-          "name": "WZ MC",
-          "url": "https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud"
-        },
-        {
-          "name": "AyDucz",
-          "url": "https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ"
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
         }
       ],
-      "duration_ms": 107095,
-      "name": "Ametista - Speed Up",
-      "url": "https://open.spotify.com/track/00YEk4Jfp0hvzA9Jlbp11s"
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -995,6 +975,26 @@
       "duration_ms": 64480,
       "name": "Como Era Antes... (Speed Up)",
       "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Ametista (Speed Up)",
+        "url": "https://open.spotify.com/album/1HcOE3ol5qAHGmldOsgMbd"
+      },
+      "artists": [
+        {
+          "name": "WZ MC",
+          "url": "https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud"
+        },
+        {
+          "name": "AyDucz",
+          "url": "https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ"
+        }
+      ],
+      "duration_ms": 107095,
+      "name": "Ametista - Speed Up",
+      "url": "https://open.spotify.com/track/00YEk4Jfp0hvzA9Jlbp11s"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1051,22 +1051,6 @@
       "duration_ms": 88068,
       "name": "Kill Bill - Speed",
       "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1143,6 +1127,22 @@
       "duration_ms": 131280,
       "name": "Se a Saudade Bater (Workout Version)",
       "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
     },
     {
       "added_at": "2023-12-27 14:18:14",

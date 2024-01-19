@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-312 songs - 23 hr 27 min
+313 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Desconfío de la Vida \- En Vivo Cosquín Rock](https://open.spotify.com/track/2nbUX5PBic49CsgLmV2X4O) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Vivo Cosquín Rock](https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR) | 6:46 | 2022-04-01 | 2023-10-07 |
 | [Desde Lejos No Se Ve](https://open.spotify.com/track/2U2zuUtilm9lk3zCA3fOnS) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 4:07 | 2022-06-24 |  |
 | [Desde Lejos No Se Ve \(En Vivo en River 2018\)](https://open.spotify.com/track/2PqLEZXgV4DVuZSRTBooOY) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Eg7xsCicx687vDBSKqLcC) | 4:07 | 2022-04-01 | 2022-07-27 |
+| [Desde Lejos No Se Ve \- En Vivo](https://open.spotify.com/track/0dQnYqZuIFrj3Sn38Fjg7Q) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve](https://open.spotify.com/album/0pklZTMjcGqRk3d6W3puxz) | 3:56 | 2023-12-22 |  |
 | [Desde Lejos No Se Ve \- En Vivo](https://open.spotify.com/track/74hHbrJCc81drMDOvrXm4H) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve \(En Vivo\)](https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv) | 3:56 | 2022-04-01 | 2024-01-04 |
 | [Desde Lejos No Se Ve \- En Vivo en River 2018](https://open.spotify.com/track/55O0ykD2QyWj5TZwG2VJuT) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Rz8GNFfkBkWauaPRK8QPw) | 4:10 | 2022-04-01 | 2022-07-23 |
 | [Donde Vamos](https://open.spotify.com/track/2s4FbgZH1PS2c6DawiE6up) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Mancha 360](https://open.spotify.com/album/4lmRIta1CJWESEv4EA9laV) | 4:42 | 2022-04-01 | 2022-07-28 |
@@ -135,7 +136,7 @@
 | [Fumar de Día \- En Vivo](https://open.spotify.com/track/0n1UrWMX0Njj3kVMc24tOE) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sesión Saldias \(En Vivo\)](https://open.spotify.com/album/206rMmryQBWqNoIMNsOS8q) | 3:01 | 2022-04-01 | 2022-07-14 |
 | [Guadalupe \- En Vivo](https://open.spotify.com/track/08umrOL0yYBjKmbcLPucff) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 4:44 | 2022-04-01 | 2022-06-08 |
 | [Haciendo Cosas Raras \(En Vivo\)](https://open.spotify.com/track/6HPRbXuKskFavEFdrme7UC) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [22/12/18 Flores \(En Vivo\)](https://open.spotify.com/album/3CMK0ejRCOSYNFlPonwahd) | 3:00 | 2022-04-01 | 2022-07-13 |
-| [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 | 2023-08-10 |  |
+| [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 | 2023-08-10 | 2024-01-19 |
 | [Hombre al Agua \(Sinfónico en Vivo\)](https://open.spotify.com/track/5wi2cktKirlyirlUTsTHCg) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 7:11 | 2022-08-19 | 2023-10-07 |
 | [Homero \- En Vivo Luna Park](https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio II\)](https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy) | 4:19 | 2022-04-01 |  |
 | [Incinerador \- En Vivo, La Trastienda](https://open.spotify.com/track/481sJW9cptyMhr5GqtDU4X) | [La Chancha Muda](https://open.spotify.com/artist/3q7B22drORYGk4srVegr3T) | [La Chancha Muda \(En Vivo, La Trastienda\)](https://open.spotify.com/album/4W74DLNQlKJ2ykYJ1EMwCT) | 2:43 | 2022-06-24 | 2022-07-15 |

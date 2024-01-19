@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-504 songs - 19 hr 16 min
+505 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [Pareidolia](https://open.spotify.com/track/6jhIjPKENwizw0sKmJNiUO) | [Alrik Lagom](https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn) | [Pareidolia](https://open.spotify.com/album/3CjKtpWA51sPu7tiir84nX) | 2:20 | 2024-01-05 |  |
 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2024-01-05 |  |
 | [Park Life](https://open.spotify.com/track/6TrmKrBHA1UcepoLAoCa7A) | [Mooseplant](https://open.spotify.com/artist/41f1LonnqCGklJb2ewxewh) | [Park Life](https://open.spotify.com/album/5bCGymt5IOhp1ankpc5K5l) | 2:18 | 2024-01-05 |  |
-| [Past Bedtime](https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Past Bedtime](https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky) | 2:05 | 2024-01-05 |  |
+| [Past Bedtime](https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Past Bedtime](https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky) | 2:05 | 2024-01-05 | 2024-01-19 |
 | [patience](https://open.spotify.com/track/581rS6GEc0dfjRtCZVWuIt) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [patience](https://open.spotify.com/album/1xTdPMruyTcfBsp53Ot5ch) | 2:05 | 2024-01-05 |  |
 | [pato blanco](https://open.spotify.com/track/4qADdUyjAppU2XT7yKfBcg) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [pato blanco](https://open.spotify.com/album/6cHb1vrthw4soBUxtTGDH5) | 2:24 | 2024-01-05 |  |
 | [Paulie Walnut](https://open.spotify.com/track/6RInRXWilsEVQrob1Tunl9) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Paulie Walnut](https://open.spotify.com/album/3MbL1zYnCVR3SP5VetBQ07) | 2:10 | 2024-01-05 |  |
@@ -486,6 +486,7 @@
 | [visions](https://open.spotify.com/track/0AXavmNLkcAphlTGQ8ryS5) | [Stacy Bridge](https://open.spotify.com/artist/0l9jUDI4PJdVxQGNof28SD) | [visions](https://open.spotify.com/album/51ksQiSeWO0c4j6SNSZBZ5) | 2:20 | 2024-01-05 |  |
 | [Vitalization](https://open.spotify.com/track/3pp6vpEactYNh8gVMTt5Bk) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Frodas](https://open.spotify.com/album/6YywwAQYRqLBMuQTchAeZc) | 1:59 | 2024-01-05 |  |
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2024-01-05 |  |
+| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2024-01-18 |  |
 | [Waitress service](https://open.spotify.com/track/5ALbklP1iYE6UaPzO0tVlS) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Waitress service](https://open.spotify.com/album/6EYqvlu2EjsRqQ9VmKuDSR) | 1:50 | 2024-01-05 |  |
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2024-01-05 |  |
 | [Walk Through the Sky](https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [All the Thoughts](https://open.spotify.com/album/3BKr1o8n8vLlCjv2IRDxLl) | 1:53 | 2024-01-05 | 2024-01-17 |

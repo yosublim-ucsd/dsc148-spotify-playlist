@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 106842,
+  "2024-01-19": 106897,
   "date_first_scraped": "2022-05-30",
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: Sala",
   "name": "Women's Voice",
@@ -5606,6 +5606,24 @@
     },
     {
       "album": {
+        "name": "doudemoii hanashiga shitai (Acoustic Version)",
+        "url": "https://open.spotify.com/album/7nmVKMb9L1yrzghWhPDhsA"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217924,
+      "name": "doudemoii hanashiga shitai - Acoustic Version",
+      "url": "https://open.spotify.com/track/2GDYJ3nvJf6QXTWN7d60yc"
+    },
+    {
+      "album": {
         "name": "Doushiyoumonaina.",
         "url": "https://open.spotify.com/album/3k8tEzKQV3HkTWmdJxtVrj"
       },
@@ -10381,6 +10399,24 @@
       "duration_ms": 231503,
       "name": "Kanashikunaiyo",
       "url": "https://open.spotify.com/track/1hhY0jN3PjVSKFluT0APp5"
+    },
+    {
+      "album": {
+        "name": "karakara",
+        "url": "https://open.spotify.com/album/0At5gcOBR68qZAMin5jINu"
+      },
+      "artists": [
+        {
+          "name": "Mamiko Suzuki",
+          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190833,
+      "name": "karakara",
+      "url": "https://open.spotify.com/track/7e4omddqowij2xnoY7k6E0"
     },
     {
       "album": {
@@ -24517,7 +24553,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 190833,
       "name": "\u304b\u3089\u304b\u3089",
       "url": "https://open.spotify.com/track/6oO5DvOrulZ1RehWQ3jPqG"
@@ -24999,7 +25035,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 207970,
       "name": "\u3059\u307f\u3063\u30b3\u30c7\u30a3\u30b9\u30b3",
       "url": "https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY"
@@ -25485,7 +25521,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 217924,
       "name": "\u3069\u3046\u3067\u3082\u3044\u3044\u8a71\u304c\u3057\u305f\u3044 - Acoustic Version",
       "url": "https://open.spotify.com/track/3UiLsCu8AbAeQJ3nFrNOhY"
@@ -29821,7 +29857,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 249273,
       "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"

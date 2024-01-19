@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 83840,
+  "num_followers": 83911,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDM4NDExNjFlYjExNzNmMjJiOTMzNGY0OGQ2MzI1MjY3MmM0YWVh",
+  "snapshot_id": "MCwyZDY5MzdlYWYyNjQ4ZjlhZjc3NGEyYzM3ZDBkNmU5ZjU2Yzk1YmM3",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "San",
-        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 414106,
-      "name": "Spirales",
-      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Blackouts",
         "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 410666,
       "name": "77 Slightly Delayed",
       "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "San",
+        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 414106,
+      "name": "Spirales",
+      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Missa Gaia - Earth Mass",
-        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
-      },
-      "artists": [
-        {
-          "name": "Paul Winter",
-          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
-        }
-      ],
-      "duration_ms": 114893,
-      "name": "Stained-Glass Morning",
-      "url": "https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Best Of Tim Weisberg: Smile!",
         "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 209973,
       "name": "Dion Blue",
       "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Missa Gaia - Earth Mass",
+        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
+      },
+      "artists": [
+        {
+          "name": "Paul Winter",
+          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
+        }
+      ],
+      "duration_ms": 114893,
+      "name": "Stained-Glass Morning",
+      "url": "https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Aum",
-        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 116440,
-      "name": "Abraxas",
-      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
         "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 481320,
       "name": "In the Beginning",
       "url": "https://open.spotify.com/track/1bHEqY4jyrGA1S4cC61scR"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Aum",
+        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 116440,
+      "name": "Abraxas",
+      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
     },
     {
       "added_at": "2023-08-18 14:02:54",

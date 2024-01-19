@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit Latin, Afrobeats, Hip\-Hop und mehr 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,946 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,952 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 62 | [Bye Bye](https://open.spotify.com/track/4OrzZjZHVfayEVfZPE1uhk) | [Benash](https://open.spotify.com/artist/53loJtHWjCG1TyKarW2mzk) | [CDG](https://open.spotify.com/album/4clpqQJzQv6rSt78i46kXD) | 3:10 |
 | 63 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
 | 64 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 |
-| 65 | [3 Uhr Nachts](https://open.spotify.com/track/23N0plXKY7ggKXj1AH71Ia) | [ANDIJOLA JULI](https://open.spotify.com/artist/3qp3Rd31EDGEitYZKIRpMB) | [3 Uhr Nachts](https://open.spotify.com/album/5CDSZ8HKvO10B7iEXQ84s5) | 2:38 |
+| 65 | [3 Uhr Nachts](https://open.spotify.com/track/56Awy0TOnD6PUHoRcqApXQ) | [ANDIJOLA JULI](https://open.spotify.com/artist/3qp3Rd31EDGEitYZKIRpMB) | [3 Uhr Nachts](https://open.spotify.com/album/5XxpVT8U1rWLKHeXZtlCqg) | 2:38 |
 | 66 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 |
 | 67 | [Kallma \(feat\. Dhurata Dora\)](https://open.spotify.com/track/6N4MhRXThXXY0ykm9CmZAK) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [Kallma \(feat\. Dhurata Dora\)](https://open.spotify.com/album/3ytBy8xH71aZribkz30aRQ) | 2:53 |
 | 68 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 |
 | 69 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
 | 70 | [MONEY AND VIBES](https://open.spotify.com/track/6XH5Uqo3d0cvBv0dv9Jwh8) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [MONEY AND VIBES](https://open.spotify.com/album/7s4VOuuo8CvJ5VLCmpBU8P) | 2:02 |
 
-Snapshot ID: `MCw4Njg4ZDViMGZhNTUyNGJjYjZlMmMyYmYzZWVmNWNkOTFjMmRjMjU4`
+Snapshot ID: `MCw2MzgwM2FkM2MyYTk0ZjY3NWYwMGFiZmY1OGY3Y2UzYzllN2U1MTQ4`

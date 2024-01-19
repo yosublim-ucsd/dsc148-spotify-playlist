@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : TH\u00c9A",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Ascendant Vierge",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 194626,
       "name": "Brumeux",
       "url": "https://open.spotify.com/track/1LTH3ADSAIl9tLLyfQnbTu"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 223600,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/3aAmbkmw4wGiCAIn1Ktwlv"
@@ -604,6 +604,24 @@
       "duration_ms": 182996,
       "name": "Encore",
       "url": "https://open.spotify.com/track/4unYRu63NeZhNtGo58BCCU"
+    },
+    {
+      "album": {
+        "name": "Fire In Higher Ground",
+        "url": "https://open.spotify.com/album/6S1FL1pvdpss8fVA6cK5a8"
+      },
+      "artists": [
+        {
+          "name": "Chester Remington",
+          "url": "https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292546,
+      "name": "Fire In Higher Ground",
+      "url": "https://open.spotify.com/track/4dlJOy0IXON6qP4XsDwmpT"
     },
     {
       "album": {
@@ -957,6 +975,24 @@
     },
     {
       "album": {
+        "name": "La lune sera bleue",
+        "url": "https://open.spotify.com/album/2hjBazpNzqAdxPJxM7DiKv"
+      },
+      "artists": [
+        {
+          "name": "Aline",
+          "url": "https://open.spotify.com/artist/07FdDpjaazFWWzqcFUPegG"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194601,
+      "name": "La lune sera bleue",
+      "url": "https://open.spotify.com/track/3FDriNpkSIjeNRDUafED2b"
+    },
+    {
+      "album": {
         "name": "La mar\u00e9e",
         "url": "https://open.spotify.com/album/3AOvO6Vmjl1Q5gGZ9ht9ze"
       },
@@ -1227,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "My Way (with Creams)",
+        "url": "https://open.spotify.com/album/1oWzOh4biDkSnj0ZITjuYo"
+      },
+      "artists": [
+        {
+          "name": "Moodo\u00efd",
+          "url": "https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC"
+        },
+        {
+          "name": "Creams",
+          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194600,
+      "name": "My Way (with Creams)",
+      "url": "https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq"
+    },
+    {
+      "album": {
         "name": "M\u00c9TA DEUIL",
         "url": "https://open.spotify.com/album/56HYXJHwbjFKk62U9CIZCv"
       },
@@ -1346,7 +1404,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 124840,
       "name": "Opening",
       "url": "https://open.spotify.com/track/6JlZNJP7EKJIxXPaeDQcrz"

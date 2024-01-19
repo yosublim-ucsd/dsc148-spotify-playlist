@@ -464,7 +464,7 @@
 | [Fade](https://open.spotify.com/track/1Rr4zU9CpbEcMa4eyalsEv) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Fade](https://open.spotify.com/album/0inHKAKYW1hrStsmoBajR0) | 3:30 | 2023-09-29 |  |
 | [Fade Away](https://open.spotify.com/track/71GB6W5KXctH0v4h6W5EM4) | [Blayne Clower](https://open.spotify.com/artist/6PfDM1s5UNL6FZKGq0q2vU) | [Fade Away](https://open.spotify.com/album/7mBHhfvphdTCItOKbIkVxH) | 4:06 | 2021-12-31 | 2022-01-08 |
 | [Faded On Me](https://open.spotify.com/track/2yn1m3R7ShYGPsHKuvgbEJ) | [Alexander Ludwig](https://open.spotify.com/artist/0MlU9UKVEOkeyMdazSXif1) | [Faded On Me](https://open.spotify.com/album/5yJmWyimljNuXghn37qDSS) | 3:04 | 2022-06-03 | 2022-09-03 |
-| [Fake Tan](https://open.spotify.com/track/0pTakKInEhohtQPoE5Y8IJ) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [Fake Tan](https://open.spotify.com/album/0dRGBrnv5vGVUOY25YdlvC) | 3:25 | 2023-10-13 |  |
+| [fake tan](https://open.spotify.com/track/0pTakKInEhohtQPoE5Y8IJ) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [fake tan](https://open.spotify.com/album/0dRGBrnv5vGVUOY25YdlvC) | 3:25 | 2023-10-13 |  |
 | [Fall For You](https://open.spotify.com/track/6W8x1wTobJklgGFoH4PejY) | [Gable Bradley](https://open.spotify.com/artist/2wHxKvmyVbfpfcynrta2z1) | [Fall For You](https://open.spotify.com/album/7HDZwGmIdqZExKD0glGbSc) | 3:35 | 2023-02-17 | 2023-05-20 |
 | [Fall In Love With Me](https://open.spotify.com/track/56CmYOZ5YNtmuVUtY5W5jF) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Fall In Love With Me](https://open.spotify.com/album/67JHB0s8c5pbNELuRkl0E8) | 3:15 | 2023-08-04 | 2023-08-26 |
 | [Falling Out Of Love](https://open.spotify.com/track/2UZcmXpjnfFkFh0jCPIliW) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Falling Out Of Love](https://open.spotify.com/album/6ZAnWDNvLToLEP1MusduC4) | 3:14 | 2022-04-01 | 2022-04-16 |
@@ -1838,6 +1838,6 @@
 | [Your Love](https://open.spotify.com/track/0awCJOtVfgPndrQdNZdRP0) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Your Love](https://open.spotify.com/album/5tkwa1YtkGzf6bRYCELUz9) | 3:09 | 2023-06-16 | 2023-07-15 |
 | [your place](https://open.spotify.com/track/2aOeccIiwICrH0n3pNvFMi) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:02 | 2023-07-07 | 2023-07-27 |
 | [your place](https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:02 | 2023-07-21 | 2023-10-28 |
-| [You’re My Texas](https://open.spotify.com/track/6SaffSEZJMBX31dd3wLugm) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [You're My Texas](https://open.spotify.com/album/7sk2FcYfRPMEof4Ytknom5) | 3:22 | 2024-01-05 |  |
+| [You’re My Texas](https://open.spotify.com/track/6SaffSEZJMBX31dd3wLugm) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [You're My Texas](https://open.spotify.com/album/7sk2FcYfRPMEof4Ytknom5) | 3:19 | 2024-01-05 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

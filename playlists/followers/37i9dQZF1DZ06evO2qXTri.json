@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 25350,
+  "2024-01-19": 25379,
   "date_first_scraped": "2022-09-15",
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
   "name": "This Is Kirk Franklin",
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 232345,
       "name": "Gotta Have You (feat. Kirk Franklin, Jermaine Dolly & Lena Byrd Miles)",
       "url": "https://open.spotify.com/track/7sua3EElbSneVDxEVDzgX4"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 337893,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7"

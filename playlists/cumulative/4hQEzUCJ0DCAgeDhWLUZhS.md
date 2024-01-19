@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-415 songs - 1 day 0 hr 30 min
+417 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bleeding In The Blur](https://open.spotify.com/track/6NcTKRtXWG6w5TSWnwMHGm) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Forever](https://open.spotify.com/album/2V7axnEU5HQoN9Tu5JVl4S) | 4:04 | 2020-10-10\* | 2021-02-25 |
 | [blood \(feat\. KennyHoopla & JUDGE\)](https://open.spotify.com/track/4oGdeEvF5iKi3FydasLD7y) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [JUDGE](https://open.spotify.com/artist/1QyROiT6mJDfdLKRZ9HBIz) | [blood \(feat\. KennyHoopla & JUDGE\)](https://open.spotify.com/album/4WP9gLuuR0r17Tw2GI3I11) | 2:38 | 2020-11-03 | 2022-03-18 |
 | [Blood On My Leather](https://open.spotify.com/track/35ZmQdHzKlVrkWZkn8ftwP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Blood On My Leather](https://open.spotify.com/album/6ahaUiVd3ihYcAHTFCa2do) | 2:33 | 2020-10-10\* | 2021-02-25 |
+| [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-01-18 |  |
 | [Boilermaker](https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Boilermaker](https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7) | 3:29 | 2021-04-16 | 2022-03-18 |
 | [Born For This Bullshit \(feat\. Sad13\)](https://open.spotify.com/track/6FwhbeCYKzSvg4Gf5fvFOM) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf), [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg) | [Born For This Bullshit \(feat\. Sad13\)](https://open.spotify.com/album/3HrbnJr4QUgy5qoO2hlPId) | 3:55 | 2021-09-24 |  |
 | [Bounce](https://open.spotify.com/track/1IKFjq1kUtSFDeAwW5b9Mq) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Bounce](https://open.spotify.com/album/1F6Bpt1LHmOBepi4yhA1PJ) | 3:02 | 2021-07-24 |  |
@@ -58,7 +59,7 @@
 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 | 2021-02-25 | 2022-03-18 |
 | [Brighter Days \(Are Before Us\)](https://open.spotify.com/track/6X6CxZ2XbfayOg2ldlBEJV) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Brighter Days \(Are Before Us\)](https://open.spotify.com/album/0RBkf8XXUW5Mihn42NiOUW) | 3:03 | 2021-07-31 |  |
 | [Broken System](https://open.spotify.com/track/6Zk0OgVcyGXpDiTEra7xzW) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [Broken System](https://open.spotify.com/album/0OWHl71Twv54ip9YYZITMe) | 2:47 | 2020-10-23 | 2022-03-18 |
-| [Burn The Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 | 2021-11-25 |  |
+| [Burn the Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 | 2021-11-25 |  |
 | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/track/0mtGnMCDl70UkOi3VRnzY2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/album/69u1Q1ds3YWF8VDM8rhJu6) | 2:42 | 2023-08-11 |  |
 | [Canals](https://open.spotify.com/track/6ubLURl6xHWIYPZ7nz0rTF) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Canals](https://open.spotify.com/album/5312yUhAkaR0kRV7I5I0Dk) | 4:33 | 2020-10-10\* | 2021-02-25 |
 | [Ceremony](https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:27 | 2020-10-15 | 2022-03-18 |
@@ -251,6 +252,7 @@
 | [No Love In LA](https://open.spotify.com/track/79rJtBxUfZzPuEYLoGma28) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6F5Nq2vim1uZ960TmhVuLd) | 3:22 | 2021-07-10 |  |
 | [No Messages](https://open.spotify.com/track/7hjS3geBjYXTk4nTnUUmSH) | [Supahoney](https://open.spotify.com/artist/3OZVtJQZ18hbdQk9bkI7fr) | [Every Cell In Your Body](https://open.spotify.com/album/17cQXbD8OLKkQT7ylzrBPQ) | 3:33 | 2021-11-12 |  |
 | [No Plans](https://open.spotify.com/track/4CZHbzrzXSNDagymnv99TB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [No Plans](https://open.spotify.com/album/7AHkP6mbv9D3qpHVwqJl3n) | 3:21 | 2020-10-10\* | 2021-05-13 |
+| [Nobody Escapes](https://open.spotify.com/track/1IqRZsXV47xow1ZSdihWDK) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Nobody Escapes](https://open.spotify.com/album/4A5YVlI0YUn2adU3tK7qjb) | 2:55 | 2024-01-19 |  |
 | [Normalize](https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Normalize](https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc) | 4:19 | 2023-06-30 |  |
 | [North Of No South \- Edit](https://open.spotify.com/track/3WorLcUF718S4k5LetzDBU) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [North Of No South \(Edit\)](https://open.spotify.com/album/71u1QkBnNqfPdz6ZUKvztb) | 3:36 | 2021-02-25 | 2022-03-18 |
 | [Not the One](https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Not the One](https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO) | 4:26 | 2022-03-24 |  |

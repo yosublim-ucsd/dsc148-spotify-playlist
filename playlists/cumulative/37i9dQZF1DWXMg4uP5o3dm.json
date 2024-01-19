@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 196880,
       "name": "deadly ever after",
       "url": "https://open.spotify.com/track/49RVuMbXGzYwu7Q8Jec5Yw"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 173466,
       "name": "engravings",
       "url": "https://open.spotify.com/track/47FdoVKyPNFnrWlj10Jx4z"
@@ -1592,6 +1592,24 @@
       "duration_ms": 173466,
       "name": "engravings",
       "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+    },
+    {
+      "album": {
+        "name": "the last laugh",
+        "url": "https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173466,
+      "name": "engravings",
+      "url": "https://open.spotify.com/track/7ByDxFf6Xy7xPFAYafsLxI"
     },
     {
       "album": {
@@ -3196,7 +3214,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 220471,
       "name": "Miracle, Baby",
       "url": "https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb"

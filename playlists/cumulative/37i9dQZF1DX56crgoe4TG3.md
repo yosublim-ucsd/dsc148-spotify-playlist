@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Béla Fleck
 
-256 songs - 16 hr 31 min
+258 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,9 +111,10 @@
 | [Hit 'Em up Style](https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:56 | 2021-08-20 |  |
 | [Hot In Herre](https://open.spotify.com/track/5cnPBp42sCF1GrN0GsPhQM) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [The Take Off All Your Clothes EP](https://open.spotify.com/album/2KtIjCHTYOzzmHYscHVZzo) | 4:16 | 2022-05-27 |  |
 | [Hot In Herre](https://open.spotify.com/track/6EmwBRFDI25uukoQ9jCU6J) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [The Take Off All Your Clothes \- EP](https://open.spotify.com/album/1btCWMYWuQSFojQJoGHfHj) | 4:16 | 2021-08-20 | 2022-07-29 |
+| [I Believe in a Thing Called Love](https://open.spotify.com/track/4LlSNQDU5UZgBMlrOrRhxx) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/5I3nXZZSfM5d9SII8aZgIV) | 3:04 | 2024-01-05 |  |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/6YdSvvnhkppxBNZgdFB301) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:04 | 2022-05-27 | 2022-10-13 |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/6mEeutpoC30B6yALroRlFW) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:04 | 2021-08-20 | 2022-07-29 |
-| [I Believe in a Thing Called Love](https://open.spotify.com/track/7kcAK7HvIuHHDHJoGXlSPv) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:04 | 2022-10-07 |  |
+| [I Believe in a Thing Called Love](https://open.spotify.com/track/7kcAK7HvIuHHDHJoGXlSPv) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:04 | 2022-10-07 | 2024-01-19 |
 | [I Bet My Life](https://open.spotify.com/track/7jHpuHfI0bhd4gYiz7jVL0) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin' on the Hits of 2015](https://open.spotify.com/album/3gi2gORW66TUEFYq2X0LK3) | 3:16 | 2021-08-20 | 2023-05-14 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:32 | 2022-01-21 |  |
 | [I Will](https://open.spotify.com/track/3ei99dge15PXGB99SCSA4y) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Now That I've Found You: A Collection](https://open.spotify.com/album/1yt29znD6KxC2ayfnT1Cqk) | 4:04 | 2021-08-20 | 2022-07-29 |
@@ -195,7 +196,8 @@
 | [So Far Away](https://open.spotify.com/track/2nwVBqjV5HPLDPlmExAUML) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [So Far Away](https://open.spotify.com/album/0lXVZ5Qf46yARjeuHMCh5d) | 3:41 | 2023-11-24 |  |
 | [Some Might Say](https://open.spotify.com/track/5n7jdlBdFRB8Qey6hVNJQu) | [Danny Burns](https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU), [Dennis Parker](https://open.spotify.com/artist/06YZcS2aoIREKT55qy4KhN), [Scott Vestal](https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC), [Ethan Burkhardt](https://open.spotify.com/artist/66ONZHHb6U6lrRBCI1ZMO0), [Billy Contreras](https://open.spotify.com/artist/4WQUxsTG9b6WSXsZCyDPxu), [Matt Menefee](https://open.spotify.com/artist/2A8KLJp5U4zoPrewOpJYbu), [Tony Wray](https://open.spotify.com/artist/130ShDSmz0I3kDPg37lqlW), [Josh Methany](https://open.spotify.com/artist/5W3GMYyA1nWOQrqKe4PlPg) | [Some Might Say](https://open.spotify.com/album/3CUsbiuld57ptitcrvaNYn) | 3:39 | 2022-11-18 |  |
 | [Somebody to Love](https://open.spotify.com/track/0L9fWUcLnPIf5Z7rljJ8Mm) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:42 | 2022-05-27 | 2022-10-14 |
-| [Somebody to Love](https://open.spotify.com/track/2tJesD4R8yf7G5JRzgE05y) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:42 | 2022-10-07 |  |
+| [Somebody to Love](https://open.spotify.com/track/2oxMa9gOociOuL8Dl3ba90) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/5I3nXZZSfM5d9SII8aZgIV) | 3:42 | 2024-01-05 |  |
+| [Somebody to Love](https://open.spotify.com/track/2tJesD4R8yf7G5JRzgE05y) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:42 | 2022-10-07 | 2024-01-19 |
 | [Somebody to Love](https://open.spotify.com/track/65PXViRNbmck0eXI0qhB2G) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:42 | 2021-08-20 | 2022-07-29 |
 | [Song for a Winter's Night](https://open.spotify.com/track/20Dz1YrI5LMrVs1cpGaNMb) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6) | [Song for a Winter's Night](https://open.spotify.com/album/57cxci74OPUile2bjgfso2) | 3:35 | 2022-12-16 | 2022-12-26 |
 | [Song For A Winter's Night](https://open.spotify.com/track/5BA7aoZQbAFRyTnaHpepNJ) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6) | [Song For A Winter's Night](https://open.spotify.com/album/2xohh3ZJof8cVR565Ap4GI) | 3:35 | 2022-12-16 |  |

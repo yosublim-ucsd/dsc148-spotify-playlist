@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RmYiHQWCdR.md) - [plain]
 
 > indescribable tension\. lingering eyes\. that slow burn kind of love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,007 likes - 42 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,026 likes - 42 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RmYiHQWCdR.md) - [plain]
 | 24 | [Hope, Ascending](https://open.spotify.com/track/14EPJTvkBpz18I1ZDEMcA1) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Iyad Sughayer](https://open.spotify.com/artist/3a56daV566X5srjmKNdj98) | [Esther Abrami](https://open.spotify.com/album/4oSQnlpoerknSzTcrgvlHw) | 3:12 |
 | 25 | [Chopin: Nocturne No\. 20 \- slowed + reverb](https://open.spotify.com/track/5IL4Ii4bcaTjpPU7jsxOvn) | [Classical Slowed + Reverb](https://open.spotify.com/artist/5KXpXnDelYc8HLAAVbtIzk) | [Chopin: Nocturne No\. 20 \- slowed + reverb](https://open.spotify.com/album/2RKYjLIoGCy9OVnwYFHzvX) | 5:51 |
 | 26 | [Unrequited Love](https://open.spotify.com/track/71Y4MDtbPbwgASI7RXSSCO) | [Ari Posner](https://open.spotify.com/artist/563dtu7YhG2vW5KPAwMgC4), [Amin Bhatia](https://open.spotify.com/artist/3GvnGpA4bEqkq9FDeA2NEv) | [Anne With An E \(Music From The Netflix Original Series\)](https://open.spotify.com/album/18zn6reTQDMH7c3dxgpRGM) | 2:30 |
-| 27 | [Somewhere Only We Know](https://open.spotify.com/track/0keSbXY2HkIWdftL6mS7lY) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Berlin:Redux](https://open.spotify.com/album/4G8EfqDG9JYqHx5TnDJJQM) | 2:54 |
+| 27 | [Somewhere Only We Know](https://open.spotify.com/track/6CCCeu1DCTDDwQa9njw7Vp) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Berlin:Redux](https://open.spotify.com/album/1BYWouE88bQqjIT5gc0EuJ) | 2:54 |
 | 28 | [The Love That Binds Us](https://open.spotify.com/track/50duVqi1ETUTGWJQmclvlG) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [VIOLET EVERGARDEN: Automemories](https://open.spotify.com/album/1RITWu5USu7lcphTyWh6FY) | 3:55 |
 | 29 | [Magic Tree And I Let Myself Go](https://open.spotify.com/track/1lgHnK27L5zjEndfIoB1k3) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Orchestral Score From Baz Luhrmann's Film The Great Gatsby](https://open.spotify.com/album/6OuywehyzlNMYklKnPpr1W) | 5:17 |
 | 30 | [Iris \(arr\. piano\)](https://open.spotify.com/track/4Z1xN1J50aIn1kqDmy0RNG) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Iris \(arr\. piano\)](https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9) | 2:36 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RmYiHQWCdR.md) - [plain]
 | 41 | [Let Me Sign](https://open.spotify.com/track/3juWAy2mVPQENsjHPU2dul) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Music from Twilight](https://open.spotify.com/album/5c0xTwwrVXZJLZtmyo4wrN) | 2:51 |
 | 42 | [this is what love is](https://open.spotify.com/track/2lVIRDMd7dgwMAwzM824Dz) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [James Southall](https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc), [Thomas Gould](https://open.spotify.com/artist/1Oc8xcaNIQngZs5Daw0zFk), [David O’Leary](https://open.spotify.com/artist/3kuJnjb3NR5NO0iptFuchB), [Rachel Roberts](https://open.spotify.com/artist/1kO1prL8GSAOJYecFt0pzw), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9) | [this is what love is](https://open.spotify.com/album/5KAMiXABUYhHcV15pfJ4w4) | 3:00 |
 
-Snapshot ID: `MCxhZDM3NzJiNzViMmNkOTM2ZmM4OTI5YjNlMjljMDFiNmQ4ZmNmNTU1`
+Snapshot ID: `MCxiNWNjOThjZDBmYjg3N2RhNDFmNDFiNTVlY2FkZWRhMjk3OWY3NDVh`

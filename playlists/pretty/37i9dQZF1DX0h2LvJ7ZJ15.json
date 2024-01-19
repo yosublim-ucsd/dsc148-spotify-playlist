@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1171085,
+  "num_followers": 1172622,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTMzMDlkZmQ2ZTY3ZDc3NWYxNjYxYjI5ZjY3NjU4MWRmYjVhMDVh",
+  "snapshot_id": "MCxjNDA3NzEwZDUzMzFmNjhhZTNiZTkwZWNjZDZlOTBiNGI5NjVmM2I2",
   "tracks": [
     {
       "added_at": "2024-01-05 17:40:54",
@@ -299,18 +299,22 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
-        "name": "Close Eyes (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
+        "name": "School Rooftop (Intro) [Slowed Down Version]",
+        "url": "https://open.spotify.com/album/0aqGz4Uth6nswnJifY4Cdv"
       },
       "artists": [
         {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+          "name": "Hisohkah",
+          "url": "https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6"
+        },
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
         }
       ],
-      "duration_ms": 143769,
-      "name": "Close Eyes - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
+      "duration_ms": 126000,
+      "name": "School Rooftop (Intro) [Slowed Down Version]",
+      "url": "https://open.spotify.com/track/1ExDyvuvYw8aDaqpPqsVZh"
     },
     {
       "added_at": "2024-01-05 17:40:54",
@@ -331,22 +335,18 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
-        "name": "School Rooftop (Intro) [Slowed Down Version]",
-        "url": "https://open.spotify.com/album/0aqGz4Uth6nswnJifY4Cdv"
+        "name": "Close Eyes (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
       },
       "artists": [
         {
-          "name": "Hisohkah",
-          "url": "https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6"
-        },
-        {
-          "name": "WMD",
-          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
         }
       ],
-      "duration_ms": 126000,
-      "name": "School Rooftop (Intro) [Slowed Down Version]",
-      "url": "https://open.spotify.com/track/1ExDyvuvYw8aDaqpPqsVZh"
+      "duration_ms": 143769,
+      "name": "Close Eyes - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
     },
     {
       "added_at": "2024-01-05 17:40:54",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
+        "name": "Kerosene (Slowed)",
+        "url": "https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf"
+      },
+      "artists": [
+        {
+          "name": "fam0uz",
+          "url": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Kerosene - Slowed",
+      "url": "https://open.spotify.com/track/2weO22kObPnyX1jKQStb40"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
         "name": "XIII SORROWS (ODECORE MIX)",
         "url": "https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 141509,
       "name": "prolly my spookiest beat (slowed + reverb)",
       "url": "https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
-        "name": "Kerosene (Slowed)",
-        "url": "https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf"
-      },
-      "artists": [
-        {
-          "name": "fam0uz",
-          "url": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
-        }
-      ],
-      "duration_ms": 142105,
-      "name": "Kerosene - Slowed",
-      "url": "https://open.spotify.com/track/2weO22kObPnyX1jKQStb40"
     },
     {
       "added_at": "2024-01-05 17:40:54",

@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 156586,
       "name": "attached - demo",
       "url": "https://open.spotify.com/track/5hSvUYzplozSK2u7dnJrUo"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 206222,
       "name": "Black And Blue",
       "url": "https://open.spotify.com/track/6g8ntuutiG4ubvDtVJOd1c"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 249291,
       "name": "Holding Me Like Water - Juno Mamba Remix",
       "url": "https://open.spotify.com/track/3GgMbVefHuwM1J8kwvrAHL"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 132964,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1MyjLhYtURAYMGPQHxF77j"
@@ -1686,6 +1686,24 @@
       "duration_ms": 130558,
       "name": "Kryptonite (feat. Julia Temos)",
       "url": "https://open.spotify.com/track/2uMP2WzQTyU4uyOEdfm2WY"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
     },
     {
       "album": {
@@ -2275,6 +2293,24 @@
     },
     {
       "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/38lQOGTxfUXNG3noemTqxW"
+      },
+      "artists": [
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145298,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/36gRhO8ZVp0GhiSgWNuxI8"
+    },
+    {
+      "album": {
         "name": "Codec Tweak/Plaid",
         "url": "https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux"
       },
@@ -2673,6 +2709,28 @@
     },
     {
       "album": {
+        "name": "Midnight Highlight",
+        "url": "https://open.spotify.com/album/2EUAQLvuP3jnHfpuyUeKbm"
+      },
+      "artists": [
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        },
+        {
+          "name": "upsidedownhead",
+          "url": "https://open.spotify.com/artist/40ZjHfdes7hiAS1RXSP9EB"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194509,
+      "name": "Somebody (feat. upsidedownhead)",
+      "url": "https://open.spotify.com/track/4aZPM2DIO0k5eTQiX0VTkz"
+    },
+    {
+      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
       },
@@ -3028,6 +3086,24 @@
       "duration_ms": 212521,
       "name": "TOMMY",
       "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
+    },
+    {
+      "album": {
+        "name": "Tonic",
+        "url": "https://open.spotify.com/album/4xbLjgXZNRWrMhWcWe7ww1"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279780,
+      "name": "Tonic (Edit)",
+      "url": "https://open.spotify.com/track/4b9disSqE7Yvxgpo4W7lB5"
     },
     {
       "album": {

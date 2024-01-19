@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 13778,
+  "num_followers": 13777,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTRjODJlMTM2YmMwMjBmMzBmZDVmZTYxYTg4OWVhMzY4MzMxZWRl",
+  "snapshot_id": "MCxkODNhYmNjYzllM2U5OTU1ZTVhYTljZDE2MWEyNWFjODk2YTc1NzI0",
   "tracks": [
     {
       "added_at": "2023-11-03 06:13:48",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-11-03 06:13:48",
       "album": {
-        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30"
-      },
-      "artists": [
-        {
-          "name": "Lee Moon Sae",
-          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Talk About Love",
-      "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
-    },
-    {
-      "added_at": "2023-11-03 06:13:48",
-      "album": {
         "name": "\uc2ac\ud37c\ud558\uc9c0\ub9c8 Don't be sad",
         "url": "https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 210850,
       "name": "\uc2ac\ud37c\ud558\uc9c0\ub9c8 Don't be sad",
       "url": "https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT"
+    },
+    {
+      "added_at": "2023-11-03 06:13:48",
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Talk About Love",
+      "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
     },
     {
       "added_at": "2023-11-03 06:13:48",

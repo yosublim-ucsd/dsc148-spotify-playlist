@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "ARMADALE TRAINO",
+        "url": "https://open.spotify.com/album/5nZGo0Ts5VEIFrQi6TyECX"
+      },
+      "artists": [
+        {
+          "name": "DON DARKOE",
+          "url": "https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "ARMADALE TRAINO",
+      "url": "https://open.spotify.com/track/2dZpEIsVFaJBr3tHjH7o05"
+    },
+    {
+      "album": {
         "name": "Attack Order",
         "url": "https://open.spotify.com/album/01k4jf0UQuMZfUicwlnIKM"
       },
@@ -328,6 +346,24 @@
       "duration_ms": 218823,
       "name": "Beams - PhaseOne Remix",
       "url": "https://open.spotify.com/track/7ycSMHYKdNy1wmLydfXwZR"
+    },
+    {
+      "album": {
+        "name": "Best Thing",
+        "url": "https://open.spotify.com/album/2iM4du2HvU2hmHzdn7s0Ys"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136727,
+      "name": "Best Thing",
+      "url": "https://open.spotify.com/track/3ZDpJbRqKXrk3tL4kHBHpT"
     },
     {
       "album": {
@@ -1043,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Ever Enough",
+        "url": "https://open.spotify.com/album/0j5jZItNqenHMI5IX1Sp2j"
+      },
+      "artists": [
+        {
+          "name": "Tali",
+          "url": "https://open.spotify.com/artist/2IzewUY71zuiCmfPZWahxv"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309364,
+      "name": "Ever Enough",
+      "url": "https://open.spotify.com/track/4XQjsMC8hJicHO3HvPTEHA"
+    },
+    {
+      "album": {
         "name": "Everytime",
         "url": "https://open.spotify.com/album/0qGAdUjRbPfSJjACBywbVk"
       },
@@ -1723,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "I'm Fine",
+        "url": "https://open.spotify.com/album/49WnEBeYHobCEcwk68JgbD"
+      },
+      "artists": [
+        {
+          "name": "r.em.edy",
+          "url": "https://open.spotify.com/artist/2zimfjugiCq53nziN8cenP"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122857,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5AoK7RPofkpTnMItx4MgtW"
+    },
+    {
+      "album": {
         "name": "I'm On A Roll",
         "url": "https://open.spotify.com/album/60HY20eWe6RRRhSgVu8gia"
       },
@@ -2178,6 +2250,28 @@
       "duration_ms": 314482,
       "name": "Mecha City",
       "url": "https://open.spotify.com/track/5CnPR1Cx5GuRzjEbUFW2Vq"
+    },
+    {
+      "album": {
+        "name": "Miss A Moment",
+        "url": "https://open.spotify.com/album/7GgilcQdvDY08B11ZPLkoO"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Miss A Moment",
+      "url": "https://open.spotify.com/track/7p2oHNSy9qMmxlB2vftYYG"
     },
     {
       "album": {
@@ -2957,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "Silly Banter",
+        "url": "https://open.spotify.com/album/4c6iutQGEeNdcMMYtRsa7M"
+      },
+      "artists": [
+        {
+          "name": "The Upbeats",
+          "url": "https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190628,
+      "name": "Silly Banter",
+      "url": "https://open.spotify.com/track/3jgEEKaw12kJgI3qrjpA0T"
+    },
+    {
+      "album": {
         "name": "Sin",
         "url": "https://open.spotify.com/album/1tt8TC0ohVxpA9zx9YXJab"
       },
@@ -3506,6 +3618,28 @@
       "duration_ms": 159245,
       "name": "Thinkin About",
       "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
+    },
+    {
+      "album": {
+        "name": "This Moment",
+        "url": "https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217931,
+      "name": "This Moment",
+      "url": "https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu"
     },
     {
       "album": {

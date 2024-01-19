@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-415 songs - 15 hr 50 min
+419 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,8 +83,10 @@
 | [Daze haze](https://open.spotify.com/track/5EPCu4yj9yBE8AMxBJmSh6) | [chilltrap](https://open.spotify.com/artist/33QpdTC6EssmdARvxTLOMm) | [Daze Haze](https://open.spotify.com/album/1ET4ofzgfm5xe4GSkpPKeV) | 1:30 | 2022-09-09 |  |
 | [Descending](https://open.spotify.com/track/4VpJr6eFiAksnM7ROyWfgc) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Under the same sky](https://open.spotify.com/album/1oAHBD8Y6R2ruq73pnofRk) | 2:31 | 2022-09-09 | 2022-12-03 |
 | [Dig\-Nity](https://open.spotify.com/track/7BWIBLq6AKIoKdIISuqL1Q) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Dig\-Nity](https://open.spotify.com/album/2WP8YANcehTD34qLPKi1JA) | 2:36 | 2022-10-28 | 2023-09-05 |
+| [distant memories](https://open.spotify.com/track/56KoQ4b73TnGMSG3x8V7vs) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [distant memories](https://open.spotify.com/album/2Aifuri6w33nf2o9gqcZGO) | 2:14 | 2024-01-19 |  |
 | [Distraction](https://open.spotify.com/track/3p37thzAWbCzBHLynh43Qv) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc) | [Distraction](https://open.spotify.com/album/2zDAcoRIgMhlSEYgUf6OoH) | 2:25 | 2022-09-09 | 2023-01-20 |
 | [Djose Temple](https://open.spotify.com/track/6oodVsFSFtse1GGfpC5t9F) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Djose Temple](https://open.spotify.com/album/1L7yStm4UnbcxnFpjDLDxW) | 1:48 | 2022-12-09 |  |
+| [Do Not Worry](https://open.spotify.com/track/7mpm4VDEEi8XyZA0y5VJg7) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Do Not Worry](https://open.spotify.com/album/2dKy2FZL0LSBtzmeyv6FKc) | 2:24 | 2024-01-19 |  |
 | [Dole Out](https://open.spotify.com/track/082LJn0btv4hiq7lLmu77G) | [The Doppelgangaz](https://open.spotify.com/artist/4J8pjytuR06BizCeBKBIDk) | [Dole Out](https://open.spotify.com/album/2llLPQiwm9tKjYwPOvdFSj) | 2:55 | 2022-12-02 | 2023-10-24 |
 | [don't forget to water the plants](https://open.spotify.com/track/203Yna7tf7PbTEfQeOVCz9) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [don't forget to water the plants](https://open.spotify.com/album/5OGXELB2xDHZRvfMvnvwdo) | 2:24 | 2022-11-25 |  |
 | [Don't Mind The Night](https://open.spotify.com/track/4hzBvlIQsTi5ZuD6WF3Chl) | [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c), [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Don't Mind The Night](https://open.spotify.com/album/5EP22HSNHSHYWce0HYzRl4) | 2:27 | 2022-09-09 | 2023-09-05 |
@@ -128,6 +130,7 @@
 | [Floatypuff](https://open.spotify.com/track/09RKHl3H5VQiwyLzXxjWcX) | [Bowfi Leets](https://open.spotify.com/artist/2NYkpEq1d5dv0GJvIa0yC7) | [Floatypuff](https://open.spotify.com/album/52yTdB6WyfjR4to1XaEyvW) | 2:03 | 2022-09-09 | 2023-09-22 |
 | [Flower Kingdom](https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Flower Kingdom](https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV) | 2:08 | 2023-10-13 |  |
 | [flowerfest](https://open.spotify.com/track/7qK1HthPXEcnsDBt8pBILF) | [luffmoor](https://open.spotify.com/artist/0RRp7Ako9aGQ1RjnP7PC6w), [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx) | [flowerfest](https://open.spotify.com/album/5v78jA38QYcUgJLdocGEzV) | 2:13 | 2022-12-23 |  |
+| [Flying Back](https://open.spotify.com/track/0qstgwsVm3X1bP5hrvBwrr) | [Bad Gherkin](https://open.spotify.com/artist/15UGYmHXzD3KwCDTE2Xa4B) | [Flying Back](https://open.spotify.com/album/709pvQGjgLynWEuMDYs4SQ) | 2:24 | 2024-01-19 |  |
 | [Forgetful](https://open.spotify.com/track/2oE3iJgpMCupYlz8jOtEBE) | [JIM](https://open.spotify.com/artist/6Oe3h56XEcbobLLuyIyCNQ) | [Graceful](https://open.spotify.com/album/2mpsgM4Utc5NnK5rrpSfjb) | 2:25 | 2022-11-18 | 2022-12-16 |
 | [Forgetful](https://open.spotify.com/track/3GWbmH9z2TwG2G5CtXMU3X) | [JIM](https://open.spotify.com/artist/6Oe3h56XEcbobLLuyIyCNQ) | [Forgetful](https://open.spotify.com/album/0ttuJeM3jJYB8gwBmsBgx6) | 2:25 | 2022-09-09 | 2022-11-20 |
 | [Freediving](https://open.spotify.com/track/4wdLAE3i6t3tCqE6WBn7bY) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8), [The Retune Project](https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr) | [Freediving](https://open.spotify.com/album/3nztq8SQNVbhtvwxBU3GGL) | 2:00 | 2022-10-14 | 2023-11-18 |
@@ -405,6 +408,7 @@
 | [traffic](https://open.spotify.com/track/7rfwtpxQF4UBT7cQMslOb6) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [traffic](https://open.spotify.com/album/5ako2aURhgoMoVeh9XZSn3) | 1:39 | 2023-09-29 |  |
 | [Traffic Lights](https://open.spotify.com/track/3y2keSaK5gIqeMeAqAglOa) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Traffic Lights](https://open.spotify.com/album/0ow8wqlJZbVwG2bcE0yVBH) | 3:14 | 2023-12-08 |  |
 | [Trumpet Dreams](https://open.spotify.com/track/07WunvGo91QLO0MkONvAv2) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg), [Flingu](https://open.spotify.com/artist/0fpxSOtcY0UGK16Vl8RCjt) | [Trumpet Dreams](https://open.spotify.com/album/44UjmvsyC4folq7CtdEROw) | 2:12 | 2022-09-09 |  |
+| [Unchained](https://open.spotify.com/track/4EK7TRFHX9xZAWHaQ4rfY4) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Unchained](https://open.spotify.com/album/52wC7HoX36k987EPNtqaH7) | 2:07 | 2024-01-19 |  |
 | [under water](https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [under water](https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi) | 2:06 | 2023-09-22 | 2023-09-29 |
 | [voices](https://open.spotify.com/track/6vfoxpNa7KUzBZGFNfMXEX) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [voices](https://open.spotify.com/album/31iMcyBgD6rNpAYhTKIZNH) | 0:53 | 2023-09-04 | 2023-09-09 |
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2023-10-06 |  |

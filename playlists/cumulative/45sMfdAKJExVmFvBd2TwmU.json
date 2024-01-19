@@ -3391,6 +3391,32 @@
     },
     {
       "album": {
+        "name": "Tu Meri Hai",
+        "url": "https://open.spotify.com/album/4Xqjk0emJHJCWaX0g9NqqC"
+      },
+      "artists": [
+        {
+          "name": "Jigar Saraiya",
+          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235800,
+      "name": "Tu Meri Hai",
+      "url": "https://open.spotify.com/track/0oVSs2wz74lm9YPwHbcdZl"
+    },
+    {
+      "album": {
         "name": "Jannat 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6CtqkIRtoYPHgFc1ft1DPi"
       },

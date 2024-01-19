@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-87 songs - 4 hr 6 min
+88 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Tão Fácil](https://open.spotify.com/track/2hkiGoGHrT9KjagXN6Hs6s) | [Pxrtela](https://open.spotify.com/artist/78kdqxAPboMi6VkSw6uwMd), [Terin](https://open.spotify.com/artist/5EJnD0xePd6KNus2Oc5l0y) | [Tão Fácil](https://open.spotify.com/album/6E6k9VOkclaeC15CTevSOC) | 2:42 | 2023-03-31 | 2023-04-29 |
 | [Tão Sem Graça!](https://open.spotify.com/track/28JOaLfd5WnRPlT4dNDgCz) | [Sonun](https://open.spotify.com/artist/3qGEW1rw4ehiyz3ySwTxMZ) | [O Amor Me Deixa...](https://open.spotify.com/album/1QIzh4aquIHhjljm06jqUr) | 2:11 | 2022-06-24 | 2022-07-23 |
 | [Urano](https://open.spotify.com/track/4EJNoAGrRzb9020WLghozN) | [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [Louwiz](https://open.spotify.com/artist/0Q7iTb96HAijk2P0kQ9Xp3) | [Urano](https://open.spotify.com/album/7AvojkVgptdIw9PBtW9uwY) | 2:49 | 2022-04-29 |  |
-| [VERÃO DA LATA](https://open.spotify.com/track/4wUmnHlr4iogXJJEinjX5q) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [VERÃO DA LATA](https://open.spotify.com/album/5cgpuZRjShzDMoHav6aT7X) | 2:12 | 2022-04-29 |  |
+| [VERÃO DA LATA](https://open.spotify.com/track/4SV0edEJDYJlt3aeE7HUHo) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [051](https://open.spotify.com/album/3y21V9frgluT54InXbn9tj) | 2:12 | 2023-09-15 |  |
+| [VERÃO DA LATA](https://open.spotify.com/track/4wUmnHlr4iogXJJEinjX5q) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [VERÃO DA LATA](https://open.spotify.com/album/5cgpuZRjShzDMoHav6aT7X) | 2:12 | 2022-04-29 | 2024-01-19 |
 | [Viajei \(Céu Azul\)](https://open.spotify.com/track/1v8d01YpILuG1zEbjoYVBl) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Viajei \(Céu Azul\)](https://open.spotify.com/album/5FvBLrkA6aphReFKdbeIMz) | 1:56 | 2022-04-29 |  |
 | [Vou Fugir](https://open.spotify.com/track/2zC4ae9xvZduLtJY8wHpc9) | [K4tt0](https://open.spotify.com/artist/5YpokbwUkNnmqyKVJiO2E3) | [Vou Fugir](https://open.spotify.com/album/3RbJ7Fv2U1rILm2AiThpEM) | 3:02 | 2022-04-29 |  |
 | [Vênus](https://open.spotify.com/track/5TChJtHcdZXJILz64SylZi) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Vênus](https://open.spotify.com/album/3IWdWQcegW47JGPRM30t5S) | 4:07 | 2022-04-29 |  |

@@ -2,7 +2,7 @@
 
 ### [Baila Reggaeton Presents: Best Reggaeton of 2023](https://open.spotify.com/playlist/37i9dQZF1DWZI5fbMaBtko)
 
-> Baila Reggaeton Presents: Best Reggaeton of 2023<br/>Our editors' picks for the best Reggaeton songs of the year! \#SpotifyWrapped Cover: Yng Lvcas & Peso Pluma
+> Our editors' picks for the best Reggaeton songs of the year! \#SpotifyWrapped Cover: Rauw Alejandro
 
 104 songs - 5 hr 47 min
 

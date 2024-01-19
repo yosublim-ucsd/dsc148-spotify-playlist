@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 4432,
+  "2024-01-19": 4432,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA\">MNEK</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By MNEK",
@@ -191,7 +191,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 223317,
       "name": "Ain't My Fault",
       "url": "https://open.spotify.com/track/66JV5o6Nk07PMjVX0fqDkS"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 235434,
       "name": "Between Us",
       "url": "https://open.spotify.com/track/1UxRk7ySL6EpSA0fuByeg0"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 255594,
       "name": "Between Us",
       "url": "https://open.spotify.com/track/1Cx24ZH6qTdVWNkcpylTHu"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 225216,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/7u6ZaLlFknLB8Nea69EtAn"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 193365,
       "name": "Change My Love",
       "url": "https://open.spotify.com/track/3p7x1m7QkmeawRAujjGWd2"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 204453,
       "name": "Change My Love",
       "url": "https://open.spotify.com/track/5z4G37A29NpXvYVUY8BnZX"
@@ -2203,7 +2203,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 191977,
       "name": "Feel Good (It's Alright) (feat. Karen Harding)",
       "url": "https://open.spotify.com/track/46VKKXfpbJDi9aqhomNFrZ"
@@ -2225,7 +2225,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 192480,
       "name": "Feel Good (It's Alright) (feat. Karen Harding)",
       "url": "https://open.spotify.com/track/2kAyiwRPpj40XYMUXRR1RD"
@@ -2385,7 +2385,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 251968,
       "name": "Final Song",
       "url": "https://open.spotify.com/track/2abRWWHiHaA1ewYKFLDwSG"
@@ -2403,7 +2403,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 243501,
       "name": "Finally",
       "url": "https://open.spotify.com/track/3L2YVdNHcxmyLE5WKPKGU1"
@@ -2421,7 +2421,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
@@ -3085,7 +3085,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 171360,
       "name": "Harder",
       "url": "https://open.spotify.com/track/4EU6GdtxEABURTJxMTc4S2"
@@ -3107,7 +3107,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 159760,
       "name": "Harder (with Bebe Rexha)",
       "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
@@ -3281,7 +3281,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 191813,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3cysp2UU6xmV61ZlnQsa8s"
@@ -3299,7 +3299,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 204829,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1EBo6a9v15wx4WPfPWj5fz"
@@ -3459,7 +3459,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 221093,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
@@ -3477,7 +3477,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 315989,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/42ktzUPAfWnveeZfIQkjbT"
@@ -3725,7 +3725,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 223520,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/0xxrzE1V4R2XBk4CfuTss0"
@@ -3943,7 +3943,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 177719,
       "name": "Instruction",
       "url": "https://open.spotify.com/track/3NkEvO7KY5eDYBwC0CEhTM"
@@ -3969,7 +3969,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 165906,
       "name": "Instruction (feat. Demi Lovato & Stefflon Don)",
       "url": "https://open.spotify.com/track/06VsoIC668pU516T6qrgkJ"
@@ -4741,7 +4741,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 191160,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0HibscTifrgtT2zgqdKjC2"
@@ -4759,7 +4759,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 197802,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5HmOCHUZOC6QZpsFBZ5rcC"
@@ -4893,7 +4893,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 191573,
       "name": "My Love 4 U",
       "url": "https://open.spotify.com/track/4lgSKKXmDPdhxvWwiNz07C"
@@ -4915,7 +4915,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 186773,
       "name": "My Love 4 U (feat. A*M*E)",
       "url": "https://open.spotify.com/track/0na0lYafx97flwjhS0dNIR"
@@ -5013,7 +5013,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 213427,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo"
@@ -5035,7 +5035,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 242709,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/03xHr4qu6VkaArjRs8KEi4"
@@ -5089,7 +5089,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 183021,
       "name": "No",
       "url": "https://open.spotify.com/track/0ONFGnOEErh2tL0HY39F3V"
@@ -5107,7 +5107,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 200320,
       "name": "No",
       "url": "https://open.spotify.com/track/2tY9Hf0oArZ1iYvqaKnMe9"
@@ -5507,7 +5507,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 216533,
       "name": "OK (Anxiety Anthem)",
       "url": "https://open.spotify.com/track/6bW7xROpvstfDvXdOnH96p"
@@ -5525,7 +5525,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 224600,
       "name": "OK (Anxiety Anthem)",
       "url": "https://open.spotify.com/track/6CuvET3Z4fcM20Oy82GTLf"
@@ -6589,7 +6589,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 190010,
       "name": "Run",
       "url": "https://open.spotify.com/track/38WySUQ3V67eYDboiRHLVk"
@@ -6611,7 +6611,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 190093,
       "name": "Run (with Galantis)",
       "url": "https://open.spotify.com/track/1kaJ2dEM1jeXQaH7uDdyoD"
@@ -7395,7 +7395,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 228720,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/2LqwV6UF8PGnoEtqw8nYzN"
@@ -7425,7 +7425,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 210967,
       "name": "Tequila - Jax Jones & Martin Solveig Present Europa",
       "url": "https://open.spotify.com/track/6fU55C7VdMSSkJ0ZGmX2Kg"
@@ -7563,7 +7563,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 246074,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/4laPvATil8SrIAlysZazYN"
@@ -7581,7 +7581,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 255240,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/0k9KhK3PCrI5c7Q5biOUIs"
@@ -8277,7 +8277,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 163700,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
@@ -8295,7 +8295,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 202377,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/4KAsJ5ES1pdHl9CyYWQAo3"

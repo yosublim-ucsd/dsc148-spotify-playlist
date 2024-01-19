@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 175984,
       "name": "Delfin",
       "url": "https://open.spotify.com/track/4jAHH8WkHiJQP9JlW2PlEi"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 127989,
       "name": "Ich schie\u00df mich weg",
       "url": "https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU"
@@ -1184,6 +1184,28 @@
       "duration_ms": 134826,
       "name": "Igel",
       "url": "https://open.spotify.com/track/3QsETZCrcWXIYu0wCMlI6w"
+    },
+    {
+      "album": {
+        "name": "Nummer Eins",
+        "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Vanessa Mai",
+          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134826,
+      "name": "Igel",
+      "url": "https://open.spotify.com/track/64r7hoDyAEesRYT1XI0lTl"
     },
     {
       "album": {
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 138400,
       "name": "Knicklicht",
       "url": "https://open.spotify.com/track/4tPfm4RkiCw8XppXUnFe7c"
@@ -1652,7 +1674,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 164078,
       "name": "Nimm mich mit ins Paradies",
       "url": "https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu"
@@ -2122,6 +2144,28 @@
       "duration_ms": 222333,
       "name": "Wahnsinn",
       "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
+    },
+    {
+      "album": {
+        "name": "Wenn Du Bock hast (kannst Du Dir noch'n Korn abholen)",
+        "url": "https://open.spotify.com/album/3W5Lgeupld5gcJvP3MKiJd"
+      },
+      "artists": [
+        {
+          "name": "MaxUhu",
+          "url": "https://open.spotify.com/artist/2H9x61CC4ane71CxHsBA5V"
+        },
+        {
+          "name": "Bangermin",
+          "url": "https://open.spotify.com/artist/2vB5ZWcBm1uV4bQhUT27ZQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201859,
+      "name": "Wenn Du Bock hast (kannst Du Dir noch'n Korn abholen)",
+      "url": "https://open.spotify.com/track/46D0UOocYv3GhGMemELnLD"
     },
     {
       "album": {

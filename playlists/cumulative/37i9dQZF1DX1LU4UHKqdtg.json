@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ITZY",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover:IVE",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 210573,
       "name": "Alcohol-Free (English ver.)",
       "url": "https://open.spotify.com/track/6rJjT5kPYhtXkUsot7tkjI"
@@ -538,6 +538,28 @@
       "duration_ms": 217672,
       "name": "All My Life (Stray Kids Remix)",
       "url": "https://open.spotify.com/track/5OHNBi6tsE0acRA9Kt4ybC"
+    },
+    {
+      "album": {
+        "name": "All Night (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197763,
+      "name": "All Night (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa"
     },
     {
       "album": {
@@ -3645,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "DANG! (hocus pocus) - Japanese ver. -",
+        "url": "https://open.spotify.com/album/76O5sLoEH8p7YQyHh8YtxT"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "DANG! (hocus pocus) - Japanese ver. -",
+      "url": "https://open.spotify.com/track/0NpJMyVMcBAZUZOvgikzFi"
+    },
+    {
+      "album": {
         "name": "TWO RABBITS",
         "url": "https://open.spotify.com/album/0Ar5kViCsKWRjnRKy7V4Ck"
       },
@@ -4380,6 +4420,24 @@
       "duration_ms": 210333,
       "name": "Doom Du Doom",
       "url": "https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO"
+    },
+    {
+      "album": {
+        "name": "Aria <Structure Of Sadness>",
+        "url": "https://open.spotify.com/album/150gbib8eX8t6CblkJRS4o"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188026,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/1TZDaNtU02kQpusQh0zws0"
     },
     {
       "album": {
@@ -5324,6 +5382,24 @@
       "duration_ms": 181508,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/5QLswL5FY0brw1yGXCGrdg"
+    },
+    {
+      "album": {
+        "name": "Fly! Birdy Friends (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2AMKqZp1lRFdxLXLjtn2DF"
+      },
+      "artists": [
+        {
+          "name": "THE 8",
+          "url": "https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121159,
+      "name": "Fly! Birdy Friends - Korean Version",
+      "url": "https://open.spotify.com/track/5NAza02m7G3hPAaz3EWry8"
     },
     {
       "album": {
@@ -10898,7 +10974,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 175653,
       "name": "RE8EL",
       "url": "https://open.spotify.com/track/4zN0rgpBOcpXnp6EJkYmnM"
@@ -10916,7 +10992,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 185386,
       "name": "Ready for the World",
       "url": "https://open.spotify.com/track/1zh1cJT5qzuhb0F2S6X9ba"
@@ -12490,10 +12566,28 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 173053,
       "name": "So\u00f1ar (Breaker)",
       "url": "https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: BREAK",
+        "url": "https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "So\u00f1ar (Breaker)",
+      "url": "https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9"
     },
     {
       "album": {
@@ -12656,7 +12750,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -15824,7 +15918,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 192733,
       "name": "ZOOM ZOOM",
       "url": "https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl"
@@ -16350,7 +16444,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 219733,
       "name": "\u84dd\u6d0b\u6d77\u9f9f (Marine Turtle)",
       "url": "https://open.spotify.com/track/1saWG04lO7WpyO2DZriDeA"

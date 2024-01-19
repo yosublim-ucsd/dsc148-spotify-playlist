@@ -4,7 +4,7 @@
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-64 songs - 4 hr 16 min
+65 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Adiye Podi Pacha Siriki](https://open.spotify.com/track/1opzABHOLBHjCDUq4gpAiO) | [Gana Sudhagar](https://open.spotify.com/artist/1wztjJjfMRt8qPvI88vyOX) | [Araathu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fyXO4qNnxoM6A9ZlYL9UV) | 4:08 | 2022-11-05 |  |
 | [All In Allu Beauty](https://open.spotify.com/track/4WycRfs3ibeHRiJL38K6EU) | [Gana Hari](https://open.spotify.com/artist/4x67D7VuInlKD9UKbrPPAW) | [All In Allu Beauty](https://open.spotify.com/album/0WLaNZ6MDMRbtcyr9oJtrJ) | 3:48 | 2022-11-05 |  |
 | [Amakkalam \- From "Think Originals"](https://open.spotify.com/track/49vfyaR7KxgTEqpFtn3XPg) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Keya Pothen](https://open.spotify.com/artist/3aRvYgNaKNnAiJHjWJEyIk) | [Amakkalam \(From "Think Originals"\)](https://open.spotify.com/album/6NYPqaUrwTKneOjnJK6kAp) | 2:37 | 2023-06-27 |  |
+| [Annachi](https://open.spotify.com/track/3GR331BaOFe9weSYkx6D0Z) | [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC), [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f) | [Annachi](https://open.spotify.com/album/0DVJvSmAigV1bEquebcNnk) | 2:50 | 2024-01-18 |  |
 | [Bhae Bhae](https://open.spotify.com/track/0CXcyPWFkcGqLsQ9e07YNG) | [AG Maggy](https://open.spotify.com/artist/3I4Vemt9tNQnBG7apbbMJY) | [Bhae Bhae](https://open.spotify.com/album/4qP8WhOmeSmMuuaY3WTkHr) | 4:09 | 2023-01-11 |  |
 | [Butterfly Pola](https://open.spotify.com/track/3vRRPomvHC3ySQGJGuRVqR) | [Kaimalu Gokul](https://open.spotify.com/artist/6YqcexB8QhYETy5Ujm0GOs) | [Butterfly Pola](https://open.spotify.com/album/2AaOjj3PBD5IE66IqgFIdw) | 3:15 | 2023-07-07 |  |
 | [Chikkom](https://open.spotify.com/track/2auqkXYwA848ortEvX88m7) | [Thiruvallur Gana Akash](https://open.spotify.com/artist/2aFQWgQ2qM5dhyP6RGzeOQ) | [Chikkom](https://open.spotify.com/album/0nOGQn9LPxeMRTaKl6K9zY) | 4:23 | 2023-03-22 |  |

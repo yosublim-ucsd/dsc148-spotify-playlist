@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-412 songs - 23 hr 42 min
+413 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Good Enough](https://open.spotify.com/track/7bT32pu1rHEiS6OGvbZwNV) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Good Enough / For Me \(BCee Remix\)](https://open.spotify.com/album/1HdBgugWBSkwqTfuJ4gn5I) | 4:20 | 2022-01-07 |  |
 | [GRANEW](https://open.spotify.com/track/2c0pZXVTxTHJVagqDQdFoG) | [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P) | [OYOGUMANE](https://open.spotify.com/album/4pNyP4fAlZihVZ3uAY1UOB) | 2:02 | 2022-07-14 | 2022-08-06 |
 | [grayscale](https://open.spotify.com/track/7bDVv5WI1ZPJOVNtJvqmYb) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt), [やぎぬまかな](https://open.spotify.com/artist/0hvNcP9hMHLy8Mz7cX6AsI) | [grayscale](https://open.spotify.com/album/6cdgPkXMC2CcgkNjEQ1VfN) | 5:26 | 2022-01-07 | 2023-05-16 |
-| [Green Hill Zone](https://open.spotify.com/track/0XjZFdCbGKM2OHecJa1185) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [Green Hill Zone](https://open.spotify.com/album/5IhsVRMo999J5TNdgrYPDP) | 2:55 | 2022-01-07 |  |
+| [Green Hill Zone](https://open.spotify.com/track/0XjZFdCbGKM2OHecJa1185) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [Green Hill Zone](https://open.spotify.com/album/5IhsVRMo999J5TNdgrYPDP) | 2:55 | 2022-01-07 | 2024-01-19 |
 | [Gum Gum Girl](https://open.spotify.com/track/4xrz4aF606oQ8xqlaoS3ZK) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Gum Gum Girl](https://open.spotify.com/album/67O2yBZLKwAThCY5K3frvS) | 3:39 | 2022-03-11 | 2022-04-21 |
 | [Gurenge](https://open.spotify.com/track/5CPb3hIAHW1YAJsy5n2DQj) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Gurenge](https://open.spotify.com/album/4f6elU39RiUgIztaePyNff) | 3:24 | 2022-01-07 | 2023-02-17 |
 | [Gurenge](https://open.spotify.com/track/6kBaORe8Y7pJh00892d94Q) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Gurenge](https://open.spotify.com/album/0EH5DTITXNnjcVxlgUfQCX) | 3:24 | 2023-02-17 |  |
@@ -404,6 +404,7 @@
 | [Whirlwind \- Woebn edit](https://open.spotify.com/track/09DsSWNAzsSDwfYVT9im2u) | [Woebn](https://open.spotify.com/artist/3yfMqqxSYQjufPDxqyLiNX), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Krystal](https://open.spotify.com/artist/0y6I0Y8NUO3qUe2NRqT5rH) | [Whirlwind \(Woebn edit\)](https://open.spotify.com/album/7FXi7a8FRMD9SjC8xUACIl) | 3:04 | 2022-01-07 | 2022-07-06 |
 | [WISH YOU WELL](https://open.spotify.com/track/2ABecMfF7whpOkO7yuHJBn) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [ellie d.](https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh) | [WISH YOU WELL](https://open.spotify.com/album/0tb42ecODs0ifhKGygHJia) | 2:00 | 2023-07-07 |  |
 | [With Clouds Below](https://open.spotify.com/track/7hwSaTdDujbwXGGp72hssA) | [Outwild](https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W) | [With Clouds Below](https://open.spotify.com/album/7wsIfcNt1Muj6dgNpuDldC) | 3:29 | 2022-01-07 | 2023-05-13 |
+| [Without u \(feat\. Holywatr\)](https://open.spotify.com/track/1qDoHX2KuwgMDgetDgtBVx) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/1BIU4tfcomBmORTUrdSQcc) | 3:05 | 2024-01-05 |  |
 | [Without u \(feat\. Holywatr\)](https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Without u \(feat\. Holywatr\)](https://open.spotify.com/album/38zCcpxCUq4CimSwKVAALj) | 3:05 | 2023-05-12 | 2023-09-20 |
 | [WONDER POP](https://open.spotify.com/track/2LJRpUkMAyBmuBSxQDN61i) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [WONDER POP](https://open.spotify.com/album/5Qfzvs1Xso9ZaZwbqN8a42) | 6:06 | 2022-01-07 |  |
 | [Worlds Away](https://open.spotify.com/track/7oN714ES39BtIurjS46BQt) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Worlds Away](https://open.spotify.com/album/54qisi0X9GjPyLA0MTlnSN) | 3:52 | 2022-01-07 |  |

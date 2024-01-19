@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 17555,
+  "2024-01-19": 17545,
   "date_first_scraped": "2022-12-26",
   "description": "Canciones para celebrar la Navidad para toda la familia.",
   "name": "Navidad Para Ni\u00f1os",
@@ -1562,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "Una Navidad Especial",
+        "url": "https://open.spotify.com/album/4MnRUUn9wOhDyI5WBKIhfR"
+      },
+      "artists": [
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "date_added": "2021-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161622,
+      "name": "Que Tu Navidad Sea Incomparable",
+      "url": "https://open.spotify.com/track/1cKexkAZHYI459lBgpTlUh"
+    },
+    {
+      "album": {
         "name": "Que Tu Navidad Sea Incomparable",
         "url": "https://open.spotify.com/album/5BRZ2GOlKwCiaWTQ6rUZHf"
       },
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 161622,
       "name": "Que Tu Navidad Sea Incomparable",
       "url": "https://open.spotify.com/track/37v1NJA31wR0vVL0LGhKnG"

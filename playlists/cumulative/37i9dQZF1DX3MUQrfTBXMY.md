@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-305 songs - 1 day 2 hr 14 min
+306 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Shobi Bhul](https://open.spotify.com/track/1vik7PwReRv1NDQwzaTPGl) | [Bashundhara Digital](https://open.spotify.com/artist/4hgPeiCHDXO4pfLHC3nEpS), [Nogor Baul James](https://open.spotify.com/artist/33HfLLFWgE1OFdOINScjrS) | [Shobi Bhul](https://open.spotify.com/album/4EGYQILxGlrlZVOXh8fTve) | 4:38 | 2023-05-07 | 2023-05-23 |
 | [Shoinik](https://open.spotify.com/track/0bFIj6j8BGoGr4F7lMxpbz) | [Hallucination](https://open.spotify.com/artist/19KFB4cmXVPZKalVqcmYwc) | [Krittrim Prithibi Deluxe Edition](https://open.spotify.com/album/5M6AUAozRRgCbtISw3gRCI) | 4:28 | 2022-09-23 | 2022-12-01 |
 | [Shomorpon](https://open.spotify.com/track/3Rzqc31gdXt3CnlMSuDoXj) | [Owned](https://open.spotify.com/artist/2khsQvqlAuVDTR4f6vFVrU) | [Eighteen](https://open.spotify.com/album/0Dx2OWUZzYn8QXF1rCtjhT) | 4:21 | 2022-06-16 |  |
-| [Shomoy Gele](https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6iBQKsbl0ouZbbpaZha8MS) | 4:37 | 2022-07-15 |  |
+| [Shomoy Gele](https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6iBQKsbl0ouZbbpaZha8MS) | 4:37 | 2022-07-15 | 2024-01-19 |
 | [Shono Ekti Mujiborer Theke](https://open.spotify.com/track/2DfvtcoonFJXS213Z2rFMn) | [A\. I\. Razu](https://open.spotify.com/artist/67ShnJ9ENhvPwmWymi4zYB) | [Shono Ekti Mujiborer Theke](https://open.spotify.com/album/0wdglGDwgF5CxNcIFwqGyO) | 3:49 | 2022-08-29 | 2022-09-24 |
 | [Shopner Gontobbo](https://open.spotify.com/track/1Geh1LEWKVmG2iJKP2BX8e) | [fused](https://open.spotify.com/artist/0t4yDm0LHubUiQFOvuNSN6) | [Shopner Gontobbo](https://open.spotify.com/album/1KrH6WrJ7pHIMVYq3jkeYr) | 4:01 | 2022-06-16 | 2023-03-08 |
 | [Shopno](https://open.spotify.com/track/55YkJjAbEqwtdJv8Bp2L95) | [Mountain Melo](https://open.spotify.com/artist/6JXHD5OT5SRUw5T7QnClki) | [Shopno](https://open.spotify.com/album/2J0bNQRykyIrNqbrfE2BK4) | 6:34 | 2023-09-12 | 2023-09-27 |
@@ -285,6 +285,7 @@
 | [Shunnotar Gaan](https://open.spotify.com/track/3rw1weqqFeFjSjWKTAmvzI) | [Shishir Ahmed](https://open.spotify.com/artist/7B9OMl4OkifBonxyDNBJ2A), [Sheikh Ishtiaque](https://open.spotify.com/artist/0iMi02nPTjOSfQqMfGJTZn) | [Shunnotar Gaan](https://open.spotify.com/album/30gPig90CPaXynDVw1Kie2) | 5:02 | 2022-06-16 | 2023-09-27 |
 | [Smritir Abhidhan](https://open.spotify.com/track/4ePw8mvGlWYzZdBxUdzVe6) | [Nerve Bd](https://open.spotify.com/artist/0NWAyPvcmuMuUEQsBUkQCd), [Jeriko Costa](https://open.spotify.com/artist/1K9AqGsFvlWsdaCqyk659B) | [Smritir Abhidhan](https://open.spotify.com/album/2erS31TFlQWBCNJls2vThu) | 6:15 | 2022-06-16 | 2023-02-18 |
 | [Smritir Ayna](https://open.spotify.com/track/4PFGiWuY89AaNcPUqNmYfX) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Otritio](https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH) | 7:33 | 2023-03-15 | 2023-04-04 |
+| [Somoy Gele](https://open.spotify.com/track/5BQvyVaERi70ObzlpkRkHS) | [Band Lalon](https://open.spotify.com/artist/2hZDcJeZyFHNR0AGdun56h) | [Khepa](https://open.spotify.com/album/14VdchKdyb57lH5TVr3zGZ) | 4:41 | 2023-11-21 |  |
 | [Somoy gele](https://open.spotify.com/track/3RDSAyE32oOnMFoEWEDtH3) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6oXxXaKox9eRoP1QUxaUOT) | 4:41 | 2022-06-16 | 2022-07-29 |
 | [Sondha Namai Rakhi](https://open.spotify.com/track/5A3uPAWyY7SA8HYI58ulZO) | [Bangla Five](https://open.spotify.com/artist/2mt61gxTSTC56E4wgosOIj) | [Confusion](https://open.spotify.com/album/2c2xtzOyPOkEoou45o1tYc) | 2:13 | 2023-03-15 | 2023-04-29 |
 | [Srotoshinni](https://open.spotify.com/track/0fLJBwZIGP33RP4nLyqKrY) | [Encore](https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7) | [Chinnho](https://open.spotify.com/album/2aLOCDq7vGHIO7OyDwQSuM) | 4:23 | 2023-02-17 |  |

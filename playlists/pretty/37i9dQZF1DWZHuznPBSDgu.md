@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 
 > 1978年に「勝手にシンドバッド」でデビュー。1980年代から2010年代までの4年代でそれぞれチャート1位を記録する国民的バンド=サザンオールスターズのオールタイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,180 likes - 102 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,248 likes - 102 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 | 101 | [EMANON](https://open.spotify.com/track/7s5aCe3T27yeg800fkYgHp) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:45 |
 | 102 | [死体置場でロマンスを](https://open.spotify.com/track/6U5Jqs8bYsREVIIza72BET) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 3:59 |
 
-Snapshot ID: `MCxjZWU5MmYzNmM4M2RiZGI5YWFjZDQxODFmZGI2NmIzYjBhMTZkNzk1`
+Snapshot ID: `MCwzZGM0OWI4ZjQ0MmNlNWNmMzExNjNkYTA1NWQxOTczNDc5ZjQ0N2U5`

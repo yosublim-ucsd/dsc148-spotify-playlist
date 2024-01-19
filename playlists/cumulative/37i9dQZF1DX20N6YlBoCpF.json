@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt?si=u8NseDH5Rfu7s_Tn0jl1tA\">Ryno Velvet</a> ",
+  "description": "Die nuutste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw?si=ly521BE-TXir6gSzDDYnQA\">Annelie</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -204,6 +204,28 @@
       "duration_ms": 215258,
       "name": "Aandklas",
       "url": "https://open.spotify.com/track/3eb1n1h41Y4SqQfU7z4th4"
+    },
+    {
+      "album": {
+        "name": "Aarde Onbekend",
+        "url": "https://open.spotify.com/album/6TW0WYguDq3jdjeaQMoN8B"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Visagie",
+          "url": "https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK"
+        },
+        {
+          "name": "Geoff Leite",
+          "url": "https://open.spotify.com/artist/2ZevV9juD2NLqhkUTNecAA"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203341,
+      "name": "Aarde Onbekend",
+      "url": "https://open.spotify.com/track/2uTBYX6QXTGVnRTzB4g4U2"
     },
     {
       "album": {
@@ -642,7 +664,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 230750,
       "name": "As Jy Bid",
       "url": "https://open.spotify.com/track/5XOFgZpnRX4dzT07jUeZId"
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 212173,
       "name": "Boerejol in Afrikaans",
       "url": "https://open.spotify.com/track/7rJaTXyeY271TMK06hRNy0"
@@ -2056,7 +2078,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 193660,
       "name": "Daai Girl",
       "url": "https://open.spotify.com/track/6ivrpvgB86kwsySdLpjhV2"
@@ -2292,6 +2314,28 @@
       "duration_ms": 241572,
       "name": "Deeg Beweeg",
       "url": "https://open.spotify.com/track/5kMG3JKJR4VwVxkC8XjlZa"
+    },
+    {
+      "album": {
+        "name": "Deurgrond",
+        "url": "https://open.spotify.com/album/5GUNgOitf2UHgsSRG1Z6ML"
+      },
+      "artists": [
+        {
+          "name": "Franco Prinsloo",
+          "url": "https://open.spotify.com/artist/5MwIR6OCMd88gkOmzzoMB4"
+        },
+        {
+          "name": "Vox Chamber Choir",
+          "url": "https://open.spotify.com/artist/3F7MfoCoP27ZBcluVbU16b"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Deurgrond",
+      "url": "https://open.spotify.com/track/1bbeafWSQCMRkfz7FJa3MZ"
     },
     {
       "album": {
@@ -2552,7 +2596,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 317680,
       "name": "Die Lig",
       "url": "https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r"
@@ -2610,6 +2654,24 @@
       "duration_ms": 162180,
       "name": "Die Man",
       "url": "https://open.spotify.com/track/0UOflpM3Q5WGmigPr4W2We"
+    },
+    {
+      "album": {
+        "name": "Stories Oor Jou",
+        "url": "https://open.spotify.com/album/5EsaQXEa9YbVpPvV3Gfeiw"
+      },
+      "artists": [
+        {
+          "name": "Shaun Nieuwoudt",
+          "url": "https://open.spotify.com/artist/1Dq5LVmMsNimncPaNuHXAc"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Die Oorlog",
+      "url": "https://open.spotify.com/track/3NXF0spCulopYTBblc8zqf"
     },
     {
       "album": {
@@ -3048,6 +3110,24 @@
       "duration_ms": 188727,
       "name": "Donderweer",
       "url": "https://open.spotify.com/track/2Mbm7JfWTVoUQNxGfiLaPs"
+    },
+    {
+      "album": {
+        "name": "DOODGEWOON",
+        "url": "https://open.spotify.com/album/2Nq85Xy2O7NpG3r8a5aikQ"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "DOODGEWOON",
+      "url": "https://open.spotify.com/track/3Wc9LoitkRgisx0jE9Lvhq"
     },
     {
       "album": {
@@ -3554,6 +3634,24 @@
       "duration_ms": 201521,
       "name": "Enigste Een",
       "url": "https://open.spotify.com/track/5IGOLz9Ofq0xDRgQpIoEVY"
+    },
+    {
+      "album": {
+        "name": "Enkelvoud",
+        "url": "https://open.spotify.com/album/33rz8yr1CSdOc7PLj6Gf1L"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215437,
+      "name": "Enkelvoud",
+      "url": "https://open.spotify.com/track/2JifH8GkXc1MrJC8WouZSK"
     },
     {
       "album": {
@@ -6274,7 +6372,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 230000,
       "name": "Kuslyn Koors",
       "url": "https://open.spotify.com/track/1mCtdOAvIzdIEpEodIxMe6"
@@ -6556,7 +6654,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 196229,
       "name": "Lag",
       "url": "https://open.spotify.com/track/1UYwq39O7eCWVgdv6w2eZr"
@@ -13600,6 +13698,28 @@
       "duration_ms": 285714,
       "name": "Wolkedans",
       "url": "https://open.spotify.com/track/2X2QSGLuvsDZX7i0s2fXnC"
+    },
+    {
+      "album": {
+        "name": "Wolwe",
+        "url": "https://open.spotify.com/album/25jw0oY6Kc079dY3NKP3VM"
+      },
+      "artists": [
+        {
+          "name": "Tertius rooi",
+          "url": "https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl"
+        },
+        {
+          "name": "Brandon Bennett",
+          "url": "https://open.spotify.com/artist/5tIUR4RX1JqJrYQA5eqavS"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269647,
+      "name": "Wolwe",
+      "url": "https://open.spotify.com/track/28C48G11yyOePNAOb7uA9w"
     },
     {
       "album": {

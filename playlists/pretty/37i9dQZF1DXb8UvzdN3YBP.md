@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8UvzdN3YBP.md) - [plain]
 
 > Music from and inspired by "Glass Onion: A Knives Out Mystery," coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,439 likes - 35 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,446 likes - 35 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8UvzdN3YBP.md) - [plain]
 | 27 | [In A Sentimental Mood](https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:15 |
 | 28 | [Moody Jazz](https://open.spotify.com/track/4o2xQZiuhFix37Mc0SHMxn) | [Instrumental Piano Universe](https://open.spotify.com/artist/6nWAezpstoJjzf1m6ZEl7P) | [Jazz Afternoon \- Baby Jazz Music, Candle Light Dinner, Calm Piano](https://open.spotify.com/album/3zJuKl44R9IXVAAnIENgWn) | 3:38 |
 | 29 | [Please Send Me Someone To Love](https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 9:48 |
-| 30 | [Play the Ponies](https://open.spotify.com/track/3r7pQSqIWmXYFQci0aBBQi) | [Jo Blankenburg](https://open.spotify.com/artist/4tuiQRw9bC9HZhSFJEJ9Mz) | [Clandestine](https://open.spotify.com/album/5NuF7nYaRGq8YlPY1X52Ro) | 1:49 |
+| 30 | [Play the Ponies](https://open.spotify.com/track/1VAvqNWXlVUiCpWdoOMc3W) | [Jo Blankenburg](https://open.spotify.com/artist/4tuiQRw9bC9HZhSFJEJ9Mz) | [Clandestine](https://open.spotify.com/album/2hyQxOLLlPazMW42b82LVh) | 1:49 |
 | 31 | [Over the Rainbow](https://open.spotify.com/track/7MuZnieEKLs0VLivHZveVk) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Paris 1983](https://open.spotify.com/album/4f102HY552Rn68aqwRbzFO) | 3:24 |
 | 32 | [The Thrombey Family Theme \(Solo Piano\)](https://open.spotify.com/track/1ObM2MEjk2VLXotQQhKKiY) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 1:33 |
 | 33 | [Blanc's Tale, Pt\. II](https://open.spotify.com/track/0ZzluTS60kq1Hu5M74sBtb) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 6:11 |
 | 34 | [The Dumbest Car Chase of All Time](https://open.spotify.com/track/2EdP0jDri5scsvBfdYkOnq) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 2:56 |
 | 35 | [Knives Out!, Pt\. II \(The Will\)](https://open.spotify.com/track/5j7V7I0CBkCpsmwVSV3rBa) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 3:03 |
 
-Snapshot ID: `MCxjYThiMzEzMmZhOTA3YmIzYzA1ZTRmOTdkYTgxMGI0Y2VmMTgzY2Iw`
+Snapshot ID: `MCwxMjhiZjFhNjhjZWIwMDgyMjkyMTA0OWY4YTg3OTQ3ZWRmZDkwNmMz`

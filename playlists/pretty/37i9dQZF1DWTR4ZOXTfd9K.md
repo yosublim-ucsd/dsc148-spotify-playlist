@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,271 likes - 100 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,410 likes - 100 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 99 | [Old Folks](https://open.spotify.com/track/5iLiu2yxhOs97x9VILKzHF) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Vol\. 1](https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba) | 5:50 |
 | 100 | [Jackie Gets Out](https://open.spotify.com/track/12zuJhwGaqJu8fvgBWqYuy) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [David Pulphus](https://open.spotify.com/artist/02amhnCtIA62SbXmNashjW) | [The Comedian \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1a1fkH8V57Wxm1cEVzRgxt) | 2:56 |
 
-Snapshot ID: `MCxlMmFmMTgzZTc1NzBjN2FlYTI3YjJkYjgxYmFhMjZjYTA4MDE4MDk5`
+Snapshot ID: `MCw3OGVlZGNmY2U3ZDRmMzc2Mjc4OTcyNmMwYmFiZDdiM2IyOGVhODZl`

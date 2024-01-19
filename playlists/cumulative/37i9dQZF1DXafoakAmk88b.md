@@ -2,7 +2,7 @@
 
 ### [Indie Frequency](https://open.spotify.com/playlist/37i9dQZF1DXafoakAmk88b)
 
-> New indie driving the current\. Cover: Jordan Ward
+> New indie driving the current\. Cover: hemlocke springs
 
 380 songs - 19 hr 58 min
 

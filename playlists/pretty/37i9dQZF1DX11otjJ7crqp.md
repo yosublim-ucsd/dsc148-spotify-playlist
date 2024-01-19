@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Jessica Baio
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,619 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,645 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [don't break my...](https://open.spotify.com/track/4IobQL4j9hi0KdYoRFA4n9) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [don't break my...](https://open.spotify.com/album/4H3mkT4AxfYkDpdVR1mafr) | 2:10 |
 | 100 | [UFHO](https://open.spotify.com/track/2g3pFa3ySgKc86ZzcgBts5) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [UFHO](https://open.spotify.com/album/6RSzn0zreMMYliXT0L1E9k) | 2:11 |
 
-Snapshot ID: `MCw4Mjg2ZjdjMmJhYzU2MDJkZjJlYWE1ZWIwZWM0MDMwYjUzMmNhMzhh`
+Snapshot ID: `MCwzMThmNzYwMGU3ZjA1MGI3ZDY5ZTg2YjQ0YjYwOTcyOWE4ZDU4YzQ2`

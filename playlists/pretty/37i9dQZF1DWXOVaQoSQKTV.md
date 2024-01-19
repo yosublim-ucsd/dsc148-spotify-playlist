@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,834 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,858 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 161 | [Peaches](https://open.spotify.com/track/7yndlXlrUV0dA01TBMvxuY) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Peaches](https://open.spotify.com/album/4hyB3TXvwJuvBgXMbOFBeH) | 3:30 |
 | 162 | [Chasing Blue](https://open.spotify.com/track/7vZgU5j2UjBXxFWBPRCQK2) | [BLACKPAW](https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467) | [Chasing Blue](https://open.spotify.com/album/3oAQj5KM9fG2ihklF9K16F) | 4:03 |
 | 163 | [Waking Up](https://open.spotify.com/track/7faoTEsOUuNrRI3IkYmlZG) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Easier](https://open.spotify.com/album/5D5osDIOWF1zxikMZ94JaW) | 2:54 |
-| 164 | [My Fit](https://open.spotify.com/track/097FTafRBQ1mXPtRYo7IkQ) | [Mad Circuit](https://open.spotify.com/artist/1hEew8IFcwMc0gpMyHJm8u), [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Airhead](https://open.spotify.com/album/3UVkszNGk5yLRgphaWePUI) | 2:57 |
+| 164 | [My Fit](https://open.spotify.com/track/2J0Kl4V7V4DkFn42EzntqR) | [Mad Circuit](https://open.spotify.com/artist/1hEew8IFcwMc0gpMyHJm8u) | [Airhead](https://open.spotify.com/album/4gqp7YLAsnBCcnLoEjYx6e) | 2:57 |
 | 165 | [Never Let You Go](https://open.spotify.com/track/1rDBcksBApWqECgPGwI5It) | [People On People](https://open.spotify.com/artist/71mOU281352We1iANampDV) | [Only Heaven](https://open.spotify.com/album/1tXd2npzRkjEAWzvNRLUFA) | 3:35 |
 | 166 | [Siren 042](https://open.spotify.com/track/5v8tUdBAn13V2yKlICWZ61) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE), [WHY?](https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH) | [Siren 042](https://open.spotify.com/album/73hNleCY7XE2yPhdgoSPnP) | 2:41 |
 | 167 | [Don't Stop Dreaming](https://open.spotify.com/track/1GXhxYoL3jWNLJ9SJGivSM) | [Katrina Ford](https://open.spotify.com/artist/0m1QOHroy845vm0zq28eIA), [Celebration](https://open.spotify.com/artist/6ITIhwzOeoG3BjX3Es1q0T) | [Albumin](https://open.spotify.com/album/3XKSng0G2bMGtmNtOhhgWa) | 3:11 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCwyYTFkODdhZDM4MWMxZjc5MzU2ZmJkOGI4OGM4YzEwYzE0YzY5OWMy`
+Snapshot ID: `MCxlYTAzNWNmMzdkNGI4OTgwNzY5MTI4MjEwMTQ4NTkzZTk3OGQ4Zjgx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vem de dm 🔥  ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,957 likes - 65 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,992 likes - 65 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 22 | [Frio na Barriga](https://open.spotify.com/track/2hZ6Ap7gFkSoGBOFHw89Ql) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Frio na Barriga](https://open.spotify.com/album/26JIFAIG2z4jDSVK75vHr3) | 4:13 |
 | 23 | [Meu Lado da História](https://open.spotify.com/track/08LiZsFrLkWYtd20jeqWLh) | [Nandx710](https://open.spotify.com/artist/6Kk3DH8cxWFrTq9ajqck22), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [David Gomes](https://open.spotify.com/artist/16hlg6k7mG0fnOOWxVBmuV) | [Meu Lado da História](https://open.spotify.com/album/5mWCIurXAUfxn3e0K9WX4T) | 2:31 |
 | 24 | [Atende o Celular](https://open.spotify.com/track/6EuHqKLUuSp6taKVdfhafF) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Atende o Celular](https://open.spotify.com/album/0jryDdYQKwEwB2HrdNuQLs) | 2:54 |
-| 25 | [VERÃO DA LATA](https://open.spotify.com/track/4wUmnHlr4iogXJJEinjX5q) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [VERÃO DA LATA](https://open.spotify.com/album/5cgpuZRjShzDMoHav6aT7X) | 2:12 |
+| 25 | [VERÃO DA LATA](https://open.spotify.com/track/4SV0edEJDYJlt3aeE7HUHo) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [051](https://open.spotify.com/album/3y21V9frgluT54InXbn9tj) | 2:12 |
 | 26 | [Melhor Sem Mim](https://open.spotify.com/track/1hUzkO738a6LoYIBhMCR0r) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Melhor Sem Mim](https://open.spotify.com/album/088K4X8hrYw2RTyxs6q77A) | 3:06 |
 | 27 | [Recortes](https://open.spotify.com/track/7EtVFjjD8UPvBgihf5YPFy) | [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue) | [Recortes](https://open.spotify.com/album/7bzLCXibLD9nzYwE7iBR8y) | 3:03 |
 | 28 | [Urano](https://open.spotify.com/track/4EJNoAGrRzb9020WLghozN) | [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [Louwiz](https://open.spotify.com/artist/0Q7iTb96HAijk2P0kQ9Xp3) | [Urano](https://open.spotify.com/album/7AvojkVgptdIw9PBtW9uwY) | 2:49 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 64 | [Quero Agora](https://open.spotify.com/track/2EaOYBodrkKFceFdbIBRYC) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Quero Agora](https://open.spotify.com/album/0Wwfj23cw97BCGrOHznMvQ) | 3:25 |
 | 65 | [A Garota Mais Linda de Oz](https://open.spotify.com/track/6blFfIKfjek2zgrcNjWcnU) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [A Garota Mais Linda de Oz](https://open.spotify.com/album/6EnL3B0Co201xFS185pL0B) | 2:45 |
 
-Snapshot ID: `MCw4ZGJiOWQ4NjA3OTA0ZTdjNTQ2MDhlNGE3YTk1ZGI0Y2IxMWZkMTc1`
+Snapshot ID: `MCw5NWRkYmU1NTgzYmI5ZTY2Nzc4Yzc0OWJjODNhMzJmZThjZjBmYWQ5`

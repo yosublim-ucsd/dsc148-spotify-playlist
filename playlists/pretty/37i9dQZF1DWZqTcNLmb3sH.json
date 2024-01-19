@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
-  "num_followers": 56861,
+  "num_followers": 56872,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzJhNDhkZDZlMDYzZWQyMmI3NGRmYTM3MjE4N2QxZmYzZTkwNjYw",
+  "snapshot_id": "MCw0OWE5OThkNjI4ZDY0MGFkYmU5YWU5ZTEyM2VjNTZmODMwZmViMWE2",
   "tracks": [
     {
       "added_at": "2024-01-04 06:14:40",
@@ -61,6 +61,26 @@
       "url": "https://open.spotify.com/track/0nlZkaJG7P5Y9NFxG7u5Vh"
     },
     {
+      "added_at": "2024-01-18 12:03:12",
+      "album": {
+        "name": "Nanage Yenaagide Indu ( From \"Gangster Alla Prankster\" )",
+        "url": "https://open.spotify.com/album/5DRhLVLVOrEBcjtIZqk6zS"
+      },
+      "artists": [
+        {
+          "name": "Vinay KN",
+          "url": "https://open.spotify.com/artist/78b3q17xCDZn1Mo6pRfD3a"
+        },
+        {
+          "name": "John Kennady",
+          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
+        }
+      ],
+      "duration_ms": 172020,
+      "name": "Nanage Yenaagide Indu ( From \"Gangster Alla Prankster\" )",
+      "url": "https://open.spotify.com/track/09FHQjJvTHGz0xwN3dLuBW"
+    },
+    {
       "added_at": "2024-01-03 12:04:09",
       "album": {
         "name": "Maleyanthe Nee Baa (from \"Sanju Weds Geetha 2\")",
@@ -109,6 +129,26 @@
       "url": "https://open.spotify.com/track/2vnn8NrRytHGVKmPQraEtR"
     },
     {
+      "added_at": "2024-01-18 12:00:59",
+      "album": {
+        "name": "Honganase Honganase (from \"Moorane Krishnappa\" )",
+        "url": "https://open.spotify.com/album/4oDRfYUYXaLS8Ilu5MKSCW"
+      },
+      "artists": [
+        {
+          "name": "Surabhi Bharadwaj",
+          "url": "https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr"
+        },
+        {
+          "name": "Anand Rajavikram",
+          "url": "https://open.spotify.com/artist/3dRKC2Ej6Dn7afgPJoZ1xZ"
+        }
+      ],
+      "duration_ms": 234932,
+      "name": "Honganase Honganase (from \"Moorane Krishnappa\" )",
+      "url": "https://open.spotify.com/track/1VU80KXpq64qJpEv1EiTaP"
+    },
+    {
       "added_at": "2024-01-15 07:13:20",
       "album": {
         "name": "Dava Dava (From \"Anshu\" )",
@@ -151,6 +191,26 @@
       "duration_ms": 236999,
       "name": "Peg Song",
       "url": "https://open.spotify.com/track/1y2ZQXSzAzPF1CQUPX9wdG"
+    },
+    {
+      "added_at": "2024-01-18 12:01:46",
+      "album": {
+        "name": "Theme of Suppliers (from \"Supplier Shankara\" )",
+        "url": "https://open.spotify.com/album/1WtLsGy4cjWZB4eYo5Ccli"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "R B Bharath",
+          "url": "https://open.spotify.com/artist/43lwYNl4rr3EB3agrwPtGI"
+        }
+      ],
+      "duration_ms": 216931,
+      "name": "Theme of Suppliers (from \"Supplier Shankara\" )",
+      "url": "https://open.spotify.com/track/7gdSOUGy3FdnC4OsqkdH6X"
     },
     {
       "added_at": "2024-01-03 06:27:07",
@@ -224,21 +284,25 @@
       "added_at": "2024-01-12 04:30:01",
       "album": {
         "name": "Rise of Miller (From \"Captain Miller\")",
-        "url": "https://open.spotify.com/album/0NOaai0nhdN581ZndcrcKp"
+        "url": "https://open.spotify.com/album/14cnjzMNWxTiYOYobdzs2E"
       },
       "artists": [
         {
-          "name": "Arunraja Kamaraj",
-          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/6n7qbMaXMDg5volEeeB9Ao"
         },
         {
           "name": "G. V. Prakash",
           "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Pramod Jois",
+          "url": "https://open.spotify.com/artist/2df2v0cykufkVCZP0TNn9f"
         }
       ],
       "duration_ms": 186000,
       "name": "Rise of Miller (From \"Captain Miller\")",
-      "url": "https://open.spotify.com/track/5XjW09Zha0Y0f0SUE3swep"
+      "url": "https://open.spotify.com/track/3vD690JxNiwBofoPC4j1Ce"
     },
     {
       "added_at": "2024-01-12 10:33:41",
@@ -1541,34 +1605,6 @@
       "url": "https://open.spotify.com/track/2rZJtBSjlJLZQUqe7obzKR"
     },
     {
-      "added_at": "2023-11-20 12:26:48",
-      "album": {
-        "name": "Lachi Lachi (From \"Maayanagari\")",
-        "url": "https://open.spotify.com/album/3NM7vXmG4RwYJqQF6KOAF9"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Nishan Rai",
-          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
-        },
-        {
-          "name": "Sudarshan D C",
-          "url": "https://open.spotify.com/artist/0Vs9eIvhYzedAWrviuWhz0"
-        },
-        {
-          "name": "Manasa Holla",
-          "url": "https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Lachi Lachi - From \"Maayanagari\"",
-      "url": "https://open.spotify.com/track/51pswOd4DjRdmIKaLKIvYj"
-    },
-    {
       "added_at": "2023-11-09 11:54:06",
       "album": {
         "name": "Mellage (from \"Swathi Mutthina Male Haniye\")",
@@ -1607,26 +1643,6 @@
       "duration_ms": 129009,
       "name": "Bham Bham Bole (From \"Cicada\")",
       "url": "https://open.spotify.com/track/53mRiu9ELgDp6PpbvKvEDJ"
-    },
-    {
-      "added_at": "2023-11-20 12:17:06",
-      "album": {
-        "name": "Tiger Nageswara Rao (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7MUAdFCK3W3AyQfCwXXfFy"
-      },
-      "artists": [
-        {
-          "name": "Abhishek M R",
-          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
-        },
-        {
-          "name": "Raghu Niduvalli",
-          "url": "https://open.spotify.com/artist/3XgLt0qMKO1yeg2MaEqx06"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Samaraane Nyayanaa",
-      "url": "https://open.spotify.com/track/5tx3XTdKY3hXyZDomIkW86"
     },
     {
       "added_at": "2023-11-15 09:54:00",
@@ -1675,30 +1691,6 @@
       "duration_ms": 214472,
       "name": "Haleya Haleya",
       "url": "https://open.spotify.com/track/0BjjZKBNJ1g9sejyOGnkMI"
-    },
-    {
-      "added_at": "2023-11-14 12:49:38",
-      "album": {
-        "name": "Nanna Ravi Neene (From \"ANIMAL\")",
-        "url": "https://open.spotify.com/album/2AG9iEIflTbPo9wq4YkFKR"
-      },
-      "artists": [
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Harshavardhan Rameshwar",
-          "url": "https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 321675,
-      "name": "Nanna Ravi Neene (From \"ANIMAL\")",
-      "url": "https://open.spotify.com/track/2yL2P8gYU326hVSL92x7XM"
     }
   ],
   "unique_name": "Latest Kannada",

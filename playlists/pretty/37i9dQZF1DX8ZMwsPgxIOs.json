@@ -1,13 +1,37 @@
 {
-  "description": "Techno is a state of mind. Cover: HI-LO",
-  "num_followers": 118827,
+  "description": "Techno is a state of mind. Cover: Amelie Lens",
+  "num_followers": 118879,
   "original_name": "Techno State",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzZjNzg5YjBhOTVlNGI1ZGRiYjZjYjZiOGZmNTc2YTI1ZjFhNTFm",
+  "snapshot_id": "MCxhNDdkZDM0MGZkNjI0Mzg4ZjgyOGFlOTdhN2EzMzAyZTg2NDBkNDY4",
   "tracks": [
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "When I Push (Edit)",
+        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "duration_ms": 213582,
+      "name": "When I Push - Edit",
+      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
+    },
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
@@ -63,6 +87,30 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "What I Do",
+        "url": "https://open.spotify.com/album/22m4OKMTuFzHdZG4e4DUrQ"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "What I Do",
+      "url": "https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Let's Begin",
         "url": "https://open.spotify.com/album/2QB0mD6cQ2yPnMmo4QaoN8"
       },
@@ -79,22 +127,6 @@
       "duration_ms": 173378,
       "name": "Let's Begin",
       "url": "https://open.spotify.com/track/46Fsgmz1Zc5ZMmhqFGmjaF"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 203155,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -119,6 +151,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 203155,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Desert Queen",
         "url": "https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH"
       },
@@ -131,6 +179,22 @@
       "duration_ms": 236691,
       "name": "Desert Queen",
       "url": "https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/0xKCAqdMT4quOxV2KcXVLf"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 141780,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/7rISI4OowAaN0ciRUPTsk8"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -159,22 +223,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/0xKCAqdMT4quOxV2KcXVLf"
-      },
-      "artists": [
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 141780,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/7rISI4OowAaN0ciRUPTsk8"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU"
       },
@@ -195,6 +243,26 @@
       "duration_ms": 208601,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Digital Dream",
+        "url": "https://open.spotify.com/album/5Ndn8wz5skx5j1vBkN5WVr"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "Ella Balinska",
+          "url": "https://open.spotify.com/artist/2hMRVW8ZuKpftAZBtEbGCf"
+        }
+      ],
+      "duration_ms": 194881,
+      "name": "Digital Dream",
+      "url": "https://open.spotify.com/track/4JnQpysntdJZsSvPwu67b5"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -219,30 +287,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "What I Do",
-        "url": "https://open.spotify.com/album/22m4OKMTuFzHdZG4e4DUrQ"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "Millean.",
-          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
-        },
-        {
-          "name": "Haylee Wood",
-          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "What I Do",
-      "url": "https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Dirty Blonde",
         "url": "https://open.spotify.com/album/72p8LFXjfXEHqfmHoHoUDb"
       },
@@ -255,6 +299,26 @@
       "duration_ms": 207067,
       "name": "Dirty Blonde",
       "url": "https://open.spotify.com/track/4xTFiSi0CmH8hrkMeMGca4"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/35IaeVYU7soMmkdDbWVUo5"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/0sgh2BTw3Rgckpu04xmJGe"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -351,6 +415,26 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "MEDUZA",
+        "url": "https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "DJ-Kicks: HAAi",
         "url": "https://open.spotify.com/album/5f7wLlgF33y9CUibAk3a5z"
       },
@@ -363,26 +447,6 @@
       "duration_ms": 235000,
       "name": "Life on the Wing - Mixed",
       "url": "https://open.spotify.com/track/15ASyKJc2D9t9Lu46TnxrP"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Oh My",
-        "url": "https://open.spotify.com/album/35IaeVYU7soMmkdDbWVUo5"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Oh My",
-      "url": "https://open.spotify.com/track/0sgh2BTw3Rgckpu04xmJGe"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -409,24 +473,20 @@
       "url": "https://open.spotify.com/track/4z5TeX7iJyiBU0J0CbzToz"
     },
     {
-      "added_at": "2023-12-22 00:01:00",
+      "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "MEDUZA",
-        "url": "https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc"
+        "name": "Oddity",
+        "url": "https://open.spotify.com/album/5kgvEI9RY1wVrCP1URSgwe"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+          "name": "Powers & Paterson",
+          "url": "https://open.spotify.com/artist/00Zc5l1YWDtZJFQxqpYYNy"
         }
       ],
-      "duration_ms": 139047,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU"
+      "duration_ms": 180000,
+      "name": "Oddity",
+      "url": "https://open.spotify.com/track/1kzz0jJUMFEBYPgtvVrMSr"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -608,7 +668,7 @@
       "added_at": "2023-12-22 00:01:00",
       "album": {
         "name": "Loam / New Symbols",
-        "url": "https://open.spotify.com/album/68iZNNrpkM91TSXbGmMAhL"
+        "url": "https://open.spotify.com/album/6KyTifUzmAMa4vFjcN5QiZ"
       },
       "artists": [
         {
@@ -622,7 +682,7 @@
       ],
       "duration_ms": 252617,
       "name": "New Symbols",
-      "url": "https://open.spotify.com/track/4KXEaUrzTUeEh8XlWsEZWZ"
+      "url": "https://open.spotify.com/track/6ScTdZWvz90T6EC7WQL2de"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -693,6 +753,22 @@
       "url": "https://open.spotify.com/track/0yiBVwWJkUDQlb10uQS5cp"
     },
     {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Constellation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/3zh113FtyKoyyv2RP3anDl"
+      },
+      "artists": [
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        }
+      ],
+      "duration_ms": 452626,
+      "name": "Cascada",
+      "url": "https://open.spotify.com/track/4aEiPEkgpHcu4HAzmIBfr8"
+    },
+    {
       "added_at": "2023-12-22 00:01:00",
       "album": {
         "name": "Silent Silence",
@@ -747,22 +823,6 @@
       "duration_ms": 189855,
       "name": "RIDE OR DIE",
       "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Constellation Series, Vol. 2",
-        "url": "https://open.spotify.com/album/3zh113FtyKoyyv2RP3anDl"
-      },
-      "artists": [
-        {
-          "name": "Eynka",
-          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
-        }
-      ],
-      "duration_ms": 452626,
-      "name": "Cascada",
-      "url": "https://open.spotify.com/track/4aEiPEkgpHcu4HAzmIBfr8"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1164,7 +1224,7 @@
       "added_at": "2023-12-22 00:01:00",
       "album": {
         "name": "Loam / New Symbols",
-        "url": "https://open.spotify.com/album/68iZNNrpkM91TSXbGmMAhL"
+        "url": "https://open.spotify.com/album/6KyTifUzmAMa4vFjcN5QiZ"
       },
       "artists": [
         {
@@ -1178,7 +1238,7 @@
       ],
       "duration_ms": 299670,
       "name": "Loam",
-      "url": "https://open.spotify.com/track/6P3cOgj5LWSmtRbqrrCflU"
+      "url": "https://open.spotify.com/track/3JL8JuUMrJHrKpk12uKn2w"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1335,30 +1395,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Music Is Life",
-        "url": "https://open.spotify.com/album/7ryXbYGT910BTiS6yLAiSn"
-      },
-      "artists": [
-        {
-          "name": "Bushwacka!",
-          "url": "https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Chuck Roberts",
-          "url": "https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu"
-        }
-      ],
-      "duration_ms": 228821,
-      "name": "Music Is Life - Radio Edit",
-      "url": "https://open.spotify.com/track/11ON0RLmRHXaYWLFd62Bia"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Simulator",
         "url": "https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ"
       },
@@ -1399,22 +1435,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Crash Recoil",
-        "url": "https://open.spotify.com/album/074BDQSfufLOuL8qWsRsyg"
-      },
-      "artists": [
-        {
-          "name": "Surgeon",
-          "url": "https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM"
-        }
-      ],
-      "duration_ms": 358831,
-      "name": "Subcultures",
-      "url": "https://open.spotify.com/track/219dcH5o0f37ECYioSPtaw"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Pinger",
         "url": "https://open.spotify.com/album/66RRmzSYSxtvkFDjqZzJps"
       },
@@ -1427,22 +1447,6 @@
       "duration_ms": 298659,
       "name": "Pinger",
       "url": "https://open.spotify.com/track/6iOSV9Wk97hIpWVHfq29Dj"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "1997",
-        "url": "https://open.spotify.com/album/6y6ZbbAYM12taq2xjofbSH"
-      },
-      "artists": [
-        {
-          "name": "J Wax",
-          "url": "https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ"
-        }
-      ],
-      "duration_ms": 253325,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC"
     }
   ],
   "unique_name": "Techno State",

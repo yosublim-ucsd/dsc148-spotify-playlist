@@ -1,15 +1,51 @@
 {
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zamdane",
-  "num_followers": 353079,
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
+  "num_followers": 353130,
   "original_name": "Cloud Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTE5ZjhjMjAxMGM4M2Q5MTg4NGRjMGY2ZjJmM2ZlZjJiNTJiOWFl",
+  "snapshot_id": "MCxhMmM0ZDZkZmU3ZjYxYTk0MzBlMjdhNDZiMDUwOTMxMWI5NjA4MDdj",
   "tracks": [
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "L'enfant de la pluie",
+        "url": "https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU"
+      },
+      "artists": [
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Suspects",
+      "url": "https://open.spotify.com/track/12osSdbZiGimTHFdaLmSFS"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "23 -",
+        "url": "https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI"
+      },
+      "artists": [
+        {
+          "name": "Khali",
+          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "BOTTEGA",
+      "url": "https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "M\u00e9lancolie criminelle - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4tJVAb99fGJ7NmwnJBhB1H"
@@ -29,27 +65,23 @@
       "url": "https://open.spotify.com/track/6MF5rZ57E3tDYY5KR36QMd"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "L'enfant de la pluie",
-        "url": "https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU"
+        "name": "Heureusement",
+        "url": "https://open.spotify.com/album/6uMOpdBVbFjlRt7Q3u1JyB"
       },
       "artists": [
         {
-          "name": "So La Lune",
-          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
-        },
-        {
-          "name": "Khali",
-          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
+          "name": "joysad",
+          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
         }
       ],
-      "duration_ms": 189973,
-      "name": "Perte de temps",
-      "url": "https://open.spotify.com/track/6OtC63b0k3p5PADayP1hkV"
+      "duration_ms": 158793,
+      "name": "Heureusement",
+      "url": "https://open.spotify.com/track/2RVDL4W0aKShVflFxNTkfH"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "Geneva",
         "url": "https://open.spotify.com/album/4u84K5dAcGP8ew41zNnqKu"
@@ -73,23 +105,7 @@
       "url": "https://open.spotify.com/track/0qfXETr4UazAeIbOzhsZJm"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "ALPHA (Parties 1&2)",
-        "url": "https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "J'connais",
-      "url": "https://open.spotify.com/track/30XqjaNJxeglrqz79AQWwo"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "SUN7",
         "url": "https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/6iou1JJdcUlbvNnUdmXuDR"
@@ -121,7 +137,55 @@
       "url": "https://open.spotify.com/track/6EkySKKzlCoJrcNXE8sfhG"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6"
+      },
+      "artists": [
+        {
+          "name": "Django",
+          "url": "https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3"
+        }
+      ],
+      "duration_ms": 155990,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Gardien du Labyrinthe",
+        "url": "https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "L'incendie",
+      "url": "https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "ST LAURENT",
+        "url": "https://open.spotify.com/album/0v2bIR2zImzb0X6NWxOacQ"
+      },
+      "artists": [
+        {
+          "name": "Jeunesaint",
+          "url": "https://open.spotify.com/artist/7cVhbi4q498qnpR64Cwr2y"
+        }
+      ],
+      "duration_ms": 173602,
+      "name": "ST LAURENT",
+      "url": "https://open.spotify.com/track/1Whvk9BgbTjVB4XMV1RxeN"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "MIEL",
         "url": "https://open.spotify.com/album/4dWovRp9R5G9mXcO5ooSi7"
@@ -141,23 +205,7 @@
       "url": "https://open.spotify.com/track/5hFImCo7K3URs5Gn9kj7QU"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "23 -",
-        "url": "https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI"
-      },
-      "artists": [
-        {
-          "name": "Khali",
-          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "BOTTEGA",
-      "url": "https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "L'enfant de la pluie",
         "url": "https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU"
@@ -168,112 +216,32 @@
           "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
         },
         {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+          "name": "Khali",
+          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
         }
       ],
-      "duration_ms": 209893,
-      "name": "Suspects",
-      "url": "https://open.spotify.com/track/12osSdbZiGimTHFdaLmSFS"
+      "duration_ms": 189973,
+      "name": "Perte de temps",
+      "url": "https://open.spotify.com/track/6OtC63b0k3p5PADayP1hkV"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Gardien du Labyrinthe",
-        "url": "https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ"
+        "name": "ELEMENT",
+        "url": "https://open.spotify.com/album/53izZ5ctHfOq87JPDKglhj"
       },
       "artists": [
         {
-          "name": "Yuzmv",
-          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+          "name": "zaky",
+          "url": "https://open.spotify.com/artist/1OGnylVl0ivlAICNOVaJQp"
         }
       ],
-      "duration_ms": 192000,
-      "name": "L'incendie",
-      "url": "https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp"
+      "duration_ms": 140207,
+      "name": "ELEMENT",
+      "url": "https://open.spotify.com/track/6e82ytBlz3s2RRnPzXgg9D"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/2DLmf3Sa2M7A7FjUrMOrok"
-      },
-      "artists": [
-        {
-          "name": "Thomas Goldberg",
-          "url": "https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd"
-        }
-      ],
-      "duration_ms": 188108,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/6w4TWairwhLKZoz72sfhwP"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Heureusement",
-        "url": "https://open.spotify.com/album/6uMOpdBVbFjlRt7Q3u1JyB"
-      },
-      "artists": [
-        {
-          "name": "joysad",
-          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
-        }
-      ],
-      "duration_ms": 158793,
-      "name": "Heureusement",
-      "url": "https://open.spotify.com/track/2RVDL4W0aKShVflFxNTkfH"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6"
-      },
-      "artists": [
-        {
-          "name": "Django",
-          "url": "https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3"
-        }
-      ],
-      "duration_ms": 155990,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Quali",
-        "url": "https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF"
-      },
-      "artists": [
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 181649,
-      "name": "Quali",
-      "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "ST LAURENT",
-        "url": "https://open.spotify.com/album/0v2bIR2zImzb0X6NWxOacQ"
-      },
-      "artists": [
-        {
-          "name": "Jeunesaint",
-          "url": "https://open.spotify.com/artist/7cVhbi4q498qnpR64Cwr2y"
-        }
-      ],
-      "duration_ms": 173602,
-      "name": "ST LAURENT",
-      "url": "https://open.spotify.com/track/1Whvk9BgbTjVB4XMV1RxeN"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "nebula",
         "url": "https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm"
@@ -289,71 +257,7 @@
       "url": "https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Anakin",
-        "url": "https://open.spotify.com/album/4cdxXpmBZKc5nFfsmihN8f"
-      },
-      "artists": [
-        {
-          "name": "F430",
-          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
-        }
-      ],
-      "duration_ms": 238515,
-      "name": "Anakin",
-      "url": "https://open.spotify.com/track/6RjO7UcAuz6z7J8RZtm4qh"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "A\u00efcha",
-        "url": "https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 206684,
-      "name": "A\u00efcha",
-      "url": "https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Si tu savais",
-        "url": "https://open.spotify.com/album/2WSYOicKVLU5SDaZ5VnB8K"
-      },
-      "artists": [
-        {
-          "name": "mademoiselle lou",
-          "url": "https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N"
-        }
-      ],
-      "duration_ms": 145485,
-      "name": "Si tu savais",
-      "url": "https://open.spotify.com/track/3TWnM57OZnvqz6aVWu5l5e"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "L'enfant de la pluie",
-        "url": "https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU"
-      },
-      "artists": [
-        {
-          "name": "So La Lune",
-          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
-        }
-      ],
-      "duration_ms": 160053,
-      "name": "Triste temps",
-      "url": "https://open.spotify.com/track/6XGP90GUjC9BeT0tWlZ2Fx"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "De moins en moins",
         "url": "https://open.spotify.com/album/5YCvDkugYHZC0ohDY2NOhO"
@@ -369,71 +273,39 @@
       "url": "https://open.spotify.com/track/10CpduevjmNyjSDzmZfKCD"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "IBIZA",
-        "url": "https://open.spotify.com/album/28YB7WeIlMMoeNihpT5msF"
+        "name": "Quali",
+        "url": "https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF"
       },
       "artists": [
         {
-          "name": "Lapostroz",
-          "url": "https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj"
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
         }
       ],
-      "duration_ms": 152598,
-      "name": "IBIZA",
-      "url": "https://open.spotify.com/track/5AaUQq15J9drf3iKfh2XCn"
+      "duration_ms": 181649,
+      "name": "Quali",
+      "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "WEARELOCKED",
-        "url": "https://open.spotify.com/album/2cY3RGh1nN2yU4NtjTV6pn"
+        "name": "ALPHA (Parties 1&2)",
+        "url": "https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u"
       },
       "artists": [
         {
-          "name": "TLZ Clan",
-          "url": "https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp"
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
         }
       ],
-      "duration_ms": 173471,
-      "name": "SUR MOI",
-      "url": "https://open.spotify.com/track/5Sgg3gfCdVxcDZGooilVYk"
+      "duration_ms": 147986,
+      "name": "J'connais",
+      "url": "https://open.spotify.com/track/30XqjaNJxeglrqz79AQWwo"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "ICE",
-        "url": "https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX"
-      },
-      "artists": [
-        {
-          "name": "Ayvee",
-          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
-        }
-      ],
-      "duration_ms": 114028,
-      "name": "semaine",
-      "url": "https://open.spotify.com/track/3bpXZgji2jrTE32XpsZI6k"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Le Nine",
-        "url": "https://open.spotify.com/album/1lKTfCQvEvXINqeg7ViPtr"
-      },
-      "artists": [
-        {
-          "name": "ELSO",
-          "url": "https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Le Nine",
-      "url": "https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "HABITU\u00c9",
         "url": "https://open.spotify.com/album/0xlt4h3AX1YRqg1HHtOU01"
@@ -449,55 +321,71 @@
       "url": "https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Jour de pluie",
-        "url": "https://open.spotify.com/album/55HrsnQR83ZjEiaSYnXdRO"
+        "name": "PARLE EN WSH",
+        "url": "https://open.spotify.com/album/50bmjYU7Z5BlZiZxvYXbzE"
       },
       "artists": [
         {
-          "name": "F430",
-          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+          "name": "Chat noir",
+          "url": "https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8"
         }
       ],
-      "duration_ms": 197727,
-      "name": "Jour de pluie",
-      "url": "https://open.spotify.com/track/7Cuca28lbRnHCWlpgEwxCu"
+      "duration_ms": 181786,
+      "name": "PARLE EN WSH",
+      "url": "https://open.spotify.com/track/2lP7XUYGrfDGkeweHioos5"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Karma (Extended)",
-        "url": "https://open.spotify.com/album/5Rx2hiXG1JTKJFIhjkitd2"
+        "name": "Le Nine",
+        "url": "https://open.spotify.com/album/1lKTfCQvEvXINqeg7ViPtr"
       },
       "artists": [
         {
-          "name": "DTF",
-          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
+          "name": "ELSO",
+          "url": "https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P"
         }
       ],
-      "duration_ms": 193206,
-      "name": "Loin",
-      "url": "https://open.spotify.com/track/2QjuqvJRPxx4Bs6CNFi2Zz"
+      "duration_ms": 200930,
+      "name": "Le Nine",
+      "url": "https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Hiver 365",
-        "url": "https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB"
+        "name": "L'enfant de la pluie",
+        "url": "https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU"
       },
       "artists": [
         {
-          "name": "Nefaste",
-          "url": "https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY"
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
         }
       ],
-      "duration_ms": 206066,
-      "name": "Qu'est-ce tu veux qu'j'te dise?",
-      "url": "https://open.spotify.com/track/4eNjjnFNBCy2V2bm0Plw4s"
+      "duration_ms": 160053,
+      "name": "Triste temps",
+      "url": "https://open.spotify.com/track/6XGP90GUjC9BeT0tWlZ2Fx"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/2DLmf3Sa2M7A7FjUrMOrok"
+      },
+      "artists": [
+        {
+          "name": "Thomas Goldberg",
+          "url": "https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd"
+        }
+      ],
+      "duration_ms": 188108,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/6w4TWairwhLKZoz72sfhwP"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "Le jour se l\u00e8ve",
         "url": "https://open.spotify.com/album/76IvkXLqQzw6JrjwOIq2PL"
@@ -517,71 +405,71 @@
       "url": "https://open.spotify.com/track/6qwe1TVcoWQ5oCVMmDKvV8"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "M\u00d6DI",
-        "url": "https://open.spotify.com/album/6oGbaQspWtK4A3cCLC5noJ"
+        "name": "Si tu savais",
+        "url": "https://open.spotify.com/album/2WSYOicKVLU5SDaZ5VnB8K"
       },
       "artists": [
         {
-          "name": "Sokuu",
-          "url": "https://open.spotify.com/artist/0et1mZYLCSVBIBUY94B8Xn"
+          "name": "mademoiselle lou",
+          "url": "https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N"
         }
       ],
-      "duration_ms": 139459,
-      "name": "M\u00d6DI",
-      "url": "https://open.spotify.com/track/3KXmiKG3D0imrkAJfMKv3X"
+      "duration_ms": 145485,
+      "name": "Si tu savais",
+      "url": "https://open.spotify.com/track/3TWnM57OZnvqz6aVWu5l5e"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "ICARE",
-        "url": "https://open.spotify.com/album/0fOl6xbizjCOl1Hl2eCgMM"
+        "name": "Hiver 365",
+        "url": "https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB"
       },
       "artists": [
         {
-          "name": "GR OMEGA",
-          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
+          "name": "Nefaste",
+          "url": "https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY"
         }
       ],
-      "duration_ms": 185142,
-      "name": "TH\u00c9RAPIE",
-      "url": "https://open.spotify.com/track/410PptAEZCpF56YJBxgDIQ"
+      "duration_ms": 206066,
+      "name": "Qu'est-ce tu veux qu'j'te dise?",
+      "url": "https://open.spotify.com/track/4eNjjnFNBCy2V2bm0Plw4s"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "osowhereRu?",
-        "url": "https://open.spotify.com/album/2XFlLaI8vYV8Q1gzPrGgZt"
+        "name": "IBIZA",
+        "url": "https://open.spotify.com/album/28YB7WeIlMMoeNihpT5msF"
       },
       "artists": [
         {
-          "name": "OSO",
-          "url": "https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g"
+          "name": "Lapostroz",
+          "url": "https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj"
         }
       ],
-      "duration_ms": 133099,
-      "name": "STRESS!",
-      "url": "https://open.spotify.com/track/5PSTc9QCtJicfuMYF9OIIb"
+      "duration_ms": 152598,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/5AaUQq15J9drf3iKfh2XCn"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "NUIT ET JOUR",
-        "url": "https://open.spotify.com/album/6ooUr10tF4PtDsa9yhP5sy"
+        "name": "Karma (Extended)",
+        "url": "https://open.spotify.com/album/5Rx2hiXG1JTKJFIhjkitd2"
       },
       "artists": [
         {
-          "name": "HAKAI",
-          "url": "https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN"
+          "name": "DTF",
+          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
         }
       ],
-      "duration_ms": 113894,
-      "name": "NUIT ET JOUR",
-      "url": "https://open.spotify.com/track/400rEn95uXwJ6akAq4jSNY"
+      "duration_ms": 193206,
+      "name": "Loin",
+      "url": "https://open.spotify.com/track/2QjuqvJRPxx4Bs6CNFi2Zz"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "Sans nouvelles",
         "url": "https://open.spotify.com/album/2eMLdPbMAjpcn2MKC3zoly"
@@ -605,7 +493,87 @@
       "url": "https://open.spotify.com/track/6b4sQI99B6JRnrVsICipYw"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Anakin",
+        "url": "https://open.spotify.com/album/4cdxXpmBZKc5nFfsmihN8f"
+      },
+      "artists": [
+        {
+          "name": "F430",
+          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+        }
+      ],
+      "duration_ms": 238515,
+      "name": "Anakin",
+      "url": "https://open.spotify.com/track/6RjO7UcAuz6z7J8RZtm4qh"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX"
+      },
+      "artists": [
+        {
+          "name": "Ayvee",
+          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
+        }
+      ],
+      "duration_ms": 114028,
+      "name": "semaine",
+      "url": "https://open.spotify.com/track/3bpXZgji2jrTE32XpsZI6k"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "A\u00efcha",
+        "url": "https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 206684,
+      "name": "A\u00efcha",
+      "url": "https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "ICARE",
+        "url": "https://open.spotify.com/album/0fOl6xbizjCOl1Hl2eCgMM"
+      },
+      "artists": [
+        {
+          "name": "GR OMEGA",
+          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "TH\u00c9RAPIE",
+      "url": "https://open.spotify.com/track/410PptAEZCpF56YJBxgDIQ"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "M\u00d6DI",
+        "url": "https://open.spotify.com/album/6oGbaQspWtK4A3cCLC5noJ"
+      },
+      "artists": [
+        {
+          "name": "Sokuu",
+          "url": "https://open.spotify.com/artist/0et1mZYLCSVBIBUY94B8Xn"
+        }
+      ],
+      "duration_ms": 139459,
+      "name": "M\u00d6DI",
+      "url": "https://open.spotify.com/track/3KXmiKG3D0imrkAJfMKv3X"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "AKANI",
         "url": "https://open.spotify.com/album/3UL2npniaZarBXBS10qpZl"
@@ -621,27 +589,71 @@
       "url": "https://open.spotify.com/track/4u9p90qPMSsEgifmnpEe64"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "TOUT VA BIEN",
-        "url": "https://open.spotify.com/album/22CKc4qEluGxJ5Rq7XscZS"
+        "name": "osowhereRu?",
+        "url": "https://open.spotify.com/album/2XFlLaI8vYV8Q1gzPrGgZt"
       },
       "artists": [
         {
-          "name": "kobzx2z",
-          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
-        },
-        {
-          "name": "Klem Schen",
-          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g"
         }
       ],
-      "duration_ms": 216320,
-      "name": "PERDU SANS TOI",
-      "url": "https://open.spotify.com/track/5Aeb85aDLZH4DuMGnMikAZ"
+      "duration_ms": 133099,
+      "name": "STRESS!",
+      "url": "https://open.spotify.com/track/5PSTc9QCtJicfuMYF9OIIb"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "NUIT ET JOUR",
+        "url": "https://open.spotify.com/album/6ooUr10tF4PtDsa9yhP5sy"
+      },
+      "artists": [
+        {
+          "name": "HAKAI",
+          "url": "https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN"
+        }
+      ],
+      "duration_ms": 113894,
+      "name": "NUIT ET JOUR",
+      "url": "https://open.spotify.com/track/400rEn95uXwJ6akAq4jSNY"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "WEARELOCKED",
+        "url": "https://open.spotify.com/album/2cY3RGh1nN2yU4NtjTV6pn"
+      },
+      "artists": [
+        {
+          "name": "TLZ Clan",
+          "url": "https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp"
+        }
+      ],
+      "duration_ms": 173471,
+      "name": "SUR MOI",
+      "url": "https://open.spotify.com/track/5Sgg3gfCdVxcDZGooilVYk"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Jour de pluie",
+        "url": "https://open.spotify.com/album/55HrsnQR83ZjEiaSYnXdRO"
+      },
+      "artists": [
+        {
+          "name": "F430",
+          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Jour de pluie",
+      "url": "https://open.spotify.com/track/7Cuca28lbRnHCWlpgEwxCu"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "L'EFFET DU TEMPS",
         "url": "https://open.spotify.com/album/3ANUOjqlTITE0VgsroNPwC"
@@ -657,7 +669,7 @@
       "url": "https://open.spotify.com/track/5vp9BsHDp7vIOknFC62HeE"
     },
     {
-      "added_at": "2024-01-11 23:01:00",
+      "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "crescendo",
         "url": "https://open.spotify.com/album/1B7y1c3M9d5eg0mytTC8Wd"
@@ -675,22 +687,6 @@
       "duration_ms": 173136,
       "name": "crescendo",
       "url": "https://open.spotify.com/track/0vzg1Trj75I00yTBRch0rr"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "ICE",
-        "url": "https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX"
-      },
-      "artists": [
-        {
-          "name": "Ayvee",
-          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
-        }
-      ],
-      "duration_ms": 114857,
-      "name": "kerosene",
-      "url": "https://open.spotify.com/track/1DU4iqHjKYdPt4iXo1vAsp"
     }
   ],
   "unique_name": "Cloud Rap",

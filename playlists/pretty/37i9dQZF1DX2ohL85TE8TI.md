@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: MY DEMON\(마이데몬\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,527,067 likes - 101 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,527,321 likes - 101 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 100 | [Want to be Free](https://open.spotify.com/track/1kA5iI1SNM7xVM8EMY7mrr) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Not Others, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3CbMJIBQyNDwJLzQcWAYEE) | 2:43 |
 | 101 | [Which Season](https://open.spotify.com/track/5Mnsc0A7mgceTqDCw25N4L) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 21](https://open.spotify.com/album/0klaPOXVmNwJ4X39qsEfcY) | 4:55 |
 
-Snapshot ID: `MCxhNGZiZDRiMmQ0NWZiZjBjMTZmMjg0NWU1M2ZkZjhiNDA4NWRkM2Uz`
+Snapshot ID: `MCw2ZGVkOTQwNTlhZTlhZGMyN2Y5ZDI3MTBhY2FlYmY5YTVlZjU0ZmZh`

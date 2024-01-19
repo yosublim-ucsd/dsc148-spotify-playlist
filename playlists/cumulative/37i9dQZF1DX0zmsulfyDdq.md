@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Wish.
 
-201 songs - 9 hr 54 min
+203 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,8 @@
 | [Bedtime](https://open.spotify.com/track/6Fk3FHkenVKzkppY122Jsr) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 1:22 | 2022-04-15 |  |
 | [Best of Friends](https://open.spotify.com/track/77i3pnU23eRWNIaqi6ckcj) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Balance](https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW) | 2:48 | 2022-04-15 |  |
 | [Bibbidi Bobbidi Boo \- Instrumental](https://open.spotify.com/track/3hSUUyu64UofrhKKg5zAOQ) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Sleepytime Lullabies](https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6) | 1:23 | 2022-04-15 |  |
+| [Bigger Than Us](https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 1:51 | 2024-01-18 |  |
+| [Born to Play](https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 2:00 | 2024-01-18 |  |
 | [Brahms' Lullaby \( Someone To Watch Over Me \)](https://open.spotify.com/track/3bgL0rJAAOAVJxYzQ9TN8a) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Lullaby Album](https://open.spotify.com/album/3UvlJDMb3sEH8lUk83598i) | 3:57 | 2022-04-15 |  |
 | [Bringing This Baby Home](https://open.spotify.com/track/3iYjMwH7KXoVU2gFVUC5kz) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:21 | 2022-04-15 |  |
 | [Bundle of Joy](https://open.spotify.com/track/3eTgg18rKBD30Hef1gv0wz) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 2:48 | 2022-04-15 |  |

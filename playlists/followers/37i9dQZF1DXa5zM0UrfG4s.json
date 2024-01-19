@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 106980,
+  "2024-01-19": 106987,
   "date_first_scraped": "2021-12-28",
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
   "name": "Livet p\u00e5 B\u00f8gda!",
@@ -2291,7 +2291,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 101304,
       "name": "FYRA SM\u00c5 RAGGERS",
       "url": "https://open.spotify.com/track/4Q88dvSHO9YPcWPEl8zT7G"
@@ -4179,6 +4179,24 @@
       "duration_ms": 184508,
       "name": "Mawbys",
       "url": "https://open.spotify.com/track/6R20ReFHCSjtK3vMUZI3Yv"
+    },
+    {
+      "album": {
+        "name": "ALBUMTRAOZ",
+        "url": "https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Mcdonalds",
+      "url": "https://open.spotify.com/track/4Uv5nzyKWBAnfiV1WbVFYz"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Indie Sleaze](https://open.spotify.com/playlist/37i9dQZF1DWVmFSstZWJmo)
 
-> The good ole days!!!!!!!! cover: Grimes
+> Is "indie sleaze" in the room with us? ft\. The Strokes
 
 201 songs - 12 hr 37 min
 

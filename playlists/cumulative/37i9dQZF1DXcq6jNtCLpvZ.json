@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2XD UNLIMITED \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb",
+        "url": "https://open.spotify.com/album/4ORfUlNVOQYYkju8XCHHLP"
+      },
+      "artists": [
+        {
+          "name": "\u7acb\u82b1\u97ff(CV:\u60a0\u6728\u78a7)",
+          "url": "https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox"
+        },
+        {
+          "name": "\u5c0f\u65e5\u5411\u672a\u6765(CV:\u4e95\u53e3\u88d5\u9999)",
+          "url": "https://open.spotify.com/artist/0law47IqPXszmlHrquztRS"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230080,
+      "name": "Believe is All",
+      "url": "https://open.spotify.com/track/6PMwbN0AudOcwKhudbxfQV"
+    },
+    {
+      "album": {
         "name": "\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2GX \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",
         "url": "https://open.spotify.com/album/5OER0RYfJhbdG4dgNdrKP2"
       },
@@ -542,6 +564,28 @@
       "duration_ms": 223760,
       "name": "Vitalization",
       "url": "https://open.spotify.com/track/1BJHubwnUKElLe0B5tEWpq"
+    },
+    {
+      "album": {
+        "name": "\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2XD UNLIMITED \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb",
+        "url": "https://open.spotify.com/album/4ORfUlNVOQYYkju8XCHHLP"
+      },
+      "artists": [
+        {
+          "name": "\u7acb\u82b1\u97ff(CV:\u60a0\u6728\u78a7)",
+          "url": "https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox"
+        },
+        {
+          "name": "\u30ad\u30e3\u30ed\u30eb\u30fb\u30de\u30fc\u30eb\u30b9\u30fb\u30c7\u30a3\u30fc\u30f3\u30cf\u30a4\u30e0(CV:\u6c34\u702c\u3044\u306e\u308a)",
+          "url": "https://open.spotify.com/artist/6jkSPcxNIDcgVbhhOlU8lG"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242813,
+      "name": "WE ARE THE FUTURE",
+      "url": "https://open.spotify.com/track/24JsKK6aVyDRvRN4yNYZhE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,371 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,370 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -421,7 +421,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 411 | [Wait For Me](https://open.spotify.com/track/2DcMrjOoILumdMrrMDldS1) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [Eternity](https://open.spotify.com/album/6yoQATdfYMXb5nM8qnOxqd) | 2:07 |
 | 412 | [Yoyogi Park](https://open.spotify.com/track/5ge2tZAWyFynv0Bd5gZ1QR) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig) | [All In The Same Breath](https://open.spotify.com/album/3mlCvTG8ruwHSz0KtOd9OV) | 3:59 |
 | 413 | [Running to Chad \- DJ Python Remix](https://open.spotify.com/track/3dhwI4PGqK2wtIl75jHNFi) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Running to Chad](https://open.spotify.com/album/0sf3XrRkgDvUtC9ua63Xbi) | 8:14 |
-| 414 | [Petals Have Fallen](https://open.spotify.com/track/035VNngsJ3xBZLMNiDqmJM) | [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Petals Have Fallen](https://open.spotify.com/album/42Hg1ikI6NiHf5bP2M6aNt) | 3:00 |
+| 414 | [Petals \(Have Fallen\)](https://open.spotify.com/track/035VNngsJ3xBZLMNiDqmJM) | [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Petals Have Fallen](https://open.spotify.com/album/42Hg1ikI6NiHf5bP2M6aNt) | 3:00 |
 | 415 | [Love \- Burial Remix](https://open.spotify.com/track/6BxeLxoipQZGxe9jBsblQH) | [Luke Slater](https://open.spotify.com/artist/5BJa6TIqtoWm8QRRbfRmyt), [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Love Remixes](https://open.spotify.com/album/14buuP9acjqPiC3FvnhXcM) | 7:24 |
 | 416 | [Spruce Illest Bumper](https://open.spotify.com/track/2kfrB8pbSrynrbiEgeguDP) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [B.B.H.E.](https://open.spotify.com/album/2oCrlfuhkex0OBx03tR1Ul) | 2:18 |
 | 417 | [Melody](https://open.spotify.com/track/7qJjorSaZ56O4ymbx2cjTL) | [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y), [Tex](https://open.spotify.com/artist/6k8bzv6Pm9RwlpxZxprqnD) | [0011000](https://open.spotify.com/album/62nXuvzH4ECThotjQqPAhI) | 3:07 |

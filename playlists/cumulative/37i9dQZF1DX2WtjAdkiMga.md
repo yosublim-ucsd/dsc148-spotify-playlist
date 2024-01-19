@@ -4,7 +4,7 @@
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-96 songs - 5 hr 1 min
+97 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Stars Fell on Alabama](https://open.spotify.com/track/6mG6evp0jrLbDSpRz0i405) | [Amanda Chester](https://open.spotify.com/artist/64y33HAj5EF7iLCVWnJS4I) | [September Song](https://open.spotify.com/album/3tUxImd8BSgKFS8VTnEbYg) | 5:14 | 2022-04-12 |  |
 | [Tea For Two](https://open.spotify.com/track/4QCeCWQEe2kwOm9iOmnVp2) | [Lance Marlone](https://open.spotify.com/artist/291NBS5jNCsTdGUB7bQB89) | [Stars Fell On Alabama](https://open.spotify.com/album/7AtzEC8KJjk44m2F5GyRKp) | 4:02 | 2022-12-23 |  |
 | [Tenderly](https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Tenderly](https://open.spotify.com/album/1jw8z9WMpLOl5y89HN5Zda) | 3:10 | 2022-04-12 |  |
+| [The Bear Went Over The Mountain](https://open.spotify.com/track/4wzvf1g30kEIVIN8zwxI8f) | [Henry Tales](https://open.spotify.com/artist/3cndWcNVmK1Qx61hk4V4aM) | [The Bear Went Over The Mountain](https://open.spotify.com/album/3UNesgZZ7kSZJKGkn7JYRb) | 1:48 | 2024-01-19 |  |
 | [The Good Life](https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [The Good Life](https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3) | 2:09 | 2022-04-12 |  |
 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 | 2022-04-12 |  |
 | [The Song Is You](https://open.spotify.com/track/25lDslLJo5psoMvb2y1tfJ) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [The Song Is You](https://open.spotify.com/album/55IjhkZDjtWNC181obRV0a) | 4:56 | 2022-04-12 |  |

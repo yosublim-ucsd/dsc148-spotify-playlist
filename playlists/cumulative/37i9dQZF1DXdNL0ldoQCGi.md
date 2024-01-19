@@ -4,7 +4,7 @@
 
 > pi po po po ro po
 
-487 songs - 1 day 0 hr 54 min
+489 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Amiga \- Ao Vivo](https://open.spotify.com/track/4Ws6gg0N987D2e0140nQHf) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Bar Das Coleguinhas 2](https://open.spotify.com/album/6o7dyRbOOXaXH6SPbrJyFO) | 2:09 | 2022-05-25 | 2022-07-21 |
 | [Anestesiado](https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [Anestesiado](https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ) | 2:54 | 2022-08-17 | 2022-09-29 |
 | [Antes](https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:49 | 2022-05-25 | 2022-09-06 |
+| [Aquela Nega](https://open.spotify.com/track/6j4WNB4AeZq80Vw7wHWaXI) | [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Batidão do Playboy](https://open.spotify.com/album/0eRelwLFuf8GARQhmiGB5W) | 2:42 | 2024-01-18 |  |
 | [Arizona](https://open.spotify.com/track/4xbZynwKhp8Ox3hZoBxM6A) | [PRÓ K](https://open.spotify.com/artist/5okGN1c4ym1LagLidc9cZk), [DIMVS](https://open.spotify.com/artist/5jQ0eRnyDLim20WIFzHNIM) | [Arizona](https://open.spotify.com/album/5fqzL7OVJc0yMqcFqJFsFI) | 3:13 | 2023-03-16 | 2023-03-31 |
 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 | 2022-09-19 | 2022-10-11 |
 | [Asa Branca \(Rennan & Douth! Remix\)](https://open.spotify.com/track/0NdY6ZyUighhipcIBMImGy) | [RENNAN](https://open.spotify.com/artist/1Sq3SWhfNjw1e3gpCDTry0), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Asa Branca \(Rennan & Douth! Remix\)](https://open.spotify.com/album/33lNC0BTwLcst02mDrzqhk) | 4:23 | 2023-06-28 | 2023-08-17 |
@@ -244,6 +245,7 @@
 | [Lugar Distante](https://open.spotify.com/track/4uOi330LkhOeUxmb97z2d9) | [DJ Lou](https://open.spotify.com/artist/4UZCx8Jrj8w2K90zF8VjWo) | [A Coleção](https://open.spotify.com/album/4hpN634sPatqiem8fyzsw1) | 1:51 | 2023-03-30 | 2023-04-27 |
 | [Luz do Luar](https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j) | [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [Luz do Luar](https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4) | 3:04 | 2022-12-19 | 2023-07-18 |
 | [Lá Ele](https://open.spotify.com/track/08XvRS5EH8FfD6urhgaPD2) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Lá Ele](https://open.spotify.com/album/5aQRKwO38FFqtQz4vtcTfJ) | 2:37 | 2023-01-11 | 2023-07-18 |
+| [Macetando](https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52) | 2:47 | 2024-01-18 |  |
 | [Macho Preferido](https://open.spotify.com/track/4D4yBfKqS2aBblJyVlpA7i) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Macho Preferido](https://open.spotify.com/album/3srxNt9v8dZbep7Ha9CWE8) | 2:11 | 2023-06-28 | 2023-09-28 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-12-06 | 2023-01-11 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-28 | 2023-09-05 |

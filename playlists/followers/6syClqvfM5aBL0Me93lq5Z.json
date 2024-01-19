@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 0,
+  "2024-01-19": 0,
   "date_first_scraped": "2024-01-09",
   "description": "Dead dove, don&#x27;t eat",
   "name": "Politik",
@@ -55,6 +55,24 @@
       "duration_ms": 247000,
       "name": "American Remains",
       "url": "https://open.spotify.com/track/4REjaHRPmVb7btssqChJSy"
+    },
+    {
+      "album": {
+        "name": "Born2Run",
+        "url": "https://open.spotify.com/album/0zdCLnsn9pHHgxEMNEFjR7"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154128,
+      "name": "Born2Run",
+      "url": "https://open.spotify.com/track/66Dvkzi4HyhKRJsBoOzQVa"
     },
     {
       "album": {
@@ -327,6 +345,24 @@
       "duration_ms": 192173,
       "name": "Role Models",
       "url": "https://open.spotify.com/track/2sDjsX3RCmWXSxRntg7LXz"
+    },
+    {
+      "album": {
+        "name": "Public Void",
+        "url": "https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194165,
+      "name": "R\u00e4t",
+      "url": "https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4"
     },
     {
       "album": {

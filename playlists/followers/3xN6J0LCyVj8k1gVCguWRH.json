@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 107991,
+  "2024-01-19": 107999,
   "date_first_scraped": "2019-09-29",
   "description": "Barack Obama&#x27;s favorite songs of 2023 plus somo of his favorite summer songs. Includes Summer 22, &amp; 21 editions + bonus tracks.",
   "name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",
@@ -11425,7 +11425,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 204828,
       "name": "Dancing in the dark",
       "url": "https://open.spotify.com/track/7xLJCz8cpzhVNpmKyaz0EJ"
@@ -17835,7 +17835,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 152971,
       "name": "Frostbite!",
       "url": "https://open.spotify.com/track/2k9a0YIsOzDemaKU8TgZkw"
@@ -33908,6 +33908,24 @@
     },
     {
       "album": {
+        "name": "No Tengas Miedo (Version Rock)",
+        "url": "https://open.spotify.com/album/6qdnvfIsBW9HeUus5tcEtf"
+      },
+      "artists": [
+        {
+          "name": "Senova",
+          "url": "https://open.spotify.com/artist/47ziKUSrrbZzpxR8ULeWd9"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205246,
+      "name": "No Tengas Miedo - Version Rock",
+      "url": "https://open.spotify.com/track/3t4XGuKnvS4zVCfp3bxHsN"
+    },
+    {
+      "album": {
         "name": "No Vacancy",
         "url": "https://open.spotify.com/album/5YqR7sRJFnRqS84gYuQtLS"
       },
@@ -38565,6 +38583,24 @@
       "duration_ms": 131160,
       "name": "Ratata",
       "url": "https://open.spotify.com/track/1AWIDydDF5sbvWNC4vmKYu"
+    },
+    {
+      "album": {
+        "name": "All My Heroes Get High",
+        "url": "https://open.spotify.com/album/4MY81WClA7rKJaId9MI2iD"
+      },
+      "artists": [
+        {
+          "name": "Jack Nashville",
+          "url": "https://open.spotify.com/artist/7nnnllJHSQzVovCOPTbij2"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186253,
+      "name": "Rattlesnake Wine",
+      "url": "https://open.spotify.com/track/07Yj3vn2clz4ku4HtYJtfH"
     },
     {
       "album": {
@@ -46475,7 +46511,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 211231,
       "name": "The Children Will Pay",
       "url": "https://open.spotify.com/track/6oxPdMpKlJq5kuIGm9tQXl"
@@ -47007,7 +47043,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 195381,
       "name": "The Real You Came Through",
       "url": "https://open.spotify.com/track/2uJOSo4T5oyF2HjMK5xF0K"

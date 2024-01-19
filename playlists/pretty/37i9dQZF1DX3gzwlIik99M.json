@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 207731,
+  "num_followers": 207729,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjdmM2M4ZmE1MTY3MmY3M2NhNmRlNzBhOTlhNjc1NTkzNGQ1MmQ2",
+  "snapshot_id": "MCxhM2ViZTMzNzk5M2ViNzMwYjhjMmZjZDI4NmY5NWIwN2VmYWRjZmZk",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Kollong",
-        "url": "https://open.spotify.com/album/1JMbEcPOXo8DKOMsu7Rmo1"
-      },
-      "artists": [
-        {
-          "name": "Mawiza",
-          "url": "https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt"
-        }
-      ],
-      "duration_ms": 237062,
-      "name": "Mawiza \u00d1i Piwke",
-      "url": "https://open.spotify.com/track/4ljxScl9mHiMwfwjLbXexV"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Esp\u00edritu Combativo",
         "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 218729,
       "name": "Castigador por Herencia",
       "url": "https://open.spotify.com/track/50YRa66db8G4ASXnqww06C"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Kollong",
+        "url": "https://open.spotify.com/album/1JMbEcPOXo8DKOMsu7Rmo1"
+      },
+      "artists": [
+        {
+          "name": "Mawiza",
+          "url": "https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt"
+        }
+      ],
+      "duration_ms": 237062,
+      "name": "Mawiza \u00d1i Piwke",
+      "url": "https://open.spotify.com/track/4ljxScl9mHiMwfwjLbXexV"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "No Money No Fiesta",
+        "url": "https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq"
+      },
+      "artists": [
+        {
+          "name": "Dia De Los Muertos",
+          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
+        }
+      ],
+      "duration_ms": 169130,
+      "name": "Cantina Del Infierno",
+      "url": "https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "Apatrida",
         "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 315973,
       "name": "Merciless machine - Remastered",
       "url": "https://open.spotify.com/track/3EXQIqYbZx4x86RyFfgIYr"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "No Money No Fiesta",
-        "url": "https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq"
-      },
-      "artists": [
-        {
-          "name": "Dia De Los Muertos",
-          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Cantina Del Infierno",
-      "url": "https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2"
     },
     {
       "added_at": "2023-04-28 03:00:00",

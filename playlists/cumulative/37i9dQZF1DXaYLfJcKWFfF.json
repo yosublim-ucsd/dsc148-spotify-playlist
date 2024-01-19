@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj?si=UFddna35Qde6UQ66Vm7Kbg\"> KABEAUSHE</a> ",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Joyce Olong",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "DIIISAPPEAR",
+        "url": "https://open.spotify.com/album/4Ykqzp0X4dgI8iGpMUeQAl"
+      },
+      "artists": [
+        {
+          "name": "Joyce Olong",
+          "url": "https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196834,
+      "name": "DIIISAPPEAR",
+      "url": "https://open.spotify.com/track/5m6xEduQ35dXndkEnHcneo"
+    },
+    {
+      "album": {
         "name": "Senth Of Her",
         "url": "https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu"
       },
@@ -752,7 +770,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 139124,
       "name": "For You",
       "url": "https://open.spotify.com/track/37cZqoXsZiqJ4JN82lNthD"

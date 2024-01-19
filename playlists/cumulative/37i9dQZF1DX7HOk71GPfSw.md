@@ -4,7 +4,7 @@
 
 > music to show your grandparents this holiday season
 
-1,918 songs - 3 day 15 hr 22 min
+1,921 songs - 3 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Bloody Knees](https://open.spotify.com/track/42an9KHriXNtzVUaWZXWx0) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Bloody Knees](https://open.spotify.com/album/5MDXH585QZdQK1eyuXwXzn) | 1:55 | 2021-01-08 | 2021-02-10 |
 | [blossom](https://open.spotify.com/track/5ebrwLFQKMjDllVyQmxnRF) | [mental](https://open.spotify.com/artist/7rQMXIWKXSMkd7dK8LQ7a4), [miraie](https://open.spotify.com/artist/3U2oWd07HPgl60o8RBMG4P) | [blossom](https://open.spotify.com/album/1c5sBkX4MRDirR4S50GrsT) | 1:56 | 2021-04-19 | 2021-09-21 |
 | [blow in the wind](https://open.spotify.com/track/4sJGikulSfsE9sSaBR4vKK) | [arkko](https://open.spotify.com/artist/6qEyaO9tfXUuTmBp49zUJR), [reefuh](https://open.spotify.com/artist/6ChAy6cuN28SDLsUecubQn) | [blow in the wind](https://open.spotify.com/album/6qQyiLhCt9romNRH7BsBet) | 2:44 | 2022-11-11 | 2023-02-11 |
+| [blue](https://open.spotify.com/track/5kB8rEV7y5HzSFHCq8ReOV) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [sport 2.0](https://open.spotify.com/album/6fwu1wQfVbGrwrcCJgRQ85) | 1:56 | 2024-01-18 |  |
 | [Bluee](https://open.spotify.com/track/6TxUgi7lC9QkrP2xAn7oAX) | [Angelwinter](https://open.spotify.com/artist/5BMEsJkF3ydybarxMW4BrN) | [Sanitation Crew](https://open.spotify.com/album/234NrrMbPAfkbYKF4xvTW8) | 2:10 | 2021-02-10 | 2021-09-18 |
 | [Bluffing](https://open.spotify.com/track/1NNJMmLuZuUvqhaB9PC4tz) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Bluffing](https://open.spotify.com/album/6i7t2CdHTVigw9owQqnN2P) | 2:06 | 2021-12-10 | 2022-02-26 |
 | [body bag](https://open.spotify.com/track/7IodwtlPswiT3rJVUQPFcO) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [body bag](https://open.spotify.com/album/2xJsMEX3rBCfqxQ7EfVnED) | 2:22 | 2023-11-10 |  |
@@ -1371,6 +1372,7 @@
 | [Rap Song Tutorial](https://open.spotify.com/track/5u9UVp5hkOjzuMU4wyJ5HZ) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Injury Reserve](https://open.spotify.com/album/5UWKsRDw3O4BsobmeyRpB9) | 2:22 | 2021-10-16 | 2021-11-13 |
 | [RAT RACE](https://open.spotify.com/track/46kCE1dO07dRwQH8fc3d9Z) | [Lucy Lohan](https://open.spotify.com/artist/1FkubCfVeWUSOpNR8POIJ3), [7ugust](https://open.spotify.com/artist/4bPDBJc1RjOEjJ5Ml97MCN), [Dani Kiyoko](https://open.spotify.com/artist/0HncRszm7BRp6A2unhItTB) | [PROXY](https://open.spotify.com/album/4ds2FnXEHIhWRkBhO8AmtK) | 3:46 | 2021-08-06 | 2021-09-16 |
 | [rationality // faith](https://open.spotify.com/track/570bc0qKrDtyQ6TEawJUG4) | [Summet](https://open.spotify.com/artist/5OpU9iKnpYToRqptji8FO4) | [axiom](https://open.spotify.com/album/1kPhhhADwd130X8Jcpwhdy) | 2:27 | 2022-07-08 | 2022-10-08 |
+| [Rave Angel](https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Rave Angel](https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3) | 3:19 | 2024-01-18 |  |
 | [Rave en la Galaxia](https://open.spotify.com/track/5JQXZCJi3QFW3s34tkUli0) | [PauByChance](https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I), [Octopvs To The Party](https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8) | [Rave en la Galaxia](https://open.spotify.com/album/2ybI44AIv7eQwC9lsxeY3M) | 2:32 | 2023-01-13 | 2023-03-25 |
 | [Ravestar](https://open.spotify.com/track/1cFTb4PQML3h7jlBdE9AP5) | [111nightshift](https://open.spotify.com/artist/29j2O8FnYrHOx7Kh8qFOPn), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Ravestar](https://open.spotify.com/album/1HMrkkWnll81mPvWduihY3) | 1:25 | 2021-03-16 | 2021-09-21 |
 | [Ray](https://open.spotify.com/track/661Cx0s2k7l4fUD7QuGed5) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Ray](https://open.spotify.com/album/0Tfv9pZgOPXBvsjRSLvmKT) | 2:08 | 2022-07-01 | 2022-11-12 |
@@ -1544,6 +1546,7 @@
 | [Smile](https://open.spotify.com/track/1T8TZteffzdtNbxGhh4nIv) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [SUMMER03](https://open.spotify.com/album/4ZfNAMkPChAeUvKGp7g4x0) | 2:26 | 2021-03-26 | 2021-11-13 |
 | [Smoke](https://open.spotify.com/track/2x8zUjRP6z5N2GmZ13zU76) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 2:57 | 2023-02-17 | 2023-06-01 |
 | [smoke and mirrors](https://open.spotify.com/track/2OzaLzSVI2xgAYFH3dkciC) | [jaden](https://open.spotify.com/artist/186XU9PUfKOISOd5DT8wny), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [smoke and mirrors](https://open.spotify.com/album/6GjisSUnl2CshgAAHzgGYI) | 2:07 | 2021-11-26 | 2022-02-26 |
+| [Sneg](https://open.spotify.com/track/4vqx495fqoZcqo7iuXNSMF) | [Nomark](https://open.spotify.com/artist/0g3pkoWNlu6rXL487xBcH8) | [Sneg](https://open.spotify.com/album/50NzWYA1Crzi4o6PkdUolk) | 2:08 | 2024-01-18 |  |
 | [snow](https://open.spotify.com/track/4lcRjGl7nZheu16dwc9vi1) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [snow](https://open.spotify.com/album/4Uqy5C6jOODfd4ia3vvPYt) | 2:02 | 2021-09-18 | 2022-01-13 |
 | [So & So](https://open.spotify.com/track/0RN0bTW2BOLZgkah4Vrvhj) | [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [So & So](https://open.spotify.com/album/7zcDc8Mya9YnZnY8ijHx4A) | 4:46 | 2020-10-30 | 2020-12-09 |
 | [So Clear](https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [So Clear](https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf) | 3:00 | 2022-09-10 | 2022-10-22 |

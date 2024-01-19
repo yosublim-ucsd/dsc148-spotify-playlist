@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 123656,
+  "2024-01-19": 123688,
   "date_first_scraped": "2022-03-02",
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
   "name": "Cozinhando em Casa",
@@ -2569,6 +2569,28 @@
     {
       "album": {
         "name": "Casas",
+        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294049,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
+    },
+    {
+      "album": {
+        "name": "Casas",
         "url": "https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX"
       },
       "artists": [
@@ -2587,28 +2609,6 @@
       "duration_ms": 294049,
       "name": "Mantra (Feat. Emicida)",
       "url": "https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ"
-    },
-    {
-      "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "date_added": "2023-07-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 294049,
-      "name": "Mantra (feat. Emicida)",
-      "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
     },
     {
       "album": {
@@ -3589,7 +3589,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 234712,
       "name": "Posso Dizer",
       "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
@@ -3929,6 +3929,24 @@
       "duration_ms": 147770,
       "name": "Roupa Branca",
       "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
+    },
+    {
+      "album": {
+        "name": "Roupa Branca",
+        "url": "https://open.spotify.com/album/1NoGlIcRHsvjKl9XtHCrmc"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147770,
+      "name": "Roupa Branca",
+      "url": "https://open.spotify.com/track/519BqNSiUkeGvCifHU4S96"
     },
     {
       "album": {

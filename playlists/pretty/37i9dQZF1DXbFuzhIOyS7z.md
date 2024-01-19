@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,404 likes - 30 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,417 likes - 30 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 29 | [Dear my ex...](https://open.spotify.com/track/1a1HL1yZC7aYHlrx4LvEmk) | [手がクリームパン](https://open.spotify.com/artist/6geY1qz5UkWhIMQxp3oHCr) | [Dear my ex...](https://open.spotify.com/album/4I2wE7xEMKtyoRSwak5GsP) | 2:50 |
 | 30 | [生きるガール](https://open.spotify.com/track/4xKLlJNrMpddKd37T6AHeV) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 3](https://open.spotify.com/album/0uCP0Uel2GPuxjaV3s67AB) | 3:54 |
 
-Snapshot ID: `MCwwNTVjOGQ3ZGE5ZWIzYzRlNmYxNDMyNzE1Yjc5YjYxNmYwYTI2MjZj`
+Snapshot ID: `MCwxZjFlYmQ2MGY1ZTNhODc1ODg3MzRmMDE3MjY4MDU4YjQ1MTdkNzI0`

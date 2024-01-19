@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,110 likes - 192 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,049 likes - 192 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 85 | [Last Christmas](https://open.spotify.com/track/6WyeIQXw0Dd6SOjxs0P2is) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Last Christmas](https://open.spotify.com/album/4X80T73WsoHePePZsRhMQw) | 3:10 |
 | 86 | [God Rest Ye Merry Gentlemen \(Spotify Singles Holiday\)](https://open.spotify.com/track/5U1edKpf8zZ04KtkvBOvbu) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [God Rest Ye Merry Gentlemen \(Spotify Singles Holiday\)](https://open.spotify.com/album/6gwykwTqf7AToBqlTgYSbJ) | 3:35 |
 | 87 | [And a Very Happy New Year](https://open.spotify.com/track/7F69Ww93njwsxvYb7YuKij) | [Big Little Lions](https://open.spotify.com/artist/1S25eHELHGJo2jLuayK0X3) | [And A Very Happy New Year](https://open.spotify.com/album/3rIbVCq80Zo76VFPTfTerl) | 3:06 |
-| 88 | [Thank You Bruce](https://open.spotify.com/track/3EBawrYqLkRHQXVtOqngwa) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Christmas is Cancelled](https://open.spotify.com/album/2584cImcXalWKOj9zVZ03y) | 3:49 |
+| 88 | [Thank You Bruce](https://open.spotify.com/track/5jXd88IeWJblVvf9FHbPYc) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Christmas is Cancelled](https://open.spotify.com/album/2ZgVipcoewPclxuEjVlf8Z) | 3:49 |
 | 89 | [If December Never Ends](https://open.spotify.com/track/2WcHt4exAsZfGOFo58kc4f) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [If December Never Ends](https://open.spotify.com/album/429NAg7gljZCqS9hrssrIQ) | 3:18 |
 | 90 | [Baby It’s Not Christmas Without You](https://open.spotify.com/track/01jcUhKrle6a3YLPPAPVPl) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Baby It’s Not Christmas Without You](https://open.spotify.com/album/5Mmo9hY5lKWUBmiBB7mEtJ) | 2:47 |
 | 91 | [Merriest Christmas](https://open.spotify.com/track/42DwMOy3tuTpLDJqxOEkMG) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Merriest Christmas](https://open.spotify.com/album/1uslsNbvS0fl4H1PepuPLS) | 4:27 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 191 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
 | 192 | [At Least I Have Santa](https://open.spotify.com/track/78InQyI314pCq9GVTrUBib) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [At Least I Have Santa](https://open.spotify.com/album/6cpaLiEmVaQrpPUPiAePDF) | 3:24 |
 
-Snapshot ID: `MCxjNjY4NTU2MTIxNjUzYzRlZmYyOThkNTlhNzM3OTRlNWZiOGZkZWMy`
+Snapshot ID: `MCw4MGEzMzBhNzZjNmIxMTE1MDdiNTc3NTAxM2YxMThmNjdiZWM0MTJh`

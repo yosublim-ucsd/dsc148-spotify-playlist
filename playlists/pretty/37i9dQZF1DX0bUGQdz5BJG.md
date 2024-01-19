@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Brittney Spencer
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,738 likes - 201 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,765 likes - 201 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 6 | [Don't Tell Her I Told You](https://open.spotify.com/track/6w7SfFq7SIwI3vCD0dY2VF) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['23](https://open.spotify.com/album/7xlgfA4BqOu3SDWqaJF6i6) | 2:58 |
 | 7 | [Diamond](https://open.spotify.com/track/7tWseBd8Zp71aJyBphC3l5) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Diamond](https://open.spotify.com/album/4EdmSYhgVkzAzl4DKMruOz) | 3:17 |
 | 8 | [Back to My Place](https://open.spotify.com/track/2dZPgMNCaguLPt3braiGj0) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Back to My Place](https://open.spotify.com/album/4DSt9zVyd8eLeQGLyOBz4s) | 4:22 |
-| 9 | [You’re My Texas](https://open.spotify.com/track/6SaffSEZJMBX31dd3wLugm) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [You're My Texas](https://open.spotify.com/album/7sk2FcYfRPMEof4Ytknom5) | 3:22 |
+| 9 | [You’re My Texas](https://open.spotify.com/track/6SaffSEZJMBX31dd3wLugm) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [You're My Texas](https://open.spotify.com/album/7sk2FcYfRPMEof4Ytknom5) | 3:19 |
 | 10 | [Ain't for the Beer](https://open.spotify.com/track/6qWHuHOn6N4e0uwc0lFSqk) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe), [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Ain't for the Beer](https://open.spotify.com/album/7FZVsv8JAAJOsMbUqwoTvy) | 2:27 |
 | 11 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/3tCmf09z9TgvSAwH6nmcIq) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/6kjTGMKMraLrlGtEJLA7mw) | 2:51 |
 | 12 | [Not Yet](https://open.spotify.com/track/6Vecr80tnNQJmyoIMWkiCq) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Not Yet](https://open.spotify.com/album/64X6Dn40pMX4gBBkfr91b1) | 2:46 |
@@ -168,7 +168,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 158 | [Bulletproof](https://open.spotify.com/track/40zoqDOBegJJaDJLmLyv6g) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Bulletproof](https://open.spotify.com/album/4JGO5ZFI3MZcRzx7HWJX03) | 3:17 |
 | 159 | [Rules Of Breaking Up](https://open.spotify.com/track/727W0shoYYI3WF99t8mQGw) | [Hudson Rose](https://open.spotify.com/artist/2OVd5jsVZnxyb1jI35yDEX) | [Rules Of Breaking Up](https://open.spotify.com/album/64c9W9o2ZUIJOY3sCNtAjR) | 3:35 |
 | 160 | [Countin Em Up](https://open.spotify.com/track/5jtMOAP2VSQJ2jtqlH9JRj) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Countin Em Up](https://open.spotify.com/album/00ydoOn1lwmkwOtBBUnpaZ) | 2:48 |
-| 161 | [Fake Tan](https://open.spotify.com/track/0pTakKInEhohtQPoE5Y8IJ) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [Fake Tan](https://open.spotify.com/album/0dRGBrnv5vGVUOY25YdlvC) | 3:25 |
+| 161 | [fake tan](https://open.spotify.com/track/0pTakKInEhohtQPoE5Y8IJ) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [fake tan](https://open.spotify.com/album/0dRGBrnv5vGVUOY25YdlvC) | 3:25 |
 | 162 | [Missouri On My Mind](https://open.spotify.com/track/4pMAGxsFM14xb09oNVxLiB) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Missouri On My Mind](https://open.spotify.com/album/7A3UNLBL4Fk4iJEfVhTt0w) | 2:46 |
 | 163 | [Like My Whiskey \(feat\. Gretchen Wilson\)](https://open.spotify.com/track/4UEED41GV1zYDvR9Mzw2jk) | [Jessie G](https://open.spotify.com/artist/1gwUQtBkIL11BmSrr9VFBb), [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Like My Whiskey \(feat\. Gretchen Wilson\)](https://open.spotify.com/album/4SLylCJK4K8lDILR3C1igN) | 3:01 |
 | 164 | [Flipside of Free](https://open.spotify.com/track/4WNMurMeK04ek0WxaSJKfy) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Flipside of Free](https://open.spotify.com/album/3MgIEFYJWLLNeWHbSVDJ5h) | 2:56 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 200 | [Church Pew](https://open.spotify.com/track/52yPTyhnmH0q07DNDoUkja) | [Caleb Mills](https://open.spotify.com/artist/2hoDSV1Gib8tGTS7q1yKWP) | [Church Pew](https://open.spotify.com/album/3qTqeH0QaHmBC3XnonZ0OZ) | 3:49 |
 | 201 | [DiCaprio](https://open.spotify.com/track/230mQ7KfcuqKWuxg63gd9m) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [DiCaprio](https://open.spotify.com/album/1KyFMUwcZZVKQuxgoeuLYM) | 3:06 |
 
-Snapshot ID: `MCxhMjE1NWU4MjY1ZDY5OWMwOTVkOTg5OThiZjM3ZmUyMmI2N2ZjZTAw`
+Snapshot ID: `MCw3YTBhOTQzYzg1MThlMWE1ZTgzZTIyODE2OTRjZDFhYWI5MDEwYmM4`

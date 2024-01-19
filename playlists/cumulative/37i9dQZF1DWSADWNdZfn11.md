@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-378 songs - 20 hr 8 min
+379 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [My Favorite Things](https://open.spotify.com/track/24pxMjslKW09Ew6LMUs0Og) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 2:18 | 2022-08-01 | 2023-04-15 |
 | [My Girl](https://open.spotify.com/track/47roQazXWhrHvl61NVGTF2) | [Playing To Pitch In](https://open.spotify.com/artist/6TRj5grL3SgjzITEJyMOx5) | [My Girl](https://open.spotify.com/album/17VtHnIsNBJYn9Ym8hOzyG) | 3:23 | 2022-09-30 | 2023-08-11 |
 | [My Love](https://open.spotify.com/track/6Gxmi0xjKRJ1bMH64a8Z3S) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [My Love](https://open.spotify.com/album/6ogaIuwMfmufA8QopOSD8X) | 3:56 | 2023-04-14 |  |
+| [My Love Is Your Love](https://open.spotify.com/track/4uJbyfXdhYv0rFlCD8A7OP) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [My Love Is Your Love](https://open.spotify.com/album/2zHVJqtr8i8Tp6qaknqZYR) | 3:30 | 2024-01-19 |  |
 | [My Romance](https://open.spotify.com/track/2rWqBm1Hs2rbw8rzJpDD71) | [Marina Aden](https://open.spotify.com/artist/0sSwEGrgOOrG2RVtPF5weI) | [My Romance](https://open.spotify.com/album/1Q8e34UABF8CKhX8sZSIe7) | 2:43 | 2022-12-16 | 2023-05-06 |
 | [My Universe](https://open.spotify.com/track/0gUFsysQrkPRZPLnL7NiV4) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [BTS Piano Covers, Vol\. 2](https://open.spotify.com/album/0xFZWU9ElqmrExGQ9zcDLg) | 2:14 | 2022-08-01 |  |
 | [Mystery Of Love](https://open.spotify.com/track/5iAtsXItE1NUh8SbDaEzSQ) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Mystery Of Love](https://open.spotify.com/album/4tmM2JSI4iIYn7r1Kdse8M) | 3:44 | 2023-02-24 |  |
@@ -316,7 +317,7 @@
 | [Thank You For The Music](https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Thank You For The Music](https://open.spotify.com/album/4CJ1FrArr8OwNTKIYryekH) | 3:26 | 2023-01-06 |  |
 | [That's The Way It Is](https://open.spotify.com/track/4xMDyCESzvK2wNxeslM8M5) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Céline Piano Covers](https://open.spotify.com/album/7nJe5fPZkiHCxQ4OPGuj8k) | 2:44 | 2023-04-14 |  |
 | [THATS WHAT I WANT](https://open.spotify.com/track/2291OZxZ4Ra3FNKDhljgBr) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [CUFF IT](https://open.spotify.com/album/4yU9HvloC2VTTKnTqlNT4P) | 3:19 | 2023-03-17 |  |
-| [The First Cut Is The Deepest](https://open.spotify.com/track/2AOwriifqUUyINxFwNqItE) | [Mick Fazio](https://open.spotify.com/artist/62ZayiWK1lr4ROa7YqpKkx) | [Songs for Sunday](https://open.spotify.com/album/0NqYqAmh1MwXEoJJPYBFwt) | 3:16 | 2022-08-01 |  |
+| [The First Cut Is The Deepest](https://open.spotify.com/track/2AOwriifqUUyINxFwNqItE) | [Mick Fazio](https://open.spotify.com/artist/62ZayiWK1lr4ROa7YqpKkx) | [Songs for Sunday](https://open.spotify.com/album/0NqYqAmh1MwXEoJJPYBFwt) | 3:16 | 2022-08-01 | 2024-01-19 |
 | [The Joke](https://open.spotify.com/track/3Sq6BHPQVRWE9WHvFDQzNz) | [Zola Davis](https://open.spotify.com/artist/78EI36rEoD1ZiOHSgYroWP) | [The Joke](https://open.spotify.com/album/5jPbLh8xYOuczLIsnHeDng) | 3:31 | 2022-08-01 |  |
 | [The Joker And The Queen](https://open.spotify.com/track/50b9WR0RsWdG0pvgTzQQhi) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [The Joker And The Queen](https://open.spotify.com/album/0cnOgEre1gyqiJr9lz6LwB) | 3:42 | 2022-08-01 |  |
 | [The long and winding road](https://open.spotify.com/track/2WL3AT2ai6udaUhw7CjwbW) | [Laura Hanson](https://open.spotify.com/artist/2PaeMuShS6wgfLp465LQU3) | [The long and winding road](https://open.spotify.com/album/5TutzM4ffUT9H5MxzqzC23) | 2:28 | 2023-04-14 |  |
@@ -339,7 +340,7 @@
 | [Tough Love](https://open.spotify.com/track/6fiJcteH6fErcmD13PmiPq) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Tough Love](https://open.spotify.com/album/6yMais1OVuoMMei5VUH6Bt) | 2:45 | 2023-05-26 |  |
 | [True Colors \- Piano Version](https://open.spotify.com/track/047B5xypjW3iozKNgJgHMK) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part I](https://open.spotify.com/album/1oAIunhTkzflIbFknRJKaO) | 2:55 | 2022-08-01 |  |
 | [Un\-Break My Heart \- Piano Version](https://open.spotify.com/track/0BzvsmMbasJqL2UQQWISjm) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part IV](https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf) | 3:06 | 2022-11-18 | 2023-05-06 |
-| [Under Pressure](https://open.spotify.com/track/5YCab8agd3ARAF7Y3Z4wbx) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Love Of My Life \(Tribute to Queen\)](https://open.spotify.com/album/5vUFHXS6MNa3HnJruSpda8) | 3:07 | 2022-08-01 |  |
+| [Under Pressure](https://open.spotify.com/track/5YCab8agd3ARAF7Y3Z4wbx) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Love Of My Life \(Tribute to Queen\)](https://open.spotify.com/album/5vUFHXS6MNa3HnJruSpda8) | 3:07 | 2022-08-01 | 2024-01-19 |
 | [Unholy](https://open.spotify.com/track/48y6yD5FxqqaeKNUJ1tYdP) | [Mica Stromberg](https://open.spotify.com/artist/4yyxz7bc0tROTIRMaTKnnK) | [Unholy](https://open.spotify.com/album/2mXDmRXOqw0ZSO0Hfxlrn5) | 3:17 | 2022-11-18 | 2023-01-07 |
 | [Until I Found You](https://open.spotify.com/track/2yIXvAOhIvWZz7wzYTQIdB) | [Eva Witzell](https://open.spotify.com/artist/0A3DJSJYUBT9R1G9Z4zIS6) | [Until I Found You](https://open.spotify.com/album/41NiXyPSiRAoVPJQUw9CR8) | 2:42 | 2022-11-18 |  |
 | [Vampire](https://open.spotify.com/track/1PJ6gIJxcF3v9TwhrMPBjT) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Vampire](https://open.spotify.com/album/2pfliYSgsm7DY68Pxifaz8) | 3:07 | 2024-01-05 |  |

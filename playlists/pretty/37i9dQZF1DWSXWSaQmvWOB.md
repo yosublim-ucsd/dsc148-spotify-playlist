@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Quantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,366 likes - 68 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,410 likes - 68 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 3 | [MARY](https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY](https://open.spotify.com/album/1XlZFlRQgdLrup2RMq4Lol) | 3:26 |
 | 4 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 |
 | 5 | [Champagne People \- \(Allen Stone 2023 Rework\)](https://open.spotify.com/track/5vPoVJf0PzMsM8t38oUe1l) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Champagne People \(Allen Stone 2023 Rework\)](https://open.spotify.com/album/28640778n4T43wYsbgWlgz) | 4:21 |
-| 6 | [Pain](https://open.spotify.com/track/1JoNm8mQj3zlgGM5VAdDtY) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Pain](https://open.spotify.com/album/5ST2xhtO5nMrgyLZCgo4kS) | 2:30 |
+| 6 | [Pain](https://open.spotify.com/track/2YeRpzh6YWTeDpYGJgS0LM) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [The Lost Tape](https://open.spotify.com/album/4Q6TO9LyXJRr872RW3jqf5) | 2:30 |
 | 7 | [Champagne \(feat\. Jorja Smith\)](https://open.spotify.com/track/1C5qJQyeR3bNSbPRl9hOhZ) | [Jeymes Samuel](https://open.spotify.com/artist/5LCKmOTlZQaULxnQ1xIkD8), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [THE BOOK OF CLARENCE \(The Motion Picture Soundtrack\)](https://open.spotify.com/album/4t3ZghXZc8mQgIpVHUPxW4) | 4:08 |
 | 8 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 9 | [Love the Mystery \- Radio Edit](https://open.spotify.com/track/2Pz0KXAVTupriGxk9rT42n) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Love the Mystery](https://open.spotify.com/album/3rHgk8sOOo0Kh5bX0Oqjs5) | 3:44 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 67 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 |
 | 68 | [Might Just Make It](https://open.spotify.com/track/0jRcaxm19oxnlKBbEucjZm) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Might Just Make It](https://open.spotify.com/album/74rexr4XjvEjgOVHmFH0ow) | 4:29 |
 
-Snapshot ID: `MCw3OTVkNDA1YWM4ODM4NDBjZTVlYzc3YzdmZmE3ZjJjODdjODBjOGQ4`
+Snapshot ID: `MCw4OWFkY2IwOWVhMjhhYmVjYzQ0ZmE0YWJlZDhjNmQ5MTdmZTU0ZGQ0`

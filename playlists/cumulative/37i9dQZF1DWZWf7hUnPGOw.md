@@ -4,7 +4,7 @@
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-270 songs - 16 hr 20 min
+271 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Bird](https://open.spotify.com/track/6DzvC1VHpyTFfLBbAYBa7W) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:40 | 2022-07-22 |  |
 | [Bird on a Wire](https://open.spotify.com/track/7l8cRDImRiW7cv6g2heTWi) | [Kristin Diable](https://open.spotify.com/artist/54pjCT6b2kZAQuHsS4lR43) | [Create Your Own Mythology](https://open.spotify.com/album/18hMZo0Cfxv6oWrTYCbpTS) | 3:56 | 2022-07-22 |  |
 | [Bring It on Back](https://open.spotify.com/track/4uJ3lcczDikJVY3J7FMlAC) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Bring It on Back](https://open.spotify.com/album/6C7vMX5qtIcGUJfN0YAncv) | 4:34 | 2022-07-22 | 2022-10-13 |
-| [Bring It on Back](https://open.spotify.com/track/6UYTTPfzs0iKcjxQH4dYuM) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Bring It on Back](https://open.spotify.com/album/4Gm7XaibvOLvxa7pcYKGWG) | 4:34 | 2022-07-22 |  |
+| [Bring It on Back](https://open.spotify.com/track/6UYTTPfzs0iKcjxQH4dYuM) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Bring It on Back](https://open.spotify.com/album/4Gm7XaibvOLvxa7pcYKGWG) | 4:34 | 2022-07-22 | 2024-01-19 |
+| [Bring It on Back](https://open.spotify.com/track/7lRYbgG2vkS0waSfPSXOvm) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Bring It on Back](https://open.spotify.com/album/5uxEck6eNMMg4wnp4m5K3U) | 4:34 | 2023-11-30 |  |
 | [Bring on the Rain](https://open.spotify.com/track/5vhIJeG6kiI1foK7xg5k7A) | [Hudson Moore](https://open.spotify.com/artist/26iVzd80yAXJjZlsrshRjQ) | [Getaway](https://open.spotify.com/album/6YYt3XISMrkoP1Y2db5NJT) | 4:50 | 2022-07-22 |  |
 | [Can't Take My Eyes Off of You](https://open.spotify.com/track/47Dc6UvkluFZbPnumBlDBH) | [Emilie Mover](https://open.spotify.com/artist/4dx2QFru02KbFFNYgwourF) | [Can't Take My Eyes Off of You](https://open.spotify.com/album/6E7q60dny8FilgA0miylxv) | 3:23 | 2022-07-22 |  |
 | [Carry You](https://open.spotify.com/track/0TbP1ASV5mBpwpME75LWRA) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/2ehxFsc0DYcD5olmS1XpCT) | 4:28 | 2022-07-22 | 2022-07-29 |
@@ -71,9 +72,9 @@
 | [fever dream](https://open.spotify.com/track/6tBezEEJZvJqWR8CSbynwT) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [fever dream](https://open.spotify.com/album/15BqX80MalgCmW5anvDzcZ) | 3:16 | 2022-07-22 | 2022-11-13 |
 | [Fighting Fire with Gasoline](https://open.spotify.com/track/4LBJ8a1AkUOKg1CO0ysz58) | [The Kokomo Kings](https://open.spotify.com/artist/3RCAA6TfnIj5VwxJB5HhFQ) | [Fighting Fire with Gasoline](https://open.spotify.com/album/46GuNa5LZNMd2cJZJ44MrC) | 2:15 | 2022-07-22 |  |
 | [Forever With You](https://open.spotify.com/track/0WATpfBLHGcX4DDxyL83HW) | [Ryan Lau](https://open.spotify.com/artist/646tpmjSFYpGby2Jr7MDCX) | [Forever With You](https://open.spotify.com/album/0sOgtJSmw2q94seovYpMe7) | 1:49 | 2022-07-22 |  |
-| [Free Rider](https://open.spotify.com/track/0VDH0yEqXrq1KgB4jrLpB0) | [Spirit City](https://open.spotify.com/artist/5ahpxJYMEoAHwWBDMrU6jK) | [Free Rider](https://open.spotify.com/album/4pwYvDwwvLVXQiQiCiFsZp) | 3:31 | 2022-07-22 | 2023-09-15 |
+| [Free Rider](https://open.spotify.com/track/0VDH0yEqXrq1KgB4jrLpB0) | [Spirit City](https://open.spotify.com/artist/5ahpxJYMEoAHwWBDMrU6jK) | [Free Rider](https://open.spotify.com/album/4pwYvDwwvLVXQiQiCiFsZp) | 3:31 | 2022-07-22 |  |
 | [Free Rider](https://open.spotify.com/track/1107wtcxWd3cPY4xYC2MwS) | [Spirit City](https://open.spotify.com/artist/5ahpxJYMEoAHwWBDMrU6jK) | [Free Rider](https://open.spotify.com/album/1dvjRmAhV8xSt1d3CLHQPy) | 3:31 | 2022-07-22 | 2022-10-13 |
-| [Free Rider](https://open.spotify.com/track/5MHD8arSmLCrkujTJBjoab) | [Spirit City](https://open.spotify.com/artist/5ahpxJYMEoAHwWBDMrU6jK) | [Free Rider](https://open.spotify.com/album/69ioWkMs6HxMePYts5VxSY) | 3:31 | 2022-07-22 |  |
+| [Free Rider](https://open.spotify.com/track/5MHD8arSmLCrkujTJBjoab) | [Spirit City](https://open.spotify.com/artist/5ahpxJYMEoAHwWBDMrU6jK) | [Free Rider](https://open.spotify.com/album/69ioWkMs6HxMePYts5VxSY) | 3:31 | 2022-07-22 | 2024-01-19 |
 | [Full Throttle](https://open.spotify.com/track/50mVRTJZtgwu8IrtRPTQA5) | [Caleb Smucker](https://open.spotify.com/artist/7p2e5ziM4xZHyvwEsQqKT6) | [Full Throttle](https://open.spotify.com/album/3LFTkDH6hMgawRGseaW0Ws) | 2:57 | 2023-09-07 |  |
 | [Get Lost](https://open.spotify.com/track/43dfJw9GLthId3XPcvRKqv) | [The Sun Harmonic](https://open.spotify.com/artist/4y7VIhtqatehI7dxEZPhla) | [It's All Okay, Thanks to You](https://open.spotify.com/album/2fQ0iXeirl9wxlZY4LEDQn) | 3:29 | 2023-09-07 |  |
 | [Give It Hell](https://open.spotify.com/track/06FU6MJmk3cGUt4SVKzWKo) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:24 | 2022-07-22 |  |

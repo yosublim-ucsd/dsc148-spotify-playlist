@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Vortxz
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,629 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,715 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 89 | [Math Class Day Dreams](https://open.spotify.com/track/42WrqG2wYPmruXBGsVSb6s) | [No Waves](https://open.spotify.com/artist/7vjsP3f1kEjtmLim5VN41R) | [Math Class Day Dreams](https://open.spotify.com/album/5qyq2QsXtuETFgP87QcCaf) | 3:25 |
 | 90 | [RUN TO BUY VACUUM](https://open.spotify.com/track/0fWHQ0HDdc9XBKx4lC0xQ1) | [Milk TV](https://open.spotify.com/artist/6iTicNZlmOqmxbpYxShHsF) | [RUN TO BUY VACUUM](https://open.spotify.com/album/5Qdn2ZNsb8Ql9IU18I0rdH) | 2:41 |
 | 91 | [Wind Up Merchant](https://open.spotify.com/track/4Op4RqAgY4FE1GotwYLw4x) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Wind Up Merchant](https://open.spotify.com/album/0UHMSyyN0zZVcq7HBbXIsp) | 2:35 |
-| 92 | [Dry](https://open.spotify.com/track/0OlqmnxmcAsguGfUkpZn9G) | [Drauve](https://open.spotify.com/artist/3amCA9U9lgity9TZs1MENn) | [Dry](https://open.spotify.com/album/1kzBI3su7CwsBdFPftkMvc) | 3:07 |
+| 92 | [Dry](https://open.spotify.com/track/2pje58AMnj2ZsP0VzVfGF9) | [Drauve](https://open.spotify.com/artist/3amCA9U9lgity9TZs1MENn) | [Dry](https://open.spotify.com/album/0D1wJzNM4l6xtkNKZchVsN) | 3:07 |
 | 93 | [Rupert!](https://open.spotify.com/track/1hkABChLpTfUyidNY738oj) | [Birthday Girl](https://open.spotify.com/artist/0pr0MTL5u7A2wRs5nlUwrV) | [Rupert!](https://open.spotify.com/album/3SPVmdoILGrFGZr9ykmIFf) | 2:01 |
 | 94 | [Cylinders](https://open.spotify.com/track/17I5FjmxdcfWX9GYjsSkVJ) | [Dog Sport](https://open.spotify.com/artist/68RQxUCaZrjtIYlxk6mERg) | [Cylinders](https://open.spotify.com/album/5nXRuh4rwIUu7TySmM9oeE) | 3:21 |
 | 95 | [Mattress](https://open.spotify.com/track/6V9RcZmTpDpK7y55xWXPtz) | [Palace Watson](https://open.spotify.com/artist/5Ll9u8Eu8NINJcN9mtRvz7) | [The Living Room EP](https://open.spotify.com/album/7cJQwMGWDeErogfTszDA0t) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [It's A Pain](https://open.spotify.com/track/6fYQfO8TdcHsrGsyiHcbP6) | [Bummer Camp](https://open.spotify.com/artist/03PQWgjoaJt88TpMi1dmm5) | [Big Deal](https://open.spotify.com/album/4hclPpxh4OdsHhYc14TpQV) | 2:54 |
 | 100 | [Half Tank](https://open.spotify.com/track/6eeTmM6NgqFKxEyvbN8e5d) | [Wet Nights](https://open.spotify.com/artist/6KfM7n9lgcfBmiz9vrhqF3) | [Half Tank](https://open.spotify.com/album/2cNScKizCqLxWx4REOJ7BF) | 4:06 |
 
-Snapshot ID: `MCw5NTY1OTEwOGIxNWY4MWI1YzhkZThlNDY3MjQ4MGE1MmJhMjQ3NWRk`
+Snapshot ID: `MCw0YWFmYzk0ZmU3YWE3N2Y5NjZlMTYxMTFkOTMxNDhjY2NmOGE4M2E5`

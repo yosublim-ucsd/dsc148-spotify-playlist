@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester",
-  "num_followers": 113874,
+  "num_followers": 113880,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzVlMDI3NWM4MjczZjQ5OTY1ZWM5OWFiZjA0NzZmMTc3MjA1ZDA4",
+  "snapshot_id": "MCw4YjM0ZGRmZWNkOTY2NWJkOWNlZjgwODA4OWQxNmY1NzMwMjY3MjM1",
   "tracks": [
     {
       "added_at": "2023-05-24 04:00:00",
@@ -912,22 +912,6 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "Burn Out - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
       },
       "artists": [
@@ -939,6 +923,22 @@
       "duration_ms": 247312,
       "name": "Psycho - Recorded at Sound Stage Studios, Nashville",
       "url": "https://open.spotify.com/track/33aoxwQiePZVRQtYuJz6IR"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "Burn Out - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -1028,22 +1028,6 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Good Together - Recorded At Revolution Studios, Toronto",
-      "url": "https://open.spotify.com/track/5cnouImxhCqfrgzl6oxIZX"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn"
       },
       "artists": [
@@ -1055,6 +1039,22 @@
       "duration_ms": 312586,
       "name": "One More Try - Recorded at Spotify Studios Nyc",
       "url": "https://open.spotify.com/track/5qoey0nfhko0BZh5w1Xq0y"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Good Together - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/5cnouImxhCqfrgzl6oxIZX"
     },
     {
       "added_at": "2023-03-21 00:57:42",

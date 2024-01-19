@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 232668,
+  "2024-01-19": 232804,
   "date_first_scraped": "2023-01-14",
   "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30cf\u30f3\u30d6\u30ec\u30c3\u30c0\u30fc\u30ba",
   "name": "J-Rock Now",
@@ -4098,6 +4098,24 @@
     },
     {
       "album": {
+        "name": "A melody that flies beyond time",
+        "url": "https://open.spotify.com/album/5jxccF7FKF9shTKQAd5MdI"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u5c71\u7530\u58ee\u5e73",
+          "url": "https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Her Jazzmaster",
+      "url": "https://open.spotify.com/track/19b5Mr17lts5dlYxyILxfQ"
+    },
+    {
+      "album": {
         "name": "Heroine",
         "url": "https://open.spotify.com/album/0hckNohlwrrJFFZVHqUI7m"
       },
@@ -6112,6 +6130,24 @@
     },
     {
       "album": {
+        "name": "Love Song ga Iranai Kimi e",
+        "url": "https://open.spotify.com/album/4jnUmf2eZu1fO3Pel9LwhN"
+      },
+      "artists": [
+        {
+          "name": "Kaneyorimasaru",
+          "url": "https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223566,
+      "name": "Love Song ga Iranai Kimi e",
+      "url": "https://open.spotify.com/track/1JckJKUfnd4Xbkh7xfAk8c"
+    },
+    {
+      "album": {
         "name": "ACTA",
         "url": "https://open.spotify.com/album/3gjpogPcDu12ZDRaDtV5KL"
       },
@@ -7154,6 +7190,24 @@
     },
     {
       "album": {
+        "name": "Nichijo no Sukosi Saki e",
+        "url": "https://open.spotify.com/album/0XhWJADP1qlTKGyaRU31AH"
+      },
+      "artists": [
+        {
+          "name": "Mr.\u3075\u3049\u308b\u3066",
+          "url": "https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Nichijo no Sukosi Saki e",
+      "url": "https://open.spotify.com/track/2XFgux5P8xq6JwgFImat2W"
+    },
+    {
+      "album": {
         "name": "Nimby",
         "url": "https://open.spotify.com/album/7gZGcOXNKumRKcSOxc1qzy"
       },
@@ -7169,6 +7223,24 @@
       "duration_ms": 263000,
       "name": "Nimby",
       "url": "https://open.spotify.com/track/4Gfy00cHRDU1u1uJdbOYqf"
+    },
+    {
+      "album": {
+        "name": "nitari",
+        "url": "https://open.spotify.com/album/17ecQayWxTwcz9o25u8HHE"
+      },
+      "artists": [
+        {
+          "name": "Singer's High",
+          "url": "https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163285,
+      "name": "nitari",
+      "url": "https://open.spotify.com/track/1ZKoFnft58Ak3jujRlUGJQ"
     },
     {
       "album": {
@@ -8880,6 +8952,24 @@
     },
     {
       "album": {
+        "name": "Sea U Again",
+        "url": "https://open.spotify.com/album/58YIbdLfmGbVlzhAR4tjOD"
+      },
+      "artists": [
+        {
+          "name": "Re:name",
+          "url": "https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "Sea U Again",
+      "url": "https://open.spotify.com/track/2bazWE21cNpkuXekVJwHZ4"
+    },
+    {
+      "album": {
         "name": "sea u again",
         "url": "https://open.spotify.com/album/7ovLZpKxHm8s7gUPraXQ0S"
       },
@@ -8891,7 +8981,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 245240,
       "name": "sea u again",
       "url": "https://open.spotify.com/track/6eLoWC2cLV72ePaDFuGYq0"
@@ -14859,7 +14949,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 163285,
       "name": "\u30cb\u30bf\u30ea",
       "url": "https://open.spotify.com/track/0G8ErkrQkzU6usCXnly1Ge"
@@ -16315,7 +16405,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 223566,
       "name": "\u30e9\u30d6\u30bd\u30f3\u30b0\u304c\u3044\u3089\u306a\u3044\u541b\u3078",
       "url": "https://open.spotify.com/track/3VXL22jDNdom9SZfdGRM5X"
@@ -18471,7 +18561,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 160000,
       "name": "\u5f7c\u5973\u306e\u30b8\u30e3\u30ba\u30de\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/4jVuWlrrRZ6Y2QlnRmgdsy"
@@ -19029,7 +19119,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 200000,
       "name": "\u65e5\u5e38\u306e\u5c11\u3057\u5148\u3078",
       "url": "https://open.spotify.com/track/6dhN74SWRrOMVHAhf0AfcA"

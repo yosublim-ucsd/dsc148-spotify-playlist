@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8686,
+  "num_followers": 8684,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTcwZDQ3MjJlZWExZDE4NzQxYWI2NzZmODFiYTIxMjE4YzdjYzJh",
+  "snapshot_id": "MCxiMTljZDViMzcxODgzMGMyZTdhOTU3NjlhYTJlM2M2NjA5ZmE2Y2Ix",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
-      },
-      "artists": [
-        {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
-        }
-      ],
-      "duration_ms": 166044,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Stay Proud of Me",
         "url": "https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 209360,
       "name": "Man Who Loves You",
       "url": "https://open.spotify.com/track/6vJogWl1AUnWilW3UCKQ8K"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
+      },
+      "artists": [
+        {
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+        }
+      ],
+      "duration_ms": 166044,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Kaitlin",
-        "url": "https://open.spotify.com/album/4HKc9NdbLgaMnjqZMM2FnY"
-      },
-      "artists": [
-        {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Kaitlin",
-      "url": "https://open.spotify.com/track/0GY8oiVq2iY4lufOmhXPW4"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "What Happened, Happened",
         "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 184528,
       "name": "What Happened, Happened",
       "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Kaitlin",
+        "url": "https://open.spotify.com/album/4HKc9NdbLgaMnjqZMM2FnY"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Kaitlin",
+      "url": "https://open.spotify.com/track/0GY8oiVq2iY4lufOmhXPW4"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-        "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
-      },
-      "artists": [
-        {
-          "name": "Alextbh",
-          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
-        }
-      ],
-      "duration_ms": 273080,
-      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-      "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Honey Understand",
         "url": "https://open.spotify.com/album/5fNeCyH1z4hzntsX0bfRrM"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 241920,
       "name": "Honey Understand",
       "url": "https://open.spotify.com/track/3q5eBVe8qOa1x3f24xoBkc"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+        "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
+      },
+      "artists": [
+        {
+          "name": "Alextbh",
+          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
+        }
+      ],
+      "duration_ms": 273080,
+      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+      "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
     },
     {
       "added_at": "2023-06-30 23:59:00",

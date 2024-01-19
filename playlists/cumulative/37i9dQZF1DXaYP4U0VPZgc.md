@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-119 songs - 9 hr 11 min
+120 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [君の銀の庭](https://open.spotify.com/track/3LsjEGxV5LbJ985Ls5ijwG) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [君の銀の庭](https://open.spotify.com/album/207BrZB1WM0SC3Zp3NT0ia) | 5:07 | 2022-02-28 | 2022-07-29 |
 | [君の銀の庭](https://open.spotify.com/track/4ng5y9p7whitO0yq4nTBpA) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 5:08 | 2022-02-28 | 2022-11-13 |
 | [君は僕に似ている](https://open.spotify.com/track/4uGSI2UhuHFTfeqQ9ei4sv) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [君は僕に似ている](https://open.spotify.com/album/7rbAdOBhmgUi8kz4AGE8GS) | 4:45 | 2022-02-28 | 2023-06-18 |
+| [夕闇のうた](https://open.spotify.com/track/2kzO0Isudp6WtXcrEzopKs) | [KEIKO](https://open.spotify.com/artist/4j7ZX5A2mU1ClOmposbUFM) | [夕闇のうた](https://open.spotify.com/album/1UNBShwV9GyEO6oTrEXVMn) | 4:03 | 2024-01-18 |  |
 | [太陽の航路](https://open.spotify.com/track/3XGSEetBWHmbLarbxhWjZG) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [太陽の航路](https://open.spotify.com/album/43l55BFdVisx8Oi2LkNfJx) | 4:08 | 2022-02-28 | 2022-07-29 |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-02-28 |  |
 | [春はゆく](https://open.spotify.com/track/2RSrmN9IbgDQTmGhv5X9eX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [春はゆく / marie](https://open.spotify.com/album/2yo4hx7Z6ZGGrZFmJ36E9u) | 5:04 | 2022-02-28 | 2022-11-13 |

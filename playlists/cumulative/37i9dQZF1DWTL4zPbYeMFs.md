@@ -4,7 +4,7 @@
 
 > A perfect mix for your Mehendi ceremony.
 
-82 songs - 5 hr 57 min
+83 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Charda Siyaal](https://open.spotify.com/track/1olfUQXZoaqITRxmBq1Y1F) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Charda Siyaal \- Single](https://open.spotify.com/album/1pSrIo84dlxz8U2fyLEolg) | 3:20 | 2022-03-14 | 2023-11-18 |
 | [Chhalka Chhalka Re](https://open.spotify.com/track/1xf8CRmSxglu1ikMhmdAiq) | [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Vaishali](https://open.spotify.com/artist/0w8tFRpIwIcsX9HXUIaoAF), [Shoma](https://open.spotify.com/artist/7CRk1A0vdDJmyvoA3I4SkN) | [Mardaani's Picks Vol\-3 \(Original\)](https://open.spotify.com/album/1jovWFh0n5lhPO6lMXe71T) | 5:46 | 2022-03-14 |  |
 | [Dastoor](https://open.spotify.com/track/4INechXMli8qPmDg1hItRD) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Dastoor](https://open.spotify.com/album/0MGXB7AjKEuaqZy2rObHle) | 3:16 | 2023-12-12 |  |
+| [Dil Jhoom](https://open.spotify.com/track/11qnwt18ZckPqchzK2I3U7) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Gadar 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI) | 5:04 | 2024-01-18 |  |
 | [Din Shagna Da](https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Phillauri](https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE) | 3:35 | 2022-03-14 |  |
 | [Genda Phool](https://open.spotify.com/track/15Vuw407y6UWIPUfGrpJ1e) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 2:48 | 2022-03-14 |  |
 | [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 | 2022-03-14 |  |
@@ -43,7 +44,7 @@
 | [Laung Gawacha](https://open.spotify.com/track/1aEfxP8CyCSDQeqRFlzBKb) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Laung Gawacha](https://open.spotify.com/album/2hv0zzhDs3mJ6GZekwpaPc) | 3:42 | 2023-08-08 |  |
 | [Laung Gawacha](https://open.spotify.com/track/5ol7uDVpF1pHQitme6AJpm) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Laung Gawacha](https://open.spotify.com/album/4ZHC2cpwbxzyktk4pXEBLv) | 2:41 | 2022-03-14 |  |
 | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/track/31EqumBCMNGK3kt1sSL4gV) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF) | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/album/396twavEqFLIB2wPhSOVsl) | 2:40 | 2022-03-14 |  |
-| [Le Jaana](https://open.spotify.com/track/0fvM6VGLEvqEVGDMlvvrQu) | [Lekka](https://open.spotify.com/artist/4KZQDP37PjXuTFWaRwq3aT), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN) | [Le Jaana](https://open.spotify.com/album/0ND4RpJKxM00Mt1XuLMFhg) | 3:38 | 2023-02-15 |  |
+| [Le Jaana](https://open.spotify.com/track/0fvM6VGLEvqEVGDMlvvrQu) | [Lekka](https://open.spotify.com/artist/4KZQDP37PjXuTFWaRwq3aT), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN) | [Le Jaana](https://open.spotify.com/album/0ND4RpJKxM00Mt1XuLMFhg) | 3:38 | 2023-02-15 | 2024-01-19 |
 | [Liggi](https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa) | 3:01 | 2023-10-12 | 2023-10-16 |
 | [Liggi](https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:01 | 2023-05-23 |  |
 | [London Thumakda](https://open.spotify.com/track/2qJAzSE6uC94oH2NRoPrGl) | [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Queen](https://open.spotify.com/album/2CpCvD6ZrMmiydad6IVEPU) | 3:50 | 2022-03-14 |  |

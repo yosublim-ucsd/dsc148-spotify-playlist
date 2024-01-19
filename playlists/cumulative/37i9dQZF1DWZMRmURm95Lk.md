@@ -2,9 +2,9 @@
 
 ### [Radici Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> Beat e rime, oggi come una volta\. Cor Veleno in cover.
+> Beat e rime, oggi come una volta\. DJ Shocca in cover.
 
-340 songs - 19 hr 44 min
+341 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [365 ANDROMEDA](https://open.spotify.com/track/0Sj67WJfyuGp06ABJH0B7M) | [Dome Flame](https://open.spotify.com/artist/5QWbGP2dTpUGHzxR6g0YLq), [Flyboy](https://open.spotify.com/artist/4UvqRWkkxG8KbXYzmxEYgJ), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [365 ANDROMEDA](https://open.spotify.com/album/5ZfoFzsKrOUJf0Ma2FBPRQ) | 3:45 | 2023-10-05 | 2023-10-15 |
 | [64 Bare](https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Baloo](https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA) | [64 Bare](https://open.spotify.com/album/03T2e774bXN4yNQzN9F3aj) | 2:41 | 2023-04-20 | 2023-05-13 |
 | [90](https://open.spotify.com/track/0rD8H43oOmGqkSPIZVw3QF) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Sacrosanto](https://open.spotify.com/album/2Z2Wr8hldKixUCF6bs7wv1) | 2:43 | 2023-05-25 | 2023-11-06 |
-| [90](https://open.spotify.com/track/28jLZFleUGkmg036G819TD) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Sacrosanto](https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69) | 2:43 | 2023-11-02 |  |
+| [90](https://open.spotify.com/track/28jLZFleUGkmg036G819TD) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Sacrosanto](https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69) | 2:43 | 2023-11-02 | 2024-01-19 |
 | [Ad occhi chiusi](https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Elisa Aramonte](https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl) | [Ad occhi chiusi](https://open.spotify.com/album/4MIDqncZlxZ1ZzfUQM1QvJ) | 3:45 | 2022-09-22 | 2023-10-25 |
 | [Africa Twin \(feat\. Don Joe\)](https://open.spotify.com/track/0JsLTmbvK0oL7k6WhDaWJM) | [Lucariello](https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ) | [Innocente](https://open.spotify.com/album/2DOOcX6j2vj5ocfRYq7JTR) | 2:48 | 2023-03-30 | 2023-07-07 |
 | [Agia Napia](https://open.spotify.com/track/3DMpAfJQuMpNLkQOrJdPwa) | [Gionni Gioielli](https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z), [Montenero](https://open.spotify.com/artist/5oGHd7AZ8Sr05S5MP5SnYC), [Hvgme](https://open.spotify.com/artist/2knx0CSI4okjpffgyboQga), [Stakanov Boys](https://open.spotify.com/artist/7ndNMOzIjZRZHhiMBeDGkN) | [Mediterraneo](https://open.spotify.com/album/6wkt0LYTOKqDVa069U5SJ0) | 2:05 | 2023-06-22 | 2023-07-07 |
@@ -154,6 +154,7 @@
 | [L'uomo dei sogni](https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r), [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [CHIODI](https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9) | 4:08 | 2022-06-14 |  |
 | [La Ballotta](https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Neffa E I Messaggeri Della Dopa](https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn) | 5:20 | 2022-05-05 |  |
 | [La Certa](https://open.spotify.com/track/4VWFj5qabn8QrXdCqDjXMF) | [Caparezza](https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB) | [Exuvia](https://open.spotify.com/album/3IUDXM1LSMIryQTo9qKBDX) | 3:40 | 2022-06-14 | 2022-06-17 |
+| [La Fame](https://open.spotify.com/track/3kwdLQJF7xuqa6FG9Us8Om) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [Sacrosanto \(Deluxe Edition\)](https://open.spotify.com/album/2Om2nAPw1pT9BiK4vj1SDD) | 2:44 | 2024-01-18 |  |
 | [La Fenice \(Remix\)](https://open.spotify.com/track/5iLh8ierAnT0KbtLuan1KZ) | [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u), [Kaos One](https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh), [DJ Argento](https://open.spotify.com/artist/0OEc9ieH76E5YKyWs3rS4w) | [La Fenice \(Remix\)](https://open.spotify.com/album/7GmuyBEOyVErKTmT3VFlSk) | 4:53 | 2022-05-05 | 2022-07-29 |
 | [La Forma Dell'Acqua](https://open.spotify.com/track/6RgA5HE1zt1NUWXXMuF7Nn) | [Romanderground](https://open.spotify.com/artist/01NKdNe1CI4T2pxlL70VK1), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ) | [Palingenesi](https://open.spotify.com/album/3eBEUyfjSzdNBe15zfUC4A) | 4:40 | 2023-05-04 | 2023-07-07 |
 | [La maggior parte](https://open.spotify.com/track/2hFGej35hhWApmQQFasOjV) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Faith](https://open.spotify.com/artist/04eXfz9LChWHvudbMf9OOm) | [La maggior parte](https://open.spotify.com/album/5tTsZMtusfHxPdBlGT57nP) | 3:27 | 2022-05-12 | 2022-09-11 |

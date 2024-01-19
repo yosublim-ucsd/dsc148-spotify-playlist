@@ -1,12 +1,12 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 366139,
+  "num_followers": 366500,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjNmNzJiZGQ0MTgxYTVlMzIwNGI0OGMwMmExYTcwOTZhZjUxMGFl",
+  "snapshot_id": "MCw0OTMwNmJkZjA4YjVlMjNlZmY5NmU0YzdlNzVmMjNjOTA0Y2ZhZjk2",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -675,26 +675,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Rahala (with Arem Ozguc & Arman Aydin)",
-        "url": "https://open.spotify.com/album/2koJ0Q2koZsHgqtjfo6T0s"
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz"
       },
       "artists": [
         {
-          "name": "Rasster",
-          "url": "https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg"
-        },
-        {
-          "name": "Arem Ozguc",
-          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
-        },
-        {
-          "name": "Arman Aydin",
-          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+          "name": "OsMan",
+          "url": "https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Rahala (with Arem Ozguc & Arman Aydin)",
-      "url": "https://open.spotify.com/track/6TV56l9QQsHl3Ad3QSRp1i"
+      "duration_ms": 136000,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -719,18 +711,26 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz"
+        "name": "Rahala (with Arem Ozguc & Arman Aydin)",
+        "url": "https://open.spotify.com/album/2koJ0Q2koZsHgqtjfo6T0s"
       },
       "artists": [
         {
-          "name": "OsMan",
-          "url": "https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN"
+          "name": "Rasster",
+          "url": "https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg"
+        },
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH"
+      "duration_ms": 154285,
+      "name": "Rahala (with Arem Ozguc & Arman Aydin)",
+      "url": "https://open.spotify.com/track/6TV56l9QQsHl3Ad3QSRp1i"
     },
     {
       "added_at": "2023-10-27 04:01:00",

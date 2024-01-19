@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 165000,
       "name": "Appel manqu\u00e9",
       "url": "https://open.spotify.com/track/7ul6BstETf3WQYYgsc3yIK"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 196162,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/7t1auovXwWSy6wHYYKnOh3"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 165000,
       "name": "Fakosi",
       "url": "https://open.spotify.com/track/21c4uTFmR8UccKjYoG8Mvn"
@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 202222,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/5XDnUeQCIqcqSGYmnRJqYK"
@@ -3621,6 +3621,28 @@
     },
     {
       "album": {
+        "name": "Mauvais choix",
+        "url": "https://open.spotify.com/album/3nem9uxRb5gTgxFi5KvmML"
+      },
+      "artists": [
+        {
+          "name": "Cadie Nelva",
+          "url": "https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG"
+        },
+        {
+          "name": "Gtnn",
+          "url": "https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "Mauvais choix",
+      "url": "https://open.spotify.com/track/6fZlsJQubW1EkVRdn3PUKN"
+    },
+    {
+      "album": {
         "name": "Medicine (feat. Maleek Berry & LADIPOE)",
         "url": "https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I"
       },
@@ -4056,6 +4078,24 @@
       "duration_ms": 140540,
       "name": "No Dey Form",
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/1SNhK4DTfDc8RO6gjib1ia"
+      },
+      "artists": [
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141399,
+      "name": "NO LIMIT",
+      "url": "https://open.spotify.com/track/6bBl6n7ldRt2UhvA7hPV9e"
     },
     {
       "album": {
@@ -4547,6 +4587,28 @@
     },
     {
       "album": {
+        "name": "Piano Piano",
+        "url": "https://open.spotify.com/album/5JcY683CmG5HOw7wLCrSoQ"
+      },
+      "artists": [
+        {
+          "name": "Titai",
+          "url": "https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT"
+        },
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173974,
+      "name": "Piano Piano",
+      "url": "https://open.spotify.com/track/3KYBphGE11Enijd1Nso6GC"
+    },
+    {
+      "album": {
         "name": "PICANTO",
         "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
       },
@@ -4606,6 +4668,28 @@
       "duration_ms": 207474,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+    },
+    {
+      "album": {
+        "name": "Pleure pas",
+        "url": "https://open.spotify.com/album/7Mj5FfLEJmnS5qbuxmwpg5"
+      },
+      "artists": [
+        {
+          "name": "Melina",
+          "url": "https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174782,
+      "name": "Pleure pas",
+      "url": "https://open.spotify.com/track/6pBayuJFbDtkTnC9gInaoZ"
     },
     {
       "album": {
@@ -5594,10 +5678,28 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 166088,
       "name": "Ton\u00e8",
       "url": "https://open.spotify.com/track/3wopD0KmXbL9Tl63secIwX"
+    },
+    {
+      "album": {
+        "name": "toronto",
+        "url": "https://open.spotify.com/album/4RpYsToxRtQKwrdblJ9M5z"
+      },
+      "artists": [
+        {
+          "name": "Ya\u00efr",
+          "url": "https://open.spotify.com/artist/3ZbB3Lt9FyO45FXgYklwOA"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145979,
+      "name": "toronto",
+      "url": "https://open.spotify.com/track/2MOQ05zcFoGSQsXAir8FxT"
     },
     {
       "album": {
@@ -5726,7 +5828,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 180000,
       "name": "Tu t'amuses tu dors",
       "url": "https://open.spotify.com/track/0y9bTYHFGoVru3lGsFvcnq"
@@ -5948,6 +6050,32 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/0SF9gASNP6MBckLTkqkP8T"
+      },
+      "artists": [
+        {
+          "name": "Nayth",
+          "url": "https://open.spotify.com/artist/6EMIPjUlfsk2LiKIcrbbar"
+        },
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        },
+        {
+          "name": "$hiro",
+          "url": "https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156470,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7bGsxNSpJKsANYwHTrYIHp"
     },
     {
       "album": {

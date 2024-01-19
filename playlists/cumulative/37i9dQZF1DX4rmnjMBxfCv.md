@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Zerb, Sofiya Nzau
 
-190 songs - 12 hr 41 min
+191 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,13 +25,14 @@
 | [Alf Leila We Leila Remix](https://open.spotify.com/track/01rqnaEjqaP6luRtxdcaz9) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Alf Leila We Leila Remix](https://open.spotify.com/album/2FhrWtDmN4u5dLJrrK34mJ) | 3:14 | 2022-10-14 | 2023-02-02 |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-28 | 2023-08-05 |
 | [Amore](https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Amore](https://open.spotify.com/album/1RJyJUZKnRR5NUgMC8d6k6) | 6:23 | 2023-06-23 | 2023-08-17 |
+| [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/track/6q9NkHUStU2RddAreEpomo) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ribale Wehbe](https://open.spotify.com/artist/0aDFtp48TNejF5G7hqM4J9) | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/album/5ysZd6Tg1QMm90mLUSCCjK) | 4:21 | 2024-01-19 |  |
 | [ANSAKI](https://open.spotify.com/track/4O3GYFwAk96plrsPBaTOAc) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [ANSAKI](https://open.spotify.com/album/5vkbZdEJqhnz7wgRfj6srU) | 2:47 | 2022-12-02 | 2023-06-24 |
 | [Anta](https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7) | [Anta](https://open.spotify.com/album/4vPYDw5xJNhJwqFDDJXyfY) | 2:43 | 2022-08-29 | 2023-06-24 |
 | [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2024-01-04 |  |
 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-10-20 | 2024-01-05 |
 | [Babale \- Fnx Omar Remix](https://open.spotify.com/track/3bVI4SanGkOw5DCtjOFULx) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Babale](https://open.spotify.com/album/2mFfoNM9RYDSRyLgymUQPQ) | 3:47 | 2023-11-02 | 2024-01-05 |
 | [Babale \- FNX Omar Remix](https://open.spotify.com/track/6wPq6H82E2mige9LIXk2Yx) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Babale](https://open.spotify.com/album/4U9EPs88vdcXt8Myq0ad4j) | 3:47 | 2023-08-16 | 2023-11-08 |
-| [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-06-23 |  |
+| [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-06-23 | 2024-01-19 |
 | [Baglami](https://open.spotify.com/track/6ZTOjC8lXAXK5AUw4SRfn1) | [DJ DALI](https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS) | [Baglami](https://open.spotify.com/album/07C07uz3IJt6aixCnd2uvM) | 5:30 | 2023-06-23 |  |
 | [Bahebak Wadari \- Royo Remix](https://open.spotify.com/track/7EJiLcIRikqeOWUQ5bURBT) | [Madeleine Matar](https://open.spotify.com/artist/2WRcWx0NGGiJNmkoIZETha), [Royo](https://open.spotify.com/artist/57wDmUaZi3U7qm3mmjC7em) | [Bahebak Wadari \(Royo Remix\)](https://open.spotify.com/album/0BK7X6x7MflBP1SQdwMevT) | 4:10 | 2022-11-05 | 2022-11-08 |
 | [Bala Ehsas \- Remix](https://open.spotify.com/track/7tfqN79YOCofQUGKvdK6gj) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df), [Karno Baghdassarian](https://open.spotify.com/artist/0oOTVy8P8M01l6Pyg4Oz5v) | [Bala Ehsas \(Remix\)](https://open.spotify.com/album/7E6xelo6R9ccoBJguBMwPf) | 3:49 | 2022-08-05 | 2023-06-24 |

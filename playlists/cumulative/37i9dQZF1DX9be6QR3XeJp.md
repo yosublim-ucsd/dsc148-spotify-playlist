@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Essosa
+> Discover your new favourite artists from UK&IE\. Cover: Kingfishr
 
-239 songs - 12 hr 58 min
+240 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [L.S.O.M](https://open.spotify.com/track/6kwQLsUX8402NQNH0OCSko) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/5JgqSIyBUAqyiCRJ3Qu2Ff) | 3:08 | 2022-02-18 |  |
 | [Last Before Lights](https://open.spotify.com/track/4XJzx9heqQe10RmwHRVYIl) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 6:06 | 2022-02-18 |  |
 | [Leave](https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Autonomy EP](https://open.spotify.com/album/4WvieX96tzcCZlGI8CEDdW) | 2:57 | 2022-02-18 |  |
+| [Leave](https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Leave](https://open.spotify.com/album/4oI3CE0TNkmbQQqZdHR2zh) | 3:22 | 2024-01-19 |  |
 | [little things](https://open.spotify.com/track/01m94gvzukbNDEZGjjhx4R) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [little things](https://open.spotify.com/album/4VUImLdCRQZ7lDm8gqNrDL) | 2:45 | 2022-10-06 |  |
 | [LOCK OFF](https://open.spotify.com/track/75a2Fusn6ySL6yVACqYmp9) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [LOCK OFF](https://open.spotify.com/album/6r7d0q8bj7YdOVp5ZgkteW) | 2:24 | 2022-04-28 |  |
 | [lost in her phone](https://open.spotify.com/track/2SsMgATz0w6t594iTbxhS8) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [u the real star here](https://open.spotify.com/album/0luZl88eJJKPPGq4W4ITUf) | 2:54 | 2022-11-18 |  |

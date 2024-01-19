@@ -6,24 +6,8 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "NDc1LDEzYjY1NGFjOTg3NzQzYTFhZDhmODAxOTE4ZTNmZmU3OGY5ZTg2NGM=",
+  "snapshot_id": "NDc4LDA4MzE1NmRjMzc1ZjcyNTEzNzZlZGM2MDEzYzA3ODIyOTI2OTBhM2E=",
   "tracks": [
-    {
-      "added_at": "2023-10-16 16:43:24",
-      "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
-    },
     {
       "added_at": "2023-10-16 16:43:24",
       "album": {
@@ -917,7 +901,23 @@
       "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
     },
     {
-      "added_at": "2023-12-07 08:46:13",
+      "added_at": "2023-10-16 16:43:24",
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
+    },
+    {
+      "added_at": "2024-01-18 17:43:45",
       "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD"

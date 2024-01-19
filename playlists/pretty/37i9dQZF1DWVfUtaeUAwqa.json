@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGYxNTAxNDZhOTEyMWZiYWFjNmU2ZWRkNTczNzA2ZjJhMjBjNjEw",
+  "snapshot_id": "MCxjOTdiODcyODY5MDVmY2ZjMjBlMzYzMmQwYWIwNjlkNTIxN2QwYWIy",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Marie Laveau",
-        "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
-      },
-      "artists": [
-        {
-          "name": "Papa Celestin",
-          "url": "https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx"
-        }
-      ],
-      "duration_ms": 199550,
-      "name": "Old Time Religion",
-      "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Presenting Eddie Condon",
         "url": "https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 217520,
       "name": "I'm Gonna Stomp, Mr Henry Lee",
       "url": "https://open.spotify.com/track/7bKWw5CgBrV8mkkjJ23Fxf"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Marie Laveau",
+        "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
+      },
+      "artists": [
+        {
+          "name": "Papa Celestin",
+          "url": "https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx"
+        }
+      ],
+      "duration_ms": 199550,
+      "name": "Old Time Religion",
+      "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -827,26 +827,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
-        "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
+        "name": "Roaring' 20's",
+        "url": "https://open.spotify.com/album/6yGyFKhtYmeatToldl421e"
       },
       "artists": [
         {
-          "name": "Frank Teschemacher feat. McKenzie and Condons Chicagoans",
-          "url": "https://open.spotify.com/artist/1v7KpWrDzfMXDJFQAdyCQf"
+          "name": "Billy Randolph",
+          "url": "https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF"
         },
         {
-          "name": "Frank Teschemacher",
-          "url": "https://open.spotify.com/artist/1BCIGVImYhfnEafy4sZZQA"
-        },
-        {
-          "name": "McKenzie and Condon's Chicagoans",
-          "url": "https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d"
+          "name": "The High Hatters",
+          "url": "https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Nobody's Sweetheart",
-      "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
+      "duration_ms": 182360,
+      "name": "Dixie",
+      "url": "https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -867,22 +863,26 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Roaring' 20's",
-        "url": "https://open.spotify.com/album/6yGyFKhtYmeatToldl421e"
+        "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
+        "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
       },
       "artists": [
         {
-          "name": "Billy Randolph",
-          "url": "https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF"
+          "name": "Frank Teschemacher feat. McKenzie and Condons Chicagoans",
+          "url": "https://open.spotify.com/artist/1v7KpWrDzfMXDJFQAdyCQf"
         },
         {
-          "name": "The High Hatters",
-          "url": "https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u"
+          "name": "Frank Teschemacher",
+          "url": "https://open.spotify.com/artist/1BCIGVImYhfnEafy4sZZQA"
+        },
+        {
+          "name": "McKenzie and Condon's Chicagoans",
+          "url": "https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d"
         }
       ],
-      "duration_ms": 182360,
-      "name": "Dixie",
-      "url": "https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP"
+      "duration_ms": 182906,
+      "name": "Nobody's Sweetheart",
+      "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -915,6 +915,22 @@
       "duration_ms": 188160,
       "name": "In The Good Old Summertime",
       "url": "https://open.spotify.com/track/7eb2OuqP9Ejwbqmv4m6HEz"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
+        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
+      },
+      "artists": [
+        {
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "We're Gonna Have Smooth Sailing",
+      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -955,22 +971,6 @@
       "duration_ms": 316186,
       "name": "Oh Dem Golden Slippers",
       "url": "https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
-        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
-      },
-      "artists": [
-        {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "We're Gonna Have Smooth Sailing",
-      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
     },
     {
       "added_at": "2020-08-19 17:19:14",

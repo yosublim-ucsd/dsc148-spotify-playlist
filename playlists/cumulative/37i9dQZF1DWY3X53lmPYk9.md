@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-478 songs - 1 day 0 hr 40 min
+481 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Lenox Hill](https://open.spotify.com/track/3rtDk5D3VmzvZn2ywGg0bq) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Lenox Hill](https://open.spotify.com/album/27cTJGvI2eXXMNy94uBwv7) | 2:31 | 2023-02-23 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/7E1eNodaXumIQKrnzv2kzb) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 3:52 | 2022-03-10 |  |
 | [Let's Get Lost](https://open.spotify.com/track/1pVoN50UlPa3dCPqs7iy5K) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Let's Get Lost](https://open.spotify.com/album/7ggibGb8ifmCqBz6TcxSix) | 2:52 | 2023-08-11 |  |
+| [Let's Stay In](https://open.spotify.com/track/2ztch9UdIaDbUjnBkSLQMs) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Let's Stay In](https://open.spotify.com/album/0cXnR7GcDwsAiPLohfXlhL) | 2:29 | 2024-01-19 |  |
 | [Like Never Before](https://open.spotify.com/track/5Z7B6tRwYQj1h7dpk0LLw1) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Like Never Before](https://open.spotify.com/album/0zsSxEUcSIkspa42rF7jxB) | 2:54 | 2023-12-15 |  |
 | [Like someone in love](https://open.spotify.com/track/0ICT1BkjBfaTpZI80Rv7fZ) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [Like someone in love](https://open.spotify.com/album/1hGESLnmXV35FrrkeF9ge2) | 3:12 | 2023-12-15 |  |
 | [Like Someone In Love](https://open.spotify.com/track/1DfNHZVzrwezNXui3BKlYR) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Like Someone In Love](https://open.spotify.com/album/2RP5lMF8K8wxguYeLoAWrJ) | 4:08 | 2021-12-14 | 2023-05-05 |
@@ -323,6 +324,7 @@
 | [One Day We'll Find Our Way](https://open.spotify.com/track/27ljy6g5ghJo1ZeoOsHsB7) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [One Day We'll Find Our Way](https://open.spotify.com/album/3tSFilzfu3rrcY1BfPfm3x) | 3:06 | 2022-06-09 |  |
 | [One Night](https://open.spotify.com/track/4CQfJu36iL61aP3PMSVmgb) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [One Night](https://open.spotify.com/album/00ApSbsUpWTsbOy1cLuI8r) | 2:50 | 2023-12-15 |  |
 | [Out Of Nowhere](https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Out Of Nowhere](https://open.spotify.com/album/0cu8JtZHQDqNPT0zmnDh2w) | 2:39 | 2022-11-17 |  |
+| [Over the River](https://open.spotify.com/track/0kYkCUA8GvXZMPeU1SgFuu) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Over the River](https://open.spotify.com/album/3k9rqh1vl7NHAKuOirBBIv) | 2:57 | 2024-01-19 |  |
 | [Pastoral](https://open.spotify.com/track/0UIv34XtUmPhvCU3nSPDqE) | [Jean Kapsa](https://open.spotify.com/artist/3D7nnawjn34DOAUT21IQHs) | [Pastoral](https://open.spotify.com/album/6sMJTmc5LNR7qgwrLKgJuZ) | 3:48 | 2023-11-17 | 2023-11-18 |
 | [Pastoral](https://open.spotify.com/track/7rYSxMiI7xteBmFq2t6aE7) | [Jean Kapsa](https://open.spotify.com/artist/3D7nnawjn34DOAUT21IQHs) | [Pastoral](https://open.spotify.com/album/4DR8LgGyU1VbRJCD8jHTYp) | 3:48 | 2023-11-17 |  |
 | [Peace](https://open.spotify.com/track/0RIYLqnvhafIAfSAVCI5ei) | [Christina Mondzo](https://open.spotify.com/artist/0pvhGfxbtulg7H68xiV8Re) | [Peace](https://open.spotify.com/album/0hyeudOeevrJTJRqb7oC6h) | 2:04 | 2023-02-02 |  |
@@ -413,6 +415,7 @@
 | [The Hills](https://open.spotify.com/track/6R1p1fumkttTWuMZqMLojv) | [Jaden Cohen](https://open.spotify.com/artist/5FDFlNDmnGwmTB0broI9MA) | [The Hills](https://open.spotify.com/album/2EpNaRXAmNdUmG3I40dJXv) | 2:48 | 2024-01-05 |  |
 | [The last chance saloon](https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [The last chance saloon](https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ) | 2:05 | 2023-06-01 |  |
 | [The Midnight Sun Will Never Set](https://open.spotify.com/track/5RmbmVNTYmbRHB55UayS3n) | [Dennis Green](https://open.spotify.com/artist/12erKof3Sw4kvmah9xm01L) | [The Midnight Sun Will Never Set](https://open.spotify.com/album/2huBri0orubku9NvzOqWbw) | 4:48 | 2022-03-10 | 2022-08-18 |
+| [The Morning After](https://open.spotify.com/track/4XkUAWiznUGx9U6ePlnRnh) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [The Morning After](https://open.spotify.com/album/0tqowqhI8zKkoCGKiz0yxN) | 3:05 | 2024-01-19 |  |
 | [The Nature Calls](https://open.spotify.com/track/49DNrBxdx1ce7U74K4lzrT) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [The Nature Calls](https://open.spotify.com/album/1ODsXhkCWtaFalwbY2pEMA) | 1:58 | 2023-08-11 | 2023-09-16 |
 | [The Nearness Of You](https://open.spotify.com/track/2eFOuwEBv8SRLL5QJgoKMH) | [Dennis Green](https://open.spotify.com/artist/12erKof3Sw4kvmah9xm01L) | [The Nearness Of You](https://open.spotify.com/album/1zcCFnzUu34kwvF3Fl6nPa) | 3:14 | 2021-12-14 | 2023-01-27 |
 | [The Night Has A Thousand Eyes](https://open.spotify.com/track/2hHvAndHhJuBwO4qh7i2Is) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/6c9zKUBf74WtsSW6zULcnq) | 2:40 | 2023-04-20 |  |

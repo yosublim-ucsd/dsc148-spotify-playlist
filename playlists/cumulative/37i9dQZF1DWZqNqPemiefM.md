@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-495 songs - 1 day 15 hr 5 min
+497 songs - 1 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [834.194](https://open.spotify.com/track/1YXaeVEk9RtWW2WFlCOctn) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 7:11 | 2022-04-26 | 2022-07-12 |
 | [8mm](https://open.spotify.com/track/2S2ABEaSUPLTRkSjvOKa2o) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [ATAK017 Sacrifice Soundtrack for Seiji “Fish on Land”](https://open.spotify.com/album/1ojg2QmChXLKHJH2keznqe) | 3:04 | 2022-03-31 | 2022-07-28 |
 | [8・31](https://open.spotify.com/track/5MBJ5sufk0wQdkmLMUmv5Q) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 2:35 | 2022-03-31 | 2022-07-24 |
-| [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 | 2022-04-07 |  |
+| [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 | 2022-04-07 | 2024-01-19 |
 | [A Change of a Cityscape](https://open.spotify.com/track/2bQAefezv7y3MI6YumnjMc) | [Motoro Faam](https://open.spotify.com/artist/56TgrV3HK0Dt21DsSTMd92) | [Fragments](https://open.spotify.com/album/3j4kFmNhEp4kNZdltepUbT) | 7:56 | 2022-03-31 | 2022-07-02 |
 | [a few walks](https://open.spotify.com/track/3E5fgDgI17xqZzP1GNGxym) | [Ryoichi Kurokawa](https://open.spotify.com/artist/6ZWwBZl0boEJ7SOZFOlZNv) | [copynature](https://open.spotify.com/album/02WVXDLRKCh4gvuWRn8XyI) | 6:39 | 2022-03-31 | 2022-04-21 |
 | [A graca economica de Deus](https://open.spotify.com/track/1CFsbOndaV2w76Ikg1xGun) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Janis Crunch](https://open.spotify.com/artist/57E9fnySsCbg4lFkU8msYJ) | [12 & 1 SONG \(Remastered 2022\)](https://open.spotify.com/album/2DJ7kqNTU47JKFoflue4H7) | 3:58 | 2022-12-22 | 2023-12-22 |
@@ -72,6 +72,7 @@
 | [Breeding Tank](https://open.spotify.com/track/6xpANjnTCTtFo3bcwf5wmb) | [Metome](https://open.spotify.com/artist/4EdG3DOqirA5Jpz9SfugWO) | [Dialect](https://open.spotify.com/album/4GFinj2zqedcGcLNszGMRl) | 5:02 | 2022-03-31 | 2022-06-08 |
 | [By The Window](https://open.spotify.com/track/3JWwz9vA04xErfWcZQuccm) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Minor Planet](https://open.spotify.com/album/2w9oe23evWlt31fPXYjkHa) | 4:46 | 2022-03-30 | 2022-07-01 |
 | [By Your Side](https://open.spotify.com/track/5Ux0zCT223DmKcjzISvSDW) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Dreaming](https://open.spotify.com/album/6H6xD7PAqpdD7UU6MWbwb2) | 4:39 | 2022-03-30 | 2022-07-29 |
+| [Call \(Deep Blue\)](https://open.spotify.com/track/72jCR0d2luLn3Toso0vimT) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Call \(Deep Blue\)](https://open.spotify.com/album/3AWEj1fDPVnV31N8yrNIJd) | 3:45 | 2024-01-18 |  |
 | [Can You Hear a New World](https://open.spotify.com/track/5aokmmaTYynuYr1yNHealA) | [UNKNOWN ME](https://open.spotify.com/artist/5tmYdSKm3f4o6oOFCuxgtR) | [Bishintai](https://open.spotify.com/album/00lHRf4ZxhpGzxtSguayFX) | 3:36 | 2022-03-31 | 2022-06-26 |
 | [Cat and Bird](https://open.spotify.com/track/1GroeXQf6heoXynUqOK6oM) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Cat and Bird](https://open.spotify.com/album/5VukdAoxbJX1hVb8Jp1VMU) | 4:19 | 2022-10-13 | 2022-10-15 |
 | [Cat and Bird](https://open.spotify.com/track/4xdBmpPggvdUMgxhoDIwDU) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Cat and Bird](https://open.spotify.com/album/7EPXZAQmlagFelPn83wYWV) | 4:19 | 2022-10-13 | 2022-11-28 |
@@ -238,7 +239,7 @@
 | [Lovers](https://open.spotify.com/track/5M4D3PJGNNfVpHiYr8gvpN) | [Hiroto Kudo](https://open.spotify.com/artist/4HoS8lqkRngSNsSBn4mCvx) | [Interior](https://open.spotify.com/album/6I55s6CLXbibFM576Va21j) | 2:53 | 2022-03-30 | 2022-07-13 |
 | [Lucent](https://open.spotify.com/track/0grXriSrpdF2p51rIkNdpQ) | [Ametsub](https://open.spotify.com/artist/1lqeOtFoEHyRGR9QoRJpEz) | [All is Silence](https://open.spotify.com/album/0QdoBe57VqkP84gNDiQjaZ) | 2:44 | 2022-03-31 | 2022-04-21 |
 | [Luminous](https://open.spotify.com/track/7LRBCqmLF8xWHb7c31cQEf) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [The Two Of Us](https://open.spotify.com/album/3MdRXwsZezswdWUwXQrUFD) | 5:30 | 2023-12-07 | 2024-01-17 |
-| [lust](https://open.spotify.com/track/6l2XwFCDccPyfvrAvZ97hC) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 5:00 | 2022-03-31 |  |
+| [lust](https://open.spotify.com/track/6l2XwFCDccPyfvrAvZ97hC) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 5:00 | 2022-03-31 | 2024-01-19 |
 | [Magnetic](https://open.spotify.com/track/0BpAPmGnXe5Mjmza0tENTB) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Views](https://open.spotify.com/album/7z6v3dBVWjaxsayWo4kbG0) | 2:45 | 2022-12-22 | 2023-01-24 |
 | [Magnetic](https://open.spotify.com/track/2hqr2J2dECDkKSblkJhzvm) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Views](https://open.spotify.com/album/2tGZZZlAyHAw90nTFQZ3By) | 2:45 | 2022-04-16 | 2022-07-29 |
 | [Manbow](https://open.spotify.com/track/1We7bciAsCc4knw9ma9B8s) | [かわさき みれい](https://open.spotify.com/artist/3Wyr6ZE9XhVVLM252Z4ygJ) | [Aqua\~アクア](https://open.spotify.com/album/0K83JNd2tr8Ni4p150KB2b) | 9:30 | 2022-03-30 | 2022-07-09 |
@@ -399,6 +400,7 @@
 | [Summer Shade](https://open.spotify.com/track/0M0edTo3o0n7DmXJ91NFTD) | [Yorihisa Taura](https://open.spotify.com/artist/4XctjsB734yDwJ6yIawj7u), [Tia Rungray](https://open.spotify.com/artist/4n9mlji1NR7h1bxzi5qhHP) | [Juvenile](https://open.spotify.com/album/00yWYLS0DgM5cCKoMXtqjT) | 7:33 | 2022-04-28 | 2022-07-07 |
 | [Sunset on the Ganges](https://open.spotify.com/track/6yTXoxb8la8qMfS5Bp1k7D) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Gone](https://open.spotify.com/album/5oPfiBqmX8wNdolgUFMXEK) | 5:48 | 2022-03-31 | 2022-07-28 |
 | [Surfing on Mind Wave pt 2](https://open.spotify.com/track/5bZvhP6t3M6Xirvc2bgDBP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Mellow Waves](https://open.spotify.com/album/0W8kCHrI4P1738wyTWiYAK) | 5:33 | 2022-03-30 | 2022-05-02 |
+| [surfkids nostalgia](https://open.spotify.com/track/4gKmBDS84ly3f5nlAEU3Fk) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [surfkids nostalgia](https://open.spotify.com/album/2Kx4uojmsqwwwvluoqkd4L) | 1:52 | 2024-01-18 |  |
 | [Sweeping the leaves like a quiet wave.](https://open.spotify.com/track/1XTMUW8WQ3PdAR5c2rdoqG) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Tomoyoshi Date](https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR), [Federico Durand](https://open.spotify.com/artist/4egL1JbZdtppKXl547U1vW) | [In The Open](https://open.spotify.com/album/7oC9KGsnXo7BjrlJ1YBHIJ) | 5:00 | 2022-04-28 | 2022-05-04 |
 | [Take me to the fairyland](https://open.spotify.com/track/30tQCZoIyRRFeGmfDke7Tx) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:36 | 2022-04-28 | 2022-07-22 |
 | [talk](https://open.spotify.com/track/4mIC0dzRkVJkAByMoYQhov) | [yoshinori takezawa](https://open.spotify.com/artist/0DtSFAYXpepz39MyKktbMD) | [murmuration](https://open.spotify.com/album/5WDDqsm89PQhrYZuHUnjee) | 4:20 | 2022-03-31 | 2022-07-21 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,795 songs - 4 day 0 hr 16 min
+1,796 songs - 4 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1097,6 +1097,7 @@
 | [No en](https://open.spotify.com/track/2m14bmshUcJI4igMC5z03B) | [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [No en](https://open.spotify.com/album/2GJT6QQ0FMbM01hrlhCsxS) | 2:42 | 2022-04-30 | 2022-05-02 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-06 |
 | [No Good 4 U](https://open.spotify.com/track/65j80EkeL7HYYOtJ4waZyT) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [No Good 4 U](https://open.spotify.com/album/4haWEqgtjW3G4DXXJBnNn4) | 2:15 | 2022-11-26 | 2022-12-03 |
+| [No Rules!](https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq) | [Windows95Man](https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm) | [No Rules!](https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6) | 2:55 | 2024-01-18 |  |
 | [Nocturne](https://open.spotify.com/track/6Sn0JJ4YlPBEbxhdbdK2li) | [Vesa\-Matti Loiri](https://open.spotify.com/artist/1C3guep1CayLvcFFadeQBt) | [Eino Leino 1](https://open.spotify.com/album/3EggZx5LUbkUSulnIMLcHR) | 3:35 | 2022-08-11 | 2022-08-15 |
 | [Nonstop \(feat\. Sexmane & B.Baby\)](https://open.spotify.com/track/0nRssz1xxPRC6B22k5lG06) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Nonstop \(feat\. Sexmane & B.Baby\)](https://open.spotify.com/album/1whyLxdmgza9nO22aEsW93) | 2:59 | 2022-05-21 | 2023-01-07 |
 | [Nopee hopee](https://open.spotify.com/track/4miD5oroBLYIpzJXvPgcvX) | [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP), [Kaija Koo](https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq) | [Nopee hopee](https://open.spotify.com/album/4ADC1fxmqRWV5YxNcjGRNl) | 2:51 | 2022-09-03 | 2022-09-25 |
@@ -1455,7 +1456,7 @@
 | [Sugar](https://open.spotify.com/track/4ajjeZhSAVz2Zp9rf9OTIL) | [Natalia Gordienko](https://open.spotify.com/artist/2Q94VIGMp0vhZetkOae27U) | [Sugar](https://open.spotify.com/album/3sRJWlMDplaZjzPzDhkNRA) | 2:58 | 2021-05-25 | 2021-05-26 |
 | [Sukupolvien unelma ft\. Repliikki \(Huuhkajat EM\-2021\)](https://open.spotify.com/track/6m9uFA90jaa6GEJAM6IpjM) | [Niila](https://open.spotify.com/artist/25PzS3ToWjTF5cznfaYpFq), [Repliikki](https://open.spotify.com/artist/6OEXPiWxmW2cfab7tuVel8) | [Sukupolvien unelma ft\. Repliikki \(Huuhkajat EM\-2021\)](https://open.spotify.com/album/0nUe8NqY3FY33ceOhu4EgD) | 3:42 | 2021-06-12 | 2021-09-07 |
 | [Sulatan sun jään](https://open.spotify.com/track/2UajdWl5rhhD8vUFoTWuBw) | [YOUNGHEARTED](https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX) | [Sulatan sun jään](https://open.spotify.com/album/5tzX5ot8pVteKJNSnTDMEU) | 2:58 | 2022-09-10 | 2022-09-18 |
-| [Sulle tehty](https://open.spotify.com/track/1bIT252aJAWFZEV0N2u9yd) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Sulle tehty](https://open.spotify.com/album/4SQyDVYErYeK4re6JvxpsY) | 3:21 | 2023-11-25 |  |
+| [Sulle tehty](https://open.spotify.com/track/1bIT252aJAWFZEV0N2u9yd) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Sulle tehty](https://open.spotify.com/album/4SQyDVYErYeK4re6JvxpsY) | 3:21 | 2023-11-25 | 2024-01-19 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-22 | 2021-08-29 |
 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 | 2021-05-23 | 2021-05-24 |
 | [Sun numero](https://open.spotify.com/track/2DfVvs2EZd82PvqOfdpJB4) | [YOUNGHEARTED](https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX) | [Sun numero](https://open.spotify.com/album/3urOexSyMxC6o0DhN3cD5r) | 3:08 | 2022-01-19 | 2022-04-17 |

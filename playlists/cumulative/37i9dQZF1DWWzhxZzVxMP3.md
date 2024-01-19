@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-192 songs - 11 hr 8 min
+193 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Crazy in Love](https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Crazy in Love](https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd) | 3:38 | 2022-03-10 |  |
 | [Cruel Summer](https://open.spotify.com/track/2lJVlO1UwZdTYRSHQoSpGj) | [Esqapades](https://open.spotify.com/artist/2C2tv6F19vAPlgpvih613k) | [Cruel Summer](https://open.spotify.com/album/17yiKBHLT2LBbHGMaCxfsY) | 3:23 | 2022-03-10 | 2023-08-11 |
 | [Dance Monkey \- Bossa Nova Remix](https://open.spotify.com/track/3xuSelqcHuvS1NWquuSKnh) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Dance Monkey \(Bossa Nova Remix\)](https://open.spotify.com/album/3qGEwfgSvUD1lV7qWmoy81) | 3:18 | 2022-03-10 |  |
+| [Dancing Queen](https://open.spotify.com/track/6JVUlhLabHaY33tTNNgefD) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Dancing Queen](https://open.spotify.com/album/1un07dxoqPPqCiAl8PQN4N) | 3:04 | 2024-01-19 |  |
 | [Dancing With Tears In My Eyes \- Bossa Nova Remix](https://open.spotify.com/track/62dfYSQBwa7XOXkLzpBmf0) | [Blended Colors](https://open.spotify.com/artist/3Z8VvhRYsd2jzm1KTHeMyM) | [Dancing With Tears In My Eyes \(Bossa Nova Remix\)](https://open.spotify.com/album/10XzBSx1xOySdki0IKQk1a) | 3:36 | 2023-05-16 |  |
 | [deja vu \- Bossa Nova](https://open.spotify.com/track/1xKrcdhhlNQXImSFEpi8Vo) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [deja vu \- Bossa Nova](https://open.spotify.com/album/7aBYanh7J5fh3ZoKmZoid0) | 4:00 | 2022-03-10 |  |
 | [Do You Really Want To Hurt Me](https://open.spotify.com/track/0LPoUT1JqblTamBXpKXHtt) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:42 | 2023-05-16 | 2023-06-02 |

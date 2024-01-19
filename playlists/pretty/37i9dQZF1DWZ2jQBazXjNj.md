@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Corridos aesthetic y rolitas pa' las buchifresas 🍓🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,222 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,469 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 44 | [No Me Quiero Enamorar](https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP) | 2:39 |
 | 45 | [El Sol No Regresa](https://open.spotify.com/track/7jy5URBQ0eJrtuvgihUBob) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Covers](https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh) | 3:13 |
 | 46 | [Te Perdonaría](https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Te Perdonaría](https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD) | 2:43 |
-| 47 | [Cupido](https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Cupido](https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU) | 3:27 |
-| 48 | [Colgando En Tus Manos \(En Vivo\)](https://open.spotify.com/track/1aUfM1dau8x2Zcrbm6JZeZ) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Colgando En Tus Manos \(En Vivo\)](https://open.spotify.com/album/3RxqQkDJNnDtGkz9cAITm5) | 3:23 |
+| 47 | [Colgando En Tus Manos \(En Vivo\)](https://open.spotify.com/track/1aUfM1dau8x2Zcrbm6JZeZ) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Colgando En Tus Manos \(En Vivo\)](https://open.spotify.com/album/3RxqQkDJNnDtGkz9cAITm5) | 3:23 |
+| 48 | [Cupido](https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Cupido](https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU) | 3:27 |
 | 49 | [¿Quién De Los Dos Será?](https://open.spotify.com/track/4bk3DB7VC88NDLw8Du4IJA) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién De Los Dos Será?](https://open.spotify.com/album/61Pq9DBSvk4JJ8s9n72t0G) | 3:01 |
 | 50 | [Un Siglo Sin Ti](https://open.spotify.com/track/5WryQfin9lje7KFyXF3Qs1) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Ramon Vega](https://open.spotify.com/artist/0Gb6YnVrJJHaP6yYmB9VZA) | [Pura Pieza de Mi Gusto](https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj) | 3:37 |
 | 51 | [Si Estuviésemos Juntos](https://open.spotify.com/track/2JY8fqytS4pcn2pGti7v0f) | [Impacto Sinaloense](https://open.spotify.com/artist/2ZWWur7iqubIBL3NKLw8wh) | [Sesiones 1.0](https://open.spotify.com/album/2t67oYw41wR7BIJDUiUQgT) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 74 | [Ferxxo 100](https://open.spotify.com/track/0XUpGwuM98v7v9jVHNXjlN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ferxxo 100](https://open.spotify.com/album/32tBjPwSPQFBQJDHa5EvR6) | 3:18 |
 | 75 | [Prometiste](https://open.spotify.com/track/7dZNRyiEOdT6JpxaPeRE7B) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Prometiste](https://open.spotify.com/album/5aSblmvsZAN9250TELsLeW) | 3:27 |
 
-Snapshot ID: `MCxlOWRhYzFiYjRlYWFlMDVmZGYyMGNjN2MwMmFmYzMxOWQ2NTcwM2Uw`
+Snapshot ID: `MCwxYmIxY2Y4NjAxM2EzZTgxYzYwNmQ3ZjY4YzNmM2QzOWI0MWQyZjNm`

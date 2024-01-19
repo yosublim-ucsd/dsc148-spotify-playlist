@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla",
-  "num_followers": 365720,
+  "num_followers": 365822,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGU2ZjA2M2I1MGVlYzM4ODhhZDJmNDRmMjE3OGZmOTA0ZWRkYmZi",
+  "snapshot_id": "MCw0YWVhMjAxNzdhOWY3MGVhNTJjMTQ1ZTBiODBlMDkyYmQ2Y2U5YjVi",
   "tracks": [
     {
       "added_at": "2024-01-12 03:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Segredos da Vida",
-        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 142136,
-      "name": "Segredos da Vida",
-      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Baile do Papato",
         "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "Segredos da Vida",
+        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 142136,
+      "name": "Segredos da Vida",
+      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "Carta Branca",
         "url": "https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "LADY LESTE (AO VIVO)",
-        "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 184383,
-      "name": "RADAR - AO VIVO",
-      "url": "https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 142765,
       "name": "ne-yo",
       "url": "https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "LADY LESTE (AO VIVO)",
+        "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 184383,
+      "name": "RADAR - AO VIVO",
+      "url": "https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Tapa",
-        "url": "https://open.spotify.com/album/2Jw3IHfgSzvibRiBW8zkJy"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 109446,
-      "name": "Tapa",
-      "url": "https://open.spotify.com/track/0W2uU7LtdvoLCT6VpzYfSE"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "La\u00e7o",
         "url": "https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 149349,
       "name": "La\u00e7o",
       "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Tapa",
+        "url": "https://open.spotify.com/album/2Jw3IHfgSzvibRiBW8zkJy"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 109446,
+      "name": "Tapa",
+      "url": "https://open.spotify.com/track/0W2uU7LtdvoLCT6VpzYfSE"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Bomba",
-        "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
-      },
-      "artists": [
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        }
-      ],
-      "duration_ms": 136806,
-      "name": "Bomba",
-      "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "ESTRANHO",
         "url": "https://open.spotify.com/album/50O67wfhrrVoqbQr8p9WW7"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 166315,
       "name": "ESTRANHO",
       "url": "https://open.spotify.com/track/35bXQjFxZwp40I1pwb7Jke"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Bomba",
+        "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "duration_ms": 136806,
+      "name": "Bomba",
+      "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Essa Fada",
-        "url": "https://open.spotify.com/album/7anc7aknKfImn1awQ1rQP6"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/0tf2VNO7BR4zqQxkfdzlj7"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Sonhei com voc\u00ea / Me Amarro Nela",
         "url": "https://open.spotify.com/album/5jtqUMEDYPccKAPINHCm2o"
       },
@@ -1455,6 +1439,38 @@
       "duration_ms": 130914,
       "name": "Me Amarro Nela",
       "url": "https://open.spotify.com/track/2gf5XAIP3Vb94V4RhpuJX4"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Essa Fada",
+        "url": "https://open.spotify.com/album/7anc7aknKfImn1awQ1rQP6"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/0tf2VNO7BR4zqQxkfdzlj7"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Pesco\u00e7o Salgado",
+        "url": "https://open.spotify.com/album/7F2Ym3Aze5awn7uWOYhO2x"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Blayblayde",
+      "url": "https://open.spotify.com/track/5LWf6aSIrK4Bj7exlmnDRB"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1499,22 +1515,6 @@
       "duration_ms": 128850,
       "name": "30 Dias",
       "url": "https://open.spotify.com/track/73wzSdHPS39JQeAal4Ka5x"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "Pesco\u00e7o Salgado",
-        "url": "https://open.spotify.com/album/7F2Ym3Aze5awn7uWOYhO2x"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Blayblayde",
-      "url": "https://open.spotify.com/track/5LWf6aSIrK4Bj7exlmnDRB"
     },
     {
       "added_at": "2024-01-12 03:00:00",

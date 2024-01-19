@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23116,
+  "num_followers": 23117,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjU1YjhjYzM0ODViMWMzODZhZGI0YWQ4NDI2YjEzMTdmYzM2ZTIz",
+  "snapshot_id": "MCxkMjZmNzg0OTZiMTkyYzRmZTZkYWM0NGJjNDdhMjkwNzBiOWUzMmRi",
   "tracks": [
     {
       "added_at": "2024-01-11 09:51:31",
@@ -59,6 +59,22 @@
       "duration_ms": 191791,
       "name": "SKY",
       "url": "https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR"
+    },
+    {
+      "added_at": "2024-01-18 12:07:56",
+      "album": {
+        "name": "Mooru Dina Jeevana",
+        "url": "https://open.spotify.com/album/30csRc2zyilSOWwnUZlZaL"
+      },
+      "artists": [
+        {
+          "name": "Nayan Meti",
+          "url": "https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd"
+        }
+      ],
+      "duration_ms": 205848,
+      "name": "Mooru Dina Jeevana",
+      "url": "https://open.spotify.com/track/72rmsR6tE4OZUKSovywtOs"
     },
     {
       "added_at": "2024-01-17 09:25:27",
@@ -115,6 +131,42 @@
       "duration_ms": 181507,
       "name": "Lemme know",
       "url": "https://open.spotify.com/track/52do3BlT1cljawMI2jUVHj"
+    },
+    {
+      "added_at": "2024-01-18 12:05:45",
+      "album": {
+        "name": "Homecoming (The Ayodhya Anthem) [Kannada]",
+        "url": "https://open.spotify.com/album/2yIB0jJGqRMWlAQoZQ0F2r"
+      },
+      "artists": [
+        {
+          "name": "Darbuka Siva",
+          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        },
+        {
+          "name": "Malavika Rajhesh",
+          "url": "https://open.spotify.com/artist/5Dspm3rX4DLj9YK6RFps93"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        }
+      ],
+      "duration_ms": 295687,
+      "name": "Homecoming (The Ayodhya Anthem) - Kannada",
+      "url": "https://open.spotify.com/track/6SQAUBzXknH8EGJ4aynrSk"
     },
     {
       "added_at": "2023-12-14 09:24:54",
@@ -1661,26 +1713,6 @@
       "url": "https://open.spotify.com/track/77YIyUafNBzKHEY8Mn5OAT"
     },
     {
-      "added_at": "2023-07-17 11:17:29",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0otfI7PmqVOgKLlmktOaB9"
-      },
-      "artists": [
-        {
-          "name": "Paluz45",
-          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
-        },
-        {
-          "name": "Manu Rao",
-          "url": "https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ"
-        }
-      ],
-      "duration_ms": 85772,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/5uOfjSX8fqPKTqdmDwoXKK"
-    },
-    {
       "added_at": "2023-06-29 11:31:15",
       "album": {
         "name": "Innastu Bekenna",
@@ -1811,26 +1843,6 @@
       "duration_ms": 186229,
       "name": "Neene Nanna Dilruba",
       "url": "https://open.spotify.com/track/30TLwuKugPfrnMGJUyOpCX"
-    },
-    {
-      "added_at": "2023-06-29 11:31:15",
-      "album": {
-        "name": "Haaralu",
-        "url": "https://open.spotify.com/album/3YBOimXmFBCUNR53TlUDPX"
-      },
-      "artists": [
-        {
-          "name": "Karna",
-          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
-        },
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        }
-      ],
-      "duration_ms": 177406,
-      "name": "Haaralu",
-      "url": "https://open.spotify.com/track/1s29dZ1OkcqBe4kzD3T0zB"
     },
     {
       "added_at": "2022-10-25 07:43:45",

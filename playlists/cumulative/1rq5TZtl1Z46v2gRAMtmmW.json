@@ -2891,6 +2891,28 @@
     },
     {
       "album": {
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562061,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5NaWrr9UO9mCRDN3bNFRmZ"
+    },
+    {
+      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26"
       },

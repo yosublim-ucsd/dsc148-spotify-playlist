@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-258 songs - 6 hr 35 min
+259 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Sleeping Angel](https://open.spotify.com/track/4HC4pGvGPUomA1m4409wrY) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Sleeping Angel](https://open.spotify.com/album/11yWjXDQZ2lpm4v0rInRwp) | 1:32 | 2023-11-17 |  |
 | [Sleeping On Cloud 9](https://open.spotify.com/track/1q1mOWrsNhTPvaCVq2jwjW) | [Torben Overgaard](https://open.spotify.com/artist/2wrZRfjoJ5N3f1WyYjbKXL) | [Sleeping On Cloud 9](https://open.spotify.com/album/1mr5gy4ZZ8uTL4t64v74bd) | 1:28 | 2022-07-01 |  |
 | [Sleeping Otters](https://open.spotify.com/track/5LH9wtbdbuFtNVfo6eag1x) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Sleeping Otters](https://open.spotify.com/album/0rBu8CY7PCFkdeLajMjwX8) | 1:35 | 2022-12-09 | 2023-05-19 |
+| [Sleepy Bells](https://open.spotify.com/track/08HHyYsAkYY1VIxgU0dbSG) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Sleepy Bells](https://open.spotify.com/album/2uh2fbK3oxjwMlZBSPpzl3) | 1:22 | 2024-01-19 |  |
 | [Slumberland Song](https://open.spotify.com/track/6ZytMjWT6QTqwRh0qHcILq) | [Gabriela Cooke](https://open.spotify.com/artist/3tP132moYZ0YFA6GpF6pSU) | [Slumberland Song](https://open.spotify.com/album/1B5CmudUyJWVORuPQdbYV6) | 1:36 | 2022-02-10 | 2023-02-18 |
 | [Softly We Sleep](https://open.spotify.com/track/2Zzcdaz8hykNepVxzusTVJ) | [Ginny Love](https://open.spotify.com/artist/3M01IyD333mOOvDW4dA0eJ) | [Sleep Lullabies](https://open.spotify.com/album/3ThrtKNQFGuxyJbaxu5O4C) | 1:48 | 2022-02-10 |  |
 | [Someday](https://open.spotify.com/track/7GxyqEGtd7I9ytd5QmKUjZ) | [Nibble Pig](https://open.spotify.com/artist/1yGBlYX70u0Ok69QkNOwtF) | [Someday](https://open.spotify.com/album/1cmWsgZNTWtsWHZRPBFWMJ) | 2:05 | 2023-01-20 |  |

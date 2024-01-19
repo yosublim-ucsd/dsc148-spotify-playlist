@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8o4J1M0Lk0N.md) - [plain]
 
 > Classic instrumental Soul for any activity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,725 likes - 88 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,829 likes - 88 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8o4J1M0Lk0N.md) - [plain]
 | 61 | [Shadow Boxing](https://open.spotify.com/track/5y0SqJGuJv4FZrr0hFYOP8) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Return To The 37th Chamber](https://open.spotify.com/album/70OhGmsHTYRhPNmDmMMcwT) | 2:48 |
 | 62 | [The Burners Jam](https://open.spotify.com/track/5vcrku8JpkYB0qjnl8trWz) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX) | 2:47 |
 | 63 | [プット・イット・ホエアー・ユー・ウォント・イット](https://open.spotify.com/track/3PYO7y9GPG0885G3AfLGYV) | [稲垣次郎とソウル・メディア](https://open.spotify.com/artist/3iIErrW9Zsp3U4UqrB71jq) | [イン・ザ・グルーヴ](https://open.spotify.com/album/31hPWux7cmgsYJedDFdCNP) | 4:25 |
-| 64 | [Try Me \- Single Version / Mono](https://open.spotify.com/track/1uEkXZJhhMzlHyapSHSDAq) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Soul Pride: The Instrumentals 1960\-1969](https://open.spotify.com/album/3Zp1ofTlYC81yvACIQAq1K) | 3:07 |
+| 64 | [Try Me \- Single Version / Mono](https://open.spotify.com/track/1uEkXZJhhMzlHyapSHSDAq) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Soul Pride: The Instrumentals 1960\-1969](https://open.spotify.com/album/3Zp1ofTlYC81yvACIQAq1K) | 3:07 |
 | 65 | [Savoir Faire \- 2018 Remaster](https://open.spotify.com/track/6GWUJAzwRFTlSJouABPm6x) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic \(2018 Remaster\)](https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi) | 5:04 |
 | 66 | [Soulful Strut](https://open.spotify.com/track/6v8mOtpRlXbG3BOauqPRHC) | [Young\-Holt Unlimited](https://open.spotify.com/artist/5r2DrmyTTiDTQaFz3tyX8W) | [The Definitive Young\-Holt Unlimited](https://open.spotify.com/album/6Piq6lFLq7hwbDgyS3pOgJ) | 3:01 |
 | 67 | [Cleo's Mood](https://open.spotify.com/track/5yLnjVsX3B5QAuwtbAnYhf) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:41 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8o4J1M0Lk0N.md) - [plain]
 | 87 | [All I Need to Make It \- Instrumental](https://open.spotify.com/track/5zoWomyUQYqypunAUBqVUl) | [Capsoul Group](https://open.spotify.com/artist/0dIJ4apsKXMcUtXt27eSmG) | [Eccentric Soul: The Capsoul Label](https://open.spotify.com/album/04D0mW6vcrkyirMVF7x1cy) | 3:06 |
 | 88 | [South Philly](https://open.spotify.com/track/2A9J6PEXvBAnrZvqUyROim) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv) | [The Essential MFSB](https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C) | 4:27 |
 
-Snapshot ID: `MCw3NTkyMjY4NjdmYjQzMDM1ODU0MmU3ODg4NDZjZmFjNGYxMGUwM2M5`
+Snapshot ID: `MCw3NTVmYzE4YmRjZmU0NzFkYTBiZGRmNzIwYzYwNGUxZDM0MmVhMTNk`

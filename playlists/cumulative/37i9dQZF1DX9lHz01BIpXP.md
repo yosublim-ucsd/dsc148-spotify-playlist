@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC?si=Mi9JWXGuQSmsAbxFTgzyeg">Benjamen</a>
 
-120 songs - 6 hr 21 min
+121 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cerebellum](https://open.spotify.com/track/0RITqRIAaeqTkH69haD3SN) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Aangename Kennis](https://open.spotify.com/album/3rSgGMWq1S2Xipr0kKYfq4) | 3:07 | 2022-09-08 | 2023-08-05 |
 | [Chy?s](https://open.spotify.com/track/5MFCBXjKecUCoHXu03Zfzu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Jay Em](https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw) | [The Republic Of Ghamstad](https://open.spotify.com/album/4ClKDh5FGeE9trmJyQFw3i) | 3:54 | 2022-09-08 | 2023-12-01 |
 | [Dala wat jy moet \- Radio Edit](https://open.spotify.com/track/4e3bju60JhI6KWRTsagoAB) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Irshaad](https://open.spotify.com/artist/3n8uAgnScYtwFHIkfnxj10), [Ameen Harron](https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam) | [Dala wat jy moet](https://open.spotify.com/album/1G0WLpHnyXzTtfV62BSmo3) | 3:50 | 2022-09-08 | 2023-09-16 |
+| [Deh!](https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K) | [Deh!](https://open.spotify.com/album/38J1BiT27OyRsI60572LsP) | 2:39 | 2024-01-18 |  |
 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 | 2023-04-06 |  |
 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 | 2023-03-10 |  |
 | [Dis Jou Wyfie \(Remix\)](https://open.spotify.com/track/5S50YUkum96QOyjy08EFF9) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Dis Jou Wyfie \(Remix\)](https://open.spotify.com/album/6AeXo59JDG0JoJOppnOJxw) | 3:12 | 2022-09-08 | 2023-07-14 |
@@ -114,7 +115,7 @@
 | [There It Is](https://open.spotify.com/track/5HVvJfVSUPUPpDwMJk4ATS) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [There It Is](https://open.spotify.com/album/3lSkOBovZW9Ex1crkCF54B) | 3:03 | 2022-09-08 | 2023-09-16 |
 | [Trap In Die Hood](https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym) | [Cee Jay Zondagh](https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM) | [Big Cee](https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz) | 3:25 | 2023-03-23 |  |
 | [Tydmors](https://open.spotify.com/track/4caeJAVvSuY3U52Vxd5ssJ) | [Teezy](https://open.spotify.com/artist/2B7WOsddEAWCjKagux8qAt), [Lil L.K](https://open.spotify.com/artist/6mh3tF5l6me7DnPOLeTW1o) | [Voel Jy My?](https://open.spotify.com/album/7bsIWINVoobb2OF6rewxmx) | 2:45 | 2023-04-20 | 2023-05-06 |
-| [VAAK](https://open.spotify.com/track/0bnaAVz6aptalheXgeQSC1) | [JAYD?N](https://open.spotify.com/artist/54ngOPG4z2cf7NgtItNAG5), [Ello\-Jay](https://open.spotify.com/artist/2PDHdUgudDmPTRwh1HJAXp) | [VAAK](https://open.spotify.com/album/2IKuJJg4ytGVCdJu5cT4CI) | 2:09 | 2022-12-08 |  |
+| [VAAK](https://open.spotify.com/track/0bnaAVz6aptalheXgeQSC1) | [JAYD?N](https://open.spotify.com/artist/54ngOPG4z2cf7NgtItNAG5), [Ello\-Jay](https://open.spotify.com/artist/2PDHdUgudDmPTRwh1HJAXp) | [VAAK](https://open.spotify.com/album/2IKuJJg4ytGVCdJu5cT4CI) | 2:09 | 2022-12-08 | 2024-01-19 |
 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 | 2023-03-30 |  |
 | [Ware Meddies](https://open.spotify.com/track/6XuX7LKxTxncK1YfQyL3YJ) | [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Ware Meddies](https://open.spotify.com/album/77nrr4W0AzamfbN3BhAJXc) | 3:39 | 2022-09-08 | 2023-03-11 |
 | [Watch Wat Jy Praat](https://open.spotify.com/track/05jiDkfyoTZzhEHf7eN94t) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Young K](https://open.spotify.com/artist/2K1piKoDWujwiWh5pdktIV) | [Watch Wat Jy Praat](https://open.spotify.com/album/0xjCTQeFz0rkSNSq2SsyV3) | 3:40 | 2022-11-10 |  |

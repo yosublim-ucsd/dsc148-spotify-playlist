@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 2419,
+  "num_followers": 2424,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmU3YTVlNTUyOTI1Y2I1MGQ4ZjY1Y2RmMGE0Y2ZkMzVjZGJmZjll",
+  "snapshot_id": "MCw3NGVlYzIxNzZmNDEzYTJkZTgwOTk1YzljYjZlZTI4NmUzZGUwN2U4",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Elle danse",
-        "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
-      },
-      "artists": [
-        {
-          "name": "Gary Victor",
-          "url": "https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1"
-        }
-      ],
-      "duration_ms": 202185,
-      "name": "Pomper",
-      "url": "https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Tenpaw",
         "url": "https://open.spotify.com/album/4x1VAiBDut2bgR1gJxETFr"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 204480,
       "name": "Tenpaw",
       "url": "https://open.spotify.com/track/2YNRG0rZhb2dbJdhWZGtLl"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Elle danse",
+        "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
+      },
+      "artists": [
+        {
+          "name": "Gary Victor",
+          "url": "https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1"
+        }
+      ],
+      "duration_ms": 202185,
+      "name": "Pomper",
+      "url": "https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La R\u00e9union l\u00e9 la",
-        "url": "https://open.spotify.com/album/1jK8H9Ggjm2U1FdVIbAeSk"
-      },
-      "artists": [
-        {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
-        }
-      ],
-      "duration_ms": 255186,
-      "name": "Prisonnier",
-      "url": "https://open.spotify.com/track/543ZS2a1HhMZ3pRLzcbyc8"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Koleksyon Dor",
         "url": "https://open.spotify.com/album/7x2ysdP957dBY4KY2oKDUD"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 204742,
       "name": "Moris",
       "url": "https://open.spotify.com/track/3QU5nBA3JzyXtAXQcfUcQG"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "La R\u00e9union l\u00e9 la",
+        "url": "https://open.spotify.com/album/1jK8H9Ggjm2U1FdVIbAeSk"
+      },
+      "artists": [
+        {
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+        }
+      ],
+      "duration_ms": 255186,
+      "name": "Prisonnier",
+      "url": "https://open.spotify.com/track/543ZS2a1HhMZ3pRLzcbyc8"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -419,26 +419,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Main dans la main",
-        "url": "https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv"
-      },
-      "artists": [
-        {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
-        },
-        {
-          "name": "Le Groupe Ravanna",
-          "url": "https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3"
-        }
-      ],
-      "duration_ms": 304946,
-      "name": "Vir\u00e9",
-      "url": "https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Music from Mauritius",
         "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
       },
@@ -451,6 +431,22 @@
       "duration_ms": 174497,
       "name": "Ambalaba",
       "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Soul Sok S\u00e9ga",
+        "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
+      },
+      "artists": [
+        {
+          "name": "Claudio",
+          "url": "https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT"
+        }
+      ],
+      "duration_ms": 261911,
+      "name": "Bhai Aboo",
+      "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -479,38 +475,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Soul Sok S\u00e9ga",
-        "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
-      },
-      "artists": [
-        {
-          "name": "Claudio",
-          "url": "https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT"
-        }
-      ],
-      "duration_ms": 261911,
-      "name": "Bhai Aboo",
-      "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
-      },
-      "artists": [
-        {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
-        }
-      ],
-      "duration_ms": 287316,
-      "name": "Sega Ar Pwa",
-      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Love Ambassador",
         "url": "https://open.spotify.com/album/6n5gNprPy0D1rHWbWWeq0b"
       },
@@ -527,6 +491,42 @@
       "duration_ms": 283600,
       "name": "Atrap Mo lame",
       "url": "https://open.spotify.com/track/1s2wYId2KCCnytXzgDMVWS"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Main dans la main",
+        "url": "https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv"
+      },
+      "artists": [
+        {
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+        },
+        {
+          "name": "Le Groupe Ravanna",
+          "url": "https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3"
+        }
+      ],
+      "duration_ms": 304946,
+      "name": "Vir\u00e9",
+      "url": "https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+      },
+      "artists": [
+        {
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+        }
+      ],
+      "duration_ms": 287316,
+      "name": "Sega Ar Pwa",
+      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Fiesta Ravanna",
-        "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
-      },
-      "artists": [
-        {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
-        }
-      ],
-      "duration_ms": 265413,
-      "name": "Fiesta Ravanna",
-      "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Mario",
         "url": "https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 230817,
       "name": "Mario",
       "url": "https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Fiesta Ravanna",
+        "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
+      },
+      "artists": [
+        {
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+        }
+      ],
+      "duration_ms": 265413,
+      "name": "Fiesta Ravanna",
+      "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
     },
     {
       "added_at": "2022-08-11 10:05:16",

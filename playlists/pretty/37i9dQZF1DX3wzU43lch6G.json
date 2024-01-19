@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 103178,
+  "num_followers": 103170,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTY4NzY0YTY5ZDFkNTZhZmUzNjMyNDlhZGUyNTM4YjRjZDVhZTI5",
+  "snapshot_id": "MCxlNWY2ODdhMjMxNDliYmFjMjg1NTE1MDA0MTE1ZTA3MDg3NDUyMDEx",
   "tracks": [
     {
       "added_at": "2023-11-16 21:00:00",
@@ -399,18 +399,22 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "Sustum",
-        "url": "https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS"
+        "name": "Aldat\u0131ld\u0131k",
+        "url": "https://open.spotify.com/album/2wr1SwiuPVivHQ2S7Bnv9s"
       },
       "artists": [
         {
-          "name": "Evdeki Saat",
-          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
+          "name": "Jabbar",
+          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+        },
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
         }
       ],
-      "duration_ms": 212250,
-      "name": "Sustum",
-      "url": "https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf"
+      "duration_ms": 186947,
+      "name": "Aldat\u0131ld\u0131k",
+      "url": "https://open.spotify.com/track/5E1gxNXvUGvpvUECz54xXm"
     },
     {
       "added_at": "2023-11-16 21:00:00",
@@ -431,22 +435,18 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "Aldat\u0131ld\u0131k",
-        "url": "https://open.spotify.com/album/2wr1SwiuPVivHQ2S7Bnv9s"
+        "name": "Sustum",
+        "url": "https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS"
       },
       "artists": [
         {
-          "name": "Jabbar",
-          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
-        },
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+          "name": "Evdeki Saat",
+          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
         }
       ],
-      "duration_ms": 186947,
-      "name": "Aldat\u0131ld\u0131k",
-      "url": "https://open.spotify.com/track/5E1gxNXvUGvpvUECz54xXm"
+      "duration_ms": 212250,
+      "name": "Sustum",
+      "url": "https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf"
     },
     {
       "added_at": "2023-11-16 21:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "Bildi\u011fim Gibi",
-        "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Nilipek.",
-          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Bildi\u011fim Gibi",
-      "url": "https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK"
-    },
-    {
-      "added_at": "2023-11-16 21:00:00",
-      "album": {
         "name": "Durum \u015eark\u0131lar\u0131",
         "url": "https://open.spotify.com/album/4qczrbpvQeGJrIym4k1oo6"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 232625,
       "name": "Kimler Gelmi\u015f",
       "url": "https://open.spotify.com/track/2MDgUGZ4HbtwzKd1GWZTFL"
+    },
+    {
+      "added_at": "2023-11-16 21:00:00",
+      "album": {
+        "name": "Bildi\u011fim Gibi",
+        "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Nilipek.",
+          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Bildi\u011fim Gibi",
+      "url": "https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK"
     },
     {
       "added_at": "2023-11-16 21:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
+        "name": "Yan Yana Foto\u011fraf \u00c7ektirelim",
+        "url": "https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A"
+      },
+      "artists": [
+        {
+          "name": "Nazan \u00d6ncel",
+          "url": "https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "Nereye B\u00f6yle",
+      "url": "https://open.spotify.com/track/55TrAm9okj6Kwj9KOvRHAL"
+    },
+    {
+      "added_at": "2023-11-16 21:00:00",
+      "album": {
         "name": "Sonsuza Kadar",
         "url": "https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 249453,
       "name": "D\u00fc\u015f\u00fcnme Hi\u00e7",
       "url": "https://open.spotify.com/track/6NBQtJawIW0RgszCkIqSr2"
-    },
-    {
-      "added_at": "2023-11-16 21:00:00",
-      "album": {
-        "name": "Yan Yana Foto\u011fraf \u00c7ektirelim",
-        "url": "https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A"
-      },
-      "artists": [
-        {
-          "name": "Nazan \u00d6ncel",
-          "url": "https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP"
-        }
-      ],
-      "duration_ms": 277800,
-      "name": "Nereye B\u00f6yle",
-      "url": "https://open.spotify.com/track/55TrAm9okj6Kwj9KOvRHAL"
     },
     {
       "added_at": "2023-11-16 21:00:00",

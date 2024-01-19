@@ -4,7 +4,7 @@
 
 > New music from 21 Savage, Lil Tjay and Nicki Minaj.
 
-1,893 songs - 4 day 2 hr 3 min
+1,894 songs - 4 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -868,6 +868,7 @@
 | [Know Like I Know](https://open.spotify.com/track/227x8PRNRDZUl2yAISuS2k) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Know Like I Know](https://open.spotify.com/album/5igqmh1p51bXG9i9cuCTC9) | 3:52 | 2022-01-20 | 2022-01-25 |
 | [Know My Rights \(feat\. Lil Baby\)](https://open.spotify.com/track/7fsNNSLGG8Wi0nFbufCU6L) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [6pc Hot EP](https://open.spotify.com/album/37O0Syq7Db1kydzUH8TbwB) | 3:14 | 2020-06-29 | 2020-07-03 |
 | [Know You Know \(ft\. 2 Chainz\)](https://open.spotify.com/track/4jT3GU6bhC8mrtDPZsNd0S) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Funeral](https://open.spotify.com/album/2x657XotA7LCsPElXmXX4W) | 2:44 | 2020-02-01 | 2020-02-21 |
+| [Kool Aid & Frozen Pizza](https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:37 | 2024-01-18 |  |
 | [Krazy Krazy](https://open.spotify.com/track/6ZjP85QdIaiTojLrKixvbT) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Krazy Krazy](https://open.spotify.com/album/1Rgimz7Cn1RfMYz6cUsD4q) | 2:21 | 2022-04-29 | 2022-05-14 |
 | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 | 2023-12-16 |  |
 | [Laneswitch](https://open.spotify.com/track/56Sng0NtW0YYy4Edtpybm8) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Laneswitch](https://open.spotify.com/album/3dAesOchwksFPoWDekVIhd) | 2:30 | 2019-08-09 | 2019-10-18 |

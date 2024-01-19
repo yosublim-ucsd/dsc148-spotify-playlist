@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 
 > The tracklist to your holiday movie soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,168 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,167 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 | 49 | [Ice Dance](https://open.spotify.com/track/6HH8ZoDIe5qw8EYTTHVZh7) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf) | 1:44 |
 | 50 | [Jazz Suite No\. 2: VI\. Waltz II](https://open.spotify.com/track/3tcorTc2qAByPxoCr8IsMx) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Royal Concertgebouw Orchestra](https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Shostakovich: The Jazz Album](https://open.spotify.com/album/6SXNiFijYukedJeDjMosO2) | 3:40 |
 
-Snapshot ID: `MCxiYzI1ZTllNjU0MjZmNDI2OGIzZjgyNmFjYzYzN2Q4M2ExMDI1MDI3`
+Snapshot ID: `MCw5OWJhY2E4YmRhNzk2N2ViZTJjOTVjY2E3NDhiODM5YTQyNzUwNzU3`

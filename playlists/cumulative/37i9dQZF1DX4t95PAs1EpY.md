@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-484 songs - 18 hr 37 min
+486 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Abstract Grass](https://open.spotify.com/track/4IGOxyqgsTrpjJphU0GfR8) | [Etherie](https://open.spotify.com/artist/6aclglY5Cid8YcgE5MheS3) | [Abstract Grass](https://open.spotify.com/album/6zLm5Rt5QRcJf80NNQRLHS) | 2:10 | 2023-08-31 |  |
 | [Activated](https://open.spotify.com/track/0O5hn6LfWH2rhD0GTl3Gib) | [Mr Bilt](https://open.spotify.com/artist/5lnPvVsVpCm7XIQArLjxgc) | [Activated](https://open.spotify.com/album/5YnwJolIFeKsgwPmMc615n) | 2:17 | 2022-11-11 |  |
 | [Adventure Time](https://open.spotify.com/track/49qgo51BRqysyr1FdfGCi7) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [Lasting Memories](https://open.spotify.com/album/75vXCfbM1TdyfXLgMC1hyS) | 2:11 | 2022-08-19 | 2023-03-18 |
-| [After School Sunset](https://open.spotify.com/track/6WVt9GeG7x4VktA9rOlFg7) | [rjoseph](https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl) | [After School Sunset](https://open.spotify.com/album/7m5Q3hBMxbvoTupx4IoHyR) | 2:59 | 2023-04-11 |  |
+| [After School Sunset](https://open.spotify.com/track/6WVt9GeG7x4VktA9rOlFg7) | [rjoseph](https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl) | [After School Sunset](https://open.spotify.com/album/7m5Q3hBMxbvoTupx4IoHyR) | 2:59 | 2023-04-11 | 2024-01-19 |
 | [After the Storm](https://open.spotify.com/track/5GaujxTxVWtGIFBGiWFXCu) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [After the Storm](https://open.spotify.com/album/6DNQ6LG4GXuJy6Fi3qGwPA) | 2:31 | 2021-12-07 | 2022-12-10 |
 | [Afterthought](https://open.spotify.com/track/3vkK2e5qnL5lnaQdziHPqX) | [squeeda](https://open.spotify.com/artist/0rgPemi3mvhFTP6R5nQ2tt), [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt) | [Afterthought](https://open.spotify.com/album/2RwbUYs976Lmvv7o1kdNiv) | 2:19 | 2022-12-09 |  |
 | [AIRPORT](https://open.spotify.com/track/4t6vk1gIVxICUtIFWrT0gS) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [AIRPORT](https://open.spotify.com/album/0Cm3jfZVjSdhIWFxEJ2nBh) | 2:10 | 2022-11-11 |  |
@@ -105,6 +105,7 @@
 | [Days End](https://open.spotify.com/track/72fw7BBXK1IWsoNJCFcSFr) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [Manocchs](https://open.spotify.com/artist/7nuSdpLse2KEipMvQ1hWEc) | [Days End](https://open.spotify.com/album/293Ituc1s1BgexGopqrP72) | 1:56 | 2022-09-02 |  |
 | [dead reckoning](https://open.spotify.com/track/1HPRFECUZyvqlTsVcnVQqL) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [abstract mapping](https://open.spotify.com/album/3wnY9D1Dl69OohA8MtkU2z) | 1:48 | 2021-12-07 | 2023-03-02 |
 | [Deep Asleep](https://open.spotify.com/track/53ZhQHLOB8k5pnAipbQIXs) | [Tales of Urbania](https://open.spotify.com/artist/1G6JXwDlPBndTmT5DI2sHX) | [Deep Asleep](https://open.spotify.com/album/0m7wkauGzHvfV6V6fuPPeo) | 2:03 | 2023-11-17 |  |
+| [Do Not Worry](https://open.spotify.com/track/7mpm4VDEEi8XyZA0y5VJg7) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Do Not Worry](https://open.spotify.com/album/2dKy2FZL0LSBtzmeyv6FKc) | 2:24 | 2024-01-19 |  |
 | [Don Lemon](https://open.spotify.com/track/1RKxZAiUKVL6XbGBYOMa2F) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/0lghRrVZ6xapTaVWyzIdzQ) | 1:44 | 2022-12-09 | 2023-09-16 |
 | [Don Lemon](https://open.spotify.com/track/3MZM6vRRO8f459kxgEULg8) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/2Mcpr3klMbn0OOC5sslBUc) | 1:44 | 2022-05-27 | 2022-11-20 |
 | [Don Lemon](https://open.spotify.com/track/521mFtWavZtZFz85CLoXx3) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/0Psg7qHlT0bf53XQzcouAq) | 1:44 | 2022-11-11 | 2022-12-14 |
@@ -115,7 +116,7 @@
 | [Duplicity](https://open.spotify.com/track/4b0I2cmytdJBQeE2SvSxOB) | [Alkis Siokis](https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O) | [Duplicity](https://open.spotify.com/album/7ILFzDVB4XlAepvlXFEVwf) | 2:19 | 2023-02-07 |  |
 | [Early Bird](https://open.spotify.com/track/2V8arCg99hy14snVEtZNoR) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [Early Bird](https://open.spotify.com/album/0AmDeNtx6ksfIj0vzFdw6I) | 2:38 | 2022-09-23 |  |
 | [early bird](https://open.spotify.com/track/78NgFAN79blAzHQkDAVC8K) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [early bird](https://open.spotify.com/album/0j1TOhsa00KZP3fOafbiwR) | 2:19 | 2023-02-17 |  |
-| [Early Birds](https://open.spotify.com/track/087uq5KjddIvBhDkjAaoRY) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [reysi](https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS) | [Early Birds](https://open.spotify.com/album/4NhsRTJFTc5IKTEcicYqWb) | 2:14 | 2023-08-31 |  |
+| [Early Birds](https://open.spotify.com/track/087uq5KjddIvBhDkjAaoRY) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [reysi](https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS) | [Early Birds](https://open.spotify.com/album/4NhsRTJFTc5IKTEcicYqWb) | 2:14 | 2023-08-31 | 2024-01-19 |
 | [Eden Garden](https://open.spotify.com/track/3DWCpXGvN3HdNdyl6pidSO) | [Dilai](https://open.spotify.com/artist/5vczEix1wnWLZ3FeFA6uX4) | [Eden Garden](https://open.spotify.com/album/1ISWQe58Is94DhLVmRZtJG) | 3:48 | 2022-05-20 | 2022-06-03 |
 | [Eden Summer](https://open.spotify.com/track/4ovCrCSU40yOKrvEeEoIL1) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Eden Summer](https://open.spotify.com/album/5T5tIzfq1WUKbNfZNq45fr) | 2:48 | 2022-07-15 | 2022-10-14 |
 | [efímero](https://open.spotify.com/track/5SRg6ipwt6uYyAur2HARPe) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [efímero](https://open.spotify.com/album/4nZISHOozkmb87YDkpe5eO) | 3:18 | 2021-12-07 |  |
@@ -370,6 +371,7 @@
 | [Redeeming](https://open.spotify.com/track/1XHVtIsDvRMI96bYNQ4Sjz) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Redeeming](https://open.spotify.com/album/3QcsMRKYhWuVJISzQK9YXE) | 1:52 | 2022-09-16 |  |
 | [Reefs](https://open.spotify.com/track/78oUWiCHOMslcfcbksmeoN) | [Oddability](https://open.spotify.com/artist/2mjU7FFvohRKtvj3xgRkqk), [Beat fanatics](https://open.spotify.com/artist/2bguEpHQ7ttxrLnqrDrr4w) | [Triptych EP](https://open.spotify.com/album/3HA4fm1yar4RbG9k0sK5Sz) | 1:37 | 2021-12-07 | 2023-01-07 |
 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 | 2021-12-07 |  |
+| [Relentlessly High](https://open.spotify.com/track/7bKhhxONZdxavHrCzDIBCK) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Relentlessly High](https://open.spotify.com/album/7e7csulQEI0p8iLw0T1nrt) | 2:13 | 2024-01-19 |  |
 | [Relief](https://open.spotify.com/track/5Rg5XBTCLryJt7WWG0SVte) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Mantrick](https://open.spotify.com/artist/4WfXJIC30dh3ezNzAmVi3m) | [Relief](https://open.spotify.com/album/7b09B1KnppJi7xeEbck2Id) | 2:14 | 2022-10-28 | 2023-09-22 |
 | [reverbations](https://open.spotify.com/track/0cIBQbGzdlSAR7O6v2qpfs) | [moves like silk](https://open.spotify.com/artist/736t4hEChUnLa5ww5kpRWB) | [reverbations](https://open.spotify.com/album/73lR9oJZi5dXILKm8uBYrW) | 2:17 | 2021-12-07 | 2022-10-14 |
 | [Rhodesy](https://open.spotify.com/track/3DWhvSUAd3rmkZpL12TP1k) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [Rhodesy](https://open.spotify.com/album/1S4h77ZWDXAo7CPwOCwLpW) | 2:05 | 2023-10-20 |  |

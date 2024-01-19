@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,684 songs - 3 day 14 hr 50 min
+1,685 songs - 3 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1091,7 +1091,7 @@
 | [Om du nånsin](https://open.spotify.com/track/1NJ8Fyfb8dS5WYB5tpIaiZ) | [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [Om du nånsin](https://open.spotify.com/album/0xrItmTnCOdE2TbcbbE6JK) | 2:51 | 2021-11-14 | 2021-11-20 |
 | [OM HAN BJUDER BUBBEL](https://open.spotify.com/track/7bTvhbLJ8MOho9tFOqWyi1) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [JeppsoN](https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [OM HAN BJUDER BUBBEL](https://open.spotify.com/album/2O512K3CDQzd24j5h68F6H) | 2:03 | 2023-03-07 | 2023-03-09 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-05 | 2022-11-07 |
-| [On My Love](https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Sped Up\)](https://open.spotify.com/album/5Q5PomrTdI13qpmEeM393B) | 3:42 | 2023-09-30 |  |
+| [On My Love](https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Sped Up\)](https://open.spotify.com/album/5Q5PomrTdI13qpmEeM393B) | 3:42 | 2023-09-30 | 2024-01-19 |
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-09-16 | 2023-10-01 |
 | [On My Way](https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [On My Way](https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc) | 3:05 | 2023-02-27 | 2023-04-13 |
 | [One Day](https://open.spotify.com/track/0MGC7gE67o7QluGjtMGLtA) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [One Day](https://open.spotify.com/album/7eB0QLTXvh52cnDFt0Ppry) | 2:55 | 2023-02-27 | 2023-03-16 |
@@ -1168,6 +1168,7 @@
 | [Pure Souls](https://open.spotify.com/track/7up5MwPUHQdv4DkzQRHRWP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:58 | 2021-09-01 | 2021-09-03 |
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-05 | 2022-11-12 |
 | [Put Your Hands Up för Sverige \(feat\. Anis Don Demina\)](https://open.spotify.com/track/65Jv5ceVGQr9QHHKEqx8xm) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6), [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Put Your Hands Up för Sverige \(feat\. Anis Don Demina\)](https://open.spotify.com/album/5PCKtex3xBVeQjLbrUNH0U) | 3:27 | 2021-06-20 | 2021-07-02 |
+| [Pärlor](https://open.spotify.com/track/5YCKObb1A7YIeOKzXhREwz) | [kent](https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX) | [Vapen & ammunition](https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y) | 3:55 | 2024-01-18 |  |
 | [På en buss](https://open.spotify.com/track/5eZ5OiDd7jbFQuVAJfz6QZ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [På en buss](https://open.spotify.com/album/4G8OvA597Stb4BApPYss1g) | 2:47 | 2021-10-23 | 2021-11-07 |
 | [På riktigt](https://open.spotify.com/track/0TEGBVIMIyQ6wW52Kwagxx) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [På riktigt](https://open.spotify.com/album/5MEuelSLRVxZNYmwEKd9oL) | 3:01 | 2022-10-31 | 2022-11-02 |
 | [QUE PASA?](https://open.spotify.com/track/1dDqO9FjKbhQysspzpTCSQ) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [ASKER](https://open.spotify.com/album/2FBCD1CwSiLcZANLypghei) | 2:20 | 2024-01-13 | 2024-01-16 |

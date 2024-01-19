@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 50174,
+  "2024-01-19": 50255,
   "date_first_scraped": "2022-12-10",
   "description": "Go hard or go home",
   "name": "Hardstyle Gym \ud83d\udcaa",
@@ -933,7 +933,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 212322,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 241500,
       "name": "Firestone",
       "url": "https://open.spotify.com/track/5rlO2Wr2jifgjiBbPy25Su"
@@ -1487,6 +1487,24 @@
     {
       "album": {
         "name": "We Rule The Night",
+        "url": "https://open.spotify.com/album/76rEqqgGwIXDjRoHcWKIbG"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295646,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/7vjPIUzk2E6WBORNPQHzgG"
+    },
+    {
+      "album": {
+        "name": "We Rule The Night",
         "url": "https://open.spotify.com/album/7dTraFnFY6BGZFZtjMwBxs"
       },
       "artists": [
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 295646,
       "name": "Hurricane - Radio Edit",
       "url": "https://open.spotify.com/track/3kLqJ09xramYW9I9gAXTWl"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 215688,
       "name": "Let's Go Insane (Into The Madness 2023 OST)",
       "url": "https://open.spotify.com/track/321NLHCw7fk329HwnpDw9S"
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 270786,
       "name": "Nightmare Nirvana",
       "url": "https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj"
@@ -3021,7 +3039,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 262101,
       "name": "The Raven Of The Night",
       "url": "https://open.spotify.com/track/4SdCxGUYg3XRezP1VBrKAn"
@@ -3595,7 +3613,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 207290,
       "name": "What You Give Is What You Get",
       "url": "https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0"

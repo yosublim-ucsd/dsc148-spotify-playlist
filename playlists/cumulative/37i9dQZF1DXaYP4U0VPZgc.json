@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "\u5915\u95c7\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/1UNBShwV9GyEO6oTrEXVMn"
+      },
+      "artists": [
+        {
+          "name": "KEIKO",
+          "url": "https://open.spotify.com/artist/4j7ZX5A2mU1ClOmposbUFM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243886,
+      "name": "\u5915\u95c7\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/2kzO0Isudp6WtXcrEzopKs"
+    },
+    {
+      "album": {
         "name": "\u592a\u967d\u306e\u822a\u8def",
         "url": "https://open.spotify.com/album/43l55BFdVisx8Oi2LkNfJx"
       },

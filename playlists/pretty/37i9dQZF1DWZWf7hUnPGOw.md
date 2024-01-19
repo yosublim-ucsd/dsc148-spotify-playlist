@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,524 likes - 226 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,563 likes - 226 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,7 +175,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 165 | [Life Begins](https://open.spotify.com/track/7emIl2GnYiP8Jr852Scatj) | [Shelly Fraley](https://open.spotify.com/artist/4qvh2HOvMUhnP7CeoJv9ND) | [Life Begins](https://open.spotify.com/album/3NJ1e8W7jGB5N25dEWIEF5) | 3:26 |
 | 166 | [Human](https://open.spotify.com/track/0h69cnBUjM51StfH6ak3UR) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 3:57 |
 | 167 | [Steady](https://open.spotify.com/track/1BZeGezkyEuQnG9rkud3sj) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha) | [Emily Wolfe](https://open.spotify.com/album/0g29Kfki3uQXe80dTdWhxD) | 4:09 |
-| 168 | [Bring It on Back](https://open.spotify.com/track/6UYTTPfzs0iKcjxQH4dYuM) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Bring It on Back](https://open.spotify.com/album/4Gm7XaibvOLvxa7pcYKGWG) | 4:34 |
+| 168 | [Bring It on Back](https://open.spotify.com/track/7lRYbgG2vkS0waSfPSXOvm) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Bring It on Back](https://open.spotify.com/album/5uxEck6eNMMg4wnp4m5K3U) | 4:34 |
 | 169 | [Pteryla](https://open.spotify.com/track/44CBS46WolmxYXqHaa77An) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 4:27 |
 | 170 | [Crazy](https://open.spotify.com/track/70TiTaUTePAwoLNsQk3ujm) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/113Oluzu3xOP9imtFHntWy) | 3:48 |
 | 171 | [Bird on a Wire](https://open.spotify.com/track/7l8cRDImRiW7cv6g2heTWi) | [Kristin Diable](https://open.spotify.com/artist/54pjCT6b2kZAQuHsS4lR43) | [Create Your Own Mythology](https://open.spotify.com/album/18hMZo0Cfxv6oWrTYCbpTS) | 3:56 |
@@ -214,7 +214,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 204 | [Grow Old With You](https://open.spotify.com/track/27eqleJFBew95lK2OLWKun) | [Bobby Watson](https://open.spotify.com/artist/3vJcThDRTiLEhLwNzJewSD) | [I Can't Quit](https://open.spotify.com/album/5zOTkQoMQPvp5ufdCjatYB) | 3:19 |
 | 205 | [Thread](https://open.spotify.com/track/0jtCa3XLLrofXAuh3dQzy7) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Cause And Effect \(Deluxe\)](https://open.spotify.com/album/2V3ebysBMSaKfYUcsCWmKX) | 4:52 |
 | 206 | [As You Fly](https://open.spotify.com/track/3i0KgvRayczTveHLqQlsMs) | [Regina Price](https://open.spotify.com/artist/5Y9TDm2y5jVFkUUjhbQfdC) | [As You Fly](https://open.spotify.com/album/4zh5GKOYRano5iLLVlpfch) | 3:27 |
-| 207 | [Free Rider](https://open.spotify.com/track/5MHD8arSmLCrkujTJBjoab) | [Spirit City](https://open.spotify.com/artist/5ahpxJYMEoAHwWBDMrU6jK) | [Free Rider](https://open.spotify.com/album/69ioWkMs6HxMePYts5VxSY) | 3:31 |
+| 207 | [Free Rider](https://open.spotify.com/track/0VDH0yEqXrq1KgB4jrLpB0) | [Spirit City](https://open.spotify.com/artist/5ahpxJYMEoAHwWBDMrU6jK) | [Free Rider](https://open.spotify.com/album/4pwYvDwwvLVXQiQiCiFsZp) | 3:31 |
 | 208 | [I'm Here](https://open.spotify.com/track/5WTppsgHUggYFXopdCpyA9) | [Sweet Talk Radio](https://open.spotify.com/artist/0vgTfoEDCKTyYfGf5HIdH2) | [Horology](https://open.spotify.com/album/04SX63uZmcxPhY1EG6QVd3) | 3:45 |
 | 209 | [Tomorrow Is Coming](https://open.spotify.com/track/4kB4Nupn6vML2gWnNW5s9T) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Stealing Time](https://open.spotify.com/album/7oNtY0xPnxNc6oAXoOFrs9) | 5:59 |
 | 210 | [This Time](https://open.spotify.com/track/4NDMfILVy0KPG8nvoctsKO) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 4:16 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 225 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 226 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MCw4Njc1NGY3Nzc5Yzk5ZjMwM2M4ZTAwOGYyMDBjNjNmZTViZjk4MTgw`
+Snapshot ID: `MCw3ODkwNDVlYzZmNDVmZWFmNDJlNzhiZjA5ZjVjMzlkZWVkYjdiZjk1`

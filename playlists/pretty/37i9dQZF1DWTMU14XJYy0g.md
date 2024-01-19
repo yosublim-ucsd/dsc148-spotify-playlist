@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Airbag
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,667 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,712 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 69 | [Lejos de Acá](https://open.spotify.com/track/7I1bJimgthpduRHR4CIoKp) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [EL MISMO](https://open.spotify.com/artist/5SSPAJQe4pqnz9gKnRB9g3) | [Lejos de Acá](https://open.spotify.com/album/6Ujn6SsPlnTvDZJejYsapF) | 3:38 |
 | 70 | [Mis Heridas Cure](https://open.spotify.com/track/0Df4DMHMVGCM9fjG8EThIf) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [El Hombrecito Del Mar](https://open.spotify.com/album/74LmgcRuLCHqeCuzIvpNCT) | 4:56 |
 
-Snapshot ID: `MCxmZmIzOWFlMzA4YTYwM2U0OWI3OGRiZmIwMTFmNzc0YzEzYzMwM2Jl`
+Snapshot ID: `MCwyODUzNmZjMmEwYWU4NmM1N2QyMzc2NWU2ZDc5ZjM1YjcwZGJmM2M0`

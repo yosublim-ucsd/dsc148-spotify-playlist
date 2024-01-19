@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-214 songs - 11 hr 20 min
+215 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Ishq Nachaawe \- From "Kho Gaye Hum Kahan"](https://open.spotify.com/track/4lQzrLcNfjm1fqBpQmbHG6) | [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Kho Gaye Hum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O) | 3:41 | 2023-12-11 |  |
 | [It's Aight](https://open.spotify.com/track/0m6q4ExjPAlpICPMN0Mnd3) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Prophet Joegus](https://open.spotify.com/artist/5PsSnCWLBoL7bdXFk02Q2a) | [A Message from the Moon](https://open.spotify.com/album/4LpX3ETuKXYM2z29WySuP8) | 3:21 | 2023-06-01 | 2023-08-05 |
 | [Jhoot](https://open.spotify.com/track/74hAMFrOY3TwKRa25QoWAB) | [Void](https://open.spotify.com/artist/3rPEiLwMVfd4Vg3BlRbuJK), [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr), [Exult Yowl](https://open.spotify.com/artist/6szIEcaQzaFdMn8e1UQzwU) | [Lonely December](https://open.spotify.com/album/6XxG32SXPyQLwhYeH1KKZf) | 3:51 | 2023-03-29 | 2023-04-17 |
-| [Joota Japani](https://open.spotify.com/track/79sXQo3Wub2baCCZn4QU4d) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Shankar Jaikishan](https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc), [Shailendra](https://open.spotify.com/artist/66fbGcYDp66VzjaYFyLg8S) | [Joota Japani](https://open.spotify.com/album/7f9xnfMtU6XlrQxMVNZbIq) | 2:35 | 2024-01-17 |  |
+| [Joota Japani](https://open.spotify.com/track/79sXQo3Wub2baCCZn4QU4d) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Shankar Jaikishan](https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc), [Shailendra](https://open.spotify.com/artist/66fbGcYDp66VzjaYFyLg8S) | [Joota Japani](https://open.spotify.com/album/7f9xnfMtU6XlrQxMVNZbIq) | 2:35 | 2024-01-17 | 2024-01-19 |
+| [Joota Japani](https://open.spotify.com/track/3G0gdqt4LTreFwBYaymUhp) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Joota Japani](https://open.spotify.com/album/4wGScOi2a1xEpmHNaOii3D) | 2:35 | 2024-01-17 |  |
 | [Judgement](https://open.spotify.com/track/4XoECpd0nkk9OSLUIEOi1i) | [Gopi Longia](https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE) | [Judgement](https://open.spotify.com/album/3e1XAJm7FEvTMaaJ5SiksX) | 5:14 | 2023-03-29 | 2023-04-25 |
 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 | 2023-03-29 |  |
 | [Kalamkaand](https://open.spotify.com/track/2uickBJkb6Q9p5OUijDyXA) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [DJ Harpz](https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA) | [Kalamkaand](https://open.spotify.com/album/6MPlFOjhFBYddTxV4shdcX) | 2:00 | 2023-05-12 |  |

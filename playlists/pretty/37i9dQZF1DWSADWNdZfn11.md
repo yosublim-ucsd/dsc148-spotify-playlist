@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,075 likes - 199 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,191 likes - 198 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 13 | [Night Changes](https://open.spotify.com/track/5PgHmtuPjhreShfiZXK6mH) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Night Changes](https://open.spotify.com/album/0XScF6kh4dPuFX757xUyZF) | 3:23 |
 | 14 | [If You Leave Me Now](https://open.spotify.com/track/0k3eB65qL3T1GQyJmGNUgV) | [George Jacomel](https://open.spotify.com/artist/44bWSBuHUEo6M84U8E0i6q) | [If You Leave Me Now](https://open.spotify.com/album/1sBYO3z6cl6Fd6NNOPeGxu) | 3:19 |
 | 15 | [Someone like you](https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Someone like you](https://open.spotify.com/album/2D59eKCt0eqXKutSEJbzJC) | 3:38 |
-| 16 | [Nothing Compares to You](https://open.spotify.com/track/1Y1EQY6SvWIelDrbGPoGTO) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Nothing Compares to You](https://open.spotify.com/album/3MKo4eOVqTJeokHlNJ6UMh) | 2:58 |
-| 17 | [One Call Away](https://open.spotify.com/track/3stzNtSMb9XSwbeEQVG3Ck) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [One Call Away](https://open.spotify.com/album/51sNNeB6Nq65506cNGEE0m) | 3:28 |
-| 18 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 |
-| 19 | [Run](https://open.spotify.com/track/1W0g9sj9trSjMUO49PAKWJ) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Run](https://open.spotify.com/album/66Gs4R4tp24sKbBOu69bd3) | 3:41 |
-| 20 | [I Want It That Way](https://open.spotify.com/track/3xoscGfo3Sbmc00fDVEBaR) | [Sander Bjerke](https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv) | [I Want It That Way](https://open.spotify.com/album/639i9A2oB8V2mexPHN0lBM) | 3:36 |
-| 21 | [Love Is All Around](https://open.spotify.com/track/1wQ07OlblAtBNxWGNun2vw) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Is All Around](https://open.spotify.com/album/07yQmykXzjBt0hghIZVPyF) | 3:23 |
-| 22 | [Under Pressure](https://open.spotify.com/track/5YCab8agd3ARAF7Y3Z4wbx) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Love Of My Life \(Tribute to Queen\)](https://open.spotify.com/album/5vUFHXS6MNa3HnJruSpda8) | 3:07 |
+| 16 | [My Love Is Your Love](https://open.spotify.com/track/4uJbyfXdhYv0rFlCD8A7OP) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [My Love Is Your Love](https://open.spotify.com/album/2zHVJqtr8i8Tp6qaknqZYR) | 3:30 |
+| 17 | [Nothing Compares to You](https://open.spotify.com/track/1Y1EQY6SvWIelDrbGPoGTO) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Nothing Compares to You](https://open.spotify.com/album/3MKo4eOVqTJeokHlNJ6UMh) | 2:58 |
+| 18 | [One Call Away](https://open.spotify.com/track/3stzNtSMb9XSwbeEQVG3Ck) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [One Call Away](https://open.spotify.com/album/51sNNeB6Nq65506cNGEE0m) | 3:28 |
+| 19 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 |
+| 20 | [Run](https://open.spotify.com/track/1W0g9sj9trSjMUO49PAKWJ) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Run](https://open.spotify.com/album/66Gs4R4tp24sKbBOu69bd3) | 3:41 |
+| 21 | [I Want It That Way](https://open.spotify.com/track/3xoscGfo3Sbmc00fDVEBaR) | [Sander Bjerke](https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv) | [I Want It That Way](https://open.spotify.com/album/639i9A2oB8V2mexPHN0lBM) | 3:36 |
+| 22 | [Love Is All Around](https://open.spotify.com/track/1wQ07OlblAtBNxWGNun2vw) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Is All Around](https://open.spotify.com/album/07yQmykXzjBt0hghIZVPyF) | 3:23 |
 | 23 | [Eyes Closed](https://open.spotify.com/track/6EoPNWD4JE1BQZ8VxbYiM8) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Eyes Closed](https://open.spotify.com/album/2r7wVDEXwJbMgTnwtpuIbf) | 3:40 |
 | 24 | [Girl on fire](https://open.spotify.com/track/4IuATSvO2qXkgTRuHC8LYq) | [Taylor Stone](https://open.spotify.com/artist/4RG7tWsxcGEyY5EtLKW4X7) | [Girl on fire](https://open.spotify.com/album/2zOAwVXSVxjxbp74MFl1oQ) | 3:32 |
 | 25 | [Viva La Vida](https://open.spotify.com/track/7kxKactI72Fl5nZpTpLpJh) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Viva La Vida](https://open.spotify.com/album/4ywHnvPY7ZAp3C3440TJIs) | 3:48 |
@@ -206,6 +206,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 196 | [Another Love](https://open.spotify.com/track/0KftI0uc1qEk2ZCbxdH1dI) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Another Love](https://open.spotify.com/album/22vJvIcxcejxBJxNYtV0uc) | 4:15 |
 | 197 | [Ocean \(piano version\)](https://open.spotify.com/track/41eazwc8ETHZWXEyZuYWU4) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Ocean \(piano version\)](https://open.spotify.com/album/72bbEXTqg75eBCue0rBhUv) | 2:29 |
 | 198 | [Can't Help Falling In Love](https://open.spotify.com/track/3Al9JtsJjMBHt2UjxvnBzD) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Can't Help Falling In Love](https://open.spotify.com/album/26gRNrHNzMjrzNBqWxGyCn) | 2:47 |
-| 199 | [The First Cut Is The Deepest](https://open.spotify.com/track/2AOwriifqUUyINxFwNqItE) | [Mick Fazio](https://open.spotify.com/artist/62ZayiWK1lr4ROa7YqpKkx) | [Songs for Sunday](https://open.spotify.com/album/0NqYqAmh1MwXEoJJPYBFwt) | 3:16 |
 
-Snapshot ID: `MCw0YzM5MDE5YzQ1MWY2NTMyODJkNTY2ZjZhNmQ4YTI4ZjAwOTQwODBh`
+Snapshot ID: `MCw2MWNjMGNmOGUzNTIxNGRjNDdlYmYwMmU4ZGI0MjZhNWNhOTVjMTBk`

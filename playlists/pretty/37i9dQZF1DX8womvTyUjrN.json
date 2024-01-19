@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Emilia & NATHY PELUSO",
-  "num_followers": 284288,
+  "num_followers": 284299,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTEzMzE4NjllNTM4MzFmODQxYmUyOGMzNjc0NTRlNTBhZGNlZWMy",
+  "snapshot_id": "MCw2NjI4MWU3ZjIzMWQzOWEwZDRmOTI5M2VmZTliYzc5OGViYTQ0ZjU1",
   "tracks": [
     {
       "added_at": "2024-01-12 16:37:44",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
-        "name": "quise quererte",
-        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "quise quererte",
-      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
         "name": "fuimos amigos",
         "url": "https://open.spotify.com/album/0BUtNIpF14nZatEGITDsXr"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 168750,
       "name": "fuimos amigos",
       "url": "https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
+        "name": "quise quererte",
+        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "quise quererte",
+      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 167485,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
         "name": "En Privado ft. Ovy On The Drums - Spotify Singles",
         "url": "https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 139260,
       "name": "En Privado ft. Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 167485,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 157375,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
         "name": "Combustible",
         "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 157375,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
         "name": "Tu Canci\u00f3n",
         "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 191008,
       "name": "Tu Canci\u00f3n",
       "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
-        "name": "Rosita Sakura",
-        "url": "https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 148073,
-      "name": "Rosita Sakura",
-      "url": "https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -811,6 +795,22 @@
       "duration_ms": 167920,
       "name": "Que Alguien Me Saque De Este Mood",
       "url": "https://open.spotify.com/track/51CEK6LaFSbCyGjliYPNBd"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
+        "name": "Rosita Sakura",
+        "url": "https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 148073,
+      "name": "Rosita Sakura",
+      "url": "https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
+        "name": "MAGIA NEGRA",
+        "url": "https://open.spotify.com/album/4XnM8cvuYpAjfR3bXwoXEc"
+      },
+      "artists": [
+        {
+          "name": "Le Coco",
+          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+        }
+      ],
+      "duration_ms": 214349,
+      "name": "MAGIA NEGRA",
+      "url": "https://open.spotify.com/track/1E71uY1krMSN6fyX7zOt2L"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
         "name": "running water",
         "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
       },
@@ -935,18 +951,34 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
-        "name": "MAGIA NEGRA",
-        "url": "https://open.spotify.com/album/4XnM8cvuYpAjfR3bXwoXEc"
+        "name": "Que Chimbo",
+        "url": "https://open.spotify.com/album/3F5sgJGuvlRmuaV7YQnsvX"
       },
       "artists": [
         {
-          "name": "Le Coco",
-          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
         }
       ],
-      "duration_ms": 214349,
-      "name": "MAGIA NEGRA",
-      "url": "https://open.spotify.com/track/1E71uY1krMSN6fyX7zOt2L"
+      "duration_ms": 136761,
+      "name": "Que Chimbo",
+      "url": "https://open.spotify.com/track/3NtJcM9WHnxLlD0stGJmmm"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -1003,22 +1035,6 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
-        "name": "Que Chimbo",
-        "url": "https://open.spotify.com/album/3F5sgJGuvlRmuaV7YQnsvX"
-      },
-      "artists": [
-        {
-          "name": "Carmen DeLeon",
-          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
-        }
-      ],
-      "duration_ms": 136761,
-      "name": "Que Chimbo",
-      "url": "https://open.spotify.com/track/3NtJcM9WHnxLlD0stGJmmm"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
         "name": "Fase de Pat\u00e1n",
         "url": "https://open.spotify.com/album/1sD67oWrgWt8HTZFDObkbW"
       },
@@ -1031,38 +1047,6 @@
       "duration_ms": 144955,
       "name": "Fase De Pat\u00e1n",
       "url": "https://open.spotify.com/track/6zcJSq4x31DHjwIWUzGyjs"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
-        "name": "remolino",
-        "url": "https://open.spotify.com/album/5IjZiLDCW81IgyMelsIvEJ"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 129104,
-      "name": "remolino",
-      "url": "https://open.spotify.com/track/62rB5prwqc1oA6NAMzofWW"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -1087,6 +1071,22 @@
       "duration_ms": 158974,
       "name": "TBT",
       "url": "https://open.spotify.com/track/213uZJMRoRXXthd2xBYW4D"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
+        "name": "remolino",
+        "url": "https://open.spotify.com/album/5IjZiLDCW81IgyMelsIvEJ"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 129104,
+      "name": "remolino",
+      "url": "https://open.spotify.com/track/62rB5prwqc1oA6NAMzofWW"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
-        "name": "Despreocupada",
-        "url": "https://open.spotify.com/album/2QNRUKcpeSaji2VqeegtK6"
-      },
-      "artists": [
-        {
-          "name": "Adri Torron",
-          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
-        }
-      ],
-      "duration_ms": 166890,
-      "name": "Despreocupada",
-      "url": "https://open.spotify.com/track/7CzLquUWwgZwhUffzKhbZp"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
         "name": "Reloj",
         "url": "https://open.spotify.com/album/5z8AwFMABjNes5hfKhvrea"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 142211,
       "name": "Reloj",
       "url": "https://open.spotify.com/track/6ernDdQLWWFD8aiABjLCqC"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
+        "name": "Despreocupada",
+        "url": "https://open.spotify.com/album/2QNRUKcpeSaji2VqeegtK6"
+      },
+      "artists": [
+        {
+          "name": "Adri Torron",
+          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
+        }
+      ],
+      "duration_ms": 166890,
+      "name": "Despreocupada",
+      "url": "https://open.spotify.com/track/7CzLquUWwgZwhUffzKhbZp"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
-        "name": "NIVELES",
-        "url": "https://open.spotify.com/album/2gZIvBkigrIvxaRF67Bfll"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 137033,
-      "name": "nunca me dijeron que los 18",
-      "url": "https://open.spotify.com/track/5NUFORQRNwMLpGInKedvrY"
-    },
-    {
-      "added_at": "2024-01-12 16:37:44",
-      "album": {
         "name": "Apocal\u00edptico",
         "url": "https://open.spotify.com/album/0kFnFOhodIwr3UY0f2JQXn"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2024-01-12 16:37:44",
       "album": {
-        "name": "Segunda Parte",
-        "url": "https://open.spotify.com/album/2HnRMOIJIokubg4BJHVdLQ"
+        "name": "NIVELES",
+        "url": "https://open.spotify.com/album/2gZIvBkigrIvxaRF67Bfll"
       },
       "artists": [
         {
-          "name": "Adri Torron",
-          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
         }
       ],
-      "duration_ms": 176489,
-      "name": "Segunda Parte",
-      "url": "https://open.spotify.com/track/116yQ8HR9Azrlf5ZxMXgNU"
+      "duration_ms": 137033,
+      "name": "nunca me dijeron que los 18",
+      "url": "https://open.spotify.com/track/5NUFORQRNwMLpGInKedvrY"
     },
     {
       "added_at": "2024-01-12 16:37:44",
@@ -1319,6 +1303,22 @@
       "duration_ms": 186799,
       "name": "Espero Que Bailemos",
       "url": "https://open.spotify.com/track/5jgLBPZ6iBR0oKsbnzKSlh"
+    },
+    {
+      "added_at": "2024-01-12 16:37:44",
+      "album": {
+        "name": "Mancora",
+        "url": "https://open.spotify.com/album/13MCrijZ1paCPm9wrFPvil"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "duration_ms": 126013,
+      "name": "Mancora",
+      "url": "https://open.spotify.com/track/7096gyexnvsXEwe0m2TYfv"
     }
   ],
   "unique_name": "el nuevo pop",

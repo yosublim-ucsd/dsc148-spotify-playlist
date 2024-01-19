@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zamdane",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "ELEMENT",
+        "url": "https://open.spotify.com/album/53izZ5ctHfOq87JPDKglhj"
+      },
+      "artists": [
+        {
+          "name": "zaky",
+          "url": "https://open.spotify.com/artist/1OGnylVl0ivlAICNOVaJQp"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140207,
+      "name": "ELEMENT",
+      "url": "https://open.spotify.com/track/6e82ytBlz3s2RRnPzXgg9D"
+    },
+    {
+      "album": {
         "name": "En bas",
         "url": "https://open.spotify.com/album/1M69vczIjdtS7r5ffXe0eo"
       },
@@ -2924,7 +2942,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 114857,
       "name": "kerosene",
       "url": "https://open.spotify.com/track/1DU4iqHjKYdPt4iXo1vAsp"
@@ -4331,6 +4349,24 @@
     },
     {
       "album": {
+        "name": "PARLE EN WSH",
+        "url": "https://open.spotify.com/album/50bmjYU7Z5BlZiZxvYXbzE"
+      },
+      "artists": [
+        {
+          "name": "Chat noir",
+          "url": "https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "PARLE EN WSH",
+      "url": "https://open.spotify.com/track/2lP7XUYGrfDGkeweHioos5"
+    },
+    {
+      "album": {
         "name": "PAS DE CE MONDE",
         "url": "https://open.spotify.com/album/3oYNnQnjfucofFcjlPoNJL"
       },
@@ -4440,7 +4476,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 216320,
       "name": "PERDU SANS TOI",
       "url": "https://open.spotify.com/track/5Aeb85aDLZH4DuMGnMikAZ"

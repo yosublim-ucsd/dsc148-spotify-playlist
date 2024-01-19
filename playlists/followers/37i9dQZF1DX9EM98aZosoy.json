@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 1288531,
+  "2024-01-19": 1288501,
   "date_first_scraped": "2022-10-23",
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
   "name": "Partyhymnen",
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
@@ -2365,7 +2365,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 155070,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"

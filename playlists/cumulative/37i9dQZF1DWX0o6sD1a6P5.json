@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Tems",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: KeBlack",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1333,6 +1333,28 @@
     },
     {
       "album": {
+        "name": "Biso Mibale (feat. Jungeli)",
+        "url": "https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Biso Mibale (feat. Jungeli)",
+      "url": "https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN"
+    },
+    {
+      "album": {
         "name": "Black Friday (Beat Sapa)",
         "url": "https://open.spotify.com/album/5cZwT1m2RL9CewQiISO0Y4"
       },
@@ -1508,7 +1530,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 166857,
       "name": "Bolingo",
       "url": "https://open.spotify.com/track/0EQalbiaFBkvRitIsgCvUb"
@@ -2568,6 +2590,44 @@
       "duration_ms": 176134,
       "name": "Cough (Odo)",
       "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
+    },
+    {
+      "album": {
+        "name": "Coup du marteau",
+        "url": "https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3"
+      },
+      "artists": [
+        {
+          "name": "Tam Sir",
+          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
+        },
+        {
+          "name": "Team Paiya",
+          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
+        },
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        },
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        },
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        },
+        {
+          "name": "PSK",
+          "url": "https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174589,
+      "name": "Coup du marteau",
+      "url": "https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo"
     },
     {
       "album": {
@@ -5169,6 +5229,24 @@
     },
     {
       "album": {
+        "name": "Jalouse",
+        "url": "https://open.spotify.com/album/3d4ONFiZsEZfGPfvWz2OM9"
+      },
+      "artists": [
+        {
+          "name": "Lala &ce",
+          "url": "https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193053,
+      "name": "Jalouse",
+      "url": "https://open.spotify.com/track/1eTc0w4sRlkV0qz9hkbqMj"
+    },
+    {
+      "album": {
         "name": "Jejely",
         "url": "https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO"
       },
@@ -6324,7 +6402,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 180040,
       "name": "Mama",
       "url": "https://open.spotify.com/track/0hoJWbyZNiZlXiJowTn5Q6"
@@ -6572,7 +6650,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
@@ -8420,7 +8498,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 122226,
       "name": "Plus de tristesse",
       "url": "https://open.spotify.com/track/75eaJqRWCc3YbdoIjxf51Q"
@@ -8711,6 +8789,24 @@
     },
     {
       "album": {
+        "name": "Rien \u00e0 dire",
+        "url": "https://open.spotify.com/album/2qncGONjvDtkZvx8k5SqCO"
+      },
+      "artists": [
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175410,
+      "name": "Rien \u00e0 dire",
+      "url": "https://open.spotify.com/track/01qwxKwItx2m5AzjvRYret"
+    },
+    {
+      "album": {
         "name": "Roll On Me",
         "url": "https://open.spotify.com/album/6ssSTfQhXX5lDGanUJkOvJ"
       },
@@ -8990,6 +9086,24 @@
       "duration_ms": 174188,
       "name": "Sans moi",
       "url": "https://open.spotify.com/track/3kYTLEQwQx0oWu9Ws4uckJ"
+    },
+    {
+      "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/5JvQ1VFavvn8Qj0NWnFveB"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155523,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/2OujnEePhdoXKYSnsza4Rp"
     },
     {
       "album": {
@@ -10850,7 +10964,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 150711,
       "name": "Vanille",
       "url": "https://open.spotify.com/track/2Zk7jIl5qHuQAR6xVvzi3P"

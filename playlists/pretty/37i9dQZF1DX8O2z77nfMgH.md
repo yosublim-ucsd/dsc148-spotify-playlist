@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Bizarrap y Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,081 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,078 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [SOMBRA](https://open.spotify.com/track/47AmsMT0o7UBlait7GmBQK) | [Brokibv](https://open.spotify.com/artist/2YV25v4a4kuPopCncqhoNE), [Young Darhi](https://open.spotify.com/artist/4g6S2KmV5fUl1heIeqaLEc), [Ryodan](https://open.spotify.com/artist/50eOOeWq6PmtEKMxq4DAcO) | [SOMBRA](https://open.spotify.com/album/27bm3Fh26jfbD3fo6TLtxV) | 2:38 |
 | 50 | [La Luz](https://open.spotify.com/track/1atMva6VKNfdTC353iWU5B) | [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V), [Farock](https://open.spotify.com/artist/68ozuRzjeeZGbKPU9b1nb2), [Morel Under](https://open.spotify.com/artist/0LvZ8BqFFdEcyBZlq2Y0OR) | [La Luz](https://open.spotify.com/album/6978eIZDaVu8Q9OqPLws54) | 3:02 |
 
-Snapshot ID: `MCw4ZGUwNjlhODMwZmY3NjM0MWQ3Y2ZkYjgxZTVkN2YyMmMwOTM5N2E0`
+Snapshot ID: `MCw3MzJhMDgxOGY2MTMyYTAzNGFkMjg3ZGViMzg0NTQ2NjZkNTI1MDM5`

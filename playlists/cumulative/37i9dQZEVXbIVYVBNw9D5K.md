@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-832 songs - 1 day 17 hr 47 min
+833 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Kalbinde Birileri Var](https://open.spotify.com/track/2OzcQ5gL1VNcOe7FkmE2St) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn) | [Kalbinde Birileri Var](https://open.spotify.com/album/36shsPwwyEGag6nj0ScNIq) | 3:17 | 2021-03-27\* | 2021-03-27 |
 | [Kamikaze](https://open.spotify.com/track/6dRrjJArpVsVa1YuAeUB17) | [Ero](https://open.spotify.com/artist/1MeqFJRoXLAjOdqXlJaPwQ) | [Kamikaze](https://open.spotify.com/album/6NiDWovpOVcznZGe5FSAJu) | 2:05 | 2021-11-28 | 2021-11-28 |
 | [Kanunlar Gibi](https://open.spotify.com/track/6zWHTeyazeysU2rNJ49vmz) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Kanunlar Gibi](https://open.spotify.com/album/7EHDQV3xl8J8RMMQjHPgsX) | 2:55 | 2021-05-03 | 2021-09-30 |
+| [Kapak Olsun](https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Fredo](https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6) | [Kapak Olsun](https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B) | 2:27 | 2024-01-18 |  |
 | [Kara Tiyatro](https://open.spotify.com/track/4TDrU3j7uQtXzr8I6lh02P) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 2:56 | 2021-05-30 | 2021-06-05 |
 | [Karakol](https://open.spotify.com/track/6qrAFnjBZfEd4jbCaKpf5w) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Karakol](https://open.spotify.com/album/2qqFtHv6jxvqumZDDF9jfO) | 4:33 | 2022-07-02 | 2022-07-31 |
 | [Karanlık Dünyam](https://open.spotify.com/track/7wc7etrk3ZfCxSLfU9xrmy) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Karanlık Dünyam](https://open.spotify.com/album/6ExEtlFFomKILaMgihYeTU) | 3:28 | 2023-04-21 | 2023-04-23 |
@@ -477,7 +478,7 @@
 | [Küçük Bir Yol](https://open.spotify.com/track/6KybXlftuqmAxRI05yqDfk) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Küçük Bir Yol](https://open.spotify.com/album/7jaKipywn8miD34MQ6G946) | 4:40 | 2022-09-09 | 2022-09-24 |
 | [Kılıçdaroğlu](https://open.spotify.com/track/7Fcd576Wwi9R70D1xtHtm9) | [Onur Akın](https://open.spotify.com/artist/4CQctd09SRWjRoo3G7QBZf) | [Kılıçdaroğlu](https://open.spotify.com/album/2l6dmbCmOruZ5vnO3Bip9X) | 3:55 | 2023-05-15 | 2023-05-17 |
 | [Kısa Mesafe](https://open.spotify.com/track/4dnAQt79Fr4q7TVecSb1e7) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Kısa Mesafe](https://open.spotify.com/album/7pRxARASmabm3sMrD8k9Ib) | 2:27 | 2023-11-27 | 2023-12-02 |
-| [Kısa Mesafe](https://open.spotify.com/track/7AeN1Miu6Io3ewNUdBzhyy) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Kısa Mesafe](https://open.spotify.com/album/3cGFDjql98FAXNFzyiZBAb) | 2:27 | 2023-12-01 |  |
+| [Kısa Mesafe](https://open.spotify.com/track/7AeN1Miu6Io3ewNUdBzhyy) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Kısa Mesafe](https://open.spotify.com/album/3cGFDjql98FAXNFzyiZBAb) | 2:27 | 2023-12-01 | 2024-01-19 |
 | [LACIVERT](https://open.spotify.com/track/26h7iVBq3DSR9ex0BpT8GO) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [ECLIPSE \(Original Soundtrack\)](https://open.spotify.com/album/5LPrbOrlvZ8lnb2CMexS2e) | 3:55 | 2023-11-21 | 2023-11-24 |
 | [Lafı mı Olur](https://open.spotify.com/track/6UX8nGE5sT7FsUAgQILD6X) | [Kibariye](https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90) | [İşte Ses İşte Yorum](https://open.spotify.com/album/3J3TjBgZWHMEo9FeKrBwke) | 3:32 | 2023-09-25 | 2024-01-04 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-09-15 |

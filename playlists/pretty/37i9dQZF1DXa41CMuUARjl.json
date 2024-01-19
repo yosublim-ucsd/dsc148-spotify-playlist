@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Armin van Buuren",
-  "num_followers": 462889,
+  "num_followers": 463101,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGVkMWI2N2NhYTk5NjMyY2I4MDE5MDcyMTJkYzRlMDNhZTRjMWVj",
+  "snapshot_id": "MCxmOTNlYTkyMWI3NDg4OTQxNjRhNWVhODIxYWIxOGUxOTU5MjMwN2Yy",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Level Up! (w/ Odetari)",
-        "url": "https://open.spotify.com/album/6bNTJdQMxMqLo6NA7CVxXq"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        },
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 131477,
-      "name": "Level Up! (w/ Odetari)",
-      "url": "https://open.spotify.com/track/3K9zbczgk5tMsM6NNmkcB9"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Drums (Feat. Kim Petras) [Tiesto Remix]",
         "url": "https://open.spotify.com/album/44XmkCYKteYUBrSwe6Jvc2"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 172500,
       "name": "Drums (Feat. Kim Petras) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/5QZmUKPG3uPU0hwJuHwfGD"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Level Up! (w/ Odetari)",
+        "url": "https://open.spotify.com/album/6bNTJdQMxMqLo6NA7CVxXq"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 131477,
+      "name": "Level Up! (w/ Odetari)",
+      "url": "https://open.spotify.com/track/3K9zbczgk5tMsM6NNmkcB9"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "360 Yellow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1Fq6i9cUYSYZgP0pGzeWrB"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": ".EXA",
-          "url": "https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/1MCykbR6IJsiaXuZ1VTN6j"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/3yK260qrSv3GNsxtHYjsHd"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 157777,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/5DpNSz643RNngHsWSDllkZ"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "360 Yellow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1Fq6i9cUYSYZgP0pGzeWrB"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": ".EXA",
+          "url": "https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1MCykbR6IJsiaXuZ1VTN6j"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/2v0XkB32qCS3ZsPoBBK8ZF"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 253241,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/0DlNdprrhGx3tJ6UskY2Jm"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Veselka",
         "url": "https://open.spotify.com/album/3BzfE0CgiigdUfxxhT8oQo"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 259354,
       "name": "Veselka",
       "url": "https://open.spotify.com/track/56bI6pkkgmImlxUAAtvk8j"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/2v0XkB32qCS3ZsPoBBK8ZF"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 253241,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/0DlNdprrhGx3tJ6UskY2Jm"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1267,22 +1267,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "LVLSS",
-        "url": "https://open.spotify.com/album/3rpKx5mMN0ZaMpdzy80uOD"
+        "name": "Boys Choir",
+        "url": "https://open.spotify.com/album/5HEUho0Em2bvo50H4ONsZA"
       },
       "artists": [
         {
-          "name": "The FifthGuys",
-          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
-        },
-        {
-          "name": "Earl the Kid",
-          "url": "https://open.spotify.com/artist/2Yolo8WR5b7K4UYGNLT1CO"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
         }
       ],
-      "duration_ms": 152000,
-      "name": "LVLSS",
-      "url": "https://open.spotify.com/track/6vJShVriRfFvY7nSCC0QnE"
+      "duration_ms": 248275,
+      "name": "Boys Choir",
+      "url": "https://open.spotify.com/track/4juwtI8VB83lvY4Qh4MTmD"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1311,6 +1307,26 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "LVLSS",
+        "url": "https://open.spotify.com/album/3rpKx5mMN0ZaMpdzy80uOD"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "Earl the Kid",
+          "url": "https://open.spotify.com/artist/2Yolo8WR5b7K4UYGNLT1CO"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "LVLSS",
+      "url": "https://open.spotify.com/track/6vJShVriRfFvY7nSCC0QnE"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Feel Ur Touch",
         "url": "https://open.spotify.com/album/7pfd5jFr6TMpb9x7U04eAs"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 201379,
       "name": "Feel Ur Touch",
       "url": "https://open.spotify.com/track/6Ic1geNctwh66xumQ3qyyw"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Boys Choir",
-        "url": "https://open.spotify.com/album/5HEUho0Em2bvo50H4ONsZA"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        }
-      ],
-      "duration_ms": 248275,
-      "name": "Boys Choir",
-      "url": "https://open.spotify.com/track/4juwtI8VB83lvY4Qh4MTmD"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "All Again",
-        "url": "https://open.spotify.com/album/4En2WlLfGumuYwiqY6jJEG"
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/3ur679GWTurfM15mGVN0AT"
       },
       "artists": [
         {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
         }
       ],
-      "duration_ms": 157859,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/1EHT4y5kyE0goaTmSEdEqW"
+      "duration_ms": 178983,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/0JV02u17TnRXWDFIgriiPk"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1531,26 +1535,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/3ur679GWTurfM15mGVN0AT"
-      },
-      "artists": [
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        },
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/0JV02u17TnRXWDFIgriiPk"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "To The Beat",
         "url": "https://open.spotify.com/album/2ytVZwLicJi3ZudO9FYPYJ"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Stray",
-        "url": "https://open.spotify.com/album/2Gm5E7Ls5YfWrXvqJX2qqt"
+        "name": "All Again",
+        "url": "https://open.spotify.com/album/4En2WlLfGumuYwiqY6jJEG"
       },
       "artists": [
         {
-          "name": "Fatima Yamaha",
-          "url": "https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP"
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
         }
       ],
-      "duration_ms": 196249,
-      "name": "Stray",
-      "url": "https://open.spotify.com/track/0c7Ug09TZk8DunwW92ovBf"
+      "duration_ms": 157859,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/1EHT4y5kyE0goaTmSEdEqW"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1599,6 +1583,22 @@
       "duration_ms": 135000,
       "name": "Honest",
       "url": "https://open.spotify.com/track/0oTNlCTyhIqa3my7tOPPeG"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Stray",
+        "url": "https://open.spotify.com/album/2Gm5E7Ls5YfWrXvqJX2qqt"
+      },
+      "artists": [
+        {
+          "name": "Fatima Yamaha",
+          "url": "https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP"
+        }
+      ],
+      "duration_ms": 196249,
+      "name": "Stray",
+      "url": "https://open.spotify.com/track/0c7Ug09TZk8DunwW92ovBf"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Love In Slow Motion",
+        "url": "https://open.spotify.com/album/6fMs4ONtllAwdE0idUdziN"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        },
+        {
+          "name": "Kuala",
+          "url": "https://open.spotify.com/artist/2uMnogCIZC4nsRgavacAkv"
+        }
+      ],
+      "duration_ms": 304390,
+      "name": "Love In Slow Motion",
+      "url": "https://open.spotify.com/track/3bgJRHFcN4sqnusArhLzOB"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Miroir Miroir (Romain Garcia & Qrion Mixes)",
         "url": "https://open.spotify.com/album/4ITkRnfS31YuP5s6zixkNs"
       },
@@ -1727,26 +1747,6 @@
       "duration_ms": 209286,
       "name": "Miroir Miroir - Romain Garcia Remix",
       "url": "https://open.spotify.com/track/27Bi7tiQKHPxPkStLn2fHW"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Love In Slow Motion",
-        "url": "https://open.spotify.com/album/6fMs4ONtllAwdE0idUdziN"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        },
-        {
-          "name": "Kuala",
-          "url": "https://open.spotify.com/artist/2uMnogCIZC4nsRgavacAkv"
-        }
-      ],
-      "duration_ms": 304390,
-      "name": "Love In Slow Motion",
-      "url": "https://open.spotify.com/track/3bgJRHFcN4sqnusArhLzOB"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Signs (feat. Lyves)",
-        "url": "https://open.spotify.com/album/3vM9iwZzu6KDP4FuqJvYi9"
-      },
-      "artists": [
-        {
-          "name": "Joseph Ashworth",
-          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
-        },
-        {
-          "name": "Lyves",
-          "url": "https://open.spotify.com/artist/0q31MBlCXGIFG6gl11Yn0t"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Signs (feat. Lyves)",
-      "url": "https://open.spotify.com/track/2yUsuKcIzHLyfQGcIJh5W5"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Exito",
         "url": "https://open.spotify.com/album/3jhWi7kPjPhEcw8hUUIQrO"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 196807,
       "name": "Exito",
       "url": "https://open.spotify.com/track/2nqh8IbTzBbuf8aCwhElzX"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Signs (feat. Lyves)",
+        "url": "https://open.spotify.com/album/3vM9iwZzu6KDP4FuqJvYi9"
+      },
+      "artists": [
+        {
+          "name": "Joseph Ashworth",
+          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
+        },
+        {
+          "name": "Lyves",
+          "url": "https://open.spotify.com/artist/0q31MBlCXGIFG6gl11Yn0t"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Signs (feat. Lyves)",
+      "url": "https://open.spotify.com/track/2yUsuKcIzHLyfQGcIJh5W5"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1915,22 +1915,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/3s3qhfCunzgV7Yn0sTgIXf"
+        "name": "Vai",
+        "url": "https://open.spotify.com/album/55GL804NtPvwUfv2FRd0R0"
       },
       "artists": [
         {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        },
-        {
-          "name": "Myke Tyler",
-          "url": "https://open.spotify.com/artist/4FybMvfAgoSF54VXnrZjLO"
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/0b0G3a7FIe4DoRSbXdwBX2"
+      "duration_ms": 183858,
+      "name": "Vai",
+      "url": "https://open.spotify.com/track/4SMArjoMXS9Gd6j8zl7ime"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1951,6 +1947,26 @@
       "duration_ms": 230520,
       "name": "Above The Clouds",
       "url": "https://open.spotify.com/track/51rl1nHgFFIJ8aV37Int48"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/3s3qhfCunzgV7Yn0sTgIXf"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Myke Tyler",
+          "url": "https://open.spotify.com/artist/4FybMvfAgoSF54VXnrZjLO"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/0b0G3a7FIe4DoRSbXdwBX2"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1987,22 +2003,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Vai",
-        "url": "https://open.spotify.com/album/55GL804NtPvwUfv2FRd0R0"
-      },
-      "artists": [
-        {
-          "name": "Jack Orley",
-          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
-        }
-      ],
-      "duration_ms": 183858,
-      "name": "Vai",
-      "url": "https://open.spotify.com/track/4SMArjoMXS9Gd6j8zl7ime"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Scream",
         "url": "https://open.spotify.com/album/593M60NphvqlGMYKKoqxXP"
       },
@@ -2015,6 +2015,22 @@
       "duration_ms": 196279,
       "name": "Scream",
       "url": "https://open.spotify.com/track/79mhkDmXVF8HXnBJIcy9GD"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Orange Soda",
+        "url": "https://open.spotify.com/album/4Xs1ZoQaUlvpbcQ0r5aw60"
+      },
+      "artists": [
+        {
+          "name": "Galo",
+          "url": "https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L"
+        }
+      ],
+      "duration_ms": 226976,
+      "name": "Orange Soda",
+      "url": "https://open.spotify.com/track/7KVcbULu13Gsweu8vVW44F"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2039,22 +2055,6 @@
       "duration_ms": 296585,
       "name": "Gora",
       "url": "https://open.spotify.com/track/1INUc17MRtj4fZxv3DQfuB"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Orange Soda",
-        "url": "https://open.spotify.com/album/4Xs1ZoQaUlvpbcQ0r5aw60"
-      },
-      "artists": [
-        {
-          "name": "Galo",
-          "url": "https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L"
-        }
-      ],
-      "duration_ms": 226976,
-      "name": "Orange Soda",
-      "url": "https://open.spotify.com/track/7KVcbULu13Gsweu8vVW44F"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Cryin' While Winnin'",
-        "url": "https://open.spotify.com/album/5cPbZsjkwVnWFWqacgbdeJ"
-      },
-      "artists": [
-        {
-          "name": "D\u0101M-FunK",
-          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
-        }
-      ],
-      "duration_ms": 169983,
-      "name": "Cryin' While Winnin'",
-      "url": "https://open.spotify.com/track/3qUSIlaLdPceiwRGpCXOJ9"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Twilight Zone",
         "url": "https://open.spotify.com/album/5G86W6uw8DdMsJLXJnUbhb"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 124165,
       "name": "Twilight Zone",
       "url": "https://open.spotify.com/track/7IBeRHao589cOrs8AbY0hC"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Cryin' While Winnin'",
+        "url": "https://open.spotify.com/album/5cPbZsjkwVnWFWqacgbdeJ"
+      },
+      "artists": [
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ],
+      "duration_ms": 169983,
+      "name": "Cryin' While Winnin'",
+      "url": "https://open.spotify.com/track/3qUSIlaLdPceiwRGpCXOJ9"
     },
     {
       "added_at": "2024-01-12 05:00:00",

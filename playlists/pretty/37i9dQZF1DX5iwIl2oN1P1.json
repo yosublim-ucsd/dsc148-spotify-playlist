@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 98639,
+  "num_followers": 98714,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzY3Njk0YmZhYjcyZjE4N2MxMzE4YTgzYWVhODU3N2ZjMzQyYjlm",
+  "snapshot_id": "MCw4NjhmNjliODEwNTNhMDE2YjBmNTk2OTdlMzM3ODlmNWFiOWY0MDEy",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -383,6 +383,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "Your Great Name",
+        "url": "https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 384466,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Anthony Brown & group therAPy",
         "url": "https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 257093,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "Your Great Name",
-        "url": "https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 384466,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -979,22 +979,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "I'm All In",
-        "url": "https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK"
-      },
-      "artists": [
-        {
-          "name": "Maranda Curtis",
-          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
-        }
-      ],
-      "duration_ms": 203911,
-      "name": "I'm All In",
-      "url": "https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Blessings on Blessings",
         "url": "https://open.spotify.com/album/5v2XFpXgYPT7lC9mZf1x9R"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 295063,
       "name": "Blessings on Blessings",
       "url": "https://open.spotify.com/track/3VBq4uuOxikF23PWXPCuGu"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "I'm All In",
+        "url": "https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK"
+      },
+      "artists": [
+        {
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+        }
+      ],
+      "duration_ms": 203911,
+      "name": "I'm All In",
+      "url": "https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn"
     }
   ],
   "unique_name": "Sundays Best",

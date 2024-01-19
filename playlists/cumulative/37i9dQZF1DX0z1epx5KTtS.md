@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
+> African dance party music from Paris to Abidjan\. Photo : Tam Sir
 
-169 songs - 9 hr 47 min
+170 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Allez Dire](https://open.spotify.com/track/1zxQQU3fRRPnpVKM8bd1cf) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Allez Dire](https://open.spotify.com/album/3Z9MaFaOQTvNmwK0PGrsve) | 3:31 | 2022-10-27 | 2023-05-19 |
 | [Alloco 2 Oeufs](https://open.spotify.com/track/74qcVTGMuaLJUHYwPlyyyD) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j), [Mr Key](https://open.spotify.com/artist/0hqEh6jBZkLJKgUHvb5tRS) | [Alloco 2 Oeufs](https://open.spotify.com/album/1UiTBXnzG2bIIm0MDn3Dfd) | 2:41 | 2022-10-27 | 2022-11-18 |
 | [Allumez](https://open.spotify.com/track/4b8vP4Nxy9RQF8ESYAtpyb) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Allumez](https://open.spotify.com/album/1Svwz2URG49O0mj9XsrhVN) | 4:55 | 2023-07-06 | 2023-12-15 |
+| [Ambiance](https://open.spotify.com/track/74EJEB08idbiA53t61V9pU) | [TEAM DÉCALÉ](https://open.spotify.com/artist/4qym3w1SpxIMrorfAp5Os3) | [Ambiance](https://open.spotify.com/album/5g34hzac6FbJM8VehF7dtj) | 3:02 | 2024-01-18 |  |
 | [Ambiance Mopacho](https://open.spotify.com/track/2M4f4coh903vjprofqQcrW) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Ambiance Mopacho](https://open.spotify.com/album/5QgIL8XeuoJgyqUeXEx1g6) | 4:15 | 2023-01-12 |  |
 | [Amour multiprise](https://open.spotify.com/track/4HMcdmSSqmFFKqmASxVjaz) | [Josée Delatour](https://open.spotify.com/artist/3o16PJgfLAo9FSDVyp1p0J) | [Amour multiprise](https://open.spotify.com/album/34l6OhPm91L7kZgJUql3d9) | 2:56 | 2023-05-18 | 2023-09-29 |
 | [Arc de triomphe](https://open.spotify.com/track/4aV2PjsVYk9LH2c9VglQaY) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [PUISSANCE 10](https://open.spotify.com/album/1QOOo89CPbMG2BDIlpVNSg) | 3:25 | 2024-01-04 |  |
@@ -77,7 +78,7 @@
 | [Galoper](https://open.spotify.com/track/20ai8KKeDZt0U0vQpclRI4) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Galoper](https://open.spotify.com/album/6R4VDE6rOcWJX0H0QVUfJR) | 3:21 | 2023-11-23 | 2024-01-12 |
 | [Gbêssê](https://open.spotify.com/track/4HnSuaffFKg2FveLpOubAr) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Gbêssê](https://open.spotify.com/album/60ZH03fBOxrVsHuP5VTdee) | 3:16 | 2021-12-20 | 2023-04-28 |
 | [Gnamakoro Kakoh](https://open.spotify.com/track/5tpJQotwRNHhSbiEHYOZeO) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Gnamakoro Kakoh](https://open.spotify.com/album/1w6s8QQC0VQNV4af7uCYJD) | 2:51 | 2023-05-04 | 2023-06-30 |
-| [Gnonmi Avec Lait \- Remix](https://open.spotify.com/track/3QnS0A9QgUik2KThVN0TQf) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL), [Magic Diezel](https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa) | [Gnonmi Avec Lait \(Remix\)](https://open.spotify.com/album/2ddu9tzfA9yX18TXIbahkx) | 3:51 | 2023-10-19 |  |
+| [Gnonmi Avec Lait \- Remix](https://open.spotify.com/track/3QnS0A9QgUik2KThVN0TQf) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL), [Magic Diezel](https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa) | [Gnonmi Avec Lait \(Remix\)](https://open.spotify.com/album/2ddu9tzfA9yX18TXIbahkx) | 3:51 | 2023-10-19 | 2024-01-19 |
 | [Godo Godo](https://open.spotify.com/track/1o7k5eUEA0m6Q7H0A1tvyU) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Godo Godo](https://open.spotify.com/album/7gdUmmaUUZLYvD9KaLnSaV) | 2:39 | 2022-02-18 | 2022-12-25 |
 | [Godokou](https://open.spotify.com/track/6gvANR4MUDjSjETEXRfO08) | [Apoutchou National](https://open.spotify.com/artist/7kHgJvT9eOCLwXr4xPIRnC), [Les Patrons](https://open.spotify.com/artist/1nsZMNRP1vmtIat8hD4bHg) | [Godokou](https://open.spotify.com/album/2tJsVMOI29MOKatOUJqMET) | 3:50 | 2022-12-01 | 2023-01-27 |
 | [Godomoué](https://open.spotify.com/track/4TG0I43Yci9DupAyFBUN1h) | [JN LE BOSS](https://open.spotify.com/artist/39lBGgf33GpI6pQ9DoqGBs), [Yanik Jones](https://open.spotify.com/artist/22f7okXAJWbCs8NJpHv6iG) | [Godomoué](https://open.spotify.com/album/5bFmQ5N0A6zLei6LWp330Y) | 2:48 | 2021-12-20 | 2022-05-21 |

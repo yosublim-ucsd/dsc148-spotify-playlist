@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:0sWeunTzY69e7TCkUflZQm">World Worship</a> y <a href="spotify:artist:6toUclayfnCvKyLtLSmyqb">Grupo Grace</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,788 likes - 99 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,812 likes - 99 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [El Fuego](https://open.spotify.com/track/4NiYr4nltt63hrpaEuhOos) | [DUViMEL](https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF), [VINS](https://open.spotify.com/artist/6YIOc3DMdsA2dIl7eOfRi2) | [El Fuego](https://open.spotify.com/album/6laNheJ2USDLX3Kioey5Oj) | 3:36 |
 | 99 | [No Hay Condena](https://open.spotify.com/track/3xAG3CzVgvTRQi0NyIbWo1) | [La Feria Oficial](https://open.spotify.com/artist/2SJpjUs975HmjZrjVRTSAh) | [No Hay Condena](https://open.spotify.com/album/6NRXUr3ZyaLBwovlpbZAf7) | 4:11 |
 
-Snapshot ID: `MCxlN2E2YWI3NTA2YmRjMjY3ZTM2OGQyNWVmY2ZmOTZkYTQ2ODU4M2Jl`
+Snapshot ID: `MCxmZjFiYWQ3Njc2NThjZDc0M2RlMzI1YTUxNzQxZDc4OTJiNGI3YzI0`

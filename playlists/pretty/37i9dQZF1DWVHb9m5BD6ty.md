@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,292 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,294 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Queenish](https://open.spotify.com/track/0kPZoWuMLkHAZv1k3fxk5a) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/4hk6LBPYaFiOxSdKA56XSE) | 2:27 |
 | 2 | [Chaila](https://open.spotify.com/track/32dmwS4I5d2QIQveVtWf8D) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [GO Bravely](https://open.spotify.com/album/3F5NOIN8QC02Sd2XEYFrvk) | 3:11 |
 | 3 | [Smile](https://open.spotify.com/track/7EoqyiXqNAiRhEsLiLjncu) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Smile](https://open.spotify.com/album/4JPObqnN2a7k5k5ICQz23E) | 2:55 |
-| 4 | [Sharingan](https://open.spotify.com/track/02PiY2BULGonBXUEcTjbpz) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Hokage: Pt\. 1](https://open.spotify.com/album/0qMfP6jLQQtZvuy4f1q0UR) | 3:03 |
+| 4 | [Sharingan](https://open.spotify.com/track/7FTPrKmohZPchzkNuilZhs) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Sharingan](https://open.spotify.com/album/7ElFV9toYFJq1T2VSBaxY9) | 3:03 |
 | 5 | [Long Nights](https://open.spotify.com/track/6k15T8waur3Db6AaSb9vIm) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Long Nights](https://open.spotify.com/album/5BdQqKTrDCml1FbVql9YWm) | 3:18 |
 | 6 | [Where You Are](https://open.spotify.com/track/1wkmKVGBLk4A1jblaKVQ3h) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Where You Are](https://open.spotify.com/album/3bv9unehQKvqOAChCAZcoD) | 3:37 |
 | 7 | [N17](https://open.spotify.com/track/39mt4BMqhMZ81iKXfsF58V) | [Tolü Makay](https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG), [RTE Concert Orchestra](https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk) | [N17](https://open.spotify.com/album/5vUdLwC1QrFldBnBfXxG1T) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 49 | [Tiger Woods](https://open.spotify.com/track/3TP4es7Z8PL11XHNExj0aB) | [Av9](https://open.spotify.com/artist/1jIj0KgtAmcGbI8aPILxej), [Chuks](https://open.spotify.com/artist/7aQgFbV1G32PxN1IunF4Hw), [Rose9](https://open.spotify.com/artist/2YnLovVFq1yb1i04StOpei) | [Tiger Woods](https://open.spotify.com/album/3kWPB2Q3oYywGaqW018mCB) | 3:51 |
 | 50 | [061](https://open.spotify.com/track/07zGUsX4t6zF4VQfa9hHDi) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [061](https://open.spotify.com/album/5W3aa9ngdHTngZTE6f5hzw) | 3:14 |
 
-Snapshot ID: `MCw0YjA4NjgxNDEwMzMwMjk5YTk4ZTIxNWYwYzU3MmM3NDRjYTUyYTY2`
+Snapshot ID: `MCw3OTdmYTM2MzEwNjg2NWUyNTRhZTgzZTI4YmUwM2FlZDg0NTgyZjg5`

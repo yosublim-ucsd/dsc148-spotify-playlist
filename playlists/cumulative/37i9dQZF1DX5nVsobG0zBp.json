@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 203090,
       "name": "41",
       "url": "https://open.spotify.com/track/1kg0eQ4RkEzdQTICEDthS0"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 194782,
       "name": "CHRISTIAN DIOR",
       "url": "https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN"
@@ -1761,6 +1761,28 @@
     },
     {
       "album": {
+        "name": "HOLLA",
+        "url": "https://open.spotify.com/album/0DnjcWh4Vlo6TWwOZczEdT"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136833,
+      "name": "HOLLA",
+      "url": "https://open.spotify.com/track/7gwqLu2RCqHdXEVtGYAwbA"
+    },
+    {
+      "album": {
         "name": "Hospedeira",
         "url": "https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm"
       },
@@ -2282,6 +2304,24 @@
       "duration_ms": 203270,
       "name": "Marcas De Bikini",
       "url": "https://open.spotify.com/track/6lk0wakzghDJLnlQVK9qD3"
+    },
+    {
+      "album": {
+        "name": "Ma\u00e7\u00e3",
+        "url": "https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Ma\u00e7\u00e3",
+      "url": "https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-269 songs - 13 hr 27 min
+272 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,10 +12,11 @@
 | [A Sky Full of Stars](https://open.spotify.com/track/5RMXMzhvM7gptBbxwYrQaH) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [A Sky Full of Stars](https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1) | 2:36 | 2022-12-23 | 2023-06-03 |
 | [A Whiter Shade Of Pale](https://open.spotify.com/track/5yP7t22KYynhr1sDloEb7P) | [Martin Tallstrom](https://open.spotify.com/artist/3oefnUOV5aATC6Nlfm34w5) | [Acoustics](https://open.spotify.com/album/1Xw78nkG80UrAndJn2jWrE) | 4:24 | 2022-05-20 |  |
 | [Africa](https://open.spotify.com/track/4uMvGP2jcSXLPvNZf5umsU) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Africa](https://open.spotify.com/album/0dbFSSNCY13oNajXMZARfj) | 2:23 | 2022-09-30 | 2023-02-24 |
+| [After the Love Has Gone](https://open.spotify.com/track/6u19p8qAQY2ECIDl18MSei) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [After the Love Has Gone](https://open.spotify.com/album/7rJrw7UXIWchJrP99yc8zJ) | 3:34 | 2024-01-19 |  |
 | [Against All Odds](https://open.spotify.com/track/3miBYmuGu0jr8RE6TDdHzU) | [Larry Eagler](https://open.spotify.com/artist/6BAFOyxrRfvSvjpcNxp3rs) | [Against All Odds](https://open.spotify.com/album/5btDlYUcNUsNcrW8FnFqrm) | 2:57 | 2023-06-08 |  |
 | [All of Me](https://open.spotify.com/track/7zASRqnZYlkU7hSTFGoACA) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [2](https://open.spotify.com/album/3coti4dPLbCMnZJJE2SrvV) | 4:14 | 2022-05-20 | 2022-10-01 |
 | [All of Me](https://open.spotify.com/track/56ICwlcXIKFoLg2CzbKwKF) | [Lasse Ivonen](https://open.spotify.com/artist/4FLrO7HeEPdqMGIzKZwl5f) | [All of Me](https://open.spotify.com/album/29a3wLZ2Wl1YH4uWKcjtw5) | 3:01 | 2022-05-20 | 2022-12-24 |
-| [All of me](https://open.spotify.com/track/1YqEANBV7eYCAOooDgZgyu) | [Skyler Hunt](https://open.spotify.com/artist/0VkRky5og1A8kwViWuyeOl) | [All of me](https://open.spotify.com/album/3YHjGSpj2bzB7256PhRlN1) | 2:12 | 2022-09-30 |  |
+| [All of me](https://open.spotify.com/track/1YqEANBV7eYCAOooDgZgyu) | [Skyler Hunt](https://open.spotify.com/artist/0VkRky5og1A8kwViWuyeOl) | [All of me](https://open.spotify.com/album/3YHjGSpj2bzB7256PhRlN1) | 2:12 | 2022-09-30 | 2024-01-19 |
 | [Always On My Mind](https://open.spotify.com/track/5zOw7nHXlGqoYTRmDnrw0g) | [Benjamin Daughtry](https://open.spotify.com/artist/5ii6Td83MJmap7UdXxxk1I) | [Always On My Mind](https://open.spotify.com/album/04gl0kOqCvtYuN0FhVu1MD) | 2:48 | 2023-04-14 |  |
 | [America](https://open.spotify.com/track/6HAAL7x6LWg9j7Lb4qPSFP) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [America](https://open.spotify.com/album/3mnyXyGwORYtpjPtBhN1II) | 2:43 | 2023-02-03 | 2023-06-03 |
 | [And I Love Her](https://open.spotify.com/track/4itU6I6B2noWTYAbzFSHW1) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [And I Love Her](https://open.spotify.com/album/6ySoczesHSMBd1sFTjFTQH) | 2:11 | 2023-05-05 | 2023-06-03 |
@@ -43,7 +44,7 @@
 | [Blank Space](https://open.spotify.com/track/5G8tm3mLG5XqhcVbdpft3A) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Blank Space](https://open.spotify.com/album/5G7NmfM3E6qa5Nhr73UImb) | 2:58 | 2023-04-14 |  |
 | [Blinding Lights](https://open.spotify.com/track/4fi9D71b3x0bs3vfHAAIro) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Blinding Lights](https://open.spotify.com/album/2SRk0VQmycefU6s6GY7uNc) | 3:24 | 2022-12-02 | 2023-06-03 |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/3gryGgDyLRYqzYlJi1ekva) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [Bridge Over Troubled Water](https://open.spotify.com/album/5NCp7Nwh7yEJ6qUBPPvXt7) | 3:10 | 2022-05-20 | 2023-06-03 |
-| [Bridge Over Troubled Water](https://open.spotify.com/track/1ScQ3gRVXuNV9yyxsX0CGc) | [Tom Caufield](https://open.spotify.com/artist/6z47hZKeeckIexm3fHyzXB) | [Bridge Over Troubled Water](https://open.spotify.com/album/4T3TVomJZN6kXlxpgkPqe8) | 5:43 | 2022-05-20 |  |
+| [Bridge Over Troubled Water](https://open.spotify.com/track/1ScQ3gRVXuNV9yyxsX0CGc) | [Tom Caufield](https://open.spotify.com/artist/6z47hZKeeckIexm3fHyzXB) | [Bridge Over Troubled Water](https://open.spotify.com/album/4T3TVomJZN6kXlxpgkPqe8) | 5:43 | 2022-05-20 | 2024-01-19 |
 | [Californication](https://open.spotify.com/track/3eLNDLJafiuhAXizsNqcCS) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Californication](https://open.spotify.com/album/7JuynwJ25MHcVgGWFAfZCC) | 3:28 | 2022-12-23 | 2023-05-05 |
 | [Can You Feel the Love Tonight](https://open.spotify.com/track/6ZyfHwIULs4CR9lvOYigL1) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Floritatura](https://open.spotify.com/album/5XLiLgTWItJ7c7PHr8cpEk) | 4:28 | 2022-05-20 |  |
 | [Can't Stop The Feeling](https://open.spotify.com/track/5VgeeaV1T4nB79tqNnPti0) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Can't Stop The Feeling](https://open.spotify.com/album/72o6QQid3mYqEyMrHaTAUc) | 2:47 | 2022-05-20 | 2023-04-15 |
@@ -214,6 +215,7 @@
 | [Tears in Heaven](https://open.spotify.com/track/55DFjCA1MWnDskroklqtuW) | [Kris Farrow](https://open.spotify.com/artist/74BEyEIkjzt6wrhsnkyAGE) | [Acoustic Guitar Music for Weddings, Vol\. 2](https://open.spotify.com/album/6iEyKKWzQidD3w0P33PUlo) | 4:26 | 2022-05-20 | 2023-02-10 |
 | [thank u, next](https://open.spotify.com/track/1k8qyGwxBAYnrxJB275I3J) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [thank u, next](https://open.spotify.com/album/1N5vigLqBS3jOrWeWr3mRY) | 2:30 | 2022-05-20 | 2023-04-12 |
 | [thank u, next](https://open.spotify.com/track/5w98iWda7SZGbQxCDQ68KQ) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [thank u, next](https://open.spotify.com/album/7vaj1WWVkyxPhpB042KhJ9) | 2:30 | 2023-03-17 |  |
+| [That´s What Friends Are for](https://open.spotify.com/track/3K5wMP74gzoCQn5xx9BAxa) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [That´s What Friends Are for](https://open.spotify.com/album/6LOkGX8WkFRpC1wkBxoNUy) | 3:33 | 2024-01-19 |  |
 | [The Boxer](https://open.spotify.com/track/1FcM70fl2rKgfwL8DSSrHv) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [The Boxer](https://open.spotify.com/album/7MHviX6oQ9TzPp1bviBQsl) | 2:36 | 2023-04-14 |  |
 | [The Final Countdown](https://open.spotify.com/track/5CsSyDSAi9aTszs4fv6O8U) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [The Final Countdown](https://open.spotify.com/album/6CZsSWxPeaBdG2TeBxEXot) | 3:03 | 2022-12-02 |  |
 | [The Glory of Love](https://open.spotify.com/track/7yLXq8o6prmHoxyuzxUaYd) | [Olly Chesterman](https://open.spotify.com/artist/7cbFx59dQGKkWoNCAW8xFR) | [The Glory of Love](https://open.spotify.com/album/0QVDbJfyWarKbkARpvIHKC) | 3:17 | 2023-04-14 |  |
@@ -241,6 +243,7 @@
 | [Top Gun Anthem](https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Top Gun Anthem](https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY) | 2:59 | 2022-09-30 | 2023-04-15 |
 | [Top Gun Anthem](https://open.spotify.com/track/4b8s8t43DOjfR4kTttvQ21) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Top Gun Anthem](https://open.spotify.com/album/6MHmSIIGEWdoTTuQRyyCZf) | 2:40 | 2023-04-14 | 2023-05-05 |
 | [Torn](https://open.spotify.com/track/1Lr1cw5eLWcX7pcVu0WUfR) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Torn](https://open.spotify.com/album/5xmSaUNIPXxsjg8hZLyPPj) | 2:55 | 2023-04-14 | 2023-06-03 |
+| [Torn](https://open.spotify.com/track/143bOKQxImHTVao5V6DFmh) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [Torn](https://open.spotify.com/album/3C0Wi2dNF12aWxp3mOf1T4) | 3:25 | 2024-01-19 |  |
 | [True colors](https://open.spotify.com/track/3bVwh1aRQAnMyrNDI9sjW0) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [True colors](https://open.spotify.com/album/13QfkW5FCtLmYBUq9Izmwr) | 3:38 | 2022-05-20 |  |
 | [TRUSTFALL](https://open.spotify.com/track/06riG7sQ4Oy5rM6rsxTyar) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [TRUSTFALL](https://open.spotify.com/album/6rADWJpE4iU6o2a0STDQqZ) | 3:59 | 2023-03-17 |  |
 | [Unholy](https://open.spotify.com/track/0PygCKsVWFtKUQpOEXCgQs) | [Jimmie Pérez](https://open.spotify.com/artist/2YVeoYWJCapA1D4CFEr4Ff) | [Unholy](https://open.spotify.com/album/7nop3KZ6kZTdPuSf9bdFKw) | 2:31 | 2022-12-02 | 2023-02-04 |

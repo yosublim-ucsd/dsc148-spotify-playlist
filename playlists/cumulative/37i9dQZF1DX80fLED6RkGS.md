@@ -2,9 +2,9 @@
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo?si=KK\_i9gmUTCK\-JWroUPFJ6g"> Trio Mio</a>
+> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=LHfmiRwVRfaO\-rRmOrHnUw"> Ssaru</a>
 
-324 songs - 17 hr 34 min
+325 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Kisensi](https://open.spotify.com/track/41ZmUtTkI5hyucT97Cz6GE) | [Josephyl](https://open.spotify.com/artist/69gClmdHvsjoSlvbYFYa68), [Mastar VK](https://open.spotify.com/artist/2s7erYkQoxnO7pTDL51fZp), [Iano Ranking](https://open.spotify.com/artist/09iTULFuj81QbYSC73ebg4), [Toxic Westside](https://open.spotify.com/artist/0avy7TUyxI7ZrhWquAY48N) | [Kisensi](https://open.spotify.com/album/3pBYRYnKOJT4vhHZfBNrRT) | 2:57 | 2022-01-20 | 2022-01-28 |
 | [KISHASH](https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [KISHASH](https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b) | 2:39 | 2022-01-06 |  |
 | [Kiss N Tell](https://open.spotify.com/track/6UjG1rkeqxQIQjgNum5TVf) | [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB), [CHIR CHIR](https://open.spotify.com/artist/7C4W8ZdCZ09bgVrkmCeBcZ) | [Kiss N Tell](https://open.spotify.com/album/11XXk49A9CjlxqZUAnRMLl) | 3:43 | 2023-07-13 |  |
-| [Kitawaramba](https://open.spotify.com/track/0NG3W6lJsBLz7ipN3KQtAP) | [Gwaash](https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7), [queen b 254](https://open.spotify.com/artist/2fE54T1REZAjSnJ9j1Se9l) | [Kitawaramba](https://open.spotify.com/album/22NjO8LsBSof8uFtoENhe6) | 2:11 | 2023-06-29 |  |
+| [Kitawaramba](https://open.spotify.com/track/0NG3W6lJsBLz7ipN3KQtAP) | [Gwaash](https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7), [queen b 254](https://open.spotify.com/artist/2fE54T1REZAjSnJ9j1Se9l) | [Kitawaramba](https://open.spotify.com/album/22NjO8LsBSof8uFtoENhe6) | 2:11 | 2023-06-29 | 2024-01-19 |
 | [Kitendawili](https://open.spotify.com/track/6p9AHIYBeCgxJPKj4h1ew1) | [Dezian](https://open.spotify.com/artist/6KZLhiDHLqE2NMAitthV5H), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Wakali Wao](https://open.spotify.com/artist/41Tl0dALvNay52riHG4M1b) | [Kitendawili](https://open.spotify.com/album/1BFacBiVjaDMO0FsTNiDLv) | 3:23 | 2022-02-04 | 2022-10-14 |
 | [Kuja Ivo](https://open.spotify.com/track/3nh0ogd4RKZBYYP2plSKA7) | [Gody Tennor](https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB), [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [SEAN MMG](https://open.spotify.com/artist/3XNm5VibIYc1xUEDURP1kw), [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5) | [Kuja Ivo](https://open.spotify.com/album/6hLexLcCQzcYfT5qdpgTPF) | 2:47 | 2024-01-11 |  |
 | [Kula Kwa Macho \- Remix](https://open.spotify.com/track/1R3cqVbHk1ByaN87gPcVMi) | [Valika](https://open.spotify.com/artist/1urTzZRqDf34hSOHAMglLA), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Kula kwa macho \(Remix\)](https://open.spotify.com/album/0gBvkRR15NgxpGKN3agdOX) | 3:09 | 2023-07-27 | 2023-12-22 |
@@ -221,6 +221,7 @@
 | [Olunga](https://open.spotify.com/track/1MwECPqcjRpPCjFc6rCOkE) | [HITMAN KAHT](https://open.spotify.com/artist/6kPTEaWcNadrTgbT89FmNi), [VUVA](https://open.spotify.com/artist/2xE7tK4sFIgq5Y8T01vuq8), [GUANTAI](https://open.spotify.com/artist/3BQVpRFs9onlPY46iPaxzw) | [Olunga](https://open.spotify.com/album/6Vk1yUsjBvShj98zOzUqg4) | 3:58 | 2022-01-20 | 2022-01-28 |
 | [Omwana Wabandi](https://open.spotify.com/track/3xgEcMXTbj5c1wTikyMDUd) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Omwana Wabandi](https://open.spotify.com/album/3ukqDmBiPAU9TnM5XwlyKf) | 2:50 | 2022-01-20 | 2022-01-28 |
 | [Overseas](https://open.spotify.com/track/1yjqZSp6GZUh4CNW4w5ATO) | [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H), [Trigga Youngboy](https://open.spotify.com/artist/2X6J78Zg69QUp60vnAgl7q) | [Overseas](https://open.spotify.com/album/3pinsBjovPydcwYY8HGMXK) | 2:53 | 2023-08-17 | 2023-12-15 |
+| [Pande Ile](https://open.spotify.com/track/3UPbsBz5rTewK0bfWLy6Wy) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Pande Ile](https://open.spotify.com/album/7jAzig22ZqxAJzgncviWhz) | 2:47 | 2024-01-18 |  |
 | [Pandemik](https://open.spotify.com/track/4brFh0GOyGxdh6qfUDOpGK) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b) | [Pandemik](https://open.spotify.com/album/686UwrTXLaD6lSndiKXqil) | 2:49 | 2021-08-27 | 2022-02-05 |
 | [Party Like This](https://open.spotify.com/track/4181dcgc23miEgs2hSEOW8) | [Kilundeezy](https://open.spotify.com/artist/2pvFPrGFSGZvkIe5nSkEzf) | [Party Like This](https://open.spotify.com/album/6z9bKh7tDvF21vWQqKg21E) | 2:48 | 2023-11-10 |  |
 | [Patanisho](https://open.spotify.com/track/0jOwcUbrAtiuGsXU8vGtRj) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6) | [Patanisho](https://open.spotify.com/album/0AvQe2ffB54RwTtFVDZuNG) | 3:36 | 2022-05-06 | 2022-05-13 |

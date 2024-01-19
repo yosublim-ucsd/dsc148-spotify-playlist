@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Alok, Mondello'G, CERES, Tribbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,803,446 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,804,043 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Still Fall](https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Still Fall](https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f) | 3:29 |
 | 50 | [Secrets \(feat\. Jazz Montell\)](https://open.spotify.com/track/3SdpHyWPOlTBn6ZWB9XwWZ) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Jazz Montell](https://open.spotify.com/artist/5HVnBG4feWijxr9j531PFs) | [Secrets \(feat\. Jazz Montell\)](https://open.spotify.com/album/0lMVfNvXYGaa5iFS4NU39o) | 2:51 |
 
-Snapshot ID: `MCxkNzNjZDA1OTIyNDc0YzdjMGNiNGM0ZDM5ODhhMGNkN2Q3NTY3YjJj`
+Snapshot ID: `MCxmZDVjNzllNjE5NzBkNGE2YThjYjg5ZTRjMWVmODdiZGE1OGQyYmE4`

@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-148 songs - 8 hr 26 min
+149 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Hey There Delilah](https://open.spotify.com/track/3pCSKzscGOwXOzwQiqhS8M) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM) | 4:14 | 2023-03-16 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/3gt6ASrvqi8Rsv0Or4adcb) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM) | 4:03 | 2023-03-16 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/3kPyNj8KefD3VbaJtmqWVS) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:03 | 2022-05-20 | 2023-04-13 |
+| [Home](https://open.spotify.com/track/4WgELWW9pq8cTJsTKryjpA) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Home](https://open.spotify.com/album/5sEHRR6YCug5jMQADFI2BE) | 4:20 | 2024-01-19 |  |
 | [I Ain't Worried](https://open.spotify.com/track/3mdgqNgANH7bLqaFDa1rKG) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Señorita](https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK) | 2:32 | 2022-12-01 |  |
 | [I Got You Babe](https://open.spotify.com/track/6mofZ4UGWUNvccgBTQ9Zgc) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [I Got You Babe](https://open.spotify.com/album/02oFSVAq9OkC8ugRm8i8xI) | 3:07 | 2023-12-08 |  |
 | [I Want It That Way](https://open.spotify.com/track/0QkiEOuLDZguBZDorRna6t) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [True Colors](https://open.spotify.com/album/5C2bi9rLxNWpOI2Tv22GKt) | 3:39 | 2023-03-16 | 2023-04-28 |

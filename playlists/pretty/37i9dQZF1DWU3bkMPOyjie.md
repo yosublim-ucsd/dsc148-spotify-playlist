@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 25 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,433 likes - 78 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,432 likes - 78 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 43 | [Heaven 2.9](https://open.spotify.com/track/70ju11WAXAozZmB8WyJ09U) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Making Enemies Is Good](https://open.spotify.com/album/72iZGeLvhpedbqbdZ9uQPd) | 2:51 |
 | 44 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 |
 | 45 | [Girls In Their Summer Clothes](https://open.spotify.com/track/5kVSDFEAqgjKtcD6tRvRzY) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 4:19 |
-| 46 | [Summer In the City](https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Summer In the City](https://open.spotify.com/album/3E06stlTQWUMGzysbx6YUu) | 3:08 |
+| 46 | [Summer in the City](https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Summer In the City](https://open.spotify.com/album/3E06stlTQWUMGzysbx6YUu) | 3:08 |
 | 47 | [Tonight the Moonlight Let Me Down](https://open.spotify.com/track/2o8SO1ORcZmNh93M0xqIb7) | [Black Star Riders](https://open.spotify.com/artist/1COfrboArH3tNjlhFsG5ys) | [Another State of Grace](https://open.spotify.com/album/7pDnhv0FGExOmxoaXWd4nJ) | 3:54 |
 | 48 | [I'm In The Band](https://open.spotify.com/track/3YQHwjPClorNBvKmbJDflL) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Rock & Roll Is Dead](https://open.spotify.com/album/72D1WZ8hZQ2qbS1PLFOBlm) | 3:19 |
 | 49 | [She Builds Quick Machines](https://open.spotify.com/track/5kwVVnZ8ZjJanBbGmrbHsb) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Libertad](https://open.spotify.com/album/2mFnAf5xnMOs1LBS4qRy5R) | 4:02 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 77 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 |
 | 78 | [hot girls in good moods](https://open.spotify.com/track/3j9ERO1WUkVvU71sNFRDEt) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [The Rise and Fall of..\. Butch Walker and The Let's\-Go\-Out\-Tonites](https://open.spotify.com/album/3RmqVZPcYT5LUFQ6Kl5N4B) | 3:45 |
 
-Snapshot ID: `MCwwMTA4NTY0OWJkYTgzYjA2NzEyMWNiMmJkZDcxNDQ0NGIwZmY3NTdh`
+Snapshot ID: `MCw4N2I5MzFkNzhkNDUxNjg1MzdkMTA3NzJhNzlkNWU3MmFhYmQwNWVl`

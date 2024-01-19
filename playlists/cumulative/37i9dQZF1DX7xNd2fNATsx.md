@@ -4,7 +4,7 @@
 
 > Quand l'indie et l'electro ne font qu'un.
 
-63 songs - 4 hr 29 min
+64 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Lost It To Trying](https://open.spotify.com/track/4kP7BPJ1d3WUGhykQBVEjH) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Lily & Madeleine](https://open.spotify.com/artist/1kCC5slv2AdQ6MxcKP2fEQ) | [Lanterns](https://open.spotify.com/album/6vIi2q78LUq93PhpO6VY1J) | 4:42 | 2023-02-07 |  |
 | [Lotus Flower](https://open.spotify.com/track/2QeutlLcJf2V1cMUUsDFT1) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 5:00 | 2023-02-07 |  |
 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 | 2023-02-07 |  |
-| [Midnight City](https://open.spotify.com/track/5tMY5DJvFr9f8UGTta6KEj) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Before the Dawn Heals Us](https://open.spotify.com/album/772BNzeP2P72saAQGiDPyX) | 4:03 | 2023-11-15 |  |
+| [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2023-11-29 |  |
+| [Midnight City](https://open.spotify.com/track/5tMY5DJvFr9f8UGTta6KEj) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Before the Dawn Heals Us](https://open.spotify.com/album/772BNzeP2P72saAQGiDPyX) | 4:03 | 2023-11-15 | 2024-01-19 |
 | [Mirror](https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Mirror](https://open.spotify.com/album/2WqbgScsOiTs0ps64zytjZ) | 5:44 | 2023-10-19 |  |
 | [My Delirium](https://open.spotify.com/track/3vqSWOEMO4OOxa2QJHuitI) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Ladyhawke](https://open.spotify.com/album/0AvEEMu6w6U9neLNaHu4G8) | 4:15 | 2023-02-07 |  |
 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 | 2023-02-07 |  |

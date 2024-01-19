@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 186706,
       "name": "01",
       "url": "https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 230449,
       "name": "Anytime Anywhere",
       "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 236073,
       "name": "BROKEN GAMES",
       "url": "https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5"
@@ -4578,6 +4578,24 @@
       "duration_ms": 200713,
       "name": "Hikarakka",
       "url": "https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m"
+    },
+    {
+      "album": {
+        "name": "hikari no toriru",
+        "url": "https://open.spotify.com/album/18zrUwavFbepselMuuGsb6"
+      },
+      "artists": [
+        {
+          "name": "\u5357\u689d\u611b\u4e43",
+          "url": "https://open.spotify.com/artist/1UVUtRS6I6rZji2w8o1CXd"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224056,
+      "name": "hikari no toriru",
+      "url": "https://open.spotify.com/track/17kTyDRlOY3gLl1qNCC9B4"
     },
     {
       "album": {
@@ -9641,6 +9659,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh"
+      },
+      "artists": [
+        {
+          "name": "DAZBEE",
+          "url": "https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199426,
+      "name": "Scarlet",
+      "url": "https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS"
+    },
+    {
+      "album": {
         "name": "SCIENCE",
         "url": "https://open.spotify.com/album/5bhLDgE6m6g60jE2bhSj5C"
       },
@@ -14162,7 +14198,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
@@ -18529,6 +18565,24 @@
     },
     {
       "album": {
+        "name": "\u5915\u95c7\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/1UNBShwV9GyEO6oTrEXVMn"
+      },
+      "artists": [
+        {
+          "name": "KEIKO",
+          "url": "https://open.spotify.com/artist/4j7ZX5A2mU1ClOmposbUFM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243886,
+      "name": "\u5915\u95c7\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/2kzO0Isudp6WtXcrEzopKs"
+    },
+    {
+      "album": {
         "name": "\u5922\u60f3\u7684\u30af\u30ed\u30cb\u30af\u30eb",
         "url": "https://open.spotify.com/album/4NvsZjjP7cG1eTuK7Q1Q6w"
       },
@@ -19698,7 +19752,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 227469,
       "name": "\u6700\u9ad8\u5230\u9054\u70b9",
       "url": "https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN"
@@ -21615,6 +21669,32 @@
     },
     {
       "album": {
+        "name": "\u96f7\u6afb",
+        "url": "https://open.spotify.com/album/4PMYkY5UkCQuLSPWnyNIdP"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3"
+        },
+        {
+          "name": "SAKURAmoti",
+          "url": "https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "\u96f7\u6afb",
+      "url": "https://open.spotify.com/track/321Act4cJD2NncZYONJlZ6"
+    },
+    {
+      "album": {
         "name": "\u9752100\u8272 (TV\u30a2\u30cb\u30e1\u300c\u53e4\u898b\u3055\u3093\u306f\u3001\u30b3\u30df\u30e5\u75c7\u3067\u3059\u3002\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30fb\u30c6\u30fc\u30de)",
         "url": "https://open.spotify.com/album/3SpGjj6yNjbv5OvObTrPNy"
       },
@@ -21880,6 +21960,24 @@
       "duration_ms": 235933,
       "name": "\u99c6\u3051\u5f15\u304d\u306f\u30dd\u30fc\u30ab\u30fc\u30d5\u30a7\u30a4\u30b9",
       "url": "https://open.spotify.com/track/2rndtIOj7hxQ5Mhv2s5CqP"
+    },
+    {
+      "album": {
+        "name": "\u9b3c\u706f",
+        "url": "https://open.spotify.com/album/2nPOKD50fgBljXh5ar7jzb"
+      },
+      "artists": [
+        {
+          "name": "Yoh kamiyama",
+          "url": "https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "\u9b3c\u706f",
+      "url": "https://open.spotify.com/track/3uOW9tuzRMA3iNmElOqt2j"
     },
     {
       "album": {

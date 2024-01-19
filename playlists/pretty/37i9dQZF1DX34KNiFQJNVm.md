@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez, Ariana Grande, Alok e Bebe Rexha e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,913,487 likes - 84 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913,860 likes - 84 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 83 | [24 HORAS](https://open.spotify.com/track/267H67kLMfetyHFNTlwJT3) | [BAILE PHONK](https://open.spotify.com/artist/0DNEd7LWCAZyGniVlHXDz6), [DJ Dudah](https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr) | [24 HORAS](https://open.spotify.com/album/6qmZ8KIy49J2hyxye1nJOM) | 1:57 |
 | 84 | [BRAZIL DRIFT](https://open.spotify.com/track/0wvTMEma4oBtSkwRlcPOiw) | [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU), [NICKXXX](https://open.spotify.com/artist/3zfgyWQdkhUoVyqjrISKKO), [DJ VIBER](https://open.spotify.com/artist/2AJGtiRmXalpq8FayihpD8) | [BRAZIL DRIFT](https://open.spotify.com/album/3Tt0CiKF5ORHjA2eod988c) | 1:32 |
 
-Snapshot ID: `MCw3Njk4NjYzMmViMGEzOWE2M2ViZDg3ZDk4YWY3YWNhNTgyYjdmMjVh`
+Snapshot ID: `MCxlZjc0YzUwN2M4MWMyMDg1YzkwOGViNmRkZDIwMDVlOTM3M2RiNTZj`

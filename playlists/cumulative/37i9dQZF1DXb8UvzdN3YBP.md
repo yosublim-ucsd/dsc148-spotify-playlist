@@ -4,7 +4,7 @@
 
 > Music from and inspired by "Glass Onion: A Knives Out Mystery," coming soon to Netflix.
 
-35 songs - 2 hr 3 min
+36 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Ms\. Birdie Jay](https://open.spotify.com/track/6MLLGKq2DN1NzjphOPa7GV) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Glass Onion: A Knives Out Mystery \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus) | 1:47 | 2022-11-30 |  |
 | [Over the Rainbow](https://open.spotify.com/track/7MuZnieEKLs0VLivHZveVk) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Paris 1983](https://open.spotify.com/album/4f102HY552Rn68aqwRbzFO) | 3:24 | 2022-11-21 |  |
 | [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 | 2022-11-14 |  |
-| [Play the Ponies](https://open.spotify.com/track/3r7pQSqIWmXYFQci0aBBQi) | [Jo Blankenburg](https://open.spotify.com/artist/4tuiQRw9bC9HZhSFJEJ9Mz) | [Clandestine](https://open.spotify.com/album/5NuF7nYaRGq8YlPY1X52Ro) | 1:49 | 2022-11-21 |  |
+| [Play the Ponies](https://open.spotify.com/track/1VAvqNWXlVUiCpWdoOMc3W) | [Jo Blankenburg](https://open.spotify.com/artist/4tuiQRw9bC9HZhSFJEJ9Mz) | [Clandestine](https://open.spotify.com/album/2hyQxOLLlPazMW42b82LVh) | 1:49 | 2022-11-21 |  |
+| [Play the Ponies](https://open.spotify.com/track/3r7pQSqIWmXYFQci0aBBQi) | [Jo Blankenburg](https://open.spotify.com/artist/4tuiQRw9bC9HZhSFJEJ9Mz) | [Clandestine](https://open.spotify.com/album/5NuF7nYaRGq8YlPY1X52Ro) | 1:49 | 2022-11-21 | 2024-01-19 |
 | [Please Send Me Someone To Love](https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 9:48 | 2022-11-21 |  |
 | [Private Investigator](https://open.spotify.com/track/7zHhpvu59OKXDG51LsXLTq) | [Graham De Wilde](https://open.spotify.com/artist/460n0z7RWA7eJ8xCar7uzH) | [Atmospheric Journeys 2](https://open.spotify.com/album/4H6sy38N08EqbLWPEvv8Xu) | 1:55 | 2022-11-21 |  |
 | [Star \- 2012 Remaster](https://open.spotify.com/track/5WfSHn8qVk1W3GJJQpETC1) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 2:47 | 2022-11-14 |  |

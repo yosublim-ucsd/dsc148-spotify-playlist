@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Vv Pete is our new RADAR artist to watch!",
+  "description": "Blusher is our new RADAR artist to watch!",
   "name": "RADAR AU & NZ",
   "tracks": [
+    {
+      "album": {
+        "name": "1, 2, 3 (with Topic)",
+        "url": "https://open.spotify.com/album/7nBfkzrJ7wG5Jjoyru5dvu"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "1, 2, 3 (with Topic)",
+      "url": "https://open.spotify.com/track/0ELy9afthy6LVjF43Yw47l"
+    },
     {
       "album": {
         "name": "burnt ur clothes & changed the addy",
@@ -222,7 +244,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 180755,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW"
@@ -820,7 +842,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 198518,
       "name": "COMMA'S",
       "url": "https://open.spotify.com/track/74yRaIwxJyrrb6gl2KyF5H"
@@ -1570,7 +1592,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 198044,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5C5TY76zEvTDPT3FRi6Obs"
@@ -1841,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/09EKcwbfb8JEyc6lnKtpSo"
+      },
+      "artists": [
+        {
+          "name": "JessB",
+          "url": "https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180817,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/3QewaXYrA2yRzcxEbpFwat"
+    },
+    {
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/4kDP3fZt29eW9rsATj7llc"
       },
@@ -1888,7 +1928,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 252000,
       "name": "Home",
       "url": "https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt"
@@ -2480,6 +2520,24 @@
       "duration_ms": 174285,
       "name": "Life Feels Good",
       "url": "https://open.spotify.com/track/29ZE3uE9ezxblQUDORcVE4"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
     },
     {
       "album": {
@@ -3447,6 +3505,24 @@
     },
     {
       "album": {
+        "name": "Pull It Up",
+        "url": "https://open.spotify.com/album/33cYFSyck2TiCnEYHFxqk6"
+      },
+      "artists": [
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154261,
+      "name": "Pull It Up",
+      "url": "https://open.spotify.com/track/4LbTlzMQmQlJJ0ABxBRYsF"
+    },
+    {
+      "album": {
         "name": "rats in my walls",
         "url": "https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK"
       },
@@ -3458,10 +3534,28 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 312459,
       "name": "rats in my walls",
       "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
+    },
+    {
+      "album": {
+        "name": "Rave Angel",
+        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "Rave Angel",
+      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
     },
     {
       "album": {
@@ -3498,6 +3592,28 @@
       "duration_ms": 195339,
       "name": "Rhythms",
       "url": "https://open.spotify.com/track/7B1k04cXHoNGF1ve0k3acD"
+    },
+    {
+      "album": {
+        "name": "Ride It",
+        "url": "https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        },
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138393,
+      "name": "Ride It",
+      "url": "https://open.spotify.com/track/2CFHcnCYe7AGWoxwRdMx70"
     },
     {
       "album": {
@@ -4378,6 +4494,24 @@
       "duration_ms": 123295,
       "name": "Teenage Tragedy",
       "url": "https://open.spotify.com/track/3z0gcpUkzUUoKx4UQ5slno"
+    },
+    {
+      "album": {
+        "name": "Terrible News",
+        "url": "https://open.spotify.com/album/4Y6D9jqR8EId3pg9sIYnd6"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Terrible News",
+      "url": "https://open.spotify.com/track/3F6cKpH8Ezw0cT6b9SDLfJ"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 887822,
+  "2024-01-19": 887972,
   "date_first_scraped": "2022-03-01",
   "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3yAv8udgy9z6yF6rREcgfB\">Rock City Worship</a> ",
   "name": "Best of Live Worship",
@@ -265,7 +265,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 426052,
       "name": "All In - Live",
       "url": "https://open.spotify.com/track/3MHZjcYk9GpBrbEgR3MjID"
@@ -1845,7 +1845,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 383000,
       "name": "GLORY - Live",
       "url": "https://open.spotify.com/track/33oZ6GmYJmDYcis4vJvwFE"
@@ -2465,6 +2465,10 @@
         {
           "name": "catch the fire music",
           "url": "https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x"
+        },
+        {
+          "name": "Jonathan Clarke",
+          "url": "https://open.spotify.com/artist/5HTyP5XAnJHFgHNGEOa5p1"
         }
       ],
       "date_added": "2024-01-12",

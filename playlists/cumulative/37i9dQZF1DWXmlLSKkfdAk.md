@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-323 songs - 19 hr 38 min
+324 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,9 +134,10 @@
 | [Home / Dirty Paws](https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:53 | 2022-07-27 | 2022-10-01 |
 | [Home / Dirty Paws](https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Home / Dirty Paws](https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn) | 2:53 | 2021-11-12 | 2022-07-29 |
 | [How's It Going to Be](https://open.spotify.com/track/5j4zV7vxT2mbLrOOpyC95d) | [Jack and White](https://open.spotify.com/artist/2U5RgZDZdAR13tX6yivvRy), [Brooke White](https://open.spotify.com/artist/1feuQE7d9izI54MoL5Lc7t) | [Undercover](https://open.spotify.com/album/7iq1vJH3Ch9NORI4IfazEU) | 4:02 | 2021-11-12 |  |
+| [I Believe in a Thing Called Love](https://open.spotify.com/track/4LlSNQDU5UZgBMlrOrRhxx) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/5I3nXZZSfM5d9SII8aZgIV) | 3:04 | 2024-01-09 |  |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/6YdSvvnhkppxBNZgdFB301) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:04 | 2022-07-27 | 2022-10-13 |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/6mEeutpoC30B6yALroRlFW) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:04 | 2021-11-12 | 2022-07-29 |
-| [I Believe in a Thing Called Love](https://open.spotify.com/track/7kcAK7HvIuHHDHJoGXlSPv) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:04 | 2022-07-27 |  |
+| [I Believe in a Thing Called Love](https://open.spotify.com/track/7kcAK7HvIuHHDHJoGXlSPv) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:04 | 2022-07-27 | 2024-01-19 |
 | [I Can't Make You Love Me](https://open.spotify.com/track/0hL7pMYm3WQhoywLYFdF3t) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [I Can't Make You Love Me/Immigrant Song](https://open.spotify.com/album/7EyotZp8SIypYNsBKA1yLk) | 4:51 | 2021-11-12 | 2022-07-29 |
 | [I Can't Make You Love Me](https://open.spotify.com/track/6ZDGNoguJ64rxp0dfm60y0) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [I Can't Make You Love Me / Immigrant Song](https://open.spotify.com/album/6zYzeVQ573REqkd2sqodBv) | 4:51 | 2022-07-27 |  |
 | [I Feel the Earth Move](https://open.spotify.com/track/0LvCcqmbGrgLvtE4JaFO3S) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [I Feel the Earth Move](https://open.spotify.com/album/2iDj91V43RuXLoTK87zI9u) | 5:16 | 2022-01-05 | 2024-01-10 |

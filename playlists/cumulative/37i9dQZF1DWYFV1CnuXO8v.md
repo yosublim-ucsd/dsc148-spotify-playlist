@@ -2,7 +2,7 @@
 
 ### [حب وغرام](https://open.spotify.com/playlist/37i9dQZF1DWYFV1CnuXO8v)
 
-> عيش أجمل حالة حب 🫶❤️<br/> كوفر: <a href="https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg?si=SaDgQlWvTb2aXAi94J\-UOA"> انغام </a>
+> عيش أجمل حالة حب 🫶❤️
 
 270 songs - 16 hr 57 min
 

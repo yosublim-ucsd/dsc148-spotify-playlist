@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: the telephones
 
-919 songs - 2 day 13 hr 4 min
+921 songs - 2 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Enchanted](https://open.spotify.com/track/4Qt59YsDr0umqWYiQ8OowQ) | [ACME](https://open.spotify.com/artist/2TYzphz979sCxQxUStlg2Z) | [Enchanted](https://open.spotify.com/album/2HifaapZH6K97MZvHcVuzU) | 4:33 | 2022-05-17 | 2022-06-14 |
 | [Endless Etude](https://open.spotify.com/track/5apzPf5lbcJRTxjxGUOaJP) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude](https://open.spotify.com/album/1sXnSFVrTXhc3mmAP85Kho) | 3:36 | 2023-06-27 | 2023-06-29 |
 | [Endless Etude](https://open.spotify.com/track/7KQSQIp6HjMywrbBQcRK8k) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude](https://open.spotify.com/album/0SLhCyL023hUc10Klx7Wxw) | 3:36 | 2023-06-27 | 2023-07-12 |
+| [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/track/6u5POngpCtZfnIyLU2izjg) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/album/5FE6XRVjwqvXE4tQqiW5gx) | 2:37 | 2024-01-18 |  |
 | [Entertain](https://open.spotify.com/track/6jxS9Z1610FPfKcT339Kfb) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [Entertain](https://open.spotify.com/album/2bnZXiHyF1C2F1cMZWn2zX) | 3:36 | 2022-09-08 | 2022-09-15 |
 | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/track/0NFygNu7nBTxL1jqq0lkUB) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr) | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/album/45ACzJq5h6fGVFImpWxwuI) | 3:21 | 2023-07-25 | 2023-08-02 |
 | [EPISODE 7](https://open.spotify.com/track/0UkJuv4tuSYAq07KW2XUUL) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD), [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [THE NEW ALBUM](https://open.spotify.com/album/1oUP4voVB2HB89sPPsXCzO) | 4:59 | 2022-05-17 | 2022-06-15 |
@@ -376,6 +377,7 @@
 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 | 2022-10-06 | 2023-09-20 |
 | [Radio Star](https://open.spotify.com/track/403fQdcKjArXQGy9N9Ovee) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Radio Star](https://open.spotify.com/album/5sTnegCUd4nlDKucRR6tHY) | 3:48 | 2022-07-19 | 2022-07-27 |
 | [Rakuenkyosokyoku](https://open.spotify.com/track/6dwIyS9wjHibWSOLXqcbTL) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Rakuenkyosokyoku](https://open.spotify.com/album/6PYYgwwLgXkgR1XECqn7aB) | 3:50 | 2022-08-09 | 2022-08-17 |
+| [Ramble In The Rainbow](https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Ramble In The Rainbow](https://open.spotify.com/album/21XAQLhqdawyfWcf4iC6Sq) | 4:03 | 2024-01-18 |  |
 | [Re\-monolith](https://open.spotify.com/track/2P406Mp2LZ8Iqai7WAUDs3) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Re\-monolith](https://open.spotify.com/album/7AJtqR3thUCneHnGKgHAAa) | 3:23 | 2023-10-10 | 2023-10-27 |
 | [Re\-swim](https://open.spotify.com/track/4mOpM9lKBtokiyhFHubxWm) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Re\-Birth](https://open.spotify.com/album/7ISkjyWyY2TfNj5JyMv98c) | 4:08 | 2023-10-17 | 2023-11-18 |
 | [Re:Re:](https://open.spotify.com/track/0WaaPFt4Qy8sVfxKz43bCD) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:48 | 2023-06-27 |  |
@@ -463,7 +465,7 @@
 | [STAND!](https://open.spotify.com/track/7hp87JcODkGYqkhIi6hiBR) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [STAND!](https://open.spotify.com/album/3s5s6siW3yev2bVIZV4HU9) | 3:32 | 2022-05-17 | 2022-05-25 |
 | [STARS](https://open.spotify.com/track/7nkujdHzJVWyNGs2oONiCw) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [STARS](https://open.spotify.com/album/5lrdC0MIt5wLoRGZ4wKmjE) | 3:55 | 2023-09-21 |  |
 | [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 | 2022-11-22 | 2023-01-01 |
-| [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 | 2023-12-26 |  |
+| [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 | 2023-12-26 | 2024-01-19 |
 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 | 2022-05-10 | 2023-05-10 |
 | [Steer This Band](https://open.spotify.com/track/1Vmh9Q12P6tyB19oi2a8nx) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:53 | 2022-05-12 | 2022-07-29 |
 | [Still \(feat.KIHIRO\)](https://open.spotify.com/track/13jzKEiX06c1PPrnBaUmYa) | [K](https://open.spotify.com/artist/0dojDHJmkEgWlNa7iyOMFK), [Kihiro](https://open.spotify.com/artist/5PRhTlrNZtoeCOSee6sZcr) | [Orange Ave.](https://open.spotify.com/album/2yzobjzYcxxhXOi0HnwnsD) | 3:03 | 2023-01-03 | 2023-01-18 |
@@ -691,7 +693,7 @@
 | [ダニ](https://open.spotify.com/track/1ZcYKVMKwn6Nc3V0e3PR5V) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [COMPACT DISC](https://open.spotify.com/album/6eSqLM101PkLtOunSsmjYe) | 4:29 | 2023-02-07 | 2023-02-09 |
 | [チョイス](https://open.spotify.com/track/0k9m6iduQbeTeqxxFHZ62z) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 2:55 | 2023-07-11 | 2023-07-19 |
 | [チョイス](https://open.spotify.com/track/7eSRFqmnYepZtjJ4IdrlNT) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 2:55 | 2023-07-11 | 2023-07-13 |
-| [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 | 2022-12-31 |  |
+| [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 | 2022-12-31 | 2024-01-19 |
 | [ツイス島&シャウ島](https://open.spotify.com/track/2zj6zuZJG0t0nYmDIthbEm) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [ツイス島&シャウ島](https://open.spotify.com/album/1kRmUc2mjUeROgPvI6Kvza) | 4:07 | 2022-05-17 | 2022-06-04 |
 | [ツーベーコーベー](https://open.spotify.com/track/6rFUgYqJVGtlUDsj55NZWF) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [ツーベーコーベー](https://open.spotify.com/album/1IwC7sKrMJium5uOs2iQRq) | 3:31 | 2022-10-18 | 2022-10-20 |
 | [デイトリッパー](https://open.spotify.com/track/08KAPLzpglA5mMdYLD2oPN) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [デイトリッパー](https://open.spotify.com/album/0PvJW9b9BTrAan7HSEO2F4) | 3:59 | 2022-07-26 | 2022-08-03 |

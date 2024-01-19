@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-579 songs - 2 day 1 hr 20 min
+580 songs - 2 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Dead To You](https://open.spotify.com/track/3FE9t4BzzOGYduUXVdfSxJ) | [Marthe](https://open.spotify.com/artist/6EssjchKEP6YbQS2vHBAcN) | [Further In Evil](https://open.spotify.com/album/2xwvEcOiW03Q0FcByEbBdg) | 6:09 | 2024-01-02 |  |
 | [Death Cult](https://open.spotify.com/track/1CN2mzJBqxVgPVRlzcxrhZ) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR), [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [Death Cult](https://open.spotify.com/album/62D0IksCdSnviilNJpWtws) | 3:40 | 2024-01-11 |  |
 | [Death from Above](https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Death from Above](https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO) | 3:32 | 2022-09-01 | 2022-11-17 |
-| [Death Is But A Door](https://open.spotify.com/track/6wl1XfdSd1VMlI3sBm0UAZ) | [Alluvial](https://open.spotify.com/artist/7z2P2nNjtnAVnUavHIXZWQ) | [Death Is But A Door](https://open.spotify.com/album/3QiSF99jB2PtK4dcSNF6ti) | 4:52 | 2023-12-07 |  |
+| [Death Is But A Door](https://open.spotify.com/track/6TRaRDjoV0sFKoLR0KSDev) | [Alluvial](https://open.spotify.com/artist/7z2P2nNjtnAVnUavHIXZWQ) | [Death Is But A Door](https://open.spotify.com/album/2tSgJjr6WiuRTx4EJsGkRq) | 4:52 | 2024-01-11 |  |
+| [Death Is But A Door](https://open.spotify.com/track/6wl1XfdSd1VMlI3sBm0UAZ) | [Alluvial](https://open.spotify.com/artist/7z2P2nNjtnAVnUavHIXZWQ) | [Death Is But A Door](https://open.spotify.com/album/3QiSF99jB2PtK4dcSNF6ti) | 4:52 | 2023-12-07 | 2024-01-19 |
 | [Death March](https://open.spotify.com/track/29jdT24cfdRzOmn57MSFlS) | [Enemies Everywhere](https://open.spotify.com/artist/0i5eguj2szDPz1STo9Ursz) | [Death March](https://open.spotify.com/album/5Mpro4JXyYlwrbA1cX9Nzs) | 4:41 | 2023-09-01 |  |
 | [Death Walks Among Us \- Single Edit](https://open.spotify.com/track/005yHsz6xGZubdhG8ghJdY) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Death Walks Among Us](https://open.spotify.com/album/3UuzBA3t6Krm96ydpYXaei) | 4:38 | 2022-01-14 | 2022-04-02 |
 | [Deathcrush](https://open.spotify.com/track/5wWRdIjndDOh1j4OXAPpdD) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Deathcrush](https://open.spotify.com/album/2RxBdrvHKwgx57RKrNQ9hz) | 3:32 | 2022-07-13 | 2023-03-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,498 likes - 45 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,523 likes - 45 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 44 | [People](https://open.spotify.com/track/6XxJvG70zuktjFNyDxzLJ5) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silence In The Secret Garden](https://open.spotify.com/album/37z6C0yEkeOzbIYR17kRqg) | 4:21 |
 | 45 | [Fool On The Street](https://open.spotify.com/track/0unXRZP4a8LrcXQGBCOPg9) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Bustin' Out of L Seven \(Expanded Edition\)](https://open.spotify.com/album/4EsbzWIeUYpEF5Sv0yH8Ig) | 7:49 |
 
-Snapshot ID: `MCxiYTNhZTkxYTVlNTZjN2MxZmE0NThiYmI2YzQ0MGUzZDQ1MTUwYTkz`
+Snapshot ID: `MCw5NGIwZDQwM2E1OTBjZjBlM2FlNDdhNWIwOWZmNTI5NGUzOWZlOTAz`

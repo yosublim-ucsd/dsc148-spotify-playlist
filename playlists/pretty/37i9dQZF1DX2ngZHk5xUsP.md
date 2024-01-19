@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,341 likes - 83 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,352 likes - 83 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 58 | [MOKSA](https://open.spotify.com/track/5vGj9cAtJRhzNlqEdUOyrs) | [Saptarasa](https://open.spotify.com/artist/3dnQwz2O4A87p0qKzP7e8M) | [MOKSA](https://open.spotify.com/album/7fBsK8IA2iooPAPzChSPaF) | 4:51 |
 | 59 | [Kelana](https://open.spotify.com/track/7kAhOXTPVwKODIWUzSosi1) | [Mooner](https://open.spotify.com/artist/3Nq3ERFOZXkIxMjESQxrWL) | [O\. M.](https://open.spotify.com/album/1q2oM4KRamlQUldy9Zcf6W) | 3:42 |
 | 60 | [Dan Bandung \(feat\. Danilla\)](https://open.spotify.com/track/3qmIfhZnHenyTcWzWu8IJP) | [The Panasdalam Bank](https://open.spotify.com/artist/0sfi4c54RwQVfvfq6yz8fc), [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Dan Bandung \(feat\. Danilla\)](https://open.spotify.com/album/0wTyAlIVylu3Q88tWEUdeM) | 2:36 |
-| 61 | [Bandung](https://open.spotify.com/track/4WZYpmsmALlQCYLLjyiicB) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/5pJVObCUAQ0mcEgV3Rrtji) | 4:49 |
+| 61 | [Bandung](https://open.spotify.com/track/1zScTLvtnTOO3HmtieB6i1) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/6ej8qsrXEhtkhYYKUoTa4h) | 4:49 |
 | 62 | [Sha La La](https://open.spotify.com/track/2oE4nQnV1D4PTZFoDw8JTF) | [Putih Abu\-Abu](https://open.spotify.com/artist/3yRNoZZuzU5TC7uwOxd7cL) | [Sha La La](https://open.spotify.com/album/15OsMcIup45YQk0TVp2AFn) | 3:31 |
 | 63 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 |
 | 64 | [Love Saturday](https://open.spotify.com/track/24unKxTtjxhMSIJ64XbFCS) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Hypnagogic](https://open.spotify.com/album/2feY3htG1EXcmCBTfyLE5F) | 4:05 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 82 | [Bebende](https://open.spotify.com/track/6QM1lU1VMJlSROw6ZJ40u5) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Ferdinan Sule](https://open.spotify.com/artist/1CrwRIUK36rqXADc2O6YdP) | [Bebende](https://open.spotify.com/album/2l8HYZ1xJsX7GbKxvjsE3U) | 5:12 |
 | 83 | [Kataji](https://open.spotify.com/track/4HUmuIdScp4K9yjaCk73pD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 3:42 |
 
-Snapshot ID: `MCxmYTE5MTIwZDQ5NjUyYTI4YTNmZWEwMDZhOTAwOWY4ZjQyMWFkYmJl`
+Snapshot ID: `MCw2ODVlMDJjOTU4MmYwNTNiMTM4NjQyNDQwMmZkMDU1ZDg3NDkyOTQ4`

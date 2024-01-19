@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "The Bear Went Over The Mountain",
+        "url": "https://open.spotify.com/album/3UNesgZZ7kSZJKGkn7JYRb"
+      },
+      "artists": [
+        {
+          "name": "Henry Tales",
+          "url": "https://open.spotify.com/artist/3cndWcNVmK1Qx61hk4V4aM"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108690,
+      "name": "The Bear Went Over The Mountain",
+      "url": "https://open.spotify.com/track/4wzvf1g30kEIVIN8zwxI8f"
+    },
+    {
+      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 217695,
+  "num_followers": 217717,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzM0YjE1Mzc4YzljMTc0NzU0MGM5NjQ2NDdlNGZjNzZiOWQ2MjQw",
+  "snapshot_id": "MCw5MTU5MDM5ZDcyMTRmYzY3OTU0MTQ4YTkzMTIwNGI5ODVlOTVlNDIz",
   "tracks": [
     {
       "added_at": "2024-01-09 09:49:14",
@@ -299,38 +299,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "No Goodbye",
-        "url": "https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL"
-      },
-      "artists": [
-        {
-          "name": "Jules Dubois",
-          "url": "https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY"
-        }
-      ],
-      "duration_ms": 144624,
-      "name": "No Goodbye",
-      "url": "https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "An Inward Stillness",
-        "url": "https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW"
-      },
-      "artists": [
-        {
-          "name": "Augustino",
-          "url": "https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC"
-        }
-      ],
-      "duration_ms": 162938,
-      "name": "An Inward Stillness",
-      "url": "https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Sapphire Tears",
         "url": "https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc"
       },
@@ -347,18 +315,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Garden Of Dreams",
-        "url": "https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B"
+        "name": "No Goodbye",
+        "url": "https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL"
       },
       "artists": [
         {
-          "name": "Fl\u00f3ki",
-          "url": "https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT"
+          "name": "Jules Dubois",
+          "url": "https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Garden Of Dreams",
-      "url": "https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp"
+      "duration_ms": 144624,
+      "name": "No Goodbye",
+      "url": "https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -379,6 +347,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "An Inward Stillness",
+        "url": "https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW"
+      },
+      "artists": [
+        {
+          "name": "Augustino",
+          "url": "https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC"
+        }
+      ],
+      "duration_ms": 162938,
+      "name": "An Inward Stillness",
+      "url": "https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Sogni di Positano",
         "url": "https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 207111,
       "name": "Sogni di Positano",
       "url": "https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Garden Of Dreams",
+        "url": "https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00f3ki",
+          "url": "https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Garden Of Dreams",
+      "url": "https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Sonata",
-        "url": "https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0"
-      },
-      "artists": [
-        {
-          "name": "Madelene Olsson",
-          "url": "https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3"
-        }
-      ],
-      "duration_ms": 263124,
-      "name": "Sonata",
-      "url": "https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Syllables Flow",
         "url": "https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0"
       },
@@ -635,50 +619,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Flourish",
-        "url": "https://open.spotify.com/album/3ZZa5qPd2XsANxEP7Aypnp"
+        "name": "Sonata",
+        "url": "https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0"
       },
       "artists": [
         {
-          "name": "Vincent Pino",
-          "url": "https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR"
+          "name": "Madelene Olsson",
+          "url": "https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3"
         }
       ],
-      "duration_ms": 151124,
-      "name": "Flourish",
-      "url": "https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Real As Rain",
-        "url": "https://open.spotify.com/album/3GzSfzBdU8FXRnrSLQxJGF"
-      },
-      "artists": [
-        {
-          "name": "Ellen Wince",
-          "url": "https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP"
-        }
-      ],
-      "duration_ms": 126305,
-      "name": "Real As Rain",
-      "url": "https://open.spotify.com/track/7zhkMFOWQEwHxIrZzd8Ze5"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "The Curtain Rises",
-        "url": "https://open.spotify.com/album/2KvuhRj0uIOlmVZdaiO5lo"
-      },
-      "artists": [
-        {
-          "name": "Casimir Roux",
-          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
-        }
-      ],
-      "duration_ms": 125394,
-      "name": "The Curtain Rises",
-      "url": "https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe"
+      "duration_ms": 263124,
+      "name": "Sonata",
+      "url": "https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -699,6 +651,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Real As Rain",
+        "url": "https://open.spotify.com/album/3GzSfzBdU8FXRnrSLQxJGF"
+      },
+      "artists": [
+        {
+          "name": "Ellen Wince",
+          "url": "https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP"
+        }
+      ],
+      "duration_ms": 126305,
+      "name": "Real As Rain",
+      "url": "https://open.spotify.com/track/7zhkMFOWQEwHxIrZzd8Ze5"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Forbidden Chords",
         "url": "https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A"
       },
@@ -715,34 +683,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Sorgl\u00f8s",
-        "url": "https://open.spotify.com/album/1rZTPCZzEuYn9uzChNGdTw"
+        "name": "Flourish",
+        "url": "https://open.spotify.com/album/3ZZa5qPd2XsANxEP7Aypnp"
       },
       "artists": [
         {
-          "name": "Jacob David",
-          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+          "name": "Vincent Pino",
+          "url": "https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR"
         }
       ],
-      "duration_ms": 127354,
-      "name": "Sorgl\u00f8s",
-      "url": "https://open.spotify.com/track/5ehX9txsKfW0npyLGMHkcn"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/5WmgcLlvxLBGF0exbEyv5h"
-      },
-      "artists": [
-        {
-          "name": "Jozef De Schutter",
-          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/6a04n0DK9frDlgWEQkl2S8"
+      "duration_ms": 151124,
+      "name": "Flourish",
+      "url": "https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -763,18 +715,50 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Incision In The Silence",
-        "url": "https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN"
+        "name": "The Curtain Rises",
+        "url": "https://open.spotify.com/album/2KvuhRj0uIOlmVZdaiO5lo"
       },
       "artists": [
         {
-          "name": "Leisel Walker",
-          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
         }
       ],
-      "duration_ms": 129563,
-      "name": "Incision In The Silence",
-      "url": "https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83"
+      "duration_ms": 125394,
+      "name": "The Curtain Rises",
+      "url": "https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5WmgcLlvxLBGF0exbEyv5h"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/6a04n0DK9frDlgWEQkl2S8"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Sorgl\u00f8s",
+        "url": "https://open.spotify.com/album/1rZTPCZzEuYn9uzChNGdTw"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "duration_ms": 127354,
+      "name": "Sorgl\u00f8s",
+      "url": "https://open.spotify.com/track/5ehX9txsKfW0npyLGMHkcn"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -791,6 +775,22 @@
       "duration_ms": 131106,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5FR4qwfIZJu9sUBjR77l99"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Incision In The Silence",
+        "url": "https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "duration_ms": 129563,
+      "name": "Incision In The Silence",
+      "url": "https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR"
-      },
-      "artists": [
-        {
-          "name": "April Baxter",
-          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR"
+      },
+      "artists": [
+        {
+          "name": "April Baxter",
+          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Feeling for the next",
         "url": "https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Sailing Away",
-        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
-      },
-      "artists": [
-        {
-          "name": "Anthony Jacobus",
-          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
-        }
-      ],
-      "duration_ms": 143879,
-      "name": "Sailing Away",
-      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "The hills",
         "url": "https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 172264,
       "name": "The hills",
       "url": "https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Sailing Away",
+        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "duration_ms": 143879,
+      "name": "Sailing Away",
+      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Chiral",
-        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
-      },
-      "artists": [
-        {
-          "name": "Sven Grimm",
-          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Chiral",
-      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Morning Dance",
         "url": "https://open.spotify.com/album/3DD7atkh8NCnmAkRff4Qlt"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 145027,
       "name": "Morning Dance",
       "url": "https://open.spotify.com/track/1HNWHlc0OfRnCCeoLAwKzJ"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Autumnal",
+        "url": "https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM"
+      },
+      "artists": [
+        {
+          "name": "Max Dew",
+          "url": "https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW"
+        }
+      ],
+      "duration_ms": 124416,
+      "name": "Autumnal",
+      "url": "https://open.spotify.com/track/6i653T49GCokF7aFcgG76h"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1119,18 +1119,34 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Autumnal",
-        "url": "https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM"
+        "name": "Chiral",
+        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
       },
       "artists": [
         {
-          "name": "Max Dew",
-          "url": "https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW"
+          "name": "Sven Grimm",
+          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
         }
       ],
-      "duration_ms": 124416,
-      "name": "Autumnal",
-      "url": "https://open.spotify.com/track/6i653T49GCokF7aFcgG76h"
+      "duration_ms": 147500,
+      "name": "Chiral",
+      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
+      },
+      "artists": [
+        {
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Del Mar",
-        "url": "https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ"
-      },
-      "artists": [
-        {
-          "name": "Josh Jacobson",
-          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
-        }
-      ],
-      "duration_ms": 160064,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Fallen Leaves",
         "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
       },
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
+        "name": "Del Mar",
+        "url": "https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ"
       },
       "artists": [
         {
-          "name": "Lexi Bradley",
-          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+          "name": "Josh Jacobson",
+          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
         }
       ],
-      "duration_ms": 124500,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3"
+      "duration_ms": 160064,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2"
+      },
+      "artists": [
+        {
+          "name": "Hans Bukowski",
+          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
+        }
+      ],
+      "duration_ms": 139250,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
         "name": "Night Solace",
         "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
       },
@@ -1323,6 +1339,22 @@
       "duration_ms": 180308,
       "name": "Morning-Star",
       "url": "https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Au matin du magicien",
+        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "duration_ms": 122560,
+      "name": "Au matin du magicien",
+      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1375,70 +1407,6 @@
     {
       "added_at": "2024-01-09 09:49:14",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2"
-      },
-      "artists": [
-        {
-          "name": "Hans Bukowski",
-          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
-        }
-      ],
-      "duration_ms": 139250,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Au matin du magicien",
-        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
-        }
-      ],
-      "duration_ms": 122560,
-      "name": "Au matin du magicien",
-      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Woman traveling alone",
-        "url": "https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1"
-      },
-      "artists": [
-        {
-          "name": "Leisel Walker",
-          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
-        }
-      ],
-      "duration_ms": 126396,
-      "name": "Woman traveling alone",
-      "url": "https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Evoke",
-        "url": "https://open.spotify.com/album/6C8bQ1SVXBEbc2bTJDndJH"
-      },
-      "artists": [
-        {
-          "name": "Michael Frankenberger",
-          "url": "https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ"
-        }
-      ],
-      "duration_ms": 134004,
-      "name": "Evoke",
-      "url": "https://open.spotify.com/track/5nH4IicA1G7pxIfgHPZNp0"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
         "name": "Melancholy",
         "url": "https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3"
       },
@@ -1451,22 +1419,6 @@
       "duration_ms": 214630,
       "name": "Melancholy",
       "url": "https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau"
-    },
-    {
-      "added_at": "2024-01-09 09:49:14",
-      "album": {
-        "name": "Feuille",
-        "url": "https://open.spotify.com/album/5k7Np39Dg8TY4fU2ogaPjX"
-      },
-      "artists": [
-        {
-          "name": "Elijah Reeves",
-          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "Feuille",
-      "url": "https://open.spotify.com/track/5n3wnLgfqGMMCAvx4dxZxO"
     },
     {
       "added_at": "2024-01-09 09:49:14",
@@ -1499,6 +1451,54 @@
       "duration_ms": 138187,
       "name": "Lugn",
       "url": "https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Woman traveling alone",
+        "url": "https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "duration_ms": 126396,
+      "name": "Woman traveling alone",
+      "url": "https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Feuille",
+        "url": "https://open.spotify.com/album/5k7Np39Dg8TY4fU2ogaPjX"
+      },
+      "artists": [
+        {
+          "name": "Elijah Reeves",
+          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "Feuille",
+      "url": "https://open.spotify.com/track/5n3wnLgfqGMMCAvx4dxZxO"
+    },
+    {
+      "added_at": "2024-01-09 09:49:14",
+      "album": {
+        "name": "Evoke",
+        "url": "https://open.spotify.com/album/6C8bQ1SVXBEbc2bTJDndJH"
+      },
+      "artists": [
+        {
+          "name": "Michael Frankenberger",
+          "url": "https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ"
+        }
+      ],
+      "duration_ms": 134004,
+      "name": "Evoke",
+      "url": "https://open.spotify.com/track/5nH4IicA1G7pxIfgHPZNp0"
     },
     {
       "added_at": "2024-01-09 09:49:14",

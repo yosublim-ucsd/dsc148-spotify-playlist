@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-282 songs - 20 hr 54 min
+283 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Amelia](https://open.spotify.com/track/6QFe6vJhkqlHEgejKYc992) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/5cYxKr8O3AnJs17QeF6M9t) | 3:13 | 2022-09-29 | 2023-07-17 |
 | [Amor](https://open.spotify.com/track/6zqQCPgWUqJZSfaAbG6o8p) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Umut Kilic](https://open.spotify.com/artist/4LTPqfgIAxjjCcPtszxBiT) | [Amor](https://open.spotify.com/album/2sXEo5lJtkMIFLgyS5Oxwx) | 3:00 | 2021-11-05 | 2022-09-05 |
 | [Anatolian Vibe](https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld) | [Kad1r](https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi), [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Anatolian Vibe](https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK) | 3:07 | 2022-04-15 |  |
+| [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/track/6q9NkHUStU2RddAreEpomo) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ribale Wehbe](https://open.spotify.com/artist/0aDFtp48TNejF5G7hqM4J9) | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/album/5ysZd6Tg1QMm90mLUSCCjK) | 4:21 | 2024-01-18 |  |
 | [Angelic](https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [Ikonnya](https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1) | [Angelic](https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3) | 4:29 | 2022-01-03 | 2023-10-11 |
 | [Anlar](https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Anlar](https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c) | 7:10 | 2020-10-18\* |  |
 | [Arab Money](https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC) | [Moonlight](https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ), [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Arab Money](https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5) | 2:16 | 2021-11-14 | 2023-09-15 |
@@ -107,7 +108,7 @@
 | [Giza](https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Giza](https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw) | 7:12 | 2020-11-06 | 2021-02-12 |
 | [Hasat](https://open.spotify.com/track/2AozWD8d95Q39J740Ba070) | [Hey! Douglas](https://open.spotify.com/artist/72xb37kgUWGPVJqqBFhGKq) | [Hasat](https://open.spotify.com/album/192JWsGEt8HNOKHHzuh3ux) | 3:15 | 2023-09-29 | 2023-11-11 |
 | [Heatiche \- Vip Mix](https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO) | [Mpirgkel](https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4) | [Heatiche \(Vip Mix\)](https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3) | 3:36 | 2023-07-03 |  |
-| [Hebele Hubulu](https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt) | [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl) | [Hebele Hubulu & Belantash](https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj) | 8:04 | 2021-03-08 |  |
+| [Hebele Hubulu](https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt) | [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl) | [Hebele Hubulu & Belantash](https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj) | 8:04 | 2021-03-08 | 2024-01-19 |
 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 | 2020-10-18\* | 2023-04-24 |
 | [Helwa Belady El Samra \(Kharma Remix\)](https://open.spotify.com/track/5usGKrykRENg5c3DAOEEIN) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Helwa Belady El Samra \(Kharma Remix\)](https://open.spotify.com/album/6E1OsQm0cdga4YR0LH5cv7) | 2:56 | 2020-12-13 | 2023-03-18 |
 | [Hey Hey](https://open.spotify.com/track/2FROUQIblxhRtNa5OBPMLB) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [DIESE](https://open.spotify.com/artist/75nmfDZti5vB2i3dUEc0KG) | [Hey Hey](https://open.spotify.com/album/5I5AAajOGNZA9za66DpimM) | 4:08 | 2020-10-18\* | 2023-03-18 |

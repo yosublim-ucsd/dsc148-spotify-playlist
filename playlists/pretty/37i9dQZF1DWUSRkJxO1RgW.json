@@ -1,12 +1,12 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 285694,
+  "num_followers": 285767,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjI1MTIzNzIyNmUxMGQwMmI3NTEyY2U5ZjQzMjEyOTI2M2IyM2Ix",
+  "snapshot_id": "MCxiYTczNjZiMThkYTVlNDI4NDcwMGU3MzBlM2FlNDA4ZDE0YmM3NmQ3",
   "tracks": [
     {
       "added_at": "2020-03-13 14:40:50",
@@ -367,6 +367,22 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "La Bestia Pop",
+      "url": "https://open.spotify.com/track/6BHlafXY1L2eetDCwict05"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
         "name": "Yo Te Avis\u00e9",
         "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 173866,
       "name": "El Extra\u00f1o del Pelo Largo",
       "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 247066,
-      "name": "La Bestia Pop",
-      "url": "https://open.spotify.com/track/6BHlafXY1L2eetDCwict05"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -767,6 +767,22 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 259026,
+      "name": "Barbazul Versus el Amor Letal",
+      "url": "https://open.spotify.com/track/4raoyZZLL6wsxihsGjuNev"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
         "name": "Ratones Paranoicos",
         "url": "https://open.spotify.com/album/4jiSCesO2MeWBzRze9cfRq"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 142373,
       "name": "Entreg\u00e1 el Marr\u00f3n",
       "url": "https://open.spotify.com/track/1U9nKdWvYxGLyoi25KSSdh"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 259026,
-      "name": "Barbazul Versus el Amor Letal",
-      "url": "https://open.spotify.com/track/4raoyZZLL6wsxihsGjuNev"
     },
     {
       "added_at": "2020-03-13 14:40:50",

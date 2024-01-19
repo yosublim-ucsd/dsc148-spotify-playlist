@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-467 songs - 1 day 9 hr 16 min
+468 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Sea of Stars \(Miami Nights 1984 Remix\)](https://open.spotify.com/track/68GKHn1VXyM8RHG1rm4Ov1) | [W O L F C L U B](https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX), [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [A Sea of Stars \(Miami Nights 1984 Remix\)](https://open.spotify.com/album/7bnXNCT9BhCqYra8IT8OWq) | 3:31 | 2023-01-20 |  |
 | [a ti y a mi nos quieren hacer daño](https://open.spotify.com/track/6XhDdfzt0TIv4g9jlFzqCq) | [Fran Laoren](https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4) | [a ti y a mi nos quieren hacer daño](https://open.spotify.com/album/4nWVVZDWGn1M25LblFJHFg) | 3:08 | 2022-04-01 | 2022-04-08 |
 | [Above The Clouds](https://open.spotify.com/track/3AGsnf8fjX4vBsIybP3B8T) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [Nights](https://open.spotify.com/album/4pQQ9w4fIP6hawkDfMvUZS) | 5:01 | 2023-10-23 |  |
+| [Across Dark Sky](https://open.spotify.com/track/4h7PsMHwolAXNV7bemumCp) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Across Dark Sky](https://open.spotify.com/album/6eOBd7hfeFIFnNCzVkPh90) | 3:13 | 2023-11-27 |  |
 | [Aether](https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Aether](https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP) | 4:18 | 2023-01-13 |  |
 | [Aether](https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Aether](https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe) | 3:26 | 2021-10-15 |  |
 | [After Hours](https://open.spotify.com/track/4qg3M8Ml85iliPG2WRQ3FM) | [Sunset Neon](https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s) | [Starlight \(Deluxe Edition\)](https://open.spotify.com/album/6o57o477VyFrubOJqTMwUV) | 4:00 | 2021-10-15 | 2022-11-03 |
@@ -270,7 +271,7 @@
 | [Midnight Rush](https://open.spotify.com/track/3kJ3TGvlcGuTurW61yozSk) | [Midnight Fury](https://open.spotify.com/artist/7KtT9HksuZwyjNyarlG9CF) | [Midnight Rush](https://open.spotify.com/album/2wATmdWSUWmfmPm1UxV72u) | 3:47 | 2023-10-23 |  |
 | [Midnight Sun](https://open.spotify.com/track/7gXY6hi9SOoYDkLQwgVSs1) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x) | [Lost At Midnight](https://open.spotify.com/album/2ipEAI9zGgsbf0CSkYBVS6) | 3:55 | 2022-04-01 | 2022-10-15 |
 | [Million Ways \(Gerd Janson Remix\)](https://open.spotify.com/track/4o6gyMI1lCRCVv7Pm67iKd) | [Sally Shapiro](https://open.spotify.com/artist/0Guuvi7P0R6ZuX2DeL1m9M), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Sad Cities \(The Remixes\)](https://open.spotify.com/album/5CkvOzrSaV33y1qSXmywUz) | 6:22 | 2022-04-01 | 2022-04-16 |
-| [Missense](https://open.spotify.com/track/2MFdVPnEWRjXQIY96VgiGn) | [PatternShift](https://open.spotify.com/artist/6MNFOvQOGj0BYmHJa6tVIV) | [Missense](https://open.spotify.com/album/5bIiP1fm9HipstrA6ZK56u) | 3:27 | 2023-11-27 |  |
+| [Missense](https://open.spotify.com/track/2MFdVPnEWRjXQIY96VgiGn) | [PatternShift](https://open.spotify.com/artist/6MNFOvQOGj0BYmHJa6tVIV) | [Missense](https://open.spotify.com/album/5bIiP1fm9HipstrA6ZK56u) | 3:27 | 2023-11-27 | 2024-01-19 |
 | [Modern Fears \- Pilotpriest Come True Version](https://open.spotify.com/track/2OzZve272q1HaQPaGqoth4) | [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b) | [Modern Fears \(Pilotpriest Come True Version\)](https://open.spotify.com/album/2sCAkn3RnGP50m66FERBxS) | 4:02 | 2022-04-01 | 2022-06-10 |
 | [Modern Touch](https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55) | [SelloRekt / LA Dreams](https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa) | [Machine Wired](https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4) | 4:03 | 2022-07-01 |  |
 | [Monsoon \- Æ7 Night Remix](https://open.spotify.com/track/2KLaeABcYhR1K37R7uj6Ji) | [Sebastian Weikum](https://open.spotify.com/artist/4xWupN4Z8DJwehAOfdS0CT), [Alexey Sonar](https://open.spotify.com/artist/3kylBPGbC27D97TR1JUwod), [Æ7](https://open.spotify.com/artist/68Rpj4TxoMVq6JRyH13UAO) | [Monsoon](https://open.spotify.com/album/53x07LQf5NZUvR0UMRxsxh) | 3:30 | 2022-09-23 |  |

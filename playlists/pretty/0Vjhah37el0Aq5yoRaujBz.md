@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 
 > Let this upbeat playlist power you through your day
 
-[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,372 likes - 306 songs - 18 hr 4 min
+[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,373 likes - 306 songs - 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,7 +267,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 | 257 | [Real Life](https://open.spotify.com/track/6jz9EMWHffNKVlZQVXOLoz) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Real Life](https://open.spotify.com/album/55pLHOPxFKEi82Z15IeHxq) | 3:25 |
 | 258 | [Cheers](https://open.spotify.com/track/7E3zDaENiSU0G1C9TpE6Kx) | [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [Trust Cycles](https://open.spotify.com/album/0cjo3LJpIJ6BuSthplEEP5) | 4:11 |
 | 259 | [Get What You Give](https://open.spotify.com/track/0DTtMH8wB4UiRCjk6NgWl5) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Get What You Give](https://open.spotify.com/album/166d8FMKJMP4SIWSCIpoAf) | 3:39 |
-| 260 | [Feels Right \- Radio Edit](https://open.spotify.com/track/54fiTamOOfnsB9wmxhaENl) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Yung Fusion](https://open.spotify.com/artist/0daSHuKxoXYl50HIQ9aKzt) | [Feels Right \(Radio Edit\)](https://open.spotify.com/album/2es8Q8WT33yjTCsesK1ulS) | 3:19 |
+| 260 | [Feels Right \- Radio Edit](https://open.spotify.com/track/54fiTamOOfnsB9wmxhaENl) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [MYRNE](https://open.spotify.com/artist/632fMOQcvsV7yK9F9v2jGe), [Yung Fusion](https://open.spotify.com/artist/0daSHuKxoXYl50HIQ9aKzt) | [Feels Right \(Radio Edit\)](https://open.spotify.com/album/2es8Q8WT33yjTCsesK1ulS) | 3:19 |
 | 261 | [Came Here for Love](https://open.spotify.com/track/3kGfazcbVvVkuZunzlLgTD) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love](https://open.spotify.com/album/22x1g0NEicPMxuEOXlGUw5) | 3:22 |
 | 262 | [High Without Your Love \- NAKID Remix](https://open.spotify.com/track/4ef0bZuCoMw9rPXM83Edoj) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [NAKID](https://open.spotify.com/artist/1C7NaBmW6t39ws5wdCl8S1) | [High Without Your Love \(NAKID Remix\)](https://open.spotify.com/album/37gFqCSNjC8EtFuPok81jf) | 3:30 |
 | 263 | [Save A Little Love](https://open.spotify.com/track/2ibLTZM8SvPx8ZfvjnuMvs) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Save A Little Love](https://open.spotify.com/album/0VDGUwr6cLuNglcbJzFVh7) | 3:22 |

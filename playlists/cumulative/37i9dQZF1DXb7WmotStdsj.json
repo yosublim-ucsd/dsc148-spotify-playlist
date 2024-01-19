@@ -2394,7 +2394,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 600177,
       "name": "Moul Karsan",
       "url": "https://open.spotify.com/track/3eQ2E727Y6KGITYZo3zX1d"
@@ -2836,6 +2836,28 @@
       "duration_ms": 769593,
       "name": "Tayer 3la jalha Rouho golouhalh",
       "url": "https://open.spotify.com/track/59h6C78HlXp830a2rkxfoC"
+    },
+    {
+      "album": {
+        "name": "Tayha Love",
+        "url": "https://open.spotify.com/album/6wl0rqJu3eO97Z1Qyfv8Gd"
+      },
+      "artists": [
+        {
+          "name": "Cheb Nassim",
+          "url": "https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo"
+        },
+        {
+          "name": "Tchikou 22",
+          "url": "https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283696,
+      "name": "Tayha Love",
+      "url": "https://open.spotify.com/track/3ZFDVnwbi8cJiEyPxbZGea"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x?si=fKODYe_8T1yTmzhm70J3Cw\">Fokofpolisiekar</a>",
-  "num_followers": 16406,
+  "num_followers": 16428,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjVmZGE5NGNlYjg0NTk0YTc5ZjVjMmVkNDJiODFhN2QxOWMxODMz",
+  "snapshot_id": "MCxlYjBjOTM1NGNmZjRkZDU3ZWNiNzQ4Y2ViMmUyM2FmNWZlZjM0MjQy",
   "tracks": [
     {
       "added_at": "2023-12-14 22:00:00",
@@ -39,38 +39,6 @@
       "duration_ms": 282973,
       "name": "Genie",
       "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
-    },
-    {
-      "added_at": "2023-12-14 22:00:00",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/1tFi3RKIVQU9ZQVHXF4POS"
-      },
-      "artists": [
-        {
-          "name": "Toughguy",
-          "url": "https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK"
-        }
-      ],
-      "duration_ms": 238403,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau"
-    },
-    {
-      "added_at": "2024-01-04 22:00:00",
-      "album": {
-        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
     },
     {
       "added_at": "2023-12-14 22:00:00",
@@ -193,6 +161,26 @@
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
     },
     {
+      "added_at": "2024-01-18 22:00:00",
+      "album": {
+        "name": "The Art Of Letting Go",
+        "url": "https://open.spotify.com/album/6U1qBWVsKKmUXnX69Ji96X"
+      },
+      "artists": [
+        {
+          "name": "Neon Dreams",
+          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
+        },
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "duration_ms": 188495,
+      "name": "The Art Of Letting Go",
+      "url": "https://open.spotify.com/track/0u0zYnOEX9pZjASBBg9kne"
+    },
+    {
       "added_at": "2024-01-04 22:00:00",
       "album": {
         "name": "Stardust Galaxies",
@@ -307,8 +295,8 @@
     {
       "added_at": "2024-01-04 22:00:00",
       "album": {
-        "name": "All These Years",
-        "url": "https://open.spotify.com/album/1Ki1JJDaVcvkjeFpWMVpvT"
+        "name": "All These Years (Radio)",
+        "url": "https://open.spotify.com/album/409T4LHjVTyQZ3rP9YiYMr"
       },
       "artists": [
         {
@@ -317,8 +305,8 @@
         }
       ],
       "duration_ms": 249720,
-      "name": "Free Falling",
-      "url": "https://open.spotify.com/track/1oghNTXzkrD9RIpop74XsE"
+      "name": "Free Falling (Radio)",
+      "url": "https://open.spotify.com/track/5sV4pK5Ks0oB40x3hUbFLC"
     },
     {
       "added_at": "2024-01-04 22:00:00",
@@ -335,6 +323,38 @@
       "duration_ms": 141186,
       "name": "Sindikaat",
       "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
+    },
+    {
+      "added_at": "2024-01-18 22:00:00",
+      "album": {
+        "name": "I'm On My Way",
+        "url": "https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A"
+      },
+      "artists": [
+        {
+          "name": "Steve Umculo",
+          "url": "https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "I'm On My Way",
+      "url": "https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG"
+    },
+    {
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/1tFi3RKIVQU9ZQVHXF4POS"
+      },
+      "artists": [
+        {
+          "name": "Toughguy",
+          "url": "https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK"
+        }
+      ],
+      "duration_ms": 238403,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau"
     },
     {
       "added_at": "2024-01-04 22:00:00",
@@ -399,22 +419,6 @@
       "duration_ms": 202093,
       "name": "Sea Level",
       "url": "https://open.spotify.com/track/5oVEyw0jtycMK9hkDr1vaw"
-    },
-    {
-      "added_at": "2024-01-04 22:00:00",
-      "album": {
-        "name": "Lines from the Broken Telephone",
-        "url": "https://open.spotify.com/album/13XGOiU75FZslOXSpipZvd"
-      },
-      "artists": [
-        {
-          "name": "Marlowe",
-          "url": "https://open.spotify.com/artist/4ZY49Da5Jtv8pfmea1XWdu"
-        }
-      ],
-      "duration_ms": 241319,
-      "name": "Baby's Breath",
-      "url": "https://open.spotify.com/track/6H0P9Ln8xtXFs60s6cHYQa"
     },
     {
       "added_at": "2024-01-04 22:00:00",
@@ -527,6 +531,38 @@
       "duration_ms": 243720,
       "name": "Lonely-lonely",
       "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
+    },
+    {
+      "added_at": "2024-01-18 22:00:00",
+      "album": {
+        "name": "Travelers",
+        "url": "https://open.spotify.com/album/2CsxtFbCzVIYDxeBqHLnaO"
+      },
+      "artists": [
+        {
+          "name": "West Coast Wolves",
+          "url": "https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY"
+        }
+      ],
+      "duration_ms": 159472,
+      "name": "Travelers",
+      "url": "https://open.spotify.com/track/6wxarX9bnQDgWdaiPhuot7"
+    },
+    {
+      "added_at": "2024-01-04 22:00:00",
+      "album": {
+        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
     },
     {
       "added_at": "2024-01-04 22:00:00",
@@ -819,22 +855,6 @@
     {
       "added_at": "2024-01-04 22:00:00",
       "album": {
-        "name": "If It Hurts, It's Healing",
-        "url": "https://open.spotify.com/album/6pWgUmwkKPRsrV3GXVBNDS"
-      },
-      "artists": [
-        {
-          "name": "Wickhead",
-          "url": "https://open.spotify.com/artist/0fYTz16aQCU6BnKa4kLsO5"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Make Your Mind Up",
-      "url": "https://open.spotify.com/track/5P4qDvy8o3F6WjeWoU5fMo"
-    },
-    {
-      "added_at": "2024-01-04 22:00:00",
-      "album": {
         "name": "Die gids vir grootword",
         "url": "https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU"
       },
@@ -881,22 +901,6 @@
       "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
     },
     {
-      "added_at": "2024-01-04 22:00:00",
-      "album": {
-        "name": "Lungs Full",
-        "url": "https://open.spotify.com/album/3I87IU4iAsbIbD6E5Rh6PP"
-      },
-      "artists": [
-        {
-          "name": "Deity's Muse",
-          "url": "https://open.spotify.com/artist/2OsUSqoFMJqRFItJ4PkyDr"
-        }
-      ],
-      "duration_ms": 273750,
-      "name": "Still in Hiding",
-      "url": "https://open.spotify.com/track/7FzMqDke4PeNAcCXlZisXC"
-    },
-    {
       "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "O, My Donner",
@@ -917,6 +921,22 @@
       "url": "https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs"
     },
     {
+      "added_at": "2024-01-18 22:00:00",
+      "album": {
+        "name": "Born & Raised",
+        "url": "https://open.spotify.com/album/0PyGIf0dDWsd7Pj2dnRXgN"
+      },
+      "artists": [
+        {
+          "name": "Kenny Hughes",
+          "url": "https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Blues Truth",
+      "url": "https://open.spotify.com/track/3oNXo7kZWYKaPHZrw1mQtQ"
+    },
+    {
       "added_at": "2024-01-04 22:00:00",
       "album": {
         "name": "Will Take Over The World",
@@ -931,22 +951,6 @@
       "duration_ms": 170657,
       "name": "Chinese Warrior",
       "url": "https://open.spotify.com/track/3VTgw1kWglYQcLIQmUAdOL"
-    },
-    {
-      "added_at": "2024-01-04 22:00:00",
-      "album": {
-        "name": "Setlist",
-        "url": "https://open.spotify.com/album/5rq0FdtRKl1gImZ5LnWMPr"
-      },
-      "artists": [
-        {
-          "name": "FUZIGISH",
-          "url": "https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v"
-        }
-      ],
-      "duration_ms": 178343,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/7JRN7UxPNHr74n0nHtp8S4"
     },
     {
       "added_at": "2024-01-04 22:00:00",

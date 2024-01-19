@@ -4,7 +4,7 @@
 
 > sad lofi to keep your thoughts company when u r down\. remember this too shall pass
 
-91 songs - 3 hr 28 min
+92 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [open palms](https://open.spotify.com/track/5UFBTG0Q1OQI3RoBrExjum) | [Meliona](https://open.spotify.com/artist/7GvCcfowrxriTXXoNaiHle) | [open palms](https://open.spotify.com/album/5af6mHMof1QXV0Yq4g4TJU) | 2:07 | 2023-10-27 |  |
 | [perspective](https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [perspective](https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk) | 1:57 | 2023-10-27 |  |
 | [promised you](https://open.spotify.com/track/3X3nG3p7bb4XtGCh0ITsLv) | [Gibun](https://open.spotify.com/artist/2UjKSDLr7jx5VWshKXQ0bT) | [promised you](https://open.spotify.com/album/4y1qZp2i3lKxfWxrMlMeHb) | 2:06 | 2023-10-27 |  |
+| [rainforest echo](https://open.spotify.com/track/6XGIuWgTPuarzwUtLRaBCe) | [miura x miura](https://open.spotify.com/artist/24JB4ExVYytyA9AN9tBgMc) | [rainforest echo](https://open.spotify.com/album/6cW8eS7qg8QIlfAoqaBFel) | 2:05 | 2024-01-19 |  |
 | [rainy days](https://open.spotify.com/track/4dYfEHMUW9TxpYg8B5Iv5y) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [rainy days](https://open.spotify.com/album/65inz801tjfzT0VvCCoj7N) | 2:05 | 2024-01-12 |  |
 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 | 2023-10-27 |  |
 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 | 2023-10-27 |  |

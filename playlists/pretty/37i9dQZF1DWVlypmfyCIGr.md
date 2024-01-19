@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: レトロリロン
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,992 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,018 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Pray](https://open.spotify.com/track/2qHW7U1LRU9F9HPUnJ6ffk) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Pray](https://open.spotify.com/album/0oxb7UtZLAmpBjHZ0mM1PD) | 3:04 |
 | 80 | [WINTER DANCE](https://open.spotify.com/track/5d90AlhUhCDgY17imsiztL) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [Digitalian is eating breakfast](https://open.spotify.com/album/4ClHbl3AUrQeGH5GEg7QgT) | 5:52 |
 
-Snapshot ID: `MCw3OTM3MGJkM2ZhZDJiM2IzMjlhOTQyZmViMWM0NDRlZjQzNzNjNzMw`
+Snapshot ID: `MCxjZmRlZjRkNzllYjc1Mjk4NWY4OWMzZDlkZjY3ZDBjYzVhNTVlNjVi`

@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover: Jonita Gandhi, Ali Sethi
 
-185 songs - 9 hr 45 min
+187 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Anjani X](https://open.spotify.com/track/1h1vGNtJMR2xKfOm9pVrSz) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Anjani X](https://open.spotify.com/album/7HSsO0Hm9iWSXUAYO7y9E5) | 3:06 | 2024-01-12 |  |
 | [Bad Girls Dream](https://open.spotify.com/track/1121Ycebu41AqMwVtiCufT) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Bad Girls Dream](https://open.spotify.com/album/3ikuwtXoKOh8Izx0bhXuan) | 3:20 | 2021-11-10 | 2022-07-19 |
 | [Bad Habits](https://open.spotify.com/track/4paOi2D1A1pS5bPugSfUg7) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Bad Habits](https://open.spotify.com/album/4qKIwcoyB91GMyy9431kaf) | 3:47 | 2021-11-10 | 2022-06-21 |
+| [BAD NEWS](https://open.spotify.com/track/52gTAXc4sMqMT6fxLDEZTR) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD), [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [BAD NEWS](https://open.spotify.com/album/5jsO7peRXUhXMrPvHvGNEd) | 2:41 | 2024-01-18 |  |
 | [Beautiful](https://open.spotify.com/track/6bkSlqDEou4Juvkz4vivQ6) | [Muza](https://open.spotify.com/artist/79jA5f2Sa3pgRT0ZTtYplo), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Beautiful](https://open.spotify.com/album/2QSnKAK5bBtLHtOqtmJbwC) | 4:01 | 2023-09-22 |  |
 | [Beauty in All](https://open.spotify.com/track/2PDo3vOikLKooy5pMhlYuW) | [Humeysha](https://open.spotify.com/artist/1VoKwUAdCduhJQqJMIUHtW) | [Beauty in All](https://open.spotify.com/album/42mjYCx6QUmcuo9yTWOsva) | 4:08 | 2021-11-10 | 2022-05-27 |
 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 | 2022-10-06 |  |
@@ -174,6 +175,7 @@
 | [Touch](https://open.spotify.com/track/7N1GIRDrB1l14np1AT6EED) | [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd), [Rameet Sandhu](https://open.spotify.com/artist/3DvttNUNkwPw64Hp3BFsEP) | [Touch](https://open.spotify.com/album/7xbXd6O3AFkSHBeCnZ14Gi) | 3:09 | 2022-07-18 | 2022-10-07 |
 | [trevi fountain](https://open.spotify.com/track/1VZUg1xIkqqUUNCp2OPKIE) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [trevi fountain](https://open.spotify.com/album/31lWTYHxU5mCLJiGZAs0ur) | 3:57 | 2021-11-10 | 2022-07-19 |
 | [Trouble](https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:04 | 2021-11-10 | 2022-07-19 |
+| [Tu hai kahan \(feat\. ZAYN\)](https://open.spotify.com/track/7K6RLbkpqZI4OaoSnLcBiU) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Tu hai kahan \(feat\. ZAYN\)](https://open.spotify.com/album/64TpPq3QgOQUaX3GSNMEYt) | 4:29 | 2024-01-18 |  |
 | [Tumi Jaio Na](https://open.spotify.com/track/3vy7RGXfITuT1iebJwwJVQ) | [Master D](https://open.spotify.com/artist/5KQST9ferqWtr02OpnrrsA), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Tumi Jaio Na](https://open.spotify.com/album/5nNa4C77c2rJbqlmRA75NA) | 3:20 | 2022-07-18 | 2022-10-07 |
 | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/track/35bGZ0hG27HIz9ZnTGNr7N) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/album/30T3kSECyT1i2ytnwAcq0E) | 4:17 | 2022-10-06 |  |
 | [Two Nights](https://open.spotify.com/track/5BeS2mGbdYVfS53Q6bVinG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:06 | 2021-11-10 | 2022-10-07 |

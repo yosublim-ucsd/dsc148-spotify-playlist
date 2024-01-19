@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Jarina De Marco en portada.
 
-303 songs - 18 hr 12 min
+304 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Chakatrunka](https://open.spotify.com/track/5vw99DjJyEsxK0OU7ix30K) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Valentina Brishantina](https://open.spotify.com/artist/6kRJXBf5UTzwX4faVGTKhx) | [10.000 Días](https://open.spotify.com/album/0VVKlDMWh1Qtt5T9go3RqD) | 3:16 | 2022-03-04 | 2022-08-02 |
 | [Chalino y Sus 7 Balazos](https://open.spotify.com/track/25wMvLWjG1ev4XnKADowa0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 3:51 | 2021-10-05 | 2022-07-14 |
 | [Cigarros y Tragos](https://open.spotify.com/track/0iw2XtkqcydW4BgdsTyH2L) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA) | 5:55 | 2021-10-05 | 2022-05-28 |
+| [Cinema](https://open.spotify.com/track/5hLLjQBT8rWCcJ7LDd4Wru) | [Darío Abdala](https://open.spotify.com/artist/7CfkX18xoIBT9BAFZdh1m3) | [Cinema](https://open.spotify.com/album/0TZKZV51UMFGFRBOaZdZNc) | 2:42 | 2024-01-18 |  |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 | 2022-04-20 | 2022-09-20 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 | 2022-09-15 |
 | [Coidar dunhas Colmeas](https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf) | [Néboa](https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8) | [Coidar dunhas Colmeas](https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN) | 3:58 | 2021-10-05 | 2023-04-01 |
@@ -63,7 +64,7 @@
 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 | 2021-10-05 | 2024-01-09 |
 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 | 2021-10-05 | 2023-10-07 |
 | [Conversaciones](https://open.spotify.com/track/2JoIsTLmlVGiY2y602IkZN) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Conversaciones](https://open.spotify.com/album/5JO7X3vUSFQpo91NibWW5G) | 3:17 | 2021-10-05 | 2022-04-10 |
-| [Cool Down \(Ice Cream Donut\)](https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Cool Down \(Ice Cream Donut\)](https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te) | 3:42 | 2023-12-07 |  |
+| [Cool Down \(Ice Cream Donut\)](https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Cool Down \(Ice Cream Donut\)](https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te) | 3:42 | 2023-12-07 | 2024-01-19 |
 | [Corazon en Asteroides](https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt), [Victoria Reed](https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG) | [Corazon en Asteroides](https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw) | 3:58 | 2021-10-05 | 2023-04-01 |
 | [Corazón Usado](https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Isabel Aladro](https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607) | [Corazón Usado](https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz) | 3:52 | 2022-09-30 | 2023-06-23 |
 | [Couldn't Seal The Deal](https://open.spotify.com/track/4GZ61USOfH8M2EsWBdKzg1) | [Rudy De Anda](https://open.spotify.com/artist/4zAauwbGLs7vAEzfJEklGF), [BARDO](https://open.spotify.com/artist/2uHVCKIwvudS4Y9q6noXV7) | [Couldn't Seal The Deal](https://open.spotify.com/album/1Psb2TklWrfVmnfbqTnHj5) | 3:34 | 2021-10-05 | 2022-08-14 |

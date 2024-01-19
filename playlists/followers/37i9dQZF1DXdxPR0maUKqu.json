@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 68405,
+  "2024-01-19": 68434,
   "date_first_scraped": "2023-07-30",
   "description": "\u7406\u7531\u306e\u306a\u3044\u7126\u308a\u3001\u82db\u7acb\u3061\u3002\u308f\u3051\u3082\u306a\u304f\u53eb\u3073\u305f\u304f\u306a\u308b\u3002\u601d\u6625\u671f\u3092\u904e\u3054\u3059\u5168\u3066\u306e\u30c6\u30a3\u30fc\u30f3\u306b\u8d08\u308b\u3001\u5e30\u308a\u9053\u306e\u5fdc\u63f4\u6b4c\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u5915\u65b9\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3",
@@ -654,6 +654,42 @@
     },
     {
       "album": {
+        "name": "Love Song ga Iranai Kimi e",
+        "url": "https://open.spotify.com/album/4jnUmf2eZu1fO3Pel9LwhN"
+      },
+      "artists": [
+        {
+          "name": "Kaneyorimasaru",
+          "url": "https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223566,
+      "name": "Love Song ga Iranai Kimi e",
+      "url": "https://open.spotify.com/track/1JckJKUfnd4Xbkh7xfAk8c"
+    },
+    {
+      "album": {
+        "name": "address",
+        "url": "https://open.spotify.com/album/3nA3sTQ8Hq3KnZOtGmHQi4"
+      },
+      "artists": [
+        {
+          "name": "Hello Hello",
+          "url": "https://open.spotify.com/artist/0VHtkjMrNXTTDNE9Ej96og"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216133,
+      "name": "Magic hour",
+      "url": "https://open.spotify.com/track/7DJbEA0ADXdBwnJhs0ofHD"
+    },
+    {
+      "album": {
         "name": "But Really",
         "url": "https://open.spotify.com/album/70tdhywzgwknIJi3CaXGHK"
       },
@@ -795,6 +831,24 @@
       "duration_ms": 256066,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc"
+    },
+    {
+      "album": {
+        "name": "Nichijo no Sukosi Saki e",
+        "url": "https://open.spotify.com/album/0XhWJADP1qlTKGyaRU31AH"
+      },
+      "artists": [
+        {
+          "name": "Mr.\u3075\u3049\u308b\u3066",
+          "url": "https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Nichijo no Sukosi Saki e",
+      "url": "https://open.spotify.com/track/2XFgux5P8xq6JwgFImat2W"
     },
     {
       "album": {
@@ -978,6 +1032,24 @@
     },
     {
       "album": {
+        "name": "Sea U Again",
+        "url": "https://open.spotify.com/album/58YIbdLfmGbVlzhAR4tjOD"
+      },
+      "artists": [
+        {
+          "name": "Re:name",
+          "url": "https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "Sea U Again",
+      "url": "https://open.spotify.com/track/2bazWE21cNpkuXekVJwHZ4"
+    },
+    {
+      "album": {
         "name": "sea u again",
         "url": "https://open.spotify.com/album/7ovLZpKxHm8s7gUPraXQ0S"
       },
@@ -989,7 +1061,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 245240,
       "name": "sea u again",
       "url": "https://open.spotify.com/track/6eLoWC2cLV72ePaDFuGYq0"
@@ -2171,7 +2243,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 216133,
       "name": "\u30de\u30b8\u30c3\u30af\u30a2\u30ef\u30fc",
       "url": "https://open.spotify.com/track/5IoXNjutHKt9h4xIDe5Qa9"
@@ -2261,7 +2333,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 223566,
       "name": "\u30e9\u30d6\u30bd\u30f3\u30b0\u304c\u3044\u3089\u306a\u3044\u541b\u3078",
       "url": "https://open.spotify.com/track/3VXL22jDNdom9SZfdGRM5X"
@@ -2729,7 +2801,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 200000,
       "name": "\u65e5\u5e38\u306e\u5c11\u3057\u5148\u3078",
       "url": "https://open.spotify.com/track/6dhN74SWRrOMVHAhf0AfcA"

@@ -4,11 +4,12 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-103 songs - 6 hr 58 min
+103 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/5CPzdtBN36g76OBOvpP9f9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Piano Bazaar](https://open.spotify.com/album/0lx2QNZKKM2eE7YRqnnvBK) | 0:00 | 2023-08-18 | 2023-12-22 |
+| [](https://open.spotify.com/track/78ur2d8T40bGTeEGCPBi4e) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [CHOLI](https://open.spotify.com/album/6R2voNJW0jULdEQC9GIOGa) | 0:00 | 2023-10-27 |  |
 | [Aayati](https://open.spotify.com/track/3GfaTPUn1gzC1rJhzYQ7Um) | [Firaaq](https://open.spotify.com/artist/3souTM6F1BIoqEaLRDfaGc) | [Aayati](https://open.spotify.com/album/24JdrtJs3tRUuHbQb71CWU) | 5:54 | 2023-08-18 |  |
 | [Aja Sawariya](https://open.spotify.com/track/1YiwARhwbWkDELenG8Toi6) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Aja Sawariya](https://open.spotify.com/album/3DW4dwDoi4pGl5f55YqsKK) | 2:52 | 2023-08-18 |  |
 | [Aja Sawariya \- Remix](https://open.spotify.com/track/2c8olBjlarZbL6nUKn0vGM) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [The Spindoctor](https://open.spotify.com/artist/2bUONMhpskrzUmRkpZUVu3) | [Aja Sawariya \(Remix\)](https://open.spotify.com/album/0EfCp9ysBs6OCmckczM2lf) | 2:56 | 2023-09-08 |  |
@@ -23,7 +24,6 @@
 | [channo](https://open.spotify.com/track/2sPwFSESO5uF4h013k1RTo) | [Maraasim](https://open.spotify.com/artist/7stUMpaIH3pVscxYmlcvqv) | [channo](https://open.spotify.com/album/6INyQJqdMPQ8DJXpnx4QMm) | 1:36 | 2023-08-18 |  |
 | [Chayn](https://open.spotify.com/track/1XdeHskCYmIwqBiotoyUDo) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:47 | 2023-10-03 | 2023-11-02 |
 | [Chidiya](https://open.spotify.com/track/5YBz5gtNazOtbkQjUYWTjY) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Chidiya](https://open.spotify.com/album/7aVh40LYkpShPxOeGqRJis) | 6:08 | 2023-08-18 |  |
-| [CHOLI](https://open.spotify.com/track/78ur2d8T40bGTeEGCPBi4e) | [ShiShi](https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9), [Ben Parag](https://open.spotify.com/artist/62UT2WpXc0Ru255jslrGIe) | [CHOLI](https://open.spotify.com/album/6R2voNJW0jULdEQC9GIOGa) | 3:28 | 2023-10-27 |  |
 | [Clarify My Soul](https://open.spotify.com/track/483jACYT1HWbgvWSgYxEFq) | [November Rose](https://open.spotify.com/artist/40i8JD0t84iUXFC2Y2bNHO) | [Desi Spice, Vol\. 1](https://open.spotify.com/album/0DofQSWPcVfN5Bua73V3LI) | 3:51 | 2023-08-18 |  |
 | [DESI TRILL](https://open.spotify.com/track/3OgRRx4Lkm5TasN179rdZh) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X) | [DESI TRILL](https://open.spotify.com/album/4895fLdXIYE9fg9YohL1eW) | 2:38 | 2023-10-20 |  |
 | [Desperado](https://open.spotify.com/track/0OsuHhPPArdFzJGuIAacnN) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Desperado](https://open.spotify.com/album/52ujyfltTvDak6aBG9CNQu) | 4:07 | 2023-08-18 |  |

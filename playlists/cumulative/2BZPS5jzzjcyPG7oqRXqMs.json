@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Your go to Christian playlist for every day listening . Cover: Sadie Robertson Huff",
-  "name": "Living Christian",
+  "description": "Christian Soundtracks | Musicals Mix | Musical Soundtracks | Musical Bops | Christian TV Bops | Journey to Bethlehem | Musical Theatre Mix | Christian Music 2024 | The Chosen | Movie Musicals Mix | Musical Theatre Musicals Mix | Theatre Bops 2024 | Christian Movies",
+  "name": "Christian Soundtracks (Movie + TV)",
   "tracks": [
     {
       "album": {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 201000,
       "name": "[welcome to the garden]",
       "url": "https://open.spotify.com/track/59DiEYQhcAV7XNp9H8ldHK"
@@ -88,10 +88,58 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 309329,
       "name": "A Thousand Hallelujahs - Live",
       "url": "https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu"
+    },
+    {
+      "album": {
+        "name": "The Chosen: Season One (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5zuT34fr3AyhgqaRc8p2Fh"
+      },
+      "artists": [
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        },
+        {
+          "name": "Matthew S. Nelson",
+          "url": "https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE"
+        },
+        {
+          "name": "Dan Haseltine",
+          "url": "https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1"
+        },
+        {
+          "name": "Ruby Amanfu",
+          "url": "https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187720,
+      "name": "A Town on Fire",
+      "url": "https://open.spotify.com/track/0onY55pvGLfNuD9xv1TChB"
+    },
+    {
+      "album": {
+        "name": "Hillsong \u2013 Let Hope Rise (Live/Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffdIV1LbjNv7K0qUM1TY9"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512426,
+      "name": "Aftermath - Live",
+      "url": "https://open.spotify.com/track/2TKhEm8NfPQjhBjEKYwsEJ"
     },
     {
       "album": {
@@ -106,7 +154,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 213967,
       "name": "Ain't Nobody - Radio Version",
       "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
@@ -124,7 +172,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 160000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4xG2EUEUnmSfAIMt5xdQoa"
@@ -146,7 +194,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 381389,
       "name": "All About You - Live From Passion 2023",
       "url": "https://open.spotify.com/track/3N0aOVY4xR4sOP3hUCKiWN"
@@ -168,6 +216,66 @@
       "duration_ms": 255882,
       "name": "All I Ever Need",
       "url": "https://open.spotify.com/track/7sQ3XZD56ACwxkPstd0Mbg"
+    },
+    {
+      "album": {
+        "name": "The Prince of Egypt (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/7MOGTYjo3ifwHDBf0EBE71"
+      },
+      "artists": [
+        {
+          "name": "Alexia Khadime",
+          "url": "https://open.spotify.com/artist/4jtNresJX9NjFZczXgXfqY"
+        },
+        {
+          "name": "Luke Brady",
+          "url": "https://open.spotify.com/artist/2jHGDVfLRdO9sheZMMKAng"
+        },
+        {
+          "name": "Mercedesz Csampai",
+          "url": "https://open.spotify.com/artist/2hdVDwOkbLokRxF0hMAa2E"
+        },
+        {
+          "name": "Joe Dixon",
+          "url": "https://open.spotify.com/artist/26w9dIpC9OFSXjW4Oua7NM"
+        },
+        {
+          "name": "Debbie Kurup",
+          "url": "https://open.spotify.com/artist/51U4eqxzFvqkDnDrEkwfYQ"
+        },
+        {
+          "name": "The Prince of Egypt Original Cast Ensemble",
+          "url": "https://open.spotify.com/artist/3Agg3zitCoUpSrzNTCaHWe"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298494,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/52efK1Okv4eJxH78mBrSqR"
+    },
+    {
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Amick Byram",
+          "url": "https://open.spotify.com/artist/5u8DpbZw3VJlB1lKmJke6g"
+        },
+        {
+          "name": "Linda Dee Shayne",
+          "url": "https://open.spotify.com/artist/4LKZLk4yLKgzRYl5xQgjlg"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "All I Ever Wanted (With Queen's Reprise)",
+      "url": "https://open.spotify.com/track/5lbZL5xmyJHtrrioldEyXX"
     },
     {
       "album": {
@@ -222,7 +330,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 354040,
       "name": "Alpha Omega - Live",
       "url": "https://open.spotify.com/track/0f8tSFxXxTtDead0x8Lhhr"
@@ -240,10 +348,28 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 247294,
       "name": "Always",
       "url": "https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO"
+    },
+    {
+      "album": {
+        "name": "I Can Only Imagine (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3vBT0MRxk5ypG4IQhqSBfR"
+      },
+      "artists": [
+        {
+          "name": "J. Michael Finley",
+          "url": "https://open.spotify.com/artist/4B8mYoE5NToLaUihe5H2n5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96453,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/1Rlcaq10s10HdS9YvWzNDv"
     },
     {
       "album": {
@@ -258,7 +384,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 197400,
       "name": "AMERICAN DREAM",
       "url": "https://open.spotify.com/track/2v12XOaEHe0VdAQMhp4YcF"
@@ -276,10 +402,46 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 184341,
       "name": "Anything",
       "url": "https://open.spotify.com/track/68suEvcTsvGpZ2i2Zw3PVE"
+    },
+    {
+      "album": {
+        "name": "Hillsong \u2013 Let Hope Rise (Live/Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffdIV1LbjNv7K0qUM1TY9"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/1jRbhQvkyKXMOvHWHGSpVV"
+    },
+    {
+      "album": {
+        "name": "God's Not Dead The Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7eKUiMiXOnQeHlUnqtvfds"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Needham",
+          "url": "https://open.spotify.com/artist/4yMGs8CtlMVF7RV2XU539m"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216080,
+      "name": "Arrows",
+      "url": "https://open.spotify.com/track/3LcC0Ig1CTYShbOzFjxTtk"
     },
     {
       "album": {
@@ -294,7 +456,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 222346,
       "name": "As For Me",
       "url": "https://open.spotify.com/track/5mMVPP6zg6YSUtZUEfYwW6"
@@ -320,6 +482,62 @@
       "duration_ms": 205520,
       "name": "As I Am (with Peter CottonTale)",
       "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
+    },
+    {
+      "album": {
+        "name": "A Week Away (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        },
+        {
+          "name": "Bailee Madison",
+          "url": "https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE"
+        },
+        {
+          "name": "Jahbril Cook",
+          "url": "https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT"
+        },
+        {
+          "name": "Kat Conner Sterling",
+          "url": "https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD"
+        },
+        {
+          "name": "Iain Tucker",
+          "url": "https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN"
+        },
+        {
+          "name": "The Cast Of Netflix's Film A Week Away",
+          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139867,
+      "name": "Awesome God / God Only Knows - Campfire Medley",
+      "url": "https://open.spotify.com/track/4ythCnq2XWIHzLqC9GnUE3"
+    },
+    {
+      "album": {
+        "name": "Hillsong \u2013 Let Hope Rise (Live/Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffdIV1LbjNv7K0qUM1TY9"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261293,
+      "name": "Back To Life - Live",
+      "url": "https://open.spotify.com/track/63JI8Y2G5pofFmNwwE22yV"
     },
     {
       "album": {
@@ -364,10 +582,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 222854,
       "name": "Be Alright - Remix",
       "url": "https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr"
+    },
+    {
+      "album": {
+        "name": "I Can Only Imagine (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3vBT0MRxk5ypG4IQhqSBfR"
+      },
+      "artists": [
+        {
+          "name": "J. Michael Finley",
+          "url": "https://open.spotify.com/artist/4B8mYoE5NToLaUihe5H2n5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143213,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5rOqUBnnbJ2kfwbim5cyOR"
     },
     {
       "album": {
@@ -390,10 +626,32 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 187479,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/1b4w6eVd2oGYjIDZx737P7"
+    },
+    {
+      "album": {
+        "name": "A Week Away (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        },
+        {
+          "name": "The Cast Of Netflix's Film A Week Away",
+          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143018,
+      "name": "Best Thing Ever - Stage Version",
+      "url": "https://open.spotify.com/track/5Agzmpk05TGNkI8YnLfN6Y"
     },
     {
       "album": {
@@ -430,10 +688,80 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 185250,
       "name": "Bird's Eye View",
       "url": "https://open.spotify.com/track/30JLHtJJn4IIhbDzW70Dpj"
+    },
+    {
+      "album": {
+        "name": "Brand New Life (From \u201cJourney To Bethlehem\u201d)",
+        "url": "https://open.spotify.com/album/1Y0G0vpetJxoVsSXggAwyq"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207320,
+      "name": "Brand New Life",
+      "url": "https://open.spotify.com/track/3umofiB7Vryrcd60ap0hsu"
+    },
+    {
+      "album": {
+        "name": "Journey To Bethlehem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207320,
+      "name": "Brand New Life",
+      "url": "https://open.spotify.com/track/5gnPJFhTVCstEOfBlNeDfF"
+    },
+    {
+      "album": {
+        "name": "Hillsong \u2013 Let Hope Rise (Live/Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffdIV1LbjNv7K0qUM1TY9"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245880,
+      "name": "Break Free - Live",
+      "url": "https://open.spotify.com/track/6iozypxEI3jjH8Pb9Arrzv"
     },
     {
       "album": {
@@ -484,10 +812,72 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 208691,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV"
+    },
+    {
+      "album": {
+        "name": "Fireproof Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0QvGPWz6Z0l8gR7lJeRRvV"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223653,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/564nlg6GqV56VP3TqXvgxh"
+    },
+    {
+      "album": {
+        "name": "Hillsong \u2013 Let Hope Rise (Live/Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffdIV1LbjNv7K0qUM1TY9"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432226,
+      "name": "Broken Vessels (Amazing Grace) - Live",
+      "url": "https://open.spotify.com/track/5DecJtttN3hpRJarnQI14g"
+    },
+    {
+      "album": {
+        "name": "The Chosen: Season One (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5zuT34fr3AyhgqaRc8p2Fh"
+      },
+      "artists": [
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        },
+        {
+          "name": "Matthew S. Nelson",
+          "url": "https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE"
+        },
+        {
+          "name": "Dan Haseltine",
+          "url": "https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "Brothers Fight",
+      "url": "https://open.spotify.com/track/7mODEeQ6mASdRmOq2v7T1h"
     },
     {
       "album": {
@@ -502,10 +892,62 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 388875,
       "name": "Call On The Name - Live",
       "url": "https://open.spotify.com/track/2Z7crug9ZVQ8TZ6xg1f3pR"
+    },
+    {
+      "album": {
+        "name": "Can We Make This Work (From \u201cJourney To Bethlehem\u201d)",
+        "url": "https://open.spotify.com/album/0gQwlMSi0LBHQN6qzWxKJL"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Fiona Palomo",
+          "url": "https://open.spotify.com/artist/5xXDSTO0sufLEplESs2MSW"
+        },
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166786,
+      "name": "Can We Make This Work",
+      "url": "https://open.spotify.com/track/5ajjcIAkgurjJMp8zkT3Zk"
+    },
+    {
+      "album": {
+        "name": "Journey To Bethlehem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Fiona Palomo",
+          "url": "https://open.spotify.com/artist/5xXDSTO0sufLEplESs2MSW"
+        },
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166866,
+      "name": "Can We Make This Work",
+      "url": "https://open.spotify.com/track/5gTuNmkYAidAW6tbhzYT3e"
     },
     {
       "album": {
@@ -538,7 +980,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 220906,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/2koPlTDIbGWjcMQFUKx7g2"
@@ -556,7 +998,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 185520,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/143qitJ7Iy92Vzu4XZvr5P"
@@ -578,7 +1020,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 229200,
       "name": "Christ Our Hope In Life And Death",
       "url": "https://open.spotify.com/track/4FlV2NvMDxlYBLSGZcT8uu"
@@ -596,10 +1038,36 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 239296,
       "name": "Church Pew",
       "url": "https://open.spotify.com/track/0Z1ZBLSFEu16lc2JPbiWlw"
+    },
+    {
+      "album": {
+        "name": "The Chosen: Season Three (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2lDWuf3swrnJLvje4uBpTI"
+      },
+      "artists": [
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        },
+        {
+          "name": "Dan Haseltine",
+          "url": "https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1"
+        },
+        {
+          "name": "Matthew S. Nelson",
+          "url": "https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64351,
+      "name": "Circle of David",
+      "url": "https://open.spotify.com/track/3VadmVKBIe1gvgX6nLrUmT"
     },
     {
       "album": {
@@ -614,7 +1082,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 211923,
       "name": "Close",
       "url": "https://open.spotify.com/track/6E8ABhH2AzuZd6DfsgQmEv"
@@ -636,7 +1104,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 468208,
       "name": "Come Alive (Resurrection Power) - Live",
       "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
@@ -654,7 +1122,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 197671,
       "name": "Come And See",
       "url": "https://open.spotify.com/track/0xGXXhBANmAw51BSM4RjxN"
@@ -672,7 +1140,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 237537,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
@@ -712,7 +1180,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 219266,
       "name": "Cornerstone (feat. Zach Williams)",
       "url": "https://open.spotify.com/track/6wCVcqWX20n8kAtIK9PoeG"
@@ -730,7 +1198,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 249194,
       "name": "Costly",
       "url": "https://open.spotify.com/track/1AkL3phJ8v1QR4N6B5zYYh"
@@ -755,6 +1223,50 @@
     },
     {
       "album": {
+        "name": "Kingdom Business 2 (Music from the BET+ Original TV Series)",
+        "url": "https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Business Cast",
+          "url": "https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn"
+        },
+        {
+          "name": "Serayah",
+          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153501,
+      "name": "Counting My Blessings - Remix",
+      "url": "https://open.spotify.com/track/35XEHzKwjFWgwAiST2l4ZB"
+    },
+    {
+      "album": {
+        "name": "Courageous Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0qLktj67PYfJ4IoeIf643x"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241480,
+      "name": "Courageous - (film version)",
+      "url": "https://open.spotify.com/track/06yQ7DXfFcqwB89wI5ne0O"
+    },
+    {
+      "album": {
         "name": "Are We There Yet?",
         "url": "https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq"
       },
@@ -770,10 +1282,62 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 307896,
       "name": "Delightful (The Sower Never Wastes A Tear)",
       "url": "https://open.spotify.com/track/1KJUtSUzPH7nx8G0Z1KrUN"
+    },
+    {
+      "album": {
+        "name": "The Prince of Egypt (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/7MOGTYjo3ifwHDBf0EBE71"
+      },
+      "artists": [
+        {
+          "name": "Mercedesz Csampai",
+          "url": "https://open.spotify.com/artist/2hdVDwOkbLokRxF0hMAa2E"
+        },
+        {
+          "name": "Debbie Kurup",
+          "url": "https://open.spotify.com/artist/51U4eqxzFvqkDnDrEkwfYQ"
+        },
+        {
+          "name": "Hannah Selk",
+          "url": "https://open.spotify.com/artist/32EF9lWGKTNGKP1gQ3JxD6"
+        },
+        {
+          "name": "The Prince of Egypt Original Cast Ensemble",
+          "url": "https://open.spotify.com/artist/3Agg3zitCoUpSrzNTCaHWe"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397090,
+      "name": "Deliver Us",
+      "url": "https://open.spotify.com/track/7vnDNpXyiBTDa074lnGvAT"
+    },
+    {
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Ofra Haza",
+          "url": "https://open.spotify.com/artist/6tOL5L1TlmBLdFMeEoXgae"
+        },
+        {
+          "name": "Eden Riegel",
+          "url": "https://open.spotify.com/artist/67aJpIv2b0xutN1euXmbkR"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435200,
+      "name": "Deliver Us",
+      "url": "https://open.spotify.com/track/2q3X0uc2XpGruqitKOm3xa"
     },
     {
       "album": {
@@ -788,7 +1352,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 172384,
       "name": "Desesperado - English",
       "url": "https://open.spotify.com/track/7wfeopS60KsVchzRItCwVj"
@@ -806,10 +1370,48 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 250750,
       "name": "Did You Come for Me",
       "url": "https://open.spotify.com/track/1wblZ0UBogwtzrwVp8kyq8"
+    },
+    {
+      "album": {
+        "name": "A Week Away (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        },
+        {
+          "name": "Bailee Madison",
+          "url": "https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE"
+        },
+        {
+          "name": "Jahbril Cook",
+          "url": "https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT"
+        },
+        {
+          "name": "Kat Conner Sterling",
+          "url": "https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD"
+        },
+        {
+          "name": "Iain Tucker",
+          "url": "https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN"
+        },
+        {
+          "name": "The Cast Of Netflix's Film A Week Away",
+          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180819,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/2gkMTVzIqlTezI37yovfHK"
     },
     {
       "album": {
@@ -828,7 +1430,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 430400,
       "name": "Do What Only You Can Do - Live",
       "url": "https://open.spotify.com/track/1o1qv2DZbINBcp06exDGqo"
@@ -864,7 +1466,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 241371,
       "name": "Empty",
       "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
@@ -922,7 +1524,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 284422,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/0sw4u9EcSC2E6rtCCdglHZ"
@@ -944,7 +1546,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 186483,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw"
@@ -962,7 +1564,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 213281,
       "name": "Father",
       "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
@@ -980,10 +1582,54 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 188499,
       "name": "Fight On My Knees",
       "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
+    },
+    {
+      "album": {
+        "name": "I Still Believe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4CryB3S4XCP4oS427lMhY1"
+      },
+      "artists": [
+        {
+          "name": "Cast Of I Still Believe",
+          "url": "https://open.spotify.com/artist/4QYGLlDW9YWmMhjm8De6Tm"
+        },
+        {
+          "name": "KJ Apa",
+          "url": "https://open.spotify.com/artist/1KFcbdF1lM9FGM0pMzfoqF"
+        },
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "Find Me In The River",
+      "url": "https://open.spotify.com/track/5JZzoO981rrB1Y0j1MjpON"
+    },
+    {
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60800,
+      "name": "Following Tzipporah",
+      "url": "https://open.spotify.com/track/69PPaXno1AY7y245DRvkKO"
     },
     {
       "album": {
@@ -998,10 +1644,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 210066,
       "name": "For All My Life",
       "url": "https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh"
+    },
+    {
+      "album": {
+        "name": "Kingdom Business 2 (Music from the BET+ Original TV Series)",
+        "url": "https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Business Cast",
+          "url": "https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn"
+        },
+        {
+          "name": "Tytist",
+          "url": "https://open.spotify.com/artist/2kQKQZOPjlvy0bz2BbE9w3"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160265,
+      "name": "For Every Mountain - Remix",
+      "url": "https://open.spotify.com/track/4ySaUNWfWMRBuHJXKgQ5XJ"
     },
     {
       "album": {
@@ -1016,7 +1684,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 206496,
       "name": "For The Good",
       "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
@@ -1041,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Hillsong \u2013 Let Hope Rise (Live/Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffdIV1LbjNv7K0qUM1TY9"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376173,
+      "name": "Forever Reign - Live",
+      "url": "https://open.spotify.com/track/1g1nrHQqZqbODkv8LRoged"
+    },
+    {
+      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/7acWtsBfuPSWwVizEcVa4D"
       },
@@ -1052,7 +1738,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 228500,
       "name": "Friend",
       "url": "https://open.spotify.com/track/44pWTHY3XHh9APCOWQvqpA"
@@ -1070,7 +1756,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 219444,
       "name": "Getting Started - Radio Version",
       "url": "https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU"
@@ -1088,7 +1774,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 284413,
       "name": "God Is On The Throne",
       "url": "https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9"
@@ -1106,7 +1792,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 265466,
       "name": "God So Loved",
       "url": "https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt"
@@ -1132,7 +1818,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 406546,
       "name": "God Song",
       "url": "https://open.spotify.com/track/460oUWkGwaNZM2ZrJzJAMK"
@@ -1150,10 +1836,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 199093,
       "name": "God Thing",
       "url": "https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM"
+    },
+    {
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "album": {
@@ -1172,10 +1876,44 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 252066,
       "name": "Godsend",
       "url": "https://open.spotify.com/track/0t0ThciYX80fjAMdSWqLMN"
+    },
+    {
+      "album": {
+        "name": "A Week Away (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        },
+        {
+          "name": "Bailee Madison",
+          "url": "https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE"
+        },
+        {
+          "name": "Jahbril Cook",
+          "url": "https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT"
+        },
+        {
+          "name": "Kat Conner Sterling",
+          "url": "https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD"
+        },
+        {
+          "name": "The Cast Of Netflix's Film A Week Away",
+          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166570,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/5gdTKffU70UAJTlo7DopIs"
     },
     {
       "album": {
@@ -1208,10 +1946,36 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 266632,
       "name": "Good News - Live",
       "url": "https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc"
+    },
+    {
+      "album": {
+        "name": "Journey To Bethlehem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Antonio Banderas",
+          "url": "https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ"
+        },
+        {
+          "name": "Joel Smallbone",
+          "url": "https://open.spotify.com/artist/5oFOfmXokaKg2uXmQ5PkuE"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177133,
+      "name": "Good To Be King",
+      "url": "https://open.spotify.com/track/5c3LVdZoitP220sZOXCibG"
     },
     {
       "album": {
@@ -1237,6 +2001,46 @@
     },
     {
       "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Ofra Haza",
+          "url": "https://open.spotify.com/artist/6tOL5L1TlmBLdFMeEoXgae"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331626,
+      "name": "Goodbye Brother",
+      "url": "https://open.spotify.com/track/2or7hLTTmkG6KH2eKokuMH"
+    },
+    {
+      "album": {
+        "name": "Kingdom Business 2 (Music from the BET+ Original TV Series)",
+        "url": "https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Business Cast",
+          "url": "https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn"
+        },
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177864,
+      "name": "Grace Amazing",
+      "url": "https://open.spotify.com/track/1VQ1rbPjLjeveE6wwBERF1"
+    },
+    {
+      "album": {
         "name": "Of Dirt And Grace: Live From The Land (Expanded Edition)",
         "url": "https://open.spotify.com/album/1GUEempDMheicK14bjCtv0"
       },
@@ -1256,7 +2060,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 365767,
       "name": "Grace To Grace (Staring Out Into The Old City) - Live",
       "url": "https://open.spotify.com/track/7FqbZmbhvGeKu0E0V5cumF"
@@ -1274,7 +2078,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 225755,
       "name": "Hallelujah Anyway",
       "url": "https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU"
@@ -1310,7 +2114,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 198648,
       "name": "He Is With You",
       "url": "https://open.spotify.com/track/1lqBf8ukugE5e8vOQrw4pi"
@@ -1368,7 +2172,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 188706,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD"
@@ -1386,7 +2190,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 189107,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/1QcBNnhVGWetHeDwe5qIwR"
@@ -1404,10 +2208,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 212186,
       "name": "Hills & Horizons",
       "url": "https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy"
+    },
+    {
+      "album": {
+        "name": "God's Not Dead The Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7eKUiMiXOnQeHlUnqtvfds"
+      },
+      "artists": [
+        {
+          "name": "Shane Harper",
+          "url": "https://open.spotify.com/artist/1zKD316iTPlm0I1EUk8x6j"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274866,
+      "name": "Hold You Up",
+      "url": "https://open.spotify.com/track/2WmXaY7nVgIS7ozqJJHfjC"
     },
     {
       "album": {
@@ -1422,7 +2244,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
@@ -1448,7 +2270,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 389973,
       "name": "Holy Forever - Live From Good Friday 2023",
       "url": "https://open.spotify.com/track/3SOD2rOwadCSRKluvV36Sv"
@@ -1510,10 +2332,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 283964,
       "name": "Honey In The Rock - Live",
       "url": "https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2"
+    },
+    {
+      "album": {
+        "name": "Hillsong \u2013 Let Hope Rise (Live/Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffdIV1LbjNv7K0qUM1TY9"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391946,
+      "name": "Hosanna - Live",
+      "url": "https://open.spotify.com/track/4dd1w41SxD7OAcAVpzUBJL"
     },
     {
       "album": {
@@ -1550,10 +2390,46 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 243212,
       "name": "I Am Not My Own - Live",
       "url": "https://open.spotify.com/track/00YlUQ5LoLXX5qY5Tiii7j"
+    },
+    {
+      "album": {
+        "name": "I Can Only Imagine (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3vBT0MRxk5ypG4IQhqSBfR"
+      },
+      "artists": [
+        {
+          "name": "J. Michael Finley",
+          "url": "https://open.spotify.com/artist/4B8mYoE5NToLaUihe5H2n5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265880,
+      "name": "I Can Only Imagine",
+      "url": "https://open.spotify.com/track/0c50SMudgHFnupnzYifuQJ"
+    },
+    {
+      "album": {
+        "name": "I Can Only Imagine (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3vBT0MRxk5ypG4IQhqSBfR"
+      },
+      "artists": [
+        {
+          "name": "J. Michael Finley",
+          "url": "https://open.spotify.com/artist/4B8mYoE5NToLaUihe5H2n5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282733,
+      "name": "I Can Only Imagine - Trailer Track",
+      "url": "https://open.spotify.com/track/0DCn7WYzaVw81PWYZtR56M"
     },
     {
       "album": {
@@ -1568,7 +2444,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 223946,
       "name": "I just need U.",
       "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
@@ -1590,7 +2466,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 380304,
       "name": "I Know You Better",
       "url": "https://open.spotify.com/track/7aU3ETkQdNCMNfaMm41c6W"
@@ -1630,10 +2506,68 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 289459,
       "name": "I Speak Jesus",
       "url": "https://open.spotify.com/track/29XwTIdOFLnQoU3KfMt5Jh"
+    },
+    {
+      "album": {
+        "name": "I Still Believe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4CryB3S4XCP4oS427lMhY1"
+      },
+      "artists": [
+        {
+          "name": "Cast Of I Still Believe",
+          "url": "https://open.spotify.com/artist/4QYGLlDW9YWmMhjm8De6Tm"
+        },
+        {
+          "name": "KJ Apa",
+          "url": "https://open.spotify.com/artist/1KFcbdF1lM9FGM0pMzfoqF"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222125,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/6SEpWN07S4qm3Wb4tqxq1s"
+    },
+    {
+      "album": {
+        "name": "I Still Believe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4CryB3S4XCP4oS427lMhY1"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271773,
+      "name": "I Still Believe - 2020 Version",
+      "url": "https://open.spotify.com/track/0AXJkw0zQDSN03vMevQYEh"
+    },
+    {
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260838,
+      "name": "I Will Get There - A Cappella",
+      "url": "https://open.spotify.com/track/7kSnTetIKAJZpKV2kEBHsv"
     },
     {
       "album": {
@@ -1648,7 +2582,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 232960,
       "name": "I Will Worship",
       "url": "https://open.spotify.com/track/3c9VN31K4tglWcw5p1TMFa"
@@ -1702,10 +2636,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 179373,
       "name": "Idols",
       "url": "https://open.spotify.com/track/3PPG4ztHr3H9zST0fKOipQ"
+    },
+    {
+      "album": {
+        "name": "Kingdom Business 2 (Music from the BET+ Original TV Series)",
+        "url": "https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Business Cast",
+          "url": "https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn"
+        },
+        {
+          "name": "Chaundre Broomfield",
+          "url": "https://open.spotify.com/artist/1FhxbfCiOdRAMImCnTYjfz"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161759,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/7hvpudGL7FDdEawM0qcbWg"
     },
     {
       "album": {
@@ -1728,6 +2684,28 @@
       "duration_ms": 248226,
       "name": "Immigrant's Song",
       "url": "https://open.spotify.com/track/3lI4991HkNIdynqUFvxqOx"
+    },
+    {
+      "album": {
+        "name": "Journey To Bethlehem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Joel Smallbone",
+          "url": "https://open.spotify.com/artist/5oFOfmXokaKg2uXmQ5PkuE"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174520,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/1Rk4WGxWgIgYgvKB0gQgUo"
     },
     {
       "album": {
@@ -1778,10 +2756,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 174314,
       "name": "It's About Time",
       "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
+    },
+    {
+      "album": {
+        "name": "I Still Believe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4CryB3S4XCP4oS427lMhY1"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245296,
+      "name": "Jeremy Says Goodbye",
+      "url": "https://open.spotify.com/track/4orMdR50Y002bNYepqEOlp"
     },
     {
       "album": {
@@ -1800,7 +2796,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 229240,
       "name": "Jesus Does",
       "url": "https://open.spotify.com/track/173nUVVRglKc9yiROAQD7W"
@@ -1818,7 +2814,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 253240,
       "name": "Jesus Does - The Factory Sessions",
       "url": "https://open.spotify.com/track/5EeNglE2otsaAYdUmfjy0X"
@@ -1844,10 +2840,32 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 225946,
       "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
       "url": "https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE"
+    },
+    {
+      "album": {
+        "name": "Journey To Bethlehem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "The JTB Choir",
+          "url": "https://open.spotify.com/artist/5WBHyoDLouk4nyeXKezTkT"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107493,
+      "name": "Journey To Bethlehem",
+      "url": "https://open.spotify.com/track/456HtkG5VrTiMOmKvfPPmj"
     },
     {
       "album": {
@@ -1862,7 +2880,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 216286,
       "name": "Joy In The Morning",
       "url": "https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg"
@@ -1884,7 +2902,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 216750,
       "name": "Jump - Neon Feather Remix",
       "url": "https://open.spotify.com/track/0jRoOmTvENHLkXQ1Ycm1OT"
@@ -1910,7 +2928,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 583300,
       "name": "Just Like Jesus",
       "url": "https://open.spotify.com/track/7nLN2zONJYTPHPEcEv6ohq"
@@ -1957,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Pieces Of A Real Heart",
+        "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Lead Me",
+      "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
+    },
+    {
+      "album": {
         "name": "Lean On Me",
         "url": "https://open.spotify.com/album/0KJwBIU3wFXO7K86A4AFOb"
       },
@@ -1968,7 +3004,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 190105,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/69MPX3JJo4rPSVxK1IsGLY"
@@ -1986,7 +3022,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 214920,
       "name": "Left It In The Water - Edit",
       "url": "https://open.spotify.com/track/60uRJX8t222gQYqiv3FgRn"
@@ -2004,7 +3040,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 167637,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4WADFGQzhFPdCIChjnlb0P"
@@ -2022,7 +3058,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 228219,
       "name": "Let It Roll",
       "url": "https://open.spotify.com/track/1MEGLK5SoM64SiTbp22Shx"
@@ -2044,7 +3080,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 204173,
       "name": "Let The Light In",
       "url": "https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6"
@@ -2062,7 +3098,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 264373,
       "name": "Live Up To Your Name",
       "url": "https://open.spotify.com/track/0wTrxg0xcGj7vuxjdmkBBb"
@@ -2080,7 +3116,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 237146,
       "name": "Love Broke Thru",
       "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
@@ -2105,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "Fireproof Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0QvGPWz6Z0l8gR7lJeRRvV"
+      },
+      "artists": [
+        {
+          "name": "Warren Barfield",
+          "url": "https://open.spotify.com/artist/7hAmiO3CbC6yOFe0OFIScF"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268413,
+      "name": "Love Is Not A Fight - Exclusive Movie Version",
+      "url": "https://open.spotify.com/track/40jY30deQiyyxXpJjVCOeU"
+    },
+    {
+      "album": {
         "name": "New Creation (Live)",
         "url": "https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo"
       },
@@ -2116,7 +3170,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 211190,
       "name": "Love Is The Reason - Live",
       "url": "https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN"
@@ -2174,10 +3228,74 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 204480,
       "name": "Mamas (with Hillary Scott)",
       "url": "https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA"
+    },
+    {
+      "album": {
+        "name": "Journey To Bethlehem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Fiona Palomo",
+          "url": "https://open.spotify.com/artist/5xXDSTO0sufLEplESs2MSW"
+        },
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        },
+        {
+          "name": "Stephanie Gil",
+          "url": "https://open.spotify.com/artist/12Tzq8nwNmdauKZq7pnBR7"
+        },
+        {
+          "name": "The JTB Choir",
+          "url": "https://open.spotify.com/artist/5WBHyoDLouk4nyeXKezTkT"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214920,
+      "name": "Mary's Getting Married",
+      "url": "https://open.spotify.com/track/0rM4eVEB31lAHkNBKLPrZ4"
+    },
+    {
+      "album": {
+        "name": "The Chosen: Season Three (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2lDWuf3swrnJLvje4uBpTI"
+      },
+      "artists": [
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        },
+        {
+          "name": "Dan Haseltine",
+          "url": "https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1"
+        },
+        {
+          "name": "Matthew S. Nelson",
+          "url": "https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE"
+        },
+        {
+          "name": "Ruby Amanfu",
+          "url": "https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287220,
+      "name": "Matthew's Decision",
+      "url": "https://open.spotify.com/track/2h3u7YfAfXQVDMfj8MOBxU"
     },
     {
       "album": {
@@ -2192,7 +3310,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 271811,
       "name": "Mercy Of Jesus",
       "url": "https://open.spotify.com/track/4DUYGD9qBMUJEOYPisadF2"
@@ -2210,7 +3328,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 229560,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1IkXnZOpAy7rHbRlMpWov9"
@@ -2228,7 +3346,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 219068,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/0fdiF0ExYPhvQkjTXc34zf"
@@ -2246,7 +3364,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 194048,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/6A7nOV3lr0N0IIKgHmWcMe"
@@ -2264,7 +3382,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 277893,
       "name": "Miracle Power",
       "url": "https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx"
@@ -2282,10 +3400,32 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 221084,
       "name": "Morning By Morning (I Will Trust) - Radio Version",
       "url": "https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa"
+    },
+    {
+      "album": {
+        "name": "Journey To Bethlehem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Fiona Palomo",
+          "url": "https://open.spotify.com/artist/5xXDSTO0sufLEplESs2MSW"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234613,
+      "name": "Mother To A Savior And King",
+      "url": "https://open.spotify.com/track/5H5vXNb0KSb10YfV58XJYc"
     },
     {
       "album": {
@@ -2300,10 +3440,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 204000,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
+    },
+    {
+      "album": {
+        "name": "I Still Believe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4CryB3S4XCP4oS427lMhY1"
+      },
+      "artists": [
+        {
+          "name": "Cast Of I Still Believe",
+          "url": "https://open.spotify.com/artist/4QYGLlDW9YWmMhjm8De6Tm"
+        },
+        {
+          "name": "KJ Apa",
+          "url": "https://open.spotify.com/artist/1KFcbdF1lM9FGM0pMzfoqF"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199973,
+      "name": "My Desire",
+      "url": "https://open.spotify.com/track/2T3Gl6i1Za5xsHqZcGEcmG"
     },
     {
       "album": {
@@ -2336,7 +3498,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 214932,
       "name": "Never",
       "url": "https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl"
@@ -2362,7 +3524,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 243173,
       "name": "Never Found A Love",
       "url": "https://open.spotify.com/track/4WwB2Q0MBXldoo2xIBqeOU"
@@ -2398,7 +3560,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 195404,
       "name": "New",
       "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
@@ -2474,7 +3636,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 248733,
       "name": "Nobody Leaves The Same",
       "url": "https://open.spotify.com/track/5AkG5qu7FyslQ3svT9RdrF"
@@ -2492,7 +3654,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 186528,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/03jxYc3qHguRZ6FEwWJ7Oq"
@@ -2510,7 +3672,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 393200,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/5KXVeVXTMuCJnkK8YSC3FC"
@@ -2528,10 +3690,50 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 286734,
       "name": "Now To God - Live",
       "url": "https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe"
+    },
+    {
+      "album": {
+        "name": "Journey To Bethlehem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Daniela Riveri",
+          "url": "https://open.spotify.com/artist/2q4eMHu07g1ixTNpwiD1Jh"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18720,
+      "name": "O Come, O Come, Emmanuel",
+      "url": "https://open.spotify.com/track/1J05DT4fEWPuKpcBa25WkC"
+    },
+    {
+      "album": {
+        "name": "I Can Only Imagine (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3vBT0MRxk5ypG4IQhqSBfR"
+      },
+      "artists": [
+        {
+          "name": "J. Michael Finley",
+          "url": "https://open.spotify.com/artist/4B8mYoE5NToLaUihe5H2n5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195026,
+      "name": "O Lord, You're Beautiful",
+      "url": "https://open.spotify.com/track/6y9KT0XetMexljVC955ang"
     },
     {
       "album": {
@@ -2553,6 +3755,24 @@
     },
     {
       "album": {
+        "name": "Hillsong \u2013 Let Hope Rise (Live/Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffdIV1LbjNv7K0qUM1TY9"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536400,
+      "name": "Oceans (Where Feet May Fail) - Live",
+      "url": "https://open.spotify.com/track/5q8pDmXakygLYdZnIUWev4"
+    },
+    {
+      "album": {
         "name": "On And On",
         "url": "https://open.spotify.com/album/1jtk79QrzBfGaswpzCjPBk"
       },
@@ -2564,10 +3784,32 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 334765,
       "name": "On And On",
       "url": "https://open.spotify.com/track/1pECacoxvlJZUOaaZl3Qlv"
+    },
+    {
+      "album": {
+        "name": "I Can Only Imagine (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3vBT0MRxk5ypG4IQhqSBfR"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quaid",
+          "url": "https://open.spotify.com/artist/4Xc8wZYmacomrp1afX6ajP"
+        },
+        {
+          "name": "The Sharks",
+          "url": "https://open.spotify.com/artist/5YUnGJyBSdPLoJExvs7qHF"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276840,
+      "name": "On My Way To Heaven",
+      "url": "https://open.spotify.com/track/55DlDncNwBP0vn9PnsazmU"
     },
     {
       "album": {
@@ -2590,10 +3832,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 271379,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/5Bi3QUmWibSNUnvAAQ1OmK"
+    },
+    {
+      "album": {
+        "name": "God's Not Dead The Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7eKUiMiXOnQeHlUnqtvfds"
+      },
+      "artists": [
+        {
+          "name": "Stellar Kart",
+          "url": "https://open.spotify.com/artist/5WM2QZxPsbSfFrt4ibSDBi"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246840,
+      "name": "Ones And Zeroes",
+      "url": "https://open.spotify.com/track/3Nw6hoq4tddUWNqpfSZYzR"
     },
     {
       "album": {
@@ -2608,7 +3868,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 213903,
       "name": "Outside Looking In",
       "url": "https://open.spotify.com/track/4qDswSJVrEi2QnaYfOFbgh"
@@ -2630,7 +3890,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 196738,
       "name": "Overcomer - Julie and Ruslan Remix",
       "url": "https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv"
@@ -2648,7 +3908,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 253830,
       "name": "Palaces",
       "url": "https://open.spotify.com/track/2INYwScE60yVgmyYsX00LH"
@@ -2673,6 +3933,32 @@
     },
     {
       "album": {
+        "name": "A Week Away (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        },
+        {
+          "name": "Bailee Madison",
+          "url": "https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE"
+        },
+        {
+          "name": "The Cast Of Netflix's Film A Week Away",
+          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191507,
+      "name": "Place In This World",
+      "url": "https://open.spotify.com/track/4xjDxTOk6TzktJ5kSZ68QQ"
+    },
+    {
+      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
       },
@@ -2684,7 +3970,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 222985,
       "name": "Plans",
       "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
@@ -2706,7 +3992,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 176938,
       "name": "Pray",
       "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
@@ -2746,10 +4032,32 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 214648,
       "name": "Promised Land (Collab New) (feat. Sheryl Crow)",
       "url": "https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf"
+    },
+    {
+      "album": {
+        "name": "Kingdom Business 2 (Music from the BET+ Original TV Series)",
+        "url": "https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Business Cast",
+          "url": "https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn"
+        },
+        {
+          "name": "Serayah",
+          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218075,
+      "name": "Rbel's Grace",
+      "url": "https://open.spotify.com/track/2iCFJ9Kn1C6UIYcCcwqV1d"
     },
     {
       "album": {
@@ -2768,7 +4076,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 227893,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/7tyPrq1HOd2wNG0Ga6H1JW"
@@ -2786,10 +4094,50 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 221403,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV"
+    },
+    {
+      "album": {
+        "name": "Courageous Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0qLktj67PYfJ4IoeIf643x"
+      },
+      "artists": [
+        {
+          "name": "Third Day",
+          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213640,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/1MmruvK4ORn4HLyqpH3rGi"
+    },
+    {
+      "album": {
+        "name": "I Still Believe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4CryB3S4XCP4oS427lMhY1"
+      },
+      "artists": [
+        {
+          "name": "Cast Of I Still Believe",
+          "url": "https://open.spotify.com/artist/4QYGLlDW9YWmMhjm8De6Tm"
+        },
+        {
+          "name": "KJ Apa",
+          "url": "https://open.spotify.com/artist/1KFcbdF1lM9FGM0pMzfoqF"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209893,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/4F4l8qGj1GZ0hbEgan0C1Q"
     },
     {
       "album": {
@@ -2811,6 +4159,24 @@
     },
     {
       "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "River Lullaby",
+      "url": "https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v"
+    },
+    {
+      "album": {
         "name": "My Tribe",
         "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
       },
@@ -2822,7 +4188,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 198333,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/3TjzAhRpmo4wH7Msh4rMcC"
@@ -2862,7 +4228,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 308000,
       "name": "Run To The Father",
       "url": "https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms"
@@ -2888,6 +4254,42 @@
       "duration_ms": 369191,
       "name": "Salvation For 100%",
       "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
+    },
+    {
+      "album": {
+        "name": "God's Not Dead The Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7eKUiMiXOnQeHlUnqtvfds"
+      },
+      "artists": [
+        {
+          "name": "Manic Drive",
+          "url": "https://open.spotify.com/artist/3raES4AyYCX6XlbO6lEvco"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203453,
+      "name": "Save A Life",
+      "url": "https://open.spotify.com/track/0noSSlyFqIT9k85Wj00TKn"
+    },
+    {
+      "album": {
+        "name": "God's Not Dead The Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7eKUiMiXOnQeHlUnqtvfds"
+      },
+      "artists": [
+        {
+          "name": "JJ Weeks Band",
+          "url": "https://open.spotify.com/artist/6fXIdyfCq00oaElvH64eri"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274666,
+      "name": "Save Us",
+      "url": "https://open.spotify.com/track/4uhhkEgDrogvUg0QbeicQz"
     },
     {
       "album": {
@@ -2928,10 +4330,40 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 212253,
       "name": "Show Up Choose Love (feat. Jon Reddick)",
       "url": "https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh"
+    },
+    {
+      "album": {
+        "name": "The Chosen: Season Three (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2lDWuf3swrnJLvje4uBpTI"
+      },
+      "artists": [
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        },
+        {
+          "name": "Dan Haseltine",
+          "url": "https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1"
+        },
+        {
+          "name": "Matthew S. Nelson",
+          "url": "https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE"
+        },
+        {
+          "name": "Ruby Amanfu",
+          "url": "https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477253,
+      "name": "Signs and Wonders",
+      "url": "https://open.spotify.com/track/2VCm6DJY7imHX9LV3pWGJP"
     },
     {
       "album": {
@@ -2950,7 +4382,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 384501,
       "name": "Simple Kingdom (with Cody Carnes) - Live",
       "url": "https://open.spotify.com/track/5WryeVVD4YY1LnbZvwa40s"
@@ -2972,10 +4404,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 247373,
       "name": "Sinking Deep",
       "url": "https://open.spotify.com/track/3QntQwzIBV704yqCHLLmyH"
+    },
+    {
+      "album": {
+        "name": "Fireproof Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0QvGPWz6Z0l8gR7lJeRRvV"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280120,
+      "name": "Slow Fade",
+      "url": "https://open.spotify.com/track/2AWg9iVGgumXwqosCcZMWQ"
     },
     {
       "album": {
@@ -2990,7 +4440,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 218613,
       "name": "Someone Like Me",
       "url": "https://open.spotify.com/track/5xp9busHkdxMlmlKObfH12"
@@ -3008,10 +4458,36 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 290813,
       "name": "Something About The Name - Live",
       "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
+    },
+    {
+      "album": {
+        "name": "Kingdom Business 2 (Music from the BET+ Original TV Series)",
+        "url": "https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Business Cast",
+          "url": "https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn"
+        },
+        {
+          "name": "Chaundre Broomfield",
+          "url": "https://open.spotify.com/artist/1FhxbfCiOdRAMImCnTYjfz"
+        },
+        {
+          "name": "Serayah",
+          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Song Of Joy",
+      "url": "https://open.spotify.com/track/1u249mkxIjKypA8DjpG6xm"
     },
     {
       "album": {
@@ -3026,7 +4502,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 184385,
       "name": "Source",
       "url": "https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX"
@@ -3066,7 +4542,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 203924,
       "name": "STAND",
       "url": "https://open.spotify.com/track/3bzXihTa8HE1ur27mAsZKP"
@@ -3113,6 +4589,32 @@
     },
     {
       "album": {
+        "name": "Kingdom Business 2 (Music from the BET+ Original TV Series)",
+        "url": "https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Business Cast",
+          "url": "https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn"
+        },
+        {
+          "name": "Chaundre Broomfield",
+          "url": "https://open.spotify.com/artist/1FhxbfCiOdRAMImCnTYjfz"
+        },
+        {
+          "name": "Serayah",
+          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190130,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6rThaHgVWlnvWxh8URqEvh"
+    },
+    {
+      "album": {
         "name": "Jesus People",
         "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
       },
@@ -3124,7 +4626,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 198346,
       "name": "Stay Strong",
       "url": "https://open.spotify.com/track/5X08wv5osqvAQ1kjfZb04B"
@@ -3146,7 +4648,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 325932,
       "name": "Still",
       "url": "https://open.spotify.com/track/62JivScyWUxrFju0eTSgcL"
@@ -3182,7 +4684,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 240566,
       "name": "Strongholds",
       "url": "https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH"
@@ -3200,7 +4702,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 200440,
       "name": "Sunday Sermons",
       "url": "https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs"
@@ -3244,10 +4746,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 268288,
       "name": "Take It To Jesus",
       "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
+    },
+    {
+      "album": {
+        "name": "I Still Believe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4CryB3S4XCP4oS427lMhY1"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260946,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/5703lJAAJvbb9i3uaZ75Ag"
     },
     {
       "album": {
@@ -3266,7 +4786,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 316250,
       "name": "Take You At Your Word (with Benjamin William Hastings) - Live",
       "url": "https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz"
@@ -3306,7 +4826,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 178587,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
@@ -3332,10 +4852,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 168693,
       "name": "Thank You Lord (feat. Thomas Rhett & Florida Georgia Line)",
       "url": "https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK"
+    },
+    {
+      "album": {
+        "name": "Kingdom Business 2 (Music from the BET+ Original TV Series)",
+        "url": "https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Business Cast",
+          "url": "https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn"
+        },
+        {
+          "name": "Serayah",
+          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189432,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3e3uOmWcjPCuH2v7d0uv3j"
     },
     {
       "album": {
@@ -3354,7 +4896,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 241960,
       "name": "That's The Power - Studio",
       "url": "https://open.spotify.com/track/2YNehyJ62hvQtlFfutN3tT"
@@ -3372,10 +4914,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 175582,
       "name": "That's What Happens",
       "url": "https://open.spotify.com/track/5ArBOAx7lMlLd3NoM9BpzN"
+    },
+    {
+      "album": {
+        "name": "I Can Only Imagine (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3vBT0MRxk5ypG4IQhqSBfR"
+      },
+      "artists": [
+        {
+          "name": "J. Michael Finley",
+          "url": "https://open.spotify.com/artist/4B8mYoE5NToLaUihe5H2n5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117946,
+      "name": "The Attic",
+      "url": "https://open.spotify.com/track/1SCYPYPIP6c5fcNtRYFx5f"
     },
     {
       "album": {
@@ -3394,10 +4954,58 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 258747,
       "name": "The Best Is Yet To Come",
       "url": "https://open.spotify.com/track/0x2lQoO0pbXxBmJztRieR5"
+    },
+    {
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436666,
+      "name": "The Burning Bush",
+      "url": "https://open.spotify.com/track/5tgyHc2LLF0BI2udBTMFJz"
+    },
+    {
+      "album": {
+        "name": "The Chosen: Season One (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5zuT34fr3AyhgqaRc8p2Fh"
+      },
+      "artists": [
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        },
+        {
+          "name": "Matthew S. Nelson",
+          "url": "https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE"
+        },
+        {
+          "name": "Dan Haseltine",
+          "url": "https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1"
+        },
+        {
+          "name": "Ruby Amanfu",
+          "url": "https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "The Embrace",
+      "url": "https://open.spotify.com/track/0bPOLJ0E2VJOaJeb2yS545"
     },
     {
       "album": {
@@ -3416,7 +5024,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 225228,
       "name": "The Goodness (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
@@ -3441,6 +5049,144 @@
     },
     {
       "album": {
+        "name": "God's Not Dead The Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7eKUiMiXOnQeHlUnqtvfds"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286493,
+      "name": "The King Is Coming",
+      "url": "https://open.spotify.com/track/3vt50oAnDS6Nne7N8Thxta"
+    },
+    {
+      "album": {
+        "name": "The Chosen: Season Three (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2lDWuf3swrnJLvje4uBpTI"
+      },
+      "artists": [
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        },
+        {
+          "name": "Dan Haseltine",
+          "url": "https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1"
+        },
+        {
+          "name": "Matthew S. Nelson",
+          "url": "https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158579,
+      "name": "The Most High",
+      "url": "https://open.spotify.com/track/0BGkxbtdxm7YH1XnkZ9FLg"
+    },
+    {
+      "album": {
+        "name": "Journey To Bethlehem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Zoe Arnau",
+          "url": "https://open.spotify.com/artist/5NgajAvgJ04u3DwvEyPFid"
+        },
+        {
+          "name": "Fiona Palomo",
+          "url": "https://open.spotify.com/artist/5xXDSTO0sufLEplESs2MSW"
+        },
+        {
+          "name": "Fran Llorens",
+          "url": "https://open.spotify.com/artist/2AiZ4uCjRs8B6LRRSVPqnL"
+        },
+        {
+          "name": "Geno Segers",
+          "url": "https://open.spotify.com/artist/5X50k8XvklEDNOHIQMNTcG"
+        },
+        {
+          "name": "Rizwan Manji",
+          "url": "https://open.spotify.com/artist/4mz7AGZHijxHC1fc6bGfYn"
+        },
+        {
+          "name": "Omid Djalili",
+          "url": "https://open.spotify.com/artist/2hwbUwvcy2JbnmrT7dgDdO"
+        },
+        {
+          "name": "The JTB Choir",
+          "url": "https://open.spotify.com/artist/5WBHyoDLouk4nyeXKezTkT"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244440,
+      "name": "The Nativity Song",
+      "url": "https://open.spotify.com/track/0crHxxaQ6yTqkNNjcaCgaa"
+    },
+    {
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Ralph Fiennes",
+          "url": "https://open.spotify.com/artist/3pZ60MK5NPuXtBVJx1OkbN"
+        },
+        {
+          "name": "Amick Byram",
+          "url": "https://open.spotify.com/artist/5u8DpbZw3VJlB1lKmJke6g"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "The Plagues",
+      "url": "https://open.spotify.com/track/3buDoGEwFbwS8ozgA5o3lA"
+    },
+    {
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301573,
+      "name": "The Prince Of Egypt (When You Believe)",
+      "url": "https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg"
+    },
+    {
+      "album": {
         "name": "The Table",
         "url": "https://open.spotify.com/album/5V23DdCgKh1j2fNP340qdB"
       },
@@ -3459,6 +5205,46 @@
     },
     {
       "album": {
+        "name": "Journey To Bethlehem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175546,
+      "name": "The Ultimate Deception",
+      "url": "https://open.spotify.com/track/3NPY43xqDrCLLxwlSNwTnT"
+    },
+    {
+      "album": {
+        "name": "Hillsong \u2013 Let Hope Rise (Live/Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffdIV1LbjNv7K0qUM1TY9"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401773,
+      "name": "This I Believe (The Creed) - Live",
+      "url": "https://open.spotify.com/track/5jOB2z6geW5vPlxabsaNeY"
+    },
+    {
+      "album": {
         "name": "This I Know (Jesus Loves Me)",
         "url": "https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP"
       },
@@ -3470,7 +5256,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 222428,
       "name": "This I Know (Jesus Loves Me)",
       "url": "https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L"
@@ -3488,7 +5274,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 190714,
       "name": "This Is How I Thank The Lord",
       "url": "https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl"
@@ -3514,10 +5300,138 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 210480,
       "name": "This Is Living",
       "url": "https://open.spotify.com/track/6TCk1yecQRDU5sXG3vjTYj"
+    },
+    {
+      "album": {
+        "name": "God's Not Dead The Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7eKUiMiXOnQeHlUnqtvfds"
+      },
+      "artists": [
+        {
+          "name": "Superchick",
+          "url": "https://open.spotify.com/artist/0TeuSnc3TJ2P2Vn8UOgovp"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223320,
+      "name": "This Is The Time",
+      "url": "https://open.spotify.com/track/0LS1EIA9f3rRbhV6IeE4Tg"
+    },
+    {
+      "album": {
+        "name": "Fireproof Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0QvGPWz6Z0l8gR7lJeRRvV"
+      },
+      "artists": [
+        {
+          "name": "Third Day",
+          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151613,
+      "name": "This Is Who I Am",
+      "url": "https://open.spotify.com/track/6AmsUQGuGQ6qlPNtczMnI9"
+    },
+    {
+      "album": {
+        "name": "I Still Believe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4CryB3S4XCP4oS427lMhY1"
+      },
+      "artists": [
+        {
+          "name": "Cast Of I Still Believe",
+          "url": "https://open.spotify.com/artist/4QYGLlDW9YWmMhjm8De6Tm"
+        },
+        {
+          "name": "KJ Apa",
+          "url": "https://open.spotify.com/artist/1KFcbdF1lM9FGM0pMzfoqF"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "This Man",
+      "url": "https://open.spotify.com/track/4MbO6qJfRbBzGVQv2SVdz1"
+    },
+    {
+      "album": {
+        "name": "Journey To Bethlehem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Omid Djalili",
+          "url": "https://open.spotify.com/artist/2hwbUwvcy2JbnmrT7dgDdO"
+        },
+        {
+          "name": "Rizwan Manji",
+          "url": "https://open.spotify.com/artist/4mz7AGZHijxHC1fc6bGfYn"
+        },
+        {
+          "name": "Geno Segers",
+          "url": "https://open.spotify.com/artist/5X50k8XvklEDNOHIQMNTcG"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154480,
+      "name": "Three Wise Guys",
+      "url": "https://open.spotify.com/track/1KLQBDgZGXN5ovwdnfOmeN"
+    },
+    {
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Brian Stokes Mitchell",
+          "url": "https://open.spotify.com/artist/22ZiDrzGc0fi8wGMaHPmtX"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221933,
+      "name": "Through Heaven's Eyes",
+      "url": "https://open.spotify.com/track/2HeLqRgQRttQE16abLHfR5"
+    },
+    {
+      "album": {
+        "name": "The Prince of Egypt (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/7MOGTYjo3ifwHDBf0EBE71"
+      },
+      "artists": [
+        {
+          "name": "Gary Wilmot",
+          "url": "https://open.spotify.com/artist/6l8s7sfUUtKQo7ZSo2y59P"
+        },
+        {
+          "name": "The Prince of Egypt Original Cast Ensemble",
+          "url": "https://open.spotify.com/artist/3Agg3zitCoUpSrzNTCaHWe"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197546,
+      "name": "Through Heaven's Eyes",
+      "url": "https://open.spotify.com/track/12DGqnxsrprq9TLVwtl90W"
     },
     {
       "album": {
@@ -3550,10 +5464,58 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 247846,
       "name": "Trees We'll Never See",
       "url": "https://open.spotify.com/track/4eRp7LuamE8Jn8RQgBcGF4"
+    },
+    {
+      "album": {
+        "name": "The Chosen: Season One (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5zuT34fr3AyhgqaRc8p2Fh"
+      },
+      "artists": [
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        },
+        {
+          "name": "Matthew S. Nelson",
+          "url": "https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE"
+        },
+        {
+          "name": "Dan Haseltine",
+          "url": "https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80200,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4sOaU6KbxN1uYeX3qNBjHH"
+    },
+    {
+      "album": {
+        "name": "The Chosen: Season Two (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1PfprQflBixsM7k0SR7qko"
+      },
+      "artists": [
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        },
+        {
+          "name": "The Lower Saints",
+          "url": "https://open.spotify.com/artist/4kmBZ1zliEXWmrndZ3LjjE"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "Trouble (Extended Version)",
+      "url": "https://open.spotify.com/track/0KpigcKnKsCuQYxp54PgdM"
     },
     {
       "album": {
@@ -3586,10 +5548,40 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 224666,
       "name": "Unexpected Roads",
       "url": "https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B"
+    },
+    {
+      "album": {
+        "name": "The Chosen: Season Three (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2lDWuf3swrnJLvje4uBpTI"
+      },
+      "artists": [
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        },
+        {
+          "name": "Dan Haseltine",
+          "url": "https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1"
+        },
+        {
+          "name": "Matthew S. Nelson",
+          "url": "https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE"
+        },
+        {
+          "name": "Ruby Amanfu",
+          "url": "https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278514,
+      "name": "Veronica Swims",
+      "url": "https://open.spotify.com/track/77D1ZM7qaSA7GXZAbZY5Zk"
     },
     {
       "album": {
@@ -3604,10 +5596,88 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 316786,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/5jwakA3WYHMeucmgu0tjbD"
+    },
+    {
+      "album": {
+        "name": "I Still Believe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4CryB3S4XCP4oS427lMhY1"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221026,
+      "name": "Walk By Faith - 2020 Version",
+      "url": "https://open.spotify.com/track/77DkCnXhf8a6Jnl3xtTZBF"
+    },
+    {
+      "album": {
+        "name": "The Chosen: Season One (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5zuT34fr3AyhgqaRc8p2Fh"
+      },
+      "artists": [
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        },
+        {
+          "name": "Matthew S. Nelson",
+          "url": "https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE"
+        },
+        {
+          "name": "Dan Haseltine",
+          "url": "https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1"
+        },
+        {
+          "name": "Ruby Amanfu",
+          "url": "https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60600,
+      "name": "Walk on the Water",
+      "url": "https://open.spotify.com/track/2mbhr1y20vZGSFB1gjB1cU"
+    },
+    {
+      "album": {
+        "name": "The Chosen: Season Three (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2lDWuf3swrnJLvje4uBpTI"
+      },
+      "artists": [
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        },
+        {
+          "name": "Dan Haseltine",
+          "url": "https://open.spotify.com/artist/4GN20tFlTgRDVKVltkq5Y1"
+        },
+        {
+          "name": "Matthew S. Nelson",
+          "url": "https://open.spotify.com/artist/1dXJAAJa0ULu7x1Tk3jNoE"
+        },
+        {
+          "name": "Ruby Amanfu",
+          "url": "https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61074,
+      "name": "Walk on the Water (Season Three Version)",
+      "url": "https://open.spotify.com/track/5i7U0Vqcloh00zOrugvANU"
     },
     {
       "album": {
@@ -3633,6 +5703,62 @@
     },
     {
       "album": {
+        "name": "Journey To Bethlehem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Fiona Palomo",
+          "url": "https://open.spotify.com/artist/5xXDSTO0sufLEplESs2MSW"
+        },
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128933,
+      "name": "We Become We",
+      "url": "https://open.spotify.com/track/6fMG6aQhcMhgfZGISkdvxZ"
+    },
+    {
+      "album": {
+        "name": "Kingdom Business 2 (Music from the BET+ Original TV Series)",
+        "url": "https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Business Cast",
+          "url": "https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn"
+        },
+        {
+          "name": "Chaundre Broomfield",
+          "url": "https://open.spotify.com/artist/1FhxbfCiOdRAMImCnTYjfz"
+        },
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        },
+        {
+          "name": "Kiandra Richardson",
+          "url": "https://open.spotify.com/artist/2aaj5CxbJAPkVifTUnn2Ae"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212763,
+      "name": "We Family",
+      "url": "https://open.spotify.com/track/0FGVGfdCjExgq3a6c3nx7Y"
+    },
+    {
+      "album": {
         "name": "We Gon\u2019 Be Alright",
         "url": "https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb"
       },
@@ -3644,7 +5770,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 214973,
       "name": "We Gon\u2019 Be Alright",
       "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"
@@ -3684,7 +5810,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 190736,
       "name": "What A Good God",
       "url": "https://open.spotify.com/track/2655uqZtu3w2O1ffwE9srv"
@@ -3714,10 +5840,102 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 217651,
       "name": "What He's Done",
       "url": "https://open.spotify.com/track/2pxyd0ly9E5TEObwOvkedv"
+    },
+    {
+      "album": {
+        "name": "God's Not Dead The Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7eKUiMiXOnQeHlUnqtvfds"
+      },
+      "artists": [
+        {
+          "name": "Tricia",
+          "url": "https://open.spotify.com/artist/3TnmrztgDhiIfEadlMHbI1"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "What I Know",
+      "url": "https://open.spotify.com/track/2aj20OeMaTlyUaVMXGxoNU"
+    },
+    {
+      "album": {
+        "name": "Courageous Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0qLktj67PYfJ4IoeIf643x"
+      },
+      "artists": [
+        {
+          "name": "Mark Harris",
+          "url": "https://open.spotify.com/artist/06584gHu2mO2eorGZ9ORgu"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209573,
+      "name": "When We're Together - from the Original Motion Picture Soundtrack \"Courageous\"",
+      "url": "https://open.spotify.com/track/4qEVRZVd9SUgCmUB2ce2kn"
+    },
+    {
+      "album": {
+        "name": "The Prince of Egypt (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/7MOGTYjo3ifwHDBf0EBE71"
+      },
+      "artists": [
+        {
+          "name": "Alexia Khadime",
+          "url": "https://open.spotify.com/artist/4jtNresJX9NjFZczXgXfqY"
+        },
+        {
+          "name": "Christine Allado",
+          "url": "https://open.spotify.com/artist/3dl5JxBCHHKpXS8DPFSEpN"
+        },
+        {
+          "name": "Mia Lakha",
+          "url": "https://open.spotify.com/artist/16OPzi7kd5bfNEoK8MLdqi"
+        },
+        {
+          "name": "Luke Brady",
+          "url": "https://open.spotify.com/artist/2jHGDVfLRdO9sheZMMKAng"
+        },
+        {
+          "name": "The Prince of Egypt Original Cast Ensemble",
+          "url": "https://open.spotify.com/artist/3Agg3zitCoUpSrzNTCaHWe"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274659,
+      "name": "When You Believe",
+      "url": "https://open.spotify.com/track/0w1dqIds7K9sQna7dSCdan"
+    },
+    {
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Michelle Pfeiffer",
+          "url": "https://open.spotify.com/artist/6nKfpz5OosWfOp3CnY0kvy"
+        },
+        {
+          "name": "Sally Dworsky",
+          "url": "https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295466,
+      "name": "When You Believe",
+      "url": "https://open.spotify.com/track/26LMlybHegFJie3Gj2a7eD"
     },
     {
       "album": {
@@ -3739,6 +5957,64 @@
     },
     {
       "album": {
+        "name": "A Week Away (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        },
+        {
+          "name": "The Cast Of Netflix's Film A Week Away",
+          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228063,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y"
+    },
+    {
+      "album": {
+        "name": "Fireproof Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0QvGPWz6Z0l8gR7lJeRRvV"
+      },
+      "artists": [
+        {
+          "name": "John Waller",
+          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292173,
+      "name": "While I'm Waiting",
+      "url": "https://open.spotify.com/track/60wr3NwUaxgb96TCmcmkBC"
+    },
+    {
+      "album": {
+        "name": "Fireproof Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0QvGPWz6Z0l8gR7lJeRRvV"
+      },
+      "artists": [
+        {
+          "name": "John Waller",
+          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289493,
+      "name": "While I'm Waiting - Fireproof Edition",
+      "url": "https://open.spotify.com/track/23z6t6Edpro3QRdGWe3WBc"
+    },
+    {
+      "album": {
         "name": "Who Is This Man (Live)",
         "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
       },
@@ -3750,7 +6026,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 599374,
       "name": "Who Is This Man - Live",
       "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
@@ -3772,7 +6048,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 230360,
       "name": "Who You Are To Me (feat. Lady A)",
       "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"
@@ -3790,10 +6066,36 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 275726,
       "name": "Windows",
       "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
+    },
+    {
+      "album": {
+        "name": "Kingdom Business 2 (Music from the BET+ Original TV Series)",
+        "url": "https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Business Cast",
+          "url": "https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn"
+        },
+        {
+          "name": "Kiandra Richardson",
+          "url": "https://open.spotify.com/artist/2aaj5CxbJAPkVifTUnn2Ae"
+        },
+        {
+          "name": "Dominique Johnson",
+          "url": "https://open.spotify.com/artist/2yPCbgO5IBeDkh88Okyu2M"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263952,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2i0fK13d6F8rXFxzFj7DI3"
     },
     {
       "album": {
@@ -3830,7 +6132,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 196584,
       "name": "Worth The Risk",
       "url": "https://open.spotify.com/track/3pAitauaR81jvNaIOZADN2"
@@ -3852,7 +6154,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 415598,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
@@ -3870,7 +6172,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 167834,
       "name": "Yes I Am",
       "url": "https://open.spotify.com/track/7IQYAlR6q2wGlaWvorpG26"
@@ -3913,6 +6215,42 @@
     },
     {
       "album": {
+        "name": "Fireproof Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0QvGPWz6Z0l8gR7lJeRRvV"
+      },
+      "artists": [
+        {
+          "name": "Grey Holiday",
+          "url": "https://open.spotify.com/artist/62Z3jk6WVcNBHNa54DoXm3"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228320,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/4xv3oeN7bTBCx38bsN4RKu"
+    },
+    {
+      "album": {
+        "name": "I Still Believe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4CryB3S4XCP4oS427lMhY1"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243453,
+      "name": "You Call I'll Answer",
+      "url": "https://open.spotify.com/track/7H1LFrSvQuv31Owy8WfkuK"
+    },
+    {
+      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
       },
@@ -3924,7 +6262,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 172327,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
@@ -3942,10 +6280,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 158023,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/096fweRzUBsBV5R8Nsj63i"
+    },
+    {
+      "album": {
+        "name": "Courageous Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0qLktj67PYfJ4IoeIf643x"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215720,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/7Gu7JiC3YF4GvBrutUGvEq"
     }
   ],
   "url": "https://open.spotify.com/playlist/2BZPS5jzzjcyPG7oqRXqMs"

@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-131 songs - 9 hr 58 min
+132 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Ba\-Kuba](https://open.spotify.com/track/0F7SrgvWE55PgFxxsUe96v) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 3:53 | 2021-12-28 | 2022-11-27 |
 | [Baobab Sunset](https://open.spotify.com/track/4TDKAGpQ975zwKU6U75oX5) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 6:55 | 2021-12-28 | 2022-10-13 |
 | [Besoka on Salsa](https://open.spotify.com/track/1R7OaZSi8gazDJnjBWUXK5) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 7:37 | 2021-12-28 |  |
-| [Bessoka \- Version courte](https://open.spotify.com/track/6iJvaERQxKK0ci0zv3jqTH) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [B Sides](https://open.spotify.com/album/1D7rUTXW9MV3ymf7tUDgD5) | 3:26 | 2024-01-07 |  |
+| [Bessoka \- Version courte](https://open.spotify.com/track/6iJvaERQxKK0ci0zv3jqTH) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [B Sides](https://open.spotify.com/album/1D7rUTXW9MV3ymf7tUDgD5) | 3:26 | 2024-01-07 | 2024-01-19 |
 | [Bessoka \- Version courte](https://open.spotify.com/track/0vl2pa6k6kBZa0LNRC9ufl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 3:28 | 2021-12-28 | 2024-01-03 |
 | [Big Blow](https://open.spotify.com/track/7McyuC2aBOHuISZDaV5vNK) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Seventie's](https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP) | 5:45 | 2021-12-28 |  |
 | [Biko \(feat\. Alex Brown, Peter Gabriel, Ladysmith Black Mambazo & Geoffrey Oryema\)](https://open.spotify.com/track/5PlwfYLmedp2BPxf0oGy8x) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Alex Brown](https://open.spotify.com/artist/1BG2BiAu02wXrhuMkEMxDM), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:08 | 2022-01-01 |  |
@@ -80,6 +80,7 @@
 | [Mboa'Su](https://open.spotify.com/track/7eTdBZfn6na3YwbG2Hjdnx) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Mboa'Su \(kamer feelin\)](https://open.spotify.com/album/3qFfN7MgFmCKzEbCKuuYEb) | 4:27 | 2023-04-29 | 2023-07-12 |
 | [Mimbo](https://open.spotify.com/track/6OTdmZJPR1gGCGVwjl3nrd) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 4:36 | 2021-12-28 | 2022-07-28 |
 | [Mouvement Ewondo](https://open.spotify.com/track/0mcH1StoiW1ww6CbrfCnoW) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 7:52 | 2022-01-01 | 2022-10-11 |
+| [Moving Waves](https://open.spotify.com/track/1UCP7iid4Ur5bb8QlMRnPw) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 4:03 | 2024-01-18 |  |
 | [Musica](https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Lorenzo 2015 CC.](https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X) | 4:34 | 2021-12-29 | 2023-09-22 |
 | [Negropolitaines](https://open.spotify.com/track/5z2Tm9vWQpI0By5AFiunRQ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 7:19 | 2022-03-05 | 2022-03-07 |
 | [New Bell](https://open.spotify.com/track/32CdxI1J7RuzQSE4A9AnbV) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 6:48 | 2021-12-28 |  |
@@ -92,7 +93,7 @@
 | [Ongele Mba](https://open.spotify.com/track/5W2DvkilFnTrmPZc5k36NN) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Kamer Feeling](https://open.spotify.com/album/7bfvTwvAo7ILbQgpmuH8Li) | 5:25 | 2021-12-28 | 2022-10-06 |
 | [Oriental Sunset](https://open.spotify.com/track/5eLgxGM0GjdeFIRmkvCZi6) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 1:47 | 2023-01-25 |  |
 | [Out of Score](https://open.spotify.com/track/1xdAIBzX2nDUkDHfMOdNSE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:47 | 2022-07-04 | 2023-12-14 |
-| [Over the rainbow](https://open.spotify.com/track/3TWknpjYfEiYxnI0Ki8bAU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 3:51 | 2022-06-30 | 2024-01-05 |
+| [Over the rainbow](https://open.spotify.com/track/3TWknpjYfEiYxnI0Ki8bAU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 3:51 | 2022-06-30 |  |
 | [Paris je t'aime d'amour](https://open.spotify.com/track/7oZFAuYYr3xunpjhphC5sl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Paris je t'aime d'amour](https://open.spotify.com/album/63ecpqpAUf4EMpHn6DFlLQ) | 4:51 | 2021-12-28 | 2023-09-01 |
 | [Percussion Storm](https://open.spotify.com/track/2eTftYReNs4X7x40zMUEDP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 1:54 | 2023-09-12 |  |
 | [Petite fleur](https://open.spotify.com/track/0C27zKepJCdCS3FBhJTVHh) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango plays Sidney Bechet](https://open.spotify.com/album/1PqFghSbTgaiZsGHxdM2cI) | 3:42 | 2023-12-24 | 2024-01-04 |
@@ -124,7 +125,7 @@
 | [Take Five](https://open.spotify.com/track/7FxWWb9wpvm0nbB211zQRp) | [Moreira Chonguiça](https://open.spotify.com/artist/39IHtnX5EC2ge39XUftUle), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [M & M](https://open.spotify.com/album/1NHrBasHmhaEvemj74DHPm) | 6:34 | 2021-12-28 | 2023-03-30 |
 | [Tek Time](https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 7:00 | 2024-01-06 | 2024-01-17 |
 | [Tek Time](https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 7:03 | 2021-12-29 | 2024-01-05 |
-| [The Panther](https://open.spotify.com/track/0QDyFT23YOXVPLdiAPYVin) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:29 | 2024-01-01 |  |
+| [The Panther](https://open.spotify.com/track/0QDyFT23YOXVPLdiAPYVin) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:29 | 2024-01-01 | 2024-01-19 |
 | [The Panther](https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 2:29 | 2021-12-28 | 2024-01-02 |
 | [Tropical Garden](https://open.spotify.com/track/5Gl4N8qggcvLe4e7Kux3XJ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 8:21 | 2021-12-28 | 2022-04-01 |
 | [Tropical Garden](https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Home Made](https://open.spotify.com/album/5L3ihXiPtFHrLZhlG0KIa6) | 8:22 | 2022-04-01 | 2022-12-18 |

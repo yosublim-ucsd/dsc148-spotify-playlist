@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 105569,
+  "2024-01-19": 105661,
   "date_first_scraped": "2021-12-21",
   "description": "The sound of the new era of Jazz. Cover: Esperanza Spalding",
   "name": "21st Century Jazz",
@@ -474,7 +474,7 @@
         },
         {
           "name": "Michael Mayo",
-          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
+          "url": "https://open.spotify.com/artist/5DpvZ03jfjI0H6XgLZOri3"
         }
       ],
       "date_added": "2021-12-16",
@@ -3925,7 +3925,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 166760,
       "name": "Honey Caturra",
       "url": "https://open.spotify.com/track/4DSNN0ESNucsjPJDUu2Tyr"
@@ -9947,6 +9947,36 @@
       "duration_ms": 301079,
       "name": "The Sign, Pt. 2",
       "url": "https://open.spotify.com/track/2FTTcq1Zkot5zqbQWEBxXC"
+    },
+    {
+      "album": {
+        "name": "Dr\u00f4les De Dames",
+        "url": "https://open.spotify.com/album/04pMJKdwt8ZwsNHKoJycPC"
+      },
+      "artists": [
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Fabrice Martinez",
+          "url": "https://open.spotify.com/artist/5Y5DWaaIaPXwKWTGJlK41D"
+        },
+        {
+          "name": "Thomas de Pourquery",
+          "url": "https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe"
+        },
+        {
+          "name": "Dr\u00f4les de Dames",
+          "url": "https://open.spotify.com/artist/60UrGS7OunULLM2GBl6ocw"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301079,
+      "name": "The Sign, Pt. 2",
+      "url": "https://open.spotify.com/track/3YE7pngxRyzgM9PmVlubLw"
     },
     {
       "album": {

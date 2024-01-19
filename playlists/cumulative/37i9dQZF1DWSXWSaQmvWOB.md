@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Quantic
 
-801 songs - 2 day 1 hr 11 min
+802 songs - 2 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,8 @@
 | [Overdrive](https://open.spotify.com/track/1Kky7w3PxIhc7opCaLZe1w) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Overdrive](https://open.spotify.com/album/2EawgbUgLHmihszPlKtFoK) | 2:46 | 2021-02-24 | 2022-07-30 |
 | [Overflowing](https://open.spotify.com/track/7euLcL9UPbxVvjlQNhCDJj) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Overflowing](https://open.spotify.com/album/0ilXUNsylR92wlv7dtQMzp) | 2:26 | 2022-07-28 | 2022-09-30 |
 | [Own Me](https://open.spotify.com/track/0NYd1Gbv9zXS3w1oSzzBA7) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Wonder / Own Me](https://open.spotify.com/album/0TVZKR5ERQr5GqKi8T1OJa) | 3:37 | 2021-09-24 | 2022-01-28 |
-| [Pain](https://open.spotify.com/track/1JoNm8mQj3zlgGM5VAdDtY) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Pain](https://open.spotify.com/album/5ST2xhtO5nMrgyLZCgo4kS) | 2:30 | 2023-12-12 |  |
+| [Pain](https://open.spotify.com/track/1JoNm8mQj3zlgGM5VAdDtY) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Pain](https://open.spotify.com/album/5ST2xhtO5nMrgyLZCgo4kS) | 2:30 | 2023-12-12 | 2024-01-19 |
+| [Pain](https://open.spotify.com/track/2YeRpzh6YWTeDpYGJgS0LM) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [The Lost Tape](https://open.spotify.com/album/4Q6TO9LyXJRr872RW3jqf5) | 2:30 | 2024-01-16 |  |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2020-05-08 | 2020-08-25 |
 | [Parachutes](https://open.spotify.com/track/1FLl9H98n8TVPqGvPACnUq) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Parachutes](https://open.spotify.com/album/3cs8uoEmn3QNbUYfuJ1Jx5) | 3:43 | 2020-03-25\* | 2020-08-25 |
 | [Paradise](https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Paradise](https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA) | 5:16 | 2022-04-08 | 2023-06-08 |

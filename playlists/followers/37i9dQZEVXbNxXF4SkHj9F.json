@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 110081,
+  "2024-01-19": 110132,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - South Korea.",
   "name": "Top 50 - South Korea",
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 171481,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/264EQ3efdfDChq4PjuywR7"
@@ -9659,7 +9659,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 241104,
       "name": "High Note",
       "url": "https://open.spotify.com/track/3RoP3fJWHDXKhxDJaknv4n"
@@ -13147,7 +13147,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 219032,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/4sVC4dgJWVc9PrKKdH6gZe"
@@ -13313,7 +13313,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 215040,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/0yfQBmmOIVqiwhV5u10EhN"
@@ -13685,7 +13685,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -20303,6 +20303,24 @@
       "duration_ms": 192013,
       "name": "SOS (Prod. Marshmello)",
       "url": "https://open.spotify.com/track/3oTDi9MWC0JB39FcsLRon3"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: BREAK",
+        "url": "https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "So\u00f1ar (Breaker)",
+      "url": "https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9"
     },
     {
       "album": {

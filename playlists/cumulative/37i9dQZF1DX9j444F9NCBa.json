@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "After the Love Has Gone",
+        "url": "https://open.spotify.com/album/7rJrw7UXIWchJrP99yc8zJ"
+      },
+      "artists": [
+        {
+          "name": "Tobias Berntsson",
+          "url": "https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214078,
+      "name": "After the Love Has Gone",
+      "url": "https://open.spotify.com/track/6u19p8qAQY2ECIDl18MSei"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/3OAhdqxBWtmLJGEUheN5Pj"
       },
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 122500,
       "name": "Barbie girl",
       "url": "https://open.spotify.com/track/4cCwQTUXylUNxlPrt9Bn4a"
@@ -5945,6 +5963,24 @@
     },
     {
       "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/2zHVJqtr8i8Tp6qaknqZYR"
+      },
+      "artists": [
+        {
+          "name": "April Ball",
+          "url": "https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210624,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/4uJbyfXdhYv0rFlCD8A7OP"
+    },
+    {
+      "album": {
         "name": "My Romance",
         "url": "https://open.spotify.com/album/1Q8e34UABF8CKhX8sZSIe7"
       },
@@ -7943,6 +7979,24 @@
     },
     {
       "album": {
+        "name": "That\u00b4s What Friends Are for",
+        "url": "https://open.spotify.com/album/6LOkGX8WkFRpC1wkBxoNUy"
+      },
+      "artists": [
+        {
+          "name": "Floritatura",
+          "url": "https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "That\u00b4s What Friends Are for",
+      "url": "https://open.spotify.com/track/3K5wMP74gzoCQn5xx9BAxa"
+    },
+    {
+      "album": {
         "name": "The Bones",
         "url": "https://open.spotify.com/album/1Xk4W4ggHkNl4MwJehSQMr"
       },
@@ -8606,6 +8660,24 @@
       "duration_ms": 175256,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Lr1cw5eLWcX7pcVu0WUfR"
+    },
+    {
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/3C0Wi2dNF12aWxp3mOf1T4"
+      },
+      "artists": [
+        {
+          "name": "Leif Skoog",
+          "url": "https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/143bOKQxImHTVao5V6DFmh"
     },
     {
       "album": {

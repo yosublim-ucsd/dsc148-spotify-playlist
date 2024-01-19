@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,521 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,543 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 11 | [Kinderszenen, Op\. 15: No\. 1, Von fremden Ländern und Menschen](https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Schumann: Kinderszenen; Arabesque; Fantasie; Träumerei](https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2) | 1:33 |
 | 12 | [Aboriginal Lullaby](https://open.spotify.com/track/7cYVvcT0wfBnFE6RDeFRIs) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty) | [Aboriginal Lullaby](https://open.spotify.com/album/5aMHHjldNmnqUEayrOZGlj) | 1:53 |
 | 13 | [Four Seasons Variation \(Arr\. for Piano from Violin Concerto, RV 297, "Winter": II\. Largo by Svetoslav Karparov\)](https://open.spotify.com/track/7jezOL1bXEUmQtbCKFrmof) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Family](https://open.spotify.com/album/1Jnd4ZqS9ev1hT6Fj0JRlP) | 2:01 |
-| 14 | [Polovtsian Dances from Prince Igor \(piano arr\. by L\. Faulkner\)](https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm) | [Alexander Borodin](https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I) | [Polovtsian Dances from Prince Igor \(piano arr\. by L\. Faulkner\)](https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G) | 2:52 |
+| 14 | [Polovtsian Dances from Prince Igor \(piano arr\. by L\. Faulkner\)](https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3), [Alexander Borodin](https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I) | [Polovtsian Dances from Prince Igor \(piano arr\. by L\. Faulkner\)](https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G) | 2:52 |
 | 15 | [Lyric Pieces, Book 5, Op\. 54: Nocturne](https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 3:40 |
 | 16 | [Three Jamaican Dances: No\. 2](https://open.spotify.com/track/67HF6y5o1UhIFUGIOPzUK5) | [Oswald Russell](https://open.spotify.com/artist/7wrHPrsAxevxCYYVZa9Vy1), [William Chapman Nyaho](https://open.spotify.com/artist/1MdLO15sS1LDVswSIyOXzo) | [Senku \- Piano Music by Composers of African Descent, Vol\. 1](https://open.spotify.com/album/0Ek2MOe3oScb5Fn39c8F57) | 2:27 |
 | 17 | [5 Stücke im Volkston, Op\. 102: II\. Langsam](https://open.spotify.com/track/1SkOyiUembPDeyEvFy1p0c) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Royal Stockholm Philharmonic Orchestra](https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0) | [Roots](https://open.spotify.com/album/2XqomEod8q8RhsSF3kll3P) | 3:10 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 51 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
 | 52 | [Violin Concerto in D Major: II\. Adagio](https://open.spotify.com/track/40EnGSgqCBuIe3zoHBUWMr) | [Joseph Boulogne Chevalier de Saint\-Georges](https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU), [Zefira Valova](https://open.spotify.com/artist/56hpaB3bb4ydN9TTTlcWX4), [Il Pomo D'oro](https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z) | [Saint\-Georges: Violin Concerto in D Major](https://open.spotify.com/album/5Ec2ImbUEUaBlqxIKGD8vN) | 4:28 |
 
-Snapshot ID: `MCxhYWI3ODJhODRiN2Q3MmYxYjljMzk0MTY1ZWIzOTRiYmQ4MzZiNGE5`
+Snapshot ID: `MCxmZDQxNWMyNzU1NGI3NGFhZjZjNWE5MWRkODNhNDNiM2E5MDA5OGMy`

@@ -2,12 +2,14 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : LÉA CHURROS
+> Les hits zouk du moment\. Photo : Maureen x Mik L
 
-79 songs - 4 hr 13 min
+81 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A GOU A\-W](https://open.spotify.com/track/4CsbuoqSMIlxMzquvFPxws) | [Tronixx](https://open.spotify.com/artist/6RO2UXynldo4GeiBvccA5M), [Fécat'jy](https://open.spotify.com/artist/6El92u2iCNwzyOQPXpparK) | [A GOU A\-W](https://open.spotify.com/album/6DojCUM0aZVwBzq021MUt8) | 3:29 | 2024-01-18 |  |
+| [Amor](https://open.spotify.com/track/2VuKKcW0QtVfpuhpQhy0ui) | [MC DY](https://open.spotify.com/artist/0wFT0h2jZOxhpBlXFbO4Ds), [Chabsy](https://open.spotify.com/artist/2UhHFaDD6E4ISzi44nyKuW) | [Amor](https://open.spotify.com/album/0jaer6BFPXUjaV1LqKXJ30) | 2:30 | 2024-01-18 |  |
 | [ANTANANARIVO](https://open.spotify.com/track/2Gg8Cmnzoi2wbgRiVgTHWm) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Antananarivo](https://open.spotify.com/album/376mfcAcLzP0TuKmrzvX0R) | 3:00 | 2024-01-11 |  |
 | [Baby Oh](https://open.spotify.com/track/6w08Z9Jgjkh1A4jjbhZKZg) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Baby Oh](https://open.spotify.com/album/5Ru2z5Wz4hgmle5aexU4pM) | 2:37 | 2023-09-28 | 2023-11-24 |
 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 | 2023-11-23 |  |
@@ -42,7 +44,7 @@
 | [LA BEST](https://open.spotify.com/track/6JWqSrA6W2r2P1ZIQFLBC4) | [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ), [RMN’PROD](https://open.spotify.com/artist/2mV9eCX5doDUKeBRD4uV1i) | [LA BEST](https://open.spotify.com/album/2AnxHAMKA64G2gat36DDVa) | 3:31 | 2023-09-28 | 2023-11-17 |
 | [La Loupe](https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [La Loupe](https://open.spotify.com/album/4PLxr6mFMC4Uth8aJemKCF) | 2:35 | 2023-11-30 |  |
 | [Limbisa \- Kriolu Version](https://open.spotify.com/track/0e8djkn3TGLjP9VstMyOZt) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Limbisa \(Kriolu Version\)](https://open.spotify.com/album/7EqW8r7VH9W0E2JeQAcfq1) | 2:43 | 2023-09-28 | 2023-12-22 |
-| [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 | 2023-11-09 |  |
+| [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 | 2023-11-09 | 2024-01-19 |
 | [Ma Vie](https://open.spotify.com/track/0NaxyxpoxUugFeGx4B2YW3) | [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh), [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [En Boucle \(Deluxe\)](https://open.spotify.com/album/2zNXO3bjMY3VJI1ASnhqNs) | 3:06 | 2023-09-28 | 2023-12-22 |
 | [Madame](https://open.spotify.com/track/6RcTLTiuhMr7ufrehTkT47) | [Maiko](https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd) | [Madame](https://open.spotify.com/album/1kzwySJHeTPXZ5Ryqj6fcE) | 3:12 | 2023-11-23 |  |
 | [MAYDAY](https://open.spotify.com/track/4JaiYhTtUQN4TkwafnrEjn) | [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Jude Deslouches](https://open.spotify.com/artist/1cJ3F8DO47enupBg2kOatt) | [MAYDAY](https://open.spotify.com/album/0IgWJsKDLI0mffAHWRUhI6) | 5:06 | 2023-09-28 |  |
@@ -54,7 +56,7 @@
 | [Ne t'en fais pas](https://open.spotify.com/track/654PrOv4KsSHaxhMjSWMm3) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [Corps à corps](https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg) | 3:40 | 2023-11-09 |  |
 | [Nous 2](https://open.spotify.com/track/5kf1Bp0L9FZQteJfawmiSa) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Nous 2](https://open.spotify.com/album/2uqvP6OytqOTl3O6r11XO8) | 2:54 | 2023-09-28 | 2023-11-10 |
 | [Nous deux](https://open.spotify.com/track/0szzlgPOFtP4zkT0PwCYhm) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Nous deux](https://open.spotify.com/album/71F50RsJ4zLG8TgmYRVppT) | 3:19 | 2023-10-26 | 2023-12-01 |
-| [Nouvo Mood](https://open.spotify.com/track/0yHyEuO6sXnuJghlnro7Fl) | [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q), [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Nouvo Mood](https://open.spotify.com/album/10fFzO2zWNOQZ8YFSu5jtK) | 2:01 | 2023-11-16 |  |
+| [Nouvo Mood](https://open.spotify.com/track/0yHyEuO6sXnuJghlnro7Fl) | [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q), [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Nouvo Mood](https://open.spotify.com/album/10fFzO2zWNOQZ8YFSu5jtK) | 2:01 | 2023-11-16 | 2024-01-19 |
 | [Ny fitiavanay \(Notre amour\)](https://open.spotify.com/track/0e23qMbeMafeUQsuaqsIBh) | [Taylor Gasy](https://open.spotify.com/artist/547AvIcjAqi3Vz78SppsjN), [Jayneziss](https://open.spotify.com/artist/2gQcVMHBDwjdYAEOzubaHV) | [Ny fitiavanay \(Notre amour\)](https://open.spotify.com/album/7DMZmlKJXnqN6lL3AK51Qt) | 2:31 | 2023-11-16 | 2023-12-08 |
 | [On a changé](https://open.spotify.com/track/53S9bXkOunbK1syb7Kyyz6) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [On a changé](https://open.spotify.com/album/3zrtguwuRFGcshPO6QGON6) | 2:41 | 2023-09-28 |  |
 | [Oublie Dehors](https://open.spotify.com/track/36kxeIpVhh359b9n7GZbB5) | [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Oublie Dehors](https://open.spotify.com/album/1TjnjOYLLuDMYHNtgbhaVg) | 2:46 | 2023-09-28 | 2024-01-05 |

@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 212311,
+  "2024-01-19": 212336,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Taiwan.",
   "name": "Top 50 - Taiwan",
@@ -1861,6 +1861,24 @@
       "duration_ms": 176546,
       "name": "Darl+ing",
       "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: BREAK",
+        "url": "https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166979,
+      "name": "DASH",
+      "url": "https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1"
     },
     {
       "album": {
@@ -6907,7 +6925,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 169584,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/6gOZzuHIApHtAPTelkOMUc"
@@ -9618,6 +9636,24 @@
     },
     {
       "album": {
+        "name": "\u4f60\u4e0d\u6703\u4e00\u8f29\u5b50\u7684\u611b\u4e0a\u6211",
+        "url": "https://open.spotify.com/album/0FjMxaIatcw3nOgc9osLif"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197307,
+      "name": "\u4f60\u4e0d\u6703\u4e00\u8f29\u5b50\u7684\u611b\u4e0a\u6211",
+      "url": "https://open.spotify.com/track/5FbxrTeMrO3zbLe3uLbYH7"
+    },
+    {
+      "album": {
         "name": "\u5341\u516b\u822c\u6b66\u85dd",
         "url": "https://open.spotify.com/album/2c2US10YDd76wr25ctgejQ"
       },
@@ -10203,7 +10239,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 239095,
       "name": "\u542c\u8bf4\u4f60",
       "url": "https://open.spotify.com/track/4PKU5mPzC5lEDOLvVJ04As"
@@ -10961,7 +10997,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 173382,
       "name": "\u5c0f\u57ce\u590f\u5929",
       "url": "https://open.spotify.com/track/4QZMBVrBLAvBryj8ZJIIY2"
@@ -11914,7 +11950,7 @@
     },
     {
       "album": {
-        "name": "\u6211\u671f\u5f85\u7684\u4e0d\u662f\u96ea\uff08\u0110i\u1ec1u Anh Mong \u0110\u1ee3i Kh\u00f4ng Ph\u1ea3i L\u00e0 Tuy\u1ebft\uff09",
+        "name": "\u6211\u671f\u5f85\u7684\u4e0d\u662f\u96ea",
         "url": "https://open.spotify.com/album/1oPwq4HtDm98CCZD8vrtZd"
       },
       "artists": [
@@ -11927,7 +11963,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166010,
-      "name": "\u6211\u671f\u5f85\u7684\u4e0d\u662f\u96ea\uff08\u0110i\u1ec1u Anh Mong \u0110\u1ee3i Kh\u00f4ng Ph\u1ea3i L\u00e0 Tuy\u1ebft\uff09",
+      "name": "\u6211\u671f\u5f85\u7684\u4e0d\u662f\u96ea",
       "url": "https://open.spotify.com/track/2deIA64Gfsm50VTsKwrxnQ"
     },
     {
@@ -12571,7 +12607,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 229523,
       "name": "\u6709\u4e9b",
       "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"
@@ -12903,7 +12939,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 257251,
       "name": "\u70cf\u6885\u5b50\u91ac",
       "url": "https://open.spotify.com/track/4p9jbhD6N7HpuECGusu6iT"
@@ -13731,7 +13767,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 182727,
       "name": "\u8056\u8a95\u661f",
       "url": "https://open.spotify.com/track/0QZ5ixTvCuUbqfRN7x5jK4"

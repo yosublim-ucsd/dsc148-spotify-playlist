@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 149373,
       "name": "De Bruyne",
       "url": "https://open.spotify.com/track/6qK6hM0N1zVfdoUMc1xJnx"
@@ -2178,6 +2178,24 @@
       "duration_ms": 202733,
       "name": "Lamouni",
       "url": "https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i"
+    },
+    {
+      "album": {
+        "name": "Lang",
+        "url": "https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm"
+      },
+      "artists": [
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146431,
+      "name": "Lang",
+      "url": "https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF"
     },
     {
       "album": {

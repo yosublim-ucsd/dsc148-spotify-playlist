@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/1HbacLvfLrsup4yOWDKogO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170613,
+      "name": "(Walkin' Thru The) Sleepy City",
+      "url": "https://open.spotify.com/track/3con0nVkmWIVUuGlGABdH4"
+    },
+    {
+      "album": {
         "name": "Hot Rocks (1964-1971)",
         "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
       },
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 107720,
       "name": "Not Fade Away - Mono Version",
       "url": "https://open.spotify.com/track/0C7w4XnkIGu11MpNWbiTLB"

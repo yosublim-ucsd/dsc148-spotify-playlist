@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring ke onda.",
-  "num_followers": 48129,
+  "num_followers": 48139,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTI5M2ViZDg3YjlhM2NiOGFjZmUwMDYxNGQ4YTcyODdkYWUyOGJi",
+  "snapshot_id": "MCw3MDM3NjM0ZjUwYTkwNzhmNWMwNmVmZWYxNWNhMDI2OGVlNmJlYTRh",
   "tracks": [
     {
       "added_at": "2023-09-26 17:16:04",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 213088,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "Chill",
         "url": "https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 163095,
       "name": "Chill",
       "url": "https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 213088,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "O, de Crescendo",
-        "url": "https://open.spotify.com/album/0UOldbHk1CQwLMOnqY6svw"
-      },
-      "artists": [
-        {
-          "name": "Sous-Sol",
-          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
-        }
-      ],
-      "duration_ms": 172655,
-      "name": "Antena",
-      "url": "https://open.spotify.com/track/7eXwrGcdv0jlzBBnNbEZXa"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "amor universal",
         "url": "https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ"
       },
@@ -783,22 +767,18 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "for good (with RENEE)",
-        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
+        "name": "O, de Crescendo",
+        "url": "https://open.spotify.com/album/0UOldbHk1CQwLMOnqY6svw"
       },
       "artists": [
         {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
         }
       ],
-      "duration_ms": 182481,
-      "name": "for good (with RENEE)",
-      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
+      "duration_ms": 172655,
+      "name": "Antena",
+      "url": "https://open.spotify.com/track/7eXwrGcdv0jlzBBnNbEZXa"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -815,6 +795,26 @@
       "duration_ms": 239965,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "for good (with RENEE)",
+        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 182481,
+      "name": "for good (with RENEE)",
+      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "Colores crom\u00e1ticos",
-        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 255524,
-      "name": "Colores crom\u00e1ticos",
-      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "Veraneras",
         "url": "https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 185789,
       "name": "Amores De Colores",
       "url": "https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "Colores crom\u00e1ticos",
+        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 255524,
+      "name": "Colores crom\u00e1ticos",
+      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "\u00c1ngel",
-        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI"
       },
@@ -1211,22 +1195,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "flores",
-        "url": "https://open.spotify.com/album/0qouFgwgCJc7UINaEZmKYq"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 193414,
-      "name": "flores",
-      "url": "https://open.spotify.com/track/2MoR9GfTdSDB7G7WyMHhkh"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "VCR",
         "url": "https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb"
       },
@@ -1239,6 +1207,38 @@
       "duration_ms": 215974,
       "name": "VCR",
       "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "\u00c1ngel",
+        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "flores",
+        "url": "https://open.spotify.com/album/0qouFgwgCJc7UINaEZmKYq"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 193414,
+      "name": "flores",
+      "url": "https://open.spotify.com/track/2MoR9GfTdSDB7G7WyMHhkh"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
+        "name": "Cielo de Colores",
+        "url": "https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Cielo de Colores",
+      "url": "https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
         "name": "Acic\u00e1lame",
         "url": "https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 235596,
       "name": "Acic\u00e1lame",
       "url": "https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
-        "name": "Cielo de Colores",
-        "url": "https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Cielo de Colores",
-      "url": "https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX"
     }
   ],
   "unique_name": "\u2728 dreamy \u2728",

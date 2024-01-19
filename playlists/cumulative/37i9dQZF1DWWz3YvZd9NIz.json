@@ -281,6 +281,28 @@
     },
     {
       "album": {
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/4JTsq0MtyoDGGljuVNnoLO"
+      },
+      "artists": [
+        {
+          "name": "Quickdrop",
+          "url": "https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa"
+        },
+        {
+          "name": "Z\u0112L",
+          "url": "https://open.spotify.com/artist/2mG994xKMaqHoyyI1ByyUL"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220084,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/5m64MJ6lS6LfY48Noi7uSr"
+    },
+    {
+      "album": {
         "name": "Apologize (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/3wjGKwaZvfZnWqOfVgzkme"
       },
@@ -3604,7 +3626,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"

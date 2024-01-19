@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157066,
+      "name": "Para Que Te Explico",
+      "url": "https://open.spotify.com/track/08tHBseKFFGXzLJhJkRo20"
+    },
+    {
+      "album": {
         "name": "Boleros Volumen 2",
         "url": "https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k"
       },
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 188413,
       "name": "Porque No Le Calas - En Vivo",
       "url": "https://open.spotify.com/track/00nl5adFlB8bVbR3UM5BmZ"

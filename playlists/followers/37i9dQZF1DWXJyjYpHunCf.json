@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 886644,
+  "2024-01-19": 886916,
   "date_first_scraped": "2021-12-21",
   "description": "The best of folk-infused pop and singer-songwriter. Cover: asiris",
   "name": "Folk Pop",
@@ -3665,7 +3665,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 170858,
       "name": "Made Up My Mind",
       "url": "https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX"
@@ -5885,6 +5885,32 @@
       "duration_ms": 199853,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
+    },
+    {
+      "album": {
+        "name": "Who Took You Away (Mu \u00c1hkku)",
+        "url": "https://open.spotify.com/album/3fQEjpwfe0ceIGVk8DjCe3"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        },
+        {
+          "name": "Ella Marie",
+          "url": "https://open.spotify.com/artist/6rYrNxnxJEZlhVnxR1c6C7"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200225,
+      "name": "Who Took You Away (Mu \u00c1hkku)",
+      "url": "https://open.spotify.com/track/3vvktrTDQASIpOsn2oiS63"
     },
     {
       "album": {

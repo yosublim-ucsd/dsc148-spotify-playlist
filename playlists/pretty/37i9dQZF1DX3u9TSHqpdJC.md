@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Nxdia\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,427 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,501 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 43 | [Headache](https://open.spotify.com/track/3sEV7i0A9ilaZqB8le38Wx) | [Adeline Hill](https://open.spotify.com/artist/1PbQULXA8xQ6G8VuGPDaY8), [RUDEY](https://open.spotify.com/artist/1UFnB5tTDPSX3f4O2unhFa) | [Headache](https://open.spotify.com/album/0L7JOqIY88nAtFPLhiSc9P) | 2:17 |
 | 44 | [Always Something](https://open.spotify.com/track/4MpC30rM2c4lgHUAj6dczb) | [Jackson Crook](https://open.spotify.com/artist/6viZgFXOyeV4HgZekdTvzJ) | [Always Something](https://open.spotify.com/album/6q7OPPNfv7HT56M8D8sgTg) | 2:46 |
 
-Snapshot ID: `MCwzZjI1YWRhZDBkYmVlOTFmOWIxZDc3ZGZlZmVlMzA5Njk4OTNjYThh`
+Snapshot ID: `MCw5MTVhN2M3YmZiYzhhMGRmNjJlMGEyMTI5NTgzZDRjMjM5YzlhNTQ2`

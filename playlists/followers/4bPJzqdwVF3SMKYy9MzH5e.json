@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 1,
+  "2024-01-19": 1,
   "date_first_scraped": "2023-06-01",
   "description": "",
   "name": "\ud835\ude5b\ud835\ude68\ud835\ude5d \ud835\ude63\ud835\ude59 \ud835\ude58\ud835\ude5d\ud835\ude65 \ud835\ude5f\ud835\ude62\ud835\ude68 ",
@@ -24135,6 +24135,24 @@
       "duration_ms": 136562,
       "name": "Prom Queen",
       "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
+    },
+    {
+      "album": {
+        "name": "PROTECTION CHARM (SLOW & HARD VERSION)",
+        "url": "https://open.spotify.com/album/5Y2ksEFO3x9uS88JKIhbGy"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angeles",
+          "url": "https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210757,
+      "name": "PROTECTION CHARM - SLOW & HARD VERSION",
+      "url": "https://open.spotify.com/track/67d61xaEAHgejORdRW1Bxt"
     },
     {
       "album": {

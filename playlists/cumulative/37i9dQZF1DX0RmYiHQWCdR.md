@@ -4,7 +4,7 @@
 
 > indescribable tension\. lingering eyes\. that slow burn kind of love.
 
-44 songs - 2 hr 39 min
+45 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Quiet Moonlight](https://open.spotify.com/track/6rUruvN4jVOGAMsoIXycOz) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Quiet Moonlight](https://open.spotify.com/album/0lAf5WoQVWLTils9aEAHmQ) | 1:50 | 2023-08-02 |  |
 | [Romance II](https://open.spotify.com/track/5AHBIZIpuDjwsN2TT5ieow) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [My Brilliant Friend, Season 3 \(Original Soundtrack\)](https://open.spotify.com/album/3nCwDNyCNnQJNkVziZA3Vg) | 1:40 | 2023-08-02 |  |
 | [Rooftop Kiss](https://open.spotify.com/track/1kLeO0H9TdEewIZdr7Zi2i) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [The Amazing Spider\-Man \(Music from the Motion Picture\)](https://open.spotify.com/album/60IT8AganbZfiCpoJbiEnU) | 2:34 | 2023-08-02 |  |
-| [Somewhere Only We Know](https://open.spotify.com/track/0keSbXY2HkIWdftL6mS7lY) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Berlin:Redux](https://open.spotify.com/album/4G8EfqDG9JYqHx5TnDJJQM) | 2:54 | 2023-08-02 |  |
+| [Somewhere Only We Know](https://open.spotify.com/track/0keSbXY2HkIWdftL6mS7lY) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Berlin:Redux](https://open.spotify.com/album/4G8EfqDG9JYqHx5TnDJJQM) | 2:54 | 2023-08-02 | 2024-01-19 |
+| [Somewhere Only We Know](https://open.spotify.com/track/6CCCeu1DCTDDwQa9njw7Vp) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Berlin:Redux](https://open.spotify.com/album/1BYWouE88bQqjIT5gc0EuJ) | 2:54 | 2023-10-12 |  |
 | [Stay with Me](https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 2:55 | 2023-08-02 |  |
 | [The Dark Bank Of Clouds](https://open.spotify.com/track/50NPpHs9942iRO7m6TKzpd) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Dark Bank Of Clouds](https://open.spotify.com/album/5XGMWMHX3vNbToQwR1AWHx) | 3:11 | 2023-08-02 |  |
 | [The Love That Binds Us](https://open.spotify.com/track/50duVqi1ETUTGWJQmclvlG) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [VIOLET EVERGARDEN: Automemories](https://open.spotify.com/album/1RITWu5USu7lcphTyWh6FY) | 3:55 | 2023-08-02 |  |

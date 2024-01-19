@@ -1,7 +1,7 @@
 {
-  "2024-01-18": 27937,
+  "2024-01-19": 27952,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Jenobi, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: PLUME, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -2229,7 +2229,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 175080,
       "name": "Bones",
       "url": "https://open.spotify.com/track/625IoBDUpFF70bw1XpoDeZ"
@@ -3583,7 +3583,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 255132,
       "name": "Dance With Blue",
       "url": "https://open.spotify.com/track/7xLhOAcN47yN9aomDPkf5j"
@@ -3681,6 +3681,24 @@
       "duration_ms": 374194,
       "name": "Day Dreamer",
       "url": "https://open.spotify.com/track/4T2hXrAAawwH40torhVjaZ"
+    },
+    {
+      "album": {
+        "name": "DEAF CULTURE $O\u20acIET\u00a5",
+        "url": "https://open.spotify.com/album/73DVpLdHyuPxuPNOznh3rN"
+      },
+      "artists": [
+        {
+          "name": "PLUME",
+          "url": "https://open.spotify.com/artist/4OaXP5RcjrbxyCBmVU5Jcv"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210237,
+      "name": "DEAF CULTURE $O\u20acIET\u00a5",
+      "url": "https://open.spotify.com/track/4A8jOJY8FqKI8uZbfSzKeI"
     },
     {
       "album": {
@@ -4677,6 +4695,28 @@
       "duration_ms": 187377,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/5LdygNlvLAIzY6zZOThHTm"
+    },
+    {
+      "album": {
+        "name": "UNCERTAINTY",
+        "url": "https://open.spotify.com/album/0i331SHbaY5rsON9SZilVk"
+      },
+      "artists": [
+        {
+          "name": "Ynonah",
+          "url": "https://open.spotify.com/artist/4HbBdJq8PS74xvTxMpPR7c"
+        },
+        {
+          "name": "Blush Wilson",
+          "url": "https://open.spotify.com/artist/2CVt1KZkOP6lSUryG7F4j0"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214786,
+      "name": "ECHOES",
+      "url": "https://open.spotify.com/track/5g1Bs68ODHEtWyQMJslUzL"
     },
     {
       "album": {
@@ -5688,6 +5728,24 @@
     },
     {
       "album": {
+        "name": "Flieder",
+        "url": "https://open.spotify.com/album/1rb1TB0u3DFSdzBfmUcqG9"
+      },
+      "artists": [
+        {
+          "name": "Yeon",
+          "url": "https://open.spotify.com/artist/2jOsvE06oo9dlCCY9G4Dnc"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218528,
+      "name": "Flieder",
+      "url": "https://open.spotify.com/track/5QvPSsFupS4T1Hp6CFOk6W"
+    },
+    {
+      "album": {
         "name": "Flightmode",
         "url": "https://open.spotify.com/album/60WK2kpqKUnNw1cD8ErAXY"
       },
@@ -6049,7 +6107,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 221142,
       "name": "Gauner",
       "url": "https://open.spotify.com/track/6pfE8i093hLxYENf3PIYyA"
@@ -7155,6 +7213,24 @@
       "duration_ms": 167441,
       "name": "her name",
       "url": "https://open.spotify.com/track/3YT7sk2Q1jL03lKS4Vidjo"
+    },
+    {
+      "album": {
+        "name": "Here to Stay",
+        "url": "https://open.spotify.com/album/2dmJne3mtY6RfhXe6nSiWS"
+      },
+      "artists": [
+        {
+          "name": "Syren Dia",
+          "url": "https://open.spotify.com/artist/11Nz7gTMUJjW8IOrsmQUb7"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/3avf3jb1HVYK5TkZBjytuB"
     },
     {
       "album": {
@@ -9704,6 +9780,24 @@
     },
     {
       "album": {
+        "name": "lost again",
+        "url": "https://open.spotify.com/album/1G3kjnBdUBPaIZJU4rdHwI"
+      },
+      "artists": [
+        {
+          "name": "herrmann",
+          "url": "https://open.spotify.com/artist/60qdSDUNIMPKHO3uQTusxK"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "lost again",
+      "url": "https://open.spotify.com/track/1O4kJmVmMLL7y3gBGqdHT6"
+    },
+    {
+      "album": {
         "name": "Lost in Relations",
         "url": "https://open.spotify.com/album/4uF6tiwaWzDZOwRWvyNA3U"
       },
@@ -11069,7 +11163,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 228853,
       "name": "Night Dive",
       "url": "https://open.spotify.com/track/3HTmeBzVuuIDVipmH1LYUA"
@@ -11629,6 +11723,24 @@
       "duration_ms": 196500,
       "name": "Off without me",
       "url": "https://open.spotify.com/track/0vcnXfIzcZtOPLxFLCp5Yx"
+    },
+    {
+      "album": {
+        "name": "Oh Boy",
+        "url": "https://open.spotify.com/album/6hp8TxgMaiPDxRy3huQqzL"
+      },
+      "artists": [
+        {
+          "name": "Ryk",
+          "url": "https://open.spotify.com/artist/02LlQAGo6kbYZbBTawQQBr"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "Oh Boy",
+      "url": "https://open.spotify.com/track/23DwKbtbieyhOHxquzeVol"
     },
     {
       "album": {
@@ -12503,7 +12615,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 201000,
       "name": "Prokrastinieren",
       "url": "https://open.spotify.com/track/3ISQwg7K3SwvYvCNbISUHw"
@@ -12813,6 +12925,24 @@
       "duration_ms": 416202,
       "name": "Rave22",
       "url": "https://open.spotify.com/track/7dDyKAq26yih98op1W8OhD"
+    },
+    {
+      "album": {
+        "name": "Ravers of the Universe",
+        "url": "https://open.spotify.com/album/527n3cqITL0S9wEQ0EjZhP"
+      },
+      "artists": [
+        {
+          "name": "Ben Evers",
+          "url": "https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470096,
+      "name": "Ravers of the Universe",
+      "url": "https://open.spotify.com/track/1q3ohBcWaW8WxUtgO42s1C"
     },
     {
       "album": {
@@ -13141,7 +13271,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 195123,
       "name": "Rise",
       "url": "https://open.spotify.com/track/3QlTcUlyl12QUVmMORXHQ5"
@@ -15389,7 +15519,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 190906,
       "name": "Tanqueray",
       "url": "https://open.spotify.com/track/3hE0sM7MAuQHff2t0Le2dK"
@@ -16289,7 +16419,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 142052,
       "name": "Trag Mich",
       "url": "https://open.spotify.com/track/75bsJHvS8Rkz9RUty1Pf1F"
@@ -17347,6 +17477,28 @@
       "duration_ms": 228605,
       "name": "Wertlos",
       "url": "https://open.spotify.com/track/5bXHDGs5dgQjTKuEyt3RvR"
+    },
+    {
+      "album": {
+        "name": "what did you do",
+        "url": "https://open.spotify.com/album/3VxhtrfLi9KoHNoPfF7P6V"
+      },
+      "artists": [
+        {
+          "name": "being anne",
+          "url": "https://open.spotify.com/artist/0IGdniqj6s9L1Hty8RoIIw"
+        },
+        {
+          "name": "Wilhelm Tell Me",
+          "url": "https://open.spotify.com/artist/1dXrVDV7evHGSp1JVjBucF"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194812,
+      "name": "what did you do",
+      "url": "https://open.spotify.com/track/2Ojj6zMXCImcMkLRqeN1QQ"
     },
     {
       "album": {

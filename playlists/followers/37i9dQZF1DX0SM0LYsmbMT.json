@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 2190967,
+  "2024-01-19": 2191166,
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
@@ -5137,7 +5137,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 128000,
       "name": "Back Alley",
       "url": "https://open.spotify.com/track/0hPhJBytYxSbOjx7zUW5Fa"
@@ -6979,6 +6979,24 @@
       "duration_ms": 98000,
       "name": "Bitterlemon",
       "url": "https://open.spotify.com/track/5VjHKqdeoJ6DGISivEOuGZ"
+    },
+    {
+      "album": {
+        "name": "BITTERSWEET",
+        "url": "https://open.spotify.com/album/7gdKbnH3m4oCwr7WfqA3Ro"
+      },
+      "artists": [
+        {
+          "name": "Basmati",
+          "url": "https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123132,
+      "name": "BITTERSWEET",
+      "url": "https://open.spotify.com/track/0xunInNNapbevuAlbhS0pT"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90364,
+  "num_followers": 90366,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODk5ODA1YWVjZjY2MTkzZGJiMWVhMjA5YTlmNGM3NjI4ZmNhZjY1",
+  "snapshot_id": "MCwzNDA5MTdkZGVhNDIzOWU5YWVlYjgwMDU5YjlkNmE1ZTM1ZGEwZGUz",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "My Girl (Gemini)",
-        "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
-      },
-      "artists": [
-        {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
-        }
-      ],
-      "duration_ms": 153089,
-      "name": "My Girl (Gemini)",
-      "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Up all night",
         "url": "https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 161425,
       "name": "Up all night",
       "url": "https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "My Girl (Gemini)",
+        "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
+        }
+      ],
+      "duration_ms": 153089,
+      "name": "My Girl (Gemini)",
+      "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/5dovlyUr9PQKLzUMPTErNS"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Love, Eternity & Faith",
         "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 208866,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7haHJ5kRXm1yeUP5OEqA61"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/5dovlyUr9PQKLzUMPTErNS"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/0aqCew5VjHvRiY6wOUNaA0"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 207307,
+      "name": "Meaning Of Love",
+      "url": "https://open.spotify.com/track/2uFwT6AZgwj8xjJHfTon66"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Love Never Dies",
         "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
       },
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 167172,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/0aqCew5VjHvRiY6wOUNaA0"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 207307,
-      "name": "Meaning Of Love",
-      "url": "https://open.spotify.com/track/2uFwT6AZgwj8xjJHfTon66"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love Never Dies",
-        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/1FyznQmJjIIXuFybKnQaQu"
       },
       "artists": [
         {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 161466,
-      "name": "Different Man",
-      "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/70PZ5vXHGujPPDZ18mj6A1"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
-      },
-      "artists": [
-        {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "More",
-      "url": "https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Hearts Get Numb",
         "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 175774,
       "name": "Hearts Get Numb",
       "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Love Never Dies",
+        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Different Man",
+      "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Retrogress (Season 1)",
-        "url": "https://open.spotify.com/album/1FyznQmJjIIXuFybKnQaQu"
+        "name": "More",
+        "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
       },
       "artists": [
         {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
         }
       ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/70PZ5vXHGujPPDZ18mj6A1"
+      "duration_ms": 169714,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Who Am I?(I Dont Know)",
-        "url": "https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Who Am I?(I Dont Know)",
-      "url": "https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Married To Music",
         "url": "https://open.spotify.com/album/0quJWbGpn6BeNgLv2GphAC"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Who Am I?(I Dont Know)",
+        "url": "https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Who Am I?(I Dont Know)",
+      "url": "https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Retrospect (Season 2)",
         "url": "https://open.spotify.com/album/0HGP6dcDqqRmEAdScLYwnM"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Angels Fly High",
-        "url": "https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Angels Fly High",
-      "url": "https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "I Wanna Start My Life Again",
         "url": "https://open.spotify.com/album/5f7YPCMOtutGSIpnM31Jfx"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 150884,
       "name": "I Wanna Start My Life Again",
       "url": "https://open.spotify.com/track/09ZklXJx5nKCvZ8gm0Fhpw"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Angels Fly High",
+        "url": "https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Angels Fly High",
+      "url": "https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW"
     }
   ],
   "unique_name": "lofi rap",

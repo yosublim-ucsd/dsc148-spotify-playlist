@@ -2,7 +2,7 @@
 
 ### [Jump Up!](https://open.spotify.com/playlist/37i9dQZF1DX4to60X6goeK)
 
-> Go hard or go home\. Cover: Kanine
+> Go hard or go home\. Cover: Skepsis
 
 221 songs - 15 hr 8 min
 

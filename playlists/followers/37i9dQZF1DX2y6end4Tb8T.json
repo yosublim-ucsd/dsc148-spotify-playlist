@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 58043,
+  "2024-01-19": 58065,
   "date_first_scraped": "2022-01-24",
   "description": "Rap de alta gama. Foto: Juice WRLD",
   "name": "808.",
@@ -1358,6 +1358,28 @@
     },
     {
       "album": {
+        "name": "THE HUSTLE CONTINUES",
+        "url": "https://open.spotify.com/album/3FiSjH9NsmlpgUrR9J1ayW"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "LOAD IT UP",
+      "url": "https://open.spotify.com/track/4oTZUmzUpbQHMOLiGxAw1D"
+    },
+    {
+      "album": {
         "name": "Music To Be Murdered By",
         "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
@@ -1637,7 +1659,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 210327,
       "name": "NFL (feat. Gudda Gudda & HoodyBaby)",
       "url": "https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI"

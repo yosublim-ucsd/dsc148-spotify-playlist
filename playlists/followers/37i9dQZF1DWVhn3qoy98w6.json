@@ -1,7 +1,7 @@
 {
-  "2024-01-18": 11422,
+  "2024-01-19": 11434,
   "date_first_scraped": "2022-01-09",
-  "description": "Solo artistas independientes, actualizada todos los mi\u00e9rcoles. Foto: ANADIE.",
+  "description": "Solo artistas independientes, actualizada todos los mi\u00e9rcoles. Foto: Caro Raro.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -30619,6 +30619,28 @@
       "duration_ms": 181454,
       "name": "Llorar",
       "url": "https://open.spotify.com/track/5fY2LoTX0Kmr1Ev1uAATh6"
+    },
+    {
+      "album": {
+        "name": "llorar un milagro",
+        "url": "https://open.spotify.com/album/51MCcZSVFSgM8cqQcDmpON"
+      },
+      "artists": [
+        {
+          "name": "ANADIE",
+          "url": "https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs"
+        },
+        {
+          "name": "Kf\u00e9",
+          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203180,
+      "name": "llorar un milagro",
+      "url": "https://open.spotify.com/track/7H8feeTCDCYejZDcjCGLF1"
     },
     {
       "album": {

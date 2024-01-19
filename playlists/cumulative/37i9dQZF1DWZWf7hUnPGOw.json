@@ -430,10 +430,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 274581,
       "name": "Bring It on Back",
       "url": "https://open.spotify.com/track/6UYTTPfzs0iKcjxQH4dYuM"
+    },
+    {
+      "album": {
+        "name": "Bring It on Back",
+        "url": "https://open.spotify.com/album/5uxEck6eNMMg4wnp4m5K3U"
+      },
+      "artists": [
+        {
+          "name": "Sonny Cleveland",
+          "url": "https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274581,
+      "name": "Bring It on Back",
+      "url": "https://open.spotify.com/track/7lRYbgG2vkS0waSfPSXOvm"
     },
     {
       "album": {
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 211657,
       "name": "Free Rider",
       "url": "https://open.spotify.com/track/0VDH0yEqXrq1KgB4jrLpB0"
@@ -1206,7 +1224,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 211657,
       "name": "Free Rider",
       "url": "https://open.spotify.com/track/5MHD8arSmLCrkujTJBjoab"

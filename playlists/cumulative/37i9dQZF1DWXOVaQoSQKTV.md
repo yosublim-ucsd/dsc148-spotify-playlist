@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-197 songs - 11 hr 41 min
+198 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Moon Like Sour Candy](https://open.spotify.com/track/05rr7dVEGiprDVM1mO6q17) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb) | [Almost](https://open.spotify.com/album/7lj77lDdZQwV9tOOirKuwH) | 3:12 | 2023-06-08 |  |
 | [More Love](https://open.spotify.com/track/0iQsANSDYXZI40g7DQSng5) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [More Love](https://open.spotify.com/album/6BXcqC3UlzpTA5iK3V8nYF) | 3:24 | 2023-06-08 |  |
 | [Muchas \(feat\. Cola Boyy\)](https://open.spotify.com/track/56eZ38R6NrdtYGR0loivLS) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8) | [Muchas \(feat\. Cola Boyy\)](https://open.spotify.com/album/0qnmwSoB5HJ0WkUkJEU1A8) | 3:04 | 2023-06-08 |  |
-| [My Fit](https://open.spotify.com/track/097FTafRBQ1mXPtRYo7IkQ) | [Mad Circuit](https://open.spotify.com/artist/1hEew8IFcwMc0gpMyHJm8u), [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Airhead](https://open.spotify.com/album/3UVkszNGk5yLRgphaWePUI) | 2:57 | 2023-06-08 |  |
+| [My Fit](https://open.spotify.com/track/2J0Kl4V7V4DkFn42EzntqR) | [Mad Circuit](https://open.spotify.com/artist/1hEew8IFcwMc0gpMyHJm8u) | [Airhead](https://open.spotify.com/album/4gqp7YLAsnBCcnLoEjYx6e) | 2:57 | 2023-06-08 |  |
+| [My Fit](https://open.spotify.com/track/097FTafRBQ1mXPtRYo7IkQ) | [Mad Circuit](https://open.spotify.com/artist/1hEew8IFcwMc0gpMyHJm8u), [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Airhead](https://open.spotify.com/album/3UVkszNGk5yLRgphaWePUI) | 2:57 | 2023-06-08 | 2024-01-19 |
 | [my rose \- Luca Edit](https://open.spotify.com/track/2ZO0TdXHD2zG0DXK7Oy4aG) | [Emma Castellino](https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST), [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [my rose \(Luca Edit\)](https://open.spotify.com/album/4HOrv14KHvgOfoxqAhmdUo) | 3:26 | 2023-06-08 |  |
 | [My Territory](https://open.spotify.com/track/3JAPu55zVpvZ3fW2YYCFLL) | [Le Grand Popo Football Club](https://open.spotify.com/artist/7a4sVbX1Mc12trFPPoBhUl) | [Venom In The Grass](https://open.spotify.com/album/0v1SHlo9TDzKZ4JoaiWqCi) | 3:28 | 2023-06-08 |  |
 | [Neon Dream](https://open.spotify.com/track/6AApuc7pH6ITwKZqkiQyHj) | [Nectar Twins](https://open.spotify.com/artist/6DIjSTHbHdgCA3vapU9Lqd) | [Neon Dream](https://open.spotify.com/album/4YhC97IiIsIPiVrtxHNqKe) | 4:07 | 2023-06-08 |  |

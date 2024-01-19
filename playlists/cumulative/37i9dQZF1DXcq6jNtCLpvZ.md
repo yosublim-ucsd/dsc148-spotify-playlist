@@ -4,12 +4,13 @@
 
 > Music from "Symphogear"! /アニメ「戦姫絶唱シンフォギア」の楽曲を1つのプレイリストで。Ⓒproject シンフォギアXV
 
-69 songs - 5 hr 1 min
+71 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ALL LOVES BLAZING](https://open.spotify.com/track/3Pced00l41M7Z8Z3c9IfXB) | [立花響\(CV:悠木碧\)](https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox) | [戦姫絶唱シンフォギアXV キャラクターソングアルバム](https://open.spotify.com/album/26heZ21VqsczDI7NbXx2OT) | 3:35 | 2022-09-29 |  |
 | [Be with you](https://open.spotify.com/track/1QIgLY7avWBWLol7iAEsk4) | [小日向未来×雪音クリス\(CV:井口裕香×高垣彩陽\)](https://open.spotify.com/artist/0PB5TkkXm7yhA42W6bEw7P) | [戦姫絶唱シンフォギアXD UNLIMITED キャラクターソングアルバム3](https://open.spotify.com/album/0v81QpaI0j2sRDMkeQv3gP) | 3:58 | 2023-06-13 |  |
+| [Believe is All](https://open.spotify.com/track/6PMwbN0AudOcwKhudbxfQV) | [立花響\(CV:悠木碧\)](https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox), [小日向未来\(CV:井口裕香\)](https://open.spotify.com/artist/0law47IqPXszmlHrquztRS) | [戦姫絶唱シンフォギアXD UNLIMITED キャラクターソングシングル](https://open.spotify.com/album/4ORfUlNVOQYYkju8XCHHLP) | 3:50 | 2024-01-18 |  |
 | [Beyond the BLADE](https://open.spotify.com/track/5q2I4nxMOr6p01bIP4fEGp) | [風鳴翼\(CV:水樹奈々\)](https://open.spotify.com/artist/2lbWzUq7RrJV5Gp6HlEUfE) | [戦姫絶唱シンフォギアGX キャラクターソングアルバム](https://open.spotify.com/album/5OER0RYfJhbdG4dgNdrKP2) | 4:21 | 2022-09-29 |  |
 | [Bye\-Bye Lullaby](https://open.spotify.com/track/7dnhrXsn6DlVqOyP59umth) | [雪音クリス\(CV:高垣彩陽\)](https://open.spotify.com/artist/6eSv0sJzPHboLDUYAkm9Q2) | [戦姫絶唱シンフォギアG キャラクターソングアルバム](https://open.spotify.com/album/021wERBtNfMrOu9TZrNisU) | 3:33 | 2022-09-29 |  |
 | [Defender'Z Brand!](https://open.spotify.com/track/43UHWgp24CWvMkXCXTM0AE) | [風鳴翼\(CV:水樹奈々\)](https://open.spotify.com/artist/2lbWzUq7RrJV5Gp6HlEUfE) | [戦姫絶唱シンフォギアXV キャラクターソングアルバム](https://open.spotify.com/album/26heZ21VqsczDI7NbXx2OT) | 4:17 | 2022-09-29 |  |
@@ -38,6 +39,7 @@
 | [To unseal](https://open.spotify.com/track/2byTCWzTCT59j0jU22K4CE) | [立花響×立花響\[Another\] \(CV:悠木碧\)](https://open.spotify.com/artist/5g1viUZVXi1GixvLAM0das) | [戦姫絶唱シンフォギアXD UNLIMITED キャラクターソングアルバム3](https://open.spotify.com/album/0v81QpaI0j2sRDMkeQv3gP) | 4:20 | 2023-06-13 |  |
 | [TRUST HEART](https://open.spotify.com/track/71Islsa74IJF75HWOuEjSw) | [雪音クリス\(CV:高垣彩陽\)](https://open.spotify.com/artist/6eSv0sJzPHboLDUYAkm9Q2) | [戦姫絶唱シンフォギアGX キャラクターソングアルバム](https://open.spotify.com/album/5OER0RYfJhbdG4dgNdrKP2) | 3:40 | 2022-09-29 |  |
 | [Vitalization](https://open.spotify.com/track/1BJHubwnUKElLe0B5tEWpq) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Vitalization](https://open.spotify.com/album/55LFu6vcCbZ8FXIgk1oI1V) | 3:43 | 2022-09-29 |  |
+| [WE ARE THE FUTURE](https://open.spotify.com/track/24JsKK6aVyDRvRN4yNYZhE) | [立花響\(CV:悠木碧\)](https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox), [キャロル・マールス・ディーンハイム\(CV:水瀬いのり\)](https://open.spotify.com/artist/6jkSPcxNIDcgVbhhOlU8lG) | [戦姫絶唱シンフォギアXD UNLIMITED キャラクターソングシングル](https://open.spotify.com/album/4ORfUlNVOQYYkju8XCHHLP) | 4:02 | 2024-01-18 |  |
 | [「ありがとう」を唄いながら](https://open.spotify.com/track/1uUm7Pp7n4SgqpjY8NoHqx) | [マリア×月読調×暁切歌\(CV:日笠陽子×南條愛乃×茅野愛衣\)](https://open.spotify.com/artist/2BXraABSQxyZTzyhOQ8cHB) | [戦姫絶唱シンフォギアGX キャラクターソングアルバム](https://open.spotify.com/album/5OER0RYfJhbdG4dgNdrKP2) | 4:36 | 2022-09-29 |  |
 | [おかえりを言う為に](https://open.spotify.com/track/6YZbR6jRa1W26S4bs2cnm1) | [小日向未来\(CV:井口裕香\)](https://open.spotify.com/artist/0law47IqPXszmlHrquztRS) | [戦姫絶唱シンフォギアXD UNLIMITED キャラクターソングアルバム3](https://open.spotify.com/album/0v81QpaI0j2sRDMkeQv3gP) | 4:04 | 2023-06-13 |  |
 | [アクシアの風](https://open.spotify.com/track/6fkGo7BdTlkEDAhQW9UizE) | [立花響×風鳴翼×雪音クリス×マリア×月読調×暁切歌\(CV:悠木碧×水樹奈々×高垣彩陽×日笠陽子×南條愛乃×茅野愛衣\)](https://open.spotify.com/artist/0PULrmeVnuti0wrG0EUVff) | [戦姫絶唱シンフォギアAXZ キャラクターソングアルバム](https://open.spotify.com/album/3SWLNQqvKmDvaGwBBQ6i6U) | 4:26 | 2022-09-29 |  |

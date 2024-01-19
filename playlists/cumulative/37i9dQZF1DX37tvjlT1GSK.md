@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Hijos de Barrón en portada.
 
-349 songs - 18 hr 38 min
+350 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Como Cielo Sin Estrellas](https://open.spotify.com/track/6qRlxvzAvYJ4zJdkfyGkcS) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 3:31 | 2023-06-09 | 2023-07-01 |
 | [Como En Los Viejos Tiempos](https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como En Los Viejos Tiempos](https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P) | 4:05 | 2023-12-01 |  |
 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 | 2022-07-01 | 2023-10-28 |
-| [Como Olvidar](https://open.spotify.com/track/6yp2M1xFQPOlhWJJ7pfs49) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Como Olvidar](https://open.spotify.com/album/68VI31gsdOueIYjSKPwPlx) | 3:24 | 2023-06-30 |  |
+| [Como Olvidar](https://open.spotify.com/track/6yp2M1xFQPOlhWJJ7pfs49) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Como Olvidar](https://open.spotify.com/album/68VI31gsdOueIYjSKPwPlx) | 3:24 | 2023-06-30 | 2024-01-19 |
 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 | 2023-12-01 |  |
 | [Compadre](https://open.spotify.com/track/0UIeDAcAJnK7cI3QB23aZh) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [ARIEL Y ARIEL](https://open.spotify.com/artist/2tKbVyoH9jXnU2qp1w50ni) | [Compadre](https://open.spotify.com/album/59IflGMetd1sXRyp8cxhze) | 3:33 | 2023-07-14 | 2023-08-05 |
 | [Confiar En Mi](https://open.spotify.com/track/3wVm1plAjtErQGzWeAsNT4) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Confiar En Mi](https://open.spotify.com/album/07pKI6CF1hD9kTgLGQrNhp) | 4:44 | 2022-07-01 | 2022-08-06 |
@@ -310,6 +310,7 @@
 | [Te Mereces A Mi](https://open.spotify.com/track/5UFmU41FARfLkGGi4u7mQq) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Te Mereces A Mi](https://open.spotify.com/album/6ipurHHwRzradhwlT4JFZN) | 2:20 | 2022-12-02 | 2023-01-10 |
 | [Te Vas](https://open.spotify.com/track/2WXuY0GXFDwui1mfh9h1BY) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Te Vas](https://open.spotify.com/album/7z3mXFNMoA1GKKtDaPmIQb) | 2:34 | 2023-08-04 | 2023-10-17 |
 | [Te Vas A Recordar](https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Te Vas A Recordar](https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo) | 2:34 | 2023-01-20 | 2023-12-02 |
+| [Todavia](https://open.spotify.com/track/0Aexh6qBGuMRnxZQpcaNoa) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Inquieto Liniaje](https://open.spotify.com/artist/0cBkLUqMmgdTFWf2INvqSV) | [Todavia](https://open.spotify.com/album/1Nqdpy5j3juTdK90Gbo2Bo) | 2:45 | 2024-01-12 |  |
 | [Todo Es Diferente](https://open.spotify.com/track/7ppXlZ2376a0Ci6fxJB1br) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Todo Es Diferente](https://open.spotify.com/album/2c0I79Gj9Q8SzwxFIENA3a) | 3:34 | 2023-07-14 | 2023-08-26 |
 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 | 2023-05-24 |  |
 | [Trato de Olvidarte](https://open.spotify.com/track/1oWchNhYm1gbwt2sjh5yAP) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [B.A.S](https://open.spotify.com/album/52LCfcij1vNamKkTXFAn7y) | 4:08 | 2022-03-18 | 2023-01-21 |

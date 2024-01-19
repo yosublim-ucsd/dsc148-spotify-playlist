@@ -2,9 +2,9 @@
 
 ### [Women of Pop](https://open.spotify.com/playlist/37i9dQZF1DX3WvGXE8FqYX)
 
-> Celebrating all the great women of pop music\. Cover: Olivia Rodrigo & Cher
+> Celebrating all the great women of pop music\. Cover: Sophie Ellis Bextor
 
-551 songs - 1 day 9 hr 1 min
+552 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Most Girls](https://open.spotify.com/track/2mfUa8bLs2s5N4VaqJZ4lZ) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Most Girls](https://open.spotify.com/album/4D6OyZ4Q57vH7gul8PVzTv) | 3:24 | 2019-05-26\* | 2022-07-29 |
 | [Motivation](https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Motivation](https://open.spotify.com/album/2r6BEK0wzXbL8JHyCkeJkG) | 3:13 | 2019-08-29 | 2022-07-29 |
 | [Mouth](https://open.spotify.com/track/2uWBgF1sPF8dSiig3ksgXZ) | [Merril Bainbridge](https://open.spotify.com/artist/0lSDlT2Z5EvUGNIl7WQ7k0) | [Radio Waves of the '90s: Pop Hits](https://open.spotify.com/album/2na3fS7r06IGua9sGMpCun) | 3:24 | 2021-03-19 | 2022-04-19 |
+| [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-18 |  |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2021-03-01 | 2023-09-07 |
 | [Más Fuerte](https://open.spotify.com/track/2fKwgxMdLZ1IZPUXEG1Si7) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Más Fuerte](https://open.spotify.com/album/0tl4xjlwaKi8mc24AlfV1v) | 3:04 | 2021-03-06 | 2022-04-21 |
 | [Nadie ha dicho \(feat\. Gente de Zona\)](https://open.spotify.com/track/0HGrhbUerQKu89GCy3zmlY) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Nadie ha dicho \(feat\. Gente de Zona\)](https://open.spotify.com/album/6wT1FlYeZb8ZnHIu5A5yGz) | 3:38 | 2021-03-17 | 2022-04-16 |
@@ -532,7 +533,7 @@
 | [What About Us](https://open.spotify.com/track/31MkGwj0SWgZaTvEt5Hgxv) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [What About Us](https://open.spotify.com/album/3rHjznKxeCNz38iF3tGv4J) | 4:31 | 2019-05-26\* | 2019-08-29 |
 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 | 2021-03-08 |  |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2019-08-29 | 2021-03-02 |
-| [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 | 2021-03-21 |  |
+| [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 | 2021-03-21 | 2024-01-19 |
 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 | 2021-03-08 | 2022-04-13 |
 | [White Noise \(R3hab Remix\)](https://open.spotify.com/track/7dpnZJj7ITXcnmbmLIdEqs) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [White Noise \(R3hab Remix\)](https://open.spotify.com/album/3qTqXZZnABBxdP4smJdnJK) | 3:16 | 2021-03-08 | 2022-04-19 |
 | [Wide Awake](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:40 | 2023-11-20 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 29002,
+  "2024-01-19": 29039,
   "date_first_scraped": "2023-03-30",
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Addy Nagar",
   "name": "Hip-Hop Haryanvi",
@@ -563,8 +563,8 @@
           "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
         },
         {
-          "name": "Spoiler",
-          "url": "https://open.spotify.com/artist/7f2hihjgE7E86I9NTDf88V"
+          "name": "SPOILER",
+          "url": "https://open.spotify.com/artist/0sUr4Ao1sdL4xjebJJHQoY"
         }
       ],
       "date_added": "2023-12-22",
@@ -643,6 +643,28 @@
       "duration_ms": 185999,
       "name": "Black life",
       "url": "https://open.spotify.com/track/74PN0yUa0pL2uedZJ15tGm"
+    },
+    {
+      "album": {
+        "name": "Bliss (From \"Jimmy\")",
+        "url": "https://open.spotify.com/album/6sy7CsO6mRH7Elj7Gwu5hh"
+      },
+      "artists": [
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        },
+        {
+          "name": "Dada Sadhu",
+          "url": "https://open.spotify.com/artist/3P3buIpCGVMGlPrKKgurVy"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153571,
+      "name": "Bliss - From \"Jimmy\"",
+      "url": "https://open.spotify.com/track/4tDDf9R7ceyXlNezo0fudB"
     },
     {
       "album": {
@@ -2813,7 +2835,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 245647,
       "name": "Rapgod",
       "url": "https://open.spotify.com/track/1qETjoaPp0O2eVqYPQ9PQc"

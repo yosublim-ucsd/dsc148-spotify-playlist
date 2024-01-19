@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-19",
-  "description": "The stomping ground. ",
+  "description": "The stomping ground.",
   "name": "Open Air",
   "tracks": [
     {
@@ -404,7 +404,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 160000,
       "name": "All Fckd Up",
       "url": "https://open.spotify.com/track/0rXwS3IGrRhVXSN3OODnA3"
@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 143255,
       "name": "Bololo - MichaelBM & Francesco V Remix",
       "url": "https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU"
@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 342717,
       "name": "Broke Man",
       "url": "https://open.spotify.com/track/3WyFv142ucafFuRqJAcogS"
@@ -4579,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "Forget the Things",
+        "url": "https://open.spotify.com/album/6A0Zgs7NjiISnhJzHGRQRh"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Forget the Things",
+      "url": "https://open.spotify.com/track/11BCmyww75y0zyYR3BJtAo"
+    },
+    {
+      "album": {
         "name": "Four Tet Is My Godmother",
         "url": "https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP"
       },
@@ -6808,6 +6826,24 @@
       "duration_ms": 169440,
       "name": "Just Keep Walking - Mark Knight & James Hurr Remix",
       "url": "https://open.spotify.com/track/7DuvvY1Vefu3nkenjSsDAH"
+    },
+    {
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "album": {
@@ -10519,6 +10555,28 @@
     },
     {
       "album": {
+        "name": "Que Pasa",
+        "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Que Pasa",
+      "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
+    },
+    {
+      "album": {
         "name": "Quiver",
         "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
       },
@@ -13492,7 +13550,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 332068,
       "name": "The Fight Goes On",
       "url": "https://open.spotify.com/track/79MiPqQ3hKFXUHSur45kOI"
@@ -15576,6 +15634,28 @@
       "duration_ms": 277500,
       "name": "Whatchagonnado",
       "url": "https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY"
+    },
+    {
+      "album": {
+        "name": "Whatever We Call It",
+        "url": "https://open.spotify.com/album/4NgWz429zWjwleHCRlw5vG"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Meera (NO)",
+          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483199,
+      "name": "Whatever We Call It",
+      "url": "https://open.spotify.com/track/2t77dSAshWuQXFW2F8ojmG"
     },
     {
       "album": {

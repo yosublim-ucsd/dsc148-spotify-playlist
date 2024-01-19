@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. PauByChance",
-  "num_followers": 124817,
+  "num_followers": 124839,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDRmNDRhMmQyNDg3NGFjZWYzNjY2NTIwOWVjMzk1NDVjOTIxYzFh",
+  "snapshot_id": "MCw1MDUwYzdiZDMyNTlhZjNhOTVmYTZiOWE3NGY1NzU2ODQ5ZjQ5ZGY0",
   "tracks": [
     {
       "added_at": "2023-12-15 09:57:03",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Noche De Halloween",
-        "url": "https://open.spotify.com/album/6PT21KgYvTicvn4vgAWwpr"
-      },
-      "artists": [
-        {
-          "name": "KYOTTO",
-          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
-        },
-        {
-          "name": "mauvetrip",
-          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Noche De Halloween",
-      "url": "https://open.spotify.com/track/5wNaN0pQR09RT9qJrI5hJS"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "guardian angel",
         "url": "https://open.spotify.com/album/46lr95nzgntYPq8cin5kN8"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 106666,
       "name": "guardian angel",
       "url": "https://open.spotify.com/track/7FvUAQmTuhOOYaDjuL0jdy"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "Noche De Halloween",
+        "url": "https://open.spotify.com/album/6PT21KgYvTicvn4vgAWwpr"
+      },
+      "artists": [
+        {
+          "name": "KYOTTO",
+          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
+        },
+        {
+          "name": "mauvetrip",
+          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Noche De Halloween",
+      "url": "https://open.spotify.com/track/5wNaN0pQR09RT9qJrI5hJS"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "PAPARAZZI",
+        "url": "https://open.spotify.com/album/7uU3gcOvJ5uOx8HNdqwAkc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mart\u00edn",
+          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
+        }
+      ],
+      "duration_ms": 134574,
+      "name": "PAPARAZZI",
+      "url": "https://open.spotify.com/track/5xB4Rq7ZviNQ1gXTnJQhif"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "RUIDO",
         "url": "https://open.spotify.com/album/45z22BuxWT6IWGwvbBpd1M"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 201624,
       "name": "RUIDO",
       "url": "https://open.spotify.com/track/1D4M14uj2mFZKgq5Hro3qw"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "PAPARAZZI",
-        "url": "https://open.spotify.com/album/7uU3gcOvJ5uOx8HNdqwAkc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mart\u00edn",
-          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
-        }
-      ],
-      "duration_ms": 134574,
-      "name": "PAPARAZZI",
-      "url": "https://open.spotify.com/track/5xB4Rq7ZviNQ1gXTnJQhif"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Cuando Te Veo Pasar",
-        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
-        }
-      ],
-      "duration_ms": 134697,
-      "name": "Cuando Te Veo Pasar",
-      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "GRIS",
         "url": "https://open.spotify.com/album/2qnDfIFPrpJcOxrfuNXqAr"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 125991,
       "name": "GRIS",
       "url": "https://open.spotify.com/track/1Uhtp4LoA7qxapCAimRaOz"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "Cuando Te Veo Pasar",
+        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        }
+      ],
+      "duration_ms": 134697,
+      "name": "Cuando Te Veo Pasar",
+      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "Lun\u00e1tico",
+        "url": "https://open.spotify.com/album/71icODq6GLIj9NQpU5XJWx"
+      },
+      "artists": [
+        {
+          "name": "New Boix",
+          "url": "https://open.spotify.com/artist/4IACNJzFCAIe9W5lVBUsvI"
+        }
+      ],
+      "duration_ms": 154701,
+      "name": "Otra Noche de Verano",
+      "url": "https://open.spotify.com/track/2NYc4s8dBf5nBhlXRaydlq"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "Saturday Night",
         "url": "https://open.spotify.com/album/7nGKhWqDtNum8DutBbFDDC"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 186000,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/5LtRnDjLszqe4v8VBhcDeV"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "Lun\u00e1tico",
-        "url": "https://open.spotify.com/album/71icODq6GLIj9NQpU5XJWx"
-      },
-      "artists": [
-        {
-          "name": "New Boix",
-          "url": "https://open.spotify.com/artist/4IACNJzFCAIe9W5lVBUsvI"
-        }
-      ],
-      "duration_ms": 154701,
-      "name": "Otra Noche de Verano",
-      "url": "https://open.spotify.com/track/2NYc4s8dBf5nBhlXRaydlq"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Antipanico",
-        "url": "https://open.spotify.com/album/0qx9VjT1iZaz7NGLNbqQ9W"
-      },
-      "artists": [
-        {
-          "name": "MYKKA",
-          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
-        },
-        {
-          "name": "3RIP",
-          "url": "https://open.spotify.com/artist/7sQ4zZZvkVfG6Ecpx1se6v"
-        }
-      ],
-      "duration_ms": 186075,
-      "name": "Antipanico",
-      "url": "https://open.spotify.com/track/70zOMyUetEcZus2MknoWMI"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "demasiadas cosas",
         "url": "https://open.spotify.com/album/1BSp9Jauc2msX3VDOamCF6"
       },
@@ -1335,6 +1315,26 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "Antipanico",
+        "url": "https://open.spotify.com/album/0qx9VjT1iZaz7NGLNbqQ9W"
+      },
+      "artists": [
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        },
+        {
+          "name": "3RIP",
+          "url": "https://open.spotify.com/artist/7sQ4zZZvkVfG6Ecpx1se6v"
+        }
+      ],
+      "duration_ms": 186075,
+      "name": "Antipanico",
+      "url": "https://open.spotify.com/track/70zOMyUetEcZus2MknoWMI"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "Cu\u00e1ntas Veces",
         "url": "https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 161828,
       "name": "Cu\u00e1ntas Veces",
       "url": "https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "mverdeme^^",
+        "url": "https://open.spotify.com/album/5G4Ms7zrknpfzkYQJBKkYT"
+      },
+      "artists": [
+        {
+          "name": "Foxer",
+          "url": "https://open.spotify.com/artist/1RSESghlgt1M8GJG2TGfiZ"
+        }
+      ],
+      "duration_ms": 120636,
+      "name": "mverdeme^^",
+      "url": "https://open.spotify.com/track/12VfBAI7Hee4BWhKpZPZR4"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1391,22 +1407,6 @@
       "duration_ms": 144000,
       "name": "Anesthesia",
       "url": "https://open.spotify.com/track/4bUJAlDGjmIuyJAJbXabPo"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "mverdeme^^",
-        "url": "https://open.spotify.com/album/5G4Ms7zrknpfzkYQJBKkYT"
-      },
-      "artists": [
-        {
-          "name": "Foxer",
-          "url": "https://open.spotify.com/artist/1RSESghlgt1M8GJG2TGfiZ"
-        }
-      ],
-      "duration_ms": 120636,
-      "name": "mverdeme^^",
-      "url": "https://open.spotify.com/track/12VfBAI7Hee4BWhKpZPZR4"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "HYPER PUC",
-        "url": "https://open.spotify.com/album/3VkmZxyLYOuSeBqhKYwJBP"
-      },
-      "artists": [
-        {
-          "name": "Eva Puc",
-          "url": "https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Un Techno",
-      "url": "https://open.spotify.com/track/48zjy7vkY1ODmJZTTb463A"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "GUAPO",
         "url": "https://open.spotify.com/album/1z1A6QmxA6t9DbUFsBZ8bT"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 152202,
       "name": "GUAPO",
       "url": "https://open.spotify.com/track/7Mlbm8PnW1HhyosWntcqdG"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "HYPER PUC",
+        "url": "https://open.spotify.com/album/3VkmZxyLYOuSeBqhKYwJBP"
+      },
+      "artists": [
+        {
+          "name": "Eva Puc",
+          "url": "https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Un Techno",
+      "url": "https://open.spotify.com/track/48zjy7vkY1ODmJZTTb463A"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "No puedo decirte que no",
-        "url": "https://open.spotify.com/album/29suSoGKjek1j6nHY9Ysmd"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
-        }
-      ],
-      "duration_ms": 136293,
-      "name": "No puedo decirte que no",
-      "url": "https://open.spotify.com/track/0PBfQNKuU3IIZgToqRUoY1"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "Soul Blackout (Remixes)",
         "url": "https://open.spotify.com/album/6LobJXIH6G9lspYdmxAuHa"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 118600,
       "name": "Beat Me (Remix Explosivo)",
       "url": "https://open.spotify.com/track/0wlQlVl7eq34Kx9QRyovbQ"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "No puedo decirte que no",
+        "url": "https://open.spotify.com/album/29suSoGKjek1j6nHY9Ysmd"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        }
+      ],
+      "duration_ms": 136293,
+      "name": "No puedo decirte que no",
+      "url": "https://open.spotify.com/track/0PBfQNKuU3IIZgToqRUoY1"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "tamagotchi",
-        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
-      },
-      "artists": [
-        {
-          "name": "Lil Zhark",
-          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
-        }
-      ],
-      "duration_ms": 105100,
-      "name": "tamagotchi",
-      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "AnKur",
         "url": "https://open.spotify.com/album/40SX8MUqAxrVtI6XpsgnsW"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 176000,
       "name": "AnKur",
       "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "tamagotchi",
+        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
+      },
+      "artists": [
+        {
+          "name": "Lil Zhark",
+          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
+        }
+      ],
+      "duration_ms": 105100,
+      "name": "tamagotchi",
+      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1923,6 +1923,22 @@
       "duration_ms": 143816,
       "name": "Nunca Volver\u00e9",
       "url": "https://open.spotify.com/track/2PMY1TcOrXGITmbKgwUeoK"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "AAAaaahhhhh!!!!",
+        "url": "https://open.spotify.com/album/6BrDEEOfUX64GrHVksTYrq"
+      },
+      "artists": [
+        {
+          "name": "Hadren",
+          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+        }
+      ],
+      "duration_ms": 172857,
+      "name": "Close2u",
+      "url": "https://open.spotify.com/track/6ZqrVQMqPeRiM776RUfdAC"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1971,22 +1987,6 @@
       "duration_ms": 129229,
       "name": "Entre Tanta Gente",
       "url": "https://open.spotify.com/track/20O2VCZGEykubAmvurLrwv"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "Grand Fall!",
-        "url": "https://open.spotify.com/album/7jG7wRWsgMSx3FsX9C3lZK"
-      },
-      "artists": [
-        {
-          "name": "Autotune Angel",
-          "url": "https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Grand Fall!",
-      "url": "https://open.spotify.com/track/4DSQw41VZhenTaUI4FcDXW"
     }
   ],
   "unique_name": "helium",

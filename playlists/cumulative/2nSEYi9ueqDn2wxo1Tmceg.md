@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-746 songs - 2 day 3 hr 6 min
+747 songs - 2 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Hangar](https://open.spotify.com/track/2maVPXqxqgn7w929ZxiH5o) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [Hangar](https://open.spotify.com/album/3aPHytsW9HCZ8UyQ1V5xnV) | 3:42 | 2022-06-16 | 2022-07-28 |
 | [Hard Rock Potato](https://open.spotify.com/track/5NiDP5WtAn6N4HOzPbEoby) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Hard Rock Potato](https://open.spotify.com/album/67zxEhP3JZn15me2wta0k2) | 3:57 | 2022-08-17 | 2022-09-29 |
 | [Hares on the Mountain](https://open.spotify.com/track/3QBsP66ixM2caNrOYzcUng) | [Shirley Collins](https://open.spotify.com/artist/5rilpZJIb2NWJZVGtCdg6u) | [Hares On The Mountain](https://open.spotify.com/album/2iv4mGCshsTvywjUf128vO) | 3:08 | 2023-05-02 | 2023-06-22 |
+| [Haunted World](https://open.spotify.com/track/0mhRq6ZwGkt6wJigeFHZ90) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Haunted World](https://open.spotify.com/album/6U7yDiUXMXITMyaCeqTf5n) | 3:02 | 2024-01-18 |  |
 | [Hawaii](https://open.spotify.com/track/2o9V6yNke9vPJTCSmCuqmO) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [Hawaii](https://open.spotify.com/album/08vmxo6IESNVrtR2Hrap7j) | 3:31 | 2023-01-18 | 2023-02-23 |
 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 | 2023-12-13 |  |
 | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/album/5t7N8dFT1XvMnDekrjfHkb) | 4:06 | 2023-03-01 | 2023-04-13 |

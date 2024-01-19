@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Los Sebastianes y Nathan Galante en portada.",
-  "num_followers": 1144124,
+  "num_followers": 1144290,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjQ3ZGU1NTM2YmQ3ZjZhMjRjMjIwY2IwNTk3YjhmNDYyOWIwYjUw",
+  "snapshot_id": "MCwwMTAwODZjYTdjOWQ3ZTVlNjkyY2QyNDk3OWVhZjA3YjZjNzQ2ODI4",
   "tracks": [
     {
       "added_at": "2024-01-12 05:37:53",
@@ -691,22 +691,18 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "Y Que Soporten",
-        "url": "https://open.spotify.com/album/6DWrKCUvFC2yGSSpOOzcO3"
+        "name": "141",
+        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 215513,
-      "name": "Y Que Soporten",
-      "url": "https://open.spotify.com/track/0dXNs41HnOKdIkYtfmTNYB"
+      "duration_ms": 175102,
+      "name": "141",
+      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -815,18 +811,22 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "141",
-        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
+        "name": "Y Que Soporten",
+        "url": "https://open.spotify.com/album/6DWrKCUvFC2yGSSpOOzcO3"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 175102,
-      "name": "141",
-      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
+      "duration_ms": 215513,
+      "name": "Y Que Soporten",
+      "url": "https://open.spotify.com/track/0dXNs41HnOKdIkYtfmTNYB"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "PUNTO Y APARTE",
-        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+        "name": "Solo Que Lo Dudes",
+        "url": "https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 152823,
-      "name": "Me Dej\u00e9 Ir Con Todo",
-      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
+      "duration_ms": 159397,
+      "name": "Solo Que Lo Dudes",
+      "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -1231,6 +1235,22 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
+        "name": "Quien Te Dio Permiso",
+        "url": "https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Quien Te Dio Permiso",
+      "url": "https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
         "name": "Me Rindo",
         "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
@@ -1259,22 +1279,6 @@
       "duration_ms": 184493,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/07NDoMUU2uThRfYaQLAhNj"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
-        "name": "Quien Te Dio Permiso",
-        "url": "https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Quien Te Dio Permiso",
-      "url": "https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -1411,26 +1415,6 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "Pocos Regalos (En vivo)",
-        "url": "https://open.spotify.com/album/4TT4BLanbzA8On89yNnY4t"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Pocos Regalos - En vivo",
-      "url": "https://open.spotify.com/track/6qpJBdOOptpj7iOVijc45K"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
         "name": "Apenas es Martes",
         "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
       },
@@ -1447,6 +1431,26 @@
       "duration_ms": 216633,
       "name": "Apenas es Martes",
       "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
+        "name": "Pocos Regalos (En vivo)",
+        "url": "https://open.spotify.com/album/4TT4BLanbzA8On89yNnY4t"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Pocos Regalos - En vivo",
+      "url": "https://open.spotify.com/track/6qpJBdOOptpj7iOVijc45K"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -1923,22 +1927,6 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "Que Les Duele",
-        "url": "https://open.spotify.com/album/4VOZVcGxUR90CxL6Ej0tzm"
-      },
-      "artists": [
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
-        }
-      ],
-      "duration_ms": 141238,
-      "name": "Que Les Duele",
-      "url": "https://open.spotify.com/track/0fuVYBCwv11BJU9EYV83Pb"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
         "name": "Homenaje A La Trayectoria De Don Salvador Liz\u00e1rraga",
         "url": "https://open.spotify.com/album/4ijPC21z4UGNE1B6nR3BJ7"
       },
@@ -1955,6 +1943,22 @@
       "duration_ms": 222202,
       "name": "Que Me Digan Loco",
       "url": "https://open.spotify.com/track/7jZgXvzfo5qMXux0tRvS4S"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
+        "name": "Que Les Duele",
+        "url": "https://open.spotify.com/album/4VOZVcGxUR90CxL6Ej0tzm"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "duration_ms": 141238,
+      "name": "Que Les Duele",
+      "url": "https://open.spotify.com/track/0fuVYBCwv11BJU9EYV83Pb"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -2095,22 +2099,6 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "La Bolsita",
-        "url": "https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 180900,
-      "name": "La Bolsita",
-      "url": "https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI"
-    },
-    {
-      "added_at": "2024-01-12 05:37:53",
-      "album": {
         "name": "Mis Gustos Mis Canciones (En Vivo)",
         "url": "https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2"
       },
@@ -2123,6 +2111,22 @@
       "duration_ms": 163978,
       "name": "Fruta Prohibida (En Vivo)",
       "url": "https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C"
+    },
+    {
+      "added_at": "2024-01-12 05:37:53",
+      "album": {
+        "name": "La Bolsita",
+        "url": "https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 180900,
+      "name": "La Bolsita",
+      "url": "https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI"
     },
     {
       "added_at": "2024-01-12 05:37:53",
@@ -2179,18 +2183,18 @@
     {
       "added_at": "2024-01-12 05:37:53",
       "album": {
-        "name": "C\u00f3mo Poder Olvidarte",
-        "url": "https://open.spotify.com/album/273EJtAWuOPIOYmEnXyZN9"
+        "name": "No Me Mires As\u00ed",
+        "url": "https://open.spotify.com/album/6GeiFac3GbqLEIWwxYYRXe"
       },
       "artists": [
         {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+          "name": "La Poderosa Banda San Juan",
+          "url": "https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u"
         }
       ],
-      "duration_ms": 194933,
-      "name": "Como Poder Olvidarte",
-      "url": "https://open.spotify.com/track/0XTJeOTpUs02t0786QsUXz"
+      "duration_ms": 165093,
+      "name": "No Me Mires As\u00ed",
+      "url": "https://open.spotify.com/track/0KAriPAvH7g4xrTrjvI5rd"
     }
   ],
   "unique_name": "Banda 2024",

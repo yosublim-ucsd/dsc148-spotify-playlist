@@ -1,5 +1,5 @@
 {
-  "2024-01-18": 192809,
+  "2024-01-19": 192899,
   "date_first_scraped": "2022-01-21",
   "description": "Las grandes canciones escritas por El Buki.",
   "name": "Cancionero Marco Antonio Solis",
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 280653,
       "name": "Entre Tu Y Yo",
       "url": "https://open.spotify.com/track/3HzJk6dBCLNvRt2O33JgOm"
@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-18",
       "duration_ms": 196813,
       "name": "Para Que No Te Vayas",
       "url": "https://open.spotify.com/track/7sKXSKdh0V9gI5OrYnJsyL"
@@ -3233,7 +3233,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175570,
-      "name": "Tu\u0301 Carcel",
+      "name": "T\u00fa Carcel",
       "url": "https://open.spotify.com/track/60SAF5Xc5c04HzCNpP4rfO"
     },
     {

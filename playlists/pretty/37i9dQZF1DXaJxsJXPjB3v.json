@@ -1,12 +1,12 @@
 {
   "description": "Revisit memories and make new ones with the best Kwaito songs ever released. Cover: Spikiri",
-  "num_followers": 40653,
+  "num_followers": 40711,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTFjZDEyMjRlNjYxYjEzN2U5MjQ2YTIyMzQ5MzJkY2U0OWUxNDE1",
+  "snapshot_id": "MCwzZGVlY2M3YmI3ZGZhN2VkNGVmMjQ2NTI1NmE2MDkyZDk3OTFlNjA0",
   "tracks": [
     {
       "added_at": "2022-04-25 18:44:17",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Guz 2001",
-        "url": "https://open.spotify.com/album/7d1lS59Y8vA3hW3u8ir9RV"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Izinja Zam",
-      "url": "https://open.spotify.com/track/13kgXxmYBhTx8sG2fhlLLG"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Icon",
         "url": "https://open.spotify.com/album/7AHYVDAOsSJBL6YMKVXWPm"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 328666,
       "name": "Mari Ye Phepha",
       "url": "https://open.spotify.com/track/3ClqIdHksnRs2pwyCGSYHd"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Guz 2001",
+        "url": "https://open.spotify.com/album/7d1lS59Y8vA3hW3u8ir9RV"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Izinja Zam",
+      "url": "https://open.spotify.com/track/13kgXxmYBhTx8sG2fhlLLG"
     },
     {
       "added_at": "2022-05-08 18:08:38",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/3oSbA5i516ghSq9KEwfRAW"
     },
     {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
-        "name": "It's Our Game (no need to claim)",
-        "url": "https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt"
-      },
-      "artists": [
-        {
-          "name": "Boom Shaka",
-          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
-        }
-      ],
-      "duration_ms": 294200,
-      "name": "Ibuhlungu",
-      "url": "https://open.spotify.com/track/2SMayfL8qCOPA98aKdDTjN"
-    },
-    {
       "added_at": "2022-05-08 18:08:38",
       "album": {
         "name": "Girls",
@@ -867,6 +851,22 @@
       "duration_ms": 356299,
       "name": "Girls - House Mix",
       "url": "https://open.spotify.com/track/643NMYHAgwj8EUm60lAdBy"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "It's Our Game (no need to claim)",
+        "url": "https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt"
+      },
+      "artists": [
+        {
+          "name": "Boom Shaka",
+          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Ibuhlungu",
+      "url": "https://open.spotify.com/track/2SMayfL8qCOPA98aKdDTjN"
     },
     {
       "added_at": "2022-04-25 18:44:17",

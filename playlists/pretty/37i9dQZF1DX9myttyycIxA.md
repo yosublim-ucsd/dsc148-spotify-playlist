@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: NewDad
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,426 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,442 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [High School Gym](https://open.spotify.com/track/087RIqgZWehk36IdWeAmxe) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [The Rainbow Wheel of Death](https://open.spotify.com/album/5HSwTNvgYwVtmma4mnTRXL) | 4:10 |
 | 100 | [Adderall](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 |
 
-Snapshot ID: `MCxlNTQ3M2NjNWUxMTFjMDRjZTE5OTU4MDk2ZmZjMjJiOGU5MDFjNzll`
+Snapshot ID: `MCwyMWVmNmNkOGI5MzgwZjMzOTM5ZDI1MDNjYzY3ZTM5MmFkZmE0MTQ4`
