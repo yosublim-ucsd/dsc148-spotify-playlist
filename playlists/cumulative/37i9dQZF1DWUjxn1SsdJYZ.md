@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: 808Riot
 
-646 songs - 1 day 6 hr 3 min
+647 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Mr BNE](https://open.spotify.com/track/19eMPQIRS1As63QOfbVPKh) | [Chill Bne](https://open.spotify.com/artist/4BLQGMIFpY7oMCAJ1OD9fs) | [Mr BNE](https://open.spotify.com/album/5gye3hXQwijEVXahRznrb8) | 2:17 | 2023-05-25 | 2023-09-15 |
 | [MR LUCKY](https://open.spotify.com/track/3QyF6ighoWEbCubJ4E0TuM) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [MR LUCKY](https://open.spotify.com/album/7M51f0iWJMOsBYWShOVYkb) | 2:38 | 2023-06-16 | 2023-10-06 |
 | [mudboy](https://open.spotify.com/track/0DLMRXisEWpqGauuDdOwx5) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [mudboy](https://open.spotify.com/album/0YLwlxIkAliUiTlfdpb5a2) | 1:53 | 2023-07-21 | 2023-08-18 |
+| [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU) | 2:01 | 2024-01-19 |  |
 | [Music Is Everything](https://open.spotify.com/track/2G80wiirsJkhEi9ScbIYZA) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Music Is Everything](https://open.spotify.com/album/39DnVGawDpkxGbJFaSzyLU) | 4:12 | 2024-01-19 |  |
 | [MY CITY](https://open.spotify.com/track/62bsIzKQuiTnskD0DV3qku) | [88YAMI](https://open.spotify.com/artist/3H9X7CGiBMJTlz4ldD5SuF), [Yourboymars](https://open.spotify.com/artist/5ouiVfEBsyRSAGOZiJHYQD) | [MY CITY](https://open.spotify.com/album/6LPf2adSPT7Ne8FlpCPOrC) | 2:44 | 2022-03-21 | 2022-03-25 |
 | [MY LADY](https://open.spotify.com/track/2onWwFkCGVNg7flE6KDpdM) | [Dibz](https://open.spotify.com/artist/0y5XzfgkyNOEO0zAWuDWQ9), [Cele0n](https://open.spotify.com/artist/164UgxUbtGH4nvG1NYmKO8) | [MY LADY](https://open.spotify.com/album/6RtYJ3q5f7geON8ISvGIU7) | 3:07 | 2024-01-11 |  |

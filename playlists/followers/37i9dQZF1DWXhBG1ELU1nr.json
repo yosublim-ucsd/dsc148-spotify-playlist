@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 231162,
+  "2024-01-20": 231213,
   "date_first_scraped": "2022-03-02",
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
   "name": "Trabalhando de Casa",
@@ -2564,6 +2564,24 @@
     },
     {
       "album": {
+        "name": "The Reason (20th Anniversary)",
+        "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
+    },
+    {
+      "album": {
         "name": "Deja Vu Songs",
         "url": "https://open.spotify.com/album/4Jc7aKFaAmBZ6ju7YFUjwI"
       },
@@ -2593,7 +2611,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"

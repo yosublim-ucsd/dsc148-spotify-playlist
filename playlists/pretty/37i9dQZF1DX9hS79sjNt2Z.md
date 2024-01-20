@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 
 > Easter songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,350 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,352 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 | 18 | [Easter Bunny Hop](https://open.spotify.com/track/3OaedH1p7l7ey66DxJYNso) | [VeggieTales](https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx) | [A Very Veggie Easter](https://open.spotify.com/album/5a1G1mo2BhpX6Xdgt6BRZ0) | 3:55 |
 | 19 | [Christ Arose](https://open.spotify.com/track/4M5DsrFTEboNqIjlrtbKfB) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [I Believe \(An Easter Curriculum\)](https://open.spotify.com/album/1XI67b6DN7yvPAscGjrjMr) | 2:59 |
 | 20 | [At the Cross](https://open.spotify.com/track/6lRKAZdAf5D3Mzsh6e9bPs) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Kids Sing Easter Hymns](https://open.spotify.com/album/6pCJF76lwE3kM5zCBPFF0j) | 3:16 |
-| 21 | [New Creation \(2 Corinthians 5:17\)](https://open.spotify.com/track/3hs7pFQlZT8gobfVihXRvV) | [Seeds Kids Worship](https://open.spotify.com/artist/1ojWtM2HJy1Zqaiwy0uf5n) | [Seeds of Faith](https://open.spotify.com/album/6KYh5WhHb6ScsskC6JPPyw) | 3:19 |
+| 21 | [New Creation \(2 Corinthians 5:17\)](https://open.spotify.com/track/3hs7pFQlZT8gobfVihXRvV) | [Seeds Kids Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Seeds of Faith](https://open.spotify.com/album/6KYh5WhHb6ScsskC6JPPyw) | 3:19 |
 | 22 | [Christ the Lord Is Risen Today](https://open.spotify.com/track/25MAOAQjQ9Rp6t6YbZkIvp) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [I Believe \(An Easter Curriculum\)](https://open.spotify.com/album/1XI67b6DN7yvPAscGjrjMr) | 3:12 |
 | 23 | [All Around The Word](https://open.spotify.com/track/7KIVvfAQV2REZktLtmT2OJ) | [VeggieTales](https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx) | [A Very Veggie Easter](https://open.spotify.com/album/5a1G1mo2BhpX6Xdgt6BRZ0) | 3:51 |
 | 24 | [5 Little Bunnies](https://open.spotify.com/track/6tlpnSxi9lo0xGFlk6KGhS) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Easter Songs for Children](https://open.spotify.com/album/4D1fMZtiKK0uB4QUGokMD5) | 1:59 |
 | 25 | [Hip Hip Hooray](https://open.spotify.com/track/1QdicPb11mIwAJk2E3RAn9) | [Singin' Praise Tots](https://open.spotify.com/artist/5IdgJpb54e6YMm2NUZoWDa) | [Singin' Praise Tots Easter](https://open.spotify.com/album/15Hxq7h2c1bJIL81u8kjnK) | 1:25 |
 | 26 | [When I Survey the Wondrous Cross](https://open.spotify.com/track/4Kpk37Boe5aANObG434h9O) | [God's Kids Worship Band](https://open.spotify.com/artist/4ps6pooxJprtllhZ1hR1Xc) | [Easter Wonder](https://open.spotify.com/album/2YydZZFVOOoTDdQnL4ifyA) | 2:00 |
-| 27 | [Worthy Is the Lamb \(Revelation 5:12\)](https://open.spotify.com/track/6U0e4ItflAwI58gFVO2bKr) | [Seeds Kids Worship](https://open.spotify.com/artist/1ojWtM2HJy1Zqaiwy0uf5n) | [Seeds of Easter](https://open.spotify.com/album/75B31cBodpojH4fk7i3GET) | 4:02 |
+| 27 | [Worthy Is the Lamb \(Revelation 5:12\)](https://open.spotify.com/track/6U0e4ItflAwI58gFVO2bKr) | [Seeds Kids Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Seeds of Easter](https://open.spotify.com/album/75B31cBodpojH4fk7i3GET) | 4:02 |
 | 28 | [I Know That My Redeemer Lives](https://open.spotify.com/track/4X7vjOk96FAglbxQCDk1J9) | [God's Kids Worship Band](https://open.spotify.com/artist/4ps6pooxJprtllhZ1hR1Xc) | [Easter Wonder](https://open.spotify.com/album/2YydZZFVOOoTDdQnL4ifyA) | 2:22 |
 | 29 | [He Rose](https://open.spotify.com/track/3MHW0dOJIV1tOaX6dd3MgR) | [GO Kids Music](https://open.spotify.com/artist/1glKF0WbX92yw5aHtTnEA4) | [He Rose](https://open.spotify.com/album/4MKjwB0fU4zSrsxCAJXBHf) | 3:36 |
 | 30 | [Going on an Easter Egg Hunt](https://open.spotify.com/track/3SRTU4d750jjpoKzAyteGk) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Easter Songs for Children](https://open.spotify.com/album/4D1fMZtiKK0uB4QUGokMD5) | 3:04 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 | 100 | [Lead Me To The Cross](https://open.spotify.com/track/6OJZWfDfxubWxWYWhHI0Og) | [Kids Praise! Company](https://open.spotify.com/artist/13EBQsdgR822icqaSKAGwT) | [Good Good Father](https://open.spotify.com/album/79hijgvISuI86XQD7Q9By2) | 4:21 |
 | 101 | [Christ Is Risen, He Is Risen Indeed](https://open.spotify.com/track/5Fcqe3AVjIf8OBeCZswCOZ) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Getty Kids Hymnal \- In Christ Alone](https://open.spotify.com/album/7yiENPxEnhGvOLisic94jw) | 4:10 |
 
-Snapshot ID: `MCxmY2JjYTEzZmRkZWJmNWFiOTQ2ODI5OTcxOTg0YzEwZDhhM2RkMjk1`
+Snapshot ID: `MCwzYzVhNzNjZjZiNGY0ZGJmNTk4YTU3YjgwNjQxMjgxNDRiMmYwMThk`

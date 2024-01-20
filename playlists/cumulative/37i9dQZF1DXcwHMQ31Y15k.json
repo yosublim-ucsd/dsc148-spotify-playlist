@@ -1150,6 +1150,24 @@
     {
       "album": {
         "name": "Gampil",
+        "url": "https://open.spotify.com/album/5Tj6s9XnqD5acllIrUCGU2"
+      },
+      "artists": [
+        {
+          "name": "Bravesboy",
+          "url": "https://open.spotify.com/artist/2PUWReihDs70AzwDeGEoG1"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248641,
+      "name": "Gampil",
+      "url": "https://open.spotify.com/track/3RvL8OtF2e9OMxeFk5JYZS"
+    },
+    {
+      "album": {
+        "name": "Gampil",
         "url": "https://open.spotify.com/album/1CDoARMdq5GXJvEX8xSkIe"
       },
       "artists": [

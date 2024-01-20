@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Antoon
 
-470 songs - 22 hr 53 min
+471 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [Zwaaien Naar Het Verleden](https://open.spotify.com/track/608qQnvnuZUL8zEqCtXV5l) | [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC) | [Mella](https://open.spotify.com/album/4xXNRMUoZ63lFC8zb0bV86) | 3:01 | 2023-06-22 | 2023-08-18 |
 | [Zwakke Plekken](https://open.spotify.com/track/7v9maReQ2LdCDXMeHePWfE) | [STEFF](https://open.spotify.com/artist/1ngLK13t5KqbnQh8pN0k9i) | [Zwakke Plekken](https://open.spotify.com/album/4NOl6sDrzhDNeC9kDtHOHD) | 2:34 | 2023-03-02 | 2023-06-16 |
 | [Zweven](https://open.spotify.com/track/41kC0OKOvxxccg9AZcIVlg) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Zweven](https://open.spotify.com/album/7jyJPYHgvDIsHElJio5fnQ) | 2:46 | 2023-06-01 | 2023-08-18 |
-| [Écoutez\-moi](https://open.spotify.com/track/55U5MtDnqyZ5jpdlOjPxON) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/7a4fD18DJgxkP3uSCVj0pb) | 2:39 | 2024-01-11 |  |
+| [Écoutez\-moi](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 | 2024-01-18 |  |
+| [Écoutez\-moi](https://open.spotify.com/track/55U5MtDnqyZ5jpdlOjPxON) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/7a4fD18DJgxkP3uSCVj0pb) | 2:39 | 2024-01-11 | 2024-01-20 |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

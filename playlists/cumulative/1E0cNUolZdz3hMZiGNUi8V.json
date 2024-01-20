@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Patience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170007,
+      "name": "2011",
+      "url": "https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD"
+    },
+    {
+      "album": {
         "name": "4 Sho",
         "url": "https://open.spotify.com/album/54yng3O1nadb0F3pYDM3vU"
       },
@@ -240,10 +258,32 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 89023,
       "name": "Cashin Out (feat. Rollin Thrax)",
       "url": "https://open.spotify.com/track/3Ssl2jiXz0DRvZ1SL7rsnZ"
+    },
+    {
+      "album": {
+        "name": "CBFW (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/65yeE7D5vaPkt7pkgXeNxj"
+      },
+      "artists": [
+        {
+          "name": "Sett",
+          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173233,
+      "name": "CBFW (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4e2HCzAsq32hsGabDi02v0"
     },
     {
       "album": {
@@ -258,7 +298,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 115013,
       "name": "Change My Wayz",
       "url": "https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms"
@@ -414,7 +454,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 164444,
       "name": "Drop That",
       "url": "https://open.spotify.com/track/5v895dSLobjyUxCmtg9NsY"
@@ -458,6 +498,28 @@
       "duration_ms": 123522,
       "name": "FAH",
       "url": "https://open.spotify.com/track/2lVzafLeERgnVY9NIzWXWu"
+    },
+    {
+      "album": {
+        "name": "Fat Boy (feat. Rick Ross)",
+        "url": "https://open.spotify.com/album/3gNDqJwbeF8MOvSkxugVxS"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Fat Boy (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/71S2e7v71Rcu3CH59pKdE8"
     },
     {
       "album": {
@@ -670,6 +732,24 @@
       "duration_ms": 185749,
       "name": "Guwop & Gizzle",
       "url": "https://open.spotify.com/track/3GwwZmjEAo65jUZSQveNvJ"
+    },
+    {
+      "album": {
+        "name": "Penith (The DAVE Soundtrack)",
+        "url": "https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe"
+      },
+      "artists": [
+        {
+          "name": "Lil Dicky",
+          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243033,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/73cnzXHK8i4WC5Pw0ZIZ2F"
     },
     {
       "album": {
@@ -1216,7 +1296,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 118615,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a"
@@ -1696,10 +1776,32 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 146673,
       "name": "The Grinch Freestyle (feat. Latto)",
       "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
+    },
+    {
+      "album": {
+        "name": "To Da Face (feat. Ohgeesy)",
+        "url": "https://open.spotify.com/album/0lPBWyeZP1fdyE2e93tDfz"
+      },
+      "artists": [
+        {
+          "name": "R3 DA Chilliman",
+          "url": "https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "To Da Face (feat. Ohgeesy)",
+      "url": "https://open.spotify.com/track/1uHFYluv1msgbvQeo35KM8"
     },
     {
       "album": {

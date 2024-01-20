@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 145978,
+  "2024-01-20": 146021,
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e0a\u0e48\u0e27\u0e07\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01\u0e1b\u0e35\u0e19\u0e35\u0e49! \u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e44\u0e17\u0e22\u0e44\u0e27\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LAZYLOXY",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e08\u0e31\u0e14\u0e43\u0e2b\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ben Bizzy",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b \u0e02\u0e2d\u0e07\u0e21\u0e31\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 199846,
       "name": "99 Is Over",
       "url": "https://open.spotify.com/track/6avOKdpoqrUkRQdwTgSnWD"
@@ -115,7 +115,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 261492,
       "name": "AOW MA",
       "url": "https://open.spotify.com/track/2UUHhINIekqGyesR6c2lQ0"
@@ -181,10 +181,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 151191,
       "name": "BAD MAN",
       "url": "https://open.spotify.com/track/73iax7bJMj9KJLkSksobCM"
+    },
+    {
+      "album": {
+        "name": "Beast Mode",
+        "url": "https://open.spotify.com/album/2tvWUcFvJOE8i3mWOIFJnM"
+      },
+      "artists": [
+        {
+          "name": "Mega Perk",
+          "url": "https://open.spotify.com/artist/3CceQVvpPpeUJ0qQlHGHRY"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197787,
+      "name": "Beast Mode",
+      "url": "https://open.spotify.com/track/3gDBGo4nC5O7N67FbWt86P"
     },
     {
       "album": {
@@ -353,7 +371,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 121519,
       "name": "Booted Up",
       "url": "https://open.spotify.com/track/5dbjGBWIFnbXh17Nea9aOY"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 270638,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/41ZpjY8V80Hg5tH8imhFhC"
@@ -1249,6 +1267,28 @@
       "duration_ms": 184168,
       "name": "Lil Baddie",
       "url": "https://open.spotify.com/track/0e7whA45UmTXQPNnUXB8us"
+    },
+    {
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/6IWqR8ZaphtdUXEMoC73QF"
+      },
+      "artists": [
+        {
+          "name": "HK",
+          "url": "https://open.spotify.com/artist/3ox1cmzcE21qMaFHqHKowu"
+        },
+        {
+          "name": "P$L",
+          "url": "https://open.spotify.com/artist/57DAhn0drIzJ9hBv6n1dZv"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192182,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/24S13vIZevV7FiSBbQyfgM"
     },
     {
       "album": {
@@ -2137,7 +2177,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 185900,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/1rG6b4U7Vn0DztZ50U48gE"
@@ -2307,6 +2347,24 @@
       "duration_ms": 146795,
       "name": "Super Sonic",
       "url": "https://open.spotify.com/track/0Qk7ci883lIctKtFKtyIb3"
+    },
+    {
+      "album": {
+        "name": "T-POP",
+        "url": "https://open.spotify.com/album/7vI27DYiLQoTKmYnaZuaIa"
+      },
+      "artists": [
+        {
+          "name": "Ben Bizzy",
+          "url": "https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "T-POP",
+      "url": "https://open.spotify.com/track/7kZIBhicoafPMzwAvFTZMS"
     },
     {
       "album": {
@@ -2767,7 +2825,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 203102,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e04\u0e22\u0e40\u0e1b\u0e47\u0e19",
       "url": "https://open.spotify.com/track/13tej4bZgY7zbHNQlmR68D"
@@ -2989,7 +3047,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 172800,
       "name": "\u0e04\u0e37\u0e19\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e40\u0e21\u0e32",
       "url": "https://open.spotify.com/track/1knPmTe6xqmfbYzlOunQHC"
@@ -3268,6 +3326,24 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e2a\u0e31\u0e01\u0e27\u0e34\u0e19\u0e32\u0e17\u0e35",
+        "url": "https://open.spotify.com/album/41zEIogW1DIxad2Qbeq5Rd"
+      },
+      "artists": [
+        {
+          "name": "LAZYHOLIC",
+          "url": "https://open.spotify.com/artist/47ni85HaUaSCCkDLkmJouA"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200347,
+      "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e2a\u0e31\u0e01\u0e27\u0e34\u0e19\u0e32\u0e17\u0e35",
+      "url": "https://open.spotify.com/track/0A7WIDaopCgpEDaKQNvmqO"
+    },
+    {
+      "album": {
         "name": "Selfmade",
         "url": "https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd"
       },
@@ -3283,6 +3359,24 @@
       "duration_ms": 197948,
       "name": "\u0e0a\u0e48\u0e27\u0e22\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7"
+    },
+    {
+      "album": {
+        "name": "\u0e0b\u0e38\u0e48\u0e21\u0e01\u0e2d\u0e2b\u0e0d\u0e49\u0e32 (SUUM GOR YAH)",
+        "url": "https://open.spotify.com/album/0ioNVEhr3wFYmbxqGVshcN"
+      },
+      "artists": [
+        {
+          "name": "AI-IZE",
+          "url": "https://open.spotify.com/artist/6qr6UlnWVBBAyqDSj2P8T4"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204335,
+      "name": "\u0e0b\u0e38\u0e48\u0e21\u0e01\u0e2d\u0e2b\u0e0d\u0e49\u0e32 (SUUM GOR YAH)",
+      "url": "https://open.spotify.com/track/5CA0GbYfQSDgaA4LOcjnzy"
     },
     {
       "album": {
@@ -3305,7 +3399,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 240000,
       "name": "\u0e14.\u0e0a.\u0e41\u0e04\u0e19\u0e19\u0e32\u0e1a\u0e34\u0e0b 2",
       "url": "https://open.spotify.com/track/1H9Bi5cyW9I6Ze4Uaib47u"
@@ -3455,7 +3549,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 196363,
       "name": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/10GR1MC5v8daljccXFSLIt"
@@ -3887,7 +3981,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 218734,
       "name": "\u0e1e\u0e34\u0e29\u0e20\u0e31\u0e22",
       "url": "https://open.spotify.com/track/1sRtu6JEFW80RYxbTIe1Xr"
@@ -4641,7 +4735,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 331237,
       "name": "\u0e2d\u0e22\u0e32\u0e1e\u0e36\u0e48\u0e07\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/5raHURSACq5nP4rSyHEcYv"
@@ -4671,7 +4765,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 287753,
       "name": "\u0e2d\u0e30\u0e44\u0e23\u0e09\u0e31\u0e19\u0e01\u0e47\u0e22\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/1Uirva9dJEp3Ctq3p6ejFQ"
@@ -4755,7 +4849,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 187200,
       "name": "\u0e2d\u0e49\u0e2d\u0e23\u0e49\u0e2d",
       "url": "https://open.spotify.com/track/15egdKRUq65ISQDUNcKsJ5"
@@ -5141,7 +5235,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 168333,
       "name": "\u0e40\u0e21\u0e32\u0e44\u0e2b\u0e19\u0e19\u0e2d\u0e19\u0e19\u0e31\u0e48\u0e19",
       "url": "https://open.spotify.com/track/7mMvViZlqyFKXVq3nvoHNa"
@@ -5249,7 +5343,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 192012,
       "name": "\u0e41\u0e16\u0e27\u0e19\u0e35\u0e49\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22",
       "url": "https://open.spotify.com/track/3xSOTbsoGMUcufglF736Vz"
@@ -5271,7 +5365,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 173340,
       "name": "\u0e41\u0e1f\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e2b\u0e19\u0e49\u0e32\u0e04\u0e38\u0e49\u0e19",
       "url": "https://open.spotify.com/track/29E8BUUDQbc5S7jMPOj9wW"

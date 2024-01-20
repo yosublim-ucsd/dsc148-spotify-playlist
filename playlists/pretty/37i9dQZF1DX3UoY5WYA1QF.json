@@ -1,12 +1,12 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 89966,
+  "num_followers": 90073,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGYyOTE3MjE0ZDQ0MWY1ODU1MjZhNTFiOWY5ZTAxYTY0OGJlNWQ0",
+  "snapshot_id": "MCwxNWJkMTQ3YzVkZmFhZDE3ZTUyYjk4MGEzMjZkYWI4OWFlMjY4OTMz",
   "tracks": [
     {
       "added_at": "2023-04-10 22:49:54",
@@ -283,8 +283,8 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 207586,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
+      "duration_ms": 163654,
+      "name": "M\u00e1s All\u00e1 Del Sol",
+      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -407,8 +407,8 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 163654,
-      "name": "M\u00e1s All\u00e1 Del Sol",
-      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
+      "duration_ms": 207586,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Nuestras Favoritas De Joan Sebastian",
-        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 224107,
-      "name": "Buena Amiga",
-      "url": "https://open.spotify.com/track/2QvxxH2qKdMdXGBr0blz1s"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Mi Guitarra y Yo Vol. 3",
         "url": "https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 330696,
       "name": "Manuel Juarez",
       "url": "https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Nuestras Favoritas De Joan Sebastian",
+        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 224107,
+      "name": "Buena Amiga",
+      "url": "https://open.spotify.com/track/2QvxxH2qKdMdXGBr0blz1s"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Nuestras Favoritas De Joan Sebastian",
-        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
+        "name": "Las Rom\u00e1nticas de Cuisillos, Vol. 2",
+        "url": "https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 161216,
-      "name": "En Un Jaripeo",
-      "url": "https://open.spotify.com/track/368PvQ3FRthUJLTHp11JP2"
+      "duration_ms": 176237,
+      "name": "Hasta Que Amanezca",
+      "url": "https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -891,18 +891,22 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Las Rom\u00e1nticas de Cuisillos, Vol. 2",
-        "url": "https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd"
+        "name": "Para Siempre Los Nietos De Ter\u00e1n",
+        "url": "https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Los Nietos De Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
+        },
+        {
+          "name": "La Abuela Irma Silva",
+          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
         }
       ],
-      "duration_ms": 176237,
-      "name": "Hasta Que Amanezca",
-      "url": "https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv"
+      "duration_ms": 171213,
+      "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
+      "url": "https://open.spotify.com/track/5s6D3aH0ZJPVW2BmQBPpaJ"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -939,26 +943,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Para Siempre Los Nietos De Ter\u00e1n",
-        "url": "https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt"
-      },
-      "artists": [
-        {
-          "name": "Los Nietos De Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
-        },
-        {
-          "name": "La Abuela Irma Silva",
-          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
-      "url": "https://open.spotify.com/track/5s6D3aH0ZJPVW2BmQBPpaJ"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Nuestras Favoritas De Joan Sebastian",
         "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
       },
@@ -968,9 +952,25 @@
           "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 194293,
-      "name": "Mayra",
-      "url": "https://open.spotify.com/track/5iqAE9eRwewAI7mtpdTphG"
+      "duration_ms": 161216,
+      "name": "En Un Jaripeo",
+      "url": "https://open.spotify.com/track/368PvQ3FRthUJLTHp11JP2"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Joyas Musicales: Lo Ranchero de Cuisillos de Arturo Mac\u00edas, Vol. 1",
+        "url": "https://open.spotify.com/album/1IymVjJhDpdibw7S4dPho9"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 135964,
+      "name": "Ojitos De Golondrina",
+      "url": "https://open.spotify.com/track/0Gwv52FGhlkE9P2tLCaCmy"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Joyas Musicales: Lo Ranchero de Cuisillos de Arturo Mac\u00edas, Vol. 1",
-        "url": "https://open.spotify.com/album/1IymVjJhDpdibw7S4dPho9"
+        "name": "Para Siempre Los Nietos De Ter\u00e1n",
+        "url": "https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Los Nietos De Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
+        },
+        {
+          "name": "La Abuela Irma Silva",
+          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
         }
       ],
-      "duration_ms": 135964,
-      "name": "Ojitos De Golondrina",
-      "url": "https://open.spotify.com/track/0Gwv52FGhlkE9P2tLCaCmy"
+      "duration_ms": 192586,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/2qnjcjo3vFxZpb62jMKGgW"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1103,22 +1107,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Para Siempre Los Nietos De Ter\u00e1n",
-        "url": "https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt"
+        "name": "Nuestras Favoritas De Joan Sebastian",
+        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
       },
       "artists": [
         {
-          "name": "Los Nietos De Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
-        },
-        {
-          "name": "La Abuela Irma Silva",
-          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 192586,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/2qnjcjo3vFxZpb62jMKGgW"
+      "duration_ms": 194293,
+      "name": "Mayra",
+      "url": "https://open.spotify.com/track/5iqAE9eRwewAI7mtpdTphG"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1135,22 +1135,6 @@
       "duration_ms": 205880,
       "name": "La Historia Que No",
       "url": "https://open.spotify.com/track/237HTVPRaOx5Q8Yo7Zyay4"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
-        "name": "Nuestras Favoritas De Joan Sebastian",
-        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 162818,
-      "name": "Nube Gris",
-      "url": "https://open.spotify.com/track/4rRaKJ1sdlZlRat7WR5xF4"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1183,6 +1167,22 @@
       "duration_ms": 162873,
       "name": "Las Mariposas",
       "url": "https://open.spotify.com/track/7nMybk0CdPDILEmkckC7SO"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Nuestras Favoritas De Joan Sebastian",
+        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 162818,
+      "name": "Nube Gris",
+      "url": "https://open.spotify.com/track/4rRaKJ1sdlZlRat7WR5xF4"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "Dis\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 180511,
       "name": "Veinticinco Rosas",
       "url": "https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Dis\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2023-04-10 22:49:54",

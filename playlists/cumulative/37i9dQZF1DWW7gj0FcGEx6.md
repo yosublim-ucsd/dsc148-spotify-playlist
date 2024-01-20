@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-323 songs - 16 hr 8 min
+325 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [I Importune You \(feat\. Percival Schuttenbach\)](https://open.spotify.com/track/7muq4xFFXRAZ7Kl3ZFPZNf) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Percival Schuttenbach](https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM) | [The Witcher: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v) | 1:12 | 2023-07-21 |  |
 | [I Loved You First](https://open.spotify.com/track/3oKK4OBgOs0WSvpaQZ9Fdy) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [The Flash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Iwcke5WByZdDlIv0WucmX) | 1:34 | 2023-06-23 |  |
 | [I Was in the Fire](https://open.spotify.com/track/5RzuscEAO9AjlyNC9GXmDp) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Stowaway \(Music from the Netflix Film\)](https://open.spotify.com/album/3DCXB1BcqnaRnvJLEiAlBs) | 2:35 | 2021-12-20 |  |
+| [Il Tuo Fiato d'Aurora \- From "La Tresse" Soundtrack](https://open.spotify.com/track/5Yn2jvt4JFHugH4UPVOa4u) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Il Tuo Fiato d’Aurora \(From "La Tresse" Soundtrack\)](https://open.spotify.com/album/7Mtrg7FYUcmlh0r8C1DGxI) | 2:17 | 2024-01-19 |  |
 | [Illumination](https://open.spotify.com/track/5S6oMgWqnu5z9lAS8qiJWa) | [Stephanie Economou](https://open.spotify.com/artist/2CZRlBNoAoDpVu3vLFKySH) | [Jupiter's Legacy \(Music From the Netflix Series\)](https://open.spotify.com/album/6McEWs40dlz8bv22xmqly8) | 2:36 | 2021-12-20 |  |
 | [In Those Tapes](https://open.spotify.com/track/1VxXn7Tryr630n0KfVRz8B) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4), [Mike Tuccillo](https://open.spotify.com/artist/6vGiwaZ9zrjN0APKhLMSSX) | [Ramy: Seasons One and Two \(Original Composition Soundtrack Album\)](https://open.spotify.com/album/57jesfA7JE3bWqg98gE2eA) | 2:45 | 2021-12-20 | 2022-07-09 |
 | [Into the Fire](https://open.spotify.com/track/0TeV9D5NtoAjITBs80oMVg) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [Into the Fire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1J4q69vEusnKYtTOrmTpZ6) | 4:04 | 2021-12-20 | 2022-07-09 |
@@ -197,6 +198,7 @@
 | [Over The Pines](https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk) | [Over The Pines \(from the Motion Picture "Land"\)](https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj) | 3:11 | 2021-12-20 |  |
 | [Overture](https://open.spotify.com/track/3yFOslxT9EZHLaoZ9YKXoA) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni), [Caitlin Sullivan](https://open.spotify.com/artist/2yKRNZMmVZvvGf60cxTxqa) | [She Said \(Original Motion Picture Score\)](https://open.spotify.com/album/3UAjGfniReEmKuZjDQHnFN) | 2:02 | 2022-11-18 |  |
 | [oxygen \- from "Exception" Soundtrack](https://open.spotify.com/track/5WV0YyXkC4UoPObkLdTPb0) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opening for "Exception" / oxygen \[from "Exception" Soundtrack\]](https://open.spotify.com/album/4n6KyU61hys0riXmvIQMYs) | 3:48 | 2022-09-16 |  |
+| [PANESSO](https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 2:41 | 2024-01-19 |  |
 | [Paul's Antiphony](https://open.spotify.com/track/1PrpXfmkRGT6QiSET8HSW6) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Paul's Antiphony](https://open.spotify.com/album/61nAUbtJdH8PKH73XTgvDV) | 1:54 | 2021-12-20 | 2022-07-09 |
 | [Peaceful Here Now](https://open.spotify.com/track/6Xso6xtnjOUD4SrdvF911i) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Deliver Us \(Original Series Soundtrack\)](https://open.spotify.com/album/0g6Fo4Z3u2WTtOtBqvL8nz) | 4:59 | 2021-12-20 | 2022-07-09 |
 | [Penrose Steps, A.I\. Bloom \- From "Eden" Soundtrack](https://open.spotify.com/track/0x5s5VhaxIhuNg7guk46At) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Penrose Steps, A.I\. Bloom \(From "Eden" Soundtrack\)](https://open.spotify.com/album/3Mx2A5UAILIhOZL94KG0Hb) | 4:47 | 2021-12-20 |  |

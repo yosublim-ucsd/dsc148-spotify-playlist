@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Denny Caknan
 
-272 songs - 22 hr 29 min
+273 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Full Senyum Sayang](https://open.spotify.com/track/6Vhst432fSvsduUkqFruiq) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/6qYd6W2PyMVSjDCs5VEh6g) | 4:06 | 2023-12-08 |  |
 | [Full Senyum Sayang](https://open.spotify.com/track/7k2TwP9u83aABMkNoQuBnn) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3wy9IbCarGhOSaY3WY731C) | 4:06 | 2023-02-16 | 2023-12-09 |
 | [Gali Prapatan](https://open.spotify.com/track/5a0RI1DJDKqLhGyTRyVIa8) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Gali Prapatan](https://open.spotify.com/album/3pkrZtfEYuCfIOWQMV0Y10) | 2:57 | 2023-08-03 | 2023-10-08 |
+| [Gampil](https://open.spotify.com/track/3RvL8OtF2e9OMxeFk5JYZS) | [Bravesboy](https://open.spotify.com/artist/2PUWReihDs70AzwDeGEoG1) | [Gampil](https://open.spotify.com/album/5Tj6s9XnqD5acllIrUCGU2) | 4:08 | 2024-01-19 |  |
 | [Gampil](https://open.spotify.com/track/7KET9JHpqakmnfmP1xSQuD) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Gampil](https://open.spotify.com/album/1CDoARMdq5GXJvEX8xSkIe) | 5:02 | 2024-01-18 |  |
 | [Gampil](https://open.spotify.com/track/6T03CN5UVnCGPz3muqvpOz) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Gampil](https://open.spotify.com/album/0UjiKUCJA3xHzSfhjlqqVk) | 4:51 | 2024-01-11 |  |
 | [Gampil](https://open.spotify.com/track/7yCRYkJJfyRrOswvni0P6U) | [NGATMOMBILUNG](https://open.spotify.com/artist/2QTbC45lx9ANi4Cm2hx09c) | [Gampil](https://open.spotify.com/album/2wftoe7LLLRQbWhC5PnkOp) | 4:35 | 2024-01-11 |  |

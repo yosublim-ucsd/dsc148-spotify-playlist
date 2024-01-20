@@ -1849,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Summery Land",
+        "url": "https://open.spotify.com/album/7syFPlSaclu0L5tBX41Fl6"
+      },
+      "artists": [
+        {
+          "name": "Edg\u00e4r",
+          "url": "https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208920,
+      "name": "Summery Land",
+      "url": "https://open.spotify.com/track/1Uiq5cFvLUwCMAqVY77oPR"
+    },
+    {
+      "album": {
         "name": "Tenderly",
         "url": "https://open.spotify.com/album/4M0kEb9aheb55jdIEOeMsm"
       },

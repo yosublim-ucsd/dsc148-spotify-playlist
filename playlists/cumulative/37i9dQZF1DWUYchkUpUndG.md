@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=lmcWKI9cT0idny8ul8ed2A>Ebuka Songs</a>
 
-1,704 songs - 5 day 8 hr 13 min
+1,706 songs - 5 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Can't bring me down](https://open.spotify.com/track/4Ozk1lY4qhVsxR9IkIbsJJ) | [Samsedy](https://open.spotify.com/artist/1ESKg96QlCrh4GdaopdVjO), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v) | [Can't bring me down](https://open.spotify.com/album/4KfexmbacYUuffHJA2w98l) | 3:11 | 2024-01-12 |  |
 | [Can't Leave](https://open.spotify.com/track/5ks4k5opWCz5pT3WxcjQLQ) | [Rush The High Priest](https://open.spotify.com/artist/60XHmaDa6fx5EVOImhc7n2), [Cru Alxndr](https://open.spotify.com/artist/1nExCVqTaxTCoGW4aJ4ZI2), [Slyvia Joy](https://open.spotify.com/artist/0ILsSKIA5ygKsQ5je5F13W) | [Can't Leave](https://open.spotify.com/album/7yfGkVfZOKetZWAAY5TrGN) | 3:34 | 2023-11-24 | 2023-12-08 |
 | [Captured My Heart](https://open.spotify.com/track/3vBvqUP03J70SnR8olFtvR) | [Dambassador](https://open.spotify.com/artist/0YFiexKRVtVG6tFQHQnLUl) | [Captured My Heart](https://open.spotify.com/album/3hq0NNrav8UNMzEMKlu0UD) | 3:39 | 2024-01-12 |  |
+| [Carry Me](https://open.spotify.com/track/4HeHd1zsIXaGqCQ0Fl3gYR) | [Endy Musik](https://open.spotify.com/artist/1KXnYCLr7qSyM4ErfokXNp) | [Carry Me](https://open.spotify.com/album/45VBL0yKFEzrhO0nZLWty3) | 2:26 | 2024-01-19 |  |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2023-12-15 |
 | [Carry You](https://open.spotify.com/track/7evtIT3xJiAbxgPXjIS9X8) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Pe.te](https://open.spotify.com/artist/6JBEJPPMT7XhJII7ZMhPCi), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Carry You](https://open.spotify.com/album/5l3HA0RBIsrOhZY87bykJH) | 3:40 | 2023-06-16 | 2023-06-30 |
 | [Carry You](https://open.spotify.com/track/3GUd6UGAkR3L0zcVIVSPFZ) | [Onyibest](https://open.spotify.com/artist/0Sblzh41Ow6Aa8kFgW5ivF) | [Pass Papa](https://open.spotify.com/album/4JhaMXTcKfATEh5DdbLjKL) | 2:57 | 2023-07-21 | 2023-08-04 |
@@ -1291,6 +1292,7 @@
 | [Rise](https://open.spotify.com/track/6egHO2dujFhKp7NZGnQ9Xd) | [Jordan Bangoji](https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d) | [Rise](https://open.spotify.com/album/5tA9fRB5SfbMc1AUAJ4mMq) | 2:56 | 2023-10-27 | 2023-11-10 |
 | [RISEN KING](https://open.spotify.com/track/5smUG9p1Q6FeLihZgxtJQy) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [RISEN KING](https://open.spotify.com/album/2y04jb9gerdjAs8I02HNnE) | 2:55 | 2023-10-06 | 2023-10-20 |
 | [River](https://open.spotify.com/track/3PHlNB3S85BYAbp8D3PMua) | [Beejay](https://open.spotify.com/artist/119qbWKYprzD4zm82EKkEi) | [River](https://open.spotify.com/album/7wMzsKs1o3fOM6yOpZKEog) | 3:12 | 2023-11-24 | 2023-12-01 |
+| [river](https://open.spotify.com/track/4N31X9TKRZ3vHx4nC7WrFW) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [river](https://open.spotify.com/album/5dSOFY6KgvJyFmWhWsnpz0) | 2:35 | 2024-01-19 |  |
 | [River Flow](https://open.spotify.com/track/6pPMskJqNLa8LUUO9zdKeL) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Volume Of The Book](https://open.spotify.com/album/4BMkLM73OSC3hFlux3vYAa) | 9:01 | 2023-06-30 | 2023-07-14 |
 | [Ruach](https://open.spotify.com/track/0kaKho0zVde3PwTiUjHEYm) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h), [Clergystrings](https://open.spotify.com/artist/1FLBl5sPP0Gc9TnHRQkSzV) | [Ruach](https://open.spotify.com/album/4h1Wly8Nm58804sg2BWyy7) | 30:06 | 2023-08-25 | 2023-09-08 |
 | [Ruach Hakodesh](https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Ruach Hakodesh](https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm) | 9:12 | 2023-09-15 | 2023-09-29 |

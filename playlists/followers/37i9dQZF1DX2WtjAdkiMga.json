@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 24492,
+  "2024-01-20": 24512,
   "date_first_scraped": "2022-04-19",
   "description": "Soft piano lullaby versions of Jazz classics to lull your baby to sleep.",
   "name": "Lullaby Jazz",
@@ -1371,6 +1371,24 @@
       "duration_ms": 190000,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC"
+    },
+    {
+      "album": {
+        "name": "The Bear Went Over The Mountain",
+        "url": "https://open.spotify.com/album/3UNesgZZ7kSZJKGkn7JYRb"
+      },
+      "artists": [
+        {
+          "name": "Henry Tales",
+          "url": "https://open.spotify.com/artist/3cndWcNVmK1Qx61hk4V4aM"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108690,
+      "name": "The Bear Went Over The Mountain",
+      "url": "https://open.spotify.com/track/4wzvf1g30kEIVIN8zwxI8f"
     },
     {
       "album": {

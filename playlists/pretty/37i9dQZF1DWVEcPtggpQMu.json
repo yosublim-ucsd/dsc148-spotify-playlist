@@ -1,12 +1,12 @@
 {
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=IgW7s1DITrCiFOfUmYULMA\">Wordz</a>",
-  "num_followers": 73719,
+  "description": "Only the hottest South African rap from the streets. Cover:  <a href=\"https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=_Epj3HVxQwW4sdJ-ktvdXA\">Wordz</a>",
+  "num_followers": 73791,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmFhMGM2YzUwNzQyZjdhNmFmODJkNjYzNzFlYTgxMjU1NTJiZTk1",
+  "snapshot_id": "MCwzNGExMjU3YzM5YzNmMWVmN2Q3OTdjOTk1OTg0YWQ3YzgxNDcyMjUz",
   "tracks": [
     {
       "added_at": "2024-01-11 23:00:00",
@@ -91,6 +91,22 @@
       "duration_ms": 202750,
       "name": "Adawise",
       "url": "https://open.spotify.com/track/2u9E7r2kQCQxCU0x7SqJXt"
+    },
+    {
+      "added_at": "2024-01-19 03:23:45",
+      "album": {
+        "name": "No Plans",
+        "url": "https://open.spotify.com/album/7EBCR3OnkGQHs9GWqnCwqB"
+      },
+      "artists": [
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "No Plans",
+      "url": "https://open.spotify.com/track/0ST19SQogRJXZm0ejBte9c"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -199,26 +215,6 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/4bMp5br56NS35NoHLhohOV"
-      },
-      "artists": [
-        {
-          "name": "S'BO Gyre",
-          "url": "https://open.spotify.com/artist/1E11hcWosnHT7Ib5YgpmOM"
-        },
-        {
-          "name": "LTO",
-          "url": "https://open.spotify.com/artist/3qYBtbmNfQZGjqtty0WvZ1"
-        }
-      ],
-      "duration_ms": 185604,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/38UjoTvHAPl0faBoO5ZoVX"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
         "name": "P2 : THE BIG HEARTED BAD GUY",
         "url": "https://open.spotify.com/album/5VRS9HeUxDmGRnmkfHPmp1"
       },
@@ -315,6 +311,26 @@
       "duration_ms": 246857,
       "name": "BARKER HAINES",
       "url": "https://open.spotify.com/track/3VsKpmCGU3yLqn4SSnzSzt"
+    },
+    {
+      "added_at": "2024-01-19 08:14:19",
+      "album": {
+        "name": "Sundphazamisa",
+        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
+      },
+      "artists": [
+        {
+          "name": "Umlungu The Rapper",
+          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
+        },
+        {
+          "name": "Big Xhosa",
+          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
+        }
+      ],
+      "duration_ms": 192296,
+      "name": "Sundphazamisa",
+      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -471,6 +487,26 @@
     {
       "added_at": "2024-01-11 23:00:00",
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/4bMp5br56NS35NoHLhohOV"
+      },
+      "artists": [
+        {
+          "name": "S'BO Gyre",
+          "url": "https://open.spotify.com/artist/1E11hcWosnHT7Ib5YgpmOM"
+        },
+        {
+          "name": "LTO",
+          "url": "https://open.spotify.com/artist/3qYBtbmNfQZGjqtty0WvZ1"
+        }
+      ],
+      "duration_ms": 185604,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/38UjoTvHAPl0faBoO5ZoVX"
+    },
+    {
+      "added_at": "2024-01-11 23:00:00",
+      "album": {
         "name": "GIVE ME LIFE (feat. Frank Casino)",
         "url": "https://open.spotify.com/album/11lG7fE1wqeZ00uZW1mByp"
       },
@@ -551,6 +587,26 @@
       "duration_ms": 278187,
       "name": "Amaqwa",
       "url": "https://open.spotify.com/track/7kAeTiWtrqnKdzDKx4JTPm"
+    },
+    {
+      "added_at": "2024-01-19 03:23:45",
+      "album": {
+        "name": "ON GOD ( Freestyle )",
+        "url": "https://open.spotify.com/album/4sXNONIW66LSk2rfdFJELw"
+      },
+      "artists": [
+        {
+          "name": "ZRi.",
+          "url": "https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N"
+        },
+        {
+          "name": "Scarface Panda",
+          "url": "https://open.spotify.com/artist/3jyUAIoIRG8CgEraAM8RWJ"
+        }
+      ],
+      "duration_ms": 98115,
+      "name": "ON GOD ( Freestyle )",
+      "url": "https://open.spotify.com/track/1rUGL6UimoXNYm8tvBX3nk"
     },
     {
       "added_at": "2024-01-11 23:00:00",
@@ -1379,30 +1435,6 @@
       "duration_ms": 263785,
       "name": "PROBLEMZ",
       "url": "https://open.spotify.com/track/4kzJuA1VCgbAUz8N8K2bk8"
-    },
-    {
-      "added_at": "2024-01-11 23:00:00",
-      "album": {
-        "name": "4 THE MO$H",
-        "url": "https://open.spotify.com/album/17TGlMTOKVFSxo6HGHQRlD"
-      },
-      "artists": [
-        {
-          "name": "Tae Africa",
-          "url": "https://open.spotify.com/artist/4rT8HuOGuYHDbMH9IsWMAo"
-        },
-        {
-          "name": "DJ Switch",
-          "url": "https://open.spotify.com/artist/6RBUG4w3ErLFxSxOmu7jnb"
-        },
-        {
-          "name": "Gaffi",
-          "url": "https://open.spotify.com/artist/6aPLtY1GA6d7GKOL266BR2"
-        }
-      ],
-      "duration_ms": 203160,
-      "name": "Askies Ta",
-      "url": "https://open.spotify.com/track/482GKebxCgfhCaISuCidRV"
     },
     {
       "added_at": "2024-01-11 23:00:00",

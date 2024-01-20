@@ -4,7 +4,7 @@
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Tripolare in cover
 
-777 songs - 1 day 11 hr 42 min
+778 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,6 +762,7 @@
 | [VELENO](https://open.spotify.com/track/5P7L3SQJM0ZKzP029SV1Gk) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo) | [VELENO](https://open.spotify.com/album/0QHZmMimUXG4SLIf7rbNrp) | 3:21 | 2023-10-12 | 2023-12-22 |
 | [VENERE](https://open.spotify.com/track/056jYB4VJ8j4YbwRniD4Hr) | [pablo murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB) | [VENERE](https://open.spotify.com/album/2oDt8ji4RSwpjImc66YvvD) | 2:17 | 2023-08-24 | 2023-12-01 |
 | [ventiquattro](https://open.spotify.com/track/36V1AlJgM7twP1LNJym8Xn) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8) | [ventiquattro](https://open.spotify.com/album/1EuqOMLU1qZiUekCMnZA1E) | 2:30 | 2023-07-20 | 2023-08-25 |
+| [venus fly trap](https://open.spotify.com/track/25oJjxP1cVjghqjfwEVPG6) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 4:55 | 2024-01-19 |  |
 | [Venuto da Vivere](https://open.spotify.com/track/5ybCFXpfeH37QPhaAfgB8X) | [Hal Quartièr](https://open.spotify.com/artist/5eSrt3y7HWtkmuAFGeMbBj) | [Venuto da Vivere](https://open.spotify.com/album/7oM1LTpA1NigaudTANb2wx) | 3:16 | 2022-09-22 | 2022-10-14 |
 | [Vestita Di Fiori](https://open.spotify.com/track/2bHsanZayVWXyMvtTYS3rZ) | [Shori](https://open.spotify.com/artist/7e2mwTlmw50hYfwXatQiLG) | [Vestita Di Fiori](https://open.spotify.com/album/5omJpBPuoNpIS39W6U7FzF) | 2:24 | 2022-05-06 | 2022-06-17 |
 | [Vetri rotti](https://open.spotify.com/track/74Ulr6XJ8kNkbaa7mLEDM6) | [v!ktoria](https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu), [Joga](https://open.spotify.com/artist/73B0xaGf7GIG2xvPHeC90A) | [Vetri rotti](https://open.spotify.com/album/3c17WyXyKChOfxsa6Sifef) | 3:09 | 2022-11-10 | 2022-12-16 |

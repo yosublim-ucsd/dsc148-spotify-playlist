@@ -3985,6 +3985,24 @@
     },
     {
       "album": {
+        "name": "I Hope You Find What You're Looking For",
+        "url": "https://open.spotify.com/album/0T31ndqyniqxMKSfVsGBlb"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "I Hope You Find What You're Looking For",
+      "url": "https://open.spotify.com/track/70Uq01vP7RqyF3QB3wM3lI"
+    },
+    {
+      "album": {
         "name": "I Think It Was In June",
         "url": "https://open.spotify.com/album/5sMFY17vv0LVna3tHIzgub"
       },

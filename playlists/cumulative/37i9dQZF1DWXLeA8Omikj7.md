@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-892 songs - 2 day 16 hr 0 min
+893 songs - 2 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Eros](https://open.spotify.com/track/21j57YHGKnwx2DR3YWnwrC) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [HUMAN](https://open.spotify.com/album/5h5OESkSbpnu5nauqtbFXX) | 4:07 | 2019-06-19\* | 2020-10-22 |
 | [Erosion](https://open.spotify.com/track/7CPrLYIx5Eq49tqR2i9YG2) | [Sogyal](https://open.spotify.com/artist/13vrs3G3AJuhplIL44AjGh), [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [Erosion](https://open.spotify.com/album/2ylNF12LX7pM7hAmLBguCg) | 2:56 | 2020-11-13 | 2022-07-13 |
 | [Escalate](https://open.spotify.com/track/7Bc2SFowNs7ItyVTOu15Ix) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Where It Begins](https://open.spotify.com/album/7GeQYx6rwDCCVBkxjShWE2) | 2:53 | 2019-06-19\* | 2020-10-22 |
+| [Essenza \- Instrumental](https://open.spotify.com/track/662uFTHNtlgnii28wIdXQQ) | [Rome in Reverse](https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM) | [So Far so Good \(Instrumental\)](https://open.spotify.com/album/7yabVYPaxNOMolAgqOOMHO) | 5:17 | 2024-01-19 |  |
 | [Eternal](https://open.spotify.com/track/4dxCxG0bJkCuhknPwELcF3) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 1:25 | 2019-05-26\* | 2022-04-17 |
 | [Eternal](https://open.spotify.com/track/3bNDLqeXiV9jCQtpIP2QIO) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Eating Darkness](https://open.spotify.com/album/34yHPIYA4aNxsaDjzwG7zW) | 3:41 | 2021-05-09 | 2022-07-16 |
 | [ETERNAL NOW](https://open.spotify.com/track/3Od1ZJW0O6puhUWFzlg85d) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f) | [RENEGADES OF LIGHT](https://open.spotify.com/album/4KVo7hcHmc7x12sszqdLAN) | 3:58 | 2019-07-25 | 2019-08-10 |

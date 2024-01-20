@@ -1,12 +1,12 @@
 {
   "description": "Novos rappers, novos sons. Tamos juntos! Foto: Holympo.",
-  "num_followers": 9155,
+  "num_followers": 9157,
   "original_name": "Ganda Cena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGE4Nzg2MzVkYzc3N2MwZTE4MzU3ODZhMmQ5MTQ5ZTdjYzg5MWQy",
+  "snapshot_id": "MCxiNDY0ZTY5NWRiYmZlNDVkN2NhYWQwNzFiOTVkNWU5YzZhYjBlOTZl",
   "tracks": [
     {
       "added_at": "2024-01-19 00:00:00",
@@ -39,6 +39,26 @@
       "duration_ms": 162857,
       "name": "Working on Myself",
       "url": "https://open.spotify.com/track/0PFCZaf1qknLfzXgQqIlx6"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Kobe Year Freestyle",
+        "url": "https://open.spotify.com/album/1EkKsOTNBlBnMrgqy77BSN"
+      },
+      "artists": [
+        {
+          "name": "Bere",
+          "url": "https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV"
+        },
+        {
+          "name": "Midnight Commander",
+          "url": "https://open.spotify.com/artist/4iuqwRKK5CQL2JxNKuHVRR"
+        }
+      ],
+      "duration_ms": 166161,
+      "name": "Kobe Year Freestyle",
+      "url": "https://open.spotify.com/track/3ZxJflgD4V4BfraB3X8KHf"
     },
     {
       "added_at": "2024-01-19 00:00:00",

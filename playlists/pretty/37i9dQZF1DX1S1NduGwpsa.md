@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,742 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,772 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 46 | [Music Box](https://open.spotify.com/track/66A3w6W20wVYW2327l60EB) | [Simon Denizart](https://open.spotify.com/artist/1dFQ2v1uSzlTVLwfHQWgJk) | [Music Box](https://open.spotify.com/album/0Auii4hWw3billY9l4XCq2) | 4:32 |
 | 47 | [Final Voyage](https://open.spotify.com/track/6pBaX9CnZJ4KBkojIQ325L) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [The Southern Suite](https://open.spotify.com/album/6s49yqVpAtx05F2J16ciYr) | 6:18 |
 | 48 | [La Gloria Eres Tú](https://open.spotify.com/track/1CpwwKDtTwWJ4NNC6gVygw) | [Yilian Cañizares](https://open.spotify.com/artist/51kjU9cCnLDzokU3agspnv), [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9) | [Habana\-Bahia](https://open.spotify.com/album/40Glzz3JECT8bA1w7TXzkw) | 3:21 |
-| 49 | [6 Feet Down](https://open.spotify.com/track/702iObycXld7AL2LQpTpUc) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V) | 2:48 |
+| 49 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 |
 | 50 | [Teo](https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Teo](https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4) | 3:35 |
 
-Snapshot ID: `MCw2ZGNmZjM1MzVhOTcxMDBhM2IwODc5OGFlNzRlNWJlYjBjOGEzYTg1`
+Snapshot ID: `MCwyZDgyMDRiMDNlNjA4N2Y2ZjNkNmZhZDQxNGU3OGVlZmYyNWQyNmNi`

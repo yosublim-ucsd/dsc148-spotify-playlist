@@ -1,12 +1,12 @@
 {
   "description": "Corridos aesthetic y rolitas pa' las buchifresas \ud83c\udf53\ud83c\udf51",
-  "num_followers": 56469,
+  "num_followers": 56695,
   "original_name": "Corridos Aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmIxY2Y4NjAxM2EzZTgxYzYwNmQ3ZjY4YzNmM2QzOWI0MWQyZjNm",
+  "snapshot_id": "MCxlOWRhYzFiYjRlYWFlMDVmZGYyMGNjN2MwMmFmYzMxOWQ2NTcwM2Uw",
   "tracks": [
     {
       "added_at": "2024-01-12 07:10:12",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "Disfruto",
-        "url": "https://open.spotify.com/album/0aUNOBEeSPDD7nKdOBYZPB"
+        "name": "Todo Porque Te Amo",
+        "url": "https://open.spotify.com/album/6hpCzNbJXGyzW22aPVTQoC"
       },
       "artists": [
         {
-          "name": "Israel Morales",
-          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/4dxueEvA4IjUBjB50mt8h4"
+      "duration_ms": 204500,
+      "name": "Todo Porque Te Amo",
+      "url": "https://open.spotify.com/track/6xEUelbWEG0tntBKr3qjK3"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "Todo Porque Te Amo",
-        "url": "https://open.spotify.com/album/6hpCzNbJXGyzW22aPVTQoC"
+        "name": "Disfruto",
+        "url": "https://open.spotify.com/album/0aUNOBEeSPDD7nKdOBYZPB"
       },
       "artists": [
         {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+          "name": "Israel Morales",
+          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Todo Porque Te Amo",
-      "url": "https://open.spotify.com/track/6xEUelbWEG0tntBKr3qjK3"
+      "duration_ms": 204000,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/4dxueEvA4IjUBjB50mt8h4"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -699,6 +699,22 @@
       "duration_ms": 170646,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/6FAQen0CdjEnMlUS84XMBy"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
+        "name": "Te Perdonar\u00eda",
+        "url": "https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "duration_ms": 163542,
+      "name": "Te Perdonar\u00eda",
+      "url": "https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -739,22 +755,6 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 226208,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/5EZN4BkMvZxFR5I9tBoE0O"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
         "name": "LALA",
         "url": "https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 226208,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/5EZN4BkMvZxFR5I9tBoE0O"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 193171,
       "name": "El Sol No Regresa",
       "url": "https://open.spotify.com/track/7jy5URBQ0eJrtuvgihUBob"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
-        "name": "Te Perdonar\u00eda",
-        "url": "https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        }
-      ],
-      "duration_ms": 163542,
-      "name": "Te Perdonar\u00eda",
-      "url": "https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -839,22 +839,6 @@
       "duration_ms": 203600,
       "name": "Colgando En Tus Manos (En Vivo)",
       "url": "https://open.spotify.com/track/1aUfM1dau8x2Zcrbm6JZeZ"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 207463,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -911,6 +895,22 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
+        "name": "\u00a1Corre!",
+        "url": "https://open.spotify.com/album/2MqawFf2jM9H5TJej3vCyK"
+      },
+      "artists": [
+        {
+          "name": "Israel Morales",
+          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/6ilNwC7wduo4SwKndbAVMs"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
         "name": "Fuentes De Ortiz",
         "url": "https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS"
       },
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "\u00a1Corre!",
-        "url": "https://open.spotify.com/album/2MqawFf2jM9H5TJej3vCyK"
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU"
       },
       "artists": [
         {
-          "name": "Israel Morales",
-          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
         }
       ],
-      "duration_ms": 227800,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/6ilNwC7wduo4SwKndbAVMs"
+      "duration_ms": 207463,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -971,22 +971,6 @@
       "duration_ms": 203503,
       "name": "Dia De Suerte",
       "url": "https://open.spotify.com/track/5weX1mT8BiBEf2UGqxJ4kl"
-    },
-    {
-      "added_at": "2024-01-12 07:10:12",
-      "album": {
-        "name": "Neverita",
-        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 191296,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
     },
     {
       "added_at": "2024-01-12 07:10:12",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
+        "name": "Se Alinearon Los Planetas",
+        "url": "https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/4Y3fR2YZYo7YjJDz8dUCQJ"
+    },
+    {
+      "added_at": "2024-01-12 07:10:12",
+      "album": {
         "name": "Feliz Cumplea\u00f1os Ferxxo",
         "url": "https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0"
       },
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-01-12 07:10:12",
       "album": {
-        "name": "Se Alinearon Los Planetas",
-        "url": "https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ"
+        "name": "Neverita",
+        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
         }
       ],
-      "duration_ms": 220653,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/4Y3fR2YZYo7YjJDz8dUCQJ"
+      "duration_ms": 191296,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
     },
     {
       "added_at": "2024-01-12 07:10:12",

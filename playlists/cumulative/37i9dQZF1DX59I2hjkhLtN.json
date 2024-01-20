@@ -6321,6 +6321,28 @@
     },
     {
       "album": {
+        "name": "Kobe Year Freestyle",
+        "url": "https://open.spotify.com/album/1EkKsOTNBlBnMrgqy77BSN"
+      },
+      "artists": [
+        {
+          "name": "Bere",
+          "url": "https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV"
+        },
+        {
+          "name": "Midnight Commander",
+          "url": "https://open.spotify.com/artist/4iuqwRKK5CQL2JxNKuHVRR"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166161,
+      "name": "Kobe Year Freestyle",
+      "url": "https://open.spotify.com/track/3ZxJflgD4V4BfraB3X8KHf"
+    },
+    {
+      "album": {
         "name": "Kobras e Selvas",
         "url": "https://open.spotify.com/album/7gLX1j0sW57tMUZKmF7bI4"
       },

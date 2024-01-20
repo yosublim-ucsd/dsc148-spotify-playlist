@@ -4,10 +4,11 @@
 
 > \*vibing in desi\*
 
-169 songs - 9 hr 40 min
+171 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aafreen Lofi](https://open.spotify.com/track/1SdXkjR5Qb064Z8gB4JoDK) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Aafreen Lofi](https://open.spotify.com/album/384RCVdlfYTH3ZFslOAT6Q) | 4:48 | 2024-01-19 |  |
 | [Aao Na \(Lofi Mix\)](https://open.spotify.com/track/07H0BQV9ZiW7z7xwTchbh2) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Aao Na \(Lofi Mix\)](https://open.spotify.com/album/2qlGu6VJKOCprVR1ajjUcV) | 4:58 | 2022-05-27 |  |
 | [Aao Phir Se](https://open.spotify.com/track/1wgC0hW1abXgmgoASyieVw) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Aao Phir Se](https://open.spotify.com/album/05zQVq7VECKbmpyyBBXhPj) | 2:50 | 2023-01-23 | 2023-10-04 |
 | [Aao Phir Se](https://open.spotify.com/track/7Bu6dexQvuVz5LRuzjLYOX) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Aao Phir Se](https://open.spotify.com/album/2HRLg9LdgbjvWCnw6OOJRh) | 2:50 | 2022-05-27 | 2023-05-17 |
@@ -33,6 +34,7 @@
 | [Channa Mereya \- Lofi Flip](https://open.spotify.com/track/4zKUbaPleWBF1tKyfCtLHw) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Deepanshu Ruhela](https://open.spotify.com/artist/5dvCHAlgZZBuYuRdSm3dQE) | [Channa Mereya \(Lofi Flip\)](https://open.spotify.com/album/7w7jvxubqYB3m3Px1xnEWo) | 2:07 | 2022-05-27 |  |
 | [Daayre \- Lofi Flip](https://open.spotify.com/track/2fLNGqqgtVvshXJE6ARsmT) | [Kritiman Mishra](https://open.spotify.com/artist/5OD147PIZedUodUrxiEqEX), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Daayre \(Lofi Flip\)](https://open.spotify.com/album/0OqGNoguOy3MODEVsGNyMK) | 2:31 | 2023-07-31 |  |
 | [Darasal Lofi Mix](https://open.spotify.com/track/2f7zO0rjaIcGO9Nf0nwL8S) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Jay Guldekar](https://open.spotify.com/artist/00KVH03ysvMaFidVoLh5f3), [Kaushik\-Akash\-Guddu \(Jam8\)](https://open.spotify.com/artist/5XS9bpaalQcnD69ffdnQeT) | [Darasal Lofi Mix](https://open.spotify.com/album/56h7tEqDh1kw7SwypMka8v) | 4:10 | 2023-01-16 |  |
+| [Dard \- Lofi Flip](https://open.spotify.com/track/6VtdbAwuw55e4D4iQpMww9) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Deepanshu Ruhela](https://open.spotify.com/artist/5dvCHAlgZZBuYuRdSm3dQE) | [Dard \(Lofi Flip\)](https://open.spotify.com/album/6ZzIVuiCUdK96XHSWCP6EV) | 3:05 | 2024-01-19 |  |
 | [Darkhaast Lofi Mix](https://open.spotify.com/track/5QgRCer9h7nRVkDJ1AHFMC) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [DJ Yogii](https://open.spotify.com/artist/2kObkFKhEbrHb7cnSfrRw1) | [Darkhaast Lofi Mix](https://open.spotify.com/album/2DNRYW1oZJuCw47pfNnPBv) | 5:34 | 2023-01-16 |  |
 | [Deva Deva \- Lofi Flip](https://open.spotify.com/track/6eA9uBWWbDeDqbhFSPrMSl) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Deva Deva \(Lofi Flip\)](https://open.spotify.com/album/1ZG8StWnS1dwUsTsVAWbDC) | 2:23 | 2023-10-20 |  |
 | [Dil Diyan Gallan \- LoFi Mix](https://open.spotify.com/track/0LMGlOgPDCBvIaWXmJpuDl) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Dil Diyan Gallan \- LoFi Mix](https://open.spotify.com/album/12bhlzntHlNGwWAzIHij3d) | 3:26 | 2022-05-27 |  |

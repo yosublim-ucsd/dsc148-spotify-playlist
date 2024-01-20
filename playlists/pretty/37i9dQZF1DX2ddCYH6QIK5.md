@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: PLUME, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,952 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,967 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Dr\. Joe](https://open.spotify.com/track/2QdnAOchCQI99KCbmYFiJq) | [The Buggs](https://open.spotify.com/artist/0HAfEcEqpe7NCJD3vgyZ1A) | [Dr\. Joe](https://open.spotify.com/album/3KsEO5dbZDLLdmI2txqSR7) | 2:27 |
 | 80 | [29](https://open.spotify.com/track/3zsac2gT25dvmXC8ugzsod) | [Badison](https://open.spotify.com/artist/6dTLqVZrMHevfHToMqCQ6R) | [29](https://open.spotify.com/album/4xm9Cf5A0HpWkvTnTnagnu) | 3:55 |
 
-Snapshot ID: `MCxmNTE0MTJjZDcyNGI2ZDYxZjQ2MzBiZDQ2OTdkNGJjMWFmMTIyYzE3`
+Snapshot ID: `MCxlZTRjYmMyNjJiMzg2MGE0ZjU4Yjg5MTI5MmI1YmQ0Mjc5MDE5ZGZj`

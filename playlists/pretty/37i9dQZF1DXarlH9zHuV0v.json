@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 238728,
+  "num_followers": 238705,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTM0ZThhOWI1OWQ0ZjgwNjg5Y2ZhMmY5OGIzM2Y3NDc0NThhYmYx",
+  "snapshot_id": "MCwxOTY4OTI1NjM0ZGMwYjBlYTlhYzRmNmE2MmI2NWE5MzQyNTIwMjAy",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -751,22 +751,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Disney Halloween",
-        "url": "https://open.spotify.com/album/0ljU90uqoVtWg6WinOaV9y"
-      },
-      "artists": [
-        {
-          "name": "China Anne McClain",
-          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
-        }
-      ],
-      "duration_ms": 206675,
-      "name": "Calling All the Monsters",
-      "url": "https://open.spotify.com/track/1u2Z7Xp9kpnzYKUNFcBSEx"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Onyx (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5LttsAVVuHrSB7nWL6DqHo"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 201431,
       "name": "Deal with the Devil",
       "url": "https://open.spotify.com/track/592s63wvXY9JR4T9NuiY6a"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Disney Halloween",
+        "url": "https://open.spotify.com/album/0ljU90uqoVtWg6WinOaV9y"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "duration_ms": 206675,
+      "name": "Calling All the Monsters",
+      "url": "https://open.spotify.com/track/1u2Z7Xp9kpnzYKUNFcBSEx"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -883,22 +883,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "A Nightmare on My Street",
-      "url": "https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "OutRun",
         "url": "https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 175653,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "A Nightmare on My Street",
+      "url": "https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -979,26 +979,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Yes, I'm A Witch",
-        "url": "https://open.spotify.com/album/749IRZj6CenDO9zLuqhiE7"
+        "name": "Last Rights",
+        "url": "https://open.spotify.com/album/0yAWNOIBiT5FqzEwnePtsq"
       },
       "artists": [
         {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
-        },
-        {
-          "name": "Palumbo Of The Brothers Brothers",
-          "url": "https://open.spotify.com/artist/51rPFkrSpx9TrlbKBnwK2b"
-        },
-        {
-          "name": "John Palumbo",
-          "url": "https://open.spotify.com/artist/56m537t8BiQfTMEQ7gx7RM"
+          "name": "Skinny Puppy",
+          "url": "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
         }
       ],
-      "duration_ms": 228640,
-      "name": "Yes, I'm A Witch",
-      "url": "https://open.spotify.com/track/1ZEsbgte9LRHyOypNTitnP"
+      "duration_ms": 228866,
+      "name": "Killing Game",
+      "url": "https://open.spotify.com/track/2QNSNBUgAlzdkMpyC7nuuJ"
     }
   ],
   "unique_name": "Ultimate Halloween",

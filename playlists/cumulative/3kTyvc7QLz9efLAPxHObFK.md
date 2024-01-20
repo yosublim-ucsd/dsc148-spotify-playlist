@@ -4,7 +4,7 @@
 
 > 
 
-1,110 songs - 2 day 14 hr 18 min
+1,112 songs - 2 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -787,6 +787,7 @@
 | [Rave All Night](https://open.spotify.com/track/5DRdNoPSdWzeRsjzE79iyL) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Tamika](https://open.spotify.com/artist/6lLNAKhNy2T0B2TcVI3VVR) | [Rave All Night](https://open.spotify.com/album/7xFQUKfhmboxFwLbKUo08M) | 3:00 | 2023-12-08 |  |
 | [Rave Attack](https://open.spotify.com/track/6rcBZIphEyDAgSnAd8DyoN) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Rave Attack](https://open.spotify.com/album/3ydw3X5Ll5ZRd6DoP7TWzu) | 3:38 | 2023-04-21 |  |
 | [Rave CompleX](https://open.spotify.com/track/4pi13JFcTJwTy6QbQFH8ZW) | [KARUT](https://open.spotify.com/artist/2RVXnU56kIClg1UbAW9ehz) | [Beyond core EVANGELIX 01](https://open.spotify.com/album/5mFg1Tms9cKuoG2LsnIn1V) | 3:43 | 2022-02-22 |  |
+| [Rave From The Grave](https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [Rave From The Grave](https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW) | 2:57 | 2024-01-19 |  |
 | [RAVE IN PARADISE \(Official Free Festival 2023 Anthem\)](https://open.spotify.com/track/5kpArdAAVGs59MtzMs88cC) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [RAVE IN PARADISE \(Official Free Festival 2023 Anthem\)](https://open.spotify.com/album/78F9VFy8YV7AkrNnR9MO1h) | 3:27 | 2023-06-02 |  |
 | [RAVE LOVE](https://open.spotify.com/track/2ZnRk1vM11MZD2onctCsDk) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [RAVE LOVE](https://open.spotify.com/album/0jR0Be5fQFR88vVUDBahWs) | 3:39 | 2023-04-16 |  |
 | [RAVE LOVE](https://open.spotify.com/track/3wnx35LDKXCx5gonL4EmHi) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [RAVE LOVE](https://open.spotify.com/album/5Keu5o32IRgDCGwG76XClR) | 3:39 | 2023-02-11 |  |
@@ -804,6 +805,7 @@
 | [Redline Grinders \- 175 BPM Mix](https://open.spotify.com/track/3RJvhG0qUm9kW65VAxGQr4) | [Daniel Seven](https://open.spotify.com/artist/4zRiD4QO1sRhP4BnHGhNkW) | [Ravekick 003 \- Vinylization \(DJ Mix\)](https://open.spotify.com/album/0kBA28oAr85nu1OrXjG7X0) | 2:59 | 2022-12-19 |  |
 | [Regret](https://open.spotify.com/track/7dmcE6BfsMoXQdhOLbkVuY) | [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85) | [Regret](https://open.spotify.com/album/5HVU1Uxdmo0t4dpGxPnobg) | 2:28 | 2023-03-31 |  |
 | [Reignite](https://open.spotify.com/track/66WTBnBeDPlXFnVyAlQnLu) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [JTS](https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no) | [Reignite](https://open.spotify.com/album/0oRTBTIuo0YkHMTazIjuYo) | 4:20 | 2022-05-31 |  |
+| [Reload](https://open.spotify.com/track/25zILlagMmi16cFCsL5QtR) | [Synergy](https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK) | [Reload](https://open.spotify.com/album/4M6c70SdokQgF2Rk4TydLZ) | 3:54 | 2024-01-19 |  |
 | [Remedy \- Radio Edit](https://open.spotify.com/track/0LiiQS80gibLi77h9TKNq3) | [Fracus & Darwin](https://open.spotify.com/artist/07VU01S53IQXG9yXvqRKeL) | [Remedy](https://open.spotify.com/album/1JH8TGD4elq0SYuJ7eXaFP) | 3:15 | 2022-08-02 |  |
 | [Renegades Till The Grave](https://open.spotify.com/track/6u9bu56JYoMDftT3Mx0Rql) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [Renegades Till The Grave](https://open.spotify.com/album/5fkfDE9doVziONXXkgeVDn) | 3:26 | 2022-10-30 |  |
 | [Requiem](https://open.spotify.com/track/3Vjj1wlRePg7RTXegdtmP4) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF) | [Requiem](https://open.spotify.com/album/61vC5e6A8QeCllYMjkMoNE) | 3:22 | 2023-03-21 |  |

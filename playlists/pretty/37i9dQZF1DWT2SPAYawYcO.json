@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: Noah Kahan",
-  "num_followers": 369464,
+  "num_followers": 369610,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDY0MTY5Mzc3YzE5MzM2ZDBhYzA1M2ExMmRiMjFmYTQzZjRlYzQx",
+  "snapshot_id": "MCw0ZWM1OGQ0ZGVmODU5ZWRhYmEwODFhN2FhZGViOWNjZTg0NjgxOWY0",
   "tracks": [
     {
       "added_at": "2024-01-18 13:00:00",
@@ -315,6 +315,30 @@
       "duration_ms": 279780,
       "name": "Tonic (Edit)",
       "url": "https://open.spotify.com/track/4b9disSqE7Yvxgpo4W7lB5"
+    },
+    {
+      "added_at": "2024-01-18 13:00:00",
+      "album": {
+        "name": "MULTIMILLIONAIRE (w/ Trippie Redd & Odetari)",
+        "url": "https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 121536,
+      "name": "MULTIMILLIONAIRE (w/ Trippie Redd & Odetari)",
+      "url": "https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI"
     },
     {
       "added_at": "2024-01-18 13:00:00",
@@ -1160,7 +1184,7 @@
       "added_at": "2024-01-18 13:00:00",
       "album": {
         "name": "Try Again",
-        "url": "https://open.spotify.com/album/2oKyNakOoBVo0tHzGHo2Wo"
+        "url": "https://open.spotify.com/album/4wDqvhLcVky1Ka1UTx5w4o"
       },
       "artists": [
         {
@@ -1174,7 +1198,7 @@
       ],
       "duration_ms": 180814,
       "name": "Try Again",
-      "url": "https://open.spotify.com/track/02P95WFP4eWW64YiwK35eW"
+      "url": "https://open.spotify.com/track/4VdTPiVynDPgumUwyq72Yj"
     },
     {
       "added_at": "2024-01-18 13:00:00",

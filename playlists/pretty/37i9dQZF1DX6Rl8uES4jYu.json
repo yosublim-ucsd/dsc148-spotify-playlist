@@ -1,13 +1,45 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 237054,
+  "num_followers": 237045,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzY4NzI5ZjYyZDlkMmQ1NWUwMWExNWM5OTc1Mjc3MWM5YWIyYjcw",
+  "snapshot_id": "MCw2ZjZhMTRmZDY2MjM0NzVlZjcwMzQ3ZTI5MTU2MWFjZWMyMTlhMjQw",
   "tracks": [
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/2IZUTQgdCkWtazXjExCJ09"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        }
+      ],
+      "duration_ms": 181760,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/2S3wdZxAuixiNbXbknlIUN"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Good Feeling About You",
+        "url": "https://open.spotify.com/album/62Ec8rNbl3bWBehqjeqYNd"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Good Feeling About You",
+      "url": "https://open.spotify.com/track/1sWsCZe653N3hhocXtBh4e"
+    },
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
@@ -1044,7 +1076,7 @@
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Me",
-        "url": "https://open.spotify.com/album/76O3m2z2IlxG5CKKjhzCGc"
+        "url": "https://open.spotify.com/album/4tnsaaiWkpMdeybYdXuPxn"
       },
       "artists": [
         {
@@ -1054,7 +1086,7 @@
       ],
       "duration_ms": 183673,
       "name": "Good Mood",
-      "url": "https://open.spotify.com/track/3Kr8aPFBZ0Vs3ZcOyGBcGM"
+      "url": "https://open.spotify.com/track/5FrydegjliPxjr3RuaFtac"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1613,22 +1645,6 @@
       "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/3QivixV0Zt47etyNARuXvC"
-      },
-      "artists": [
-        {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        }
-      ],
-      "duration_ms": 175477,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD"
-    },
-    {
       "added_at": "2022-02-14 18:57:11",
       "album": {
         "name": "Grammy",
@@ -1643,22 +1659,6 @@
       "duration_ms": 143504,
       "name": "Grammy",
       "url": "https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N"
-    },
-    {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "Sir Woman",
-        "url": "https://open.spotify.com/album/1YrapTceavDda547u6Z9yg"
-      },
-      "artists": [
-        {
-          "name": "Sir Woman",
-          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Cape Town Plush",
-      "url": "https://open.spotify.com/track/4PdK2TKrwf7uI69F1rYru1"
     },
     {
       "added_at": "2022-03-25 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 142961,
+  "num_followers": 142983,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2JiZDBlYzQ2ZGI2NDE1ZTRmMDExMzQ0YzRlYTQyMzFmOGZmNGE5",
+  "snapshot_id": "MCxiZmViZjdjNWU1NGE0MmNmMDI5MDJiOWRmZWI4OTdkNjY1ODQ4YmM1",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 297500,
+      "name": "Dahan",
+      "url": "https://open.spotify.com/track/4kEVDvxSiBOBHxB3hR4iqz"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Title (Expanded Edition)",
         "url": "https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 297500,
-      "name": "Dahan",
-      "url": "https://open.spotify.com/track/4kEVDvxSiBOBHxB3hR4iqz"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Dalan Liyane",
-        "url": "https://open.spotify.com/album/2yefpxL6PpKywXcGqZR6ea"
-      },
-      "artists": [
-        {
-          "name": "Woro Widowati",
-          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
-        }
-      ],
-      "duration_ms": 256417,
-      "name": "Dalan Liyane",
-      "url": "https://open.spotify.com/track/1x6ptFLd5HJmSmrO5BuGOh"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Patawad",
         "url": "https://open.spotify.com/album/7G3zazPJW58CN46v9jLj4U"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 258906,
       "name": "Hanggang sa Huli - From \"24/7\"",
       "url": "https://open.spotify.com/track/7s3KnjmKVne7dV6ErqdWsC"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Dalan Liyane",
+        "url": "https://open.spotify.com/album/2yefpxL6PpKywXcGqZR6ea"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "duration_ms": 256417,
+      "name": "Dalan Liyane",
+      "url": "https://open.spotify.com/track/1x6ptFLd5HJmSmrO5BuGOh"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Elyanna",
-        "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 62969,
-      "name": "Majnony Ana",
-      "url": "https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
         "url": "https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 190285,
       "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
       "url": "https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Elyanna",
+        "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 62969,
+      "name": "Majnony Ana",
+      "url": "https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ll Abad",
-        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
-      },
-      "artists": [
-        {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
-        }
-      ],
-      "duration_ms": 212476,
-      "name": "Ll Abad",
-      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Al Kawn Janni Maak",
         "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 135060,
       "name": "Al Kawn Janni Maak",
       "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Ll Abad",
+        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+      },
+      "artists": [
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+        }
+      ],
+      "duration_ms": 212476,
+      "name": "Ll Abad",
+      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sushi Season (The First)",
-        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
-      },
-      "artists": [
-        {
-          "name": "Garry Mapanzure",
-          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
-        }
-      ],
-      "duration_ms": 243504,
-      "name": "Pindirai",
-      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\uc5b4\uca4c\uba74 \uc774\uc720\uac00 \ud544\uc694\ud55c \ubc24 Night Within You",
         "url": "https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 254360,
       "name": "\uc5b4\uca4c\uba74 \uc774\uc720\uac00 \ud544\uc694\ud55c \ubc24 Night Within You",
       "url": "https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sushi Season (The First)",
+        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
+      },
+      "artists": [
+        {
+          "name": "Garry Mapanzure",
+          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
+        }
+      ],
+      "duration_ms": 243504,
+      "name": "Pindirai",
+      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2087,18 +2087,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Madhaniyan (Live)",
-        "url": "https://open.spotify.com/album/1JQBJ5I4LF77Q6XHSvuPN1"
+        "name": "Maghihintay",
+        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
       },
       "artists": [
         {
-          "name": "Neha Bhasin",
-          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+          "name": "Ruru Madrid",
+          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
         }
       ],
-      "duration_ms": 261592,
-      "name": "Madhaniyan (Live)",
-      "url": "https://open.spotify.com/track/6xuGNFWVVz2VKn56MSkT3D"
+      "duration_ms": 275913,
+      "name": "Maghihintay",
+      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Maghihintay",
-        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
-      },
-      "artists": [
-        {
-          "name": "Ruru Madrid",
-          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
-        }
-      ],
-      "duration_ms": 275913,
-      "name": "Maghihintay",
-      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "yours, sincerely",
         "url": "https://open.spotify.com/album/43b8UZkmMf0dVTktnr7qTO"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 271191,
       "name": "Black",
       "url": "https://open.spotify.com/track/52KkasHx39h4QJ5yiEcw1n"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Madhaniyan (Live)",
+        "url": "https://open.spotify.com/album/1JQBJ5I4LF77Q6XHSvuPN1"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "duration_ms": 261592,
+      "name": "Madhaniyan (Live)",
+      "url": "https://open.spotify.com/track/6xuGNFWVVz2VKn56MSkT3D"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
+        "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
+      },
+      "artists": [
+        {
+          "name": "\uc801\uc7ac",
+          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
+        }
+      ],
+      "duration_ms": 307500,
+      "name": "\uc0ac\ub791\uc758\uc778\uc0ac",
+      "url": "https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "How Is This Love ?",
         "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 195273,
       "name": "How Is This Love ?",
       "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
-        "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
-      },
-      "artists": [
-        {
-          "name": "\uc801\uc7ac",
-          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
-        }
-      ],
-      "duration_ms": 307500,
-      "name": "\uc0ac\ub791\uc758\uc778\uc0ac",
-      "url": "https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Sikasih",
+        "url": "https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq"
+      },
+      "artists": [
+        {
+          "name": "Abam",
+          "url": "https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL"
+        }
+      ],
+      "duration_ms": 186915,
+      "name": "Sikasih",
+      "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 230000,
       "name": "111",
       "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Sikasih",
-        "url": "https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq"
-      },
-      "artists": [
-        {
-          "name": "Abam",
-          "url": "https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL"
-        }
-      ],
-      "duration_ms": 186915,
-      "name": "Sikasih",
-      "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Tum Jaisi Ho",
+        "url": "https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        }
+      ],
+      "duration_ms": 145301,
+      "name": "Tum Jaisi Ho",
+      "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
       },
@@ -2403,18 +2419,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Tum Jaisi Ho",
-        "url": "https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk"
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
       },
       "artists": [
         {
-          "name": "Tony Kakkar",
-          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Belfa",
+          "url": "https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L"
         }
       ],
-      "duration_ms": 145301,
-      "name": "Tum Jaisi Ho",
-      "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
+      "duration_ms": 178906,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2451,26 +2471,6 @@
       "duration_ms": 268426,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Belfa",
-          "url": "https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L"
-        }
-      ],
-      "duration_ms": 178906,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
     },
     {
       "added_at": "2022-10-17 15:00:00",

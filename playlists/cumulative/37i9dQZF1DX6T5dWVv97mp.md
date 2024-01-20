@@ -4,7 +4,7 @@
 
 > Get into a morning flow with this focus playlist.
 
-110 songs - 7 hr 43 min
+112 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Adam Forever](https://open.spotify.com/track/1EOnzIicFKok5BQC9OMUwj) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Adam Forever / The Great Leap](https://open.spotify.com/album/03Xy8weEkKx0f3kI1Hqsue) | 4:08 | 2023-05-05 |  |
 | [Aeon](https://open.spotify.com/track/4WdrmA1tCQYj3eBqXmnifT) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Aeon](https://open.spotify.com/album/4Q7IxpHo3lI53dtTGivvJ6) | 3:26 | 2023-05-05 |  |
 | [Afternoon At The Seaside](https://open.spotify.com/track/0naFjmMAVXjEdqPy2TCUKK) | [Ygor Ghensev](https://open.spotify.com/artist/5FHJm3dEZHSfQiENxhwkEO) | [Afternoon At The Seaside](https://open.spotify.com/album/0EdncjeUbfHnkJtPWhPl5S) | 2:03 | 2023-06-16 |  |
-| [Ambo](https://open.spotify.com/track/3GmIpLMTwp72sei8B2qrvL) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves \(Deluxe Version\)](https://open.spotify.com/album/3u63zDEJeJaxwSixfMCGRD) | 4:53 | 2023-05-05 |  |
+| [Ambo](https://open.spotify.com/track/0yDQoVQ15g73SGIUit1WZ6) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves \(Deluxe Edition\)](https://open.spotify.com/album/6cFV4YoInzQuimip3brPEp) | 4:53 | 2023-12-04 |  |
+| [Ambo](https://open.spotify.com/track/3GmIpLMTwp72sei8B2qrvL) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves \(Deluxe Version\)](https://open.spotify.com/album/3u63zDEJeJaxwSixfMCGRD) | 4:53 | 2023-05-05 | 2024-01-20 |
 | [Anemone](https://open.spotify.com/track/1ywWkEeS6U2BXOkZL1fucB) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 4:07 | 2023-05-05 |  |
 | [Antiphon](https://open.spotify.com/track/0dsKfzNonMrQtmy93Gk5qm) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Night Walks](https://open.spotify.com/album/5QTf7nZL3bF41IDpxZW8Pm) | 6:07 | 2023-05-05 |  |
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2023-05-05 |  |
@@ -78,7 +79,8 @@
 | [Northern Lights](https://open.spotify.com/track/16FZrcsuEWnHRUeIvj9d0z) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Chronicle](https://open.spotify.com/album/0VIxw6zt84N7sWxGzgXEOU) | 2:02 | 2023-05-05 |  |
 | [Oliver](https://open.spotify.com/track/5JfLICu41HRxJdtkM7WrT6) | [Zachary David](https://open.spotify.com/artist/40EsUDCOPS5C8DgxkCmUCo) | [Celestial](https://open.spotify.com/album/4yJxEoH1Ytcppb7bXdElNU) | 4:53 | 2023-05-05 |  |
 | [Pancakes](https://open.spotify.com/track/2mqLhQXYxlLD6ZU46teyEH) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Baralku](https://open.spotify.com/album/1ekGvaZUTnN9WdQPlO0zK4) | 4:47 | 2023-05-05 |  |
-| [Paris](https://open.spotify.com/track/65obxF26LTi94E0YvxBg8U) | [PLVCES](https://open.spotify.com/artist/04cixKonVUpFouuri2mSzC) | [Plvces](https://open.spotify.com/album/4wNQhd6jbidx84H03iyK04) | 2:58 | 2023-05-05 |  |
+| [Paris](https://open.spotify.com/track/4ECODNiieWhlZ7E6Fut5d1) | [PLVCES](https://open.spotify.com/artist/04cixKonVUpFouuri2mSzC) | [Plvces](https://open.spotify.com/album/3ySeJFbPc6eVZat5DNUcd4) | 2:58 | 2023-12-04 |  |
+| [Paris](https://open.spotify.com/track/65obxF26LTi94E0YvxBg8U) | [PLVCES](https://open.spotify.com/artist/04cixKonVUpFouuri2mSzC) | [Plvces](https://open.spotify.com/album/4wNQhd6jbidx84H03iyK04) | 2:58 | 2023-05-05 | 2024-01-20 |
 | [Passage](https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Passage](https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw) | 5:47 | 2023-05-05 |  |
 | [Peterson \(The American Dollar\)](https://open.spotify.com/track/3MzA9pCyJZI7DcVtM6Pc71) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Five Album Set & Bonus Eps](https://open.spotify.com/album/64TW6oYBQnJz36w7FKhDkP) | 3:19 | 2023-05-05 |  |
 | [Place](https://open.spotify.com/track/6U7pXpn3sJb7aBwVLEPpKX) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Place And Time](https://open.spotify.com/album/7GVevUBAGmJVABY9L2HBAm) | 3:41 | 2023-08-25 |  |

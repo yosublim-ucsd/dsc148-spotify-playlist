@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,831 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,884 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 92 | [Diñero](https://open.spotify.com/track/5qEEAaLmldzSSFQjj6eJb3) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [O Bagulho É Trap](https://open.spotify.com/album/7sRNPfZfQ9RB3DtMffLPo3) | 3:12 |
 | 93 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 |
 | 94 | [Tipo uma Glock](https://open.spotify.com/track/0uv71i1waQbyRjZT86Fctu) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Tipo uma Glock](https://open.spotify.com/album/1ofJDp4DEAf8PHwA15DYTK) | 2:05 |
-| 95 | [De Novo](https://open.spotify.com/track/3xra5OMlRc4MQgD8V0aIxq) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [De Novo](https://open.spotify.com/album/0pEgo6T1sl8cNedAREKVS7) | 2:25 |
-| 96 | [Disfarce](https://open.spotify.com/track/4Rx0VjnR16gkAuA322epk4) | [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Disfarce](https://open.spotify.com/album/6tMKjaduCP1Xts8Norkiy6) | 2:56 |
+| 95 | [Disfarce](https://open.spotify.com/track/4Rx0VjnR16gkAuA322epk4) | [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Disfarce](https://open.spotify.com/album/6tMKjaduCP1Xts8Norkiy6) | 2:56 |
+| 96 | [De Novo](https://open.spotify.com/track/3xra5OMlRc4MQgD8V0aIxq) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [De Novo](https://open.spotify.com/album/0pEgo6T1sl8cNedAREKVS7) | 2:25 |
 | 97 | [Hortelã](https://open.spotify.com/track/4hShW5zZGC09Wzam5e76AW) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Hortelã](https://open.spotify.com/album/5cYjX7Gbc0bfxzJY5zns2I) | 2:17 |
 | 98 | [Flutuo](https://open.spotify.com/track/3VpRIboJg2oXebe8LNto7O) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V) | [Flutuo](https://open.spotify.com/album/3893W2jIaByc6Xk0lziixq) | 3:25 |
 | 99 | [Espanha](https://open.spotify.com/track/0hcXSJ2MOEVxlzTLtRunJl) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Doka Language](https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH) | 2:48 |
 | 100 | [Multiplica](https://open.spotify.com/track/2XNHvopgh1zs5fyEcMcUjE) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Multiplica](https://open.spotify.com/album/2PuH7jAtbiymoThAoWVHIx) | 3:10 |
 
-Snapshot ID: `MCwxZmZkMjA3M2ZhOTU1MDhkMWRiYmZiZGI2OTkyNGZhMTk4ZDAxZjlk`
+Snapshot ID: `MCw2ZGNkOTE1YmE3YmQ3YTc5NzQwMjcwZWY1ODUzNWZlNmVlZDdhMmU2`

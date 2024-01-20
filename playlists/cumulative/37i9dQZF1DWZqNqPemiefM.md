@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-497 songs - 1 day 15 hr 10 min
+498 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Breeding Tank](https://open.spotify.com/track/6xpANjnTCTtFo3bcwf5wmb) | [Metome](https://open.spotify.com/artist/4EdG3DOqirA5Jpz9SfugWO) | [Dialect](https://open.spotify.com/album/4GFinj2zqedcGcLNszGMRl) | 5:02 | 2022-03-31 | 2022-06-08 |
 | [By The Window](https://open.spotify.com/track/3JWwz9vA04xErfWcZQuccm) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Minor Planet](https://open.spotify.com/album/2w9oe23evWlt31fPXYjkHa) | 4:46 | 2022-03-30 | 2022-07-01 |
 | [By Your Side](https://open.spotify.com/track/5Ux0zCT223DmKcjzISvSDW) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Dreaming](https://open.spotify.com/album/6H6xD7PAqpdD7UU6MWbwb2) | 4:39 | 2022-03-30 | 2022-07-29 |
-| [Call \(Deep Blue\)](https://open.spotify.com/track/72jCR0d2luLn3Toso0vimT) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Call \(Deep Blue\)](https://open.spotify.com/album/3AWEj1fDPVnV31N8yrNIJd) | 3:45 | 2024-01-18 |  |
+| [Call \(Deep Blue\)](https://open.spotify.com/track/5exTGAxhHvzjtUJphI9sJq) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Call \(Deep Blue\)](https://open.spotify.com/album/1R7kG8kMXYNkxIOyW1h8Zv) | 3:45 | 2024-01-18 |  |
+| [Call \(Deep Blue\)](https://open.spotify.com/track/72jCR0d2luLn3Toso0vimT) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Call \(Deep Blue\)](https://open.spotify.com/album/3AWEj1fDPVnV31N8yrNIJd) | 3:45 | 2024-01-18 | 2024-01-20 |
 | [Can You Hear a New World](https://open.spotify.com/track/5aokmmaTYynuYr1yNHealA) | [UNKNOWN ME](https://open.spotify.com/artist/5tmYdSKm3f4o6oOFCuxgtR) | [Bishintai](https://open.spotify.com/album/00lHRf4ZxhpGzxtSguayFX) | 3:36 | 2022-03-31 | 2022-06-26 |
 | [Cat and Bird](https://open.spotify.com/track/1GroeXQf6heoXynUqOK6oM) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Cat and Bird](https://open.spotify.com/album/5VukdAoxbJX1hVb8Jp1VMU) | 4:19 | 2022-10-13 | 2022-10-15 |
 | [Cat and Bird](https://open.spotify.com/track/4xdBmpPggvdUMgxhoDIwDU) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Cat and Bird](https://open.spotify.com/album/7EPXZAQmlagFelPn83wYWV) | 4:19 | 2022-10-13 | 2022-11-28 |

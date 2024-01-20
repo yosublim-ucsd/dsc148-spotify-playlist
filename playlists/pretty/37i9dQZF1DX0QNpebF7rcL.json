@@ -1,13 +1,45 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 53834,
+  "num_followers": 53877,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTJmYWM5NDc2ZDc0NzUwMmEzZmY3MDMyYTYxODE4ZTRlYjU5Y2I3",
+  "snapshot_id": "MCxhMTJjM2ZmY2JiYzExODIwNmQ3NTVlN2YwYjIzMDE4NDJmN2EzZDgz",
   "tracks": [
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Don't Tell Me I Can't",
+        "url": "https://open.spotify.com/album/7eilnGBoBFrLcuOkUieO88"
+      },
+      "artists": [
+        {
+          "name": "Altered Five Blues Band",
+          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
+        }
+      ],
+      "duration_ms": 224544,
+      "name": "Don't Tell Me I Can't",
+      "url": "https://open.spotify.com/track/2Uf6fJtrU9hwVaNhEIaOMf"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "A Good Goodbye",
+        "url": "https://open.spotify.com/album/7HFHiwHYjPjTQHWO876JWf"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "A Good Goodbye",
+      "url": "https://open.spotify.com/track/5fPhQkWnYbb0qhzW1Csglw"
+    },
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
@@ -91,22 +123,6 @@
       "duration_ms": 244306,
       "name": "Help Yourself",
       "url": "https://open.spotify.com/track/6i2EOHluVZewHGo1WivSnA"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Wild Love",
-        "url": "https://open.spotify.com/album/0cExTBqPKBwY4o3Ubv4C6u"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Wild Love",
-      "url": "https://open.spotify.com/track/6ZLLEQPZ5RfwKQUG5ebPKB"
     },
     {
       "added_at": "2023-11-10 05:01:00",
@@ -1383,22 +1399,6 @@
       "duration_ms": 184760,
       "name": "Livin' for the Ones",
       "url": "https://open.spotify.com/track/0OY3sKkXVVbp7foCuHPNZt"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Great Minds Drink Alike (With Horns)",
-        "url": "https://open.spotify.com/album/6pcpzddprnaCd9UfPN1vtt"
-      },
-      "artists": [
-        {
-          "name": "Altered Five Blues Band",
-          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
-        }
-      ],
-      "duration_ms": 237513,
-      "name": "Great Minds Drink Alike - With Horns",
-      "url": "https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9"
     },
     {
       "added_at": "2022-04-29 04:02:00",

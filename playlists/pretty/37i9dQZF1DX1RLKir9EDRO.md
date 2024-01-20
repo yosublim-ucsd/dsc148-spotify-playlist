@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: TUANA Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,236 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,229 likes - 54 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,24 +44,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 34 | [Özüm](https://open.spotify.com/track/77r6q33Nn2lQUfy7R17tUV) | [As My Life Falls Apart](https://open.spotify.com/artist/2RRx4IewUPNCJ8HWeK0UjB) | [Özüm](https://open.spotify.com/album/7js96IFW72BI1CzIputm2i) | 3:17 |
 | 35 | [Kaçış](https://open.spotify.com/track/0UhMKxRxApmKujaFdTAXm0) | [Cavlas](https://open.spotify.com/artist/0ZZtPjnzPZQ07whvWAIMo6) | [Modern Adamın Yalnızlığı](https://open.spotify.com/album/2aSp4SJ6D83Wub4o4jpp58) | 3:12 |
 | 36 | [Hayat Sarhoş](https://open.spotify.com/track/2zQmmWh4b6zRamh32XYEnn) | [Onur Güney Kumaş](https://open.spotify.com/artist/7oy3wXyFI2DQ88QfXVESOC) | [Baykuşun Vakti](https://open.spotify.com/album/0raPKOl6uSHy5UMkTs34z4) | 4:02 |
-| 37 | [sence neden](https://open.spotify.com/track/3xc6Dz0lWPzQQTmakqIasl) | [beracles](https://open.spotify.com/artist/3W50eW8cp9Ys4EIoWSzQLK) | [sence neden](https://open.spotify.com/album/0Yg601fVkGWJ9RrjQeZtfs) | 2:25 |
-| 38 | [Seni Seviyorum Kovboy](https://open.spotify.com/track/1IEFqIcHZSMrybUlRijFm7) | [nazire](https://open.spotify.com/artist/5yq1O1yuIoimW9QFYk4Pop) | [Seni Seviyorum Kovboy](https://open.spotify.com/album/0tAxnTks5XPUWfAfwPtnUR) | 3:21 |
-| 39 | [Yeter Bana](https://open.spotify.com/track/7ojuapYUGLNo3bccgOWwv0) | [Malabis](https://open.spotify.com/artist/1jNAl2utMHr2tHdLxcKSWM) | [Yeter Bana](https://open.spotify.com/album/5mFfvP5NTSjkGqwK6vyl1X) | 2:31 |
-| 40 | [Çok Uzaksın](https://open.spotify.com/track/3R3rL62bmObVB6iEJV3Wei) | [Zetinac](https://open.spotify.com/artist/7dvjq3vY79PIbRLwMftTdT) | [Çok Uzaksın](https://open.spotify.com/album/6f42eb2VBR2Txco7zZDSyQ) | 2:30 |
-| 41 | [Dağ Zirvesinde Gemi Enkazı](https://open.spotify.com/track/5sYbtAXL5NSzNbzXa2D5fk) | [Thieves on the Overpass](https://open.spotify.com/artist/1J7Qxvd5r2VbamNI8sayEG) | [Dağ Zirvesinde Gemi Enkazı](https://open.spotify.com/album/39unU0lEyeOjTSm17eLW4e) | 4:01 |
-| 42 | [aklına geliyo muyum?](https://open.spotify.com/track/7bCpdgdOuU1r48qUQz6fwc) | [ZAPOX](https://open.spotify.com/artist/5aHrVKNpTVFWiaGKGaBagi) | [aklına geliyo muyum?](https://open.spotify.com/album/74gJHdC5ZU7HQSdCA1I562) | 2:16 |
-| 43 | [KELİMELER](https://open.spotify.com/track/71thfOGGpYljmSDzbGKjz1) | [Biey](https://open.spotify.com/artist/3l5y7jcfzY8CpCdg380KiI), [Kantoryum](https://open.spotify.com/artist/1w0vUnyhILWTMCapQB46Jp) | [KELİMELER](https://open.spotify.com/album/4M0Y9oMggJSerpqWnqzlZD) | 2:00 |
-| 44 | [Nokta](https://open.spotify.com/track/18Z6HfEcenfShrhAQDuYxj) | [Deniz Özdoğru](https://open.spotify.com/artist/2WKoyW8hQoq5Sbd2jTKyPy) | [Nokta](https://open.spotify.com/album/7q6syuZOnGoPNL2m1acLde) | 2:31 |
-| 45 | [Eylül](https://open.spotify.com/track/6b9eMh5TWu7gwfijT5Vrnx) | [İVEN](https://open.spotify.com/artist/30Va8yOmahK90iKfeN1CWj) | [Eylül](https://open.spotify.com/album/1ScScqhJy4WudMQjqH3JhH) | 2:48 |
-| 46 | [kısa devre](https://open.spotify.com/track/2Ut3P7jf2nllhEmNjaZnR6) | [Rinxlaya](https://open.spotify.com/artist/5uc5qmVVzOLECcqTywPNXV), [Gantz](https://open.spotify.com/artist/7zIcHMhD4nOi0IpORMwGih) | [kısa devre](https://open.spotify.com/album/4GAUuMFbwjCJYMikunX1zq) | 3:02 |
-| 47 | [naber? ben iyi değilim](https://open.spotify.com/track/0fFy6ctIZaq81JTssewNa3) | [randova](https://open.spotify.com/artist/78hRvcGcI0TNiG5UkX2VqC) | [naber? ben iyi değilim](https://open.spotify.com/album/2nBttzH3nS6COXkI36V46K) | 2:15 |
-| 48 | [D.D.D \(Dönüp Duran Dünya\)](https://open.spotify.com/track/5Ky0GLzP9ofbYbjo5nTfzk) | [Atilla Kılıçlar](https://open.spotify.com/artist/2xH7skEqNmZEH9zS2YFso3) | [D.D.D \(Dönüp Duran Dünya\)](https://open.spotify.com/album/2wKMWvAO6ofPVMZbyVSzUk) | 3:37 |
-| 49 | [Bekliyordum Seni](https://open.spotify.com/track/2qbdh7eFuPUVGKfiy9on38) | [Özden](https://open.spotify.com/artist/72kvCthv6AhcGegRjxrofs) | [Bekliyordum Seni](https://open.spotify.com/album/5pgOW8SDCzv8TIESLU8txB) | 2:37 |
-| 50 | [Bir Yalan İçin](https://open.spotify.com/track/1J9luvigOhyici0qv0jJex) | [Mücahit Kalçık](https://open.spotify.com/artist/0nMPKPfXrBNMcSsisDtOc8) | [Bir Yalan İçin](https://open.spotify.com/album/1gZLnOEvgdSH9qsUisrqKh) | 3:34 |
-| 51 | [Bu Karışık Kafa](https://open.spotify.com/track/71pi180bwvS8uFfEeOpZjb) | [Atlas Lodos](https://open.spotify.com/artist/3ohoPUeQeEYikQsaBoOW0X) | [Bu Karışık Kafa](https://open.spotify.com/album/15JHHzVcHbyFWiB4b1sclN) | 2:29 |
-| 52 | [Değdi Mi ?](https://open.spotify.com/track/5wu2mTBmJYFoNKkJ2DRDks) | [Ece Uşaklıgil](https://open.spotify.com/artist/0Ajm4fwPgXzIdwy9LwhcKv) | [Değdi Mi ?](https://open.spotify.com/album/194r8GN8kwKgckkMjTCGIY) | 3:11 |
-| 53 | [Güneş Gözlerin](https://open.spotify.com/track/7BbYcOXOggdxJlLltk7sxb) | [Tavşantepe](https://open.spotify.com/artist/1dYJEhfbw5p707fONQlOam) | [Güneş Gözlerin](https://open.spotify.com/album/7qQUGttiFbulAOKQQFIF0A) | 3:59 |
-| 54 | [İkinci Perde](https://open.spotify.com/track/6DUviSy6k0Rvx5gT9TCBGE) | [Bade Nosa](https://open.spotify.com/artist/1HBN8wkDHbw1cp8EX4CFpX) | [İkinci Perde](https://open.spotify.com/album/0vTlWnavks9wGQBpcDDdJl) | 4:12 |
-| 55 | [a divinis](https://open.spotify.com/track/0s686kWyH7cKM5VHWcIn4N) | [munglay](https://open.spotify.com/artist/3lpNF9ypeJ8C2hetRzymhJ) | [a divinis](https://open.spotify.com/album/7uGNN5rgrkjPAWR2ci2edw) | 2:54 |
+| 37 | [Seni Seviyorum Kovboy](https://open.spotify.com/track/1IEFqIcHZSMrybUlRijFm7) | [nazire](https://open.spotify.com/artist/5yq1O1yuIoimW9QFYk4Pop) | [Seni Seviyorum Kovboy](https://open.spotify.com/album/0tAxnTks5XPUWfAfwPtnUR) | 3:21 |
+| 38 | [Yeter Bana](https://open.spotify.com/track/7ojuapYUGLNo3bccgOWwv0) | [Malabis](https://open.spotify.com/artist/1jNAl2utMHr2tHdLxcKSWM) | [Yeter Bana](https://open.spotify.com/album/5mFfvP5NTSjkGqwK6vyl1X) | 2:31 |
+| 39 | [Çok Uzaksın](https://open.spotify.com/track/3R3rL62bmObVB6iEJV3Wei) | [Zetinac](https://open.spotify.com/artist/7dvjq3vY79PIbRLwMftTdT) | [Çok Uzaksın](https://open.spotify.com/album/6f42eb2VBR2Txco7zZDSyQ) | 2:30 |
+| 40 | [Dağ Zirvesinde Gemi Enkazı](https://open.spotify.com/track/5sYbtAXL5NSzNbzXa2D5fk) | [Thieves on the Overpass](https://open.spotify.com/artist/1J7Qxvd5r2VbamNI8sayEG) | [Dağ Zirvesinde Gemi Enkazı](https://open.spotify.com/album/39unU0lEyeOjTSm17eLW4e) | 4:01 |
+| 41 | [aklına geliyo muyum?](https://open.spotify.com/track/7bCpdgdOuU1r48qUQz6fwc) | [ZAPOX](https://open.spotify.com/artist/5aHrVKNpTVFWiaGKGaBagi) | [aklına geliyo muyum?](https://open.spotify.com/album/74gJHdC5ZU7HQSdCA1I562) | 2:16 |
+| 42 | [KELİMELER](https://open.spotify.com/track/71thfOGGpYljmSDzbGKjz1) | [Biey](https://open.spotify.com/artist/3l5y7jcfzY8CpCdg380KiI), [Kantoryum](https://open.spotify.com/artist/1w0vUnyhILWTMCapQB46Jp) | [KELİMELER](https://open.spotify.com/album/4M0Y9oMggJSerpqWnqzlZD) | 2:00 |
+| 43 | [Nokta](https://open.spotify.com/track/18Z6HfEcenfShrhAQDuYxj) | [Deniz Özdoğru](https://open.spotify.com/artist/2WKoyW8hQoq5Sbd2jTKyPy) | [Nokta](https://open.spotify.com/album/7q6syuZOnGoPNL2m1acLde) | 2:31 |
+| 44 | [Eylül](https://open.spotify.com/track/6b9eMh5TWu7gwfijT5Vrnx) | [İVEN](https://open.spotify.com/artist/30Va8yOmahK90iKfeN1CWj) | [Eylül](https://open.spotify.com/album/1ScScqhJy4WudMQjqH3JhH) | 2:48 |
+| 45 | [kısa devre](https://open.spotify.com/track/2Ut3P7jf2nllhEmNjaZnR6) | [Rinxlaya](https://open.spotify.com/artist/5uc5qmVVzOLECcqTywPNXV), [Gantz](https://open.spotify.com/artist/7zIcHMhD4nOi0IpORMwGih) | [kısa devre](https://open.spotify.com/album/4GAUuMFbwjCJYMikunX1zq) | 3:02 |
+| 46 | [naber? ben iyi değilim](https://open.spotify.com/track/0fFy6ctIZaq81JTssewNa3) | [randova](https://open.spotify.com/artist/78hRvcGcI0TNiG5UkX2VqC) | [naber? ben iyi değilim](https://open.spotify.com/album/2nBttzH3nS6COXkI36V46K) | 2:15 |
+| 47 | [D.D.D \(Dönüp Duran Dünya\)](https://open.spotify.com/track/5Ky0GLzP9ofbYbjo5nTfzk) | [Atilla Kılıçlar](https://open.spotify.com/artist/2xH7skEqNmZEH9zS2YFso3) | [D.D.D \(Dönüp Duran Dünya\)](https://open.spotify.com/album/2wKMWvAO6ofPVMZbyVSzUk) | 3:37 |
+| 48 | [Bekliyordum Seni](https://open.spotify.com/track/2qbdh7eFuPUVGKfiy9on38) | [Özden](https://open.spotify.com/artist/72kvCthv6AhcGegRjxrofs) | [Bekliyordum Seni](https://open.spotify.com/album/5pgOW8SDCzv8TIESLU8txB) | 2:37 |
+| 49 | [Bir Yalan İçin](https://open.spotify.com/track/1J9luvigOhyici0qv0jJex) | [Mücahit Kalçık](https://open.spotify.com/artist/0nMPKPfXrBNMcSsisDtOc8) | [Bir Yalan İçin](https://open.spotify.com/album/1gZLnOEvgdSH9qsUisrqKh) | 3:34 |
+| 50 | [Bu Karışık Kafa](https://open.spotify.com/track/71pi180bwvS8uFfEeOpZjb) | [Atlas Lodos](https://open.spotify.com/artist/3ohoPUeQeEYikQsaBoOW0X) | [Bu Karışık Kafa](https://open.spotify.com/album/15JHHzVcHbyFWiB4b1sclN) | 2:29 |
+| 51 | [Değdi Mi ?](https://open.spotify.com/track/5wu2mTBmJYFoNKkJ2DRDks) | [Ece Uşaklıgil](https://open.spotify.com/artist/0Ajm4fwPgXzIdwy9LwhcKv) | [Değdi Mi ?](https://open.spotify.com/album/194r8GN8kwKgckkMjTCGIY) | 3:11 |
+| 52 | [Güneş Gözlerin](https://open.spotify.com/track/7BbYcOXOggdxJlLltk7sxb) | [Tavşantepe](https://open.spotify.com/artist/1dYJEhfbw5p707fONQlOam) | [Güneş Gözlerin](https://open.spotify.com/album/7qQUGttiFbulAOKQQFIF0A) | 3:59 |
+| 53 | [İkinci Perde](https://open.spotify.com/track/6DUviSy6k0Rvx5gT9TCBGE) | [Bade Nosa](https://open.spotify.com/artist/1HBN8wkDHbw1cp8EX4CFpX) | [İkinci Perde](https://open.spotify.com/album/0vTlWnavks9wGQBpcDDdJl) | 4:12 |
+| 54 | [a divinis](https://open.spotify.com/track/0s686kWyH7cKM5VHWcIn4N) | [munglay](https://open.spotify.com/artist/3lpNF9ypeJ8C2hetRzymhJ) | [a divinis](https://open.spotify.com/album/7uGNN5rgrkjPAWR2ci2edw) | 2:54 |
 
-Snapshot ID: `MCw3NmJkYTVkMmYyZWQzYzg4OTAzNjliNzQ5MjE0ZDg0Mjk2ZWEwNTM3`
+Snapshot ID: `MCw1ODlhNjBhOWY5YWEyNTUwZjdiMThlZTc1NTQ0M2Q0YmM1ZGYyMTNl`

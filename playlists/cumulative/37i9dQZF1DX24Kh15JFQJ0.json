@@ -3157,6 +3157,24 @@
     },
     {
       "album": {
+        "name": "My Stupid Tattoo",
+        "url": "https://open.spotify.com/album/5kVdDrl6zsidbOyFMwZEHn"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164152,
+      "name": "My Stupid Tattoo",
+      "url": "https://open.spotify.com/track/0V25FstJKoZu9EUbMiNDXg"
+    },
+    {
+      "album": {
         "name": "Need a Bar Sometimes",
         "url": "https://open.spotify.com/album/2tH27uztfniQ1M9Ajhf1LQ"
       },

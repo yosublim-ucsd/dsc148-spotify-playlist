@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 142836,
+  "2024-01-20": 142879,
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Meryl",
+  "description": "Les hits dancehall du moment. Photo : Its Natascha",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -759,7 +759,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 139613,
       "name": "Beleck",
       "url": "https://open.spotify.com/track/5bf3qVyRtIpk4Ym3JHalWk"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 136813,
       "name": "Bi",
       "url": "https://open.spotify.com/track/4RUfwj2WJtQ0G7Lp6mOPGy"
@@ -1175,6 +1175,36 @@
       "duration_ms": 156631,
       "name": "Bruk Out",
       "url": "https://open.spotify.com/track/2tqmebpNRL25n5lxYfgGq3"
+    },
+    {
+      "album": {
+        "name": "Bubble It",
+        "url": "https://open.spotify.com/album/4GhGKI1VlGiWV3oORBIrmC"
+      },
+      "artists": [
+        {
+          "name": "Dj Lub's",
+          "url": "https://open.spotify.com/artist/1aZt6Dd236InaXbBMB0soh"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188235,
+      "name": "Bubble It",
+      "url": "https://open.spotify.com/track/6CeQc09T44QnRAtLrspPaX"
     },
     {
       "album": {
@@ -2513,7 +2543,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 165230,
       "name": "GOOD TASTE",
       "url": "https://open.spotify.com/track/4ptipoZmsujkYcISXqfeqK"
@@ -4057,6 +4087,28 @@
       "duration_ms": 162734,
       "name": "Mi Bad",
       "url": "https://open.spotify.com/track/7E9LkIbNwOdTtO5VVKEKCe"
+    },
+    {
+      "album": {
+        "name": "MI MAS LA (Karata)",
+        "url": "https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM"
+      },
+      "artists": [
+        {
+          "name": "Riddla",
+          "url": "https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw"
+        },
+        {
+          "name": "Mas Ka Kl\u00e9",
+          "url": "https://open.spotify.com/artist/6D0khW9GeCCJ1VBU4tlRbo"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133875,
+      "name": "MI MAS LA - Karata",
+      "url": "https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ"
     },
     {
       "album": {
@@ -5755,7 +5807,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 142574,
       "name": "Shattating",
       "url": "https://open.spotify.com/track/3vvIfLyuYnd8DHjcIk8JWy"
@@ -6129,6 +6181,28 @@
       "duration_ms": 135600,
       "name": "Suffering Days",
       "url": "https://open.spotify.com/track/72dpxZuTHoyVqt6CUBgSog"
+    },
+    {
+      "album": {
+        "name": "Sum Big Tings",
+        "url": "https://open.spotify.com/album/2fZ0aQhfecuZiid5O5PA2L"
+      },
+      "artists": [
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        },
+        {
+          "name": "Ricky Hype",
+          "url": "https://open.spotify.com/artist/3P3VpRsc7DKghhiREMiuVN"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172422,
+      "name": "Sum Big Tings",
+      "url": "https://open.spotify.com/track/52d8cQ0lwDcrxK2awKHvpC"
     },
     {
       "album": {

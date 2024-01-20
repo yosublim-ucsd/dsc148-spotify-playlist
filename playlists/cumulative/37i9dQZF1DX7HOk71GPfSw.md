@@ -4,7 +4,7 @@
 
 > music to show your grandparents this holiday season
 
-1,921 songs - 3 day 15 hr 30 min
+1,923 songs - 3 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -985,6 +985,7 @@
 | [Lacrimosa](https://open.spotify.com/track/4fmx5aFpBc8HrHrC6UUKTX) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [The Best Red](https://open.spotify.com/album/48S8Gg7ZPeonbt2Vw5Vauh) | 4:13 | 2021-10-16 | 2021-10-21 |
 | [Ladida](https://open.spotify.com/track/0RkJu38Kh5beBzrAVroDBb) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Harmony EP](https://open.spotify.com/album/2kbMwqHzoqdBHRjg3LEVdd) | 2:35 | 2022-04-01 | 2022-06-04 |
 | [LAKE OF LOVE](https://open.spotify.com/track/7MZRh424fSUsjmUYEebcvK) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [LAKE OF LOVE](https://open.spotify.com/album/4W4eNy279B7ogE6nBm6Dbw) | 5:43 | 2022-04-01 | 2022-04-29 |
+| [lastjune](https://open.spotify.com/track/1welGULVlPbPc61eiGEELm) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:31 | 2024-01-19 |  |
 | [lavender](https://open.spotify.com/track/1Idid9PZdEK2U3L37yoR4A) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [lavender](https://open.spotify.com/album/5NgbRiQlNELNvWXDoO6kKe) | 2:39 | 2022-03-11 | 2022-05-14 |
 | [lazy](https://open.spotify.com/track/0qZBbT749egZDhvo7HsN87) | [d1v](https://open.spotify.com/artist/074DHAmvABdQooCWAABq8N) | [lazy](https://open.spotify.com/album/49sG2d2Ztsqffyp7pF0sLf) | 1:56 | 2022-03-25 | 2022-06-04 |
 | [Leaving \(Laura Les remix\)](https://open.spotify.com/track/4mi2RPgWpx2Jp1jzoAJEnM) | [Katie Dey](https://open.spotify.com/artist/1SETr6LqWZXbJyEDVe6xDc), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Leaving / Data \(Urdata Versions\)](https://open.spotify.com/album/4pzbArJQKk6AsKCK4vr4u9) | 2:53 | 2021-01-15 | 2021-02-26 |
@@ -1677,6 +1678,7 @@
 | [Teeter\-Totter](https://open.spotify.com/track/55F3YRFtJpTcdpHgx88BUF) | [Nömak](https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY), [Araatan](https://open.spotify.com/artist/2CdO0qRrFnQnVNiT8Xjb2U) | [Teeter\-Totter \- Single](https://open.spotify.com/album/4QNLaObWdUKjgAhxvOYB1K) | 4:00 | 2020-10-13\* | 2021-01-08 |
 | [teeth II](https://open.spotify.com/track/6xZgMvO83D2MbaMIyE38qk) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [teeth II](https://open.spotify.com/album/3znC2CsEV9bBFAgF2P6zIk) | 3:26 | 2023-04-14 | 2023-08-12 |
 | [TELEPHONE LINE 415](https://open.spotify.com/track/192nl5phiB511YsrUNpJJE) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [character development!](https://open.spotify.com/album/0JM1so3sso2N47I5BzvDmP) | 2:46 | 2020-10-13\* | 2021-01-08 |
+| [tell me](https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [tell me](https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09) | 2:43 | 2024-01-19 |  |
 | [Tell Your Mother](https://open.spotify.com/track/3wXCtVP9Tty9pAUxLJfuKE) | [RILEY THE MUSICIAN](https://open.spotify.com/artist/16DcOXjCP2hheroOZ3dPMD) | [Montana](https://open.spotify.com/album/22ASVz8MqwOLv8gU4nH2kF) | 2:33 | 2021-11-19 | 2022-02-26 |
 | [tellmewhatuwant](https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [tellmewhatuwant](https://open.spotify.com/album/6VlPTrrwFR2Z6sEnT9YIMR) | 3:13 | 2022-01-21 | 2022-04-29 |
 | [texas](https://open.spotify.com/track/5PbdV7i87rT8kTD2EcAe4F) | [blxty](https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p), [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu) | [texas](https://open.spotify.com/album/0VBiDYI7RG5acRP1dQ10KG) | 2:53 | 2022-03-25 | 2022-04-29 |

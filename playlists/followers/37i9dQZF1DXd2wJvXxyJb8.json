@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 1248666,
+  "2024-01-20": 1249366,
   "date_first_scraped": "2022-05-27",
-  "description": "meu sonho jamais morrer\u00e1",
+  "description": "q bololo ein",
   "name": "Hits da Internet",
   "tracks": [
     {
@@ -4294,6 +4294,28 @@
     },
     {
       "album": {
+        "name": "Macetando",
+        "url": "https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "Macetando",
+      "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
+    },
+    {
+      "album": {
         "name": "Macho Preferido",
         "url": "https://open.spotify.com/album/3srxNt9v8dZbep7Ha9CWE8"
       },
@@ -4509,7 +4531,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 118153,
       "name": "MARIA MARIAH",
       "url": "https://open.spotify.com/track/4rvhvKePtR2c08LvALVLXV"
@@ -4539,7 +4561,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 118153,
       "name": "Maria Mariah",
       "url": "https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi"
@@ -7463,8 +7485,8 @@
           "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
         },
         {
-          "name": "Mc Cothie",
-          "url": "https://open.spotify.com/artist/2kgFOT33p9LwqLDbnHiKTB"
+          "name": "MC Cothi\u00ea",
+          "url": "https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k"
         },
         {
           "name": "Dj Chadin do C",
@@ -7473,8 +7495,8 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
-      "duration_ms": 131610,
+      "date_removed": null,
+      "duration_ms": 109384,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank"
     },

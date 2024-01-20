@@ -4481,6 +4481,24 @@
     },
     {
       "album": {
+        "name": "Shinshin Muso no Ken ni Nare",
+        "url": "https://open.spotify.com/album/6RqGK1sg3VST4Ij28cWTIk"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u524d\u4eac\u9999(CV:\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/52ky9tegM9Sdirv6I8Ok1q"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189813,
+      "name": "Shinshin Muso no Ken ni Nare",
+      "url": "https://open.spotify.com/track/7p4RhJ9eryGdHeGnx467OS"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30a4\u30ab\u30c4!\u30b7\u30ea\u30fc\u30b9\u3099 10th Anniversary Album Vol.01\u300cRing Ring Carnival\u300d",
         "url": "https://open.spotify.com/album/1QvMF8zo4vYf1eidom6ttu"
       },
@@ -8977,7 +8995,7 @@
       "artists": [
         {
           "name": "KEIKO",
-          "url": "https://open.spotify.com/artist/4j7ZX5A2mU1ClOmposbUFM"
+          "url": "https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe"
         }
       ],
       "date_added": "2024-01-18",
@@ -9270,7 +9288,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 189813,
       "name": "\u5fc3\u8eab\u7121\u53cc\u306e\u5263\u306b\u306a\u308c",
       "url": "https://open.spotify.com/track/3KepaGnc8CjilcnFdVvK1k"

@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 456,
+  "2024-01-20": 456,
   "date_first_scraped": "2021-12-21",
   "description": "A down to earth collection of new and classic folk tunes for kids.",
   "name": "Family Folk",
@@ -1775,7 +1775,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 144773,
       "name": "Matter of Fact",
       "url": "https://open.spotify.com/track/24QRXHKVA6rWIxHZqU8rX9"
@@ -2795,7 +2795,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 172973,
       "name": "We Shall Not Be Moved",
       "url": "https://open.spotify.com/track/38UmswDbJCKoyx4Dbi0zeO"

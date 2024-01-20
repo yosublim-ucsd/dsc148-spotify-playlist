@@ -4,7 +4,7 @@
 
 > Houseium&\#x27;s BANGIN HOUSE is full of high energy house music! 📲 TikTok &amp; IG: @houseium \[dm for inquiries\]
 
-102 songs - 5 hr 20 min
+106 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Careless](https://open.spotify.com/track/5DufMAb2NFd9p0WTt0l76H) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Careless](https://open.spotify.com/album/66mEDIquTBWIRqYCDpFdHW) | 4:34 | 2023-12-31 | 2024-01-09 |
 | [Come Back](https://open.spotify.com/track/2lCCMbFptTfOut1X4zCPcB) | [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x) | [Come Back](https://open.spotify.com/album/5fsXv4VyocGOBf7pMYKi5O) | 3:10 | 2023-12-31 | 2024-01-09 |
 | [Come On \- Radio Edit](https://open.spotify.com/track/3TZMiztgCJgsDmNsynCYOi) | [FORTWENTEEZ](https://open.spotify.com/artist/60ZGFZRapwBKb2l2R5hhJL) | [Come On](https://open.spotify.com/album/0YnMyGIp4OGkpSJ3w41I3h) | 2:51 | 2024-01-08 |  |
+| [Control](https://open.spotify.com/track/4NLF0XgMRCT6ARMhuSIL1y) | [Pavarino](https://open.spotify.com/artist/2Fpae9iRbR4yJa3hScKIO2) | [Control](https://open.spotify.com/album/4zhVHvYUGAuyZnsSzZmtr2) | 2:51 | 2024-01-19 |  |
 | [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 | 2024-01-15 |  |
 | [Dancefloor](https://open.spotify.com/track/7lk1IsQ6oS8c0cmW5Qr2EE) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Dancefloor](https://open.spotify.com/album/1jq4DZb0TM25hTPAssCQKa) | 3:26 | 2024-01-08 |  |
 | [Dancing At The Disco](https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Dancing At The Disco](https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt) | 3:14 | 2023-12-31 | 2024-01-16 |
@@ -32,6 +33,7 @@
 | [Do You Feel It](https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Do You Feel It](https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y) | 3:06 | 2023-12-31 | 2024-01-09 |
 | [Don't Stop \- Radio Edit](https://open.spotify.com/track/649MYbDCJrQd40H9oG4kFa) | [Chuck Shadow](https://open.spotify.com/artist/0plb6fI8MnpTQAM0UDamB3) | [Don't Stop](https://open.spotify.com/album/3I5KlNzvGE8zmmbGfFLze0) | 3:28 | 2023-12-31 | 2024-01-09 |
 | [Dress Code](https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Dress Code](https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1) | 3:23 | 2024-01-15 |  |
+| [Drip](https://open.spotify.com/track/6jCudRhwziL1bPXfekewx2) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [BASS EP](https://open.spotify.com/album/7CWdXMP9fmBJfBnYAU5WwC) | 3:09 | 2024-01-19 |  |
 | [DUST](https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [DUST](https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9) | 2:31 | 2023-12-31 | 2024-01-09 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-12-31 | 2024-01-09 |
 | [Feel Alright](https://open.spotify.com/track/08bcUpUi7J93IHtWr30dc9) | [RadWulf](https://open.spotify.com/artist/5G1S3UDl45hYFHLRkz3EVE) | [DARKSTAR](https://open.spotify.com/album/7gzf4h6Y8xMOZqHvk9P6gq) | 3:45 | 2024-01-15 |  |
@@ -54,6 +56,7 @@
 | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF) | 2:36 | 2023-12-31 | 2024-01-09 |
 | [Keep It Movin](https://open.spotify.com/track/7eydenioW6SGsnWGGcx9Fa) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [The Book Club Chapter 5](https://open.spotify.com/album/1OIQcEd8ZMXqZIwjhB7ue2) | 3:18 | 2023-11-20 |  |
 | [Leave Me Like This](https://open.spotify.com/track/6NRvZuFXn2ixp8YdzUvG5n) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 3:08 | 2023-12-31 | 2024-01-16 |
+| [Let Go](https://open.spotify.com/track/7EDUISnXXmWfkyusR84qJY) | [NETWERK](https://open.spotify.com/artist/5NcQH0KEEAwdMYKZr6o7Go), [EHJ](https://open.spotify.com/artist/2nPv1roJYH9O2PPwQ21qXf) | [Let Go](https://open.spotify.com/album/5rV7OXIOHCVRmOcZNqpuIc) | 2:52 | 2024-01-19 |  |
 | [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 | 2024-01-08 |  |
 | [Light Show](https://open.spotify.com/track/2iojI0ItNpJ7IoHke35CJ2) | [Sherm](https://open.spotify.com/artist/5GaFjMsAVZru8XDlDkCaN0) | [Light Show](https://open.spotify.com/album/647PYEX0U886SZ5t8wgoQC) | 2:50 | 2024-01-15 |  |
 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 | 2023-12-31 | 2024-01-09 |
@@ -100,6 +103,7 @@
 | [There We Go](https://open.spotify.com/track/680Ap4h1hvzx39jHrVAeza) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [There We Go](https://open.spotify.com/album/3uhtyjaTHCaCgpo0wC50Ss) | 3:04 | 2023-11-20 |  |
 | [To Be Real](https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [To Be Real](https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK) | 3:23 | 2023-12-31 | 2024-01-16 |
 | [Totoro](https://open.spotify.com/track/6pDYs2DNpXpFGyryXJfUEN) | [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Totoro](https://open.spotify.com/album/6VJQVh50N9irmXYJa8FBjL) | 3:02 | 2024-01-08 |  |
+| [Treat Yourself](https://open.spotify.com/track/3St5FVTY9sNBbbR07nkqrC) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [BASS EP](https://open.spotify.com/album/7CWdXMP9fmBJfBnYAU5WwC) | 3:19 | 2024-01-19 |  |
 | [UHHNE](https://open.spotify.com/track/4aoI3bXf5tFIr9blOIzCVv) | [GOSIOU](https://open.spotify.com/artist/2u7bsP9JJwRU6xOqypTx5d) | [UHHNE](https://open.spotify.com/album/5PXNk12WH2bHg324OiLBiM) | 2:37 | 2024-01-15 |  |
 | [What I Do](https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [What I Do](https://open.spotify.com/album/22m4OKMTuFzHdZG4e4DUrQ) | 2:28 | 2024-01-08 |  |
 | [When the beat Bang](https://open.spotify.com/track/3nj5UffFuqIdyy0BGrBI2l) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [When the beat Bang](https://open.spotify.com/album/12LyRM80nwhWdxAwACJeBf) | 4:01 | 2023-12-11 | 2024-01-16 |

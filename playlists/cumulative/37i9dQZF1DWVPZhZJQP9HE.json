@@ -873,6 +873,28 @@
     },
     {
       "album": {
+        "name": "Aval Per Mazhai",
+        "url": "https://open.spotify.com/album/7M8qgTeH0QHUtsrp6ntiLe"
+      },
+      "artists": [
+        {
+          "name": "Nivas",
+          "url": "https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O"
+        },
+        {
+          "name": "Mukundan Raman",
+          "url": "https://open.spotify.com/artist/0NXMKxorYTyZjPhj4C4dkE"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202928,
+      "name": "Aval Per Mazhai",
+      "url": "https://open.spotify.com/track/1HtuPlbmISUXsQ6GvsXPxm"
+    },
+    {
+      "album": {
         "name": "Avalale Naan",
         "url": "https://open.spotify.com/album/6o6d7kghb06UmFTe8hShDy"
       },
@@ -2094,7 +2116,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 187890,
       "name": "Engeyo",
       "url": "https://open.spotify.com/track/4taQv2A8XEp3tRUX5mZLHj"
@@ -5048,6 +5070,24 @@
       "duration_ms": 211874,
       "name": "Manasu Parakudhu",
       "url": "https://open.spotify.com/track/0iQTNcYqxF1Tbi9KnJ8ufa"
+    },
+    {
+      "album": {
+        "name": "Manasukkul - Symphony of Emotions",
+        "url": "https://open.spotify.com/album/5ECiO7v795pQfdBqWI20nz"
+      },
+      "artists": [
+        {
+          "name": "Pavani Vasa",
+          "url": "https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211199,
+      "name": "Manasukkul - Symphony of Emotions",
+      "url": "https://open.spotify.com/track/32wxNNLUIjD3o8IPqOt2zl"
     },
     {
       "album": {
@@ -8512,7 +8552,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 234939,
       "name": "Scene Podaathadi",
       "url": "https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV"

@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "4321",
+        "url": "https://open.spotify.com/album/3sMHqf5dmjRL3MaENIrp7z"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "4321",
+      "url": "https://open.spotify.com/track/6vWnGPaLwC7dZEZta594fs"
+    },
+    {
+      "album": {
         "name": "Action",
         "url": "https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm"
       },
@@ -2172,6 +2190,32 @@
       "duration_ms": 180000,
       "name": "INOXENTE - Steve Aoki & Dee Mad Remix",
       "url": "https://open.spotify.com/track/719e5fPCJE34Lb3a6upwhV"
+    },
+    {
+      "album": {
+        "name": "I\u2019m A Freak (feat. Kazhi)",
+        "url": "https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "I\u2019m A Freak (feat. Kazhi)",
+      "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
     },
     {
       "album": {

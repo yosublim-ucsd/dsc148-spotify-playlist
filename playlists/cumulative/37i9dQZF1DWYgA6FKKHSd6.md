@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-221 songs - 15 hr 55 min
+222 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Always There](https://open.spotify.com/track/5k6AHDxbQVFXgq6wVxc7OS) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp), [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Dave Koz and Friends Summer Horns \(feat\. Gerald Albright, Mindi Abair, Richard Elliot\)](https://open.spotify.com/album/5vVBeULlTQWuesZgpILgy0) | 4:05 | 2021-07-12 | 2022-07-25 |
 | [American Garden](https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr) | [Phillip Doc Martin](https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp) | [Pride And Joy](https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB) | 4:08 | 2021-07-12 |  |
 | [American Garden](https://open.spotify.com/track/5Kr15ZUXYmE4gzpu4pYQsr) | [Phillip Martin](https://open.spotify.com/artist/1bnzOD7TlkfYWoG2CfGHve) | [Pride and Joy](https://open.spotify.com/album/2KK7KqgTENPyN0QDL3ioRC) | 4:08 | 2021-07-12 | 2022-04-21 |
-| [Another Day In Paradise](https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Another Day In Paradise](https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn) | 4:35 | 2022-06-03 |  |
+| [Another Day In Paradise](https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Another Day In Paradise](https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn) | 4:35 | 2022-06-03 | 2024-01-20 |
 | [Another Part of Me](https://open.spotify.com/track/2uroSt9vhH1KFV9g4s0MOS) | [BWB](https://open.spotify.com/artist/3a6l5qcDjvTGpvBXmBYz3e), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Human Nature \(feat\. Rick Braun, Kirk Whalum, Norman Brown\)](https://open.spotify.com/album/1nDD5iqCemA5KDe7pJZnSi) | 5:10 | 2021-07-12 | 2022-07-28 |
 | [Another Part Of Me](https://open.spotify.com/track/4vMb0VIg2w6qcrfaqRjcYB) | [BWB](https://open.spotify.com/artist/3a6l5qcDjvTGpvBXmBYz3e), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Human Nature](https://open.spotify.com/album/3zdZdYZmNYFWOd00GxOn0h) | 5:10 | 2021-07-12 |  |
 | [Around the World](https://open.spotify.com/track/4KgBh87uOAEKc7Qff1uL2q) | [Jarez](https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr) | [Around the World](https://open.spotify.com/album/4EGHxEMsxfZpzJyfqZQwtz) | 4:14 | 2021-07-12 |  |
@@ -201,6 +201,7 @@
 | [The Goddess](https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The Goddess](https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO) | 4:06 | 2021-10-01 |  |
 | [The Lucky One](https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Play](https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4) | 4:52 | 2021-07-12 |  |
 | [The Lucky One](https://open.spotify.com/track/5DZG7foxuMefwnYHz14hLj) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Play](https://open.spotify.com/album/2p3hE6Y7dBrslBKAbripCm) | 4:52 | 2021-07-12 | 2022-07-28 |
+| [The Power of Love \(feat\. Cory Wong\)](https://open.spotify.com/track/6KBnWp7gCyg5LkO9uZd55e) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Power of Love \(feat\. Cory Wong\)](https://open.spotify.com/album/3HrHGWiiJ7HrEHJPnbAnuT) | 4:22 | 2024-01-19 |  |
 | [The Sax Pack](https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB) | [The Sax Pack](https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA) | [The Sax Pack](https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN) | 3:34 | 2021-07-12 |  |
 | [The Whisper of Your Heart](https://open.spotify.com/track/726pv7bhUv9r2ol9oIzehq) | [Igor Gerzina](https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW) | [The Whisper of Your Heart](https://open.spotify.com/album/413FMdhsdjpe4rWytLFtCW) | 4:03 | 2021-07-12 |  |
 | [Tick Tock](https://open.spotify.com/track/0WZi5284N4LSLchtML4jze) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO) | 4:07 | 2021-07-12 |  |

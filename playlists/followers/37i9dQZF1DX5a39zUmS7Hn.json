@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 438564,
+  "2024-01-20": 438815,
   "date_first_scraped": "2022-05-11",
-  "description": "New music and timeless tracks from legends only. Cover: Liam Gallagher & John Squire",
+  "description": "New music and timeless tracks from legends only. Cover: The Jesus & Mary Chain",
   "name": "Legends Only",
   "tracks": [
     {
@@ -977,6 +977,24 @@
       "duration_ms": 218221,
       "name": "Changes - 2021 Alternative Mix",
       "url": "https://open.spotify.com/track/301RVzUAczH5YmmRWoMdhI"
+    },
+    {
+      "album": {
+        "name": "Chemical Animal",
+        "url": "https://open.spotify.com/album/4LUYV8jcT97Xoy9sI1TPs3"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273666,
+      "name": "Chemical Animal",
+      "url": "https://open.spotify.com/track/6NyWKXFYaw29rFuAIgrgpq"
     },
     {
       "album": {
@@ -4101,7 +4119,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 212786,
       "name": "That's Entertainment",
       "url": "https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0"

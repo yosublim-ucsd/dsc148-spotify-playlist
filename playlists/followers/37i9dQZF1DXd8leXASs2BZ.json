@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 1663,
+  "2024-01-20": 1669,
   "date_first_scraped": "2023-12-09",
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Flat Line Classics",
   "name": "+81 Connect FRESH",
@@ -173,6 +173,24 @@
       "duration_ms": 130251,
       "name": "AQUARIUM!",
       "url": "https://open.spotify.com/track/609wtVyKpzpHRkE9BGtP0q"
+    },
+    {
+      "album": {
+        "name": "Arakawa",
+        "url": "https://open.spotify.com/album/4lkMNIKhd1OBKmk8EIPkt3"
+      },
+      "artists": [
+        {
+          "name": "keg\u00f8n",
+          "url": "https://open.spotify.com/artist/1K65FMS221HfgzjJoYo1Jb"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Arakawa",
+      "url": "https://open.spotify.com/track/3Izy5tIrFbZ0id57pdBUDN"
     },
     {
       "album": {
@@ -723,7 +741,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 120372,
       "name": "DEMON TIME",
       "url": "https://open.spotify.com/track/6HPE9XAhjtPky949LSxhTM"
@@ -785,7 +803,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 121712,
       "name": "devil talk",
       "url": "https://open.spotify.com/track/4BdyCtmClgTDXecu5qDd2W"
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 145928,
       "name": "Flight to Mumbai",
       "url": "https://open.spotify.com/track/7zUSBgmoKetipGxoFcHH9F"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 169778,
       "name": "For My Squad (feat. 98jams)",
       "url": "https://open.spotify.com/track/0QoAcHoy0s8W8SSvSKxUKT"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 158800,
       "name": "Gose On",
       "url": "https://open.spotify.com/track/1DMhlVS8Nwhx9d24hdiojT"
@@ -1784,6 +1802,42 @@
     },
     {
       "album": {
+        "name": "In2Deep",
+        "url": "https://open.spotify.com/album/5QB940f1fzyuHo6Uxgm1i3"
+      },
+      "artists": [
+        {
+          "name": "G-SPARROW",
+          "url": "https://open.spotify.com/artist/2AucnU5hZ6ilZassx6v75W"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168526,
+      "name": "In2Deep",
+      "url": "https://open.spotify.com/track/2QUZ7694rNKC9KLO0IYbaa"
+    },
+    {
+      "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/5fUyFfI0R6bsuXYJVMGdGg"
+      },
+      "artists": [
+        {
+          "name": "999dobby",
+          "url": "https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125392,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/7lFq5rNntI0abNXzINWNt6"
+    },
+    {
+      "album": {
         "name": "Jerky",
         "url": "https://open.spotify.com/album/6zQpms0oM4KwVmhLvw6hRZ"
       },
@@ -1967,6 +2021,24 @@
       "duration_ms": 111000,
       "name": "Looks like mother",
       "url": "https://open.spotify.com/track/7iue5DzuHVSqlJggl99TYz"
+    },
+    {
+      "album": {
+        "name": "LOVE MY LIFE",
+        "url": "https://open.spotify.com/album/6RGW6gjwtL6wSwQ4BN88RB"
+      },
+      "artists": [
+        {
+          "name": "JOYLIIFE",
+          "url": "https://open.spotify.com/artist/6JD26kequ4Rdvg8DEDX5pW"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "LOVE MY LIFE",
+      "url": "https://open.spotify.com/track/1CRHfiAmJHhHCmy0yKhvS5"
     },
     {
       "album": {
@@ -2430,6 +2502,28 @@
     },
     {
       "album": {
+        "name": "Peak",
+        "url": "https://open.spotify.com/album/5XMbbVAwNL021CYevdklt8"
+      },
+      "artists": [
+        {
+          "name": "Big Animal Theory",
+          "url": "https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4"
+        },
+        {
+          "name": "It-Works",
+          "url": "https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Peak",
+      "url": "https://open.spotify.com/track/5MOtiT3eE0ifounWFxufMg"
+    },
+    {
+      "album": {
         "name": "In my car",
         "url": "https://open.spotify.com/album/2helQUnV7pIX2x30LgJRFo"
       },
@@ -2441,7 +2535,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 129235,
       "name": "Phonecall",
       "url": "https://open.spotify.com/track/5pPg981avhNjpOtd7MSuNk"
@@ -2477,7 +2571,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 152000,
       "name": "PRO",
       "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
@@ -2506,6 +2600,24 @@
     },
     {
       "album": {
+        "name": "PUFFY",
+        "url": "https://open.spotify.com/album/2qjBejLNSqmeaOUHk7To1z"
+      },
+      "artists": [
+        {
+          "name": "Shinkai East",
+          "url": "https://open.spotify.com/artist/3OssiXL7LArg3yDW0t2wE6"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167341,
+      "name": "PUFFY",
+      "url": "https://open.spotify.com/track/2VNMDF9XndbjbyZasqfcje"
+    },
+    {
+      "album": {
         "name": "Soul Quake",
         "url": "https://open.spotify.com/album/55cvRjMBb8M1fq1xnTMm09"
       },
@@ -2521,6 +2633,24 @@
       "duration_ms": 146813,
       "name": "RANDO",
       "url": "https://open.spotify.com/track/7zzkmw6rUNfccb8GypmTzY"
+    },
+    {
+      "album": {
+        "name": "reason to live",
+        "url": "https://open.spotify.com/album/22rpUpteexArJt34TbRgVA"
+      },
+      "artists": [
+        {
+          "name": "Yvng xan",
+          "url": "https://open.spotify.com/artist/3OzE7ohZzlPOmVuvC4ZPX0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138042,
+      "name": "reason to live",
+      "url": "https://open.spotify.com/track/15BBaWPaW4uvGMkX4M1Yws"
     },
     {
       "album": {
@@ -2597,7 +2727,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 129285,
       "name": "SAI",
       "url": "https://open.spotify.com/track/5osMyTdNI7vyNnS03Tb8X5"
@@ -2706,6 +2836,28 @@
     },
     {
       "album": {
+        "name": "Set up",
+        "url": "https://open.spotify.com/album/3tv0jQBCjhFIJ8kxaAi7HR"
+      },
+      "artists": [
+        {
+          "name": "NAZAL",
+          "url": "https://open.spotify.com/artist/1YbyCB84VLDKqvPZrXb77l"
+        },
+        {
+          "name": "Pool",
+          "url": "https://open.spotify.com/artist/682zJPYEeAySHdPs9uSV5E"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183163,
+      "name": "Shawty",
+      "url": "https://open.spotify.com/track/2nJBguvAzTjPVzetzb0Tdw"
+    },
+    {
+      "album": {
         "name": "SHIBUSHO",
         "url": "https://open.spotify.com/album/2RjMP0EbxN7Yq5A3aClR78"
       },
@@ -2721,10 +2873,32 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 172153,
       "name": "SHIBUSHO",
       "url": "https://open.spotify.com/track/5u2VnI3PrZfcxPYLDfxWwr"
+    },
+    {
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/4ebp7Q0WlT00X4O6nUh8gt"
+      },
+      "artists": [
+        {
+          "name": "JAKEN",
+          "url": "https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt"
+        },
+        {
+          "name": "JACK TOMMY",
+          "url": "https://open.spotify.com/artist/3WemKTdeHns2ru4z2F59yc"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169696,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/5PVPw8N7rCcZXLe8gJwABG"
     },
     {
       "album": {
@@ -2855,7 +3029,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 204193,
       "name": "summertime",
       "url": "https://open.spotify.com/track/78RXtpNuRCPZiiZRJTarhj"
@@ -3077,6 +3251,28 @@
       "duration_ms": 223008,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/5lfS6aBkfSq8OoWb4NnkLL"
+    },
+    {
+      "album": {
+        "name": "Wasurenaide",
+        "url": "https://open.spotify.com/album/6hHfnpyuiYY1ZiP48U6HwI"
+      },
+      "artists": [
+        {
+          "name": "Shootz",
+          "url": "https://open.spotify.com/artist/0gSHX4GAlRtZJ1tJhBv0SD"
+        },
+        {
+          "name": "Dengaryu",
+          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253526,
+      "name": "Wasurenaide",
+      "url": "https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8"
     },
     {
       "album": {

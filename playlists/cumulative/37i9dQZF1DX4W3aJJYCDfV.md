@@ -4,7 +4,7 @@
 
 > Brand new music from Mumford & Sons \(pictured\), Nia Archives, Rachel Chinouriri and more!
 
-8,207 songs - 18 day 12 hr 25 min
+8,209 songs - 18 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [500](https://open.spotify.com/track/02Te4JcryBIoLvYTFEbWK5) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [500](https://open.spotify.com/album/5lrYnvJjQGGmu6GGLPHuvn) | 2:46 | 2023-05-11 | 2023-05-19 |
 | [501s](https://open.spotify.com/track/6feJvH2JJNmrsXiAeUDAZb) | [Conchúr White](https://open.spotify.com/artist/3CKoNNHadnfwIuDzOmX7vF) | [501s](https://open.spotify.com/album/5JVHvHnv7bCaQqEMyygAkR) | 3:31 | 2024-01-19 |  |
 | [50s](https://open.spotify.com/track/3xGMOMy5PeVOoIl8zjzxRN) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [50s](https://open.spotify.com/album/5NB0lhneowD68OlfY44Ed0) | 2:39 | 2022-12-09 | 2022-12-16 |
-| [6 Feet Down](https://open.spotify.com/track/702iObycXld7AL2LQpTpUc) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V) | 2:48 | 2024-01-19 |  |
+| [6 Feet Down](https://open.spotify.com/track/702iObycXld7AL2LQpTpUc) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V) | 2:48 | 2024-01-19 | 2024-01-20 |
+| [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 | 2024-01-19 |  |
 | [6AM](https://open.spotify.com/track/4fOi6nj43ew8n8PXsHY8Yt) | [Maya Law](https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6) | [6AM](https://open.spotify.com/album/7uMxOYu5sBvapPzpnR79fw) | 3:04 | 2023-08-10 | 2023-08-18 |
 | [6ex In The Morning](https://open.spotify.com/track/1nwNvEXXoKKmJCpQDtXdkC) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [In Too Deep](https://open.spotify.com/album/7ufExXnZlCqVXCNXdJPHjy) | 2:40 | 2022-11-18 | 2022-11-25 |
 | [6IX](https://open.spotify.com/track/0GvvVJGxR5kBAMIU5JmAwv) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [YV](https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk), [CH \(GMD\)](https://open.spotify.com/artist/0GB9JwyieSfl4FONkheT6k), [RA](https://open.spotify.com/artist/1zFu9jOWeBB1PCCnBZfQno), [TeeRowdy](https://open.spotify.com/artist/3eoXjqgj0qDqNqG581rKpg) | [6IX](https://open.spotify.com/album/0JmftTPXtS9dWj7i3c4zcK) | 2:21 | 2023-11-03 | 2023-11-10 |
@@ -3992,7 +3993,8 @@
 | [Learning To Dance \(Lanigan's Ball\)](https://open.spotify.com/track/1nZ0RbTN483b6clpsSeTgf) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Learning To Dance \(Lanigan’s Ball\)](https://open.spotify.com/album/7iMnWMLVJNky9Mrdzr0aiC) | 2:31 | 2023-12-01 | 2023-12-08 |
 | [Learning To Swim](https://open.spotify.com/track/5cZvAD0oAvMJzGvreBitLL) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W), [Natty Wylah](https://open.spotify.com/artist/2BUKwf8XQN2KTzdp8hyqlK), [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Learning To Swim](https://open.spotify.com/album/59WEHNHEUB8TCq8kElDOdg) | 3:22 | 2024-01-19 |  |
 | [Leash](https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Leash](https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ) | 2:42 | 2023-02-03 | 2023-02-10 |
-| [Leave](https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Leave](https://open.spotify.com/album/4oI3CE0TNkmbQQqZdHR2zh) | 3:22 | 2024-01-19 |  |
+| [Leave](https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Leave](https://open.spotify.com/album/2zwQsQOUckjqeOZ8Id2hVL) | 3:22 | 2024-01-19 |  |
+| [Leave](https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Leave](https://open.spotify.com/album/4oI3CE0TNkmbQQqZdHR2zh) | 3:22 | 2024-01-19 | 2024-01-20 |
 | [Leave It](https://open.spotify.com/track/3ccoRAPt1d2B8lHQhGqnly) | [Lauren Murray](https://open.spotify.com/artist/68Nu0Esm0bCGNO2Gx2U4l4) | [Leave It](https://open.spotify.com/album/1F7fmvYYxVT06WeMVojfNi) | 2:18 | 2023-04-06 | 2023-04-14 |
 | [Leave Me](https://open.spotify.com/track/1Lmr4FsoZ030z8smldEknw) | [DEJA](https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp) | [Leave Me](https://open.spotify.com/album/3XBVJgGFTViXh3gwqtgI5b) | 3:33 | 2022-11-11 | 2022-11-18 |
 | [Leave Me Alone](https://open.spotify.com/track/0q4M1iTAmKYY0CcfEx6FOv) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Leave Me Alone](https://open.spotify.com/album/6kUjTPhLlAiW3obq3zdPS1) | 2:13 | 2023-06-15 | 2023-06-23 |

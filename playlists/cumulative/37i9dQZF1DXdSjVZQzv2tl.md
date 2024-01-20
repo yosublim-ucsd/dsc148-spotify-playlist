@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Ana Castela, Gustavo Mioto
+> O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan
 
 190 songs - 9 hr 1 min
 
@@ -197,6 +197,6 @@
 | [Voltou Com Quem Não Voltava \- Ao Vivo](https://open.spotify.com/track/0Q1oLvAI9QaD3DIlvluTqx) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/1LIa0K4VQnzCreRogfMP68) | 2:27 | 2023-06-02 |  |
 | [Zero Saudade \- Ao Vivo](https://open.spotify.com/track/1oIqP923yBKV45IaXm5s14) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Da Roça Pra Cidade \(Ao Vivo\), Vol\. 05](https://open.spotify.com/album/1WrwJGau8eVMIdryUdhBW4) | 3:04 | 2021-12-31 | 2022-07-02 |
 | [Água Nos Zói \- Ao Vivo](https://open.spotify.com/track/77rIMl1WIrLf4ZDKFYZ4ji) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Água Nos Zói \(Ao Vivo\)](https://open.spotify.com/album/055iSHIEhSre9fapRUBcRP) | 3:08 | 2021-12-31 | 2022-12-17 |
-| [Última Noite \- Ao Vivo](https://open.spotify.com/track/7EHlDvAa7gncwcAlfclZiX) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Última Noite \(Ao Vivo\)](https://open.spotify.com/album/0DPsEpVRLlu8yZ0hFRIxxw) | 2:28 | 2023-11-17 |  |
+| [Última Noite \- Ao Vivo](https://open.spotify.com/track/7EHlDvAa7gncwcAlfclZiX) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Última Noite \(Ao Vivo\)](https://open.spotify.com/album/0DPsEpVRLlu8yZ0hFRIxxw) | 2:28 | 2023-11-17 | 2024-01-20 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 64862,
+  "num_followers": 64872,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDlhNTEyYjQ5ZDBhYzg4ZGYyZGFjNWUyMDI5ZmU2ZWZiZDQyMGVm",
+  "snapshot_id": "MCwxMzJjYWE1YzNmNzUxZWRlN2M2ZTBkOTNkOGU5YWEzZjFjOWMzODli",
   "tracks": [
     {
       "added_at": "2024-01-18 15:00:00",
@@ -172,7 +172,7 @@
       "added_at": "2024-01-18 15:00:00",
       "album": {
         "name": "Call (Deep Blue)",
-        "url": "https://open.spotify.com/album/3AWEj1fDPVnV31N8yrNIJd"
+        "url": "https://open.spotify.com/album/1R7kG8kMXYNkxIOyW1h8Zv"
       },
       "artists": [
         {
@@ -182,7 +182,7 @@
       ],
       "duration_ms": 225600,
       "name": "Call (Deep Blue)",
-      "url": "https://open.spotify.com/track/72jCR0d2luLn3Toso0vimT"
+      "url": "https://open.spotify.com/track/5exTGAxhHvzjtUJphI9sJq"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt"
+      },
+      "artists": [
+        {
+          "name": "Yosi Horikawa",
+          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
+        }
+      ],
+      "duration_ms": 379561,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT"
+    },
+    {
+      "added_at": "2024-01-18 15:00:00",
+      "album": {
         "name": "Komachi",
         "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 264207,
       "name": "Ch\u014dchin",
       "url": "https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW"
-    },
-    {
-      "added_at": "2024-01-18 15:00:00",
-      "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 502364,
-      "name": "Monotony",
-      "url": "https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt"
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
       },
       "artists": [
         {
-          "name": "Yosi Horikawa",
-          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 379561,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT"
+      "duration_ms": 502364,
+      "name": "Monotony",
+      "url": "https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1"
     },
     {
       "added_at": "2024-01-18 15:00:00",

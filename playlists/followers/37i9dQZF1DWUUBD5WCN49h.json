@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 13823,
+  "2024-01-20": 13851,
   "date_first_scraped": "2022-10-01",
   "description": "New and emerging R&B, afropop and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP?si=xnTHW-tpR_ql_tcv1TnHjA\"> Darkua </a>",
   "name": "Sizzlers ",
@@ -703,7 +703,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 215978,
       "name": "All Your Blues",
       "url": "https://open.spotify.com/track/6Ge3IsYVNrekRzc9fiLtlb"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 156631,
       "name": "Bololo",
       "url": "https://open.spotify.com/track/3SMnqyuEfq6HImqbnyAjyG"
@@ -2616,6 +2616,24 @@
     },
     {
       "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/3H51Qj4Aty2rnlM7hHS0vY"
+      },
+      "artists": [
+        {
+          "name": "F3line",
+          "url": "https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191067,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/3YzUIlfLuv53ssSn8YCtyQ"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc"
       },
@@ -2685,6 +2703,24 @@
       "duration_ms": 165957,
       "name": "Different",
       "url": "https://open.spotify.com/track/3YcIAsz6xTKKB7SZQou8ir"
+    },
+    {
+      "album": {
+        "name": "DIIISAPPEAR",
+        "url": "https://open.spotify.com/album/4Ykqzp0X4dgI8iGpMUeQAl"
+      },
+      "artists": [
+        {
+          "name": "Joyce Olong",
+          "url": "https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196834,
+      "name": "DIIISAPPEAR",
+      "url": "https://open.spotify.com/track/5m6xEduQ35dXndkEnHcneo"
     },
     {
       "album": {
@@ -4629,7 +4665,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 157575,
       "name": "Half Of Me",
       "url": "https://open.spotify.com/track/5y7w8e8F3Ipwt9KnZeXKMZ"
@@ -5045,7 +5081,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 173617,
       "name": "Home",
       "url": "https://open.spotify.com/track/5XA5kCHbrnwNYGrcUXxHak"
@@ -6184,6 +6220,24 @@
     },
     {
       "album": {
+        "name": "Vince The Commander",
+        "url": "https://open.spotify.com/album/5dPhyI75FX8AdbhXnUnh7Q"
+      },
+      "artists": [
+        {
+          "name": "Vince The Commander",
+          "url": "https://open.spotify.com/artist/6fWvge6sJaf3dOpFE7CS2h"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Karolina",
+      "url": "https://open.spotify.com/track/1gX4U57UAjudCczLAdEIFy"
+    },
+    {
+      "album": {
         "name": "Kash and Karry",
         "url": "https://open.spotify.com/album/0tqImbmIBOdXGzPKBDbFo2"
       },
@@ -6507,6 +6561,24 @@
       "duration_ms": 171428,
       "name": "Leave it Behind",
       "url": "https://open.spotify.com/track/0AleScLkrP6aQcJPBBzPPK"
+    },
+    {
+      "album": {
+        "name": "Leave Me Now",
+        "url": "https://open.spotify.com/album/2mz2aVrry5imXM9ztzezfp"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168549,
+      "name": "Leave Me Now",
+      "url": "https://open.spotify.com/track/7qGQ2W9yhmJNxe7ZxNHfdQ"
     },
     {
       "album": {
@@ -7860,6 +7932,24 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/5AOkntTGdK2nMGvQjk8IM0"
+      },
+      "artists": [
+        {
+          "name": "Dumomi the Jig",
+          "url": "https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183196,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0FYmBLrrsrVzUHUIeof0Wu"
+    },
+    {
+      "album": {
         "name": "Morning Stress",
         "url": "https://open.spotify.com/album/35ymxF17RFfoEdQ4KqlBzc"
       },
@@ -7987,7 +8077,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 141156,
       "name": "My Bambi",
       "url": "https://open.spotify.com/track/792cBkz32tHAPkdDhp7WCG"
@@ -8765,7 +8855,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 216000,
       "name": "Omalicha",
       "url": "https://open.spotify.com/track/4aAOKiOzMLNAIBwhrG4To7"
@@ -9601,6 +9691,24 @@
       "duration_ms": 173374,
       "name": "Please",
       "url": "https://open.spotify.com/track/1Pqx8ch3QEQrJJendsvq7p"
+    },
+    {
+      "album": {
+        "name": "Please Listen",
+        "url": "https://open.spotify.com/album/4ncBSUQc2SyWS5JzVtryXR"
+      },
+      "artists": [
+        {
+          "name": "TELMAN",
+          "url": "https://open.spotify.com/artist/1yUoEAx9505meg1nEyulne"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209072,
+      "name": "Please Listen",
+      "url": "https://open.spotify.com/track/7lxvDIwt3kE2B6Zo3kDMP1"
     },
     {
       "album": {
@@ -12178,6 +12286,24 @@
     },
     {
       "album": {
+        "name": "This Year",
+        "url": "https://open.spotify.com/album/0GIiCmm5ieMntSsquohMHa"
+      },
+      "artists": [
+        {
+          "name": "PerryMetals",
+          "url": "https://open.spotify.com/artist/36a7QNBn0Hgd0fpsxw4hCE"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/0zEudL2JO8UPltzvnHKUxd"
+    },
+    {
+      "album": {
         "name": "Three Little Birds (Feat. Teni and Oxlade)",
         "url": "https://open.spotify.com/album/59NqVqclYsIboTQp0qCppU"
       },
@@ -12219,7 +12345,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 210000,
       "name": "Tighter",
       "url": "https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX"

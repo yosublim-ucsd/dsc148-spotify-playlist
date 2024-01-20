@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,786 likes - 76 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,851 likes - 76 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,28 +40,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 30 | [Be Kind](https://open.spotify.com/track/3rkesmzecZXrKZ7HA68OKZ) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 4:07 |
 | 31 | [Willing Suspension of Disbelief](https://open.spotify.com/track/07JOkxdkKHffHm1YLbUhFg) | [Selffish](https://open.spotify.com/artist/0YIcdQQ4Mmhl4l40ubHABn) | [He She Them Us](https://open.spotify.com/album/4oyS54Dgj9V4RfwaWQO5t5) | 8:07 |
 | 32 | [In and out of Days](https://open.spotify.com/track/0Rw6XHubnNlZ7joTug4ogA) | [Hidden Rivers](https://open.spotify.com/artist/3hnXe9Zah3sqkO0XzAzebp) | [Where Moss Grows](https://open.spotify.com/album/6o5cdOMQFtNjJD7TQAVb7j) | 5:24 |
-| 33 | [P.S.R.](https://open.spotify.com/track/1BUK2OhjoaxPi6n7CPq25q) | [Private Agenda](https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA) | [Ile De Reve](https://open.spotify.com/album/6amMyNzSzAfsBfMbe32bws) | 5:57 |
-| 34 | [Sylvan Smoke](https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS) | [Sean McCann](https://open.spotify.com/artist/7c6kXSGmiGhrr8l3CSY0Y2) | [Ten Impressions for Piano and Strings](https://open.spotify.com/album/7DOkAK4tvQ7qtKKlbAAEYK) | 2:36 |
-| 35 | [Song for her](https://open.spotify.com/track/0ezGSiP56OzbGTjLQPYqSg) | [Nacho Sotomayor](https://open.spotify.com/artist/4uRLIC5uQs3CzTq7jEcrzJ) | [Time out](https://open.spotify.com/album/0p60DWfZ8j58uv5XeSZaZn) | 4:48 |
-| 36 | [Outer Space \- Remastered Meditation Lounge Mix](https://open.spotify.com/track/64F9fI3h6rA2fBcvQI5HGu) | [Airstream](https://open.spotify.com/artist/64ujeKTqpc294czhOH2Dcq) | [Weightless & Smooth \- The Chill Adventure](https://open.spotify.com/album/5X173nYYGZSQzFw4YD6lZH) | 6:33 |
-| 37 | [Projection Phase 3](https://open.spotify.com/track/5D2Q2uDmAgXsILAZtq3UqF) | [Tamacto](https://open.spotify.com/artist/02EvIsE0XWi2HJmTXcK2QQ) | [Projection Phase](https://open.spotify.com/album/5bDTUrvpiVmkj1j1MjegBZ) | 4:03 |
-| 38 | [Seraphim \(Angel Mix\)](https://open.spotify.com/track/4TAL33N8l0k9Cvjnmqc1Qi) | [Digitonal](https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai) | [Be Still My Bleeping Heart](https://open.spotify.com/album/4zDPv4gYIRFhE1XUVUUO97) | 7:41 |
-| 39 | [Detropia Theme Pt\. 2 \- Original Mix](https://open.spotify.com/track/6gBoS2GWFPjv8ysRszX2Se) | [Blair French](https://open.spotify.com/artist/7IRQwSJSMH7eQkLAezNZKQ) | [Detropia](https://open.spotify.com/album/3EE4WBaI3wbzbLCsUKp4Sc) | 2:47 |
-| 40 | [Roads](https://open.spotify.com/track/28ihvvOj0MmaQWtmABWxQ4) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Feathers](https://open.spotify.com/album/1e5MB6FPsENgNnr2U0B4rE) | 5:15 |
-| 41 | [Renee Sleeping](https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 4:09 |
-| 42 | [Vardagsrummet](https://open.spotify.com/track/6YWvTxRk2dQw2uGCuBLiU1) | [Farbror Resande Mac](https://open.spotify.com/artist/3VMuEdAr2K5O45tO55VSQE) | [Farbror Resande Mac](https://open.spotify.com/album/3hz55vK51FnzXGYfrxAU0w) | 5:16 |
-| 43 | [radiance\_](https://open.spotify.com/track/3x7uXaVxr8f4APs8ztqtZR) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [radiance\_](https://open.spotify.com/album/3z6yDp5T1h1jM1wV9chpqy) | 2:45 |
-| 44 | [Na](https://open.spotify.com/track/0igayHoCeYUH4KuZubiq4u) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Moss](https://open.spotify.com/album/6Vco7xYNpXBhgHkANMHQXb) | 4:55 |
-| 45 | [Isostacy](https://open.spotify.com/track/6zwtd6jCS3T4ol5cjVnwNu) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Remembrance](https://open.spotify.com/album/2kyXBYYTBjF0vQIux6Vl3D) | 5:24 |
-| 46 | [Polyrhythmic Focus and Studying Part 1](https://open.spotify.com/track/6vzlTcJBemMHOK6rNlW99C) | [Greecho](https://open.spotify.com/artist/13x3oBzOHHvA23aEPvrLLx) | [Polyrhythmic Focus And Studying](https://open.spotify.com/album/3eVENAC5Fr5WphpkTIEQz0) | 3:56 |
+| 33 | [Sylvan Smoke](https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS) | [Sean McCann](https://open.spotify.com/artist/7c6kXSGmiGhrr8l3CSY0Y2) | [Ten Impressions for Piano and Strings](https://open.spotify.com/album/7DOkAK4tvQ7qtKKlbAAEYK) | 2:36 |
+| 34 | [Polyrhythmic Focus and Studying Part 1](https://open.spotify.com/track/6vzlTcJBemMHOK6rNlW99C) | [Greecho](https://open.spotify.com/artist/13x3oBzOHHvA23aEPvrLLx) | [Polyrhythmic Focus And Studying](https://open.spotify.com/album/3eVENAC5Fr5WphpkTIEQz0) | 3:56 |
+| 35 | [Outer Space \- Remastered Meditation Lounge Mix](https://open.spotify.com/track/64F9fI3h6rA2fBcvQI5HGu) | [Airstream](https://open.spotify.com/artist/64ujeKTqpc294czhOH2Dcq) | [Weightless & Smooth \- The Chill Adventure](https://open.spotify.com/album/5X173nYYGZSQzFw4YD6lZH) | 6:33 |
+| 36 | [Projection Phase 3](https://open.spotify.com/track/5D2Q2uDmAgXsILAZtq3UqF) | [Tamacto](https://open.spotify.com/artist/02EvIsE0XWi2HJmTXcK2QQ) | [Projection Phase](https://open.spotify.com/album/5bDTUrvpiVmkj1j1MjegBZ) | 4:03 |
+| 37 | [Detropia Theme Pt\. 2 \- Original Mix](https://open.spotify.com/track/6gBoS2GWFPjv8ysRszX2Se) | [Blair French](https://open.spotify.com/artist/7IRQwSJSMH7eQkLAezNZKQ) | [Detropia](https://open.spotify.com/album/3EE4WBaI3wbzbLCsUKp4Sc) | 2:47 |
+| 38 | [Roads](https://open.spotify.com/track/28ihvvOj0MmaQWtmABWxQ4) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Feathers](https://open.spotify.com/album/1e5MB6FPsENgNnr2U0B4rE) | 5:15 |
+| 39 | [Renee Sleeping](https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 4:09 |
+| 40 | [Vardagsrummet](https://open.spotify.com/track/6YWvTxRk2dQw2uGCuBLiU1) | [Farbror Resande Mac](https://open.spotify.com/artist/3VMuEdAr2K5O45tO55VSQE) | [Farbror Resande Mac](https://open.spotify.com/album/3hz55vK51FnzXGYfrxAU0w) | 5:16 |
+| 41 | [radiance\_](https://open.spotify.com/track/3x7uXaVxr8f4APs8ztqtZR) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [radiance\_](https://open.spotify.com/album/3z6yDp5T1h1jM1wV9chpqy) | 2:45 |
+| 42 | [P.S.R.](https://open.spotify.com/track/1BUK2OhjoaxPi6n7CPq25q) | [Private Agenda](https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA) | [Ile De Reve](https://open.spotify.com/album/6amMyNzSzAfsBfMbe32bws) | 5:57 |
+| 43 | [Na](https://open.spotify.com/track/0igayHoCeYUH4KuZubiq4u) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Moss](https://open.spotify.com/album/6Vco7xYNpXBhgHkANMHQXb) | 4:55 |
+| 44 | [Isostacy](https://open.spotify.com/track/6zwtd6jCS3T4ol5cjVnwNu) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Remembrance](https://open.spotify.com/album/2kyXBYYTBjF0vQIux6Vl3D) | 5:24 |
+| 45 | [Seraphim \(Angel Mix\)](https://open.spotify.com/track/4TAL33N8l0k9Cvjnmqc1Qi) | [Digitonal](https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai) | [Be Still My Bleeping Heart](https://open.spotify.com/album/4zDPv4gYIRFhE1XUVUUO97) | 7:41 |
+| 46 | [Song for her](https://open.spotify.com/track/0ezGSiP56OzbGTjLQPYqSg) | [Nacho Sotomayor](https://open.spotify.com/artist/4uRLIC5uQs3CzTq7jEcrzJ) | [Time out](https://open.spotify.com/album/0p60DWfZ8j58uv5XeSZaZn) | 4:48 |
 | 47 | [Waiting Room](https://open.spotify.com/track/3kuPtyMyUHU12IY37YpQyn) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Images](https://open.spotify.com/album/30nbMptCBZMuRjdfS0ACdL) | 3:27 |
 | 48 | [Beloved Exile](https://open.spotify.com/track/0fnZFOirxnGpo9UdaG8Ndj) | [Steve Moore](https://open.spotify.com/artist/7kcEevbRjcqtpjVgoYcq05) | [Beloved Exile](https://open.spotify.com/album/40TxdeBrR0OTGQD6etnhyJ) | 5:25 |
 | 49 | [As the Leaves Fall](https://open.spotify.com/track/6IL0hp5UGrDvL0S1B7UVM1) | [Selffish](https://open.spotify.com/artist/0YIcdQQ4Mmhl4l40ubHABn) | [He She Them Us](https://open.spotify.com/album/4oyS54Dgj9V4RfwaWQO5t5) | 5:28 |
-| 50 | [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 |
-| 51 | [Reverse Culture Music](https://open.spotify.com/track/31Wl8j2L7CUPXjyQ4QCFfK) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:09 |
-| 52 | [Mesa](https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mesa](https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30) | 4:48 |
-| 53 | [Hollow Streams](https://open.spotify.com/track/0QKVXdZz1DbluflLmv9Jld) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Journey To Neptune](https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf) | 3:56 |
-| 54 | [Rainbow Rituals](https://open.spotify.com/track/4th6rCEHEtmBiP3kFTsyTF) | [Constant Shapes](https://open.spotify.com/artist/4O81OJGfgxw7hD2lXowBNy) | [Rainbow Rituals](https://open.spotify.com/album/4hmdNKvi9gh5dJ9o6UpAuw) | 8:10 |
+| 50 | [Reverse Culture Music](https://open.spotify.com/track/31Wl8j2L7CUPXjyQ4QCFfK) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:09 |
+| 51 | [Mesa](https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mesa](https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30) | 4:48 |
+| 52 | [Hollow Streams](https://open.spotify.com/track/0QKVXdZz1DbluflLmv9Jld) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Journey To Neptune](https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf) | 3:56 |
+| 53 | [Rainbow Rituals](https://open.spotify.com/track/4th6rCEHEtmBiP3kFTsyTF) | [Constant Shapes](https://open.spotify.com/artist/4O81OJGfgxw7hD2lXowBNy) | [Rainbow Rituals](https://open.spotify.com/album/4hmdNKvi9gh5dJ9o6UpAuw) | 8:10 |
+| 54 | [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 |
 | 55 | [Finding Determination](https://open.spotify.com/track/1IZ8OjFT6GAVAQ1wQCEIlv) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Balearic Pulse](https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC) | 2:56 |
 | 56 | [Cumulus Revisited](https://open.spotify.com/track/2ez9u28AzhRDfvjg3PHaro) | [Jack Burton](https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ) | [Lake Monger](https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ) | 5:54 |
 | 57 | [September Sun Memory](https://open.spotify.com/track/1zFEzGl2UDVZQoIifW9U5q) | [Hidden Rivers](https://open.spotify.com/artist/3hnXe9Zah3sqkO0XzAzebp) | [Where Moss Grows](https://open.spotify.com/album/6o5cdOMQFtNjJD7TQAVb7j) | 4:39 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 75 | [Vicinities](https://open.spotify.com/track/0GbG6xZEk5vvGGkXyqaAHI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Where All Is Fled](https://open.spotify.com/album/0DSX1JfPpFz03OmBHJBRsG) | 5:01 |
 | 76 | [In Gleam](https://open.spotify.com/track/65n315tA59gt8sAUdG4Bcc) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [In Gleam](https://open.spotify.com/album/2IJI1sCPaJvqx9yInRORd0) | 5:31 |
 
-Snapshot ID: `MCxiZTMyYmU0OTc5ZTNiNmVkYzcxZWQzOWNhZDJiM2Y5YjVlY2MxNzFh`
+Snapshot ID: `MCwzNDAwOWY1ZmEwNzZjOGYwYTFiYWM0MWM1ZGUyYWVkOGYwOTE0MDZj`

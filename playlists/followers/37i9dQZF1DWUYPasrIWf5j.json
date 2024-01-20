@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 85959,
+  "2024-01-20": 86019,
   "date_first_scraped": "2022-06-02",
   "description": "Instrumental covers of favourites played on ukulele.",
   "name": "Instrumental Ukulele Covers",
@@ -921,6 +921,24 @@
       "duration_ms": 243529,
       "name": "Hey, Soul Sister",
       "url": "https://open.spotify.com/track/3kPyNj8KefD3VbaJtmqWVS"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5sEHRR6YCug5jMQADFI2BE"
+      },
+      "artists": [
+        {
+          "name": "Leon Leke",
+          "url": "https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260142,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4WgELWW9pq8cTJsTKryjpA"
     },
     {
       "album": {

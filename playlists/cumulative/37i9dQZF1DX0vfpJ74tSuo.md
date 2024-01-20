@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-219 songs - 13 hr 26 min
+220 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Mean Old 'Frisco Blues](https://open.spotify.com/track/1LqS5Vz8yCTejrVc1Qo7eP) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:35 | 2023-03-03 |  |
 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 | 2022-05-25 |  |
 | [Mean Ole Frisco](https://open.spotify.com/track/4RIBKdcr6jX0PLEDC7Tp5a) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:36 | 2023-01-20 | 2023-02-01 |
+| [Meet Me In The City](https://open.spotify.com/track/0wZjNvRyk3gSOfWhndf5Lw) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/2qDwiHJGbhNWSjBHdU4TEu) | 3:17 | 2023-09-15 |  |
 | [Meet Me In The City](https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:17 | 2023-01-20 | 2023-12-24 |
 | [Mississippi \- Acoustic](https://open.spotify.com/track/6K9sjEFkoH0bSiaAk8WrCY) | [Mitch Grainger](https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G) | [Mississippi](https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC) | 3:40 | 2023-08-04 |  |
 | [Mojo Hand](https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 2:59 | 2022-07-08 |  |
@@ -178,7 +179,7 @@
 | [Same Train](https://open.spotify.com/track/5zkfweSEqiARpZ4eIMnd4N) | [Sue Ray](https://open.spotify.com/artist/0X5AzsfEoqLOqtWczOKE3B) | [Same Train](https://open.spotify.com/album/4dntdgAScxEYy00uXNYQsY) | 3:52 | 2023-05-22 | 2023-12-18 |
 | [San Quentin Infirmary Blues \- Stripped Back](https://open.spotify.com/track/6A8JDsJSjQsrBwfXl2UTKk) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [All The Bad Things \(Stripped Back\)](https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4) | 3:12 | 2023-05-22 |  |
 | [See See Rider](https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Country Blues](https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2) | 3:14 | 2022-10-14 |  |
-| [Shake and Bake](https://open.spotify.com/track/5pcrKXHNn0Yd20cpI5dgha) | [Kerri Powers](https://open.spotify.com/artist/6OET1llczQiGh2bEvxMm5c) | [Shake and Bake](https://open.spotify.com/album/6BVD4ZapJOmzCND0XJfkOG) | 4:01 | 2023-09-15 |  |
+| [Shake and Bake](https://open.spotify.com/track/5pcrKXHNn0Yd20cpI5dgha) | [Kerri Powers](https://open.spotify.com/artist/6OET1llczQiGh2bEvxMm5c) | [Shake and Bake](https://open.spotify.com/album/6BVD4ZapJOmzCND0XJfkOG) | 4:01 | 2023-09-15 | 2024-01-20 |
 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 | 2022-05-25 |  |
 | [Shake It Up \- Acoustic](https://open.spotify.com/track/01lLPrIDxsRdPpx0jpkS4S) | [Mitch Grainger](https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G) | [Shake It Up](https://open.spotify.com/album/2uda262NCN5VZeMQVjtaox) | 4:01 | 2023-06-09 |  |
 | [She's Long, She's Tall, She Weeps Like A Willow Tree](https://open.spotify.com/track/22DUP4yldr66HQPT3n0utz) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 2:47 | 2023-08-18 |  |

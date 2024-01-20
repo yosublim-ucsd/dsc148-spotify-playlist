@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-571 songs - 1 day 11 hr 48 min
+573 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2021-08-25 |  |
 | [Prickles and Goo](https://open.spotify.com/track/3anEkpGQT5hDxtPwtX4itO) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Prickles and Goo / Singing Swan](https://open.spotify.com/album/02HQv9kLC7kNf5jtcVP7mc) | 6:06 | 2022-02-10 | 2023-02-04 |
 | [Profoundness \- Bucher Remix](https://open.spotify.com/track/3sJ0WY1MWjwfwrE2Gnrwpz) | [Big Al](https://open.spotify.com/artist/7JslHxRm7ssgevJMtYUfCL) | [Profoundness](https://open.spotify.com/album/1Pu3NLkcpKFbhsn9893RLq) | 8:45 | 2020-11-21 | 2020-11-28 |
+| [Propellers On](https://open.spotify.com/track/6KtJEgSP4XPtxUsSbDCCx8) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Propellers On](https://open.spotify.com/album/3hG9LbCQja8rDuC68SjTgT) | 2:51 | 2024-01-19 |  |
 | [Protonic](https://open.spotify.com/track/2w7MRtsGaGCjR1ZmcbPD6c) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [ReFeel](https://open.spotify.com/album/3sldh7YxXui82hBwlop5NV) | 3:51 | 2021-01-29 | 2021-03-25 |
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2021-06-04 | 2021-10-16 |
 | [Pure North](https://open.spotify.com/track/1OupslOCajr6YwYMc6bYUK) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Pure North](https://open.spotify.com/album/2ZUa1CwxIYGUlTUzpHCKe3) | 4:12 | 2021-02-24 | 2022-05-20 |
@@ -400,6 +401,7 @@
 | [Reflections](https://open.spotify.com/track/4TbcZUOwyywPPC1gbpnLqW) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Sunday Morning Dub](https://open.spotify.com/album/0QD0AJntZBIYlwSwpLNNmd) | 5:56 | 2021-08-25 | 2022-07-29 |
 | [Reflections](https://open.spotify.com/track/5xo6KEG3prSLiz4ttr7HEp) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Reflections](https://open.spotify.com/album/5DBhmrndmyze54wIrskTFX) | 2:37 | 2023-02-24 |  |
 | [Regalade](https://open.spotify.com/track/4PpjapmWSSSrRN79N8DHEL) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [Regalade EP](https://open.spotify.com/album/6WL07WzqVF0PyMlZVkYdV6) | 5:09 | 2021-01-29 | 2021-02-20 |
+| [Relinquish](https://open.spotify.com/track/6zb7b21yPSuZlUXkMP8gyy) | [Daryl Dane](https://open.spotify.com/artist/2lJXvLJvKX2n2TSgLoIsl3) | [Relinquish](https://open.spotify.com/album/3oF2fUFYl6QQCGif3ttzT1) | 2:58 | 2024-01-19 |  |
 | [Rest](https://open.spotify.com/track/4EbfTd8HFoAOF6fiSRVsvT) | [Yim](https://open.spotify.com/artist/79EyYkNpcR3MlT972PZoUc) | [Rest](https://open.spotify.com/album/5Y2NdAYpCSwQdFl0Es9ne2) | 4:03 | 2020-10-20\* | 2021-02-20 |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2020-10-20\* | 2022-05-20 |
 | [Retrocation](https://open.spotify.com/track/4nIsTgi29Dq5Ezf0zozalF) | [ELRY](https://open.spotify.com/artist/5LLikEV14ip9GPnrmbUQMU) | [Retrocation](https://open.spotify.com/album/3ke0nq3r9CGpGVVZAAeEik) | 2:21 | 2023-09-08 |  |

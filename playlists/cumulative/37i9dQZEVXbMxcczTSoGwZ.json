@@ -15253,6 +15253,24 @@
     },
     {
       "album": {
+        "name": "Kuori mua",
+        "url": "https://open.spotify.com/album/64FEvZvuyPxg3y4tzcMi7e"
+      },
+      "artists": [
+        {
+          "name": "Sini Sabotage",
+          "url": "https://open.spotify.com/artist/6zOyQHK37vQX62CFowxvWc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175680,
+      "name": "Kuori mua",
+      "url": "https://open.spotify.com/track/4PHX33QcAtlyaPSvOJsV22"
+    },
+    {
+      "album": {
         "name": "Kutsumusammatti",
         "url": "https://open.spotify.com/album/0SCIBfq6TYpVUdHXiaWrpo"
       },
@@ -18628,7 +18646,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 174283,
       "name": "Meit ei oo",
       "url": "https://open.spotify.com/track/6gC4zm1oONWkl0zvo4Cwg6"

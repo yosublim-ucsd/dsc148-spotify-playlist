@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Robot95 y Lucho SSJ en portada.
 
-224 songs - 10 hr 30 min
+225 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,11 +94,12 @@
 | [Flight 0006](https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0006](https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb) | 3:17 | 2023-06-09 | 2023-07-01 |
 | [Flight 0009](https://open.spotify.com/track/0T60QrLjC67kLuSqUIwllu) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Flight 0009](https://open.spotify.com/album/25Hj5JbCzBpUWqPJwOUQ2S) | 2:46 | 2023-06-30 |  |
 | [Flight 0012](https://open.spotify.com/track/1BSCXxXQNrneoZmlUwkcmb) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [Flight 0012](https://open.spotify.com/album/6NxCjpdKyFvlx62W04vpEI) | 2:15 | 2023-12-01 |  |
+| [Flight 0013](https://open.spotify.com/track/0sXAKR4jUDxcLGHonBMWgf) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [Flight 0013](https://open.spotify.com/album/6qyzUHavb4QGwPRLRSP1GC) | 2:45 | 2024-01-19 |  |
 | [Flow Fulete](https://open.spotify.com/track/74JS86SneC5fM9CM1tFvH1) | [Mermelada Squad](https://open.spotify.com/artist/6l0VmJhv22e99qPCGdZDdZ), [Mikebøi](https://open.spotify.com/artist/0lVNQEG85cu3cc6J3hAE3c) | [Flow Fulete](https://open.spotify.com/album/7oWzSXhy7ztkeoPNCpYoDt) | 2:55 | 2023-06-09 | 2023-07-15 |
 | [Flow Mexicano](https://open.spotify.com/track/3CBylMtRArk0HA9QgqYZUM) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Flow Mexicano](https://open.spotify.com/album/06FCKaCaLtn8n53sLGBQxn) | 1:39 | 2023-06-09 |  |
 | [fornai](https://open.spotify.com/track/3I2uEeXlZX00Z8TrwYeRo4) | [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8), [Jaicy Lokote](https://open.spotify.com/artist/0Hk6wEj5wSBQW4f3oL0sG7) | [fornai](https://open.spotify.com/album/6lFiKbfFdxpxTtzAc7yz6B) | 2:48 | 2023-06-09 | 2023-09-16 |
 | [Fresky](https://open.spotify.com/track/5mBPds2hBTp0SYdOMD9NWy) | [Marianella](https://open.spotify.com/artist/0MepsQ94RvniPlT2ECXzNQ) | [Fresky](https://open.spotify.com/album/5uXRthUtUtXREYCVixVllG) | 2:47 | 2023-06-09 | 2023-07-01 |
-| [FTH](https://open.spotify.com/track/0NvszFskYzYlVxcNXi76cU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [FTH](https://open.spotify.com/album/4LqTOl2yJcoOV8p8J63UMW) | 2:34 | 2023-07-07 |  |
+| [FTH](https://open.spotify.com/track/0NvszFskYzYlVxcNXi76cU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [FTH](https://open.spotify.com/album/4LqTOl2yJcoOV8p8J63UMW) | 2:34 | 2023-07-07 | 2024-01-20 |
 | [fuck tu pedo](https://open.spotify.com/track/53xjmweWDgA0BQFyQ1zM4C) | [Doble Tempo](https://open.spotify.com/artist/05GGSu0a1Qs7pmiETMQXf0) | [fuck tu pedo](https://open.spotify.com/album/75t4mg0uUtQtmiuzA6kHJs) | 1:39 | 2023-10-06 |  |
 | [Fuego](https://open.spotify.com/track/4zIzfjDhrofMlzAp5jZhAe) | [Krusha G](https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw), [Ghetto Living](https://open.spotify.com/artist/0UpALfYoIQmSdTuRkI2HJR) | [Fuego](https://open.spotify.com/album/6QmW3NuFardKnO515PyyJl) | 2:51 | 2023-06-09 | 2023-07-01 |
 | [Funa Sesh vol.2](https://open.spotify.com/track/1g9dkgkBWHgIPQ6a7clswW) | [Red Lean](https://open.spotify.com/artist/3co8tdKJWZd4LYKaMA7iOB), [BCastle](https://open.spotify.com/artist/285zH6hC6vUv0D6pZWhsme), [Jxsu](https://open.spotify.com/artist/2aLOzgWOWTgnzV5lgIuWyE), [Zackly](https://open.spotify.com/artist/7hf5H27Nsx2qdjgXmy9QXr) | [Funa Sesh vol.2](https://open.spotify.com/album/1fkAQ8o4yMKp3Qo0o3vwJm) | 2:18 | 2023-06-09 | 2024-01-04 |

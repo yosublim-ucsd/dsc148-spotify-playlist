@@ -2,7 +2,7 @@
 
 ### [Indie Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWZIQpJDqCc10)
 
-> A selection of the greatest indie love songs of all time.
+> The greatest indie love songs of all time.
 
 255 songs - 15 hr 49 min
 

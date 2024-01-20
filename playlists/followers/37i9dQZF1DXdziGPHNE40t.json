@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 285300,
+  "2024-01-20": 285400,
   "date_first_scraped": "2022-05-20",
   "description": "Start your day right and wake up with some calm and cool Jazz.",
   "name": "Jazzy Morning",
@@ -619,7 +619,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 227028,
       "name": "As Though The Sun",
       "url": "https://open.spotify.com/track/2AxW80QuVqJ0GXygmupaM2"
@@ -793,6 +793,24 @@
       "duration_ms": 198826,
       "name": "Autumn Promises",
       "url": "https://open.spotify.com/track/5kVaJiItTvUFR9jy5lgNQo"
+    },
+    {
+      "album": {
+        "name": "Back In The Old Days",
+        "url": "https://open.spotify.com/album/6sHndHlBbXGYfk0IvpOISG"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodman",
+          "url": "https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238375,
+      "name": "Back In The Old Day",
+      "url": "https://open.spotify.com/track/31TMJjEQTdY6yoHEGTLdLw"
     },
     {
       "album": {
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 275159,
       "name": "Comeuppance",
       "url": "https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8"
@@ -3097,7 +3115,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 189458,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/6iYC9yDJSp6JGzpJJT9hGD"
@@ -5102,6 +5120,24 @@
     },
     {
       "album": {
+        "name": "November Fall",
+        "url": "https://open.spotify.com/album/0W0UhyUlgkAeNLe0qrM3JE"
+      },
+      "artists": [
+        {
+          "name": "Farmer Street Quartet",
+          "url": "https://open.spotify.com/artist/7rF2UMGa1Egx35lgjungrD"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238562,
+      "name": "November Fall",
+      "url": "https://open.spotify.com/track/7d4J1q9NYRlHcIZyeOC9Ad"
+    },
+    {
+      "album": {
         "name": "Nowhere To Go",
         "url": "https://open.spotify.com/album/65hkYKJukpRB7kvDFbewtr"
       },
@@ -6395,6 +6431,24 @@
       "duration_ms": 205578,
       "name": "Sooner or Later",
       "url": "https://open.spotify.com/track/0ajS6qLPmNV7QEF0Dp6m1z"
+    },
+    {
+      "album": {
+        "name": "Soulful Serenade",
+        "url": "https://open.spotify.com/album/3L9yVSvfZjMNBhnKp0L35S"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hide Trio",
+          "url": "https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230232,
+      "name": "Soulful Serenade",
+      "url": "https://open.spotify.com/track/01h2N3MrwVDnvKHJV1eHiA"
     },
     {
       "album": {

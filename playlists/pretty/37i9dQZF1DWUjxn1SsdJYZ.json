@@ -1,12 +1,12 @@
 {
   "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: 808Riot",
-  "num_followers": 139241,
+  "num_followers": 139242,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2Q2MjE3NmZlMDI3MTU0Y2UyODczNjVjZmJhNTE0YzBkN2ZkZjI5",
+  "snapshot_id": "MCw1NzI0M2I0NGZmYzk3NWYyMmVlYzdhOWEwOGZmZmY2OWQ5YmZiMDIz",
   "tracks": [
     {
       "added_at": "2024-01-19 01:13:42",
@@ -355,6 +355,30 @@
       "duration_ms": 146086,
       "name": "Un Besito",
       "url": "https://open.spotify.com/track/3YpmW8NtS7jZvOc4eJR914"
+    },
+    {
+      "added_at": "2024-01-19 01:13:42",
+      "album": {
+        "name": "MULTIMILLIONAIRE (w/ Trippie Redd & Odetari)",
+        "url": "https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 121536,
+      "name": "MULTIMILLIONAIRE (w/ Trippie Redd & Odetari)",
+      "url": "https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI"
     },
     {
       "added_at": "2024-01-19 01:13:42",

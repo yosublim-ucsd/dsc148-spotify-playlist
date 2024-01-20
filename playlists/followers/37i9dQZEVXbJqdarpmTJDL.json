@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 101007,
+  "2024-01-20": 101065,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -933,7 +933,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 180645,
       "name": "AGAPI - Remix",
       "url": "https://open.spotify.com/track/7pQJFF9uu0GpVbHoDtW3sl"
@@ -5191,7 +5191,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 167791,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/2EGhWibslAqHYryIQUXVPj"
@@ -8799,7 +8799,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 189250,
       "name": "Familia",
       "url": "https://open.spotify.com/track/3GjB6lr07lnOWVXnRLlRrZ"
@@ -20959,7 +20959,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 155714,
       "name": "PAPAGOU",
       "url": "https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT"

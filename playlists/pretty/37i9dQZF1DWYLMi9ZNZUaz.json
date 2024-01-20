@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
-  "num_followers": 86688,
+  "num_followers": 86772,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTE1OGRlMzgwNDRkYTBiMTU4ODI3MDc1NzQ4ZjgxMGRhZGY5N2Ew",
+  "snapshot_id": "MCw0YWRlYjM2MDA2MDg4OTMwYjdjMDg0NzhjNmFlOGI2MGYyM2ZlNWJm",
   "tracks": [
     {
       "added_at": "2024-01-11 20:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-01-11 20:00:00",
       "album": {
+        "name": "N\u00f3i D\u1ed1i",
+        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 206139,
+      "name": "N\u00f3i D\u1ed1i",
+      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
+    },
+    {
+      "added_at": "2024-01-11 20:00:00",
+      "album": {
         "name": "Thanh Xu\u00e2n",
         "url": "https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 169514,
       "name": "M\u1eaft Xanh",
       "url": "https://open.spotify.com/track/3rigEvSPZYJI3rAt9gVdXy"
-    },
-    {
-      "added_at": "2024-01-11 20:00:00",
-      "album": {
-        "name": "N\u00f3i D\u1ed1i",
-        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 206139,
-      "name": "N\u00f3i D\u1ed1i",
-      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
     },
     {
       "added_at": "2024-01-11 20:00:00",

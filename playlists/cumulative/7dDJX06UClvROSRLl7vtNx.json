@@ -2067,6 +2067,32 @@
     },
     {
       "album": {
+        "name": "Kiss Me Girl",
+        "url": "https://open.spotify.com/album/46opZlguyLrMQkXVW5GXec"
+      },
+      "artists": [
+        {
+          "name": "Starzun",
+          "url": "https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4"
+        },
+        {
+          "name": "Vitaly Gray",
+          "url": "https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8"
+        },
+        {
+          "name": "Riesling",
+          "url": "https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Kiss Me Girl",
+      "url": "https://open.spotify.com/track/3e8NAo1OMHxu7XxgjRBUDD"
+    },
+    {
+      "album": {
         "name": "Le Le Let Go",
         "url": "https://open.spotify.com/album/0O5E4jG3DUzCOMXBoI8iqu"
       },

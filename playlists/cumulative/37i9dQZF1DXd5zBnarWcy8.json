@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "NOLA",
+        "url": "https://open.spotify.com/album/4VcchPEqGkgbwQh6ir8NQt"
+      },
+      "artists": [
+        {
+          "name": "Judd Harris",
+          "url": "https://open.spotify.com/artist/2XBkRqo3V53w4jUCxylDPs"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191703,
+      "name": "NOLA",
+      "url": "https://open.spotify.com/track/79tfhThMYe7QrTxkw7DgMG"
+    },
+    {
+      "album": {
         "name": "Thursday Night House Party",
         "url": "https://open.spotify.com/album/5C3eJE2crvLBAkFHdj9hwZ"
       },

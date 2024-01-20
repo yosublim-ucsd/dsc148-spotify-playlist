@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,192 songs - 6 day 3 hr 39 min
+2,193 songs - 6 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1029,7 +1029,7 @@
 | [Jesus Christo](https://open.spotify.com/track/3fP2KANlk8mrnmOQndsuD6) | [Claudia Balla](https://open.spotify.com/artist/0hIaHgOH6dRoGBdogOaDYd) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 3:26 | 2023-06-20 |  |
 | [Jibaro \(Enrolle\)](https://open.spotify.com/track/0YmqB2R6XaW03CLRR2JTmX) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Angeles y Demonios](https://open.spotify.com/album/2qWvYfj7liJ9aq2FBQLE03) | 7:30 | 2022-06-09 | 2022-07-29 |
 | [Jibaro \(Enrolle\)](https://open.spotify.com/track/39qNshURj4X8qghle1JSXq) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Angeles y demonios](https://open.spotify.com/album/2w7OWXr7uD2QPYZM2qYEso) | 7:30 | 2022-07-27 |  |
-| [Jimmy, Renda\-Se](https://open.spotify.com/track/4tTZq61IKisspn9NhoJtYn) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Jimmy, Renda\-Se/ Irene \- EP](https://open.spotify.com/album/0hEDr5IFbF4mZBHffTZl61) | 3:37 | 2022-07-12 |  |
+| [Jimmy, Renda\-Se](https://open.spotify.com/track/4tTZq61IKisspn9NhoJtYn) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Jimmy, Renda\-Se/ Irene](https://open.spotify.com/album/0hEDr5IFbF4mZBHffTZl61) | 3:37 | 2022-07-12 |  |
 | [Jocotoco Antpitta](https://open.spotify.com/track/0hh8kMA8Zk4UeUcRXQcQ9f) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3) | 3:16 | 2023-03-17 |  |
 | [Jocotoco Antpitta](https://open.spotify.com/track/6AsbJxxvWKRrdyuxVUajtT) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp) | 3:16 | 2022-06-09 | 2022-07-29 |
 | [Jocotoco Antpitta](https://open.spotify.com/track/6nXAvWDcuxtcsXHVok8pYS) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/0UpyDktUP6IVo9YuDvh0dB) | 3:16 | 2022-07-27 | 2023-05-01 |
@@ -1354,7 +1354,8 @@
 | [Matinfa](https://open.spotify.com/track/6T2JzzRrvryuNcUiLCb32s) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [The Sahara Sessions](https://open.spotify.com/album/4pmsnCSw9i2y3MP24QZaid) | 5:54 | 2022-07-27 | 2023-04-29 |
 | [Maya](https://open.spotify.com/track/31mTOY0qbBHMZFzo0DuE0R) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/6IbSMUM51EtNdEmXZ0BHPJ) | 2:36 | 2022-07-12 | 2022-11-21 |
 | [Maya](https://open.spotify.com/track/7JTuEIBZuE356hMGiF8Yy9) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F) | 2:36 | 2022-10-31 |  |
-| [Mayolye \- Original Single Version](https://open.spotify.com/track/1WpPnQE7d2UUrs2AmFurP3) | [Ondeno](https://open.spotify.com/artist/3eWR8PiHtRFRTbvusT3aHm) | [Mayolye](https://open.spotify.com/album/3ibxlikE2FxhfuFxfkirGv) | 3:49 | 2023-05-17 |  |
+| [Mayolye](https://open.spotify.com/track/4zidg9fSeSaxdQiZf3CgZD) | [Ondeno Rebieno](https://open.spotify.com/artist/0FnqaKAdt9LA61ae87lRzJ) | [Mayolye](https://open.spotify.com/album/7rL23wRfnsDCyPa1obi4Re) | 3:52 | 2023-11-29 |  |
+| [Mayolye \- Original Single Version](https://open.spotify.com/track/1WpPnQE7d2UUrs2AmFurP3) | [Ondeno](https://open.spotify.com/artist/3eWR8PiHtRFRTbvusT3aHm) | [Mayolye](https://open.spotify.com/album/3ibxlikE2FxhfuFxfkirGv) | 3:49 | 2023-05-17 | 2024-01-20 |
 | [Me Deixa Em Paz](https://open.spotify.com/track/5IZxCLfL7JqLojRSHtZ0Ii) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis](https://open.spotify.com/album/3NOxICud3CE6svBnR9WqC7) | 2:09 | 2022-06-09 |  |
 | [Me Quedo Con El Viejo](https://open.spotify.com/track/7BkQt1LjE0LoFEGGfGETXp) | [Crescencio Salcedo](https://open.spotify.com/artist/0QWM6W6tVDl7efEFrzhj2M) | [La Edad De Oro De La Cumbia Colombiana](https://open.spotify.com/album/0azeVssPPbqdN4QjZSQBLS) | 2:41 | 2022-07-27 |  |
 | [Me Quedo Con el Viejo](https://open.spotify.com/track/1ummXVjfgvUOB4AkO4VMFK) | [Cresencio Salcedo](https://open.spotify.com/artist/0bkwHkfaN2BkyKoVcAJNKc) | [Soundway Presents: The Original Sound of Cumbia \(The History of Colombian Cumbia & Porro As Told By The Phonograph 1948\-79 Compiled by Quantic\)](https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO) | 2:41 | 2022-06-09 | 2022-07-29 |

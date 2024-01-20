@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world.Cover: <a href="https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=ms0XCo5OQJOv5d21BFq0WA">Major League Djz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,683 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,824 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Margaret](https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Margaret](https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h) | 5:31 |
-| 2 | [STING RAY](https://open.spotify.com/track/4kqo0IFFJgf2pvvKQG5FUD) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [PRVIS3](https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz), [Triple X Da Ghost](https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO), [Durban's Finest](https://open.spotify.com/artist/2ONZ3CSpBz9OPNUFEIFpEJ), [Effected](https://open.spotify.com/artist/4KsJvA119zereHG73B9sC7) | [STING RAY](https://open.spotify.com/album/0OLDlqoZfuoAZak5aZpKKs) | 6:22 |
+| 2 | [STINGRAY](https://open.spotify.com/track/4kqo0IFFJgf2pvvKQG5FUD) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [PRVIS3](https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz), [Triple X Da Ghost](https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO), [Durban's Finest](https://open.spotify.com/artist/2ONZ3CSpBz9OPNUFEIFpEJ), [Effected](https://open.spotify.com/artist/4KsJvA119zereHG73B9sC7) | [STINGRAY](https://open.spotify.com/album/0OLDlqoZfuoAZak5aZpKKs) | 6:22 |
 | 3 | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s) | 2:49 |
 | 4 | [Ibhiya](https://open.spotify.com/track/2hIDtINP9n0JUWer5ecBu4) | [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i) | [Ibhiya](https://open.spotify.com/album/009ivLCzhvRMQ1pjJLmTnA) | 6:44 |
 | 5 | [The Art Of Letting Go](https://open.spotify.com/track/0u0zYnOEX9pZjASBBg9kne) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT), [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [The Art Of Letting Go](https://open.spotify.com/album/6U1qBWVsKKmUXnX69Ji96X) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 49 | [Travelers](https://open.spotify.com/track/6wxarX9bnQDgWdaiPhuot7) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Travelers](https://open.spotify.com/album/2CsxtFbCzVIYDxeBqHLnaO) | 2:39 |
 | 50 | [Do it Lekka \- 2023 Remastered Version](https://open.spotify.com/track/1KlOoA2nNqfL08WhhPW5xf) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg), [DAMZA](https://open.spotify.com/artist/1Q3PoGaqJSR4jUby2Fgba6) | [Do it Lekka \(2023 Remastered Version\)](https://open.spotify.com/album/2nHLLZ8ep3YtyQApxHJ5AE) | 7:04 |
 
-Snapshot ID: `MCw0NTAxODg1ZGUxMGZlYjVhNThkZTliYTBlMDg1MjY0YjUwY2RlZGQy`
+Snapshot ID: `MCw5MDAyYmU2YTM0Y2Q1ZTExMWNiZjg4MTQ3YWRiZDRmYmE4NzdkZGM5`

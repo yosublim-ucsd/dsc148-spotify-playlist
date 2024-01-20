@@ -4,7 +4,7 @@
 
 > 
 
-58 songs - 3 hr 7 min
+60 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,10 @@
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/3bGeTBjYR43zrvBxwJCpZe) | [Mazdem](https://open.spotify.com/artist/5HuVtqpuZlBSeQs0NLMehi) | [La Vida Es Un Carnaval](https://open.spotify.com/album/5pBvHemQkDht34YQsrUFFQ) | 3:02 | 2023-12-14 |  |
 | [Lake Lorenzo](https://open.spotify.com/track/2GeYOgUbbCvyeVEuovhpRm) | [Fuzz Worth](https://open.spotify.com/artist/5tkYOJa2DXCCLTnQMfq8tG) | [Lake Lorenzo](https://open.spotify.com/album/5S3zS6x4F0afskN0s6EJWX) | 6:05 | 2024-01-12 |  |
 | [Let's Go Back](https://open.spotify.com/track/1yHag3OVtFuMct3iMtfjFU) | [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [Let's Go Back](https://open.spotify.com/album/79Iuceh07RsGImhQTcG1R9) | 3:31 | 2023-12-15 |  |
+| [Like WTF](https://open.spotify.com/track/1VsntaYUROfIQfeMDFEfXJ) | [TEGI](https://open.spotify.com/artist/2BQTft757MTqCcQ2yegPfn) | [Madonna / Like WTF](https://open.spotify.com/album/5ANwvMu3qBU62Wq3OZHjON) | 3:02 | 2024-01-19 |  |
 | [Looking For Love \- salute remix](https://open.spotify.com/track/3pbaa7YbnJLNif8TOONI9t) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Looking For Love \(salute remix\)](https://open.spotify.com/album/550Hl0NNiWdFJcIqaMGWuT) | 4:59 | 2023-12-18 | 2024-01-16 |
 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 | 2023-12-14 |  |
+| [Madonna](https://open.spotify.com/track/4oe5xGMkivOeMIINR4kIOb) | [TEGI](https://open.spotify.com/artist/2BQTft757MTqCcQ2yegPfn) | [Madonna / Like WTF](https://open.spotify.com/album/5ANwvMu3qBU62Wq3OZHjON) | 2:47 | 2024-01-19 |  |
 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 | 2023-12-14 | 2024-01-16 |
 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 | 2023-12-22 |  |
 | [My House](https://open.spotify.com/track/0oEKYdiP3gmLqm21gOhaDD) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Rave Rae](https://open.spotify.com/artist/72I24QKKHBlfjLwDH359MG) | [My House](https://open.spotify.com/album/52moeSswi9l8mbonOt3vJR) | 3:01 | 2023-12-18 | 2024-01-16 |

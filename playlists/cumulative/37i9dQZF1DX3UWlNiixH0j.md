@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Cody・Lee\(李\)
 
-1,239 songs - 3 day 5 hr 6 min
+1,240 songs - 3 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,8 @@
 | [Heart Out](https://open.spotify.com/track/5v4rT0n41XtkhHSaP5wSzl) | [Charlotte is Mine](https://open.spotify.com/artist/4qjYirCZfhEHkaixuexPTV) | [Heart Out](https://open.spotify.com/album/4Hy9cLV06yCCttpjFtClv8) | 2:44 | 2023-01-12 | 2023-01-25 |
 | [Heaven](https://open.spotify.com/track/7iA5JECof3LNeKOJjJjV3j) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [GuruConnect](https://open.spotify.com/artist/5RDnewAvgHZQ5gCf1h74kF) | [Heaven](https://open.spotify.com/album/4Or4MgaVHzMxr8Q6jMRko0) | 3:27 | 2023-01-12 | 2023-03-18 |
 | [Height](https://open.spotify.com/track/6EygYVTCRzcPk1djzLQoqT) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [Height](https://open.spotify.com/album/49JJC4xVS7urfzqvxtLgXX) | 3:27 | 2023-03-28 | 2023-04-05 |
-| [Hello Goodbye](https://open.spotify.com/track/4ZlxrxzTA8yw2tO8AkT6gr) | [Superyou](https://open.spotify.com/artist/1jXQ438KxFz6ShKWTkXoMh) | [Hello Goodbye](https://open.spotify.com/album/7D3phVXDzH9Vj85uue6txn) | 3:54 | 2023-12-07 |  |
+| [Hello Goodbye](https://open.spotify.com/track/0XMXbfxWikGd4IOQkhdFDy) | [Superyou](https://open.spotify.com/artist/1jXQ438KxFz6ShKWTkXoMh) | [TODAY](https://open.spotify.com/album/4OjauFn72q2vq40YbQJmoA) | 3:54 | 2024-01-18 |  |
+| [Hello Goodbye](https://open.spotify.com/track/4ZlxrxzTA8yw2tO8AkT6gr) | [Superyou](https://open.spotify.com/artist/1jXQ438KxFz6ShKWTkXoMh) | [Hello Goodbye](https://open.spotify.com/album/7D3phVXDzH9Vj85uue6txn) | 3:54 | 2023-12-07 | 2024-01-20 |
 | [HENSHIИ](https://open.spotify.com/track/1wCAizrOQ9SaVgQpPEpQvN) | [Mlle.](https://open.spotify.com/artist/5vZykXr0Y9ms4Rz4hFE7ZW) | [HENSHIИ](https://open.spotify.com/album/7CoWMZ2wbjxtHhm87yDjV4) | 3:32 | 2023-01-17 | 2023-01-25 |
 | [Here I Stand](https://open.spotify.com/track/1xmcCam3mEi2Tmajwkdt6X) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/1RY9bS3e6w4akVpgedsXNH) | 6:50 | 2023-02-21 | 2023-03-08 |
 | [hey dad you sent me postcards](https://open.spotify.com/track/5ffw9FBlKKv6wqvKkV6SoR) | [Wang\-Wang\(旺旺\)](https://open.spotify.com/artist/3P5cZnDKVRP2tcYJ7GHDuD) | [Arrow](https://open.spotify.com/album/0Rv1EUFlf1xPlejjgOnYod) | 4:27 | 2023-01-12 | 2023-02-08 |
@@ -367,7 +368,7 @@
 | [Kakitai](https://open.spotify.com/track/2zKDI5j1TARoklb76FJ2CW) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Sweet.ep](https://open.spotify.com/album/2D2D5bX44DRCqC9ON4hGJF) | 3:44 | 2023-04-11 | 2023-05-31 |
 | [Kaleidoscope](https://open.spotify.com/track/4Dmz6KqXiNdYYv8tcTyNdU) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Kaleidoscope](https://open.spotify.com/album/4oBjaVl3xzRyVXxiB3T8Yz) | 3:28 | 2023-12-19 | 2024-01-12 |
 | [Kanade](https://open.spotify.com/track/35xsiA7qQnz1QMlmeTcpgH) | [Ryusuke Tanaki and the Library](https://open.spotify.com/artist/7jeaceEhKeLLp0zC2qPVzM) | [Kanade](https://open.spotify.com/album/7kDlMYo3ahLOAh7s5twUa7) | 4:33 | 2024-01-16 |  |
-| [kani](https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [kani](https://open.spotify.com/album/45Y1Qc7rbtc6dYevjRTg28) | 1:49 | 2023-12-19 |  |
+| [kani](https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [kani](https://open.spotify.com/album/45Y1Qc7rbtc6dYevjRTg28) | 1:49 | 2023-12-19 | 2024-01-20 |
 | [Kayoesque](https://open.spotify.com/track/3t5SYliIbQN92fQsIAeec7) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Kayoesque](https://open.spotify.com/album/4S6T3yQD7L4j88AJgkneKX) | 3:23 | 2023-11-30 | 2023-12-06 |
 | [Keepin Quiet](https://open.spotify.com/track/0PXNKHwNOhWNUMr57BLcP5) | [LilyClone](https://open.spotify.com/artist/7b9iPPDSz0VFOHu3xmbDDE) | [Keepin Quiet](https://open.spotify.com/album/0wRtsuXvw05JKC1ccG7SQL) | 3:04 | 2023-02-21 | 2023-03-15 |
 | [Keiken](https://open.spotify.com/track/4a8PnIB6neH5fmIDQdJwos) | [kumagusu](https://open.spotify.com/artist/13fYVVUSG52q6sTm1Fx3HQ) | [Keiken](https://open.spotify.com/album/556Os9XBPSIw2dfYYU39c3) | 4:20 | 2023-04-20 | 2023-04-26 |
@@ -743,7 +744,7 @@
 | [Touching](https://open.spotify.com/track/2uDkbhdKNmlmTTzYJGvqoi) | [Boyish](https://open.spotify.com/artist/4zOMFblFUbK27Smau7ABhD) | [FIELDS](https://open.spotify.com/album/6csud901rv0tlVffyKpOy5) | 3:58 | 2023-08-12 | 2023-08-23 |
 | [Toumei na Nukumori](https://open.spotify.com/track/76QXx63Sqbf4WvyS0QtaM4) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [Risa Nakagawa](https://open.spotify.com/artist/35TXIIWvd5KWK5Y13cF8Hf) | [Toumei na Nukumori](https://open.spotify.com/album/7eElRimtFlrVjEx2a5ufXS) | 3:17 | 2023-06-21 | 2023-07-05 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
-| [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-14 | 2024-01-19 |
+| [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-14 |  |
 | [trust none](https://open.spotify.com/track/1OO9p0vTUo9Ecd4aiWTXz6) | [くだらない1日](https://open.spotify.com/artist/0e11UZEaAK9dntRu5NAc6f) | [trust none](https://open.spotify.com/album/2zZeIRHjF2wITdR4lOtVLZ) | 3:45 | 2023-12-07 | 2023-12-13 |
 | [Try it](https://open.spotify.com/track/6uiJDc0yjQ9hBVIpQ0ZZw2) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Try it](https://open.spotify.com/album/3acGxNAVqRP0UCLT0rQpuR) | 3:41 | 2023-01-12 | 2023-02-15 |
 | [Tuesday Butterfly \- feat\. Misi Ke](https://open.spotify.com/track/0ezYoov46hgipHPUtk7Pm5) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Tuesday Butterfly \(feat\. Misi Ke\)](https://open.spotify.com/album/3EmYHtnxH9f46MdkoRcSvQ) | 3:09 | 2023-08-30 | 2023-09-21 |

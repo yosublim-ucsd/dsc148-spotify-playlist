@@ -2,7 +2,7 @@
 
 ### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Tokischa & Sexyy Red
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Flo Milli
 
 480 songs - 23 hr 22 min
 

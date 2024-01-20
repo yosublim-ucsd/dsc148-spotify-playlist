@@ -4,13 +4,14 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-119 songs - 8 hr 3 min
+120 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Través del Vaso / Cuerpo de Sirena / La Misma \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/2nzHumHZo0aDR0A5nPM1Su) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z) | [A Través del Vaso / Cuerpo de Sirena / La Misma \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/07Ztp63QO86WY8m2XehreY) | 8:14 | 2023-03-03 |  |
 | [Abrazado a Mi Botella](https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X) | [Los Ruiseñores de la Frontera](https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4) | [Fiesta Ranchera](https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W) | 3:06 | 2023-03-03 | 2023-09-04 |
 | [Abrazado de un Poste](https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [De Fiesta Con los Braos](https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX) | 4:27 | 2023-03-03 |  |
+| [Acábame de Matar](https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ) | [El Azote](https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh) | [Acábame de Matar](https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV) | 3:35 | 2023-10-05 |  |
 | [Ahora por unas monedas](https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ) | [Sin Rivales de Punitaqui](https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL) | [Quédate con el](https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy) | 5:28 | 2023-03-03 |  |
 | [Allá Va la Liebre](https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE) | [Los Perros del Monte](https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs) | [Una Hora para Bailar](https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B) | 3:21 | 2023-03-03 |  |
 | [Amor Traicionero](https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Amor Traicionero](https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei) | 4:16 | 2023-09-08 |  |
@@ -93,7 +94,7 @@
 | [Ojitos rojos](https://open.spotify.com/track/0NuvBFFPymRqHndt0gjYo3) | [Los Tremendos Rancheros](https://open.spotify.com/artist/2bbtoUWNv9uzGrkgXAKl9g) | [Ojitos rojos](https://open.spotify.com/album/5QX2UEQ2CINNfDZbsHeguK) | 3:08 | 2023-10-05 |  |
 | [Ojitos rojos](https://open.spotify.com/track/0t2jtmpU4jw9si5fXFZyKO) | [Los Tremendos Rancheros](https://open.spotify.com/artist/2bbtoUWNv9uzGrkgXAKl9g) | [Ojitos rojos](https://open.spotify.com/album/0p3k4ozpaJa2466pdd6eRj) | 3:08 | 2023-09-08 | 2023-11-11 |
 | [Ojitos Verdes](https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:31 | 2023-03-03 |  |
-| [Palomita de Alas Blancas](https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Palomita de Alas Blancas](https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78) | 1:55 | 2023-03-03 |  |
+| [Palomita de Alas Blancas](https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Palomita de Alas Blancas](https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78) | 1:55 | 2023-03-03 | 2024-01-20 |
 | [Para Ti Solita / Matame A Besos \(En Vivo\)](https://open.spotify.com/track/6VHJsTRTZ5LUT7G6ZX9gku) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Para Ti Solita / Matame A Besos \(En Vivo\)](https://open.spotify.com/album/2CTeAoEp6OOoWpWInsmHGu) | 7:36 | 2023-03-03 |  |
 | [Por Andar de Patas Negras](https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Por Andar de Patas Negras](https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7) | 3:54 | 2023-03-03 |  |
 | [Por Debajo del Agua](https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 4:39 | 2023-03-03 |  |

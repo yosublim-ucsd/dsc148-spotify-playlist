@@ -2,7 +2,7 @@
 
 ### [hot girl sh\*t](https://open.spotify.com/playlist/37i9dQZF1DWSnLm8DcIg6D)
 
-> the soundtrack to your girl dinner\. cover: Cardi B + Megan Thee Stallion
+> the soundtrack to your girl dinner\. cover: Doja Cat
 
 191 songs - 9 hr 46 min
 

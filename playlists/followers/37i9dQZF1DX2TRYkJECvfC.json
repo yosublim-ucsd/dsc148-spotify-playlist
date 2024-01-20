@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 2693191,
+  "2024-01-20": 2693840,
   "date_first_scraped": "2021-12-21",
   "description": "Forget it and disappear with deep & melodic <a href=\"spotify:genre:edm_dance\">house</a>.",
   "name": "Deep House Relax",
@@ -3981,7 +3981,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 206875,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/3w0nFtVBa75tPHsSNZxWr6"
@@ -4061,7 +4061,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 168095,
       "name": "Like This",
       "url": "https://open.spotify.com/track/6mGA7mSuXx8o1ytfnImc7s"
@@ -6553,7 +6553,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 496592,
       "name": "Satellite Girl",
       "url": "https://open.spotify.com/track/4Knpot2CFgsU9VtAXHENlV"
@@ -6823,6 +6823,24 @@
       "duration_ms": 506408,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/6RkBU15iuIWpNA67pL4ZE7"
+    },
+    {
+      "album": {
+        "name": "Fate Deluxe",
+        "url": "https://open.spotify.com/album/2qtHPZM9dpKraDzJzbKzzR"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152523,
+      "name": "Snow In The Distance",
+      "url": "https://open.spotify.com/track/0bjkjsN2X2IeXFRClxSfvw"
     },
     {
       "album": {

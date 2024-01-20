@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126689,
+  "num_followers": 126694,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDUyMiwxZWU2ZjIxNTliMDE5ODViNTM5Zjg0M2EyNzdiODA5ZjIxOWNjODFl",
+  "snapshot_id": "NDUyNCw2YmFkZmMxOTBiYmRiZGM3OGU5YWEyOTE2ZmI1MGJkMDBkNDgzM2Qw",
   "tracks": [
+    {
+      "added_at": "2024-01-19 17:15:50",
+      "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/5aQuFD0k2AvweTvB4NWsL7"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        },
+        {
+          "name": "Convexity",
+          "url": "https://open.spotify.com/artist/5yyqKaR2sQiuMm2gC83f31"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "Liminal",
+      "url": "https://open.spotify.com/track/10tif34C0hcgqdDgsvQLQG"
+    },
     {
       "added_at": "2024-01-18 18:03:09",
       "album": {
@@ -1131,26 +1151,6 @@
       "duration_ms": 222400,
       "name": "Infortunii",
       "url": "https://open.spotify.com/track/5WesZOkeAlWuxNRvS64SOr"
-    },
-    {
-      "added_at": "2023-10-06 14:08:55",
-      "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/257jBmJSZWVkr2p0XB5kli"
-      },
-      "artists": [
-        {
-          "name": "F.O.O.L",
-          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
-        },
-        {
-          "name": "Waveshaper",
-          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
-        }
-      ],
-      "duration_ms": 311584,
-      "name": "Encounter",
-      "url": "https://open.spotify.com/track/7Ddm5bTLA3nLATCx1LtHd0"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

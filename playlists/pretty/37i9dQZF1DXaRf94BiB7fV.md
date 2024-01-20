@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Shriya, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,181 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,182 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 52 | [Unke Rangon Mein](https://open.spotify.com/track/33k5PdmBBBvjFrYFnTqrzF) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Unke Rangon Mein](https://open.spotify.com/album/7k4mVu7UlNacFUSHcDZkpa) | 2:52 |
 | 53 | [Khula Hai Aasman](https://open.spotify.com/track/4zTWZe5Q95rElRhZdcrOxJ) | [Purusharth Jain](https://open.spotify.com/artist/5qHTw4EBukwn3GFseugVmc) | [Khula Hai Aasman](https://open.spotify.com/album/1Segu5rP7eJ0aLLJwEpi46) | 3:41 |
 | 54 | [Maybe I'll Forget](https://open.spotify.com/track/3E1qS84xs415qjOxoUhBHW) | [Soham](https://open.spotify.com/artist/2VWlTHS1YfU7p9zMPPGw78) | [Maybe I'll Forget](https://open.spotify.com/album/0Dmv15OmOsrUfHE4bwL630) | 3:27 |
-| 55 | [Chalte Jaana](https://open.spotify.com/track/0oyRs9pRurqwGGALF9lJMg) | [Riya Shrivastava](https://open.spotify.com/artist/3kMUiWRc5cWOC5aZsQRNtN) | [Chalte Jaana](https://open.spotify.com/album/1T0ZK7Ez5HyuL7HjCfzC59) | 1:35 |
+| 55 | [Chalte Jaana](https://open.spotify.com/track/1KBXALAcmP4zzC7uAjLj0b) | [Riya Shrivastava](https://open.spotify.com/artist/3kMUiWRc5cWOC5aZsQRNtN) | [Chalte Jaana](https://open.spotify.com/album/4EhbWXUXD6EcsjOVNjThr7) | 1:35 |
 | 56 | [All Afternoon](https://open.spotify.com/track/2bHH3I9iNj9fGJ65v84SmS) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [All Afternoon](https://open.spotify.com/album/2gJjnxF6adR6zRffq45eXy) | 4:07 |
 | 57 | [Hawaayein](https://open.spotify.com/track/5vxTkv4ZGv8XrOSbIAzPmy) | [Rakshit Malhotra](https://open.spotify.com/artist/0WKkWrV4p7Qs8suZUghiVr), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK), [Vaishnavi Agrawal](https://open.spotify.com/artist/2kvhduO6j31619oGbIlrqh), [Abhishek Bonthu](https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5) | [Hawaayein](https://open.spotify.com/album/0Tsd4UpjrEjXDIHxXKt3wj) | 2:50 |
 | 58 | [Tan Kha Gayi Ye Tankha](https://open.spotify.com/track/49voCyjMMz7SekTdRuu3QI) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Tan Kha Gayi Ye Tankha](https://open.spotify.com/album/7cqVlSMnCGA2ahxPPsyY7b) | 4:29 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 72 | [You Don't Belong To Me](https://open.spotify.com/track/2fEp2TyUpKWycQCM4yL34D) | [Vatsal](https://open.spotify.com/artist/4hHpOob4LyIa9WWGjRmBPy) | [You Don't Belong To Me](https://open.spotify.com/album/7pYd5AvnpgU2WdXcMrpp33) | 3:03 |
 | 73 | [Dil Ki Dastan](https://open.spotify.com/track/3S0kZyO86KTfKae540RV3I) | [Sahil Ahuja](https://open.spotify.com/artist/4em8pFjqZmKcflPQgobF6L) | [Dil Ki Dastan](https://open.spotify.com/album/0uFbi2fi8kPeVxFBSmpIJi) | 3:44 |
 | 74 | [Khuda Na Kare](https://open.spotify.com/track/5gMaNHNdruVWfAhSRGdZG9) | [Shivi R Kashyap](https://open.spotify.com/artist/3P4NvflcDL5fSFUYTQcUEn) | [Khuda Na Kare](https://open.spotify.com/album/1Gr6PjVUWaffXkTjCK7too) | 3:18 |
-| 75 | [Khwaab](https://open.spotify.com/track/4QtKkUfSG2DBOTkwg4Ljd8) | [Pramod Tripathi](https://open.spotify.com/artist/1IlujbcWuUJGx86NIfLYUB), [Vinod Bhatt](https://open.spotify.com/artist/10gbEnDL62XnxGr7Qg5qdo), [Kritika Swarnkar](https://open.spotify.com/artist/09dW4KNTqEHTq0rLxQi3Mv) | [Khwaab](https://open.spotify.com/album/1GDGBioIBq0haGk4Bv6dZ3) | 3:51 |
+| 75 | [Khwaab](https://open.spotify.com/track/1YJq89N77yQgRvj0G6MrJA) | [Pramod Tripathi](https://open.spotify.com/artist/1IlujbcWuUJGx86NIfLYUB), [Vinod Bhatt](https://open.spotify.com/artist/10gbEnDL62XnxGr7Qg5qdo), [Kritika Swarnkar](https://open.spotify.com/artist/09dW4KNTqEHTq0rLxQi3Mv) | [Khwaab](https://open.spotify.com/album/2PRCggR93Z1vhDfnN286nd) | 3:51 |
 | 76 | [Koi Matlab Nahi](https://open.spotify.com/track/44UJTphbSUJX2K7Ba6KBtm) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Doie](https://open.spotify.com/artist/61WxZKiXbPoi7rMp1beJf6) | [Koi Matlab Nahi](https://open.spotify.com/album/2VDW1QYt24MvQL92aqP6hM) | 2:57 |
 | 77 | [Unko Dekha](https://open.spotify.com/track/1ODueRj7sKzl2S0Hrv2oRu) | [Abhishek Majumdar](https://open.spotify.com/artist/0Qdogl7jpLi83fE70CimNK) | [Unko Dekha](https://open.spotify.com/album/72IlSMh8Ulx6RodFfF74B6) | 4:43 |
 | 78 | [Antihero](https://open.spotify.com/track/0tmVekD1MN9NDAKntGbOyO) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Antihero](https://open.spotify.com/album/1mWgasxdZFASpH5ITWiVw8) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Kho Na Jau](https://open.spotify.com/track/0ZOkSHrdY7KQl9gzAp1gul) | [Shubham Sarita](https://open.spotify.com/artist/2M2UjSgx193L2gOGZ8lEkw) | [Kho Na Jau](https://open.spotify.com/album/5RcROEiAF3IFVKf90WDc1M) | 2:13 |
 | 100 | [Kahin Door \(Raw\)](https://open.spotify.com/track/48Ffp7BhtGsmxsz1b8YDlw) | [Sajid Rizvi](https://open.spotify.com/artist/4GQ5xNBHVVO8UkUZ7IufKo) | [Kahin Door \(Raw\)](https://open.spotify.com/album/0lSZjrFUdgpM6RZCppSYDO) | 2:48 |
 
-Snapshot ID: `MCw1NTA4MDgzNjMxMjEwM2QwMmZmMzI0ZDNiMWY1MzM3M2YzMTk5NDky`
+Snapshot ID: `MCw4YTI3YTA3OWJiNzFhNjg3ZTQxYWJiNDVmYzExZWQxNDhkYTViNjZl`

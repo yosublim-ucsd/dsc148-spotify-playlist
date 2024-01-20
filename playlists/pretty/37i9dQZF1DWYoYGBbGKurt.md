@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,688 likes - 386 songs - 14 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,171 likes - 386 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 27 | [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 |
 | 28 | [peaceful](https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [peaceful](https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2) | 2:07 |
 | 29 | [Tenderly](https://open.spotify.com/track/30kb5SUI5bAhUt6Pao3Txs) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Tenderly](https://open.spotify.com/album/294lejL4WlfdM1zI3aqHwn) | 1:58 |
-| 30 | [Across The Universe](https://open.spotify.com/track/43tzeUUB5WRL4jPaXSjfgG) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Across The Universe](https://open.spotify.com/album/3H5XRl7AwZMjYp42N5G3QQ) | 2:13 |
+| 30 | [Across The Universe](https://open.spotify.com/track/43tzeUUB5WRL4jPaXSjfgG) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Across The Universe](https://open.spotify.com/album/3H5XRl7AwZMjYp42N5G3QQ) | 2:13 |
 | 31 | [Remedies](https://open.spotify.com/track/2UKmdTfUbFrOacKeS3qkJS) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Remedies](https://open.spotify.com/album/4StwBfTJI1FDpX6GhgtwNY) | 2:37 |
 | 32 | [exhale](https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [exhale](https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I) | 2:47 |
 | 33 | [Dream Train](https://open.spotify.com/track/37HHr2vkEH7DTCDf6C8GPL) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Dream Train](https://open.spotify.com/album/5qHCl97YrFtVlwDNoIYfwC) | 2:14 |
@@ -395,4 +395,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 385 | [Tough Night](https://open.spotify.com/track/4qzBVxq0XSjUuqWTEu5QON) | [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Tough Night](https://open.spotify.com/album/61qouf83vvQBSFpHUXGZkN) | 2:13 |
 | 386 | [Waves](https://open.spotify.com/track/1sv9a2DenuK90P0rBkXKEe) | [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Waves](https://open.spotify.com/album/4RE8BchKFFeqiijkE965MR) | 2:31 |
 
-Snapshot ID: `MCw4ZThkYzg2MzQ4NTBkMWU0MDU3ZGRmMGM1ZjZmZDJlYjNmNzY4Y2Fh`
+Snapshot ID: `MCw1NGFhYWIzMzRjMjRmMjhhMDBlNTI3ZDJiZjQxYzZjNDI1ZGE4ODQ0`

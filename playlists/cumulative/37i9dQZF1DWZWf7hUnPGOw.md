@@ -4,7 +4,7 @@
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-271 songs - 16 hr 25 min
+272 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,9 @@
 | [Come Back to Me](https://open.spotify.com/track/1WUCyuyCihAz4nXD5kgOms) | [3 One Oh](https://open.spotify.com/artist/0LeWcad3qLZOVYNxm5pG7e) | [Come Back to Me](https://open.spotify.com/album/50WassgZwHALKp2tIHsjUg) | 3:16 | 2023-09-07 |  |
 | [Coming Home](https://open.spotify.com/track/5RKk9BhJeZeLOmrMIingqX) | [Dove Pilot](https://open.spotify.com/artist/1sVhgq2Yf3CltNQZUdlmgz) | [Dove Pilot](https://open.spotify.com/album/3V7iGGN7jMnbxQpEnOrXf9) | 5:11 | 2022-07-22 |  |
 | [Conquer This Sweetheart](https://open.spotify.com/track/5wER82Ut3yv0PVa21dbYzw) | [Cree Rider Family Band](https://open.spotify.com/artist/3XRXBKYzi8ShXOANoYJb1p) | [One Night Stand](https://open.spotify.com/album/0Sd1LEIYbTtnXQKrq68GEk) | 4:12 | 2022-07-22 |  |
+| [Crazy](https://open.spotify.com/track/32RKnnEOkSr8ihZKMNxZG4) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/69yDgndc8jfSrobG5rfzjx) | 3:48 | 2023-11-30 |  |
 | [Crazy](https://open.spotify.com/track/63gUblwliT1NS7Eik504E2) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/1cnUa1Zm4lPm6QiCDRasBo) | 3:48 | 2022-07-22 | 2022-10-14 |
-| [Crazy](https://open.spotify.com/track/70TiTaUTePAwoLNsQk3ujm) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/113Oluzu3xOP9imtFHntWy) | 3:48 | 2022-07-22 |  |
+| [Crazy](https://open.spotify.com/track/70TiTaUTePAwoLNsQk3ujm) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/113Oluzu3xOP9imtFHntWy) | 3:48 | 2022-07-22 | 2024-01-20 |
 | [Crooked Tree](https://open.spotify.com/track/48IRiIvSRybWQwPOb7BMOc) | [Huxlee](https://open.spotify.com/artist/3yb7HrGPG0WpWgdO4XFwBf) | [SuperRock \(All Folked Up\)](https://open.spotify.com/album/4PEc1CBBlhpGzswmWjLyFK) | 3:51 | 2023-09-07 |  |
 | [Crow](https://open.spotify.com/track/2OZLAmifZRHUrkRzU9lnkx) | [Desert Noises](https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe) | [Crow / Whisper](https://open.spotify.com/album/1DpSdwabLNkT6fD5oYOLeb) | 2:36 | 2022-07-22 |  |
 | [Crusher](https://open.spotify.com/track/22wmfoCSqhCrUU586zfaQu) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/0GgZs5GiYxxlCy0NlkkGyy) | 3:08 | 2022-07-22 |  |

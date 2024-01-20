@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Amble \| Visual Artist: Bailey Elder
 
-1,030 songs - 2 day 13 hr 41 min
+1,031 songs - 2 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [Lead Me Home](https://open.spotify.com/track/6nqGaeoYs2PL1O47B2K1xE) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Lead Me Home](https://open.spotify.com/album/0UqsZj10Gp3p8Z5DQmzKLY) | 2:58 | 2022-06-29 | 2022-10-13 |
 | [Learning My Ways](https://open.spotify.com/track/4qL34AlHwCFXCwLNaeyCyp) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [Nico Paulo](https://open.spotify.com/album/6SXX7ZhhMrhzGPCQM98WKu) | 4:30 | 2023-04-12 | 2023-06-01 |
 | [Learning My Ways](https://open.spotify.com/track/4tNT31r5LYaOzWlsUDlh5l) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [Nico Paulo](https://open.spotify.com/album/5taWm9n1gekDoDjY19lCOt) | 4:30 | 2023-04-12 | 2023-04-30 |
+| [Leather Wallet \- Acoustic](https://open.spotify.com/track/6xFREfS2P82P0SYlOaiFqJ) | [Crowe Boys](https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id) | [Leather Wallet \(Acoustic\)](https://open.spotify.com/album/1glNmXjE2oT6nhgD8yG5xF) | 4:43 | 2024-01-19 |  |
 | [Leaving Here Still](https://open.spotify.com/track/2xg67Ol355l9tdOuFBR9o2) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Leaving Here Still](https://open.spotify.com/album/33roqMYsJwxhI0U3qmVlgh) | 4:21 | 2022-11-09 | 2023-01-12 |
 | [Let It Lie](https://open.spotify.com/track/7sEnkcuwa1FNMjGxqeL7Pj) | [Mountain Boy](https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7) | [Let It Lie](https://open.spotify.com/album/0mcmBaLmhhNA0SgF5NM8AN) | 3:42 | 2023-03-22 | 2023-05-04 |
 | [Let It Pass](https://open.spotify.com/track/5G9fPEoXEtw4NSHaYjssGl) | [Starpainter](https://open.spotify.com/artist/12PMNRQFZzmXrwS3ge7qbO) | [Rattlesnake Dream](https://open.spotify.com/album/5tRkeh3TVIuk0cJH42f6R3) | 3:32 | 2023-06-07 | 2023-08-03 |

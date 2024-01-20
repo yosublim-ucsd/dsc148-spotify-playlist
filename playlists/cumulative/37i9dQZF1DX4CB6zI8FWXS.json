@@ -4642,10 +4642,36 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 208000,
       "name": "Rio Tokyo",
       "url": "https://open.spotify.com/track/5gzueSVEPLmnOZG0PI2eOL"
+    },
+    {
+      "album": {
+        "name": "Jet",
+        "url": "https://open.spotify.com/album/2pxtbEWJROV2re93TF9SMz"
+      },
+      "artists": [
+        {
+          "name": "Celeina Ann",
+          "url": "https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw"
+        },
+        {
+          "name": "Foux",
+          "url": "https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7"
+        },
+        {
+          "name": "Vingo",
+          "url": "https://open.spotify.com/artist/2sId7OEZTvYfrkPknxAgas"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Rio Tokyo",
+      "url": "https://open.spotify.com/track/6MzZndXMHckI4EFM2Q425c"
     },
     {
       "album": {

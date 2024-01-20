@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 11952,
+  "num_followers": 11974,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWI1MjJmYThhMTRkYjUzOWQ2MWY5ZTZhYjU2MWJhOTQ0YmU1YTM4",
+  "snapshot_id": "MCxhY2E3NWM2NTlmYzliMGMyOWZhMjY5MGQ2MTc5YjA5NjA0ZGI3NTA2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 329133,
+      "name": "Jezebel",
+      "url": "https://open.spotify.com/track/0mMyCFOqotvTPf8esrLM7K"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 362839,
       "name": "What's Free (feat. Rick Ross & Jay Z)",
       "url": "https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 329133,
-      "name": "Jezebel",
-      "url": "https://open.spotify.com/track/0mMyCFOqotvTPf8esrLM7K"
     },
     {
       "added_at": "2022-10-01 16:57:49",

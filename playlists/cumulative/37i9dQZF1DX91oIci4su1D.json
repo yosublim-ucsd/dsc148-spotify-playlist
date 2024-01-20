@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "1998 (Victor Ruiz Remix)",
+        "url": "https://open.spotify.com/album/1WYFR2jvaXaZ1DvlodiGuK"
+      },
+      "artists": [
+        {
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252301,
+      "name": "1998 - Victor Ruiz Remix",
+      "url": "https://open.spotify.com/track/3fnWgtjqolErwSW3XS0vy5"
+    },
+    {
+      "album": {
         "name": "2008",
         "url": "https://open.spotify.com/album/36vQUG9rGJYeMtzw7MAxml"
       },
@@ -1118,7 +1140,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 238676,
       "name": "As the Sun Breaks",
       "url": "https://open.spotify.com/track/1KJZZ7GNTJ6AYPUtKYIeX3"
@@ -3148,7 +3170,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 177624,
       "name": "Conscious",
       "url": "https://open.spotify.com/track/1GjVHzIOOA8naSpkSbwQ11"
@@ -8268,7 +8290,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 209262,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4cRysbsSV8hwNcbD44r0rE"
@@ -10067,6 +10089,24 @@
     },
     {
       "album": {
+        "name": "Nano / Nightlife",
+        "url": "https://open.spotify.com/album/6RiWNmtptWDW48eO02XRa0"
+      },
+      "artists": [
+        {
+          "name": "S\u00d8NIN",
+          "url": "https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190257,
+      "name": "Nano",
+      "url": "https://open.spotify.com/track/5gPpluoXmKY3CGaWzppHbS"
+    },
+    {
+      "album": {
         "name": "Need To Feel Loved",
         "url": "https://open.spotify.com/album/0IeGNtS4eIPUePmQzvLOiV"
       },
@@ -11231,6 +11271,32 @@
     },
     {
       "album": {
+        "name": "Ouverture",
+        "url": "https://open.spotify.com/album/5ZAZBpm6eHGJnCL68bMap0"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Saad Ayub",
+          "url": "https://open.spotify.com/artist/2ulEOi17CGvnTNd9RpY9AR"
+        },
+        {
+          "name": "Elevation",
+          "url": "https://open.spotify.com/artist/5H94wuXGxYZC5IQ5LC74U4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236521,
+      "name": "Ouverture",
+      "url": "https://open.spotify.com/track/1DQDnypjr8J1rfO3hQWo2k"
+    },
+    {
+      "album": {
         "name": "Over The Moon",
         "url": "https://open.spotify.com/album/6Nmc9aoFquNjmgy0Eh9zbd"
       },
@@ -11516,6 +11582,32 @@
       "duration_ms": 164000,
       "name": "Place Called Home - Oldschool Flavour Mix",
       "url": "https://open.spotify.com/track/3qsTpnCKo4hmsNySPqjvBj"
+    },
+    {
+      "album": {
+        "name": "Places I Belong",
+        "url": "https://open.spotify.com/album/5AEX72BTovuEmtnGsgoA69"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Fiora",
+          "url": "https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226363,
+      "name": "Places I Belong",
+      "url": "https://open.spotify.com/track/3d7RiAd7X9QEOyJiZJatbv"
     },
     {
       "album": {
@@ -12014,7 +12106,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 200597,
       "name": "Reflected",
       "url": "https://open.spotify.com/track/5apmD6ssqm55PJoLlersMZ"

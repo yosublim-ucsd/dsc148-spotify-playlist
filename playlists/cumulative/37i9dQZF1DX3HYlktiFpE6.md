@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-163 songs - 8 hr 46 min
+164 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 | 2021-12-24 |  |
 | [Come Sail Away](https://open.spotify.com/track/2TmWgYDevPOukQGNJPeZrN) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/3r3sAExzTK7xT8ty4a151h) | 5:36 | 2021-12-24 | 2022-07-29 |
 | [Craniotomy](https://open.spotify.com/track/2Gpx84GNP3ERUdlFoWn39f) | [Backtrack](https://open.spotify.com/artist/3s47Oxqvp3YxaYqMlDYngq) | [Craniotomy](https://open.spotify.com/album/1pxpxAjxmuQODqUXY1PxuK) | 2:35 | 2023-03-10 | 2023-07-29 |
+| [Crazy](https://open.spotify.com/track/0ZVivTbJr2MeY07efGHgvq) | [Acappology](https://open.spotify.com/artist/21v1APtcWJHRmeKdBRVbYs) | [Lost My Mind](https://open.spotify.com/album/5IiFFb7dMatUEFiE0S23Jb) | 2:50 | 2024-01-19 |  |
 | [Creep \- Studio Version](https://open.spotify.com/track/0bkEVRYVWuKBCWOX6kY2kT) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [The Sing\-Off: The Best of Season 2](https://open.spotify.com/album/3Kh7U1zy45wEM6yWGvIFcR) | 3:41 | 2021-12-24 |  |
 | [Cruise](https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [The Sing\-Off: Season 4, Episode 1\- The Sing\-Off Is Back](https://open.spotify.com/album/2v7S6K26bvlGpKP35MLF9j) | 1:40 | 2021-12-24 | 2023-03-23 |
 | [Cups \- Movie Version](https://open.spotify.com/track/1k6hE5RWi4LQzoIFeosCJ7) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 1:15 | 2021-12-24 |  |
@@ -157,7 +158,7 @@
 | [Time After Time](https://open.spotify.com/track/7jrEh3csdQr1jGNuGBD7nd) | [OneVoice](https://open.spotify.com/artist/4Tcxn9SymP465LZWa2xFO6) | [Time After Time](https://open.spotify.com/album/79gsUaXg0Gexdo1NHQsUUF) | 2:51 | 2023-06-02 |  |
 | [Time Warp](https://open.spotify.com/track/1sKXStlLjSdL7iGBzMaToM) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [Ashley Diane](https://open.spotify.com/artist/3frgulm2dfyi4iqRXIFuVw) | [Time Warp](https://open.spotify.com/album/0wUZZmPK9zUVoydNeQSsK2) | 2:00 | 2023-10-20 |  |
 | [Toto \(feat\. David Paich\)](https://open.spotify.com/track/2PMnqvzEnv5FvLS9jsr5jT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [David Paich](https://open.spotify.com/artist/6zgKTqBOokh6IjLXOO5zfQ) | [Toto](https://open.spotify.com/album/1AG03Bhd06Y5W9m4LZjlQZ) | 4:21 | 2023-05-19 |  |
-| [Trebles Finals: Bright Lights Bigger City/Magic](https://open.spotify.com/track/2mgPmzcrz3sBCR7AvCr6mE) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 2:34 | 2021-12-24 |  |
+| [Trebles Finals: Bright Lights Bigger City/Magic](https://open.spotify.com/track/2mgPmzcrz3sBCR7AvCr6mE) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 2:34 | 2021-12-24 | 2024-01-20 |
 | [Trebles Finals: Bright Lights Bigger City/Magic](https://open.spotify.com/track/7zgveKrOxukG95vxIO3KHd) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Pitch Perfect Soundtrack](https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2) | 2:34 | 2021-12-24 | 2022-07-29 |
 | [Valerie \- Glee Cast Version](https://open.spotify.com/track/4hBW3h6FnQNh7NRmyxLLG7) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 4](https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI) | 3:33 | 2021-12-24 |  |
 | [Waka Waka](https://open.spotify.com/track/4tIbSGN5xmmnpv9hBPqUDl) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [United We Sing](https://open.spotify.com/album/4sWsBmNNLM7tTzHpSFoumo) | 3:19 | 2021-12-24 | 2022-07-29 |

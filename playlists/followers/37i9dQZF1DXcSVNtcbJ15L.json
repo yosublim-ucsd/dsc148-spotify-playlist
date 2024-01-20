@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 93992,
+  "2024-01-20": 94007,
   "date_first_scraped": "2022-05-27",
   "description": "vem de dm \ud83d\udd25  \u2764\ufe0f",
   "name": "oiii",
@@ -1756,6 +1756,24 @@
     },
     {
       "album": {
+        "name": "051",
+        "url": "https://open.spotify.com/album/3y21V9frgluT54InXbn9tj"
+      },
+      "artists": [
+        {
+          "name": "Magyn",
+          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132907,
+      "name": "VER\u00c3O DA LATA",
+      "url": "https://open.spotify.com/track/4SV0edEJDYJlt3aeE7HUHo"
+    },
+    {
+      "album": {
         "name": "VER\u00c3O DA LATA",
         "url": "https://open.spotify.com/album/5cgpuZRjShzDMoHav6aT7X"
       },
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 132907,
       "name": "VER\u00c3O DA LATA",
       "url": "https://open.spotify.com/track/4wUmnHlr4iogXJJEinjX5q"

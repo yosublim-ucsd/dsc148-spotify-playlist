@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: André van Duin
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,847 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,854 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 69 | [Annabel](https://open.spotify.com/track/6trgkuKd380kEbIrpEARGo) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Het Beste Van](https://open.spotify.com/album/0J3DulwNVPpjHZSm6R6TAm) | 3:32 |
 | 70 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 |
 
-Snapshot ID: `MCw1OWI1ZjllNWE2MDJhZjkwZjdkMzIxN2UzYjE2YmYzMjY4NzM5NTFl`
+Snapshot ID: `MCwxMGYwN2Y2OWMwZWVmOTZhZmE0NDZiMTUyZDk5ZDQxYWExNDY0NWQx`

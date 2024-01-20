@@ -36476,10 +36476,32 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 180814,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/02P95WFP4eWW64YiwK35eW"
+    },
+    {
+      "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/4wDqvhLcVky1Ka1UTx5w4o"
+      },
+      "artists": [
+        {
+          "name": "James Mac",
+          "url": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
+        },
+        {
+          "name": "Vall",
+          "url": "https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180814,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/4VdTPiVynDPgumUwyq72Yj"
     },
     {
       "album": {

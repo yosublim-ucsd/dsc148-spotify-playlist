@@ -4,7 +4,7 @@
 
 > The best of Brazilian House\. Photo: Meca
 
-104 songs - 6 hr 28 min
+107 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 | 2023-12-01 |  |
 | [Spearwoman](https://open.spotify.com/track/2xK2J3vvigUdV92OVc3Atz) | [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Spearwoman](https://open.spotify.com/album/1YOFhohbSLmnUnSYfkYucb) | 4:15 | 2023-07-21 |  |
 | [Steven Hawking \- Luca Lush Remix](https://open.spotify.com/track/0G6THpMZjfai5fiQlCIg8x) | [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Steven Hawking \(Luca Lush Remix\)](https://open.spotify.com/album/18nohNOHWVWvsiUaFrTSGx) | 4:01 | 2023-07-21 | 2023-08-05 |
+| [Stop To Go](https://open.spotify.com/track/7b2011arGKExd2BfuvqH4Y) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Stop To Go](https://open.spotify.com/album/0QE6YuZYJJuBRestVr35Bn) | 2:42 | 2024-01-19 |  |
 | [Swarm](https://open.spotify.com/track/55ojw2RLZaaUI3eVBOhR2z) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Sarava](https://open.spotify.com/album/32hf6dpv1rxU5OcFtsg9R8) | 3:45 | 2023-11-24 |  |
 | [São Paulo](https://open.spotify.com/track/2B67hW6XshoWOIpHjDeVVI) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [São Paulo](https://open.spotify.com/album/2YwIr0IYdP5XpSG62W05gK) | 2:44 | 2023-07-21 | 2023-12-02 |
 | [Take It Slow](https://open.spotify.com/track/0MUHTAlNjILLyiLiCY9tM8) | [Newera](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [Take It Slow](https://open.spotify.com/album/2ZKbcXIhwxCnhT7hianBpf) | 2:45 | 2023-07-21 | 2023-07-27 |
@@ -110,7 +111,9 @@
 | [The Valve](https://open.spotify.com/track/4q9aaBA5hxLr7VpOM61S0F) | [Almek](https://open.spotify.com/artist/0OWFz4qVgVrnaPpvhOAZYa) | [The Valve](https://open.spotify.com/album/4qIndp2du7jcYjd5Gd2GfK) | 2:17 | 2023-10-13 |  |
 | [There Was Heaven](https://open.spotify.com/track/0hrOwGPRbgdatrxurTEf0r) | [HNQO](https://open.spotify.com/artist/6pkEHKolF0GKjOdbbIEuUg) | [There Was Heaven](https://open.spotify.com/album/2Yq99y3KW6SWkEcnAJHAxA) | 5:37 | 2023-07-21 |  |
 | [This or That](https://open.spotify.com/track/0wmQLBZ6rrvdNAaSIaRrlx) | [Plastic Robots](https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm) | [This or That](https://open.spotify.com/album/3U6m8Fdx291RToRuqqtspl) | 4:05 | 2023-07-21 |  |
+| [Unconditional](https://open.spotify.com/track/644OSw9GuBx7sdGu3dmEHW) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Unconditional](https://open.spotify.com/album/2L22TxiDBkUhXolsm3484X) | 3:10 | 2024-01-19 |  |
 | [Waiting](https://open.spotify.com/track/0MwpOYPMBXRbd3SgQwf6u7) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Castelani](https://open.spotify.com/artist/0aAZdI0nv5BNNmXmdYc3it), [Tallez](https://open.spotify.com/artist/2GV086sizQwsDGJHPqRXA8) | [Waiting](https://open.spotify.com/album/36KwdgtXlo4P3u6ZeEC6R8) | 2:55 | 2023-07-21 |  |
+| [What You Need](https://open.spotify.com/track/7FMx7eILF6lnMeyIPLLVlG) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [What You Need](https://open.spotify.com/album/0eL50oLRtvemTHfmruPGCa) | 5:20 | 2024-01-19 |  |
 | [Zaza](https://open.spotify.com/track/6cVCk99iVLiAHxX6Ys1hOI) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Zaza](https://open.spotify.com/album/5zJ6WGi72B1REG9qXobyak) | 3:41 | 2023-07-21 | 2023-12-02 |
 
 \*This playlist was first scraped on 2023-07-23. Prior content cannot be recovered.

@@ -6,8 +6,76 @@
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "NjY5MCwwYzdlYTdkNTRmMmE3OTcyZTY0ZTViYmQ0YWUyNGI0MmI5YTcwMWU4",
+  "snapshot_id": "NjcyMSwzOGUzODE4ZDVmZTM5ZmExYWFiMjQ4MDBkYWFlMzdmNjUwMjZmOTQ0",
   "tracks": [
+    {
+      "added_at": "2024-01-19 21:21:00",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/4D0xJxkAhrO1mFJBDR0UQO"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 140106,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/76TJAFvcsT53qPU0bAR4an"
+    },
+    {
+      "added_at": "2024-01-19 21:16:13",
+      "album": {
+        "name": "Soak City (Do it)",
+        "url": "https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "duration_ms": 123547,
+      "name": "Soak City (Do it)",
+      "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
+    },
+    {
+      "added_at": "2024-01-19 21:21:56",
+      "album": {
+        "name": "#CERTIFIED (DJ Ess Mix) [feat. DJ Ess]",
+        "url": "https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "DJ Ess",
+          "url": "https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ"
+        }
+      ],
+      "duration_ms": 151273,
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mix",
+      "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO"
+    },
+    {
+      "added_at": "2023-11-18 01:14:07",
+      "album": {
+        "name": "For The Streets",
+        "url": "https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 145605,
+      "name": "For The Streets",
+      "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
+    },
     {
       "added_at": "2024-01-12 20:30:01",
       "album": {
@@ -27,58 +95,6 @@
       "duration_ms": 161111,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/12zZe5d94B9ovOI49fHOgy"
-    },
-    {
-      "added_at": "2023-09-08 17:16:36",
-      "album": {
-        "name": "Soak City (feat. Mustard, OhGeesy & BlueBucksClan)",
-        "url": "https://open.spotify.com/album/6R68BhIDX91MORN00cxeo0"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "Blueface",
-          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
-        }
-      ],
-      "duration_ms": 254267,
-      "name": "Soak City (feat. Mustard, OhGeesy & BlueBucksClan)",
-      "url": "https://open.spotify.com/track/1J6JBQrTm7mmAVhOYddhDM"
-    },
-    {
-      "added_at": "2023-06-23 20:56:12",
-      "album": {
-        "name": "Glockoma 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 140106,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
     },
     {
       "added_at": "2023-07-31 17:28:25",
@@ -145,26 +161,6 @@
       "url": "https://open.spotify.com/track/11H4HMp6cbBmq1jX2XIRFU"
     },
     {
-      "added_at": "2023-12-01 18:15:23",
-      "album": {
-        "name": "Shot Caller",
-        "url": "https://open.spotify.com/album/2iisvKalcg2nTNbYmjBRD8"
-      },
-      "artists": [
-        {
-          "name": "Lil Bean",
-          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
-        },
-        {
-          "name": "ZayBang",
-          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
-        }
-      ],
-      "duration_ms": 151548,
-      "name": "Shot Caller",
-      "url": "https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz"
-    },
-    {
       "added_at": "2023-10-30 18:23:14",
       "album": {
         "name": "Walk",
@@ -201,40 +197,24 @@
       "url": "https://open.spotify.com/track/6TJaoJX8VhptZ0DkcsjWaR"
     },
     {
-      "added_at": "2024-01-12 20:30:32",
+      "added_at": "2024-01-19 21:47:14",
       "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/2HiNrUvXg11AJgLHZgppJ9"
+        "name": "Can't Stop Won't Stop (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ"
       },
       "artists": [
         {
-          "name": "D. Savage",
-          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
-        }
-      ],
-      "duration_ms": 162024,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/2Jdv6Suz2qXYLLmHosi8Dw"
-    },
-    {
-      "added_at": "2024-01-12 20:28:06",
-      "album": {
-        "name": "Ron Artest",
-        "url": "https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+          "name": "King Combs",
+          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
         },
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 153392,
-      "name": "Ron Artest",
-      "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
+      "duration_ms": 158350,
+      "name": "Can't Stop Won't Stop (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0"
     },
     {
       "added_at": "2023-12-08 22:18:33",
@@ -313,6 +293,42 @@
       "url": "https://open.spotify.com/track/78MA8xdZCe4KS9SuIxs1Ce"
     },
     {
+      "added_at": "2023-06-16 21:11:59",
+      "album": {
+        "name": "All Star Team",
+        "url": "https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 107166,
+      "name": "All Star Team",
+      "url": "https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0"
+    },
+    {
+      "added_at": "2024-01-19 21:48:28",
+      "album": {
+        "name": "What It Means To Be King",
+        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 133613,
+      "name": "Don't Play That",
+      "url": "https://open.spotify.com/track/3IPGG5Niex4hGlXFOYWzp9"
+    },
+    {
       "added_at": "2024-01-12 20:45:21",
       "album": {
         "name": "Work Of Art",
@@ -353,6 +369,82 @@
       "url": "https://open.spotify.com/track/2Z2ZoBRW8NFuQRA4RvHDWd"
     },
     {
+      "added_at": "2024-01-12 20:28:06",
+      "album": {
+        "name": "Ron Artest",
+        "url": "https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 153392,
+      "name": "Ron Artest",
+      "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
+    },
+    {
+      "added_at": "2024-01-19 21:26:19",
+      "album": {
+        "name": "FLAWLESS LIKE ME",
+        "url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "KAPITOL DENIM",
+      "url": "https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ"
+    },
+    {
+      "added_at": "2023-12-01 18:15:23",
+      "album": {
+        "name": "Shot Caller",
+        "url": "https://open.spotify.com/album/2iisvKalcg2nTNbYmjBRD8"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        },
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        }
+      ],
+      "duration_ms": 151548,
+      "name": "Shot Caller",
+      "url": "https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz"
+    },
+    {
+      "added_at": "2024-01-19 21:49:22",
+      "album": {
+        "name": "Levon James",
+        "url": "https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        }
+      ],
+      "duration_ms": 196179,
+      "name": "Took Her To The O",
+      "url": "https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW"
+    },
+    {
       "added_at": "2023-05-05 23:22:11",
       "album": {
         "name": "ONLY BUILT 4 DIAMOND LINKS",
@@ -389,20 +481,20 @@
       "url": "https://open.spotify.com/track/3oT8T9rCFRY5ApaPubtWSV"
     },
     {
-      "added_at": "2023-06-16 21:11:59",
+      "added_at": "2024-01-12 20:30:32",
       "album": {
-        "name": "All Star Team",
-        "url": "https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf"
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/2HiNrUvXg11AJgLHZgppJ9"
       },
       "artists": [
         {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
         }
       ],
-      "duration_ms": 107166,
-      "name": "All Star Team",
-      "url": "https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0"
+      "duration_ms": 162024,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/2Jdv6Suz2qXYLLmHosi8Dw"
     },
     {
       "added_at": "2023-11-03 21:05:00",
@@ -419,22 +511,6 @@
       "duration_ms": 121920,
       "name": "Way Bigga",
       "url": "https://open.spotify.com/track/5JAUQsLfN5WJ0qL8KJan8l"
-    },
-    {
-      "added_at": "2023-11-18 01:14:07",
-      "album": {
-        "name": "For The Streets",
-        "url": "https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2"
-      },
-      "artists": [
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
-        }
-      ],
-      "duration_ms": 145605,
-      "name": "For The Streets",
-      "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
     },
     {
       "added_at": "2023-09-08 17:16:48",
@@ -501,20 +577,24 @@
       "url": "https://open.spotify.com/track/6VEEzKXbaLIzRjCYXYlzi6"
     },
     {
-      "added_at": "2023-10-13 23:22:50",
+      "added_at": "2024-01-19 21:50:47",
       "album": {
-        "name": "$1M",
-        "url": "https://open.spotify.com/album/1BpLjNHS6EqNkrIaJ3otYr"
+        "name": "Role Model",
+        "url": "https://open.spotify.com/album/27YzHBsMfq6RvPQxWiK9sC"
       },
       "artists": [
         {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
         }
       ],
-      "duration_ms": 110184,
-      "name": "$1M",
-      "url": "https://open.spotify.com/track/6EZevl0aJzkUmW0MUQKC1p"
+      "duration_ms": 195546,
+      "name": "Major (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/3Yt2ph8Ko0JBANpdawzSF2"
     },
     {
       "added_at": "2023-09-28 18:29:44",
@@ -561,58 +641,6 @@
       "url": "https://open.spotify.com/track/4yiMqpWedLgroh2cGXcT2v"
     },
     {
-      "added_at": "2023-09-29 22:08:40",
-      "album": {
-        "name": "No Socks 3",
-        "url": "https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb"
-      },
-      "artists": [
-        {
-          "name": "Cash Kidd",
-          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
-        },
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 186728,
-      "name": "Yea Freestyle",
-      "url": "https://open.spotify.com/track/1tNIrPGSAhs4wquxihb01G"
-    },
-    {
-      "added_at": "2023-10-30 18:22:27",
-      "album": {
-        "name": "CROPTOBER",
-        "url": "https://open.spotify.com/album/19JHhDgdHmp1v4eWBP1TZU"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        }
-      ],
-      "duration_ms": 124878,
-      "name": "Alpha Bay",
-      "url": "https://open.spotify.com/track/2RpFhFj8UsIyd7d5v2EZa9"
-    },
-    {
-      "added_at": "2023-09-28 18:26:18",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/4l2DlHC3hnZlhpu7SxGYUR"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        }
-      ],
-      "duration_ms": 121690,
-      "name": "Access Granted",
-      "url": "https://open.spotify.com/track/3DG8BACcLZTelczHn3W8Hf"
-    },
-    {
       "added_at": "2023-09-28 18:27:19",
       "album": {
         "name": "Get Off",
@@ -649,24 +677,20 @@
       "url": "https://open.spotify.com/track/7CTy1cSm23vGlZPvCfyMZA"
     },
     {
-      "added_at": "2023-09-15 21:41:43",
+      "added_at": "2023-09-28 18:26:18",
       "album": {
-        "name": "Special (feat. OhGeesy)",
-        "url": "https://open.spotify.com/album/3DW538fBEe0ld2Oj4SIgK1"
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/4l2DlHC3hnZlhpu7SxGYUR"
       },
       "artists": [
         {
-          "name": "Cash Kidd",
-          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
-        },
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Special (feat. OhGeesy)",
-      "url": "https://open.spotify.com/track/3Mlcjjz7jwTyNcb1mP7qsI"
+      "duration_ms": 121690,
+      "name": "Access Granted",
+      "url": "https://open.spotify.com/track/3DG8BACcLZTelczHn3W8Hf"
     },
     {
       "added_at": "2023-09-08 17:16:24",
@@ -823,22 +847,6 @@
       "duration_ms": 131368,
       "name": "Money",
       "url": "https://open.spotify.com/track/44AJ0XazpwYbC3NsFmio43"
-    },
-    {
-      "added_at": "2023-09-08 17:17:10",
-      "album": {
-        "name": "Boomshakalacka",
-        "url": "https://open.spotify.com/album/5umq61b97ffg7TKVaBeLVo"
-      },
-      "artists": [
-        {
-          "name": "ShittyBoyz",
-          "url": "https://open.spotify.com/artist/0ztFqsZLzjkKU2aRyeqQ9S"
-        }
-      ],
-      "duration_ms": 131058,
-      "name": "Boomshakalacka",
-      "url": "https://open.spotify.com/track/3IMnLWHNOdfvz0nfBEJaqP"
     },
     {
       "added_at": "2023-04-10 22:28:24",

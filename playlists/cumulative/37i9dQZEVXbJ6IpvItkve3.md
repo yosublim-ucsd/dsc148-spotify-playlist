@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-879 songs - 2 day 1 hr 27 min
+880 songs - 2 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,7 @@
 | [ככה זה](https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [ככה זה](https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e) | 4:08 | 2023-06-16 | 2023-06-29 |
 | [ככה כל יום](https://open.spotify.com/track/70Vsir4Wan3TrEzGCIZy0l) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [ככה כל יום](https://open.spotify.com/album/5CkUVNtP9mFb6spNR8ixHC) | 2:55 | 2022-02-10 | 2022-07-10 |
 | [כל הזמן](https://open.spotify.com/track/2Tj40SM6JmwopRXGP47hrE) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [שטח אפור](https://open.spotify.com/album/6wqHpH5HDBbGleU9BnjFS9) | 4:34 | 2023-04-26 | 2023-04-28 |
-| [כל הזמן הזה](https://open.spotify.com/track/60GvepzSwgGx8kaZNln4L0) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [שפל וגאות](https://open.spotify.com/album/5JoChxeUG2tSn3EWUAEtrh) | 4:58 | 2023-01-09 |  |
+| [כל הזמן הזה](https://open.spotify.com/track/60GvepzSwgGx8kaZNln4L0) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [שפל וגאות](https://open.spotify.com/album/5JoChxeUG2tSn3EWUAEtrh) | 4:58 | 2023-01-09 | 2024-01-20 |
 | [כל הכוכבים](https://open.spotify.com/track/6xtqda5h0wlcFn3WdI4pb6) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 2:41 | 2021-12-18 | 2023-12-15 |
 | [כלום](https://open.spotify.com/track/6EUHRgL59SPenygocr5G9j) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 2:52 | 2023-02-11 | 2023-03-19 |
 | [כמו שאני](https://open.spotify.com/track/4OuoS8NAur7tj6rMDpTVjJ) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [כמו שאני](https://open.spotify.com/album/7C2J1726TKx0QfQXoIkkEl) | 3:22 | 2022-04-04 | 2022-09-01 |
@@ -679,6 +679,7 @@
 | [לראות את האור](https://open.spotify.com/track/5vcjj1PnF81hHkf6tkHZWh) | [Efrat Gosh](https://open.spotify.com/artist/31rjcnxNmi1OZHp6Ld7LLA) | [הסליחה ואני](https://open.spotify.com/album/46wL2kekFuiYuN8smLd8R4) | 3:06 | 2022-05-05 | 2023-04-21 |
 | [לשוב הביתה](https://open.spotify.com/track/52n4gF126eIllrGuc9Zus6) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [שטח אפור](https://open.spotify.com/album/6wqHpH5HDBbGleU9BnjFS9) | 3:17 | 2021-03-27\* | 2023-12-25 |
 | [לשטוף את העיניים](https://open.spotify.com/track/17vUXWH5DrZi961ZobcElf) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:24 | 2023-02-23 | 2023-02-26 |
+| [לשטוף את העצב](https://open.spotify.com/track/4cHhUWXkEtSj7kdue9SO5u) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לשטוף את העצב](https://open.spotify.com/album/5FNVYBinYTk1C3HkDkKQb5) | 4:04 | 2024-01-19 |  |
 | [מאמי](https://open.spotify.com/track/0iTSkLz9biPGVXqTSrkkNd) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [מאמי](https://open.spotify.com/album/75PctryEK8QcxFQyEF37bc) | 2:00 | 2022-12-19 | 2023-04-01 |
 | [מאמי](https://open.spotify.com/track/2gpNRdJs3Sy5GI1G7pTgbZ) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [האמת](https://open.spotify.com/album/2As67LcrZgVdpKqa0YAnSA) | 2:00 | 2023-03-31 | 2023-05-21 |
 | [מבטיח](https://open.spotify.com/track/10Hl2j6T952VAUSQHGLQ04) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:06 | 2021-12-07 | 2021-12-11 |

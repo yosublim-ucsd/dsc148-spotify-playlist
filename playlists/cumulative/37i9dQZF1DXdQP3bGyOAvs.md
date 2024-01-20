@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-344 songs - 17 hr 1 min
+346 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2022-05-20 |  |
 | [Brainbreeze](https://open.spotify.com/track/5bl0PsxNJRP8zsMyTvvKMJ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Ambrosial](https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9) | 3:17 | 2022-05-20 |  |
 | [Breathe](https://open.spotify.com/track/6w65VLrEUjdJWogZOrxkQK) | [Holen](https://open.spotify.com/artist/5cXpsHnHXFVMvhLzth4SNY) | [Breathe](https://open.spotify.com/album/1MmSJXSRYXhiSEt9yLvWr5) | 3:18 | 2022-10-07 |  |
+| [Brownstone](https://open.spotify.com/track/0vCwMTRAzNvCHa0RF4ihrP) | [grenedine](https://open.spotify.com/artist/5Zl6z0uleWI3PhrBQFque1) | [Brownstone](https://open.spotify.com/album/5vYcTF1iOy83MvlOsKDhGx) | 2:43 | 2024-01-19 |  |
 | [Burkhan Khaldun](https://open.spotify.com/track/6TxjV6NmbSPb7o87TxnSbC) | [ocraceo](https://open.spotify.com/artist/3xqgTNkaBgvmqqmLgTJ8Le) | [Burkhan Khaldun](https://open.spotify.com/album/2uTIdYSfFDtzK0u24vxs43) | 3:29 | 2022-10-28 |  |
 | [Butterfly](https://open.spotify.com/track/3rp3tNPhOHySBqHbawolKh) | [Pat Jr](https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ) | [Butterfly](https://open.spotify.com/album/5H9k158ooh71IQmt6WL5iR) | 2:39 | 2023-11-17 |  |
 | [BWU](https://open.spotify.com/track/40rev08jSE8ZQfrESVu4uc) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [BWU](https://open.spotify.com/album/3DqLVnnKXLgMLkldyl5ctY) | 2:32 | 2023-09-08 |  |
@@ -281,6 +282,7 @@
 | [Semiconcious](https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox) | [Brooklynn Contreras](https://open.spotify.com/artist/6ds4IULZlDK5RutmpOhwGt) | [Semiconcious](https://open.spotify.com/album/39yrRMOKpQOdKX1ElgihUm) | 3:00 | 2022-05-20 | 2022-07-08 |
 | [Sepia Story](https://open.spotify.com/track/3EppUOHNVjSn5C1WF5QWby) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X) | [Lose The Net EP](https://open.spotify.com/album/3Zrl7BMOKHsfeQ0EyvYeqD) | 3:56 | 2022-05-20 |  |
 | [Shimmer](https://open.spotify.com/track/4Cii3rooOPgvklHGE3O8y2) | [Steve Residence](https://open.spotify.com/artist/3PGuQmihozoJRR9SeY7ldd) | [Shimmer](https://open.spotify.com/album/0UPoyslKIHed6kluQUuP7M) | 2:59 | 2022-05-20 | 2022-09-09 |
+| [Shinzo](https://open.spotify.com/track/0Nrl3S3aMRGSK3DTcirXSa) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Shinzo](https://open.spotify.com/album/0xsdFHxLomV4Kv3sBvwCPK) | 2:49 | 2024-01-19 |  |
 | [Shizz](https://open.spotify.com/track/3TaNU6gtqHzEfNZMJXYM43) | [Mads Nielsen Stolt](https://open.spotify.com/artist/1F9o7boqKQEWTQRIorbiR4) | [Shizz](https://open.spotify.com/album/1fVNSTVc3lGbJpRZPkOFN0) | 2:33 | 2023-06-19 |  |
 | [shot in the dark](https://open.spotify.com/track/4hULKxQ5vbKsYbADaBt79H) | [silvershore](https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [home](https://open.spotify.com/album/1EYRql02lmzaaQU6eutZqm) | 4:23 | 2022-07-08 | 2023-08-25 |
 | [shot in the dark](https://open.spotify.com/track/5dS4VNWntUKePgcRosnHDA) | [silvershore](https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [home](https://open.spotify.com/album/2vMOTd4uSddo7HT2xXy6BU) | 4:23 | 2023-08-25 | 2023-10-03 |

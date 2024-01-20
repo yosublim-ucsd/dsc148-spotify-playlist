@@ -4,7 +4,7 @@
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-80 songs - 5 hr 53 min
+81 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [He Moved Through the Fair](https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ) | 4:22 | 2022-03-11 |  |
 | [He Moved Through the Fair](https://open.spotify.com/track/0W7j85pNUDFELwo0X1LYuT) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/6atSPS93SeVrBd9zHHpvR2) | 4:22 | 2021-10-12 | 2022-07-29 |
 | [Hungover at Mass](https://open.spotify.com/track/31Yu3GZPzEP0W5VQbgYpAn) | [Junior Brother](https://open.spotify.com/artist/2CdmJGEGEkzPZ966NCmtKz) | [Fuck Off I Love You](https://open.spotify.com/album/3pgfgpBBeC180QtwWT1uIB) | 2:49 | 2022-03-07 |  |
+| [Leave](https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Leave](https://open.spotify.com/album/2zwQsQOUckjqeOZ8Id2hVL) | 3:22 | 2024-01-19 |  |
 | [Liscannor Bay](https://open.spotify.com/track/32hl16DWU7E2QRVEDbOmTx) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Audio Incense](https://open.spotify.com/album/0gurWRwbN6vQoZe7kJJAwf) | 5:02 | 2021-10-12 | 2022-10-19 |
 | [Liscannor Bay](https://open.spotify.com/track/560IhdGKuEZyrgK9a7wJCG) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Audio Incense](https://open.spotify.com/album/46m6GZTJWRMqQzjJQK5f27) | 5:02 | 2022-03-11 |  |
 | [Lisdoonvarna](https://open.spotify.com/track/05KvSXpXEWd3YCwTPG0xu9) | [Christy Moore](https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ) | [On the Road](https://open.spotify.com/album/0pGk5GqEidvPcTratzBAyJ) | 5:06 | 2021-10-12 |  |

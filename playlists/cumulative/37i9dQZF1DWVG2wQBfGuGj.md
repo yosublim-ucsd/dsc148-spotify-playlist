@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-204 songs - 10 hr 28 min
+207 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2023-05-05 |  |
 | [Before](https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT) | [Fresh Faces](https://open.spotify.com/artist/054OEgiAhYwnqHQOV2KmSc) | [Before](https://open.spotify.com/album/0ZgzhNN2wnyVnDjlRKi0vK) | 2:34 | 2023-05-05 |  |
 | [Bistro](https://open.spotify.com/track/75BKUJhsdVhntSUFH3SJIA) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Bistro](https://open.spotify.com/album/6lRaq8aH54MRdr0Bf4pjz3) | 3:02 | 2023-05-05 |  |
+| [Bit of Window](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Bit of Window](https://open.spotify.com/album/0FNmtTsexTnrZApBaH9zap) | 2:01 | 2024-01-19 |  |
 | [bite](https://open.spotify.com/track/0A9L6iHSJlw20569MQReXc) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [bite](https://open.spotify.com/album/5wXCltGIpBkxiLxnXk6NNb) | 3:08 | 2023-05-05 |  |
 | [Blinking Floor](https://open.spotify.com/track/2bmJl6YB8DkDOD6XQpKmc9) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Blinking Floor](https://open.spotify.com/album/0MoM280Dkta6Et0q8SxNiZ) | 3:31 | 2023-05-26 |  |
 | [Bloom](https://open.spotify.com/track/4t487YqFwbxrqFziKX396O) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Bloom](https://open.spotify.com/album/0mA04kcJvcmKdF2vmFBidO) | 3:05 | 2023-05-05 |  |
@@ -32,6 +33,7 @@
 | [Bored of Amsterdam](https://open.spotify.com/track/2yoNkyAIcjMORYpu1S6Vi0) | [ice bather](https://open.spotify.com/artist/74gUv2wBKXAG2Ad1hGJlps) | [Bored of Amsterdam](https://open.spotify.com/album/2ItmmMWBeNdf6aI0hWFTBn) | 2:28 | 2023-05-05 |  |
 | [C'est la vie](https://open.spotify.com/track/6pa0AGTLAWRTclXoforij1) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [C'est la vie](https://open.spotify.com/album/6lcv0jcRTZQfcHBCrzJnpf) | 2:02 | 2023-05-05 |  |
 | [Cala Pada](https://open.spotify.com/track/1A7y3IaHjjnPXB536LnPuq) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Cala Pada](https://open.spotify.com/album/6vkTL2R6ws7QMOxyfN6yc2) | 2:40 | 2023-05-05 |  |
+| [Cap](https://open.spotify.com/track/6U0uoeEv7ZCgIkld5Wgm2H) | [Floral Gloam](https://open.spotify.com/artist/1j93Wm2QholT6mKJY937gM) | [Cap](https://open.spotify.com/album/49RS1FSRlFrsmA6PpzjZSN) | 2:40 | 2024-01-19 |  |
 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2023-05-05 |  |
 | [Catch Me If I Fall](https://open.spotify.com/track/3bYLZXk4Vu07bOjIhOlWvF) | [Leon Cox](https://open.spotify.com/artist/3AL3ufihLodtdojR6lnpKz) | [Dumb Love](https://open.spotify.com/album/5R0zpwam34VSlLyjvn0Amr) | 2:21 | 2023-06-23 |  |
 | [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 | 2023-05-05 |  |
@@ -53,6 +55,7 @@
 | [daydream](https://open.spotify.com/track/57XuroWBY0xlYqTEOArRyO) | [Liona Lotus](https://open.spotify.com/artist/30aieRomfqWYR79BigbnoI) | [daydream](https://open.spotify.com/album/4cySKoxWRjnNHKn2BBDpoH) | 2:29 | 2023-05-05 |  |
 | [Deeper](https://open.spotify.com/track/669mKwphlql1xM5zEt8qS9) | [Tom Blacksmith](https://open.spotify.com/artist/5EFjLl4MUtvtBnRUTKr1I7) | [Deeper](https://open.spotify.com/album/2IhCeBCVlCmKdrN9IGB2C0) | 2:35 | 2023-05-05 |  |
 | [Delineate](https://open.spotify.com/track/4qeoXvocd4Dkl9XtYmPMeN) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Delineate](https://open.spotify.com/album/40Q1EM8I4mpVR3AVIbro38) | 3:03 | 2023-05-05 |  |
+| [Delorean](https://open.spotify.com/track/2kIh8ffUj2hTqKSo8ybPKE) | [Tendoi](https://open.spotify.com/artist/2z9X7bc1KRXpaknuQYQMGu) | [Delorean](https://open.spotify.com/album/4d5yLHUY1m9cfbc8kuOoJX) | 2:30 | 2024-01-19 |  |
 | [delusion](https://open.spotify.com/track/18eyp5yPA0eyuSzcMt5WXb) | [Yim](https://open.spotify.com/artist/79EyYkNpcR3MlT972PZoUc) | [delusion](https://open.spotify.com/album/2GB4a6t2Ly9fBUfrelTSKs) | 3:48 | 2023-05-05 |  |
 | [Demons \- Massane Remix](https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Demons](https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ) | 4:03 | 2023-05-05 |  |
 | [Deseable](https://open.spotify.com/track/0qzUky8XluETMf67vmyAIP) | [Joe Franzoni](https://open.spotify.com/artist/0hgnhbFQrceUMjdC3L3Ugn) | [Deseable](https://open.spotify.com/album/0e5TXcaLggVbVsaBhU0iGo) | 2:29 | 2023-05-05 |  |

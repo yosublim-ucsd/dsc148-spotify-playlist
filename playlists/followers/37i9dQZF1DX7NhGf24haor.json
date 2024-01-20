@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 155809,
+  "2024-01-20": 156056,
   "date_first_scraped": "2022-12-10",
   "description": "Updated weekly | Hardstyle | Cover: Warface",
   "name": "Hardstyle Adrenaline! 2024",
@@ -75,6 +75,24 @@
       "duration_ms": 231000,
       "name": "A New World",
       "url": "https://open.spotify.com/track/38So5TtZSKYWfmiOCluOZM"
+    },
+    {
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159562,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k"
     },
     {
       "album": {
@@ -543,7 +561,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 178459,
       "name": "Anybody Out There - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/61jmRb7BCwjFj5GCY80p38"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 181548,
       "name": "Beat Goes On",
       "url": "https://open.spotify.com/track/2pBbLV84KbF2AaHAnOnArp"
@@ -1094,6 +1112,24 @@
     },
     {
       "album": {
+        "name": "Best You Had",
+        "url": "https://open.spotify.com/album/6SOmgsXsxNAbT9eqjBGNT1"
+      },
+      "artists": [
+        {
+          "name": "Shinzo",
+          "url": "https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211229,
+      "name": "Best You Had",
+      "url": "https://open.spotify.com/track/2amhiUtf9coX3HMV3Fo8gf"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/6RRHmdUHYC0dL6Z15WbXgg"
       },
@@ -1165,6 +1201,32 @@
       "duration_ms": 212000,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1SUnipJp9KrH96akpJJy39"
+    },
+    {
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4uIkOoNWJ5g4s8opsDXMKN"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
+        {
+          "name": "Stormerz",
+          "url": "https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf"
+        },
+        {
+          "name": "Jordan Jade",
+          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183483,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/7gq0vpnkvKExckP2NsEksd"
     },
     {
       "album": {
@@ -1253,7 +1315,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 156750,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/49JXG0LXR8YOML5ToWqVCl"
@@ -2696,6 +2758,24 @@
     },
     {
       "album": {
+        "name": "Daughters",
+        "url": "https://open.spotify.com/album/5kHrn3PY69FrHg2CmcG2at"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218334,
+      "name": "Daughters",
+      "url": "https://open.spotify.com/track/0paKm4a9VqKeN1kSx13Pzk"
+    },
+    {
+      "album": {
         "name": "Day & Night",
         "url": "https://open.spotify.com/album/7f9kvVgYzIrkycQ11LkZ7Z"
       },
@@ -2930,6 +3010,32 @@
     },
     {
       "album": {
+        "name": "Devil In Disguise",
+        "url": "https://open.spotify.com/album/7H5HKPi1upr3dB0sDSNtXo"
+      },
+      "artists": [
+        {
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        },
+        {
+          "name": "Radianze",
+          "url": "https://open.spotify.com/artist/0nvvhGGaXFDeqaYRd3BdHR"
+        },
+        {
+          "name": "\u00c6LINN",
+          "url": "https://open.spotify.com/artist/6NsKMikdjKAce0fFJ7xvkw"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196258,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/6C5zD4QIPlumM3Nz27aEO9"
+    },
+    {
+      "album": {
         "name": "Devil's Night",
         "url": "https://open.spotify.com/album/74r8ToJjCrvRJBuxQzMTas"
       },
@@ -3101,7 +3207,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 164300,
       "name": "Do Whatcha Say",
       "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
@@ -5543,7 +5649,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 104400,
       "name": "HOOYAH",
       "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
@@ -6415,7 +6521,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 162374,
       "name": "Jack (One More Round)",
       "url": "https://open.spotify.com/track/4rTA5hrkv233BWoASSKt3T"
@@ -6459,6 +6565,28 @@
       "duration_ms": 221571,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/6MT1aOXD8AMViizbBbVXa8"
+    },
+    {
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/63yjSekBPPm8GIwjHAdAWI"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205490,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/1J8s1yH5MJNm7AFCBcUyKH"
     },
     {
       "album": {
@@ -6824,6 +6952,28 @@
     },
     {
       "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/4MglQ4DxEGfdIG2W3X37LS"
+      },
+      "artists": [
+        {
+          "name": "AVA CROWN",
+          "url": "https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC"
+        },
+        {
+          "name": "YKATI",
+          "url": "https://open.spotify.com/artist/2FOTwZJ9lsI3mpT68nqc10"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177290,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/2h4Il2gOGncuUZM5JuhEkr"
+    },
+    {
+      "album": {
         "name": "Ladada (Remixes)",
         "url": "https://open.spotify.com/album/6tCLqWJYxVJFddtwZXXK4R"
       },
@@ -6991,6 +7141,28 @@
       "duration_ms": 169000,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/3TsPdA6kFbD64ZOicOKFWb"
+    },
+    {
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/0fAVJyzfy7Tt4VBeWH3EYT"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Tensteps",
+          "url": "https://open.spotify.com/artist/7gIEIIwEUPxZmScP2JCkPU"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176167,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/6r2XJ4GuCkUVX3Jb3XSOzU"
     },
     {
       "album": {
@@ -8017,7 +8189,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 180197,
       "name": "Make It Loud!",
       "url": "https://open.spotify.com/track/6erinBUBZzvNAy5lLdaVPU"
@@ -8761,7 +8933,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 174294,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/4uZLkiCJHog1qI04KdhzNv"
@@ -10244,6 +10416,28 @@
     },
     {
       "album": {
+        "name": "Rave From The Grave",
+        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177016,
+      "name": "Rave From The Grave",
+      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
+    },
+    {
+      "album": {
         "name": "Rave im Loop",
         "url": "https://open.spotify.com/album/2EUEUeH3spy2DzAT7JggTN"
       },
@@ -10285,7 +10479,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 160000,
       "name": "Rave Into The Night (feat. Diandra Faye)",
       "url": "https://open.spotify.com/track/6fjluyT54G59LHW4PnVZ97"
@@ -10625,6 +10819,28 @@
       "duration_ms": 182709,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4yuqtzwV5flMo1HkXOMSu1"
+    },
+    {
+      "album": {
+        "name": "Refuse To Speak",
+        "url": "https://open.spotify.com/album/2O7cKf95l1egp34bcl9d4L"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Bryant Powell",
+          "url": "https://open.spotify.com/artist/7a1kQopYaNCKayQsvMQiNs"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213713,
+      "name": "Refuse To Speak",
+      "url": "https://open.spotify.com/track/2mag3VWfGlpBA6YOdpTeV6"
     },
     {
       "album": {
@@ -11301,7 +11517,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 222996,
       "name": "RTHM - Jay Reeve Remix",
       "url": "https://open.spotify.com/track/3DxyRFHGa0KaKECiCwQ8xK"
@@ -11411,7 +11627,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 188774,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
@@ -11805,7 +12021,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 200292,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4j88dqy9AY39QhuRJir7xv"
@@ -12666,6 +12882,28 @@
     },
     {
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "Bass Modulators",
+          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208383,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM"
+    },
+    {
+      "album": {
         "name": "Take Me Up",
         "url": "https://open.spotify.com/album/0ZMTslSR9ktXlBVOIXXoI8"
       },
@@ -12809,6 +13047,28 @@
       "duration_ms": 176440,
       "name": "Techno Is Back",
       "url": "https://open.spotify.com/track/5VCi0XuLd9ejKOZEaV4Tvq"
+    },
+    {
+      "album": {
+        "name": "Techno Syndrome (Mortal Kombat)",
+        "url": "https://open.spotify.com/album/5ojvfc6g78q7i7VgZdwGBn"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Techno Syndrome (Mortal Kombat)",
+      "url": "https://open.spotify.com/track/6oxX7IUFlUGTB3FIcF2ZlL"
     },
     {
       "album": {
@@ -12995,7 +13255,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 209091,
       "name": "The Fallout",
       "url": "https://open.spotify.com/track/6gQN8T6FQdzXOnHMNRSOwT"
@@ -14211,7 +14471,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 174193,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/4jzng6gZ20TWwnGpCnIOrO"
@@ -14671,7 +14931,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 212193,
       "name": "Voices Calling",
       "url": "https://open.spotify.com/track/0OVUQFCm8ibe6adTJ572hg"
@@ -14861,7 +15121,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 161377,
       "name": "Watch Me Break Free",
       "url": "https://open.spotify.com/track/7AfY7tbTfL5l74UOafmyZD"

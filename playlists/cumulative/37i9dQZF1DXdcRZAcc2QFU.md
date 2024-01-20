@@ -2,7 +2,7 @@
 
 ### [90s Dance Bollywood](https://open.spotify.com/playlist/37i9dQZF1DXdcRZAcc2QFU)
 
-> Get jiggy with 90s 'dhinchak' beats\. Cover \- China Gate
+> Get jiggy with 90s 'dhinchak' beats\. Cover \- Yaraana
 
 119 songs - 11 hr 46 min
 

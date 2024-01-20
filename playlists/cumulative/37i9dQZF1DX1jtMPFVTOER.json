@@ -5377,6 +5377,28 @@
     },
     {
       "album": {
+        "name": "Jes' Grew in Osaka",
+        "url": "https://open.spotify.com/album/50VQyLVeMuOcE1SpRUvsCE"
+      },
+      "artists": [
+        {
+          "name": "R.A.P. Ferreira",
+          "url": "https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb"
+        },
+        {
+          "name": "Fumitake Tamura",
+          "url": "https://open.spotify.com/artist/41SItxhAnaousMYdgHn3rt"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140956,
+      "name": "Jes' Grew in Osaka",
+      "url": "https://open.spotify.com/track/53zSIKyb1KsBsb9EmFerpM"
+    },
+    {
+      "album": {
         "name": "Jimmy",
         "url": "https://open.spotify.com/album/3SSySSNMkNqyYdXR208dRE"
       },

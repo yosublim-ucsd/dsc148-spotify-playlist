@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Sala
 
-2,109 songs - 5 day 15 hr 56 min
+2,110 songs - 5 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Ai need your love](https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai need your love](https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw) | 3:46 | 2023-11-28 | 2024-01-17 |
 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 | 2023-04-04 | 2024-01-12 |
 | [Ai no sei](https://open.spotify.com/track/5SYSLd0yk5Ih53NANxEbu6) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Ai no sei](https://open.spotify.com/album/4Exj2cZX9KPaHlz0tvpVuY) | 4:16 | 2022-10-11 | 2022-10-19 |
+| [Aiai](https://open.spotify.com/track/2fk7HoBZPtoeqIl54CLTR7) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madaramoyo](https://open.spotify.com/album/2SQQoQMMoeB2TnIQ8Wbc19) | 3:47 | 2024-01-18 |  |
 | [AINIIKOU](https://open.spotify.com/track/3oGRtggGs5FH6nVrOwDIaW) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [AINIIKOU](https://open.spotify.com/album/6VUReTTUia2grVUe5YL6N6) | 4:05 | 2023-05-30 | 2023-06-21 |
 | [Aiseta](https://open.spotify.com/track/62nFk3PRZcyj374GNw01Gz) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [Aiseta](https://open.spotify.com/album/5x7Nn1bwdvJ5Vx1l5cyZST) | 4:07 | 2022-06-02 | 2022-07-21 |
 | [Aitagai](https://open.spotify.com/track/2d1Ei1KUpgoGFTpjqj6vBN) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Aitagai](https://open.spotify.com/album/08pc5v5qapwWz7UGRTl7ge) | 3:51 | 2022-07-28 | 2022-08-03 |
@@ -799,7 +800,7 @@
 | [Over](https://open.spotify.com/track/2ReQ5u1eJ9PtBhy2euQCpr) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [Over](https://open.spotify.com/album/17gi4FRPtegnxGxs95C1dR) | 3:33 | 2022-12-27 | 2023-01-04 |
 | [Overdrive](https://open.spotify.com/track/7bQkHGtDYy1JDolcU5A3ix) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [白色蜉蝣](https://open.spotify.com/album/1Ik2BvP0bVrVf5HopKBPBr) | 3:02 | 2023-12-05 |  |
 | [Overeffective](https://open.spotify.com/track/0sGMXpI3SqATkRTgVd0Ahg) | [yuka\_miii](https://open.spotify.com/artist/2YFLt7kDjLAZ271BrVoOUP) | [Overeffective](https://open.spotify.com/album/7LvPVH9tA4wWjNjycsfHn8) | 4:55 | 2022-07-12 | 2022-07-27 |
-| [P.S.](https://open.spotify.com/track/5IUa0XCUrIzqjBcFv5fgRo) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [P.S.](https://open.spotify.com/album/4Ov5F3jrRQcCApqS3NheI0) | 2:52 | 2023-07-06 |  |
+| [P.S.](https://open.spotify.com/track/5IUa0XCUrIzqjBcFv5fgRo) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [P.S.](https://open.spotify.com/album/4Ov5F3jrRQcCApqS3NheI0) | 2:52 | 2023-07-06 | 2024-01-20 |
 | [Pain](https://open.spotify.com/track/5ut0TnRu9yc6BqZIl6DTvD) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Pain](https://open.spotify.com/album/4eZvJCg17A85m1guu6YCki) | 3:52 | 2022-09-27 | 2022-09-29 |
 | [Pain](https://open.spotify.com/track/63mpq0qgX2kJKKZemv1tVt) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Pain](https://open.spotify.com/album/2rAXWKVVeDpKypdooj43k3) | 3:52 | 2022-09-27 | 2022-10-26 |
 | [Paint It, Smile! feat\. Shin Sakiura & Rachel \(Blended by tofubeats\)](https://open.spotify.com/track/0PhkWYgL04mgzCaH9JhkUb) | [BACARDI RECORDS](https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Rachel](https://open.spotify.com/artist/7IYn0abL8ItO9AK63p7UFk) | [Paint It, Smile! feat\. Shin Sakiura & Rachel \(Blended by tofubeats\)](https://open.spotify.com/album/1HrBVaDefeiNUle3ZCa62M) | 3:54 | 2023-11-16 | 2023-11-22 |
@@ -1065,7 +1066,7 @@
 | [The birth of the odyssey \~ Monkey Magic](https://open.spotify.com/track/01sMxK887hTEwMEenV61pg) | [Mickie Yoshino](https://open.spotify.com/artist/6YtshtTc8bUPwvUcT8bkvw), [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [The birth of the odyssey \~ Monkey Magic](https://open.spotify.com/album/0BnmyBenolTJYIrp2MetHm) | 4:15 | 2022-05-31 | 2022-07-19 |
 | [The Day](https://open.spotify.com/track/5QwTTEjky32hgvl0k0ZgAC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [The Day / 39 Minutes](https://open.spotify.com/album/3zI7bAopezE3BRCUNwtcTx) | 3:54 | 2023-04-18 | 2023-05-10 |
 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 | 2023-02-23 | 2023-12-30 |
-| [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 | 2024-01-11 | 2024-01-17 |
+| [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 | 2024-01-11 |  |
 | [The Goldmine](https://open.spotify.com/track/6jySeYVTWo7S9HE1A9q7ju) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [The Goldmine](https://open.spotify.com/album/3bFJ75u5NpQsqi4HtxVHmQ) | 3:32 | 2023-11-14 | 2023-11-29 |
 | [The Memory of Persona](https://open.spotify.com/track/79wjyH8GhWosLYAlcBZWca) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:20 | 2022-08-18 | 2022-08-24 |
 | [The Moon × 星なんて言わず](https://open.spotify.com/track/0d7SVjLgnPByAyPNR0NvPf) | [NakamuraEmi](https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC), [藤原さくら](https://open.spotify.com/artist/5ciduzWXdsgIJYfJVkoEEa) | [The Moon × 星なんて言わず](https://open.spotify.com/album/2aMZjasuLppWmJiFE7g8MN) | 5:23 | 2022-09-15 | 2022-09-28 |
@@ -1835,7 +1836,7 @@
 | [愛をありがとう](https://open.spotify.com/track/5oDEAsNWeomAjcplALgqdw) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [愛をありがとう](https://open.spotify.com/album/5eaaXphQ2C5rwgoOKTbOp1) | 5:14 | 2023-08-31 | 2024-01-17 |
 | [愛をつかまえて](https://open.spotify.com/track/0NF5k4GYaJrr7hOJVzaVqD) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [愛をつかまえて](https://open.spotify.com/album/0yI2oGI2X12FrTCHxOBtr7) | 4:23 | 2022-12-13 | 2023-01-04 |
 | [愛をやめない](https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [愛をやめない](https://open.spotify.com/album/4G9hhOddozDYiI0ZAFbJv5) | 3:26 | 2023-06-13 | 2023-06-28 |
-| [愛哀](https://open.spotify.com/track/1jNX9JdSdlhqkmiIPBUii4) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まだらもよう](https://open.spotify.com/album/0bamCeA6hehUk8NqStBL7k) | 3:47 | 2024-01-18 |  |
+| [愛哀](https://open.spotify.com/track/1jNX9JdSdlhqkmiIPBUii4) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まだらもよう](https://open.spotify.com/album/0bamCeA6hehUk8NqStBL7k) | 3:47 | 2024-01-18 | 2024-01-20 |
 | [愛愛だな](https://open.spotify.com/track/0R8iqGwB3Pqm8B682EdFNo) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [愛愛だな](https://open.spotify.com/album/4nPK1HiNhDZnLL9XEGzZFJ) | 3:29 | 2022-10-11 | 2022-10-19 |
 | [愛浴びる](https://open.spotify.com/track/1pMWifOvrQ5DVqnIHCBUh3) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29) | [愛浴びる](https://open.spotify.com/album/07OwU3Hy6GsnrkUgTkP3JA) | 3:16 | 2023-10-31 | 2023-11-08 |
 | [慟哭 \- Self Cover](https://open.spotify.com/track/0s3yfzHrDPX5SEIDdsJaaU) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [慟哭 \(Self Cover\)](https://open.spotify.com/album/0vkmeavv5B7HjXJKQBS2t7) | 5:12 | 2022-06-21 | 2022-07-19 |

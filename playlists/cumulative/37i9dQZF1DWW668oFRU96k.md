@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Rust x Ben Nicky x WUKONG
 
-792 songs - 1 day 15 hr 24 min
+793 songs - 1 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [Do It to It](https://open.spotify.com/track/33c6ouH19o9Gdj1rcgBnTj) | [GRHHH](https://open.spotify.com/artist/0Nxi8lK4ujPl9gMviGj7TQ), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [Margad](https://open.spotify.com/artist/0q9Rikyw58WDoqfQpp70kM) | [Do It to It](https://open.spotify.com/album/2xZUFb8IRskzgUnzmisHJ0) | 2:31 | 2023-12-21 |  |
 | [Do u miss me ?](https://open.spotify.com/track/7kp2PHQnCb4j4zfDsg8vqg) | [Rsaku](https://open.spotify.com/artist/6GQoPeCJnEzIdZzA3IguUY) | [Do u miss me ?](https://open.spotify.com/album/6LE0uKGH8hbnn54M9OX4SR) | 4:07 | 2023-10-12 | 2023-11-17 |
 | [Do You Ever Think Of Me](https://open.spotify.com/track/18rYVFWfX3Qswv887VGPkK) | [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [FADES](https://open.spotify.com/artist/2VElyouiCfoYPDJluzwJwK) | [Do You Ever Think Of Me](https://open.spotify.com/album/4k94fSI7hqHBZKgeasz62W) | 1:59 | 2023-09-07 | 2023-10-13 |
-| [Dominos \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/2Hdawv1gUmrdDAzcGL6whs) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Dominos \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/7pri5MuUKJR5i3z5qXPDGC) | 2:30 | 2024-01-18 |  |
+| [Dominos](https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Dominos](https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL) | 2:30 | 2024-01-18 |  |
+| [Dominos \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/2Hdawv1gUmrdDAzcGL6whs) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Dominos \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/7pri5MuUKJR5i3z5qXPDGC) | 2:30 | 2024-01-18 | 2024-01-20 |
 | [DON'T DIE](https://open.spotify.com/track/4vUkX0xevB4sALfq2u9eeE) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [\(\(\( 4 \)\)\)](https://open.spotify.com/album/1vuo6cSdhF9bO9sqzkSgQN) | 2:48 | 2023-08-31 | 2023-09-29 |
 | [Don't Get My Hopes Up](https://open.spotify.com/track/5SjB72oQVhVI2QSwmSmRup) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Don't Get My Hopes Up](https://open.spotify.com/album/5blqBnpp6Z4oMRAdBWu5Hl) | 3:16 | 2023-07-13 | 2023-08-18 |
 | [Don't Let Me Down](https://open.spotify.com/track/0gb0YeFA2eJLiIzkQkkbLe) | [Jinxspr0](https://open.spotify.com/artist/6dGnKpumgA8WOmhmoMsGhK) | [Don't Let Me Down](https://open.spotify.com/album/1R2en2zgFxPh76TB0yrTSL) | 3:05 | 2023-02-02 | 2023-03-03 |

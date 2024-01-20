@@ -4,7 +4,7 @@
 
 > A mediterranean sundown soundtrack.
 
-167 songs - 13 hr 50 min
+168 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Gated Area](https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 3:48 | 2022-09-05 |  |
 | [Georgy Porgy \(feat\. Cheryl Lynn\) \- Disco Version](https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [The Best Of Cheryl Lynn: Got To Be Real](https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy) | 5:05 | 2022-09-05 |  |
 | [Get It Up For Love](https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ) | [Ned Doheny](https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw) | [Hard Candy](https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA) | 4:41 | 2022-09-05 |  |
-| [Give It To You \- Ralf GUM Radio Edit](https://open.spotify.com/track/4Jlibu79z626cTAfJJlqdK) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Paula](https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK) | [Give It To You](https://open.spotify.com/album/1igCm1p286pDmWPgoYC5nP) | 3:48 | 2022-09-05 |  |
+| [Give It To You \- Ralf GUM Radio Edit](https://open.spotify.com/track/4Jlibu79z626cTAfJJlqdK) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Paula](https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK) | [Give It To You](https://open.spotify.com/album/1igCm1p286pDmWPgoYC5nP) | 3:48 | 2022-09-05 | 2024-01-20 |
 | [Gobi](https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage](https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji) | 5:57 | 2022-09-05 |  |
 | [Hablame](https://open.spotify.com/track/5zOUieF8uLE90U0cJDn2pL) | [Carlo](https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo) | [Hablame](https://open.spotify.com/album/1mzMF0AB5CBiwaNOIq6tZS) | 6:19 | 2022-09-05 | 2022-10-15 |
 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 | 2023-07-14 |  |
@@ -140,6 +140,7 @@
 | [Sacred](https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 5:47 | 2022-09-05 |  |
 | [Sacred](https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 5:47 | 2022-09-05 | 2022-10-18 |
 | [Salut Les Copines!](https://open.spotify.com/track/4r9eG1cNJDhM3Ytk4Q9IDw) | [Erobique](https://open.spotify.com/artist/2Gde0DBcgb2YE6AV1lqLxH), [Luis Baltes](https://open.spotify.com/artist/43oWyBwlsUqdwyUFDH3zAq) | [Salut Les Copines!](https://open.spotify.com/album/55HilqDiXstqvBTcXJjHzO) | 4:44 | 2023-05-26 | 2023-06-17 |
+| [Sands of Aruba](https://open.spotify.com/track/7DNpkhHwYqLpegThVQxwUB) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Cerebral Hemispheres](https://open.spotify.com/album/46sews77v3EoXe6PzYmYdD) | 4:39 | 2023-07-14 |  |
 | [Sign](https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:18 | 2022-09-05 | 2024-01-12 |
 | [Silver & Gold \- Yarni & Liv East Remix](https://open.spotify.com/track/6NcwcM29hzGg6nmq6YOz42) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Silver & Gold \(Yarni & Liv East Remix\)](https://open.spotify.com/album/5bdW11Oe6IDrFSROCHH7Ef) | 5:00 | 2023-07-14 | 2023-08-22 |
 | [Single Malt \- Radio Edit](https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em) | [TOSZ](https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM) | [Single Malt](https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX) | 2:49 | 2022-09-05 | 2023-10-22 |

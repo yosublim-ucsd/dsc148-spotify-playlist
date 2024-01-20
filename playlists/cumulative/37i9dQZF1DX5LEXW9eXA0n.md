@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Lim Jae Hyun\(임재현\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Solar\(솔라\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,137 songs - 3 day 1 hr 37 min
+1,139 songs - 3 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Love Fool](https://open.spotify.com/track/5gst02IN8JD3CfXM7IfVnc) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [Love Fool](https://open.spotify.com/album/1G8G3j5EIPIsIMtL71hsco) | 3:53 | 2023-09-14 | 2023-11-03 |
 | [Love from a Real Heart\(2023\)](https://open.spotify.com/track/0Muf8pCSuf50DOoWs9ABVz) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/5N1C8ku1f0eBcsPPlNOvxI) | 4:20 | 2023-06-13 | 2023-10-20 |
 | [Love Has Come](https://open.spotify.com/track/2rpDaKl43i3upa2gA5U4Mj) | [박은별](https://open.spotify.com/artist/6eND6gC0dTpsXrhY0If1Gp) | [Love Has Come](https://open.spotify.com/album/7pLEQP2V4TkCTCr2n2vhzV) | 3:59 | 2023-02-14 | 2023-03-28 |
+| [Love Has Gone](https://open.spotify.com/track/1wosDePUhVsLYB3MMdyX20) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [Solar Gamsung Part.7](https://open.spotify.com/album/7yswxvToOpvR5Xgrqa9uKx) | 4:00 | 2024-01-19 |  |
 | [Love in Color](https://open.spotify.com/track/5kde3lf0Dm5Epkb1R8hEhI) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 2:57 | 2023-05-05 | 2023-05-16 |
 | [Love is](https://open.spotify.com/track/534SllIFQuSvXIvl3wpsRg) | [idea](https://open.spotify.com/artist/2LEJG6jMglnT21XNF7E8xJ) | [Love is](https://open.spotify.com/album/4kV6ajJrQSLcy82oxJY3xo) | 3:42 | 2022-07-07 | 2022-08-19 |
 | [love is everything \(Feat\. U\-Rim\)](https://open.spotify.com/track/68twHXbWeVxgidIyw4C8hO) | [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX), [U\-Rim](https://open.spotify.com/artist/4ULMN5yWXAK57P2mlJkJJI) | [love is everything](https://open.spotify.com/album/3uRqaovLpNnVqdLZlkJN5d) | 3:36 | 2023-07-07 | 2023-10-17 |
@@ -732,6 +733,7 @@
 | [Our Season](https://open.spotify.com/track/3yA7377j20H03qiukcBkjU) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [Our Season](https://open.spotify.com/album/5BwR3SR5PxOBdMG0kWUdjR) | 3:36 | 2022-12-16 | 2023-02-25 |
 | [Our Spring \(feat\. Im Ga Young\)](https://open.spotify.com/track/59d2K1gzt3M9PKdyCsI6sY) | [Private Story](https://open.spotify.com/artist/2d7sJ0zIcqj1jDMYBkw4S6), [Im Ga Young](https://open.spotify.com/artist/6BgU40lKJzHwS6AzWzjEue) | [Our Spring](https://open.spotify.com/album/4z8DyqmUvuhzUjvkFvRbiH) | 3:52 | 2023-02-24 | 2023-05-16 |
 | [Our story \(Feat\. Lee Ru Da\)](https://open.spotify.com/track/5IwtQvh6siooeSKVvlmyLl) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [Lee Ru DA](https://open.spotify.com/artist/5KRcPRmGptkCL1QT6QR9qA) | [Our story](https://open.spotify.com/album/1jCd0DcZBJpGNhVtCOjcMi) | 4:27 | 2022-12-16 | 2023-02-09 |
+| [Our Youth](https://open.spotify.com/track/07yQMmTOzCbHuczo6yR5RJ) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Our Youth](https://open.spotify.com/album/0wLCobJuw9BcWtoVvbIYXf) | 3:44 | 2024-01-19 |  |
 | [Phantom Pain](https://open.spotify.com/track/2DFxgbXJzTe8P7DJ5wjDeD) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:38 | 2022-03-29 | 2022-04-14 |
 | [Pieces of You](https://open.spotify.com/track/2JAK4EVBo5hkj7u9Ed1JuX) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [\[Pieces of \_\]](https://open.spotify.com/album/1Q7d6j21ErInY0s4guwJUx) | 3:42 | 2022-11-16 | 2023-01-21 |
 | [Plant](https://open.spotify.com/track/3oTeu6YzKhXQIogBgzJr9w) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Plant](https://open.spotify.com/album/5aUgxOcv6bo9gvuMZweqNb) | 3:27 | 2021-12-23 | 2022-07-04 |

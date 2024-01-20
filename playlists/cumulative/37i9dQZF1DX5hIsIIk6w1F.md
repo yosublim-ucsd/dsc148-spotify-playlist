@@ -2,9 +2,9 @@
 
 ### [Reggaetón Chileno](https://open.spotify.com/playlist/37i9dQZF1DX5hIsIIk6w1F)
 
-> Este Flow tiene otro Flow\. Foto: Jairo Vera & Gino Mella 🛒🛒
+> Este Flow tiene otro Flow\. Foto: Kidd Voodoo y Pablo Chill\-E
 
-597 songs - 1 day 9 hr 24 min
+598 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [TRANQUILA](https://open.spotify.com/track/12aUF72LN9UNtaqxH1ydLZ) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Guelo Star](https://open.spotify.com/artist/54AbdWd0XTHGLorkVwINN2) | [FINALMENTE RICO](https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk) | 2:32 | 2023-09-08 |  |
 | [TU DIABLO](https://open.spotify.com/track/3cubuvfYq2yHijwV7eCHwL) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [TU DIABLO](https://open.spotify.com/album/4hgAxWNVceOSRdMeaIcmIo) | 4:09 | 2022-11-04 | 2023-06-02 |
 | [TU DIABLO](https://open.spotify.com/track/7yYUEygHvdK2wnOzupPfZw) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [TU DIABLO](https://open.spotify.com/album/5nNEzv707WMcyARly8bUNs) | 4:09 | 2023-05-26 |  |
+| [Tu Diablo Remix \(feat\. El Jordan 23, Nickoog Clk & Tunechikidd\)](https://open.spotify.com/track/1tsWLeicLYHRuKi1sNbCWk) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [Tu Diablo Remix \(feat\. El Jordan 23, Nickoog Clk & Tunechikidd\)](https://open.spotify.com/album/77AYQ8GhjyHUOKRWNtqnKs) | 6:25 | 2024-01-19 |  |
 | [Tu Favorito](https://open.spotify.com/track/7qonOa9EFJ2SVu7aj3W2dn) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Tu Favorito](https://open.spotify.com/album/1dTkmGes2SGFUe009cB5PJ) | 3:05 | 2023-02-10 | 2023-03-11 |
 | [TU MANUAL](https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Savage Kreamly](https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU) | [FRÍO](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 2:48 | 2022-08-05 | 2022-11-08 |
 | [Tu Me Encantas](https://open.spotify.com/track/3gkO5kUhq9ALPPSeuqfziK) | [Nano TCB](https://open.spotify.com/artist/6i7kFD6YRkNeJFQhgA55RV), [Andrehbred](https://open.spotify.com/artist/3XpIrqVeY0I0kItCCUMuY1), [Basty Corvalan](https://open.spotify.com/artist/6p9BBRwixGcXxZ1gdcqmpd), [Luis Vi](https://open.spotify.com/artist/2xUYrN2TIgisHMPdjoSAAJ) | [Tu Me Encantas](https://open.spotify.com/album/6e2xc0UhIfFVUGfnGyNozK) | 3:58 | 2023-11-24 | 2023-12-09 |

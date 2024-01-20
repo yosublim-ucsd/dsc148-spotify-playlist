@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 968997,
+  "2024-01-20": 969360,
   "date_first_scraped": "2023-11-11",
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
   "name": "This Is Doja Cat",
@@ -395,7 +395,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 138293,
       "name": "Get Into It (Yuh)",
       "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
@@ -663,9 +663,27 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "date_added": "2023-11-10",
+      "date_added": "2024-01-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223560,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/0CsR9Y9SnC6ZWmekmVqSHz"
+    },
+    {
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-19",
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
@@ -687,7 +705,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 159160,
       "name": "Options (feat. JID)",
       "url": "https://open.spotify.com/track/1ayV64ur8VWgc6OPtPRl1q"

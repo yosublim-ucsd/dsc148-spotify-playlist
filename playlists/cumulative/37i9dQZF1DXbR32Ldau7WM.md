@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: the telephones
 
-921 songs - 2 day 13 hr 10 min
+923 songs - 2 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Enchanted](https://open.spotify.com/track/4Qt59YsDr0umqWYiQ8OowQ) | [ACME](https://open.spotify.com/artist/2TYzphz979sCxQxUStlg2Z) | [Enchanted](https://open.spotify.com/album/2HifaapZH6K97MZvHcVuzU) | 4:33 | 2022-05-17 | 2022-06-14 |
 | [Endless Etude](https://open.spotify.com/track/5apzPf5lbcJRTxjxGUOaJP) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude](https://open.spotify.com/album/1sXnSFVrTXhc3mmAP85Kho) | 3:36 | 2023-06-27 | 2023-06-29 |
 | [Endless Etude](https://open.spotify.com/track/7KQSQIp6HjMywrbBQcRK8k) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude](https://open.spotify.com/album/0SLhCyL023hUc10Klx7Wxw) | 3:36 | 2023-06-27 | 2023-07-12 |
-| [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/track/6u5POngpCtZfnIyLU2izjg) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/album/5FE6XRVjwqvXE4tQqiW5gx) | 2:37 | 2024-01-18 |  |
+| [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/track/4VzyVdmjdy5ud6oqpGkA6j) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/album/6G15tHXUBI9ajGjmVXWKjE) | 2:37 | 2024-01-18 |  |
+| [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/track/6u5POngpCtZfnIyLU2izjg) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/album/5FE6XRVjwqvXE4tQqiW5gx) | 2:37 | 2024-01-18 | 2024-01-20 |
 | [Entertain](https://open.spotify.com/track/6jxS9Z1610FPfKcT339Kfb) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [Entertain](https://open.spotify.com/album/2bnZXiHyF1C2F1cMZWn2zX) | 3:36 | 2022-09-08 | 2022-09-15 |
 | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/track/0NFygNu7nBTxL1jqq0lkUB) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr) | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/album/45ACzJq5h6fGVFImpWxwuI) | 3:21 | 2023-07-25 | 2023-08-02 |
 | [EPISODE 7](https://open.spotify.com/track/0UkJuv4tuSYAq07KW2XUUL) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD), [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [THE NEW ALBUM](https://open.spotify.com/album/1oUP4voVB2HB89sPPsXCzO) | 4:59 | 2022-05-17 | 2022-06-15 |
@@ -273,7 +274,8 @@
 | [LOTUS](https://open.spotify.com/track/2ltQSZL2wJ7tZGI9iuEgKP) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/4FCFA4Jhv12f4DSemJgtsN) | 5:26 | 2023-08-22 | 2023-09-13 |
 | [LOTUS](https://open.spotify.com/track/4qDe8F9LpIIvd7xN2sJzN5) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/1g8SzxU5rOWw2X0yCZ9A39) | 5:26 | 2023-08-22 | 2023-08-24 |
 | [LOVE LETTER FROM A DEAD END](https://open.spotify.com/track/39mgx6DZ7yCF2u0ygKkYjZ) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [LOVE LETTER FROM A DEAD END](https://open.spotify.com/album/6TnLHPMsBHQm0BFfbaSuSN) | 4:18 | 2022-08-23 | 2022-09-07 |
-| [Love melts into the marble ocean](https://open.spotify.com/track/59Jucw9BcXHb8bwzTMR2n7) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [Love melts into the marble ocean](https://open.spotify.com/album/28ctY7cUtusuQBMlvyEPmf) | 3:01 | 2024-01-16 |  |
+| [Love melts into the marble ocean](https://open.spotify.com/track/59Jucw9BcXHb8bwzTMR2n7) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [Love melts into the marble ocean](https://open.spotify.com/album/28ctY7cUtusuQBMlvyEPmf) | 3:01 | 2024-01-16 | 2024-01-20 |
+| [Love melts into the marble ocean](https://open.spotify.com/track/2XHZBO4WZFfPiy4tpeOndd) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [A melody that flies beyond time](https://open.spotify.com/album/5jxccF7FKF9shTKQAd5MdI) | 3:02 | 2024-01-18 |  |
 | [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 | 2022-12-06 |  |
 | [LOVELESS](https://open.spotify.com/track/0CR13lQ9za1zCe8TrM8IQo) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [LOVELESS](https://open.spotify.com/album/7DaZae3yquuex9dVvij9F6) | 5:41 | 2023-10-03 | 2023-10-11 |
 | [LUNCH IN THE JAIL](https://open.spotify.com/track/5qZZBHfmrL77nESX4HsaY4) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [SCAFULL KING](https://open.spotify.com/album/2jULdN2D4jZOMca3abkOMk) | 3:32 | 2022-07-07 | 2022-07-13 |

@@ -3480,6 +3480,24 @@
     {
       "album": {
         "name": "Kilian",
+        "url": "https://open.spotify.com/album/6Yxa8CBEMR8SQfeBxgObf3"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3q0bx1u5sP4KYE3XldP0PP"
+    },
+    {
+      "album": {
+        "name": "Kilian",
         "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
       },
       "artists": [
@@ -3720,7 +3738,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 256000,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/0MNM0hmteyINSvRtUIURTM"

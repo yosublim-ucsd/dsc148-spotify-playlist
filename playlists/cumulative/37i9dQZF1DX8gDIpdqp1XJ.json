@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Pilgrimage",
+        "url": "https://open.spotify.com/album/4eIw6qAS8xcAdBPvxjwOwJ"
+      },
+      "artists": [
+        {
+          "name": "Elephant Stone",
+          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104400,
+      "name": "Another Year Gone",
+      "url": "https://open.spotify.com/track/18IHR1UaWnHMRQAqy2clHG"
+    },
+    {
+      "album": {
         "name": "Another Year Gone",
         "url": "https://open.spotify.com/album/5Ue9eH8utP2C5koj3Efp6q"
       },
@@ -836,7 +854,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 104400,
       "name": "Another Year Gone",
       "url": "https://open.spotify.com/track/3DPcH2cjFG7QvBh2DI1ajr"

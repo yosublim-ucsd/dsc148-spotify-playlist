@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-203 songs - 10 hr 42 min
+204 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ain't Nobody \- Acoustic](https://open.spotify.com/track/5WjvEQDGeckLD5BfsE3QnR) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Ain't Nobody \(Acoustic\)](https://open.spotify.com/album/43zIXrsyryxFsZhrTQooND) | 3:04 | 2023-02-10 | 2023-02-28 |
 | [All I Have to Do Is Dream \- Acoustic](https://open.spotify.com/track/1ZInn6dKkIyQv8YFDgmsBD) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [All I Have to Do Is Dream \(Acoustic\)](https://open.spotify.com/album/0kG9UJ3SqUt8vAq7g9jRcs) | 2:12 | 2023-01-06 |  |
 | [All I Want](https://open.spotify.com/track/10MfRY0BlY64cFKsmNWbzw) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1), [Damien McFly](https://open.spotify.com/artist/2ft7APiBr9l00FbsSnu92x) | [All I Want](https://open.spotify.com/album/2CCjWEsPiaGoFrlTJUruCc) | 3:37 | 2019-10-13 |  |
+| [All the Small Things \- Acoustic](https://open.spotify.com/track/3l4bwhzSFGV2WSE475EOnh) | [Jay Filson](https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p) | [All the Small Things \(Acoustic\)](https://open.spotify.com/album/7aoAhLDhaeBR1dTK7Z5Tgx) | 2:46 | 2024-01-19 |  |
 | [Alone \- Acoustic](https://open.spotify.com/track/1B9WxRqdKbP0gAAL3q9Ohe) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Alone \(Acoustic\)](https://open.spotify.com/album/420N4bPQPoz5sYIhCfF0Z7) | 2:59 | 2023-01-20 | 2023-05-10 |
 | [Are You Lonesome Tonight \- Acoustic](https://open.spotify.com/track/66YElTd7MwaseFmQrl7fml) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Are You Lonesome Tonight \(Acoustic\)](https://open.spotify.com/album/2TcO9xgFjQFpuxIHpLazvO) | 2:45 | 2022-07-19 | 2023-02-02 |
 | [Are You Ready For Love \- Acoustic](https://open.spotify.com/track/1gSYByMOpWmlDoZbDWkoCY) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Are You Ready For Love \(Acoustic\)](https://open.spotify.com/album/7y3h4tQvfsi20zAYLvHZlu) | 3:37 | 2023-09-01 | 2024-01-13 |

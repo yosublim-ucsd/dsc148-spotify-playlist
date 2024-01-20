@@ -2,9 +2,9 @@
 
 ### [Academia Reggaetón](https://open.spotify.com/playlist/37i9dQZF1DXd8p9XRfIfUn)
 
-> Lo mejor de la nueva\. Foto: Jere Klein
+> Lo mejor de la nueva\. Foto: Jhay P
 
-238 songs - 12 hr 20 min
+240 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,10 @@
 | [Cambumbeo](https://open.spotify.com/track/67yoTcCOwAROr45LtoPirZ) | [Jodosky](https://open.spotify.com/artist/6jOQofEFDXLbMGlzn3xSua) | [Cambumbeo](https://open.spotify.com/album/01G2aulEHyod28lfjovZ5C) | 3:40 | 2022-05-13 | 2022-07-28 |
 | [Canciones Tristes](https://open.spotify.com/track/2h7JcRB8XDQVBpkgGgjnQx) | [Flako Gallego](https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ), [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm) | [Canciones Tristes](https://open.spotify.com/album/4vFy7FX84Siyg6PO5y3v6y) | 3:13 | 2023-03-10 | 2023-04-28 |
 | [Caramelo](https://open.spotify.com/track/7k0CT9uAIYQ5weaguKxize) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Perrea Con Delivery](https://open.spotify.com/album/43G8xNvKvMAl0QU9sWASah) | 3:39 | 2022-09-30 | 2022-11-19 |
+| [Cartagena](https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Bowdozen](https://open.spotify.com/artist/4tCGhpQLgAw56eCyh1qQaN), [Sebas Boxian](https://open.spotify.com/artist/61BDXR8Fu8hQ1xmdJR405N) | [Cartagena](https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u) | 3:15 | 2024-01-19 |  |
 | [Casualidad](https://open.spotify.com/track/67ii9wXrKQpBjfKS3u1iw1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Casualidad](https://open.spotify.com/album/4phSmqrWOtf4GIh6dhwDSI) | 2:41 | 2022-05-13 | 2022-07-29 |
 | [Chakaleo](https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI) | [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Chakaleo](https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz) | 3:03 | 2023-10-06 |  |
-| [Chakalicious](https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Chakalicious](https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC) | 3:19 | 2023-04-28 |  |
+| [Chakalicious](https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Chakalicious](https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC) | 3:19 | 2023-04-28 | 2024-01-20 |
 | [Cocco](https://open.spotify.com/track/6nLaJqDyVmn4TucKxQSIcN) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Cocco](https://open.spotify.com/album/1QHELUBylohKxXjvZEk7zH) | 2:57 | 2022-07-01 | 2022-07-29 |
 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 | 2022-05-13 | 2023-04-28 |
 | [Coja Su Turno](https://open.spotify.com/track/5biLJCYTswO3bHmu2mqHsh) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Coja Su Turno](https://open.spotify.com/album/29kcFQy9l5cIY1MQzDpjZ8) | 2:41 | 2022-05-13 | 2022-05-28 |
@@ -60,6 +61,7 @@
 | [Dimelo Ma](https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Dimelo Ma](https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh) | 2:53 | 2022-05-13 |  |
 | [Duro](https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo) | [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Duro](https://open.spotify.com/album/5NMbnNAo4I9o0KoWD3th5r) | 3:42 | 2022-05-13 | 2023-04-22 |
 | [e\-mail](https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Red Fingers](https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo) | [e\-mail](https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn) | 2:31 | 2023-03-10 | 2023-06-30 |
+| [El Proceso](https://open.spotify.com/track/0U7Np9KFcf7jWLvKUv1mn8) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [El Proceso](https://open.spotify.com/album/3mEPBqD1r3DVB7f3ajBpeF) | 2:34 | 2024-01-19 |  |
 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 | 2023-06-29 |  |
 | [EN EL GHETTO \#4 \(Mamasota\)](https://open.spotify.com/track/0DxcodexgP3zyY8jnNhBiW) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal) | [EN EL GHETTO \#4 \(Mamasota\)](https://open.spotify.com/album/4BrIxQMFaO62q9fmDaCpkn) | 2:51 | 2023-10-06 | 2023-10-24 |
 | [Energía](https://open.spotify.com/track/22oKMi79lZopxiIGIYtJjZ) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Agenda](https://open.spotify.com/album/4HrO2e9pvucUACAOGRoRFQ) | 4:09 | 2022-06-10 | 2022-07-29 |
@@ -110,7 +112,7 @@
 | [Lento](https://open.spotify.com/track/3n718OS6VC04q3SZRIcU5x) | [Albere](https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Lento](https://open.spotify.com/album/1KH6SoonDjQIqiI2naQwm9) | 2:40 | 2023-04-21 | 2023-04-28 |
 | [Ley Anti Perreo](https://open.spotify.com/track/2Uu3nR9OVgH59eUawX2qRs) | [EDGAR MIX](https://open.spotify.com/artist/2RH2SlqVJ07lcpBb68bSxI), [El Habano](https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya) | [Ley Anti Perreo](https://open.spotify.com/album/5QHkwAKmaO5SLVQptAuxRC) | 2:50 | 2024-01-12 |  |
 | [Limbo](https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Limbo](https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J) | 2:58 | 2022-09-02 | 2023-04-14 |
-| [Linda](https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Linda](https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx) | 2:21 | 2024-01-12 |  |
+| [Linda](https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Linda](https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx) | 2:21 | 2024-01-12 | 2024-01-20 |
 | [lo peor](https://open.spotify.com/track/0w6rYYEf5FrT6plPg6UhxW) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [BASADO EN HECHOS REALES](https://open.spotify.com/album/0IcITWG6ouM737VCcXxanj) | 3:02 | 2022-05-13 | 2022-07-25 |
 | [Lo Que Tienes](https://open.spotify.com/track/1ftABeHaXdNPjsOmhosE5L) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Lo Que Tienes](https://open.spotify.com/album/1qoTZ7Qt3O05KxWWIPMeZu) | 3:20 | 2022-05-13 | 2022-06-04 |
 | [Locura y Maldad](https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Locura y Maldad](https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j) | 3:20 | 2022-05-13 | 2023-08-27 |

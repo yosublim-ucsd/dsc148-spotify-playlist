@@ -1,13 +1,129 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Salin. Artwork: Joy Yamusangie",
-  "num_followers": 207213,
+  "num_followers": 207343,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGMxMmY4YzM0YTUzZWFmM2IxMWM3Yzk2MjcxODhiNTE2YmVjZGRh",
+  "snapshot_id": "MCw2NmUxMjQ3MjhkZWUwMTViMmE5MmFkMjAwM2ZiNjZjYmJiNGE5Yjhi",
   "tracks": [
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "BETA",
+        "url": "https://open.spotify.com/album/7EeRJ9cQ7IoV4xgE5uCsYn"
+      },
+      "artists": [
+        {
+          "name": "Keys Open Doors",
+          "url": "https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp"
+        }
+      ],
+      "duration_ms": 254025,
+      "name": "Millennial Blues",
+      "url": "https://open.spotify.com/track/4cWadzVZdZ1Xuj1BLoMJJY"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Locana",
+        "url": "https://open.spotify.com/album/2BrwUF0cl17iaUZBSQcwqL"
+      },
+      "artists": [
+        {
+          "name": "Oliver Crosby",
+          "url": "https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO"
+        },
+        {
+          "name": "pantology",
+          "url": "https://open.spotify.com/artist/6BmJQyuJW3ghQ8qLROaOt0"
+        }
+      ],
+      "duration_ms": 142718,
+      "name": "Plasma",
+      "url": "https://open.spotify.com/track/0tN87uXOyp6KjCfUVms7o5"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Paloma Negra",
+        "url": "https://open.spotify.com/album/2VB4d4FBZoC9555ijLuAoA"
+      },
+      "artists": [
+        {
+          "name": "Amy Gadiaga",
+          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
+        }
+      ],
+      "duration_ms": 314480,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/2tsB2qb8IcqQbL5VFdRhVs"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Trails and Traces",
+        "url": "https://open.spotify.com/album/5snXS22NW1Cdz3RubODbu5"
+      },
+      "artists": [
+        {
+          "name": "Nye Banfield",
+          "url": "https://open.spotify.com/artist/6YgKVXsxdkdMvPKtun2Mf7"
+        }
+      ],
+      "duration_ms": 444718,
+      "name": "E11",
+      "url": "https://open.spotify.com/track/2VNTkhoJjWiPIfNhkqkbun"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Sunday In The Park",
+        "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
+      },
+      "artists": [
+        {
+          "name": "Sammy Jackson",
+          "url": "https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y"
+        }
+      ],
+      "duration_ms": 265239,
+      "name": "Sunday In The Park",
+      "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "strider",
+        "url": "https://open.spotify.com/album/5NoDLQ5QSJ4duUHcQVRXFs"
+      },
+      "artists": [
+        {
+          "name": "DREAMSCAPES",
+          "url": "https://open.spotify.com/artist/3MasxTtJV1RA8nnX53K3Bx"
+        }
+      ],
+      "duration_ms": 267031,
+      "name": "strider",
+      "url": "https://open.spotify.com/track/2RL1rKwbnmRCYc7HHAEXwE"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "She's A Rose",
+        "url": "https://open.spotify.com/album/43nL0Zl1akWZ0wz03ccCOx"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Beat",
+          "url": "https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "She's A Rose",
+      "url": "https://open.spotify.com/track/0VRICfiGMTS9RPnzpxoJ9Z"
+    },
     {
       "added_at": "2024-01-10 05:00:00",
       "album": {
@@ -287,38 +403,6 @@
       "duration_ms": 251786,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/6qUpHqV6aHTSZRDjcYSoUV"
-    },
-    {
-      "added_at": "2023-07-19 04:00:00",
-      "album": {
-        "name": "Evil Cute",
-        "url": "https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa"
-      },
-      "artists": [
-        {
-          "name": "Shunaji",
-          "url": "https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx"
-        }
-      ],
-      "duration_ms": 128914,
-      "name": "Evil Cute",
-      "url": "https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv"
-    },
-    {
-      "added_at": "2023-07-19 04:00:00",
-      "album": {
-        "name": "Old Ways",
-        "url": "https://open.spotify.com/album/7nLXYdenu1taLVjTuc2abf"
-      },
-      "artists": [
-        {
-          "name": "OLI",
-          "url": "https://open.spotify.com/artist/4aVGCycBaldIruvN75WWpl"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Old Ways",
-      "url": "https://open.spotify.com/track/3xYuikO0QMfmoWoCxTakRG"
     },
     {
       "added_at": "2023-11-29 05:00:00",

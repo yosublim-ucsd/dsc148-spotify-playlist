@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Kaka
 
-289 songs - 13 hr 43 min
+290 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Jaan Vaardi](https://open.spotify.com/track/5vFYS7eKsrq4HdeKrzZhfu) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Jaan Vaardi](https://open.spotify.com/album/0knl45XLCOvvGfiJWoTjkq) | 2:28 | 2023-04-24 | 2023-07-21 |
 | [Jail](https://open.spotify.com/track/3GqvCPECYIcL4nV88jYGyT) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/5s97Jucf39sW9uP10l77nT) | 3:27 | 2023-09-21 |  |
 | [Jail](https://open.spotify.com/track/4vq09IiRwg2EdJtovCl5H2) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 3:27 | 2023-08-29 | 2023-09-22 |
+| [Jalwa](https://open.spotify.com/track/40F1lbxeOINcF2VOC7yt3S) | [Jot Ladhar](https://open.spotify.com/artist/6uB5Rk4rcsvBH3XFjeoBDR), [Kash Ladhar](https://open.spotify.com/artist/5aX4K8tN6Ii8JIGFRcs3uR), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Jalwa](https://open.spotify.com/album/2Lwf3gqTD5n18onGycB4gg) | 3:06 | 2024-01-19 |  |
 | [Jamanta](https://open.spotify.com/track/6MDnTLjLmWzlav88TLyA1v) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Jamanta](https://open.spotify.com/album/1vgvePwrcyUGI8iczJp3WZ) | 2:31 | 2024-01-05 | 2024-01-19 |
 | [Jatt Bande](https://open.spotify.com/track/13h6cUhOMSOrZsxjboUCqC) | [Deep Dosanjh](https://open.spotify.com/artist/2wfWZhs4Vfsaebzcqg6QSR), [J Chahal](https://open.spotify.com/artist/4jGSwWsGAs9KOrd6LPxg2E), [Money On The Beat](https://open.spotify.com/artist/5bx5ppUrhA6GF5l2swMOk9) | [Jatt Bande](https://open.spotify.com/album/1h9UkIIWgLsV6r5o1r2yj7) | 3:19 | 2023-10-06 | 2023-10-24 |
 | [Jatt Da Nishana](https://open.spotify.com/track/6N9A8SUlqnGQghsclChU5x) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jatt Da Nishana](https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT) | 2:29 | 2023-03-29 | 2023-04-21 |
@@ -213,7 +214,7 @@
 | [Notorious](https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/6BDt4jKBfvMtxaomt3z8WU) | 3:00 | 2023-06-30 | 2023-07-15 |
 | [NOW](https://open.spotify.com/track/1E6UgMP4e9mod52TJDpmdz) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [NOW](https://open.spotify.com/album/4tddGC4KJCTe6OaT4OmnlW) | 2:24 | 2023-11-24 |  |
 | [Nukra](https://open.spotify.com/track/113NNK55hGq1KmKOyz7qH2) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg) | [Nukra](https://open.spotify.com/album/4GI47LHmkl0zcuAOph2lXO) | 2:30 | 2023-03-29 | 2023-04-21 |
-| [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-06-30 |  |
+| [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-06-30 | 2024-01-20 |
 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2023-03-29 | 2023-07-06 |
 | [Ok Reportaan](https://open.spotify.com/track/3N3mmADC87i2ekwBeTP54l) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Ok Reportaan](https://open.spotify.com/album/3cd3OLaia7aYId42IPsg5C) | 3:18 | 2023-03-29 |  |
 | [Panj Satt](https://open.spotify.com/track/6eqb8wEXFn5Xnk0myqmgHY) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Panj Satt](https://open.spotify.com/album/5YVd0ufS3Mla3KvQ7O4Xau) | 3:09 | 2023-09-26 |  |

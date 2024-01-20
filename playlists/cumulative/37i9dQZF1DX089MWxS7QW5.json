@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: JINBO, Hersh, PoPoMo)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: H1-KEY)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -4634,6 +4634,24 @@
       "duration_ms": 176523,
       "name": "The One I Love",
       "url": "https://open.spotify.com/track/6C1e3Fl3BHzlRNZk6ubm6C"
+    },
+    {
+      "album": {
+        "name": "H1-KEYnote #1 [Thinkin' About You]",
+        "url": "https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187226,
+      "name": "Thinkin' About You",
+      "url": "https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L"
     },
     {
       "album": {

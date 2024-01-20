@@ -1,528 +1,244 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2293,
+  "num_followers": 2292,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "OTAwLGU3NmM5MGQ0ZDRiZGRiYzk1NzUzZmUzNWFiOGMyYjhkZjIwNGU1OTY=",
+  "snapshot_id": "OTAyLDlhZGJlMzIwYjUzMzA0OTg5OTU4YzMwNjZkYjRjMjI3NGIyZTIyODA=",
   "tracks": [
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "Leftovers: Singles, B-Sides & Demos",
-        "url": "https://open.spotify.com/album/0CWMFIJAAk0c6H5qW2ob1T"
+        "name": "BORN AGAIN",
+        "url": "https://open.spotify.com/album/2bhswniYbpc6rjFJpApxoL"
       },
       "artists": [
         {
-          "name": "The Hard Aches",
-          "url": "https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq"
+          "name": "Sunny Suljic",
+          "url": "https://open.spotify.com/artist/3JcGZ9gszrHCHXC9wJtNko"
         }
       ],
-      "duration_ms": 177533,
-      "name": "Friendship - Demo",
-      "url": "https://open.spotify.com/track/5W1eslDBmRyc6THitpGxnq"
+      "duration_ms": 149565,
+      "name": "BORN AGAIN",
+      "url": "https://open.spotify.com/track/2fIlZvbVnLBP5Q5nm4d1IN"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "Dark Skies",
-        "url": "https://open.spotify.com/album/5NodXs8mlXnrAA0P6yu8n4"
+        "name": "Dance With The Wolves",
+        "url": "https://open.spotify.com/album/3zmdroM6MdvPlduWAZbaTe"
       },
       "artists": [
         {
-          "name": "Nomy",
-          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
-        }
-      ],
-      "duration_ms": 207538,
-      "name": "Dark Skies",
-      "url": "https://open.spotify.com/track/72mLqLvPHY8RU0noE9CpKs"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "BLACKOUT (Alternate Version)",
-        "url": "https://open.spotify.com/album/2eUga2PeyuVvkfCxrDEYkw"
-      },
-      "artists": [
-        {
-          "name": "Boris Jelic",
-          "url": "https://open.spotify.com/artist/1PTlE6GHeqVLBZxEkbFVWs"
+          "name": "La Vie Sauvage",
+          "url": "https://open.spotify.com/artist/1wyPu1vMvfUQ0ObNKkQRxe"
         },
         {
-          "name": "Markus X",
-          "url": "https://open.spotify.com/artist/0vxpTyVHlje0MgA3mcUksg"
+          "name": "Joy Ami",
+          "url": "https://open.spotify.com/artist/7BCX6kWg4qX5kJ0nEEKDOw"
         }
       ],
-      "duration_ms": 221209,
-      "name": "BLACKOUT - Alternate Version",
-      "url": "https://open.spotify.com/track/1tHOfAqzlLJs3M08bBh6SC"
+      "duration_ms": 187444,
+      "name": "Dance With The Wolves",
+      "url": "https://open.spotify.com/track/2RwdyjBqfKxMUAkjGLQqEM"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "Dying To Live",
-        "url": "https://open.spotify.com/album/1eJhNJFMpjuzAKVtqcHNDt"
+        "name": "HO\u015eGELDINIZ",
+        "url": "https://open.spotify.com/album/5OWh6yhLhO8nliTwKjKaLA"
       },
       "artists": [
         {
-          "name": "Only By Night",
-          "url": "https://open.spotify.com/artist/0oEQuhufOFE2MLw8bW9E4i"
+          "name": "Sultan",
+          "url": "https://open.spotify.com/artist/16EQuNU6K3sGYYgd4OnEJM"
         }
       ],
-      "duration_ms": 264543,
-      "name": "Dying To Live",
-      "url": "https://open.spotify.com/track/7JbXN2092ObQU4NvrZmKOn"
+      "duration_ms": 165569,
+      "name": "HO\u015eGELDINIZ",
+      "url": "https://open.spotify.com/track/43dEdcg12JzMlf6OrYKkSY"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "Midgardsblot",
-        "url": "https://open.spotify.com/album/2Su3EtVTpbHMnx7V8goh4h"
+        "name": "Motell Scandinavia",
+        "url": "https://open.spotify.com/album/2yk0AIlotsUPuKWmmrjmUz"
       },
       "artists": [
         {
-          "name": "V\u01eblusp\u00e1",
-          "url": "https://open.spotify.com/artist/04sNuGpenIU7aYWLTycRN7"
+          "name": "The Empire Strikes",
+          "url": "https://open.spotify.com/artist/33rsq0Zsm7IvjhxaYRM1a4"
         }
       ],
-      "duration_ms": 318020,
-      "name": "Midgardsblot",
-      "url": "https://open.spotify.com/track/2t3oCOWblVTLqifeJk1bcV"
+      "duration_ms": 224426,
+      "name": "Motell Scandinavia",
+      "url": "https://open.spotify.com/track/6IOuTiNyOMgeN0mQFbUhUk"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "Desert Days",
-        "url": "https://open.spotify.com/album/1DPHbDKqRNsxEv8eS6WEn1"
+        "name": "Stillbild",
+        "url": "https://open.spotify.com/album/0lEglmk3eQGYBPt4Ddu9NI"
       },
       "artists": [
         {
-          "name": "Sean David and the Habit",
-          "url": "https://open.spotify.com/artist/3ynwIy9egJr6c9C04iDEcN"
+          "name": "Linda Davidsson",
+          "url": "https://open.spotify.com/artist/4BEBedYTYJe7oCWrohgRah"
         }
       ],
-      "duration_ms": 303338,
-      "name": "Dream Woman",
-      "url": "https://open.spotify.com/track/3g3RTNb2CSjuocpTKiIR7G"
+      "duration_ms": 200786,
+      "name": "Stillbild",
+      "url": "https://open.spotify.com/track/0Aql6E7duIaIgPLMiq4mW2"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "Hypnotised",
-        "url": "https://open.spotify.com/album/5RG8vTwducRiEcWHVxEGXq"
+        "name": "Zeit rennt",
+        "url": "https://open.spotify.com/album/7h7hEpIqYZejsPahUyUjGv"
       },
       "artists": [
         {
-          "name": "DISCOTEC",
-          "url": "https://open.spotify.com/artist/5ZhyHRDCUMwlK1YIo1CtSp"
+          "name": "Luka Blau",
+          "url": "https://open.spotify.com/artist/4i8TtzoLe7gzu0E06yA5wG"
         }
       ],
-      "duration_ms": 233901,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/1u9sjkwVBsT7t09CCMvO9o"
+      "duration_ms": 197640,
+      "name": "Zeit rennt",
+      "url": "https://open.spotify.com/track/2tsIjeseZegbinlM2WyOew"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "court of appeal",
-        "url": "https://open.spotify.com/album/61g6ynsddp1TRPe94A2M2H"
+        "name": "I Used To Rap",
+        "url": "https://open.spotify.com/album/7FY6G0ncIYc8Xz97kqGNiW"
       },
       "artists": [
         {
-          "name": "rchel",
-          "url": "https://open.spotify.com/artist/26wnM2YSYsE3xg8mC6PvPK"
-        }
-      ],
-      "duration_ms": 106500,
-      "name": "court of appeal",
-      "url": "https://open.spotify.com/track/1wJXTs8FFIU1ZLTbJ9DRad"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "My Story",
-        "url": "https://open.spotify.com/album/2rpwKujPp4W8q2YKrj28cU"
-      },
-      "artists": [
-        {
-          "name": "Ayvah Johnson",
-          "url": "https://open.spotify.com/artist/2HqqNi2WfR9gHdgiOs3O0a"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "My Story",
-      "url": "https://open.spotify.com/track/4tm3eNjEsc7rqq9zZ1j5zp"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "Sacr\u00e9 Coeur!",
-        "url": "https://open.spotify.com/album/4aGbfjyVTSWANUmq9DtFKB"
-      },
-      "artists": [
-        {
-          "name": "Faster Gun",
-          "url": "https://open.spotify.com/artist/2sftiyZsysYzxk7QHsUNFV"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Sacr\u00e9 Coeur!",
-      "url": "https://open.spotify.com/track/2R7gXforU4Qa30AZrUWPRb"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/0silC7bXcqrH3D4PZ8fzly"
-      },
-      "artists": [
-        {
-          "name": "Greyhawk",
-          "url": "https://open.spotify.com/artist/2PqOwEG59E1HajP71KYAmp"
-        }
-      ],
-      "duration_ms": 217248,
-      "name": "Serendipity",
-      "url": "https://open.spotify.com/track/7COdHa5CvLDi0NYVcIzESY"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "Electric Utopia",
-        "url": "https://open.spotify.com/album/21n0ixyTViKEXklzia1Xjm"
-      },
-      "artists": [
-        {
-          "name": "Tyson Bedes",
-          "url": "https://open.spotify.com/artist/35g7tmAnL41HJ0Wl8SqIb2"
+          "name": "Elekwent",
+          "url": "https://open.spotify.com/artist/0b2l5KxqL8lD0I3LiHUGtC"
         },
         {
-          "name": "Sasha Gates",
-          "url": "https://open.spotify.com/artist/4DDFMLnHhAnePVO13Hm2DK"
+          "name": "DJ Gandhi",
+          "url": "https://open.spotify.com/artist/76GYm7x1Coy9rq5y3LpxgQ"
         }
       ],
-      "duration_ms": 137483,
-      "name": "Electric Utopia",
-      "url": "https://open.spotify.com/track/5xr3e22YLPmMWzUJArmiLV"
+      "duration_ms": 272563,
+      "name": "Slaveship (2006)",
+      "url": "https://open.spotify.com/track/0RR9VblIWtCLPrO64CZD57"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "Semg\u200b\u0127\u200bat Id\u200b-\u200bDaqq (Hearts Beating in Time Remix)",
-        "url": "https://open.spotify.com/album/3YX5nn0ZoSTPcmkCzIOGde"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/4ZfuRh7A3tU94RGsj74DJR"
       },
       "artists": [
         {
-          "name": "Cher Camilleri",
-          "url": "https://open.spotify.com/artist/7GvioPS1CgtQfGj7oV18GZ"
-        },
-        {
-          "name": "Hearts Beating in Time",
-          "url": "https://open.spotify.com/artist/2dwR3T5442q3nv6VKfIjUD"
+          "name": "MiA MiU",
+          "url": "https://open.spotify.com/artist/6Vn8gccHuLh2r3GuuGUcvl"
         }
       ],
-      "duration_ms": 220255,
-      "name": "Semg\u200b\u0127\u200bat Id\u200b-\u200bDaqq - Hearts Beating in Time Remix",
-      "url": "https://open.spotify.com/track/1Spqt8vzj0KTMg5X0qcfcE"
+      "duration_ms": 200000,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/23HrYs9MGnklQcXKA9LALA"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "I'll be your sunshine",
-        "url": "https://open.spotify.com/album/5LhecRFVN7RM4mIt2DpAaJ"
+        "name": "\u05ea\u05d3\u05dc\u05d9\u05e7\u05d9 \u05e0\u05e8 \u05d0\u05de\u05d0",
+        "url": "https://open.spotify.com/album/2ypC5VKxW52RDgs7LorKZ6"
       },
       "artists": [
         {
-          "name": "The Beat Drops",
-          "url": "https://open.spotify.com/artist/4JqQzAkTH0vWUfxko6bPNy"
+          "name": "\u05d9\u05d5\u05d2\u05d1 \u05d3\u05d9\u05d9\u05df",
+          "url": "https://open.spotify.com/artist/0T6hgMZMHZMLKYjBX7rZaT"
         }
       ],
-      "duration_ms": 238115,
-      "name": "I'll be your sunshine",
-      "url": "https://open.spotify.com/track/7lIMX8F44TWygQbiYiCVLN"
+      "duration_ms": 240909,
+      "name": "\u05ea\u05d3\u05dc\u05d9\u05e7\u05d9 \u05e0\u05e8 \u05d0\u05de\u05d0",
+      "url": "https://open.spotify.com/track/1mkSA5R6Hy4JGtOyTn01MB"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "Hybrid Adventure",
-        "url": "https://open.spotify.com/album/6iQxdxtr4OCeEq0xsBY3px"
+        "name": "W.I.L.D",
+        "url": "https://open.spotify.com/album/27K8ZWpWytTvqJqN2ZbJSX"
       },
       "artists": [
         {
-          "name": "CJReva",
-          "url": "https://open.spotify.com/artist/5WiIWJjNGsBq0xOncMCYwI"
+          "name": "DA EPIC",
+          "url": "https://open.spotify.com/artist/5Mxq5Kh79okcRos0TsI1K3"
         }
       ],
-      "duration_ms": 177049,
-      "name": "Hybrid Adventure",
-      "url": "https://open.spotify.com/track/54YOjP9ub5zvc400lhkCsA"
+      "duration_ms": 197386,
+      "name": "W.I.L.D",
+      "url": "https://open.spotify.com/track/7l3nkdKcddVL2yZbjMuq6I"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "Do U Still Want Me",
-        "url": "https://open.spotify.com/album/5qbeNgmkw49aaNRU1u3Fv8"
+        "name": "Inspira\u00e7\u00f5es, No. 2",
+        "url": "https://open.spotify.com/album/5OZYd87IvuKE1NIIvTbJql"
       },
       "artists": [
         {
-          "name": "Animvs",
-          "url": "https://open.spotify.com/artist/46dxLi3PfIo25KtgQR9qcw"
+          "name": "July Guerrero",
+          "url": "https://open.spotify.com/artist/1rtUqDPGOmBcplybUf2UIm"
         }
       ],
-      "duration_ms": 288319,
-      "name": "Do U Still Want Me",
-      "url": "https://open.spotify.com/track/5gAp0jgmII5LwQvbx8Pkv6"
+      "duration_ms": 223162,
+      "name": "Joy Of My Life",
+      "url": "https://open.spotify.com/track/31psKBB7Y9JxmqgfJmfwyJ"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "Kiss & Smoke Weed",
-        "url": "https://open.spotify.com/album/5kDx7p6KlckKqp9btObkT6"
+        "name": "FUCK. IT.",
+        "url": "https://open.spotify.com/album/2B1CeZMwglOzjvdhvPh3BD"
       },
       "artists": [
         {
-          "name": "M'Grasker",
-          "url": "https://open.spotify.com/artist/4x8cddeqolBWunDvYI1G0O"
+          "name": "Limandi",
+          "url": "https://open.spotify.com/artist/1KqH2GQTqQOeJZI75Zv8uS"
         }
       ],
-      "duration_ms": 171043,
-      "name": "Kiss & Smoke Weed",
-      "url": "https://open.spotify.com/track/5E3YSpnB2eaGOL7sH2l88K"
+      "duration_ms": 156673,
+      "name": "One Day I'll Be Proud",
+      "url": "https://open.spotify.com/track/1WAY2iXXwO0RvejIDTCqA3"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "would be",
-        "url": "https://open.spotify.com/album/34bnyxpXcIZEjWahd4jL6Z"
+        "name": "Les Canadiens sont l\u00e0",
+        "url": "https://open.spotify.com/album/2Mj5OGzgJBNMUyHaKBtt8T"
       },
       "artists": [
         {
-          "name": "NOR",
-          "url": "https://open.spotify.com/artist/3v2NLgGaWCxVLIO4U98QRu"
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/2vqUUwPhJgFataUVYoulOG"
         }
       ],
-      "duration_ms": 165982,
-      "name": "would be",
-      "url": "https://open.spotify.com/track/5Bsnm6ymnbXnSS0o9CSwGa"
+      "duration_ms": 307571,
+      "name": "Les Canadiens sont l\u00e0",
+      "url": "https://open.spotify.com/track/2sWzhGwnV7hiVrfnLAY281"
     },
     {
-      "added_at": "2024-01-12 11:55:33",
+      "added_at": "2024-01-19 12:32:38",
       "album": {
-        "name": "Timelapse",
-        "url": "https://open.spotify.com/album/3uYJoQGkYi8zoMHip0lMpU"
+        "name": "Strange Faces",
+        "url": "https://open.spotify.com/album/5wMOd6urkYNmXPAxQabzCA"
       },
       "artists": [
         {
-          "name": "Theo B",
-          "url": "https://open.spotify.com/artist/4SvMy4IICP5vCdM6DvqnJh"
+          "name": "Satori Sun",
+          "url": "https://open.spotify.com/artist/2U31KvGjJP17T1YfZ3iM8Z"
         }
       ],
-      "duration_ms": 257547,
-      "name": "Timelapse",
-      "url": "https://open.spotify.com/track/71qhWqv7mE195Y55AezD5d"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "MORNING",
-        "url": "https://open.spotify.com/album/58m6lx1medUT0uq1QAmfVn"
-      },
-      "artists": [
-        {
-          "name": "The Brask",
-          "url": "https://open.spotify.com/artist/2k7uIhLfYLcRXJhdoIXcVV"
-        }
-      ],
-      "duration_ms": 231828,
-      "name": "MORNING",
-      "url": "https://open.spotify.com/track/7BbkWLDagYnOFUHUjwcJ8d"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "Wrestling Life Since '93",
-        "url": "https://open.spotify.com/album/2D15KZ9wrAd6BD23BsWrK6"
-      },
-      "artists": [
-        {
-          "name": "Swedish Wrestling",
-          "url": "https://open.spotify.com/artist/16E9MDOLc11xJdIo6y1yCq"
-        }
-      ],
-      "duration_ms": 159891,
-      "name": "Ricochet",
-      "url": "https://open.spotify.com/track/0BeitNHxZqGwNki17KxafI"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "Entwined",
-        "url": "https://open.spotify.com/album/2KEyjm0olOTfyby58xuGiu"
-      },
-      "artists": [
-        {
-          "name": "Pretty Average",
-          "url": "https://open.spotify.com/artist/1eWQlCkIaGH24w8x2yrDN0"
-        }
-      ],
-      "duration_ms": 162407,
-      "name": "Entwined",
-      "url": "https://open.spotify.com/track/7l0QuBF6BZoOUkGtim1a2y"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "Ihmisjahti",
-        "url": "https://open.spotify.com/album/4HGMttANsw8VyeSHjYeak1"
-      },
-      "artists": [
-        {
-          "name": "Toimipaikat rajalta",
-          "url": "https://open.spotify.com/artist/5u64f3I1SJ6MG9ktkdOmZr"
-        }
-      ],
-      "duration_ms": 113400,
-      "name": "Ihmisjahti",
-      "url": "https://open.spotify.com/track/74PpyyV6mU6MpbQBpHNOjF"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "Krokig och vacker",
-        "url": "https://open.spotify.com/album/3M176PopeheEFTJ8EkcUPg"
-      },
-      "artists": [
-        {
-          "name": "Warulv",
-          "url": "https://open.spotify.com/artist/5d4zkDCdRhHlKHENkwrHgz"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Krokig och vacker",
-      "url": "https://open.spotify.com/track/10dU2SRqwItcJAtulg4pwQ"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "Nhem Nhem Nhem",
-        "url": "https://open.spotify.com/album/0j7oUFAQjUmTd8u3ED1k87"
-      },
-      "artists": [
-        {
-          "name": "Ruspo",
-          "url": "https://open.spotify.com/artist/3qTa6exuGEBTmTCsae4mqU"
-        },
-        {
-          "name": "Marina Ribeiro",
-          "url": "https://open.spotify.com/artist/6loqsYkWxJ5DFY6Z8Bmtts"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Nhem Nhem Nhem",
-      "url": "https://open.spotify.com/track/05Sa8dugh2vdhdxZ9p9jNA"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2HisCCKbfhMq4zKUPDaaH1"
-      },
-      "artists": [
-        {
-          "name": "Carina Beldorf",
-          "url": "https://open.spotify.com/artist/4YCgsTkkC2jBhwEDCDJfJW"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/71baf4FVZA3UbEdMV28IaC"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "Life goes on without you",
-        "url": "https://open.spotify.com/album/0x27QbCg6qrzacoFVUJ5Zo"
-      },
-      "artists": [
-        {
-          "name": "Agenda 109",
-          "url": "https://open.spotify.com/artist/3EbcPfwjKEpU1zzcJrMtfD"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Life goes on without you",
-      "url": "https://open.spotify.com/track/4DqYwI9q9iCmlpgJSEWFHk"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "Sade",
-        "url": "https://open.spotify.com/album/4mlsaKpfsAEAarqxq5Akpb"
-      },
-      "artists": [
-        {
-          "name": "Kepa Lehtinen",
-          "url": "https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz"
-        }
-      ],
-      "duration_ms": 136125,
-      "name": "Sade",
-      "url": "https://open.spotify.com/track/6cBxOuENKr2wXiWfHNxgh5"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "Still Serving, Still Watching, Still Here Waiting for You",
-        "url": "https://open.spotify.com/album/2b4UId3TpGSgJrD7Qw6hZo"
-      },
-      "artists": [
-        {
-          "name": "JustTheDani",
-          "url": "https://open.spotify.com/artist/7djz8hKAB3Eid8dI8Ai4Zh"
-        }
-      ],
-      "duration_ms": 212193,
-      "name": "STRESSSTRESSSTRESSSTRESSSTRESSSTRESSSTRESSSTRESSSTRESSSTRESSSTRESSSTRESS",
-      "url": "https://open.spotify.com/track/7Gp2fZe8Iul6SNDlrNPpTN"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "I want to feel your Love.",
-        "url": "https://open.spotify.com/album/4TU2ykrBHGEDkq5KlExNEY"
-      },
-      "artists": [
-        {
-          "name": "Chanidu",
-          "url": "https://open.spotify.com/artist/2CaxmqQwziSBeaZ9CTwAb5"
-        }
-      ],
-      "duration_ms": 270306,
-      "name": "I want to feel your Love.",
-      "url": "https://open.spotify.com/track/0kIOkPKa9BCAsUu4FyqWQd"
-    },
-    {
-      "added_at": "2024-01-12 11:55:33",
-      "album": {
-        "name": "IDIOOTIN EL\u00c4M\u00c4",
-        "url": "https://open.spotify.com/album/0mPTDmnzJCuEmAxQ1Ey87J"
-      },
-      "artists": [
-        {
-          "name": "Christian Ovaska",
-          "url": "https://open.spotify.com/artist/4LZruY68gNiMtDQRcTQgxf"
-        },
-        {
-          "name": "Eternality",
-          "url": "https://open.spotify.com/artist/4HzzAvnwtEBT3VgX71sk0r"
-        }
-      ],
-      "duration_ms": 275235,
-      "name": "IDIOOTIN EL\u00c4M\u00c4",
-      "url": "https://open.spotify.com/track/07u8XP4RSPt36GWAyMZRLk"
+      "duration_ms": 211029,
+      "name": "Strange Faces",
+      "url": "https://open.spotify.com/track/4dL5BWJZhaJp3LeqD84k1N"
     }
   ],
   "unique_name": "Independent Music Friday",

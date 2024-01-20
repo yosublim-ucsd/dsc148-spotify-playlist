@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjJmMTAwM2E4ZDdmZjJiMDFkOGU1NzM3NjgzMjY5NDZmYzZhYTZk",
+  "snapshot_id": "MCw5NTU2NjcyYmFlZDQ4OWJmMzhhODg1NDI3YzkzNDJmOWQyMzIyNTI3",
   "tracks": [
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "NOLA",
+        "url": "https://open.spotify.com/album/4VcchPEqGkgbwQh6ir8NQt"
+      },
+      "artists": [
+        {
+          "name": "Judd Harris",
+          "url": "https://open.spotify.com/artist/2XBkRqo3V53w4jUCxylDPs"
+        }
+      ],
+      "duration_ms": 191703,
+      "name": "NOLA",
+      "url": "https://open.spotify.com/track/79tfhThMYe7QrTxkw7DgMG"
+    },
     {
       "added_at": "2022-04-29 04:02:00",
       "album": {

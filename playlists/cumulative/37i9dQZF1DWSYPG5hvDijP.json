@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 223448,
       "name": "11:11",
       "url": "https://open.spotify.com/track/0jaX10A3R9z6iMdVrq6Xiz"
@@ -972,6 +972,28 @@
       "duration_ms": 161100,
       "name": "California Blaze",
       "url": "https://open.spotify.com/track/0qsDLoN3Tvb3aOoa3h4TnP"
+    },
+    {
+      "album": {
+        "name": "Capital",
+        "url": "https://open.spotify.com/album/3TljnADIAMqIhChYqZacge"
+      },
+      "artists": [
+        {
+          "name": "Nanku",
+          "url": "https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152245,
+      "name": "Capital",
+      "url": "https://open.spotify.com/track/2rWXHzfYluOCWfEch3D9YH"
     },
     {
       "album": {
@@ -2260,6 +2282,32 @@
     {
       "album": {
         "name": "Joota Japani",
+        "url": "https://open.spotify.com/album/1GCClFFYn65g9WH1XXUWDK"
+      },
+      "artists": [
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Shankar Jaikishan",
+          "url": "https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Joota Japani",
+      "url": "https://open.spotify.com/track/7lzPCtx5j2JRFhbsGpbzQ7"
+    },
+    {
+      "album": {
+        "name": "Joota Japani",
         "url": "https://open.spotify.com/album/7f9xnfMtU6XlrQxMVNZbIq"
       },
       "artists": [
@@ -2308,7 +2356,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 155076,
       "name": "Joota Japani",
       "url": "https://open.spotify.com/track/3G0gdqt4LTreFwBYaymUhp"
@@ -3943,6 +3991,28 @@
     },
     {
       "album": {
+        "name": "Speed Dial",
+        "url": "https://open.spotify.com/album/2vAemOhIAe4odQzkKOLkdc"
+      },
+      "artists": [
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        },
+        {
+          "name": "Qaab",
+          "url": "https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125070,
+      "name": "Speed Dial",
+      "url": "https://open.spotify.com/track/1uTcgABqGIlkE3HzFM2TTq"
+    },
+    {
+      "album": {
         "name": "STAY DOWN",
         "url": "https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx"
       },
@@ -4552,7 +4622,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 182400,
       "name": "Woh Ladka - Tunnel Vision",
       "url": "https://open.spotify.com/track/07clR437zfjv7dMvggxiwl"

@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: AK\-69, ¥ellow Bucks
 
-405 songs - 20 hr 59 min
+406 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,8 @@
 | [Rico](https://open.spotify.com/track/1exBBRcJhe8PP09xQq066b) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Rico](https://open.spotify.com/album/0oRUYjfGLaCZGNLCYvucJN) | 2:36 | 2023-09-21 | 2023-10-18 |
 | [RIDE](https://open.spotify.com/track/6HlopwTXKBrTMzIW6NxjMV) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [Mellow In Da Street](https://open.spotify.com/artist/4szZFJd99QG7taRthx1Fq3) | [RIDE](https://open.spotify.com/album/45tl32WBDXpa7Gsgo0atzZ) | 2:39 | 2023-09-21 | 2023-10-02 |
 | [RIDE](https://open.spotify.com/track/7AVFGuK30O3qFE7ctSBLfW) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [Mellow In Da Street](https://open.spotify.com/artist/4szZFJd99QG7taRthx1Fq3) | [JIYU](https://open.spotify.com/album/5CBrCNVSRAUS1uYa3yYidP) | 2:39 | 2023-09-28 | 2023-10-04 |
-| [Rio Tokyo](https://open.spotify.com/track/5gzueSVEPLmnOZG0PI2eOL) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7), [Vingo](https://open.spotify.com/artist/2sId7OEZTvYfrkPknxAgas) | [Jet](https://open.spotify.com/album/6XTrvaWFBuo3pmfY7wbAet) | 3:28 | 2024-01-18 |  |
+| [Rio Tokyo](https://open.spotify.com/track/5gzueSVEPLmnOZG0PI2eOL) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7), [Vingo](https://open.spotify.com/artist/2sId7OEZTvYfrkPknxAgas) | [Jet](https://open.spotify.com/album/6XTrvaWFBuo3pmfY7wbAet) | 3:28 | 2024-01-18 | 2024-01-20 |
+| [Rio Tokyo](https://open.spotify.com/track/6MzZndXMHckI4EFM2Q425c) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7), [Vingo](https://open.spotify.com/artist/2sId7OEZTvYfrkPknxAgas) | [Jet](https://open.spotify.com/album/2pxtbEWJROV2re93TF9SMz) | 3:28 | 2024-01-18 |  |
 | [Rollin’](https://open.spotify.com/track/6uCScLbYOicfKzdqgqUiXa) | [MOTONARI](https://open.spotify.com/artist/4hKWXkmygX8rY3e0YI0IQk), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [30.28.3.0](https://open.spotify.com/album/6URZcPggAyOY8xmNyMgeJ4) | 2:30 | 2023-11-14 | 2023-12-14 |
 | [rose](https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [rose](https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL) | 2:16 | 2023-09-21 | 2023-11-09 |
 | [Run From My Pain](https://open.spotify.com/track/5rHG1sGaBJoewM5DqRQvKT) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB), [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F) | [Run From My Pain](https://open.spotify.com/album/1q5ZFnLdqKd8kzKd46KvwW) | 3:02 | 2023-12-26 | 2023-12-30 |

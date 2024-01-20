@@ -5381,6 +5381,24 @@
     },
     {
       "album": {
+        "name": "TODAY",
+        "url": "https://open.spotify.com/album/4OjauFn72q2vq40YbQJmoA"
+      },
+      "artists": [
+        {
+          "name": "Superyou",
+          "url": "https://open.spotify.com/artist/1jXQ438KxFz6ShKWTkXoMh"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234859,
+      "name": "Hello Goodbye",
+      "url": "https://open.spotify.com/track/0XMXbfxWikGd4IOQkhdFDy"
+    },
+    {
+      "album": {
         "name": "Hello Goodbye",
         "url": "https://open.spotify.com/album/7D3phVXDzH9Vj85uue6txn"
       },
@@ -5392,7 +5410,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 234859,
       "name": "Hello Goodbye",
       "url": "https://open.spotify.com/track/4ZlxrxzTA8yw2tO8AkT6gr"
@@ -6818,7 +6836,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 109373,
       "name": "kani",
       "url": "https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB"
@@ -13882,7 +13900,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 177259,
       "name": "Trank",
       "url": "https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA"

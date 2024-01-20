@@ -1,12 +1,12 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 2621,
+  "num_followers": 2644,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjc1ZGE3NzQwNjM0OGI1MjFiNWQ5NTc4NDA2YjgyNjhmZjIyNzdh",
+  "snapshot_id": "MCw4OWYxNzlhMGI0YWMwY2Q0Y2IzOGViNTIzMTFmZTAzZTg3ZTUyZDBl",
   "tracks": [
     {
       "added_at": "2023-12-08 08:55:17",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Odo",
+        "url": "https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Ahomka Womu",
         "url": "https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 327720,
       "name": "Ahomka Wo Mu",
       "url": "https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Odo",
-        "url": "https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Odo",
-      "url": "https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf"
     },
     {
       "added_at": "2023-12-08 08:55:17",

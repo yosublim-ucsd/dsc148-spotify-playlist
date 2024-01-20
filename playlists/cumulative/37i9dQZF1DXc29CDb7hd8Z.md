@@ -4,7 +4,7 @@
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-135 songs - 7 hr 5 min
+136 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Tristesse](https://open.spotify.com/track/7nkRZpMQIhArAw7rwqxkUL) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Images](https://open.spotify.com/album/3hmIFKf19NEwDAstuP8axy) | 3:56 | 2021-09-10 |  |
 | [Underwater Dream](https://open.spotify.com/track/14mNmtv1l0AZUHVqd50i5f) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Pianoworks](https://open.spotify.com/album/62UKBPApi9JMSaGShcOxKX) | 4:02 | 2021-09-10 |  |
 | [Unmasked](https://open.spotify.com/track/6LzOEMWZPX3AuKZuaNePpr) | [Adelisé](https://open.spotify.com/artist/4zcNEIub6cCZlkS6mzy63N) | [Unmasked](https://open.spotify.com/album/3Y2uvRS9AJYzwhyTGmRx9F) | 1:38 | 2021-09-10 |  |
-| [Vals de los Duendes](https://open.spotify.com/track/238UQu2KnnEku5SzaZHVqV) | [Pedro Dabdoub](https://open.spotify.com/artist/5Rvj0WLMmzRd0vKFxKHkDN) | [Valses de Películas Perdidas](https://open.spotify.com/album/7Lvn18V9ypZ08Kl39Y68Fp) | 3:23 | 2022-01-21 |  |
+| [Vals de los Duendes](https://open.spotify.com/track/238UQu2KnnEku5SzaZHVqV) | [Pedro Dabdoub](https://open.spotify.com/artist/5Rvj0WLMmzRd0vKFxKHkDN) | [Valses de Películas Perdidas](https://open.spotify.com/album/7Lvn18V9ypZ08Kl39Y68Fp) | 3:23 | 2022-01-21 | 2024-01-20 |
+| [Vals de Los Duendes \- Remastered 2023](https://open.spotify.com/track/2ErXOAEQSsveFtGLLWfVRI) | [Pedro Dabdoub](https://open.spotify.com/artist/5Rvj0WLMmzRd0vKFxKHkDN) | [Valses de Películas Perdidas \(Remastered 2023\)](https://open.spotify.com/album/7byCmt4Bg2cBpJNoX38xeH) | 3:23 | 2022-01-21 |  |
 | [Vindheks](https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE) | [Rumpistol](https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv) | [Isola](https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA) | 5:15 | 2022-01-07 |  |
 | [Vocalise, Op\. 34, No\. 14](https://open.spotify.com/track/1ceQjLSObUMLnqMs7xbKp7) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Anita Emmery](https://open.spotify.com/artist/5BH2HdXaKZ8rau4ZhhYLDh) | [The Great Composers](https://open.spotify.com/album/4mWn7tS8Fk6C8SZY3cmXlQ) | 3:15 | 2021-09-10 |  |
 | [Walk Towards Silence](https://open.spotify.com/track/0cp2H7dP3uUJuHDDndOcfE) | [Kasper Schill](https://open.spotify.com/artist/2P2QGjpDk60svsWQGidU0J) | [Versus](https://open.spotify.com/album/6ehOCDefU91mg0nczNOteq) | 3:12 | 2021-09-10 |  |

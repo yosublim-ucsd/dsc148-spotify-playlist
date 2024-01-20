@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > Lift our voices to Him.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,861 likes - 90 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,875 likes - 90 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 | 89 | [Ama Namin](https://open.spotify.com/track/6SstAWN7LeRAH2lfAtSVZd) | [Tres Hermanas](https://open.spotify.com/artist/3rXT3DX9OeNMfH8Thivxrk) | [Songs for the Mass](https://open.spotify.com/album/2YycKytwh2xBObANYCLfHQ) | 2:11 |
 | 90 | [Mercy and Compassion](https://open.spotify.com/track/6t9kdQ3OOVABGIshMn0Qz2) | [Fr\. Raul G\. Caga SVD](https://open.spotify.com/artist/2zioTijO3b2H3KX9w9DmmL), [Cardinal Chito G\. Tagle](https://open.spotify.com/artist/1qoIwahhPAnFxTgdFlN1r1) | [Gracious Mercy](https://open.spotify.com/album/5QmW5R7GK9ynG4AYCmcxDt) | 5:14 |
 
-Snapshot ID: `MCxmZjQxMjczMWYxNjdlZTY5MDAzNzgyODliZDFiZjk4OGJmNzE4Nzdk`
+Snapshot ID: `MCwzYmU0MjFhNmVlMjY0YTJlZjMzYTQ3M2Q3OGMzNDU4OGYxYjVhNjQ4`

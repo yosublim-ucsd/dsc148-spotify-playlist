@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: berlioz
 
-392 songs - 23 hr 54 min
+393 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [By Your Side](https://open.spotify.com/track/1k075G4HKQ8oE1ybx4kzt0) | [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [By Your Side](https://open.spotify.com/album/2EBRJxHs4JLRM2iWovRTmX) | 2:50 | 2022-07-05 |  |
 | [Can We? Take A Break](https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [4 Rooms](https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ) | 2:44 | 2022-02-11 |  |
 | [CANDLELIGHT](https://open.spotify.com/track/6IPuOgW2UAKFc7YCKrSjER) | [Joshua Milo](https://open.spotify.com/artist/35mfohrC8ta589xwv2und2) | [CANDLELIGHT](https://open.spotify.com/album/4oWfpdMUmJJ0DKe8qiP9uC) | 7:03 | 2021-08-20 |  |
+| [Carla Croix](https://open.spotify.com/track/3ycQmciE5erUchLQUpWQDt) | [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ), [Sam.ro.chelle](https://open.spotify.com/artist/7cGnvFkneRjpP65YbPvmDw) | [Carla Croix](https://open.spotify.com/album/6bqh0GMIA3oGMedMXPnAE7) | 3:28 | 2024-01-19 |  |
 | [Carlyle Clyde](https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1) | [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf) | [Mind Racing](https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR) | 5:47 | 2022-08-26 |  |
 | [Chandler](https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Chandler](https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8) | 3:41 | 2022-02-11 | 2022-07-29 |
 | [Chandler](https://open.spotify.com/track/5iRwSWZwwpfDXL33Z7BYAA) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Honk If You're Sad](https://open.spotify.com/album/6vaViTZ9Hqlj2zo30JVR4U) | 3:41 | 2022-02-11 |  |
@@ -164,7 +165,7 @@
 | [HULO](https://open.spotify.com/track/2qfeVzDWRkSX6oq0pNfvN5) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [HULO](https://open.spotify.com/album/4NbhvSDeCCb8ZpgWFQEFlP) | 4:15 | 2022-05-20 | 2022-07-24 |
 | [HULO](https://open.spotify.com/track/4XmgxD5c2roG5xop55DfVw) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Modern Life](https://open.spotify.com/album/18dz9uFRrFkmcLe8P5yjsp) | 4:15 | 2022-05-20 |  |
 | [Hummingbird](https://open.spotify.com/track/4I0KjYxuQtNov6MHuuL6zt) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Hummingbird](https://open.spotify.com/album/4s1FfyvuF0u8WntCqgTdn8) | 3:16 | 2022-03-25 | 2023-08-26 |
-| [Hypnotic Lullaby](https://open.spotify.com/track/3wuZP79kvNeDqkxb9HfKzB) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG) | [Dreamscapes](https://open.spotify.com/album/54nyAWBhYyp8Svk9cE0cO5) | 2:36 | 2023-06-30 |  |
+| [Hypnotic Lullaby](https://open.spotify.com/track/3wuZP79kvNeDqkxb9HfKzB) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG) | [Dreamscapes](https://open.spotify.com/album/54nyAWBhYyp8Svk9cE0cO5) | 2:36 | 2023-06-30 | 2024-01-20 |
 | [I LOVE BLACK WOMEN](https://open.spotify.com/track/0kUdHd3S9GZsmFxNrBqp2w) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO) | [I LOVE BLACK WOMEN](https://open.spotify.com/album/7uNtIh08dd6YBlPQGPOlSf) | 2:35 | 2022-05-16 | 2023-01-27 |
 | [I Love Her](https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G) | [Daniel Brown](https://open.spotify.com/artist/0pY32AUl91JjgiuLHuuIcR) | [Thoughts Under Water](https://open.spotify.com/album/6zI0OaciTJ5QeypkEwo0fO) | 3:23 | 2022-11-25 |  |
 | [I Sing To Find Peace Of Mind \(feat\. Simbad\)](https://open.spotify.com/track/2kZWWWMqFKYuYY6ilPS5Ag) | [LEFTO EARLY BIRD](https://open.spotify.com/artist/38qHUVZbVZfKq6NJxTU9oj), [Simbad](https://open.spotify.com/artist/7i0E2ILBOdsvqmrX7shhJE) | [I Sing To Find Peace Of Mind \(feat\. Simbad\)](https://open.spotify.com/album/7vdnIZtiWu3SpdP5pC6hpz) | 3:55 | 2024-01-12 |  |

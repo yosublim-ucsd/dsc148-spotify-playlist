@@ -1,13 +1,29 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 377884,
+  "num_followers": 377911,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDY0MGFlMDM1NjUyMDA4Njg4NTgyMmZjMWM5YTRhYjBhNDIxNGEx",
+  "snapshot_id": "MCxhMWQxYzMyMmVlYzBjNmI1NmFlMzBjNDg2YjJlNGQyZjZhY2FkYWJl",
   "tracks": [
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Get Down Tonight",
+        "url": "https://open.spotify.com/album/6ePhttNF2MzZMbs79OLkax"
+      },
+      "artists": [
+        {
+          "name": "Elle & The Pocket Belles",
+          "url": "https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt"
+        }
+      ],
+      "duration_ms": 180106,
+      "name": "Get Down Tonight - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/6vAMo6PBPXkDOmTjGBj83J"
+    },
     {
       "added_at": "2023-11-06 13:47:16",
       "album": {
@@ -49,24 +65,24 @@
       "url": "https://open.spotify.com/track/322Zz1jDLcdiGT853C9cJ0"
     },
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-01-19 05:01:00",
       "album": {
-        "name": "Catch the Killer (Intended Immigration Remix)",
-        "url": "https://open.spotify.com/album/24qTTjo9DkCzXTl6ZqoGEO"
+        "name": "Savoy Ballroom (The Soulmate Project Remix)",
+        "url": "https://open.spotify.com/album/7bXnUTQ2uxwgKvbxeXkTNy"
       },
       "artists": [
         {
-          "name": "Alice Francis",
-          "url": "https://open.spotify.com/artist/6RcdUNNARXB9coQqgHyqFA"
+          "name": "Tarmac Rod\u00e9o",
+          "url": "https://open.spotify.com/artist/3PIvA0wLyZcwc780QVTeud"
         },
         {
-          "name": "Intended Immigration",
-          "url": "https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg"
+          "name": "The Soulmate Project",
+          "url": "https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a"
         }
       ],
-      "duration_ms": 189120,
-      "name": "Catch the Killer - Intended Immigration Remix",
-      "url": "https://open.spotify.com/track/2Zo5NvGYBCy6qdVgwUERTv"
+      "duration_ms": 167197,
+      "name": "Savoy Ballroom - The Soulmate Project Remix",
+      "url": "https://open.spotify.com/track/1ScInFweENhx7kyGPBsNx2"
     },
     {
       "added_at": "2023-11-06 13:47:16",
@@ -83,6 +99,26 @@
       "duration_ms": 179076,
       "name": "Educated Feet",
       "url": "https://open.spotify.com/track/4sAM69vbKRnbhDs0ESUUK6"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Mr. January - King of the Swing",
+        "url": "https://open.spotify.com/album/66JjdbtD1kZuyAwBCXYrp4"
+      },
+      "artists": [
+        {
+          "name": "Deladap",
+          "url": "https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2"
+        },
+        {
+          "name": "Melinda Stoika",
+          "url": "https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Mr. January-King of the Swing",
+      "url": "https://open.spotify.com/track/37zrAR3yngfTZeWyqMLR1B"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -125,6 +161,22 @@
       "url": "https://open.spotify.com/track/2ERX8OsW2XCm5OoctkbHqF"
     },
     {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Get Buckwild",
+        "url": "https://open.spotify.com/album/1xtWfOtLhsn8mg6chiQWAv"
+      },
+      "artists": [
+        {
+          "name": "C@ in the H@",
+          "url": "https://open.spotify.com/artist/3i8iBVmVqwEg6l1oIv8Bjo"
+        }
+      ],
+      "duration_ms": 191819,
+      "name": "Get Buckwild",
+      "url": "https://open.spotify.com/track/4dAqc7s8G4uoMaKxiXPifD"
+    },
+    {
       "added_at": "2023-12-15 05:10:00",
       "album": {
         "name": "Yearning",
@@ -139,6 +191,26 @@
       "duration_ms": 136363,
       "name": "In the Pub",
       "url": "https://open.spotify.com/track/4b4z3GQPXfoeL2Yj0TVngR"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Catch the Killer (Intended Immigration Remix)",
+        "url": "https://open.spotify.com/album/24qTTjo9DkCzXTl6ZqoGEO"
+      },
+      "artists": [
+        {
+          "name": "Alice Francis",
+          "url": "https://open.spotify.com/artist/6RcdUNNARXB9coQqgHyqFA"
+        },
+        {
+          "name": "Intended Immigration",
+          "url": "https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Catch the Killer - Intended Immigration Remix",
+      "url": "https://open.spotify.com/track/2Zo5NvGYBCy6qdVgwUERTv"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -193,6 +265,22 @@
       "url": "https://open.spotify.com/track/6Ntz1uQoMF8L2E4w518BFp"
     },
     {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/31fNS2GNpJTvi1NJFNWP5q"
+      },
+      "artists": [
+        {
+          "name": "Daisy La Fontaine",
+          "url": "https://open.spotify.com/artist/7lnUP3Qdlp565wzuzkWqag"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/72OxLzdVF8Ktqo2scstL1y"
+    },
+    {
       "added_at": "2023-11-06 13:47:16",
       "album": {
         "name": "100",
@@ -231,26 +319,6 @@
       "duration_ms": 203225,
       "name": "Volare - Electro Swing Mix",
       "url": "https://open.spotify.com/track/5lW4pCHSVtDn1qzgbnQKCq"
-    },
-    {
-      "added_at": "2023-12-15 05:10:00",
-      "album": {
-        "name": "Jukebox (Klisch\u00e9e Remix)",
-        "url": "https://open.spotify.com/album/4rCi9v4xoOHCbtgwovWtS5"
-      },
-      "artists": [
-        {
-          "name": "Tarmac Rod\u00e9o",
-          "url": "https://open.spotify.com/artist/3PIvA0wLyZcwc780QVTeud"
-        },
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 199499,
-      "name": "Jukebox - Klisch\u00e9e Remix",
-      "url": "https://open.spotify.com/track/04YDvAAexHrUDKXYGXdOWA"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -2627,26 +2695,6 @@
     {
       "added_at": "2023-11-06 13:47:16",
       "album": {
-        "name": "Fallen World",
-        "url": "https://open.spotify.com/album/16zC5JX98ONcA99BQYDNgG"
-      },
-      "artists": [
-        {
-          "name": "Riff Kitten",
-          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
-        },
-        {
-          "name": "Kumiho",
-          "url": "https://open.spotify.com/artist/4t0HSuBBnJfGBkQe4cAaCm"
-        }
-      ],
-      "duration_ms": 228593,
-      "name": "Fallen World",
-      "url": "https://open.spotify.com/track/43JHup1dQxUg6csXXFXXqH"
-    },
-    {
-      "added_at": "2023-11-06 13:47:16",
-      "album": {
         "name": "Show Breaks",
         "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
       },
@@ -2699,26 +2747,6 @@
     {
       "added_at": "2023-11-06 13:47:16",
       "album": {
-        "name": "Posture (Wolfgang Lohr Remix)",
-        "url": "https://open.spotify.com/album/33cm8hJKxHtcFELOZB2eJy"
-      },
-      "artists": [
-        {
-          "name": "LMZG",
-          "url": "https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Posture - Wolfgang Lohr Remix",
-      "url": "https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv"
-    },
-    {
-      "added_at": "2023-11-06 13:47:16",
-      "album": {
         "name": "Taking You with Me",
         "url": "https://open.spotify.com/album/4AUmtmKPvKPUjTe93Gy0oj"
       },
@@ -2731,26 +2759,6 @@
       "duration_ms": 199963,
       "name": "Taking You with Me",
       "url": "https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG"
-    },
-    {
-      "added_at": "2023-11-06 13:47:16",
-      "album": {
-        "name": "Long Legs",
-        "url": "https://open.spotify.com/album/24LwsnJl1E5hxRxUWTcTRn"
-      },
-      "artists": [
-        {
-          "name": "Swing Republic",
-          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
-        },
-        {
-          "name": "The Boswell Sisters",
-          "url": "https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "Let Yourself Go",
-      "url": "https://open.spotify.com/track/7unnkEMBqth617Q8DyhsFd"
     },
     {
       "added_at": "2023-11-06 13:47:16",
@@ -2787,26 +2795,6 @@
       "duration_ms": 178124,
       "name": "The Junker",
       "url": "https://open.spotify.com/track/1EmHeOAiZpHgLMbAXUQENm"
-    },
-    {
-      "added_at": "2023-11-06 13:47:16",
-      "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Sonia Elisheva",
-          "url": "https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR"
     },
     {
       "added_at": "2023-11-06 13:47:16",

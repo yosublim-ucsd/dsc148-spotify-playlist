@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc"
+      },
+      "artists": [
+        {
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173586,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5"
+    },
+    {
+      "album": {
         "name": "Absolutely",
         "url": "https://open.spotify.com/album/5HkyBg5Hj4PanOXcWe9i49"
       },
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 194258,
       "name": "Behin Eta Berriz",
       "url": "https://open.spotify.com/track/7aThCw2poPhq4ydLBS8Mt3"
@@ -1908,6 +1926,24 @@
       "duration_ms": 164253,
       "name": "Cuando la Gente se Pare",
       "url": "https://open.spotify.com/track/0muzDovujhzxf8KB886WoX"
+    },
+    {
+      "album": {
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181870,
+      "name": "Cuando Salga El Sol",
+      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
     },
     {
       "album": {
@@ -3896,7 +3932,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 202413,
       "name": "Is There Anybody Out There?",
       "url": "https://open.spotify.com/track/6uZx2szfHnWn2m3G9IP8sA"
@@ -5096,7 +5132,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 210250,
       "name": "Mexican Border",
       "url": "https://open.spotify.com/track/0JBXyeLCDEPJ4ENlMeYdTy"
@@ -5798,7 +5834,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 211226,
       "name": "Night Boat to Cairo",
       "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
@@ -6284,6 +6320,24 @@
       "duration_ms": 185199,
       "name": "On my Radio",
       "url": "https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD"
+    },
+    {
+      "album": {
+        "name": "One Cure To The Head, Two To The Chest",
+        "url": "https://open.spotify.com/album/0xyT6LvfJn3H9OtslVaC3J"
+      },
+      "artists": [
+        {
+          "name": "Call Me Malcolm",
+          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193743,
+      "name": "One Cure To The Head, Two To The Chest",
+      "url": "https://open.spotify.com/track/3p9O0dkbGL0AIdFZRh7I7g"
     },
     {
       "album": {
@@ -8032,7 +8086,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 283690,
       "name": "Skanidero",
       "url": "https://open.spotify.com/track/2H9DRMDS4PvJ0kecOKidRM"
@@ -8892,7 +8946,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 232656,
       "name": "Sweet Loneliness",
       "url": "https://open.spotify.com/track/0CS6MtBUa48ZzYgqJaNf9F"
@@ -10462,6 +10516,24 @@
       "duration_ms": 228159,
       "name": "Why Won't You Call Me Back",
       "url": "https://open.spotify.com/track/2DsjgWKl0pyoMY3VJcLfSZ"
+    },
+    {
+      "album": {
+        "name": "Wir sind wieder wer",
+        "url": "https://open.spotify.com/album/5RvndlPhi6eqt0QxN2hP0q"
+      },
+      "artists": [
+        {
+          "name": "100 Kilo Herz",
+          "url": "https://open.spotify.com/artist/6sKOC3XdcoRZHh70zwnWFg"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207295,
+      "name": "Wir sind wieder wer",
+      "url": "https://open.spotify.com/track/1jFiU9ubsJmoLY0vXALxKb"
     },
     {
       "album": {

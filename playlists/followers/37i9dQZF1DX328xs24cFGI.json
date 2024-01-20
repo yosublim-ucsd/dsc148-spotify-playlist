@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 154131,
+  "2024-01-20": 154176,
   "date_first_scraped": "2023-02-14",
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
@@ -1627,6 +1627,24 @@
       "duration_ms": 229998,
       "name": "Purpose",
       "url": "https://open.spotify.com/track/3YtGpYYI3RvOsyuJNjZrvK"
+    },
+    {
+      "album": {
+        "name": "Q&A",
+        "url": "https://open.spotify.com/album/0C26wPrY6HXzrq7nlVc9XV"
+      },
+      "artists": [
+        {
+          "name": "Harutya",
+          "url": "https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178695,
+      "name": "Q&A",
+      "url": "https://open.spotify.com/track/7zVf2yR4TeCOPMloZXYZGo"
     },
     {
       "album": {
@@ -3361,7 +3379,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 313877,
       "name": "\u541b\u306e\u70ba\u306e\u30ad\u30df\u30ce\u30a6\u30bf",
       "url": "https://open.spotify.com/track/56Cdqx7BdhEsUUMctdORvU"
@@ -4052,6 +4070,24 @@
     },
     {
       "album": {
+        "name": "\u77bc\u3092\u67d3\u3081\u3066",
+        "url": "https://open.spotify.com/album/7n9EYkI7aeTGqS0ZGTAg8b"
+      },
+      "artists": [
+        {
+          "name": "shimamo",
+          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290186,
+      "name": "\u77bc\u3092\u67d3\u3081\u3066",
+      "url": "https://open.spotify.com/track/2fBn3VyijKi3MpJwtAV7vX"
+    },
+    {
+      "album": {
         "name": "\u77e5\u308a\u305f\u3044",
         "url": "https://open.spotify.com/album/2A9DObdoMkFhBu9OVof8ec"
       },
@@ -4387,7 +4423,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 181392,
       "name": "\u901a\u308a\u96e8",
       "url": "https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH"

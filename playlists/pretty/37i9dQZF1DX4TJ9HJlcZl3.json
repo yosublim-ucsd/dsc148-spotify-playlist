@@ -1,13 +1,33 @@
 {
   "description": "Still yachting. Cover: Young Gun Silver Fox",
-  "num_followers": 12339,
+  "num_followers": 12355,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzVjOTA0ZTQ3OWYzOWZhNWVjOGRjYWQ5YzEyOWZjYjU5MDkyZDFl",
+  "snapshot_id": "MCw4NzUxNmExNzA3NjgxZGI0YmZjOTQ5OTIxYjczZTc5YTFiMjQ2YjM0",
   "tracks": [
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Cheeky",
+        "url": "https://open.spotify.com/album/25CyID8DgntGUEhcfK4kUk"
+      },
+      "artists": [
+        {
+          "name": "Albert Posis",
+          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Cheeky",
+      "url": "https://open.spotify.com/track/5L3KNSPWZmL9DLyP1pdXBT"
+    },
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
@@ -851,22 +871,6 @@
       "duration_ms": 219884,
       "name": "The Dandelion",
       "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "I Wonder",
-        "url": "https://open.spotify.com/album/07vvTjXpmDxTVulZkXrK6p"
-      },
-      "artists": [
-        {
-          "name": "Niall Mutter",
-          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
-        }
-      ],
-      "duration_ms": 251277,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/6QsnUuIH1eWCmZ3Du1hzFJ"
     }
   ],
   "unique_name": "Yacht Rock Revival",

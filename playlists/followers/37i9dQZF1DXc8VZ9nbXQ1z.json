@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 132814,
+  "2024-01-20": 132892,
   "date_first_scraped": "2022-09-15",
   "description": "<a href=\"spotify:artist:6wMr4zKPrrR0UVz08WtUWc\">Black Coffee</a>'s favorite tracks. Updated regularly. Curated by Black Coffee. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Black Coffee's track IDs",
@@ -2413,6 +2413,28 @@
       "duration_ms": 440106,
       "name": "Everyday - Jennifer Cardini Remix",
       "url": "https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf"
+    },
+    {
+      "album": {
+        "name": "Afro House Connection 2023",
+        "url": "https://open.spotify.com/album/4TWoj5fpVi9BexeWzcTWfm"
+      },
+      "artists": [
+        {
+          "name": "Toprak Baris",
+          "url": "https://open.spotify.com/artist/0o6zBZOHer0cIGpGOQk7nD"
+        },
+        {
+          "name": "Kaan Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1RIqBvVjqVvV71fYGC856T"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309741,
+      "name": "Evolve",
+      "url": "https://open.spotify.com/track/6bgqjbnfnlHPKwZJp1e6YO"
     },
     {
       "album": {
@@ -6639,6 +6661,32 @@
       "duration_ms": 263125,
       "name": "Ouria Deka - Radio Edit",
       "url": "https://open.spotify.com/track/1JqDhoMpEo68oupAvOUhES"
+    },
+    {
+      "album": {
+        "name": "Ouria Deka (Urmet K Remix Edit)",
+        "url": "https://open.spotify.com/album/4g5miV05hyuYWotRmhumED"
+      },
+      "artists": [
+        {
+          "name": "Touzani",
+          "url": "https://open.spotify.com/artist/6GXSO2YzZ9ioZT4Wkwyvez"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "Urmet K",
+          "url": "https://open.spotify.com/artist/46YPQGXkvn7QooB0XJvkdb"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ouria Deka - Urmet K Remix Edit",
+      "url": "https://open.spotify.com/track/1CtzjonrreTn0QfLoVa8Kq"
     },
     {
       "album": {

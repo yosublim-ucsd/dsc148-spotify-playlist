@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Dabin\(홍다빈\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-663 songs - 1 day 12 hr 2 min
+664 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [Mint Condition](https://open.spotify.com/track/3kcQHARwuV6u46zZ9gbgFs) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Mint Condition](https://open.spotify.com/album/7gMpIdUlwWtAGf1I8fO9ZF) | 3:16 | 2022-04-01 | 2022-07-29 |
 | [Minus X](https://open.spotify.com/track/1BdGIsP0rHlOdqXPK4TPku) | [104](https://open.spotify.com/artist/70lxm9Zz1sKBCez2iEHnu8) | [Minus X](https://open.spotify.com/album/61lk5MIwo71Vn02gX2sLrI) | 2:50 | 2022-07-24 | 2022-07-28 |
 | [Miracle](https://open.spotify.com/track/5putPsdtDI6wRldJDHRoJd) | [Kim Addict](https://open.spotify.com/artist/2egBIYU5zJpYuuLkTllux7) | [S2](https://open.spotify.com/album/7ANsUaVEoUtT5FrHEwIcrU) | 3:42 | 2023-01-10 | 2023-01-26 |
-| [Misfits \(Feat\. MELOH, Kid Wine\)](https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Berry Loves My Mood](https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws) | 3:30 | 2022-04-01 |  |
+| [Misfits \(Feat\. MELOH, Kid Wine\)](https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Berry Loves My Mood](https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws) | 3:30 | 2022-04-01 | 2024-01-20 |
 | [mmm \(feat\. oceanfromtheblue\)](https://open.spotify.com/track/0HEX8HE9Dznsu5VCdeZrGf) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 3:05 | 2022-05-05 | 2022-07-20 |
 | [Model House \(Feat\. Koonta\)](https://open.spotify.com/track/2au4vnPtLBMAHnjH6fmi93) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:25 | 2022-07-19 | 2022-08-02 |
 | [Moment](https://open.spotify.com/track/4SkQKhc8EKiR3sdkhvx9ek) | [JISEUNG LEE](https://open.spotify.com/artist/2MHDitIe7kEMi6pSEz9ZRm) | [Moment](https://open.spotify.com/album/4JS4LRjFvuZCpMf8BdRku5) | 3:23 | 2022-08-12 | 2022-08-18 |
@@ -576,6 +576,7 @@
 | [The Truman Show](https://open.spotify.com/track/0cVZgBitnJJaOTviugscS3) | [YunB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [Show Me the Money 8 Episode 3](https://open.spotify.com/album/4xPKZgTlCRLRVzYFctyhZ7) | 3:23 | 2022-07-24 | 2022-07-28 |
 | [the way you move](https://open.spotify.com/track/6V63olQ6UOmPqRgcO0bEcb) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [pool vol\. 1 \- the way you move](https://open.spotify.com/album/6qqLPbX9JdQmfia6WPMKdM) | 2:29 | 2023-02-15 | 2023-04-24 |
 | [Think \(feat\. Jay Park\)](https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Think](https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA) | 3:51 | 2022-11-22 | 2023-09-19 |
+| [Think \(feat\. Jay Park\)](https://open.spotify.com/track/79NQUQKBKrCUlBGdpGszhq) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Think \(feat\. Jay Park\)](https://open.spotify.com/album/26kUYOFHxASZTDjvse7xmz) | 3:51 | 2024-01-08 |  |
 | [Thinkin About You \(Feat\. INO\)](https://open.spotify.com/track/2tOHUm2VSBa5aMgo5pIYem) | [DJ Juice](https://open.spotify.com/artist/0bJKaJ5AdUz5nDFDRGfKPJ), [INO](https://open.spotify.com/artist/4xRr0YW5BltFbZGEwliT79) | [Thinkin About You](https://open.spotify.com/album/58L2gm73knHBL66btgBKGC) | 3:16 | 2022-05-28 | 2022-05-30 |
 | [thirst](https://open.spotify.com/track/7kyupZQftQDUUxlATGGmOe) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [DPR ARCHIVES](https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw) | 2:37 | 2022-04-01 | 2022-07-28 |
 | [Thirsty \(feat\. oygli\)](https://open.spotify.com/track/2roYVMw7wnl1fr9INRqvWi) | [Lean Lean](https://open.spotify.com/artist/6IprxsitojRXQLHOLyizzb), [Oygli](https://open.spotify.com/artist/0IoC4AySnjJ9c5okTOO8Rk) | [SUNSHINE](https://open.spotify.com/album/5MgqA59cpZMyowGSHHvatc) | 3:10 | 2023-03-22 | 2023-04-07 |

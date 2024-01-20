@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 381978,
+  "num_followers": 382091,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTgyMzJlOGYxM2FmZmNiMmM4YmVlYzRlNDJlNGI5OGQ1MzE0Y2E3",
+  "snapshot_id": "MCxjYWEyYTAzMDc3YWMxNjc0ZTM2ZTNhMjVjYzgyMGE2YzgwNjhjMTRh",
   "tracks": [
     {
       "added_at": "2023-12-07 13:46:05",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "The Magic Number",
-        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 195883,
-      "name": "The Magic Number",
-      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
         "name": "Follow The Leader (Expanded Edition)",
         "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 314600,
       "name": "Microphone Fiend",
       "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
+        "name": "The Magic Number",
+        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 195883,
+      "name": "The Magic Number",
+      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
     },
     {
       "added_at": "2023-12-07 13:46:05",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
         "name": "In Full Gear",
         "url": "https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 288053,
       "name": "Talkin' All That Jazz",
       "url": "https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 204601,
-      "name": "The Bridge Is Over",
-      "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
     },
     {
       "added_at": "2023-12-07 13:46:05",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
       "artists": [
         {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
         }
       ],
-      "duration_ms": 284466,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
+      "duration_ms": 204601,
+      "name": "The Bridge Is Over",
+      "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
     },
     {
       "added_at": "2023-12-07 13:46:05",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
+        "name": "Paid In Full (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 429560,
+      "name": "Paid In Full - Seven Minutes Of Madness - The Coldcut Remix",
+      "url": "https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
         "name": "Youngest in Charge",
         "url": "https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 221986,
       "name": "I Got It Made",
       "url": "https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
-        "name": "By All Means Necessary (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "My Philosophy",
-      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
     },
     {
       "added_at": "2023-12-07 13:46:05",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "Paid In Full (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj"
+        "name": "By All Means Necessary (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
       },
       "artists": [
         {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
         }
       ],
-      "duration_ms": 429560,
-      "name": "Paid In Full - Seven Minutes Of Madness - The Coldcut Remix",
-      "url": "https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci"
+      "duration_ms": 340133,
+      "name": "My Philosophy",
+      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
     },
     {
       "added_at": "2023-12-07 13:46:05",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "Giant Single: Profile Records Rap Anthology",
-        "url": "https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr"
+        "name": "Mass Appeal: The Best Of Gang Starr (Explicit)",
+        "url": "https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR"
       },
       "artists": [
         {
-          "name": "Dr. Jeckyll & Mr. Hyde",
-          "url": "https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt"
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
         }
       ],
-      "duration_ms": 280866,
-      "name": "Genius Rap - 7\" Single Version",
-      "url": "https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH"
+      "duration_ms": 290813,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

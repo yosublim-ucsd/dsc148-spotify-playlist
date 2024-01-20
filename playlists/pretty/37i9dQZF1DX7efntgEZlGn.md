@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,967 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,971 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mungu Ni Upendo \(feat\. Pitson\)](https://open.spotify.com/track/0BPriVJeWjmo3ugIVkN2vw) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Pitson](https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM) | [Mungu Ni Upendo \(feat\. Pitson\)](https://open.spotify.com/album/3rxqx10BOlKbhcu4RkWcGS) | 3:16 |
 | 2 | [Secret Agenda](https://open.spotify.com/track/4pqiEhBDAO49UNYZkA5OD9) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Secret Agenda](https://open.spotify.com/album/6UIjHzdbqYtMSCfccGDx0j) | 3:39 |
-| 3 | [Ipo Siku Remix](https://open.spotify.com/track/0HBD0KvuD49oRoBmqMNxu9) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku Remix](https://open.spotify.com/album/0fUXgCbVaU1Qysy6B6nH9C) | 4:13 |
+| 3 | [Ipo Siku \(Remix\)](https://open.spotify.com/track/3KTdvq3WhZAYEinZ8FBUdB) | [Ringtone Apoko](https://open.spotify.com/artist/6sSiI4bXbeB2NvFuNQfZdd), [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Zoea Mawe](https://open.spotify.com/album/2WCTcbQVS4ULy60l1cxwsB) | 4:13 |
 | 4 | [Cheza Gospel](https://open.spotify.com/track/23QRgJ0c7GmQens8wuX9N3) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Cheza Gospel](https://open.spotify.com/album/2VH1TToc1g3wnCzl3cGIM7) | 3:34 |
 | 5 | [Zungusha](https://open.spotify.com/track/2IzGYWr08ntzKVeQ1fTvue) | [Jabidii](https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU) | [Zungusha](https://open.spotify.com/album/09i9zQr2d7m5rxiXCgtAKp) | 2:36 |
 | 6 | [Trust Him](https://open.spotify.com/track/5iT7KTkPuHJI6P3PfS5L0G) | [Nahash Mwathi](https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1) | [Trust Him](https://open.spotify.com/album/4TF0VK6inwxETbYP3g9nMP) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 49 | [Yeah](https://open.spotify.com/track/1KxhoSzSYTM1EWNFEe8iBk) | [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe) | [Yeah](https://open.spotify.com/album/6EvSEGPSfl9vnGyXmWSbzm) | 3:37 |
 | 50 | [Hinya](https://open.spotify.com/track/2vp3E0GaE2VBHY1EbVuy5p) | [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe), [Yo Alex](https://open.spotify.com/artist/3PA8YnbJW4N0PuiPamfEJb) | [NOW THAT WE ARE HERE](https://open.spotify.com/album/1lvyxxI5vdtdLTY64WUVYP) | 5:16 |
 
-Snapshot ID: `MCwyNTVhZmNiMjU5N2Q3NzhmNDU5NzIzZGZjNmUwOTA5MDRlNTU0Zjhk`
+Snapshot ID: `MCwwYmU0NjY3NGEzNTgwNWE4NjIwZWZjZDg0YjY5ZTgyNWNmOWY4ODk2`

@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 33098,
+  "2024-01-20": 33115,
   "date_first_scraped": "2021-12-28",
-  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u0627\u064a\u0645\u0646 \u0642\u0635\u064a\u0644\u0647",
+  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u062d\u0644\u0627\u0645",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -349,6 +349,24 @@
       "duration_ms": 308168,
       "name": "Al Oyoun Al Sod",
       "url": "https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq"
+    },
+    {
+      "album": {
+        "name": "Al Sayda Al Oula",
+        "url": "https://open.spotify.com/album/2PxcNAyTS3nJwOXKMtA8fV"
+      },
+      "artists": [
+        {
+          "name": "Ahlam",
+          "url": "https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253462,
+      "name": "Al Sayda Al Oula",
+      "url": "https://open.spotify.com/track/5zGk9jf74600Cy1RzvJp3M"
     },
     {
       "album": {
@@ -919,6 +937,24 @@
       "duration_ms": 291369,
       "name": "Asher Safha",
       "url": "https://open.spotify.com/track/6LS75pBeHxcJ9rUYecFz33"
+    },
+    {
+      "album": {
+        "name": "Hind 2024",
+        "url": "https://open.spotify.com/album/3OWdp5V4FDqWQwfl6Z8JGi"
+      },
+      "artists": [
+        {
+          "name": "Hind",
+          "url": "https://open.spotify.com/artist/3tI1YzPjgiD51SmYdWgiSB"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269650,
+      "name": "Ashya Ma Tngaal",
+      "url": "https://open.spotify.com/track/29lT2uvcPdWila0RrgXO8h"
     },
     {
       "album": {
@@ -2119,7 +2155,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 290315,
       "name": "Kathaab",
       "url": "https://open.spotify.com/track/0owHcMZfxaX79H6hIKwso5"
@@ -3183,7 +3219,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 220622,
       "name": "Resayel Ams",
       "url": "https://open.spotify.com/track/1Qnh4KEeIljMwB4VBtAndB"

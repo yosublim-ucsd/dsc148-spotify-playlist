@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 455410,
+  "2024-01-20": 455448,
   "date_first_scraped": "2020-03-25",
   "description": "Your daily dose of soul-infused music! Cover: Quantic",
   "name": "Soul 'n' the City",
@@ -9955,10 +9955,36 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 150714,
       "name": "Pain",
       "url": "https://open.spotify.com/track/1JoNm8mQj3zlgGM5VAdDtY"
+    },
+    {
+      "album": {
+        "name": "The Lost Tape",
+        "url": "https://open.spotify.com/album/4Q6TO9LyXJRr872RW3jqf5"
+      },
+      "artists": [
+        {
+          "name": "LIKEMINDS",
+          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150714,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/2YeRpzh6YWTeDpYGJgS0LM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Captain Miller
 
-190 songs - 12 hr 34 min
+191 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Nee Mattum \- From "Think Indie"](https://open.spotify.com/track/3MatT4IdI5LqHuaIZxHXRu) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Nee Mattum \(From "Think Indie"\)](https://open.spotify.com/album/2vagld4YbwNZ7n4iCzugb3) | 3:17 | 2023-02-21 | 2023-05-20 |
 | [Nee Podhum Enaku](https://open.spotify.com/track/0keacEbOTL9vbcRR0EmRYi) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Michael \(Tamil\)](https://open.spotify.com/album/2tJGXw75Kp0tIjHaQMRxmg) | 3:46 | 2022-12-30 | 2023-02-16 |
 | [Nee Vaadi](https://open.spotify.com/track/3ynz8Qsc8Cu1Dlm5jay7Eg) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [ANIMAL \(TAMIL\)](https://open.spotify.com/album/3yrlWcsNHitJZxlMBZLbOB) | 4:35 | 2023-11-27 |  |
+| [Nee Yen \- From "Nanban Oruvan Vantha Piragu"](https://open.spotify.com/track/1hnnb81r8wdcTJUU949ItA) | [A H Kaashif](https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Amina Rafiq](https://open.spotify.com/artist/5MeaQZAAyaP41gzU4FOGMu) | [Nee Yen \(From "Nanban Oruvan Vantha Piragu"\)](https://open.spotify.com/album/7v76KC2Dbn3EfvKlntU084) | 3:15 | 2024-01-19 |  |
 | [Neethanadi](https://open.spotify.com/track/0zeN1wmbeITrxoPNrcOjHL) | [Mervin Solomon](https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv) | [Neethanadi \(From "Enna Solla Pogirai"\)](https://open.spotify.com/album/0WtJQoUW14v8LbJNb4yIJg) | 3:55 | 2022-01-08 | 2023-05-03 |
 | [Nenjame Nenjame](https://open.spotify.com/track/5gpjup3L76P6ZNMu44eCyG) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Maamannan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pMOd6mZQQDi7hz6NYOKL0) | 6:50 | 2023-06-14 |  |
 | [Nenjellam \- From "Sinam"](https://open.spotify.com/track/7Bot991zDggwYfaXT6QkTS) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz), [Shabir](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng) | [Sinam](https://open.spotify.com/album/5sTpKsNdkLDYkrO6fUD5QA) | 4:21 | 2022-09-05 | 2022-10-19 |

@@ -2,7 +2,7 @@
 
 ### [Maroc Hits](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment\. Cover: ElGrandeToto
+> Les hits marocains du moment\. Cover: Morad, GIMS
 
 339 songs - 18 hr 16 min
 

@@ -3114,10 +3114,28 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 95445,
       "name": "Chalte Jaana",
       "url": "https://open.spotify.com/track/0oyRs9pRurqwGGALF9lJMg"
+    },
+    {
+      "album": {
+        "name": "Chalte Jaana",
+        "url": "https://open.spotify.com/album/4EhbWXUXD6EcsjOVNjThr7"
+      },
+      "artists": [
+        {
+          "name": "Riya Shrivastava",
+          "url": "https://open.spotify.com/artist/3kMUiWRc5cWOC5aZsQRNtN"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95445,
+      "name": "Chalte Jaana",
+      "url": "https://open.spotify.com/track/1KBXALAcmP4zzC7uAjLj0b"
     },
     {
       "album": {
@@ -9946,6 +9964,32 @@
     {
       "album": {
         "name": "Khwaab",
+        "url": "https://open.spotify.com/album/2PRCggR93Z1vhDfnN286nd"
+      },
+      "artists": [
+        {
+          "name": "Pramod Tripathi",
+          "url": "https://open.spotify.com/artist/1IlujbcWuUJGx86NIfLYUB"
+        },
+        {
+          "name": "Vinod Bhatt",
+          "url": "https://open.spotify.com/artist/10gbEnDL62XnxGr7Qg5qdo"
+        },
+        {
+          "name": "Kritika Swarnkar",
+          "url": "https://open.spotify.com/artist/09dW4KNTqEHTq0rLxQi3Mv"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231264,
+      "name": "Khwaab",
+      "url": "https://open.spotify.com/track/1YJq89N77yQgRvj0G6MrJA"
+    },
+    {
+      "album": {
+        "name": "Khwaab",
         "url": "https://open.spotify.com/album/1GDGBioIBq0haGk4Bv6dZ3"
       },
       "artists": [
@@ -9964,7 +10008,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 231264,
       "name": "Khwaab",
       "url": "https://open.spotify.com/track/4QtKkUfSG2DBOTkwg4Ljd8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: AK\-69, ¥ellow Bucks
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,632 likes - 86 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,689 likes - 86 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 51 | [GOAT](https://open.spotify.com/track/3edi5revIoKupagkhCLY2A) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [DONG JING REN](https://open.spotify.com/album/7h7wZupoqS4lpV8qOI29eE) | 2:32 |
 | 52 | [BOW \- Submerse Remix](https://open.spotify.com/track/3iZzgnrXkTGOydY1rBc5gi) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF) | [BOW \(Submerse Remix\)](https://open.spotify.com/album/5ixsuu7RrYyZiQsE1sf0Xd) | 2:51 |
 | 53 | [Tokyo Freeway](https://open.spotify.com/track/7I80E0p8u05s1O1ZBmDYZS) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [four](https://open.spotify.com/album/2JcohoDUq5JPoIh2Zh3epv) | 3:28 |
-| 54 | [Rio Tokyo](https://open.spotify.com/track/5gzueSVEPLmnOZG0PI2eOL) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7), [Vingo](https://open.spotify.com/artist/2sId7OEZTvYfrkPknxAgas) | [Jet](https://open.spotify.com/album/6XTrvaWFBuo3pmfY7wbAet) | 3:28 |
+| 54 | [Rio Tokyo](https://open.spotify.com/track/6MzZndXMHckI4EFM2Q425c) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7), [Vingo](https://open.spotify.com/artist/2sId7OEZTvYfrkPknxAgas) | [Jet](https://open.spotify.com/album/2pxtbEWJROV2re93TF9SMz) | 3:28 |
 | 55 | [Let Go \(feat\. 柊人\)](https://open.spotify.com/track/4upoXNub9Rh9mXeoq9W1uy) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j) | [Grandma's Wish](https://open.spotify.com/album/2nZymAc6SIUQ769WRPTKzz) | 3:00 |
 | 56 | [Friends](https://open.spotify.com/track/77QPBNmjune3Xlj4QfB2M6) | [SULLEN](https://open.spotify.com/artist/27DGJN7P0zs1BCMjSn2ENb), [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA) | [ONLYS](https://open.spotify.com/album/6pEIrxa8bmtlxdI7xq0LiJ) | 3:15 |
 | 57 | [Chotto Mattene \(feat\. Jean Placide\)](https://open.spotify.com/track/0RqJcCqFvJyjfJnkjgxq3R) | [Kona Rose](https://open.spotify.com/artist/0mGt3la29cRNic4G2pQ0HN), [Jean Placide](https://open.spotify.com/artist/0zpEE72yAy9eM0jxoYX0DM) | [MATSURI](https://open.spotify.com/album/7affgEpm5B1mwdgPBlvCTw) | 2:29 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 85 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 86 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 |
 
-Snapshot ID: `MCw0MzVjODhjYTFlM2ZkZGNlYTNmYTYxZmFjZGRhOGRiNjA1NWFkNTBm`
+Snapshot ID: `MCw3YTAzNWY5ZjY2OTk5ZWEzYzIzN2Y5ODg3MWE5NmMwMTcwMGE1ZDQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 
 > Best VOCALOID Songs in 2023! 2023年の<a href="https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU?si=eeff84f267c74f49">君が生きてなくてよかった</a>総まとめ！今年君が生きてなくてよかったで再生された楽曲別ベスト100 ! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Kanaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,841 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,903 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 91 | [MORE! JUMP! MORE!](https://open.spotify.com/track/0Cd8VtRYPbTIsBFZkrLOrn) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [MORE! JUMP! MORE!](https://open.spotify.com/album/7w7vTQu6zPnUDPJaflSXea) | 3:03 |
 | 92 | [ヒアソビ \(feat\. 初音ミク\)](https://open.spotify.com/track/6TaOHCEjas8b3Mm4tNZ31g) | [Camellia](https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M) | [ヒアソビ](https://open.spotify.com/album/7MaDGgu25WmGSSh4JZn22X) | 4:05 |
 | 93 | [Teo \(2021\)](https://open.spotify.com/track/2Bczh6OMMR3v0J288WVMdy) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [Teo \(2021\)](https://open.spotify.com/album/0Zvh1HRF7ihFUpfjy4nMPA) | 3:29 |
-| 94 | [妄想アスパルテーム \- feat\. picco,初音ミク](https://open.spotify.com/track/5dcHPVb27nDK94mEFSSpug) | [ESHIKARA](https://open.spotify.com/artist/4VuUJ2V2aRxfQRlRdpC1ih), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [初音ミク](https://open.spotify.com/artist/0UlXuNuMZiSeVLFjhKQPIP) | [妄想アスパルテーム \(feat\. picco,初音ミク\)](https://open.spotify.com/album/1Cj7pQrNMkiO6dVTLT3uK4) | 2:27 |
+| 94 | [妄想アスパルテーム \- feat\. picco,初音ミク](https://open.spotify.com/track/5dcHPVb27nDK94mEFSSpug) | [ESHIKARA](https://open.spotify.com/artist/4VuUJ2V2aRxfQRlRdpC1ih), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [妄想アスパルテーム \(feat\. picco,初音ミク\)](https://open.spotify.com/album/1Cj7pQrNMkiO6dVTLT3uK4) | 2:27 |
 | 95 | [Hana Wo Utau](https://open.spotify.com/track/2nMv7p0ewXCOElhIzUrnDr) | [Shino](https://open.spotify.com/artist/59Bj4ZrSOLrNlMH15wY2VB) | [Hana Wo Utau](https://open.spotify.com/album/6rSa7jGPmKRTrY86k3Af3z) | 3:26 |
 | 96 | [Sleeping Awake](https://open.spotify.com/track/6G9udfnK9TvWGKgxBGy2ZC) | [Aqu3ra](https://open.spotify.com/artist/1FE8CKbcNBC5a9NsvJ4Nif) | [planetarium](https://open.spotify.com/album/6s84x0B3Nx5BtafhvyzZR0) | 3:37 |
 | 97 | [ミルククラウン・オン・ソーネチカ](https://open.spotify.com/track/2jxakPQFR2IBXVmvt5y8YB) | [YUZY](https://open.spotify.com/artist/7ddYo20mqfV4Xxzn81fmiw) | [ミルククラウン・オン・ソーネチカ](https://open.spotify.com/album/2ZOYB7FlGmoxNeGAq41iaS) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 99 | [風](https://open.spotify.com/track/1RxzjktxVMDKRjPR3OqbU4) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [花鳥風月](https://open.spotify.com/album/3McRo26jqaK4vZ36db3aso) | 2:59 |
 | 100 | [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 |
 
-Snapshot ID: `MCwwYjFlYTUxZmE3NjM1ZjMyZDYyNzk4NTE2Yjk5YjhiOTZlYzFmM2Y4`
+Snapshot ID: `MCw1ODcyYjQwMzYzMTQ0NjgxNmQ5MjRmMzdiM2M1NzViYmJhZTc1NmJl`

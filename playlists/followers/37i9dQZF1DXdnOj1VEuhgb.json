@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 1326781,
+  "2024-01-20": 1327290,
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Heijan",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive",
   "name": "NKVT",
   "tracks": [
     {
@@ -585,7 +585,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 158896,
       "name": "BABY",
       "url": "https://open.spotify.com/track/2RSGPn6GyddgRhdD34vZKP"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 144161,
       "name": "D\u00d6NME EVE",
       "url": "https://open.spotify.com/track/0fhDDNj4in3NuQZw0Y48QO"
@@ -1473,6 +1473,28 @@
       "duration_ms": 149249,
       "name": "FLEX SO HARD RMX",
       "url": "https://open.spotify.com/track/599TAkOSDn1CRTXziWACAX"
+    },
+    {
+      "album": {
+        "name": "Silah Gibi",
+        "url": "https://open.spotify.com/album/4ktOuEyfPqsFTxNupKdXoV"
+      },
+      "artists": [
+        {
+          "name": "Cash Flow",
+          "url": "https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk"
+        },
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Fred \u00c7akmakta\u015f",
+      "url": "https://open.spotify.com/track/1x0lpjMOS245apC6cekxuy"
     },
     {
       "album": {
@@ -2718,6 +2740,28 @@
     },
     {
       "album": {
+        "name": "KOCAMAN",
+        "url": "https://open.spotify.com/album/2qx4y7tqoZSbgKwMFnkC4o"
+      },
+      "artists": [
+        {
+          "name": "Tepki",
+          "url": "https://open.spotify.com/artist/5DtQ3MpxpzAyDvgMNFWN1r"
+        },
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132096,
+      "name": "KOCAMAN",
+      "url": "https://open.spotify.com/track/0JB7QQ3EOyKXLnwkD1kS7l"
+    },
+    {
+      "album": {
         "name": "KONTAK (feat. Ezhel)",
         "url": "https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw"
       },
@@ -3528,6 +3572,28 @@
     },
     {
       "album": {
+        "name": "No Drama",
+        "url": "https://open.spotify.com/album/5Rg43VY2jOcbd2b7nD3Lrm"
+      },
+      "artists": [
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        },
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170271,
+      "name": "No Drama",
+      "url": "https://open.spotify.com/track/011QKsPp80DCMwZV40jsKw"
+    },
+    {
+      "album": {
         "name": "NO LOVE",
         "url": "https://open.spotify.com/album/1FE2e1wJlDw7QAC0dYU09D"
       },
@@ -3920,6 +3986,24 @@
     },
     {
       "album": {
+        "name": "pVg",
+        "url": "https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243779,
+      "name": "pVg",
+      "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
+    },
+    {
+      "album": {
         "name": "P\u0131\u015f\u015ft Baksana",
         "url": "https://open.spotify.com/album/5pgE4mqzQPUzQqcgGZgQ8N"
       },
@@ -4089,7 +4173,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 243428,
       "name": "ROTTERDAM FREESTYLE",
       "url": "https://open.spotify.com/track/2WhsQfqUJVU9wRzORsukX8"
@@ -4363,7 +4447,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 196923,
       "name": "S\u0130K\u0130Y\u0130M PARAYI",
       "url": "https://open.spotify.com/track/3tihmPx482ekmjGIrb0ckz"

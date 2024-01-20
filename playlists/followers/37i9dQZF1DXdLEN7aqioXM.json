@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 986242,
+  "2024-01-20": 986377,
   "date_first_scraped": "2022-01-17",
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
   "name": "Retrowave // Outrun",
@@ -209,6 +209,24 @@
       "duration_ms": 301687,
       "name": "Above The Clouds",
       "url": "https://open.spotify.com/track/3AGsnf8fjX4vBsIybP3B8T"
+    },
+    {
+      "album": {
+        "name": "Across Dark Sky",
+        "url": "https://open.spotify.com/album/6eOBd7hfeFIFnNCzVkPh90"
+      },
+      "artists": [
+        {
+          "name": "Cloned Clouds",
+          "url": "https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Across Dark Sky",
+      "url": "https://open.spotify.com/track/4h7PsMHwolAXNV7bemumCp"
     },
     {
       "album": {
@@ -5057,7 +5075,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 207920,
       "name": "Missense",
       "url": "https://open.spotify.com/track/2MFdVPnEWRjXQIY96VgiGn"

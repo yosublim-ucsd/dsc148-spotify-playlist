@@ -5476,7 +5476,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 198960,
       "name": "Cigarettes out the Window",
       "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
@@ -6160,7 +6160,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -16670,7 +16670,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -20128,7 +20128,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 321560,
       "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
       "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
@@ -25160,7 +25160,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -26888,7 +26888,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
@@ -29626,7 +29626,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
@@ -33670,6 +33670,28 @@
       "duration_ms": 126265,
       "name": "\u0414\u0423\u041b\u041e",
       "url": "https://open.spotify.com/track/2Db7e6H4R5XXnyuTtxUggp"
+    },
+    {
+      "album": {
+        "name": "\u0414\u044b\u043c\u043e\u043a",
+        "url": "https://open.spotify.com/album/2SjkQbWglFSOGpM7NziXF6"
+      },
+      "artists": [
+        {
+          "name": "\u0418\u0446\u044b\u043a \u0426\u044b\u043f\u0435\u0440",
+          "url": "https://open.spotify.com/artist/3itorhtp2xgFl1iMPwvAGs"
+        },
+        {
+          "name": "\u0418\u0433\u043e\u0440\u044c \u0426\u044b\u0431\u0430",
+          "url": "https://open.spotify.com/artist/02Gn2Lbcdednu9WM1T12nz"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139925,
+      "name": "\u0414\u044b\u043c\u043e\u043a",
+      "url": "https://open.spotify.com/track/3cHHxlwvB16a1PllSM97jX"
     },
     {
       "album": {

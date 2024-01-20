@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Charles Lloyd",
+  "description": "New jazz for open minds. Cover: Keyon Harrold",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -202,6 +202,28 @@
       "duration_ms": 161771,
       "name": "5k",
       "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
+    },
+    {
+      "album": {
+        "name": "6 Feet Down",
+        "url": "https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
     },
     {
       "album": {
@@ -1476,7 +1498,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 130563,
       "name": "Answer to Remember Theme",
       "url": "https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7"
@@ -2646,6 +2668,28 @@
       "duration_ms": 254960,
       "name": "Beat Hopper - The 3rd Session",
       "url": "https://open.spotify.com/track/1x6POqThB0hnrwry79YTPD"
+    },
+    {
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/0FvGcQA1xOmV1DwSAJiHes"
+      },
+      "artists": [
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207386,
+      "name": "Beautiful Day [Feat. PJ Morton]",
+      "url": "https://open.spotify.com/track/5sv0wMXmcp4SuXvm6ghkHm"
     },
     {
       "album": {
@@ -7652,7 +7696,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 270602,
       "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor) - Single Edit",
       "url": "https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy"
@@ -9540,7 +9584,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 335797,
       "name": "Home Cookin'",
       "url": "https://open.spotify.com/track/63geyyZS7EBU3opmvQK4Tw"
@@ -11938,7 +11982,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 162272,
       "name": "Late Night Rendezvous",
       "url": "https://open.spotify.com/track/1FbA175uritak8MnIijMz2"
@@ -13468,6 +13512,32 @@
       "duration_ms": 252503,
       "name": "Marking My Time - BADBADNOTGOOD Edit",
       "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
+    },
+    {
+      "album": {
+        "name": "Massamba Afundance",
+        "url": "https://open.spotify.com/album/6bqrt2uydI0J3aeJrqptbL"
+      },
+      "artists": [
+        {
+          "name": "Jahari Massamba Unit",
+          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182267,
+      "name": "Massamba Afundance",
+      "url": "https://open.spotify.com/track/3NRY5U5HwXk1xP43Hd5cJj"
     },
     {
       "album": {
@@ -16320,6 +16390,28 @@
       "duration_ms": 669946,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/70XGK1ncu8KtlTp6J58Cq2"
+    },
+    {
+      "album": {
+        "name": "Pan Con Queso",
+        "url": "https://open.spotify.com/album/1vEXf7Rcz9DjtWPH8eAZHf"
+      },
+      "artists": [
+        {
+          "name": "The SWR Big Band",
+          "url": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
+        },
+        {
+          "name": "Joe Gallardo",
+          "url": "https://open.spotify.com/artist/4xLFI91EKHJbds3nDaCXDB"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371000,
+      "name": "Pan Con Queso",
+      "url": "https://open.spotify.com/track/0D84eqLi5QiwY4Vp9j2BKx"
     },
     {
       "album": {
@@ -24562,7 +24654,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 304000,
       "name": "Unified Dakotas",
       "url": "https://open.spotify.com/track/7Gh8n2R5XatjTztKjN4WYB"
@@ -25556,6 +25648,28 @@
       "duration_ms": 261887,
       "name": "Where Grace Abounds",
       "url": "https://open.spotify.com/track/7jtkZSNqKkeCVAxIh67QsH"
+    },
+    {
+      "album": {
+        "name": "Whisperings",
+        "url": "https://open.spotify.com/album/67AzHDLeqWpsDkn3lj1uYY"
+      },
+      "artists": [
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        },
+        {
+          "name": "Seven Eyes",
+          "url": "https://open.spotify.com/artist/0M6umUTp0QgXZP8ECTwybz"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Whisperings",
+      "url": "https://open.spotify.com/track/09pqREo7g64W1TmFF9EFSq"
     },
     {
       "album": {

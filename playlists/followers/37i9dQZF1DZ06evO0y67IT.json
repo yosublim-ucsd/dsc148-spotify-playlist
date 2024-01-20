@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 7263,
+  "2024-01-20": 7269,
   "date_first_scraped": "2022-10-26",
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
   "name": "This Is Hawthorne Heights",
@@ -565,7 +565,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 198341,
       "name": "Language Lessons (Five Words or Less)",
       "url": "https://open.spotify.com/track/4BQ20AoXE9Z27kw4EFZ3os"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 266314,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6"

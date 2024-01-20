@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 25537,
+  "2024-01-20": 25602,
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Ana\u00efs Cardot",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : J\u00e4de",
   "name": "le miel",
   "tracks": [
     {
@@ -147,7 +147,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 185142,
       "name": "Bijoux",
       "url": "https://open.spotify.com/track/1yCn9NNBPCJRud3aE5su7d"
@@ -586,6 +586,24 @@
     },
     {
       "album": {
+        "name": "AU REVOIR SIMEON",
+        "url": "https://open.spotify.com/album/1HhZFt1UjtsZaQZCHwoMaR"
+      },
+      "artists": [
+        {
+          "name": "Swing",
+          "url": "https://open.spotify.com/artist/0OQMxt6l70FM2YlLwYDiEn"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56086,
+      "name": "GIGI",
+      "url": "https://open.spotify.com/track/4Rkru3YgYVOCufUoq1uY8H"
+    },
+    {
+      "album": {
         "name": "GOLDEN WAY!",
         "url": "https://open.spotify.com/album/6joIZOvnrt7CTmyzUpuwLE"
       },
@@ -619,6 +637,24 @@
       "duration_ms": 153488,
       "name": "HOLD-UP",
       "url": "https://open.spotify.com/track/2Kgoo8Ft3XBBKbuS0qI7cH"
+    },
+    {
+      "album": {
+        "name": "HYPNOTIZE",
+        "url": "https://open.spotify.com/album/0mqW7McCu8MwjFAQbqRHRi"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rave",
+          "url": "https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/70X9LqPXUPKJgvDYvzk0eJ"
     },
     {
       "album": {
@@ -1032,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "East-Blue (Gold edition)",
+        "url": "https://open.spotify.com/album/7CCmqM36JQ4WS33ZDfm3zk"
+      },
+      "artists": [
+        {
+          "name": "Gol.d",
+          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153846,
+      "name": "Pansement",
+      "url": "https://open.spotify.com/track/1eNFHLLofgZl9Lb3JA7jik"
+    },
+    {
+      "album": {
         "name": "Mocha Venti",
         "url": "https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX"
       },
@@ -1391,7 +1445,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 191733,
       "name": "Sur la rive",
       "url": "https://open.spotify.com/track/01EU33zjVyNNaBK46wfD2X"
@@ -1427,7 +1481,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 186428,
       "name": "The Love We Had",
       "url": "https://open.spotify.com/track/4ouj2691rumr0fq3htGx1G"
@@ -1485,6 +1539,24 @@
       "duration_ms": 156404,
       "name": "Tout essay\u00e9 - Acoustic version",
       "url": "https://open.spotify.com/track/77ZBaOziSr8gYC7r6o1RMh"
+    },
+    {
+      "album": {
+        "name": "Tranquille",
+        "url": "https://open.spotify.com/album/0R4Wx0ucuQHUNkXPmV7eZG"
+      },
+      "artists": [
+        {
+          "name": "J\u00e4de",
+          "url": "https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116799,
+      "name": "Tranquille",
+      "url": "https://open.spotify.com/track/5hUn3qV8PbmxIsMjiCjRpF"
     },
     {
       "album": {
@@ -1553,7 +1625,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 160373,
       "name": "Un autre que moi",
       "url": "https://open.spotify.com/track/6mW9sMSGdjjMWLAiiG6uf6"

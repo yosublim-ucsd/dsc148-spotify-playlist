@@ -2134,6 +2134,24 @@
     {
       "album": {
         "name": "Rock Of The Westies",
+        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209120,
+      "name": "Dan Dare (Pilot Of The Future)",
+      "url": "https://open.spotify.com/track/1IP1ymL87BtfZqCsJTyp4C"
+    },
+    {
+      "album": {
+        "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh"
       },
       "artists": [
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 209173,
       "name": "Dan Dare (Pilot Of The Future)",
       "url": "https://open.spotify.com/track/41lz4BHdOQ5MDyvQ9lwz5f"
@@ -3266,7 +3284,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 264397,
       "name": "Ghetto Gospel",
       "url": "https://open.spotify.com/track/0unlYYzWkXuoYKebsO7WzY"
@@ -3288,7 +3306,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 238053,
       "name": "Ghetto Gospel",
       "url": "https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M"
@@ -4692,7 +4710,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 182920,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/6bn12F3UPvNnJjJvXXbDIw"
@@ -4710,7 +4728,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 183440,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
@@ -7612,7 +7630,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 235960,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/38AaGaTV3TTKYkFIg1Hr2P"
@@ -7634,7 +7652,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 322960,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/1relIAfP5Dn2cihAHv1efL"
@@ -11256,7 +11274,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 251040,
       "name": "Wrap Her Up",
       "url": "https://open.spotify.com/track/65SlWvmhk2VjroLpToacn0"
@@ -11278,7 +11296,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 381493,
       "name": "Wrap Her Up",
       "url": "https://open.spotify.com/track/0sIiAyckK90a6KOKhIeGwM"

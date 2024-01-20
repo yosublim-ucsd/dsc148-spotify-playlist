@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-145 songs - 13 hr 49 min
+146 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [LiYoshona \- Shimza Remix](https://open.spotify.com/track/2bKZu1kbb2XSSvRYPbscuL) | [Kwiish SA](https://open.spotify.com/artist/2J1TbsWFTYT0LHNSX897xS), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1), [MalumNator](https://open.spotify.com/artist/25IVkspnS4ZKKxGVyOgVnK), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Shimza Amapiano Afrotech Remixes](https://open.spotify.com/album/1sKI0OHaJnwq7h0nOygsAm) | 5:58 | 2021-12-30 | 2023-02-10 |
 | [Lobela](https://open.spotify.com/track/195c6cDeMpBqYxaSQ65cwZ) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Lobela](https://open.spotify.com/album/0CeY1p6mvixO7vDTeyIOWX) | 7:37 | 2023-02-09 | 2023-12-15 |
 | [Makwande](https://open.spotify.com/track/2MpkUFQpd7zYRGZt4BQ8bz) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [AEDM: Interstellar](https://open.spotify.com/album/7bNztZqGIRCaALpnDsDB4W) | 5:52 | 2023-02-09 | 2023-11-24 |
+| [Maloto \- Radio Edit](https://open.spotify.com/track/6lNjWcTRSzhFtFZDqtzUy9) | [Arcade Saiyans](https://open.spotify.com/artist/3dQj2JqOjkdj6DC50whkn2), [Spirit\-T](https://open.spotify.com/artist/0C9oz46JXNuDzoWlrowOVc) | [Maloto](https://open.spotify.com/album/30TCxNSRHOr9XFFlcRemA0) | 4:57 | 2024-01-19 |  |
 | [Mama \(Da Capo's Touch\)](https://open.spotify.com/track/6BLMoJcHmJiYfFRPKWOaEw) | [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Mama \(Da Capo's Touch\)](https://open.spotify.com/album/3CRw6YSsrFJQLjD3kVjM1i) | 7:29 | 2021-10-14 | 2023-02-10 |
 | [Maya](https://open.spotify.com/track/37aSg02eKxZMSueTi5qE89) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Maya](https://open.spotify.com/album/2hfNUwkRhfw7VjCWIQU4hZ) | 6:39 | 2023-02-09 | 2023-10-18 |
 | [Maya](https://open.spotify.com/track/4XMD1mr6aE5BnJ1yjhBhUz) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Maya](https://open.spotify.com/album/0icraFyyHdOz3pxh9o3UbH) | 6:39 | 2023-09-21 |  |

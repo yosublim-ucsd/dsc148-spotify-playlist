@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-441 songs - 23 hr 53 min
+442 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All Into Nothing \- Acoustic](https://open.spotify.com/track/0GY6vnbXjbuP4M7AY3ZBra) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [All Into Nothing \(Acoustic\)](https://open.spotify.com/album/074npKpTiUWh8c72s5SnIC) | 3:15 | 2022-09-30 | 2022-12-09 |
 | [All Into Nothing \- Acoustic](https://open.spotify.com/track/3nYfqA3PfaFBS0hNtBp6CX) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [All Into Nothing \(Acoustic\)](https://open.spotify.com/album/3oDJKvkqTcZ6g891jNFMNY) | 3:15 | 2021-03-11 | 2022-10-13 |
 | [All Into Nothing \- Acoustic](https://open.spotify.com/track/5GMJ3Uq60h1NAqMZcjtEqT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [All Into Nothing \(Acoustic\)](https://open.spotify.com/album/0PcCssmKfflgVxBoc4FSBE) | 3:15 | 2022-12-02 | 2023-10-28 |
+| [all night long](https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [all night long](https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO) | 3:14 | 2024-01-12 |  |
 | [All of me \- Acoustic](https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [All of me \- Acoustic](https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd) | 4:28 | 2023-02-17 |  |
 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 | 2022-12-02 |  |
 | [All That I Need](https://open.spotify.com/track/06n8cDefDuKtIgRHDjCxzy) | [Hugo Helmig](https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE) | [LULU Vol\. 1](https://open.spotify.com/album/4fHb81aJmtiOJjjSQgCOgX) | 3:45 | 2021-03-11 | 2022-07-29 |
@@ -245,7 +246,7 @@
 | [Kiss An Angel Good Mornin'](https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Kiss An Angel Good Mornin'](https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895) | 2:44 | 2023-10-27 |  |
 | [Kissing Other People \- Acoustic](https://open.spotify.com/track/0Otf6MBWU5vOqlwCl1ZIZY) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Kissing Other People \(Acoustic\)](https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T) | 3:12 | 2021-03-11 |  |
 | [La La Land \- Acoustic](https://open.spotify.com/track/1sMi8ywnrNKysixM34zH9W) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [La La Land EP](https://open.spotify.com/album/2UfIYmCJf5pvhiaYH8X0fK) | 2:17 | 2021-03-11 | 2022-09-01 |
-| [Last Night](https://open.spotify.com/track/1dHa5Z7tEurFuZUaySS749) | [IOLITE](https://open.spotify.com/artist/0q7Qi8uhdkTZL369raJ4NF) | [Last Night](https://open.spotify.com/album/4rVEM2O5IsozLPU2u86TR3) | 3:07 | 2023-05-12 |  |
+| [Last Night](https://open.spotify.com/track/1dHa5Z7tEurFuZUaySS749) | [IOLITE](https://open.spotify.com/artist/0q7Qi8uhdkTZL369raJ4NF) | [Last Night](https://open.spotify.com/album/4rVEM2O5IsozLPU2u86TR3) | 3:07 | 2023-05-12 | 2024-01-20 |
 | [Lasting Lover \- Acoustic](https://open.spotify.com/track/0TGU6ELkO9MRv7aHL3QVrl) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover \(Acoustic\)](https://open.spotify.com/album/5PYU16itHJWh7q7AoI5xv4) | 3:52 | 2021-03-11 | 2022-11-26 |
 | [Latch](https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [Latch](https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU) | 3:17 | 2023-06-22 |  |
 | [Lavender Haze](https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Lavender Haze](https://open.spotify.com/album/2UnNi9S9CxDFLxrbyiGoHI) | 3:43 | 2023-01-04 | 2023-10-28 |

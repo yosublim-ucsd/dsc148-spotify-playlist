@@ -1,13 +1,41 @@
 {
   "description": "Catching flights and going global. Cover: Sarz, Gunna & Asake ",
-  "num_followers": 37994,
+  "num_followers": 38070,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2UyY2JkYTVkNTg4YWQ4MjU5MjUyMjRlNmRlOGQwZjY4MjdhMDQy",
+  "snapshot_id": "MCxkYjNkZmNmZmZmNWJkZjQ2ZGMyNTc5MGUwNTg4MzIwZWFlODYzNmEx",
   "tracks": [
+    {
+      "added_at": "2024-01-19 07:32:24",
+      "album": {
+        "name": "Jangrova (feat. Tribal Mark)",
+        "url": "https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Tribal Mark",
+          "url": "https://open.spotify.com/artist/5yIgGM9s6jw4L0g8CmD8dT"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Jangrova (feat. Tribal Mark)",
+      "url": "https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs"
+    },
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {

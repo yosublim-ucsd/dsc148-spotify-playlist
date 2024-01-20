@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8684,
+  "num_followers": 8683,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTljZDViMzcxODgzMGMyZTdhOTU3NjlhYTJlM2M2NjA5ZmE2Y2Ix",
+  "snapshot_id": "MCxlZTcwZDQ3MjJlZWExZDE4NzQxYWI2NzZmODFiYTIxMjE4YzdjYzJh",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
-      },
-      "artists": [
-        {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
-        }
-      ],
-      "duration_ms": 166044,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "whatever u like",
         "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 200877,
       "name": "whatever u like",
       "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
+      },
+      "artists": [
+        {
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+        }
+      ],
+      "duration_ms": 166044,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "What Happened, Happened",
-        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
+        "name": "Boys Aside",
+        "url": "https://open.spotify.com/album/0GlNcL9wQ1WdtXywFzKhYB"
       },
       "artists": [
         {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+          "name": "Sofya Wang",
+          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
         }
       ],
-      "duration_ms": 184528,
-      "name": "What Happened, Happened",
-      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
+      "duration_ms": 230000,
+      "name": "Boys Aside",
+      "url": "https://open.spotify.com/track/2FV7xvk1NeplzSxoUk6Egc"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Boys Aside",
-        "url": "https://open.spotify.com/album/0GlNcL9wQ1WdtXywFzKhYB"
+        "name": "What Happened, Happened",
+        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
       },
       "artists": [
         {
-          "name": "Sofya Wang",
-          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Boys Aside",
-      "url": "https://open.spotify.com/track/2FV7xvk1NeplzSxoUk6Egc"
+      "duration_ms": 184528,
+      "name": "What Happened, Happened",
+      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
     },
     {
       "added_at": "2023-06-30 23:59:00",

@@ -1,13 +1,61 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Georgia Webster",
-  "num_followers": 92973,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Valencia Grace",
+  "num_followers": 93016,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjEzYzQ3ZDdhMmQ4NTk3NzExYjE0ZDdlYWQ0NGJiMmRmMjQ1MThi",
+  "snapshot_id": "MCwwZDM5MzZjZmRiMTE5ZTk4ZGE1YWExNmM4NzkzMzFhNmNmNGI0OTUx",
   "tracks": [
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/3l3z8fcI2FMAcCMq1wcd3E"
+      },
+      "artists": [
+        {
+          "name": "Valencia Grace",
+          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/3Jeo5LzCcMBtdFlp1FqpsN"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Boy From Home",
+        "url": "https://open.spotify.com/album/29V5xzxhyhTCqRikGT7JZ2"
+      },
+      "artists": [
+        {
+          "name": "Brynn Cartelli",
+          "url": "https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek"
+        }
+      ],
+      "duration_ms": 230576,
+      "name": "Boy From Home",
+      "url": "https://open.spotify.com/track/3Tbe6ohCLkQwuQEWQSyLBl"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Sky Up",
+        "url": "https://open.spotify.com/album/17URfXjuXdGaAYw7ecG8M9"
+      },
+      "artists": [
+        {
+          "name": "Haven Madison",
+          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Sky Up",
+      "url": "https://open.spotify.com/track/7zHWEEujRkOoFIACmVZLmG"
+    },
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
@@ -119,6 +167,22 @@
       "duration_ms": 194304,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/5sVopsPUBDHBpadiCQfHcB"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Blurry Vision",
+        "url": "https://open.spotify.com/album/442bxdGV3makrW5UlF1Ws4"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 177904,
+      "name": "The Girl Who Cried Love",
+      "url": "https://open.spotify.com/track/68zmVEhY9iI1WumxzVqAoi"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -537,22 +601,6 @@
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "A Bowl of Unripe Fruit",
-        "url": "https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 139429,
-      "name": "Tennis",
-      "url": "https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E"
-    },
-    {
       "added_at": "2023-11-17 05:01:00",
       "album": {
         "name": "30 Loose Ends",
@@ -795,22 +843,6 @@
     {
       "added_at": "2023-11-10 04:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/1OdBCJQCZJFvYRvDz85STj"
-      },
-      "artists": [
-        {
-          "name": "Valencia Grace",
-          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0k9KbFbpye6K8VPbA0HT7J"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/4I3hBaNXrp7V0Fzx9KE8iA"
       },
@@ -855,38 +887,6 @@
       "duration_ms": 167257,
       "name": "Too Tight",
       "url": "https://open.spotify.com/track/7p4y4PW1nOOlW5pINpAxxk"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "SHE-REX",
-        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 232465,
-      "name": "promise to pick up the phone",
-      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Dani",
-        "url": "https://open.spotify.com/album/62pcnIOSyWj3BxniV5T3Ja"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 174986,
-      "name": "Dani",
-      "url": "https://open.spotify.com/track/6bghqHHv3lSrGiz97vDyon"
     },
     {
       "added_at": "2023-11-10 04:00:00",

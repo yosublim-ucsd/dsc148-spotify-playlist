@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Very Very
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,194 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,248 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [Over and Dead](https://open.spotify.com/track/1CkJxdBLnhIcLpge9yohee) | [Mia Baron](https://open.spotify.com/artist/5uzjpTwJqK923a0PmgBqiA) | [Over and Dead](https://open.spotify.com/album/3tUS3V3Whll3AWSdaiar7E) | 2:44 |
 | 50 | [Butterflies \(feat\. Jon Kabongo\)](https://open.spotify.com/track/2VOKV4QkTWUiVffeEsyx4M) | [Jada Hope](https://open.spotify.com/artist/59uniRaSOJEqNwMnepeebq), [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO) | [Butterflies \(feat\. Jon Kabongo\)](https://open.spotify.com/album/5sTHYveDNtmGSiNTtfrAq5) | 3:48 |
 | 51 | [Way Too Young](https://open.spotify.com/track/04GnO4JiMFACIZnJlC1Psh) | [Pelch](https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV) | [That's How The Story Goes](https://open.spotify.com/album/0Wf3BGIP5Q5dEfuILQe1D3) | 2:18 |
-| 52 | [No Sleep Freestyle](https://open.spotify.com/track/0adqF26APQBwSKDTEmut1H) | [Romeo Don't Die](https://open.spotify.com/artist/0sxNAxJY6sNNolQFwJKaBz) | [No Sleep Freestyle](https://open.spotify.com/album/1BikFDOMCZ54mner8bVgYD) | 2:35 |
+| 52 | [No Sleep Freestyle](https://open.spotify.com/track/0adqF26APQBwSKDTEmut1H) | [Romeo Don't Die](https://open.spotify.com/artist/0sxNAxJY6sNNolQFwJKaBz), [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v) | [No Sleep Freestyle](https://open.spotify.com/album/1BikFDOMCZ54mner8bVgYD) | 2:35 |
 | 53 | [Mine Until the Morning](https://open.spotify.com/track/1ZcR6vliV85DUxoVIK6bXp) | [Kaleia](https://open.spotify.com/artist/2F2CiwEgXu1t8kgQKnCTMr) | [Mine Until the Morning](https://open.spotify.com/album/19aGppBSZ5dEG1yeq6xSpL) | 3:00 |
 | 54 | [Déteste à mort](https://open.spotify.com/track/2pDCWgRRP3zQDgHHCgL6sR) | [Kokujin](https://open.spotify.com/artist/05AB72ti5fWh1ZLzYkBela) | [Déteste à mort](https://open.spotify.com/album/6fCqItTHxqtylCG9frTQ4d) | 2:38 |
 | 55 | [One in the Head](https://open.spotify.com/track/3Ep2qoHdraABjmBee3Fi21) | [TherealKeesh](https://open.spotify.com/artist/3KQAn4cvnOjPN6pq7L8zpg), [Ming Luanli](https://open.spotify.com/artist/7FgAKPWSRArNuTNrSmueZe) | [One in the Head](https://open.spotify.com/album/1UMzfWguw6rRIgiZINI6Kl) | 3:12 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 89 | [Mes années 2000](https://open.spotify.com/track/6af4DhMrAuwvVRljI0UrIB) | [Anaïs Constantin](https://open.spotify.com/artist/16rv4gKc1NU7DDlS9jYjKQ) | [Mes années 2000](https://open.spotify.com/album/59WMIKSURO2PPPRA4gHhly) | 3:23 |
 | 90 | [Te Veo](https://open.spotify.com/track/5hD8HXZmHbiwFvTvlxXH7w) | [Vertefeuille](https://open.spotify.com/artist/3gXakrGYirVsWpOVlEmOaO) | [Te Veo](https://open.spotify.com/album/4iVptAMsjfr2kdL1MxeD9M) | 4:29 |
 
-Snapshot ID: `MCw3NjQ3NzMyZTNiOWRhNjYzMjY2OTI3MDJjZTNiOWYyODE0ZDliMGIy`
+Snapshot ID: `MCw5YThiMWUzOGFhYTc4MTZmNTkyYTkyOWZjMzJhYzkwOGU2MWJkMmZh`

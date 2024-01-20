@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-420 songs - 1 day 11 hr 17 min
+421 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Constellations](https://open.spotify.com/track/6KkU1Ohy73YvLv9nCzyDXV) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Constellations](https://open.spotify.com/album/4tuLrYKsQd8M01SsvdU5MY) | 6:03 | 2023-02-17 | 2023-02-28 |
 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 | 2022-11-23 | 2024-01-06 |
 | [Cosmovision](https://open.spotify.com/track/32JWyOLWccN1BwBvwjuChN) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/5jXLIlcuEhUQIjo9H5ruo9) | 3:33 | 2024-01-12 |  |
-| [Criseide](https://open.spotify.com/track/094ZMBfb7D08l6ZDCtsJlr) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Sideral](https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b) | [Criseide](https://open.spotify.com/album/1ikZIk7lxSnVaa7afrWsbE) | 6:23 | 2023-06-09 |  |
+| [Criseide](https://open.spotify.com/track/094ZMBfb7D08l6ZDCtsJlr) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Sideral](https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b) | [Criseide](https://open.spotify.com/album/1ikZIk7lxSnVaa7afrWsbE) | 6:23 | 2023-06-09 | 2024-01-20 |
 | [Crush](https://open.spotify.com/track/7gY3CDLjByjqUpHYZnbVVB) | [SUZé](https://open.spotify.com/artist/0gqgQYlI6dpyIVmOLDemGQ) | [Crush](https://open.spotify.com/album/6U7GsO6rUA6WMIzTuEnV2x) | 7:03 | 2023-11-09 | 2023-11-25 |
 | [Cryo](https://open.spotify.com/track/6yXiLHBZGjge2iSmBzWhuQ) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Cryo](https://open.spotify.com/album/7gYGDUFQOLlnfzHiPwU9fN) | 3:33 | 2023-08-04 | 2023-09-06 |
 | [Cyberlove](https://open.spotify.com/track/5wpnorsUa9T5pcWzYL59l4) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Cyberlove](https://open.spotify.com/album/2fmUH8FRtfCmaHWS5yjb43) | 6:16 | 2023-05-31 | 2023-06-10 |
@@ -95,6 +95,7 @@
 | [Don't Push](https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI) | [Don't Push EP](https://open.spotify.com/album/4XIryEQtW71CJrOeOwLXYA) | 6:52 | 2022-11-23 | 2023-03-23 |
 | [Downfall](https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Downfall](https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH) | 3:56 | 2024-01-05 |  |
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2022-12-16 | 2024-01-05 |
+| [Dreamcast](https://open.spotify.com/track/4B7Hi7TY2Bl76SI3tojI5e) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/56QCxS7cxFlJqLNnsmAoqF) | 5:25 | 2024-01-18 |  |
 | [Dreamcatcher](https://open.spotify.com/track/6ZSB0FEjUrG7sziGbkJea2) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Fred Lenix](https://open.spotify.com/artist/59dW0kJuMkQquLbBomht2S) | [Dreamcatcher](https://open.spotify.com/album/3fjsQVB2BQ9yGDe35IpmuQ) | 4:59 | 2023-02-10 | 2023-04-29 |
 | [Dust](https://open.spotify.com/track/28YLzGJRn8OTLZszGOo8Ef) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Dust](https://open.spotify.com/album/0VoOrwiOd0gp2zgDUyLQ9b) | 3:27 | 2023-10-06 | 2024-01-11 |
 | [Earth \- Mind Against Remix](https://open.spotify.com/track/1cQCfrLGc5GpBC6bNPlsUm) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 7:30 | 2022-11-23 | 2023-03-04 |
@@ -214,7 +215,7 @@
 | [Loss Of Hope](https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 7:19 | 2022-11-23 | 2023-12-01 |
 | [Love](https://open.spotify.com/track/3tCANWqIjNDN73UXiEE9qV) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Love](https://open.spotify.com/album/1NuUBi58WVMyF9lC5UiIse) | 3:13 | 2023-11-09 | 2023-11-25 |
 | [Lucid Love](https://open.spotify.com/track/4lxezjHzTpF81nMNixy1OS) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Lucid Love](https://open.spotify.com/album/4fyUu9Mo0l6bRztTTe0ouz) | 3:08 | 2022-12-28 | 2023-01-06 |
-| [Luminous](https://open.spotify.com/track/7MptmD653XjVFIwjrdWykV) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Luminous](https://open.spotify.com/album/4DKmRMycENtkMhBK6i80Xd) | 5:01 | 2023-11-24 |  |
+| [Luminous](https://open.spotify.com/track/7MptmD653XjVFIwjrdWykV) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Luminous](https://open.spotify.com/album/4DKmRMycENtkMhBK6i80Xd) | 5:01 | 2023-11-24 | 2024-01-20 |
 | [Lyra](https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Lyra](https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy) | 7:17 | 2023-10-27 | 2023-12-01 |
 | [Mahoya](https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Mahoya](https://open.spotify.com/album/7bLQf71ETdGuL9GgXAyn4u) | 3:36 | 2023-08-11 | 2023-10-24 |
 | [Man Versus Machine](https://open.spotify.com/track/5T6hiNfpE5rB6MVsSRoTZ8) | [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ) | [Man Versus Machine](https://open.spotify.com/album/0o47CRav2OMQusX1FaOwQT) | 4:24 | 2023-06-02 | 2023-06-10 |
@@ -302,7 +303,7 @@
 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 | 2023-09-01 |  |
 | [Ringo \- Miss Monique Remix](https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Ringo \(Miss Monique Remix\)](https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC) | 3:42 | 2023-12-15 |  |
 | [Rise](https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Rise](https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4) | 3:23 | 2023-11-24 |  |
-| [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 | 2023-03-03 | 2024-01-18 |
+| [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 | 2023-03-03 |  |
 | [Ritam](https://open.spotify.com/track/3d8JQ8JJEi97aKzWq4BtlF) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Ritam](https://open.spotify.com/album/1hWSLGSfK9PN83cRuTAXRK) | 4:52 | 2023-09-15 | 2023-11-16 |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2022-12-28 | 2023-01-06 |
 | [Robotic Arms](https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Robotic Arms](https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR) | 3:50 | 2023-08-04 | 2024-01-06 |

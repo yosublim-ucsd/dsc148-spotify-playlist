@@ -2,15 +2,16 @@
 
 ### [Desi Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX2RahGIyQXcJ)
 
-> Best of hip\-hop tracks from South Asia\. Cover:  Shubh
+> Best of hip\-hop tracks from South Asia\. Cover:  Karan Aujla, DIVINE
 
-242 songs - 13 hr 55 min
+244 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/5n7P6A365Prut3q8vo5G4m) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1oZVS1RjOOZjLhPguAENAD) | 0:00 | 2022-11-30 | 2023-08-01 |
 | [0 to 100](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 1:48 | 2022-10-10 |  |
 | [051021](https://open.spotify.com/track/6D0RJju2TSMtZM1jsRc58S) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:31 | 2022-10-10 | 2022-12-01 |
+| [100 Million](https://open.spotify.com/track/3EJslhR33350RLGMb6eOAg) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [100 Million](https://open.spotify.com/album/0DRD7GdJQNalHpKaLhM871) | 3:12 | 2024-01-19 |  |
 | [12 Bajay](https://open.spotify.com/track/4G4mzPZFeJRtiTRMZer86A) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok) | [12 Bajay](https://open.spotify.com/album/7laPcPTDp1pi9QPko64FHF) | 6:12 | 2022-10-10 | 2023-11-18 |
 | [12 Bande](https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [12 Bande](https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u) | 3:24 | 2021-12-03 |  |
 | [26 Blvd](https://open.spotify.com/track/3OK2VUpcjQQZAqGHw95N4G) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:32 | 2022-10-10 | 2022-12-01 |
@@ -116,6 +117,7 @@
 | [JASHAN\-E\-HIP\-HOP](https://open.spotify.com/track/5EyMW7eXYVkB1pwXqrGq5c) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:52 | 2022-11-23 |  |
 | [Jhamela Nai](https://open.spotify.com/track/2IBwxmXqZe2tRoahSTtP0b) | [Bhanga Bangla](https://open.spotify.com/artist/3JME2t83KwX07EXNAuVeEK) | [Made in Bangladesh](https://open.spotify.com/album/6WQ7yLqM2VuRXHO2teb3Ru) | 5:01 | 2022-07-18 | 2022-10-11 |
 | [Jodia](https://open.spotify.com/track/3YsjFlBBdirrCGNKWuirsq) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Jodia](https://open.spotify.com/album/0v7K8gzYS2OgsMgGequRGT) | 2:42 | 2023-01-20 | 2023-02-16 |
+| [Joota Japani](https://open.spotify.com/track/7lzPCtx5j2JRFhbsGpbzQ7) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Shankar Jaikishan](https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc) | [Joota Japani](https://open.spotify.com/album/1GCClFFYn65g9WH1XXUWDK) | 2:35 | 2024-01-19 |  |
 | [Jyotiana](https://open.spotify.com/track/4JJ0UDZ0j4h324HGiBHdXi) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E) | [New Memories](https://open.spotify.com/album/2rnpZz4qrxYiptr4hG2nG9) | 2:51 | 2022-07-18 | 2022-10-11 |
 | [KALESHI CHORI](https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [DARK HORSE](https://open.spotify.com/artist/4v9G79IPGEpwTbgB6TUUaY) | [KALESHI CHORI](https://open.spotify.com/album/0Hgw8x1UFcmeReCtxDW24U) | 3:31 | 2023-02-22 |  |
 | [Kamini](https://open.spotify.com/track/34022UYT9Ewsv8Oi0rY8RE) | [Kevin Smokio](https://open.spotify.com/artist/6NgfAmWM9yXAtnqvlmEkpc), [Tee Cee](https://open.spotify.com/artist/6hqo8d3gc1rgUFTvUJ0Ndu), [Ramesses Reezy](https://open.spotify.com/artist/2vvoyU5P5AB1ZdMjRYLFOK) | [Kamini](https://open.spotify.com/album/1CsuEETITU53fMSVbaSHwY) | 4:20 | 2021-12-03 | 2023-01-13 |

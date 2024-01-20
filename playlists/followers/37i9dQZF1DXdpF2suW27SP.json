@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 170907,
+  "2024-01-20": 170944,
   "date_first_scraped": "2022-07-17",
-  "description": "Plutonio entra na zona. ",
+  "description": "Piruka entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -495,6 +495,32 @@
       "duration_ms": 165860,
       "name": "ALKiMISTA",
       "url": "https://open.spotify.com/track/3vUNW5Gx2cNtRJ9feEtt0G"
+    },
+    {
+      "album": {
+        "name": "ALL EYEZ ON ME",
+        "url": "https://open.spotify.com/album/1mzZbMkVMeRiZq6WhQI81e"
+      },
+      "artists": [
+        {
+          "name": "SleepyThePrince",
+          "url": "https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE"
+        },
+        {
+          "name": "Carla Prata",
+          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
+        },
+        {
+          "name": "Silver YK",
+          "url": "https://open.spotify.com/artist/3D7gt1ZX2aR7k0OvmdYeBc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202388,
+      "name": "ALL EYEZ ON ME",
+      "url": "https://open.spotify.com/track/0DBTcVIDYmoSH0mnhwRwyI"
     },
     {
       "album": {
@@ -2249,7 +2275,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 264554,
       "name": "DEMONS",
       "url": "https://open.spotify.com/track/0kDQEVHvQHCRabH817iOCg"
@@ -3877,7 +3903,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 164102,
       "name": "Hoje Eu N\u00e3o",
       "url": "https://open.spotify.com/track/59wDCvCGckFJCQAJlocYPX"
@@ -3899,7 +3925,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 136833,
       "name": "HOLLA",
       "url": "https://open.spotify.com/track/7gwqLu2RCqHdXEVtGYAwbA"
@@ -4969,7 +4995,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 219130,
       "name": "Ma\u00e7\u00e3",
       "url": "https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO"
@@ -5622,6 +5648,32 @@
     },
     {
       "album": {
+        "name": "NO HOOK",
+        "url": "https://open.spotify.com/album/6qgqWwdMq93AXFFaXQxcsE"
+      },
+      "artists": [
+        {
+          "name": "XROOTZ",
+          "url": "https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb"
+        },
+        {
+          "name": "Pdb Rootsz",
+          "url": "https://open.spotify.com/artist/5ZZ3OOLz82P0QUcbPpne4u"
+        },
+        {
+          "name": "Freesesh",
+          "url": "https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225490,
+      "name": "NO HOOK",
+      "url": "https://open.spotify.com/track/6NuOeNQyeHFrd5j5xbUrND"
+    },
+    {
+      "album": {
         "name": "No Stress No Money",
         "url": "https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l"
       },
@@ -5987,7 +6039,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 171678,
       "name": "N\u00e3o Volto",
       "url": "https://open.spotify.com/track/3IcPYN25mmE28nA1qXphgi"
@@ -7724,6 +7776,32 @@
     },
     {
       "album": {
+        "name": "SLOW DOWN",
+        "url": "https://open.spotify.com/album/5MZcvVDhqJQkjIIq3toEje"
+      },
+      "artists": [
+        {
+          "name": "Beatoven",
+          "url": "https://open.spotify.com/artist/5KPaJqjZ6Ta1dDO47eSQKa"
+        },
+        {
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+        },
+        {
+          "name": "Phedilson",
+          "url": "https://open.spotify.com/artist/0Hl3YB8bwQ8anDJkvXo6he"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "SLOW DOWN",
+      "url": "https://open.spotify.com/track/09J2GaoKUhH4MV3xbBlhj8"
+    },
+    {
+      "album": {
         "name": "Socorro",
         "url": "https://open.spotify.com/album/2ocGkF8NiDKjMfywGOqtzH"
       },
@@ -8454,6 +8532,24 @@
     },
     {
       "album": {
+        "name": "T\u00e3o Perto",
+        "url": "https://open.spotify.com/album/2nu3SwyyAdtxLzIUmywury"
+      },
+      "artists": [
+        {
+          "name": "nastyfactor",
+          "url": "https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144900,
+      "name": "T\u00e3o Perto",
+      "url": "https://open.spotify.com/track/0aBb0ba87IscklgtAkk6wO"
+    },
+    {
+      "album": {
         "name": "T\u00f3xico",
         "url": "https://open.spotify.com/album/1QMPrLfFFl8MqGh2ZTlKSD"
       },
@@ -8699,6 +8795,24 @@
       "duration_ms": 192000,
       "name": "VIDA DE ARTISTA",
       "url": "https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK"
+    },
+    {
+      "album": {
+        "name": "Iluminado (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WiEJMUAF6adifFNcBpUEu"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202540,
+      "name": "Vida de Bar\u00e3o",
+      "url": "https://open.spotify.com/track/1ylUjDNTZp23pOiibkFYJs"
     },
     {
       "album": {

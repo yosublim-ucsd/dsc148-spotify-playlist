@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-564 songs - 2 day 6 hr 1 min
+565 songs - 2 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Amor Cego](https://open.spotify.com/track/3Vz6j2iEsgmGyjC89bn8tz) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Margarida Encarnação](https://open.spotify.com/artist/05L0Xnr39hVRK3MW0o5rFS) | [Amor Cego](https://open.spotify.com/album/6lJ9Mi6EZmisSqHW08jjOU) | 5:32 | 2022-02-11 | 2022-07-26 |
 | [Amores](https://open.spotify.com/track/3KTkkZvSPmh3leXluyABBs) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [AKKAN](https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3) | 5:57 | 2021-04-21 | 2022-10-06 |
 | [Amuse](https://open.spotify.com/track/1qK9yeRfOQop2yj6wOqoLv) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Amuse EP](https://open.spotify.com/album/5RhrNAJ8VGK4X3hnvdQhXV) | 5:54 | 2023-12-15 | 2024-01-17 |
+| [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/track/6q9NkHUStU2RddAreEpomo) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ribale Wehbe](https://open.spotify.com/artist/0aDFtp48TNejF5G7hqM4J9) | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/album/5ysZd6Tg1QMm90mLUSCCjK) | 4:21 | 2024-01-19 |  |
 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 | 2022-04-11 | 2023-02-25 |
 | [Angel Hugs \- Death On The Balcony Remix](https://open.spotify.com/track/2pQyotpT9hhVRHUdlS26de) | [Mike Konstanty](https://open.spotify.com/artist/2e8RBsQwm7aDg9RENzm5tT), [Death on the Balcony](https://open.spotify.com/artist/7cZsqiYF7SFQ0Ni24ly624) | [Angel Hugs](https://open.spotify.com/album/1NNUUK3sO44N0bXYMzIPMX) | 8:31 | 2022-07-01 | 2022-07-27 |
 | [Another Brick In The Wall](https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Ucha](https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3) | [Another Brick In The Wall](https://open.spotify.com/album/670imi4qiQ6eE2TEarhY7y) | 4:01 | 2022-09-09 |  |
@@ -237,7 +238,7 @@
 | [Impossible \- &ME Remix](https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Impossible \(&ME Remix\)](https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o) | 9:15 | 2022-07-08 |  |
 | [In Mindibu](https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [In Mindibu](https://open.spotify.com/album/6aZBtDTIcjiD50dTKWoDES) | 5:08 | 2022-04-22 | 2022-10-15 |
 | [In My World](https://open.spotify.com/track/5CKeCLEvPDNIgHNZKgMpDj) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [In My World](https://open.spotify.com/album/33RMb5j36RJuGADKD6OWta) | 8:01 | 2021-07-30 | 2022-04-21 |
-| [In Your Eyes \- Ranta Remix](https://open.spotify.com/track/66NUgMhhUKeBKE90WNaKtg) | [At Dawn](https://open.spotify.com/artist/64HvosypkblUCoJvjidpar), [Ranta](https://open.spotify.com/artist/7AOoL5hIjl1CweoVN7ia73) | [In Your Eyes \(Ranta Remix\)](https://open.spotify.com/album/4qMidyvp8PgqasVwUobXjj) | 6:54 | 2023-11-10 |  |
+| [In Your Eyes \- Ranta Remix](https://open.spotify.com/track/66NUgMhhUKeBKE90WNaKtg) | [At Dawn](https://open.spotify.com/artist/64HvosypkblUCoJvjidpar), [Ranta](https://open.spotify.com/artist/7AOoL5hIjl1CweoVN7ia73) | [In Your Eyes \(Ranta Remix\)](https://open.spotify.com/album/4qMidyvp8PgqasVwUobXjj) | 6:54 | 2023-11-10 | 2024-01-20 |
 | [Inhibitions \- Edit](https://open.spotify.com/track/5ugyEMUjFOX7FS2Ao1Vyak) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Inhibitions](https://open.spotify.com/album/4WAK9ZcEKEJVI5zXXSQBwn) | 4:36 | 2022-09-02 | 2022-10-30 |
 | [Inkinga](https://open.spotify.com/track/7Cxb4S3x3NQTszNYPMoTAw) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ) | [Overtone](https://open.spotify.com/album/64lUQw9YO9oTYDe4cmRB1m) | 3:56 | 2021-05-07 | 2022-07-04 |
 | [Inner Self](https://open.spotify.com/track/4nDWcmDZu39ycWLYvIpaaP) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Broken Ep](https://open.spotify.com/album/2ouzgPQYohSjyHsLkaVBaj) | 6:57 | 2021-12-13 | 2022-07-07 |

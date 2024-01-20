@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 430124,
+  "2024-01-20": 430239,
   "date_first_scraped": "2020-10-13",
   "description": "music to show your grandparents this holiday season",
   "name": "hyperpop",
@@ -4441,6 +4441,24 @@
       "duration_ms": 164705,
       "name": "blow in the wind",
       "url": "https://open.spotify.com/track/4sJGikulSfsE9sSaBR4vKK"
+    },
+    {
+      "album": {
+        "name": "sport 2.0",
+        "url": "https://open.spotify.com/album/6fwu1wQfVbGrwrcCJgRQ85"
+      },
+      "artists": [
+        {
+          "name": "b4u",
+          "url": "https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116562,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/5kB8rEV7y5HzSFHCq8ReOV"
     },
     {
       "album": {
@@ -27340,6 +27358,24 @@
     },
     {
       "album": {
+        "name": "Rave Angel",
+        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "Rave Angel",
+      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
+    },
+    {
+      "album": {
         "name": "Rave en la Galaxia",
         "url": "https://open.spotify.com/album/2ybI44AIv7eQwC9lsxeY3M"
       },
@@ -30835,6 +30871,24 @@
       "duration_ms": 127139,
       "name": "smoke and mirrors",
       "url": "https://open.spotify.com/track/2OzaLzSVI2xgAYFH3dkciC"
+    },
+    {
+      "album": {
+        "name": "Sneg",
+        "url": "https://open.spotify.com/album/50NzWYA1Crzi4o6PkdUolk"
+      },
+      "artists": [
+        {
+          "name": "Nomark",
+          "url": "https://open.spotify.com/artist/0g3pkoWNlu6rXL487xBcH8"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Sneg",
+      "url": "https://open.spotify.com/track/4vqx495fqoZcqo7iuXNSMF"
     },
     {
       "album": {

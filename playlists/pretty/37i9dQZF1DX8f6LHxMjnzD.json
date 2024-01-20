@@ -1,12 +1,12 @@
 {
   "description": "If it's buzzing, it's here. The hottest new songs of the week. Cover: Ariana Grande",
-  "num_followers": 862931,
+  "num_followers": 863007,
   "original_name": "Singled Out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Zjg2OTYzZGQyYTk5NjZhNzlkYjdmOWIyZDhiNDVmM2NmNjkzOTI5",
+  "snapshot_id": "MCxlZjkxYjdmODlkZGI2OGNkMDQwYjM0NWVmZmZmOGM0NmY5NGIzNWQ0",
   "tracks": [
     {
       "added_at": "2024-01-16 16:54:40",
@@ -376,12 +376,12 @@
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         },
         {
-          "name": "2WEI",
-          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
-        },
-        {
           "name": "Forts",
           "url": "https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE"
+        },
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
         },
         {
           "name": "Tiffany Aris",

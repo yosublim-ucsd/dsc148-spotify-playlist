@@ -6,8 +6,224 @@
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "OTQxNCw5MDE5OTY0NGM2NjFmMThlNzdkODJhODM2OTYyMDgxOTZjZjliYzIy",
+  "snapshot_id": "OTQyOCwxNGRiODBiZGIzYzc1OTVjY2YzNTgyZGU4NTkwOWQ3YTY4ZjcyOWEw",
   "tracks": [
+    {
+      "added_at": "2024-01-19 21:17:25",
+      "album": {
+        "name": "Give & Give",
+        "url": "https://open.spotify.com/album/3Sf7ORHvuauAX9FisZJ5Vb"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Cool & Dre",
+          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
+        }
+      ],
+      "duration_ms": 159220,
+      "name": "Give & Give",
+      "url": "https://open.spotify.com/track/0SAAiYReOaWsGZTSeIQq5q"
+    },
+    {
+      "added_at": "2024-01-19 21:17:44",
+      "album": {
+        "name": "ALBEE FOR PRESIDENT",
+        "url": "https://open.spotify.com/album/4s3rqqDuNBasYtxtNTluys"
+      },
+      "artists": [
+        {
+          "name": "Albee Al",
+          "url": "https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd"
+        }
+      ],
+      "duration_ms": 138031,
+      "name": "ALBEE FOR PRESIDENT",
+      "url": "https://open.spotify.com/track/3IvKy7X21KOm3cpiOSH7RJ"
+    },
+    {
+      "added_at": "2024-01-19 21:18:04",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/6YhIk6y8ENfQN7qcSIwuvB"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/40fgimZMmbb21zLiyDa2j3"
+    },
+    {
+      "added_at": "2024-01-19 21:18:16",
+      "album": {
+        "name": "Soak City (Jersey Club Mix)",
+        "url": "https://open.spotify.com/album/0KzvFOagAff8Bm1Z1Nwicy"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 104044,
+      "name": "Soak City - Jersey Club Mix",
+      "url": "https://open.spotify.com/track/1vdv4a63CRR3DLMgbGfrOY"
+    },
+    {
+      "added_at": "2024-01-19 21:18:31",
+      "album": {
+        "name": "Ghetto Clicc",
+        "url": "https://open.spotify.com/album/2yDXVrACoYkEXfnn9U592m"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+        }
+      ],
+      "duration_ms": 133311,
+      "name": "Ghetto Clicc",
+      "url": "https://open.spotify.com/track/3IpCm81pYbPf1iv4mzu733"
+    },
+    {
+      "added_at": "2024-01-19 21:18:46",
+      "album": {
+        "name": "TIED IN",
+        "url": "https://open.spotify.com/album/3HE1LSdD2mF5ktHRo8emYt"
+      },
+      "artists": [
+        {
+          "name": "OnPointLikeOP",
+          "url": "https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v"
+        },
+        {
+          "name": "Tay Savage",
+          "url": "https://open.spotify.com/artist/3bEvCfguncHB5a063kJr71"
+        }
+      ],
+      "duration_ms": 146917,
+      "name": "TIED IN",
+      "url": "https://open.spotify.com/track/4CX8FpuyAvLtwQcJb8r08H"
+    },
+    {
+      "added_at": "2024-01-19 21:19:03",
+      "album": {
+        "name": "Don't Do Dat",
+        "url": "https://open.spotify.com/album/6w0ZhVuFb7LgKxXmRqXPqF"
+      },
+      "artists": [
+        {
+          "name": "Mgm Lett",
+          "url": "https://open.spotify.com/artist/0IVKVUhWVCVX8jyHXN6IOb"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 223114,
+      "name": "Low Ball - Remix",
+      "url": "https://open.spotify.com/track/3gATPSCZYSJ9iV2yFB616z"
+    },
+    {
+      "added_at": "2024-01-19 21:19:10",
+      "album": {
+        "name": "Too Rare",
+        "url": "https://open.spotify.com/album/4EtToVVxMKpwptqnE3WOcF"
+      },
+      "artists": [
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Too Rare",
+      "url": "https://open.spotify.com/track/1xF8tLNYNwN0C2DYqm9hOD"
+    },
+    {
+      "added_at": "2024-01-19 21:19:26",
+      "album": {
+        "name": "On My Mama Ass",
+        "url": "https://open.spotify.com/album/5UrayV5rvwrr70ZpB98HNu"
+      },
+      "artists": [
+        {
+          "name": "Drego & Beno",
+          "url": "https://open.spotify.com/artist/7af6WhCUemo7a4L2fk5N2X"
+        }
+      ],
+      "duration_ms": 131424,
+      "name": "On My Mama Ass",
+      "url": "https://open.spotify.com/track/04dRSYuMtJ8lohJbx81Bd3"
+    },
+    {
+      "added_at": "2024-01-19 21:19:38",
+      "album": {
+        "name": "WHO AM I",
+        "url": "https://open.spotify.com/album/2DPeAIzefUfnTotr3hGJx6"
+      },
+      "artists": [
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+        }
+      ],
+      "duration_ms": 148269,
+      "name": "WHO AM I",
+      "url": "https://open.spotify.com/track/7dYlzIpwTpcuV53z2D6eTC"
+    },
+    {
+      "added_at": "2024-01-19 21:19:49",
+      "album": {
+        "name": "Forever On That",
+        "url": "https://open.spotify.com/album/2bMaqdD3xeDs9qWROkSgSP"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "duration_ms": 128630,
+      "name": "Forever On That",
+      "url": "https://open.spotify.com/track/2DUuNEHxyeRz1JOZb9URyV"
+    },
+    {
+      "added_at": "2024-01-19 21:19:58",
+      "album": {
+        "name": "Scarred",
+        "url": "https://open.spotify.com/album/1LeDjsCPnuisL31DyZmNK9"
+      },
+      "artists": [
+        {
+          "name": "SNUPE BANDZ",
+          "url": "https://open.spotify.com/artist/72ltK39qT3DgtiCZgOAaGs"
+        }
+      ],
+      "duration_ms": 149784,
+      "name": "Scarred",
+      "url": "https://open.spotify.com/track/5S3KAtWAkHmsmsk0BCjVFi"
+    },
     {
       "added_at": "2024-01-12 20:33:36",
       "album": {
@@ -891,222 +1107,6 @@
       "duration_ms": 239355,
       "name": "DunnHill (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/3Hwc9uyLKCu0aCKmpE6Gm9"
-    },
-    {
-      "added_at": "2023-10-13 23:24:53",
-      "album": {
-        "name": "Chops on the Blade",
-        "url": "https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Cardo",
-          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
-        }
-      ],
-      "duration_ms": 212154,
-      "name": "Chops on the Blade",
-      "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
-    },
-    {
-      "added_at": "2023-10-13 23:25:05",
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/5pF3uHPu7XXDWwVTBYQXew"
-      },
-      "artists": [
-        {
-          "name": "D. Savage",
-          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
-        }
-      ],
-      "duration_ms": 125184,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/35gPF7j6rBRHKUe4zsXqry"
-    },
-    {
-      "added_at": "2023-10-13 23:25:16",
-      "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/7tCumu7kRFLx7lF306jfCY"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 205185,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/0hJFRBkbBS20cLnVnQZQuv"
-    },
-    {
-      "added_at": "2023-10-13 23:25:55",
-      "album": {
-        "name": "Summers Around The Corner",
-        "url": "https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 228390,
-      "name": "Summers Around The Corner",
-      "url": "https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT"
-    },
-    {
-      "added_at": "2023-10-06 22:53:39",
-      "album": {
-        "name": "OMMIO Grillz",
-        "url": "https://open.spotify.com/album/21TC7DEEj895lUJthZ0Gl7"
-      },
-      "artists": [
-        {
-          "name": "RJMrLA",
-          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 156655,
-      "name": "Dem Freaky Girls",
-      "url": "https://open.spotify.com/track/0dkBKkgLSkazEP8V058rnU"
-    },
-    {
-      "added_at": "2023-10-06 22:54:12",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Luv To A Fck Song",
-      "url": "https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM"
-    },
-    {
-      "added_at": "2023-10-06 22:57:40",
-      "album": {
-        "name": "Lake Lanier",
-        "url": "https://open.spotify.com/album/4AmS8OoOwlqO8oGF42IsEQ"
-      },
-      "artists": [
-        {
-          "name": "Peewee Longway",
-          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Lake Lanier",
-      "url": "https://open.spotify.com/track/79aaQYVOpTVL4Jpkmc0GDm"
-    },
-    {
-      "added_at": "2023-10-06 22:57:59",
-      "album": {
-        "name": "Special Bullets",
-        "url": "https://open.spotify.com/album/5ZWXPmoIzPwqp8RdMnTXPy"
-      },
-      "artists": [
-        {
-          "name": "Danny Towers",
-          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
-        },
-        {
-          "name": "Robb Bank$",
-          "url": "https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ"
-        }
-      ],
-      "duration_ms": 200753,
-      "name": "Special Bullets",
-      "url": "https://open.spotify.com/track/5vL9fTDxOGPB0RIyu2QrcZ"
-    },
-    {
-      "added_at": "2023-10-06 22:58:10",
-      "album": {
-        "name": "Elegant",
-        "url": "https://open.spotify.com/album/6mpou6lKuWukKnE0XWQmzb"
-      },
-      "artists": [
-        {
-          "name": "Rmc Mike",
-          "url": "https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo"
-        }
-      ],
-      "duration_ms": 131794,
-      "name": "Elegant",
-      "url": "https://open.spotify.com/track/10Ey3kdeqbBB2CuR3HmlWw"
-    },
-    {
-      "added_at": "2023-10-06 23:01:41",
-      "album": {
-        "name": "booted",
-        "url": "https://open.spotify.com/album/3k6sGgGBxqBV1THjRKgBtD"
-      },
-      "artists": [
-        {
-          "name": "MBNel",
-          "url": "https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "booted",
-      "url": "https://open.spotify.com/track/74RmSldi1mEwYY6mnHBHk6"
-    },
-    {
-      "added_at": "2023-10-06 23:02:15",
-      "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/0lzHQCI1kbWSda3LzuTnXd"
-      },
-      "artists": [
-        {
-          "name": "Lil Seeto",
-          "url": "https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI"
-        },
-        {
-          "name": "G Perico",
-          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
-        },
-        {
-          "name": "Steelz",
-          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
-        }
-      ],
-      "duration_ms": 141244,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/7pWtaVnfDEr3Nh2rMKdXOL"
-    },
-    {
-      "added_at": "2023-10-06 22:58:29",
-      "album": {
-        "name": "Let It Burn",
-        "url": "https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 206092,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9"
     }
   ],
   "unique_name": "Fresh Out",

@@ -1,9 +1,31 @@
 {
-  "2024-01-19": 1164680,
+  "2024-01-20": 1165589,
   "date_first_scraped": "2022-05-30",
   "description": "Ultimate 101 Punjabi Hits with Shubh",
   "name": "Punjabi 101",
   "tracks": [
+    {
+      "album": {
+        "name": "100 Million",
+        "url": "https://open.spotify.com/album/0DRD7GdJQNalHpKaLhM871"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192479,
+      "name": "100 Million",
+      "url": "https://open.spotify.com/track/3EJslhR33350RLGMb6eOAg"
+    },
     {
       "album": {
         "name": "12 Bande",
@@ -759,7 +781,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 176428,
       "name": "Bp Up Down",
       "url": "https://open.spotify.com/track/4bLKGyKQ9wKGUYA64Jw4QE"

@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 77592,
+  "num_followers": 77650,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTM5ZjY2NjRmYTcyMzFkYjM5NTg3ZmZhN2Y0YTdlZDUxZmY4NjAy",
+  "snapshot_id": "MCwwZTgwOTkyMThmMmJjZmE0NTQ0YjQwYzFmODQwNjMyNTk4YmE2MWRm",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "The Best Of Gospel Superfest (Live)",
-        "url": "https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N"
-      },
-      "artists": [
-        {
-          "name": "Melvin Williams",
-          "url": "https://open.spotify.com/artist/55ahFTOpj1ZVL4upoNwOqm"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Ooh Wee Another Blessing",
-      "url": "https://open.spotify.com/track/4qO2k0Q82nLpluVLwGJJNc"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "As We Worship Live",
         "url": "https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 287080,
       "name": "He Is",
       "url": "https://open.spotify.com/track/1HVYkNyIsnwwPZeYzGGsja"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "The Best Of Gospel Superfest (Live)",
+        "url": "https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N"
+      },
+      "artists": [
+        {
+          "name": "Melvin Williams",
+          "url": "https://open.spotify.com/artist/55ahFTOpj1ZVL4upoNwOqm"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Ooh Wee Another Blessing",
+      "url": "https://open.spotify.com/track/4qO2k0Q82nLpluVLwGJJNc"
     },
     {
       "added_at": "2023-02-18 05:28:04",

@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 257130,
+  "2024-01-20": 257167,
   "date_first_scraped": "2022-01-01",
   "description": "Soft and gentle piano interpretations of Jazz classics.",
   "name": "Peaceful Jazz Piano",
@@ -4172,6 +4172,24 @@
     },
     {
       "album": {
+        "name": "Let's Stay In",
+        "url": "https://open.spotify.com/album/0cXnR7GcDwsAiPLohfXlhL"
+      },
+      "artists": [
+        {
+          "name": "Portiere Woodtar",
+          "url": "https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149377,
+      "name": "Let's Stay In",
+      "url": "https://open.spotify.com/track/2ztch9UdIaDbUjnBkSLQMs"
+    },
+    {
+      "album": {
         "name": "Like Never Before",
         "url": "https://open.spotify.com/album/0zsSxEUcSIkspa42rF7jxB"
       },
@@ -5681,6 +5699,24 @@
       "duration_ms": 159361,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw"
+    },
+    {
+      "album": {
+        "name": "Over the River",
+        "url": "https://open.spotify.com/album/3k9rqh1vl7NHAKuOirBBIv"
+      },
+      "artists": [
+        {
+          "name": "Claire Martinelle",
+          "url": "https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177257,
+      "name": "Over the River",
+      "url": "https://open.spotify.com/track/0kYkCUA8GvXZMPeU1SgFuu"
     },
     {
       "album": {
@@ -7301,6 +7337,24 @@
       "duration_ms": 288774,
       "name": "The Midnight Sun Will Never Set",
       "url": "https://open.spotify.com/track/5RmbmVNTYmbRHB55UayS3n"
+    },
+    {
+      "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/0tqowqhI8zKkoCGKiz0yxN"
+      },
+      "artists": [
+        {
+          "name": "Rhys Wells",
+          "url": "https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185341,
+      "name": "The Morning After",
+      "url": "https://open.spotify.com/track/4XkUAWiznUGx9U6ePlnRnh"
     },
     {
       "album": {

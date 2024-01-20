@@ -1,12 +1,12 @@
 {
   "description": "Break up songs, the best cure for a broken heart!",
-  "num_followers": 462451,
+  "num_followers": 462435,
   "original_name": "Breakup Songs \ud83d\udc94",
   "owner": {
     "name": "Filtr Norway",
     "url": "https://open.spotify.com/user/sonymusic"
   },
-  "snapshot_id": "MTg4NCxiMjE0NjM3M2UwYzZlZjVhYTBjNjA5MzhhOTBmNGY3NjZkYTI0OGYx",
+  "snapshot_id": "MTg4NixkZWQxODVlMjQyNjgyMDRmYTk2MjkxOTMxZmJiZWZjYTRmZjY3NWYw",
   "tracks": [
     {
       "added_at": "2023-09-15 10:39:52",
@@ -225,22 +225,6 @@
       "url": "https://open.spotify.com/track/0hEX2JeG6jep9hVE5mXRuR"
     },
     {
-      "added_at": "2023-09-15 10:39:52",
-      "album": {
-        "name": "A Year Ago",
-        "url": "https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 170830,
-      "name": "A Year Ago",
-      "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
-    },
-    {
       "added_at": "2023-11-10 09:47:11",
       "album": {
         "name": "RUSH! (ARE U COMING?)",
@@ -355,6 +339,22 @@
       "duration_ms": 171566,
       "name": "BLEED",
       "url": "https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P"
+    },
+    {
+      "added_at": "2024-01-19 07:59:34",
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 165799,
+      "name": "Bitter Sweet Love",
+      "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
     },
     {
       "added_at": "2023-09-15 10:39:52",

@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-387 songs - 21 hr 57 min
+388 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Gold Digger](https://open.spotify.com/track/3mYEmm1lwwDRmosviDHlYf) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Pillows](https://open.spotify.com/artist/27GP9LCyNesCWiTi2S3bqc) | [Gold Digger](https://open.spotify.com/album/4imiC3EUY4vCkeYiPZiZXJ) | 2:40 | 2020-11-14 |  |
 | [Good Life \(feat\. Elderbrook\)](https://open.spotify.com/track/7FJVrTfU5eWPQowHttM4Rp) | [Good Life](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life \(feat\. Elderbrook\)](https://open.spotify.com/album/7CwDbwqPjE0Ik2c5C0MSAw) | 2:47 | 2023-06-30 | 2023-12-14 |
 | [Good Times](https://open.spotify.com/track/3j96Wizdhvo0CWaD51lYbP) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Times](https://open.spotify.com/album/6mnI3V3wRo7JkkpWs4NBDd) | 3:14 | 2021-10-02 | 2021-11-11 |
+| [Goosebumps](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Goosebumps](https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX) | 3:59 | 2024-01-19 |  |
 | [HALLUCINATION \(feat\. LissA\)](https://open.spotify.com/track/6TFYkactQoCeDb7qRYR3Cd) | [Airmow](https://open.spotify.com/artist/6SfPAcR67ssVyMQWoizN7Q), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [HALLUCINATION \(feat\. LissA\)](https://open.spotify.com/album/34bH6U9z4aebG0cybq3HQy) | 2:49 | 2022-05-06 | 2022-07-23 |
 | [Hands \(feat\. Denai Moore\) \- Samaran Remix](https://open.spotify.com/track/54bjvhHv2ThqFtK9PACFhf) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ), [Denai Moore](https://open.spotify.com/artist/4bS7w1U8P3Zuaa5jmj3mvN), [Samaran](https://open.spotify.com/artist/2heZX3F8ubVQgQ7gyPx0qe) | [Hands \(Remixes\) \(feat\. Denai Moore\)](https://open.spotify.com/album/30tDURuli6ZpmK5ZF3YZDR) | 4:14 | 2021-03-06 | 2021-03-23 |
 | [Harder We Fall](https://open.spotify.com/track/675ENLQoyLkIzEGHm5FAqe) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Austin Tate](https://open.spotify.com/artist/3Y0jgmHMAPgxpjuiEloPEJ) | [Harder We Fall](https://open.spotify.com/album/2mfGad0YRMJpNhi79pERvn) | 2:30 | 2022-07-08 | 2023-04-29 |

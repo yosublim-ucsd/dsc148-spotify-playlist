@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 20189,
+  "2024-01-20": 20250,
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=BY8nudGvTBO_3oRCpaU5LA>Mercy Chinwo</a> ",
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa?si=65ZggX4DRpC23flgvtn7Jg>Oyije</a> ",
   "name": "Testify",
   "tracks": [
     {
@@ -170,7 +170,7 @@
         },
         {
           "name": "Pastor Jerry Eze",
-          "url": "https://open.spotify.com/artist/3DHCxITonYPI1gNzdewEfI"
+          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
         }
       ],
       "date_added": "2024-01-12",
@@ -513,7 +513,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 192029,
       "name": "Carry me like Baby",
       "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
@@ -721,6 +721,32 @@
       "duration_ms": 160000,
       "name": "CORRECT",
       "url": "https://open.spotify.com/track/0akvZghvgczbBpV09jxu08"
+    },
+    {
+      "album": {
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/1ulp36eMzjM82qIt6jh3rl"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Oyije",
+          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+        },
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122033,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/6I4UKQeC4RZtiegyiXqVxk"
     },
     {
       "album": {
@@ -2649,7 +2675,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 214932,
       "name": "Never",
       "url": "https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl"
@@ -2951,7 +2977,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 257645,
       "name": "Omemma",
       "url": "https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk"
@@ -3674,6 +3700,24 @@
     },
     {
       "album": {
+        "name": "Trusted",
+        "url": "https://open.spotify.com/album/7cZ7nXWQsrE2VoFXErZWVN"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184636,
+      "name": "Trusted",
+      "url": "https://open.spotify.com/track/2PRebsAfb6LBVYLr5mKMlt"
+    },
+    {
+      "album": {
         "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
@@ -3993,7 +4037,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 196363,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"

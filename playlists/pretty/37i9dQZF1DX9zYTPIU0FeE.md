@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ?si=z4\_euryvR\_mfJ0N81OzznA">Abdullah Ibrahim</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,876 likes - 61 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,884 likes - 61 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 60 | [Intlokomo](https://open.spotify.com/track/3DOxqzFrfbegRHgX7xn2Du) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Intlokomo](https://open.spotify.com/album/2NDAw04JKZfgGCIwqtlMdG) | 6:58 |
 | 61 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 |
 
-Snapshot ID: `MCxhNzlkMGZmYjBlMzg4M2JhZGU2OGY3NGRlNWMzOTg4MzgzODhhZTBj`
+Snapshot ID: `MCxiZmI4M2E3NDEwOTg4N2NmMzU3YjZiYjEzMzQ3NDBmNmYyMDQ2NzJi`

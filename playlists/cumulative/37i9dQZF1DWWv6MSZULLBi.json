@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Waxahatchee",
+  "description": "A laid-back trip in the folk scene. Cover: Mumford & Sons",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -766,6 +766,24 @@
       "duration_ms": 270387,
       "name": "Are We Good",
       "url": "https://open.spotify.com/track/2rjopNdeDSuLAEqoLKPmOK"
+    },
+    {
+      "album": {
+        "name": "Are You Ok?",
+        "url": "https://open.spotify.com/album/0cdJWbsnAFXRF42UtrekBl"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207880,
+      "name": "Are You Ok?",
+      "url": "https://open.spotify.com/track/5teaSgkyMy3HyRWV2KePmS"
     },
     {
       "album": {
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 163317,
       "name": "Consider Me A Winner",
       "url": "https://open.spotify.com/track/1AkQLyWEC52Y6JCfcBNU7m"
@@ -3646,7 +3664,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 178890,
       "name": "Find My Way To You",
       "url": "https://open.spotify.com/track/1uTWuhwyZVLHxrBwn732FN"
@@ -3758,6 +3776,24 @@
       "duration_ms": 226909,
       "name": "Fix It for You",
       "url": "https://open.spotify.com/track/6Ann0ot3NWuGn7BLUjjtCP"
+    },
+    {
+      "album": {
+        "name": "Float On Now",
+        "url": "https://open.spotify.com/album/1nGrvEoFsho3KsDtk4FYzd"
+      },
+      "artists": [
+        {
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240133,
+      "name": "Float On Now",
+      "url": "https://open.spotify.com/track/3fQzuzwkf0U4kJnXt3OYYn"
     },
     {
       "album": {
@@ -4162,6 +4198,28 @@
       "duration_ms": 166008,
       "name": "Gone (Away)",
       "url": "https://open.spotify.com/track/6UCdCOFnahKI4yjILCPn3H"
+    },
+    {
+      "album": {
+        "name": "Good People",
+        "url": "https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186125,
+      "name": "Good People",
+      "url": "https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj"
     },
     {
       "album": {
@@ -4752,7 +4810,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 235829,
       "name": "Home",
       "url": "https://open.spotify.com/track/6vB9ixXZc8yqpYjcJshlgG"
@@ -4792,6 +4850,28 @@
       "duration_ms": 253625,
       "name": "Homemaker",
       "url": "https://open.spotify.com/track/7gkcXaqplvft0Gk0FbUteE"
+    },
+    {
+      "album": {
+        "name": "Homesick (with Sam Fender)",
+        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194416,
+      "name": "Homesick (with Sam Fender)",
+      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
     },
     {
       "album": {
@@ -6806,7 +6886,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 255414,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y"
@@ -7314,7 +7394,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 231636,
       "name": "Nature Song for the Time Being",
       "url": "https://open.spotify.com/track/5ebGwcGY1imEg1hWHU5lfs"
@@ -7541,6 +7621,42 @@
     },
     {
       "album": {
+        "name": "No Mast",
+        "url": "https://open.spotify.com/album/4f5BS0arTqNijWEsVU8ESv"
+      },
+      "artists": [
+        {
+          "name": "Loving",
+          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186252,
+      "name": "No Mast",
+      "url": "https://open.spotify.com/track/4XHvLCzN2G5VUfvh3wxW6D"
+    },
+    {
+      "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
+    },
+    {
+      "album": {
         "name": "North of the Border",
         "url": "https://open.spotify.com/album/7q3LN4jWho4NMiBXa4EPoi"
       },
@@ -7610,7 +7726,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 267256,
       "name": "Northern Attitude (with Hozier)",
       "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
@@ -8696,7 +8812,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 214426,
       "name": "Qaumajur",
       "url": "https://open.spotify.com/track/4iEYvfQHN2ceUpZS852rnm"
@@ -9003,6 +9119,24 @@
     },
     {
       "album": {
+        "name": "Rotting Fruit",
+        "url": "https://open.spotify.com/album/3xLm8dLpODMvSij3KZngfc"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230677,
+      "name": "Rotting Fruit",
+      "url": "https://open.spotify.com/track/0deJ2a71D181hZ6g0x0Rsq"
+    },
+    {
+      "album": {
         "name": "Running Out of Time",
         "url": "https://open.spotify.com/album/5GFgdQo0ECaJSUbOoZ0Qu6"
       },
@@ -9036,6 +9170,24 @@
       "duration_ms": 160871,
       "name": "Sad All The Time - Bonus Track",
       "url": "https://open.spotify.com/track/05SLKEyD0ZnGLEsCMx4FAf"
+    },
+    {
+      "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "album": {
@@ -10050,7 +10202,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 189043,
       "name": "Suitcases By The Door",
       "url": "https://open.spotify.com/track/4pY5T1a0Py3JJjZLHtkD9Q"
@@ -10288,7 +10440,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 340954,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/7EOlgcPeMDnCaHnSxOnVA0"
@@ -10876,6 +11028,24 @@
       "duration_ms": 185917,
       "name": "These Days",
       "url": "https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg"
+    },
+    {
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/4L8dQDEmy0CCN0ZonRAthg"
+      },
+      "artists": [
+        {
+          "name": "Julyan",
+          "url": "https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201880,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/5sMNeg0MEPWlpbjwCg2gRH"
     },
     {
       "album": {
@@ -12284,7 +12454,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 105266,
       "name": "Where'd The Time Go?",
       "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
@@ -12504,6 +12674,24 @@
       "duration_ms": 261058,
       "name": "Yarrow Lover",
       "url": "https://open.spotify.com/track/0FNI6gZgDg0kxF5ukzbvCh"
+    },
+    {
+      "album": {
+        "name": "Years On",
+        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242906,
+      "name": "Years On",
+      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
     },
     {
       "album": {

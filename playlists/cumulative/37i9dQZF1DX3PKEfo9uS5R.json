@@ -3045,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/40jbMwX71uTzhMKgCtxVyD"
+      },
+      "artists": [
+        {
+          "name": "Edward The Eagle",
+          "url": "https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112149,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/0lzRekCeR36TcwwtDYNnMw"
+    },
+    {
+      "album": {
         "name": "Sumatra",
         "url": "https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2"
       },

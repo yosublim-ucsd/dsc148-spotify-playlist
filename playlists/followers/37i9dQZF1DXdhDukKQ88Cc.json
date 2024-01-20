@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 144443,
+  "2024-01-20": 144477,
   "date_first_scraped": "2023-09-26",
-  "description": "Lams og Kundo holder det 100 \ud83e\udd76\n",
+  "description": "det st\u00f8rste dk rap lige nu \ud83c\udf1a\n",
   "name": "100 DK",
   "tracks": [
     {
@@ -151,7 +151,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 178909,
       "name": "Baby Mama",
       "url": "https://open.spotify.com/track/3NG0HvogvABEgt8bdpzCK8"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 140985,
       "name": "Baggen",
       "url": "https://open.spotify.com/track/1I3SW3d0TGH1NWY0tfK4QH"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 173069,
       "name": "Balancen (feat. Kesi)",
       "url": "https://open.spotify.com/track/4sGUkfsLxIK4tZxLZt0unU"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 133130,
       "name": "Boys I D Bl\u00e5",
       "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 133894,
       "name": "DEMONS & GOONS",
       "url": "https://open.spotify.com/track/0BlLaxm7TtjUVZm7jHVBuV"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 133795,
       "name": "Draco",
       "url": "https://open.spotify.com/track/5G02IArmAsqcU3yTdLxZRN"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 139140,
       "name": "ELEVATOR (feat. Stepz)",
       "url": "https://open.spotify.com/track/5KZqhvLLmjOXaFOP6jjaZa"
@@ -856,6 +856,24 @@
     },
     {
       "album": {
+        "name": "Graffiti",
+        "url": "https://open.spotify.com/album/01aGurolrsjwZJbQ6V7KuH"
+      },
+      "artists": [
+        {
+          "name": "GMG",
+          "url": "https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133735,
+      "name": "Graffiti",
+      "url": "https://open.spotify.com/track/2KpulNb5RWB2flro8HYm3K"
+    },
+    {
+      "album": {
         "name": "Har Du Det S\u00e5dan Her? (feat. KESI)",
         "url": "https://open.spotify.com/album/3JG8CJrfWElU5fS5UPqzx0"
       },
@@ -871,7 +889,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 140303,
       "name": "Har Du Det S\u00e5dan Her? (feat. KESI)",
       "url": "https://open.spotify.com/track/5UV3zCn6evCz5PQMBvyAwC"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 134025,
       "name": "H\u00f8jere",
       "url": "https://open.spotify.com/track/309pcsTV8a5NApBwPppZtx"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 153560,
       "name": "K-City (feat. Stepz)",
       "url": "https://open.spotify.com/track/12gl0uMirrvJL9DzTgcRXR"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 194217,
       "name": "Miguel F\u00e9lix",
       "url": "https://open.spotify.com/track/5uQvsr0OBicAIl0DJJAQeC"
@@ -1446,6 +1464,28 @@
     },
     {
       "album": {
+        "name": "Passport",
+        "url": "https://open.spotify.com/album/3UJdaVQNT58WUEGFEwqvm5"
+      },
+      "artists": [
+        {
+          "name": "PAY",
+          "url": "https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU"
+        },
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139761,
+      "name": "Passport",
+      "url": "https://open.spotify.com/track/0Z6qMxDDq3JL3Zqns9ANVM"
+    },
+    {
+      "album": {
         "name": "Payback (feat. RH)",
         "url": "https://open.spotify.com/album/77T0zKbTYx05Fcb5qIeFNB"
       },
@@ -1545,7 +1585,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 145755,
       "name": "Rock with It",
       "url": "https://open.spotify.com/track/0H5Q7G69hxQs8qdkD6rmRJ"
@@ -1621,10 +1661,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 125957,
       "name": "Safebox (feat. Branco)",
       "url": "https://open.spotify.com/track/2zu2gViGH8vMhNMuSx6n1h"
+    },
+    {
+      "album": {
+        "name": "Sent",
+        "url": "https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154565,
+      "name": "Sent",
+      "url": "https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N"
     },
     {
       "album": {
@@ -1639,7 +1701,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 121967,
       "name": "Settings",
       "url": "https://open.spotify.com/track/6nQqtUIELq6zQWld6UwhDn"
@@ -1657,7 +1719,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 128923,
       "name": "Sig Du Vil",
       "url": "https://open.spotify.com/track/2P7mah38G2Lf8DvSw51Bhe"
@@ -1973,7 +2035,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 138461,
       "name": "USTOPPELIG",
       "url": "https://open.spotify.com/track/0R4tUBZQFD5PEcw2QMr2iy"
@@ -2075,7 +2137,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 181902,
       "name": "xoxo (feat. ICEKIID)",
       "url": "https://open.spotify.com/track/1QYu15XcUvIzbniUykHudF"

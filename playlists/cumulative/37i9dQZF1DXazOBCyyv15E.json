@@ -26559,6 +26559,24 @@
     },
     {
       "album": {
+        "name": "Rumble Strip",
+        "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180240,
+      "name": "Rumble Strip",
+      "url": "https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ"
+    },
+    {
+      "album": {
         "name": "Run A Red Light",
         "url": "https://open.spotify.com/album/1ZTEtG1ccndh87NNstEyZw"
       },
@@ -32700,7 +32718,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 308930,
       "name": "The Weeping",
       "url": "https://open.spotify.com/track/2PwSwr3KmNRdI4RLnMBxyB"

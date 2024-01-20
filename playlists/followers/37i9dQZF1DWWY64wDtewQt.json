@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 7399454,
+  "2024-01-20": 7405242,
   "date_first_scraped": "2022-01-10",
   "description": "the beat of your drift",
   "name": "phonk",
@@ -445,7 +445,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 101204,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/1FMnIR4FUCW8WVZThvCqab"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 101321,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"
@@ -10136,6 +10136,24 @@
     },
     {
       "album": {
+        "name": "robot rock",
+        "url": "https://open.spotify.com/album/4LsaHLgUewiHLWEzeqgQwN"
+      },
+      "artists": [
+        {
+          "name": "alper6nen",
+          "url": "https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153564,
+      "name": "robot rock",
+      "url": "https://open.spotify.com/track/3yhv4I91mB3ykLImccAXXV"
+    },
+    {
+      "album": {
         "name": "robot rock (funk)",
         "url": "https://open.spotify.com/album/4doU2xxrxSK6BHe3TjsKdW"
       },
@@ -10191,7 +10209,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 153520,
       "name": "Robot Rock - Funk Remix",
       "url": "https://open.spotify.com/track/7ImCIbhZXIu0ulBGEwvC8W"

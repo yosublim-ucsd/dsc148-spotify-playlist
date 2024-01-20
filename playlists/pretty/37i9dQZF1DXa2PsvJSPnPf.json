@@ -1,12 +1,12 @@
 {
   "description": "Sit back, stay awhile, and savor the soft, sweet sounds of this collection. ",
-  "num_followers": 216715,
+  "num_followers": 216764,
   "original_name": "Front Porch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmI1YWFlZjgzNWQ1ZTk4ZmIyYzFjNDQxYzA3MzUzMGJlNzZlNWEw",
+  "snapshot_id": "MCw1MGNhMWExYzZiZTlkMzliZWUzZmUxMDI5ZDkyZWQ3N2RlYzU4ZjM2",
   "tracks": [
     {
       "added_at": "2024-01-18 18:32:46",
@@ -207,6 +207,26 @@
       "duration_ms": 141080,
       "name": "Clover On The Hillside",
       "url": "https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "I Think of You (The Heartache Collection)",
+        "url": "https://open.spotify.com/album/79sDvY5z5bsXMfCq6iegQ6"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 197812,
+      "name": "I Think Of You (feat. Ruston Kelly)",
+      "url": "https://open.spotify.com/track/0lCsl0fx0eXqt4GjvoZkjv"
     },
     {
       "added_at": "2024-01-18 18:32:46",

@@ -942,7 +942,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 193392,
       "name": "bubble beach",
       "url": "https://open.spotify.com/track/7uwZt4cO0n0d0aI3VaiSGf"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 182216,
       "name": "Del Verano",
       "url": "https://open.spotify.com/track/0NZHdtUCE4jjl1y0PPNbDh"
@@ -1678,6 +1678,24 @@
       "duration_ms": 131820,
       "name": "dont bother",
       "url": "https://open.spotify.com/track/5uWwgo9O3x4hHwA8Hdts6Q"
+    },
+    {
+      "album": {
+        "name": "Doors",
+        "url": "https://open.spotify.com/album/0818qBom4Z1WQZ9uz1OD9c"
+      },
+      "artists": [
+        {
+          "name": "Peyote",
+          "url": "https://open.spotify.com/artist/3GcLm6nLpo2oAbrfzYfRfr"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118811,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/6PwFc2F0CDiOK1QGjON7vG"
     },
     {
       "album": {
@@ -2482,7 +2500,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 159200,
       "name": "Flutters",
       "url": "https://open.spotify.com/track/3tEc1mPR0KHqpTOu7YJJGW"
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 135211,
       "name": "Frozen Memories",
       "url": "https://open.spotify.com/track/2ejgbXue8mMCqaVQSNVhzb"
@@ -2738,6 +2756,24 @@
       "duration_ms": 112000,
       "name": "Fruity Flavor",
       "url": "https://open.spotify.com/track/4a5zK2frFoJIH7MsJvC7Lp"
+    },
+    {
+      "album": {
+        "name": "Fuggedaboutit",
+        "url": "https://open.spotify.com/album/0HXUkkzQZL4o4tFUQxHn3f"
+      },
+      "artists": [
+        {
+          "name": "Burlywood",
+          "url": "https://open.spotify.com/artist/0pan20E0tRAnijsV2FHB92"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173751,
+      "name": "Fuggedaboutit",
+      "url": "https://open.spotify.com/track/1GYPW10V7bZUUqD1RihtYl"
     },
     {
       "album": {
@@ -3008,7 +3044,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 197961,
       "name": "Gravitas",
       "url": "https://open.spotify.com/track/2hQC4gj82U2rTYwJQJfzOr"
@@ -3748,7 +3784,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 162153,
       "name": "Kissing on the Dance Floor",
       "url": "https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M"
@@ -3964,7 +4000,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 131766,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh"
@@ -4346,7 +4382,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 157599,
       "name": "Lujo",
       "url": "https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI"
@@ -4436,7 +4472,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 220609,
       "name": "Magic Hour",
       "url": "https://open.spotify.com/track/0m3ujzAZJD5VGWOzlEPlZA"
@@ -4584,7 +4620,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 192467,
       "name": "Matterrock",
       "url": "https://open.spotify.com/track/3lFNPRDkohIw232d76kfoU"
@@ -5172,6 +5208,24 @@
       "duration_ms": 116575,
       "name": "Noir (Remix)",
       "url": "https://open.spotify.com/track/6k1wfv71sK5uo8KfbpCGTH"
+    },
+    {
+      "album": {
+        "name": "non-sombrero",
+        "url": "https://open.spotify.com/album/0FHhYgaMxPQ8clyJuwTAC8"
+      },
+      "artists": [
+        {
+          "name": "longwayfromhome",
+          "url": "https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196918,
+      "name": "non-sombrero",
+      "url": "https://open.spotify.com/track/2qdAHLUFkZGyFD52eXQWg3"
     },
     {
       "album": {
@@ -6000,7 +6054,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 142109,
       "name": "Rolling Waves",
       "url": "https://open.spotify.com/track/5Z7UJUFFqFUeoH4kI1rBQu"
@@ -6108,7 +6162,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 182267,
       "name": "S.E.P Field",
       "url": "https://open.spotify.com/track/4ObvyyrbAQGDkT0cc9pOFd"
@@ -6364,7 +6418,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 236242,
       "name": "Sepia Story",
       "url": "https://open.spotify.com/track/3EppUOHNVjSn5C1WF5QWby"
@@ -6382,7 +6436,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 156080,
       "name": "Shaving My Soul",
       "url": "https://open.spotify.com/track/0ws1igakuG95McJdPvWh2Z"
@@ -6548,7 +6602,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 165071,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/0BZA9vcgNU7xsGSAHxahuG"
@@ -6772,7 +6826,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 254608,
       "name": "Souls",
       "url": "https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz"
@@ -6790,7 +6844,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 172909,
       "name": "Spinn",
       "url": "https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv"
@@ -6844,7 +6898,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 154419,
       "name": "Standing with You",
       "url": "https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE"
@@ -6888,7 +6942,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 108387,
       "name": "State of Consciousness",
       "url": "https://open.spotify.com/track/3m5Britq8BKxzcRpiaIk71"
@@ -7418,7 +7472,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 170273,
       "name": "Time Imprisoned",
       "url": "https://open.spotify.com/track/0LbCtG6IBveEF7MejHErAM"
@@ -7966,7 +8020,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 163189,
       "name": "Wet Bravado",
       "url": "https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L"
@@ -8128,7 +8182,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 244666,
       "name": "You Bring Me Joy",
       "url": "https://open.spotify.com/track/0QuRKVBqzM0M3OBD8fkbbl"

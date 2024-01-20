@@ -4,7 +4,7 @@
 
 > Discover the Sound of ADE 2023! Bringing every form and shape of electronic music together, ADE offers a glimpse into some of the best of the 2,500+ artists and 1.000+ events coming your way this October.
 
-750 songs - 2 day 8 hr 10 min
+751 songs - 2 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [1, 2 Step \(Supersonic\)](https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [1, 2 Step \(Supersonic\)](https://open.spotify.com/album/4VX1pbjA9f0CKhuGRMBuZx) | 2:56 | 2022-08-30 | 2022-10-14 |
 | [1, 2 Step \(Supersonic\)](https://open.spotify.com/track/4VPQbBYf1c33yNEj3aIz9v) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [EDC Las Vegas 2023](https://open.spotify.com/album/5Zm9Tai3GPnWUljcNoHxh5) | 2:56 | 2023-05-12 | 2023-07-01 |
 | [24](https://open.spotify.com/track/070ypG9kfYq1PpUISBESBw) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Born Dirty](https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5) | [EDC Las Vegas 2022](https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau) | 3:20 | 2022-05-16 | 2022-06-10 |
-| [92 Thing](https://open.spotify.com/track/70PoA9APZapULPaXRUSvpn) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Come Together](https://open.spotify.com/album/2qkjGCnCT0T3PYWNFr6buF) | 5:38 | 2023-10-01 |  |
+| [92 Thing](https://open.spotify.com/track/4jUPCu3hRfCkYBExW3ryU8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Come Together EP](https://open.spotify.com/album/2GQSeIQvbRFeiQHTv0QdG7) | 5:38 | 2023-10-01 |  |
+| [92 Thing](https://open.spotify.com/track/70PoA9APZapULPaXRUSvpn) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Come Together](https://open.spotify.com/album/2qkjGCnCT0T3PYWNFr6buF) | 5:38 | 2023-10-01 | 2024-01-20 |
 | [A Course In Miracles \- Rodriguez Jr\. Remix](https://open.spotify.com/track/0PCQXXAz2vnh7BoPzZVGe8) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [The Interior Journey Remixes \- Part 2](https://open.spotify.com/album/62DW4TKnxSyAG6jlnYQ9Ma) | 6:11 | 2021-12-15 | 2022-05-17 |
 | [A Part Of](https://open.spotify.com/track/71d6IYIaRKv3FfXFP2nEt5) | [Larse](https://open.spotify.com/artist/44VYaq2KjuU7hFvtD4Darm) | [A Part Of](https://open.spotify.com/album/2XwmP1rqV5RDhNEUtDV7eh) | 3:15 | 2023-06-30 | 2023-07-15 |
 | [A Summer History \- DeMarzo Remix](https://open.spotify.com/track/0IVCLYvLwRSSKoRJov87Ho) | [De La Swing](https://open.spotify.com/artist/7uxpFclesPI9MwYDLa3ldG), [DeMarzo](https://open.spotify.com/artist/690s28S2ybWXTI9IdX86mO) | [A Summer History EP](https://open.spotify.com/album/7wzxGnNktOHAhKkGxdJadS) | 6:48 | 2021-12-15 | 2022-05-17 |

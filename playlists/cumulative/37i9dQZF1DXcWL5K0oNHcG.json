@@ -6653,6 +6653,24 @@
     },
     {
       "album": {
+        "name": "Trails and Traces",
+        "url": "https://open.spotify.com/album/5snXS22NW1Cdz3RubODbu5"
+      },
+      "artists": [
+        {
+          "name": "Nye Banfield",
+          "url": "https://open.spotify.com/artist/6YgKVXsxdkdMvPKtun2Mf7"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444718,
+      "name": "E11",
+      "url": "https://open.spotify.com/track/2VNTkhoJjWiPIfNhkqkbun"
+    },
+    {
+      "album": {
         "name": "Dear Irvington",
         "url": "https://open.spotify.com/album/4Z0EGhn6WmIpCoUrmUjcyz"
       },
@@ -7278,7 +7296,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 128914,
       "name": "Evil Cute",
       "url": "https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv"
@@ -14375,6 +14393,24 @@
     },
     {
       "album": {
+        "name": "BETA",
+        "url": "https://open.spotify.com/album/7EeRJ9cQ7IoV4xgE5uCsYn"
+      },
+      "artists": [
+        {
+          "name": "Keys Open Doors",
+          "url": "https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254025,
+      "name": "Millennial Blues",
+      "url": "https://open.spotify.com/track/4cWadzVZdZ1Xuj1BLoMJJY"
+    },
+    {
+      "album": {
         "name": "Milonga",
         "url": "https://open.spotify.com/album/6V8I6zzAfmNG8iIe3HAM1Y"
       },
@@ -16126,7 +16162,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 194000,
       "name": "Old Ways",
       "url": "https://open.spotify.com/track/3xYuikO0QMfmoWoCxTakRG"
@@ -16775,6 +16811,24 @@
     },
     {
       "album": {
+        "name": "Paloma Negra",
+        "url": "https://open.spotify.com/album/2VB4d4FBZoC9555ijLuAoA"
+      },
+      "artists": [
+        {
+          "name": "Amy Gadiaga",
+          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314480,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/2tsB2qb8IcqQbL5VFdRhVs"
+    },
+    {
+      "album": {
         "name": "Group Theory: Black Music",
         "url": "https://open.spotify.com/album/4bLUzO4dszMKwyzY4jXsXA"
       },
@@ -17356,6 +17410,28 @@
       "duration_ms": 167087,
       "name": "Place To Be",
       "url": "https://open.spotify.com/track/3N8mgnIpEwltptciq3SeV1"
+    },
+    {
+      "album": {
+        "name": "Locana",
+        "url": "https://open.spotify.com/album/2BrwUF0cl17iaUZBSQcwqL"
+      },
+      "artists": [
+        {
+          "name": "Oliver Crosby",
+          "url": "https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO"
+        },
+        {
+          "name": "pantology",
+          "url": "https://open.spotify.com/artist/6BmJQyuJW3ghQ8qLROaOt0"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142718,
+      "name": "Plasma",
+      "url": "https://open.spotify.com/track/0tN87uXOyp6KjCfUVms7o5"
     },
     {
       "album": {
@@ -19645,6 +19721,24 @@
     },
     {
       "album": {
+        "name": "She's A Rose",
+        "url": "https://open.spotify.com/album/43nL0Zl1akWZ0wz03ccCOx"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Beat",
+          "url": "https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238573,
+      "name": "She's A Rose",
+      "url": "https://open.spotify.com/track/0VRICfiGMTS9RPnzpxoJ9Z"
+    },
+    {
+      "album": {
         "name": "Shinkansen",
         "url": "https://open.spotify.com/album/16mvPF24jJc5dafWR6S0QC"
       },
@@ -21229,6 +21323,24 @@
     },
     {
       "album": {
+        "name": "strider",
+        "url": "https://open.spotify.com/album/5NoDLQ5QSJ4duUHcQVRXFs"
+      },
+      "artists": [
+        {
+          "name": "DREAMSCAPES",
+          "url": "https://open.spotify.com/artist/3MasxTtJV1RA8nnX53K3Bx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267031,
+      "name": "strider",
+      "url": "https://open.spotify.com/track/2RL1rKwbnmRCYc7HHAEXwE"
+    },
+    {
+      "album": {
         "name": "Studio 54",
         "url": "https://open.spotify.com/album/2Fd2qrJWUj6cYX4YOjgN08"
       },
@@ -21476,6 +21588,24 @@
       "duration_ms": 111627,
       "name": "Sunday Groove",
       "url": "https://open.spotify.com/track/4caIWm345tzxUtYulUh7WG"
+    },
+    {
+      "album": {
+        "name": "Sunday In The Park",
+        "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
+      },
+      "artists": [
+        {
+          "name": "Sammy Jackson",
+          "url": "https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265239,
+      "name": "Sunday In The Park",
+      "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
     },
     {
       "album": {

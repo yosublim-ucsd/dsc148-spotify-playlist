@@ -7407,6 +7407,28 @@
     },
     {
       "album": {
+        "name": "Who Else (Live)",
+        "url": "https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331219,
+      "name": "Who Else - Live",
+      "url": "https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb"
+    },
+    {
+      "album": {
         "name": "Crowns Down (Live)",
         "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
       },

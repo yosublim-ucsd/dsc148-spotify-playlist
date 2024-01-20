@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC?si=Mi9JWXGuQSmsAbxFTgzyeg">Benjamen</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0?si=tQN8O9JPSyCXmbNbUMMs\_Q">Umlungu The Rapper</a> & <a href="https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy?si=U\-cG6Z0\_TNu6lsKpLiOXHw">Big Xhosa</a>
 
-121 songs - 6 hr 24 min
+122 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 | 2022-09-08 |  |
 | [Liewe Genade \(feat\. Loufi\)](https://open.spotify.com/track/7jN2OX96qJCgyhiOPqK4BT) | [John James](https://open.spotify.com/artist/4YSLyAh8QLYsRCMKJFVB3n), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Liewe Genade \(feat\. Loufi\)](https://open.spotify.com/album/01PgqcjuqlaxBSPpslFvSl) | 4:17 | 2022-09-08 | 2023-07-21 |
 | [Los Hom](https://open.spotify.com/track/7Iec6TaiOl3rOaqW3cTCfk) | [Wboy](https://open.spotify.com/artist/04JztP9AaI1fxKtfZ6eQVW) | [Forever](https://open.spotify.com/album/3XFk6y7qOGBONEP0C7Vlme) | 2:01 | 2023-10-27 |  |
-| [Mal](https://open.spotify.com/track/63Q6SWhpOsG1KnCZZTGPjy) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Mal](https://open.spotify.com/album/41DsSF0XlDJlNPaZTMRaTw) | 2:11 | 2022-09-08 |  |
+| [Mal](https://open.spotify.com/track/63Q6SWhpOsG1KnCZZTGPjy) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Mal](https://open.spotify.com/album/41DsSF0XlDJlNPaZTMRaTw) | 2:11 | 2022-09-08 | 2024-01-20 |
 | [Master](https://open.spotify.com/track/2oqEDL2aK5Ac0VIbEMCAq3) | [Wboy](https://open.spotify.com/artist/04JztP9AaI1fxKtfZ6eQVW) | [Master](https://open.spotify.com/album/1VBh6aNJi2dcXprXcczPYT) | 2:16 | 2023-10-06 |  |
 | [Meisies & Partytjies](https://open.spotify.com/track/1psMgy1yY92I0iEDmiEtmT) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Meisies & Partytjies](https://open.spotify.com/album/6zuBf5TT5VdAvijbdb3oCT) | 3:42 | 2022-09-08 | 2023-08-05 |
 | [Meisies & Partytjies](https://open.spotify.com/track/2gesUnuudnlfvTFeuIF8Rw) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [There It Is](https://open.spotify.com/album/3lSkOBovZW9Ex1crkCF54B) | 3:42 | 2022-09-08 | 2022-11-10 |
@@ -108,6 +108,7 @@
 | [Spanga](https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Spanga](https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk) | 3:00 | 2023-09-28 |  |
 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 | 2023-11-30 |  |
 | [Stap Soldaat](https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Stap Soldaat](https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ) | 3:10 | 2023-03-02 |  |
+| [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 | 2024-01-19 |  |
 | [Swaar Tye](https://open.spotify.com/track/07GWdeJWoSJmOtiogGNOxX) | [Lil Jady](https://open.spotify.com/artist/535YmzkwAuuy4jjVrhnzBZ) | [Swaar Tye](https://open.spotify.com/album/1wT5j2yXzesSWS3El9tnPS) | 2:07 | 2023-06-02 | 2023-06-09 |
 | [Syfers](https://open.spotify.com/track/0ZpttaASCFswJdD8sJprbJ) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Sien Jou Later](https://open.spotify.com/album/0AXcygm8jz0YWKvgZvVd0T) | 3:17 | 2022-09-08 | 2023-03-25 |
 | [Sê Net](https://open.spotify.com/track/5j6SZZCXd6h1N1bb00eaOu) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Bliksemstraal](https://open.spotify.com/artist/0tZgg5DzLolw3cT7We6RQ0) | [Funky\-Kaans](https://open.spotify.com/album/4dCrzyFLnOoCrMCEfLZ6qa) | 3:21 | 2022-09-08 | 2022-12-02 |

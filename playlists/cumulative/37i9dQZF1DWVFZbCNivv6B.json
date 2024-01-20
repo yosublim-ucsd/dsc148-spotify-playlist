@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Dan Sanchez, Tornillo y Natanael Cano en la casa. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Underside 821 en la casa. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 204200,
       "name": "Detr\u00e1s De C\u00e1maras",
       "url": "https://open.spotify.com/track/0czchxjdPJBzRv6BBQajqH"
@@ -3973,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/7ozyczf9FNC3aPSV1A6kDW"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161929,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/41bLlBHtmIwjuAUaBP3Uho"
+    },
+    {
+      "album": {
         "name": "Guajiro Dream",
         "url": "https://open.spotify.com/album/1suN2dF04oJFn55u0nN8Cv"
       },
@@ -4250,6 +4268,36 @@
       "duration_ms": 213253,
       "name": "Juego",
       "url": "https://open.spotify.com/track/4L8UrMGwneCQc71x2fPZSf"
+    },
+    {
+      "album": {
+        "name": "Trinidad",
+        "url": "https://open.spotify.com/album/1Cci7b8OkTzn8zSYsRq9Gh"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        },
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        },
+        {
+          "name": "T-Killa",
+          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199367,
+      "name": "Karate",
+      "url": "https://open.spotify.com/track/1cQj9WvpcZQszPoDswGmmH"
     },
     {
       "album": {
@@ -5170,7 +5218,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 334499,
       "name": "Los Que Habitan Los Maizales Cap\u00edtulo 3",
       "url": "https://open.spotify.com/track/2yDtx0UZPvu5Unm9JPvTUr"
@@ -5816,6 +5864,24 @@
       "duration_ms": 222857,
       "name": "Mi Plebada",
       "url": "https://open.spotify.com/track/4V6o2CAtWXXw48VJCmdzwF"
+    },
+    {
+      "album": {
+        "name": "Mi Raza",
+        "url": "https://open.spotify.com/album/2sNIhivx1vmYiDk5tvlpxN"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Mi Raza",
+      "url": "https://open.spotify.com/track/7HnMj5DQBkrrJyl7kUq5ZB"
     },
     {
       "album": {
@@ -7920,7 +7986,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 192500,
       "name": "Rap y Calle No. 15",
       "url": "https://open.spotify.com/track/1XCxkTqxdQu83IDH491H24"
@@ -8176,7 +8242,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 230084,
       "name": "Ruedo",
       "url": "https://open.spotify.com/track/7Gq1dZ8eDuSX4uHCfZDkLP"
@@ -10204,7 +10270,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 237439,
       "name": "Vida Callejera",
       "url": "https://open.spotify.com/track/2E3dGYCkGR30v8UjJANf04"

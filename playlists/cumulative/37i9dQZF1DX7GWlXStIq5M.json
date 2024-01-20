@@ -949,6 +949,28 @@
     },
     {
       "album": {
+        "name": "Amorzin de Sacanage",
+        "url": "https://open.spotify.com/album/0R5cf0gW93CE17TYRU9rJZ"
+      },
+      "artists": [
+        {
+          "name": "Casa Comigo",
+          "url": "https://open.spotify.com/artist/28YHM1DOOJIWBvPpXzRkp6"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Amorzin de Sacanage",
+      "url": "https://open.spotify.com/track/4LxprXblggpW2WnQb0gUI9"
+    },
+    {
+      "album": {
         "name": "ANESTESIA",
         "url": "https://open.spotify.com/album/2jHqfa5pVSOI0giNVlDB0c"
       },
@@ -2598,7 +2620,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 221653,
       "name": "Carta Branca",
       "url": "https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1"
@@ -2986,7 +3008,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 174873,
       "name": "colorida",
       "url": "https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV"
@@ -3600,7 +3622,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 196271,
       "name": "Devi",
       "url": "https://open.spotify.com/track/7ztSM4otmMcgWQF7yd05qv"
@@ -4054,7 +4076,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
@@ -4072,7 +4094,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 146243,
       "name": "ELEMENTO X",
       "url": "https://open.spotify.com/track/68byKiGzLvQo7VWbXIYTBx"
@@ -4490,6 +4512,32 @@
       "duration_ms": 130677,
       "name": "FAMOZIN",
       "url": "https://open.spotify.com/track/0zFDNAzOo2bRp16A5enPC5"
+    },
+    {
+      "album": {
+        "name": "FerroFere",
+        "url": "https://open.spotify.com/album/6ymYAcmaragd7uP2rNwnGf"
+      },
+      "artists": [
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "VANDAL",
+          "url": "https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221379,
+      "name": "FerroFere",
+      "url": "https://open.spotify.com/track/7HXu0xKS5zHpEPDScHilf9"
     },
     {
       "album": {
@@ -6349,6 +6397,54 @@
     },
     {
       "album": {
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/1VqFCDs5i27SB11y6aPs8Y"
+      },
+      "artists": [
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184405,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/0LJGq2TQMW5WwnD9AuPRuV"
+    },
+    {
+      "album": {
+        "name": "LADIES NIGHT",
+        "url": "https://open.spotify.com/album/1zRexPtlrgVXfXzwT4EWfI"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "LADIES NIGHT",
+      "url": "https://open.spotify.com/track/56GSv9UWfx2ydvuwBNi318"
+    },
+    {
+      "album": {
         "name": "LaLa Gang",
         "url": "https://open.spotify.com/album/3GJ4Ph09SEZSzd4cTVoUOV"
       },
@@ -7210,6 +7306,32 @@
       "duration_ms": 113519,
       "name": "Mar\u00edlia Mendon\u00e7a",
       "url": "https://open.spotify.com/track/1CBjYXLotHrkiykMbI7EaU"
+    },
+    {
+      "album": {
+        "name": "Meu Tom",
+        "url": "https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203896,
+      "name": "Massagem",
+      "url": "https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx"
     },
     {
       "album": {
@@ -8208,6 +8330,24 @@
       "duration_ms": 193768,
       "name": "Nem Me Beijou",
       "url": "https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5"
+    },
+    {
+      "album": {
+        "name": "Nem Sei Fingir",
+        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Nem Sei Fingir",
+      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
     },
     {
       "album": {
@@ -9385,6 +9525,50 @@
     },
     {
       "album": {
+        "name": "Pecadinho",
+        "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
+      },
+      "artists": [
+        {
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Duda Brack",
+          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Pecadinho",
+      "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
+    },
+    {
+      "album": {
+        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+        "url": "https://open.spotify.com/album/4d44mgau5zT5kYTcIvbHoj"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/597FnKApiz3TfkE8MB1wom"
+    },
+    {
+      "album": {
         "name": "TRI \u00c2NGULOS",
         "url": "https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z"
       },
@@ -9396,7 +9580,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 119874,
       "name": "PEGADA DE CRIA",
       "url": "https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt"
@@ -12640,7 +12824,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 109446,
       "name": "Tapa",
       "url": "https://open.spotify.com/track/0W2uU7LtdvoLCT6VpzYfSE"
@@ -13908,7 +14092,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 201428,
       "name": "Vai Ser Melhor",
       "url": "https://open.spotify.com/track/6xKj3ymHzFKbg734crnhv5"

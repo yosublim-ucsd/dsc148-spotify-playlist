@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 416121,
+  "2024-01-20": 416155,
   "date_first_scraped": "2021-12-21",
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
   "name": "Jazzy Dinner",
@@ -767,6 +767,32 @@
       "duration_ms": 405907,
       "name": "Cabin in the Sky",
       "url": "https://open.spotify.com/track/1OCmPNCqZH3PGoO0tbEWZ7"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4sleGYABucNUIs3AeAxiRy"
+      },
+      "artists": [
+        {
+          "name": "Danny Grissett",
+          "url": "https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Kendrick Scott",
+          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423520,
+      "name": "Cambridge Place",
+      "url": "https://open.spotify.com/track/6DJHsbB3v9aPzPQVeE59es"
     },
     {
       "album": {
@@ -5539,7 +5565,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 304042,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V"

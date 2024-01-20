@@ -4,7 +4,7 @@
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-66 songs - 3 hr 55 min
+67 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Huru](https://open.spotify.com/track/0MKqUGeZLxjJeNlMQqMTBz) | [Jay General](https://open.spotify.com/artist/7dNS5Gtohaw7dCBdeX5oud) | [Huru](https://open.spotify.com/album/12mhhGL28768lIEYqcnQvk) | 3:06 | 2022-04-13 |  |
 | [Huru](https://open.spotify.com/track/5zFw2qypqYA2rZfeoR7YbD) | [Jay General](https://open.spotify.com/artist/7dNS5Gtohaw7dCBdeX5oud) | [Huru](https://open.spotify.com/album/6Pe7sUSnckGI6edYYYQXPi) | 3:06 | 2022-04-13 | 2022-11-12 |
 | [I Believe](https://open.spotify.com/track/6aDDgd5crYJ0OQPdq3TUmQ) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [I Believe](https://open.spotify.com/album/3omHcm5ucQJ26WUjdoF9DA) | 4:07 | 2022-04-13 |  |
-| [Ipo Siku Remix](https://open.spotify.com/track/0HBD0KvuD49oRoBmqMNxu9) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku Remix](https://open.spotify.com/album/0fUXgCbVaU1Qysy6B6nH9C) | 4:13 | 2022-04-13 |  |
+| [Ipo Siku \(Remix\)](https://open.spotify.com/track/3KTdvq3WhZAYEinZ8FBUdB) | [Ringtone Apoko](https://open.spotify.com/artist/6sSiI4bXbeB2NvFuNQfZdd), [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Zoea Mawe](https://open.spotify.com/album/2WCTcbQVS4ULy60l1cxwsB) | 4:13 | 2023-10-12 |  |
+| [Ipo Siku Remix](https://open.spotify.com/track/0HBD0KvuD49oRoBmqMNxu9) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku Remix](https://open.spotify.com/album/0fUXgCbVaU1Qysy6B6nH9C) | 4:13 | 2022-04-13 | 2024-01-20 |
 | [Ipo Siku Remix](https://open.spotify.com/track/70MBx9XPb9qib4iXbezNnl) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku Remix](https://open.spotify.com/album/5xXmXsgHB2Aj7s0SN1Fg9l) | 4:13 | 2022-04-13 | 2022-11-12 |
 | [Jirani Yangu](https://open.spotify.com/track/2fnXwytCokjzrd1S5EgxP1) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Jirani Yangu](https://open.spotify.com/album/54PH3Kh5DpoE0zOJIODMke) | 3:02 | 2022-04-13 | 2024-01-08 |
 | [Jirani Yangu](https://open.spotify.com/track/5ssNZTVFgpT5z058zUtmcA) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Jirani Yangu](https://open.spotify.com/album/2UnScWHFQuZSELZ5nWMpAc) | 3:02 | 2023-10-12 |  |

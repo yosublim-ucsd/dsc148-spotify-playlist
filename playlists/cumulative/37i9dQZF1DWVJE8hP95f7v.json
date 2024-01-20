@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Escolhi Ser Feliz",
+        "url": "https://open.spotify.com/album/5lbtSIdSEelRqUM4eBOTqj"
+      },
+      "artists": [
+        {
+          "name": "Josimar Prince",
+          "url": "https://open.spotify.com/artist/2pQWEVffdxDEZEsWdRTUPz"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256833,
+      "name": "Escolhi Ser Feliz",
+      "url": "https://open.spotify.com/track/46Mbf2x3j3qJidTWfmt23u"
+    },
+    {
+      "album": {
         "name": "Estou Voltando",
         "url": "https://open.spotify.com/album/2hf3H1KEoYeMsadLkmGKL2"
       },
@@ -794,7 +812,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 232385,
       "name": "Mande um Sinal - Ao Vivo",
       "url": "https://open.spotify.com/track/3DvUyGBCtPnmozZ6KV7xaq"
@@ -952,6 +970,24 @@
       "duration_ms": 219173,
       "name": "Mr. Funky samba",
       "url": "https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Inten\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7ccSULQ6whY5KPCxOhNZqE"
+      },
+      "artists": [
+        {
+          "name": "Soulcity",
+          "url": "https://open.spotify.com/artist/40nNL1xkYdlMu5qNqxZ9Ui"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246177,
+      "name": "M\u00e1s Inten\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/3BPtSwO7ys5cP0V35WRyZ6"
     },
     {
       "album": {
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 254561,
       "name": "Onda Poderosa / Cita\u00e7\u00e3o: Abalou",
       "url": "https://open.spotify.com/track/0ufa6F0EztswDDsWRbcMok"

@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 23313,
+  "2024-01-20": 23326,
   "date_first_scraped": "2022-01-17",
   "description": "Sweet lullabies on guitar for little dreamers.",
   "name": "Guitar Lullabies",
@@ -1500,6 +1500,24 @@
     },
     {
       "album": {
+        "name": "Furry Friends",
+        "url": "https://open.spotify.com/album/7yHibwuN87k4iv4W0Zglh1"
+      },
+      "artists": [
+        {
+          "name": "Hob Nob Guitars",
+          "url": "https://open.spotify.com/artist/5Hi0d602CvheKefJyN6GLw"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107934,
+      "name": "Furry Friends",
+      "url": "https://open.spotify.com/track/6NLXrHE37TBshJMIihdAXd"
+    },
+    {
+      "album": {
         "name": "Gently Slow",
         "url": "https://open.spotify.com/album/20dortqEfJRZJmobdM7g48"
       },
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 116390,
       "name": "Goodnight Sweetheart Goodnight",
       "url": "https://open.spotify.com/track/6aSIzLuudxibkJ2tThjrRW"
@@ -2437,7 +2455,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 67337,
       "name": "Little Dreamer",
       "url": "https://open.spotify.com/track/2Bi78w0eDI0LLki6hL4kRy"
@@ -2725,7 +2743,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 173659,
       "name": "Midnight Stars",
       "url": "https://open.spotify.com/track/3AuEiYI7R0iboNJxdHa9Sr"
@@ -2851,7 +2869,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 151075,
       "name": "My Snuggle",
       "url": "https://open.spotify.com/track/0EUa9afxxkHKR6E9yFrsaR"
@@ -3133,7 +3151,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 93562,
       "name": "Quarantine",
       "url": "https://open.spotify.com/track/2bO6mmvs9RLVTghH0Dvqhm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,383 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,510 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [Automatique](https://open.spotify.com/track/3lT2yaxSLBWDbjcFDMLaUn) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Automatique](https://open.spotify.com/album/4vpq8EUrwPr7UePfuUeiZE) | 3:04 |
 | 40 | [GUETTE](https://open.spotify.com/track/1Z0wEQ1f57DkljzYwInEqr) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [N'A STRAGIA](https://open.spotify.com/album/4PxIHIjXAGQz2bYqy0CLtX) | 2:18 |
 
-Snapshot ID: `MCxlNTdlNWI3OWIyZTdhMzc1ZDBiNjhlMTAwMGY1YmFlYTk0NzI1YmIx`
+Snapshot ID: `MCw4YTM4ZmJkN2JlYWFmNGQ0M2M2MmNmYmMyZGI3MWVjMTU3YzU3YzA5`

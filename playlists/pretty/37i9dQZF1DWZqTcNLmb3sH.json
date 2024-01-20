@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
-  "num_followers": 56872,
+  "num_followers": 56884,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWE5OThkNjI4ZDY0MGFkYmU5YWU5ZTEyM2VjNTZmODMwZmViMWE2",
+  "snapshot_id": "MCw3NTgyZjY0Y2RjNzNjZDZmZWJlMTE3ODM2ZmExOGM3ZDcyZTI3MmIz",
   "tracks": [
     {
       "added_at": "2024-01-04 06:14:40",
@@ -61,6 +61,30 @@
       "url": "https://open.spotify.com/track/0nlZkaJG7P5Y9NFxG7u5Vh"
     },
     {
+      "added_at": "2024-01-19 12:47:59",
+      "album": {
+        "name": "Back Bencherz Promotional Song (from \"Back Bencherz\" )",
+        "url": "https://open.spotify.com/album/6Gtw9ISQD4kjcTAaNswwwd"
+      },
+      "artists": [
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "Saif Khan",
+          "url": "https://open.spotify.com/artist/2jNhDikr3JvlvU1wFCKAun"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        }
+      ],
+      "duration_ms": 183337,
+      "name": "Back Bencherz Promotional Song (from \"Back Bencherz\" )",
+      "url": "https://open.spotify.com/track/7FqHCguKhIjeGs59nfebrC"
+    },
+    {
       "added_at": "2024-01-18 12:03:12",
       "album": {
         "name": "Nanage Yenaagide Indu ( From \"Gangster Alla Prankster\" )",
@@ -79,6 +103,50 @@
       "duration_ms": 172020,
       "name": "Nanage Yenaagide Indu ( From \"Gangster Alla Prankster\" )",
       "url": "https://open.spotify.com/track/09FHQjJvTHGz0xwN3dLuBW"
+    },
+    {
+      "added_at": "2024-01-19 12:46:26",
+      "album": {
+        "name": "Gunu Gunugu (from \"Ondu Sarala Prema Kathe\")",
+        "url": "https://open.spotify.com/album/46JTyS08IZpE47wLDN5GsM"
+      },
+      "artists": [
+        {
+          "name": "Keshav Anand",
+          "url": "https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K"
+        },
+        {
+          "name": "Veer Samarth",
+          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
+        }
+      ],
+      "duration_ms": 242360,
+      "name": "Gunu Gunugu (from \"Ondu Sarala Prema Kathe\")",
+      "url": "https://open.spotify.com/track/3j6jE75zIdCeQWTWENvwgd"
+    },
+    {
+      "added_at": "2024-01-19 10:31:20",
+      "album": {
+        "name": "Sojiga Sojiga (From \"KTM\")",
+        "url": "https://open.spotify.com/album/7e9xsagAQfgP5P4yEzeBTK"
+      },
+      "artists": [
+        {
+          "name": "Chetan Rao",
+          "url": "https://open.spotify.com/artist/1BqAWpvIAKLMISzajmSS6P"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Arasu Anthare",
+          "url": "https://open.spotify.com/artist/0g7RzAVhQCg5PnqSGbybHl"
+        }
+      ],
+      "duration_ms": 197704,
+      "name": "Sojiga Sojiga - From \"KTM\"",
+      "url": "https://open.spotify.com/track/3enNtJWMMoAd8N0ugds8lY"
     },
     {
       "added_at": "2024-01-03 12:04:09",
@@ -147,6 +215,30 @@
       "duration_ms": 234932,
       "name": "Honganase Honganase (from \"Moorane Krishnappa\" )",
       "url": "https://open.spotify.com/track/1VU80KXpq64qJpEv1EiTaP"
+    },
+    {
+      "added_at": "2024-01-19 05:23:42",
+      "album": {
+        "name": "Kreyologix Engineers (From \"Switch { case n:\")",
+        "url": "https://open.spotify.com/album/3WdJoykRLxBBKPQRM1jVBg"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Deepak Doddera",
+          "url": "https://open.spotify.com/artist/0SGmikcgmj4djshtt85Nh0"
+        },
+        {
+          "name": "Chethan Shetty",
+          "url": "https://open.spotify.com/artist/4qKB79xGsxZ6s3RCfSWgeM"
+        }
+      ],
+      "duration_ms": 223823,
+      "name": "Kreyologix Engineers (From \"Switch { case n:\")",
+      "url": "https://open.spotify.com/track/63Tr4IY7GMKUieflLjsWCM"
     },
     {
       "added_at": "2024-01-15 07:13:20",
@@ -1441,34 +1533,6 @@
       "url": "https://open.spotify.com/track/1vjl4mLAiMKpkdjYx646GR"
     },
     {
-      "added_at": "2023-11-16 11:53:50",
-      "album": {
-        "name": "Prathi Hejje (From \"Bembidada Naavika\")",
-        "url": "https://open.spotify.com/album/0PidiiVjAeLArsS7vZlLvk"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Anush Shetty",
-          "url": "https://open.spotify.com/artist/002DctrCJ3ccdtMs0Elp1g"
-        },
-        {
-          "name": "Pramod Kumar S",
-          "url": "https://open.spotify.com/artist/1ZA2hKvz1vSbvjVzHaiACb"
-        },
-        {
-          "name": "Naavu Munna Mysuru",
-          "url": "https://open.spotify.com/artist/1bXejErllvNMvRB7Fg8aXe"
-        }
-      ],
-      "duration_ms": 160655,
-      "name": "Prathi Hejje (From \"Bembidada Naavika\")",
-      "url": "https://open.spotify.com/track/4gllrD1umojIwbG7xwL3PT"
-    },
-    {
       "added_at": "2023-11-27 07:28:34",
       "album": {
         "name": "ANIMAL (KANNADA)",
@@ -1565,46 +1629,6 @@
       "url": "https://open.spotify.com/track/14JoAupAAEqIZ5AkyOUqNa"
     },
     {
-      "added_at": "2023-11-14 12:51:44",
-      "album": {
-        "name": "SuperHero HanuMan (From \"HanuMan\") [Kannada] [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/3gKVuxzjwOCtG7yVNsaRSb"
-      },
-      "artists": [
-        {
-          "name": "Sai Veda Vagdevi",
-          "url": "https://open.spotify.com/artist/581Act09xZmnig5orCHZpw"
-        },
-        {
-          "name": "Prakruthi Reddy",
-          "url": "https://open.spotify.com/artist/7uI1uHoHZxolbz9jIN4hrN"
-        }
-      ],
-      "duration_ms": 228913,
-      "name": "SuperHero HanuMan (From \"HanuMan\") [Kannada]",
-      "url": "https://open.spotify.com/track/6lp827xJFe7epEZXdZNvA9"
-    },
-    {
-      "added_at": "2023-11-06 09:53:51",
-      "album": {
-        "name": "Third Ogm (From \"Ghost\")",
-        "url": "https://open.spotify.com/album/0Enpf6jdNYnzzfBOrCU0a3"
-      },
-      "artists": [
-        {
-          "name": "Nishan Rai",
-          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
-        },
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        }
-      ],
-      "duration_ms": 122058,
-      "name": "Third Ogm (From \"Ghost\")",
-      "url": "https://open.spotify.com/track/2rZJtBSjlJLZQUqe7obzKR"
-    },
-    {
       "added_at": "2023-11-09 11:54:06",
       "album": {
         "name": "Mellage (from \"Swathi Mutthina Male Haniye\")",
@@ -1667,30 +1691,6 @@
       "duration_ms": 226434,
       "name": "Jeevamaana (From \"Garadi\")",
       "url": "https://open.spotify.com/track/6BZRrmvDfDyaKaz8mkX1du"
-    },
-    {
-      "added_at": "2023-11-14 04:21:09",
-      "album": {
-        "name": "Kaadaadi",
-        "url": "https://open.spotify.com/album/55bfiEiM2iDbSrhqW14wyZ"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        },
-        {
-          "name": "Shibi Srinivasan",
-          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
-        },
-        {
-          "name": "N. Maruthi",
-          "url": "https://open.spotify.com/artist/2eMm3bT7FIwqLYhZJZiyVw"
-        }
-      ],
-      "duration_ms": 214472,
-      "name": "Haleya Haleya",
-      "url": "https://open.spotify.com/track/0BjjZKBNJ1g9sejyOGnkMI"
     }
   ],
   "unique_name": "Latest Kannada",

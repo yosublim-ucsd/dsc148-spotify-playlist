@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,543 likes - 110 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,559 likes - 110 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [再見往事 \(電影《怒潮》片尾曲\)](https://open.spotify.com/track/5nqa2UIN86DEE9LeOciuaF) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [再見往事 \(電影《怒潮》片尾曲\)](https://open.spotify.com/album/7FFWneQoEWOspzXEHeG27y) | 3:59 |
 | 110 | [Snowman](https://open.spotify.com/track/7sCmR1u8HhlVJw6jZm928w) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Snowman](https://open.spotify.com/album/2obnuLWBPXqWAailC8sQ6e) | 2:38 |
 
-Snapshot ID: `MCw3Nzc2Yzk3YWQyOWFiNTg2YjU4ZDA4ZTgzMmVjMWYxNDlhYWEzZDc4`
+Snapshot ID: `MCxjZWEwZWJmMGM4OGViYTUxNTI2NGRlYTdlZTNiZDQ0ZjkzNzUxM2Ix`

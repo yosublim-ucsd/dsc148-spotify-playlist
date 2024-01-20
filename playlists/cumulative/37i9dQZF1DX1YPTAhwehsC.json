@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Loosie Pack 2",
+        "url": "https://open.spotify.com/album/66D5qXiABG0BDkZlmzXEKs"
+      },
+      "artists": [
+        {
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135381,
+      "name": "3 Staxx",
+      "url": "https://open.spotify.com/track/6rmOnyjHnohveSxFduYpWy"
+    },
+    {
+      "album": {
         "name": "30 For 30",
         "url": "https://open.spotify.com/album/0Oxqa21KouOsy5ApoiOB7j"
       },
@@ -374,6 +392,32 @@
       "duration_ms": 169703,
       "name": "3AM in the Yams (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/00a6BqGzSkW1fXz39aJpEO"
+    },
+    {
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "xaviersobased",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        },
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64614,
+      "name": "40",
+      "url": "https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH"
     },
     {
       "album": {
@@ -4222,7 +4266,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 165637,
       "name": "Do Something (with Jeremih)",
       "url": "https://open.spotify.com/track/3WaojRhCnye5o9CPS618wn"
@@ -4821,6 +4865,24 @@
     },
     {
       "album": {
+        "name": "Down With Me",
+        "url": "https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120034,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn"
+    },
+    {
+      "album": {
         "name": "Drill Night",
         "url": "https://open.spotify.com/album/2qk328Q3DaR2P4iG5Pg2LR"
       },
@@ -4966,7 +5028,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 239355,
       "name": "DunnHill (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/3Hwc9uyLKCu0aCKmpE6Gm9"
@@ -5850,7 +5912,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 132723,
       "name": "FOMV",
       "url": "https://open.spotify.com/track/4G5wmfVLt31zCJwLFSVKOp"
@@ -6717,6 +6779,28 @@
     },
     {
       "album": {
+        "name": "Give & Give",
+        "url": "https://open.spotify.com/album/3Sf7ORHvuauAX9FisZJ5Vb"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Cool & Dre",
+          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159220,
+      "name": "Give & Give",
+      "url": "https://open.spotify.com/track/0SAAiYReOaWsGZTSeIQq5q"
+    },
+    {
+      "album": {
         "name": "Give You What You Want",
         "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
       },
@@ -6820,7 +6904,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 219931,
       "name": "Go To Hell",
       "url": "https://open.spotify.com/track/2Yd5D02hVICrlpMvd4JOqc"
@@ -8344,7 +8428,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 205560,
       "name": "IIWII SEASON 3 FREESTYLE",
       "url": "https://open.spotify.com/track/5gQdkMgut9pCKfFHIj17FO"
@@ -9477,6 +9561,28 @@
     },
     {
       "album": {
+        "name": "Let It Go (feat. Capella Grey)",
+        "url": "https://open.spotify.com/album/0rKWedeYHXhufKpEBG8Jru"
+      },
+      "artists": [
+        {
+          "name": "27Delly",
+          "url": "https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT"
+        },
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151857,
+      "name": "Let It Go (feat. Capella Grey)",
+      "url": "https://open.spotify.com/track/2qBK9DOAR0bibcmjrt30Lu"
+    },
+    {
+      "album": {
         "name": "It's Almost Dry",
         "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
       },
@@ -10048,7 +10154,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 147238,
       "name": "Luv U Better",
       "url": "https://open.spotify.com/track/63CGufSOiD68JBaPEpSLEh"
@@ -11032,7 +11138,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 110977,
       "name": "Muny",
       "url": "https://open.spotify.com/track/7zMZjpZ4E0HzVOkyHXn95o"
@@ -11152,7 +11258,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 126797,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/3cgmoVRxUBAtT72UkxnVyW"
@@ -12354,7 +12460,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 164501,
       "name": "One Foot In (with Stove God Cooks)",
       "url": "https://open.spotify.com/track/5t8cjiKVfQeNUgrGIaRUBy"
@@ -12522,7 +12628,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 236108,
       "name": "Open Scars",
       "url": "https://open.spotify.com/track/5l2UlIRagkhJgn2qmA10ZV"
@@ -12852,6 +12958,28 @@
       "duration_ms": 133000,
       "name": "Park Bench Blues (feat. Curren$y)",
       "url": "https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z"
+    },
+    {
+      "album": {
+        "name": "Passports & Suitcases (feat. KayCyy)",
+        "url": "https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "Passports & Suitcases (feat. KayCyy)",
+      "url": "https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt"
     },
     {
       "album": {
@@ -13720,7 +13848,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 140000,
       "name": "Put On (feat. Icewear Vezzo)",
       "url": "https://open.spotify.com/track/2Vyv8L8ajfQlugnyiglaB8"
@@ -14127,6 +14255,24 @@
     },
     {
       "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171827,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH"
+    },
+    {
+      "album": {
         "name": "Red Ruby Da Sleeze",
         "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
       },
@@ -14360,6 +14506,32 @@
       "duration_ms": 146628,
       "name": "Rey Mysterio",
       "url": "https://open.spotify.com/track/5lMANswgAGvs6C8lUIQHxH"
+    },
+    {
+      "album": {
+        "name": "Rich & Reckless",
+        "url": "https://open.spotify.com/album/4rUiYXutkIFPbCr8H8ELoJ"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Famous Dex",
+          "url": "https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W"
+        },
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134209,
+      "name": "Rich & Reckless",
+      "url": "https://open.spotify.com/track/0VdN5UU7UT2tzaXJfbcvlV"
     },
     {
       "album": {
@@ -14963,6 +15135,28 @@
     },
     {
       "album": {
+        "name": "Same 24 (feat. Meek Mill)",
+        "url": "https://open.spotify.com/album/4RZ6Y7BdFGtiqsDoIlFpum"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Same 24 (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/2d95OanRucycsY2kOKgZmU"
+    },
+    {
+      "album": {
         "name": "Same Problems?",
         "url": "https://open.spotify.com/album/3MwuzX0j37H9SYVH78Oavt"
       },
@@ -15440,6 +15634,24 @@
       "duration_ms": 142608,
       "name": "SHOES",
       "url": "https://open.spotify.com/track/3dvFEBKISIIFqmepTHvYnE"
+    },
+    {
+      "album": {
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/00vuHXtgPFzONXA5Z5cdlY"
+      },
+      "artists": [
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134503,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/0USWqltIVFvCfM3TRzmzGW"
     },
     {
       "album": {
@@ -17491,6 +17703,24 @@
     },
     {
       "album": {
+        "name": "Too Rare",
+        "url": "https://open.spotify.com/album/4EtToVVxMKpwptqnE3WOcF"
+      },
+      "artists": [
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Too Rare",
+      "url": "https://open.spotify.com/track/1xF8tLNYNwN0C2DYqm9hOD"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/2EMFr4pSI55v5Xm6FgUBvk"
       },
@@ -18743,6 +18973,24 @@
     },
     {
       "album": {
+        "name": "WHO AM I",
+        "url": "https://open.spotify.com/album/2DPeAIzefUfnTotr3hGJx6"
+      },
+      "artists": [
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148269,
+      "name": "WHO AM I",
+      "url": "https://open.spotify.com/track/7dYlzIpwTpcuV53z2D6eTC"
+    },
+    {
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/2OlZc3EjX8Yg3G2voQc6nd"
       },
@@ -19090,7 +19338,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 138344,
       "name": "wya",
       "url": "https://open.spotify.com/track/7LwVsVM2uy9BIxAj5u15Zu"
@@ -19196,7 +19444,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 113238,
       "name": "YEAH YEAH!",
       "url": "https://open.spotify.com/track/1spPgvtcDwxARDc8i6TYjT"
@@ -19372,6 +19620,24 @@
       "duration_ms": 124570,
       "name": "Young Age",
       "url": "https://open.spotify.com/track/5w8z7stENWmMTIhfDZTewt"
+    },
+    {
+      "album": {
+        "name": "YUMA",
+        "url": "https://open.spotify.com/album/3TcrWRrzAn2ZvavYxznNcE"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "YUMA",
+      "url": "https://open.spotify.com/track/6JFwqguM5QjpKrN6JLQdGA"
     },
     {
       "album": {

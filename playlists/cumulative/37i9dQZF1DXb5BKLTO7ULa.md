@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Antoon
 
-4,545 songs - 9 day 22 hr 48 min
+4,548 songs - 9 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-20 | 2023-10-27 |
 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 | 2023-10-05 | 2023-10-13 |
 | [A Strange Kind Of Beautiful](https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Strange Kind Of Beautiful](https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx) | 3:32 | 2023-07-06 | 2023-07-14 |
+| [A Todo Ritmo](https://open.spotify.com/track/64DFgl14RS3HGlfvGfVdiE) | [MAURINO](https://open.spotify.com/artist/7ub1AdmYtpkKtwwtFgBIWl) | [A Todo Ritmo](https://open.spotify.com/album/5P40YYw1UuH0nmGADw9wc3) | 3:05 | 2024-01-19 |  |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-11 | 2023-05-19 |
 | [A2B](https://open.spotify.com/track/0tpFnS7urlRsXFnAjYmfpw) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6CM5H3hwKPAeGZ1lxOArj6) | 2:10 | 2023-11-24 | 2023-12-02 |
 | [A4L](https://open.spotify.com/track/5AsCc7prRwzCbcJvwlV0AS) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [A4L](https://open.spotify.com/album/5HAIWH0tFqTA6LG1RtOv9t) | 3:40 | 2023-04-13 | 2023-04-21 |
@@ -2620,6 +2621,7 @@
 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 | 2023-08-03 | 2023-08-11 |
 | [Muero](https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Muero](https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc) | 3:00 | 2023-05-05 | 2023-05-12 |
 | [Muero](https://open.spotify.com/track/5hGSpLdMdvm3epAiyhEJdp) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Muero](https://open.spotify.com/album/46ZpeeYCLnDrb0VmsRF1IH) | 3:00 | 2023-05-04 | 2023-05-06 |
+| [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU) | 2:01 | 2024-01-19 |  |
 | [Museum](https://open.spotify.com/track/6liB5ag2B1cL6KYkWte2cU) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Museum](https://open.spotify.com/album/5IIzBn2NyWLRxDrVQy6L0g) | 3:35 | 2023-03-02 | 2023-03-10 |
 | [Music Is The Answer](https://open.spotify.com/track/6Dq6G5Q8ofAzF7O5a1NBRx) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [JG](https://open.spotify.com/artist/0L223roCC5KG5gATryqHAX) | [Music Is The Answer](https://open.spotify.com/album/4uAtx4j6PPeXFWGZdqeps3) | 4:04 | 2023-06-08 | 2023-06-16 |
 | [Must Be Me](https://open.spotify.com/track/6Cxc9tL1sMdivV1Quh0yjZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/7yaZiqWLiUdPXwl2m9EnGR) | 3:30 | 2023-10-20 | 2023-10-27 |
@@ -3296,6 +3298,7 @@
 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 | 2023-10-12 | 2023-10-21 |
 | [Sad in the Summer \(feat\. Lily Rose\)](https://open.spotify.com/track/29Zod043iIX27WBv0duEDn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:21 | 2023-04-27 | 2023-05-05 |
 | [Sad On Sad](https://open.spotify.com/track/58tCKnmneWSVpCc6w4CKtf) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [Sad On Sad](https://open.spotify.com/album/39s5APgYt8nAuHlpPbJkpi) | 3:29 | 2023-03-09 | 2023-03-18 |
+| [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-01-19 |  |
 | [Safe Bay](https://open.spotify.com/track/652KfZBWKtqzD0k24i7Z9h) | [Suzy V](https://open.spotify.com/artist/7vgvkOOXTiKmmHc2Yw3zM8) | [Safe Bay](https://open.spotify.com/album/5Qztw5kM4kiIZijqYOXM8q) | 4:53 | 2023-03-30 | 2023-04-07 |
 | [Safe in the Suburbs](https://open.spotify.com/track/5DnmQbTWvGQfIijaE0wGd8) | [Femke](https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w) | [Safe in the Suburbs](https://open.spotify.com/album/6SurerfroAM8SvgLZL7KsZ) | 3:02 | 2023-06-22 | 2023-06-30 |
 | [SAFE SPEED \(The Runner Up\)](https://open.spotify.com/track/0gSn4hlTcH4ZstsrKwsUNV) | [Sue the Night](https://open.spotify.com/artist/09mG88dA6PdovfkatUxvRh) | [SAFE SPEED \(The Runner Up\)](https://open.spotify.com/album/3X5dSv0fSkw5jjx3RPyYuV) | 4:53 | 2023-10-05 | 2023-10-13 |

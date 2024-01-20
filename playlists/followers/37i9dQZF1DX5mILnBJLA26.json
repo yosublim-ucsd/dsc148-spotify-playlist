@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 666338,
+  "2024-01-20": 667050,
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb?si=MCJBZIHMTrerJA_v3Ozj-g\">Ggoldie</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=Jfag9go1TViPYcDj5HT0wg\">Major League Djz</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -951,6 +951,40 @@
       "duration_ms": 348401,
       "name": "Akakhuzeki",
       "url": "https://open.spotify.com/track/1hvW3GupYhF7738XkNjbab"
+    },
+    {
+      "album": {
+        "name": "Aklaleki (feat. SjavasDaDeejay, Lington)",
+        "url": "https://open.spotify.com/album/1wjNZJ59km0VzxTYNCFLo2"
+      },
+      "artists": [
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "Eeque",
+          "url": "https://open.spotify.com/artist/6ZVortY9zvmTcSUMyLl256"
+        },
+        {
+          "name": "Lington",
+          "url": "https://open.spotify.com/artist/1px0sAtPicYWJbMN3yoa94"
+        },
+        {
+          "name": "SjavasDaDeejay",
+          "url": "https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397767,
+      "name": "Aklaleki (feat. SjavasDaDeejay, Lington)",
+      "url": "https://open.spotify.com/track/6OkowzsOUvKX2Mci80AYn1"
     },
     {
       "album": {
@@ -4659,7 +4693,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 322793,
       "name": "Bula Nthweo (feat. Jelly Babie, Xduppy, Uncool MC & Ricky Lenyora)",
       "url": "https://open.spotify.com/track/1p77bVbZdKaMv4CgRys5Gu"
@@ -12453,7 +12487,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 308610,
       "name": "Izinja",
       "url": "https://open.spotify.com/track/0Lowa9hKmORoRxGsrSngHg"
@@ -16287,6 +16321,28 @@
       "duration_ms": 450063,
       "name": "Marakhuja",
       "url": "https://open.spotify.com/track/4vlNxB0A9MT1foeAQFQEoU"
+    },
+    {
+      "album": {
+        "name": "Margaret",
+        "url": "https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h"
+      },
+      "artists": [
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331332,
+      "name": "Margaret",
+      "url": "https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta"
     },
     {
       "album": {
@@ -21719,7 +21775,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 402413,
       "name": "Salsa",
       "url": "https://open.spotify.com/track/3ni9vkLwxuoKEPGCfxv5Kc"
@@ -22773,7 +22829,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 394285,
       "name": "Shukuku",
       "url": "https://open.spotify.com/track/2zbofndS7J1D7yXFbLXs7l"
@@ -24165,6 +24221,40 @@
       "duration_ms": 314341,
       "name": "Stimela",
       "url": "https://open.spotify.com/track/0AY3sNqV7qAdAZ8j6TRVBd"
+    },
+    {
+      "album": {
+        "name": "STING RAY",
+        "url": "https://open.spotify.com/album/0OLDlqoZfuoAZak5aZpKKs"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "PRVIS3",
+          "url": "https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz"
+        },
+        {
+          "name": "Triple X Da Ghost",
+          "url": "https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO"
+        },
+        {
+          "name": "Durban's Finest",
+          "url": "https://open.spotify.com/artist/2ONZ3CSpBz9OPNUFEIFpEJ"
+        },
+        {
+          "name": "Effected",
+          "url": "https://open.spotify.com/artist/4KsJvA119zereHG73B9sC7"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382533,
+      "name": "STING RAY",
+      "url": "https://open.spotify.com/track/4kqo0IFFJgf2pvvKQG5FUD"
     },
     {
       "album": {
@@ -27685,6 +27775,40 @@
       "duration_ms": 371980,
       "name": "Umona",
       "url": "https://open.spotify.com/track/3NcmigdsxeYMJ0PM9R2OEY"
+    },
+    {
+      "album": {
+        "name": "Umona",
+        "url": "https://open.spotify.com/album/2h86FnfcyRYsYWFkoUDq8q"
+      },
+      "artists": [
+        {
+          "name": "Toby Franco",
+          "url": "https://open.spotify.com/artist/4TIry72leguyMNcNYc6bqR"
+        },
+        {
+          "name": "Major Keys",
+          "url": "https://open.spotify.com/artist/6tGXYcWxP5R6r8C5F0vl3c"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/4yGP2WeGpDnRpVJmmv4DVc"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368588,
+      "name": "Umona",
+      "url": "https://open.spotify.com/track/26YYPFHWxEnft8x64CsTxW"
     },
     {
       "album": {

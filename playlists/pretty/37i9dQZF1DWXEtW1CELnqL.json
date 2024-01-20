@@ -1,12 +1,12 @@
 {
   "description": "Monsieur Dusse, ce qui ne va pas, c'est le plant\u00e9 de b\u00e2ton.",
-  "num_followers": 48803,
+  "num_followers": 48869,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWRkMDhkMjA1YTNkNTU0OTEwMDU2YjUzZTBiYzdkMjJkNGE0ZTZm",
+  "snapshot_id": "MCw1MmI1NmZkMWE0Y2JiMTRhMTEwMTk1MDFhZTBiNmM1ZDEyZjdkYTg3",
   "tracks": [
     {
       "added_at": "2024-01-18 23:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Sleeping With Ghosts",
         "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
       },
@@ -571,22 +555,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "POWER UP",
-        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Shot In The Dark",
-      "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Dead Club City",
         "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
@@ -599,6 +567,22 @@
       "duration_ms": 197557,
       "name": "Welcome to the DCC",
       "url": "https://open.spotify.com/track/1eivMnftGIAIeTDUfTssVX"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -895,22 +879,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "The Paramour Sessions",
         "url": "https://open.spotify.com/album/2Aa1nPsSmQpQHjc9VdeGCl"
       },
@@ -927,18 +895,18 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Machina / The Machines Of God",
-        "url": "https://open.spotify.com/album/4hrZp6mKgz0HG7UpRbNYQx"
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 240733,
-      "name": "The Everlasting Gaze",
-      "url": "https://open.spotify.com/track/4EhbLHYOXzEoPmOfaVoIIW"
+      "duration_ms": 220373,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -959,6 +927,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Machina / The Machines Of God",
+        "url": "https://open.spotify.com/album/4hrZp6mKgz0HG7UpRbNYQx"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 240733,
+      "name": "The Everlasting Gaze",
+      "url": "https://open.spotify.com/track/4EhbLHYOXzEoPmOfaVoIIW"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Only Revolutions",
         "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 301080,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/05lBXOMA1uHpVPEQZyjoh3"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Technology",
+        "url": "https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93"
     }
   ],
   "unique_name": "Balec !",

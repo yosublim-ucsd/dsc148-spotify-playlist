@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 99515,
+  "2024-01-20": 99578,
   "date_first_scraped": "2021-12-28",
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Rochy RD",
   "name": "Rep\u00fablica Dembow",
@@ -333,7 +333,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 128634,
       "name": "Amarillo Los Platanos",
       "url": "https://open.spotify.com/track/6Yh7qdwpAzqIy6yQ6YDWVH"
@@ -363,6 +363,28 @@
       "duration_ms": 180000,
       "name": "Ando en 30",
       "url": "https://open.spotify.com/track/26MGlZKXyaJ5ElE5wn7ZDW"
+    },
+    {
+      "album": {
+        "name": "Apurale",
+        "url": "https://open.spotify.com/album/7LuDetAyvwOiDjbYq1KcRm"
+      },
+      "artists": [
+        {
+          "name": "Jhayseven",
+          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116826,
+      "name": "Apurale",
+      "url": "https://open.spotify.com/track/2lWYj5CpdWXU91Tq3pU8CI"
     },
     {
       "album": {
@@ -879,7 +901,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 135254,
       "name": "Caracas",
       "url": "https://open.spotify.com/track/7qp7YjiFlmBMbk0Ng0KGNa"
@@ -971,6 +993,28 @@
       "duration_ms": 144406,
       "name": "Chikilio",
       "url": "https://open.spotify.com/track/0qkLZiVI69coQ6tNm78wsm"
+    },
+    {
+      "album": {
+        "name": "Chivirika",
+        "url": "https://open.spotify.com/album/29R1S8UwEGLqO2FVNJVQ0r"
+      },
+      "artists": [
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154883,
+      "name": "Chivirika",
+      "url": "https://open.spotify.com/track/7GY9BCk8P624bRSl045dTR"
     },
     {
       "album": {
@@ -3052,6 +3096,32 @@
     },
     {
       "album": {
+        "name": "En La Casa De Sin",
+        "url": "https://open.spotify.com/album/03CdcDsbiWnVzwPmKTXbJ1"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175016,
+      "name": "En La Casa De Sin",
+      "url": "https://open.spotify.com/track/0qqRqd4xae348nMFehJXPq"
+    },
+    {
+      "album": {
         "name": "En Nota",
         "url": "https://open.spotify.com/album/5ptlZw4xjZ0P5c7EAs72jM"
       },
@@ -3339,6 +3409,32 @@
       "duration_ms": 112682,
       "name": "Frename En El Party Sin Panty",
       "url": "https://open.spotify.com/track/3h4brm7AUNiZZ7wboMkWni"
+    },
+    {
+      "album": {
+        "name": "Frisa",
+        "url": "https://open.spotify.com/album/4XKEvAGn1O2pi1xX2y5HSq"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Diente 27",
+          "url": "https://open.spotify.com/artist/6xd0K53X7gTj4dQAkwgnUf"
+        },
+        {
+          "name": "PAPERA",
+          "url": "https://open.spotify.com/artist/7FsGgNxFo8Jgzq1yd8PdCu"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "Frisa",
+      "url": "https://open.spotify.com/track/7f3S36TfLiQcLfiva9rWeq"
     },
     {
       "album": {
@@ -4247,7 +4343,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 179435,
       "name": "La Envidia",
       "url": "https://open.spotify.com/track/3ZBM2fVKjl55QVVdmuhSCw"
@@ -4451,7 +4547,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 120000,
       "name": "La Menor",
       "url": "https://open.spotify.com/track/6RMfDONuwmXIa0WChetxmB"
@@ -4587,6 +4683,24 @@
       "duration_ms": 274840,
       "name": "La Nota Se Me Encampana - Remix",
       "url": "https://open.spotify.com/track/2hagtttYZkjQA3h5bB4WOe"
+    },
+    {
+      "album": {
+        "name": "La Parita",
+        "url": "https://open.spotify.com/album/1cDVNDJqQMTjInT1seVQm4"
+      },
+      "artists": [
+        {
+          "name": "El Alfo",
+          "url": "https://open.spotify.com/artist/2FoqRKqYLiAilDoGyoplIx"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81900,
+      "name": "La Parita",
+      "url": "https://open.spotify.com/track/3SsHlZap64UF0DlUTbo0CG"
     },
     {
       "album": {
@@ -5299,7 +5413,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 114466,
       "name": "Malita",
       "url": "https://open.spotify.com/track/0Vz8HfYXZfZCBVGVUxXVtN"
@@ -5565,6 +5679,24 @@
       "duration_ms": 181498,
       "name": "Me Hace Falta",
       "url": "https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa"
+    },
+    {
+      "album": {
+        "name": "Me Huele A Dinero",
+        "url": "https://open.spotify.com/album/3iCZ4jFafaXY9w2w6D7PI9"
+      },
+      "artists": [
+        {
+          "name": "Kenly",
+          "url": "https://open.spotify.com/artist/4y4pCBoP0bVFwbT0O5rKwI"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165943,
+      "name": "Me Huele A Dinero",
+      "url": "https://open.spotify.com/track/769gkGnblUKZFmIqrF0NFz"
     },
     {
       "album": {
@@ -6393,7 +6525,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 143622,
       "name": "No Te Pue Quilla",
       "url": "https://open.spotify.com/track/7z7UiZNczRd5UHGXoSSbXC"
@@ -7888,6 +8020,24 @@
     },
     {
       "album": {
+        "name": "Rikiry Goldito",
+        "url": "https://open.spotify.com/album/4Nnh6el31NKhVp3YaMuLox"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143543,
+      "name": "Rikiry Goldito",
+      "url": "https://open.spotify.com/track/2RROMdodb9DLWy0FuWgVoM"
+    },
+    {
+      "album": {
         "name": "Romo y Pepas (with Angel Dior)",
         "url": "https://open.spotify.com/album/79XrynY1blrNcoxHu1UIj3"
       },
@@ -8213,7 +8363,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 151552,
       "name": "Sin Domesticar",
       "url": "https://open.spotify.com/track/6zzcMO9p5h6iSH6dCCbRR6"
@@ -9067,7 +9217,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 144195,
       "name": "Te Deposite",
       "url": "https://open.spotify.com/track/5d5EeayuH1BZbgjIfRDog2"
@@ -9265,7 +9415,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 152373,
       "name": "TETEO",
       "url": "https://open.spotify.com/track/21L0hDSgXhFxniIBug6WAO"
@@ -9529,7 +9679,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 103680,
       "name": "To To To",
       "url": "https://open.spotify.com/track/54GrAIs0EfS94KsyjPkvsM"
@@ -9704,6 +9854,28 @@
     },
     {
       "album": {
+        "name": "Trola (Remix)",
+        "url": "https://open.spotify.com/album/2ZcAECGG7NfhuXyUNHfso9"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144923,
+      "name": "Trola (Remix)",
+      "url": "https://open.spotify.com/track/2IeZQmfUHbPtzsK2RAq430"
+    },
+    {
+      "album": {
         "name": "Trompeta",
         "url": "https://open.spotify.com/album/2luCXyIcjm6CaeLvGp0Sld"
       },
@@ -9832,6 +10004,24 @@
     },
     {
       "album": {
+        "name": "Tu Vera L\u00edo",
+        "url": "https://open.spotify.com/album/5l76qsgKpFbVSbvwLQiOgZ"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112727,
+      "name": "Tu Vera L\u00edo",
+      "url": "https://open.spotify.com/track/0GTJfuNoImFQKTRE5zJkYz"
+    },
+    {
+      "album": {
         "name": "Tumba Ya",
         "url": "https://open.spotify.com/album/3A5C4hvw1KjECYOELXFVwD"
       },
@@ -9887,6 +10077,24 @@
       "duration_ms": 186240,
       "name": "Tumbala",
       "url": "https://open.spotify.com/track/7oieFIG0uypkJeI1akfkQ5"
+    },
+    {
+      "album": {
+        "name": "Turutu",
+        "url": "https://open.spotify.com/album/2cpafUCaZ2J1VgGYi7gd8x"
+      },
+      "artists": [
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113110,
+      "name": "Turutu",
+      "url": "https://open.spotify.com/track/00X9XpI2BbnxRXynYrNLEE"
     },
     {
       "album": {
@@ -9973,6 +10181,24 @@
       "duration_ms": 123141,
       "name": "Ubicacion y Foto",
       "url": "https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a"
+    },
+    {
+      "album": {
+        "name": "Un Chuky",
+        "url": "https://open.spotify.com/album/5UTKb5yCwKJONNwF0hZUs9"
+      },
+      "artists": [
+        {
+          "name": "Whitecity",
+          "url": "https://open.spotify.com/artist/3StWchMfGY8mo4YdIPp9Rb"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116195,
+      "name": "Un Chuky",
+      "url": "https://open.spotify.com/track/39mXMsgX5ssR8GAMDEf8Wx"
     },
     {
       "album": {
@@ -10367,7 +10593,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 171180,
       "name": "Yo La Computo",
       "url": "https://open.spotify.com/track/2AJhQ3dbxAN8zWasWMhV63"

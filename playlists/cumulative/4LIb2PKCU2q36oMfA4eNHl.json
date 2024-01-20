@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Butter Notes",
+        "url": "https://open.spotify.com/album/2AuBsO2tbYIpWzotLslVQy"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321180,
+      "name": "Butter Notes",
+      "url": "https://open.spotify.com/track/3qZUzzUxVuU96DtYPOjBb8"
+    },
+    {
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
@@ -280,7 +298,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 170377,
       "name": "Feel This (How Long Will I)",
       "url": "https://open.spotify.com/track/6S7bSBiayEPAWNwCpARM9P"
@@ -503,6 +521,28 @@
     },
     {
       "album": {
+        "name": "La luna (Flica's Moonlight Remix)",
+        "url": "https://open.spotify.com/album/3jNccBInH9Dktpo4tvhumR"
+      },
+      "artists": [
+        {
+          "name": "D & the Compass",
+          "url": "https://open.spotify.com/artist/3ilD695ywPm5CrM65QwoXF"
+        },
+        {
+          "name": "Flica",
+          "url": "https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189039,
+      "name": "La luna (Flica\u2019s Moonlight Remix)",
+      "url": "https://open.spotify.com/track/0CgocE5K72fz4Ej7uEroti"
+    },
+    {
+      "album": {
         "name": "Erased Dreams",
         "url": "https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv"
       },
@@ -716,7 +756,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 246000,
       "name": "Reductive Ruin",
       "url": "https://open.spotify.com/track/56OKl9gTmHB3VoGR4uPMy2"
@@ -778,7 +818,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 278004,
       "name": "Shinrin-yoku (\u68ee\u6797\u6d74)",
       "url": "https://open.spotify.com/track/2gHvMuXWRWs1E3hGhba4Vl"
@@ -804,6 +844,24 @@
       "duration_ms": 215481,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/4yXRghXZcf9GMsxoErXEHb"
+    },
+    {
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/6SqQkSq1uPmtaMedZAMb3M"
+      },
+      "artists": [
+        {
+          "name": "Croquet Club",
+          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230243,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3gYGfj5XYLMcGNeuYiRdFi"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 84449,
+  "2024-01-20": 84456,
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: Subsonica",
+  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: Tropea",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -338,6 +338,24 @@
     },
     {
       "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/0y6FkUdbWESSGbmcSIpf9n"
+      },
+      "artists": [
+        {
+          "name": "I Segreti",
+          "url": "https://open.spotify.com/artist/3e70MTQQxvShEhc1UQcPbL"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170509,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3dZKHkgCn7wI7q0Pdy8aXK"
+    },
+    {
+      "album": {
         "name": "AMICI COME PRIMA",
         "url": "https://open.spotify.com/album/3JWUk346U6XiB7Q1nlTybY"
       },
@@ -349,7 +367,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 148813,
       "name": "ADRENALINA",
       "url": "https://open.spotify.com/track/5LYTI3bURxYBWPogQEFClx"
@@ -1796,6 +1814,24 @@
     },
     {
       "album": {
+        "name": "camera mia",
+        "url": "https://open.spotify.com/album/571FxFPUBR2Da8oMcEXMce"
+      },
+      "artists": [
+        {
+          "name": "Aida",
+          "url": "https://open.spotify.com/artist/5uyVp3NFeumolvASoIWWXp"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243284,
+      "name": "camera mia",
+      "url": "https://open.spotify.com/track/6tO3uimbnU4Gi6bWFBpXEf"
+    },
+    {
+      "album": {
         "name": "Candles / Candles (Version)",
         "url": "https://open.spotify.com/album/64Hz6EpcFYvqvFxWYJiqXe"
       },
@@ -2060,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "Castle Night / To Be Me",
+        "url": "https://open.spotify.com/album/1d66iVcWYLPkgWCAySdbqn"
+      },
+      "artists": [
+        {
+          "name": "James Jonathan Clancy",
+          "url": "https://open.spotify.com/artist/01l0b9DS1NTibvGU5zX398"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135333,
+      "name": "Castle Night",
+      "url": "https://open.spotify.com/track/0Hrja85o2Z7Wd7pEsmnwjS"
+    },
+    {
+      "album": {
         "name": "Cena di famiglia",
         "url": "https://open.spotify.com/album/4xevKhQuT5IDAzl6X49djr"
       },
@@ -2183,7 +2237,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 157228,
       "name": "Che Cosa Ti Spinge A Vivere?",
       "url": "https://open.spotify.com/track/1zyHfy9WD8oRG2DPmUhbQG"
@@ -2205,6 +2259,24 @@
       "duration_ms": 151904,
       "name": "Che peccato",
       "url": "https://open.spotify.com/track/47v7cCqDp0CDNQFEN8RU3W"
+    },
+    {
+      "album": {
+        "name": "Che vita di merda",
+        "url": "https://open.spotify.com/album/7yMFjF44zhW5ieZGKeolOJ"
+      },
+      "artists": [
+        {
+          "name": "Voina",
+          "url": "https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234772,
+      "name": "Che vita di merda",
+      "url": "https://open.spotify.com/track/7fkCv0btMuGfpTXZU26ouu"
     },
     {
       "album": {
@@ -2277,6 +2349,24 @@
       "duration_ms": 155079,
       "name": "Cilantro Grass",
       "url": "https://open.spotify.com/track/4n5LbudcAOHocUHg5q2aVf"
+    },
+    {
+      "album": {
+        "name": "Cimitero",
+        "url": "https://open.spotify.com/album/1Tjkz14aQzJtOEX4mhehUP"
+      },
+      "artists": [
+        {
+          "name": "Bartolini",
+          "url": "https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132735,
+      "name": "Cimitero",
+      "url": "https://open.spotify.com/track/3IPNLgCJJkFjHRtktUa28N"
     },
     {
       "album": {
@@ -2511,7 +2601,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 169908,
       "name": "Come stai",
       "url": "https://open.spotify.com/track/5sJhNuGRvly77IyCZxzBWE"
@@ -2569,6 +2659,32 @@
       "duration_ms": 220596,
       "name": "Come volevi essere",
       "url": "https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb"
+    },
+    {
+      "album": {
+        "name": "Con Nessuno (feat. \u00d8jne)",
+        "url": "https://open.spotify.com/album/0F5mnWJlABzWDk4IKelAE2"
+      },
+      "artists": [
+        {
+          "name": "WEL",
+          "url": "https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v"
+        },
+        {
+          "name": "Why Everyone Left",
+          "url": "https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ"
+        },
+        {
+          "name": "\u00d8jne",
+          "url": "https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169076,
+      "name": "Con Nessuno (feat. \u00d8jne)",
+      "url": "https://open.spotify.com/track/6VEAICgujKbc3cAYnqv3dq"
     },
     {
       "album": {
@@ -3723,7 +3839,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 184054,
       "name": "Eurospin",
       "url": "https://open.spotify.com/track/3FCxMfyoUMbPbhK82ZCV7X"
@@ -3897,6 +4013,24 @@
       "duration_ms": 216610,
       "name": "Fading into Day",
       "url": "https://open.spotify.com/track/27IYZNTtmNT7aZExGrJCzv"
+    },
+    {
+      "album": {
+        "name": "Fascicolo",
+        "url": "https://open.spotify.com/album/15HdBdKwZhIzxV6TyOZw6o"
+      },
+      "artists": [
+        {
+          "name": "montag",
+          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162355,
+      "name": "Fascicolo",
+      "url": "https://open.spotify.com/track/4Fcx1JUbfBCJXa1y6NTvvL"
     },
     {
       "album": {
@@ -4247,7 +4381,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 152798,
       "name": "frammenti",
       "url": "https://open.spotify.com/track/68dZVzwtDwAb7hWsRPEbHl"
@@ -4547,6 +4681,24 @@
       "duration_ms": 149706,
       "name": "Ghicci ghicci",
       "url": "https://open.spotify.com/track/5QHlPJcnobVjeh4JkeGoBf"
+    },
+    {
+      "album": {
+        "name": "Giacomo",
+        "url": "https://open.spotify.com/album/4rCkIYBExjKDFT15pH3kBn"
+      },
+      "artists": [
+        {
+          "name": "La Municip\u00e0l",
+          "url": "https://open.spotify.com/artist/1wQ8rxWLB8fPUHx49l3q5L"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207636,
+      "name": "Giacomo",
+      "url": "https://open.spotify.com/track/5MCkJvZ5zhCGQGO49xPro3"
     },
     {
       "album": {
@@ -6596,6 +6748,24 @@
     },
     {
       "album": {
+        "name": "LA BAND",
+        "url": "https://open.spotify.com/album/6nCZCYTiInJxrYxV93rNNe"
+      },
+      "artists": [
+        {
+          "name": "Bengala Fire",
+          "url": "https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136014,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/42jbHb4w0ZiWorhLq6f4Sm"
+    },
+    {
+      "album": {
         "name": "MAI FATTO 31",
         "url": "https://open.spotify.com/album/1wDCJfXNcg4TetMxtJP8la"
       },
@@ -7875,7 +8045,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 217148,
       "name": "Nosferatu",
       "url": "https://open.spotify.com/track/3yn49UA6N8Xd0kVoX7UTF2"
@@ -8571,7 +8741,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 184800,
       "name": "Per non pensarci pi\u00f9",
       "url": "https://open.spotify.com/track/0F3JQEhViqSr7ouimK5LO7"
@@ -8894,6 +9064,24 @@
     },
     {
       "album": {
+        "name": "Practical Magic",
+        "url": "https://open.spotify.com/album/6akTNWvMrw3wHr9mO6kpt7"
+      },
+      "artists": [
+        {
+          "name": "Her Skin",
+          "url": "https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173236,
+      "name": "Practical Magic",
+      "url": "https://open.spotify.com/track/7oHOCMEmkntfn5HKuM7b4h"
+    },
+    {
+      "album": {
         "name": "Preda",
         "url": "https://open.spotify.com/album/6WmM7P2msBOZaXLMtUpu1A"
       },
@@ -8963,6 +9151,24 @@
       "duration_ms": 185234,
       "name": "Prima di te",
       "url": "https://open.spotify.com/track/2WOERJt8fA1SWlWxkiLaJi"
+    },
+    {
+      "album": {
+        "name": "Primo rischio assoluto",
+        "url": "https://open.spotify.com/album/0QbsERjOBFVUC1snXF026x"
+      },
+      "artists": [
+        {
+          "name": "Tueri Damasco",
+          "url": "https://open.spotify.com/artist/7v7fysSXW70UvLEJEUSohB"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137291,
+      "name": "Primo rischio assoluto",
+      "url": "https://open.spotify.com/track/6XbvXoNzq6lU7QeDXyHWqo"
     },
     {
       "album": {
@@ -9299,6 +9505,24 @@
       "duration_ms": 210870,
       "name": "Record",
       "url": "https://open.spotify.com/track/7bJJKJtXIDYsz87fpRArOs"
+    },
+    {
+      "album": {
+        "name": "Eremo",
+        "url": "https://open.spotify.com/album/3RZAw2MYi7QYdNf51IMMDf"
+      },
+      "artists": [
+        {
+          "name": "Lepre",
+          "url": "https://open.spotify.com/artist/5Trjt6t3hTEwDuczYiwJEx"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131039,
+      "name": "Regole",
+      "url": "https://open.spotify.com/track/5DwFoKAp9nxeAClDfeSOeO"
     },
     {
       "album": {
@@ -9977,7 +10201,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 208120,
       "name": "Sento Un Morso Dolce",
       "url": "https://open.spotify.com/track/7gMFVhNWLrVRjiMQ9Pwth5"
@@ -10067,7 +10291,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 262804,
       "name": "Serenissima Malcontenta",
       "url": "https://open.spotify.com/track/2psFcaO2uKwA4PXoYyJI7Z"
@@ -10789,7 +11013,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 204463,
       "name": "Storie Di Lacrime",
       "url": "https://open.spotify.com/track/2hiQgORiBC1Zr05h7QGWRf"
@@ -11150,6 +11374,28 @@
     },
     {
       "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/295UWu3GHKMsMbuepIJy6I"
+      },
+      "artists": [
+        {
+          "name": "Arianna Pasini",
+          "url": "https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA"
+        },
+        {
+          "name": "Generic Animal",
+          "url": "https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224253,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/72dU19llHChNhc7VcxpId3"
+    },
+    {
+      "album": {
         "name": "Terra bruciata",
         "url": "https://open.spotify.com/album/4M3fh0wWcrnxV3BHH6wCFR"
       },
@@ -11161,7 +11407,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 208166,
       "name": "Terra bruciata",
       "url": "https://open.spotify.com/track/56pQre8VebNeV55drF3qwM"
@@ -12265,6 +12511,24 @@
       "duration_ms": 211200,
       "name": "Valanga",
       "url": "https://open.spotify.com/track/6cqwc1pyl5i48tBCxGgEvS"
+    },
+    {
+      "album": {
+        "name": "SE FOSSE MUSICA ROCK",
+        "url": "https://open.spotify.com/album/2uxIypVN3hwPk33oXLg0gX"
+      },
+      "artists": [
+        {
+          "name": "PAS MAL",
+          "url": "https://open.spotify.com/artist/6ig3DJrNFiGV30Qrk1MQ68"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162501,
+      "name": "VALE TUTTO",
+      "url": "https://open.spotify.com/track/4FR5o8NhDGa2qauVKYsfgU"
     },
     {
       "album": {

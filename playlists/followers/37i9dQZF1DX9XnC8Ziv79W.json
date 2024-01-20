@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 5337,
+  "2024-01-20": 5342,
   "date_first_scraped": "2023-05-19",
   "description": "Check out the very own Rhythm of Madras!\nCover : Asal Kolaar",
   "name": "Tamil Indie : Gaana",
@@ -141,6 +141,28 @@
       "duration_ms": 157306,
       "name": "Amakkalam - From \"Think Originals\"",
       "url": "https://open.spotify.com/track/49vfyaR7KxgTEqpFtn3XPg"
+    },
+    {
+      "album": {
+        "name": "Annachi",
+        "url": "https://open.spotify.com/album/0DVJvSmAigV1bEquebcNnk"
+      },
+      "artists": [
+        {
+          "name": "Gana Gowtham",
+          "url": "https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC"
+        },
+        {
+          "name": "SHIV PAUL",
+          "url": "https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170270,
+      "name": "Annachi",
+      "url": "https://open.spotify.com/track/3GR331BaOFe9weSYkx6D0Z"
     },
     {
       "album": {

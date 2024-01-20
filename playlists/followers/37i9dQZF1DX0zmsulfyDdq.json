@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 278853,
+  "2024-01-20": 278991,
   "date_first_scraped": "2022-04-19",
   "description": "Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Wish.",
   "name": "Disney Lullaby",
@@ -521,6 +521,42 @@
       "duration_ms": 83057,
       "name": "Bibbidi Bobbidi Boo - Instrumental",
       "url": "https://open.spotify.com/track/3hSUUyu64UofrhKKg5zAOQ"
+    },
+    {
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111266,
+      "name": "Bigger Than Us",
+      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
+    },
+    {
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120306,
+      "name": "Born to Play",
+      "url": "https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL"
     },
     {
       "album": {

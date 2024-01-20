@@ -1,12 +1,12 @@
 {
   "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Rezz &amp; Subtronics",
-  "num_followers": 485,
+  "num_followers": 486,
   "original_name": "Bass Drop",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "ODUwLDk4OGU4N2NjNzY2NTQzNzQ2ZjJjNTZmZjRkMWY2M2I3MjFkOWFhMWU=",
+  "snapshot_id": "ODUxLGUzMjdjZTlkZmQ5ODY5MDRkMWExOWM3MzQwZWE0NDI5NzRmZTEwMTM=",
   "tracks": [
     {
       "added_at": "2024-01-12 18:06:11",
@@ -1931,6 +1931,26 @@
       "duration_ms": 236556,
       "name": "late night drive",
       "url": "https://open.spotify.com/track/1Hk1UzNwgET2DYeXy2VPw6"
+    },
+    {
+      "added_at": "2024-01-19 20:44:25",
+      "album": {
+        "name": "DYSPHORIA",
+        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 157637,
+      "name": "DYSPHORIA",
+      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
     }
   ],
   "unique_name": "Bass Drop",

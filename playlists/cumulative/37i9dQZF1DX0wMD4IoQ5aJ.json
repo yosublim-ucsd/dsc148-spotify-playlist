@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Coconut Bay",
+        "url": "https://open.spotify.com/album/5GKBXgc1tGzwNW9UOaVXWA"
+      },
+      "artists": [
+        {
+          "name": "Pink Villa",
+          "url": "https://open.spotify.com/artist/4PtcKLZL32MSk0wzcJM2mk"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137894,
+      "name": "Coconut Bay",
+      "url": "https://open.spotify.com/track/6KxsUf9Dz6rxM3OxyfSl59"
+    },
+    {
+      "album": {
         "name": "Colors By Shade",
         "url": "https://open.spotify.com/album/7IwQLb1is4Bd5ZtPOCUkEB"
       },
@@ -5098,6 +5116,24 @@
       "duration_ms": 303688,
       "name": "The Time",
       "url": "https://open.spotify.com/track/1t977rzwRbiibn2OJb0xvF"
+    },
+    {
+      "album": {
+        "name": "Thin Minute",
+        "url": "https://open.spotify.com/album/5cuS22pdRRHpQnBE9D5baF"
+      },
+      "artists": [
+        {
+          "name": "Gloster Gladiator",
+          "url": "https://open.spotify.com/artist/1qwnni8v2EwPmnotgdJWBg"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125405,
+      "name": "Thin Minute",
+      "url": "https://open.spotify.com/track/4ocQtMV5xbPtGyCnP0YifT"
     },
     {
       "album": {

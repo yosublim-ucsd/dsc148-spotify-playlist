@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Sapne",
+        "url": "https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy"
+      },
+      "artists": [
+        {
+          "name": "Shubham Kabra",
+          "url": "https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Aaja - Stripped Version",
+      "url": "https://open.spotify.com/track/6RBoeJVWQmesmSzl5ole38"
+    },
+    {
+      "album": {
         "name": "Aangan",
         "url": "https://open.spotify.com/album/1Y8jcvhXzOdX8n8JkxniVT"
       },
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 183636,
       "name": "Dil Teri Raah",
       "url": "https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm"
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 255855,
       "name": "Doobay",
       "url": "https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT"
@@ -1344,6 +1362,28 @@
       "duration_ms": 192000,
       "name": "Ek Hi Toh Dil",
       "url": "https://open.spotify.com/track/3R8doGdVk3wSQonbXmuKGs"
+    },
+    {
+      "album": {
+        "name": "Ek Roz",
+        "url": "https://open.spotify.com/album/7FPc1Lg56oeqbxd2BxPrPT"
+      },
+      "artists": [
+        {
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
+        },
+        {
+          "name": "Avanti Singh",
+          "url": "https://open.spotify.com/artist/6k5LuiRji2bQeSy3M73j4v"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212663,
+      "name": "Ek Roz",
+      "url": "https://open.spotify.com/track/0MX03YXxjKkgjBjWQkKVSc"
     },
     {
       "album": {
@@ -1883,6 +1923,28 @@
     },
     {
       "album": {
+        "name": "Jahaan",
+        "url": "https://open.spotify.com/album/1Ijev4uDju3xjEA77uKgxY"
+      },
+      "artists": [
+        {
+          "name": "Kanwar Aditya",
+          "url": "https://open.spotify.com/artist/6qef5YT5ROaGFl93Utk36k"
+        },
+        {
+          "name": "Ira Mahajan",
+          "url": "https://open.spotify.com/artist/3Yzt08KVu1j0Wx4p8Kn52C"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237176,
+      "name": "Jahaan",
+      "url": "https://open.spotify.com/track/314WYPRxkUBdHhXPr9JRoF"
+    },
+    {
+      "album": {
         "name": "Jana Hai Wahaan",
         "url": "https://open.spotify.com/album/5ExO3b4TvRGhYC6p8Ubqv8"
       },
@@ -2014,7 +2076,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 295022,
       "name": "Kabhi Kabhi Zindagi",
       "url": "https://open.spotify.com/track/68SwtkJRPhtlZBzXaV4jrZ"
@@ -3084,7 +3146,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 190293,
       "name": "Milke Jana",
       "url": "https://open.spotify.com/track/7wAwgWLLMxigAvV6paLAUN"
@@ -4049,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "Tere Bina",
+        "url": "https://open.spotify.com/album/1eZuo2SoysHA1TvBfkRsZA"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Tere Bina",
+      "url": "https://open.spotify.com/track/4kJ6jb1QL8vQbkwhNZFsLQ"
+    },
+    {
+      "album": {
         "name": "Laal Singh Chaddha",
         "url": "https://open.spotify.com/album/5OLQiL6HaWJl734EqPjoY9"
       },
@@ -4068,7 +4148,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 346290,
       "name": "Tere Hawaale",
       "url": "https://open.spotify.com/track/1ByVM9F8HeekD3aGXatRWd"
@@ -4958,6 +5038,24 @@
       "duration_ms": 129386,
       "name": "Yeh Sama",
       "url": "https://open.spotify.com/track/2HJiciviYnFJXF9bM80AwF"
+    },
+    {
+      "album": {
+        "name": "Sapne",
+        "url": "https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy"
+      },
+      "artists": [
+        {
+          "name": "Shubham Kabra",
+          "url": "https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235875,
+      "name": "Yeh Shaam - Piano Version",
+      "url": "https://open.spotify.com/track/74JiXrwafiTo4W1IH9ZvY7"
     },
     {
       "album": {

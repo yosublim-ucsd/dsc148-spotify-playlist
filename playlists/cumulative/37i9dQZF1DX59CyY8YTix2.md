@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: リーガルリリー \(Regallily\)
 
-1,402 songs - 3 day 15 hr 50 min
+1,403 songs - 3 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [ADDITIONAL LEMON](https://open.spotify.com/track/0U98xZ60y4AvWHnj8KKfOk) | [pandagolff](https://open.spotify.com/artist/4KReHO9hW14qVILtZReCra) | [ADDITIONAL LEMON](https://open.spotify.com/album/6LeBXFaFI3LzlGAlPliToC) | 2:42 | 2023-02-28 | 2023-03-08 |
 | [Aeropolice](https://open.spotify.com/track/54d48nNAKWy6tb1epLrPyd) | [meow](https://open.spotify.com/artist/2eUHtoViG2vBrLdBSXDEvC) | [among the drowsy](https://open.spotify.com/album/3SqYWidS5drEWcztINqDdy) | 3:44 | 2022-11-17 | 2022-11-23 |
 | [after clap](https://open.spotify.com/track/3XOzrxqLgHDe7ZnUDNsjtQ) | [accobin](https://open.spotify.com/artist/6rGKtjbJfGY3atTJhJIoZx) | [AMIYAMUMA](https://open.spotify.com/album/7oVlV0bCdr9zqDrzSzNGn2) | 4:09 | 2023-12-19 | 2024-01-17 |
+| [Aiai](https://open.spotify.com/track/2fk7HoBZPtoeqIl54CLTR7) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madaramoyo](https://open.spotify.com/album/2SQQoQMMoeB2TnIQ8Wbc19) | 3:47 | 2024-01-18 |  |
 | [Aiaru Sekai](https://open.spotify.com/track/7FzuvU29KpohVxXr4DFcEN) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [Aiaru Sekai](https://open.spotify.com/album/62D26AgLZHyTMsLFYrAN4R) | 3:16 | 2022-09-08 | 2022-10-05 |
 | [Aitakuchigafusagaranai](https://open.spotify.com/track/6nDywyY09XZUFyLJqRWYLM) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [Aitakuchigafusagaranai](https://open.spotify.com/album/1JONN1eC3bu3XR779JRguI) | 3:33 | 2022-11-08 | 2022-11-16 |
 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 | 2022-07-28 | 2022-08-17 |
@@ -1203,7 +1204,7 @@
 | [愛のしるし](https://open.spotify.com/track/39ctCzopDN0dYr26AKmQOP) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [JET CD](https://open.spotify.com/album/1Rfgzkyxu5BBqtVWncmH7C) | 2:48 | 2022-07-28 | 2022-12-14 |
 | [愛をつかまえて](https://open.spotify.com/track/0NF5k4GYaJrr7hOJVzaVqD) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [愛をつかまえて](https://open.spotify.com/album/0yI2oGI2X12FrTCHxOBtr7) | 4:23 | 2022-12-13 | 2023-03-08 |
 | [愛を祈らないで](https://open.spotify.com/track/0I4JhYsWMRZOqgvYhs7xfV) | [シバノソウ](https://open.spotify.com/artist/0IqBL0P3P3YYPgztRZY8la) | [愛を祈らないで](https://open.spotify.com/album/7BTIBV2PYbzxZr567W7mym) | 3:49 | 2022-06-07 | 2022-06-18 |
-| [愛哀](https://open.spotify.com/track/1jNX9JdSdlhqkmiIPBUii4) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まだらもよう](https://open.spotify.com/album/0bamCeA6hehUk8NqStBL7k) | 3:47 | 2024-01-18 |  |
+| [愛哀](https://open.spotify.com/track/1jNX9JdSdlhqkmiIPBUii4) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まだらもよう](https://open.spotify.com/album/0bamCeA6hehUk8NqStBL7k) | 3:47 | 2024-01-18 | 2024-01-20 |
 | [愛雨](https://open.spotify.com/track/4m6skrawKxM1NeMxXw0I2W) | [微睡んでアビー](https://open.spotify.com/artist/5FqDNMNIOH7R0wVII6gCkl) | [愛雨](https://open.spotify.com/album/08WsQ9MqCrcmk5jxSVYxaw) | 5:06 | 2022-08-09 | 2022-08-17 |
 | [感情is MINE](https://open.spotify.com/track/1ijdOQYxwXh7HMqQCxY7Mi) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [感情is MINE/Super Model](https://open.spotify.com/album/0hH7lHpPWSDtysnqC9FDL4) | 1:46 | 2023-12-05 | 2023-12-20 |
 | [憧れた先には](https://open.spotify.com/track/6OiDsTbv1uMET5uTranC3B) | [チルブレイン](https://open.spotify.com/artist/6I76cNCyCD7t1c5VYBlNoU) | [主人公になりたくて](https://open.spotify.com/album/3tuTq72J1aN849rHh4Tz6S) | 4:44 | 2024-01-02 | 2024-01-10 |

@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-291 songs - 18 hr 31 min
+293 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Bad Milk](https://open.spotify.com/track/0BkcsXahg5Lnz6D1b1hkhP) | [New Favourite](https://open.spotify.com/artist/7ijosT6UoUpQskf6OqtTPV) | [Chasing Light](https://open.spotify.com/album/1b85DkLD7iwM9ZcGKNvZcu) | 3:17 | 2021-12-15 | 2022-07-27 |
 | [Badroom](https://open.spotify.com/track/3F0NHuzzFsv1JVQjvTibj1) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Badroom](https://open.spotify.com/album/1kpgGMobD4sNTy2KGGlVDd) | 3:25 | 2022-06-30 | 2023-09-23 |
 | [Beware Of Birds](https://open.spotify.com/track/1IOz13EgqA22jojuSD4QAb) | [Jack and the bearded fishermen](https://open.spotify.com/artist/3dA2NIoEt8X4q0KU4QycgJ) | [Beware Of Birds](https://open.spotify.com/album/4KmuhLn1p7YYbWlltDuI4Z) | 3:10 | 2022-01-27 | 2023-03-28 |
-| [Bitter](https://open.spotify.com/track/0pUNyIK9UsvFpXHbJ6gunK) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Gone Are The Good Days](https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2) | 3:11 | 2021-12-31 |  |
+| [Bitter](https://open.spotify.com/track/0pUNyIK9UsvFpXHbJ6gunK) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Gone Are The Good Days](https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2) | 3:11 | 2021-12-31 | 2024-01-20 |
 | [Black Echoes](https://open.spotify.com/track/6FvVqAYg7ZOMFeRmHo08dv) | [Carmen Sea](https://open.spotify.com/artist/5OY8MWVQqEbhMmmxnBMy1X) | [HISS](https://open.spotify.com/album/78IBBrQjjTWiIkYSIrxtxN) | 2:43 | 2022-03-30 | 2022-07-28 |
 | [Bones](https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Bones](https://open.spotify.com/album/4XH9ajEoLAF572D1UseFG3) | 4:33 | 2021-12-15 |  |
 | [Branque](https://open.spotify.com/track/4IFOzzLYdHxwfo3R8IrUhq) | [Bantam Lyons](https://open.spotify.com/artist/0PYUuiy5K17prjVHYVEhia) | [Branque](https://open.spotify.com/album/7zFdts2b5EzbzC104qgc7H) | 4:41 | 2021-12-15 | 2022-07-29 |
@@ -121,6 +121,7 @@
 | [Hope](https://open.spotify.com/track/4aHrl8py7CwMO4rJJ6KzXN) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3), [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Hope](https://open.spotify.com/album/2eJyTdACTIslhQB92NZzWt) | 3:01 | 2023-05-11 | 2023-07-08 |
 | [Hope](https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3), [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Afterparty \- All We Have Is Now](https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU) | 3:01 | 2023-07-05 |  |
 | [HORIZON](https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU) | 3:48 | 2023-01-26 |  |
+| [Horns](https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Horns](https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf) | 3:26 | 2024-01-19 |  |
 | [Hotline](https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1) | [Birdstone](https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t) | [Hotline](https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt) | 4:11 | 2023-11-16 |  |
 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-05-11 | 2023-06-30 |
 | [Humans](https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n) | [Rank\-O](https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF) | [De Novo](https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6) | 3:12 | 2022-04-17 |  |
@@ -170,11 +171,11 @@
 | [Miroir](https://open.spotify.com/track/69p81RFFWx60N6oECYgI89) | [Bipolar Club](https://open.spotify.com/artist/6SGmaTmG3ZDt5krt6rklru) | [Miroir](https://open.spotify.com/album/4UKd6gVT7dWalCUgCIav2A) | 2:57 | 2022-01-27 | 2022-07-26 |
 | [Model](https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [...About Going Home](https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI) | 4:09 | 2023-06-29 |  |
 | [Moments](https://open.spotify.com/track/1ANlexfiMuDYl6T6G8o93v) | [TERNE](https://open.spotify.com/artist/4QkgbsfcoQbCfiSw9gT4kq) | [Moments](https://open.spotify.com/album/72enbv0nkgZK6bnIUh9fNj) | 3:09 | 2023-07-23 | 2023-08-25 |
-| [Mr\. BigYellowSun](https://open.spotify.com/track/27YpSQcKYFC2BDKXPba4D7) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Sunflower](https://open.spotify.com/album/7yaDbs8UuwGoYqzgmGt3lu) | 3:09 | 2022-06-30 |  |
+| [Mr\. BigYellowSun](https://open.spotify.com/track/27YpSQcKYFC2BDKXPba4D7) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Sunflower](https://open.spotify.com/album/7yaDbs8UuwGoYqzgmGt3lu) | 3:09 | 2022-06-30 | 2024-01-20 |
 | [Mr\. Perfect](https://open.spotify.com/track/43XPO9j08EgaPyGwsCjxpz) | [Holy Fake News](https://open.spotify.com/artist/6HGor9KJpMcOImEhrQpWy4) | [Holy Fake News](https://open.spotify.com/album/5ZBR50XOCNosCl7XB2vi15) | 3:36 | 2022-01-03 | 2022-07-25 |
 | [Murderology](https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn) | [Yard of Blondes](https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg) | [Murderology](https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti) | 4:23 | 2021-12-15 | 2022-07-28 |
 | [My time](https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI) | [Garage Is Dead](https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH) | 3:44 | 2022-04-17 |  |
-| [Nasty Habits](https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE) | [Komodor](https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt) | [Nasty Habits](https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX) | 3:58 | 2022-06-30 | 2022-07-29 |
+| [Nasty Habits](https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE) | [Komodor](https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt) | [Nasty Habits](https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX) | 3:58 | 2022-06-30 |  |
 | [Near](https://open.spotify.com/track/4sy4XhaARpaQ1GmHbuoKec) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Near](https://open.spotify.com/album/2iWnS0S4Yi16kehnILCcML) | 4:56 | 2022-04-17 | 2023-04-14 |
 | [Negativity](https://open.spotify.com/track/0hwG6egZXGibubr52Av5df) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [Negativity](https://open.spotify.com/album/66f2nh2ampcaZgeN2Qqw5t) | 3:57 | 2023-06-29 | 2023-10-13 |
 | [Neil Perry](https://open.spotify.com/track/4pdUfdZIwUVRFCl5k9Eiyl) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Neil Perry](https://open.spotify.com/album/6fXYtRQI3s2u6ne7q6jJTX) | 2:49 | 2022-06-30 | 2022-11-06 |
@@ -255,6 +256,7 @@
 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 | 2022-06-30 | 2022-11-29 |
 | [Strange Feeling](https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Strange Feeling](https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U) | 3:52 | 2023-11-16 |  |
 | [Strike a Match](https://open.spotify.com/track/026GCpWJE2LQQAWrq9Fxi2) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [The Future Is the End](https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7) | 3:05 | 2023-06-29 | 2024-01-05 |
+| [Sugar Rush](https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Sugar Rush](https://open.spotify.com/album/5lft83Fx1Dth0Frg1ptTUE) | 4:05 | 2024-01-19 |  |
 | [Sunrise](https://open.spotify.com/track/5zDnFCQy804gmYYe02VZ9F) | [Decasia](https://open.spotify.com/artist/7HuU0xtOHlU4CPZs4sGoUW) | [Sunrise](https://open.spotify.com/album/0uZPHLJrKG5hv8bS6BCPe8) | 6:05 | 2022-04-04 | 2022-07-14 |
 | [Survived the Great Flood](https://open.spotify.com/track/3x6uWv7tdpJz4vPS2eqBhg) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/5acWZQPiULxgupTkAIdWbw) | 3:42 | 2021-12-31 | 2022-06-23 |
 | [Survived the Great Flood](https://open.spotify.com/track/7GURR3G9Me29ZusRHTOrGH) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/4mdYlF5OcDdolPcrEuG8T4) | 3:42 | 2022-09-22 | 2023-05-11 |
@@ -297,7 +299,7 @@
 | [You Suck Dude](https://open.spotify.com/track/4QpTAGLsHj7iXT2VlRwc5R) | [Dory\-Loup](https://open.spotify.com/artist/7hlVD6C022u1z25lu7abd2) | [You Suck Dude](https://open.spotify.com/album/47qPZfTscKx7zKxWC2aSpG) | 2:44 | 2022-04-17 | 2022-09-10 |
 | [Your Great Deception](https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [Your Great Deception](https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3) | 5:22 | 2021-12-30 |  |
 | [Your Journey](https://open.spotify.com/track/0A6O68cIOH623uzRkXBR2h) | [Gaelle Buswel](https://open.spotify.com/artist/53kw9wmXqjXcd9MqpR4GQQ) | [Your Journey](https://open.spotify.com/album/18zbFCl3TwprTXX8g5j3ZD) | 3:29 | 2021-12-30 | 2022-07-25 |
-| [Zone 51](https://open.spotify.com/track/2lPQSkalkNnFAu1d50Wh9j) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/5E3RiKz8pmxeCRgbSH8NFT) | 4:23 | 2023-07-23 |  |
+| [Zone 51](https://open.spotify.com/track/2lPQSkalkNnFAu1d50Wh9j) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/5E3RiKz8pmxeCRgbSH8NFT) | 4:23 | 2023-07-23 | 2024-01-20 |
 | [Zone 51](https://open.spotify.com/track/3T3NtoZ0MKjw5MR5MvGWRD) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/1J71QndbwpN6jpzgjzki7D) | 4:23 | 2023-06-29 | 2023-07-09 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-750 songs - 1 day 18 hr 31 min
+753 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Memorabilia](https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Somersault](https://open.spotify.com/album/6Z8ui5WDN0XbsgJhr9y0f5) | 3:07 | 2021-11-08 |  |
 | [Memory](https://open.spotify.com/track/7rj1844JpGdaUxZ7eBzC4N) | [Braga Circuit](https://open.spotify.com/artist/7KP3UUwog2y9yJ4eQYGhM6) | [Residue](https://open.spotify.com/album/5jCG760PSLUwLPRuepAvfC) | 6:43 | 2022-05-27 | 2022-07-08 |
 | [Mercenary](https://open.spotify.com/track/6T1iFdKQKR0UlOfOgscs3d) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Mercenary EP](https://open.spotify.com/album/5hPAFj34PSDDN7ztz0ouKu) | 5:50 | 2021-06-02 | 2021-08-20 |
+| [Metropolis](https://open.spotify.com/track/53VmLMntGkYdCFOgZ5GRxo) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [Metropolis](https://open.spotify.com/album/6vOQHMTcqC9syjC360EWXa) | 3:53 | 2024-01-19 |  |
 | [Mi Amor](https://open.spotify.com/track/3jqBtnZqoecYhGGzf0ZLBO) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Mi Amor](https://open.spotify.com/album/61UED012ycFtrMV5N13AuT) | 3:18 | 2023-02-03 |  |
 | [Midding](https://open.spotify.com/track/2jqPyoAGWAaxfjtHj8DZAb) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Midding](https://open.spotify.com/album/09KIZqC3nwi1nWWrb0Z0eL) | 7:32 | 2020-12-16 | 2020-12-24 |
 | [Midnight Snack](https://open.spotify.com/track/3BgBwSOMicBIfxRZpOewrz) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [Midnight Snack](https://open.spotify.com/album/5fC41QDe37WTx5PpcR1b2K) | 2:06 | 2023-09-22 |  |
@@ -591,6 +592,7 @@
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-02-10 | 2022-04-06 |
 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 | 2020-11-19 | 2021-07-08 |
 | [Silence of the lamps](https://open.spotify.com/track/7hIF3UGVczrTuKVazZZ5Kc) | [St\. Haze](https://open.spotify.com/artist/17k09aY5QjffK5L943zumG) | [Silence of the lamps](https://open.spotify.com/album/6FhZ3VbRGNSvMhogLSf3JV) | 2:10 | 2022-10-28 |  |
+| [Silver Linings](https://open.spotify.com/track/207O2adbsH3nKtNNSnxv6i) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Silver Linings](https://open.spotify.com/album/5dfBPBGvYWbAwUjVKPfJne) | 2:35 | 2024-01-19 |  |
 | [Sima Deli](https://open.spotify.com/track/6CdVgngqmmLWvbPzPZ596U) | [Stockset](https://open.spotify.com/artist/2GsMlo9UOvZ2YcVoFtTOpt) | [Sima Deli](https://open.spotify.com/album/2ughtucDJA558sqUjSpcNM) | 2:15 | 2023-06-23 |  |
 | [Skates](https://open.spotify.com/track/6Z0TyMJQSNAVJcLuUMVCPp) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Skates](https://open.spotify.com/album/03cXL0nQ5J3J83Xd4bglkE) | 3:00 | 2022-09-02 |  |
 | [skies](https://open.spotify.com/track/7wSCgWpis1zblS4ow4IYLW) | [Setjet](https://open.spotify.com/artist/5blU4gW1Xn3kQ73i2brApA) | [skies](https://open.spotify.com/album/2mrrLqTtqzE0zm8cUQ9Ci7) | 3:24 | 2022-12-09 |  |
@@ -723,6 +725,7 @@
 | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2) | [Millennial Matt](https://open.spotify.com/artist/2NTRqwTkxJsD6o5WtJ3rVB) | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/album/0rRUr0U1aJM8uu5RejSV9R) | 2:43 | 2021-11-08 |  |
 | [Varg](https://open.spotify.com/track/29ImxexC5xgRWYz8iUPL4H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Mercenary EP](https://open.spotify.com/album/5hPAFj34PSDDN7ztz0ouKu) | 4:35 | 2021-06-02 | 2021-08-20 |
 | [Varuna](https://open.spotify.com/track/3jxl6mTtkQwGCgzKleyYC5) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Varuna / UP2U](https://open.spotify.com/album/6Sq4QBMeCu2DrYOW6gRFqO) | 5:14 | 2022-10-07 | 2023-06-03 |
+| [Veesha](https://open.spotify.com/track/40TVYUkRQ5GgLApjXOxq3O) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Veesha](https://open.spotify.com/album/37F3Q7SpyF9cdrqsrrnnYB) | 2:33 | 2024-01-19 |  |
 | [Vei](https://open.spotify.com/track/6RgMpjc2jIoCAAtAykmTgE) | [Travertia](https://open.spotify.com/artist/2hw9kXvOh4i601W9hPC6GB) | [Vei](https://open.spotify.com/album/3y2u7rDyyfKTbEuwFnIBGD) | 8:15 | 2021-01-27 | 2021-02-10 |
 | [Verum](https://open.spotify.com/track/6u4H3xjl3hrUj8CItVHbtR) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Fiducia](https://open.spotify.com/album/5Z9GD0MJpZHslJ7OHljnwD) | 3:45 | 2020-04-21 | 2020-08-26 |
 | [Very Simple](https://open.spotify.com/track/6mqNxdwau1QWYX7yChJSYF) | [Hasse Hans](https://open.spotify.com/artist/4PjVK6KNfnMASGMI6gmMTW) | [Very Simple](https://open.spotify.com/album/16dLJ0Cp895Vm3BdpkYzxP) | 2:08 | 2022-11-25 |  |

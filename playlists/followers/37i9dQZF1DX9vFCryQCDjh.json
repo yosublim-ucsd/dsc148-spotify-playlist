@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 11526,
+  "2024-01-20": 11526,
   "date_first_scraped": "2022-11-23",
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 175080,
       "name": "Hey, Hey, Hey",
       "url": "https://open.spotify.com/track/5VgjKdEj2Ppv8bSXG3GWlY"
@@ -1783,7 +1783,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 243435,
       "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
       "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"

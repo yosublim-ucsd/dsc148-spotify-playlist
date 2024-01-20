@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Fleeky Bang\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
 
-1,072 songs - 2 day 10 hr 47 min
+1,073 songs - 2 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,6 +796,7 @@
 | [ROC Drill \(Prod\. BUM\)](https://open.spotify.com/track/0fPpBzt5FY7Q9grPIYKMm2) | [Olltii](https://open.spotify.com/artist/1l1VfoWjli9N3MJH2tAWCA) | [ROC Drill](https://open.spotify.com/album/7jzSSlUldr3aC3TcIERgXa) | 2:37 | 2023-06-22 | 2023-08-17 |
 | [Rock The Cup](https://open.spotify.com/track/16YZVYOdO7ozqexGtFBolI) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Rock The Cup](https://open.spotify.com/album/1LrnFRgaWBpY1KH9SYMgP0) | 2:36 | 2023-11-02 | 2024-01-06 |
 | [Rockstar Lifestyle \(Feat\. 365LIT & Posadic\)](https://open.spotify.com/track/3q4EOtVCDGRvGSSjveqc6e) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [365LIT](https://open.spotify.com/artist/65LSFEqRhq074aUBF1zF2e), [Posadic](https://open.spotify.com/artist/2Pe5hROLBx2lHpYl9Z4tCG) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:34 | 2022-03-26 | 2022-06-29 |
+| [ROLEX](https://open.spotify.com/track/7k1c7yTyXKW0gLyQ2Nxiyd) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [ROLEX](https://open.spotify.com/album/5JG1qjiNsRjhGHzsxQsvFM) | 2:58 | 2024-01-19 |  |
 | [Rollie up](https://open.spotify.com/track/2PD1oseBzqbIhYZ3wbtQXD) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8) | [Drop The Bit Final Pt\. 2](https://open.spotify.com/album/2q3EHtYTa2eF6GsWYMIQSO) | 3:57 | 2022-06-09 | 2022-06-12 |
 | [Rollin' \(Prod\. GroovyRoom\)](https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Rollin'](https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU) | 3:09 | 2022-10-07 | 2023-03-25 |
 | [Romance Symphony \(Feat\. CHANGMO, Jay Park\)](https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 4:00 | 2022-06-09 | 2022-12-20 |

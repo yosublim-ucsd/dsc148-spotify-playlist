@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels in India\. Cover: Shriya, Artwork: Isu Kim
 
-1,056 songs - 2 day 14 hr 8 min
+1,058 songs - 2 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Chala Jaunga](https://open.spotify.com/track/2GaxXMW0r4lkNBgMiCdBwU) | [Kushal Mangal](https://open.spotify.com/artist/2aChr4prwNx6859zYkznf6) | [Chala Jaunga](https://open.spotify.com/album/7fHZ3bZ1rd16gEljhTmdLs) | 3:52 | 2021-12-01 | 2022-01-13 |
 | [Chale Bhi Jao](https://open.spotify.com/track/37fbtdjzCUvmoPgnkmCIO1) | [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Chale Bhi Jao](https://open.spotify.com/album/6FdPMK1pnbYpAIXFPDI84f) | 3:30 | 2022-07-20 | 2023-01-12 |
 | [Chale Gaye](https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Chale Gaye](https://open.spotify.com/album/5uWSN63exQGd7pyABRRDbz) | 3:58 | 2023-09-20 | 2023-11-16 |
-| [Chalte Jaana](https://open.spotify.com/track/0oyRs9pRurqwGGALF9lJMg) | [Riya Shrivastava](https://open.spotify.com/artist/3kMUiWRc5cWOC5aZsQRNtN) | [Chalte Jaana](https://open.spotify.com/album/1T0ZK7Ez5HyuL7HjCfzC59) | 1:35 | 2023-11-15 |  |
+| [Chalte Jaana](https://open.spotify.com/track/0oyRs9pRurqwGGALF9lJMg) | [Riya Shrivastava](https://open.spotify.com/artist/3kMUiWRc5cWOC5aZsQRNtN) | [Chalte Jaana](https://open.spotify.com/album/1T0ZK7Ez5HyuL7HjCfzC59) | 1:35 | 2023-11-15 | 2024-01-20 |
+| [Chalte Jaana](https://open.spotify.com/track/1KBXALAcmP4zzC7uAjLj0b) | [Riya Shrivastava](https://open.spotify.com/artist/3kMUiWRc5cWOC5aZsQRNtN) | [Chalte Jaana](https://open.spotify.com/album/4EhbWXUXD6EcsjOVNjThr7) | 1:35 | 2024-01-10 |  |
 | [Chalte Jaanaa](https://open.spotify.com/track/3NneoN6Z0PxZLiXbxBhjjx) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Chalte Jaanaa](https://open.spotify.com/album/1OUkQnuzxhQknljjd26BPz) | 3:55 | 2023-06-07 | 2023-08-10 |
 | [Chanchal Mann](https://open.spotify.com/track/5kbwi7gcfkTtP78OIKS4fu) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Chanchal Mann](https://open.spotify.com/album/1IMwoJfW0B35HYFUnLdKYh) | 3:05 | 2022-09-08 | 2023-02-23 |
 | [Chand](https://open.spotify.com/track/6hEZwFHxWEJYsP421oEdxn) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Chand](https://open.spotify.com/album/0Tb41rsD7gNRMPzKK5p7s1) | 3:12 | 2022-05-25 | 2022-09-09 |
@@ -510,7 +511,8 @@
 | [Khushi](https://open.spotify.com/track/1I9RQvcW4amY9stqWfvBWc) | [Rahul Goswami](https://open.spotify.com/artist/26rkBgUF1HojZ7667i7XM2) | [Khushi](https://open.spotify.com/album/0k9Kst0qeArLNt9SLD93aQ) | 2:54 | 2022-05-11 | 2022-06-30 |
 | [Khushiyaan](https://open.spotify.com/track/3M61BeNxgrMmeoVmFj5ZjL) | [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY) | [Khushiyaan](https://open.spotify.com/album/7BZ1aGPBTAsZ5uxJUcl5Jg) | 3:20 | 2021-12-01 | 2022-01-13 |
 | [Khushiyo Ke Geet](https://open.spotify.com/track/5Wnp5EwUGhQJjV8RSPqB5T) | [Khushnuma Panchi](https://open.spotify.com/artist/1uJ2OBo04Gtr2cqWCv9wXI), [Funk Central](https://open.spotify.com/artist/50CIqCGCzUFsFuQEC2pe84) | [Khushiyo Ke Geet](https://open.spotify.com/album/7Gq0WEalVZylBnQnJ7YvRy) | 3:05 | 2023-06-07 | 2023-08-31 |
-| [Khwaab](https://open.spotify.com/track/4QtKkUfSG2DBOTkwg4Ljd8) | [Pramod Tripathi](https://open.spotify.com/artist/1IlujbcWuUJGx86NIfLYUB), [Vinod Bhatt](https://open.spotify.com/artist/10gbEnDL62XnxGr7Qg5qdo), [Kritika Swarnkar](https://open.spotify.com/artist/09dW4KNTqEHTq0rLxQi3Mv) | [Khwaab](https://open.spotify.com/album/1GDGBioIBq0haGk4Bv6dZ3) | 3:51 | 2023-11-08 |  |
+| [Khwaab](https://open.spotify.com/track/1YJq89N77yQgRvj0G6MrJA) | [Pramod Tripathi](https://open.spotify.com/artist/1IlujbcWuUJGx86NIfLYUB), [Vinod Bhatt](https://open.spotify.com/artist/10gbEnDL62XnxGr7Qg5qdo), [Kritika Swarnkar](https://open.spotify.com/artist/09dW4KNTqEHTq0rLxQi3Mv) | [Khwaab](https://open.spotify.com/album/2PRCggR93Z1vhDfnN286nd) | 3:51 | 2024-01-10 |  |
+| [Khwaab](https://open.spotify.com/track/4QtKkUfSG2DBOTkwg4Ljd8) | [Pramod Tripathi](https://open.spotify.com/artist/1IlujbcWuUJGx86NIfLYUB), [Vinod Bhatt](https://open.spotify.com/artist/10gbEnDL62XnxGr7Qg5qdo), [Kritika Swarnkar](https://open.spotify.com/artist/09dW4KNTqEHTq0rLxQi3Mv) | [Khwaab](https://open.spotify.com/album/1GDGBioIBq0haGk4Bv6dZ3) | 3:51 | 2023-11-08 | 2024-01-20 |
 | [Khwaab](https://open.spotify.com/track/7xOogdepAEsl16t7TFSJwA) | [The Lost Symbols](https://open.spotify.com/artist/5ABVMc7CPQJ9RZHoBFuXpa) | [The Diary](https://open.spotify.com/album/7DdCtXE6CQGdDXXbBXoin1) | 4:08 | 2021-12-01 | 2022-01-13 |
 | [Khwaabon](https://open.spotify.com/track/4uP0X4Q6RpUlQpbLwVpZAC) | [Tarunbir Singh](https://open.spotify.com/artist/2wwqslo97YMueTazwgelvF) | [Khwaabon](https://open.spotify.com/album/5yE1nDkkSq6v1ZCBp5C882) | 2:46 | 2022-01-26 | 2022-03-10 |
 | [Khwahishein](https://open.spotify.com/track/0RZ6TjIvdmsM3vL13Lke2P) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Khwahishein](https://open.spotify.com/album/4OiJwmxyhzKvXnZB4JqB53) | 3:58 | 2023-08-02 | 2023-10-26 |

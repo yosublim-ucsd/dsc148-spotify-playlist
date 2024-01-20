@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-666 songs - 1 day 1 hr 16 min
+667 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [BXTCH MAKE A MOVE](https://open.spotify.com/track/7qjHoCMGFEyNKSoxKYnFWh) | [KEAN DYSSO](https://open.spotify.com/artist/74MUeXrsMncKunk1chMxg5) | [BXTCH MAKE A MOVE](https://open.spotify.com/album/5zXFeJF3adzurF4Qfx82ly) | 1:57 | 2022-02-04 | 2022-05-28 |
 | [CALAMITY](https://open.spotify.com/track/7kgpzX6QHe5RaE26F8ITiP) | [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [Calamity](https://open.spotify.com/album/3h9xhGa9JPNH16ptBfuRpq) | 2:40 | 2023-03-10 | 2023-03-25 |
 | [Cherkasy](https://open.spotify.com/track/7AwEf13kPKduketZxRA6jr) | [STXSTN](https://open.spotify.com/artist/0WwRpWlY0zydek63QwSbEU) | [Cherkasy](https://open.spotify.com/album/3ttszSnIyf2lEQ4aBpdSwz) | 2:15 | 2023-06-16 | 2023-07-08 |
+| [CHIPI CHAPA BRAZIL](https://open.spotify.com/track/3RksMYhWbtDx6zicQFAn9F) | [John Bis.T](https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx) | [CHIPI CHAPA BRAZIL](https://open.spotify.com/album/6fxzNr5itaDZK2bhKWaGWt) | 1:40 | 2024-01-19 |  |
 | [City](https://open.spotify.com/track/2SCM41M2pe6PF6eASyVWyy) | [Lo'fi Chield](https://open.spotify.com/artist/6jV68hjOzsCdKpqADyhyzt) | [City](https://open.spotify.com/album/4VMkvhsq4zoNkYPcy3LMsr) | 2:31 | 2023-05-26 | 2023-10-21 |
 | [classical phonk](https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl) | [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g), [madeinnline](https://open.spotify.com/artist/5Uf6QGQDs3EqsxgiGR4O4f) | [classical phonk](https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok) | 1:26 | 2022-12-09 |  |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-07-02 |  |
@@ -538,7 +539,7 @@
 | [Show Me The Will](https://open.spotify.com/track/56lTRHW3ICSxcYOZbD6Aao) | [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [Show Me The Will](https://open.spotify.com/album/0o20HRkbnZThyX0M1E0hIs) | 3:07 | 2022-08-19 | 2023-01-21 |
 | [Show Me Your Back](https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ) | [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [Show Me Your Back](https://open.spotify.com/album/2WfTYJXnEWlam3UpiFcngR) | 3:14 | 2022-07-22 | 2023-01-21 |
 | [showdown](https://open.spotify.com/track/48fzAdCxamFYCHNXXLk6zn) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o) | [showdown](https://open.spotify.com/album/4OMVt53nIZgMMf5uDsAdjz) | 2:00 | 2022-05-13 | 2022-07-09 |
-| [Silent In Loss](https://open.spotify.com/track/5u57He0TBFnoVrlYw7CDnW) | [akkiemi](https://open.spotify.com/artist/5QsmdS9RBPIphb0DcpKf6E) | [Silent In Loss](https://open.spotify.com/album/2F2c4vpHnQRzh7WKbOLiIK) | 1:51 | 2024-01-12 |  |
+| [Silent In Loss](https://open.spotify.com/track/5u57He0TBFnoVrlYw7CDnW) | [akkiemi](https://open.spotify.com/artist/5QsmdS9RBPIphb0DcpKf6E) | [Silent In Loss](https://open.spotify.com/album/2F2c4vpHnQRzh7WKbOLiIK) | 1:51 | 2024-01-12 | 2024-01-20 |
 | [Silvia](https://open.spotify.com/track/3ctasKqsuqcg0BqYqUd17e) | [AntXres](https://open.spotify.com/artist/7v9CZIFskqQfiHrQbI8B3z) | [Silvia](https://open.spotify.com/album/5UMRqJEboY6K8YSaU22BV5) | 2:35 | 2021-08-27 | 2022-02-19 |
 | [SIMPLE](https://open.spotify.com/track/1fdqbJTHS8cwGbHDU9YU9A) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [SIMPLE](https://open.spotify.com/album/6OOcFuabfwp9WvoOEQBJq4) | 1:41 | 2023-08-25 |  |
 | [Skinny Life](https://open.spotify.com/track/4Q6NbWo0mfhBon2DyG6tW9) | [lixffr](https://open.spotify.com/artist/0GUmve9sjccwOk35nZkHtl), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Phonky Year](https://open.spotify.com/album/1I7oAah4fw6822L2eZZAh4) | 2:26 | 2022-12-16 | 2023-02-05 |

@@ -4,7 +4,7 @@
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:3yAv8udgy9z6yF6rREcgfB">Rock City Worship</a>
 
-317 songs - 1 day 9 hr 13 min
+318 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Even When \(Live\)](https://open.spotify.com/track/4s5q3Hx8ViuUwYUIwdTxkc) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi), [Justin Benson](https://open.spotify.com/artist/4rY0dvWnOks5EGKXEXfCIs) | [Hope \(Live\)](https://open.spotify.com/album/00mkd51i4j1qYI4w8mhWuX) | 5:11 | 2022-02-19 | 2022-07-29 |
 | [Every Hour](https://open.spotify.com/track/7D8ixDGuF86Y88HQcLNRiA) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Every Hour](https://open.spotify.com/album/3ZBM3rCqYXClqdJ24Gqbmu) | 4:21 | 2022-02-19 | 2023-04-15 |
 | [Every Season Is Holy Ground \(Live\)](https://open.spotify.com/track/4df54lW3hCbohXGctOx6HG) | [Jacob Cantrell](https://open.spotify.com/artist/3vRlp48MEXs2uuVGKhZtro), [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH) | [Every Season Is Holy Ground \(Live\)](https://open.spotify.com/album/6y1YPH0kyXCV1WN18Zjkfu) | 7:21 | 2024-01-12 |  |
+| [Every Time \- Live](https://open.spotify.com/track/5a6ISwzMRWzCx3lrl0BpZD) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Every Time \(Live\)](https://open.spotify.com/album/2l64p1PXLCa9e52kdovW6H) | 7:37 | 2024-01-12 |  |
 | [Everything That Has Breath](https://open.spotify.com/track/5bUlGqNAu2LAtK5PZ60jRr) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW), [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [Everything That Has Breath](https://open.spotify.com/album/6jVltEoxN3XZj5D7TxoMAn) | 4:26 | 2022-09-11 | 2023-03-11 |
 | [Everything U Do \- Live](https://open.spotify.com/track/71PXHikWVUqnoscOJrIV3K) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Everything U Do](https://open.spotify.com/album/2dBVbFQOWnYuNHTgVKluSX) | 4:49 | 2023-03-23 | 2023-04-15 |
 | [Faithful \- Live](https://open.spotify.com/track/6S69yfVD0wfbBzDUycCtYy) | [Milestone Worship](https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo) | [Faithful \(Live\)](https://open.spotify.com/album/4lCANqaSStGpxfu0H4bSyl) | 7:33 | 2022-02-19 | 2023-03-11 |
@@ -94,7 +95,7 @@
 | [Forever & Amen \(with Kari Jobe\) \- Live](https://open.spotify.com/track/7w9cEiNE0z2L3AhqUU4A0O) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Forever & Amen](https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB) | 9:50 | 2022-09-17 | 2024-01-13 |
 | [Free Indeed \(Wonder\) \- Live](https://open.spotify.com/track/7iTIDFY3e9xCWibY08qFUx) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2) | [Free Indeed \(Wonder\) \[Live\]](https://open.spotify.com/album/4wtrL9uem0EyVuuJAWTn1w) | 4:40 | 2022-09-11 | 2023-04-15 |
 | [Fresh Fire \- Live](https://open.spotify.com/track/6W9iuya71aSgxtn0g12SV0) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Pneuma \(Live\)](https://open.spotify.com/album/1NzYZy1wNXxnowDih1Qw9k) | 5:55 | 2024-01-12 |  |
-| [GLORY \- Live](https://open.spotify.com/track/33oZ6GmYJmDYcis4vJvwFE) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [GLORY \(Live\)](https://open.spotify.com/album/5GTXYrwdg699BF7rIPczkQ) | 6:23 | 2024-01-12 |  |
+| [GLORY \- Live](https://open.spotify.com/track/33oZ6GmYJmDYcis4vJvwFE) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [GLORY \(Live\)](https://open.spotify.com/album/5GTXYrwdg699BF7rIPczkQ) | 6:23 | 2024-01-12 | 2024-01-20 |
 | [Glory Fills This Room](https://open.spotify.com/track/7fr7c3qi690uH1nzMlCXms) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Glory Fills This Room](https://open.spotify.com/album/2OXY0lBShlKDQUBc1BdRFh) | 5:21 | 2022-02-19 | 2023-03-11 |
 | [Glory, Honor, Power \- Studio Version](https://open.spotify.com/track/2lw2B35ZgYPxW0SSo12867) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Glory, Honor, Power \(Studio Version\)](https://open.spotify.com/album/4P7KK4m7bAjZ1o7CUB3yi2) | 3:41 | 2022-02-19 | 2022-09-12 |
 | [God Is Love \- Live](https://open.spotify.com/track/1X6MCzayZJhr1EQps2JnaK) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1) | [God Is Love \(Live\)](https://open.spotify.com/album/13D2WiELpo5psoweUyadXT) | 5:48 | 2022-03-19 | 2022-09-12 |

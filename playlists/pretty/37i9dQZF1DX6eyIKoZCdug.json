@@ -1,13 +1,33 @@
 {
   "description": "From Joburg and Lagos... to Chicago. Get lost in the electro and bass vibes.",
-  "num_followers": 134688,
+  "num_followers": 134763,
   "original_name": "Afrotronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWIwMWE2Mzk2OTE2M2JhOTcxNmFkNTE1NWI0ODI4M2RjNWY1NWU3",
+  "snapshot_id": "MCxkMGZjNzQwY2EzMjRlYTc4NzU5ZTIxZWZiOWFhMGNmZjVhMzI3NDQy",
   "tracks": [
+    {
+      "added_at": "2024-01-19 04:52:40",
+      "album": {
+        "name": "Maloto",
+        "url": "https://open.spotify.com/album/30TCxNSRHOr9XFFlcRemA0"
+      },
+      "artists": [
+        {
+          "name": "Arcade Saiyans",
+          "url": "https://open.spotify.com/artist/3dQj2JqOjkdj6DC50whkn2"
+        },
+        {
+          "name": "Spirit-T",
+          "url": "https://open.spotify.com/artist/0C9oz46JXNuDzoWlrowOVc"
+        }
+      ],
+      "duration_ms": 297736,
+      "name": "Maloto - Radio Edit",
+      "url": "https://open.spotify.com/track/6lNjWcTRSzhFtFZDqtzUy9"
+    },
     {
       "added_at": "2024-01-12 04:33:06",
       "album": {

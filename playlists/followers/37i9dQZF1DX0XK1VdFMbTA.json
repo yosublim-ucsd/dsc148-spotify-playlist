@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 144672,
+  "2024-01-20": 144743,
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd",
   "name": "Deep Dive: 70s Rock",
@@ -13746,6 +13746,24 @@
     },
     {
       "album": {
+        "name": "the happiest days of our lives",
+        "url": "https://open.spotify.com/album/25YncNCXNXcLCIAWujZSqx"
+      },
+      "artists": [
+        {
+          "name": "lucesy",
+          "url": "https://open.spotify.com/artist/69vyzEtaUoT2gzzCwMJkf8"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110862,
+      "name": "the happiest days of our lives",
+      "url": "https://open.spotify.com/track/6Ln7z7hywWSonrvemm9hmW"
+    },
+    {
+      "album": {
         "name": "The Wall (Remastered)",
         "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g"
       },
@@ -13757,7 +13775,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 98266,
       "name": "The Happiest Days Of Our Lives - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/6ASehhdN08JbXzDJmMrogn"

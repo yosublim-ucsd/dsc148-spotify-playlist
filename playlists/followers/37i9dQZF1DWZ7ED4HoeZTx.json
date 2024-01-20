@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 116818,
+  "2024-01-20": 116910,
   "date_first_scraped": "2023-01-06",
   "description": "Your chill anime soundtrack. ",
   "name": "Slice of Life ",
@@ -383,6 +383,24 @@
       "duration_ms": 344434,
       "name": "Hann kemur \u00ed kv\u00f6ld",
       "url": "https://open.spotify.com/track/03rC7s5CTZXLfsKpJxl39H"
+    },
+    {
+      "album": {
+        "name": "hikari no toriru",
+        "url": "https://open.spotify.com/album/18zrUwavFbepselMuuGsb6"
+      },
+      "artists": [
+        {
+          "name": "\u5357\u689d\u611b\u4e43",
+          "url": "https://open.spotify.com/artist/1UVUtRS6I6rZji2w8o1CXd"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224056,
+      "name": "hikari no toriru",
+      "url": "https://open.spotify.com/track/17kTyDRlOY3gLl1qNCC9B4"
     },
     {
       "album": {
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 219533,
       "name": "\u539f\u4f5c\u8005",
       "url": "https://open.spotify.com/track/3irzccxO2G1XkIOzDOAWmL"
@@ -1379,6 +1397,24 @@
       "duration_ms": 339573,
       "name": "\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e",
       "url": "https://open.spotify.com/track/434YBNY61Y9sqBSp7OINBa"
+    },
+    {
+      "album": {
+        "name": "\u5730\u7403\u5100 - Spinning Globe",
+        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273437,
+      "name": "\u5730\u7403\u5100 - Spinning Globe",
+      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
     },
     {
       "album": {
@@ -1465,7 +1501,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 248510,
       "name": "\u604b\u5de1\u308a",
       "url": "https://open.spotify.com/track/7HupzxNg8PXQkjOJAsSaou"

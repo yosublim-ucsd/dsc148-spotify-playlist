@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-343 songs - 17 hr 9 min
+345 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Insights](https://open.spotify.com/track/1kwpL3EqUjKXhmEttZ78Md) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Insights](https://open.spotify.com/album/2BcSmACfCfIDnCnzpp1Cyq) | 3:26 | 2022-09-09 |  |
 | [intertwine](https://open.spotify.com/track/3tZtuh4sTH5yoaEPdyqSSk) | [stil de grain](https://open.spotify.com/artist/7MtqDjgMm4TTIYrsEVLeqZ) | [intertwine](https://open.spotify.com/album/6nh3Lq6ME4c869PrwutX2q) | 2:21 | 2022-10-07 |  |
 | [It's Alright](https://open.spotify.com/track/1L1vWlBmczGdw74eQOtrtD) | [Majik](https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9) | [It's Alright / Save Me](https://open.spotify.com/album/17p4MoyfCn8VcNiPktFNmJ) | 5:06 | 2019-10-04 | 2022-02-12 |
+| [I’dunno](https://open.spotify.com/track/1CmiuAI065tIRwXuCfVRAD) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [I’dunno](https://open.spotify.com/album/0zoi0vSek6fePt8iuYi6Vv) | 2:24 | 2024-01-19 |  |
 | [Just Lights](https://open.spotify.com/track/6kGU03FoALwcpGPGbsv0GY) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Just Lights](https://open.spotify.com/album/3jB7KhxH1CY0cAcVbCCmVV) | 3:07 | 2022-12-16 | 2023-07-15 |
 | [Kantan](https://open.spotify.com/track/3UuV3xQsLn8FdAzEa0foPr) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:17 | 2022-02-11 | 2022-10-14 |
 | [Kenaya](https://open.spotify.com/track/4hz8WgdHr8HmrYu8AKAF7c) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Kenaya](https://open.spotify.com/album/0CHML6ldbqxQ1icEclH3yb) | 2:38 | 2022-09-02 |  |
@@ -327,6 +328,7 @@
 | [Voices In My Head](https://open.spotify.com/track/5qcuzoVn3eqQiDPIcSqo6g) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [Voices In My Head](https://open.spotify.com/album/6j2sv5DzZKnZxOgIZgalrY) | 2:20 | 2021-10-12 | 2022-02-12 |
 | [Vows](https://open.spotify.com/track/3YM22gJuH8VgRP59PbNyV1) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Vows](https://open.spotify.com/album/2Uh8FuQj3xWmCOvYImInB3) | 2:17 | 2022-07-22 |  |
 | [Voyager](https://open.spotify.com/track/0msUZN9MVtQfT0Mjq02u4o) | [Mayden Blue](https://open.spotify.com/artist/75UHJrQHVWVIi1fM8TlRpf) | [Voyager](https://open.spotify.com/album/5AzdlqZP2nq2ugxzsuu26D) | 3:44 | 2021-07-20 | 2022-02-12 |
+| [Wake Up](https://open.spotify.com/track/01JTcstOM0Q4saQHZiDQLT) | [Mason Bon](https://open.spotify.com/artist/0m0jbn7XtZtpvNgE8f2jtL) | [Wake Up](https://open.spotify.com/album/0V7Da3DXIM3au7u79PYxvP) | 2:26 | 2024-01-19 |  |
 | [Wanderer \- Chill Mix](https://open.spotify.com/track/1QoZXDJVp516a9QCNvnmZL) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Wanderer](https://open.spotify.com/album/1dX5KiQVkYcayFZFFSbq82) | 2:21 | 2022-02-11 | 2022-07-15 |
 | [Weekend](https://open.spotify.com/track/4gO2vV1kosaVP06CYnkQN6) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x), [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Weekend](https://open.spotify.com/album/2vNXWpcWiD8BWpb3AOKY0A) | 1:52 | 2022-02-11 | 2022-07-08 |
 | [Where the sand is](https://open.spotify.com/track/3VffpZvEnQsxLZ1ZgNb4Rn) | [Nino The Dino](https://open.spotify.com/artist/6Zf359QwgLxZM7Q2Fjkwhi) | [Sunset Paradise](https://open.spotify.com/album/5JzMUwp6FKlJPfgrS2eE6T) | 3:03 | 2022-06-24 |  |

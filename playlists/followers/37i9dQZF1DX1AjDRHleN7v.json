@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 297122,
+  "2024-01-20": 297324,
   "date_first_scraped": "2023-07-10",
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
   "name": "Praiana",
@@ -455,7 +455,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 215172,
       "name": "Filho do Mar",
       "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 187884,
       "name": "O Amor Venceu",
       "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"

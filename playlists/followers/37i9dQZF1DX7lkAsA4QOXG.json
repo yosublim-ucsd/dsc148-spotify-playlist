@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 120182,
+  "2024-01-20": 120249,
   "date_first_scraped": "2022-09-17",
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
   "name": "Jazz Covers",
@@ -669,6 +669,28 @@
       "duration_ms": 401706,
       "name": "Comfortably Numb",
       "url": "https://open.spotify.com/track/0aQZxKrtx2JhXQfT4TD23E"
+    },
+    {
+      "album": {
+        "name": "Play Favorites",
+        "url": "https://open.spotify.com/album/4DHI03EwOkdyy4bXnGQnDj"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Johnson",
+          "url": "https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi"
+        },
+        {
+          "name": "Randy Ingram",
+          "url": "https://open.spotify.com/artist/1I1RsZSV9pEW8Zpz7feqpG"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263453,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/06gNa1Rs8ivtJ3V9vSVNWB"
     },
     {
       "album": {
@@ -1843,7 +1865,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 390613,
       "name": "It's Alright Ma (I'm Only Bleeding)",
       "url": "https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu"

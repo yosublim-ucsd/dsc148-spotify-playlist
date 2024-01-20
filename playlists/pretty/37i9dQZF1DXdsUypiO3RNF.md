@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,552 likes - 68 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,626 likes - 68 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 | 67 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 |
 | 68 | [639Hz \- Moment of Patience](https://open.spotify.com/track/7LmVCIl6f3VtCjUCyBeNsx) | [Velodrome](https://open.spotify.com/artist/4Xv4mNOYUc05QngjAvNUWB) | [639Hz \- Moment of Patience](https://open.spotify.com/album/5wbtPDTbUuV2MDb6K49tan) | 1:58 |
 
-Snapshot ID: `MCw4YWQ3MmExZTdhY2JlMjhjZmIyOTVlZDk2NzU5NTU5MTI1NTk4NGQ3`
+Snapshot ID: `MCwwODE5NDAxNDg5YWMwYmE5N2Q4OTQwZGMyNzI4NzI4NmY4Yjc3OTM5`

@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-477 songs - 1 day 10 hr 43 min
+478 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [Shiko](https://open.spotify.com/track/5qTaggBR1pyo4YJTltv1RT) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 4:02 | 2023-05-16 | 2023-07-12 |
 | [Shine](https://open.spotify.com/track/7hzfrKYkRfPUIiagwhBtZS) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:42 | 2022-08-30 | 2023-01-12 |
 | [Shining stars bless☆](https://open.spotify.com/track/0fIMkhGURGjJDrUExfeeu2) | [Kaori Utatsuki](https://open.spotify.com/artist/05rQduN9R080VjzIiUOX2b) | [Shining stars bless☆](https://open.spotify.com/album/6W4HmkRFSJWO3GNBQ9PWqs) | 4:35 | 2023-05-30 | 2024-01-19 |
-| [Shining stars bless☆](https://open.spotify.com/track/2Un0itRDZ586UcPSXr7Fy2) | [Kaori Utatsuki](https://open.spotify.com/artist/05rQduN9R080VjzIiUOX2b) | [Shining stars bless](https://open.spotify.com/album/7aRgfGyWFLmZapGsrrIUoZ) | 4:35 | 2024-01-16 |  |
+| [Shining stars bless☆](https://open.spotify.com/track/2Un0itRDZ586UcPSXr7Fy2) | [Kaori Utatsuki](https://open.spotify.com/artist/05rQduN9R080VjzIiUOX2b) | [Shining stars bless](https://open.spotify.com/album/7aRgfGyWFLmZapGsrrIUoZ) | 4:35 | 2024-01-16 | 2024-01-20 |
+| [Shining stars bless☆](https://open.spotify.com/track/3JKTLtXTKKnzlRIVvE2NpH) | [Kaori Utatsuki](https://open.spotify.com/artist/05rQduN9R080VjzIiUOX2b) | [Spyglass](https://open.spotify.com/album/4Qphvj4qnH0OQYifaJNFEl) | 4:36 | 2024-01-16 |  |
 | [Shinzo wo Sasageyo!](https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:41 | 2023-09-20 |  |
 | [Shocking Blue](https://open.spotify.com/track/145OU4a7G4LDxXHdFgYihs) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [水彩 〜aquaveil〜](https://open.spotify.com/album/3mZyjIzuaf2jygCr1CXzKc) | 3:57 | 2023-01-28 | 2023-07-12 |
 | [SHOOT!](https://open.spotify.com/track/6elO5EQOutntcr1jvo9fAf) | [RO\-KYU\-BU!](https://open.spotify.com/artist/4wYkcNvXaicy52BVx4zWXS) | [SHOOT!](https://open.spotify.com/album/49DiKQqQHNqVtc9nAXd0ws) | 4:46 | 2022-10-27 | 2023-01-28 |

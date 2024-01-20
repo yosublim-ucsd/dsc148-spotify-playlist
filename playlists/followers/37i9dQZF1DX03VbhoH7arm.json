@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 1516093,
+  "2024-01-20": 1517140,
   "date_first_scraped": "2022-05-27",
-  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: Pabllo Vittar",
+  "description": "E a\u00ed, e pra voc\u00ea? Qual \u00e9 o hit mais QUENTE do ver\u00e3o? Foto: Pabllo Vittar",
   "name": "Hot Hits Brasil",
   "tracks": [
     {
@@ -496,6 +496,28 @@
     },
     {
       "album": {
+        "name": "Assanhadinha",
+        "url": "https://open.spotify.com/album/4OCxpsJAeY4CjEovKLJXms"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "MC Durrony",
+          "url": "https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Assanhadinha",
+      "url": "https://open.spotify.com/track/3akR6DnboLGowHS3Zzk5IR"
+    },
+    {
+      "album": {
         "name": "Avisa L\u00e1 (feat. Rebecca)",
         "url": "https://open.spotify.com/album/1PjqEdDTxIKyujzgdLG4K8"
       },
@@ -895,6 +917,24 @@
       "duration_ms": 131927,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
+    },
+    {
+      "album": {
+        "name": "Mart\u00b4n\u00e1lia Em Samba! (Ao Vivo) - Extra",
+        "url": "https://open.spotify.com/album/6oKC8x4MmGlmsc9VeFWwjP"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Boto Meu Povo Na Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/27V26rKVYxMA095hZmjajc"
     },
     {
       "album": {
@@ -2572,6 +2612,24 @@
     },
     {
       "album": {
+        "name": "J CHRIST",
+        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153766,
+      "name": "J CHRIST",
+      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
+    },
+    {
+      "album": {
         "name": "Joga Pra Lua",
         "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
       },
@@ -2613,7 +2671,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 152888,
       "name": "JOIA RARA",
       "url": "https://open.spotify.com/track/6L8aBaqfwMuwhpI9uhbyjp"
@@ -3073,7 +3131,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 118153,
       "name": "MARIA MARIAH",
       "url": "https://open.spotify.com/track/4rvhvKePtR2c08LvALVLXV"
@@ -4991,6 +5049,28 @@
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "album": {
+        "name": "T\u00e1 Gostosin",
+        "url": "https://open.spotify.com/album/0YpQAvvm6nJ6fq0sNJltxy"
+      },
+      "artists": [
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        },
+        {
+          "name": "\u00c9 O Tchan",
+          "url": "https://open.spotify.com/artist/78oxdhJ0pr4Dkyk0paWUAf"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147868,
+      "name": "T\u00e1 Gostosin",
+      "url": "https://open.spotify.com/track/0NRBzSfzuF9jtJiXKpVZPo"
     },
     {
       "album": {

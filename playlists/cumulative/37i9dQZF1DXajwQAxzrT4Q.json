@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 212400,
       "name": "In The Night (feat. Bandmanrill)",
       "url": "https://open.spotify.com/track/7rOyc2gkZkWgT2g4LIbqTD"
@@ -3809,6 +3809,24 @@
     },
     {
       "album": {
+        "name": "MOVE YO BODY",
+        "url": "https://open.spotify.com/album/7LCVBllSs6ZG5ytN1Y4hep"
+      },
+      "artists": [
+        {
+          "name": "Bryansanon",
+          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128182,
+      "name": "MOVE YO BODY",
+      "url": "https://open.spotify.com/track/2R0EsT9xG37tlQLDDztqJN"
+    },
+    {
+      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/6or8AVqz4RP8ChQJjwazvy"
       },
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 127503,
       "name": "My Back (Jersey Club)",
       "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
@@ -4552,6 +4570,28 @@
       "duration_ms": 221570,
       "name": "Pretty Ones",
       "url": "https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr"
+    },
+    {
+      "album": {
+        "name": "Price Going Up",
+        "url": "https://open.spotify.com/album/0zgiDICJXDygNbxUAhn9mb"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "Price Going Up",
+      "url": "https://open.spotify.com/track/2T3VMqOKUjnK31A3roI3oe"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 73565,
+  "num_followers": 73594,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDVkN2QyMjZkMGVlNWFmNWMyZTliMzNiMTc1NjNjOWYwMzg0Yjdk",
+  "snapshot_id": "MCw1NDg4MDZlNTE1M2U0ZmYwMzM1ZjYwODNkMzZmMTVkNjZjMjBmOTg3",
   "tracks": [
     {
       "added_at": "2024-01-03 12:46:04",
@@ -523,22 +523,22 @@
     {
       "added_at": "2024-01-03 12:46:04",
       "album": {
-        "name": "It's Your Time",
-        "url": "https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh"
       },
       "artists": [
         {
-          "name": "Bklava",
-          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         },
         {
-          "name": "Jamie Boy Bassline",
-          "url": "https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj"
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
         }
       ],
-      "duration_ms": 186659,
-      "name": "It's Your Time",
-      "url": "https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa"
+      "duration_ms": 259074,
+      "name": "Bloom (ft. Ell Murphy)",
+      "url": "https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7"
     },
     {
       "added_at": "2024-01-03 12:46:04",
@@ -563,6 +563,26 @@
     {
       "added_at": "2024-01-03 12:46:04",
       "album": {
+        "name": "It's Your Time",
+        "url": "https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt"
+      },
+      "artists": [
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        },
+        {
+          "name": "Jamie Boy Bassline",
+          "url": "https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj"
+        }
+      ],
+      "duration_ms": 186659,
+      "name": "It's Your Time",
+      "url": "https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa"
+    },
+    {
+      "added_at": "2024-01-03 12:46:04",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/6ZJLgBGDiuxT9t4CCS76ML"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 191842,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb"
-    },
-    {
-      "added_at": "2024-01-03 12:46:04",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh"
-      },
-      "artists": [
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        },
-        {
-          "name": "Ell Murphy",
-          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
-        }
-      ],
-      "duration_ms": 259074,
-      "name": "Bloom (ft. Ell Murphy)",
-      "url": "https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7"
     },
     {
       "added_at": "2024-01-03 12:46:04",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-01-03 12:46:04",
       "album": {
-        "name": "Lost City Archives, Vol. 7",
-        "url": "https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp"
-      },
-      "artists": [
-        {
-          "name": "Deadly Habitz",
-          "url": "https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Henney & Coke",
-      "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
-    },
-    {
-      "added_at": "2024-01-03 12:46:04",
-      "album": {
         "name": "the come up",
         "url": "https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 264953,
       "name": "Hood Mentality",
       "url": "https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz"
+    },
+    {
+      "added_at": "2024-01-03 12:46:04",
+      "album": {
+        "name": "Lost City Archives, Vol. 7",
+        "url": "https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp"
+      },
+      "artists": [
+        {
+          "name": "Deadly Habitz",
+          "url": "https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Henney & Coke",
+      "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
     },
     {
       "added_at": "2024-01-03 12:46:04",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-03 12:46:04",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3"
-      },
-      "artists": [
-        {
-          "name": "Love Remain",
-          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
-        }
-      ],
-      "duration_ms": 300444,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH"
-    },
-    {
-      "added_at": "2024-01-03 12:46:04",
-      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/61AStQYO30jVau93JxRtXP"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2024-01-03 12:46:04",
       "album": {
-        "name": "Num\u00e9ro LDN",
-        "url": "https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f"
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3"
       },
       "artists": [
         {
-          "name": "Sensu",
-          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+          "name": "Love Remain",
+          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
         }
       ],
-      "duration_ms": 142763,
-      "name": "Hypnotize Me Baby",
-      "url": "https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3"
+      "duration_ms": 300444,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH"
     },
     {
       "added_at": "2024-01-03 12:46:04",
@@ -1059,6 +1043,22 @@
       "duration_ms": 170666,
       "name": "Flex",
       "url": "https://open.spotify.com/track/3OaGNvp9q7DkUKbJfMRxIk"
+    },
+    {
+      "added_at": "2024-01-03 12:46:04",
+      "album": {
+        "name": "Num\u00e9ro LDN",
+        "url": "https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        }
+      ],
+      "duration_ms": 142763,
+      "name": "Hypnotize Me Baby",
+      "url": "https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3"
     },
     {
       "added_at": "2024-01-03 12:46:04",

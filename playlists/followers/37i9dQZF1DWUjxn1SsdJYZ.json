@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 139241,
+  "2024-01-20": 139242,
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: KILY SAFARI",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: 808Riot",
   "name": "Local Hype",
   "tracks": [
     {
@@ -3002,6 +3002,24 @@
     },
     {
       "album": {
+        "name": "Doozie",
+        "url": "https://open.spotify.com/album/4NW1UaUUC6uXE6aogvMKMV"
+      },
+      "artists": [
+        {
+          "name": "Baby Lane",
+          "url": "https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174246,
+      "name": "Doozie",
+      "url": "https://open.spotify.com/track/4wLzagqgOg809dHmAS25w2"
+    },
+    {
+      "album": {
         "name": "DOUBT IT! (demo)",
         "url": "https://open.spotify.com/album/55fCMmiIYsvIUi7nKyzWdZ"
       },
@@ -4379,7 +4397,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 95000,
       "name": "GHOST",
       "url": "https://open.spotify.com/track/0RWdTYTC4Vr0HYUs6Uz2TE"
@@ -5267,7 +5285,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 156499,
       "name": "HoodBars Elijah",
       "url": "https://open.spotify.com/track/58z8o9BPpHD3i4VneLeSvc"
@@ -7564,6 +7582,24 @@
     },
     {
       "album": {
+        "name": "Music Is Everything",
+        "url": "https://open.spotify.com/album/39DnVGawDpkxGbJFaSzyLU"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252006,
+      "name": "Music Is Everything",
+      "url": "https://open.spotify.com/track/2G80wiirsJkhEi9ScbIYZA"
+    },
+    {
+      "album": {
         "name": "MY CITY",
         "url": "https://open.spotify.com/album/6LPf2adSPT7Ne8FlpCPOrC"
       },
@@ -7711,6 +7747,28 @@
       "duration_ms": 145074,
       "name": "Next Up Australia - S1-E1",
       "url": "https://open.spotify.com/track/5JpGv87nAb2bD8mw7GIUKl"
+    },
+    {
+      "album": {
+        "name": "Next Up Australia - S1-E2",
+        "url": "https://open.spotify.com/album/2xgBnvisGbRKAQAxrvv5dj"
+      },
+      "artists": [
+        {
+          "name": "B Wise",
+          "url": "https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187659,
+      "name": "Next Up Australia - S1-E2",
+      "url": "https://open.spotify.com/track/4dVxi4ml3JpaIV7AC0uVzK"
     },
     {
       "album": {
@@ -7883,6 +7941,28 @@
       "duration_ms": 184316,
       "name": "No Gang",
       "url": "https://open.spotify.com/track/0ZXsjdga92OfHtqQHdOcNX"
+    },
+    {
+      "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/5Mrxmb4rgY5yFs6wQy9UCB"
+      },
+      "artists": [
+        {
+          "name": "808Riot",
+          "url": "https://open.spotify.com/artist/3gnDrRehqMUXOrKU6mBUOe"
+        },
+        {
+          "name": "JAKOBI",
+          "url": "https://open.spotify.com/artist/3IeagIAbCK3T2TRQUO0Wwt"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/02zVMezpAua7ZMmbzSyejO"
     },
     {
       "album": {
@@ -9163,7 +9243,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 75062,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/1JAXID85pIHbvaFBQgjuLK"
@@ -11997,6 +12077,24 @@
       "duration_ms": 125070,
       "name": "UH UH",
       "url": "https://open.spotify.com/track/6CoSZHbo5BMNY7NKtBvHYX"
+    },
+    {
+      "album": {
+        "name": "Un Besito",
+        "url": "https://open.spotify.com/album/3hGkWw9sXHLijpoLFG5G5E"
+      },
+      "artists": [
+        {
+          "name": "Jalmar",
+          "url": "https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Un Besito",
+      "url": "https://open.spotify.com/track/3YpmW8NtS7jZvOc4eJR914"
     },
     {
       "album": {

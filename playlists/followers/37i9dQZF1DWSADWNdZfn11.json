@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 125191,
+  "2024-01-20": 125291,
   "date_first_scraped": "2022-08-09",
   "description": "Relax and unwind with gentle piano covers.",
   "name": "Relaxing Piano Covers ",
@@ -4032,6 +4032,24 @@
     },
     {
       "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/2zHVJqtr8i8Tp6qaknqZYR"
+      },
+      "artists": [
+        {
+          "name": "April Ball",
+          "url": "https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210624,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/4uJbyfXdhYv0rFlCD8A7OP"
+    },
+    {
+      "album": {
         "name": "My Romance",
         "url": "https://open.spotify.com/album/1Q8e34UABF8CKhX8sZSIe7"
       },
@@ -5577,7 +5595,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 196478,
       "name": "The First Cut Is The Deepest",
       "url": "https://open.spotify.com/track/2AOwriifqUUyINxFwNqItE"
@@ -5995,7 +6013,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 187500,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/5YCab8agd3ARAF7Y3Z4wbx"

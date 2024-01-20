@@ -2669,6 +2669,28 @@
     },
     {
       "album": {
+        "name": "King Gnawa",
+        "url": "https://open.spotify.com/album/1ojVnTZVPOoXcHZloPCHGl"
+      },
+      "artists": [
+        {
+          "name": "SEYSEY",
+          "url": "https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU"
+        },
+        {
+          "name": "tariq hmitti",
+          "url": "https://open.spotify.com/artist/24TJV7vvRfbJhCeuDFTSEj"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "King Gnawa",
+      "url": "https://open.spotify.com/track/143XW6GuhjhSbIiX58zf5X"
+    },
+    {
+      "album": {
         "name": "Kinshuka",
         "url": "https://open.spotify.com/album/6kGGObRVrrdM5zxs8jNvhg"
       },

@@ -1,15 +1,191 @@
 {
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Dan Sanchez, Tornillo y Natanael Cano en la casa. ",
-  "num_followers": 723834,
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Underside 821 en la casa. ",
+  "num_followers": 724048,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2ZmNGRlYmQ5ODBlYzFlNGQzZmVjMTUyY2ViMWY3YjM2YmU3NDlj",
+  "snapshot_id": "MCw5MjZiOTQwOTVlZWFkYThjYzkxNjk2ZTBkM2FmNTlhZTQ4M2JiNjMw",
   "tracks": [
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "La Gangsta",
+        "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "duration_ms": 312703,
+      "name": "La Gangsta",
+      "url": "https://open.spotify.com/track/60ptar7MA911kEF6s5AEha"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Trinidad",
+        "url": "https://open.spotify.com/album/1Cci7b8OkTzn8zSYsRq9Gh"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        },
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        },
+        {
+          "name": "T-Killa",
+          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 199367,
+      "name": "Karate",
+      "url": "https://open.spotify.com/track/1cQj9WvpcZQszPoDswGmmH"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "La Misma Bandera",
+        "url": "https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 221096,
+      "name": "La Misma Bandera",
+      "url": "https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Los Que Habitan Los Maizales Cap\u00edtulo 3",
+        "url": "https://open.spotify.com/album/5lW7GR51Ccx5eldclVIfNr"
+      },
+      "artists": [
+        {
+          "name": "Bizor",
+          "url": "https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Doble P Ache Ene",
+          "url": "https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Metrik Vader",
+          "url": "https://open.spotify.com/artist/47zSpyjndukb8rBLQSSU3T"
+        },
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        }
+      ],
+      "duration_ms": 334499,
+      "name": "Los Que Habitan Los Maizales Cap\u00edtulo 3",
+      "url": "https://open.spotify.com/track/2yDtx0UZPvu5Unm9JPvTUr"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Mi Mejor Amigo",
+        "url": "https://open.spotify.com/album/67v2Mg4jrDJMvYRgPIe2EI"
+      },
+      "artists": [
+        {
+          "name": "Alexis Chaires",
+          "url": "https://open.spotify.com/artist/7j8jaHM5LlrFnDxJTbG2wr"
+        },
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Mi Mejor Amigo",
+      "url": "https://open.spotify.com/track/0I57eiZ5WzZKrGYuSfjDOr"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/7ozyczf9FNC3aPSV1A6kDW"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 161929,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/41bLlBHtmIwjuAUaBP3Uho"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Disfrutando El Proceso",
+        "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Una Ruedita",
+      "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Mi Raza",
+        "url": "https://open.spotify.com/album/2sNIhivx1vmYiDk5tvlpxN"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Mi Raza",
+      "url": "https://open.spotify.com/track/7HnMj5DQBkrrJyl7kUq5ZB"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Afuera Que Tengan Miedo (Jayrick Remix)",
         "url": "https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp"
@@ -29,7 +205,7 @@
       "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/6978eIZDaVu8Q9OqPLws54"
@@ -53,43 +229,7 @@
       "url": "https://open.spotify.com/track/1atMva6VKNfdTC353iWU5B"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "La Misma Bandera",
-        "url": "https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 221096,
-      "name": "La Misma Bandera",
-      "url": "https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "Mi Mejor Amigo",
-        "url": "https://open.spotify.com/album/67v2Mg4jrDJMvYRgPIe2EI"
-      },
-      "artists": [
-        {
-          "name": "Alexis Chaires",
-          "url": "https://open.spotify.com/artist/7j8jaHM5LlrFnDxJTbG2wr"
-        },
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Mi Mejor Amigo",
-      "url": "https://open.spotify.com/track/0I57eiZ5WzZKrGYuSfjDOr"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "El Morrillo",
         "url": "https://open.spotify.com/album/6KRYRynSZ3tdOHfzNtw1jd"
@@ -109,27 +249,7 @@
       "url": "https://open.spotify.com/track/11ca4YK18NT1OZZKkjgvzV"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "La Gangsta",
-        "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        },
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        }
-      ],
-      "duration_ms": 312703,
-      "name": "La Gangsta",
-      "url": "https://open.spotify.com/track/60ptar7MA911kEF6s5AEha"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Suelo Iraki",
         "url": "https://open.spotify.com/album/0jUoys4m9uTNk5JhvBSb3X"
@@ -149,7 +269,7 @@
       "url": "https://open.spotify.com/track/2e74DdYGIZLIJbrSLJRucr"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Poco a Poco (feat. Lunatic, Z-Xperimento & Beliko)",
         "url": "https://open.spotify.com/album/315fLlUbg2VsiiJjhfsNfH"
@@ -185,31 +305,7 @@
       "url": "https://open.spotify.com/track/4fuAlhVNKYCxDnU0MzXoFD"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "Disfrutando El Proceso",
-        "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Una Ruedita",
-      "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Easy To Hate",
         "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
@@ -225,7 +321,7 @@
       "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Igual Que Ayer",
         "url": "https://open.spotify.com/album/5b2rRtGErcIWSnKt9pd9Tq"
@@ -245,7 +341,7 @@
       "url": "https://open.spotify.com/track/6SokBtt443HT7pwaqbT0cC"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Sin Dormir (Ya Se Arm\u00f3)",
         "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
@@ -265,7 +361,7 @@
       "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Disfruto",
         "url": "https://open.spotify.com/album/4CrIimkTdCD9k3L59Agajs"
@@ -281,7 +377,7 @@
       "url": "https://open.spotify.com/track/0FZ4Ip0RHj6PQm8Y3r74JN"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Un Round M\u00e1s",
         "url": "https://open.spotify.com/album/2wwvq1xGzvYtu35TxwbD3S"
@@ -301,7 +397,7 @@
       "url": "https://open.spotify.com/track/2fNHb6nRpKLQOSdD6Z3uJB"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Ant\u00e1rtida",
         "url": "https://open.spotify.com/album/0u1CKOIZl4oBP4OLsPPmNh"
@@ -329,7 +425,7 @@
       "url": "https://open.spotify.com/track/7wZWGPUdKPBiXwQgRVmdMO"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Plomo en el Aire",
         "url": "https://open.spotify.com/album/45LpcCIYNG7CptIGvLcMhX"
@@ -353,7 +449,7 @@
       "url": "https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Retumbando en la Ciudad",
         "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
@@ -373,27 +469,7 @@
       "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "Rap y Calle No. 15",
-        "url": "https://open.spotify.com/album/2vCrdTZlz1ilVKY1UrqCUg"
-      },
-      "artists": [
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        },
-        {
-          "name": "Tankeone",
-          "url": "https://open.spotify.com/artist/6CJ0EnASyencrooPZNBpaB"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Rap y Calle No. 15",
-      "url": "https://open.spotify.com/track/1XCxkTqxdQu83IDH491H24"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Bendecidos",
         "url": "https://open.spotify.com/album/4UoVuTXXewpiz2fJWiosZH"
@@ -453,7 +529,7 @@
       "url": "https://open.spotify.com/track/2QEkingmea3KHdvw0dy9K3"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Asi Morire",
         "url": "https://open.spotify.com/album/4TsNFuyGgPVYpblIDVd5l1"
@@ -473,7 +549,7 @@
       "url": "https://open.spotify.com/track/2V1vUMTqMsJx5r4sybGfcN"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Por Mi M\u00e9xico (Remix)",
         "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
@@ -509,23 +585,7 @@
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "Detr\u00e1s De C\u00e1maras",
-        "url": "https://open.spotify.com/album/7zBMH6a1YSvK83JNTYPLhi"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Detr\u00e1s De C\u00e1maras",
-      "url": "https://open.spotify.com/track/0czchxjdPJBzRv6BBQajqH"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "El Bols\u00f3n",
         "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
@@ -545,7 +605,7 @@
       "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Liga Malandra 3",
         "url": "https://open.spotify.com/album/6dcUWslTmKR3ymSgSQ1nzy"
@@ -581,31 +641,7 @@
       "url": "https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "Japan Trip",
-        "url": "https://open.spotify.com/album/4jNcsKzxjFtjFqTPCKXGcH"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "AKLO",
-          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
-        },
-        {
-          "name": "MIYACHI",
-          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
-        }
-      ],
-      "duration_ms": 237439,
-      "name": "Vida Callejera",
-      "url": "https://open.spotify.com/track/2E3dGYCkGR30v8UjJANf04"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Mexikan",
         "url": "https://open.spotify.com/album/3EsWyuDkCTFPVxQAOih8JY"
@@ -625,27 +661,7 @@
       "url": "https://open.spotify.com/track/2CQQm6eZY2ZeLQPDZvvBmm"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
-      "album": {
-        "name": "La teor\u00eda de la evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/30zKUDTiOMivJHuDs14vzP"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        }
-      ],
-      "duration_ms": 230084,
-      "name": "Ruedo",
-      "url": "https://open.spotify.com/track/7Gq1dZ8eDuSX4uHCfZDkLP"
-    },
-    {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "A Toda Hora",
         "url": "https://open.spotify.com/album/0AEyObamxFk4bG6PnkKQrX"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/7AApA6u8jKnrQwhOtZ8EvF"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "El Rey del Fango",
         "url": "https://open.spotify.com/album/4C5vM3WmU89BUm3RggFYWn"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/26tOATEcWkKnW1SI6fTMrO"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Una Leyenda Nunca Muere",
         "url": "https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "LA PARRANDHA",
         "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Chalineras",
         "url": "https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "All\u00e1 en las Nubes",
         "url": "https://open.spotify.com/album/3IQVpOBA63ZGSAQpyJbwB2"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/6QX8t27PrLrWioxKXMh78L"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "KUMBIA MAKABRA",
         "url": "https://open.spotify.com/album/1oXkI5mJE3WtNJRnYDR2nt"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/72BlB9Lok4jD7t1NCdPfAr"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Traigo El Mando",
         "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Cuentas Claras\u2026",
         "url": "https://open.spotify.com/album/530ppwheQIoDV0lOtjJydA"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/3TP0WQJEPwcp8oHLOh1Di8"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Feria en el Sobre",
         "url": "https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc"
@@ -901,7 +917,7 @@
       "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/2u4KwCMykbRMaqSb3nM7Wq"
@@ -917,7 +933,7 @@
       "url": "https://open.spotify.com/track/5sbj4M33WaHilEaJAhRPp8"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "El Comando Exclusivo, Vol. 3",
         "url": "https://open.spotify.com/album/5b5ECgbyeOuSuKasCUrrzX"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/5EcJZDxH25XrxhGC6JloZ3"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Alzypher Vol. 13",
         "url": "https://open.spotify.com/album/3ECiGqnRoKcmatFalPTO82"
@@ -965,7 +981,7 @@
       "url": "https://open.spotify.com/track/6hF5GHmra3eBun6EwbCVFM"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Prohibida",
         "url": "https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD"
@@ -985,7 +1001,7 @@
       "url": "https://open.spotify.com/track/1ax1dPQHLGFZfIu1JdWdsm"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Afuera Que Tengan Miedo",
         "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
@@ -1001,7 +1017,7 @@
       "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Delivery",
         "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
@@ -1021,7 +1037,7 @@
       "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Ahog\u00e1ndome en Alcohol",
         "url": "https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS"
@@ -1041,7 +1057,7 @@
       "url": "https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
         "url": "https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY"
@@ -1069,7 +1085,7 @@
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
@@ -1089,7 +1105,7 @@
       "url": "https://open.spotify.com/track/2drn04PdLw7Ivym9GQBsZX"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Par de Dosis",
         "url": "https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2"
@@ -1109,7 +1125,7 @@
       "url": "https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN"
     },
     {
-      "added_at": "2024-01-12 06:00:00",
+      "added_at": "2024-01-19 06:00:00",
       "album": {
         "name": "Shorty Party",
         "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"

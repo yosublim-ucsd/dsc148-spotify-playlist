@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 391543,
+  "2024-01-20": 391575,
   "date_first_scraped": "2022-04-19",
   "description": "Uplifting classical melodies to help you rise and shine.",
   "name": "Morning Classical",
@@ -1228,6 +1228,10 @@
         "url": "https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G"
       },
       "artists": [
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        },
         {
           "name": "Alexander Borodin",
           "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"

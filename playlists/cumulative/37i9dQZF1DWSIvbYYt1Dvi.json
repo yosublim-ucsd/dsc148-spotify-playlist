@@ -2677,6 +2677,32 @@
     },
     {
       "album": {
+        "name": "Hannibal",
+        "url": "https://open.spotify.com/album/76OIyrsvPCUMfYUn7nwYJn"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        },
+        {
+          "name": "Choji",
+          "url": "https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137837,
+      "name": "Hannibal",
+      "url": "https://open.spotify.com/track/7uklXzt9Rea9jF2WrlvLCB"
+    },
+    {
+      "album": {
         "name": "HERM\u00c8S",
         "url": "https://open.spotify.com/album/1T8ofDIXhsAiB6jN9cxtcG"
       },
@@ -3980,7 +4006,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 294400,
       "name": "N\u00famero Desconhecido feat Cesar",
       "url": "https://open.spotify.com/track/2PrJEyJvfWxihR1RHVC9ou"

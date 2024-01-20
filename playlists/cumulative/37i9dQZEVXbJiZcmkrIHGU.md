@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,298 songs - 4 day 16 hr 38 min
+2,299 songs - 4 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [2CB](https://open.spotify.com/track/2r9gIpt17PhZv0y2nCpFHC) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Zukunft](https://open.spotify.com/album/5ZC4ojBjk7xtoB2GXGbJuH) | 2:52 | 2021-09-12 | 2021-11-21 |
 | [2sad2disco](https://open.spotify.com/track/3HJKVymmisbtzi3s0hFCG4) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Kapitel I 2sad2disco \(2sad2disco\)](https://open.spotify.com/album/5QgUK4vAMv4GD4i9ZbKbsO) | 3:22 | 2021-09-05 | 2021-10-01 |
 | [3](https://open.spotify.com/track/4LUTIob7qIokz4tKMr54Sr) | [Fard](https://open.spotify.com/artist/7iZ5x5fwRwROoX3iRWpVgN), [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [Asche](https://open.spotify.com/artist/4422XPmmt7lJGKjYbYSI6B) | [3](https://open.spotify.com/album/4xHYutiTTkEedn2PgDVwlx) | 3:27 | 2022-03-26 | 2022-03-28 |
-| [3 Haselnüsse](https://open.spotify.com/track/38XziJOR1OFb4fJ44IUrX1) | [Jaques Raupé](https://open.spotify.com/artist/7BPiWKbeuWueq4qGMz3A0T), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [3 Haselnüsse](https://open.spotify.com/album/5UXeyjZUXUcpgRvb4E4a41) | 2:28 | 2023-12-08 |  |
+| [3 Haselnüsse](https://open.spotify.com/track/38XziJOR1OFb4fJ44IUrX1) | [Jaques Raupé](https://open.spotify.com/artist/7BPiWKbeuWueq4qGMz3A0T), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [3 Haselnüsse](https://open.spotify.com/album/5UXeyjZUXUcpgRvb4E4a41) | 2:28 | 2023-12-08 | 2024-01-20 |
 | [3 Kugeln](https://open.spotify.com/track/29T8ovUwIkWYqSu46n4SPJ) | [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [3 Kugeln](https://open.spotify.com/album/4oVuEd16IlTWuyn4Q936LU) | 2:56 | 2023-06-03 | 2023-06-08 |
 | [3 Monde](https://open.spotify.com/track/21DO45JIwZIAsgxDtst1zC) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [PAUL](https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D) | 2:20 | 2022-12-10 | 2022-12-17 |
 | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS) | 2:46 | 2023-04-08 | 2023-04-30 |
@@ -1984,6 +1984,7 @@
 | [THANK GOD](https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:04 | 2023-07-29 | 2023-08-06 |
 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 | 2023-11-26 | 2023-12-30 |
 | [Thank God It's Christmas \- Non\-Album Single](https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9) | 4:21 | 2021-11-28 | 2022-12-29 |
+| [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 | 2024-01-19 |  |
 | [THANOS](https://open.spotify.com/track/5zCZR9tMvOKTvMIQAPBqZs) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [THANOS](https://open.spotify.com/album/6NCLyWHzBMZyYhu5NS2Cov) | 3:41 | 2021-05-23 | 2021-05-24 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-04-30 |
 | [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 | 2023-05-26 | 2023-05-28 |

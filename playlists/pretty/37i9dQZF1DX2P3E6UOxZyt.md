@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: 甄濟如 \(Jasmine Yen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,302 likes - 72 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,307 likes - 72 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [Listen to Me](https://open.spotify.com/track/4ctBtGioje65qUZbWPd4EK) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Listen to Me](https://open.spotify.com/album/1t3hYYECO3j2I69DNzC7WM) | 3:46 |
 | 72 | [like that x4](https://open.spotify.com/track/41iVxKOcl1e4hZtheCca2R) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [like that x4](https://open.spotify.com/album/4UWdCcyQ9m7p7kaKFMIq2Q) | 2:06 |
 
-Snapshot ID: `MCxmZmEwYzFhZGI5NjE5Y2ZmM2RhYTQ4YWU4Mjk3OWI0NzFkMGQwMThh`
+Snapshot ID: `MCxlM2JmODk5ZTk3ZmMwNzczOGRhZTdmMTg4ZmU5Njg3NTI2MjgxMDYz`

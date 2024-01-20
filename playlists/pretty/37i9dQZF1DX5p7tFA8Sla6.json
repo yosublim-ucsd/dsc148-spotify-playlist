@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 54852,
+  "num_followers": 54869,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDlkOWFlNjY5OWZhMDQzNDY0ODMwMTIwMzFlMGNhYzNmNGI5MjJj",
+  "snapshot_id": "MCxhMWNiODdiMTQ5NjJiMThhNGZmYjMzNzY5YmUxNzJiMjRkYzM3MzJl",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -323,22 +323,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Tower Of Power",
-        "url": "https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 304733,
-      "name": "What Is Hip?",
-      "url": "https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Rejuvenation",
         "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+        "name": "Tower Of Power",
+        "url": "https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
         }
       ],
-      "duration_ms": 316333,
-      "name": "Get Up (I Feel Like Being A) Sex Machine",
-      "url": "https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9"
+      "duration_ms": 304733,
+      "name": "What Is Hip?",
+      "url": "https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -383,6 +367,22 @@
       "duration_ms": 329466,
       "name": "Freddie's Dead",
       "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 316333,
+      "name": "Get Up (I Feel Like Being A) Sex Machine",
+      "url": "https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -451,22 +451,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Get On The Good Foot",
-        "url": "https://open.spotify.com/album/49ibE9W9vxZBPBV7wtZKFi"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Cold Sweat",
-      "url": "https://open.spotify.com/track/3GWM2gYAWWBrrh1h9F8DEc"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Musicology",
         "url": "https://open.spotify.com/album/1jy9Nciz47PNHiUB7FxAjK"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 264253,
       "name": "Musicology",
       "url": "https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Get On The Good Foot",
+        "url": "https://open.spotify.com/album/49ibE9W9vxZBPBV7wtZKFi"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Cold Sweat",
+      "url": "https://open.spotify.com/track/3GWM2gYAWWBrrh1h9F8DEc"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Confident (feat. The MB's)",
-        "url": "https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn"
+        "name": "Death or Devotion",
+        "url": "https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj"
       },
       "artists": [
         {
-          "name": "Cliff Beach",
-          "url": "https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z"
-        },
-        {
-          "name": "The MB's",
-          "url": "https://open.spotify.com/artist/4adlPXwO2sPi7h6Rgz3krz"
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
         }
       ],
-      "duration_ms": 199893,
-      "name": "Confident (feat. The MB's)",
-      "url": "https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6"
+      "duration_ms": 365200,
+      "name": "Highly Compatible",
+      "url": "https://open.spotify.com/track/2ODU2nsPtVrNIEmBGqhLaH"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1115,18 +1111,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Death or Devotion",
-        "url": "https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj"
+        "name": "Confident (feat. The MB's)",
+        "url": "https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn"
       },
       "artists": [
         {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+          "name": "Cliff Beach",
+          "url": "https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z"
+        },
+        {
+          "name": "The MB's",
+          "url": "https://open.spotify.com/artist/4adlPXwO2sPi7h6Rgz3krz"
         }
       ],
-      "duration_ms": 365200,
-      "name": "Highly Compatible",
-      "url": "https://open.spotify.com/track/2ODU2nsPtVrNIEmBGqhLaH"
+      "duration_ms": 199893,
+      "name": "Confident (feat. The MB's)",
+      "url": "https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6"
     },
     {
       "added_at": "2019-08-22 14:26:16",

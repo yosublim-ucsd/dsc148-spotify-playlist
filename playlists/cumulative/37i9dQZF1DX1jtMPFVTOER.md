@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-526 songs - 1 day 7 hr 19 min
+527 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Jazz Ballads & Black Coffee](https://open.spotify.com/track/7arCBoUzMR0EKmz3vmiqyw) | [Physical Graffiti](https://open.spotify.com/artist/4YfSWADGI6HbMwFKgRD0LV), [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [JTS.sax](https://open.spotify.com/artist/519qBjHSkS9jYk2Ktbuy5H) | [Jazz Ballads & Black Coffee](https://open.spotify.com/album/2tXz0JKEHHP3rSXzxXKj54) | 2:53 | 2022-11-18 | 2023-03-18 |
 | [Jazz Hands \(feat\. CeeLo Green\)](https://open.spotify.com/track/5o0EnxQGxtzMH23QEiOsXL) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Jazz Hands \(feat\. CeeLo Green\)](https://open.spotify.com/album/3womuEXUOjSxKvWvdmFgNv) | 3:15 | 2023-09-01 |  |
 | [JAZZ IS DEAD \(feat\. Gary Bartz & Kassa Overall\)](https://open.spotify.com/track/2I1W4oyGhq8bIEkmVjD6UZ) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [JAZZ IS DEAD \(feat\. Gary Bartz & Kassa Overall\)](https://open.spotify.com/album/52hb2bb8dacjqXLRLhyCZZ) | 5:07 | 2022-04-15 | 2022-04-29 |
+| [Jes' Grew in Osaka](https://open.spotify.com/track/53zSIKyb1KsBsb9EmFerpM) | [R.A.P\. Ferreira](https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb), [Fumitake Tamura](https://open.spotify.com/artist/41SItxhAnaousMYdgHn3rt) | [Jes' Grew in Osaka](https://open.spotify.com/album/50VQyLVeMuOcE1SpRUvsCE) | 2:20 | 2024-01-19 |  |
 | [Jimmy](https://open.spotify.com/track/6Z7lba4JYt48ztwt2bu7up) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [Erameld](https://open.spotify.com/artist/7onTqmjsNs182OQexatI7N) | [Jimmy](https://open.spotify.com/album/3SSySSNMkNqyYdXR208dRE) | 2:08 | 2022-10-07 | 2023-08-19 |
 | [Jimtastic Blues](https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [MAN MADE](https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX) | 3:33 | 2021-11-12 | 2022-02-19 |
 | [Joint 3](https://open.spotify.com/track/3E0qbzENHXGixehNHr6Hsr) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [Some Things Take Time](https://open.spotify.com/album/4npRaJShorujh6Mjfl8WZU) | 2:15 | 2022-04-15 | 2022-09-17 |

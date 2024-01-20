@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: NGHTMRE, Jon Casey & Pauline Herr",
+  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: SVDDEN DEATH",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -895,6 +895,32 @@
     },
     {
       "album": {
+        "name": "Ballistic",
+        "url": "https://open.spotify.com/album/4ou9LjAGAG7kHozg164j5S"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Decimate",
+          "url": "https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "Ballistic",
+      "url": "https://open.spotify.com/track/7e2jCNE483Zu2CVOTw8Yhy"
+    },
+    {
+      "album": {
         "name": "BANG YOUR HEAD",
         "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
       },
@@ -972,7 +998,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 169714,
       "name": "Be Kind, Rewind",
       "url": "https://open.spotify.com/track/3AlizcdWe1hKHrSgnwZYSp"
@@ -2012,7 +2038,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 158896,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/5fPKZoQB2KwO0RKpDDYbFV"
@@ -4196,7 +4222,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 217714,
       "name": "Harbinger",
       "url": "https://open.spotify.com/track/64uTfqJRxzLfkBlPxVYi4K"
@@ -6920,7 +6946,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 256000,
       "name": "Pain",
       "url": "https://open.spotify.com/track/6fuqMcgCHL1IJpUWMdo8eX"
@@ -8054,7 +8080,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 196216,
       "name": "Root Cause",
       "url": "https://open.spotify.com/track/0ynMhP1uUAXZN2dsyBEpVa"
@@ -9255,6 +9281,32 @@
     },
     {
       "album": {
+        "name": "Still Alive (if found Remix)",
+        "url": "https://open.spotify.com/album/7DYgn2UpmGi42agdHBfXjx"
+      },
+      "artists": [
+        {
+          "name": "Cadmium",
+          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
+        },
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Still Alive - if found Remix",
+      "url": "https://open.spotify.com/track/2rqSN6LIP1TR85TeVncXWl"
+    },
+    {
+      "album": {
         "name": "stinkypoopy",
         "url": "https://open.spotify.com/album/0D19xJOcXHup620LKBEIrW"
       },
@@ -9456,6 +9508,28 @@
       "duration_ms": 216000,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/6tPF5loVpq57PiSvwLE860"
+    },
+    {
+      "album": {
+        "name": "Surge",
+        "url": "https://open.spotify.com/album/0zrJJO7lMld19bUpDRbmty"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Kryture",
+          "url": "https://open.spotify.com/artist/72iKUroqeSkinEfiVns8v7"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279724,
+      "name": "Surge",
+      "url": "https://open.spotify.com/track/0YQLxSWruiFJJ42lexKQGU"
     },
     {
       "album": {
@@ -9711,6 +9785,28 @@
     },
     {
       "album": {
+        "name": "Harbinger",
+        "url": "https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Bejalvin",
+          "url": "https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "Teeth (feat. Bejalvin)",
+      "url": "https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI"
+    },
+    {
+      "album": {
         "name": "Slime Time, Pt. 3",
         "url": "https://open.spotify.com/album/1K92iuS1dqPS23ZxFITJsr"
       },
@@ -9806,7 +9902,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 276800,
       "name": "The Blood (VIP)",
       "url": "https://open.spotify.com/track/4QwU0k7uWf4yG104CAEsCv"
@@ -10290,7 +10386,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 223098,
       "name": "TOO TURNT",
       "url": "https://open.spotify.com/track/0HiMqVWdNGaeAD3duhbQYt"
@@ -10308,7 +10404,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 192827,
       "name": "Trailblazer",
       "url": "https://open.spotify.com/track/33y633ybdMYht4cccI70vV"

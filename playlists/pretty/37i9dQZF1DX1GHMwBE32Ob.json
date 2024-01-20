@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: HotKid",
-  "num_followers": 41923,
+  "num_followers": 42024,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjlmZDcxYWRlYzBmNmVmZDFhMzMxNTY2OTUxMjRiNDg3N2ZkOWI3",
+  "snapshot_id": "MCxiYzI4YzdkOWFjYTYzNDNkMjQ2YjZkZjg5Nzc3NTBhNDI2MWU0NTU2",
   "tracks": [
     {
       "added_at": "2024-01-18 17:33:34",
@@ -599,26 +599,6 @@
     {
       "added_at": "2024-01-18 17:33:34",
       "album": {
-        "name": "NSV",
-        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 188372,
-      "name": "NSV",
-      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
-    },
-    {
-      "added_at": "2024-01-18 17:33:34",
-      "album": {
         "name": "Sere (feat. Tega boi dc)",
         "url": "https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 130873,
       "name": "Sere (feat. Tega boi dc)",
       "url": "https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd"
+    },
+    {
+      "added_at": "2024-01-18 17:33:34",
+      "album": {
+        "name": "NSV",
+        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "NSV",
+      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
     },
     {
       "added_at": "2024-01-18 17:33:34",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-01-18 17:33:34",
       "album": {
-        "name": "Egopiano",
-        "url": "https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A"
-      },
-      "artists": [
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Egopiano",
-      "url": "https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n"
-    },
-    {
-      "added_at": "2024-01-18 17:33:34",
-      "album": {
         "name": "PARIWO",
         "url": "https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 120439,
       "name": "PARIWO",
       "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"
+    },
+    {
+      "added_at": "2024-01-18 17:33:34",
+      "album": {
+        "name": "Egopiano",
+        "url": "https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Egopiano",
+      "url": "https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n"
     },
     {
       "added_at": "2024-01-18 17:33:34",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of hip-hop tracks from South Asia. Cover:  Shubh",
+  "description": "Best of hip-hop tracks from South Asia. Cover:  Karan Aujla, DIVINE ",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 211544,
       "name": "051021",
       "url": "https://open.spotify.com/track/6D0RJju2TSMtZM1jsRc58S"
+    },
+    {
+      "album": {
+        "name": "100 Million",
+        "url": "https://open.spotify.com/album/0DRD7GdJQNalHpKaLhM871"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192479,
+      "name": "100 Million",
+      "url": "https://open.spotify.com/track/3EJslhR33350RLGMb6eOAg"
     },
     {
       "album": {
@@ -2402,6 +2424,32 @@
       "duration_ms": 162378,
       "name": "Jodia",
       "url": "https://open.spotify.com/track/3YsjFlBBdirrCGNKWuirsq"
+    },
+    {
+      "album": {
+        "name": "Joota Japani",
+        "url": "https://open.spotify.com/album/1GCClFFYn65g9WH1XXUWDK"
+      },
+      "artists": [
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Shankar Jaikishan",
+          "url": "https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Joota Japani",
+      "url": "https://open.spotify.com/track/7lzPCtx5j2JRFhbsGpbzQ7"
     },
     {
       "album": {

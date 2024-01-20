@@ -4,12 +4,14 @@
 
 > Listen to the soundtracks of the EXchange series\. \(환승연애 시리즈 사운드 트랙들을 즐겨보세요!\)
 
-31 songs - 1 hr 43 min
+33 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All a Lie](https://open.spotify.com/track/6CDeIYMDZNSDwY7iLz4Sw5) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [EXchange2, Pt\. 3 'Conflict' \(Original Television Soundtrack\)](https://open.spotify.com/album/1Nx0YKjrs8B2S0jK3KFISF) | 2:32 | 2024-01-12 |  |
 | [All a Lie \- Instrumental](https://open.spotify.com/track/4awRFxkxR2XNoYlW5Yyfnj) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [EXchange2, Pt\. 3 'Conflict' \(Original Television Soundtrack\)](https://open.spotify.com/album/1Nx0YKjrs8B2S0jK3KFISF) | 2:32 | 2024-01-12 |  |
+| [I WANNA KNOW](https://open.spotify.com/track/4ki0EcH3qL0DEbXqZIz1GI) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 | 2024-01-19 |  |
+| [I WANNA KNOW \- Instrumental](https://open.spotify.com/track/7FylkkBopzdD6eyK0NC0rF) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 | 2024-01-19 |  |
 | [In My Spot](https://open.spotify.com/track/2DFaLKFt7yrhCPVPeLUPcX) | [김예준](https://open.spotify.com/artist/0RNgISHByvz4Dn6g25BcT3) | [EXchange2, Pt\. 3 'Conflict' \(Original Television Soundtrack\)](https://open.spotify.com/album/1Nx0YKjrs8B2S0jK3KFISF) | 2:53 | 2024-01-12 |  |
 | [In My Spot \- Instrumental](https://open.spotify.com/track/3cvEUunNfEUmp0nMR5GH50) | [김예준](https://open.spotify.com/artist/0RNgISHByvz4Dn6g25BcT3) | [EXchange2, Pt\. 3 'Conflict' \(Original Television Soundtrack\)](https://open.spotify.com/album/1Nx0YKjrs8B2S0jK3KFISF) | 2:53 | 2024-01-12 |  |
 | [Love remnants](https://open.spotify.com/track/6Z8HhBie79IA6BEhwf7PwZ) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [EXchange3, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Yu6AvluH9IUEtpsn3g78K) | 4:01 | 2024-01-12 |  |
@@ -25,8 +27,8 @@
 | [Rewind \- Instrumental](https://open.spotify.com/track/4jkD8ZzpZVQxad69mDkkvB) | [Lee Hae In](https://open.spotify.com/artist/6hgjcqdUSNJoMCWGC5Vy4s) | [EXchange2, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/2FGLLuUb0Jue2nOgTJ1aiH) | 3:15 | 2024-01-12 |  |
 | [SUN OR SUCK](https://open.spotify.com/track/7EhOarfne2UBR7rZerZOQ3) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [EXchange, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5DctMyANI2pckvjR7yj9ED) | 2:50 | 2024-01-12 |  |
 | [SUN OR SUCK \- Instrumental](https://open.spotify.com/track/0Sz3yG1vtYzSPpM0wuCC4Q) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [EXchange, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5DctMyANI2pckvjR7yj9ED) | 2:50 | 2024-01-12 |  |
-| [Sunset](https://open.spotify.com/track/18rhqcXRTE9IrtCUPJvncB) | [SOO](https://open.spotify.com/artist/2JpqnSaW77ij1es6oorhYx) | [EXchange3, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C) | 2:53 | 2024-01-15 |  |
-| [Sunset \- Instrumental](https://open.spotify.com/track/5uBqXqeW6yoGTMXbprk847) | [SOO](https://open.spotify.com/artist/2JpqnSaW77ij1es6oorhYx) | [EXchange3, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C) | 2:53 | 2024-01-15 |  |
+| [Sunset](https://open.spotify.com/track/18rhqcXRTE9IrtCUPJvncB) | [soo](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [EXchange3, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C) | 2:53 | 2024-01-15 |  |
+| [Sunset \- Instrumental](https://open.spotify.com/track/5uBqXqeW6yoGTMXbprk847) | [soo](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [EXchange3, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3aGd05iXdo8XsIU4lWaF9C) | 2:53 | 2024-01-15 |  |
 | [Thank you](https://open.spotify.com/track/7ncELTySeq5yRbZlGsSDlz) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [EXchange, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4lmTxgqct4aaAc4IFUJEqQ) | 4:03 | 2024-01-12 |  |
 | [Thank you \- Instrumental](https://open.spotify.com/track/3y33E6STe5YfCnchl323bs) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [EXchange, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4lmTxgqct4aaAc4IFUJEqQ) | 4:03 | 2024-01-12 |  |
 | [The Only One Have to Forget](https://open.spotify.com/track/4wAWmdqsNaJfMRNkoXdhnm) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [EXchange2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4a8eA0F5aFMH3NvCX2hYTX) | 4:23 | 2024-01-12 |  |

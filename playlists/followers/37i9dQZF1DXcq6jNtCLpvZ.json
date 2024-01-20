@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 13584,
+  "2024-01-20": 13600,
   "date_first_scraped": "2022-09-30",
   "description": "Music from \"Symphogear\"! /\u30a2\u30cb\u30e1\u300c\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u24b8project \u30b7\u30f3\u30d5\u30a9\u30ae\u30a2XV",
   "name": "Symphogear \u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2",
@@ -39,6 +39,28 @@
       "duration_ms": 238386,
       "name": "Be with you",
       "url": "https://open.spotify.com/track/1QIgLY7avWBWLol7iAEsk4"
+    },
+    {
+      "album": {
+        "name": "\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2XD UNLIMITED \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb",
+        "url": "https://open.spotify.com/album/4ORfUlNVOQYYkju8XCHHLP"
+      },
+      "artists": [
+        {
+          "name": "\u7acb\u82b1\u97ff(CV:\u60a0\u6728\u78a7)",
+          "url": "https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox"
+        },
+        {
+          "name": "\u5c0f\u65e5\u5411\u672a\u6765(CV:\u4e95\u53e3\u88d5\u9999)",
+          "url": "https://open.spotify.com/artist/0law47IqPXszmlHrquztRS"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230080,
+      "name": "Believe is All",
+      "url": "https://open.spotify.com/track/6PMwbN0AudOcwKhudbxfQV"
     },
     {
       "album": {
@@ -543,6 +565,28 @@
       "duration_ms": 223760,
       "name": "Vitalization",
       "url": "https://open.spotify.com/track/1BJHubwnUKElLe0B5tEWpq"
+    },
+    {
+      "album": {
+        "name": "\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2XD UNLIMITED \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb",
+        "url": "https://open.spotify.com/album/4ORfUlNVOQYYkju8XCHHLP"
+      },
+      "artists": [
+        {
+          "name": "\u7acb\u82b1\u97ff(CV:\u60a0\u6728\u78a7)",
+          "url": "https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox"
+        },
+        {
+          "name": "\u30ad\u30e3\u30ed\u30eb\u30fb\u30de\u30fc\u30eb\u30b9\u30fb\u30c7\u30a3\u30fc\u30f3\u30cf\u30a4\u30e0(CV:\u6c34\u702c\u3044\u306e\u308a)",
+          "url": "https://open.spotify.com/artist/6jkSPcxNIDcgVbhhOlU8lG"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242813,
+      "name": "WE ARE THE FUTURE",
+      "url": "https://open.spotify.com/track/24JsKK6aVyDRvRN4yNYZhE"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 20491,
+  "2024-01-20": 20499,
   "date_first_scraped": "2022-07-25",
   "description": "Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href=\"https://www.peacocktv.com/stream-tv/love-island?cid=2307spotifypkerndwbjny369&utm_campaign=2307spotify&utm_source=sptfy_pk_na&utm_medium=ernd_wbjny_cobr_deslnk&utm_term=spotifyusers&utm_content=na\">Peacock</a>.",
   "name": "Love Island USA Official Playlist",
@@ -679,6 +679,24 @@
     {
       "album": {
         "name": "The Bright Side",
+        "url": "https://open.spotify.com/album/0adiQILnwLMvX09Z6xHaqf"
+      },
+      "artists": [
+        {
+          "name": "Summer Kennedy",
+          "url": "https://open.spotify.com/artist/4zXwKatKsxYa8T9dAOzlgS"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237400,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/6p87eM03XdjSN916afHG0P"
+    },
+    {
+      "album": {
+        "name": "The Bright Side",
         "url": "https://open.spotify.com/album/5BM7D7Y62MfSrmWxjMxtKR"
       },
       "artists": [
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 237408,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/7AXkLijaymM7ZfaO46FSRb"
@@ -3303,10 +3321,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 184752,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1H0osKoTCeMscCQhjD0Mee"
+    },
+    {
+      "album": {
+        "name": "Cardigan Club",
+        "url": "https://open.spotify.com/album/2M1mlCW7lPoAp9BNAcnBE2"
+      },
+      "artists": [
+        {
+          "name": "Cardigan Club",
+          "url": "https://open.spotify.com/artist/6L6CvdHfpiOkQqdlUORPvW"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184752,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/2cDVZn78vMqXxK0URxbvL7"
     },
     {
       "album": {
@@ -3619,10 +3655,32 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 211200,
       "name": "Hit the Road Jack",
       "url": "https://open.spotify.com/track/5PIpdcCquAoTWTUUjK1tbY"
+    },
+    {
+      "album": {
+        "name": "Hit the Road Jack",
+        "url": "https://open.spotify.com/album/1afLOd9FZ4vwRdPinQngOC"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Bri Bryant",
+          "url": "https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/7zkXDFyF9UuIVNQQhj8Bfp"
     },
     {
       "album": {
@@ -3703,10 +3761,28 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 184761,
       "name": "Hold Your Breath",
       "url": "https://open.spotify.com/track/1yejde8wHtM3xCVubqhxMe"
+    },
+    {
+      "album": {
+        "name": "Alibis",
+        "url": "https://open.spotify.com/album/6zg96nG3IkxuaWccsm9QhD"
+      },
+      "artists": [
+        {
+          "name": "Astyria",
+          "url": "https://open.spotify.com/artist/2BgtLzBS8FjGC3P3kLCI76"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Hold Your Breath",
+      "url": "https://open.spotify.com/track/5TjIKrYdohr8zhuAfMTJQe"
     },
     {
       "album": {
@@ -6095,6 +6171,24 @@
     {
       "album": {
         "name": "Lucky",
+        "url": "https://open.spotify.com/album/1wpAJT7LZziSuzNaWUdWA1"
+      },
+      "artists": [
+        {
+          "name": "Louis II",
+          "url": "https://open.spotify.com/artist/0i387pRmgJfOoxYD3oDeFW"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Makin' Moves",
+      "url": "https://open.spotify.com/track/19gUgBfEtGJsYWYV9cRt97"
+    },
+    {
+      "album": {
+        "name": "Lucky",
         "url": "https://open.spotify.com/album/7egcRv1JdQmjY3WTcTR3GG"
       },
       "artists": [
@@ -6105,7 +6199,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 190005,
       "name": "Makin' Moves",
       "url": "https://open.spotify.com/track/1bhx3j2mohbWW8YdAESiMN"
@@ -6947,6 +7041,24 @@
     {
       "album": {
         "name": "Obsession",
+        "url": "https://open.spotify.com/album/6MbGAkSP26tEEVNZeBvSmh"
+      },
+      "artists": [
+        {
+          "name": "Arows",
+          "url": "https://open.spotify.com/artist/0q0TwiCrjZA1NjX0wDbHXU"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Ready or Not",
+      "url": "https://open.spotify.com/track/0Mw7H7znMoeyGMGlKWhRYz"
+    },
+    {
+      "album": {
+        "name": "Obsession",
         "url": "https://open.spotify.com/album/6omFJjVPutbdE4cmbP5pGi"
       },
       "artists": [
@@ -6957,7 +7069,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 161600,
       "name": "Ready or Not",
       "url": "https://open.spotify.com/track/6upOthYRQX1CIRmphn2Jug"
@@ -7159,7 +7271,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 161156,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/1hXiLd0EV2krVVBQaxcjnB"
@@ -7181,6 +7293,24 @@
       "duration_ms": 161156,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/2B3EM5q2DUD2O6hhHPk7fz"
+    },
+    {
+      "album": {
+        "name": "Rise Above - Position Music Orchestral Series, Vol. 8",
+        "url": "https://open.spotify.com/album/5l8PuaMmSQv9VhKh80Gee2"
+      },
+      "artists": [
+        {
+          "name": "Veigar Margeirsson",
+          "url": "https://open.spotify.com/artist/49qXLlcq9i5zOpvCAo9hVF"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161156,
+      "name": "Rise Above",
+      "url": "https://open.spotify.com/track/2lTCInyx0mmMNKnazX8SI6"
     },
     {
       "album": {
@@ -7927,6 +8057,24 @@
     {
       "album": {
         "name": "Confidence",
+        "url": "https://open.spotify.com/album/5ZB3OYHRlTNQeRITz9rIuM"
+      },
+      "artists": [
+        {
+          "name": "DITA",
+          "url": "https://open.spotify.com/artist/6XhR7UoRyqdjauw1nFY6AO"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/5CUNO96wb0rjvt3h4C1AtR"
+    },
+    {
+      "album": {
+        "name": "Confidence",
         "url": "https://open.spotify.com/album/7KXLeJmy4YR5Lzeq6CC7L8"
       },
       "artists": [
@@ -7937,7 +8085,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 184618,
       "name": "Strut",
       "url": "https://open.spotify.com/track/1trLfcGdZLeqZCB1mnZZFy"
@@ -8625,10 +8773,28 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 222517,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/1uW7xeiMdxcWkZusWv3MBQ"
+    },
+    {
+      "album": {
+        "name": "This Is How the World Ends",
+        "url": "https://open.spotify.com/album/1CdCsBZxskcgYV8O0uwn7c"
+      },
+      "artists": [
+        {
+          "name": "Kat Leon",
+          "url": "https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222517,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/43ihGWfnLiXRPFbaSsEtu5"
     },
     {
       "album": {
@@ -8807,6 +8973,24 @@
     {
       "album": {
         "name": "Sequels",
+        "url": "https://open.spotify.com/album/5eHFt6Ecfv45j25kI1KLxN"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237202,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/7sgvhY89MQ5ipWtgr9l3NQ"
+    },
+    {
+      "album": {
+        "name": "Sequels",
         "url": "https://open.spotify.com/album/3cVAdcxaUZIvkV6Da2BTdC"
       },
       "artists": [
@@ -8817,7 +9001,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 237426,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/10VGirghK8scti9gNw2NTw"

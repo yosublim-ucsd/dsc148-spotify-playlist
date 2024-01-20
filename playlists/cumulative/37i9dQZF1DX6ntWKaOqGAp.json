@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Madaramoyo",
+        "url": "https://open.spotify.com/album/2SQQoQMMoeB2TnIQ8Wbc19"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227728,
+      "name": "Aiai",
+      "url": "https://open.spotify.com/track/2fk7HoBZPtoeqIl54CLTR7"
+    },
+    {
+      "album": {
         "name": "Ainokansoki",
         "url": "https://open.spotify.com/album/5T0FVtQa6uPc1DNF5Aj8lq"
       },
@@ -2856,7 +2874,7 @@
     {
       "album": {
         "name": "Endless Etude (BEST WISHES TO ALL ver.)",
-        "url": "https://open.spotify.com/album/5FE6XRVjwqvXE4tQqiW5gx"
+        "url": "https://open.spotify.com/album/6G15tHXUBI9ajGjmVXWKjE"
       },
       "artists": [
         {
@@ -2867,6 +2885,24 @@
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 157871,
+      "name": "Endless Etude (BEST WISHES TO ALL ver.)",
+      "url": "https://open.spotify.com/track/4VzyVdmjdy5ud6oqpGkA6j"
+    },
+    {
+      "album": {
+        "name": "Endless Etude (BEST WISHES TO ALL ver.)",
+        "url": "https://open.spotify.com/album/5FE6XRVjwqvXE4tQqiW5gx"
+      },
+      "artists": [
+        {
+          "name": "Base Ball Bear",
+          "url": "https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-20",
       "duration_ms": 157871,
       "name": "Endless Etude (BEST WISHES TO ALL ver.)",
       "url": "https://open.spotify.com/track/6u5POngpCtZfnIyLU2izjg"
@@ -19032,7 +19068,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 227728,
       "name": "\u611b\u54c0",
       "url": "https://open.spotify.com/track/1jNX9JdSdlhqkmiIPBUii4"

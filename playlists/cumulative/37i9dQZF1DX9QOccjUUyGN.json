@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Kant",
+  "description": "tranquilo e calmo, no flow. Foto: Ariel Donato, MC Cabelinho, Marina Sena",
   "name": "tamo flex",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 225116,
       "name": "A Fonte",
       "url": "https://open.spotify.com/track/1m6u5l7PdEjNA7B6eSJSEB"
@@ -3422,7 +3422,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 172203,
       "name": "Descanso de Tela",
       "url": "https://open.spotify.com/track/6wM0ZuX5eOxmbDPciwt7zb"
@@ -6374,6 +6374,32 @@
       "duration_ms": 123652,
       "name": "Kung Fluxo",
       "url": "https://open.spotify.com/track/6c3MT0Clkj9m1I0d9v74rc"
+    },
+    {
+      "album": {
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/1VqFCDs5i27SB11y6aPs8Y"
+      },
+      "artists": [
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184405,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/0LJGq2TQMW5WwnD9AuPRuV"
     },
     {
       "album": {
@@ -11828,6 +11854,28 @@
       "duration_ms": 182714,
       "name": "Suco de Maracuj\u00e1",
       "url": "https://open.spotify.com/track/3qF33Lx0GsXyS9rAZ1aKGw"
+    },
+    {
+      "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0MYaZBD6hK5SJ3we0q4ftx"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Gubeatz",
+          "url": "https://open.spotify.com/artist/3onpHCaIChS7saQn7fYncx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Supera\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3XjdH19v0jhAqAiD2H7zir"
     },
     {
       "album": {

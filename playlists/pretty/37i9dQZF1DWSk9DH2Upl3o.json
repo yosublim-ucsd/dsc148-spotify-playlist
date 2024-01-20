@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 27993,
+  "num_followers": 28034,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzM1MTFlMmVkYmVkYWE4ZDkxMTQ0MWEzNGY4MTQ5NjBmYWU0Y2Nl",
+  "snapshot_id": "MCwwM2IxMzEzZTE3M2ZiMjBhZGRhY2VkYjE5Y2RhMTdkODViNTRkZTk3",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -71,6 +71,22 @@
       "duration_ms": 285794,
       "name": "Trapeze",
       "url": "https://open.spotify.com/track/2fQqA2jMxsxx7CfrOP5bgY"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Bottom of the Hill",
+        "url": "https://open.spotify.com/album/2JtbjJhE3k9bn2mHHsdS0C"
+      },
+      "artists": [
+        {
+          "name": "River Spell",
+          "url": "https://open.spotify.com/artist/15uvNDr9fxrZcvajNYYI46"
+        }
+      ],
+      "duration_ms": 383200,
+      "name": "Bottom of the Hill",
+      "url": "https://open.spotify.com/track/0CbCjYHs9BQgvUtVdyNsQS"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 289612,
       "name": "Blow You Away",
       "url": "https://open.spotify.com/track/6dbqL8257GSYfwiAVGD5W4"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Fuzzy Ride",
-        "url": "https://open.spotify.com/album/4JJYkBEnl3bt2unZyICxHe"
-      },
-      "artists": [
-        {
-          "name": "David Henriksson & Daze Delight",
-          "url": "https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV"
-        }
-      ],
-      "duration_ms": 288648,
-      "name": "Fuzzy Ride",
-      "url": "https://open.spotify.com/track/1IdkicizxTzNbZsMsriuPd"
     },
     {
       "added_at": "2022-11-11 05:01:00",

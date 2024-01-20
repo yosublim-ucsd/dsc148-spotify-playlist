@@ -2818,8 +2818,8 @@
           "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         },
         {
-          "name": "Ruback",
-          "url": "https://open.spotify.com/artist/2nPJVx4ZHFth57buZTruuj"
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
         },
         {
           "name": "Ticon",
@@ -9952,10 +9952,32 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 126964,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1btf299SEzkv3LvyvsAezK"
+    },
+    {
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/6ywKzAFVCho2FHDsV5js6N"
+      },
+      "artists": [
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126964,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/5TucK0jfhpsypggYNXidMP"
     },
     {
       "album": {
@@ -13374,10 +13396,36 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 142000,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/05hOX8A1I5uztCq7gR9WDn"
+    },
+    {
+      "album": {
+        "name": "Sweet Home Alabama",
+        "url": "https://open.spotify.com/album/0yopD72HfVqqnu9PULIjTX"
+      },
+      "artists": [
+        {
+          "name": "Blaikz",
+          "url": "https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde"
+        },
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        },
+        {
+          "name": "Toby DEE",
+          "url": "https://open.spotify.com/artist/2LRFeq9eUJ9eaKYRLQOQGj"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/1NB8u662ZTTpvxkhQGlb5z"
     },
     {
       "album": {
@@ -15142,10 +15190,32 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 124000,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/0zDeSeOAP2SOgWhAMbHRU7"
+    },
+    {
+      "album": {
+        "name": "When We Were Young",
+        "url": "https://open.spotify.com/album/5upOtXFwe0FsOKm8CtR60F"
+      },
+      "artists": [
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7C3cK5wqBwxbFeso2yE1gW"
     },
     {
       "album": {
@@ -15698,7 +15768,7 @@
     {
       "album": {
         "name": "You Hate Me",
-        "url": "https://open.spotify.com/album/45m1ccAo7NyBmEWgvQvzA6"
+        "url": "https://open.spotify.com/album/5ZMCXzzEpNxRZQFGyoCNUh"
       },
       "artists": [
         {
@@ -15713,6 +15783,28 @@
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137513,
+      "name": "You Hate Me",
+      "url": "https://open.spotify.com/track/2GktgsOSRYqC8d5xAJBAEb"
+    },
+    {
+      "album": {
+        "name": "You Hate Me",
+        "url": "https://open.spotify.com/album/45m1ccAo7NyBmEWgvQvzA6"
+      },
+      "artists": [
+        {
+          "name": "Kate Linch",
+          "url": "https://open.spotify.com/artist/3mNTiIjnKprYMSec0DaYvu"
+        },
+        {
+          "name": "FILV",
+          "url": "https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-20",
       "duration_ms": 137513,
       "name": "You Hate Me",
       "url": "https://open.spotify.com/track/2vzcp4Fr1IYkMFnyvCa5YS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 
 > Be welcome to the secret society of the midnight movie\-dwellers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,556 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,560 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 16 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 | 17 | [L'alba dei morti viventi](https://open.spotify.com/track/0kqH8HpvGQrURpYG9GMfb1) | [Goblin](https://open.spotify.com/artist/7H92g6n1BvyzvQwaERZKZl) | [Zombi](https://open.spotify.com/album/05ptZhBxx90o7nQRK4Q76f) | 6:04 |
 | 18 | [Déshominisation \(I\)](https://open.spotify.com/track/4bEA2S0bsm3L0n8WkjvjjG) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk) | 3:50 |
-| 19 | [The Equestrian Vortex](https://open.spotify.com/track/16DATD29xLIGtVkwntavkI) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C) | 1:21 |
-| 20 | [Madame Arcati](https://open.spotify.com/track/6vY0R1nmvSk58Ftvj163PQ) | [Jacques Lasry](https://open.spotify.com/artist/6Hp8cEcn12Y6rFXybqm1pe) | [A Very English Murder](https://open.spotify.com/album/7DomG6u2OwPjl0W56PWqd8) | 2:09 |
+| 19 | [Madame Arcati](https://open.spotify.com/track/6vY0R1nmvSk58Ftvj163PQ) | [Jacques Lasry](https://open.spotify.com/artist/6Hp8cEcn12Y6rFXybqm1pe) | [A Very English Murder](https://open.spotify.com/album/7DomG6u2OwPjl0W56PWqd8) | 2:09 |
+| 20 | [The Equestrian Vortex](https://open.spotify.com/track/16DATD29xLIGtVkwntavkI) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C) | 1:21 |
 | 21 | [Flowers Of Evil](https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Flowers Of Evil](https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6) | 14:08 |
 | 22 | [Valerie a Týden Divu \- Main Theme Edit](https://open.spotify.com/track/143kjcTccAOt8Wd2UzAgqk) | [Luboš Fišer](https://open.spotify.com/artist/4z6WcbsP0ZAw7UCEBuU6fk) | [Valerie and Her Week of Wonders](https://open.spotify.com/album/7kMA3RbOjYLJ2igWgihhPY) | 2:42 |
 | 23 | [Les dunes d'ostende \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/0i5JQKWnD86IhbAVydSG9x) | [François de Roubaix](https://open.spotify.com/artist/5oyNl4KxsjkVfyvnwcl8ex) | [Les Lèvres Rouges](https://open.spotify.com/album/1w2quOcigZI2naZVONWiqr) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 49 | [The Innocents Suite: I\. O Willow Waly \- Main Titles](https://open.spotify.com/track/04cdIzF30V7Yb5Q5r0MUkG) | [Georges Auric](https://open.spotify.com/artist/1OWxt3WxCvMwyOwfdQ20RK), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy), [BBC Philharmonic Orchestra](https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK) | [The Film Music of Georges Auric](https://open.spotify.com/album/3u5Q5iuOy5BWTK8xA1B7zg) | 3:23 |
 | 50 | [Scarpe rotte](https://open.spotify.com/track/0y18MLJpA3iiLZ2ss2xNFi) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Uccellacci e uccellini \- The Hawks and the Sparrows \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/3F20sTbeXDmW3XOr3pWhW6) | 1:45 |
 
-Snapshot ID: `MCw3YTczYzUwODkwNzgyMWEyYjFjYTc4YjRhYjI3ODhkYjI5YTY3YjQ5`
+Snapshot ID: `MCxmMjUxYTdhNjY3ZmJkNGU3OWVlNDUwYjI4ODhlYzlhMWExNjNlYzcx`

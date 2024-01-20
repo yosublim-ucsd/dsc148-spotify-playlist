@@ -4,7 +4,7 @@
 
 > Get into the spirit of AFCON 2023 with hits from the participating countries.
 
-380 songs - 23 hr 37 min
+381 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY) | 4:48 | 2022-11-28 |  |
 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2023-09-07 | 2023-11-19 |
 | [Africa](https://open.spotify.com/track/34ym8kONyUoGIIe4YjXBYk) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mama Africa \(The Diary of an African Woman\)](https://open.spotify.com/album/2ERnFZ0YFpxLPmIq6n3Ilm) | 3:56 | 2023-08-08 | 2023-08-26 |
-| [Africain](https://open.spotify.com/track/4BuNLkjWoKcxsU7K2eqB3S) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/2gSTFKuGeUgwzjtTaEusnT) | 3:44 | 2024-01-12 |  |
+| [Africain](https://open.spotify.com/track/4EGCiUo1uzML86FDbAzWYg) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/4xZDUgshDoJP0Zprw4HuSW) | 3:44 | 2024-01-12 |  |
+| [Africain](https://open.spotify.com/track/4BuNLkjWoKcxsU7K2eqB3S) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/2gSTFKuGeUgwzjtTaEusnT) | 3:44 | 2024-01-12 | 2024-01-20 |
 | [AH TXE TXE](https://open.spotify.com/track/44JaxgEdVdgEzTeIYsZrES) | [GIANT](https://open.spotify.com/artist/2YPBmmwBWiFzpoae8JQXIR), [TYSON](https://open.spotify.com/artist/4AMWsRQg1bTvWflaYNq713) | [AH TXE TXE](https://open.spotify.com/album/2NgTBl8RJMVLwbhGiPxCkD) | 2:22 | 2024-01-12 |  |
 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 | 2022-03-27 | 2022-11-29 |
 | [Akwaba](https://open.spotify.com/track/60s2q1yuLt1ddvt0Pz6Yb4) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [AFCON 2023](https://open.spotify.com/album/744cEM8PWsWH2BvEeGaIky) | 3:42 | 2024-01-12 |  |

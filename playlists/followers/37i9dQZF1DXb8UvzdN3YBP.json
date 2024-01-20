@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 32446,
+  "2024-01-20": 32467,
   "date_first_scraped": "2022-11-16",
   "description": "Music from and inspired by \"Glass Onion: A Knives Out Mystery,\" coming soon to Netflix. ",
   "name": "Glass Onion Official Playlist",
@@ -455,7 +455,7 @@
     {
       "album": {
         "name": "Clandestine",
-        "url": "https://open.spotify.com/album/5NuF7nYaRGq8YlPY1X52Ro"
+        "url": "https://open.spotify.com/album/2hyQxOLLlPazMW42b82LVh"
       },
       "artists": [
         {
@@ -466,6 +466,24 @@
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 109283,
+      "name": "Play the Ponies",
+      "url": "https://open.spotify.com/track/1VAvqNWXlVUiCpWdoOMc3W"
+    },
+    {
+      "album": {
+        "name": "Clandestine",
+        "url": "https://open.spotify.com/album/5NuF7nYaRGq8YlPY1X52Ro"
+      },
+      "artists": [
+        {
+          "name": "Jo Blankenburg",
+          "url": "https://open.spotify.com/artist/4tuiQRw9bC9HZhSFJEJ9Mz"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-19",
       "duration_ms": 109283,
       "name": "Play the Ponies",
       "url": "https://open.spotify.com/track/3r7pQSqIWmXYFQci0aBBQi"

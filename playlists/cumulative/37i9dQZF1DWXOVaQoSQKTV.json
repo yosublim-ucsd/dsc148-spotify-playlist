@@ -2748,7 +2748,7 @@
     {
       "album": {
         "name": "All Out",
-        "url": "https://open.spotify.com/album/0u60UoFqjeUSOHNfuyEsUA"
+        "url": "https://open.spotify.com/album/3W3ILTbRLlWanK6NJywalk"
       },
       "artists": [
         {
@@ -2759,6 +2759,24 @@
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176026,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/1EBZ0qnOCX4KQltUeI4hwo"
+    },
+    {
+      "album": {
+        "name": "All Out",
+        "url": "https://open.spotify.com/album/0u60UoFqjeUSOHNfuyEsUA"
+      },
+      "artists": [
+        {
+          "name": "King Flexx",
+          "url": "https://open.spotify.com/artist/0XTVPgQnZDSpj8bdgv6jqN"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-20",
       "duration_ms": 176026,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/1IeRpa7ife9vpYf9jJOWnf"

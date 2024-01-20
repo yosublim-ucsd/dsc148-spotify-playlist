@@ -4,7 +4,7 @@
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Laufey
 
-114 songs - 6 hr 3 min
+115 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [River \- Recorded At RAK Studios, London](https://open.spotify.com/track/3vkLyqzW60sA3z0qnkX4Fs) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Holly & The Ivy](https://open.spotify.com/album/74RfZ8GZ7kwNPDJYU3kBVW) | 3:28 | 2022-11-08 | 2022-11-13 |
 | [River \- Recorded At RAK Studios, London](https://open.spotify.com/track/7DNGqrLnd07C2FPpAdn6cc) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0nu6CXfrJdNcVCvOojAdcW) | 3:28 | 2021-12-15 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/5lyikKk6KFWfWCuDDir9Fx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08) | 1:56 | 2021-12-15 |  |
-| [Rudolph The Red Nose Reindeer \- Recorded at Spotify Studios](https://open.spotify.com/track/53is1DHKuBWeh4Jx9ISKZp) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Rudolph The Red Nose Reindeer \(Recorded at Spotify Studios\)](https://open.spotify.com/album/3ZsuojPqBmGbDAewFQ9Lnu) | 1:36 | 2021-12-15 |  |
+| [Rudolph The Red Nose Reindeer \- Recorded at Spotify Studios](https://open.spotify.com/track/53is1DHKuBWeh4Jx9ISKZp) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Rudolph The Red Nose Reindeer \(Recorded at Spotify Studios\)](https://open.spotify.com/album/3ZsuojPqBmGbDAewFQ9Lnu) | 1:36 | 2021-12-15 | 2024-01-20 |
+| [Rudolph The Red Nosed Reindeer](https://open.spotify.com/track/2lhlItQCi2mgtJVl80RPWY) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/album/3XW5Nd80zqLaKC8rSRqx3m) | 1:36 | 2022-12-05 |  |
 | [Santa Baby \- Recorded at Strongroom Studios London](https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Santa Baby \(Recorded at Strongroom Studios London\)](https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ) | 2:43 | 2021-12-15 |  |
 | [Santa Claus Is Comin' To Town \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles \- Christmas](https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6) | 2:46 | 2021-12-15 |  |
 | [Shchedrivka \- Spotify Singles Holiday](https://open.spotify.com/track/2ScUNIrBDPOR1bj36Z7QjC) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles Holiday](https://open.spotify.com/album/2NVzutkr3TkBwCz0QdA51H) | 2:17 | 2022-11-16 |  |

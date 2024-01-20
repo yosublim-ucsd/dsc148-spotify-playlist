@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171147,
+      "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
+    },
+    {
+      "album": {
         "name": "Ankhiyon Se Goli Mare Returns (From \"Pati Patni Aur Woh\")",
         "url": "https://open.spotify.com/album/5uWLaF6rh9kugZ49MXJcB1"
       },
@@ -2370,7 +2388,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 184410,
       "name": "Patola",
       "url": "https://open.spotify.com/track/7JYzuz3FBHtlRk4xnvWDAg"

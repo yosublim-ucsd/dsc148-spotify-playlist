@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 192000,
       "name": "Kash7o - \u0643\u0627\u0634\u062d\u0647",
       "url": "https://open.spotify.com/track/1yIrBx4pYvh9Lqt4r1g2q8"
@@ -5132,6 +5132,24 @@
       "duration_ms": 178321,
       "name": "\u0643\u0627\u0628\u062a\u0646",
       "url": "https://open.spotify.com/track/6dR03uJtlIIIfQsf6EuesI"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0627\u0634\u062d\u0647",
+        "url": "https://open.spotify.com/album/4Mwb4WSZuyYO6ZEG8UQOV6"
+      },
+      "artists": [
+        {
+          "name": "3ab3az",
+          "url": "https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u0643\u0627\u0634\u062d\u0647",
+      "url": "https://open.spotify.com/track/4pLH2e0EEPca9BIIx67lNv"
     },
     {
       "album": {

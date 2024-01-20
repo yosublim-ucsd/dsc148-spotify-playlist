@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 1366,
+  "2024-01-20": 1369,
   "date_first_scraped": "2022-10-01",
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC?si=Mi9JWXGuQSmsAbxFTgzyeg\">Benjamen</a> ",
   "name": "Afrikaanse Hip Hop",
@@ -475,6 +475,24 @@
       "duration_ms": 230186,
       "name": "Dala wat jy moet - Radio Edit",
       "url": "https://open.spotify.com/track/4e3bju60JhI6KWRTsagoAB"
+    },
+    {
+      "album": {
+        "name": "Deh!",
+        "url": "https://open.spotify.com/album/38J1BiT27OyRsI60572LsP"
+      },
+      "artists": [
+        {
+          "name": "Epidemi",
+          "url": "https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159686,
+      "name": "Deh!",
+      "url": "https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ"
     },
     {
       "album": {
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 129097,
       "name": "VAAK",
       "url": "https://open.spotify.com/track/0bnaAVz6aptalheXgeQSC1"

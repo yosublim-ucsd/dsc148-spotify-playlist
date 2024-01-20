@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-215 songs - 9 hr 29 min
+216 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Just U & Me](https://open.spotify.com/track/3r60F21EtRExJH1kmKe4iR) | [Jon Thomas](https://open.spotify.com/artist/3gV5r1iOvrDXAiew86XlKI), [Coral Reef](https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT), [Rachel Philipp](https://open.spotify.com/artist/60WHjR0n6Taxp26VQMOtZm) | [Just U & Me](https://open.spotify.com/album/1MTSsIpHVeADsVGW46kHU0) | 2:43 | 2023-09-22 |  |
 | [Keep Loving You](https://open.spotify.com/track/45V5YxZ4OJnUDSRDkTpYwN) | [Sooren](https://open.spotify.com/artist/2HqvRR6mYLfEDkghBJOr1V), [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL), [Johnny Chicago](https://open.spotify.com/artist/3zvkVa6tS4vVWltR4CLNV4) | [Keep Loving You](https://open.spotify.com/album/5pq3NnH4Rv8JyNylIIxCQm) | 2:41 | 2023-09-22 |  |
 | [King](https://open.spotify.com/track/3FLtWk8DRjMimRt84JJJOF) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [King](https://open.spotify.com/album/64OoWtI7Bp30sAW2Y3RGVi) | 2:39 | 2023-09-22 |  |
+| [Kiss Me Girl](https://open.spotify.com/track/3e8NAo1OMHxu7XxgjRBUDD) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9) | [Kiss Me Girl](https://open.spotify.com/album/46opZlguyLrMQkXVW5GXec) | 2:30 | 2024-01-19 |  |
 | [Le Le Let Go](https://open.spotify.com/track/1a7WIQgSIwxmeaKOtEOift) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Alex Schulz](https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Le Le Let Go](https://open.spotify.com/album/0O5E4jG3DUzCOMXBoI8iqu) | 2:40 | 2023-09-22 |  |
 | [Let Her Go](https://open.spotify.com/track/6C6yb0X9THq9wrzVH8mgDC) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [KORFAL](https://open.spotify.com/artist/2QBONbHeIoYO3SbEBOYMpV), [Ernar](https://open.spotify.com/artist/32KPoYZtDacGAVUE6MmhOK) | [Let Her Go](https://open.spotify.com/album/0KIh0cKeTkiZ0NJgOXfR2o) | 2:11 | 2023-10-06 |  |
 | [Let Me Love You](https://open.spotify.com/track/5NE5H8aZo1GPMogWQ3SC2S) | [Monartt](https://open.spotify.com/artist/5ABls0cOLH2fiOLy1Dgb4k), [Rimà](https://open.spotify.com/artist/30uzejziuILRQ9R9XyEQUA) | [Let Me Love You](https://open.spotify.com/album/3cSRnSUOhwayhoMqnfsUPY) | 2:29 | 2023-09-30 |  |

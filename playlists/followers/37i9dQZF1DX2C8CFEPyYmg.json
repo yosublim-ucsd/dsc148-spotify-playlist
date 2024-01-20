@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 114338,
+  "2024-01-20": 114335,
   "date_first_scraped": "2022-08-18",
   "description": "Soothing strings for our sleepy little ones. ",
   "name": "Soothing Strings for Sleeping Babies",
@@ -3905,7 +3905,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 121125,
       "name": "Le Fiacre - Guitar Version",
       "url": "https://open.spotify.com/track/6CUY3d2PJhIzR2V6MNkoSf"
@@ -4571,7 +4571,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 110011,
       "name": "Miss Polly Had a Dolly",
       "url": "https://open.spotify.com/track/3de9dZSLiksNDC1aNpYbsi"
@@ -6191,7 +6191,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 80479,
       "name": "Slumberous",
       "url": "https://open.spotify.com/track/6bcbwc33McfaGifGrjmtiD"
@@ -6299,10 +6299,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 139750,
       "name": "Somewhere Over The Rainbow",
       "url": "https://open.spotify.com/track/1ttWM9cbhZWmrjiE1VpLw1"
+    },
+    {
+      "album": {
+        "name": "Somewhere over the Rainbow",
+        "url": "https://open.spotify.com/album/5R5DbLz5aDyRLXpkAqvEp0"
+      },
+      "artists": [
+        {
+          "name": "Sasha Zimmerman",
+          "url": "https://open.spotify.com/artist/2vVsmDVIQNKLpwcYz0ZpwM"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Somewhere over the Rainbow",
+      "url": "https://open.spotify.com/track/2snEtWNsyYbWVxhxh2CA2s"
     },
     {
       "album": {
@@ -6497,7 +6515,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 84324,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/5LINFAlFwHABVuvQuIwRlQ"
@@ -8088,6 +8106,24 @@
     },
     {
       "album": {
+        "name": "When You Wish Upon A Star",
+        "url": "https://open.spotify.com/album/3reSPIKtrzOegRrfHyNQXU"
+      },
+      "artists": [
+        {
+          "name": "Aleeza May",
+          "url": "https://open.spotify.com/artist/6n4NX7cBWbkXX0uCKjfMl0"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112368,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/6GyQot0rZameLKzOHMWM0Z"
+    },
+    {
+      "album": {
         "name": "When You're Close",
         "url": "https://open.spotify.com/album/5RmuqdBHiNMVckkLWS2tpP"
       },
@@ -8171,7 +8207,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 103647,
       "name": "Winnie the Pooh",
       "url": "https://open.spotify.com/track/2G5lwoT8Wno8FqwmTSdOJe"

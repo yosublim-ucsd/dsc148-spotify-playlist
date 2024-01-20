@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz &amp; Subtronics
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 485 likes - 98 songs - 5 hr 39 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 486 likes - 99 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,6 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 | 96 | [I Admit It \(feat\. 24kGoldn\)](https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [I Admit It \(feat\. 24kGoldn\)](https://open.spotify.com/album/2pHkZymG4rqjYfIP5GfeDO) | 2:53 |
 | 97 | [Superstars](https://open.spotify.com/track/7FbdXyyZOknEfjHxGmdQVp) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Superstars](https://open.spotify.com/album/6dvGmNFspBMuwkM09pJqkj) | 2:52 |
 | 98 | [late night drive](https://open.spotify.com/track/1Hk1UzNwgET2DYeXy2VPw6) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [late night drive](https://open.spotify.com/album/5xNLnmqEXfe1XYXrAtyp0x) | 3:56 |
+| 99 | [DYSPHORIA](https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DYSPHORIA](https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe) | 2:37 |
 
-Snapshot ID: `ODUwLDk4OGU4N2NjNzY2NTQzNzQ2ZjJjNTZmZjRkMWY2M2I3MjFkOWFhMWU=`
+Snapshot ID: `ODUxLGUzMjdjZTlkZmQ5ODY5MDRkMWExOWM3MzQwZWE0NDI5NzRmZTEwMTM=`

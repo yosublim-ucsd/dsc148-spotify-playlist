@@ -1,32 +1,108 @@
 {
-  "description": "Underground indie rock gems. Cover: NewDad",
-  "num_followers": 293442,
+  "description": "Underground indie rock gems. Cover: PACKS",
+  "num_followers": 293494,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWVmNmNkOGI5MzgwZjMzOTM5ZDI1MDNjYzY3ZTM5MmFkZmE0MTQ4",
+  "snapshot_id": "MCxlYjAwNTQ1MTBhNWJhODYyYWVmYWYyYWJhMjBkZjRjNGI2NzY0NTlj",
   "tracks": [
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Missy",
-        "url": "https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj"
+        "name": "Screwdriver",
+        "url": "https://open.spotify.com/album/3Q9HugaWNezpdxJ1Eoqs0P"
+      },
+      "artists": [
+        {
+          "name": "Punchlove",
+          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
+        }
+      ],
+      "duration_ms": 202910,
+      "name": "Screwdriver",
+      "url": "https://open.spotify.com/track/7DlxlzEqL01TZlQkZaeyyY"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Where We've Been",
+        "url": "https://open.spotify.com/album/6ZADkFBIE0TDXapyOthWL0"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "duration_ms": 315633,
+      "name": "Where We've Been",
+      "url": "https://open.spotify.com/track/1roZVHlL8RR4s6cdrHl2qZ"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Melt the Honey",
+        "url": "https://open.spotify.com/album/1b3i2e3n3ayNsVKXANYsPz"
       },
       "artists": [
         {
           "name": "PACKS",
           "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
-        },
-        {
-          "name": "tormentatropica",
-          "url": "https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc"
         }
       ],
-      "duration_ms": 122149,
-      "name": "Missy",
-      "url": "https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg"
+      "duration_ms": 163775,
+      "name": "Her Garden",
+      "url": "https://open.spotify.com/track/2tHxMpPtSgu7NmGZULdNaU"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Work Out",
+        "url": "https://open.spotify.com/album/6cyMnhRwSuq7io3XmwxhXt"
+      },
+      "artists": [
+        {
+          "name": "Post Sex Nachos",
+          "url": "https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP"
+        }
+      ],
+      "duration_ms": 223360,
+      "name": "Work Out",
+      "url": "https://open.spotify.com/track/2lNG3d7ap9IpLyWrfXtKJQ"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Almuatin",
+        "url": "https://open.spotify.com/album/08viFcrlyEHRK04mH0zRsy"
+      },
+      "artists": [
+        {
+          "name": "Deerhoof",
+          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+        }
+      ],
+      "duration_ms": 184801,
+      "name": "Almuatin",
+      "url": "https://open.spotify.com/track/3q8NkyunIl3nVwv48deAv0"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Lindo Lindo",
+        "url": "https://open.spotify.com/album/2SDuXDfdmj1HNuiovoCOdZ"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 223481,
+      "name": "Lindo Lindo",
+      "url": "https://open.spotify.com/track/3Hvva8vE6RffJZRozTBJ9r"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -277,6 +353,26 @@
       "url": "https://open.spotify.com/track/1Rxx5MHJv03Qzt7sZUKGoO"
     },
     {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Missy",
+        "url": "https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        },
+        {
+          "name": "tormentatropica",
+          "url": "https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc"
+        }
+      ],
+      "duration_ms": 122149,
+      "name": "Missy",
+      "url": "https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg"
+    },
+    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "i saw a flying saucer",
@@ -427,38 +523,6 @@
       "duration_ms": 201102,
       "name": "Laced",
       "url": "https://open.spotify.com/track/7i0aLiaOPGf4KamTr69Dh2"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Chariot",
-        "url": "https://open.spotify.com/album/1k5Pt1vC16pTzNO1w4si7U"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/7LZzQ0dCbyVtiLDFhySTnY"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "let me breathe",
-        "url": "https://open.spotify.com/album/73E1kLBB1rxy9V1JuJtb8q"
-      },
-      "artists": [
-        {
-          "name": "Ravenna Golden",
-          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
-        }
-      ],
-      "duration_ms": 114500,
-      "name": "let me breathe",
-      "url": "https://open.spotify.com/track/3POQJgxSFmXwPWdOgLvDyt"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -687,22 +751,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "New Ro",
-        "url": "https://open.spotify.com/album/4dKvE1DdnZeCaFGU7HGAxS"
-      },
-      "artists": [
-        {
-          "name": "Frog",
-          "url": "https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA"
-        }
-      ],
-      "duration_ms": 191481,
-      "name": "New Ro",
-      "url": "https://open.spotify.com/track/7DOESzj7GH4e4YKHkmmbkn"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "Pest",
         "url": "https://open.spotify.com/album/55C7FxnZGpBDrv3uxbBYgI"
       },
@@ -715,22 +763,6 @@
       "duration_ms": 119891,
       "name": "Good God",
       "url": "https://open.spotify.com/track/1Tqk6l1J3ANlVUpCG3Sdlo"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Jesus Bathroom",
-        "url": "https://open.spotify.com/album/4AlF9rSjT2XeHz6FMlEqFZ"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 177625,
-      "name": "Jesus Bathroom",
-      "url": "https://open.spotify.com/track/3vHPU3RcEjZfOwqHYWrPGo"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -831,22 +863,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "Tomorrow's Fire",
-        "url": "https://open.spotify.com/album/5GYQtBhrKfobrD0RkFF43Z"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/6MVDqPlrnS0vfH8BI0DY4p"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "Root Canal",
         "url": "https://open.spotify.com/album/7vhWbzeW452VtyAhpFsVyM"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 252166,
       "name": "Your Beautiful Self",
       "url": "https://open.spotify.com/track/0R2V3TO0hv1QQmLICsxBHJ"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "I Got Heaven",
-      "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
     },
     {
       "added_at": "2023-12-08 17:28:54",

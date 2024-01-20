@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 132742,
+  "2024-01-20": 132772,
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Susie Arioli",
+  "description": "The best jazz new releases. Cover: Gabi Hartmann",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -73,6 +73,28 @@
       "duration_ms": 199055,
       "name": "35 Years of Mistakes",
       "url": "https://open.spotify.com/track/5Y8hBEFnBfEBXIZqcDVDcT"
+    },
+    {
+      "album": {
+        "name": "6 Feet Down",
+        "url": "https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/702iObycXld7AL2LQpTpUc"
     },
     {
       "album": {
@@ -233,6 +255,24 @@
       "duration_ms": 351933,
       "name": "Afro-Centric",
       "url": "https://open.spotify.com/track/4aJFN9FXmJ2aKL8KOJZtPP"
+    },
+    {
+      "album": {
+        "name": "again, again",
+        "url": "https://open.spotify.com/album/4SukI2v2HmHz4JD0pF35ZN"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208650,
+      "name": "again again",
+      "url": "https://open.spotify.com/track/1FmMHIP94WklfLfs3svoYS"
     },
     {
       "album": {
@@ -725,6 +765,24 @@
       "duration_ms": 217253,
       "name": "Baby",
       "url": "https://open.spotify.com/track/7Lo9xvnSEyh1dodL2QS79u"
+    },
+    {
+      "album": {
+        "name": "Baby Won't You Please Come Home",
+        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
     },
     {
       "album": {
@@ -2538,6 +2596,24 @@
     },
     {
       "album": {
+        "name": "Embraceable You",
+        "url": "https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288664,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
+    },
+    {
+      "album": {
         "name": "Dear John",
         "url": "https://open.spotify.com/album/6RlGEJ7lvJllvCu4bt80kA"
       },
@@ -2903,7 +2979,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 410600,
       "name": "For The People",
       "url": "https://open.spotify.com/track/1I4hekWxSDBawYgh1AZuMg"
@@ -3741,7 +3817,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 335797,
       "name": "Home Cookin'",
       "url": "https://open.spotify.com/track/63geyyZS7EBU3opmvQK4Tw"
@@ -4452,6 +4528,24 @@
     },
     {
       "album": {
+        "name": "Just",
+        "url": "https://open.spotify.com/album/1DiPTDwuzbplRZmK9WI805"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226029,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/2a4PkVPUiH7ITVbUUxlxtx"
+    },
+    {
+      "album": {
         "name": "Just a friend of mine (Version piano - voix)",
         "url": "https://open.spotify.com/album/4B0Z2xiNwQJubhRrAlGqd7"
       },
@@ -5127,7 +5221,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 167142,
       "name": "MAD",
       "url": "https://open.spotify.com/track/3dbkTfj3VgC7IUHxDH8dO4"
@@ -5267,6 +5361,32 @@
       "duration_ms": 284386,
       "name": "Marching Band (feat. Masego)",
       "url": "https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv"
+    },
+    {
+      "album": {
+        "name": "Massamba Afundance",
+        "url": "https://open.spotify.com/album/6bqrt2uydI0J3aeJrqptbL"
+      },
+      "artists": [
+        {
+          "name": "Jahari Massamba Unit",
+          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182267,
+      "name": "Massamba Afundance",
+      "url": "https://open.spotify.com/track/3NRY5U5HwXk1xP43Hd5cJj"
     },
     {
       "album": {
@@ -5825,7 +5945,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 284250,
       "name": "No, No, No Pt. 2",
       "url": "https://open.spotify.com/track/7APHXq8XGcfgNuTZqZn5Uy"
@@ -7291,7 +7411,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 288293,
       "name": "Soul Bossa Nova (feat. Sean Jones)",
       "url": "https://open.spotify.com/track/32u3Jjd93Hkv8WBCHZlGUe"
@@ -7481,7 +7601,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 212194,
       "name": "Sunseekers",
       "url": "https://open.spotify.com/track/2hD250ixyqBjvYHpsOOEqG"

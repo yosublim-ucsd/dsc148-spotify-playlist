@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,796 songs - 4 day 0 hr 19 min
+1,797 songs - 4 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,6 +778,7 @@
 | [Kunnes sammutaan](https://open.spotify.com/track/16VWuoWGHyYDpdcXKhx7Ll) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef), [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Kunnes sammutaan](https://open.spotify.com/album/0U7lxFv86m5JiqzeOsGgxC) | 3:39 | 2021-06-20 | 2021-08-29 |
 | [Kuolematon](https://open.spotify.com/track/237KmZ9bP4dkhNYafeqAhY) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [ViO](https://open.spotify.com/album/1syZJ0HasgimydePATEIfx) | 3:49 | 2022-03-05 | 2022-03-11 |
 | [Kuolen vähän joka kerta](https://open.spotify.com/track/5UY43d7ZBUafyzNT3LHS0D) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A), [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Pahoinvoiva sukupolvi](https://open.spotify.com/album/2FwWmOY0mUVDKcMQjoSoce) | 3:00 | 2023-03-25 | 2023-04-02 |
+| [Kuori mua](https://open.spotify.com/track/4PHX33QcAtlyaPSvOJsV22) | [Sini Sabotage](https://open.spotify.com/artist/6zOyQHK37vQX62CFowxvWc) | [Kuori mua](https://open.spotify.com/album/64FEvZvuyPxg3y4tzcMi7e) | 2:55 | 2024-01-19 |  |
 | [Kutsumusammatti](https://open.spotify.com/track/4n2xAdgLv2OMA9DlU1qwez) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt) | [Kutsumusammatti](https://open.spotify.com/album/0SCIBfq6TYpVUdHXiaWrpo) | 3:09 | 2023-02-18 | 2023-02-20 |
 | [Kuuma jäbä](https://open.spotify.com/track/352xZpOxYzVTcsESmgCilA) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a) | [Kuuma jäbä](https://open.spotify.com/album/2jzWY3p5CNVMHOvcXkd8M8) | 2:59 | 2022-01-22 | 2022-03-06 |
 | [Kuuma kesä](https://open.spotify.com/track/3nqyrh7jYfc07FKMjUX1yf) | [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [Pohjantähden alla](https://open.spotify.com/album/2Dl01K663ypobdsB7hezyR) | 3:03 | 2021-06-27 | 2022-06-28 |
@@ -950,7 +951,7 @@
 | [Meine Tränen](https://open.spotify.com/track/0qGZkkxnyfGrUBLflKwBQG) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:57 | 2022-04-30 | 2022-05-02 |
 | [Meininkii mä metsästän](https://open.spotify.com/track/3IV2Pi5gQ1jxNiVmaRb8m4) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Meininkii mä metsästän](https://open.spotify.com/album/1VYh9dVMFdihX30sMIrjz8) | 2:46 | 2023-05-13 | 2023-05-15 |
 | [Meistä jää jälki](https://open.spotify.com/track/6JixlZ0ArxQjJ2bEUyT9tb) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Meistä jää jälki](https://open.spotify.com/album/24141qHrvAfIdIOmb40LJ5) | 3:54 | 2023-09-02 | 2023-09-07 |
-| [Meit ei oo](https://open.spotify.com/track/6gC4zm1oONWkl0zvo4Cwg6) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Meit ei oo](https://open.spotify.com/album/4Yb8i9q3s9NQr0Fljwx5GL) | 2:54 | 2023-04-01 |  |
+| [Meit ei oo](https://open.spotify.com/track/6gC4zm1oONWkl0zvo4Cwg6) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Meit ei oo](https://open.spotify.com/album/4Yb8i9q3s9NQr0Fljwx5GL) | 2:54 | 2023-04-01 | 2024-01-20 |
 | [MeitsiOn](https://open.spotify.com/track/6xQaikuArLcGoUbJXZBLHX) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [ViO](https://open.spotify.com/album/1syZJ0HasgimydePATEIfx) | 3:10 | 2022-03-05 | 2022-03-12 |
 | [Meiän Vuos](https://open.spotify.com/track/0X84P3sGzZVnTdKzOWD2E9) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Meiän Vuos](https://open.spotify.com/album/1BbHH0S4u4NzBHkOVAHjMm) | 2:19 | 2023-12-30 | 2024-01-07 |
 | [Melankolia](https://open.spotify.com/track/0BffPiYcFL8DUgOfZSYEFh) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Melankolia](https://open.spotify.com/album/7kcb9GmwLdRzmTbzDWQFPC) | 2:29 | 2022-09-24 | 2022-10-02 |

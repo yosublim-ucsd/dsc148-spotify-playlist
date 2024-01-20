@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Bossa",
+        "url": "https://open.spotify.com/album/3t7sKIx1ONsfzjWDEQAYsi"
+      },
+      "artists": [
+        {
+          "name": "Carole Samaha",
+          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197593,
+      "name": "Bossa",
+      "url": "https://open.spotify.com/track/6Zk9qT6hjvnD3y0NMgLZrb"
+    },
+    {
+      "album": {
         "name": "Btwhasheni",
         "url": "https://open.spotify.com/album/3M315U7mkSSUoxoUXv6M27"
       },

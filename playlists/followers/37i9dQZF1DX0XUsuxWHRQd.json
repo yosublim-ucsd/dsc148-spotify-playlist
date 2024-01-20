@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 15643904,
+  "2024-01-20": 15648403,
   "date_first_scraped": "2019-05-26",
   "description": "New music from 21 Savage, Lil Tjay and Nicki Minaj. ",
   "name": "RapCaviar",
@@ -18255,6 +18255,24 @@
       "duration_ms": 164773,
       "name": "Know You Know (ft. 2 Chainz)",
       "url": "https://open.spotify.com/track/4jT3GU6bhC8mrtDPZsNd0S"
+    },
+    {
+      "album": {
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157540,
+      "name": "Kool Aid & Frozen Pizza",
+      "url": "https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 882103,
+  "2024-01-20": 882193,
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Simba La Rue",
+  "description": "Solo il meglio dello street rap italiano. Cover: Kid Yugi",
   "name": "Street Culto",
   "tracks": [
     {
@@ -325,7 +325,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 160000,
       "name": "A45S",
       "url": "https://open.spotify.com/track/3NCw6IFbl8NTQHDwxkj1UC"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 182857,
       "name": "ADIOS (feat. Yunes LaGrintaa)",
       "url": "https://open.spotify.com/track/5F5STJurlkKk31rguyet4N"
@@ -1383,7 +1383,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 166451,
       "name": "BIMBO (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB"
@@ -1509,6 +1509,28 @@
       "duration_ms": 180266,
       "name": "Blitz! (feat. Geolier)",
       "url": "https://open.spotify.com/track/00gEB0MSDWojSbzIt1TrFT"
+    },
+    {
+      "album": {
+        "name": "D\u00e9cennie",
+        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "Blocco",
+      "url": "https://open.spotify.com/track/53XOl5fbG1dxv8JNB8VkdS"
     },
     {
       "album": {
@@ -2267,7 +2289,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 162705,
       "name": "Cheerleader (feat. MamboLosco)",
       "url": "https://open.spotify.com/track/0Fo0FNgaE0TkiunXZbrhvR"
@@ -3254,6 +3276,24 @@
     },
     {
       "album": {
+        "name": "Face to face 2",
+        "url": "https://open.spotify.com/album/4bQKXlrKLDgBuKFTGK3nO7"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193725,
+      "name": "Face to face 2",
+      "url": "https://open.spotify.com/track/3Y9w1o3DIroJsJN3WG5RMy"
+    },
+    {
+      "album": {
         "name": "Facendo Faccende",
         "url": "https://open.spotify.com/album/3VmtySjQrfflccXajzDArW"
       },
@@ -3545,7 +3585,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 163621,
       "name": "Frate",
       "url": "https://open.spotify.com/track/55BbuGqOvwaJd9tw16aVSc"
@@ -4086,6 +4126,24 @@
     },
     {
       "album": {
+        "name": "Hebs",
+        "url": "https://open.spotify.com/album/0yNWGKvITLUfl9wufIjo4W"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Hebs",
+      "url": "https://open.spotify.com/track/3EyDmcEetdHSOdY2V1xsXj"
+    },
+    {
+      "album": {
         "name": "HI TECH (feat. Dardan)",
         "url": "https://open.spotify.com/album/6AajVc17THqnxw38GIWRji"
       },
@@ -4211,6 +4269,24 @@
       "duration_ms": 216606,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/5p9uRbOaI8YwMa9n3QP4BZ"
+    },
+    {
+      "album": {
+        "name": "I GOT IT",
+        "url": "https://open.spotify.com/album/2YuhsuBSpgWQoulletw3U7"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142434,
+      "name": "I GOT IT",
+      "url": "https://open.spotify.com/track/1Dvl9M7pTzjsceCqAzChx2"
     },
     {
       "album": {
@@ -6500,6 +6576,24 @@
     },
     {
       "album": {
+        "name": "PANAMERA",
+        "url": "https://open.spotify.com/album/1OTEAosHYXXUh9gEalhGiK"
+      },
+      "artists": [
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "PANAMERA",
+      "url": "https://open.spotify.com/track/3DQAo0bfnXBrUu0uJ24htg"
+    },
+    {
+      "album": {
         "name": "PANINARO (feat. Tony Boy, Artie 5ive)",
         "url": "https://open.spotify.com/album/00xjYTrjvDKeWZVidjBiPT"
       },
@@ -7085,7 +7179,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 129737,
       "name": "Prova del 9",
       "url": "https://open.spotify.com/track/5bGCx4HbNEC8KKiVifYX1s"
@@ -7777,7 +7871,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 150693,
       "name": "Senza Di Me (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/6JJksqiePG5LUjiayW0Kre"
@@ -7967,7 +8061,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 164571,
       "name": "Si si (140bpm - Emin)",
       "url": "https://open.spotify.com/track/3slUj8GoFg2hBcXhWwiq70"
@@ -9322,6 +9416,24 @@
     },
     {
       "album": {
+        "name": "Bendicion",
+        "url": "https://open.spotify.com/album/6VTLsm4M3WA9YTf3RNWMnz"
+      },
+      "artists": [
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139019,
+      "name": "Van Scuro",
+      "url": "https://open.spotify.com/track/6cJSJ18BFkKij2wbSUakrR"
+    },
+    {
+      "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
       },
@@ -9487,7 +9599,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 153579,
       "name": "Vita Nuova",
       "url": "https://open.spotify.com/track/7L5AMtUojyMd0bpVyWePE1"
@@ -9823,6 +9935,24 @@
       "duration_ms": 140588,
       "name": "Z4 (don't play)",
       "url": "https://open.spotify.com/track/0xrwA0Ww9aHqitSzxBJ858"
+    },
+    {
+      "album": {
+        "name": "ZIG ZAG",
+        "url": "https://open.spotify.com/album/1jokKdI2v5ZLwXdDYLjyIU"
+      },
+      "artists": [
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141139,
+      "name": "ZIG ZAG",
+      "url": "https://open.spotify.com/track/7adSyT0GUITkpCHIrLqhTG"
     },
     {
       "album": {

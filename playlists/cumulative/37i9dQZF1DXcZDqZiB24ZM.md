@@ -2,7 +2,7 @@
 
 ### [Les nouveaux classiques](https://open.spotify.com/playlist/37i9dQZF1DXcZDqZiB24ZM)
 
-> Les essentiels du hip\-hop québécois des dernières années\. Photo: FouKi
+> Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
 196 songs - 11 hr 44 min
 

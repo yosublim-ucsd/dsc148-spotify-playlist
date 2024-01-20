@@ -4,14 +4,15 @@
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-450 songs - 1 day 8 hr 29 min
+451 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['A çimma](https://open.spotify.com/track/5ZfBTK4AOtIlTHlLlebnwE) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Cristiano De André](https://open.spotify.com/artist/4vhlKamY3mdKkq6V6cChOJ), [CRISTIANO DE ANDRÉ and JAQUES MORELENBAUM](https://open.spotify.com/artist/59ylsTAZ8356EvbK74CJ9C) | ['A çimma](https://open.spotify.com/album/6t7AB7ZyaihdBkS9Gkj53l) | 6:28 | 2023-04-20 | 2023-05-12 |
 | [1979](https://open.spotify.com/track/03LJjsuJViyRV0HQhDf9Ar) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [1979](https://open.spotify.com/album/4qDX05teYObQQntCs13mkz) | 4:48 | 2024-01-11 |  |
 | [35 Years of Mistakes](https://open.spotify.com/track/5Y8hBEFnBfEBXIZqcDVDcT) | [Simon Denizart](https://open.spotify.com/artist/1dFQ2v1uSzlTVLwfHQWgJk) | [35 Years of Mistakes](https://open.spotify.com/album/361AgfmA9fJZABk6A3C9PI) | 3:19 | 2024-01-04 |  |
-| [6 Feet Down](https://open.spotify.com/track/702iObycXld7AL2LQpTpUc) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V) | 2:48 | 2024-01-18 |  |
+| [6 Feet Down](https://open.spotify.com/track/702iObycXld7AL2LQpTpUc) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V) | 2:48 | 2024-01-18 | 2024-01-20 |
+| [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 | 2024-01-18 |  |
 | [A Baptist Beat](https://open.spotify.com/track/6R7rddgouLxoW9KwWX5azf) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu) | [A Baptist Beat](https://open.spotify.com/album/2tbIMQxw0o5EvK2cCTUcKB) | 4:10 | 2023-02-16 | 2023-05-26 |
 | [A Fine Romance](https://open.spotify.com/track/4DdjqjTARDbAvjELiHxuyn) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [You're Alike, You Two](https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz) | 4:13 | 2023-07-20 | 2023-09-29 |
 | [A Lullaby for Constance](https://open.spotify.com/track/7sDCXDgzgv9LrrSxSerVEa) | [Olivier Temime](https://open.spotify.com/artist/1Qv2LZLDnuCJwSZWXmRtYK) | [Inner Songs](https://open.spotify.com/album/3bHRe5o2d25MQm0M2LLhfA) | 5:19 | 2023-03-09 | 2023-06-23 |

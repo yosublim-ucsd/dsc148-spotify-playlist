@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 122017,
+  "2024-01-20": 122221,
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Paul Partohap ",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Gen Neo, Hyperlnk",
   "name": "mood.",
   "tracks": [
     {
@@ -2698,6 +2698,24 @@
     },
     {
       "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/6WsbH7xi21fFkyFpJQmCFY"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193686,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/2oagxwVFw5R0eiw8loRELR"
+    },
+    {
+      "album": {
         "name": "Exist/Exit",
         "url": "https://open.spotify.com/album/3EXKr7MzMre3pcaWteHeqz"
       },
@@ -4592,6 +4610,24 @@
     },
     {
       "album": {
+        "name": "i love your lovin'",
+        "url": "https://open.spotify.com/album/170nuycp1kQkSy66cPJQFB"
+      },
+      "artists": [
+        {
+          "name": "phyllzx",
+          "url": "https://open.spotify.com/artist/3pGw79Q5CfoBgwYw4vHfS2"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "i love your lovin'",
+      "url": "https://open.spotify.com/track/33IEqkx1wcNWl53cpdU3tv"
+    },
+    {
+      "album": {
         "name": "i need you more (feat. Suyo)",
         "url": "https://open.spotify.com/album/6e28WnTmG874KtLEkpUlWm"
       },
@@ -5115,7 +5151,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 216709,
       "name": "Issa Goodbye",
       "url": "https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae"
@@ -8177,7 +8213,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 138393,
       "name": "Ride It",
       "url": "https://open.spotify.com/track/2CFHcnCYe7AGWoxwRdMx70"
@@ -8719,6 +8755,24 @@
       "duration_ms": 181830,
       "name": "Shirt",
       "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+    },
+    {
+      "album": {
+        "name": "talking to the wind",
+        "url": "https://open.spotify.com/album/1cVxRuTFcepbaLF1Tc1C47"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133974,
+      "name": "SHOW ME OUT",
+      "url": "https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG"
     },
     {
       "album": {
@@ -10790,6 +10844,28 @@
     },
     {
       "album": {
+        "name": "Unless We Try",
+        "url": "https://open.spotify.com/album/53Ev9gXUcanBW1mFgj7lkZ"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        },
+        {
+          "name": "Hyperlnk",
+          "url": "https://open.spotify.com/artist/4hCOz7uKIaWamRdtryWXW1"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Unless We Try",
+      "url": "https://open.spotify.com/track/0vXHyEyJDEVGGPssnhmsgn"
+    },
+    {
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/52zyV45viU6MxjRZe3Xr1T"
       },
@@ -11051,7 +11127,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 196977,
       "name": "WANDERLUST",
       "url": "https://open.spotify.com/track/6zVGBoBfrQMnRKjbpq3CCu"
@@ -11465,7 +11541,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"

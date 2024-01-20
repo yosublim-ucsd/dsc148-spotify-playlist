@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Shouse
 
-1,902 songs - 4 day 9 hr 38 min
+1,903 songs - 4 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1724,7 +1724,8 @@
 | [Triste](https://open.spotify.com/track/6JpUHnddHwv9cJ6sFD0nzM) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:41 | 2023-03-16 | 2023-04-07 |
 | [TROMPA](https://open.spotify.com/track/1h2igaPPB08Gwe4WZynsei) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [TROMPA](https://open.spotify.com/album/6FIVgqW8RuPIqUrQtFfTkV) | 2:43 | 2023-05-18 | 2023-06-16 |
 | [Truths](https://open.spotify.com/track/4PC0UqnSndVDRispI75OyD) | [Lambo](https://open.spotify.com/artist/6yclXxDJ7Co1CpxN2fm79m) | [Truths](https://open.spotify.com/album/6QpYbWUrXplBlmZe7Kc5G2) | 3:35 | 2023-06-16 | 2023-07-07 |
-| [Try Again](https://open.spotify.com/track/02P95WFP4eWW64YiwK35eW) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD) | [Try Again](https://open.spotify.com/album/2oKyNakOoBVo0tHzGHo2Wo) | 3:00 | 2024-01-18 |  |
+| [Try Again](https://open.spotify.com/track/02P95WFP4eWW64YiwK35eW) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD) | [Try Again](https://open.spotify.com/album/2oKyNakOoBVo0tHzGHo2Wo) | 3:00 | 2024-01-18 | 2024-01-20 |
+| [Try Again](https://open.spotify.com/track/4VdTPiVynDPgumUwyq72Yj) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD) | [Try Again](https://open.spotify.com/album/4wDqvhLcVky1Ka1UTx5w4o) | 3:00 | 2024-01-18 |  |
 | [TRY DO BETTER](https://open.spotify.com/track/1XJ7K6Hlxcy3vx8pGXiw3h) | [Gabriel LCR](https://open.spotify.com/artist/07SDf1XAm27AoAODF470jW) | [No Starz in the City](https://open.spotify.com/album/5QrseBDyDnPaSU9GQRSY7u) | 2:48 | 2023-08-24 | 2023-09-08 |
 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-22 | 2023-07-14 |
 | [Turn Up The Volume](https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Turn Up The Volume](https://open.spotify.com/album/1VZIx8VbOceGLo2snGw5im) | 2:22 | 2023-11-23 | 2023-12-19 |

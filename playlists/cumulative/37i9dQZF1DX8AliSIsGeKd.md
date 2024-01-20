@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Adana Twins
 
-2,972 songs - 10 day 23 hr 36 min
+2,973 songs - 10 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1188,7 +1188,7 @@
 | [Homesick \- Niconé & David Hasert Remix](https://open.spotify.com/track/5JZLvQAp8Qe9CWVvyG1MUz) | [HOVR](https://open.spotify.com/artist/3OKJ15Et50JhoX1zbf0Cdz), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d) | [Homesick \(Niconé & David Hasert Remix\)](https://open.spotify.com/album/6RIesZAHlGxJe8AzBkPlF3) | 3:03 | 2023-10-26 | 2023-11-10 |
 | [Honeyslave \- Joachim Pastor Remix](https://open.spotify.com/track/1MokUB49c5PZnc6ieHlcRI) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Honeyslave \(Joachim Pastor Remix\)](https://open.spotify.com/album/6kqYEJ8dlR0Wr8BKi8XsT2) | 6:13 | 2023-06-01 | 2023-06-23 |
 | [Hoover Disco](https://open.spotify.com/track/5ZDN5YnJzs3811v0wC5Keq) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid EP](https://open.spotify.com/album/3AXgzzTRYTwGzyIsySrzjq) | 7:07 | 2023-05-04 | 2023-05-19 |
-| [Hope](https://open.spotify.com/track/04YaxpxAPVp4R4l432VTJn) | [ARCYDARO](https://open.spotify.com/artist/3foeYsD8getYJ83SoVZ0Xw) | [Hope](https://open.spotify.com/album/79UOwGeCqlpLY6xjALc5V4) | 5:27 | 2023-12-21 |  |
+| [Hope](https://open.spotify.com/track/04YaxpxAPVp4R4l432VTJn) | [ARCYDARO](https://open.spotify.com/artist/3foeYsD8getYJ83SoVZ0Xw) | [Hope](https://open.spotify.com/album/79UOwGeCqlpLY6xjALc5V4) | 5:27 | 2023-12-21 | 2024-01-20 |
 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 | 2023-02-23 | 2023-03-10 |
 | [Horizon in Your Eyes](https://open.spotify.com/track/29xOzz6zS14b2rHIpoCR9I) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Horizon in Your Eyes](https://open.spotify.com/album/2bwA0eBnbsNcy3VV4NkauR) | 3:54 | 2022-05-05 | 2022-05-20 |
 | [Hounds of Hell](https://open.spotify.com/track/1DcB747sZ7wM71YkaEYpLC) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Teamworks EP \(Pt\. 2/2\)](https://open.spotify.com/album/3MWbClmnqoShaxN4onZh5V) | 7:20 | 2022-08-18 | 2022-09-09 |
@@ -2349,6 +2349,7 @@
 | [Something You Should Know](https://open.spotify.com/track/40ZUozK2LPCM6OKTRM5kAH) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Something You Should Know / Artica](https://open.spotify.com/album/0keAoAz8OAeMJfNC9qeBoM) | 3:02 | 2024-01-18 |  |
 | [Somnia](https://open.spotify.com/track/1bahTOTB0QovvsqnWYJYqm) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Somnia](https://open.spotify.com/album/6LNIOYA9aaIQEkFbeWnDaz) | 7:13 | 2022-11-11 | 2022-12-02 |
 | [Somut \- Live](https://open.spotify.com/track/1hMX8p5K81qzOXsvUGqRWe) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74) | [Live in New York 2022](https://open.spotify.com/album/0JrJiVOpwPAF2KL0y7QGBj) | 5:09 | 2022-11-03 | 2022-11-18 |
+| [Sondans](https://open.spotify.com/track/5WX3v4DjqAK0deIcZ2bnsC) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [I Want To Party With You EP](https://open.spotify.com/album/33O3QGs7xZm2BdCiTqszUS) | 4:02 | 2024-01-19 |  |
 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 | 2022-06-23 | 2022-07-08 |
 | [Song To The Siren](https://open.spotify.com/track/1vCGRYkBhITUKcdy1iM44h) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Song To The Siren](https://open.spotify.com/album/5n09GoRSdwB8kufMEKjRG7) | 3:26 | 2022-09-22 | 2022-10-14 |
 | [Sonic Illusion](https://open.spotify.com/track/73nvNwQxc4Iu0IS78V7vVU) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Sonic Illusion](https://open.spotify.com/album/10OAUKQETWOARwrATQREVp) | 5:23 | 2024-01-11 |  |

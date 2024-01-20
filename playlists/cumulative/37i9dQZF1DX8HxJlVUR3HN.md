@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Lysistrata
 
-126 songs - 7 hr 33 min
+127 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Strong](https://open.spotify.com/track/578U1WgUClk2l3yCiGqn96) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Emptiness Takes Time](https://open.spotify.com/album/7clwukTEsSttK4ZnGjj0lt) | 3:00 | 2023-11-30 | 2024-01-19 |
 | [Strong as a Mountain](https://open.spotify.com/track/7HyzM5B70Sp3YnkpgapQjD) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [Strong as a Mountain](https://open.spotify.com/album/42ADX4R2zkJZteAes3josI) | 3:23 | 2023-12-21 |  |
 | [Sugar Rush](https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Sugar Rush](https://open.spotify.com/album/5lft83Fx1Dth0Frg1ptTUE) | 4:05 | 2023-09-28 | 2023-11-10 |
+| [Summery Land](https://open.spotify.com/track/1Uiq5cFvLUwCMAqVY77oPR) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Summery Land](https://open.spotify.com/album/7syFPlSaclu0L5tBX41Fl6) | 3:28 | 2024-01-19 |  |
 | [Tenderly](https://open.spotify.com/track/3aFoPNxo45mjM6dStHBpf5) | [The Twin Souls](https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM), [Yarol Poupaud](https://open.spotify.com/artist/1wQavz0TEd9BEp0K2choCR) | [Tenderly](https://open.spotify.com/album/4M0kEb9aheb55jdIEOeMsm) | 2:26 | 2024-01-11 |  |
 | [Thank You/Maniac](https://open.spotify.com/track/1uNpK2GKKq7SRDnRLT2A4y) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [Thank You/Maniac](https://open.spotify.com/album/56ywlwSmohBIYYAObUSISx) | 4:26 | 2023-11-09 | 2024-01-12 |
 | [The Bell Behind The Door \- Radio Edit](https://open.spotify.com/track/23wkntyHN3cKC7rcKZ6OCL) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [The Bell Behind The Door \(Radio Edit\)](https://open.spotify.com/album/2726pTdi2qf62oMoZaXLZq) | 2:51 | 2023-10-20 |  |

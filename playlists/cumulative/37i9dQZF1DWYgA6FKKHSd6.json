@@ -256,7 +256,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 275680,
       "name": "Another Day In Paradise",
       "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
@@ -3696,6 +3696,28 @@
       "duration_ms": 292320,
       "name": "The Lucky One",
       "url": "https://open.spotify.com/track/5DZG7foxuMefwnYHz14hLj"
+    },
+    {
+      "album": {
+        "name": "The Power of Love (feat. Cory Wong)",
+        "url": "https://open.spotify.com/album/3HrHGWiiJ7HrEHJPnbAnuT"
+      },
+      "artists": [
+        {
+          "name": "Grace Kelly",
+          "url": "https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262800,
+      "name": "The Power of Love (feat. Cory Wong)",
+      "url": "https://open.spotify.com/track/6KBnWp7gCyg5LkO9uZd55e"
     },
     {
       "album": {

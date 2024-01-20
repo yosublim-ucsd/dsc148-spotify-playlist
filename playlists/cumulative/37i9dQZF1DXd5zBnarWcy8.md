@@ -4,7 +4,7 @@
 
 > New Orleans kind of funk\. Cover: Cha Wa
 
-57 songs - 3 hr 58 min
+58 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [New Dixieland](https://open.spotify.com/track/5tevPppMv8m87LfX3b0jZh) | [Johnny Sketch & The Dirty Notes](https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF) | [The Big Awesome](https://open.spotify.com/album/2tXbmUF9jIPqE4pPJQX7bP) | 3:57 | 2020-04-29 |  |
 | [New Funk](https://open.spotify.com/track/16BdtvW5Wr8eFEyyy1istF) | [Big Sam's Funky Nation](https://open.spotify.com/artist/6Ydc3Hjjy7W964wZm2NX7G) | [Birth Of A Nation](https://open.spotify.com/album/2zOFhVE6qD8ikgNMwKb7DM) | 6:19 | 2020-04-29 |  |
 | [New Kind of Funk](https://open.spotify.com/track/285YwutNH5xUdow96XhkIS) | [Bo Dollis Jr](https://open.spotify.com/artist/7amHzGsj8KS7mgAYCR8czW), [The Wild Magnolias](https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz) | [New Kind of Funk](https://open.spotify.com/album/5Hn5Gplj2tYu6OQz54lltJ) | 3:32 | 2020-04-29 |  |
+| [NOLA](https://open.spotify.com/track/79tfhThMYe7QrTxkw7DgMG) | [Judd Harris](https://open.spotify.com/artist/2XBkRqo3V53w4jUCxylDPs) | [NOLA](https://open.spotify.com/album/4VcchPEqGkgbwQh6ir8NQt) | 3:11 | 2024-01-19 |  |
 | [Oh No](https://open.spotify.com/track/5zxsDWEyYC33HP6xjemJ8b) | [Stooges Brass Band](https://open.spotify.com/artist/6roac4vErdDz3KjVAAj034) | [Thursday Night House Party](https://open.spotify.com/album/5C3eJE2crvLBAkFHdj9hwZ) | 6:30 | 2020-04-29 |  |
 | [Pop, Popcorn Children](https://open.spotify.com/track/0YUzEKoTak7VHts4p1jglt) | [Eldridge Holmes](https://open.spotify.com/artist/25aWvOh8uTg8ZZSZvOPB9P) | [Soul Jazz Records Presents New Orleans Funk 4: Voodoo Fire In New Orleans 1951\-75](https://open.spotify.com/album/0U19UvTHNfTrxKlXe3FvcA) | 2:51 | 2020-04-29 |  |
 | [Rollo](https://open.spotify.com/track/3z0Oe9fJsGnIJLL326WA3f) | [Papa Grows Funk](https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q) | [Needle in the Groove](https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4) | 4:14 | 2020-04-29 |  |

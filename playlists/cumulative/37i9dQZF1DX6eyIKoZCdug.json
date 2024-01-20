@@ -1637,6 +1637,28 @@
     },
     {
       "album": {
+        "name": "Maloto",
+        "url": "https://open.spotify.com/album/30TCxNSRHOr9XFFlcRemA0"
+      },
+      "artists": [
+        {
+          "name": "Arcade Saiyans",
+          "url": "https://open.spotify.com/artist/3dQj2JqOjkdj6DC50whkn2"
+        },
+        {
+          "name": "Spirit-T",
+          "url": "https://open.spotify.com/artist/0C9oz46JXNuDzoWlrowOVc"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297736,
+      "name": "Maloto - Radio Edit",
+      "url": "https://open.spotify.com/track/6lNjWcTRSzhFtFZDqtzUy9"
+    },
+    {
+      "album": {
         "name": "Mama (Da Capo's Touch)",
         "url": "https://open.spotify.com/album/3CRw6YSsrFJQLjD3kVjM1i"
       },

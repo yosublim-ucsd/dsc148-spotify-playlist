@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,542 likes - 50 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,665 likes - 50 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 38 | [Lady of the Lake](https://open.spotify.com/track/4U4jKOweJ8FJ061VVp5l2p) | [Starcastle](https://open.spotify.com/artist/0bWkqEiCzUo1qRiQXI0VdJ) | [Starcastle](https://open.spotify.com/album/1fxW4E9zQ5RIIc4k1aPZRy) | 10:26 |
 | 39 | [Late November](https://open.spotify.com/track/7vnYJ3614D81Ips9RgU5y5) | [Pavlov's Dog](https://open.spotify.com/artist/3ZTpSMKKljfomqVgeJGwDL) | [Pampered Menial](https://open.spotify.com/album/2124SGcSNl3pYWNAdaXCir) | 3:14 |
 | 40 | [A Fortune In Lies](https://open.spotify.com/track/5g2M9oRpdhg32GepfEmUQy) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [When Dream And Day Unite](https://open.spotify.com/album/1AznpOdGM8OcHYmqOUBXy3) | 5:11 |
-| 41 | [Contemporary Insanity](https://open.spotify.com/track/5nlzy7UuII3tv8jPV2JiLo) | [Happy the man](https://open.spotify.com/artist/6aJOdlEvn7AFJTHCLZTwJH) | [The Muse Awakens](https://open.spotify.com/album/56MxFDtd5NhmmGBzbNmc0I) | 3:24 |
+| 41 | [Contemporary Insanity](https://open.spotify.com/track/5nlzy7UuII3tv8jPV2JiLo) | [Happy the Man](https://open.spotify.com/artist/6aJOdlEvn7AFJTHCLZTwJH) | [The Muse Awakens](https://open.spotify.com/album/56MxFDtd5NhmmGBzbNmc0I) | 3:24 |
 | 42 | [Inca Roads](https://open.spotify.com/track/0txIkFgdvURMOn35C2fvI3) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN), [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL) | [One Size Fits All](https://open.spotify.com/album/4mp2SC1Wq9jZJINGPAKv0V) | 8:45 |
 | 43 | [Tarkus \(i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus\) \( 2012 \- Remaster\)](https://open.spotify.com/track/7fLEJNwcW60W74XehVmR5p) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus](https://open.spotify.com/album/5yByhxbOs8FOU2UutO7AGO) | 20:43 |
 | 44 | [Nine Feet Underground \- Medley](https://open.spotify.com/track/0Y4Qokp46GcqB9aXX2nFNZ) | [Richard Sinclair](https://open.spotify.com/artist/2hPlbSdQUzyuyVFxv43oRM), [David Sinclair](https://open.spotify.com/artist/4uH8njAb6KcUfLEBioTQQk), [Pye Hastings](https://open.spotify.com/artist/0LEzVHjmwrlmI7XN8YB4T4), [Richard Coughlan](https://open.spotify.com/artist/2fyJ8bKcKbrFVyimhREiKj), [Caravan](https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s) | [In The Land Of Grey And Pink](https://open.spotify.com/album/6TWjon4uYsV2wu7QJTuKjd) | 22:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 49 | [Drunkship Of Lanterns](https://open.spotify.com/track/1hWw1UGI5GuowixFmunO9y) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 7:05 |
 | 50 | [The Crowing](https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 6:35 |
 
-Snapshot ID: `MCwzMGFjNDRmNDMxNDk2YjVmYmIwNWY4YjhmY2I3MjVhMzRkMDYyMDhk`
+Snapshot ID: `MCwyNmYzOGYyYzUwZWMzYWJmN2FkNTQ3YTZmMzZkNWYyZjhmYmQyMWE3`

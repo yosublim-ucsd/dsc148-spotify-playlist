@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-160 songs - 15 hr 12 min
+161 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Becca's Dad](https://open.spotify.com/track/3OVye532W6NOtkGGmu2EJj) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9), [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y) | [Becca's Dad](https://open.spotify.com/album/3v068X3waV2bpB8f82XirA) | 4:16 | 2023-05-05 |  |
 | [Bittersweet Ending \(Kev Rowe\)](https://open.spotify.com/track/3G5ZL9PIMtZxVs8TfG3L3p) | [Kev Rowe](https://open.spotify.com/artist/1hTerDFNMFDQGcwDMJHAVm) | [Bittersweet Ending \(Kev Rowe\)](https://open.spotify.com/album/2IWYnfeMxqlzIMVcRx8vfI) | 3:38 | 2023-03-24 | 2023-07-08 |
 | [Blow You Away](https://open.spotify.com/track/6dbqL8257GSYfwiAVGD5W4) | [Daniel Hardin](https://open.spotify.com/artist/4qWbNJklW8aRvZSb8gCi22), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Blow You Away](https://open.spotify.com/album/70MEaXYusonEFxCPoKnvsi) | 4:49 | 2022-06-23 |  |
+| [Bottom of the Hill](https://open.spotify.com/track/0CbCjYHs9BQgvUtVdyNsQS) | [River Spell](https://open.spotify.com/artist/15uvNDr9fxrZcvajNYYI46) | [Bottom of the Hill](https://open.spotify.com/album/2JtbjJhE3k9bn2mHHsdS0C) | 6:23 | 2024-01-19 |  |
 | [Breakfast of Champs \(Live\)](https://open.spotify.com/track/35S87Fc7BaLnwtKQZQ3633) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Jaunts of Our Lives, Vol\. 2 \(Live\)](https://open.spotify.com/album/5b4LQV3XlMqhfevuZeEW3a) | 14:15 | 2023-04-21 |  |
 | [Breathless](https://open.spotify.com/track/4f9U0iMBjmcBzguVEu2xaP) | [Shambala](https://open.spotify.com/artist/1wFNBQylnepwBAVoEcL7l8) | [Breathless](https://open.spotify.com/album/0pyhlYwLsvjX72hCOTSJHy) | 3:19 | 2023-06-02 |  |
 | [Burning the Hardwood Floor \(Live\)](https://open.spotify.com/track/1zgPMQXv5YtUUn5GA3njWj) | [Airshow](https://open.spotify.com/artist/2USLUiPGlv1amJy3gUszGw) | [Live 02.05.22 \(High Cotton Brewing Company \- Memphis, TN\)](https://open.spotify.com/album/068pAkEPmPbbaSTCfN8tef) | 8:49 | 2022-09-16 |  |
@@ -57,7 +58,7 @@
 | [Foggy Days](https://open.spotify.com/track/1JAJSf52angUw88cDf4KOP) | [David Henriksson & Daze Delight](https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV) | [Foggy Days](https://open.spotify.com/album/0u3fsoByiOKsHSqaBoqpeG) | 4:17 | 2023-04-21 | 2023-06-03 |
 | [Fossilize](https://open.spotify.com/track/24jLSXJDqYx0TIqaYWIWSY) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Fossilize](https://open.spotify.com/album/3nXD82sZiTjesVEhO3MO0D) | 4:02 | 2023-06-02 | 2023-07-01 |
 | [Frog Rock](https://open.spotify.com/track/5Gbm1ipybjf63mU439XcrC) | [Road Waves](https://open.spotify.com/artist/0v5yDE94Tf7agKSVwqSwau) | [Frog Rock](https://open.spotify.com/album/5yAKhXWdnSINL6HH87aKpK) | 9:35 | 2023-06-16 |  |
-| [Fuzzy Ride](https://open.spotify.com/track/1IdkicizxTzNbZsMsriuPd) | [David Henriksson & Daze Delight](https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV) | [Fuzzy Ride](https://open.spotify.com/album/4JJYkBEnl3bt2unZyICxHe) | 4:48 | 2023-01-27 |  |
+| [Fuzzy Ride](https://open.spotify.com/track/1IdkicizxTzNbZsMsriuPd) | [David Henriksson & Daze Delight](https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV) | [Fuzzy Ride](https://open.spotify.com/album/4JJYkBEnl3bt2unZyICxHe) | 4:48 | 2023-01-27 | 2024-01-20 |
 | [Galactic Passport](https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 6:52 | 2022-06-23 | 2023-05-20 |
 | [Get out of Your Head](https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Selections, Vol\. 1](https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7) | 12:11 | 2022-06-23 | 2023-04-09 |
 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 | 2022-07-08 |  |

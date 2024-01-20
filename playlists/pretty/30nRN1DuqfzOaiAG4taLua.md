@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30nRN1DuqfzOaiAG4taLua.md) - [plain]
 
 > 
 
-[BLK OUT](https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla) - 12 likes - 53 songs - 2 hr 50 min
+[BLK OUT](https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla) - 12 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,7 @@ pretty - [cumulative](/playlists/cumulative/30nRN1DuqfzOaiAG4taLua.md) - [plain]
 | 51 | [Rhythm Machine](https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Rhythm Machine](https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV) | 3:07 |
 | 52 | [Hook Or Crook](https://open.spotify.com/track/1PAP14ZkxJGdyFR2KpxORT) | [Jack Kennedy](https://open.spotify.com/artist/31dw7SuERzZnTvIMo98GOq) | [Hook Or Crook](https://open.spotify.com/album/0wN03tpWcsbTbb4eK5XETQ) | 2:46 |
 | 53 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 |
+| 54 | [Madonna](https://open.spotify.com/track/4oe5xGMkivOeMIINR4kIOb) | [TEGI](https://open.spotify.com/artist/2BQTft757MTqCcQ2yegPfn) | [Madonna / Like WTF](https://open.spotify.com/album/5ANwvMu3qBU62Wq3OZHjON) | 2:47 |
+| 55 | [Like WTF](https://open.spotify.com/track/1VsntaYUROfIQfeMDFEfXJ) | [TEGI](https://open.spotify.com/artist/2BQTft757MTqCcQ2yegPfn) | [Madonna / Like WTF](https://open.spotify.com/album/5ANwvMu3qBU62Wq3OZHjON) | 3:02 |
 
-Snapshot ID: `NjksZjJiMmY4YzNiZDg5NTQ3YzNlN2M3YTljMmQzMmYyNDM4NWYyZWUzNw==`
+Snapshot ID: `NzEsNjczMjJjZTJhYjFmOTkxYzA0NzJkMDBkZTM4OTkzZjQ4OTVkZTBiOQ==`

@@ -700,7 +700,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 180000,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79"
@@ -1284,6 +1284,24 @@
       "duration_ms": 180000,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/3yVy2TK4A8pyGtzFFSzYhJ"
+    },
+    {
+      "album": {
+        "name": "Boo of the Booless",
+        "url": "https://open.spotify.com/album/1iH80GKyvJBUWvpQ7KTtl4"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180022,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/2MeVZdxJKJrMGxMryaXH6r"
     },
     {
       "album": {

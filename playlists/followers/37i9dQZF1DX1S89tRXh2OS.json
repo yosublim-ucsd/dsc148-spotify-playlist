@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 427059,
+  "2024-01-20": 427167,
   "date_first_scraped": "2022-12-28",
   "description": "La playlist id\u00e9ale pour prendre la route.",
   "name": "Sur la route",
@@ -1679,7 +1679,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 241440,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
@@ -2663,7 +2663,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"

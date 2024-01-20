@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! H\u00e4r finns veckans b\u00e4sta och mest intressanta nya l\u00e5tar. Happy New Music Friday!",
-  "num_followers": 203423,
+  "num_followers": 203620,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDBmM2Y3OTdlNTYyM2FiODA0NWVkZDk5MDE0YzYyMDY5YjViYTQ3",
+  "snapshot_id": "MCw4NTI3MDQ0NWFlMGQ2NDFlMWViNDA4ZTRjZDRlM2RkZWIxZmZlM2Y0",
   "tracks": [
     {
       "added_at": "2024-01-18 23:00:00",
@@ -627,6 +627,30 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "MULTIMILLIONAIRE (w/ Trippie Redd & Odetari)",
+        "url": "https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 121536,
+      "name": "MULTIMILLIONAIRE (w/ Trippie Redd & Odetari)",
+      "url": "https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/2Li6KhcK5WlPgLVN3LLGHD"
       },
@@ -1140,7 +1164,7 @@
           "url": "https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs"
         }
       ],
-      "duration_ms": 189851,
+      "duration_ms": 189904,
       "name": "Get To Know Me",
       "url": "https://open.spotify.com/track/27h1ff1ve1QAZ2NKF1EzfG"
     },
@@ -1380,7 +1404,7 @@
       "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "Not Your Only One",
-        "url": "https://open.spotify.com/album/1U2DE2caN5kJsiKUgBw3ej"
+        "url": "https://open.spotify.com/album/4HTfYLdgcYfCSohIWawe7q"
       },
       "artists": [
         {
@@ -1394,7 +1418,7 @@
       ],
       "duration_ms": 184000,
       "name": "Not Your Only One",
-      "url": "https://open.spotify.com/track/7bz3YxGJWGEL0ACviYbX4s"
+      "url": "https://open.spotify.com/track/4NvRCseHEd0HuIt63jVyT2"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1800,7 +1824,7 @@
       "added_at": "2024-01-18 23:00:00",
       "album": {
         "name": "Leave",
-        "url": "https://open.spotify.com/album/4oI3CE0TNkmbQQqZdHR2zh"
+        "url": "https://open.spotify.com/album/2zwQsQOUckjqeOZ8Id2hVL"
       },
       "artists": [
         {
@@ -1810,7 +1834,7 @@
       ],
       "duration_ms": 202000,
       "name": "Leave",
-      "url": "https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj"
+      "url": "https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF"
     },
     {
       "added_at": "2024-01-18 23:00:00",

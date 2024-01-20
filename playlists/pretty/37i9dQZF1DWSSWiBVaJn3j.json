@@ -1,12 +1,12 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 197414,
+  "num_followers": 197560,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzM4ZGZjMjlhODI1MTY4MTZlY2YyNDIzYmFkYjJmZTY5YjhkNDdj",
+  "snapshot_id": "MCxiMzU3NzFjZWQwMzBiYTQwMjRjNmRiMjdmYWQ4ZTc1YzVmMWM5NzU0",
   "tracks": [
     {
       "added_at": "2021-03-22 17:56:31",
@@ -671,6 +671,22 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "duration_ms": 214040,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
         "name": "The Who Sell Out (Super Deluxe)",
         "url": "https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "In-A-Gadda-Da-Vida",
-        "url": "https://open.spotify.com/album/4L1Qw49gKwFuQwQovBxsKI"
-      },
-      "artists": [
-        {
-          "name": "Iron Butterfly",
-          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
-        }
-      ],
-      "duration_ms": 1024133,
-      "name": "In-A-Gadda-Da-Vida - 2006 Remaster Full-Length",
-      "url": "https://open.spotify.com/track/1exUq8aG2OMbSeZeTwz06k"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
         "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 122893,
       "name": "Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009",
       "url": "https://open.spotify.com/track/4fUKE8EULjQdHF4zb0M8FO"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "In-A-Gadda-Da-Vida",
+        "url": "https://open.spotify.com/album/4L1Qw49gKwFuQwQovBxsKI"
+      },
+      "artists": [
+        {
+          "name": "Iron Butterfly",
+          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
+        }
+      ],
+      "duration_ms": 1024133,
+      "name": "In-A-Gadda-Da-Vida - 2006 Remaster Full-Length",
+      "url": "https://open.spotify.com/track/1exUq8aG2OMbSeZeTwz06k"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -779,22 +795,6 @@
       "duration_ms": 210426,
       "name": "Walk In My Shadow",
       "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
-        "name": "Odessey and Oracle",
-        "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Time of the Season - Mono Version",
-      "url": "https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh"
     },
     {
       "added_at": "2021-03-22 17:56:31",

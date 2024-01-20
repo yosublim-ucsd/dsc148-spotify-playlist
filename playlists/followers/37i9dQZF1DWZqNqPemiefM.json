@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 64862,
+  "2024-01-20": 64872,
   "date_first_scraped": "2022-03-31",
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
   "name": "Ambient Tokyo",
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 296000,
       "name": "a beautiful day",
       "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
@@ -1175,6 +1175,24 @@
       "duration_ms": 279000,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5Ux0zCT223DmKcjzISvSDW"
+    },
+    {
+      "album": {
+        "name": "Call (Deep Blue)",
+        "url": "https://open.spotify.com/album/3AWEj1fDPVnV31N8yrNIJd"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Call (Deep Blue)",
+      "url": "https://open.spotify.com/track/72jCR0d2luLn3Toso0vimT"
     },
     {
       "album": {
@@ -4241,7 +4259,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 300773,
       "name": "lust",
       "url": "https://open.spotify.com/track/6l2XwFCDccPyfvrAvZ97hC"
@@ -7249,6 +7267,24 @@
       "duration_ms": 333986,
       "name": "Surfing on Mind Wave pt 2",
       "url": "https://open.spotify.com/track/5bZvhP6t3M6Xirvc2bgDBP"
+    },
+    {
+      "album": {
+        "name": "surfkids nostalgia",
+        "url": "https://open.spotify.com/album/2Kx4uojmsqwwwvluoqkd4L"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112008,
+      "name": "surfkids nostalgia",
+      "url": "https://open.spotify.com/track/4gKmBDS84ly3f5nlAEU3Fk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,593 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,614 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 64 | [Calla Boca](https://open.spotify.com/track/7lSKSGrlqaiNQ3zDnsKVXa) | [La Redada](https://open.spotify.com/artist/2GsOqV500sy1t59cwQA4Ed) | [Calla Boca](https://open.spotify.com/album/2PJhdUdoxO2Jhkc6mnfi2E) | 3:43 |
 | 65 | [Quiero a Mi Gente](https://open.spotify.com/track/1K1Kz6leLWIBLdHw3HbT8C) | [Abelardo Carbonó y su Conjunto](https://open.spotify.com/artist/6s24A930wT8Pygf0NZcRm8) | [Guana Tangula](https://open.spotify.com/album/2jCg6WjHRtfLBQNivXzThE) | 3:48 |
 | 66 | [Sexmachina \- Extended version](https://open.spotify.com/track/0IdlH9wYxpiveAFDwWIUim) | [Juan Laya & Jorge Montiel](https://open.spotify.com/artist/3vMQFPxFpNceoX75a5zrja) | [Afro Latin Funk](https://open.spotify.com/album/1G54DskpsPlLMknusOjmMP) | 5:44 |
-| 67 | [Mayolye \- Original Single Version](https://open.spotify.com/track/1WpPnQE7d2UUrs2AmFurP3) | [Ondeno](https://open.spotify.com/artist/3eWR8PiHtRFRTbvusT3aHm) | [Mayolye](https://open.spotify.com/album/3ibxlikE2FxhfuFxfkirGv) | 3:49 |
+| 67 | [Mayolye](https://open.spotify.com/track/4zidg9fSeSaxdQiZf3CgZD) | [Ondeno Rebieno](https://open.spotify.com/artist/0FnqaKAdt9LA61ae87lRzJ) | [Mayolye](https://open.spotify.com/album/7rL23wRfnsDCyPa1obi4Re) | 3:52 |
 | 68 | [Dari Demou'ek](https://open.spotify.com/track/4WkKXTTZuAr9QgIeTAmA6w) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:41 |
 | 69 | [អូនចង់រាំលេង](https://open.spotify.com/track/1ci1rES9fhzVcOyEOJQE39) | [Ros Serey Sothea](https://open.spotify.com/artist/6aBWAoJJ2F6HD6mTr2aLZ0) | [អូនចង់រាំលេង](https://open.spotify.com/album/6ETwcbb1nU8dhpTGBnUwZi) | 3:16 |
 | 70 | [Vou Morar no Teu Sorriso](https://open.spotify.com/track/1Y2FZI67wVCjFBL7OW0OcF) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Série Samba Soul](https://open.spotify.com/album/1pxr5QAAEWuWAdGVKA1cDd) | 2:30 |
@@ -705,7 +705,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 695 | [El Raton](https://open.spotify.com/track/2WFimSbDajGIXOtEK90Vko) | [Los Invasores](https://open.spotify.com/artist/3UG7GUXPGIte9gqulx8uLG) | [Latin Jazz Summer, Vol\. 5](https://open.spotify.com/album/6ISP6QhA1vp0oGRmPEpnjd) | 3:26 |
 | 696 | [Doublé doublé](https://open.spotify.com/track/2vUdcmS9LfqpvB6jURRdCx) | [Nyboma](https://open.spotify.com/artist/4HT4UQebFlfxyaDLWkCHPT), [L'orchestre Les Kamalé Dynamiques du Zaïre](https://open.spotify.com/artist/4pu9oIXSOqnNjNOpUxlSzL) | [Doublé doublé](https://open.spotify.com/album/0dNH1k5Y0GyEOFBuEKitMB) | 8:11 |
 | 697 | [Khomo Tsaka Deile Kae?](https://open.spotify.com/track/3i8ac6KmUQB6FW2bEtiTHu) | [Marumo](https://open.spotify.com/artist/10KHZjjoB1dLqa8a15OMar) | [Modiehi](https://open.spotify.com/album/6tGoTJl7ysugDBMNCShHtL) | 3:39 |
-| 698 | [Jimmy, Renda\-Se](https://open.spotify.com/track/4tTZq61IKisspn9NhoJtYn) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Jimmy, Renda\-Se/ Irene \- EP](https://open.spotify.com/album/0hEDr5IFbF4mZBHffTZl61) | 3:37 |
+| 698 | [Jimmy, Renda\-Se](https://open.spotify.com/track/4tTZq61IKisspn9NhoJtYn) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Jimmy, Renda\-Se/ Irene](https://open.spotify.com/album/0hEDr5IFbF4mZBHffTZl61) | 3:37 |
 | 699 | [Minha Ciranda](https://open.spotify.com/track/6ce5ozgjHE0JoYlIpk4WYN) | [Fabiano do Nascimento](https://open.spotify.com/artist/5GNLaaEOwaEaXJfK7XnD8j), [Airto Moreira](https://open.spotify.com/artist/3poGT6mQeOlXOdJwvXz5T1), [Kana Shimanuki](https://open.spotify.com/artist/4OCFV7h8J2YIFjbpRqf2g1) | [Dança do Tempo](https://open.spotify.com/album/6PWdY8VAio3JPra3NJ3qq2) | 4:05 |
 | 700 | [16 Toneladas](https://open.spotify.com/track/4eJFgz99l1ppawgesG8RRV) | [Noriel Vilela](https://open.spotify.com/artist/3zPn6Yi7aq3rPsNtS3ckvs) | [16 Toneladas](https://open.spotify.com/album/4acqtDCNC3MJCenFrKpe4a) | 2:11 |
 | 701 | [For Me You Are Dub](https://open.spotify.com/track/0PsWezfEPEKDJ07Q6CiVCv) | [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Hollie Cook in Dub \(Prince Fatty Presents\)](https://open.spotify.com/album/0WRN5cCzKxKNZbU9S4aRxF) | 3:28 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCwyZmVmYTVhMWIyYTJlOGUyMzY1NzUyNWFmZTYxNmFjMWQ2OTQ5MDcx`
+Snapshot ID: `MCw1Nzg5NTY5MmVmZDQzOTI5ZWFiZWNkYWVmYjFlNjUwY2E3MDIxOGM4`

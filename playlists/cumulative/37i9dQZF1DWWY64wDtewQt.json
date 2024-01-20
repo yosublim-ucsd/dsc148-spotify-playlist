@@ -2197,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "CHIPI CHAPA BRAZIL",
+        "url": "https://open.spotify.com/album/6fxzNr5itaDZK2bhKWaGWt"
+      },
+      "artists": [
+        {
+          "name": "John Bis.T",
+          "url": "https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100476,
+      "name": "CHIPI CHAPA BRAZIL",
+      "url": "https://open.spotify.com/track/3RksMYhWbtDx6zicQFAn9F"
+    },
+    {
+      "album": {
         "name": "City",
         "url": "https://open.spotify.com/album/4VMkvhsq4zoNkYPcy3LMsr"
       },
@@ -10740,7 +10758,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 111445,
       "name": "Silent In Loss",
       "url": "https://open.spotify.com/track/5u57He0TBFnoVrlYw7CDnW"

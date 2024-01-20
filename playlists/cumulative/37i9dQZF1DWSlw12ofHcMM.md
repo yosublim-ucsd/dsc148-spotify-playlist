@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-191 songs - 11 hr 2 min
+192 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [My Babe](https://open.spotify.com/track/5skNyajERDfPHvKNdzSpRU) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [My Babe](https://open.spotify.com/album/4bdKuZONP3UEQuLAHvmlTP) | 2:18 | 2022-07-11 |  |
 | [Never Meant to Be](https://open.spotify.com/track/0MZ2Za6WjvFWBcoojKgyqX) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Welshly Arms](https://open.spotify.com/album/5YREw7QgCXdmhXPiiCJdaN) | 2:55 | 2022-07-11 | 2022-10-14 |
 | [Never Meant to Be](https://open.spotify.com/track/3NHyQ388Ac1VieCVVBFJOU) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Welshly Arms](https://open.spotify.com/album/2KCzyaIgv1S3UFJXCB0KmE) | 2:55 | 2021-11-19 | 2022-07-29 |
-| [Never Meant to Be](https://open.spotify.com/track/4WFIyyK3oMe7LNQa7pKzn3) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Welshly Arms](https://open.spotify.com/album/2xI9EbtYPw0zrMgCo63yjQ) | 2:55 | 2022-07-11 |  |
+| [Never Meant to Be](https://open.spotify.com/track/4WFIyyK3oMe7LNQa7pKzn3) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Welshly Arms](https://open.spotify.com/album/2xI9EbtYPw0zrMgCo63yjQ) | 2:55 | 2022-07-11 | 2024-01-20 |
+| [Never Meant to Be](https://open.spotify.com/track/50Ljq1CAO9heSvZTZUeIR1) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Welshly Arms](https://open.spotify.com/album/37C2Kf3lqRdmsAaVJfW2ir) | 2:55 | 2023-03-10 |  |
 | [NFWMB](https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:19 | 2021-11-19 |  |
 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 | 2021-11-19 |  |
 | [No Sugar In My Coffee](https://open.spotify.com/track/2sgliG5TcHwAiWQn8ecT71) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87) | 3:28 | 2022-07-11 | 2023-10-01 |

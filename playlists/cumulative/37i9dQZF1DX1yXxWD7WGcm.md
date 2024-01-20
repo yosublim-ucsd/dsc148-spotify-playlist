@@ -4,11 +4,12 @@
 
 > Les classiques du zouk\. Photo : Fanny J
 
-57 songs - 3 hr 56 min
+60 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/3XkvHCG8tMtQLOpIW6vqld) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Viens zouker, vol\. 5](https://open.spotify.com/album/4frSY8kCNasO8e5xmlT6WM) | 0:00 | 2023-03-23 |  |
+| [](https://open.spotify.com/track/3XkvHCG8tMtQLOpIW6vqld) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Viens zouker, vol\. 5](https://open.spotify.com/album/4frSY8kCNasO8e5xmlT6WM) | 0:00 | 2023-03-23 | 2024-01-20 |
+| [A Fleur De Vous](https://open.spotify.com/track/4WQRqy7TUvQv9R2Mk5NAGR) | [Warren](https://open.spotify.com/artist/6pJdJSI3HsmjyL1wccGqxI) | [Snake Me](https://open.spotify.com/album/6vPq8K3BvGoFD1vN4Rqvaa) | 4:48 | 2024-01-19 |  |
 | [Aime Moi Plus Fort](https://open.spotify.com/track/3AZD35FEz0cxX4N8cNAT28) | [Perle Lama](https://open.spotify.com/artist/3JCfgXnyQBwjAp61EctbQP) | [Mizikasoleil](https://open.spotify.com/album/3gC1be7qMtmhU60jD1mrlH) | 3:35 | 2023-03-23 |  |
 | [Amour impossible](https://open.spotify.com/track/2V5RBUUwk6trHsUX1G1sQg) | [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke), [Milca](https://open.spotify.com/artist/5YE3riVoIML4fFnfqJzK3L) | [Premier souffle](https://open.spotify.com/album/6lBNyP8yReqPmafALc3DEi) | 5:22 | 2023-03-23 |  |
 | [Ancrée à ton port](https://open.spotify.com/track/05xLOpipHWbGG0CboVVrXy) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Vous les hommes](https://open.spotify.com/album/02mxvQUtyiMKLMfnfjhaLD) | 4:06 | 2023-03-23 |  |
@@ -18,8 +19,9 @@
 | [Chaviré mwen](https://open.spotify.com/track/4VrAlqQ2frjH4qOa7L8AQ5) | [Nichols](https://open.spotify.com/artist/6rvJUax9W8BrBC6nL6Rl8W) | [SEVEN](https://open.spotify.com/album/2Z1dC2tIfE630VlJ7cvav4) | 4:11 | 2023-03-23 |  |
 | [Confidence](https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Premiers pas](https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4) | 3:44 | 2023-03-23 |  |
 | [Danca Kizomba](https://open.spotify.com/track/6BLLoHOQqY3rOpMoaO6yHv) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Danca Kizomba](https://open.spotify.com/album/0bnbWYZTw0PxM4Lr2vTw7N) | 3:49 | 2023-03-23 |  |
+| [Dans La Vie](https://open.spotify.com/track/2KMMtKJWRQT7TJtrxHu2F4) | [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [Juste Moi \(Part 1\)](https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo) | 5:10 | 2024-01-19 |  |
 | [Elles demandent](https://open.spotify.com/track/20Vw5eQCMhosK8N1h7RPkx) | [Medhy Custos](https://open.spotify.com/artist/4yUROciHRAtEr2S3h33qZd) | [Serial Lover, l'intégrale de Medhy Custos](https://open.spotify.com/album/43zxwBEznArhA3U9sTfpcA) | 3:02 | 2023-03-23 |  |
-| [Emmène moi](https://open.spotify.com/track/5kxKBb0icDE6kzSYRmdZLg) | [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke) | [Emmène moi](https://open.spotify.com/album/7s6SgzU3CsbcwclK72dqUs) | 5:26 | 2023-03-23 |  |
+| [Emmène moi](https://open.spotify.com/track/5kxKBb0icDE6kzSYRmdZLg) | [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke) | [Emmène moi](https://open.spotify.com/album/7s6SgzU3CsbcwclK72dqUs) | 5:26 | 2023-03-23 | 2024-01-20 |
 | [Emmène\-Moi Avec Toi](https://open.spotify.com/track/4Ql7ivqB2u0YjPLBhLQRLW) | [Perle Lama](https://open.spotify.com/artist/3JCfgXnyQBwjAp61EctbQP) | [Mizikasoleil](https://open.spotify.com/album/3gC1be7qMtmhU60jD1mrlH) | 3:35 | 2023-03-23 |  |
 | [Femmes fatales, vol\. 3](https://open.spotify.com/track/7q9zssoBwzepWhmP6z98uj) | [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71), [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [Femmes fatales, vol\. 3](https://open.spotify.com/album/5s4IeohOHunBRHFWhAopKk) | 4:27 | 2023-03-23 |  |
 | [Ferme Tes Yeux](https://open.spotify.com/track/1B35BUUooPRXidBN21iAFi) | [2 Wayz](https://open.spotify.com/artist/4wveO4vaceoKx3V0xQTgW1) | [Section Zouk Party, Vol\. 2](https://open.spotify.com/album/6dPPJGFDIeyYj6St7eNIFS) | 3:11 | 2023-03-23 | 2023-12-02 |
@@ -60,8 +62,9 @@
 | [Syé bwa](https://open.spotify.com/track/1mm94lmnVlbyrsa9PgSCvS) | [Kassav](https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais) | [Vini Pou](https://open.spotify.com/album/4UD2qoE1duOinDCKhB83f6) | 4:38 | 2023-03-23 | 2023-11-04 |
 | [Syé bwa](https://open.spotify.com/track/0eI5kOHA6raJvt2aj61zwg) | [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj) | [Vini Pou](https://open.spotify.com/album/1L42ULJvUfrOrhSmRrXB1F) | 4:38 | 2023-03-23 |  |
 | [Tu Kiffes Ca](https://open.spotify.com/track/4VjAINz190LKGIhlOyzbLh) | [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [Juste Moi \(Part 1\)](https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo) | 3:58 | 2023-03-23 | 2023-12-02 |
+| [Tu Me Manqueras Toujours \- Feat\. Marvin](https://open.spotify.com/track/2DpbIobTNEMtM1xMhpMbIx) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Priscillia](https://open.spotify.com/album/2kh0wI26kprk0O8mui3uX9) | 5:07 | 2024-01-19 |  |
 | [Tu me manques](https://open.spotify.com/track/2tjdUXAQO53oMqpRoA4bwP) | [Harry Diboula](https://open.spotify.com/artist/57BxOfFiszAxhvXp5gE5Hn) | [Entre vous et moi \(32 Hits\)](https://open.spotify.com/album/2FLvO78SIGxE9bDTliU2uB) | 4:27 | 2023-12-01 |  |
-| [Turn Me Up](https://open.spotify.com/track/0mSQpFmTxOWszXXftJ7UEt) | [Willy Denzey](https://open.spotify.com/artist/1Fji4YKhqgzROcDJI15iNZ), [Prodyge Crew](https://open.spotify.com/artist/7A5fMLrJ1voYaYjZXs92Jg) | [Caribbean Selection](https://open.spotify.com/album/5Kojc994qKwaR1X4ayZbaH) | 4:36 | 2023-03-23 |  |
+| [Turn Me Up](https://open.spotify.com/track/0mSQpFmTxOWszXXftJ7UEt) | [Willy Denzey](https://open.spotify.com/artist/1Fji4YKhqgzROcDJI15iNZ), [Prodyge Crew](https://open.spotify.com/artist/7A5fMLrJ1voYaYjZXs92Jg) | [Caribbean Selection](https://open.spotify.com/album/5Kojc994qKwaR1X4ayZbaH) | 4:36 | 2023-03-23 | 2024-01-20 |
 | [Vini](https://open.spotify.com/track/5ClSFh5wvocS8bypi9nWNa) | [Nichols](https://open.spotify.com/artist/6rvJUax9W8BrBC6nL6Rl8W), [Marysa](https://open.spotify.com/artist/15g2YTZ5MPzw6mG5JMzMc5) | [Hot !](https://open.spotify.com/album/2c1DbufXlLIeakSnCjFD1I) | 3:48 | 2023-03-23 |  |
 | [Vini dou](https://open.spotify.com/track/5SgzHvTty3hEQtedanwuoM) | [Victor O](https://open.spotify.com/artist/4fgrqYvn91Z7ERoT9nbwkk) | [Victor O \- Vini Dou](https://open.spotify.com/album/3vwp4i05eJQN2TDW13CJx0) | 4:26 | 2023-03-23 |  |
 | [Zouk\-la Sé Sel Médikaman Nou Ni](https://open.spotify.com/track/6v5Z0a4b3DmjIKA4htP8vl) | [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj) | [Best Of](https://open.spotify.com/album/3mlUD8bQ1KTXi4yP1l3HoV) | 5:25 | 2023-03-23 |  |

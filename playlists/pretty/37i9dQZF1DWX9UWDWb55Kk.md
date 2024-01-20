@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,952 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,972 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 83 | [Fantasmas](https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:43 |
 | 84 | [Hacia el Fondo](https://open.spotify.com/track/1TmhcMiKugkz7bfryEJGR3) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Pez](https://open.spotify.com/album/4NXP3aNRLfVxa76RN6iHqb) | 3:17 |
 | 85 | [Ten Girls](https://open.spotify.com/track/74XDe6nEQtExQUvrWcs1cW) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [She's Made Of Saints](https://open.spotify.com/album/7dQQoDm0OsVTktVbIqF0W4) | 3:13 |
-| 86 | [Best Life](https://open.spotify.com/track/6FKodVQGj43UymtKhml3Tk) | [KOYOTIE](https://open.spotify.com/artist/1MBXMFPj3IwgmUkHJATWm8) | [Land of the Living](https://open.spotify.com/album/0eS3zYTyo8xGkVW3iM8fRJ) | 2:59 |
+| 86 | [Best Life](https://open.spotify.com/track/2j8JFWwOG749dYeQ1vUNhZ) | [KOYOTIE](https://open.spotify.com/artist/1MBXMFPj3IwgmUkHJATWm8) | [Best Life](https://open.spotify.com/album/66F3CguBUFSfNQejlB1T2I) | 2:59 |
 | 87 | [Deadlines \(Thoughtful\)](https://open.spotify.com/track/2mQNBBeUUjzkEyQFibqePn) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Making a Door Less Open](https://open.spotify.com/album/0p6P42zHY2W8Zd7BKBcKQg) | 5:51 |
 | 88 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 |
 | 89 | [Mystère \(Misterio\)](https://open.spotify.com/track/4v2xnfC879xqiptgMadrlw) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Mystère \(Misterio\)](https://open.spotify.com/album/7Hxwx2frOeDcqnlOPSYaOL) | 3:02 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 407 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival Vol.01](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 408 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 
-Snapshot ID: `MCxjODA5ODI1ODI1OTIyOGM5MTk0ODMyMmVlYWRiOWQ5NGEwY2NhZDFk`
+Snapshot ID: `MCxlNjY5MWFiNDgyODA0NTZhODY4MGYxYjgxMGYyZDUwNzFlMzEyYmZi`

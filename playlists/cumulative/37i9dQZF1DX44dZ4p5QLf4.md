@@ -4,11 +4,12 @@
 
 > A blend of new songs and artists in the soul space\. Cover: Elmiene
 
-385 songs - 22 hr 58 min
+386 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3AM](https://open.spotify.com/track/6TAnJ7ubFuZ7nYgzYst2Wp) | [Julia Marcks](https://open.spotify.com/artist/35HvO2FkpLWHDbbCXpgohf) | [3AM](https://open.spotify.com/album/7sH5hP8sAND4vzvvdhXp58) | 3:24 | 2022-09-29 | 2023-12-12 |
+| [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 | 2024-01-19 |  |
 | [90s](https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [90s](https://open.spotify.com/album/1zutONLr7EHPaNNMwNQ3oR) | 4:19 | 2022-12-02 | 2023-04-27 |
 | [Addicted](https://open.spotify.com/track/1vqYqiZA1Su4GgqIO4oVSY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/7x3kXrzMt2FuKA5S0kbHas) | 3:24 | 2021-12-16 | 2022-03-11 |
 | [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 | 2023-07-07 |  |
@@ -174,7 +175,7 @@
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-17 |  |
 | [Kaleidoscope](https://open.spotify.com/track/0qC5SZciej450MxB7efCMu) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6), [Scarlett Fae](https://open.spotify.com/artist/5nXa3SdZAG5e9ahP4sKYBK) | [Kaleidoscope](https://open.spotify.com/album/1XgRvfnyEknQJPtwU99A2a) | 3:46 | 2023-04-26 | 2023-09-18 |
 | [Kaleidoscope](https://open.spotify.com/track/1EooppnhDM3kkCrhE7TIPl) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6), [Scarlett Fae](https://open.spotify.com/artist/5nXa3SdZAG5e9ahP4sKYBK) | [Kaleidoscope](https://open.spotify.com/album/02RNJRYM3Tz7owxBJeMAc8) | 3:46 | 2023-04-06 | 2023-04-30 |
-| [Kaleidoscope](https://open.spotify.com/track/3UJUR8VPooWaFP3qkqfHzB) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6), [Scarlett Fae](https://open.spotify.com/artist/5nXa3SdZAG5e9ahP4sKYBK) | [Summing Up](https://open.spotify.com/album/3i2iavFSYOci10RdJoNSnX) | 3:46 | 2023-09-14 |  |
+| [Kaleidoscope](https://open.spotify.com/track/3UJUR8VPooWaFP3qkqfHzB) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6), [Scarlett Fae](https://open.spotify.com/artist/5nXa3SdZAG5e9ahP4sKYBK) | [Summing Up](https://open.spotify.com/album/3i2iavFSYOci10RdJoNSnX) | 3:46 | 2023-09-14 | 2024-01-20 |
 | [Katsu Sunrise](https://open.spotify.com/track/4AHdwLWt6MpMrIeOVhreuL) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Katsu Sunrise](https://open.spotify.com/album/6Cyss3e5qUbarjggBphlce) | 3:02 | 2023-12-12 | 2024-01-19 |
 | [Katsu Sunrise](https://open.spotify.com/track/4s0K13q4VB4LOfHwNRQs9F) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [The Lost Tape](https://open.spotify.com/album/4Q6TO9LyXJRr872RW3jqf5) | 3:02 | 2024-01-18 |  |
 | [Kerosene](https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Kerosene](https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY) | 3:29 | 2021-12-16 | 2022-10-15 |

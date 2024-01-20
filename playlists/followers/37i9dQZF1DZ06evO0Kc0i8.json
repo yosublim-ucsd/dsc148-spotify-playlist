@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 633752,
+  "2024-01-20": 634183,
   "date_first_scraped": "2023-04-07",
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
   "name": "This Is Rauw Alejandro",
@@ -209,7 +209,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 186087,
       "name": "Baila Conmigo (with Rauw Alejandro)",
       "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 163265,
       "name": "Besalo",
       "url": "https://open.spotify.com/track/2PUdyEnqZUh3zICKE4Fu8N"

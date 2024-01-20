@@ -1,12 +1,12 @@
 {
   "description": "Explore a genre bending universe centered around jazz. Cover: Butcher Brown",
-  "num_followers": 92260,
+  "num_followers": 92296,
   "original_name": "Orbit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzZkZDRmN2Y2ZDQ2YWQzMGFkZmFjNDZiYzM0NGIxZWNiM2NjOTc2",
+  "snapshot_id": "MCxlNTQ1MjFkNTkwZmE0NDViZjYyYTYyZGZhZjk2YTE0NTIwYzhmNjQ2",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -55,6 +55,26 @@
       "duration_ms": 102000,
       "name": "masterpiece.",
       "url": "https://open.spotify.com/track/3uWnUQyUzcUyt9mf1K6Wm2"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Jes' Grew in Osaka",
+        "url": "https://open.spotify.com/album/50VQyLVeMuOcE1SpRUvsCE"
+      },
+      "artists": [
+        {
+          "name": "R.A.P. Ferreira",
+          "url": "https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb"
+        },
+        {
+          "name": "Fumitake Tamura",
+          "url": "https://open.spotify.com/artist/41SItxhAnaousMYdgHn3rt"
+        }
+      ],
+      "duration_ms": 140956,
+      "name": "Jes' Grew in Osaka",
+      "url": "https://open.spotify.com/track/53zSIKyb1KsBsb9EmFerpM"
     },
     {
       "added_at": "2024-01-05 05:00:00",

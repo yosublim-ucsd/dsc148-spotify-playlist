@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-505 songs - 19 hr 19 min
+506 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Foyer](https://open.spotify.com/track/5xLp8h4lYj0PoevICi9WWq) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7), [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41) | [Foyer](https://open.spotify.com/album/6MebS5lJhwjePkjU88plwu) | 2:49 | 2024-01-05 |  |
 | [Free](https://open.spotify.com/track/2fI7xNA7dEskW6fGjq623B) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Free](https://open.spotify.com/album/5eDB2lujlCVEe0v1wxZQYN) | 2:48 | 2024-01-05 |  |
 | [Free Yourself](https://open.spotify.com/track/71yIgNO9WFWYHxGkN4U7Qn) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Free Yourself](https://open.spotify.com/album/6fdg8NXRp9Rh4FmmcCjneS) | 2:47 | 2024-01-05 |  |
-| [Fresh 6.8?](https://open.spotify.com/track/3ZMCgSjeIggizyg3820sFy) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Fresh 6.8?](https://open.spotify.com/album/3Me8pah3c60IidZI0R2EFs) | 2:02 | 2024-01-05 |  |
+| [Fresh 6.8?](https://open.spotify.com/track/3ZMCgSjeIggizyg3820sFy) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Fresh 6.8?](https://open.spotify.com/album/3Me8pah3c60IidZI0R2EFs) | 2:02 | 2024-01-05 | 2024-01-20 |
 | [Fresh Air](https://open.spotify.com/track/1JAFfEsW0swrZtPdb9k0MJ) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Breathing](https://open.spotify.com/album/65lI5xnf571BWfFbwMu38f) | 2:32 | 2024-01-05 |  |
 | [Fresh Convo](https://open.spotify.com/track/2TQPmHzg5IOKhACgEDBzOF) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [Fresh Convo](https://open.spotify.com/album/1hPZP8aDlkBKhXW8vSa4EA) | 2:00 | 2024-01-05 |  |
 | [Fresh Tires](https://open.spotify.com/track/6LLsU0zVgPcQKb7Rnf1MeV) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Fresh Tires](https://open.spotify.com/album/7oQp36kWOf04mfm2LLnSiO) | 2:33 | 2024-01-05 |  |
@@ -447,6 +447,7 @@
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2024-01-05 |  |
 | [Surp](https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Surp](https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83) | 2:34 | 2024-01-05 |  |
 | [Survival](https://open.spotify.com/track/0f9hjKIkQqW6IVrX3CMuof) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Survival](https://open.spotify.com/album/6gbpld3gTD8mNXRfSvMLoC) | 2:32 | 2024-01-05 |  |
+| [Sweet water](https://open.spotify.com/track/31mFMlV5wX0KXSwlkQzudl) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [Sweet water](https://open.spotify.com/album/1cuUSlktiaqYuwj6wquDxI) | 2:24 | 2024-01-18 |  |
 | [Takeabreakalready](https://open.spotify.com/track/4VoR1xfGqYRUKPajzDsNwc) | [Chapel Chill](https://open.spotify.com/artist/0p1wRvBAsXKq83OSFwFAvE) | [Takeabreakalready](https://open.spotify.com/album/3SWva0m3WplRxy58XAof2n) | 2:12 | 2024-01-05 |  |
 | [Tear Me Apart](https://open.spotify.com/track/3SulLcEmLS7c45KMeFpnpZ) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [Tear Me Apart](https://open.spotify.com/album/6ZWBm80CbzWyskZV5MbECr) | 2:01 | 2024-01-05 |  |
 | [Temple](https://open.spotify.com/track/7exwZfnrzGSjSz1Nl8psVs) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Sensei](https://open.spotify.com/album/76s8dxo8JFBoyLmVOu6esq) | 1:42 | 2024-01-05 |  |

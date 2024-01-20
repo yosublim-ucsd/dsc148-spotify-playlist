@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "All the Small Things (Acoustic)",
+        "url": "https://open.spotify.com/album/7aoAhLDhaeBR1dTK7Z5Tgx"
+      },
+      "artists": [
+        {
+          "name": "Jay Filson",
+          "url": "https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166917,
+      "name": "All the Small Things - Acoustic",
+      "url": "https://open.spotify.com/track/3l4bwhzSFGV2WSE475EOnh"
+    },
+    {
+      "album": {
         "name": "Alone (Acoustic)",
         "url": "https://open.spotify.com/album/420N4bPQPoz5sYIhCfF0Z7"
       },

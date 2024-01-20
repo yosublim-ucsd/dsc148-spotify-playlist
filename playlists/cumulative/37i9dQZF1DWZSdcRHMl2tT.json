@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Bit of Window",
+        "url": "https://open.spotify.com/album/0FNmtTsexTnrZApBaH9zap"
+      },
+      "artists": [
+        {
+          "name": "Conte Prad",
+          "url": "https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121121,
+      "name": "Bit of Window",
+      "url": "https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2"
+    },
+    {
+      "album": {
         "name": "Blinders",
         "url": "https://open.spotify.com/album/63htBYCdBMxsnlh5Y81LY6"
       },
@@ -6056,6 +6074,24 @@
       "duration_ms": 182267,
       "name": "Still Need People",
       "url": "https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j"
+    },
+    {
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/40jbMwX71uTzhMKgCtxVyD"
+      },
+      "artists": [
+        {
+          "name": "Edward The Eagle",
+          "url": "https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112149,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/0lzRekCeR36TcwwtDYNnMw"
     },
     {
       "album": {

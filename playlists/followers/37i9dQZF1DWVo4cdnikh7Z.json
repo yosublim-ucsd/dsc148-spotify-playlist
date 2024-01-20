@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 657788,
+  "2024-01-20": 657929,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Captain Miller",
   "name": "Latest Tamil",
@@ -9267,7 +9267,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 242249,
       "name": "Kangal Edho - From \"Chithha\"",
       "url": "https://open.spotify.com/track/6STXfHpOuGjOespYlpeuI4"
@@ -14692,6 +14692,32 @@
     },
     {
       "album": {
+        "name": "Neela Ravile (From \"Merry Christmas\") [Tamil]",
+        "url": "https://open.spotify.com/album/39CaKSoEdTANu1zRbScj6q"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217090,
+      "name": "Neela Ravile (From \"Merry Christmas\") [Tamil]",
+      "url": "https://open.spotify.com/track/4zSMmm7spbX35OqJBlGDUW"
+    },
+    {
+      "album": {
         "name": "Kalagathalaivan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7MWyFiDkemk7hFeNJLYxHx"
       },
@@ -16769,7 +16795,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 199565,
       "name": "Past is Past - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/4Cw0Ua3wB7cwZO95ltVnKT"
@@ -24247,14 +24273,6 @@
         {
           "name": "Arivu",
           "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        },
-        {
-          "name": "Vivek Siva",
-          "url": "https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD"
-        },
-        {
-          "name": "Mervin Solomon",
-          "url": "https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv"
         }
       ],
       "date_added": "2024-01-17",

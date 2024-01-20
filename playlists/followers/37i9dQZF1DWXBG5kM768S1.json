@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 72820,
+  "2024-01-20": 72844,
   "date_first_scraped": "2021-12-28",
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
   "name": "Norske viser",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 195600,
       "name": "2023",
       "url": "https://open.spotify.com/track/7eM5YIrVzZFcXIe2hZ9IiB"
@@ -2434,6 +2434,32 @@
     },
     {
       "album": {
+        "name": "Siste sang",
+        "url": "https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244640,
+      "name": "Ka e du redd for",
+      "url": "https://open.spotify.com/track/0MIahGJxmpFDfjdTJGFqDs"
+    },
+    {
+      "album": {
         "name": "Ka e du redd for",
         "url": "https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB"
       },
@@ -3262,6 +3288,28 @@
     },
     {
       "album": {
+        "name": "Savner deg",
+        "url": "https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181282,
+      "name": "Savner deg",
+      "url": "https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt"
+    },
+    {
+      "album": {
         "name": "ser igjennom meg",
         "url": "https://open.spotify.com/album/5OpU2OlAlt5IIx2iGMZ9el"
       },
@@ -3313,7 +3361,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 210173,
       "name": "Siste sang",
       "url": "https://open.spotify.com/track/6mqXYaO9snfrzfshOmDrCa"

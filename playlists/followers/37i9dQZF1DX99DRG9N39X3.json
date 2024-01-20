@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 603696,
+  "2024-01-20": 603845,
   "date_first_scraped": "2021-12-28",
-  "description": "These songs rocked the 10s. Cover: Arctic Monkeys",
+  "description": "These songs rocked the 10s. Cover: Twenty One Pilots",
   "name": "10s Rock Anthems",
   "tracks": [
     {
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 256306,
       "name": "7",
       "url": "https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 206866,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/27H8WsrkD5catdc3a2fCLV"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 244867,
       "name": "Black Chandelier",
       "url": "https://open.spotify.com/track/3PnMua6rBLkc2MZ9atsSOq"
@@ -421,6 +421,24 @@
       "duration_ms": 239450,
       "name": "Black Honey",
       "url": "https://open.spotify.com/track/5OeY5LebIOzD9Zvat1Dikf"
+    },
+    {
+      "album": {
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185986,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG"
     },
     {
       "album": {
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 222853,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/6jngGXpDL4VDaPUTAZebJf"
@@ -1495,6 +1513,24 @@
       "duration_ms": 212309,
       "name": "Little Monster",
       "url": "https://open.spotify.com/track/3cuxZTcxBj7AL3bgSCIuWL"
+    },
+    {
+      "album": {
+        "name": "The Balance",
+        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232960,
+      "name": "Longshot",
+      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
     },
     {
       "album": {

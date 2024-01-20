@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 181125,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O"
@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
@@ -4624,6 +4624,24 @@
       "duration_ms": 166973,
       "name": "club - ballerini album version",
       "url": "https://open.spotify.com/track/3nCoIIsNggk2iJ8YxleLXZ"
+    },
+    {
+      "album": {
+        "name": "club heaven (Live from Spotify Green Screen)",
+        "url": "https://open.spotify.com/album/1fe3shDrSWQXIwf32qLFiY"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148086,
+      "name": "club heaven - Live from Spotify Green Screen",
+      "url": "https://open.spotify.com/track/3AaRTY18Q5ETuYoQ2wLXDP"
     },
     {
       "album": {
@@ -9604,7 +9622,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 162556,
       "name": "Good to Know",
       "url": "https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6"
@@ -9676,7 +9694,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 203714,
       "name": "Gravitron",
       "url": "https://open.spotify.com/track/1IwLgJqYAATGbyMyGa4ry4"
@@ -14517,6 +14535,24 @@
     },
     {
       "album": {
+        "name": "Like I Was Never Here",
+        "url": "https://open.spotify.com/album/6dMAhrIk1KGPNaQpZebYHg"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218100,
+      "name": "Like I Was Never Here",
+      "url": "https://open.spotify.com/track/6AgTZEc2plzPodX3u1RGEY"
+    },
+    {
+      "album": {
         "name": "Like Me, Like Me",
         "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
       },
@@ -14940,6 +14976,28 @@
       "duration_ms": 187552,
       "name": "Lonely Ones",
       "url": "https://open.spotify.com/track/42BFZETGGpgA8AVUUgnu6H"
+    },
+    {
+      "album": {
+        "name": "Long Shot",
+        "url": "https://open.spotify.com/album/0jSxGspgNSr6D1o839Brhl"
+      },
+      "artists": [
+        {
+          "name": "RIKA",
+          "url": "https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5"
+        },
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Long Shot",
+      "url": "https://open.spotify.com/track/4DSNXNrBKv2rMo30c5DyTh"
     },
     {
       "album": {
@@ -16086,7 +16144,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 192133,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
@@ -18058,7 +18116,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 182307,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq"
@@ -19419,6 +19477,28 @@
     },
     {
       "album": {
+        "name": "Perfectly Broken (Duet Version)",
+        "url": "https://open.spotify.com/album/2jNHD7pMPo4mdzGKS78Qoz"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        },
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186863,
+      "name": "Perfectly Broken - Duet Version",
+      "url": "https://open.spotify.com/track/3upvbgPrhTRSH7y84AzBQz"
+    },
+    {
+      "album": {
         "name": "Perfectly Imperfect",
         "url": "https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy"
       },
@@ -19610,7 +19690,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 149485,
       "name": "Please Love Me",
       "url": "https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj"
@@ -20690,6 +20770,24 @@
       "duration_ms": 198232,
       "name": "running",
       "url": "https://open.spotify.com/track/2rm2BZKxr5p5Sa1y7QFC2A"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208517,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
     },
     {
       "album": {
@@ -22462,6 +22560,24 @@
       "duration_ms": 235265,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn"
+    },
+    {
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3XScmn32Lk1qgJagn6SYyb"
+      },
+      "artists": [
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209995,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/17pqfS8M0lNrtuc5hVDAhe"
     },
     {
       "album": {
@@ -25777,6 +25893,24 @@
     },
     {
       "album": {
+        "name": "Tiny Moves",
+        "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228381,
+      "name": "Tiny Moves",
+      "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
+    },
+    {
+      "album": {
         "name": "To Die For",
         "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
       },
@@ -25984,6 +26118,24 @@
       "duration_ms": 204877,
       "name": "Traffic Lights",
       "url": "https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN"
+    },
+    {
+      "album": {
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229133,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
     },
     {
       "album": {
@@ -28576,7 +28728,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 219922,
       "name": "You Are",
       "url": "https://open.spotify.com/track/5wliKBkmhX7j7mG5zTHjyh"

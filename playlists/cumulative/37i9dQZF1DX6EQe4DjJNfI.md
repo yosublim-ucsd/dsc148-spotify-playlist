@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Hanifah, Doug O.
 
-179 songs - 9 hr 5 min
+180 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Muito Sou\(L\)](https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Rashid](https://open.spotify.com/artist/6MAebUQUc54IEPRoaIv5My) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 3:42 | 2023-07-21 | 2023-11-11 |
 | [Na Cama](https://open.spotify.com/track/3jBUU3sojivff7iNesTd9S) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Na Cama](https://open.spotify.com/album/0NvtbyPCU9bIVdIhTh4fgo) | 3:15 | 2022-11-18 | 2023-01-14 |
 | [Nada Mais](https://open.spotify.com/track/5FU7Bcnvd27SxFstEF8Cp0) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Nada Mais](https://open.spotify.com/album/5WXB15pFJ00Wvh3eTPOHku) | 2:57 | 2023-04-23 | 2023-08-26 |
+| [Nem Sei Fingir](https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Nem Sei Fingir](https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh) | 2:56 | 2024-01-19 |  |
 | [Nessa Vida](https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Nessa Vida](https://open.spotify.com/album/5SivaxB405MCGeZroyNpza) | 3:09 | 2023-06-23 |  |
 | [Nessa Vida](https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Nessa Vida](https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE) | 3:09 | 2022-11-18 | 2023-06-30 |
 | [Noite em Febre](https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ) | [Sarah Soul](https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv), [Carol Terra](https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp) | [Correria](https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ) | 2:26 | 2022-11-18 | 2023-04-01 |
@@ -172,7 +173,7 @@
 | [Te Perdi](https://open.spotify.com/track/21oeNPukzLguNiO8UddvFh) | [Coimbra](https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy) | [Te Perdi](https://open.spotify.com/album/1v9CFk2cExFkxCL1HFqwUq) | 2:33 | 2023-07-07 | 2023-07-22 |
 | [Tempo pra Perder](https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Tempo pra Perder](https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF) | 3:14 | 2022-11-18 |  |
 | [Teu Sinal](https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J) | [Nathy Veras](https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Bubblegun Studios](https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx) | [Teu Sinal](https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW) | 3:09 | 2022-12-02 |  |
-| [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e), [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 | 2023-11-10 |  |
+| [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e), [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 | 2023-11-10 | 2024-01-20 |
 | [Tomboy](https://open.spotify.com/track/1ZZzHoGd7vUBO4WpVbrgg8) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Tomboy](https://open.spotify.com/album/0hOPXn449nuIQQpajCowa5) | 3:24 | 2023-04-28 | 2023-07-01 |
 | [Tons \#5 \- Sonho em Hollywood \(feat\. Lucas & Orelha\)](https://open.spotify.com/track/04suo4ZNPAedwYzEP8UJC8) | [Caio Nunez](https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0), [CRIVO](https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Tons \#5 \- Sonho em Hollywood \(feat\. Lucas & Orelha\)](https://open.spotify.com/album/2PTifDt3iNe99E0ZTh1A00) | 3:21 | 2022-11-18 | 2022-12-24 |
 | [Toque De Veludo](https://open.spotify.com/track/5sHK9llP0yBRwr4fW5DVSn) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Toque De Veludo](https://open.spotify.com/album/5TBvqgBLIVP0MZJpkLEIHh) | 2:37 | 2023-09-01 |  |

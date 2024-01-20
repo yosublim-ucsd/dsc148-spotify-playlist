@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,974 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,006 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 47 | [ワンドリンク別](https://open.spotify.com/track/5tapE1gGyABsGFtgeOYchU) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [アルデンテ](https://open.spotify.com/album/0blIFyYXMXiaCU9OPLVGg1) | 1:50 |
 | 48 | [Tomodachi](https://open.spotify.com/track/0aN84pd1P3r9eSqZA9pLv9) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Lonely Paradox](https://open.spotify.com/album/3cUllXtHAkPuR9VTWz0OGg) | 4:08 |
 | 49 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
-| 50 | [Still Here](https://open.spotify.com/track/0uipX8PqFOjgiY43E4lgLe) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Forts](https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Still Here](https://open.spotify.com/album/7KiawVJTzXPxU7vvtSY5eW) | 4:12 |
+| 50 | [Still Here](https://open.spotify.com/track/0uipX8PqFOjgiY43E4lgLe) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Forts](https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Still Here](https://open.spotify.com/album/7KiawVJTzXPxU7vvtSY5eW) | 4:12 |
 | 51 | [We GO](https://open.spotify.com/track/1qSC45sRAPzDP5y8zvDsKr) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [We GO](https://open.spotify.com/album/1ymstnu1CaZN67eX13yyT7) | 5:29 |
 | 52 | [ユートピア](https://open.spotify.com/track/2dTqP0VXe0G6cbVagyeJ8a) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ユートピア](https://open.spotify.com/album/7ANloblGKzLe7AlCIrJGL1) | 2:55 |
 | 53 | [Hikarakka](https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Hikarakka](https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 |
 | 100 | [Tomorrow Comes](https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Tomorrow Comes](https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull) | 3:31 |
 
-Snapshot ID: `MCw3ZTcyOTBkNTVjNWVhM2U0NDdjNzc5NzExMjBhYWNlMmU1MTBmNjRl`
+Snapshot ID: `MCw5N2QwNGU2ZGY3MzhjYTRkYjVkY2Y2ZDUxYzRhMGZjYTlkZTY4MGYx`

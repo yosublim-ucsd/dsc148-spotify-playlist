@@ -1,18 +1,18 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 23620,
+  "num_followers": 23640,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDQxZmNkM2Y3MmY3MzVkZmNhMGIxZGFhZmRlZWEyYmZkZDA5MTQw",
+  "snapshot_id": "MCxmNjhmZGY3YjlkNmNhZWQyZTQzMDU3Y2RjZDFhODA2YzY5ZWRmNTMw",
   "tracks": [
     {
-      "added_at": "2023-11-10 05:01:00",
+      "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Multiply",
-        "url": "https://open.spotify.com/album/0E8Xp8B1X9Ttr7ZWwR7Ci8"
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/6iMTeVJt2iUmgrL1XIHXkB"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
         }
       ],
-      "duration_ms": 256562,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/1INYpUDPkutq3NxAXgDlOC"
+      "duration_ms": 297648,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/0Xtww6oKBat94kE6FxuqTl"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -171,6 +171,22 @@
       "duration_ms": 230797,
       "name": "Superfluous",
       "url": "https://open.spotify.com/track/63yec9swSIGOYVmwneLe45"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "Multiply",
+        "url": "https://open.spotify.com/album/0E8Xp8B1X9Ttr7ZWwR7Ci8"
+      },
+      "artists": [
+        {
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
+        }
+      ],
+      "duration_ms": 256562,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/1INYpUDPkutq3NxAXgDlOC"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1359,26 +1375,6 @@
       "duration_ms": 212512,
       "name": "The High",
       "url": "https://open.spotify.com/track/4ONDrXoqeT9cCgw5yqWAyX"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Cosmic Fonk",
-        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
-      },
-      "artists": [
-        {
-          "name": "Dabeull",
-          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
-        },
-        {
-          "name": "Kunta",
-          "url": "https://open.spotify.com/artist/3ishWMiOKQ8C7iUViLsS6V"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "On Time",
-      "url": "https://open.spotify.com/track/0asGu28LvcTJPa0vxjyJmw"
     },
     {
       "added_at": "2022-06-24 04:02:00",

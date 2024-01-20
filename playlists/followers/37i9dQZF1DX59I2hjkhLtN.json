@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 9155,
+  "2024-01-20": 9157,
   "date_first_scraped": "2022-07-17",
   "description": "Novos rappers, novos sons. Tamos juntos! Foto: Holympo.",
   "name": "Ganda Cena",
@@ -705,7 +705,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 168522,
       "name": "Alma",
       "url": "https://open.spotify.com/track/3rX9KvRYL1PQtbne79nnZd"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 146564,
       "name": "BAG",
       "url": "https://open.spotify.com/track/7utsad5kHaDF8V0P8WFEZx"
@@ -1855,7 +1855,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 154004,
       "name": "Cad\u00e1veres no Cais",
       "url": "https://open.spotify.com/track/6BkE0OWlp9vbr4r9p1NNK1"
@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 162347,
       "name": "Ca\u00e7ador de Sonhos",
       "url": "https://open.spotify.com/track/0QZFI8lfhPERaFvbYVRZLJ"
@@ -2723,6 +2723,24 @@
       "duration_ms": 176551,
       "name": "Cora\u00e7\u00e3o de Prata",
       "url": "https://open.spotify.com/track/3kX8pwkuFxnCmzZAxP5VeR"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o Partido",
+        "url": "https://open.spotify.com/album/26XaN01ha8Loz22PuLZgdY"
+      },
+      "artists": [
+        {
+          "name": "DINNIS",
+          "url": "https://open.spotify.com/artist/6oE6jdA1Cty6ehsBKeo4HW"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Cora\u00e7\u00e3o Partido",
+      "url": "https://open.spotify.com/track/5UwBjRfT4PnRes8xi0Ddm4"
     },
     {
       "album": {
@@ -3325,6 +3343,24 @@
       "duration_ms": 192676,
       "name": "Dinastia",
       "url": "https://open.spotify.com/track/0QzYFbpAXY5KWMzFkpQvPc"
+    },
+    {
+      "album": {
+        "name": "Dior 2",
+        "url": "https://open.spotify.com/album/5NoeTjJJID4GG25XJk1E4U"
+      },
+      "artists": [
+        {
+          "name": "S4ntos",
+          "url": "https://open.spotify.com/artist/0A2wNWBmDyDLiTzt8YqFQ4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174601,
+      "name": "Dior 2",
+      "url": "https://open.spotify.com/track/1DvmxrQA8yjDydjuBCk34k"
     },
     {
       "album": {
@@ -6551,7 +6587,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 188936,
       "name": "Limpo",
       "url": "https://open.spotify.com/track/2Pi2xIYTBvZlte5MDQKERT"
@@ -7249,7 +7285,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 215111,
       "name": "Memorial",
       "url": "https://open.spotify.com/track/4LfmlcX9PaeEqO96Ds1RV8"
@@ -7563,6 +7599,24 @@
       "duration_ms": 163887,
       "name": "Mira",
       "url": "https://open.spotify.com/track/4P8halZmD87IBnWNXLgWfO"
+    },
+    {
+      "album": {
+        "name": "Modo Zen",
+        "url": "https://open.spotify.com/album/0RzUyjaQX48GV4P503EtYo"
+      },
+      "artists": [
+        {
+          "name": "GoblinKN",
+          "url": "https://open.spotify.com/artist/0OJs0er3DOXBhjT6xZhNHA"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "Modo Zen",
+      "url": "https://open.spotify.com/track/00vp4N8agXhLMwiGa67Klo"
     },
     {
       "album": {
@@ -8754,6 +8808,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Curto Love Songs",
+        "url": "https://open.spotify.com/album/4O4lBVqlsaXqzkpaUxjei2"
+      },
+      "artists": [
+        {
+          "name": "FRANKIENB",
+          "url": "https://open.spotify.com/artist/6IySz6ttaFGGbNzvuGRzfu"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159335,
+      "name": "N\u00e3o Curto Love Songs",
+      "url": "https://open.spotify.com/track/3DuyCVnOjNGvtPONvasySO"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Desistas",
         "url": "https://open.spotify.com/album/15W8AKHBsJIdZsMNeBJ1JL"
       },
@@ -9826,6 +9898,32 @@
     },
     {
       "album": {
+        "name": "Pengthing",
+        "url": "https://open.spotify.com/album/3sy9rlGAiDOegbBAIJ5lIh"
+      },
+      "artists": [
+        {
+          "name": "Mside",
+          "url": "https://open.spotify.com/artist/7Ddg0uyT8fliPrQwQn89pT"
+        },
+        {
+          "name": "PKA",
+          "url": "https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK"
+        },
+        {
+          "name": "Freesesh",
+          "url": "https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228400,
+      "name": "Pengthing",
+      "url": "https://open.spotify.com/track/7rvZT1EjAl9acJHSxKfY5W"
+    },
+    {
+      "album": {
         "name": "Perder",
         "url": "https://open.spotify.com/album/3D4GrroGK00DL5svXt5jUq"
       },
@@ -10043,7 +10141,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 183812,
       "name": "Pocket",
       "url": "https://open.spotify.com/track/7E5FfVfXQLK9NfpmO5fUML"
@@ -10425,6 +10523,24 @@
       "duration_ms": 167923,
       "name": "P\u00b4ra Qu\u00ea?",
       "url": "https://open.spotify.com/track/637vvrn5yPjuk36L6p6av1"
+    },
+    {
+      "album": {
+        "name": "P\u00c9 COMPLETO",
+        "url": "https://open.spotify.com/album/6xdTCEpKAGvbC0eaE8mSlK"
+      },
+      "artists": [
+        {
+          "name": "Divi",
+          "url": "https://open.spotify.com/artist/5cSJHazvd6mT7yHlyeSrQ2"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120005,
+      "name": "P\u00c9 COMPLETO",
+      "url": "https://open.spotify.com/track/0r5QPHLl68huE75uSDtjdQ"
     },
     {
       "album": {
@@ -10915,7 +11031,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 170666,
       "name": "RICH IS GANGSTA",
       "url": "https://open.spotify.com/track/1mmDjeUYPm8ulIPAspad4t"
@@ -11111,6 +11227,32 @@
       "duration_ms": 177049,
       "name": "Ros\u00e9",
       "url": "https://open.spotify.com/track/72bRHyV4lbyH52SoDdnESG"
+    },
+    {
+      "album": {
+        "name": "ROTINA DE LOUCOS",
+        "url": "https://open.spotify.com/album/1A7BVZJwMXtxyVzG2WzjcI"
+      },
+      "artists": [
+        {
+          "name": "West Wood",
+          "url": "https://open.spotify.com/artist/0PktuNtu7TSLVCmuCBkAkO"
+        },
+        {
+          "name": "Tkiings",
+          "url": "https://open.spotify.com/artist/121yqmCZB6EdumevWa2mSm"
+        },
+        {
+          "name": "lilboysakura",
+          "url": "https://open.spotify.com/artist/7D2UxsQrETj8ciwBsb0OoH"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232321,
+      "name": "ROTINA DE LOUCOS",
+      "url": "https://open.spotify.com/track/7GsYnb7Ac6k1olB260WZoV"
     },
     {
       "album": {
@@ -13797,7 +13939,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 185600,
       "name": "Vontades \u00cdntimas",
       "url": "https://open.spotify.com/track/2zNdS0GZO7chP9GcGuv4cF"
@@ -14033,6 +14175,24 @@
       "duration_ms": 144000,
       "name": "Wine for me",
       "url": "https://open.spotify.com/track/4x3qG5OWwVBFL7I7uNbiPE"
+    },
+    {
+      "album": {
+        "name": "Working on Myself",
+        "url": "https://open.spotify.com/album/4emNjI2YreJ2fIdJr0lavm"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Working on Myself",
+      "url": "https://open.spotify.com/track/0PFCZaf1qknLfzXgQqIlx6"
     },
     {
       "album": {

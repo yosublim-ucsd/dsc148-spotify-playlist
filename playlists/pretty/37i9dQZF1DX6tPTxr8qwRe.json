@@ -1,28 +1,44 @@
 {
-  "description": "Dark, hard hitting pop. Cover: bludnymph",
-  "num_followers": 397331,
+  "description": "Dark, hard hitting pop. Cover: Sam Short",
+  "num_followers": 397388,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjY5MTYyYzBjNTBmZjYzZjU3ZGQ3ZjJiZGY5NjhlMTU3YWQyMjFh",
+  "snapshot_id": "MCxhYWY1YmEwOTBlMTA0ZGQzZTk1MzcxYjE0MmZmMjliZGE5MjMxZjQy",
   "tracks": [
     {
       "added_at": "2024-01-15 15:45:52",
       "album": {
-        "name": "The Things I Do For Love",
-        "url": "https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp"
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/2QGE2QyfdSIyLM9ImgVBaa"
       },
       "artists": [
         {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
         }
       ],
-      "duration_ms": 160588,
-      "name": "The Things I Do For Love",
-      "url": "https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK"
+      "duration_ms": 141920,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/7qXikOoj2QEA7GzrT6XLqk"
+    },
+    {
+      "added_at": "2024-01-15 15:45:52",
+      "album": {
+        "name": "petals",
+        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 157598,
+      "name": "he loves me, he loves me not",
+      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
     },
     {
       "added_at": "2024-01-15 15:45:52",
@@ -45,20 +61,68 @@
       "url": "https://open.spotify.com/track/11BIdkGoqRisAm21nXcTFx"
     },
     {
-      "added_at": "2024-01-15 15:45:52",
+      "added_at": "2024-01-19 04:00:00",
       "album": {
-        "name": "petals",
-        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
+        "name": "Boy in the Back",
+        "url": "https://open.spotify.com/album/0HW4sTSB9JRHJspGr8L3ce"
       },
       "artists": [
         {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+          "name": "SKYLAR",
+          "url": "https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA"
         }
       ],
-      "duration_ms": 157598,
-      "name": "he loves me, he loves me not",
-      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
+      "duration_ms": 151847,
+      "name": "Boy in the Back",
+      "url": "https://open.spotify.com/track/4SGEMgo0dBDqAznK9Q0CtL"
+    },
+    {
+      "added_at": "2024-01-15 15:45:52",
+      "album": {
+        "name": "little miss misogyny",
+        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "duration_ms": 147205,
+      "name": "little miss misogyny",
+      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
+    },
+    {
+      "added_at": "2024-01-15 15:45:52",
+      "album": {
+        "name": "The Things I Do For Love",
+        "url": "https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 160588,
+      "name": "The Things I Do For Love",
+      "url": "https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK"
+    },
+    {
+      "added_at": "2024-01-19 04:00:00",
+      "album": {
+        "name": "Why Am I Like This? / Ipecac",
+        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
     },
     {
       "added_at": "2024-01-15 15:45:52",
@@ -93,6 +157,22 @@
       "url": "https://open.spotify.com/track/2ZpBIOupyST17KoZB3A2FX"
     },
     {
+      "added_at": "2024-01-19 04:00:00",
+      "album": {
+        "name": "happy 4 u",
+        "url": "https://open.spotify.com/album/6He8d3005jfh6m5BtcvVOO"
+      },
+      "artists": [
+        {
+          "name": "LO LA",
+          "url": "https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF"
+        }
+      ],
+      "duration_ms": 154520,
+      "name": "happy 4 u",
+      "url": "https://open.spotify.com/track/1hfrYkixh0whgfp6R1z61c"
+    },
+    {
       "added_at": "2024-01-15 15:45:52",
       "album": {
         "name": "Nightmare",
@@ -111,22 +191,6 @@
     {
       "added_at": "2024-01-15 15:45:52",
       "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/2QGE2QyfdSIyLM9ImgVBaa"
-      },
-      "artists": [
-        {
-          "name": "Sam Short",
-          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
-        }
-      ],
-      "duration_ms": 141920,
-      "name": "Aphrodite",
-      "url": "https://open.spotify.com/track/7qXikOoj2QEA7GzrT6XLqk"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
         "name": "AMERICAN HORROR SHOW",
         "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
       },
@@ -141,36 +205,20 @@
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
     },
     {
-      "added_at": "2024-01-15 15:45:52",
+      "added_at": "2024-01-19 04:00:00",
       "album": {
-        "name": "swimming pools",
-        "url": "https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN"
+        "name": "Off With Her Tits",
+        "url": "https://open.spotify.com/album/7kOZaeeScV8NhGDlq06Qqr"
       },
       "artists": [
         {
-          "name": "sad alex",
-          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
         }
       ],
-      "duration_ms": 152106,
-      "name": "swimming pools",
-      "url": "https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
-        "name": "little miss misogyny",
-        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
-      },
-      "artists": [
-        {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
-        }
-      ],
-      "duration_ms": 147205,
-      "name": "little miss misogyny",
-      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
+      "duration_ms": 196648,
+      "name": "Off With Her Tits",
+      "url": "https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV"
     },
     {
       "added_at": "2024-01-15 15:45:52",
@@ -187,38 +235,6 @@
       "duration_ms": 112800,
       "name": "JET LIKE BENNIE",
       "url": "https://open.spotify.com/track/772rV8Rld38jaLEZSCdFmO"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 149125,
-      "name": "711",
-      "url": "https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
-        "name": "Should We",
-        "url": "https://open.spotify.com/album/4UTy95lbfZb73MJeRwSfcA"
-      },
-      "artists": [
-        {
-          "name": "Emi Jeen",
-          "url": "https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf"
-        }
-      ],
-      "duration_ms": 153731,
-      "name": "Should We",
-      "url": "https://open.spotify.com/track/4Y8PgWmxjAnBHNuz516yWf"
     },
     {
       "added_at": "2024-01-15 15:45:52",
@@ -255,18 +271,18 @@
     {
       "added_at": "2024-01-15 15:45:52",
       "album": {
-        "name": "2 of us",
-        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
+        "name": "POP MUSIC",
+        "url": "https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
         }
       ],
-      "duration_ms": 166522,
-      "name": "2 of us",
-      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
+      "duration_ms": 136543,
+      "name": "SIREN",
+      "url": "https://open.spotify.com/track/2SRHNn97rMNVYdtmH1gmd5"
     },
     {
       "added_at": "2024-01-15 15:45:52",
@@ -283,6 +299,110 @@
       "duration_ms": 208860,
       "name": "BAD GIRL",
       "url": "https://open.spotify.com/track/7IPRdn43uFd1QC8MqPxoor"
+    },
+    {
+      "added_at": "2024-01-15 15:45:52",
+      "album": {
+        "name": "Cross My Heart I Hope U Die (With Chandler Leighton)",
+        "url": "https://open.spotify.com/album/7oXLJl1mwaPoewLLvE9emw"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        },
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        }
+      ],
+      "duration_ms": 169521,
+      "name": "Cross My Heart I Hope U Die (With Chandler Leighton)",
+      "url": "https://open.spotify.com/track/2YWQGk9zzkAkGXmjP027db"
+    },
+    {
+      "added_at": "2024-01-15 15:45:52",
+      "album": {
+        "name": "swimming pools",
+        "url": "https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "swimming pools",
+      "url": "https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo"
+    },
+    {
+      "added_at": "2024-01-15 15:45:52",
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 149125,
+      "name": "711",
+      "url": "https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed"
+    },
+    {
+      "added_at": "2024-01-15 15:45:52",
+      "album": {
+        "name": "Should We",
+        "url": "https://open.spotify.com/album/4UTy95lbfZb73MJeRwSfcA"
+      },
+      "artists": [
+        {
+          "name": "Emi Jeen",
+          "url": "https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf"
+        }
+      ],
+      "duration_ms": 153731,
+      "name": "Should We",
+      "url": "https://open.spotify.com/track/4Y8PgWmxjAnBHNuz516yWf"
+    },
+    {
+      "added_at": "2024-01-15 15:45:52",
+      "album": {
+        "name": "2 of us",
+        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "2 of us",
+      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
+    },
+    {
+      "added_at": "2024-01-15 15:45:52",
+      "album": {
+        "name": "Morally Grey (Nation Haven Edition)",
+        "url": "https://open.spotify.com/album/3EPjtINkYOX4HPjK3Blr7X"
+      },
+      "artists": [
+        {
+          "name": "April Jai",
+          "url": "https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ"
+        },
+        {
+          "name": "Nation Haven",
+          "url": "https://open.spotify.com/artist/266zMJv8G84icIhwQMQ56L"
+        }
+      ],
+      "duration_ms": 163052,
+      "name": "Morally Grey - Nation Haven Edition",
+      "url": "https://open.spotify.com/track/7eVqXk41Uv6mUhc4s3sB2D"
     },
     {
       "added_at": "2024-01-15 15:45:52",
@@ -327,22 +447,6 @@
     {
       "added_at": "2024-01-15 15:45:52",
       "album": {
-        "name": "POP MUSIC",
-        "url": "https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK"
-      },
-      "artists": [
-        {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        }
-      ],
-      "duration_ms": 136543,
-      "name": "SIREN",
-      "url": "https://open.spotify.com/track/2SRHNn97rMNVYdtmH1gmd5"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
         "name": "CCTV",
         "url": "https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0"
       },
@@ -355,26 +459,6 @@
       "duration_ms": 161171,
       "name": "Bite Marks",
       "url": "https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
-        "name": "Morally Grey (Nation Haven Edition)",
-        "url": "https://open.spotify.com/album/3EPjtINkYOX4HPjK3Blr7X"
-      },
-      "artists": [
-        {
-          "name": "April Jai",
-          "url": "https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ"
-        },
-        {
-          "name": "Nation Haven",
-          "url": "https://open.spotify.com/artist/266zMJv8G84icIhwQMQ56L"
-        }
-      ],
-      "duration_ms": 163052,
-      "name": "Morally Grey - Nation Haven Edition",
-      "url": "https://open.spotify.com/track/7eVqXk41Uv6mUhc4s3sB2D"
     },
     {
       "added_at": "2024-01-15 15:45:52",
@@ -511,22 +595,6 @@
       "duration_ms": 173053,
       "name": "So\u00f1ar (Breaker)",
       "url": "https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
-        "name": "High Concept (Deluxe)",
-        "url": "https://open.spotify.com/album/4K4xd1yJCISdl7jkRHBb3G"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Can of Hurt",
-      "url": "https://open.spotify.com/track/3CQBojjRFxgfVyNTjlGyI5"
     },
     {
       "added_at": "2024-01-15 15:45:52",
@@ -807,22 +875,6 @@
     {
       "added_at": "2024-01-15 15:45:52",
       "album": {
-        "name": "me-a-holic",
-        "url": "https://open.spotify.com/album/7oRhBhXgzzU1dB8svLcEaP"
-      },
-      "artists": [
-        {
-          "name": "Halle Abadi",
-          "url": "https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW"
-        }
-      ],
-      "duration_ms": 128851,
-      "name": "me-a-holic",
-      "url": "https://open.spotify.com/track/4n3g8GiuRDZ8WzRd7sU6r0"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
         "name": "SPOOKED",
         "url": "https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu"
       },
@@ -839,26 +891,6 @@
     {
       "added_at": "2024-01-15 15:45:52",
       "album": {
-        "name": "Cross My Heart I Hope U Die (With Chandler Leighton)",
-        "url": "https://open.spotify.com/album/7oXLJl1mwaPoewLLvE9emw"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        },
-        {
-          "name": "Chandler Leighton",
-          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
-        }
-      ],
-      "duration_ms": 169521,
-      "name": "Cross My Heart I Hope U Die (With Chandler Leighton)",
-      "url": "https://open.spotify.com/track/2YWQGk9zzkAkGXmjP027db"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -871,54 +903,6 @@
       "duration_ms": 164801,
       "name": "Vigilante Shit",
       "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
-        "name": "yellow tape",
-        "url": "https://open.spotify.com/album/3Xl7pPxG692nUmLdRsePHE"
-      },
-      "artists": [
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        }
-      ],
-      "duration_ms": 140128,
-      "name": "yellow tape",
-      "url": "https://open.spotify.com/track/6XAzStbS0JfyN17D6vNv2L"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
-        "name": "With A Smile",
-        "url": "https://open.spotify.com/album/0GHIWxvJmJOYTSBrvUK5jp"
-      },
-      "artists": [
-        {
-          "name": "Maiah Manser",
-          "url": "https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV"
-        }
-      ],
-      "duration_ms": 176756,
-      "name": "With A Smile",
-      "url": "https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
-        "name": "OOPS",
-        "url": "https://open.spotify.com/album/4nNz1bA7kjUNNjgwiKLDC6"
-      },
-      "artists": [
-        {
-          "name": "Ktlyn",
-          "url": "https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG"
-        }
-      ],
-      "duration_ms": 123512,
-      "name": "OOPS",
-      "url": "https://open.spotify.com/track/7eoOFgRL66Dw9PnWxyz7s1"
     },
     {
       "added_at": "2024-01-15 15:45:52",
@@ -971,38 +955,6 @@
     {
       "added_at": "2024-01-15 15:45:52",
       "album": {
-        "name": "The Maze",
-        "url": "https://open.spotify.com/album/3PPaBeyg3p9bKAsgU3uBRW"
-      },
-      "artists": [
-        {
-          "name": "J. Maya",
-          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
-        }
-      ],
-      "duration_ms": 204512,
-      "name": "The Maze",
-      "url": "https://open.spotify.com/track/6xpGgaH6GxF1x2TdipaHSi"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
-        "name": "Should've Been A Dick to You",
-        "url": "https://open.spotify.com/album/3UbV2bdR9F3FxQNqO9RXMk"
-      },
-      "artists": [
-        {
-          "name": "Piper 57",
-          "url": "https://open.spotify.com/artist/6sOxk8gr7bsACj95waVXx7"
-        }
-      ],
-      "duration_ms": 132482,
-      "name": "Should've Been A Dick to You",
-      "url": "https://open.spotify.com/track/1x7H9gKKAvLjYkxZQCBDWZ"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
         "name": "Breadcrumbs",
         "url": "https://open.spotify.com/album/4aOr6Lkc0jJBTppl95v2xS"
       },
@@ -1035,22 +987,6 @@
     {
       "added_at": "2024-01-15 15:45:52",
       "album": {
-        "name": "Do or Die",
-        "url": "https://open.spotify.com/album/3u5w7GyGSddv0OadCcjvR2"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 150314,
-      "name": "Do or Die",
-      "url": "https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
         "name": "life's a bitch... but it gets better",
         "url": "https://open.spotify.com/album/2bRpk2HmQS7y9SEyKnybUq"
       },
@@ -1079,42 +1015,6 @@
       "duration_ms": 137995,
       "name": "BAD BITCH",
       "url": "https://open.spotify.com/track/0ypgX9hLm9BEfJ7ldtFAgH"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/2R4cBv4crCsgmscopkR67j"
-      },
-      "artists": [
-        {
-          "name": "Jake Daniels",
-          "url": "https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh"
-        },
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 127800,
-      "name": "Freak Show",
-      "url": "https://open.spotify.com/track/4dL8cY3jCkVgip6827j3PE"
-    },
-    {
-      "added_at": "2024-01-15 15:45:52",
-      "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/4fHanSBBo7YvqXhYUQgZ8N"
-      },
-      "artists": [
-        {
-          "name": "Fae",
-          "url": "https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB"
-        }
-      ],
-      "duration_ms": 176629,
-      "name": "Unfinished Business",
-      "url": "https://open.spotify.com/track/4YluI2KiR4ZWxqGAvNWsD1"
     },
     {
       "added_at": "2024-01-15 15:45:52",

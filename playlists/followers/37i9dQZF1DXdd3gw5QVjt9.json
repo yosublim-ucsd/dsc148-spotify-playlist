@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 1194032,
+  "2024-01-20": 1194036,
   "date_first_scraped": "2019-05-26",
   "description": "Rise with a relaxing blend of folk and acoustic.",
   "name": "Morning Acoustic",
@@ -2581,7 +2581,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 187036,
       "name": "Old Town",
       "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
@@ -2977,7 +2977,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 139060,
       "name": "Red And Gold",
       "url": "https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS"

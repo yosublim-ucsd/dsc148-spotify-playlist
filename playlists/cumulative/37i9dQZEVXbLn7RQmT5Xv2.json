@@ -5348,7 +5348,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 282430,
       "name": "Kan Mawdo3",
       "url": "https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC"
@@ -12240,7 +12240,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 209993,
       "name": "\u0627\u0644\u0628\u0648\u0635\u0644\u0629 \u0636\u0627\u0639\u062a",
       "url": "https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2"
@@ -12840,6 +12840,28 @@
       "duration_ms": 154106,
       "name": "\u0628\u0648\u063a\u0627\u062a\u064a",
       "url": "https://open.spotify.com/track/7hyO6hAXbu7tRjx78lsR2D"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0648\u0645 \u062a\u0634",
+        "url": "https://open.spotify.com/album/6zkkH7fiLnyoKkrqZEpU6L"
+      },
+      "artists": [
+        {
+          "name": "\u0627\u0633\u0644\u0627\u0645 \u0643\u0627\u0628\u0648\u0646\u062c\u0627",
+          "url": "https://open.spotify.com/artist/6lBIyYTrWwULJmuFlncN48"
+        },
+        {
+          "name": "\u0643\u0644\u0648\u0634\u0647",
+          "url": "https://open.spotify.com/artist/57JzLjScfw2AbQCjCPgvX8"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311867,
+      "name": "\u0628\u0648\u0645 \u062a\u0634",
+      "url": "https://open.spotify.com/track/6S6nYPaoZSmXbcbw6pVMvR"
     },
     {
       "album": {
@@ -14640,6 +14662,24 @@
       "duration_ms": 207563,
       "name": "\u0645\u0646\u0627\u0641\u0642\u064a\u0646",
       "url": "https://open.spotify.com/track/4seQ4caYcDPtkxykPlASYl"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0646\u062d\u0631\u0641\u064a\u0646 ( \u0641\u064a \u062d\u0636\u0648\u0631\u0646\u0627 \u0627\u0644\u062f\u0646\u064a\u0627 \u0628\u062a\u062a\u0634\u0642\u0644\u0628 )",
+        "url": "https://open.spotify.com/album/5b1QeLF3IBHdlAtwpn5H3M"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183196,
+      "name": "\u0645\u0646\u062d\u0631\u0641\u064a\u0646 ( \u0641\u064a \u062d\u0636\u0648\u0631\u0646\u0627 \u0627\u0644\u062f\u0646\u064a\u0627 \u0628\u062a\u062a\u0634\u0642\u0644\u0628 )",
+      "url": "https://open.spotify.com/track/0T61bGOEKCv09tvbbiXb8u"
     },
     {
       "album": {

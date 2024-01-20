@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 248144,
+  "2024-01-20": 248328,
   "date_first_scraped": "2022-05-27",
   "description": "pi po po po ro po ",
   "name": "faz a trend",
@@ -895,6 +895,24 @@
       "duration_ms": 169092,
       "name": "Antes",
       "url": "https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF"
+    },
+    {
+      "album": {
+        "name": "Batid\u00e3o do Playboy",
+        "url": "https://open.spotify.com/album/0eRelwLFuf8GARQhmiGB5W"
+      },
+      "artists": [
+        {
+          "name": "Aldair Playboy",
+          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162716,
+      "name": "Aquela Nega",
+      "url": "https://open.spotify.com/track/6j4WNB4AeZq80Vw7wHWaXI"
     },
     {
       "album": {
@@ -5231,6 +5249,28 @@
       "duration_ms": 157020,
       "name": "L\u00e1 Ele",
       "url": "https://open.spotify.com/track/08XvRS5EH8FfD6urhgaPD2"
+    },
+    {
+      "album": {
+        "name": "Macetando",
+        "url": "https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "Macetando",
+      "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
     },
     {
       "album": {

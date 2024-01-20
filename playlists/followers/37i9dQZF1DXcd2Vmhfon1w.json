@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 518575,
+  "2024-01-20": 518735,
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Ayax y Prok",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. FERNANDOCOSTA",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -715,6 +715,28 @@
       "duration_ms": 230800,
       "name": "BENDECIDO",
       "url": "https://open.spotify.com/track/11YNuTEC2neoHVWvgp9pqX"
+    },
+    {
+      "album": {
+        "name": "Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5cjKtvHw4gxHeBDiYj7F8I"
+      },
+      "artists": [
+        {
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        },
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205479,
+      "name": "Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/5blhEfe4Ac3nxKsO8HQ6wN"
     },
     {
       "album": {
@@ -3365,7 +3387,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 191538,
       "name": "Nadie Regala Nada",
       "url": "https://open.spotify.com/track/718k7I8qhfZq8deQUqO7PM"

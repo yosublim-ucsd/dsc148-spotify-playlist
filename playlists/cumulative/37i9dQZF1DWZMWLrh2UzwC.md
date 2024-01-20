@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: NMIXX
 
-9,027 songs - 20 day 14 hr 47 min
+9,028 songs - 20 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7611,6 +7611,7 @@
 | [THINKIN OF LOVE](https://open.spotify.com/track/4voUYsm1JO1mtAjfTjB3k5) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [THINKIN OF LOVE](https://open.spotify.com/album/3U7xyPQenMvi49yBs7Gn1h) | 4:34 | 2023-06-08 | 2023-06-16 |
 | [Thinkin of You](https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Thinkin of You](https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6) | 2:17 | 2023-05-25 | 2023-06-02 |
 | [thinkin'](https://open.spotify.com/track/3YV57LYkAvSm8JFu11Ofug) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [thinkin'](https://open.spotify.com/album/6jLhtPKclICrwmyRycJY68) | 2:15 | 2023-01-19 | 2023-01-27 |
+| [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 | 2024-01-18 |  |
 | [Thinkin' Bout Me](https://open.spotify.com/track/1vYVy0C40JfBo8l6Rhv2QK) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn), [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Thinkin' Bout Me](https://open.spotify.com/album/1oJq5u10EdD29i5HJ4XXvY) | 3:53 | 2022-09-22 | 2022-09-30 |
 | [Thinking About You](https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Thinking About You](https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec) | 3:37 | 2023-02-09 | 2023-02-17 |
 | [Thinking Bout You](https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Thinking Bout You](https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu) | 3:10 | 2022-05-26 | 2022-06-03 |

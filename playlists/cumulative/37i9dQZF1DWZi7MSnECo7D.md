@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Tuyo
 
-538 songs - 1 day 6 hr 21 min
+540 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Domingo de Sol](https://open.spotify.com/track/6gukKbG49ETpkHqwG3n4OD) | [Holger](https://open.spotify.com/artist/27euzsPUnsiX6SutdBXti0) | [Domingo de Sol](https://open.spotify.com/album/2WUiv785U0NmWRrdOn2ijY) | 3:19 | 2023-05-19 | 2023-09-23 |
 | [Dona da Minha Cabeça](https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Dona da Minha Cabeça](https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil) | 3:55 | 2023-11-17 |  |
 | [Door](https://open.spotify.com/track/5YkZTtb0htLlo2F1Um6knO) | [Gato de Rua](https://open.spotify.com/artist/2q9BBqImQUlzKzpj1k2KqH) | [Door](https://open.spotify.com/album/0ypjYPdOJBi7Ed3njS6dSu) | 2:12 | 2022-07-22 | 2022-08-13 |
+| [Dores no Varal](https://open.spotify.com/track/1O5QLe2KpkGRjeasjjEQV1) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Dores no Varal](https://open.spotify.com/album/3g0PamUjm8c2PTPVRBqG0t) | 3:37 | 2024-01-19 |  |
 | [DTF](https://open.spotify.com/track/1QyBY8GvGDGhibm9VMlP4f) | [TUM](https://open.spotify.com/artist/3qnpaRwMVL3dQtpd8R4xOR) | [DTF](https://open.spotify.com/album/4DsH9H8vpgwLpDLXY1NL9e) | 4:55 | 2023-05-26 | 2023-09-23 |
 | [Dóidóidói](https://open.spotify.com/track/4oSVbS2wVr62tRypCHHiQY) | [Labaq](https://open.spotify.com/artist/3lYrvAJgDMVswjcn0Zi0La) | [Dóidóidói](https://open.spotify.com/album/5ORpzqsldrjpCGMBlhSUQA) | 2:46 | 2022-04-01 | 2022-04-29 |
 | [Eclipse](https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [Eclipse](https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv) | 3:50 | 2022-12-02 | 2023-05-27 |
@@ -312,6 +313,7 @@
 | [Ninguém Solta A Mão De Ninguém \- Jeff Pierre Remix](https://open.spotify.com/track/5vUkw7XU9iYFzBbacSqSsD) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt) | [Ninguém Solta A Mão De Ninguém \(Jeff Pierre Remix\)](https://open.spotify.com/album/4Y2eWP0Pg4O3nWPFPHgPzi) | 3:21 | 2022-07-15 | 2022-07-23 |
 | [No Escuro](https://open.spotify.com/track/2ZHxQrtMQF5goQyNUWG702) | [Mini Lamers](https://open.spotify.com/artist/4gJTuwBkcgDY6BC2lpYavZ), [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [No Escuro](https://open.spotify.com/album/3SnTf4h0rOS9f6f31wr9P2) | 3:55 | 2022-01-14 | 2022-01-22 |
 | [noiada indoor](https://open.spotify.com/track/64BAxCJPOd3FfipIXHSLUI) | [camilobers](https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO), [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [noiada indoor](https://open.spotify.com/album/5imRZ16LnB9olJx5algmTV) | 3:44 | 2022-02-11 | 2022-03-12 |
+| [Noite dos Tristes](https://open.spotify.com/track/2mlSCmo23CEsmMneXWMmwD) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Noite dos Tristes](https://open.spotify.com/album/5RQDRf5htrQMFTshb5QXyS) | 3:41 | 2024-01-19 |  |
 | [Noite Passada](https://open.spotify.com/track/5mfIhpw2TWDFaHdZ1GKo3J) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Noite Passada](https://open.spotify.com/album/44XRxT09VtGgaBQcIBHMiU) | 2:45 | 2023-01-13 | 2023-05-27 |
 | [Novos Amigos](https://open.spotify.com/track/0AKOSNb6X5lLAQUQVwUgIc) | [insandessa](https://open.spotify.com/artist/0aFNJcmIq2uD638VXjFxxp) | [Novos Amigos](https://open.spotify.com/album/4AhbybLM9SDwz1N0QkjRMM) | 2:52 | 2022-01-14 | 2022-02-12 |
 | [Nunca foi descaso \(feat\. Gab Ferreira\) \- Ao Vivo](https://open.spotify.com/track/5cdwRfJldwrKv6mrHvCR1r) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de Carta \(Ao Vivo\)](https://open.spotify.com/album/6jOWkYdTXWt9p2nDzYLnFr) | 3:44 | 2022-12-02 | 2023-04-01 |

@@ -1161,6 +1161,28 @@
     },
     {
       "album": {
+        "name": "Ibu 3000 (Metodi Hristov Remix)",
+        "url": "https://open.spotify.com/album/27VNnOoz1oPkQjJcjS94vx"
+      },
+      "artists": [
+        {
+          "name": "Kaufmann (DE)",
+          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
+        },
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338090,
+      "name": "Ibu 3000 - Metodi Hristov Remix",
+      "url": "https://open.spotify.com/track/6CcSPBapdwm6nw6kntZX9z"
+    },
+    {
+      "album": {
         "name": "In the Club",
         "url": "https://open.spotify.com/album/5nrHo0U48UGrBuNRvx3lSR"
       },

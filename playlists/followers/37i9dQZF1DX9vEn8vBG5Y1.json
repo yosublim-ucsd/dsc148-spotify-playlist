@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 174371,
+  "2024-01-20": 174457,
   "date_first_scraped": "2022-05-09",
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
   "name": "00s Pop Rock",
@@ -313,7 +313,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 239173,
       "name": "Chariot",
       "url": "https://open.spotify.com/track/08kTO4EW0jb07zNsCNM83w"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Her Diamonds",
       "url": "https://open.spotify.com/track/3LtwmK1OfN0dGs9jf3qSjn"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 185360,
       "name": "I Can't Stay",
       "url": "https://open.spotify.com/track/2zdpz8sk3rkh0fLYabLjmj"
@@ -2471,7 +2471,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Digital Astro, Baby Gang, ANNA, Rondo, Boro, Q40 e tanti altri.
 
-2,940 songs - 5 day 13 hr 15 min
+2,941 songs - 5 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,6 +669,7 @@
 | [Copacabana](https://open.spotify.com/track/4IUW8x8SdDkcbm8LivZRC1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Copacabana](https://open.spotify.com/album/1gDOQhITnrLJtvL1q3aTm2) | 1:56 | 2022-09-15 | 2022-10-21 |
 | [Copacabana](https://open.spotify.com/track/0Qs2VJgDHPBJBvtfCqQcox) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 2:49 | 2022-06-09 | 2022-07-01 |
 | [Copacabana \(feat\. Paky\)](https://open.spotify.com/track/7rjR36OF6ZPXc6bdoNYKBp) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 3:14 | 2022-07-21 | 2022-09-09 |
+| [CORDE \(feat\. Neima Ezza\)](https://open.spotify.com/track/6RXzeJVzgncdkP8qGYcXTi) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [CONFESSIONE](https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH) | 2:44 | 2024-01-19 |  |
 | [Corri Garçon](https://open.spotify.com/track/7MD3sUhXdfvHndXZ90uXwP) | [Manu Skar](https://open.spotify.com/artist/592TSNOHonUcOHcEorAGgV) | [Corri Garçon](https://open.spotify.com/album/4h7MaKhZyEQDQKl6g1IMHX) | 2:37 | 2023-05-25 | 2023-06-09 |
 | [CORSA CAMPESTRE](https://open.spotify.com/track/1ceFsQ1ckXFFGXsyCYvOCl) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV), [RollzRois](https://open.spotify.com/artist/1fTtdB7ppQhdFosmH7nxGR) | [CORSA CAMPESTRE](https://open.spotify.com/album/3GRLq8h9RERbzD7SXSpZ47) | 2:40 | 2022-10-27 | 2022-11-18 |
 | [CORSE PER I SOLDI](https://open.spotify.com/track/0TVgy6reOVqwDRjUHIWUbm) | [Angelino 5G](https://open.spotify.com/artist/43MgP8yYm60Mn9lx6hoORO) | [CORSE PER I SOLDI](https://open.spotify.com/album/3uHXbgDuarWpUaDVBNOd2r) | 3:05 | 2023-10-26 | 2023-11-03 |
@@ -1025,7 +1026,7 @@
 | [Fumo Con Lei](https://open.spotify.com/track/0Mx0iBrF9xsZeSZlCP0M5s) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Fumo Con Lei](https://open.spotify.com/album/0YuiNiDJ0y3sUhRRwBVZEe) | 2:14 | 2023-02-09 | 2023-03-03 |
 | [FUOC X SEMP](https://open.spotify.com/track/6PoAFFOQiLzXOFeD3EbiaL) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [FUOC X SEMP](https://open.spotify.com/album/1eOLhOslFE7WSermbE6Ne4) | 2:46 | 2023-05-04 | 2023-05-19 |
 | [Fuochi D'artificio](https://open.spotify.com/track/65mYPEqBTis9kwzc1SOydw) | [A7BE](https://open.spotify.com/artist/1eDn2I7kVEK2pczH9udTTX), [kikko](https://open.spotify.com/artist/3XlGq5h5mdlsvngCif3tpo) | [Fuochi D'artificio](https://open.spotify.com/album/58qgxEiLucXDdjV8auzdd3) | 3:20 | 2024-01-12 | 2024-01-19 |
-| [Fuoco Sacro \(feat\. Colle Der Fomento\)](https://open.spotify.com/track/2fTBUYU6YJVbfHGTm56coQ) | [Cor Veleno](https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R), [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Fuoco Sacro \(feat\. Colle Der Fomento\)](https://open.spotify.com/album/3XvdjncaFFf6vTMcb35Gtj) | 4:47 | 2024-01-04 |  |
+| [Fuoco Sacro \(feat\. Colle Der Fomento\)](https://open.spotify.com/track/2fTBUYU6YJVbfHGTm56coQ) | [Cor Veleno](https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R), [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Fuoco Sacro \(feat\. Colle Der Fomento\)](https://open.spotify.com/album/3XvdjncaFFf6vTMcb35Gtj) | 4:47 | 2024-01-04 | 2024-01-20 |
 | [Fuori City](https://open.spotify.com/track/1mvgPEzmMOa4Dj24v7NP8n) | [Nobody](https://open.spotify.com/artist/5pqvIYhqL6Sb3PB5XCjd13), [DaBoi Dax](https://open.spotify.com/artist/1jgLmSuodo9ySfanlpMPCy), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Fuori City](https://open.spotify.com/album/2AdATUIDap0eTSevVvrgSs) | 2:02 | 2022-09-15 | 2022-09-23 |
 | [Fuori da un buco](https://open.spotify.com/track/2PPR9XofwdK77iORoXBUDM) | [Wem](https://open.spotify.com/artist/48D7Ig9VVY8puUmIJaY5LT) | [Fuori da un buco](https://open.spotify.com/album/3feTcNTe5iI5p2FLrygn6d) | 2:05 | 2023-03-16 | 2023-03-25 |
 | [Fuori Dalle Mode](https://open.spotify.com/track/34XBKHmhqslrETYfVtz5Ru) | [TPrex](https://open.spotify.com/artist/0DS0HbGsD8o2ptbl1lCCok) | [Fuori Dalle Mode](https://open.spotify.com/album/5XJxFzSjFfolcpcfl3JPRe) | 2:17 | 2022-05-19 | 2022-05-28 |

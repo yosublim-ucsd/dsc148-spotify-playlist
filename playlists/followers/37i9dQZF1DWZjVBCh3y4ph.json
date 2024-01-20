@@ -1,9 +1,53 @@
 {
-  "2024-01-19": 56914,
+  "2024-01-20": 57000,
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : L\u00c9A CHURROS",
+  "description": "Les hits zouk du moment. Photo : Maureen x Mik L",
   "name": "Zouk Station",
   "tracks": [
+    {
+      "album": {
+        "name": "A GOU A-W",
+        "url": "https://open.spotify.com/album/6DojCUM0aZVwBzq021MUt8"
+      },
+      "artists": [
+        {
+          "name": "Tronixx",
+          "url": "https://open.spotify.com/artist/6RO2UXynldo4GeiBvccA5M"
+        },
+        {
+          "name": "F\u00e9cat'jy",
+          "url": "https://open.spotify.com/artist/6El92u2iCNwzyOQPXpparK"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "A GOU A-W",
+      "url": "https://open.spotify.com/track/4CsbuoqSMIlxMzquvFPxws"
+    },
+    {
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/0jaer6BFPXUjaV1LqKXJ30"
+      },
+      "artists": [
+        {
+          "name": "MC DY",
+          "url": "https://open.spotify.com/artist/0wFT0h2jZOxhpBlXFbO4Ds"
+        },
+        {
+          "name": "Chabsy",
+          "url": "https://open.spotify.com/artist/2UhHFaDD6E4ISzi44nyKuW"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150073,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/2VuKKcW0QtVfpuhpQhy0ui"
+    },
     {
       "album": {
         "name": "Antananarivo",
@@ -725,7 +769,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 180250,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3"
@@ -969,7 +1013,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 121250,
       "name": "Nouvo Mood",
       "url": "https://open.spotify.com/track/0yHyEuO6sXnuJghlnro7Fl"

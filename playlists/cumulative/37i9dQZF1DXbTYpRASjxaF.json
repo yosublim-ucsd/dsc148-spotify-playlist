@@ -1193,6 +1193,36 @@
     },
     {
       "album": {
+        "name": "Secretbox, Vol. 4",
+        "url": "https://open.spotify.com/album/7yN4aGc9NRspnq0SfpI6BS"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Dubrayti",
+          "url": "https://open.spotify.com/artist/780sx1F5M381jXQa6gMqhu"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203968,
+      "name": "BODY SPLASH",
+      "url": "https://open.spotify.com/track/1Otda8Q4YEIF427qbsaF8m"
+    },
+    {
+      "album": {
         "name": "O Bagulho \u00c9 Trap II",
         "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
@@ -2729,6 +2759,32 @@
     },
     {
       "album": {
+        "name": "Drop da Santa",
+        "url": "https://open.spotify.com/album/6ObK2QGCtSFaDxDYnKyKyZ"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Rapper Gregory",
+          "url": "https://open.spotify.com/artist/55XEJ5O0Gy6wAUANXfXpSS"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164512,
+      "name": "Drop da Santa",
+      "url": "https://open.spotify.com/track/4m4ZQv1aPfi4jDpl8Kt5hK"
+    },
+    {
+      "album": {
         "name": "Duas Doses",
         "url": "https://open.spotify.com/album/0ekNA7uYau9DF65F5ESe0e"
       },
@@ -3490,7 +3546,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 136615,
       "name": "Gato Preto",
       "url": "https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr"
@@ -3836,7 +3892,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 192000,
       "name": "Japonega",
       "url": "https://open.spotify.com/track/7End3r8QI6cDCtcLeoDRg6"
@@ -5150,7 +5206,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 172978,
       "name": "Misturas no copo",
       "url": "https://open.spotify.com/track/64snhXUXQyLWrnqReKEMTZ"
@@ -6462,7 +6518,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 143283,
       "name": "Platinado",
       "url": "https://open.spotify.com/track/2zZWxrqEjaEBJwUzyEX01S"

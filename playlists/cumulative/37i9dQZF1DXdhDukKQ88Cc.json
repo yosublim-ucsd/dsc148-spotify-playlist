@@ -2117,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "Wimbledon",
+        "url": "https://open.spotify.com/album/7rhxRAp0OfX87dBLKkG5VN"
+      },
+      "artists": [
+        {
+          "name": "Larry",
+          "url": "https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140526,
+      "name": "Wimbledon",
+      "url": "https://open.spotify.com/track/4mWZ0AJ8gdPixvdE06tgpz"
+    },
+    {
+      "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
       },

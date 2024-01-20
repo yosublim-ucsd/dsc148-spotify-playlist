@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,858 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,895 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 28 | [Modern Animal](https://open.spotify.com/track/649HFmp5uijgRRbSVGRjE3) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Modern Animal](https://open.spotify.com/album/6y5roSQsSbhNcVfIkhF7wL) | 4:20 |
 | 29 | [What's Life](https://open.spotify.com/track/0YHfLP0QLo7Gl7eyyxiSyp) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Do You Need A Release?](https://open.spotify.com/album/1zq50YlpfOS6j9wM8l6Lbn) | 3:31 |
 | 30 | [Chain Reaction](https://open.spotify.com/track/4guhAhIqU9xt3n0kUF8p3R) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Toxic Planet](https://open.spotify.com/album/13iR5TuTMOqu102O4zoQ5L) | 3:29 |
-| 31 | [Run It Up](https://open.spotify.com/track/1IeRpa7ife9vpYf9jJOWnf) | [King Flexx](https://open.spotify.com/artist/0XTVPgQnZDSpj8bdgv6jqN) | [All Out](https://open.spotify.com/album/0u60UoFqjeUSOHNfuyEsUA) | 2:56 |
+| 31 | [Run It Up](https://open.spotify.com/track/1EBZ0qnOCX4KQltUeI4hwo) | [King Flexx](https://open.spotify.com/artist/0XTVPgQnZDSpj8bdgv6jqN) | [All Out](https://open.spotify.com/album/3W3ILTbRLlWanK6NJywalk) | 2:56 |
 | 32 | [Reflection](https://open.spotify.com/track/1WMAmiHJjj3jiQlPMFFdGi) | [Hi Frisco](https://open.spotify.com/artist/6ifRAgjl7vu0M5DsSbtp2i), [CHERITON](https://open.spotify.com/artist/31RwGrkcLmgHGRSOK2gIKB) | [Reflection](https://open.spotify.com/album/6hRNO6aIMwgR1WIdvyCqk5) | 4:15 |
 | 33 | [Haunted](https://open.spotify.com/track/037ToNrK3xjY3FWT7gr4MT) | [Equateur](https://open.spotify.com/artist/0U1HS8p8djJ7F4qNGejemo) | [Burn the Sun](https://open.spotify.com/album/24xakawqIlKeYDCysiVQgB) | 4:03 |
 | 34 | [Lucid](https://open.spotify.com/track/5GL0OMMSziz8VwN87p30TE) | [Innocent Bird](https://open.spotify.com/artist/3XKL5IuEz5yErHp6S3Wk8q) | [Vol\. 4](https://open.spotify.com/album/7L3orQnuqz95Y1e5W62y3V) | 3:43 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCxlYTAzNWNmMzdkNGI4OTgwNzY5MTI4MjEwMTQ4NTkzZTk3OGQ4Zjgx`
+Snapshot ID: `MCwyYTFkODdhZDM4MWMxZjc5MzU2ZmJkOGI4OGM4YzEwYzE0YzY5OWMy`

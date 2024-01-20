@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-718 songs - 1 day 12 hr 16 min
+719 songs - 1 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Kilates](https://open.spotify.com/track/50aFCOTvcZvsRYyVlomizt) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [Kilates](https://open.spotify.com/album/6ooY2zQ2dlYcmdjPzD85cp) | 3:22 | 2023-06-01 | 2023-09-15 |
 | [KIWI](https://open.spotify.com/track/6Ccwm792CDDxGsaCXnzDP6) | [HeartLess](https://open.spotify.com/artist/72bZdVlE9OFvEJcWj7q23r) | [KIWI](https://open.spotify.com/album/6vpxyaBE5Fbt26igJAvxt3) | 3:05 | 2022-10-27 | 2023-02-03 |
 | [KOALA FREESTYLE](https://open.spotify.com/track/7LqsTVQgXBVR9zaqVtfvJh) | [el Amukinado](https://open.spotify.com/artist/0OMqwt5uyjQqbh7KL1Wlg2), [EVAS BABY](https://open.spotify.com/artist/33OpKOqdE4pty4ZlCUvv1b) | [KOALA FREESTYLE](https://open.spotify.com/album/7kDPICavBWnPqwQDkvRMWM) | 1:51 | 2023-02-10 | 2023-03-01 |
+| [Kobe Year Freestyle](https://open.spotify.com/track/3ZxJflgD4V4BfraB3X8KHf) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV), [Midnight Commander](https://open.spotify.com/artist/4iuqwRKK5CQL2JxNKuHVRR) | [Kobe Year Freestyle](https://open.spotify.com/album/1EkKsOTNBlBnMrgqy77BSN) | 2:46 | 2024-01-19 |  |
 | [Kobras e Selvas](https://open.spotify.com/track/2FHLN2BVlzeEeKwyx0o1lk) | [Ziki Ks](https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [Mini God KK](https://open.spotify.com/artist/6a23vgfnRQ9gyrEoI3rVQn), [Imma G](https://open.spotify.com/artist/5nVj1AfRWZEDWiPivNpVAH) | [Kobras e Selvas](https://open.spotify.com/album/7gLX1j0sW57tMUZKmF7bI4) | 4:46 | 2023-01-16 | 2023-02-10 |
 | [Kre Mas](https://open.spotify.com/track/4DbdyCdI0GqS8h0HFbWopw) | [Lord XIV](https://open.spotify.com/artist/5TYWbwBIIkfhJHUrYbatRF), [Dj Dadda](https://open.spotify.com/artist/01cSS9Li4G0S7dH0h7Khfu) | [Folie à Deux](https://open.spotify.com/album/27BGwwzTWqwTJbgSbnwB57) | 2:41 | 2023-07-27 | 2023-11-10 |
 | [Lacrimosa Freestyle](https://open.spotify.com/track/3blIYjyL86qWr160Gl4tY1) | [Keny](https://open.spotify.com/artist/3ZTDEr6f10ouCboZg4Nfam) | [Lacrimosa Freestyle](https://open.spotify.com/album/5U4l27CTAxT5oUsjfTUdfx) | 2:18 | 2022-07-07 | 2022-07-22 |

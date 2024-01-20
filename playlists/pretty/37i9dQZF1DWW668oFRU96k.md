@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Rust x Ben Nicky x WUKONG
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,875 likes - 77 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,921 likes - 77 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 18 | [Is It Love](https://open.spotify.com/track/6yAP1ayZFMGhuTXEjh2FWe) | [SmartLove Music](https://open.spotify.com/artist/2PXE99c8nCPIW3kFb1Il54) | [Is It Love](https://open.spotify.com/album/1rMCITMmrQRjabN4FRjm2t) | 3:28 |
 | 19 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 |
 | 20 | [ME](https://open.spotify.com/track/7dyJugljupi044oQfkrzlc) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [ME](https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq) | 3:34 |
-| 21 | [Dominos \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/2Hdawv1gUmrdDAzcGL6whs) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Dominos \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/7pri5MuUKJR5i3z5qXPDGC) | 2:30 |
+| 21 | [Dominos](https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Dominos](https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL) | 2:30 |
 | 22 | [Favorite Sound](https://open.spotify.com/track/3OflIzsYlyYFKgb4VvEyVj) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Favorite Sound](https://open.spotify.com/album/1wYxzbz645Vh5k0GNINcmV) | 2:54 |
 | 23 | [Kill The Lights](https://open.spotify.com/track/4FYXh0MJf1aCu7RNadVuhK) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Kill The Lights](https://open.spotify.com/album/37NA8ATUVqpIxgLWv3LlGP) | 3:20 |
 | 24 | [Hurricanes](https://open.spotify.com/track/1O74Iwsxvf809hqwrc8ldz) | [QUATTROTEQUE](https://open.spotify.com/artist/0l1kVCUpMOfiqosrJLdFJX), [TRETIAKOVA](https://open.spotify.com/artist/4wWGmZ9dwQkkK3u7lEMChO) | [Hurricanes](https://open.spotify.com/album/39zQ5T8FTbFv0QdqgKSCNO) | 3:02 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 76 | [Nice & Chill \(feat\. Snoop Dogg\)](https://open.spotify.com/track/0YpGZ3doNPRq9mMj4kgUZB) | [HINA](https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Nice & Chill \(feat\. Snoop Dogg\)](https://open.spotify.com/album/2qbbWIlButDWaIAStr8Aj0) | 2:35 |
 | 77 | [Daddy](https://open.spotify.com/track/4bahlJIInsjIUKXrod6RqO) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Daddy](https://open.spotify.com/album/7lL7z2Kbqj7gCjRlAKENmb) | 2:12 |
 
-Snapshot ID: `MCw1YjUzMDg1NTMzY2ZiZjNiZDZmOTEzMjEyZDQyNjY4NzEwNTZhNzQ0`
+Snapshot ID: `MCw0MGE0ZTU0MDdhMDI3NTM1MzRkYWVmMmUwZDM1N2E3MDhlYTFmMmIz`

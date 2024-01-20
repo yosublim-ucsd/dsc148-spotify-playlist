@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Omar Courtz
 
-910 songs - 2 day 0 hr 46 min
+911 songs - 2 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 | 2023-04-14 | 2023-05-27 |
 | [EL VALS](https://open.spotify.com/track/7aZspSnjNoHdthMrl8cILH) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7) | [EL VALS](https://open.spotify.com/album/7fNOjCNStUOYlNGPqZFB1M) | 3:00 | 2024-01-12 |  |
 | [Ella Hace Vino](https://open.spotify.com/track/6ANymFCKuM24XvNxaHksH9) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Ella Hace Vino](https://open.spotify.com/album/2TKEmeQD9nxDVxkiKQ8OFt) | 2:38 | 2023-08-25 | 2023-10-14 |
-| [Ella Mata](https://open.spotify.com/track/7JqgPZVfpwFVPDhb4mSjOJ) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [OTRA VIDA](https://open.spotify.com/album/3Ux5e7wmBayckov4KDDHoo) | 2:07 | 2023-11-24 |  |
+| [Ella Mata](https://open.spotify.com/track/7JqgPZVfpwFVPDhb4mSjOJ) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [OTRA VIDA](https://open.spotify.com/album/3Ux5e7wmBayckov4KDDHoo) | 2:07 | 2023-11-24 | 2024-01-20 |
 | [Ella Perrea](https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [ALTER EGO](https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm) | 2:48 | 2023-09-22 | 2024-01-06 |
 | [En Bajita](https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Bajita](https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp) | 3:29 | 2023-03-17 | 2023-09-09 |
 | [En La De Ella](https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [En La De Ella](https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH) | 3:50 | 2022-10-28 | 2023-02-11 |
@@ -395,6 +395,7 @@
 | [Kame Hame](https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Kame Hame](https://open.spotify.com/album/5mAMMqiX0sebEb7npoeBV8) | 2:47 | 2023-02-03 | 2023-03-25 |
 | [Kamikaze](https://open.spotify.com/track/1ve3mGIjlbn3buBERaMQC8) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Kamikaze](https://open.spotify.com/album/2pLXdQprhf3w3JjAlOpqeI) | 2:34 | 2023-09-08 | 2023-09-23 |
 | [Kara D Mala](https://open.spotify.com/track/7AbIxiwv8b9qrhEh1iXdjc) | [Dalizz](https://open.spotify.com/artist/4wNPkDno84vmJuPwfVzhwc) | [Kara D Mala](https://open.spotify.com/album/4BUvPd0WVTDP3wv5JrqKWh) | 2:24 | 2023-04-14 | 2023-06-03 |
+| [Karma](https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Karma](https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO) | 2:41 | 2024-01-19 |  |
 | [KAWAII](https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [KAWAII](https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf) | 3:18 | 2022-09-23 | 2022-12-17 |
 | [Kitty](https://open.spotify.com/track/7dg1E1QLfNAXDNlKshOTUC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Kitty](https://open.spotify.com/album/7MTllNrunaSB1GTWkbt9ee) | 3:20 | 2023-04-21 | 2023-05-27 |
 | [Kitty Culea](https://open.spotify.com/track/5w8cpNXc7Gw6ZMvheFfrmE) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:50 | 2023-10-06 | 2023-10-14 |

@@ -4,7 +4,7 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- Emiway Bantai
 
-121 songs - 6 hr 29 min
+122 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\#NoBakshis](https://open.spotify.com/track/0nFIjLWAyKA6D7T4Ju15hO) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [4Three4Life](https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y) | 2:13 | 2023-12-13 |  |
 | [307 \- Tadipaar](https://open.spotify.com/track/3ykJ0aV5PDv4ELluV4wJQX) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [307 \(Tadipaar\)](https://open.spotify.com/album/2eppHH9aIpflUcMLvWsj8V) | 2:32 | 2023-03-17 |  |
 | [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 4:32 | 2023-03-17 |  |
+| [4.10](https://open.spotify.com/track/10jkTly01YHd0Jm2xUtFlB) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0m5Q6hoYA8lw47ZFtZHSqa) | 2:49 | 2024-01-19 |  |
 | [808](https://open.spotify.com/track/5zq4bkV1NxcJ9pyZCXqE6l) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:09 | 2023-09-13 | 2023-12-09 |
 | [Aafat \- Bombay 70](https://open.spotify.com/track/6nLXztjml4pmkSm8K2NBwJ) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Aafat \(Bombay 70\)](https://open.spotify.com/album/0WAsXRD2Dg28MDSqPKiyWV) | 3:12 | 2023-03-17 | 2023-12-14 |
 | [Aaina](https://open.spotify.com/track/7rMJ1krFie8nKq5cWUAQsx) | [Mohak](https://open.spotify.com/artist/4P7MLqhC62ywWaE2iHiW8p), [Prithvi Shetty](https://open.spotify.com/artist/7yIyJiv9hpogI5BWjUXMNd) | [Aaina](https://open.spotify.com/album/3oCS4F4IVlOvjhYZRX5tzi) | 3:16 | 2023-03-17 | 2023-04-25 |
@@ -116,7 +117,7 @@
 | [Shaane Bolte](https://open.spotify.com/track/5EEJMqZOCDPWKE0bAyFgPW) | [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V) | [Shaane Bolte](https://open.spotify.com/album/4GHznD1XMQgEyACxdB71JZ) | 2:54 | 2023-12-13 |  |
 | [Shana Bann](https://open.spotify.com/track/5ZTsPwtt7aCuzbWd5rDGys) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Shana Bann](https://open.spotify.com/album/2Tw9GDRPo2ITN5CbBFAkJn) | 3:48 | 2023-03-17 |  |
 | [Shehnai](https://open.spotify.com/track/2ywkj6sjyVBmq46wgIgIlw) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 2:33 | 2023-03-17 | 2023-09-02 |
-| [Shy](https://open.spotify.com/track/4oIAC4u2X5yti76y62twzs) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Shy](https://open.spotify.com/album/2DLeX2WeY7j5nQdJaRkAG6) | 2:49 | 2023-03-17 |  |
+| [Shy](https://open.spotify.com/track/4oIAC4u2X5yti76y62twzs) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Shy](https://open.spotify.com/album/2DLeX2WeY7j5nQdJaRkAG6) | 2:49 | 2023-03-17 | 2024-01-20 |
 | [Sitara](https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:59 | 2023-03-17 | 2023-04-25 |
 | [SOCH](https://open.spotify.com/track/6fexssu7i0gEbFcsm0U9ar) | [Dopeadelicz](https://open.spotify.com/artist/4HqaCsAhhMF8t4ExOwugpK), [Captain Fuse](https://open.spotify.com/artist/0k7mjIymx7jlsAvFziZk2W), [Dope Daddy](https://open.spotify.com/artist/6xuK3kfFTCwAzlKabusMfv) | [SOCH](https://open.spotify.com/album/748YA661UjhBabYijwUofu) | 3:10 | 2023-03-17 | 2023-04-25 |
 | [Thanks To My Haters](https://open.spotify.com/track/2YQsvNd0ZBCNXhyBTb1CqG) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Thanks To My Haters](https://open.spotify.com/album/2zm6kuDvtaNiSxLlvEQkBX) | 2:46 | 2023-03-17 |  |

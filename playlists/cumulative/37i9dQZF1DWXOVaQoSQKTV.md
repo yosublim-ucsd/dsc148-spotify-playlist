@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-198 songs - 11 hr 44 min
+199 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Ride With Me](https://open.spotify.com/track/28Ja9ZGm4qFPSmGi8b71OF) | [Harry McNally](https://open.spotify.com/artist/4TP6ZE4LzdGQc9nhyKk77M) | [Ride With Me](https://open.spotify.com/album/0fjYZnmkdst3ICcKIaiES7) | 3:02 | 2023-06-08 |  |
 | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/track/5nsJclFXUIQajs8WJIkds7) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/album/20SORgtgHYtIn2xjpjXres) | 3:02 | 2023-06-08 |  |
 | [Rubia](https://open.spotify.com/track/0BIoTaYyUriJ5Iqzh9oueB) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Introducing Juan Pablo](https://open.spotify.com/album/17MdZyy1cCwQRyJaH60gOu) | 2:06 | 2023-06-08 |  |
-| [Run It Up](https://open.spotify.com/track/1IeRpa7ife9vpYf9jJOWnf) | [King Flexx](https://open.spotify.com/artist/0XTVPgQnZDSpj8bdgv6jqN) | [All Out](https://open.spotify.com/album/0u60UoFqjeUSOHNfuyEsUA) | 2:56 | 2023-06-08 |  |
+| [Run It Up](https://open.spotify.com/track/1EBZ0qnOCX4KQltUeI4hwo) | [King Flexx](https://open.spotify.com/artist/0XTVPgQnZDSpj8bdgv6jqN) | [All Out](https://open.spotify.com/album/3W3ILTbRLlWanK6NJywalk) | 2:56 | 2023-06-08 |  |
+| [Run It Up](https://open.spotify.com/track/1IeRpa7ife9vpYf9jJOWnf) | [King Flexx](https://open.spotify.com/artist/0XTVPgQnZDSpj8bdgv6jqN) | [All Out](https://open.spotify.com/album/0u60UoFqjeUSOHNfuyEsUA) | 2:56 | 2023-06-08 | 2024-01-20 |
 | [Run It up Pt\. II](https://open.spotify.com/track/16oNPQ2sVbzZyAscp4SFHD) | [Spilt Milk](https://open.spotify.com/artist/5a4YbQRezrArmu3VxdMGao), [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya) | [Run It up Pt\. II](https://open.spotify.com/album/723LwYSgRF5wC9niD819eF) | 2:34 | 2023-06-08 |  |
 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 | 2023-06-08 |  |
 | [Running \(Alternate\)](https://open.spotify.com/track/6UnoQ80757O28E2lQjE5Mi) | [girl named GOLDEN](https://open.spotify.com/artist/1QdEdpB8sfiCulNykJkeZf) | [Running B\-Sides](https://open.spotify.com/album/3IiG2Vq8iBS2u2FwiFoHbj) | 3:35 | 2023-06-08 |  |

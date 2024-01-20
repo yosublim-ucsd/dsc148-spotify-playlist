@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 177255,
+  "2024-01-20": 177420,
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Guyon Waton",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Denny Caknan",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -325,6 +325,28 @@
       "duration_ms": 342800,
       "name": "Apik",
       "url": "https://open.spotify.com/track/4wKs47lXYzgdkhEfU2X1L6"
+    },
+    {
+      "album": {
+        "name": "Apik",
+        "url": "https://open.spotify.com/album/349eZo14h3OUaX4V5EzmxV"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        },
+        {
+          "name": "Ajeng Febria",
+          "url": "https://open.spotify.com/artist/5qxASy1kvetpJ6N9Utx0mN"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345600,
+      "name": "Apik",
+      "url": "https://open.spotify.com/track/0pKMPmXE9W7jQnKsjbEn0p"
     },
     {
       "album": {
@@ -1125,6 +1147,24 @@
       "duration_ms": 177150,
       "name": "Gali Prapatan",
       "url": "https://open.spotify.com/track/5a0RI1DJDKqLhGyTRyVIa8"
+    },
+    {
+      "album": {
+        "name": "Gampil",
+        "url": "https://open.spotify.com/album/1CDoARMdq5GXJvEX8xSkIe"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302848,
+      "name": "Gampil",
+      "url": "https://open.spotify.com/track/7KET9JHpqakmnfmP1xSQuD"
     },
     {
       "album": {
@@ -2335,6 +2375,24 @@
       "duration_ms": 395533,
       "name": "Mbok Sarijem",
       "url": "https://open.spotify.com/track/0oUW3yW2eADBRGTOpUGe1H"
+    },
+    {
+      "album": {
+        "name": "Melas",
+        "url": "https://open.spotify.com/album/7w6VPtAY5BAzaw4YvjrSPD"
+      },
+      "artists": [
+        {
+          "name": "Evan Loss",
+          "url": "https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299965,
+      "name": "Melas",
+      "url": "https://open.spotify.com/track/1QtDIr6rKYTbK0aJ02BQi2"
     },
     {
       "album": {
@@ -4047,6 +4105,28 @@
       "duration_ms": 264996,
       "name": "SAMAR",
       "url": "https://open.spotify.com/track/7kInuBn9J1a0tXn4hbGJRZ"
+    },
+    {
+      "album": {
+        "name": "SAMAR (Versi Akustik)",
+        "url": "https://open.spotify.com/album/54Ls8koKZtyqqC7cWw1WtD"
+      },
+      "artists": [
+        {
+          "name": "Masdddho",
+          "url": "https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh"
+        },
+        {
+          "name": "Indah Meghaa",
+          "url": "https://open.spotify.com/artist/4XK4lbqOW01VPgvOfLp9rD"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277920,
+      "name": "SAMAR - Versi Akustik",
+      "url": "https://open.spotify.com/track/5QBr8tq760ApYwE4I5ZxDg"
     },
     {
       "album": {

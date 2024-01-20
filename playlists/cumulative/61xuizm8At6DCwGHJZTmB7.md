@@ -4,7 +4,7 @@
 
 > Praise His holy name! Listen to the top Christian and Worship hits of 2024 on <a href="spotify:user:sozoofficial">SOZO Playlists</a>! Cover: <a href="https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm?si=amZK4beZTje3ttbfv\_B7\-Q">Banjamin William Hastings</a>
 
-365 songs - 1 day 11 hr 14 min
+366 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [What He's Done](https://open.spotify.com/track/2pxyd0ly9E5TEObwOvkedv) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Burn Bright](https://open.spotify.com/album/7AbqKnlBMc2QhTg3V6SjEv) | 3:37 | 2022-02-17 | 2022-03-05 |
 | [What He's Done](https://open.spotify.com/track/4n0FgNAx3ApdTFXyvwujH6) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [What He's Done](https://open.spotify.com/album/6CvbOFwjDhPeB5ptLqutLA) | 3:37 | 2022-12-01 |  |
 | [What He's Done \- Live From Passion 2022](https://open.spotify.com/track/09duiLJRbYHhY5PMSVP1i9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Burn Bright](https://open.spotify.com/album/2TzHY6eiWHBPlVn4KghFZr) | 6:37 | 2022-02-18 | 2022-12-02 |
+| [Who Else \- Live](https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Who Else \(Live\)](https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd) | 5:31 | 2024-01-19 |  |
 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 | 2023-12-01 |  |
 | [Who Else \- Live](https://open.spotify.com/track/7gNM9aohgou9HSYbm7QU7H) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Who Else \(Live\)](https://open.spotify.com/album/3CqhQB1z0nVAmVHlqFSClB) | 4:50 | 2023-08-04 | 2023-12-14 |
 | [Who Is This Man](https://open.spotify.com/track/06dAYamTh14bnWQ7UDj9TN) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Who Is This Man](https://open.spotify.com/album/1CgKtmZIU9ttrNToJxfPRp) | 3:30 | 2022-07-01 | 2022-07-14 |

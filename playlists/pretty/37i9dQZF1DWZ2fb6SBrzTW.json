@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 26651,
+  "num_followers": 26700,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGY5ZjQ0ZWI5NTY1NzYxYTE4NDU0NzBlYmQ1MjVlNmMzYTgxYmM1",
+  "snapshot_id": "MCxkOTA1MDRiZmEyZmQ4ZWEwMDA2NzBjNjg1NmVkYmRlODNmNWMyZGMy",
   "tracks": [
     {
       "added_at": "2024-01-12 05:40:44",
@@ -859,22 +859,18 @@
     {
       "added_at": "2024-01-12 05:40:44",
       "album": {
-        "name": "RAVI",
-        "url": "https://open.spotify.com/album/2owJ8p6Y6XVkxyJKgPXGuQ"
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
       "artists": [
         {
-          "name": "Morravey",
-          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
         }
       ],
-      "duration_ms": 148400,
-      "name": "MAGICIAN",
-      "url": "https://open.spotify.com/track/1TNMWejP82ZdXQ7qVszEAo"
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
       "added_at": "2024-01-12 05:40:44",
@@ -895,38 +891,22 @@
     {
       "added_at": "2024-01-12 05:40:44",
       "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+        "name": "RAVI",
+        "url": "https://open.spotify.com/album/2owJ8p6Y6XVkxyJKgPXGuQ"
       },
       "artists": [
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
-    },
-    {
-      "added_at": "2024-01-12 05:40:44",
-      "album": {
-        "name": "Pheelz Good (Triibe Tape)",
-        "url": "https://open.spotify.com/album/1ZkAEtHY1UkPo9LguYVmMZ"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
         },
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 165262,
-      "name": "JOY (feat. Olamide)",
-      "url": "https://open.spotify.com/track/29JDKOT4cf9fI6B52aTMKm"
+      "duration_ms": 148400,
+      "name": "MAGICIAN",
+      "url": "https://open.spotify.com/track/1TNMWejP82ZdXQ7qVszEAo"
     },
     {
       "added_at": "2024-01-12 05:40:44",
@@ -979,6 +959,26 @@
       "duration_ms": 233077,
       "name": "GoodSin (feat. Reekado Banks) - Remix",
       "url": "https://open.spotify.com/track/1IqCbrh4xY0KqmOxXJxClR"
+    },
+    {
+      "added_at": "2024-01-12 05:40:44",
+      "album": {
+        "name": "Pheelz Good (Triibe Tape)",
+        "url": "https://open.spotify.com/album/1ZkAEtHY1UkPo9LguYVmMZ"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 165262,
+      "name": "JOY (feat. Olamide)",
+      "url": "https://open.spotify.com/track/29JDKOT4cf9fI6B52aTMKm"
     },
     {
       "added_at": "2024-01-12 05:40:44",

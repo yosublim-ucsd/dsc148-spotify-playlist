@@ -4477,6 +4477,24 @@
     },
     {
       "album": {
+        "name": "So Far so Good (Instrumental)",
+        "url": "https://open.spotify.com/album/7yabVYPaxNOMolAgqOOMHO"
+      },
+      "artists": [
+        {
+          "name": "Rome in Reverse",
+          "url": "https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317288,
+      "name": "Essenza - Instrumental",
+      "url": "https://open.spotify.com/track/662uFTHNtlgnii28wIdXQQ"
+    },
+    {
+      "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut"
       },

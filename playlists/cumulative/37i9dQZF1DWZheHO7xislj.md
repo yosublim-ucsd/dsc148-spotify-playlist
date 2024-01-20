@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-364 songs - 23 hr 33 min
+365 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Play Something Pretty](https://open.spotify.com/track/7E6jQdJaZAWUOgpxa0DZpr) | [George Jackson](https://open.spotify.com/artist/5PmB2ZWfKuqLb60qZdi4ys) | [All Because of Your Love](https://open.spotify.com/album/1blD6Kx3gBIpMcH0WrCE2D) | 3:23 | 2023-01-09 | 2023-06-28 |
 | [Please Love Me](https://open.spotify.com/track/5TAAAGDA3mqpGmlNqxNPGb) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Please Love Me](https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx) | 2:57 | 2023-06-27 |  |
 | [Pledging My Love](https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT) | [Johnny Ace](https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah), [Johnny Otis & His Orchestra](https://open.spotify.com/artist/61uK6fz9cwzgSdEAdXGGI1) | [Memorial Album](https://open.spotify.com/album/5y03J1x7hj6yIm3SazQOcQ) | 2:28 | 2023-01-09 | 2023-06-28 |
-| [Popsicle Toes](https://open.spotify.com/track/4QWVQr6iA4jDSzj5thJN72) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [The Best Of Michael Franks: A Backward Glance](https://open.spotify.com/album/04w13A7Vugwj2etsvWQJIg) | 4:35 | 2023-08-15 |  |
+| [Popsicle Toes](https://open.spotify.com/track/4QWVQr6iA4jDSzj5thJN72) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [The Best Of Michael Franks: A Backward Glance](https://open.spotify.com/album/04w13A7Vugwj2etsvWQJIg) | 4:35 | 2023-08-15 | 2024-01-20 |
 | [Private Number](https://open.spotify.com/track/0j0NJyTIMkozPchYkvGoOS) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR), [Judy Clay](https://open.spotify.com/artist/6Bez6xFXAhRw4XTYVhUekp) | [The Best Of William Bell](https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb) | 2:40 | 2023-06-27 |  |
 | [Pure Love \(Single Version\)](https://open.spotify.com/track/2SjMzNaZj3l3qQXtGha5ok) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [70s Classic Love Songs](https://open.spotify.com/album/5IcFni8p9cXMxQQA9Viimg) | 2:35 | 2023-01-09 | 2023-06-28 |
 | [Rainy Night in Georgia](https://open.spotify.com/track/1o2qoDCK0vaEL1udkuMc8a) | [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [Atlantic 60th: Rainy Day Refrain](https://open.spotify.com/album/5T7kRP6K0WBIe5DM4bW6i0) | 3:48 | 2023-01-09 | 2023-06-28 |
@@ -310,6 +310,7 @@
 | [Tell Me A Tale](https://open.spotify.com/track/3ZRvYw3UuvHemty0UHKRSI) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 4:12 | 2023-06-27 |  |
 | [The Dark End of the Street](https://open.spotify.com/track/1dDKfo8La1mM5xpLK3Rqcv) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [A Man Needs a Woman](https://open.spotify.com/album/6JpD37NS5oX9Db7m51Hj8s) | 2:34 | 2023-01-09 | 2023-06-28 |
 | [The Ghetto](https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:53 | 2023-06-27 |  |
+| [The Good Life](https://open.spotify.com/track/61sH4Kpbpz9arNiudx07Sf) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Under My Skin](https://open.spotify.com/album/3Y2oCc3jdG6ad114eUc8Ev) | 4:11 | 2023-08-15 |  |
 | [The Morning Song](https://open.spotify.com/track/6BSECshmR4kqWDnd0hI9Ox) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Another Beginning](https://open.spotify.com/album/4yuryhhwDSU0DVnJyLfe8q) | 3:40 | 2023-01-09 | 2023-06-28 |
 | [The Sweetest Taboo \- Remastered](https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:25 | 2023-06-27 |  |
 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 | 2023-01-09 |  |

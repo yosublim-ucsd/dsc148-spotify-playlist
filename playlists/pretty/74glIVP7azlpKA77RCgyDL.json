@@ -1,13 +1,93 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Splitknuckle",
-  "num_followers": 8223,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Amira Elfeky",
+  "num_followers": 8228,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "Mjk1NSwxZmU1NmUzMTVkMWZiM2UzNjBjNWVjZDA5N2Q2YTBlNzI1NDRjNGI0",
+  "snapshot_id": "Mjk2Miw3MDlhNzMyNjdjMDFiYzViYTRmYWMzZjI0ZjUxNzk4ZjY3MzNhNGYy",
   "tracks": [
+    {
+      "added_at": "2024-01-19 20:11:22",
+      "album": {
+        "name": "A Dozen Roses",
+        "url": "https://open.spotify.com/album/1NjGLb0DCKNn086xUgQtCd"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 156194,
+      "name": "A Dozen Roses",
+      "url": "https://open.spotify.com/track/5zfSxKmqBSKTaZjVkvPkmA"
+    },
+    {
+      "added_at": "2024-01-19 20:11:41",
+      "album": {
+        "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
+      "url": "https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC"
+    },
+    {
+      "added_at": "2024-01-19 20:11:50",
+      "album": {
+        "name": "Man Without Fear",
+        "url": "https://open.spotify.com/album/6ZAUIdWYngfvh3qLWXv1wy"
+      },
+      "artists": [
+        {
+          "name": "bulletsbetweentongues",
+          "url": "https://open.spotify.com/artist/0EWT2MtvWeCf1yvvLf2EeG"
+        }
+      ],
+      "duration_ms": 214410,
+      "name": "Man Without Fear",
+      "url": "https://open.spotify.com/track/6F5ludZs5W93BB4JBsGIPQ"
+    },
+    {
+      "added_at": "2024-01-19 20:12:00",
+      "album": {
+        "name": "Paragon of Purity",
+        "url": "https://open.spotify.com/album/09EHODIlD4XiLTvao5aQ3h"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 263001,
+      "name": "Paragon of Purity",
+      "url": "https://open.spotify.com/track/3zHtfu20NCHSirNop64riN"
+    },
+    {
+      "added_at": "2024-01-19 20:12:10",
+      "album": {
+        "name": "Sleepless Deathbed",
+        "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Sleepless Deathbed",
+      "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
+    },
     {
       "added_at": "2024-01-12 21:16:46",
       "album": {

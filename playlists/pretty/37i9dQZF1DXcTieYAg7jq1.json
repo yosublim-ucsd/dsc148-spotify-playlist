@@ -1,13 +1,29 @@
 {
-  "description": "Featuring that new vintage. Cover: Sarah Kang",
-  "num_followers": 413908,
+  "description": "Featuring that new vintage. Cover: Norah Jones",
+  "num_followers": 413938,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjAzNzFhODIzZjgzNmJlOGJlZjY5YTQ5NzhmYzViZjViMDVjMjhj",
+  "snapshot_id": "MCxiNzhiMjFmODI2M2RhMGI2Yzg5NzQ3ZTgzZDU4NjY3NjUzN2ExYzA1",
   "tracks": [
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 208517,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
+    },
     {
       "added_at": "2023-11-10 05:01:00",
       "album": {
@@ -1535,22 +1551,6 @@
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
-    },
-    {
-      "added_at": "2022-02-07 15:13:07",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/5yQX2nTKX3Fkk4M1N9YJbu"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 170720,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb"
     },
     {
       "added_at": "2022-04-29 04:02:00",

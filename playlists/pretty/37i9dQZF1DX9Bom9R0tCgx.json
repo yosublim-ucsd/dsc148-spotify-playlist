@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 359239,
+  "num_followers": 359517,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTkzZDMzOWRmZjYxNjk3YTM4ZTBiODdmMzY5ZWZjNzE1Y2I4MTQ5",
+  "snapshot_id": "MCw2YWM3YmI3NmE1YjQ5MDljNTRmYWQ5ZGIzY2IyYzk1ZjA3ZmJjYjkx",
   "tracks": [
     {
       "added_at": "2024-01-18 23:00:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Fire To The Rain",
+        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
+      },
+      "artists": [
+        {
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "duration_ms": 144935,
+      "name": "Fire To The Rain",
+      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Donkers",
         "url": "https://open.spotify.com/album/06SEttic5htIY70LgIXuQR"
       },
@@ -979,22 +999,22 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Fire To The Rain",
-        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
       },
       "artists": [
         {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
         }
       ],
-      "duration_ms": 144935,
-      "name": "Fire To The Rain",
-      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+      "duration_ms": 268800,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1023,26 +1043,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "Calling",
         "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
       },
@@ -1055,6 +1055,34 @@
       "duration_ms": 196615,
       "name": "Calling",
       "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Baby When The Light",
+        "url": "https://open.spotify.com/album/5WMLIFXqC0ajansfAnQ8WV"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "HYPER BOYZ",
+          "url": "https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o"
+        },
+        {
+          "name": "Dani Vidi",
+          "url": "https://open.spotify.com/artist/1273CkIB0lP8EWV7OoqiKc"
+        }
+      ],
+      "duration_ms": 155165,
+      "name": "Baby When The Light",
+      "url": "https://open.spotify.com/track/147hiQi8wu8SimEk0FAfzD"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1111,34 +1139,6 @@
       "duration_ms": 153469,
       "name": "It's That Time - Edit",
       "url": "https://open.spotify.com/track/72qcP3hwdqa8NkVxSCpYjm"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Baby When The Light",
-        "url": "https://open.spotify.com/album/5WMLIFXqC0ajansfAnQ8WV"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        },
-        {
-          "name": "HYPER BOYZ",
-          "url": "https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o"
-        },
-        {
-          "name": "Dani Vidi",
-          "url": "https://open.spotify.com/artist/1273CkIB0lP8EWV7OoqiKc"
-        }
-      ],
-      "duration_ms": 155165,
-      "name": "Baby When The Light",
-      "url": "https://open.spotify.com/track/147hiQi8wu8SimEk0FAfzD"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
+        "name": "Better Off Alone (Hardstyle)",
+        "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
+      },
+      "artists": [
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        },
+        {
+          "name": "LEOJ",
+          "url": "https://open.spotify.com/artist/4vzXQptcUvoCnbPkQveKcB"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Better Off Alone - Hardstyle",
+      "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
         "name": "Feel Again (Remixes)",
         "url": "https://open.spotify.com/album/5uBuqq6UrdrDL5iPLQ3aoB"
       },
@@ -1567,26 +1587,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Better Off Alone (Hardstyle)",
-        "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
-      },
-      "artists": [
-        {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
-        },
-        {
-          "name": "LEOJ",
-          "url": "https://open.spotify.com/artist/4vzXQptcUvoCnbPkQveKcB"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Better Off Alone - Hardstyle",
-      "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "My Crew (feat. Flowdan)",
         "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
       },
@@ -1603,6 +1603,26 @@
       "duration_ms": 205555,
       "name": "My Crew (feat. Flowdan)",
       "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Insomnia (Rework)",
+        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Insomnia - Rework",
+      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1631,26 +1651,6 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Insomnia (Rework)",
-        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        },
-        {
-          "name": "Jack Holiday",
-          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Insomnia - Rework",
-      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
         "name": "DJ Turn It Up (Ben Nicky Remix)",
         "url": "https://open.spotify.com/album/2X5Q84NtVSBrSAKuyXrnGh"
       },
@@ -1667,6 +1667,22 @@
       "duration_ms": 138088,
       "name": "DJ Turn It Up - Ben Nicky Remix",
       "url": "https://open.spotify.com/track/5nqW6RAWDBynvve3TDXH9r"
+    },
+    {
+      "added_at": "2024-01-18 23:00:00",
+      "album": {
+        "name": "Accepted Concept",
+        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 171006,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1691,22 +1707,6 @@
       "duration_ms": 156086,
       "name": "O Fortuna",
       "url": "https://open.spotify.com/track/6opBFQzVEGQPxaQFqGfjWI"
-    },
-    {
-      "added_at": "2024-01-18 23:00:00",
-      "album": {
-        "name": "Accepted Concept",
-        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1779,26 +1779,18 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Ameno",
-        "url": "https://open.spotify.com/album/1O6PuOIzcMjwsHjInZyBPz"
+        "name": "Jiggy",
+        "url": "https://open.spotify.com/album/4k2tCy484FjePHpiE9mWhm"
       },
       "artists": [
         {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
-        {
-          "name": "BAYZY",
-          "url": "https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z"
-        },
-        {
-          "name": "Oleria",
-          "url": "https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY"
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
         }
       ],
-      "duration_ms": 146482,
-      "name": "Ameno",
-      "url": "https://open.spotify.com/track/4KbP4nUAnyG85IzK1jjNhS"
+      "duration_ms": 189878,
+      "name": "Jiggy",
+      "url": "https://open.spotify.com/track/2jmPySIVtU4AG8oNrrng2M"
     },
     {
       "added_at": "2024-01-18 23:00:00",
@@ -1851,18 +1843,26 @@
     {
       "added_at": "2024-01-18 23:00:00",
       "album": {
-        "name": "Jiggy",
-        "url": "https://open.spotify.com/album/4k2tCy484FjePHpiE9mWhm"
+        "name": "Ameno",
+        "url": "https://open.spotify.com/album/1O6PuOIzcMjwsHjInZyBPz"
       },
       "artists": [
         {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "BAYZY",
+          "url": "https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z"
+        },
+        {
+          "name": "Oleria",
+          "url": "https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY"
         }
       ],
-      "duration_ms": 189878,
-      "name": "Jiggy",
-      "url": "https://open.spotify.com/track/2jmPySIVtU4AG8oNrrng2M"
+      "duration_ms": 146482,
+      "name": "Ameno",
+      "url": "https://open.spotify.com/track/4KbP4nUAnyG85IzK1jjNhS"
     },
     {
       "added_at": "2024-01-18 23:00:00",

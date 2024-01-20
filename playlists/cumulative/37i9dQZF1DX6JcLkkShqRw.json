@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Trueno.",
+  "description": "Flow sudamericano con ITHAN NY, Brray, Pailita, Nickoog Clk, Tunechikidd, El Jorgan 23 & DONNER.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 164651,
       "name": "+ Paca M\u00e1s El\u00e1stico",
       "url": "https://open.spotify.com/track/66klWPlXvdhLaaAFVtgh1c"
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 208167,
       "name": "Aqu\u00ed Sigo (Remix)",
       "url": "https://open.spotify.com/track/6eUx5EQY61BFNHafU1Ow8s"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 171919,
       "name": "Bellakr",
       "url": "https://open.spotify.com/track/4R5yYpjZedXJwosjSMUSFb"
@@ -3824,7 +3824,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 140374,
       "name": "Chicha Morada",
       "url": "https://open.spotify.com/track/7gSrqsnT8Y8TSYIVxhD0oi"
@@ -5827,6 +5827,24 @@
     },
     {
       "album": {
+        "name": "Detras del Telon",
+        "url": "https://open.spotify.com/album/4BRJT87gqEOiKRsgPlDTxs"
+      },
+      "artists": [
+        {
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208039,
+      "name": "Detras del Telon",
+      "url": "https://open.spotify.com/track/3LGWpbMtzSVRxgCXdQIRqr"
+    },
+    {
+      "album": {
         "name": "Detr\u00e1s de lo Caro",
         "url": "https://open.spotify.com/album/6NrzY2XWyT78gxfz52AAny"
       },
@@ -6851,6 +6869,28 @@
     },
     {
       "album": {
+        "name": "En el barrio",
+        "url": "https://open.spotify.com/album/2pFTIFNXUwFRWLiqUBnrHt"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        },
+        {
+          "name": "OMGisNEFF",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168014,
+      "name": "En el barrio",
+      "url": "https://open.spotify.com/track/433LgF55Q7eovhgAKdAAsb"
+    },
+    {
+      "album": {
         "name": "En el Foco",
         "url": "https://open.spotify.com/album/3BPzC6Y0bfY8hrvSogtLAf"
       },
@@ -7721,6 +7761,24 @@
     },
     {
       "album": {
+        "name": "Fiebre",
+        "url": "https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140816,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo"
+    },
+    {
+      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4y2eGTZ4KUQcP57ijZ3uDI"
       },
@@ -7780,7 +7838,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 145662,
       "name": "Flaitecito",
       "url": "https://open.spotify.com/track/7GEL1W9wBGDkudeoQyHNW1"
@@ -7914,7 +7972,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 202142,
       "name": "Flow Con Chile",
       "url": "https://open.spotify.com/track/33loMBQRY4NoftPVpi5tXP"
@@ -8416,6 +8474,28 @@
       "duration_ms": 171881,
       "name": "GABBANA",
       "url": "https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB"
+    },
+    {
+      "album": {
+        "name": "GAFITA Y CHOMBA",
+        "url": "https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "GAFITA Y CHOMBA",
+      "url": "https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f"
     },
     {
       "album": {
@@ -9908,7 +9988,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 139206,
       "name": "Jeke Arabe",
       "url": "https://open.spotify.com/track/52z4xEr2mdBfIcMYYb0MKH"
@@ -10739,6 +10819,28 @@
     },
     {
       "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
+    },
+    {
+      "album": {
         "name": "La Vida que me Toca (feat. Lewis Somes)",
         "url": "https://open.spotify.com/album/2RmeeOdpHbQHx6DlZm43db"
       },
@@ -11548,7 +11650,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 167058,
       "name": "Los Diablotes",
       "url": "https://open.spotify.com/track/7lvVXIif4kSiuD9BN0Olf7"
@@ -11686,7 +11788,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 341266,
       "name": "LOUD (feat. Piero 47, 3TRIPLE J, JulianoChieff)",
       "url": "https://open.spotify.com/track/4urZ3ocnvCpgU0Rv1P6Pd5"
@@ -13457,6 +13559,24 @@
     },
     {
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216134,
+      "name": "Millonaria",
+      "url": "https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M"
+    },
+    {
+      "album": {
         "name": "Millones",
         "url": "https://open.spotify.com/album/0RawldvT8Flokve7xMrBAH"
       },
@@ -13681,6 +13801,28 @@
     },
     {
       "album": {
+        "name": "MISSY",
+        "url": "https://open.spotify.com/album/5QDHb6pa4lZYZaJdMKeBWJ"
+      },
+      "artists": [
+        {
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221691,
+      "name": "MISSY",
+      "url": "https://open.spotify.com/track/1KV2P6C34FiL8T9qfXvsMK"
+    },
+    {
+      "album": {
         "name": "Mixed Feelings",
         "url": "https://open.spotify.com/album/1sUUDUaoT8m8DH7rMpq4Fo"
       },
@@ -13856,6 +13998,32 @@
       "duration_ms": 211255,
       "name": "Mood",
       "url": "https://open.spotify.com/track/3M0WhC992qDrwtcv0QJZ9O"
+    },
+    {
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/7dssl7xOHlGs3zRkq1CXdO"
+      },
+      "artists": [
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/4gt65dqyam2ha3DjOooHA8"
     },
     {
       "album": {
@@ -15081,6 +15249,24 @@
     },
     {
       "album": {
+        "name": "NO SEAS MALA",
+        "url": "https://open.spotify.com/album/7tttwlmWAFOzroZIHDisVf"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montana",
+          "url": "https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135926,
+      "name": "NO SEAS MALA",
+      "url": "https://open.spotify.com/track/1DounytqPy1Z1Ogi6aqrb7"
+    },
+    {
+      "album": {
         "name": "No Soy Cualquier Ex",
         "url": "https://open.spotify.com/album/41uKThpB0MdAR7Xm78ofML"
       },
@@ -15981,6 +16167,36 @@
     },
     {
       "album": {
+        "name": "Otra Waxita",
+        "url": "https://open.spotify.com/album/10tgrmxECSusXMB3LNvE44"
+      },
+      "artists": [
+        {
+          "name": "Baukan",
+          "url": "https://open.spotify.com/artist/1szImfbTMKwuPqhp0s4kgM"
+        },
+        {
+          "name": "Gabo El Chamaquito",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        },
+        {
+          "name": "Dainesitta",
+          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
+        },
+        {
+          "name": "Vivete La Music",
+          "url": "https://open.spotify.com/artist/5vMKVyztww8zTjXIJZhxl9"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227755,
+      "name": "OTRA WAXITA",
+      "url": "https://open.spotify.com/track/4zRCnHUUzgputcQMTdigxV"
+    },
+    {
+      "album": {
         "name": "Otro",
         "url": "https://open.spotify.com/album/0eGqUAZJxkm2QJkZx9iXpp"
       },
@@ -16292,6 +16508,28 @@
       "duration_ms": 131333,
       "name": "Pa Que Vuelva",
       "url": "https://open.spotify.com/track/62eqHhw1cZtg8V3FqIde4L"
+    },
+    {
+      "album": {
+        "name": "PA VER",
+        "url": "https://open.spotify.com/album/39JuqaQ91WUkZJ0xzpa9Wv"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165832,
+      "name": "PA VER",
+      "url": "https://open.spotify.com/track/2gmGp815PbIXTwRfg2CEep"
     },
     {
       "album": {
@@ -16950,6 +17188,36 @@
       "duration_ms": 201272,
       "name": "Penas de Anta\u00f1o",
       "url": "https://open.spotify.com/track/4zYHsmc2V9RyR8eOA0mlx6"
+    },
+    {
+      "album": {
+        "name": "PENDIENTE",
+        "url": "https://open.spotify.com/album/4A9kAxUCkspoeOrVuh5zUj"
+      },
+      "artists": [
+        {
+          "name": "Dash",
+          "url": "https://open.spotify.com/artist/6upevkomExCEvIm82FKkZV"
+        },
+        {
+          "name": "Malito Malozo",
+          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
+        },
+        {
+          "name": "Alex D",
+          "url": "https://open.spotify.com/artist/1b83QsnZFe3kwjmaExNMAM"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246339,
+      "name": "PENDIENTE",
+      "url": "https://open.spotify.com/track/4Fg85khPmA8BGFvKIi3smZ"
     },
     {
       "album": {
@@ -18354,7 +18622,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 204894,
       "name": "REBULEO",
       "url": "https://open.spotify.com/track/6qepYRhvU44L9kYkB8TLMC"
@@ -18548,7 +18816,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 134000,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
@@ -21835,6 +22103,48 @@
     },
     {
       "album": {
+        "name": "Tu Diablo Remix (feat. El Jordan 23, Nickoog Clk & Tunechikidd)",
+        "url": "https://open.spotify.com/album/77AYQ8GhjyHUOKRWNtqnKs"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "DONNER",
+          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385674,
+      "name": "Tu Diablo Remix (feat. El Jordan 23, Nickoog Clk & Tunechikidd)",
+      "url": "https://open.spotify.com/track/1tsWLeicLYHRuKi1sNbCWk"
+    },
+    {
+      "album": {
         "name": "Tu Favorito",
         "url": "https://open.spotify.com/album/1dTkmGes2SGFUe009cB5PJ"
       },
@@ -23294,7 +23604,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 149760,
       "name": "VIVIR O MORIR",
       "url": "https://open.spotify.com/track/7k9yqQJm0g0sIrKZHQ0d7D"
@@ -23902,7 +24212,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 140468,
       "name": "Yeezy",
       "url": "https://open.spotify.com/track/4aOu5mzP7bTP0k1G5e8BWw"

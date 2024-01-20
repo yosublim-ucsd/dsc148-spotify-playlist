@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 333563,
+  "2024-01-20": 333652,
   "date_first_scraped": "2022-04-22",
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
   "name": "mam\u00e1 cool",
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 252661,
       "name": "Br\u00fajula",
       "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
@@ -4975,7 +4975,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 270906,
       "name": "Popular",
       "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"

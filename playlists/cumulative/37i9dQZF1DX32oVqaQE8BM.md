@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-554 songs - 23 hr 35 min
+555 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [hymn](https://open.spotify.com/track/2fstidjX52u0PGrvEf00Ox) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [hymn](https://open.spotify.com/album/6gyrxxudYoLOll7qWRWWHM) | 1:44 | 2021-11-10 | 2023-01-13 |
 | [I Am Here With You](https://open.spotify.com/track/1cQCJHU2UkaaUEKqCZjpXT) | [Some Guy I Know](https://open.spotify.com/artist/04PHmOO2YEDLmkcuEM8vzP) | [I Feel Like Flying](https://open.spotify.com/album/5hO3Y5UmKSHnagOsZabvUn) | 1:53 | 2022-04-15 | 2023-07-29 |
 | [I Feel Warmer Already](https://open.spotify.com/track/5dvXFPoyEo4KM6BumvypbA) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [I Feel Warmer Already](https://open.spotify.com/album/72jLh8lLAIG07SY7m1cADS) | 2:30 | 2023-01-06 |  |
+| [I Hope You Find What You're Looking For](https://open.spotify.com/track/70Uq01vP7RqyF3QB3wM3lI) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [I Hope You Find What You're Looking For](https://open.spotify.com/album/0T31ndqyniqxMKSfVsGBlb) | 3:16 | 2024-01-19 |  |
 | [I Think It Was In June](https://open.spotify.com/track/5ILMxmLYnmIcnjkNbWn3b0) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [I Think It Was In June](https://open.spotify.com/album/5sMFY17vv0LVna3tHIzgub) | 2:02 | 2022-09-16 | 2023-03-18 |
 | [i tried](https://open.spotify.com/track/6W7hFzh8GNeSTljK7qzCsT) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [i tried](https://open.spotify.com/album/3WyFAmRvYnIo7c3ZzyL7uo) | 3:12 | 2022-07-29 | 2022-09-23 |
 | [Iampredotto don](https://open.spotify.com/track/0gqQB2GBIyprIf4qJYvOHJ) | [SpizyAnice](https://open.spotify.com/artist/2EfobqosVRmphWbrOEIn0Q) | [Iampredotto don](https://open.spotify.com/album/1NDMmgKNdAaPQp7dETbSaK) | 2:30 | 2022-01-21 |  |

@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Noah Kahan
 
-2,683 songs - 6 day 0 hr 54 min
+2,685 songs - 6 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1584,6 +1584,7 @@
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-28 | 2023-10-06 |
 | [mudboy](https://open.spotify.com/track/0DLMRXisEWpqGauuDdOwx5) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [mudboy](https://open.spotify.com/album/0YLwlxIkAliUiTlfdpb5a2) | 1:53 | 2023-07-20 | 2023-07-28 |
 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/6GgwpfhXEjHkHUjwfgMLzY) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Mulholland's Dinner and Wine](https://open.spotify.com/album/1LKSGgWMCZBWm4Sd1Foixw) | 3:21 | 2024-01-18 |  |
+| [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU) | 2:01 | 2024-01-18 |  |
 | [Mum Warned You](https://open.spotify.com/track/3cqUED1HDoC84xEPmgNAgR) | [Hoodzy](https://open.spotify.com/artist/5KVPKttcRMdxr9InQpeeDz) | [Mum Warned You](https://open.spotify.com/album/2b1IETeDPKNSB8gW05Q54j) | 2:20 | 2023-08-10 | 2023-08-18 |
 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 | 2023-11-23 | 2023-12-01 |
 | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8) | 3:21 | 2023-08-03 | 2023-08-11 |
@@ -2446,7 +2447,8 @@
 | [True Say](https://open.spotify.com/track/25Q9diV79thYnz3A7PszvW) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U) | [True Say](https://open.spotify.com/album/2IUBfalaE42C1QJMgpBfxO) | 2:32 | 2023-12-07 | 2023-12-15 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-09-28 | 2023-10-06 |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-11-30 | 2023-12-08 |
-| [Try Again](https://open.spotify.com/track/02P95WFP4eWW64YiwK35eW) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD) | [Try Again](https://open.spotify.com/album/2oKyNakOoBVo0tHzGHo2Wo) | 3:00 | 2024-01-18 |  |
+| [Try Again](https://open.spotify.com/track/02P95WFP4eWW64YiwK35eW) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD) | [Try Again](https://open.spotify.com/album/2oKyNakOoBVo0tHzGHo2Wo) | 3:00 | 2024-01-18 | 2024-01-20 |
+| [Try Again](https://open.spotify.com/track/4VdTPiVynDPgumUwyq72Yj) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD) | [Try Again](https://open.spotify.com/album/4wDqvhLcVky1Ka1UTx5w4o) | 3:00 | 2024-01-18 |  |
 | [TTUP](https://open.spotify.com/track/2fZxYUDo4kkFiMXYXbrwPv) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [TTUP](https://open.spotify.com/album/34PTlkNarJZAFML6L0cXB7) | 2:48 | 2024-01-18 |  |
 | [Tuesday](https://open.spotify.com/track/4Rv6XCMg7egjY2gie5ZRP8) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Tuesday](https://open.spotify.com/album/21UPr5Xt86zDGzvP0w35vC) | 1:43 | 2023-12-07 | 2023-12-15 |
 | [Tug of War](https://open.spotify.com/track/4Cphv5VjpzOvmZohBEuHnw) | [Sophia Scott](https://open.spotify.com/artist/0me9a9TytM0tVqz3Jpa8ux) | [Tug of War](https://open.spotify.com/album/4Qg9CzuW4wo0zuxOG9M9Yg) | 3:24 | 2024-01-11 | 2024-01-19 |

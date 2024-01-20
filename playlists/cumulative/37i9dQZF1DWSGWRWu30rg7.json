@@ -19131,6 +19131,24 @@
     },
     {
       "album": {
+        "name": "Holiness",
+        "url": "https://open.spotify.com/album/43wetfOpu5NWc3zWHCaynT"
+      },
+      "artists": [
+        {
+          "name": "Bearfours",
+          "url": "https://open.spotify.com/artist/5K0U3YPkolmth5SzxPX5fz"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Holiness",
+      "url": "https://open.spotify.com/track/5fcX7o1TfKr9se5wFOZtZp"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0JDP6LogYzZIWFmJGrg33x"
       },

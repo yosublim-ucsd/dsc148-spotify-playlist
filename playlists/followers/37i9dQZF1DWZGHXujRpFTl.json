@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 7483,
+  "2024-01-20": 7525,
   "date_first_scraped": "2023-10-14",
   "description": "torturing ourselves by watching them over and over this halloween season",
   "name": "my life is an A24 horror movie",
@@ -547,7 +547,7 @@
     {
       "album": {
         "name": "Spot the Difference",
-        "url": "https://open.spotify.com/album/3SOqUhUWPeDKQq3nLdnhil"
+        "url": "https://open.spotify.com/album/4WtI2Vg1kLHM2HcvdOeB47"
       },
       "artists": [
         {
@@ -558,6 +558,24 @@
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217585,
+      "name": "Spot the Difference",
+      "url": "https://open.spotify.com/track/7dsQoMtQ1eWbKGGnoQHI8n"
+    },
+    {
+      "album": {
+        "name": "Spot the Difference",
+        "url": "https://open.spotify.com/album/3SOqUhUWPeDKQq3nLdnhil"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-19",
       "duration_ms": 217652,
       "name": "Spot the Difference",
       "url": "https://open.spotify.com/track/587Cj6WZ9NTCfYhpmVkGID"

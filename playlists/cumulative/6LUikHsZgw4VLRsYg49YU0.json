@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "request",
+        "url": "https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I"
+      },
+      "artists": [
+        {
+          "name": "krage",
+          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224234,
+      "name": "request",
+      "url": "https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2"
+    },
+    {
+      "album": {
         "name": "Rising Hope",
         "url": "https://open.spotify.com/album/2GMe4oDPk85ZVhF2aBhdkH"
       },

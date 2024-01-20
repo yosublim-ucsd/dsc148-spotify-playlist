@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Avalon Avenue",
+        "url": "https://open.spotify.com/album/56czbiLh4JJNn4U4q6Iwku"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197207,
+      "name": "Ain't Gotta Fight No More (John's Song)",
+      "url": "https://open.spotify.com/track/5FdH2DXx4G2rXprY6pIXhF"
+    },
+    {
+      "album": {
         "name": "All American",
         "url": "https://open.spotify.com/album/6lhrfOe8aN6TVyl1cynFmV"
       },

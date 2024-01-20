@@ -327,6 +327,32 @@
     },
     {
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/7kAwn79OktPUYnKVZekIPD"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Abandoned",
+          "url": "https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/3PeeEUukuSrEBUkpsr0dSk"
+    },
+    {
+      "album": {
         "name": "The Way Through",
         "url": "https://open.spotify.com/album/2dh7RwbawwT2hjgWW6PC9u"
       },
@@ -852,6 +878,28 @@
       "duration_ms": 220952,
       "name": "Anima",
       "url": "https://open.spotify.com/track/2QRPw7J5OBRoToWXhWpFwt"
+    },
+    {
+      "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/07GNUhyyXfJFfDhhD2vcL5"
+      },
+      "artists": [
+        {
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/6mw6uMkFrjeVrx1wZVP03z"
     },
     {
       "album": {
@@ -11231,6 +11279,24 @@
     },
     {
       "album": {
+        "name": "MANDA BALA",
+        "url": "https://open.spotify.com/album/4ibsk1iPM7xDpJkNXREmsl"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100465,
+      "name": "MANDA BALA",
+      "url": "https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25"
+    },
+    {
+      "album": {
         "name": "Mangata",
         "url": "https://open.spotify.com/album/35Cm4qdNpJhymmb7v5iFsI"
       },
@@ -11814,7 +11880,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 165125,
       "name": "Moment",
       "url": "https://open.spotify.com/track/764CYWJzIeuBGGDaeu7b2n"
@@ -12176,6 +12242,24 @@
       "duration_ms": 159047,
       "name": "My Circle",
       "url": "https://open.spotify.com/track/4sagA2yO0ccjstA0mlLP5Y"
+    },
+    {
+      "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152651,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR"
     },
     {
       "album": {
@@ -14244,7 +14328,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 99764,
       "name": "PIANO ESTELAR 1.0",
       "url": "https://open.spotify.com/track/4LKYLc4RTBDJPEHyUEMS4m"
@@ -16876,7 +16960,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 208333,
       "name": "Sold My Soul",
       "url": "https://open.spotify.com/track/4oyQFA7BnwLUPFFk8ptNOa"

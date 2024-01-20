@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,430 likes - 210 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,543 likes - 210 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 80 | [i feel warmer already](https://open.spotify.com/track/4naRK23E2oxlBnzyWG4zG2) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [i feel warmer already](https://open.spotify.com/album/55EXWcA8fgtpAJ9Jn7hwTu) | 2:30 |
 | 81 | [in writing](https://open.spotify.com/track/5hoFX6v9C65g919yd99QHn) | [pemil](https://open.spotify.com/artist/3b2vVfB2bA0PXXwlbNA7hg) | [in wriring](https://open.spotify.com/album/1YPiwsGnuaAyfqM93A6Fce) | 3:04 |
 | 82 | [stillness](https://open.spotify.com/track/4OkCZxOjG1y7G9Op1SkbnH) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [stillness](https://open.spotify.com/album/1Fu5fXIXJOoa1GI9lSAONp) | 2:15 |
-| 83 | [Across The Universe](https://open.spotify.com/track/43tzeUUB5WRL4jPaXSjfgG) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Across The Universe](https://open.spotify.com/album/3H5XRl7AwZMjYp42N5G3QQ) | 2:13 |
+| 83 | [Across The Universe](https://open.spotify.com/track/43tzeUUB5WRL4jPaXSjfgG) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Across The Universe](https://open.spotify.com/album/3H5XRl7AwZMjYp42N5G3QQ) | 2:13 |
 | 84 | [milky moon](https://open.spotify.com/track/5Ro7Zhxns5rtyleQsffnkb) | [Tween City](https://open.spotify.com/artist/0tVWLGanEa906nosw2Uu9p) | [milky moon](https://open.spotify.com/album/4D2PsPJFSQwH63YitxHYNy) | 2:09 |
 | 85 | [At The Hoffman's](https://open.spotify.com/track/2rTCp6VfOIqzzOJ2cvV16o) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [At The Hoffman's](https://open.spotify.com/album/4qSGLzKVXWdATYMG2T8HfM) | 2:20 |
 | 86 | [ZMOOTH](https://open.spotify.com/track/3FOvS4B32VeOvRG6sQyL0m) | [Written On Glass](https://open.spotify.com/artist/0flGLaDtO2VB3ETpqoZhwg) | [ZMOOTH](https://open.spotify.com/album/3L3ORj0iQxym4SDCe0fTew) | 2:04 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 209 | [keep me waiting](https://open.spotify.com/track/4aYNLaGrC49TIf59hDFxGQ) | [tremolo](https://open.spotify.com/artist/02Kg8FUEOMP356Zpy6oZRz), [abovus](https://open.spotify.com/artist/5DXweVRKKbzWHYb4jgIafb) | [lonely place](https://open.spotify.com/album/4URtGeM6Vuo6j2zUEoOpOj) | 1:43 |
 | 210 | [Gentle](https://open.spotify.com/track/6SCNLaxZas2Hqalh4zeAGr) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Gentle](https://open.spotify.com/album/5lx736CiAjCBRgrqgqF5dt) | 3:30 |
 
-Snapshot ID: `MCw3YjZmODMwNTIyOTI3ZGNjYWJiYWZjNmU0M2JiZmM0M2MwNjY4ODhi`
+Snapshot ID: `MCwwMGU1OTlhYWI0YmE3Yjg4MzJlNjRjN2IzNjUzNTY2ZmMwYTM0MWUz`

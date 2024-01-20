@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ Cover: 音田雅則
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,965 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,043 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 29 | [Speed Mode](https://open.spotify.com/track/4CUbNnfq6cX4BgTAtuF6ic) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Speed Mode](https://open.spotify.com/album/3D62rSKmoLmVuPMJR0JnUQ) | 2:21 |
 | 30 | [Kick Up](https://open.spotify.com/track/3GEZrXDyJGtcIo4kLLiF67) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Kick Up](https://open.spotify.com/album/6KkikXwQyUw7jtJqrfo35a) | 3:07 |
 
-Snapshot ID: `MCwxZGNiY2Y2ZmQwNjZlMDEzYTFiMThkOTMxOWM4YjRjNjBhNDRhNmVi`
+Snapshot ID: `MCxlM2U5YzUwZjljOWM1N2Q0MTFhYTUwODg4YmRiYThmYTQzNDY2NGQ4`

@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 680899,
+  "2024-01-20": 681045,
   "date_first_scraped": "2022-01-17",
   "description": "Soothing instrumental music for sleepy babies.",
   "name": "Baby Sleep",
@@ -8708,6 +8708,24 @@
     },
     {
       "album": {
+        "name": "Pat That Little Tummy",
+        "url": "https://open.spotify.com/album/1OhzR4YfoRto3mCWq3QD2R"
+      },
+      "artists": [
+        {
+          "name": "Graham Lullington",
+          "url": "https://open.spotify.com/artist/0eFEGw7eoz5CUwfvssyzjK"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93916,
+      "name": "Pat That Little Tummy",
+      "url": "https://open.spotify.com/track/7kRjbBrr078BJ1kbCHQOQJ"
+    },
+    {
+      "album": {
         "name": "Peace At Last",
         "url": "https://open.spotify.com/album/2rjLJ9x4hfGHicKBHEh1wh"
       },
@@ -11250,6 +11268,24 @@
     },
     {
       "album": {
+        "name": "Teeny Tiny Baby Birds",
+        "url": "https://open.spotify.com/album/6y0oN1tnfkvaq7gp5Sm9bL"
+      },
+      "artists": [
+        {
+          "name": "Jasper Sylvaire",
+          "url": "https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87529,
+      "name": "Teeny Tiny Baby Birds",
+      "url": "https://open.spotify.com/track/6DRSLmkTqHGodtNfRUQmiu"
+    },
+    {
+      "album": {
         "name": "Always By Your Side",
         "url": "https://open.spotify.com/album/7uaZjvfUWtJblAnpjSqMg3"
       },
@@ -13011,6 +13047,24 @@
       "duration_ms": 116731,
       "name": "Wer hat die sch\u00f6nsten Sch\u00e4fchen?",
       "url": "https://open.spotify.com/track/0JBFJj0Nu7CoDnzSpNelXo"
+    },
+    {
+      "album": {
+        "name": "What Did Delaware",
+        "url": "https://open.spotify.com/album/0CjmTWjUl7zSwLxkK51KNw"
+      },
+      "artists": [
+        {
+          "name": "Robin Colt",
+          "url": "https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99632,
+      "name": "What Did Delaware",
+      "url": "https://open.spotify.com/track/2ecZMNHqUiNCkeWMHLEP9y"
     },
     {
       "album": {

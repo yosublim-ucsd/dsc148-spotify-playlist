@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 226365,
       "name": "Cham Cham",
       "url": "https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw"
@@ -440,6 +440,24 @@
       "duration_ms": 170000,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/7bKTdSFy3wprMHMRxGcxSR"
+    },
+    {
+      "album": {
+        "name": "Dhanak",
+        "url": "https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8"
+      },
+      "artists": [
+        {
+          "name": "HYDR",
+          "url": "https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159795,
+      "name": "Dhanak",
+      "url": "https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5"
     },
     {
       "album": {
@@ -860,7 +878,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 179428,
       "name": "Hungama",
       "url": "https://open.spotify.com/track/3v2vP8uet5H9VFbrvXPQWX"
@@ -954,7 +972,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 161773,
       "name": "Ishq Ibaadat",
       "url": "https://open.spotify.com/track/0o27i8mmoBEOd9c9vxS3wp"
@@ -1196,6 +1214,28 @@
     {
       "album": {
         "name": "Kyun",
+        "url": "https://open.spotify.com/album/4bBelTNf0jNu1EW2UWGl18"
+      },
+      "artists": [
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        },
+        {
+          "name": "Sadaat Shafqat Amanat",
+          "url": "https://open.spotify.com/artist/3oOno2g4btrjp7CsJKKcuv"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222545,
+      "name": "Kyun",
+      "url": "https://open.spotify.com/track/7vumrbuv4KD60oslANU2EC"
+    },
+    {
+      "album": {
+        "name": "Kyun",
         "url": "https://open.spotify.com/album/4Tw4sujoJDZCu2gKKQS6Ak"
       },
       "artists": [
@@ -1340,7 +1380,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 160707,
       "name": "Love Like That (feat. Ali Sethi)",
       "url": "https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS"

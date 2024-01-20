@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 136699,
+  "2024-01-20": 136758,
   "date_first_scraped": "2021-12-28",
   "description": "Set the mood for your romantic date night with some soft and cozy Jazz.",
   "name": "Date Night Jazz",
@@ -619,6 +619,24 @@
       "duration_ms": 284438,
       "name": "Autumn Once Again",
       "url": "https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW"
+    },
+    {
+      "album": {
+        "name": "Back In The Old Days",
+        "url": "https://open.spotify.com/album/6sHndHlBbXGYfk0IvpOISG"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodman",
+          "url": "https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238375,
+      "name": "Back In The Old Day",
+      "url": "https://open.spotify.com/track/31TMJjEQTdY6yoHEGTLdLw"
     },
     {
       "album": {
@@ -1249,6 +1267,24 @@
       "duration_ms": 275159,
       "name": "Comeuppance",
       "url": "https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8"
+    },
+    {
+      "album": {
+        "name": "Comin' Home",
+        "url": "https://open.spotify.com/album/6ncZ5omXi25febQFNuXSAs"
+      },
+      "artists": [
+        {
+          "name": "Akio",
+          "url": "https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239462,
+      "name": "Comin' Home",
+      "url": "https://open.spotify.com/track/37TT49ibO443nURgjFI5wd"
     },
     {
       "album": {
@@ -4125,6 +4161,24 @@
       "duration_ms": 221277,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/5CX7Ndfp4IJT94jdKSdair"
+    },
+    {
+      "album": {
+        "name": "November Fall",
+        "url": "https://open.spotify.com/album/0W0UhyUlgkAeNLe0qrM3JE"
+      },
+      "artists": [
+        {
+          "name": "Farmer Street Quartet",
+          "url": "https://open.spotify.com/artist/7rF2UMGa1Egx35lgjungrD"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238562,
+      "name": "November Fall",
+      "url": "https://open.spotify.com/track/7d4J1q9NYRlHcIZyeOC9Ad"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-355 songs - 16 hr 25 min
+357 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [red reflections](https://open.spotify.com/track/2HXbCeN1K3jxvvPSYZPOUp) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [kaleidoscopes](https://open.spotify.com/album/4GSUMxsOfySGzYumuJ9i8P) | 2:53 | 2021-11-10 | 2022-07-22 |
 | [Redemption Art](https://open.spotify.com/track/36029vUr50awRBW4ZkGc59) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Redemption Art](https://open.spotify.com/album/6G15IbO6nTl1Ay9GcBf9VM) | 2:47 | 2023-01-06 |  |
 | [Regardless](https://open.spotify.com/track/47ycT8Rnhz6nQ54eJND3II) | [trabbey](https://open.spotify.com/artist/3njIliuv3ugKzuNZgEOZ6s), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [Regardless](https://open.spotify.com/album/5msAk3rbAcG0NjJf8LDoBQ) | 2:39 | 2022-04-22 | 2022-08-19 |
+| [Riddle Box](https://open.spotify.com/track/40xNeFrbZ5Uor4CMDPjMyg) | [Hephisto](https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ) | [Riddle Box](https://open.spotify.com/album/0HL9zcnvWI7m7mQ0RnSVDk) | 2:58 | 2024-01-19 |  |
 | [Right Timing](https://open.spotify.com/track/4ZF3hIQwWDrboDPwmxsECc) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Bare](https://open.spotify.com/album/1TsskLJu3cR1g9WgcVgkte) | 2:27 | 2021-06-04 |  |
 | [Riverside](https://open.spotify.com/track/1XKngi22KpRA2EEJvW9JTM) | [Producerboibrad.](https://open.spotify.com/artist/7vicJmnVJ4aW8yKB4AEEAB) | [Riverside](https://open.spotify.com/album/5VYV8Z7uRQnBiVAZfU6GNF) | 2:25 | 2021-04-26\* | 2022-12-24 |
 | [Rivulet](https://open.spotify.com/track/1oR9gfWMz6KqwWRGnyEuyc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Lazily](https://open.spotify.com/album/1F5fZmVZ7Id86HWpjZJNj1) | 2:23 | 2021-04-26\* | 2021-08-26 |
@@ -335,6 +336,7 @@
 | [Under Blue](https://open.spotify.com/track/7CEycuhaJ8aR9fJlRIlt2u) | [Mooshy](https://open.spotify.com/artist/25CodL66ToRkp4p6b86S5I) | [Under Blue](https://open.spotify.com/album/2OEPCvtFSVgaQzVDcqGX61) | 2:27 | 2022-12-23 |  |
 | [Unfaithful](https://open.spotify.com/track/0PhO372l28G96GYTAIguhO) | [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Unfaithful](https://open.spotify.com/album/4lAcr0NSO9OF06inxnKITz) | 2:36 | 2022-06-17 | 2022-07-29 |
 | [Unfeeling](https://open.spotify.com/track/4T0BMGKEt5MeIdrhfD8TWm) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Nothing Lasts](https://open.spotify.com/album/23OWJHbhF5o0NRe7GWUS6O) | 2:53 | 2022-10-28 |  |
+| [Valley of Sin](https://open.spotify.com/track/3i6llm3O6vCS5jJZsiucSU) | [Demon Hyde](https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6) | [Valley of Sin](https://open.spotify.com/album/4dyODljQRo2WScYKMaxfRw) | 2:26 | 2024-01-19 |  |
 | [Vaporize](https://open.spotify.com/track/6N7Hgy6ZpFxdK8rxXZh9TB) | [Squiid](https://open.spotify.com/artist/7g0KymGegEPhis87m1lWWm) | [Pandoras Box / Vaporize](https://open.spotify.com/album/1ocggLB9OdafNBm5OLXDai) | 3:24 | 2021-04-26\* | 2022-05-20 |
 | [Vermilion](https://open.spotify.com/track/2jTt400XuvBW6EhMASvVEY) | [Loe Moe](https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II) | [Vermilion](https://open.spotify.com/album/4XBG6OzeLRBakz8V8WVDxI) | 2:49 | 2021-10-14 |  |
 | [very tired](https://open.spotify.com/track/3Bkird1s4oFtscCyYU2xCA) | [foxwedding](https://open.spotify.com/artist/0DHLXYQowVvc8oQxp5Lrk3) | [very tired](https://open.spotify.com/album/1qfvdxgGiJGPEFkK4QbRQw) | 1:48 | 2023-01-20 | 2023-09-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Elif Kaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,056 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,048 likes - 64 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,14 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 54 | [Limbo](https://open.spotify.com/track/795Ucb5YdM0E1QV2t3Pdnl) | [Ezgi Sağlık](https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9) | [Limbo](https://open.spotify.com/album/16trMpTd1KIw2l761Ha9nC) | 3:33 |
 | 55 | [STAIN!](https://open.spotify.com/track/5HY8eqJo3TlVQmwIDJxPp9) | [Susel](https://open.spotify.com/artist/7vnq43HvsdNjgXPYhvqok4) | [STAIN!](https://open.spotify.com/album/0RTt5ILvwnp4LsNIskkz86) | 1:50 |
 | 56 | [Gözlerinde Kim Var?](https://open.spotify.com/track/5NWAweZDCSy41zEQ0n8lOV) | [Meyra](https://open.spotify.com/artist/31SY4y5GZLDRrW7GIswamU) | [Gözlerinde Kim Var?](https://open.spotify.com/album/6dnLxirHNRPYqfEkbhtcK2) | 2:48 |
-| 57 | [Yemen Türküsü](https://open.spotify.com/track/3zp3u2lErJIs5svglfWKd7) | [Yaren Doğan](https://open.spotify.com/artist/1LhOJJU5ytqcP8LRSK9xSg) | [Yemen Türküsü](https://open.spotify.com/album/2WIfryV1Q71IXmkwuZywx3) | 4:09 |
-| 58 | [İstanbul'da Sonbahar](https://open.spotify.com/track/1w4jZNAHwTF0UMEHWlgohA) | [Şevval Sam](https://open.spotify.com/artist/5zkh6MICzIQIUoA9NfZpBx) | [Rock'ı Severiz, Vol\. II](https://open.spotify.com/album/3I66JAtWemPI62mI3uOYm2) | 5:01 |
-| 59 | [Fikrimin İnce Gülü](https://open.spotify.com/track/66Pa1COtU0ixVdGD77fVk3) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Fikrimin İnce Gülü](https://open.spotify.com/album/7KVPbeaEvCgZaskD50bvi8) | 2:13 |
-| 60 | [Zilleri Tak](https://open.spotify.com/track/1irmG1ym1XltJBIHixtEnu) | [Cansever](https://open.spotify.com/artist/4i6eVyyyPdSryQCzO7GK0K), [Samara](https://open.spotify.com/artist/00jw0uHaThevLNX5iJ8Xfb) | [Zilleri Tak](https://open.spotify.com/album/4z6pQPoldAy5E5wC1ZHJnX) | 2:52 |
-| 61 | [Kimselere Diyemem](https://open.spotify.com/track/2AggpOfvalmYQKeTCCuu9C) | [Yaprak Çamlıca](https://open.spotify.com/artist/2AYKWDi1110es1skdOCike) | [Kimselere Diyemem](https://open.spotify.com/album/3EdWKdOnXpW12NoVnMZkjI) | 3:42 |
-| 62 | [Luna](https://open.spotify.com/track/18KeqPJeVntuJ36lWhaSzL) | [Ahu](https://open.spotify.com/artist/0dch9LscX1EjWQLgCJa1NI) | [Luna](https://open.spotify.com/album/0RielYzqTJdcX9tQByS0w1) | 3:44 |
-| 63 | [Deprem](https://open.spotify.com/track/11wcPpLD1e5xc5Vn4HDji4) | [Selin Karaağaç](https://open.spotify.com/artist/4DDhkFQIejPMi3yoOcumQP) | [Deprem](https://open.spotify.com/album/7lx70LXJBr8gxm2teN8o1t) | 3:15 |
-| 64 | [MİLYONLARCA](https://open.spotify.com/track/2S87Mi0fPmtHZeFHLA8fMH) | [Zanna](https://open.spotify.com/artist/21Y8iahZ50HTkOxWvnCvR8) | [Milyonlarca](https://open.spotify.com/album/0oDe2TYwl7T6pXVzW2ApQD) | 2:25 |
-| 65 | [Değer Dünyama](https://open.spotify.com/track/0Fzj8iEBnAzwhmFCxZFR6Y) | [Elvan Elvan](https://open.spotify.com/artist/0t2P5mPqFnG1RxqK6s93zW) | [Değer Dünyama](https://open.spotify.com/album/37u1z1pDfpG5VdVknIbcCe) | 4:02 |
+| 57 | [İstanbul'da Sonbahar](https://open.spotify.com/track/1w4jZNAHwTF0UMEHWlgohA) | [Şevval Sam](https://open.spotify.com/artist/5zkh6MICzIQIUoA9NfZpBx) | [Rock'ı Severiz, Vol\. II](https://open.spotify.com/album/3I66JAtWemPI62mI3uOYm2) | 5:01 |
+| 58 | [Fikrimin İnce Gülü](https://open.spotify.com/track/66Pa1COtU0ixVdGD77fVk3) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Fikrimin İnce Gülü](https://open.spotify.com/album/7KVPbeaEvCgZaskD50bvi8) | 2:13 |
+| 59 | [Zilleri Tak](https://open.spotify.com/track/1irmG1ym1XltJBIHixtEnu) | [Cansever](https://open.spotify.com/artist/4i6eVyyyPdSryQCzO7GK0K), [Samara](https://open.spotify.com/artist/00jw0uHaThevLNX5iJ8Xfb) | [Zilleri Tak](https://open.spotify.com/album/4z6pQPoldAy5E5wC1ZHJnX) | 2:52 |
+| 60 | [Kimselere Diyemem](https://open.spotify.com/track/2AggpOfvalmYQKeTCCuu9C) | [Yaprak Çamlıca](https://open.spotify.com/artist/2AYKWDi1110es1skdOCike) | [Kimselere Diyemem](https://open.spotify.com/album/3EdWKdOnXpW12NoVnMZkjI) | 3:42 |
+| 61 | [Luna](https://open.spotify.com/track/18KeqPJeVntuJ36lWhaSzL) | [Ahu](https://open.spotify.com/artist/0dch9LscX1EjWQLgCJa1NI) | [Luna](https://open.spotify.com/album/0RielYzqTJdcX9tQByS0w1) | 3:44 |
+| 62 | [Deprem](https://open.spotify.com/track/11wcPpLD1e5xc5Vn4HDji4) | [Selin Karaağaç](https://open.spotify.com/artist/4DDhkFQIejPMi3yoOcumQP) | [Deprem](https://open.spotify.com/album/7lx70LXJBr8gxm2teN8o1t) | 3:15 |
+| 63 | [MİLYONLARCA](https://open.spotify.com/track/2S87Mi0fPmtHZeFHLA8fMH) | [Zanna](https://open.spotify.com/artist/21Y8iahZ50HTkOxWvnCvR8) | [Milyonlarca](https://open.spotify.com/album/0oDe2TYwl7T6pXVzW2ApQD) | 2:25 |
+| 64 | [Değer Dünyama](https://open.spotify.com/track/0Fzj8iEBnAzwhmFCxZFR6Y) | [Elvan Elvan](https://open.spotify.com/artist/0t2P5mPqFnG1RxqK6s93zW) | [Değer Dünyama](https://open.spotify.com/album/37u1z1pDfpG5VdVknIbcCe) | 4:02 |
 
-Snapshot ID: `MCw5YjhlYWE4MzE0ZTczODM1MTk1MTIxY2VkZTZmNzhjZGRkOWY1N2U2`
+Snapshot ID: `MCwwYmZmYjc1NzZkOGUxNmFiNTkzZWU2ODk1MWQyMTI1OWNkZWY3ZDFh`

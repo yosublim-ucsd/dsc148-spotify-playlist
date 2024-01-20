@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 
 > chill piano melodies and cozy lofi beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,821 likes - 99 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,900 likes - 99 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 | 4 | [telescape](https://open.spotify.com/track/1x2ddqYnVN1GDJWz4MiL8F) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [telescape](https://open.spotify.com/album/7EUmRwjLF90VFKFbrUVtAW) | 1:56 |
 | 5 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 |
 | 6 | [The Comeback Kid!](https://open.spotify.com/track/6fO3hA8EZ9xlMkuJWFLX2E) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [The Comeback Kid!](https://open.spotify.com/album/6QjDkjlTwBWIYvdHPf94G0) | 2:39 |
-| 7 | [night impressionism](https://open.spotify.com/track/6h0CAChkoKd7DiyDy0ApZy) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL) | [night impressionism](https://open.spotify.com/album/0qwW7iPELLdDGTmYcTlk5C) | 2:11 |
+| 7 | [night impressionism](https://open.spotify.com/track/6h0CAChkoKd7DiyDy0ApZy) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [night impressionism](https://open.spotify.com/album/0qwW7iPELLdDGTmYcTlk5C) | 2:11 |
 | 8 | [Yuna](https://open.spotify.com/track/0myPNIeqjElCgxGy1NrnJO) | [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO), [lost echoes](https://open.spotify.com/artist/4qEfsqgimyar3YYKEUQpWN) | [Yuna](https://open.spotify.com/album/0XrFcg4EQXssbvgGDtwCQZ) | 2:03 |
 | 9 | [affection](https://open.spotify.com/track/307YK4khoUr2wk1LiE7P2e) | [vibebu](https://open.spotify.com/artist/4nHafkXiQWBoAxY38PFUeY) | [affection](https://open.spotify.com/album/0Mtw3VIm8b2rYXJ5wRvAjx) | 2:30 |
 | 10 | [Autumn Visions](https://open.spotify.com/track/1qEB06ay6oCgNG9bRYzgNq) | [Uxxii](https://open.spotify.com/artist/3jzjuFegenZCrjd97xsQLC) | [Autumn Visions](https://open.spotify.com/album/0UMwiaDwM3ZXYlY71WoABm) | 2:14 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 | 98 | [Breath Of Eternal](https://open.spotify.com/track/0f43LSmKqevW1BOpF9TPvl) | [b e r t h](https://open.spotify.com/artist/7rS6EV9KaFOxLB72NUHNwQ), [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH) | [Breath Of Eternal](https://open.spotify.com/album/0Amml1IYryuyFdzVzuDol0) | 2:12 |
 | 99 | [Where Are We Now](https://open.spotify.com/track/6WwHolqdxR10p5dYb1iIm5) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Where Are We Now](https://open.spotify.com/album/0oBZoGWLYe5pFrJ3CixRaS) | 2:29 |
 
-Snapshot ID: `MCxhZDZiZWM4NGQwNWIxYTI2ODNiMTk0YTE3OTk2MmI2ZmQ2OGM3MDc3`
+Snapshot ID: `MCxlZDJjMDM3MmMxOWNiMDYxMjZiYjBiMTI1Y2RhMTExMzliYmQzMmNj`

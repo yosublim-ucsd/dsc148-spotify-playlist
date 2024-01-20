@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 831438,
+  "2024-01-20": 831715,
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Ella Henderson, Rudimental\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Nia Archives\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -465,6 +465,32 @@
       "duration_ms": 136551,
       "name": "Allstars Mic (feat. DnB Allstars)",
       "url": "https://open.spotify.com/track/5CDSFSwAyL9Ck7sSKjQtdY"
+    },
+    {
+      "album": {
+        "name": "Allstars Mic (feat. DnB Allstars)",
+        "url": "https://open.spotify.com/album/3spIwSmSjj3uuFo243XPVT"
+      },
+      "artists": [
+        {
+          "name": "Subten",
+          "url": "https://open.spotify.com/artist/1D7TdByuV3l9cpOf6bGV3n"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        },
+        {
+          "name": "DnB Allstars",
+          "url": "https://open.spotify.com/artist/6BZteNwG1mxgEFJvBaAGLx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142628,
+      "name": "Allstars Mic (feat. DnB Allstars)",
+      "url": "https://open.spotify.com/track/4TuzCtFPFQ6kMsU3mfL7NL"
     },
     {
       "album": {
@@ -2037,7 +2063,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 135796,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
@@ -2305,6 +2331,24 @@
       "duration_ms": 224914,
       "name": "Cous Cous",
       "url": "https://open.spotify.com/track/1AC2Np13uqqDmhNnDpMaEu"
+    },
+    {
+      "album": {
+        "name": "Crowded Roomz",
+        "url": "https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172389,
+      "name": "Crowded Roomz",
+      "url": "https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe"
     },
     {
       "album": {
@@ -5473,7 +5517,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 215172,
       "name": "It's That Time - Dimension Remix",
       "url": "https://open.spotify.com/track/76x1mIsCz46excW50sehDt"
@@ -6141,6 +6185,40 @@
       "duration_ms": 299466,
       "name": "Limb By Limb - DJ SS Remix",
       "url": "https://open.spotify.com/track/7aMmnUhaQdRmBoV2pC17GK"
+    },
+    {
+      "album": {
+        "name": "LionOrder (Remix)",
+        "url": "https://open.spotify.com/album/20P9mGXk1e3RQdw19hxbJg"
+      },
+      "artists": [
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        },
+        {
+          "name": "Tyke",
+          "url": "https://open.spotify.com/artist/1sGQzK4pvwC2HF08W9feT8"
+        },
+        {
+          "name": "Yung Saber",
+          "url": "https://open.spotify.com/artist/2e3qEeLCBtEqsbsgYDtrO0"
+        },
+        {
+          "name": "Crate Classics",
+          "url": "https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx"
+        },
+        {
+          "name": "DJ Hype",
+          "url": "https://open.spotify.com/artist/2MnM5JbezlOuVYlfx61Qc6"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304367,
+      "name": "LionOrder - Remix",
+      "url": "https://open.spotify.com/track/2C2kDx6Eaa1f0C0Oc1M8tw"
     },
     {
       "album": {
@@ -8765,7 +8843,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 248114,
       "name": "Riot Gear Romance",
       "url": "https://open.spotify.com/track/1hWd6fQfgM9kmDHR2XoVog"
@@ -9735,7 +9813,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 155906,
       "name": "SOBER",
       "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
@@ -10853,6 +10931,28 @@
       "duration_ms": 159245,
       "name": "Thinkin About",
       "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
+    },
+    {
+      "album": {
+        "name": "This Moment",
+        "url": "https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217931,
+      "name": "This Moment",
+      "url": "https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu"
     },
     {
       "album": {

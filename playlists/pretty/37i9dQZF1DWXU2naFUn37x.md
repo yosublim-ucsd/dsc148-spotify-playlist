@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,103 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,193 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Nati Per Fare La Guerra](https://open.spotify.com/track/5kjCIGDQzAWgfSKsnjnX7D) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Nati Per Fare La Guerra](https://open.spotify.com/album/3B72CwXRmMdlSSJW6cza0h) | 2:18 |
 | 50 | [IAU \(feat\. Noyz Narcos\)](https://open.spotify.com/track/5kPRBzfbzjY2aHRWoo4scu) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:17 |
 
-Snapshot ID: `MCw0YzkzNTc4MTM0ZTg5Zjc0NWJmZjAxY2JiZjkwN2FkODUyNjgwYTYw`
+Snapshot ID: `MCxjY2Y0NmY3YWU1NmYyY2FjNGU5MzU0MzVhYjI0ZTBhYWM0ZmIyMzBi`

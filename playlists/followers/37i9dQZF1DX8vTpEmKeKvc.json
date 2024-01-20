@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 283015,
+  "2024-01-20": 283172,
   "date_first_scraped": "2022-01-09",
   "description": "Dale duro con los \u00e9xitos perreadores virales del momento.",
   "name": "Perreo Viral",
@@ -691,6 +691,24 @@
     {
       "album": {
         "name": "Dracukeo",
+        "url": "https://open.spotify.com/album/0XY1mR5YxYacGnN92vytWW"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156110,
+      "name": "Dracukeo",
+      "url": "https://open.spotify.com/track/0CZUctybGtQ8kX8bGXDn8w"
+    },
+    {
+      "album": {
+        "name": "Dracukeo",
         "url": "https://open.spotify.com/album/00Bg19J33QNbKBH2SUsc43"
       },
       "artists": [
@@ -701,7 +719,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 156110,
       "name": "Dracukeo",
       "url": "https://open.spotify.com/track/0oa9Tz96GruIbaL6borlXM"

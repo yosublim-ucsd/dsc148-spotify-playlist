@@ -4,7 +4,7 @@
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonitoooo Foto: Bad Gyal, Anitta
 
-64 songs - 2 hr 50 min
+65 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Fijado](https://open.spotify.com/track/6fYv7oTfvJ01aEjJnoyjso) | [Euken](https://open.spotify.com/artist/4vJpB66s9Z3XW0vqZSpjfm), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv), [Muppet DJ](https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny) | [Fijado](https://open.spotify.com/album/1PdINrzzMIRjMyUb332ro6) | 2:30 | 2023-12-15 |  |
 | [Flako](https://open.spotify.com/track/3F5o16g6oMioqGhfNTFgOc) | [Elena Torres](https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0) | [Flako](https://open.spotify.com/album/2BIncDcXHTvzmG8tePNb6V) | 2:14 | 2023-12-15 |  |
 | [Funk Rave](https://open.spotify.com/track/0DouMZxp99d0AVDQPz6shx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:27 | 2023-11-29 |  |
+| [GAFITA Y CHOMBA](https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [GAFITA Y CHOMBA](https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB) | 3:12 | 2024-01-19 |  |
 | [gaúcho](https://open.spotify.com/track/6ErTiobWPtR8gowDvwhrzC) | [Guacho Bleu](https://open.spotify.com/artist/6aCzr3JU58kboMXNqu8QGo) | [gaúcho](https://open.spotify.com/album/2lYQWZ8yK8VuDMOlDOV4DF) | 3:18 | 2023-11-29 |  |
 | [GUSTOSA](https://open.spotify.com/track/7H3kGnOJWMlPqBLQ0OEYBb) | [Chiko Alfa](https://open.spotify.com/artist/6fDFw5ZF2hKa52oH1enbks), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [GUSTOSA](https://open.spotify.com/album/2SVbUSjaglwqSugsqKtbEg) | 2:20 | 2023-12-15 |  |
 | [Innuendo](https://open.spotify.com/track/5pGFEsSUP5O3J8HMz3gfc6) | [Miliano](https://open.spotify.com/artist/17XNkHucIYWR7HhM7VUxG8) | [Milly Funk](https://open.spotify.com/album/7EFxpZSryfzGMc4nMkW0P0) | 2:48 | 2023-11-29 |  |
@@ -54,7 +55,7 @@
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-11-29 |  |
 | [Se Fue](https://open.spotify.com/track/0mKhtoSpTyJGnmdKWcVwJf) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3) | [Baúl 2](https://open.spotify.com/album/1euVCsaWFIYeWwbXfZUSHh) | 3:05 | 2023-12-15 | 2024-01-13 |
 | [sigo aquí](https://open.spotify.com/track/1Cd63cwGJN9zwVPWH8ZNI2) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Distobal](https://open.spotify.com/artist/2fbx2ZUJ47fJKCT3RKDEWD) | [Minion Mixtape](https://open.spotify.com/album/0mlzT7AnWFy75UAyqhD2f2) | 2:17 | 2023-11-29 |  |
-| [Sin Ganas](https://open.spotify.com/track/6F4Rx74JlcSGA5B6EAyYWB) | [POLO133](https://open.spotify.com/artist/7aMgUfXztSt88ctfcG5lCe), [MYKKA](https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa) | [Sin Ganas](https://open.spotify.com/album/2zFs2lhofV1rVbs86T8W5G) | 2:10 | 2023-11-29 |  |
+| [Sin Ganas](https://open.spotify.com/track/6F4Rx74JlcSGA5B6EAyYWB) | [POLO133](https://open.spotify.com/artist/7aMgUfXztSt88ctfcG5lCe), [MYKKA](https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa) | [Sin Ganas](https://open.spotify.com/album/2zFs2lhofV1rVbs86T8W5G) | 2:10 | 2023-11-29 | 2024-01-20 |
 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 | 2023-11-29 |  |
 | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 | 2023-11-29 |  |
 | [TATA](https://open.spotify.com/track/6IlI0D193SVWInOHsyJsPE) | [Love Yi](https://open.spotify.com/artist/6qyklgt2wzPT7KRdu15ZFL), [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [17](https://open.spotify.com/album/4SFfX2D70N1iRXBMI8oszS) | 3:00 | 2023-11-29 |  |

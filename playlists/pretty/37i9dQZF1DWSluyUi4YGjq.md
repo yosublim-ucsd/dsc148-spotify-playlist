@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: Ride
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,107 likes - 115 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,273 likes - 115 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 |
-| 2 | [Heaven](https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH) | 4:01 |
-| 3 | [in my fantasy](https://open.spotify.com/track/4DF5TcXLWn0HF5YqLLiibG) | [Mons Vi](https://open.spotify.com/artist/5W5qK44etRPdYVC1YkfUfW) | [release the pain from your <3 pt\. 1](https://open.spotify.com/album/7yelksZdUlIOF6hxHcu1Fv) | 2:47 |
-| 4 | [Backseat Girl](https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 |
-| 5 | [No One To Hold You](https://open.spotify.com/track/34ZyVktRMV0DxsaV6XfgNc) | [Luster](https://open.spotify.com/artist/0IqC2A5HTnTIKzqcFXJQms) | [Dopamine Loop](https://open.spotify.com/album/5Rkg1yHCcy0XqsSU8kZNxq) | 3:48 |
-| 6 | [Dead Lands](https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps) | [Punchlove](https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW) | [Dead Lands](https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8) | 4:34 |
-| 7 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 |
-| 8 | [Faith](https://open.spotify.com/track/5nayOPbRFf5sKPGoVmjmwd) | [Blood Estate](https://open.spotify.com/artist/74ILynpls56WeC7FcBq0fF) | [Faith](https://open.spotify.com/album/5jp46QfXH4ccKP8yO7vsGQ) | 3:27 |
-| 9 | [ur all starz](https://open.spotify.com/track/6wJw7aNIAk6e5mkkE88dI3) | [BORNSTAR](https://open.spotify.com/artist/0TdTF5zoPQcUfUBnLVfoQG) | [ur all starz](https://open.spotify.com/album/1Vd7JlXvfPsGn4Zqba3HEl) | 2:40 |
-| 10 | [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 |
-| 11 | [my little tony](https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:59 |
-| 12 | [long forgotten](https://open.spotify.com/track/7qsNTUgyF2fgM8Em9Ru7Fc) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [long forgotten](https://open.spotify.com/album/1LERoV2A0MTB4VnN8gVO2V) | 2:55 |
-| 13 | [Milk thistle](https://open.spotify.com/track/5y4X9wlY2eCakB7SAQdJi2) | [60 juno](https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9) | [Milk thistle](https://open.spotify.com/album/0729P28WmI1nx1duo1JNX8) | 3:12 |
-| 14 | [The Weed Supreme](https://open.spotify.com/track/515C6Le8zgtALLf5cwT7Za) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Remote Echoes](https://open.spotify.com/album/5L7puAZ2GT1XQuiXNzPstC) | 1:33 |
+| 1 | [Heaven](https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH) | 4:01 |
+| 2 | [in my fantasy](https://open.spotify.com/track/4DF5TcXLWn0HF5YqLLiibG) | [Mons Vi](https://open.spotify.com/artist/5W5qK44etRPdYVC1YkfUfW) | [release the pain from your <3 pt\. 1](https://open.spotify.com/album/7yelksZdUlIOF6hxHcu1Fv) | 2:47 |
+| 3 | [Backseat Girl](https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 |
+| 4 | [No One To Hold You](https://open.spotify.com/track/34ZyVktRMV0DxsaV6XfgNc) | [Luster](https://open.spotify.com/artist/0IqC2A5HTnTIKzqcFXJQms) | [Dopamine Loop](https://open.spotify.com/album/5Rkg1yHCcy0XqsSU8kZNxq) | 3:48 |
+| 5 | [Dead Lands](https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps) | [Punchlove](https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW) | [Dead Lands](https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8) | 4:34 |
+| 6 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 |
+| 7 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 |
+| 8 | [my little tony](https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:59 |
+| 9 | [Faith](https://open.spotify.com/track/5nayOPbRFf5sKPGoVmjmwd) | [Blood Estate](https://open.spotify.com/artist/74ILynpls56WeC7FcBq0fF) | [Faith](https://open.spotify.com/album/5jp46QfXH4ccKP8yO7vsGQ) | 3:27 |
+| 10 | [The Weed Supreme](https://open.spotify.com/track/515C6Le8zgtALLf5cwT7Za) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Remote Echoes](https://open.spotify.com/album/5L7puAZ2GT1XQuiXNzPstC) | 1:33 |
+| 11 | [ur all starz](https://open.spotify.com/track/6wJw7aNIAk6e5mkkE88dI3) | [BORNSTAR](https://open.spotify.com/artist/0TdTF5zoPQcUfUBnLVfoQG) | [ur all starz](https://open.spotify.com/album/1Vd7JlXvfPsGn4Zqba3HEl) | 2:40 |
+| 12 | [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 |
+| 13 | [long forgotten](https://open.spotify.com/track/7qsNTUgyF2fgM8Em9Ru7Fc) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [long forgotten](https://open.spotify.com/album/1LERoV2A0MTB4VnN8gVO2V) | 2:55 |
+| 14 | [Milk thistle](https://open.spotify.com/track/5y4X9wlY2eCakB7SAQdJi2) | [60 juno](https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9) | [Milk thistle](https://open.spotify.com/album/0729P28WmI1nx1duo1JNX8) | 3:12 |
 | 15 | [suicide note](https://open.spotify.com/track/1EEruLYtWxRth8sKWjrJos) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [suicide note](https://open.spotify.com/album/0q1ALc0MK3r8UEMsTRTTxp) | 3:17 |
 | 16 | [Drive All Night](https://open.spotify.com/track/7wRbH2GlXe9dZQBdhWzkco) | [Joyer](https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF) | [Drive All Night](https://open.spotify.com/album/2eKgVsjsHyuKupvTRHTrfT) | 2:59 |
 | 17 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 114 | [iwantuall4me](https://open.spotify.com/track/6ygPBBgzTqxppds9IO0gOF) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [iwantuall4me](https://open.spotify.com/album/4KZ5IYrCfL2R2vNX3wga8F) | 3:58 |
 | 115 | [Bloom](https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Bloom](https://open.spotify.com/album/76LGx54WGptsGBHL497A3k) | 2:19 |
 
-Snapshot ID: `MCxiZmZlYmRlNGM2ZThlOGIwYTA0ZWQ5Y2JmZjUzZWE2ZjBiMzA5YzRm`
+Snapshot ID: `MCxiMzM5NWUzM2YzYTRiZTNhZDVjMDRjYTI0OTVlZmM3MDJiM2NkNGEw`

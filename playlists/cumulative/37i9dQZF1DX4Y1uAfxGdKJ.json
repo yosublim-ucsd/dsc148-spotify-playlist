@@ -2163,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Relinquish",
+        "url": "https://open.spotify.com/album/3oF2fUFYl6QQCGif3ttzT1"
+      },
+      "artists": [
+        {
+          "name": "Daryl Dane",
+          "url": "https://open.spotify.com/artist/2lJXvLJvKX2n2TSgLoIsl3"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178248,
+      "name": "Relinquish",
+      "url": "https://open.spotify.com/track/6zb7b21yPSuZlUXkMP8gyy"
+    },
+    {
+      "album": {
         "name": "Returning to What Is",
         "url": "https://open.spotify.com/album/42nTIL1I7hDW81DBMTTl0S"
       },

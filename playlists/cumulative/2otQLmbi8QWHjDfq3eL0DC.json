@@ -397,6 +397,28 @@
     },
     {
       "album": {
+        "name": "Blurred Energy (feat. Lavrentia)",
+        "url": "https://open.spotify.com/album/71zyCnYOB0pFn8U7z8AXjo"
+      },
+      "artists": [
+        {
+          "name": "Because of Art",
+          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
+        },
+        {
+          "name": "Lavrentia",
+          "url": "https://open.spotify.com/artist/2mN7xZRMASh3a7uVBRXF8n"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171225,
+      "name": "Blurred Energy (feat. Lavrentia)",
+      "url": "https://open.spotify.com/track/28iilvlmcjJ17N8zHEcwcA"
+    },
+    {
+      "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
       },

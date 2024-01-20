@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Zola
+> Du Congo, au monde\. 🌍 Photo: Emma'a & Jungeli
 
-333 songs - 20 hr 43 min
+335 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Ba zoba](https://open.spotify.com/track/6Gu4tDlGVj9FSWCbPcwLo3) | [Les 7 Commandos](https://open.spotify.com/artist/5Uf1Vrge0stZdu6X08zxqJ), [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Ba zoba](https://open.spotify.com/album/48irBPBUAgsGiWByUeQ504) | 5:29 | 2023-08-18 | 2023-11-18 |
 | [Baby Wine](https://open.spotify.com/track/0Dqj6jP9aqvSYqK3zj4kWR) | [Meydo](https://open.spotify.com/artist/0uc8QPX8AsA5EklYdQIB1u) | [Baby Wine](https://open.spotify.com/album/4DN0TGscxdGGbU6wQlYxKX) | 3:16 | 2022-09-02 | 2023-03-18 |
 | [Bad](https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:46 | 2023-06-30 |  |
-| [BAKO SIMBA](https://open.spotify.com/track/4Gj20KOBHzOMzkOH5KvrRN) | [Bigal\-J](https://open.spotify.com/artist/20pLu8lCuYrNeVUhE3yUZN), [Touche](https://open.spotify.com/artist/0xODvEWaBO5fmRGnuhRj4p) | [BAKO SIMBA](https://open.spotify.com/album/4SEaMzRrXewuNTxnaYCy6z) | 2:25 | 2023-12-01 |  |
+| [BAKO SIMBA](https://open.spotify.com/track/4Gj20KOBHzOMzkOH5KvrRN) | [Bigal\-J](https://open.spotify.com/artist/20pLu8lCuYrNeVUhE3yUZN), [Touche](https://open.spotify.com/artist/0xODvEWaBO5fmRGnuhRj4p) | [BAKO SIMBA](https://open.spotify.com/album/4SEaMzRrXewuNTxnaYCy6z) | 2:25 | 2023-12-01 | 2024-01-20 |
 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 | 2023-09-29 |  |
 | [Balobi \- Edit](https://open.spotify.com/track/3w4zm5JWkcCE5YbBO9KWGq) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT) | [Balobi \(Edit\)](https://open.spotify.com/album/5x6hcR0V0scm0QnWe1EecR) | 3:26 | 2022-11-18 | 2023-01-28 |
 | [Balola](https://open.spotify.com/track/2xU6ImNhlmtj2ikpIrjT9e) | [PVPI STRZ](https://open.spotify.com/artist/11Cznn5Yl5mmlY3WRNsuFk) | [Balola](https://open.spotify.com/album/322TI8xl2Se7joQuFGM1fW) | 3:13 | 2022-06-30 | 2022-07-09 |
@@ -42,6 +42,7 @@
 | [BIBAMBA](https://open.spotify.com/track/1UDwSY58I4znIJZUPVcKWI) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [BIBAMBA](https://open.spotify.com/album/6AzZj4gXROdfqsqBXjubKW) | 3:02 | 2022-11-18 | 2022-11-20 |
 | [BIBAMBA](https://open.spotify.com/track/1qJu5qWynObxyKSMGh0xM0) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [BIBAMBA](https://open.spotify.com/album/6fNqw6OqnYexbBes93iK5n) | 3:02 | 2022-11-18 | 2022-12-09 |
 | [Bien de ce monde](https://open.spotify.com/track/6X2N6Z59AwKOvU4lnB8eDy) | [Ayelya](https://open.spotify.com/artist/0ivvGPySFFiWS9fpWJzc6c) | [Bien de ce monde](https://open.spotify.com/album/68WQtPvEYVoSI83niTW9xM) | 3:28 | 2023-06-30 | 2023-09-16 |
+| [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU) | 2:57 | 2024-01-19 |  |
 | [Bisous Bye \(feat\. Innoss'B\)](https://open.spotify.com/track/6L9MRZLxr5k04Y9TyWNxVI) | [Diesel Gucci](https://open.spotify.com/artist/3ZTd2WDHj0fn67xpiQ9DEi), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Bisous Bye \(feat\. Innoss'B\)](https://open.spotify.com/album/2tAJFRySi9nyZHv32Kt3kX) | 4:32 | 2023-06-23 | 2023-09-22 |
 | [Bizorbi](https://open.spotify.com/track/6IDHonEuHfYzjB3GqQDut5) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Bizorbi](https://open.spotify.com/album/6kVeYVPbvQ4WjmtzROIxXY) | 3:40 | 2023-08-25 |  |
 | [Bloqué](https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Bloqué](https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8) | 3:18 | 2022-08-05 |  |
@@ -72,7 +73,7 @@
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:12 | 2023-06-23 | 2023-09-30 |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-17 | 2023-06-29 |
 | [Coeur moderne](https://open.spotify.com/track/7KaKOgkc3CTg0JONapvnrd) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Gomme, Vol\. 1](https://open.spotify.com/album/1f3mA2NLEXe6asrUMQbWRL) | 4:37 | 2023-02-17 | 2023-03-11 |
-| [Crispy](https://open.spotify.com/track/5u16FMHLDsG50xV6ENA7U8) | [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp) | [Crispy](https://open.spotify.com/album/7cq2diUwOOrYVtOzgaWYuM) | 3:09 | 2024-01-12 |  |
+| [Crispy](https://open.spotify.com/track/5u16FMHLDsG50xV6ENA7U8) | [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp) | [Crispy](https://open.spotify.com/album/7cq2diUwOOrYVtOzgaWYuM) | 3:09 | 2024-01-12 | 2024-01-20 |
 | [Danger \- RMX](https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Danger \(RMX\)](https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc) | 2:18 | 2023-09-15 | 2023-12-23 |
 | [Danse](https://open.spotify.com/track/6QJotPdXRCSuHLdyD3QKZd) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Danse](https://open.spotify.com/album/1im21Oi225yO8IponkdVxi) | 2:48 | 2023-08-18 | 2023-10-21 |
 | [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-30 | 2023-03-18 |
@@ -98,6 +99,7 @@
 | [Débloquer](https://open.spotify.com/track/6GqDdQilljjSQtOIrJpjPc) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3RaTe5Dfyw2h84iX4PMkSw) | 3:27 | 2023-11-10 |  |
 | [Dépenser](https://open.spotify.com/track/0PaTtFEQVVzknrmkAxpEk9) | [Monroe Djoboke](https://open.spotify.com/artist/419F5ECudqV2Ek9qMdyC4I) | [Escapade](https://open.spotify.com/album/2i3fdjcO4bn4XSfrfqdyXl) | 3:35 | 2022-06-30 | 2023-02-25 |
 | [Ebembe ya dula](https://open.spotify.com/track/1gKHVSEhXOiBlygk6GnXty) | [Martial Pa'nucci](https://open.spotify.com/artist/2SNXLRyVOjrNqMzqbUkjLB) | [Ebembe ya dula](https://open.spotify.com/album/7MGOXUe5INfN1Xq94x3fDK) | 4:21 | 2022-08-26 | 2023-02-11 |
+| [Effacer](https://open.spotify.com/track/7nYiuvGUxKPyRiOCdRB3CE) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Effacer](https://open.spotify.com/album/1JEOvA18w5zATEnhMMcXsv) | 4:56 | 2024-01-19 |  |
 | [Egogo](https://open.spotify.com/track/2wtHPYS5KY2JKBMqXVY0Oh) | [Messi Dostivanet](https://open.spotify.com/artist/14Zxq58mnuquXq0TpMcjiJ) | [Egogo](https://open.spotify.com/album/0RRWFS4dkvUtZqvwu0sIru) | 3:23 | 2023-11-17 | 2023-11-25 |
 | [Elengi \(feat\. Koffi Olomide\)](https://open.spotify.com/track/0TBRFyidKDV8Gswfc4haxh) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Elengi \(feat\. Koffi Olomide\)](https://open.spotify.com/album/1u1FkfGwN92at9xyF791nf) | 4:05 | 2022-06-30 | 2022-09-17 |
 | [Eloko](https://open.spotify.com/track/0bnOKQk43FZdLaCku0zSiR) | [Extra Musica Nouvel Horizon](https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98) | [Eloko](https://open.spotify.com/album/5BclOVLIHYhchoiRfRzA9A) | 4:03 | 2023-04-28 | 2023-10-21 |

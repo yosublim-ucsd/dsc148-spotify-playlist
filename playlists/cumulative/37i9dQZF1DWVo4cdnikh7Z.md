@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Captain Miller
 
-1,080 songs - 2 day 18 hr 8 min
+1,081 songs - 2 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [Nee Vaadi \(From "ANIMAL"\) \[TAMIL\]](https://open.spotify.com/track/2mYxRHt1C9WJwM98ifUpnr) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Nee Vaadi \(From "ANIMAL"\) \[TAMIL\]](https://open.spotify.com/album/0CQIDZ1ouall62VeuYfiE5) | 4:35 | 2023-10-13 | 2024-01-16 |
 | [Nee Yaaro](https://open.spotify.com/track/3Yy3RLCEPEcHBNBK0T1tdR) | [Y\. Raghav Prasad](https://open.spotify.com/artist/6QVQPJSvISqluxk5RId9fE), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh) | [Nee Yaaro \(From "Thudikkum Karangal"\)](https://open.spotify.com/album/1A8GaekzzmHxYQPGydzjRN) | 4:26 | 2022-07-20 | 2022-07-29 |
 | [Nee Yaaro \(From "Thudikkum Karangal"\)](https://open.spotify.com/track/4NREOwrJB5FJfWey4ElzPr) | [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh), [Y\. Raghav Prasad](https://open.spotify.com/artist/6QVQPJSvISqluxk5RId9fE) | [Nee Yaaro \(From "Thudikkum Karangal"\) \- Single](https://open.spotify.com/album/3gCItKsUWgmWP0lfRJQLcZ) | 4:26 | 2022-07-20 | 2022-08-03 |
+| [Nee Yen \- From "Nanban Oruvan Vantha Piragu"](https://open.spotify.com/track/1hnnb81r8wdcTJUU949ItA) | [A H Kaashif](https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Amina Rafiq](https://open.spotify.com/artist/5MeaQZAAyaP41gzU4FOGMu) | [Nee Yen \(From "Nanban Oruvan Vantha Piragu"\)](https://open.spotify.com/album/7v76KC2Dbn3EfvKlntU084) | 3:15 | 2024-01-19 |  |
 | [Neela Malaiyae \- From "Jerk"](https://open.spotify.com/track/4uRhYtFmnGeP0nx0vcklMD) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Nanjiyamma](https://open.spotify.com/artist/4LDKQfEAZt4pldaHSjisgs), [Ku Karthik](https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny) | [Neela Malaiyae \(From "Jerk"\)](https://open.spotify.com/album/5D8MXYnHLBeLPSTq1ABvIz) | 2:53 | 2024-01-05 |  |
 | [Neela Ravile \(From "Merry Christmas"\) \[Tamil\]](https://open.spotify.com/track/4zSMmm7spbX35OqJBlGDUW) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Neela Ravile \(From "Merry Christmas"\) \[Tamil\]](https://open.spotify.com/album/39CaKSoEdTANu1zRbScj6q) | 3:37 | 2024-01-18 |  |
 | [Neeladho](https://open.spotify.com/track/0ZcMqsN9Xa2osfnz0S49dD) | [Arrol Corelli](https://open.spotify.com/artist/0vOmOWhCwishGqWUpiiv5o), [Madhu Iyer](https://open.spotify.com/artist/7oZRXSKnyDvioU14PyejT4) | [Kalagathalaivan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7MWyFiDkemk7hFeNJLYxHx) | 3:29 | 2022-11-11 | 2023-01-25 |

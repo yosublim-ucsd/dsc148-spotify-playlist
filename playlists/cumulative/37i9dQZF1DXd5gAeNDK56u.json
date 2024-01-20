@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Over 'n Out",
+        "url": "https://open.spotify.com/album/2LMieSCexYmXR7Go2MPSAL"
+      },
+      "artists": [
+        {
+          "name": "Trice",
+          "url": "https://open.spotify.com/artist/5x9EQMZVmCycN7qdNjiGfO"
+        }
+      ],
+      "date_added": "2024-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231224,
+      "name": "Over 'n Out",
+      "url": "https://open.spotify.com/track/0AtdACyYQi5vFaMRYAINWN"
+    },
+    {
+      "album": {
         "name": "Partying in the Hills",
         "url": "https://open.spotify.com/album/256rvrBIrKRzlor7oyZDTX"
       },

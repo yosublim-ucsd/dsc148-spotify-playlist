@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u30d2\u30b0\u30c1\u30a2\u30a4 (Ai Higuchi)",
-  "num_followers": 151224,
+  "num_followers": 151303,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGZmMjNjMGZmNmY0MjA3ZTUwNjk0NDViNTYxNjQ5MDk4ZjQzNmQ2",
+  "snapshot_id": "MCwwYWFhN2M0MWQwMGEwYjIyYmFlMDc2MjYxNDI2NGE0YjFjZmU3YWNm",
   "tracks": [
     {
       "added_at": "2024-01-18 15:00:00",
@@ -339,18 +339,22 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "for you",
-        "url": "https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9"
+        "name": "\u6253\u4e0a\u82b1\u706b",
+        "url": "https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS"
       },
       "artists": [
         {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+          "name": "Daoko",
+          "url": "https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC"
+        },
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 214943,
-      "name": "Raise",
-      "url": "https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU"
+      "duration_ms": 289334,
+      "name": "\u6253\u4e0a\u82b1\u706b",
+      "url": "https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -375,28 +379,24 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "\u6253\u4e0a\u82b1\u706b",
-        "url": "https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS"
+        "name": "for you",
+        "url": "https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9"
       },
       "artists": [
         {
-          "name": "Daoko",
-          "url": "https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC"
-        },
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
         }
       ],
-      "duration_ms": 289334,
-      "name": "\u6253\u4e0a\u82b1\u706b",
-      "url": "https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ"
+      "duration_ms": 214943,
+      "name": "Raise",
+      "url": "https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU"
     },
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "\u5fc3\u8eab\u7121\u53cc\u306e\u5263\u306b\u306a\u308c",
-        "url": "https://open.spotify.com/album/7tQTMRy1tWaBrO0AwWgLWX"
+        "name": "Shinshin Muso no Ken ni Nare",
+        "url": "https://open.spotify.com/album/6RqGK1sg3VST4Ij28cWTIk"
       },
       "artists": [
         {
@@ -405,8 +405,8 @@
         }
       ],
       "duration_ms": 189813,
-      "name": "\u5fc3\u8eab\u7121\u53cc\u306e\u5263\u306b\u306a\u308c",
-      "url": "https://open.spotify.com/track/3KepaGnc8CjilcnFdVvK1k"
+      "name": "Shinshin Muso no Ken ni Nare",
+      "url": "https://open.spotify.com/track/7p4RhJ9eryGdHeGnx467OS"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -433,7 +433,7 @@
       "artists": [
         {
           "name": "KEIKO",
-          "url": "https://open.spotify.com/artist/4j7ZX5A2mU1ClOmposbUFM"
+          "url": "https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe"
         }
       ],
       "duration_ms": 243886,

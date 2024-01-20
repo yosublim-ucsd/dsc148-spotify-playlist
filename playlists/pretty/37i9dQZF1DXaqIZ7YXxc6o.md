@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Shouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,754 likes - 99 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,759 likes - 99 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 18 | [Daydreaming](https://open.spotify.com/track/03KKOOaiT06KVqRpw5VvBF) | [So Below](https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi) | [Daydreaming](https://open.spotify.com/album/7JPhJVbw9qTphr4Y5k00LS) | 4:32 |
 | 19 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 |
 | 20 | [Jabberwocky \- PhaseOne Remix](https://open.spotify.com/track/2vAdiMaHmFO1oljDWu2amz) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk) | [Jabberwocky \(PhaseOne Remix\)](https://open.spotify.com/album/4siTtnRUOEFnWHFMMj825n) | 3:47 |
-| 21 | [Try Again](https://open.spotify.com/track/02P95WFP4eWW64YiwK35eW) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD) | [Try Again](https://open.spotify.com/album/2oKyNakOoBVo0tHzGHo2Wo) | 3:00 |
+| 21 | [Try Again](https://open.spotify.com/track/4VdTPiVynDPgumUwyq72Yj) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD) | [Try Again](https://open.spotify.com/album/4wDqvhLcVky1Ka1UTx5w4o) | 3:00 |
 | 22 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 |
 | 23 | [Day And Night](https://open.spotify.com/track/4wWuRSnUyZZPprLWffFxIp) | [Brad Mullins](https://open.spotify.com/artist/5yGxsoA0P5Era0ha3F6kBd), [LEER](https://open.spotify.com/artist/3APFeaxXlhPVZ5RTsu4Be9) | [Day And Night](https://open.spotify.com/album/6svQEeA2c9W0PKbuygmRw8) | 3:17 |
 | 24 | [Let It Go](https://open.spotify.com/track/524wbK27Ssf7fMuzOUmJ7U) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Let It Go](https://open.spotify.com/album/2mjKjhxmC3ZInWFSmtAy71) | 3:33 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [Firebreak \- 1991 Remix](https://open.spotify.com/track/5WYJ3VWw7BewsMvG92M7gQ) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Firebreak \(1991 Remix\)](https://open.spotify.com/album/6hjfikVWj1TJ3gFl3gOrNK) | 1:57 |
 | 99 | [Levitate](https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Levitate](https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr) | 2:45 |
 
-Snapshot ID: `MCw5MTI3ZTZjNzVkZmU2MjA0ODc1NWY3NzI4ODE4ODQzMTVhZWEzZDkx`
+Snapshot ID: `MCwyMGVhM2VlZWJiYzZmNGUzNjg0YmY2NWQwNGI1ZTA1ODVhZTZhYWNi`

@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-211 songs - 9 hr 38 min
+215 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,9 +52,11 @@
 | [Conclusions](https://open.spotify.com/track/3i9AGr31OTTym77Mzev1Qz) | [Elvaka](https://open.spotify.com/artist/3hY8LSEpccoTSfR8KWjJBE) | [Conclusions](https://open.spotify.com/album/1BKqVuITpB1tSBlxTZCtWX) | 1:44 | 2023-01-20 |  |
 | [Cook](https://open.spotify.com/track/0hzv9wbH3OTtpjDI0HNntH) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Cook](https://open.spotify.com/album/4KxqkKKfMJ81dJzn3nqbxj) | 2:05 | 2023-03-13 |  |
 | [Count Your Blessings](https://open.spotify.com/track/1NbWD40pGtLkGpY1NMsyRX) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Outcast Society](https://open.spotify.com/album/50X5rlLKcD0wFWPsNTdpRu) | 2:33 | 2023-03-13 |  |
+| [Crazy](https://open.spotify.com/track/45aOYaQIt6F1HX3wrkge33) | [ImLike](https://open.spotify.com/artist/75iPPsNFrudjBCDIQlzRkV) | [Crazy](https://open.spotify.com/album/5QpZxdYDtXyTm9mP7vEZEC) | 2:22 | 2024-01-20 |  |
 | [Criminal](https://open.spotify.com/track/76zhOrQn8dhBnyFTeteLaJ) | [DJ M](https://open.spotify.com/artist/3P5DeQSZXl547HcStiUkoY) | [Criminal](https://open.spotify.com/album/30pgaBfjKpz1GZpcwNhyum) | 2:17 | 2022-07-15 | 2023-01-20 |
 | [Cut a Rug](https://open.spotify.com/track/5GjAB6xggsDZyAoupbD7pn) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Cut a Rug](https://open.spotify.com/album/3JFp7UL5zWsXWVBpp7fjZ2) | 3:18 | 2023-01-20 |  |
 | [danyyye](https://open.spotify.com/track/5gJ9rmN0ix8XkyX7FhxTso) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [danyyye / rowdy](https://open.spotify.com/album/0Rtjj04prMwTFjlREiwKHH) | 2:44 | 2022-09-16 |  |
+| [Desert Land](https://open.spotify.com/track/1LKG343Y1MEC2v594oQGgc) | [Duriel](https://open.spotify.com/artist/2iJiFr5Y6LJ6neuEyOha1M) | [Desert Land](https://open.spotify.com/album/7hoVqpHYZXnbv3zf1Mzol8) | 2:33 | 2024-01-20 |  |
 | [Destroyer](https://open.spotify.com/track/3wdsSODAZAaWz3QwABi8tb) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q), [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Destroyer](https://open.spotify.com/album/0uGHL52MiHrXs37iIqsTJ7) | 2:59 | 2022-09-02 |  |
 | [Detention](https://open.spotify.com/track/594wtrOWRgz43j5da5SBbI) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Detention](https://open.spotify.com/album/7gu3Gu7D0SaaQizxsV9gC7) | 2:14 | 2022-10-14 |  |
 | [Distorcido](https://open.spotify.com/track/1veEROQqh83r67W1gthulY) | [I Mps I](https://open.spotify.com/artist/0i44Z70SJWehRFJQJOAm36) | [Mps Ii](https://open.spotify.com/album/2ITKfOcwympjJyTPV5AnJ7) | 1:18 | 2021-11-11 | 2023-01-20 |
@@ -120,6 +122,7 @@
 | [My Days](https://open.spotify.com/track/64DpmLAHF4sGYHZD4fRLXt) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/0aMxXnKML42F38q2oKbRGf) | 3:12 | 2023-02-21 |  |
 | [My Days](https://open.spotify.com/track/3dN3G7aEL5362FmHZqBkY8) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/2g7YpnCR4ubtaAG5CNbfMV) | 3:12 | 2022-10-14 | 2023-03-04 |
 | [My Days](https://open.spotify.com/track/7KaZU6sgOOhnuFGBZx6gdb) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/6T5MOLNV6KF0wI0gAmGVrh) | 3:12 | 2021-11-11 | 2022-11-18 |
+| [Nalaar](https://open.spotify.com/track/1IZ1nLUYBkUwqjN3Rz8zzv) | [Waloox](https://open.spotify.com/artist/6iomPU1uMjIP2HcUvEVjoi) | [Nalaar](https://open.spotify.com/album/2JWjOo6A2TiPr3KBn9tYoQ) | 2:24 | 2024-01-20 |  |
 | [NASA](https://open.spotify.com/track/6YwqaO5eejBRrBtbWj25QM) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [NASA](https://open.spotify.com/album/6A92SmpRlmzN41OP214NLI) | 2:06 | 2021-11-11 |  |
 | [New Tech](https://open.spotify.com/track/5rpI7Lcq895kc81mxWmqFm) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [New Tech](https://open.spotify.com/album/27WjV1hX9cnIkKjvcF38Hh) | 2:37 | 2022-07-01 |  |
 | [No Hate](https://open.spotify.com/track/5otKKNFJZ9uxT2IAVkC9u9) | [whaTaRWoll Music](https://open.spotify.com/artist/1Z7MTyfennQvKU2hxO5KYO) | [Wrong Game](https://open.spotify.com/album/5MMjKLaASf8ah91ou3IRtV) | 3:41 | 2021-11-11 | 2022-04-22 |
@@ -148,6 +151,7 @@
 | [Ransomware](https://open.spotify.com/track/0Xq3MbT0WU19vw6n3kw9CU) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Ransomware / Missed Out](https://open.spotify.com/album/5kwTPu2nX7XlMfU6NlwkG6) | 2:43 | 2022-07-15 |  |
 | [Respect Me](https://open.spotify.com/track/5lq2h9XA6dzKM567SVXuWR) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Call Me A Cab](https://open.spotify.com/album/5OYvzMi4M9wW3NMQXOcdXe) | 2:58 | 2021-11-11 |  |
 | [Reverse Spell](https://open.spotify.com/track/2pKWTPdKUWgRam6kmRG8Em) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Reverse Spell](https://open.spotify.com/album/0HQzJaw6UxOjgfRhUSCUdp) | 3:11 | 2022-07-01 |  |
+| [Riddle Box](https://open.spotify.com/track/40xNeFrbZ5Uor4CMDPjMyg) | [Hephisto](https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ) | [Riddle Box](https://open.spotify.com/album/0HL9zcnvWI7m7mQ0RnSVDk) | 2:58 | 2024-01-20 |  |
 | [Ritual](https://open.spotify.com/track/3uDWsAoVlvzaNz0JdTRKvv) | [Alx Beats](https://open.spotify.com/artist/5n8XW4GI0uT3sHgwUOUapx) | [Ritual](https://open.spotify.com/album/0TPakPFzZk4JJDjIU4MLSG) | 1:58 | 2022-09-02 |  |
 | [Roddy](https://open.spotify.com/track/0BfTbisZxX8U0sly9fA5CW) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Roddy](https://open.spotify.com/album/4h1XpHRfiBXd3pdnWI5tuZ) | 2:22 | 2021-11-11 |  |
 | [Rooftop](https://open.spotify.com/track/6849JqU4mi9w90w8pQABt9) | [Prashant!](https://open.spotify.com/artist/4CjSeBGPPvu2DXCVdN8gK2) | [Vol\. \#002](https://open.spotify.com/album/3klKcK3sSrrynypVWQsa7P) | 2:17 | 2021-11-11 | 2023-01-20 |

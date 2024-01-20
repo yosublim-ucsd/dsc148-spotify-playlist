@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 201825,
+  "2024-01-20": 201923,
   "date_first_scraped": "2022-05-12",
-  "description": "Solo hit rap italiane da ascoltare in loop. Cover: Club Dogo",
+  "description": "Solo hit rap da ascoltare in loop. Cover: Sfera Ebbasta",
   "name": "Hit Rap Italiane",
   "tracks": [
     {
@@ -25,7 +25,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 174727,
       "name": "10 RAGAZZE (con ERNIA)",
       "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 167089,
       "name": "7 Miliardi",
       "url": "https://open.spotify.com/track/3r2tnITVum2KF1vLG7cXGa"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 269386,
       "name": "All'Ultimo Respiro",
       "url": "https://open.spotify.com/track/4gXJIop7onForUMENJ7HjW"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 159840,
       "name": "Auto tedesca",
       "url": "https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 218695,
       "name": "Che Dio Mi Benedica",
       "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
@@ -1977,7 +1977,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 184413,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
@@ -2139,7 +2139,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 215013,
       "name": "Il Mio Mondo, Le Mie Regole",
       "url": "https://open.spotify.com/track/2bBW9JGz4N76FBc5ThkBqu"
@@ -3515,7 +3515,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 264200,
       "name": "Puro Bogot\u00e0",
       "url": "https://open.spotify.com/track/0GO0UbQoLP78jWf6lmwSbq"
@@ -4581,7 +4581,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 202885,
       "name": "Una Volta Sola",
       "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
@@ -4803,7 +4803,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 221237,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6y4hHH7MZ8ifyJ78GxHFla"

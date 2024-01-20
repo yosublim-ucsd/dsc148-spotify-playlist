@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 0,
+  "2024-01-20": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -17373,7 +17373,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 140468,
       "name": "Spit",
       "url": "https://open.spotify.com/track/6TflXjYNrdKl2M3QnllOsq"
@@ -18445,6 +18445,32 @@
       "duration_ms": 52190,
       "name": "Testimony (Live At The Piano)",
       "url": "https://open.spotify.com/track/7JVdwFrZpK9bBYiUrg5Tmn"
+    },
+    {
+      "album": {
+        "name": "Tha Rebels",
+        "url": "https://open.spotify.com/album/0fYXORVPL8MJjmjurgzJOq"
+      },
+      "artists": [
+        {
+          "name": "Korpz Tha Dead Body",
+          "url": "https://open.spotify.com/artist/55GceFJvOKrFZu8tIGvubC"
+        },
+        {
+          "name": "RevCyn",
+          "url": "https://open.spotify.com/artist/4qbIAq5KM0DARjfp83ufbI"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185429,
+      "name": "Tha Rebels",
+      "url": "https://open.spotify.com/track/4xQHINetdiU2CvBawXz2GF"
     },
     {
       "album": {

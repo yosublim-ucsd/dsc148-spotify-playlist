@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 14498,
+  "2024-01-20": 14664,
   "date_first_scraped": "2023-12-22",
   "description": "un poquito de esto, un poquito de lo otro.",
   "name": "Techengue",
@@ -131,7 +131,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 205163,
       "name": "BEACHY (Play-N-Skillz House Remix)",
       "url": "https://open.spotify.com/track/73DBgvxxWCJxgwqhlBK4pa"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u"
@@ -679,6 +679,28 @@
       "duration_ms": 148644,
       "name": "Hombres y Mujeres",
       "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
+    },
+    {
+      "album": {
+        "name": "I SEE U LATER",
+        "url": "https://open.spotify.com/album/7qhmOz5dZGhmcRfB0izeNl"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205838,
+      "name": "I SEE U LATER",
+      "url": "https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU"
     },
     {
       "album": {
@@ -963,6 +985,24 @@
       "duration_ms": 2764761,
       "name": "Mix Techengue 1 - Remix",
       "url": "https://open.spotify.com/track/4JPXCGg7chUPogd1zXKsIP"
+    },
+    {
+      "album": {
+        "name": "Monaco (Pyura Remix)",
+        "url": "https://open.spotify.com/album/4QBrLN1AcqoQCmFUit2sWv"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236537,
+      "name": "Monaco - Pyura Remix",
+      "url": "https://open.spotify.com/track/3wHtiTdrZkj5aYFnCeZcn0"
     },
     {
       "album": {

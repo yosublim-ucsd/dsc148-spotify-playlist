@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 695200,
+  "2024-01-20": 695284,
   "date_first_scraped": "2021-12-30",
   "description": "Some of the world's biggest pop hits in bossa nova versions.",
   "name": "Bossa Nova Covers",
@@ -811,6 +811,24 @@
       "duration_ms": 212689,
       "name": "Dancing In the Moonlight",
       "url": "https://open.spotify.com/track/42jBmDWtXI0dEhAcGubGvi"
+    },
+    {
+      "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/1un07dxoqPPqCiAl8PQN4N"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184559,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6JVUlhLabHaY33tTNNgefD"
     },
     {
       "album": {

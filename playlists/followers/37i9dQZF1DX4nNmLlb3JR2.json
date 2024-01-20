@@ -1,5 +1,5 @@
 {
-  "2024-01-19": 155583,
+  "2024-01-20": 155735,
   "date_first_scraped": "2022-09-09",
   "description": "A fresh lofi spin on your favourite tunes and old songs you love. ",
   "name": "lofi covers",
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 168746,
       "name": "Hakuna Matata",
       "url": "https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ"
@@ -1871,7 +1871,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 177777,
       "name": "I'll Be There - Lofi Version",
       "url": "https://open.spotify.com/track/2ph6VLJoG4TheddqDFhriN"
@@ -2385,7 +2385,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 128780,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/6mb3ei1PSzzZgZyOeQN5QA"
@@ -3093,7 +3093,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 166693,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/2OM7Asq8WtmCuWLDuaUphc"
@@ -3983,7 +3983,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 169736,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/0gL7REEt5oI4DfvP8dJnUO"
@@ -4233,6 +4233,24 @@
       "duration_ms": 122988,
       "name": "young folks",
       "url": "https://open.spotify.com/track/1aYcdEUigk7EO41RgbkYZh"
+    },
+    {
+      "album": {
+        "name": "young hearts run free",
+        "url": "https://open.spotify.com/album/7tt61F8V8geJpf5SytrfJy"
+      },
+      "artists": [
+        {
+          "name": "Laflov",
+          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146833,
+      "name": "young hearts run free",
+      "url": "https://open.spotify.com/track/2KmSwhxq48iE7LdAnoaBiR"
     },
     {
       "album": {

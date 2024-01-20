@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,281 likes - 134 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,292 likes - 134 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 | 23 | [When You Wish \(Cuando Sueñas\) \- Piano](https://open.spotify.com/track/49A3qwVyoYJ8poNAcXv7d6) | [Sueñito](https://open.spotify.com/artist/3ScsUDOUKuTIV8rbrYWVzK) | [When You Wish \(Cuando Sueñas\) \[Piano\]](https://open.spotify.com/album/5lqIIW91kAc40scIEJbz6u) | 3:29 |
 | 24 | [The Space Within Me](https://open.spotify.com/track/5zOEew2ZPxhodfqZJXEx6Z) | [Juan Pablo Garcia](https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd) | [The Space Within Me](https://open.spotify.com/album/604WCWWdkwFVqBsWYYDZTp) | 2:58 |
 | 25 | [hymn for hope](https://open.spotify.com/track/6elm4qXYzTsH6w9EdAPStd) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [hymn for hope](https://open.spotify.com/album/7LypverlUKkMPGNqz6OTsf) | 2:33 |
-| 26 | [Vals de los Duendes](https://open.spotify.com/track/238UQu2KnnEku5SzaZHVqV) | [Pedro Dabdoub](https://open.spotify.com/artist/5Rvj0WLMmzRd0vKFxKHkDN) | [Valses de Películas Perdidas](https://open.spotify.com/album/7Lvn18V9ypZ08Kl39Y68Fp) | 3:23 |
+| 26 | [Vals de Los Duendes \- Remastered 2023](https://open.spotify.com/track/2ErXOAEQSsveFtGLLWfVRI) | [Pedro Dabdoub](https://open.spotify.com/artist/5Rvj0WLMmzRd0vKFxKHkDN) | [Valses de Películas Perdidas \(Remastered 2023\)](https://open.spotify.com/album/7byCmt4Bg2cBpJNoX38xeH) | 3:23 |
 | 27 | [Acōlmiztli](https://open.spotify.com/track/6TfMblmD4IEYbUkECvnbho) | [Uriel VIllalobos Alva](https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA), [Uriel Villalobos](https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu) | [Chicxulub](https://open.spotify.com/album/0ECX5VMP06pTlNkFAprmsv) | 3:34 |
 | 28 | [Gyroscope](https://open.spotify.com/track/2dziNfL0S9awABp30vNN08) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Storytelling](https://open.spotify.com/album/4FYYpIBxJnSbW08oyU4xAP) | 3:07 |
 | 29 | [To Leave a Place Behind](https://open.spotify.com/track/4xmZqoUqJI0Lbf3cYx5oYS) | [Subsona](https://open.spotify.com/artist/27Df9CuoY1ynQIDCcpHy9o), [Stuart McCallum](https://open.spotify.com/artist/2JCWJ9OPSNy5Ywkjdzv3Za), [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [To Leave a Place Behind](https://open.spotify.com/album/74ibZyjU84kBkJUKpdSTSU) | 2:17 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 | 133 | [River Flows In You](https://open.spotify.com/track/2agBDIr9MYDUducQPC1sFU) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [First Love \(The Original & the Very First Recording\)](https://open.spotify.com/album/1N6p8qmf8PJgYQdktQQYYh) | 3:08 |
 | 134 | [India Song \(piano\)](https://open.spotify.com/track/1oqrEcuxbzibmFx8Ebn4Z6) | [Carlos D'Alessio](https://open.spotify.com/artist/5tj60o8qX6VLwdc9zaVvqF) | [India Song et autres musiques de films](https://open.spotify.com/album/1ZVLjN4opMPA2pFyHs63Fs) | 2:46 |
 
-Snapshot ID: `MCw1ODZjNTlmM2NhNzhiYmI0N2E0MGZmYjI0ZjU0NmMzYTI2ZmVkOThk`
+Snapshot ID: `MCw2M2MzZWRjMjk3NDFhZjVhYzRjMGIwZDdkNTc3OTQ0ZGIwY2Y1YWEw`

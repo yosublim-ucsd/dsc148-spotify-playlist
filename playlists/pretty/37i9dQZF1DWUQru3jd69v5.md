@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Gheba
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,967 likes - 54 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,983 likes - 54 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 53 | [Artista Di Strada](https://open.spotify.com/track/4zxjREbcWw6I58QLwHrbAb) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Artista Di Strada](https://open.spotify.com/album/6RP5ca2jk3w2Nt5YDV2IvP) | 2:38 |
 | 54 | [MALOCCHIO \#2](https://open.spotify.com/track/4vDBHRi45xgWOcljwWhlzA) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [MALOCCHIO \#2](https://open.spotify.com/album/5e7KwebaX0y3BEZBHoq41T) | 1:33 |
 
-Snapshot ID: `MCxkOTE4ZGQ2NjBmZTMzZmQ1ODc0OGE5YzZhODliZjE5NjVlMDBhM2Zi`
+Snapshot ID: `MCxiNzU3N2I4NTRiNTc2MWIzMjAwOWFmNjI2Mzk4NWFkOTYyNDE1MjY3`

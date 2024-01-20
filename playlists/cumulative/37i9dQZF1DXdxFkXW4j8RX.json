@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa de lxs MC's. Foto: Chystemc",
+  "description": "La casa de lxs MC's. Foto: Flor De Rap",
   "name": "Rap Chileno",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 192630,
       "name": "Cuentos",
       "url": "https://open.spotify.com/track/1Qo4WtxrJ11TRLiwnMpxkJ"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 204340,
       "name": "De Donde Vengo",
       "url": "https://open.spotify.com/track/0B7YG0Rd4Jp3IMwaq6mAJL"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 203089,
       "name": "La Felicidad",
       "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
@@ -1924,6 +1924,28 @@
       "duration_ms": 233906,
       "name": "LA SAGA",
       "url": "https://open.spotify.com/track/6lvEBpVnTAlRhHrBNU8Ucx"
+    },
+    {
+      "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
     },
     {
       "album": {
@@ -2420,6 +2442,24 @@
       "duration_ms": 228000,
       "name": "Milagros en el Caos",
       "url": "https://open.spotify.com/track/7kdMlT4QeHV5rd9ykdS4Ie"
+    },
+    {
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216134,
+      "name": "Millonaria",
+      "url": "https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M"
     },
     {
       "album": {

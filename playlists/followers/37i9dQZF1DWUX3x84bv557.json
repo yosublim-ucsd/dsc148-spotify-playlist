@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 160962,
+  "2024-01-20": 161007,
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: FLEMMING, Zo\u00eb Tauran & Ronnie Flex",
+  "description": "De nieuwste Nederlandse pop! Cover: Antoon",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1274,6 +1274,24 @@
     },
     {
       "album": {
+        "name": "Blauwe Maandag",
+        "url": "https://open.spotify.com/album/6Un53AaCAlWAcBl8olQlQK"
+      },
+      "artists": [
+        {
+          "name": "Turfy Gang",
+          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139737,
+      "name": "Blauwe Maandag",
+      "url": "https://open.spotify.com/track/6LflKewsKYkZ3ylzfSwHKF"
+    },
+    {
+      "album": {
         "name": "BLIJF JIJ HIER",
         "url": "https://open.spotify.com/album/2s6o6DZX3opknCEolZ7WtA"
       },
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 177690,
       "name": "Blijf Zo",
       "url": "https://open.spotify.com/track/3bHhbGAnKXlD3SIoRZr8oj"
@@ -1401,6 +1419,24 @@
       "duration_ms": 155500,
       "name": "Blind Vertrouwen",
       "url": "https://open.spotify.com/track/2IEaJNKgkMRCh4OGnATrPU"
+    },
+    {
+      "album": {
+        "name": "Blindelings",
+        "url": "https://open.spotify.com/album/61PY2ypsRLJBYM4lbAilWK"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Blindelings",
+      "url": "https://open.spotify.com/track/24Kh86Io6xp1jLwCRjjK4m"
     },
     {
       "album": {
@@ -2971,7 +3007,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 190819,
       "name": "Geef Me Over",
       "url": "https://open.spotify.com/track/4aswIZFJRd9va6W0i7S0pO"
@@ -3083,7 +3119,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 219212,
       "name": "Glijpanter",
       "url": "https://open.spotify.com/track/0cWIJhR3QZHJPHHoRn0vr6"
@@ -3213,6 +3249,42 @@
       "duration_ms": 164471,
       "name": "Haast",
       "url": "https://open.spotify.com/track/399bjhgodMuQoMkynf8rVM"
+    },
+    {
+      "album": {
+        "name": "Haat Me",
+        "url": "https://open.spotify.com/album/6267wKbOwViwFSSz1PwuJv"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215905,
+      "name": "Haat Me",
+      "url": "https://open.spotify.com/track/50ELw2DvK4J2Z02m0Vphed"
+    },
+    {
+      "album": {
+        "name": "Harmonie",
+        "url": "https://open.spotify.com/album/7ekoyoS7XjHdic9gqDGlxm"
+      },
+      "artists": [
+        {
+          "name": "Nobu",
+          "url": "https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179314,
+      "name": "Harmonie",
+      "url": "https://open.spotify.com/track/1RGseAlntVH6yD65xKi509"
     },
     {
       "album": {
@@ -3455,7 +3527,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 235265,
       "name": "Het Komt Wel Goed",
       "url": "https://open.spotify.com/track/47lHoLg9VVAxoAtzFMrQoJ"
@@ -3677,7 +3749,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 244062,
       "name": "Hoor Je Mij Niet?",
       "url": "https://open.spotify.com/track/5ha0DXQ1PoFvuBnvCcvSEp"
@@ -4253,6 +4325,24 @@
       "duration_ms": 159562,
       "name": "Kaarslicht",
       "url": "https://open.spotify.com/track/3zhKEoZJ2BBabaClXLxiB3"
+    },
+    {
+      "album": {
+        "name": "Kalmeer Me",
+        "url": "https://open.spotify.com/album/60wpnUXyT43TFowNqrvw5f"
+      },
+      "artists": [
+        {
+          "name": "Sherefa Yorks",
+          "url": "https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184187,
+      "name": "Kalmeer Me",
+      "url": "https://open.spotify.com/track/6kfxfUbKtyZbAdcW3zxz0E"
     },
     {
       "album": {
@@ -5897,7 +5987,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 182765,
       "name": "Oceaan",
       "url": "https://open.spotify.com/track/5M6Qu1tI5iwJMmgFPgRtpo"
@@ -6067,7 +6157,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 146501,
       "name": "Opfok",
       "url": "https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7"
@@ -6331,6 +6421,24 @@
       "duration_ms": 156470,
       "name": "Reden",
       "url": "https://open.spotify.com/track/27C4hWKoHD15w2UjiOGxdq"
+    },
+    {
+      "album": {
+        "name": "Sociale Zaken",
+        "url": "https://open.spotify.com/album/5LpJ2fRNAoRocRx3rwp3PR"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215357,
+      "name": "Regie",
+      "url": "https://open.spotify.com/track/6fjKk47RwwX88GQfnmFRt0"
     },
     {
       "album": {
@@ -7545,6 +7653,24 @@
       "duration_ms": 186455,
       "name": "Vas-y (Ga Maar)",
       "url": "https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx"
+    },
+    {
+      "album": {
+        "name": "veilig",
+        "url": "https://open.spotify.com/album/0Nd7v2vZvVEQt615Pl27uz"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190602,
+      "name": "veilig",
+      "url": "https://open.spotify.com/track/6AA25bMKeaifeQtJssZhYz"
     },
     {
       "album": {

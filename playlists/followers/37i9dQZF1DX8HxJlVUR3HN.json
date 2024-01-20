@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 24995,
+  "2024-01-20": 24994,
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : MDNS",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Lysistrata",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -57,6 +57,24 @@
       "duration_ms": 244258,
       "name": "All Saints",
       "url": "https://open.spotify.com/track/67PbgSOlVPaxKfbG4QosTC"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181771,
+      "name": "Amanita",
+      "url": "https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei"
     },
     {
       "album": {
@@ -179,7 +197,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 142933,
       "name": "Bewitched Me",
       "url": "https://open.spotify.com/track/1kJdkrtByJFrUe3eIefo47"
@@ -323,7 +341,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 213270,
       "name": "Bruised And Battered",
       "url": "https://open.spotify.com/track/6EnpuWBCsYGh9Eeq4E3rKR"
@@ -453,7 +471,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 171320,
       "name": "Cold Water Swim",
       "url": "https://open.spotify.com/track/0sUCO8NGZhMG7IXRZ9IQjr"
@@ -507,7 +525,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 234000,
       "name": "Constant Rebirth",
       "url": "https://open.spotify.com/track/7aIOmApDKfraYs1YKlS2YJ"
@@ -1364,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "Pop Sauvage",
+        "url": "https://open.spotify.com/album/1bByGrvIRmbEpb2ffklSHx"
+      },
+      "artists": [
+        {
+          "name": "Metro Verlaine",
+          "url": "https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217626,
+      "name": "Pop Sauvage",
+      "url": "https://open.spotify.com/track/5l4tHgY9cdo9HTH0g09VGQ"
+    },
+    {
+      "album": {
         "name": "Powerback",
         "url": "https://open.spotify.com/album/05dhsqbUKJoc6pvyfnY3dI"
       },
@@ -1717,7 +1753,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 189579,
       "name": "Still There",
       "url": "https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z"
@@ -1771,7 +1807,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 180986,
       "name": "Strong",
       "url": "https://open.spotify.com/track/578U1WgUClk2l3yCiGqn96"
@@ -2020,6 +2056,24 @@
     },
     {
       "album": {
+        "name": "To Be Enjoyed",
+        "url": "https://open.spotify.com/album/6EzldXmt1XQqCvTYbcSs4o"
+      },
+      "artists": [
+        {
+          "name": "PURRS",
+          "url": "https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214918,
+      "name": "To Be Enjoyed",
+      "url": "https://open.spotify.com/track/7JGYcK2UQMqDnBg7Gt4Xv9"
+    },
+    {
+      "album": {
         "name": "To The Stars",
         "url": "https://open.spotify.com/album/5Dotk6Ql6EXKCtI7vw8yvP"
       },
@@ -2053,6 +2107,24 @@
       "duration_ms": 233023,
       "name": "Toxin",
       "url": "https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F"
+    },
+    {
+      "album": {
+        "name": "Trouble Don't Last",
+        "url": "https://open.spotify.com/album/0FHwczgZJ2Rses5cSMoMfP"
+      },
+      "artists": [
+        {
+          "name": "Lysistrata",
+          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262439,
+      "name": "Trouble Don't Last",
+      "url": "https://open.spotify.com/track/6XGbbKHaw25B4jGg7D9sN6"
     },
     {
       "album": {
@@ -2125,6 +2197,24 @@
       "duration_ms": 163186,
       "name": "Vomit Candy",
       "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
+    },
+    {
+      "album": {
+        "name": "Welcome Back (First Edit)",
+        "url": "https://open.spotify.com/album/595ts2ZuIpCoNaWNMdlRQQ"
+      },
+      "artists": [
+        {
+          "name": "EllSide",
+          "url": "https://open.spotify.com/artist/6PxSIYmViSAALyISijBrW7"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Welcome Back - First Edit",
+      "url": "https://open.spotify.com/track/4pLiJIhQYqKBmYukO7qVdU"
     },
     {
       "album": {

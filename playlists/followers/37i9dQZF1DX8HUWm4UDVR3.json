@@ -1,7 +1,7 @@
 {
-  "2024-01-19": 25821,
+  "2024-01-20": 25866,
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Z\u00e9lie",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Jeanne Bonjour",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -97,7 +97,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 214605,
       "name": "Alabama",
       "url": "https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ"
@@ -196,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Baby Vampire",
+        "url": "https://open.spotify.com/album/2nwrrojgCW3PwdOLdoRGCP"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171186,
+      "name": "Baby Vampire",
+      "url": "https://open.spotify.com/track/2pJYi79IaKj0nZOXzMj5ea"
+    },
+    {
+      "album": {
         "name": "Baiser Amer",
         "url": "https://open.spotify.com/album/7LP6H3F3QX3p3rCWecqbLK"
       },
@@ -265,6 +283,24 @@
       "duration_ms": 158604,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/1AQnssggAwAJTeV9hFzZHu"
+    },
+    {
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/58bWxqazTDY1sl3E6UL2qD"
+      },
+      "artists": [
+        {
+          "name": "Bagarre",
+          "url": "https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179428,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/3uGqac4MPTi2gV5LyNQOMz"
     },
     {
       "album": {
@@ -340,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Nouvelle \u00c8re",
+        "url": "https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bonjour",
+          "url": "https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166202,
+      "name": "Ce soir",
+      "url": "https://open.spotify.com/track/7z6qjtc8VJcJ9G10n03P4i"
+    },
+    {
+      "album": {
         "name": "CHAVIRE",
         "url": "https://open.spotify.com/album/01iCU2e0KQI7b1FUhCbqWa"
       },
@@ -409,6 +463,24 @@
       "duration_ms": 213142,
       "name": "Corps Nucl\u00e9aire",
       "url": "https://open.spotify.com/track/4m2Jir1D8nb2dHFeXEBtp6"
+    },
+    {
+      "album": {
+        "name": "Monstrueuse",
+        "url": "https://open.spotify.com/album/3ncHignlQNL2JTMxYMYz5X"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208733,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/0QAkn0BvBwGqVLlDAHeCFG"
     },
     {
       "album": {
@@ -513,7 +585,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 186885,
       "name": "De passage",
       "url": "https://open.spotify.com/track/5mkGCuxXJfqo8Ed5dlQWdF"
@@ -603,7 +675,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 175186,
       "name": "encore + triste",
       "url": "https://open.spotify.com/track/2ppsKRsn8QJAjL5xr17Rcn"
@@ -1069,7 +1141,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 192378,
       "name": "Le club des 27",
       "url": "https://open.spotify.com/track/4u7Vc3ia7XEhirbBk9BqRe"
@@ -1120,6 +1192,24 @@
     },
     {
       "album": {
+        "name": "LE TEMPS DE VIVRE (ENCORE PLUS FORT)",
+        "url": "https://open.spotify.com/album/2ynHjQselUDztGQiXi8nFd"
+      },
+      "artists": [
+        {
+          "name": "NACH",
+          "url": "https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162920,
+      "name": "LE TEMPS DE VIVRE (ENCORE PLUS FORT)",
+      "url": "https://open.spotify.com/track/2XVGJbLeWeKxsb8dN5sPH3"
+    },
+    {
+      "album": {
         "name": "Les Royaumes Minuscules",
         "url": "https://open.spotify.com/album/3VGubAeKi1fg002fAta5rz"
       },
@@ -1167,7 +1257,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 178933,
       "name": "LIGNE D'ARRIV\u00c9E",
       "url": "https://open.spotify.com/track/7apnTW8c5llW1ERH033ETy"
@@ -1565,7 +1655,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-19",
       "duration_ms": 209605,
       "name": "Plus de sens",
       "url": "https://open.spotify.com/track/7HEKgyGKb9oil5ZrW7cHH4"
@@ -1985,6 +2075,24 @@
       "duration_ms": 198160,
       "name": "Tirer la nuit sur les \u00e9toiles - Yan Wagner Radio Remix",
       "url": "https://open.spotify.com/track/7bY9boNbEOBFACQicbgyvF"
+    },
+    {
+      "album": {
+        "name": "Toi et moi",
+        "url": "https://open.spotify.com/album/5ZNrFN5vkaWMdqZK4SAmFq"
+      },
+      "artists": [
+        {
+          "name": "Mauvais \u0152il",
+          "url": "https://open.spotify.com/artist/3Y9K5UfReurp9VFJmOcrjj"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175739,
+      "name": "Toi et moi",
+      "url": "https://open.spotify.com/track/3FaInds8Srk4PVpqCSuH9p"
     },
     {
       "album": {

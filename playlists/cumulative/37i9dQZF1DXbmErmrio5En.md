@@ -4,11 +4,12 @@
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-368 songs - 16 hr 21 min
+373 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 peaceful ways to die](https://open.spotify.com/track/3avoIxhqn6tfNWGUJZq8U1) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [jet set stunner](https://open.spotify.com/album/6jVOwyiGTkoQZfdONNRz6U) | 2:23 | 2022-12-04 | 2023-06-17 |
+| [27AM](https://open.spotify.com/track/0btuN3Oea2yRolMgI67uPO) | [zivve](https://open.spotify.com/artist/4uBfAtQBqmCA5dwvU6cq7v) | [27AM](https://open.spotify.com/album/7IEniMglg0CFSh8bKfGJen) | 1:35 | 2024-01-19 |  |
 | [43VR](https://open.spotify.com/track/2oVs3DVmsCK5yL55v9YbK2) | [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF) | [43VR](https://open.spotify.com/album/0DXjEDAzFa17vNnuhnpfy8) | 2:51 | 2023-02-24 | 2023-04-09 |
 | [50/50](https://open.spotify.com/track/6eS4jqni6XJyS0ltp1Umlc) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [50/50](https://open.spotify.com/album/20ro3WFXJdS2rkF7kZ0CwY) | 2:48 | 2023-01-13 | 2023-09-19 |
 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2022-12-04 | 2023-08-02 |
@@ -41,6 +42,7 @@
 | [Bloodshot](https://open.spotify.com/track/6bMmTX6kZkCatybG4ZvYB1) | [Bad Mustache](https://open.spotify.com/artist/1n9tiAnBj5vzukpcEOaZzE) | [Bloodshot](https://open.spotify.com/album/4J9gyTFX77422CnsEpv7jG) | 2:31 | 2022-12-04 | 2023-02-18 |
 | [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-12-04 | 2023-06-17 |
 | [Blue Atlanta](https://open.spotify.com/track/6BHPw2MZMosf3eEaFiwl4z) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Blue Atlanta](https://open.spotify.com/album/3sNsCFbYYDe2te2R8xRrAE) | 3:20 | 2023-01-27 | 2023-09-19 |
+| [Blurt](https://open.spotify.com/track/2XTmhaY18G7VLHW7FMJqRf) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Bullfighting in Brooklyn](https://open.spotify.com/album/0RczVvSu1mtAmEyeQAiyLC) | 2:13 | 2024-01-19 |  |
 | [Blurt](https://open.spotify.com/track/1R5PPI1YJ9q37BGemZDemd) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Blurt](https://open.spotify.com/album/4iM2ECj6UkJ3sUwcnofnOF) | 2:13 | 2023-09-29 |  |
 | [bones](https://open.spotify.com/track/0fwYe53RLfXtqJzjvzfTn4) | [Numl6ck](https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx), [pwon](https://open.spotify.com/artist/3KTZgaWBh344GgAHftarFM) | [bones](https://open.spotify.com/album/3KmErbslecY06JTn8vJU8s) | 2:22 | 2023-06-09 | 2023-11-18 |
 | [Borderline Personality](https://open.spotify.com/track/2XQh0Gvc6KGOIPQRm30M3K) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Sick Sad Obsession](https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb) | 2:03 | 2023-06-23 |  |
@@ -97,6 +99,7 @@
 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 | 2022-12-16 |  |
 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-02-17 | 2023-04-09 |
 | [difficult](https://open.spotify.com/track/3uWiz4o4sFeLcjFiELuDa1) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [difficult](https://open.spotify.com/album/4wFsQRPPnYc2k73yUldWEh) | 2:04 | 2023-06-23 |  |
+| [digital crush](https://open.spotify.com/track/4hYbCohbCENEkrnLih5s55) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [digital crush](https://open.spotify.com/album/4MEzMHYcPOkGiKBQ0mOjKd) | 2:39 | 2024-01-19 |  |
 | [Diphylla](https://open.spotify.com/track/24bACmCVA5MWILNvFqqwaz) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [Riley Nuala](https://open.spotify.com/artist/2jrvAHUR5iHtkAD0YSuByG) | [Diphylla](https://open.spotify.com/album/1GrMptCLzEl2OJgciomdZH) | 3:33 | 2023-08-04 |  |
 | [disavow](https://open.spotify.com/track/0xXw3fZmE7EJ5tBlkYwL6a) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [disavow](https://open.spotify.com/album/2PpZamHCU2LmUHo2Sv1JPb) | 2:16 | 2023-12-01 |  |
 | [discarded](https://open.spotify.com/track/1g7guvTTxW9tHwc5Qu74rJ) | [Braden Ross](https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic) | [digilogue](https://open.spotify.com/album/6W0ve31JhA8wFuLoKbYZTe) | 3:51 | 2023-12-08 |  |
@@ -190,6 +193,7 @@
 | [kill you](https://open.spotify.com/track/2P6F5d9X6V1ArHg5DJoWVG) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [post spring self destruction](https://open.spotify.com/album/3CoriDOCAUysBZPAbghdXo) | 2:30 | 2023-06-23 |  |
 | [know how it felt](https://open.spotify.com/track/4AXFBdy4wYLI4pwP1p9kqJ) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [coward](https://open.spotify.com/album/1vo8d9FSCr5UfDxHTL3IHc) | 3:20 | 2023-04-14 | 2023-09-22 |
 | [LADY](https://open.spotify.com/track/49LUs902uTt3X0OBz5nWb4) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [LADY](https://open.spotify.com/album/3088SZvfQYnSQsAGsxUbgi) | 3:44 | 2023-06-16 | 2023-08-17 |
+| [lastjune](https://open.spotify.com/track/1welGULVlPbPc61eiGEELm) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:31 | 2024-01-19 |  |
 | [lately](https://open.spotify.com/track/416u9bDidTqJMQV4JOwQvW) | [jayya](https://open.spotify.com/artist/3bhTwTlnBeTx2Ks3kMT8FR) | [lately](https://open.spotify.com/album/2PY3AOtQqHjcITTHtoN75K) | 2:17 | 2023-04-21 | 2023-09-22 |
 | [let her go](https://open.spotify.com/track/2ovFPM5cL34Mo5ZsOD0F7N) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [let her go](https://open.spotify.com/album/20F7eI4lO96MZWyYdPR6Nt) | 2:18 | 2023-03-03 | 2023-04-15 |
 | [let me go \(debts past due\)](https://open.spotify.com/track/0tFrsfLqUSpAO6LhiJzkiD) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [let me go \(debts past due\)](https://open.spotify.com/album/6dIS1xqfpQRYTa5mG8EePg) | 3:42 | 2023-08-04 | 2023-09-22 |
@@ -238,6 +242,7 @@
 | [Past Tense](https://open.spotify.com/track/3madFp14gu9MQzIALF9WNE) | [Okayracer](https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo) | [FISH](https://open.spotify.com/album/0tzCLJxWYReTDw1fI5pLcK) | 2:07 | 2023-08-04 | 2023-09-14 |
 | [patience is hard to come across](https://open.spotify.com/track/6HqvUPI21BOzeIUCoNjgco) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [patience is hard to come across](https://open.spotify.com/album/7qzkAqQreDkp6VNZLJJXoa) | 2:39 | 2023-04-21 | 2023-09-22 |
 | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf) | 2:33 | 2022-12-04 | 2023-02-18 |
+| [people are the enemy](https://open.spotify.com/track/5MBp4svXIK3qHw9xMM9ZRp) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [people are the enemy](https://open.spotify.com/album/3XnkMXav9Tp4SJspgw3zD9) | 2:09 | 2024-01-19 |  |
 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 | 2022-12-09 | 2023-02-11 |
 | [pirouettes & the ghost of harman street](https://open.spotify.com/track/266mfkhir0RUlsRyyi22kn) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [111](https://open.spotify.com/album/0Evr5vaROxhu2I01MzqlU1) | 3:28 | 2023-08-04 | 2023-09-30 |
 | [Pity Sex](https://open.spotify.com/track/2n9oB3ftDuSv6mEtDWfU3R) | [TEEN BLUSH](https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl) | [Pity Sex](https://open.spotify.com/album/3yDIN8i4A80HKZLhXN5mP4) | 2:39 | 2023-01-27 | 2023-04-15 |

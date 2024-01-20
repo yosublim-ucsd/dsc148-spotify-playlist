@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: adoracion
 
-2,968 songs - 7 day 14 hr 5 min
+2,969 songs - 7 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1025,6 +1025,7 @@
 | [Hold On To Me](https://open.spotify.com/track/0TROZcBP9ChaCXq80LeT8S) | [Youga](https://open.spotify.com/artist/2zVIPdUrSb78d75HbaPZ68) | [Hold On To Me](https://open.spotify.com/album/0uR85PEz79WDTVfPJbI6FC) | 2:45 | 2023-01-12 | 2023-01-27 |
 | [Hold You Close](https://open.spotify.com/track/66w9jkUmeAYoeqmr22dOTX) | [Rrafizzz](https://open.spotify.com/artist/6FqVKeq8kGwirv4t4zsmcx), [Afredy](https://open.spotify.com/artist/2cfIJaTc9sLmBGcc9li0Ea) | [Hold You Close](https://open.spotify.com/album/7HOnHOIYyrMoTFpBQqoS01) | 2:47 | 2023-04-06 | 2023-04-28 |
 | [Holding On](https://open.spotify.com/track/4KC1ghcmrOqUzpVMtDPWwE) | [Fazri](https://open.spotify.com/artist/0lezBpnudIKCjycrh8oLeW) | [Holding On](https://open.spotify.com/album/0GFbrE7WiEo61OLqvIO9jc) | 4:08 | 2023-12-08 | 2024-01-12 |
+| [Holiness](https://open.spotify.com/track/5fcX7o1TfKr9se5wFOZtZp) | [Bearfours](https://open.spotify.com/artist/5K0U3YPkolmth5SzxPX5fz) | [Holiness](https://open.spotify.com/album/43wetfOpu5NWc3zWHCaynT) | 3:16 | 2024-01-19 |  |
 | [Home](https://open.spotify.com/track/0jgAPRsXX64OFDVoHIl6GU) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt), [Munthe](https://open.spotify.com/artist/36WOLEwcKOGDXVtDc1atPv) | [Home](https://open.spotify.com/album/0JDP6LogYzZIWFmJGrg33x) | 3:08 | 2022-02-03 | 2022-02-18 |
 | [Home](https://open.spotify.com/track/0lXjXxUbSAO410U2PPtw3w) | [Munthe](https://open.spotify.com/artist/36WOLEwcKOGDXVtDc1atPv), [Jaqués](https://open.spotify.com/artist/61Xj7uAf9rfxmc6XlB3on9) | [The Fragment](https://open.spotify.com/album/2xOpxenAT6LMTb1h5Ric7a) | 3:58 | 2023-05-25 | 2023-06-09 |
 | [home](https://open.spotify.com/track/2xR46ioUNHc2HMc4RGIVfY) | [Ramandhika](https://open.spotify.com/artist/47WzpqQTUuAnZQsMl6V6Kt) | [you're just a memory](https://open.spotify.com/album/3if0JuaET4V4J6dTKL7ZF2) | 3:24 | 2022-08-05 | 2022-08-20 |

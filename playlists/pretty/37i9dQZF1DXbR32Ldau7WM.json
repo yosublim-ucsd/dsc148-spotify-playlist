@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now!  Cover: the telephones",
-  "num_followers": 276561,
+  "num_followers": 276641,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTQ3NjAzZDg3NTM4ZjEzNjYxMmI4YTM5MjQ2NDAyYjVmYzkyNzA0",
+  "snapshot_id": "MCwzOWMyNjQxYjAyN2ZlZjgxODgzNWQyYjhmNGFjNjA0MWY4OTRmZmYw",
   "tracks": [
     {
       "added_at": "2024-01-18 15:00:00",
@@ -67,8 +67,8 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "Love melts into the marble ocean",
-        "url": "https://open.spotify.com/album/28ctY7cUtusuQBMlvyEPmf"
+        "name": "A melody that flies beyond time",
+        "url": "https://open.spotify.com/album/5jxccF7FKF9shTKQAd5MdI"
       },
       "artists": [
         {
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v"
         }
       ],
-      "duration_ms": 181500,
+      "duration_ms": 182506,
       "name": "Love melts into the marble ocean",
-      "url": "https://open.spotify.com/track/59Jucw9BcXHb8bwzTMR2n7"
+      "url": "https://open.spotify.com/track/2XHZBO4WZFfPiy4tpeOndd"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -164,7 +164,7 @@
       "added_at": "2024-01-18 15:00:00",
       "album": {
         "name": "Endless Etude (BEST WISHES TO ALL ver.)",
-        "url": "https://open.spotify.com/album/5FE6XRVjwqvXE4tQqiW5gx"
+        "url": "https://open.spotify.com/album/6G15tHXUBI9ajGjmVXWKjE"
       },
       "artists": [
         {
@@ -174,7 +174,7 @@
       ],
       "duration_ms": 157871,
       "name": "Endless Etude (BEST WISHES TO ALL ver.)",
-      "url": "https://open.spotify.com/track/6u5POngpCtZfnIyLU2izjg"
+      "url": "https://open.spotify.com/track/4VzyVdmjdy5ud6oqpGkA6j"
     },
     {
       "added_at": "2024-01-18 15:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-01-18 15:00:00",
       "album": {
-        "name": "\u3044\u3051\u306a\u3044fool logic",
-        "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
-      },
-      "artists": [
-        {
-          "name": "UNISON SQUARE GARDEN",
-          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "\u3044\u3051\u306a\u3044fool logic",
-      "url": "https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo"
-    },
-    {
-      "added_at": "2024-01-18 15:00:00",
-      "album": {
         "name": "\u30d0\u30a4\u30aa\u30ec\u30f3\u30b9",
         "url": "https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 232706,
       "name": "\u30d0\u30a4\u30aa\u30ec\u30f3\u30b9",
       "url": "https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5"
+    },
+    {
+      "added_at": "2024-01-18 15:00:00",
+      "album": {
+        "name": "\u3044\u3051\u306a\u3044fool logic",
+        "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "\u3044\u3051\u306a\u3044fool logic",
+      "url": "https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo"
     },
     {
       "added_at": "2024-01-18 15:00:00",

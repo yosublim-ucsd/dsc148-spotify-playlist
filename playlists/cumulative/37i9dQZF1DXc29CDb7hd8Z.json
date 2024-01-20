@@ -2298,10 +2298,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-20",
       "duration_ms": 203727,
       "name": "Vals de los Duendes",
       "url": "https://open.spotify.com/track/238UQu2KnnEku5SzaZHVqV"
+    },
+    {
+      "album": {
+        "name": "Valses de Pel\u00edculas Perdidas (Remastered 2023)",
+        "url": "https://open.spotify.com/album/7byCmt4Bg2cBpJNoX38xeH"
+      },
+      "artists": [
+        {
+          "name": "Pedro Dabdoub",
+          "url": "https://open.spotify.com/artist/5Rvj0WLMmzRd0vKFxKHkDN"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203727,
+      "name": "Vals de Los Duendes - Remastered 2023",
+      "url": "https://open.spotify.com/track/2ErXOAEQSsveFtGLLWfVRI"
     },
     {
       "album": {

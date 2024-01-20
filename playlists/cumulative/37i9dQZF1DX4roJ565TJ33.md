@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-171 songs - 13 hr 16 min
+172 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Sjön håller himlen](https://open.spotify.com/track/5NPNh5heNH26QPhsb5gdxd) | [Ingrid Malmén](https://open.spotify.com/artist/6uJfepnIWETHQxJ17m1RC6), [Alice Hernqvist](https://open.spotify.com/artist/1rESTuT9litogW6ubtyzHy), [Par\-Ola Landin](https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y), [Thomas Backman](https://open.spotify.com/artist/5h61EPng9DRaWNdtcJ46pf) | [Tidvatten](https://open.spotify.com/album/4W7a2yYRkWtAmeph2GBsyF) | 4:11 | 2023-11-17 |  |
 | [Skyll på mig](https://open.spotify.com/track/4l5ntF7CMqvsUgx3EXvtkR) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz) | [Skyll på mig](https://open.spotify.com/album/4dcTuLm9mLynDNpTnUzUtz) | 3:16 | 2021-11-08 |  |
 | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/track/3x8s8D4wGbF8aaU3qhQkiy) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712), [Christina von Bülow](https://open.spotify.com/artist/5VvYrVSilKVNlE4N6Fvsjd) | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/album/6m9VEymNTYIa22jhmMAv1m) | 4:40 | 2022-10-20 |  |
+| [Slowhand](https://open.spotify.com/track/57zedB9kexgdD6s1VQ43tj) | [Sonic Skin](https://open.spotify.com/artist/0sFc8MCEQN0TrP2P39yTQJ), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW) | [Slowhand](https://open.spotify.com/album/1gB1rxmnIKNTATJsN8do7y) | 6:02 | 2024-01-19 |  |
 | [SOL](https://open.spotify.com/track/4nFNfCSmsGGEE3pNfClo9c) | [Axel Mårdsjö](https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD) | [Ett göteborgsporträtt](https://open.spotify.com/album/5gTDcU2wzbBthQRng50CbV) | 6:03 | 2023-06-08 |  |
 | [Som vanligt](https://open.spotify.com/track/2x8BetKgW0IRTnlbKxwTiZ) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz) | [Det kanske händer](https://open.spotify.com/album/1HqtUBTmtekqIZzptARlO5) | 2:54 | 2021-11-08 |  |
 | [Sorry Boss](https://open.spotify.com/track/3FByZy9zVaoecgjdWs3hM7) | [Daniel Karlsson Trio](https://open.spotify.com/artist/050olItM6cAiBVEMYC6LQf) | [Sorry Boss](https://open.spotify.com/album/09VNWBkifqhauIhX4FWsp2) | 6:06 | 2023-09-15 |  |
